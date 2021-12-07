@@ -1,0 +1,52 @@
+{
+  "menuCommands": [
+    {
+      "id": "workspace:split-vertical",
+      "name": "Split vertically",
+      "icon": "vertical-split"
+    },
+    {
+      "id": "workspace:split-horizontal",
+      "name": "Split horizontally",
+      "icon": "horizontal-split"
+    },
+    {
+      "id": "app:go-back",
+      "name": "Navigate back",
+      "icon": "left-arrow-with-tail",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "ArrowLeft"
+        }
+      ]
+    },
+    {
+      "id": "app:go-forward",
+      "name": "Navigate forward",
+      "icon": "right-arrow-with-tail",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "ArrowRight"
+        }
+      ]
+    },
+    {
+      "id": "editor:attach-file",
+      "name": "Insert attachment",
+      "icon": "image-glyph"
+    },
+    {
+      "id": "insert-template",
+      "name": "Templates: Insert template",
+      "icon": "duplicate-glyph"
+    }
+  ]
+}

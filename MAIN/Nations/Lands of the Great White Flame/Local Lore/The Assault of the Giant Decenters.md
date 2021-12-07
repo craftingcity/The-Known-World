@@ -1,0 +1,19 @@
+---
+tags: current, writeup, loreful
+---
+In the year of 134AF, a group of Giants gathered together with a simple plan. Travel the planes, make space in the [[The Planes of Existence#Prime|Prime Material Plane]] via assaulting and enslaving its inhabitants, and live there free of The Ordening. Snure brought this plan to two other Giant leaders, and plans to spread the word of the great migration. Stone giant groups have heard, but are not particularly interested. Cloud and Storm giant groups outright disavow the plan. Other groups of Frost, Fire, and Hill are in a similar camp to the groups of Stone, currently uninterested and unconvinced.
+
+To help Snure with this plan, the [[The Whitimores]] provide the means of inter-planar travel. They wish not to fight in the frontlines of the war, but rather to push the giants into the Prime plane to further their own goals of total chaos.
+
+"All-Father Annam is dead and gone. The others do not believe it to be so. Let us show them that the Ordening is false prophecy. We are greater together!" - [[King Snure]]
+
+Their first move was to establish a base-camp. The Hill giants of Chief Remmishk were sent via a *mass plane shift* ritual first, as they were the most eager to join Snure and prove their loyalty. 
+
+[[Jarl Grungar]] and [[King Snure]] have the space for this ritual in their encampments in their native planes.
+
+The Jarl sent teams to raid with the hill giants often, but Snure holds back his forces until the plan moves forward.
+
+[[Kakurak]] quickly heard of the Hill giants' arrival and sent a group of adventures to investigate. They were sent for the 'black chain' that Kakurak spied to be of great power; too powerful for Hill Giants to create on their own. We know this to be true, this chain was a parting gift and an escape plan for the Hill Giants if things fall apart. They were to transport to [[The Planes of Existence#Great Glacier|The Great Glacier]] and be safe there.
+
+Kakurak's team dealt a swift blow to the giants, nearly completely exterminating them. News spread quickly to the Jarl and the King. Quickly thereafter, the team used this 'black chain' to transport themselves to the Jarl's domain in an attempt to simply convince him to stop (by [[Kakurak]]'s request). He agreed to send three envoys to Kakurak to strike a deal; the frost giants get out scott-free, no fight, we come here, make space but no trouble, and finally be free of the Ordening. The team provided a great diplomacy, and the three envoys returned to the Jarl to deliver their message. The Jarl did not find this acceptable, as he knows that fighting the Ordening on the elemental planes is a loosing battle against a superior enemy. He furthered communication with Kakurak to sponsor a holding for them on his plane. This communication is currently unresolved.
+
