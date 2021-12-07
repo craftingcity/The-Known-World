@@ -6,7 +6,7 @@ The world is young, or at the least, the history of it is.
 Recorded history began only 148 years ago with the decent of the golden dragon Tetrimoc. His journals are a holy text for his followers and a great treasure to historians of the world. 
 Soon after his fall, settlements sprouted. 
 Around the golden dragon and the deserts he inhabits, a society was cultivated under his protection.
-A force of flame quickly burnt the thick forests to the north-west, and the peoples reveled in it. The lands of the Great White Flame is ruled by a fire-based theocracy.
+A force of flame quickly burnt the thick forests to the north-west, and the peoples reveled in it. The [[The Holy'lnds|lands of the Great White Flame]] is ruled by a fire-based theocracy.
 The great King Arthur united the north-east under his banner only 40 years ago, driving out the small but powerful (and generally exploititive) powers that were. The Kingdom of Prosper is so; a now peaceful and prosperous land.
 The south-eastern peoples are untied by thier differences, and their differences in governance to the groups around them. Groups of tribes, families, and companies "united under" (perhaps better described as "agreed to larger representation by") the Democratic Combine of Peoples.
 In the center of the range of mountains that seperates that west and east stands a monument of the unity of the people; Coalition City. Run by the Guilds, Coalition City acts as the defacto capital of the Known World.

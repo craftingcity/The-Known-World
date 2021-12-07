@@ -113,15 +113,7 @@
             }
           },
           {
-            "id": "d8b0f1e8831efa9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c409ddf73b2eeaf",
+            "id": "92ba275a6602eb76",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -129,7 +121,7 @@
             }
           },
           {
-            "id": "573a0403b7f46650",
+            "id": "f184426ec7a50ca4",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -137,15 +129,22 @@
             }
           },
           {
-            "id": "e65a8286be12edfb",
+            "id": "bb25b9a16b48323f",
             "type": "leaf",
             "state": {
               "type": "BC-down",
               "state": {}
             }
+          },
+          {
+            "id": "036d19c43b0e3aef",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
