@@ -5,7 +5,7 @@ tags: notes
 
 The party just fought a bunch of bugbear and the two hill giants from the torture chamber. They attempted to rest and were quickly interrupted by a group of orcs. The party recognized them as the rebellious slaves the bugbear were talking about and were asked to come to their lair; meet their leader, rest, and help them escape. 
 
-Read boxtext on yellow paper for "begining of session"
+Read boxtext on yellow paper for "beginning of session"
 
 Quickly after talking with the orcs they faintly hear a large bassy horn being blown long followed by two shorter blasts. This is a sign for the remaining forces to retreat to the upper keep (the "uprising" code). A roamer found the massacre of the bugbear lair and called for the retreat. 
 
@@ -25,8 +25,8 @@ For the fight, 14 nameless hill giants and the cheif's wife Grutha (chainmail, A
 For the fight, the 20 hill giant ordaned servents are **ogre** in stats and the **bugbear** join the fight.
 For the fight, the animals are two **apes**, two cave bears (with **polar bear** stats). 
 
-The warband will enter the Lower Works through the pantry. They move throughout the level and set up servents at critical points while the rest of the giants roam and place. They begin by securing the Cheif's Vault, where Grutha will stay and make sure nothing is missing. Locking the secret doors behind them, they will continue south, in an attempt to secure the slaves and cells before expanding to the workrooms and eventually north to the barracks and storage. Finally, they will destroy the barracade and clear the natural caves.
+The warband will enter the Lower Works through the pantry. They move throughout the level and set up servents at critical points while the rest of the giants roam and place. They begin by securing the Cheif's Vault, where Grutha will stay and make sure nothing is missing. Locking the secret doors behind them, they will continue south, in an attempt to secure the slaves and cells before expanding to the workrooms and eventually north to the barracks and storage. Finally, they will destroy the barricade and clear the natural caves.
 
 
 
-If the party wishes to return to [Kakurak's Lair](simplenote://note/87e4a184-fc79-4123-bcd4-9dafe521e174), they may spend four days travelling on foot to the cave by the Firelight Sea. When they do, he will ask them to return the chain to him for study and to rest in his lair until further instructed. Given the night to examine the chain, he will return to the party and explain its construction and usage. He is concerned that the Hill Giant Keep is not the only incursion and would ask them to continue thier assualt.
+If the party wishes to return to [[Kakurak's Lair]], they may spend four days traveling on foot to the cave by the Firelight Sea. When they do, he will ask them to return the chain to him for study and to rest in his lair until further instructed. Given the night to examine the chain, he will return to the party and explain its construction and usage. He is concerned that the Hill Giant Keep is not the only incursion and would ask them to continue their assault.

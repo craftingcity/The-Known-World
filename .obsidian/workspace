@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+            "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,32 +108,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md"
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md"
               }
-            }
-          },
-          {
-            "id": "92ba275a6602eb76",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "f184426ec7a50ca4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb25b9a16b48323f",
-            "type": "leaf",
-            "state": {
-              "type": "BC-down",
-              "state": {}
             }
           },
           {
@@ -148,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.1111145019531
+    "width": 347.1111145019531
   },
   "active": "84cf072e2da2f886",
   "lastOpenFiles": [
+    "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
+    "Holy City of Kanielkiln.md",
+    "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md",
+    "MAIN/Nations/Lands of the Great White Flame/Holdings/Kakurak's Lair.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Game Notes/Rough Lore/The Rambleon.md",
-    "MAIN/Game Notes/Rough Lore/Wildlands.md",
-    "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Wychway.md",
-    "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
-    "MAIN/Game Notes/NPCs/Kakurak.md",
-    "MAIN/TEMPLATES/Holdings.md"
+    "MAIN/Game Notes/Rough Lore/Wildlands.md"
   ]
 }

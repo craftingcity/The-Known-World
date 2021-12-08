@@ -1,5 +1,5 @@
 ---
-aliases: [Church of Flame, The Church of the White Flame]
+aliases: [Church of Flame, The Church of the White Flame, White Church]
 tags: gwf, nation_page
 ---
 
@@ -10,7 +10,7 @@ The [[#The Church of the White Flame]] is the main body of government in the [[T
 ## Castes
 Ranking from highest in verticality and station:
 - Spoken (the few who draw holy power from White Flame)
-- Firstchurch (highpreist, only based in the Holy City of Kanielkiln)
+- Firstchurch (highpreist, only based in the [[Holy City of Kanielkiln]])
 - Tendered (a priest of the Church, tended by a Firstchurch)
 - Patron
 - Unseen
