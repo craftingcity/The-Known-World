@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+            "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rangers",
+                "query": "weave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md"
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
               }
             }
           },
@@ -169,6 +170,7 @@
   },
   "active": "5e6863912231ab60",
   "lastOpenFiles": [
+    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
@@ -177,7 +179,6 @@
     "Holding Rules.md",
     "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Wychway.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Kakurak's Lair.md"
+    "MAIN/Nations/Lands of the Great White Flame/Holdings/Wychway.md"
   ]
 }
