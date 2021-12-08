@@ -16,7 +16,7 @@ The material holyl'nd is a unique substance composed of the ash of wood burned b
 
 
 ### Government
-This land is formally and culturally controlled by [[The Church of the White Flame]]. They currently face very little internal resistance. They are being externally resisted against by [[The Whitimores]] as of [[Prime Timeline|XX AF]]
+This land is formally and culturally controlled by [[The Church of the White Flame]]. They currently face very little internal resistance. They are being externally resisted against by [[The Whitimores]] as of [[Prime Timeline|103 AF]]
 
 ### Population Distribution
 The general population of the Holyl'nds is as follows;
@@ -26,7 +26,7 @@ The general population of the Holyl'nds is as follows;
 - rarely find "exotic races" such as dragonborn, gnolls, lizardfolk, goliath
 
 ### Cities and Towns, But not Hamlets
-The largest city in this nation is [[The Holy City of Kanielkiln]]. Others include Yagil, Prag, Kraushaar, Monahish, Danila, Odaya, Kohnstamm, Sansonlevy, Baskin, and Gilyr. The land here is not fruitful but in small areas. These areas have cities in them. They are marked on the map. Very few people survive with any permanance outside of a [[The Church of the White Flame|Church of Flame]] city.
+The largest city in this nation is [[The Holy City of Kanielkiln]]. Others include Yagil, Prag, Kraushaar, Monahish, Danila, Odaya, Kohnstamm, Sansonlevy, Baskin, and Gilyr. The land here is not fruitful but in small areas. These areas have cities in them. They are marked on the map. Very few people survive with any permanence outside of a [[The Church of the White Flame|Church of Flame]] city.
 
 ### A Mystery
 Untouched by [[Its Greatness]], a set of ruins that the people simply call [[The Old]] lies on fresh grass. This set of ruins is massive, competing in size with [[The Holy City of Kanielkiln]]. The few expeditions that have entered and returned have revealed nothing of interest but report that they feel like they were watched the whole time. This feeling does not dissipate for the rest of their lives, many of these explorers went insane later in their lives.
