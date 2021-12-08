@@ -1,5 +1,5 @@
 ---
-aliases: [Church of Flame, The Church of the White Flame, White Church]
+aliases: [Church of Flame, The Church of the White Flame, White Church, Holy Nation of Flame]
 tags: gwf, nation_page
 ---
 

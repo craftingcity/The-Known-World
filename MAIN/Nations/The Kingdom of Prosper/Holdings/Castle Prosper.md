@@ -4,9 +4,9 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity: Moderate (most mundane items are available alongside some types of skilled laborers)
-Population: Steady (the population is in line with the size of the holding and slowly growing)
-Defenses: Garrison (there are nearly 300 armed defenders at all times and always an multiple armed patrols)
+Prosperity: Moderate 
+Population: Steady 
+Defenses: Garrison
 Other Tags: Resource (iron, stone), Need (food, supplies), Oath (all holdings in [[The Kingdom of Prosper]]), Trade ([[Yerba]], ), Enmity ([[The Hobgoblin Wars|local hobgoblin clans]]), Power ([[Communicae|political]])
 
 # Description
