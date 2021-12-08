@@ -4,7 +4,7 @@ aliases:
 ---
 > This thick book is bound in red leather and brown strappings. Its pages are worn and yellowed. It looks perhaps a hundred years of age. On its face, a metal lock binds the book shut.
 
-This is the Journal of [[Arthur Simonson]], King of [[]]
+This is the Journal of [[Arthur Simonson]], King of [[The Kingdom of Prosper|Prosper]].
 
 
 
