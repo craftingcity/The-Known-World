@@ -1,6 +1,6 @@
 ---
 tags: holding, prosper
-aliases:
+aliases: Keep Prosper
 ---
 
 # Holding Tags

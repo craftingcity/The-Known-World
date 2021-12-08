@@ -53,7 +53,7 @@ content:
 
 The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. === currently running, see prenotes from oct 10 - ... ===
 
-date: 109AF
+date: 104AF
 title: [[The Hobgoblin Wars]]
 content:
 

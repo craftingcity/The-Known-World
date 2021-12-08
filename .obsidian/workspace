@@ -15,15 +15,44 @@
         }
       },
       {
-        "id": "84cf072e2da2f886",
+        "id": "5e6863912231ab60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Holding Rules.md",
+            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "83c4bcf13e3b4c9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "84cf072e2da2f886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holding Rules.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c62e1d5ba557c323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md"
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md"
               }
             }
           },
@@ -138,17 +167,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "94c625feb9c78200",
+  "active": "5e6863912231ab60",
   "lastOpenFiles": [
+    "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
     "Holding Rules.md",
     "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/Wychway.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/Kakurak's Lair.md",
-    "Holy City of Kanielkiln.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md",
-    "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md"
+    "Holy City of Kanielkiln.md"
   ]
 }
