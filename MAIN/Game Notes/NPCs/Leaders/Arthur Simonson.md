@@ -23,4 +23,7 @@ Arthur is, at base, a CR 9 ["Champion Warrior"](https://www.5esrd.com/gamemaster
 He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Caput Dei" is a circlet made of a band of platinum and 
 
 ## Titles
-- 
+{wip; one for each major holding in Prosper, a few for events in his past as an adventurer}
+- Firstborn of [[Amelia Simonson]]
+- The Great Liberator
+- King of Prosper
