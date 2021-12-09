@@ -18,6 +18,8 @@ Artie just sort of "fell into" becoming the King of [[The Kingdom of Prosper|Pro
 Arthur lives in his holding, [[Castle Prosper]], with his lovers. Long ago, he lived with the remaining members of [[Simonson's Adventuring Party|his adventuring party]], but they are since dead of old age or otherwise.
 
 ## Statistics
-Arthur is a 
+Arthur is a CR 9 ["Champion Warrior"](https://www.5esrd.com/gamemastering/monsters-foes/npc/champion-warrior/).
+
+His longsword is enchanted 
 
 ## Titles
