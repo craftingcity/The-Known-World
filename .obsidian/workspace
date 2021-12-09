@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unification.md",
+            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
+                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
               }
             }
           },
@@ -168,17 +168,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "c62e1d5ba557c323",
+  "active": "84cf072e2da2f886",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Prime Timeline.md",
-    "Unification.md",
+    "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Historical Markings.md",
+    "MAIN/An Introduction and Organizational Notions.md",
+    "MAIN/Game Notes/Prime Timeline.md",
+    "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "MAIN/Game Notes/NPCs/Unsorted/Amelia Simonson.md",
     "MAIN/Game Notes/NPCs/Unsorted/Adriana Fairlin Franx.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
-    "MAIN/TEMPLATES/NPCs.md",
-    "MAIN/Game Notes/Rough Lore/Core Assumptions.md"
+    "MAIN/TEMPLATES/NPCs.md"
   ]
 }

@@ -19,6 +19,8 @@ content:
 
 Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years.
 
+
+
 date: 073AF
 title: Nations Born
 content:
