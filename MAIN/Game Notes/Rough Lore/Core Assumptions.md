@@ -15,7 +15,7 @@ The mechanics of The Known World are such that as [[Rangers]] hold back the [[Wi
 
 ## The World is Young
 
-These are the first empires of a growing world, and the impact of players should be shown by the expansion of knowledge and change in borders and politics of these empires. An explosion of riches leaves much to be found here, but the lore of it is still young and malleable.
+These are the first empires of a growing world, and the impact of players should be shown by the expansion of knowledge and change in borders and politics of these empires. An initial explosion of riches leaves much to be found here, but the lore of the world is still young and malleable.
 
 ## Conflict Will Shape the Path of the World
 
