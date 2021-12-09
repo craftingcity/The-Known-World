@@ -23,7 +23,7 @@ date: 073AF
 title: Nations Born
 content:
 
-Nations are clear now, the [[50 Year Fires]] have ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the area. The [[The Democratic Combine of Peoples]] is ratified, and its internal power struggle (see [[Combine's Great Wars]]) begins. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
+Nations are clear now. The [[50 Year Fires]] have ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. The [[The Democratic Combine of Peoples]] is ratified, and its internal power struggle (see [[Combine's Great Wars]]) begins. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
 
 date: 078AF
 title: The Coalition is Formed
