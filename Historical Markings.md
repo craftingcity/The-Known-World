@@ -9,3 +9,7 @@ See the following sections of the following pages:
 - [[The Democratic Combine of Peoples#Important Symbolism]]
 - [[The Lands of Tetrimoc#Important Symbolism]]
 - [[Coalition City#Important Symbolism]]
+
+See the following tags:
+- #symbol
+- #loreful 
