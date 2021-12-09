@@ -4,7 +4,7 @@ aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
 # The Great Adventurer King, Arthur Simonson
 
-> A tall human man with dark curly hair
+> A tall human man with dark curly hair and brown skin. He wears a set of leather armor underneath a large blue 
 
 An eternally young (as graced by some manipulation of the Weave) adventurer king. He holds many titles, which [[Balthazar Wumfingle|his attendant]] refuses not to say, but prefers to be known to his friends as Artie.
 

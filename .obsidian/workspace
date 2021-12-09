@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
+            "file": "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holding Rules.md",
+                "file": "Historical Markings.md",
                 "mode": "source"
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Historical Markings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Historical Markings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
+                "file": "Historical Markings.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "5e6863912231ab60",
+  "active": "84cf072e2da2f886",
   "lastOpenFiles": [
+    "Historical Markings.md",
+    "Holding Rules.md",
+    "MAIN/Game Notes/A Grand Notepad.md",
+    "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "MAIN/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
-    "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md",
-    "Holding Rules.md",
-    "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
-    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Wychway.md"
+    "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md"
   ]
 }
