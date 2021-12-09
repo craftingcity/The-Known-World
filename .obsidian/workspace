@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/TEMPLATES/NPCs.md",
+            "file": "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
             "mode": "source"
           }
         }
@@ -47,7 +47,7 @@
               "type": "markdown",
               "state": {
                 "file": "MAIN/Game Notes/Prime Timeline.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -170,8 +170,9 @@
   "active": "5e6863912231ab60",
   "lastOpenFiles": [
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "MAIN/TEMPLATES/NPCs.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "MAIN/TEMPLATES/NPCs.md",
     "MAIN/Game Notes/Rough Lore/Core Assumptions.md",
     "Historical Markings.md",
     "Holding Rules.md",
