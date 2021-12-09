@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "MAIN/TEMPLATES/NPCs.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
               }
             }
           },
@@ -167,12 +167,11 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "94c625feb9c78200",
+  "active": "5e6863912231ab60",
   "lastOpenFiles": [
-    "Untitled.md",
+    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "MAIN/TEMPLATES/NPCs.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "MAIN/Game Notes/Rough Lore/Core Assumptions.md",
     "Historical Markings.md",
     "Holding Rules.md",
