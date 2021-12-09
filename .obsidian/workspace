@@ -4,55 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "94c625feb9c78200",
+        "id": "34994425e5449655",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
-      },
-      {
-        "id": "84cf072e2da2f886",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "83c4bcf13e3b4c9c",
-        "type": "split",
-        "children": [
-          {
-            "id": "1f671c140048ebfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c62e1d5ba557c323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +121,14 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "84cf072e2da2f886",
+  "active": "34994425e5449655",
   "lastOpenFiles": [
-    "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "MAIN/An Introduction and Organizational Notions.md",
     "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+    "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
+    "MAIN/An Introduction and Organizational Notions.md",
+    "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Game Notes/NPCs/Unsorted/Amelia Simonson.md",
     "MAIN/Game Notes/NPCs/Unsorted/Adriana Fairlin Franx.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
