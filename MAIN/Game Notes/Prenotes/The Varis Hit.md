@@ -7,14 +7,14 @@ This is the encounter with [[The Whitimore]] that the current party is going to 
 
 ## Insults and Phrases
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
+- "I'll shoot the wizard"; "qui*h*tan o istar"
 # Stats
-Copy this block and edit as needed.
 ```statblock
-name: string
-size: string
-type: string
-subtype: string
-alignment: string
+name: Whitimore Sniper
+size: Medium
+type: humainoid
+subtype: drow
+alignment: chaotic evil
 ac: number
 hp: number
 hit_dice: string
