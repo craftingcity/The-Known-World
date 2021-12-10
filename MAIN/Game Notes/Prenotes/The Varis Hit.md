@@ -11,18 +11,25 @@ This is the encounter with [[The Whitimore]] that the current party is going to 
 # Stats
 remove me
 
-0 AAD
-10 AC
-+0 STAT
-0 HP
-57 MBP
+captain
+45 AAD
+19 AC
++8 STAT
+168 HP
+legendary resist: 1
+legendary actions: 2
+- basic attack; 1
+- combo shot; 2 (grappled into ally w/in 30 ranged attack)
+10 MBP
 
+bruiser
 0 AAD
 10 AC
 +0 STAT
 0 HP
 49 MBP
 
+ranged/poison
 0 AAD
 10 AC
 +0 STAT
