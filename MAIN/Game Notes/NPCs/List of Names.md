@@ -4,55 +4,38 @@ aliases:
 ---
 # List of Names
 ## Northeastern
-**Masc:**
-Clark Lowe  
-Theo Anderson  
-Nico Bennett  
-River Mcdonald  
-Leighton Mitchell  
-Mark Ross  
-Zak Williamson  
-Tomas Francis  
-Louis Stewart  
-Ellis Hawkins
-
-**Femme:**
-Sasha Lowe  
-Paige Saunders  
-Freya Harris  
-Alaya Mccarthy  
-Lily-Mae Fisher  
-Lyla Bradley  
-Elsa Griffiths  
-Frankie Davis  
-Lois Rogers  
-Kira Pearce
-
-**Neutral:**
-River Powell  
-Glen Stone  
-Glen Berry  
-Val Harris  
-Val Stevens  
-Franky Bradley  
-Skye John  
-Gail Thomas  
-Vic Willis  
-Marley Richardson
+Masc | Femme | Neutral
+--------|--------|--------
+Clark Lowe  | Sasha Lowe | River Powell
+Theo Anderson  | Paige Saunders | Glen Stone
+Nico Bennett  | Freya Harris | Glen Berry
+River Mcdonald  | Alaya Mccarthy | Val Harris
+Leighton Mitchell  | Lily-Mae Fisher | Val Stevens
+Mark Ross  | Lyla Bradley | Franky Bradley
+Zak Williamson | Elsa Grifiths | Skye Johnbill
+Tomas Francis  | Frankie Davis | Gail Thomas
+Louis Stewart  | Lois Rogers | Vic Willis
+Ellis Hawkins | Kia Pearce | Marley Richardson
 
 ## Southeastern
-**Masc:**
-Vetericus  
-Uraias  
-Fridigern  
-Ammius  
-Totila  
-Eraric  
-Theodemer  
-Inna  
-Veduco  
-Sueridus
+Masc | Femme
+----|----
+Vetericus  | Anouk
+Uraias  | Emelia
+Fridigern  | Amalda
+Ammius  | Malasintha
+Totila  | Gudeliva
+Eraric  | Elja
+Theodemer | Narin  
+Inna  | Amala
+Veduco  | Hilduara
+Sueridus | Amalindis
 
 ## Southwestern
+Masc | Femme
+---|---
+
 
 ## Northwestern
+Masc | Femme
+---|---	
