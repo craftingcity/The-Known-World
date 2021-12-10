@@ -62,7 +62,12 @@ ranged/poison
 14 AC
 +0 STAT
 0 HP
-37 MBP
+34 MBP
+*assasinate* - "During its first turn, the creature has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the creature scores against a surprised creature is a critical hit."
+*shadow stealth* - "While in dim light or darkness, the creature can take the Hide action as a bonus action."
+*sneak attack* - Once per turn, the assassin deals an extra  damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the creature doesn't have disadvantage on the attack roll.
+- harmful poisioned attack; +54 poison damage, one time use
+- paralitic poison attack; dc 16 CON save or paralyzed, one time use
 
 ```statblock
 name: Whitimore Sniper
