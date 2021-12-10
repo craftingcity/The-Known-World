@@ -139,67 +139,43 @@ subtype: drow
 alignment: chaotic evil
 ac: 18
 hp: 96
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
-saves:
-    - <ability-score>: number
+hit_dice: 21d8
+speed: 30 ft
+stats: [24, 18, 17, 12, 10, 8]
 skillsaves:
-    - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-    - <description>
-    - <spell level>: <spell-list>
+    - Stealth: +9
+damage_resistances: see below
+senses: darkvision 60ft
+languages: undercommon, elvish
+cr: 8
 traits:
-    - [<trait-name>, <trait-description>]
+    - [Well Prepared, The Bruiser has resistance to two types of elemental damage.]
     - ...
 actions:
-    - [<trait-name>, <trait-description>]
-    - ...
-legendary_actions:
-    - [<legendary_actions-name>, <legendary_actions-description>]
-    - ...
-reactions:
-    - [<reaction-name>, <reaction-description>]
-    - ...
+    - [Wicked Scimtar, As an action the bruiser makes a scimitar attack (+10 to hit, 2d6+7)]
+    - [Multiattack, As an action, the Bruiser makes three Wicked Scimitar attacks.]
+	- [Wire Net, As an action, the Brusier makes a wire net attack. (+10 to hit, restrained on hit; DC 14 strength check or 15 slashing damage removes the condition)]
 ```
 
 ```statblock
-name: string
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
-saves:
-    - <ability-score>: number
+name: Whitimore Assassin
+size: medium
+type: humaniod
+subtype: drow
+alignment: chaotic evil
+ac: 14
+hp: 41
+hit_dice: 10d8
+speed: 30ft
+stats: [12, 22, 11, 15, 13, 12]
 skillsaves:
-    - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-    - <description>
-    - <spell level>: <spell-list>
+    - Stealth: 9
+senses: darkvision 60ft
+languages: undercommon, elvish
+cr: 7
 traits:
-    - [<trait-name>, <trait-description>]
-    - ...
+    - [Assasinate, During its first turn, the creature has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the creature scores against a surprised creature is a critical hit.]
+    - [Shadow Stealth, ]
 actions:
     - [<trait-name>, <trait-description>]
     - ...
