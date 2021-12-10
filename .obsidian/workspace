@@ -7,8 +7,11 @@
         "id": "34994425e5449655",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md"
+              }
             }
           },
           {
@@ -123,6 +130,8 @@
   },
   "active": "34994425e5449655",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Prenotes/The Varis Hit.md",
+    "MAIN/TEMPLATES/Encounter.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
@@ -130,8 +139,6 @@
     "MAIN/An Introduction and Organizational Notions.md",
     "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Game Notes/NPCs/Unsorted/Amelia Simonson.md",
-    "MAIN/Game Notes/NPCs/Unsorted/Adriana Fairlin Franx.md",
-    "MAIN/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
-    "MAIN/TEMPLATES/NPCs.md"
+    "MAIN/Game Notes/NPCs/Unsorted/Adriana Fairlin Franx.md"
   ]
 }
