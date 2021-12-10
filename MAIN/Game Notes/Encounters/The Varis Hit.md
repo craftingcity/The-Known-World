@@ -14,7 +14,7 @@ https://www.elfdict.com/
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
 - "I'll shoot the wizard"; "qui*h*tan o istar"
 - "Form up! Form up! Lets do this right/beautiful!"; "ohtapanna! ohtapanna! carty~e sina vanima!"
-- "Ranged warrior / Spell warrior / melee warrior"; "peng ohta/ ohta oluhtu/ "
+- "bow warrior / spell warrior / axe warrior"; "peng daug/ daug oluhtu/ hathol daug"
 # Stats
 
 ```statblock

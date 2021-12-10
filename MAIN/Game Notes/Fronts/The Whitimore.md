@@ -25,7 +25,7 @@ Rampant Chaos; the laws and order of the land and our natural world is dissolved
 [[Alylay Do'ghym]], the matriarch
 
 **Stakes**
-Are these the drow that captured [[Varis]]?
+How will the party respond to the attack?
 
 **Movelist**
 
