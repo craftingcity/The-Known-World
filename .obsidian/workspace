@@ -13,28 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "f23b2308f6d0609e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "640631e4ebc4491c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -150,9 +128,10 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "640631e4ebc4491c",
+  "active": "34994425e5449655",
   "lastOpenFiles": [
     "MAIN/Game Notes/Prenotes/The Varis Hit.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec xx.md",
     "MAIN/TEMPLATES/Encounter.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MAIN/Game Notes/Prime Timeline.md",
@@ -160,7 +139,6 @@
     "MAIN/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "MAIN/An Introduction and Organizational Notions.md",
     "MAIN/Game Notes/Historical Markings.md",
-    "MAIN/Game Notes/NPCs/Unsorted/Amelia Simonson.md",
-    "MAIN/Game Notes/NPCs/Unsorted/Adriana Fairlin Franx.md"
+    "MAIN/Game Notes/NPCs/Unsorted/Amelia Simonson.md"
   ]
 }
