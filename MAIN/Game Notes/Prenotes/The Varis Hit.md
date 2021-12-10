@@ -3,6 +3,8 @@ tags: encounter, monster
 aliases:
 ---
 # Description
+This is an Ambush by a group of Drow who are very very good at what they do.
+
 This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close.
 
 ## Insults and Phrases
@@ -12,14 +14,6 @@ https://www.elfdict.com/
 - "Form up! Form up! Lets do this right!"; ""
 # Stats
 remove me
-
-party compisition
-- captain
-- healer
-- mage
-- bruisers
-- snipers
-
 captain
 > the big bad, hits hard, hard to hit, lasts long, interesting ability. sick splint mail, shield, hype longsword
 
@@ -42,9 +36,15 @@ healer
 
 12 AAD
 16 AC
-+0 STAT
-0 HP
-35 MBP
++4 STAT
+64 HP
+23 MBP
+*healing bolt* - As an action, the creature fires a injector bolt at an ally within range. They regain 2d4+2 hp.
+*spellcasting* - The Healer is a 9th level casterhas access to the following spells.
+- 1st level (4);
+- 2nd level (3);
+- 3rd level (3);
+- 4th level (1); 
 
 mage
 12 AAD
@@ -67,12 +67,11 @@ ranged/poison
 +6 avgSTAT
 40 HP
 +3 PRF
-9 MBP
-*multiattack* - two comp bow attacks
+*multiattack* - two longbow bow attacks
 *assasinate* - "During its first turn, the creature has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the creature scores against a surprised creature is a critical hit."
 *shadow stealth* - "While in dim light or darkness, the creature can take the Hide action as a bonus action."
 *sneak attack* - Once per turn, the assassin deals an extra 24 (7d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the creature doesn't have disadvantage on the attack roll.
-- harmful poisioned attack; +54 poison damage, one time use
+- harmful poisioned attack; +63 poison damage, two time use
 - paralitic poison attack; dc 16 CON save or paralyzed save ends, one time use
 
 ```statblock
