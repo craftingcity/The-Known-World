@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/A Grand Notepad.md",
+            "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md",
+                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md",
+                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md"
+                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "8590bd5b44f06cd8",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
     "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
     "Planeswalking toward Fire.md",
@@ -137,8 +138,7 @@
     "MAIN/Game Notes/Fronts/Rangers Gone Rouge.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
     "MAIN/Game Notes/Fronts/The Whitimore.md",
-    "MAIN/Game Notes/Prenotes/The Varis Hit.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Dec xx.md",
-    "MAIN/TEMPLATES/Encounter.md"
+    "MAIN/Game Notes/Encounters/The Varis Hit.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec xx.md"
   ]
 }
