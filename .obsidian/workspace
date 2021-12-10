@@ -13,6 +13,28 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "f23b2308f6d0609e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "640631e4ebc4491c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/Prenotes/The Varis Hit.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"

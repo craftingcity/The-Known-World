@@ -49,14 +49,15 @@ healer
 - 4th level (1); banishment
 
 bruiser
-0 AAD
+30 AAD
 18 AC
-+0 STAT
++7 STAT
 96 HP
 +3 PRF
-28 MBP
+
 *multiattack* - 3 scimitar attacks
 *net attack* - The creature makes an attack with its wire net (restrain on hit, DC 14 strength or 15 slash).
+*well prepared* - The creature has resistance to two types of non-weapon damage. 
 
 ranged/poison
 12 AAD
@@ -72,31 +73,21 @@ ranged/poison
 - paralitic poison attack; dc 16 CON save or paralyzed save ends, one time use
 
 ```statblock
-name: Whitimore Sniper
+name: Whitimore Captain
 size: Medium
 type: humainoid
 subtype: drow
 alignment: chaotic evil
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
-saves:
-    - <ability-score>: number
+ac: 19
+hp: 122
+hit_dice: 27d8
+speed: 30ft
+stats: [20, 14, 16, 10, 15, 17]
 skillsaves:
-    - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-    - <description>
-    - <spell level>: <spell-list>
+    - Stealth: 7
+senses: darkvision (60ft)
+languages: undercommon, elvish
+cr: 10
 traits:
     - [<trait-name>, <trait-description>]
     - ...
@@ -104,7 +95,7 @@ actions:
     - [<trait-name>, <trait-description>]
     - ...
 legendary_actions:
-    - [<legendary_actions-name>, <legendary_actions-description>]
+    - [Longsword, The Captain makes one longsword attack.]
     - ...
 reactions:
     - [<reaction-name>, <reaction-description>]
