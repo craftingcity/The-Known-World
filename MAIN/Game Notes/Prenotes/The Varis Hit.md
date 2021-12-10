@@ -11,30 +11,57 @@ This is the encounter with [[The Whitimore]] that the current party is going to 
 # Stats
 remove me
 
+party compisition
+- captain
+- healer
+- mage
+- bruisers
+- snipers
+
 captain
-45 AAD
+> the big bad, hits hard, hard to hit, lasts long, interesting ability
+
+42 AAD
 19 AC
 +8 STAT
-168 HP
-legendary resist: 1
+152 HP
+legendary resist: 3
 legendary actions: 2
 - basic attack; 1
 - combo shot; 2 (grappled into ally w/in 30 ranged attack)
-10 MBP
+- trip; 2
+*aggressive*
+
+
+healer
+> alchemisty/divine healer; crossbow of healing and spells
+
+12 AAD
+16 AC
++0 STAT
+0 HP
+35 MBP
+
+mage
+12 AAD
+14 AC
++0 STAT
+0 HP
+37 MBP
 
 bruiser
 0 AAD
-10 AC
+18 AC
 +0 STAT
 0 HP
-49 MBP
+41 MBP
 
 ranged/poison
-0 AAD
-10 AC
+12 AAD
+14 AC
 +0 STAT
 0 HP
-45 MBP
+37 MBP
 
 ```statblock
 name: Whitimore Sniper
