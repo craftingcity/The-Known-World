@@ -13,7 +13,8 @@ This is the encounter with [[The Whitimore]] that the current party is going to 
 https://www.elfdict.com/
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
 - "I'll shoot the wizard"; "qui*h*tan o istar"
-- "Form up! Form up! Lets do this right!"; ""
+- "Form up! Form up! Lets do this right/beautiful!"; "ohtapanna! ohtapanna! carty~e sina vanima!"
+- "Ranged warrior / Spell warrior / melee warrior"; " ohta/ / "
 # Stats
 
 ```statblock
