@@ -32,10 +32,30 @@ Veduco  | Hilduara
 Sueridus | Amalindis
 
 ## Southwestern
-Masc | Femme
+Neutral | Neutral
 ---|---
+Bun  | Srioh
+Writh  | Muurs
+Gnacs  | Srac
+Srewo  | Qipaal
+Mhiotis  | Fatuc
+Gowunth  | Mumcik
+Waztraek  | Frothong
+Ngacipa  | Krerdundin
+Qholooji  | Aibitiuks
+Gnisotruls| Vrarakuuv
 
 
 ## Northwestern
 Masc | Femme
 ---|---	
+Enoch ben Avinoach  | Shir Li bat Hafetz Hayim
+Silvan ben Edwin  | Yomi bat Ohav
+Valerio ben Avishalom  | Thea bat Avner
+Erez ben Alice  | Emuna bat Yanuv
+Erez ben Yaroslav  | Sar-El bat Haleli
+Joanne ben Nehorai  | Tzemach bat Jean
+Raam ben Yarom  | Noam bat Matar
+Colin ben Liyam  | Talma bat Doriel
+Li Tal ben Eli Ran  | Shirley bat Hadas
+Petel ben Mattan-El | Lilach bat Meshulam
