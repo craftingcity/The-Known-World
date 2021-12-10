@@ -6,8 +6,10 @@ aliases:
 This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close.
 
 ## Insults and Phrases
+https://www.elfdict.com/
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
 - "I'll shoot the wizard"; "qui*h*tan o istar"
+- "Form up! Form up! Lets do this right!"; ""
 # Stats
 remove me
 
@@ -31,6 +33,7 @@ legendary actions: 2
 - basic attack; 1
 - combo shot; 2 (grappled into ally w/in 30 ranged attack)
 - trip; 2 (dex save or prone)
+*multiattack* - three longsword attacks
 *aggressive* - "As a bonus action, the creature can move up to its speed toward a hostile creature that it can see."
 *leadership* - "As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated."
 
@@ -55,19 +58,22 @@ bruiser
 18 AC
 +0 STAT
 0 HP
++3 PRF
 41 MBP
 
 ranged/poison
 12 AAD
 14 AC
-+0 STAT
-0 HP
-34 MBP
++6 avgSTAT
+40 HP
++3 PRF
+9 MBP
+*multiattack* - two comp bow attacks
 *assasinate* - "During its first turn, the creature has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the creature scores against a surprised creature is a critical hit."
 *shadow stealth* - "While in dim light or darkness, the creature can take the Hide action as a bonus action."
-*sneak attack* - Once per turn, the assassin deals an extra  damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the creature doesn't have disadvantage on the attack roll.
+*sneak attack* - Once per turn, the assassin deals an extra 24 (7d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the creature doesn't have disadvantage on the attack roll.
 - harmful poisioned attack; +54 poison damage, one time use
-- paralitic poison attack; dc 16 CON save or paralyzed, one time use
+- paralitic poison attack; dc 16 CON save or paralyzed save ends, one time use
 
 ```statblock
 name: Whitimore Sniper
