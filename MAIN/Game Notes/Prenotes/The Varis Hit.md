@@ -4,6 +4,9 @@ aliases:
 ---
 # Description
 This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close.
+
+## Insults and Phrases
+- "You stay right there scaled one"; "halld~e mori*h*loc~e"
 # Stats
 Copy this block and edit as needed.
 ```statblock
