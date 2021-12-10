@@ -8,6 +8,7 @@ This encounter is deadly for a group of four high level adventurers.
 I am imagining a scene where the group is climbing a Fire Giant Forged War Machine.
 This war machine was crafted by the fire giants themselves, with some help from a group of sympathetic Azer, and it is used in [[King Snure]]'s final raid on the [[The Planes of Existence#Prime|Prime Plane]].
 
+see [[Warspider]].
 # Stats
 ```statblock
 name: string
