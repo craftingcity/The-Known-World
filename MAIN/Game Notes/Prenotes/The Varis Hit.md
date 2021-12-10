@@ -7,6 +7,8 @@ This is an Ambush by a group of Drow who are very very good at what they do.
 
 This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close.
 
+This is 
+
 ## Insults and Phrases
 https://www.elfdict.com/
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
@@ -88,6 +90,45 @@ skillsaves:
 senses: darkvision (60ft)
 languages: undercommon, elvish
 cr: 10
+actions:
+	- [Longsword, The Captain makes a longsword attack (+9 to hit, 1d10 + 5).]
+    - [Multiattack, The Captain makes three longsword attacks.]
+    - [Aggresive, As a bonus action, the creature can move up to its speed toward a hostile creature that it can see.]
+	- [Leadership, As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated.]
+legendary_actions:
+    - [Longsword (1), The Captain makes one longsword attack.]
+    - [Combo Shot (2), The Captain makes a grapple attack. If it succeeds, an ally within 30ft may use their reaction to make a ranged weapon attack against the target.]
+reactions:
+    - [Trip, When a creature exits the Captian's combat range, it makes a DEX saving throw. If it fails, it falls prone where it exited combat range.]
+    - ...
+```
+
+```statblock
+name: string
+size: string
+type: string
+subtype: string
+alignment: string
+ac: number
+hp: number
+hit_dice: string
+speed: string
+stats: [number, number, number, number, number, number]
+fage_stats: [number, number, number, number, number, number, number, number, number]
+saves:
+    - <ability-score>: number
+skillsaves:
+    - <skill-name>: number
+damage_vulnerabilities: string
+damage_resistances: string
+damage_immunities: string
+condition_immunities: string
+senses: string
+languages: string
+cr: number
+spells:
+    - <description>
+    - <spell level>: <spell-list>
 traits:
     - [<trait-name>, <trait-description>]
     - ...
@@ -95,7 +136,7 @@ actions:
     - [<trait-name>, <trait-description>]
     - ...
 legendary_actions:
-    - [Longsword, The Captain makes one longsword attack.]
+    - [<legendary_actions-name>, <legendary_actions-description>]
     - ...
 reactions:
     - [<reaction-name>, <reaction-description>]
