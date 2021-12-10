@@ -14,7 +14,7 @@ https://www.elfdict.com/
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
 - "I'll shoot the wizard"; "qui*h*tan o istar"
 - "Form up! Form up! Lets do this right/beautiful!"; "ohtapanna! ohtapanna! carty~e sina vanima!"
-- "Ranged warrior / Spell warrior / melee warrior"; " ohta/ / "
+- "Ranged warrior / Spell warrior / melee warrior"; "peng ohta/ ohta oluhtu/ "
 # Stats
 
 ```statblock
@@ -118,11 +118,11 @@ languages: undercommon, elvish
 cr: 7
 traits:
     - [Assasinate, During its first turn, the creature has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the creature scores against a surprised creature is a critical hit.]
-    - [Shadow Stealth, While in dim light or darkness, the creature can take the Hide action as a bonus action.]
 	- [Sneak Attack, Once per turn, the assassin deals an extra 24 (7d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the creature doesn't have disadvantage on the attack roll.]
 actions:
     - [Longbow, As an action, the Assassin makes a longbow attack (+9 to hit, 1d8+6 peircing damage).]
     - [Multiattack, As an action, the Assassin makes two longbow attacks.]
 	- [Harmful Poison, As a bonus action, the Assassin applies a harmful poision to their next arrow. When struck, the target takes an additional 63 (8d6+35) poision damage. Two uses.]
 	- [Paralitic Poison, As a bonus action, the Assassin applies a paralitic poison to their next arrow. When struck, the target is paralized unless they succeed on a DC 16 Constitution saving throw ]
+    - [Shadow Stealth, While in dim light or darkness, the creature can take the Hide action as a bonus action.]
 ```
