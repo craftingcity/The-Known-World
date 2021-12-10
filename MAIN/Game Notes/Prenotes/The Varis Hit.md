@@ -38,12 +38,15 @@ healer
 16 AC
 +4 STAT
 64 HP
-23 MBP
-*healing bolt* - As an action, the creature fires a injector bolt at an ally within range. They regain 2d4+2 hp.
-*spellcasting* - The Healer is a 9th level casterhas access to the following spells.
-- 1st level (4);
-- 2nd level (3);
-- 3rd level (3);
++3 PRF
+3 MBP
+*healing bolt* - As an action, the creature fires an injector bolt at an ally within range. They regain 2d4+2 hp. (5)
+*boosting bolt* As an action, the creature fires an injector bolt at an ally within range. They gain +5ft speed and +2d6 melee weapon damage for 18 seconds. (2)
+*spellcasting* - The Healer is a 9th level caster, uses WIS (DC 15, +7 attack, +4 SAM) has access to the following spells.
+- cantrips; dancing lights, light, guidance, sacred flame, thaumaturgy
+- 1st level (4); healing word, command, faerie fire, guiding bolt
+- 2nd level (3); hold person, invisibility, moonbeam
+- 3rd level (3); beacon of hope, counterspell, haste
 - 4th level (1); 
 
 mage
