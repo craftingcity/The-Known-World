@@ -5,9 +5,9 @@ aliases:
 # Description
 This is an Ambush by a group of Drow who are very very good at what they do.
 
-This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close.
+This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close. They will not engage if the party has the *iron horn of valhalla* available, and will attempt to swipe it if necessary.
 
-This is 
+This is a Deadly encounter for a 4 player party of level 13 characters. It is worth 20,400 experience points. 1 Cap, 1 Healer, 3 Bruiser, 4 Sniper.
 
 ## Insults and Phrases
 https://www.elfdict.com/
@@ -91,7 +91,7 @@ senses: darkvision (60ft)
 languages: undercommon, elvish
 cr: 10
 actions:
-	- [Longsword, The Captain makes a longsword attack (+9 to hit, 1d10 + 5).]
+	- [Longsword +1, The Captain makes a longsword attack (+10 to hit, 1d10 + 6).]
     - [Multiattack, The Captain makes three longsword attacks.]
     - [Aggresive, As a bonus action, the creature can move up to its speed toward a hostile creature that it can see.]
 	- [Leadership, As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated.]
@@ -100,6 +100,39 @@ legendary_actions:
     - [Combo Shot (2), The Captain makes a grapple attack. If it succeeds, an ally within 30ft may use their reaction to make a ranged weapon attack against the target.]
 reactions:
     - [Trip, When a creature exits the Captian's combat range, it makes a DEX saving throw. If it fails, it falls prone where it exited combat range.]
+    - ...
+```
+
+```statblock
+name: Whitimore Healer
+size: Meduim
+type: humaniod
+subtype: drow
+alignment: chaotic evil
+ac: 16
+hp: 64
+hit_dice: 14d8
+speed: 30ft
+stats: [9, 15, 11, 15, 19, 17]
+skillsaves:
+    - Stealth: 7
+senses: darkvision 60ft
+languages: undercommon, elvish
+cr: 8
+spells:
+    - <description>
+    - <spell level>: <spell-list>
+traits:
+    - [<trait-name>, <trait-description>]
+    - ...
+actions:
+    - [<trait-name>, <trait-description>]
+    - ...
+legendary_actions:
+    - [<legendary_actions-name>, <legendary_actions-description>]
+    - ...
+reactions:
+    - [<reaction-name>, <reaction-description>]
     - ...
 ```
 
