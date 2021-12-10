@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
+            "file": "MAIN/Game Notes/NPCs/List of Names.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
+                "file": "MAIN/Game Notes/NPCs/List of Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
+                "file": "MAIN/Game Notes/NPCs/List of Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Encounters/Fire Giant War Band.md"
+                "file": "MAIN/Game Notes/NPCs/List of Names.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "8590bd5b44f06cd8",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
+    "MAIN/Game Notes/NPCs/List of Names.md",
+    "MAIN/Game Notes/Encounters/Planeswalking toward Fire.md",
     "MAIN/Game Notes/A Grand Notepad.md",
+    "MAIN/Game Notes/Encounters/Fire Giant War Band.md",
     "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
-    "Planeswalking toward Fire.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Game Notes/Fronts/Rangers Gone Rouge.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
     "MAIN/Game Notes/Fronts/The Whitimore.md",
-    "MAIN/Game Notes/Encounters/The Varis Hit.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Dec xx.md"
+    "MAIN/Game Notes/Encounters/The Varis Hit.md"
   ]
 }
