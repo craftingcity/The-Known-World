@@ -9,6 +9,26 @@ This is the encounter with [[The Whitimore]] that the current party is going to 
 - "You stay right there scaled one"; "halld~e mori*h*loc~e"
 - "I'll shoot the wizard"; "qui*h*tan o istar"
 # Stats
+remove me
+
+0 AAD
+10 AC
++0 STAT
+0 HP
+57 MBP
+
+0 AAD
+10 AC
++0 STAT
+0 HP
+49 MBP
+
+0 AAD
+10 AC
++0 STAT
+0 HP
+45 MBP
+
 ```statblock
 name: Whitimore Sniper
 size: Medium
