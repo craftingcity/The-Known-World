@@ -39,7 +39,6 @@ healer
 +4 STAT
 64 HP
 +3 PRF
-3 MBP
 *healing bolt* - As an action, the creature fires an injector bolt at an ally within range. They regain 2d4+2 hp. (5)
 *boosting bolt* As an action, the creature fires an injector bolt at an ally within range. They gain +5ft speed and +2d6 melee weapon damage for 18 seconds. (2)
 *spellcasting* - The Healer is a 9th level caster, uses WIS (DC 15, +7 attack, +4 SAM) has access to the following spells.
@@ -47,22 +46,17 @@ healer
 - 1st level (4); healing word, command, faerie fire, guiding bolt
 - 2nd level (3); hold person, invisibility, moonbeam
 - 3rd level (3); beacon of hope, counterspell, haste
-- 4th level (1); 
-
-mage
-12 AAD
-14 AC
-+0 STAT
-0 HP
-37 MBP
+- 4th level (1); banishment
 
 bruiser
 0 AAD
 18 AC
 +0 STAT
-0 HP
+96 HP
 +3 PRF
-41 MBP
+28 MBP
+*multiattack* - 3 scimitar attacks
+*net attack* - The creature makes an attack with its wire net (restrain on hit, DC 14 strength or 15 slash).
 
 ranged/poison
 12 AAD
