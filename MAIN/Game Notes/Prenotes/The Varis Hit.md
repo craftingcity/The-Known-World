@@ -42,7 +42,7 @@ healer
 64 HP
 +3 PRF
 *healing bolt* - As an action, the creature fires an injector bolt at an ally within range. They regain 2d4+2 hp. (5)
-*boosting bolt* As an action, the creature fires an injector bolt at an ally within range. They gain +5ft speed and +2d6 melee weapon damage for 18 seconds. (2)
+*boosting bolt* As an action, the creature fires an injector bolt at an ally within range. They gain +5ft speed and +2d4 melee weapon damage for 18 seconds. (2)
 *spellcasting* - The Healer is a 9th level caster, uses WIS (DC 15, +7 attack, +4 SAM) has access to the following spells.
 - cantrips; dancing lights, light, guidance, sacred flame, thaumaturgy
 - 1st level (4); healing word, command, faerie fire, guiding bolt
@@ -91,7 +91,7 @@ senses: darkvision (60ft)
 languages: undercommon, elvish
 cr: 10
 actions:
-	- [Longsword +1, The Captain makes a longsword attack (+10 to hit, 1d10 + 6).]
+	- [Longsword +1, The Captain makes a longsword attack (+10 to hit, 1d10 + 6 slashing damage).]
     - [Multiattack, The Captain makes three longsword attacks.]
     - [Aggresive, As a bonus action, the creature can move up to its speed toward a hostile creature that it can see.]
 	- [Leadership, As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated.]
@@ -119,6 +119,41 @@ skillsaves:
 senses: darkvision 60ft
 languages: undercommon, elvish
 cr: 8
+spells:
+    - The Healer is a 9th level caster, uses WIS (DC 15, +7 attack) has access to the following spells
+    - 1st level (4): healing word, command, faerie fire, guiding bolt
+	- 2nd level (3): hold person, invisibility, moonbeam
+	- 3rd level (3): beacon of hope, counterspell, haste
+	- 4th level (1): banishment
+actions:
+	- [Spiked bolt, As an action, the healer makes a bolt-thrower attack (+5 to hit, 1d8+2 peircing damage).]
+    - [Healing bolt, As an action, the creature fires an injector bolt at an ally within range. They regain 2d4+2 hp. Five uses.]
+	- [Boosting Bolt, As an action, the creature fires an injector bolt at an ally within range. They gain +5ft speed and +2d4 melee weapon damage for 18 seconds. Two uses.]
+```
+
+```statblock
+name: Whitimore Bruiser
+size: meduim
+type: humainoid
+subtype: drow
+alignment: chaotic evil
+ac: 18
+hp: 96
+hit_dice: string
+speed: string
+stats: [number, number, number, number, number, number]
+fage_stats: [number, number, number, number, number, number, number, number, number]
+saves:
+    - <ability-score>: number
+skillsaves:
+    - <skill-name>: number
+damage_vulnerabilities: string
+damage_resistances: string
+damage_immunities: string
+condition_immunities: string
+senses: string
+languages: string
+cr: number
 spells:
     - <description>
     - <spell level>: <spell-list>
