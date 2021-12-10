@@ -9,5 +9,5 @@ This is an encounter for a high level party walking toward the plane of fire fro
 
 # Stats
 ```statblock
-monster: 
+monster: salamander
 ```

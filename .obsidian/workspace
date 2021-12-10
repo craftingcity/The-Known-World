@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Planeswalking toward Fire.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
+                "file": "Planeswalking toward Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
+                "file": "Planeswalking toward Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md"
+                "file": "Planeswalking toward Fire.md"
               }
             }
           },
@@ -157,10 +157,10 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "4fcda84c95dfb3de",
+  "active": "2c2fdaaf4f25ac86",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
     "Planeswalking toward Fire.md",
+    "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Game Notes/Fronts/Rangers Gone Rouge.md",

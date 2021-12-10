@@ -1,5 +1,6 @@
 ---
 tags: planes, world, needs_work
+aliases: The Planes, Planes
 ---
 # The Material Plane
 ## Prime
@@ -15,13 +16,12 @@ A plane of growth, change, and powerful trickery. Inhabited by Eladrin, Gnomes, 
 
 The Feywild is a shifting plane, where no path is permanent. The four seasons (winter, spring, summer, fall) are represented in force here; large growth is the enjoyment of the land in spring, a great slumber afflicts the plane in winter, and so on. Many of the Fey swear allegiance to [[The Feywild#The Monarchs|a Monarch]] and wage their seasonal war. No one Monarch has gained power over others in the known history of this plane structure, but one could imagine the devastation the [[#Prime]] would experience if this balance shifted in favor of one group or another. 
 
-
 ### The Underdark
 
 
 # The [[Wildlands]]
 ## General
-The [[Wildlands]] is the name that the people of [[#Prime]] give to the areas beyond their ability to return from. The [[#The Elemental Planes]], [[#The Energy Planes]], and even the [[#Mirror Planes]] and [[#The Outer Planes]] are considered [[Wildlands]].
+The [[Wildlands]] is the name that the people of [[#Prime]] give to the areas beyond their ability to return from. 
 
 ## In Between...
 The Ethereal is the beach of the Astral Sea. One walks into the [[#The Wildlands]], and things become strange, long and stretched, real but dreamlike. This is the Ethereal. 
@@ -38,11 +38,9 @@ If one has no destination in mind or loses that destination while traveling the 
 Many chose or are born into living their lives in this great Sea; some become thought pirates, others great information gatherers, others still attempt to live a simple peaceful life. 
 
 ## Planeswalking
-Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. 
 
-After a combat, the players must make a Constitution check, the DC of which is based on how many hit die they have (24 - remaining hit die).
+Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. While Planeswalking, every day, roll 1d12. On a roll of 12, present the players with an encounter. After a combat, the players must make a Constitution check, the DC of which is based on how many hit die they have (24 - remaining hit die). Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. Half of these days are spent in the [[#Prime]]'s border ethereal and the other half is spent in the destination plane's. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]]. 
 
-While planeswalking, every day, have a player roll 1d12. On a roll of 12, present them with an encounter. Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]].
 
 ## The Elemental Planes
 ### The Plane of Earth
