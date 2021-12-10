@@ -38,7 +38,11 @@ If one has no destination in mind or loses that destination while traveling the 
 Many chose or are born into living their lives in this great Sea; some become thought pirates, others great information gatherers, others still attempt to live a simple peaceful life. 
 
 ## Planeswalking
-Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. After a combat, the players must make a Constitution check, the DC of which is based on how 
+Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. 
+
+After a combat, the players must make a Constitution check, the DC of which is based on how many hit die they have (24 - remaining hit die).
+
+While planeswalking, every day, have a player roll 1d12. On a roll of 12, present them with an encounter. Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]].
 
 ## The Elemental Planes
 ### The Plane of Earth
