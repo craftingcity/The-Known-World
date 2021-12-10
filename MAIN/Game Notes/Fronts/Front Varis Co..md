@@ -5,6 +5,7 @@ This is using the [front](https://www.dungeonworldsrd.com/gamemastering/fronts/)
 
 ## Campaign Front: Codename [[Varis]] Co.
 ### Description and Cast
+
 At the height of peace in the world, disaster strikes. 
 
 ### Dangers
@@ -22,3 +23,5 @@ At the height of peace in the world, disaster strikes.
 Rampant Chaos, the laws and order of  the land and our natural world is dissolved into nothingness. Pain and misfortune befalls the common.
 
 #### [[The Baron Lich]]
+
+#### [[Rangers Gone Rouge]]
