@@ -55,7 +55,7 @@ Impoverishment; enslavement, the abandon of what is good or right.
 [[Talice Kilath]], Noble Commander of Kilath's 3rd Infantry
 
 **Stakes**
-Optional; Ask a question or two about something that you dont know, ideally directly tied to the players or something that they interact with.
+Optional; Ask a question or two about something that you don't know, ideally directly tied to the players or something that they interact with.
 
 **Movelist**
 -   Vomit forth a lesser monster

@@ -29,6 +29,7 @@ hit_dice: 27d8
 speed: 30ft
 stats: [20, 14, 16, 10, 15, 17]
 skillsaves:
+	- Athletics: 13
     - Stealth: 7
 senses: darkvision (60ft)
 languages: undercommon, elvish
