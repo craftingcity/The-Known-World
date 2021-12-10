@@ -19,19 +19,20 @@ party compisition
 - snipers
 
 captain
-> the big bad, hits hard, hard to hit, lasts long, interesting ability
+> the big bad, hits hard, hard to hit, lasts long, interesting ability. sick splint mail, shield, hype longsword
 
 42 AAD
 19 AC
-+8 STAT
-152 HP
++5 STAT
+122 HP
++4 PRF
 legendary resist: 3
 legendary actions: 2
 - basic attack; 1
 - combo shot; 2 (grappled into ally w/in 30 ranged attack)
-- trip; 2
-*aggressive*
-
+- trip; 2 (dex save or prone)
+*aggressive* - "As a bonus action, the creature can move up to its speed toward a hostile creature that it can see."
+*leadership* - "As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated."
 
 healer
 > alchemisty/divine healer; crossbow of healing and spells
