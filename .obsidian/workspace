@@ -15,15 +15,33 @@
         }
       },
       {
-        "id": "4fcda84c95dfb3de",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-            "mode": "source"
+        "id": "d1bf3231757f8054",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c2fdaaf4f25ac86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planeswalking toward Fire.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4fcda84c95dfb3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md",
+                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md",
+                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/A Grand Notepad.md"
+                "file": "MAIN/Game Notes/Rough Lore/The Planes of Existence.md"
               }
             }
           },
@@ -139,17 +157,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "34994425e5449655",
+  "active": "4fcda84c95dfb3de",
   "lastOpenFiles": [
-    "MAIN/Game Notes/A Grand Notepad.md",
+    "MAIN/Game Notes/Rough Lore/The Planes of Existence.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+    "Planeswalking toward Fire.md",
+    "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Game Notes/Fronts/Rangers Gone Rouge.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
     "MAIN/Game Notes/Fronts/The Whitimore.md",
     "MAIN/Game Notes/Prenotes/The Varis Hit.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec xx.md",
-    "MAIN/TEMPLATES/Encounter.md",
-    "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "MAIN/Game Notes/Prime Timeline.md"
+    "MAIN/TEMPLATES/Encounter.md"
   ]
 }

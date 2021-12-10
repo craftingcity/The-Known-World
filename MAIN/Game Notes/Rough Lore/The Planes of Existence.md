@@ -37,6 +37,9 @@ If one has no destination in mind or loses that destination while traveling the 
 
 Many chose or are born into living their lives in this great Sea; some become thought pirates, others great information gatherers, others still attempt to live a simple peaceful life. 
 
+## Planeswalking
+Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. After a combat, the players must make a Constitution check, the DC of which is based on how 
+
 ## The Elemental Planes
 ### The Plane of Earth
 ### The Plane of Fire
