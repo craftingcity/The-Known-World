@@ -21,5 +21,6 @@ stats: [23, 17, 22, 0, 0, 0]
 cr: 15
 damage_resistances: blugeoning, slashing, peircing
 damage_immunities: poision, psychic, necrotic
-
+actions:
+	- [Durandurm Blast (Fire), Ranged weapon attack: +]
 ```
