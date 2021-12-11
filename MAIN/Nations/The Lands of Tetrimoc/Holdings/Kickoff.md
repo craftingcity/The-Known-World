@@ -24,7 +24,9 @@ The medium sized mining town is
 If it differs from the nation's...
 
 ## Defenses
+Kickoff is one of the few holdings in [[The Outlands]] that is not under [[The Outlands#Thieves|a team of thieves']] control. They use their own [[Durandum Weaponry|durandum weaponry]] to defend themselves from threats of the outside world. Given that t
 
 ## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
-
+- the durandurm mine
+- [[Ginger's Nopal & Agave Farm]]
+- [[Tybir's Camel Ranch]]

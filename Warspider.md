@@ -7,4 +7,4 @@ The Warspider is a type of interplanar war machine known as a [[War Beast]]. It 
 
 Along the outside, durandurm elemental weaponry is attatched, and can be fired from inside the Beast (see [[Kickoff]] and [[The Outlands]] for more on durandurm).
 
-It is powered by a core of elemental Fire from the [[The Planes of Existence#The Plane of Fire|plane thereof]]. 
+It is powered by a core of durandurm baptized in elemental fire from the [[The Planes of Existence#The Plane of Fire|plane thereof]]. 
