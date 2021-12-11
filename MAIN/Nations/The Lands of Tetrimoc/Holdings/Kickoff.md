@@ -18,10 +18,7 @@ The flux of prosperity has been halted short by the ongoing raids of [[The Outla
 
 
 ## Physicality of the Holding
-The medium sized mining town is 
-
-## Population Distribution
-If it differs from the nation's...
+The medium sized mining town is built of wood structures grouped closely together.
 
 ## Defenses
 Kickoff is one of the few holdings in [[The Outlands]] that is not under [[The Outlands#Thieves|a team of thieves']] control. They use their own [[Durandum Weaponry|durandum weaponry]] to defend themselves from threats of the outside world. Given that they are located in between [[Agrandica]]'s and [[Barthalmule]]'s area of control, they often make attempts to gain control of the town. They are never fully successful, as they are contended by the other of the two whenever they attempt.
