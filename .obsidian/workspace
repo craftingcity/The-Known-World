@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Lands of Tetrimoc/Holdings/Kickoff.md",
-            "mode": "source"
+            "file": "MAIN/Game Notes/Encounters/The Varis Hit.md",
+            "mode": "preview"
           }
         }
       },
@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Game Notes/Encounters/The Varis Hit.md",
-                "mode": "source"
+                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+                "mode": "preview"
               }
             }
           },
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+                "file": "MAIN/Game Notes/Prime Timeline.md",
                 "mode": "source"
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
+                "file": "MAIN/Game Notes/Encounters/The Varis Hit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
+                "file": "MAIN/Game Notes/Encounters/The Varis Hit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md"
+                "file": "MAIN/Game Notes/Encounters/The Varis Hit.md"
               }
             }
           },
@@ -168,17 +168,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "8590bd5b44f06cd8",
+  "active": "363f39d6ef31468d",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Encounters/The Varis Hit.md",
+    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+    "MAIN/Game Notes/Prime Timeline.md",
+    "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+    "MAIN/Nations/The Lands of Tetrimoc/Holdings/Kickoff.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "Warspider.md",
-    "MAIN/Game Notes/Encounters/The Varis Hit.md",
     "MAIN/An Introduction and Organizational Notions.md",
     "MAIN/An Introduction and Organizational Notions 1.md",
-    "MAIN/Nations/The Lands of Tetrimoc/Holdings/Kickoff.md",
-    "MAIN/TEMPLATES/Statblock.md",
-    "The Outlands.md",
-    "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
-    "MAIN/Game Notes/Fronts/The War on Tetrimoc.md"
+    "MAIN/TEMPLATES/Statblock.md"
   ]
 }
