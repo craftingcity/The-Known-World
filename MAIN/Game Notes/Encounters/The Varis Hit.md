@@ -35,8 +35,10 @@ senses: darkvision (60ft)
 languages: undercommon, elvish
 cr: 10
 actions:
-	- [Longsword +1, The Captain makes a longsword attack (+10 to hit, 1d10 + 6 slashing damage).]
     - [Multiattack, The Captain makes three longsword attacks.]
+	- [Takedown, As an action, the Bruiser makes two grapple or push attacks.]
+	- [Longsword +1, The Captain makes a longsword attack (+10 to hit, 1d10 + 6 slashing damage).]
+	- [Grapple / Push, Melee Athletics / Acrobatics Contest: +6 Athletics, target is grappled, pushed 5ft away from the Bruiser, or knocked prone if the target is already grappled.]
     - [Aggresive, As a bonus action, the creature can move up to its speed toward a hostile creature that it can see.]
 	- [Leadership, As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated.]
 legendary_actions:
@@ -89,6 +91,7 @@ speed: 30 ft
 stats: [24, 18, 17, 12, 10, 8]
 skillsaves:
     - Stealth: +9
+	- Acrobatics: +9
 damage_resistances: see below
 senses: darkvision 60ft
 languages: undercommon, elvish
@@ -98,7 +101,7 @@ traits:
 actions:
     - [Multiattack, As an action, the Bruiser makes three Wicked Scimitar attacks.]
     - [Wicked Scimtar, Melee Weapon Attack: +10 to hit, 2d6+7]
-	- [Takedown, As an action, the Bruiser makes two grapple or push attacks: ]
+	- [Grapple / Push, Melee Athletics / Acrobatics Contest: +6 Athletics, target is grappled, pushed 5ft away from the Bruiser, or knocked prone if the target is already grappled.]
 	- [Wire Net, As an action, the Brusier makes a wire net attack. (+10 to hit, restrained on hit; DC 14 strength check or 15 slashing damage removes the condition)]
 ```
 
