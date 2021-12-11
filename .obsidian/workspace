@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Game Notes/Fronts/Front Varis Co..md",
                 "mode": "preview"
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Game Notes/Fronts/Front Varis Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Game Notes/Fronts/Front Varis Co..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
+                "file": "MAIN/Game Notes/Fronts/Front Varis Co..md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "31861062bf2a65a4",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Fronts/Front Varis Co..md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/Encounters/The Varis Hit.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
@@ -178,7 +179,6 @@
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "Warspider.md",
     "MAIN/An Introduction and Organizational Notions.md",
-    "MAIN/An Introduction and Organizational Notions 1.md",
-    "MAIN/TEMPLATES/Statblock.md"
+    "MAIN/An Introduction and Organizational Notions 1.md"
   ]
 }
