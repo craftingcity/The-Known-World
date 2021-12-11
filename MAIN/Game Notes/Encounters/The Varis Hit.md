@@ -95,10 +95,10 @@ languages: undercommon, elvish
 cr: 8
 traits:
     - [Well Prepared, The Bruiser has resistance to two types of elemental damage.]
-    - ...
 actions:
-    - [Wicked Scimtar, As an action the bruiser makes a scimitar attack (+10 to hit, 2d6+7)]
     - [Multiattack, As an action, the Bruiser makes three Wicked Scimitar attacks.]
+    - [Wicked Scimtar, Melee Weapon Attack: +10 to hit, 2d6+7]
+	- [Takedown, As an action, the Bruiser makes two grapple or push attacks: ]
 	- [Wire Net, As an action, the Brusier makes a wire net attack. (+10 to hit, restrained on hit; DC 14 strength check or 15 slashing damage removes the condition)]
 ```
 
