@@ -21,10 +21,15 @@ stats: [23, 17, 22, 0, 0, 0]
 cr: 15
 damage_resistances: blugeoning, slashing, peircing
 damage_immunities: poision, psychic, necrotic
+traits:
+	- [Heated Extirior, If a creature touches the exterior of the Warspider, they take 2d6 fire damage.]
 actions:
 	- [Multiattck, As an action, the warspider takes two leg attacks and two Durandurm Blast (Fire) attacks.]
-	- [Durandurm Blast (Fire), Ranged weapon attack: +11 to hit, 4d4+6 fire damage.]
-	- [Leg, Melee weapon attack: +11 to hit, 3d10+6 peircing damage.]
+	- [Durandurm Blast (Fire), Ranged weapon attack: 20/40ft, +11 to hit, 4d4+6 fire damage.]
+	- [Leg, Melee weapon attack: reach 15ft +11 to hit, 3d10+6 peircing damage.]
+	- [Body Slam, Melee weapon attack: reach 5ft, +11 to hit, 4d12+12 bludgoning damage]
 legendary_actions:
-	- [The Warspider gets]
+	- [The Warspider gets three legendary actions per round.]
+	- [Leg (1), The Warspider makes a leg attack.]
+	- []
 ```
