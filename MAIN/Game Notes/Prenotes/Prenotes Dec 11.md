@@ -1,10 +1,10 @@
 ---
 tags: notes
 ---
-# Prenotes for Dec xxth
+# Prenotes for Dec 11th
 So far, [[The Whitimores]] have played only a background role in the story. I want them on the main stage alongside the Fire Giants of [[King Snure]].
 
-If the party waits for over a few days, the [[The Whitimore]] execute [[Jarl Grungar]] for failing to maintain the plan. The loyal Frost Giants are spared, and align themselves with [[King Snure]] for the "grand invasion". This event will happen a week after the Jarl's Execution.
+If the party waits for over a few days, the [[The Whitimore]] may execute [[Jarl Grungar]] for failing to maintain the plan. The loyal Frost Giants are spared, and align themselves with [[King Snure]] for the "grand invasion". This event will happen a week after the Jarl's Execution.
 
 - [ ] DM Screen
 - [ ] Module

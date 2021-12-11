@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Warspider.md",
+            "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warspider.md",
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warspider.md",
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warspider.md"
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "8590bd5b44f06cd8",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "Warspider.md",
     "MAIN/Game Notes/Encounters/The Varis Hit.md",
     "MAIN/An Introduction and Organizational Notions.md",
@@ -178,7 +179,6 @@
     "MAIN/TEMPLATES/Statblock.md",
     "The Outlands.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
-    "MAIN/Game Notes/Fronts/The War on Tetrimoc.md",
-    "MAIN/Game Notes/Fronts/Front Varis Co..md"
+    "MAIN/Game Notes/Fronts/The War on Tetrimoc.md"
   ]
 }

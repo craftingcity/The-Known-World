@@ -34,5 +34,6 @@ actions:
 legendary_actions:
 	- [The Warspider gets three legendary actions per round.]
 	- [Leg (1), The Warspider makes a leg attack.]
-	- []
+	- [Skiter (1), The Warspider moves 1/2 its speed.]
+	- [Blast (1), The Warspider makes a Duradurm Blast (Fire) attack.]
 ```
