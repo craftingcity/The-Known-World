@@ -14,5 +14,7 @@ name: Warspider
 size: Gargantuan
 type: construct
 subtype: warbeast
-alignment: 
+alignment: neutral
+ac: 22
+hp: 
 ```
