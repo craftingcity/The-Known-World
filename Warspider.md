@@ -10,11 +10,5 @@ Along the outside, durandurm elemental weaponry is attatched, and can be fired f
 It is powered by a core of durandurm baptized in elemental fire from the [[The Planes of Existence#The Plane of Fire|plane thereof]]. 
 
 ```statblock
-name: Warspider
-size: Gargantuan
-type: construct
-subtype: warbeast
-alignment: neutral
-ac: 22
-hp: 
+monster: 
 ```
