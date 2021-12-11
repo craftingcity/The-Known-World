@@ -11,11 +11,12 @@ Other Tags: Religion ([[Its Greatness]]), Need (food, building), Oath (the nearb
 
 # Description
 Any sort of local lore...
+
 ## Physicality of the Holding
-Baskin was recently attacked by a raid of Ice Giants (see [[The Assault of the Giant Decenters]]). Its stone buildings are deteriorating and rubbled, but most of the buildings in the center of the city
-are survived.
+Baskin was recently attacked by a raid of Ice Giants (see [[The Assault of the Giant Decenters]]). Its stone buildings are deteriorating and rubbled, but most of the buildings in the center of the city are survived.
+
 ## Population Distribution
-If it differs from the nation's...
+A large population of Orc live here, and the Grand Tendered is a green dragonborn, this leads the city to be quite exotic in comparison.
 
 ## Defenses
 
