@@ -11,7 +11,7 @@ It is powered by a core of durandurm baptized in elemental fire from the [[The P
 
 ```statblock
 name: Warspider
-size: Huge
+size: Gargantuan
 type: construct
 subtype: vehicle
 ac: 19
@@ -22,6 +22,9 @@ cr: 15
 damage_resistances: blugeoning, slashing, peircing
 damage_immunities: poision, psychic, necrotic
 actions:
-	- []
-	- [Durandurm Blast (Fire), Ranged weapon attack: +11 to hit, 4d4+6]
+	- [Multiattck, As an action, the warspider takes two leg attacks and two Durandurm Blast (Fire) attacks.]
+	- [Durandurm Blast (Fire), Ranged weapon attack: +11 to hit, 4d4+6 fire damage.]
+	- [Leg, Melee weapon attack: +11 to hit, 3d10+6 peircing damage.]
+legendary_actions:
+	- [The Warspider gets]
 ```
