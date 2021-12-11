@@ -14,7 +14,7 @@ Kickoff's main industry is mining and exporting durandurm crystal, a powerful ma
 
 The way that the crystal resonates with the Weave creates a direct line into the elemental planes, and artificers have recently ([[Prime Timeline#The Second Age The Age of Wonder]]) manufactured certain weapons that use this powerful leyline to fire small pellets and rocks over long distances.
 
-The flux of prosperity has been halted short by the 
+The flux of prosperity has been halted short by the ongoing raids of [[The Outlands]] by its [[The Outlands#Nomad Tribes|Nomad Tribes]] and the [[The Outlands#Thieves|Thieves Guilds]].
 
 
 ## Physicality of the Holding
