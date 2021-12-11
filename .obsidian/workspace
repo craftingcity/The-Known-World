@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Outlands.md",
+                "file": "MAIN/Game Notes/Fronts/The War on Tetrimoc.md",
                 "mode": "source"
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Outlands.md",
+                "file": "MAIN/Game Notes/Fronts/The War on Tetrimoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Outlands.md",
+                "file": "MAIN/Game Notes/Fronts/The War on Tetrimoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Outlands.md"
+                "file": "MAIN/Game Notes/Fronts/The War on Tetrimoc.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "6d41a8d988af4d73",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Fronts/The War on Tetrimoc.md",
     "The Outlands.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "MAIN/Game Notes/Prime Timeline.md",
@@ -178,7 +179,6 @@
     "MAIN/Holding Rules.md",
     "Warspider.md",
     "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "MAIN/Game Notes/Fronts/Front Varis Co..md",
-    "MAIN/Game Notes/Fronts/The Whitimore.md"
+    "MAIN/Game Notes/Fronts/Front Varis Co..md"
   ]
 }

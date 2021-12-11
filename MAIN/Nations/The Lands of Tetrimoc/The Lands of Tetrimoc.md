@@ -9,6 +9,7 @@ While many in the Golden City claim that all of the desert is ruled by [[Tetrimo
 "Tetrimoc" rules with a golden claw; much like an iron fist, but more benevolent and more ruthless. His followers are much the same. [[The Golden City]] is a safe place to be, as it is protected by the [[Golden Claws]], but those who protect also enforce. They are called "Claws" for a reason.
 
 The Claws also patrol around the area claimed for [[Tetrimoc]] on their war wyverns, but would not stray far from the city. They know that a band of Thieves are a mighty foe for their patrol. Generally, if a Claw does encounter a band, they both respectfully turn the other way and do something else. The Nomads get no such treatment.
+
 ### The Tournament
 While the Thieves are often left to their own devices, [[The Golden City]] hosts [[Tetrimoc's Tournament of Glory]] for the most affluent class to spectate. Many Thieves come and fight for sport here, and a Thief that wins is given glorious treasure; this bounty is always enough to move the winners and their family many many classes above where they were before. This is supposedly sponsored by [[Tetrimoc]]'s horde.
 
