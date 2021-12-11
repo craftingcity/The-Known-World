@@ -40,11 +40,12 @@ actions:
     - [Aggresive, As a bonus action, the creature can move up to its speed toward a hostile creature that it can see.]
 	- [Leadership, As an action the creature utters a command. For 1 minute, whenever nonhostile creatures that it can see within 30 feet of it makes an attack roll or saving throw the creature can add a d4 to its roll provided it can hear and understand the creature. A creature can benefit from only one Leadership die at a time. This effect ends if the leader is incapacitated.]
 legendary_actions:
+	- [The Captain gets two legendary actions per round]
     - [Longsword (1), The Captain makes one longsword attack.]
     - [Combo Shot (2), The Captain makes a grapple attack. If it succeeds, an ally within 30ft may use their reaction to make a ranged weapon attack against the target.]
+	- [Regroup (1), The Captain points to an ally within 60 feet, they use their reaction to move their speed toward him.]
 reactions:
     - [Trip, When a creature exits the Captian's combat range, it makes a DEX saving throw. If it fails, it falls prone where it exited combat range.]
-    - ...
 ```
 
 ```statblock
