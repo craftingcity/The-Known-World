@@ -76,7 +76,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
-                    "mode": "source"
+                    "mode": "preview"
                   }
                 }
               },
@@ -87,7 +87,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "MAIN/Holding Rules.md",
-                    "mode": "source"
+                    "mode": "preview"
                   }
                 }
               }
@@ -101,7 +101,7 @@
               "type": "markdown",
               "state": {
                 "file": "Baskin.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baskin.md",
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baskin.md",
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baskin.md"
+                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md"
               }
             }
           },
@@ -223,16 +223,16 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "8ca08461e60f8d7e",
+  "active": "8590bd5b44f06cd8",
   "lastOpenFiles": [
-    "Baskin.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Holding Rules.md",
     "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
+    "Baskin.md",
     "MAIN/Game Notes/NPCs/List of Names.md",
     "MAIN/MEDIA/MAPS/The Holyl'nds.png",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/Kakurak's Lair.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
-    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/The Holy City of Kanielkiln.md"
   ]
