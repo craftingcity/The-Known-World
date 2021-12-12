@@ -2,4 +2,4 @@
 tags:
 aliases:
 ---
-Eladrin were 
+Eladrin were the original progenitors of elves of all kind.
