@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md"
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md"
               }
             }
           },
@@ -200,11 +200,11 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "5bc8fffd9613ccf3",
+  "active": "df0e307417421875",
   "lastOpenFiles": [
+    "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/Rough Lore/The Pantheon.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "Eladrin.md",
     "varis and amoshid.md",
