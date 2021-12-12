@@ -2,7 +2,7 @@
 tags:
 aliases:
 ---
-Amashod was born to [[Eladrin]] parents.
+Amashod was born to [[Eladrin]] parents. She was called
 
 the level 11 ranger level 3 cleric
 

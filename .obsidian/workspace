@@ -44,15 +44,33 @@
         "direction": "horizontal"
       },
       {
-        "id": "036975e9732fa712",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "preview"
+        "id": "a5743f420d085646",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3156f77355b3a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/Game Notes/Rough Lore/The Pantheon.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "036975e9732fa712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md"
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md"
               }
             }
           },
@@ -182,17 +200,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "df0e307417421875",
+  "active": "5bc8fffd9613ccf3",
   "lastOpenFiles": [
+    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+    "MAIN/Game Notes/Rough Lore/The Pantheon.md",
     "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "Eladrin.md",
     "varis and amoshid.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/NPCs/List of Names.md",
     "MAIN/Game Notes/A Grand Notepad.md",
-    "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
-    "MAIN/Game Notes/Encounters/The Varis Hit.md"
+    "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md"
   ]
 }

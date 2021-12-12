@@ -44,3 +44,7 @@ The Current Pantheon is a representation of the emotional needs of the peoples w
 - magic, weave
 
 ## Patrons of Need
+### Sama
+- the god of One Mindedness.
+- feels like sitting in a rainy forest
+- wet moss, fresh dirt
