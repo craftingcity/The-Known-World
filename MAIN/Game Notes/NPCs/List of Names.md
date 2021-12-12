@@ -49,10 +49,10 @@ Gnisotruls| Vrarakuuv
 ## Northwestern
 Masc | Femme
 ---|---	
-Enoch ben Avinoach  | Shir Li bat Hafetz Hayim
+AAAAAAAAA  | Shir Li bat Hafetz Hayim
 Silvan ben Edwin  | Yomi bat Ohav
-Valerio ben Avishalom  | Thea bat Avner
-Erez ben Alice  | Emuna bat Yanuv
+AAAAAAAAAA  | Thea bat Avner
+Erez ben Alice  | AAAAAAAA
 Erez ben Yaroslav  | Sar-El bat Haleli
 Joanne ben Nehorai  | Tzemach bat Jean
 Raam ben Yarom  | Noam bat Matar
