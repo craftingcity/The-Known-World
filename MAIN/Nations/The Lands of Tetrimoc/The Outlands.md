@@ -1,5 +1,5 @@
 ---
-tags: tetrimocal, nation_page, needs_wor-
+tags: tetrimocal, nation_page, needs_work
 aliases: Outlanders
 ---
 # Government
