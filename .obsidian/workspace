@@ -4,13 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "df0e307417421875",
+        "id": "050dd719377f52e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "2cecc67e77ebf2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eladrin.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "df0e307417421875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Varis.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5bc8fffd9613ccf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amashod.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "036975e9732fa712",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/List of Names.md",
-            "mode": "source"
+            "file": "MAIN/Game Notes/Prime Timeline.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/List of Names.md",
+                "file": "Eladrin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/List of Names.md",
+                "file": "Eladrin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/List of Names.md"
+                "file": "Eladrin.md"
               }
             }
           },
@@ -142,17 +182,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "df0e307417421875",
+  "active": "2cecc67e77ebf2bc",
   "lastOpenFiles": [
+    "Eladrin.md",
+    "varis and amoshid.md",
+    "MAIN/Game Notes/Prime Timeline.md",
+    "Amashod.md",
+    "Varis.md",
     "MAIN/Game Notes/NPCs/List of Names.md",
     "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "MAIN/Game Notes/Encounters/The Varis Hit.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
-    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "MAIN/Holding Rules.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md"
+    "MAIN/Game Notes/Encounters/The Varis Hit.md"
   ]
 }
