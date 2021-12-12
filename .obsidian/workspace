@@ -4,44 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "050dd719377f52e5",
-        "type": "split",
-        "children": [
-          {
-            "id": "2cecc67e77ebf2bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eladrin.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "df0e307417421875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5bc8fffd9613ccf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
-                "mode": "source"
-              }
-            }
+        "id": "2cecc67e77ebf2bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "a5743f420d085646",
@@ -203,14 +174,14 @@
   "active": "a3156f77355b3a2c",
   "lastOpenFiles": [
     "Blood Hobgoblin Clan Pact.md",
+    "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
+    "Eladrin.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "Simonson Clan.md",
     "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/Rough Lore/The Pantheon.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "MAIN/Game Notes/NPCs/List of Names.md",
-    "Eladrin.md",
-    "varis and amoshid.md"
+    "MAIN/Game Notes/NPCs/List of Names.md"
   ]
 }
