@@ -30,17 +30,6 @@
             }
           },
           {
-            "id": "168c9b35b689b006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "5bc8fffd9613ccf3",
             "type": "leaf",
             "state": {
@@ -119,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md"
+                "file": "MAIN/Game Notes/NPCs/Player Characters/Varis.md"
               }
             }
           },
@@ -193,10 +182,10 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "168c9b35b689b006",
+  "active": "df0e307417421875",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "Eladrin.md",
     "varis and amoshid.md",
