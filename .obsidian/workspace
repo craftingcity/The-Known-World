@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Simonson Clan.md",
                 "mode": "source"
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Simonson Clan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Simonson Clan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
+                "file": "Simonson Clan.md"
               }
             }
           },
@@ -202,15 +202,15 @@
   },
   "active": "a3156f77355b3a2c",
   "lastOpenFiles": [
+    "Simonson Clan.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
+    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/Rough Lore/The Pantheon.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Game Notes/NPCs/List of Names.md",
     "Eladrin.md",
     "varis and amoshid.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Game Notes/A Grand Notepad.md"
+    "MAIN/Game Notes/Prime Timeline.md"
   ]
 }

@@ -27,7 +27,8 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Ca
 ## Titles
 {wip; one for each major holding in Prosper, a few for events in his past as an adventurer}
 - Firstborn of [[Amelia Simonson]]
+- Adventurer King
 - Slayer of Garanbik
-- 
+- Grand Poohba of the [[Simonson Clan]]
 - The Great Liberator
 - King of Prosper
