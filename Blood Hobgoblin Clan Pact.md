@@ -7,3 +7,5 @@ The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgobl
 
 # Imperialism
 > My knowledge is in my blade and my elder; where is yours when that precious library is burning? Does your journal truly contain the history of the world?
+
+""

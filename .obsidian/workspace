@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
+                "file": "Blood Hobgoblin Clan Pact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
+                "file": "Blood Hobgoblin Clan Pact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md"
+                "file": "Blood Hobgoblin Clan Pact.md"
               }
             }
           },
@@ -182,13 +182,13 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "06af896a80a66a09",
+  "active": "a3156f77355b3a2c",
   "lastOpenFiles": [
-    "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
+    "Blood Hobgoblin Clan Pact.md",
     "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
+    "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
     "Untitled.md",
     "Hobgoblin Specifics.md",
-    "Blood Hobgoblin Clan Pact.md",
     "Eladrin.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "Simonson Clan.md",
