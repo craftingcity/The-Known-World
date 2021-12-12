@@ -14,6 +14,8 @@ He is happy to work with known adventurers and has many liaison to the adventure
 
 Artie just sort of "fell into" becoming the King of [[The Kingdom of Prosper|Prosper]]; As a youngling, he saw the horrors of the uncivilized world. He used this to fuel his passion for adventure and when he came of age, he liberated the many holdings in the [[The Kingdom of Prosper|northeast]]. These holdings heralded him as their savior and, needing new management, he became their King.
 
+He sent expeditions out to many locations across the land, including [[The Old]] and [[Kailkeep]]. Because of these expeditions, he was cited many times for abuse by the [[Guild of Adventurers]], and as such has poor standing with them. 
+
 ## Location
 Arthur lives in his holding, [[Castle Prosper]], with his lovers. Long ago, he lived with the remaining members of [[Simonson's Adventuring Party|his adventuring party]], but they are since dead of old age or otherwise.
 
