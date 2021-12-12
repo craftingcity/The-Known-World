@@ -7,8 +7,11 @@
         "id": "df0e307417421875",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/NPCs/List of Names.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MAIN/Game Notes/NPCs/List of Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MAIN/Game Notes/NPCs/List of Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MAIN/Game Notes/NPCs/List of Names.md"
+              }
             }
           },
           {
@@ -137,15 +144,15 @@
   },
   "active": "df0e307417421875",
   "lastOpenFiles": [
+    "MAIN/Game Notes/NPCs/List of Names.md",
+    "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "MAIN/Game Notes/NPCs/List of Names.md",
     "MAIN/Game Notes/Encounters/The Varis Hit.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/Lands of the Great White Flame/The Church of the White Flame.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Holding Rules.md",
-    "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
-    "MAIN/MEDIA/MAPS/The Holyl'nds.png"
+    "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md"
   ]
 }
