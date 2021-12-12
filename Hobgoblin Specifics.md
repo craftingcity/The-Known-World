@@ -5,5 +5,9 @@ aliases:
 Hobgoblins are a #gobliniod race. This means a few things;
 - They have a legitimate claim to being "here first", given that humans and elves and dwarves "came" here when [[Tetrimoc]] fell.
 - They are born of planscape; giving and begetting thing one
+- They are sibling to the other two #goblinoid races
 
+# Who Are the Hobgoblins
+The Hobgoblins are 
+# Some Fun Facts
 - Hobgoblins and Humans cannot have children, or at least couldn't until [[Arthur Simonson|Arthur]]
