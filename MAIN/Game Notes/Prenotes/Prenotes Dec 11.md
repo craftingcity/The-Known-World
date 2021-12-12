@@ -24,4 +24,6 @@ This one was mostly improv. Kakurak played no role; Marcus verbally led the part
 
 "You have something we want Bardaux... Varis has a greater role to play. I'm sure we'll speak again..." - An Unnamed Drow
 
-I think that Varis' role is like, a sacrifice
+I think that Varis' role is to be a Vessel for [Vhaeraun](https://forgottenrealms.fandom.com/wiki/Vhaeraun), whom the Whitimore are attempting to bring into the world so that the house Whitimore can "win" the underdark (y'know bc they have a god on their side).
+
+I used the names [[Enoch Ben]] for the wood elf captain of the guard in [[Baskin]], Valerio Avishalom for the green dragonborn Grand Tendered of [[Baskin]], and [[Emuna Yanuv]] as an unraced tavernkeep who opened her doors to the public 
