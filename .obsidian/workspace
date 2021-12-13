@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+            "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md"
+                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "7b116657eef59d52",
   "lastOpenFiles": [
+    "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "King Snure.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "Golden Claws.md",
     "MAIN/World Wide Happenings/Coalition City/Coalition City.md",
     "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
-    "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Nations/Lands of the Great White Flame/Local Lore/The Old.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md"
+    "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
   ]
 }

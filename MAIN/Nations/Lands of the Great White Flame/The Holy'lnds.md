@@ -33,4 +33,4 @@ Untouched by [[Its Greatness]], a set of ruins that the people simply call [[The
 
 ## Important Symbolism
 #### The Flame
-Usually embossed on the [[The Church of the White Flame|Church of Flame]]'s holy warrior's armor or worn as a amulet, pendant, or otherwise kept, a simple design of a 6
+Usually embossed on the [[The Church of the White Flame|Church of Flame]]'s holy warrior's armor or worn as a amulet, pendant, or otherwise kept, a simple design of a 5 lick flame descending in length across the symbol. It represents the caste system of the Church.

@@ -29,3 +29,4 @@ Population distribution is as follows; one may...
 These symbols are yet unfinished and unimplemented;
 - The [[Nobles of Prosper]]'s house crests
 - The [[Seal of Kingdom Prosper]]
+- [[Simonson Clan|Clan Simonson]]
