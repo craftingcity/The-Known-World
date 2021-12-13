@@ -1,5 +1,5 @@
 ---
-tags: npc
+tags: npc, needs_work
 aliases:
 ---
 # Adriana Fairlin "Franx" Franx

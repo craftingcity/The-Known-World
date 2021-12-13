@@ -1,5 +1,5 @@
 ---
-tags: race_specifics, goblinoid
+tags: race_specifics, goblinoid, needs_work
 aliases:
 ---
 Hobgoblins are a #goblinoid race. This means a few things;

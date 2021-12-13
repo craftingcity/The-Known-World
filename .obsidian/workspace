@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "086da386cdeb7028",
+        "id": "e923ff5d12d06652",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Feats.md",
+            "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2c09eaec75403bff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#world",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Feats.md",
+                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Feats.md",
+                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Feats.md"
+                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md"
               }
             }
           },
@@ -153,17 +142,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "086da386cdeb7028",
+  "active": "e923ff5d12d06652",
   "lastOpenFiles": [
-    "Custom Feats.md",
-    "Varis anad Amashod's Story.md",
+    "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
     "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
-    "MAIN/World Wide Happenings/Coalition City/Coalition City.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
-    "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
-    "MAIN/Nations/The Kingdom of Prosper/Blood Hobgoblin Clan Pact.md",
+    "MAIN/Game Notes/Heritages/Eladrin Specifics.md",
     "MAIN/Game Notes/Heritages/Hobgoblin Specifics.md",
-    "MAIN/Game Notes/Heritages/Eladrin Specifics.md"
+    "MAIN/Game Notes/Prime Timeline.md",
+    "Custom Feats.md",
+    "MAIN/Game Notes/Historical Markings.md",
+    "MAIN/Game Notes/A Grand Notepad.md",
+    "Varis anad Amashod's Story.md",
+    "MAIN/World Wide Happenings/Coalition City/Coalition City.md"
   ]
 }
