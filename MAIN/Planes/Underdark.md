@@ -40,4 +40,15 @@ The largest dwarven settlement this side of the surface, a mining town, soon to 
 
 The dwarves of Forgehome have grown rightly suspect of outsiders, and will only allow parties including their dwarven cousins to seek semipermanent refuge here, although if they are proven trustworthy, the denizens are willing to commit trade. [[Bosi]] runs the "Outlander Exchange" in Forgehome, and is one of the few trusted to engage with outsiders.
 
+Forgehome keeps contact with [[Mountain Hall]], the nearest dwarven kingdom, and much of the trade flowing from Forgehome goes through there.
+
+The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep.
+
+### Maelbrathyr
+Known to some as "the Taken Place", this was once a proud city in the Marshes of the [[The Democratic Combine of Peoples|southwest]]. It now rests at the edge of a massive abyss, its tiers giving a great view into a painful death.
+
+The citizenry is composed of many teiflings, and each from a noble house of old. 
+
+### Dark Lake 
+
 # Depths
