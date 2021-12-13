@@ -30,3 +30,8 @@ Dragons make their homes here too.
 
 # History
 Few communities of humans live in the underdark, and those that do are no longer truly human. Madness and adaption has led even the people of "Refuge" to become something other; translucent skin, light hair, wiry frames from eating the moss and mud and rock. "Refuge" is guarded by a group of cursed adventurers that turn to and from stone, only defending when absolutely necessary.
+
+# Shallows
+The Kings Highway rarely reaches the shallows. This is where most visitors and non-natives stop their journeys.
+
+# Depths

@@ -12,4 +12,6 @@ Which means we have to prep more for the first two; Getting to the underdark, an
 
 I imagine that [[Varis]] and [[Amashod]] would suggest heading to the place that they exited the Underdark from, and I think that it would make sense for the portal to still be there, but the cave it was in has refilled its inhabitence and the tunnels from the surface into the deep have changed.
 
-- 
+- [ ] Build/Find a dungeon crawl for the "portal to the underdark" to be in
+
+After they're in the Shallows, they need to get to the Deep before they can get any real information on specifics of Drow goings on. An ally made in the Shallows can guide them, or simply point the way. Maybe they also have a reason to traverse the Deep.
