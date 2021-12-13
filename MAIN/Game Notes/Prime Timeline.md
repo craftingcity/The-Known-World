@@ -11,7 +11,9 @@ date: 000AF
 title: The Fall
 content: 
 
-[[Tetrimoc]] falls, the timeline begins.
+[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember.
+
+date: 
 
 date: 025AF
 title: A long Wait

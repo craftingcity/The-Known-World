@@ -18,7 +18,7 @@ The desert's common is largely based on the languages of Dragons and Gnolls; dra
 
 Population distribution is as follows; one may...
 - commonly find the "races of men", such as human, halflings, dwarves
-- commonly find the "monstrous races", such as gnoll, bugbear, goblin
+- commonly find the "monstrous races", such as gnoll and "domesticated  #goblinoid"
 - uncommonly find elven folk
 - uncommonly find the "exotic races" such as dragonborn, goliaths, tiefling, kenku
 

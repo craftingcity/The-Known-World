@@ -12,5 +12,4 @@ the level 11 ranger level 3 cleric
 15 years rescuing [[Varis]]
 here for 25 years before dying
 died in [[Kailkeep]], under [[Arthur Simonson]]'s command.
-was resurrected by [[Kakurak]], been less than a year
-
+was resurrected by [[Kakurak]], been maybe a month.

@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e923ff5d12d06652",
+        "id": "bae28bf6a2b5cf54",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/Civilians/Travis.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "645a618266e3fa92",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7c42a50018937155",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
+            "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
             "mode": "source"
           }
         }
@@ -90,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
+                "file": "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md"
               }
             }
           },
@@ -164,17 +142,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "7c42a50018937155",
+  "active": "bae28bf6a2b5cf54",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Prime Timeline.md",
+    "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
+    "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/NPCs/Civilians/Travis.md",
     "MAIN/Planes/Feywild.md",
     "MAIN/Planes/Underdark.md",
     "MAIN/Game Notes/A Grand Notepad.md",
     "MAIN/Game Notes/NPCs/Player Allies/Marcus.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Nov 27.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md"
+    "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md"
   ]
 }
