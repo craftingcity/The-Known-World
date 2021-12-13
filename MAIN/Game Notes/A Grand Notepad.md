@@ -7,6 +7,7 @@ I want to make the lore of my world cool and interactive. [[Historical Markings]
 
 What if [[Kakurak]] died and turned into a lich's pet?
 
+Blood of [[Travis]]; "Blood of a brother..."
 
 # NEXT SESSION
 
