@@ -24,8 +24,18 @@ date: 025AF
 title: A long Wait
 content:
 
-Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years. It's veiw omits 
+Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the current worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years. It's veiw omits some key features of this period, such as...
 
+date: 028AF
+title: Minyostalma Falls
+content:
+
+In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy. It was burned. The remains of the other humaniod settlements in that area didn't survive the [[50 Year Fires|immolation]], but [[The Old|Minyostalma's Ruins]]
+
+date: 056AF
+title: [[Unification|Prosper Makes Peace]]
+content:
+[[Arthur Simonson|The Great Adventurer King]] seals the 
 
 
 date: 073AF
