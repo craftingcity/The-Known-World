@@ -20,9 +20,9 @@ Groups of dwarves live here in the underdark. Forged from the stone above, and d
 
 Their far cousins, the Duergar, work the stone of this plane as the dwarves do above, but have little care for the honor and companionship of traditional dwarven families. Carved from the rock of the Deep, Duergar take slaves to mine for them and to eat.
 
-Unnatural oozes and mushrooms make their home in the tunnels and dark forests of this place. These "natural threats" are tended by Troglodytes who grow their food and scavenge what they can from others.
+Unnatural oozes and mushrooms (such as the fearsome Deathcap) make their home in the tunnels and dark forests of this place. These "natural threats" are tended by Troglodytes who grow their food and scavenge what they can from others.
 
-Aberrations like Grik, Beholder, etc. come from the Spawning Fields. The Mind Flayers come from there too, but make their homes in the deeper dungeons and ruins that are scattered around this plane.
+Aberrations like Grik, Beholder, etc. come from the Spawning Fields. The Mind Flayers come from there too, but make their homes in the deeper dungeons and ruins that are scattered around this plane. The pack hunting plate-beasts known as Kruthik are one of the less terrifying natural born threats here in the underdark.
 
 The #goblinoid have always been here, although they quickly lost to the drow's cunning and the duergar's hatred. Some small cities exist, and few would trust a humaniod.
 

@@ -9,3 +9,7 @@ It looks to me like the players are headed into the underdark to rescue their fr
 Cool! This seems like a lot of stuff I don't have to figure out right now and or already have the big picture for. [[Bardaux]] is being held somewhere secret, a [[The Whitimore|Whitimore]] compound somewhere hidden in the Deep. Only some higher ranking members of the House would know where this place is, let alone that it (specifically) exists. They wont be directly interacting with this on their next session, and if they do, your word is law, but do not let that prevent you from speaking.
 
 Which means we have to prep more for the first two; Getting to the underdark, and braving its threats on the hunt for information. see [[Underdark]] for a rundown of the general stuffs about the underdark.
+
+I imagine that [[Varis]] and [[Amashod]] would suggest heading to the place that they exited the Underdark from, and I think that it would make sense for the portal to still be there, but the cave it was in has refilled its inhabitence and the tunnels from the surface into the deep have changed.
+
+- 
