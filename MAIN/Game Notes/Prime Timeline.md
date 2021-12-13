@@ -13,6 +13,8 @@ content:
 
 [[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
+
+
 date: 013AF
 title: A young [[Arthur Simonson]] makes moves
 content:
@@ -22,7 +24,7 @@ date: 025AF
 title: A long Wait
 content:
 
-Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years.
+Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years. It's veiw omits 
 
 
 
