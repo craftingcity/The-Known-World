@@ -12,3 +12,5 @@ Very very few know the true nature of the dragon. The copy of his journal that i
 He has not been seen in many years. Not so many that people have forgotten that he is real, but so many that babies have been born who have not seen him fly. 
 
 Much iconography can be seen of him in [[The Golden City]], and his wealth and glory and benevolence is mentioned in most text found in the desert. 
+
+[[Golden Claws]] rule [[The Golden City]] in his name.

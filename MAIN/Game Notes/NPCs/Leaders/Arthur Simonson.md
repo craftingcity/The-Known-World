@@ -30,5 +30,17 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Ca
 - Adventurer King
 - Slayer of Garanbik
 - Grand Poohba of the [[Simonson Clan]]
-- The Great Liberator
+- The Great Liberator of the Holdings
+	- [[Yerba]]
+	- [[Moonlight]]
+	- [[Magius]]
+	- [[Ethera]]
+	- [[Theurgi]]
+	- [[Benders]]
+	- [[Diables]]
+	- [[Vitalities]]
+	- [[Ardor]]
+	- [[Glamora]]
+	- [[Esoteriques]]
+	- [[Aurgurs]]
 - King of Prosper

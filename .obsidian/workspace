@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
+            "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md"
+                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
               }
             }
           },
@@ -144,6 +144,8 @@
   },
   "active": "e923ff5d12d06652",
   "lastOpenFiles": [
+    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+    "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
     "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
     "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
     "MAIN/Game Notes/Heritages/Eladrin Specifics.md",
@@ -151,8 +153,6 @@
     "MAIN/Game Notes/Prime Timeline.md",
     "Custom Feats.md",
     "MAIN/Game Notes/Historical Markings.md",
-    "MAIN/Game Notes/A Grand Notepad.md",
-    "Varis anad Amashod's Story.md",
-    "MAIN/World Wide Happenings/Coalition City/Coalition City.md"
+    "MAIN/Game Notes/A Grand Notepad.md"
   ]
 }
