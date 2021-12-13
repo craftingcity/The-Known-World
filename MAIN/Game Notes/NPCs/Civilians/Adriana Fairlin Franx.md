@@ -17,7 +17,7 @@ She is are responsible for writing the Guild's official historical texts; these 
 
 ## Location
 Franx works in the Guild Offices of [[Coalition City]]
-They live
+They live in the Upper side of the Moss Ward.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

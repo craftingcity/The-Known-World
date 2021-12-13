@@ -1,1 +1,0 @@
-[[Varis]] and [[Amashod]] were born to their parents, who were [[Eladrin Specifics]], in the [[The Planes of Existence#The Feywild|Feywild]]. They came to prime material plane at its beginning, [[Prime Timeline#The Age of Beginning]]. 

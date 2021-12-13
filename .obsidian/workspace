@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+            "file": "Custom Feats.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+                "file": "Custom Feats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+                "file": "Custom Feats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md"
+                "file": "Custom Feats.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "086da386cdeb7028",
   "lastOpenFiles": [
+    "Custom Feats.md",
+    "Varis anad Amashod's Story.md",
     "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+    "MAIN/World Wide Happenings/Coalition City/Coalition City.md",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
     "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
     "MAIN/Nations/The Kingdom of Prosper/Blood Hobgoblin Clan Pact.md",
-    "Untitled.md",
-    "Hobgoblin Specifics.md",
-    "Eladrin Specifics.md",
-    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "Simonson Clan.md"
+    "MAIN/Game Notes/Heritages/Hobgoblin Specifics.md",
+    "MAIN/Game Notes/Heritages/Eladrin Specifics.md"
   ]
 }
