@@ -20,3 +20,6 @@ Unnatural oozes and mushrooms make their home in the tunnels and dark forests of
 
 Aberrations like Grik, Beholder, etc. come from the Spawning Fields.
 
+# History
+Dwarves held a city here once; Deepreach. It fell long ago. Now the communities of dwarves here 
+
