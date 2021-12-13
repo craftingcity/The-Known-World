@@ -6,15 +6,15 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-Enoch is a Paladin of 
+Enoch is a Paladin of Conquest who Captains the Guard of [[Baskin]].
 
-A politic of theirs that players would interact with.
+He is currently enforcing rebuilding efforts in the city. He believes he is strong, and will become stronger if he is not enough. He rules with an Iron Fist for his charge.
 
 ## History
-A general history of the character, from their conception to their current state
+Enoch, like most of the other elves of this land, was born in the Feywild and immigrated near [[Prime Timeline#The Age of Beginning|its infancy]]. He survived the [[50 Year Fires]], and aligned himself with [[The Church of the White Flame]]. He enlisted in their Guardianship Program
 
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+Enoch rarely resides anywhere other than [[Baskin]]'s garrison, his home, or wherever he is called for assistance and conquer.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
