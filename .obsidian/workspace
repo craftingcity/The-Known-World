@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "preview"
+            "file": "Underdark.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travis.md",
+                "file": "Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travis.md",
+                "file": "Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travis.md"
+                "file": "Underdark.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "e923ff5d12d06652",
+  "active": "4c50c3e9da2e7da2",
   "lastOpenFiles": [
+    "Underdark.md",
+    "Feywild.md",
+    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "Travis.md",
     "MAIN/Game Notes/A Grand Notepad.md",
     "Marcus.md",
     "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md",
     "MAIN/Game Notes/Prenotes/Prenotes Nov 27.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "Enoch Ben.md",
-    "Valerio Avishalom.md",
-    "MAIN/Game Notes/NPCs/Player Allies/Kakurak.md"
+    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md"
   ]
 }
