@@ -9,29 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "19c3c6bb5ec380fe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Valerio Avishalom.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "adbf41f12e45796a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Enoch Ben.md",
+            "file": "Marcus.md",
             "mode": "source"
           }
         }
@@ -101,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enoch Ben.md",
+                "file": "Marcus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enoch Ben.md",
+                "file": "Marcus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enoch Ben.md"
+                "file": "Marcus.md"
               }
             }
           },
@@ -175,17 +153,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "adbf41f12e45796a",
+  "active": "e923ff5d12d06652",
   "lastOpenFiles": [
+    "Marcus.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Nov 27.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "Enoch Ben.md",
     "Valerio Avishalom.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
     "MAIN/Game Notes/NPCs/Player Allies/Kakurak.md",
     "MAIN/Game Notes/NPCs/Loreful/Waywalket Turring.md",
-    "MAIN/Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
-    "MAIN/Game Notes/NPCs/Loreful/The Old Man.md",
-    "MAIN/Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Game Notes/NPCs/Loreful/Amelia Simonson.md"
+    "MAIN/Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md"
   ]
 }

@@ -2,7 +2,7 @@
 tags: npc, needs_work
 aliases:
 ---
-# Name of Char
+# Marcus
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
