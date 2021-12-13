@@ -65,6 +65,7 @@
     "cantrip",
     "spellslot",
     "Metamagic",
-    "spellcasting"
+    "spellcasting",
+    "communicaes"
   ]
 }

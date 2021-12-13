@@ -24,3 +24,6 @@ Population distribution is as follows; one may...
 
 #### Places of Note
 [[Kickoff]]
+
+## Important Symbolism
+[[Golden Claws#Symbolism]]
