@@ -9,18 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Travis.md",
+            "file": "MAIN/Game Notes/NPCs/Civilians/Travis.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "4c50c3e9da2e7da2",
+        "id": "645a618266e3fa92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Underdark.md",
+            "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c42a50018937155",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/Prime Timeline.md",
             "mode": "source"
           }
         }
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underdark.md",
+                "file": "MAIN/Game Notes/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underdark.md",
+                "file": "MAIN/Game Notes/Prime Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark.md"
+                "file": "MAIN/Game Notes/Prime Timeline.md"
               }
             }
           },
@@ -153,15 +164,15 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "4c50c3e9da2e7da2",
+  "active": "7c42a50018937155",
   "lastOpenFiles": [
-    "Underdark.md",
-    "Feywild.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/Prime Timeline.md",
-    "Travis.md",
+    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+    "MAIN/Game Notes/NPCs/Civilians/Travis.md",
+    "MAIN/Planes/Feywild.md",
+    "MAIN/Planes/Underdark.md",
     "MAIN/Game Notes/A Grand Notepad.md",
-    "Marcus.md",
+    "MAIN/Game Notes/NPCs/Player Allies/Marcus.md",
     "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md",
     "MAIN/Game Notes/Prenotes/Prenotes Nov 27.md",
     "MAIN/Game Notes/Prenotes/Prenotes Nov 22.md"

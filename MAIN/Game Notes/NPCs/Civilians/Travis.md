@@ -6,7 +6,7 @@ aliases:
 
 > An image of a drow; struggling against another - some guard figure - frozen in ice.
 
-A description of their function in the world.
+
 
 A politic of theirs that players would interact with.
 
