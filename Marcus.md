@@ -4,7 +4,7 @@ aliases:
 ---
 # Marcus
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A tall satyr wearing a vest and only his furs. 
 
 A description of their function in the world.
 
