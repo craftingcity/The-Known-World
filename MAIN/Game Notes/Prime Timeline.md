@@ -11,12 +11,12 @@ date: 000AF
 title: The Fall
 content: 
 
-[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic Goliath wandering their mountians, some .
+[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
 date: 013AF
 title: A young [[Arthur Simonson]] makes moves
 content:
-[[The Kingdom of Prosper]] begins with Arthur raising his sword against [[The Arstoviches]], and freeing the humaniod settlements in the northeast from tryanny and constant war. [[Blood Hobgoblin Clan Pact#Peace|Peace]] was made under Prosper's [[Unification]].
+[[The Kingdom of Prosper]] begins with Arthur raising his sword against [[The Arstoviches]], and freeing the humaniod settlements in the northeast from tryanny and constant war. [[Blood Hobgoblin Clan Pact#Peace|Peace]] will be made under Prosper's [[Unification]].
 
 date: 025AF
 title: A long Wait

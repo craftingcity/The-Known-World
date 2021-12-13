@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+            "file": "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
+                "file": "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "0eee50c083ab7da6",
+  "active": "9aaa0f28fac4a936",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Prime Timeline.md",
+    "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
     "MAIN/Game Notes/NPCs/Civilians/Travis.md",
     "MAIN/Planes/Feywild.md",
     "MAIN/Planes/Underdark.md",
     "MAIN/Game Notes/A Grand Notepad.md",
-    "MAIN/Game Notes/NPCs/Player Allies/Marcus.md",
-    "MAIN/Game Notes/Prenotes/Prenotes Oct 10.md"
+    "MAIN/Game Notes/NPCs/Player Allies/Marcus.md"
   ]
 }
