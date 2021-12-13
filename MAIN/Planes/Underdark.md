@@ -49,6 +49,18 @@ Known to some as "the Taken Place", this was once a proud city in the Marshes of
 
 The citizenry is composed of many teiflings, and each from a noble house of old. 
 
-### Dark Lake 
+### Dark Lake Ziggurat
+Kuo-toas surround the dark lake and make their home in it. The Ziggurat is alien in construction, too perfect to be made by hand, too imperfect to be made by divine. The Kuo-toas protect the Ziggurat and worship it.
+
+The Ziggurat connects the planes, and is one of the so called [[Anchors of the Multiverse]]
+
+### Hraak Azul
+A flowing mushroom city inhabited (unnecessarily) by clans of troglodyte. The troglodytes use the fungal altars to create colored Scales that they value highly.
+
+### Howling Warrens
+No food grows here. The water is polluted. Feral humanoids make their home here and hunt eachother, but they are not the greatest threat. The sounds of the cavetunnels generate a horrible piercing wail. Below this place, one of Torog's Torture Chambers lies here ([[Glutton's Teeth]], to be accurate). The implements of destruction are a boon for some, but a healthy dose of reality should be doled to those who attempt to enter; this is the place of an angry god.
+
+### Hunting Grounds
+Groups of young dragon congregate here, food being plentiful for them, and hunt lesser prey together for the continued survival of themselves. Old dragons are run out, as they could easily disrupt the balance of the Grounds.
 
 # Depths
