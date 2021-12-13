@@ -2,6 +2,7 @@
 tags: plane
 aliases: The Deep Below, Deep Below
 ---
+I've stolen a lot of junk from [this pdf](https://img.fireden.net/tg/image/1517/28/1517289863662.pdf).
 
 # Structure
 The Underdark is known for two sections; the shallows and the deep. The shallows and the deep mix like anything else in the worlds. The features of this place change, and over the weeks and months, the rock breathes and moves.
@@ -33,5 +34,10 @@ Few communities of humans live in the underdark, and those that do are no longer
 
 # Shallows
 The Kings Highway rarely reaches the shallows. This is where most visitors and non-natives stop their journeys.
+
+### Forgehome
+The largest dwarven settlement this side of the surface, a mining town, soon to be moved on from. The Mayors (not Kings, as this is an impermanent place) rule this place, and are typically other dwarves. The people of Forgehome still recall the reign of Keldo, the halfling, as a prosperous peace time for the city.
+
+The dwarves of Forgehome have grown rightly suspect of outsiders, and will only allow parties including their dwarven cousins to seek semipermanent refuge here, although if they are proven trustworthy, the denizens are willing to commit trade. [[Bosi]] runs the "Outlander Exchange" in Forgehome, and is one of the few trusted to engage with outsiders.
 
 # Depths
