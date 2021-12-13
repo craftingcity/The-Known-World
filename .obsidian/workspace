@@ -4,35 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9aaa0f28fac4a936",
+        "id": "dcd8fa13e660863b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Historical Markings.md",
+            "file": "MAIN/Planes/Underdark.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7b116657eef59d52",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0eee50c083ab7da6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "preview"
           }
         }
       }
@@ -90,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "MAIN/Planes/Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "MAIN/Planes/Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+                "file": "MAIN/Planes/Underdark.md"
               }
             }
           },
@@ -164,17 +142,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "7b116657eef59d52",
+  "active": "dcd8fa13e660863b",
   "lastOpenFiles": [
+    "MAIN/Planes/Underdark.md",
+    "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "King Snure.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "Golden Claws.md",
-    "MAIN/World Wide Happenings/Coalition City/Coalition City.md",
-    "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
-    "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
+    "MAIN/World Wide Happenings/Coalition City/Coalition City.md"
   ]
 }
