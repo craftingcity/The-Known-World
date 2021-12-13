@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2cecc67e77ebf2bc",
+        "id": "086da386cdeb7028",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
-            "mode": "preview"
+            "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+            "mode": "source"
           }
         }
-      },
-      {
-        "id": "06af896a80a66a09",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "a5743f420d085646",
-        "type": "split",
-        "children": [
-          {
-            "id": "a3156f77355b3a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blood Hobgoblin Clan Pact.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "036975e9732fa712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blood Hobgoblin Clan Pact.md",
+                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blood Hobgoblin Clan Pact.md",
+                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blood Hobgoblin Clan Pact.md"
+                "file": "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md"
               }
             }
           },
@@ -182,17 +142,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "a3156f77355b3a2c",
+  "active": "086da386cdeb7028",
   "lastOpenFiles": [
-    "Blood Hobgoblin Clan Pact.md",
-    "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
+    "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+    "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
+    "MAIN/Nations/The Kingdom of Prosper/Local Lore/The Hobgoblin Wars.md",
+    "MAIN/Nations/The Kingdom of Prosper/Blood Hobgoblin Clan Pact.md",
     "Untitled.md",
     "Hobgoblin Specifics.md",
-    "Eladrin.md",
+    "Eladrin Specifics.md",
     "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "Simonson Clan.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Amashod.md"
+    "Simonson Clan.md"
   ]
 }
