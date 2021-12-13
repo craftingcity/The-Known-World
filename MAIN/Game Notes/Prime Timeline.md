@@ -35,7 +35,7 @@ In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was 
 date: 056AF
 title: [[Unification|Prosper Makes Peace]]
 content:
-[[Arthur Simonson|The Great Adventurer King]] seals the 
+[[Arthur Simonson|The Great Adventurer King]] seals the deal with the other hobgoblin clans, and a tense peace comes through after the civil wars in cities around the area. 
 
 
 date: 073AF

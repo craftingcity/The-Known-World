@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c17664f18b6f202a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Old.md",
+            "file": "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
             "mode": "source"
           }
         }
@@ -32,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
+                "file": "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
+                "file": "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md"
               }
             }
           },
@@ -164,17 +153,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "0eee50c083ab7da6",
+  "active": "9aaa0f28fac4a936",
   "lastOpenFiles": [
-    "MAIN/Game Notes/Prime Timeline.md",
-    "The Old.md",
+    "MAIN/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
     "MAIN/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
+    "MAIN/Game Notes/Prime Timeline.md",
+    "MAIN/Nations/Lands of the Great White Flame/The Old.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "MAIN/Nations/The Lands of Tetrimoc/The Outlands.md",
     "MAIN/Game Notes/NPCs/Civilians/Travis.md",
     "MAIN/Planes/Feywild.md",
-    "MAIN/Planes/Underdark.md",
-    "MAIN/Game Notes/A Grand Notepad.md"
+    "MAIN/Planes/Underdark.md"
   ]
 }
