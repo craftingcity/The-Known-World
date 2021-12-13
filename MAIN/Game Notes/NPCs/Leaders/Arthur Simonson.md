@@ -4,7 +4,7 @@ aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
 # The Great Adventurer King, Arthur Simonson
 
-> A tall half-hobgoblin-human man with dark curly hair and brown skin. He wears a set of leather armor underneath a large blue royal coat. Atop his head sits a platinum circlet spiked with gold.
+> A tall well kept half-hobgoblin-human man with dark curly hair. He wears a set of leather armor underneath a large blue royal coat. Atop his head sits a platinum circlet spiked with gold.
 
 Arthur is an un-aging adventurer king. He holds many [[#Titles]], which [[Balthazar Wumfingle|his attendant]] refuses not to say, but prefers to be known to his friends as Artie.
 

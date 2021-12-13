@@ -9,8 +9,41 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+            "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "19c3c6bb5ec380fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Valerio Avishalom.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "adbf41f12e45796a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Enoch Ben.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4c50c3e9da2e7da2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Game Notes/Prime Timeline.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Enoch Ben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "Enoch Ben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md"
+                "file": "Enoch Ben.md"
               }
             }
           },
@@ -142,17 +175,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "e923ff5d12d06652",
+  "active": "adbf41f12e45796a",
   "lastOpenFiles": [
-    "MAIN/Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "MAIN/Game Notes/NPCs/Deity-like/Tetrimoc.md",
-    "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
-    "MAIN/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
-    "MAIN/Game Notes/Heritages/Eladrin Specifics.md",
-    "MAIN/Game Notes/Heritages/Hobgoblin Specifics.md",
+    "Enoch Ben.md",
+    "Valerio Avishalom.md",
+    "MAIN/Game Notes/Prenotes/Prenotes Dec 11.md",
+    "MAIN/Game Notes/NPCs/Player Allies/Kakurak.md",
+    "MAIN/Game Notes/NPCs/Loreful/Waywalket Turring.md",
+    "MAIN/Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
+    "MAIN/Game Notes/NPCs/Loreful/The Old Man.md",
+    "MAIN/Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
     "MAIN/Game Notes/Prime Timeline.md",
-    "Custom Feats.md",
-    "MAIN/Game Notes/Historical Markings.md",
-    "MAIN/Game Notes/A Grand Notepad.md"
+    "MAIN/Game Notes/NPCs/Loreful/Amelia Simonson.md"
   ]
 }
