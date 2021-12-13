@@ -29,6 +29,8 @@ The #goblinoid have always been here, although they quickly lost to the drow's c
 
 Dragons make their homes here too. 
 
+Purple worms.
+
 # History
 Few communities of humans live in the underdark, and those that do are no longer truly human. Madness and adaption has led even the people of "Refuge" to become something other; translucent skin, light hair, wiry frames from eating the moss and mud and rock. "Refuge" is guarded by a group of cursed adventurers that turn to and from stone, only defending when absolutely necessary.
 
