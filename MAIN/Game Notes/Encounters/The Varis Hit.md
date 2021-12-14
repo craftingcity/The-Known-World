@@ -7,7 +7,7 @@ This is an ambush by a group of Elite Drow. This is a Deadly encounter for a 4 p
 
 1 Captain, 1 Healer, 3 Bruiser, 4 Sniper.
 
-This is the encounter with [[The Whitimore]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close. They will not engage if the party has the *iron horn of valhalla* available, and will attempt to swipe it if necessary.
+This is the encounter with [[The Whitimore Files]] that the current party is going to encounter. It is tailored to beat the main threats as best they can, i.e. the Whitimore are going to target Varis first at all times, lock down Grod to the best of their ability (see nets and paralysis poison), and engage Bardaux and Amashod up close. They will not engage if the party has the *iron horn of valhalla* available, and will attempt to swipe it if necessary.
 
 ## Insults and Phrases
 https://www.elfdict.com/

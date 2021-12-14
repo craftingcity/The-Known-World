@@ -1,31 +1,32 @@
 ---
 tags: fronts
-aliases: Whitimore Drow, Whitimore
+aliases: Whitimore Drow, Whitimore, The Whitimore
 ---
 
 This is using the [front](https://www.dungeonworldsrd.com/gamemastering/fronts/) rules from DW.
 
-## Adventure Front: Codename 
+## Adventure Front: The Whitimore Files 
 
 ### Dangers
-#### [[The Whitimore]]
+#### [[The Whitimore Files|The Whitimore]]
 
 **The Whitimore Drow** are a anarcho-sadist/pro-oppression/pro-resistance *force of chaos* originating in the Underdark bent on assisting those they please and continually destroying society for the benifit of noone purposefully (*impulse: to destroy all semblance of order*). They are making attempts at the powerful theocracy of The Church of the White Flame, and plan to establish a state of sado-anarchy in this land.
+
+The whole house has fallen from grace by the inaction of [[Do'gamet Whitimore]], the ex-matriarch. The house has been sent from the city of [[Erelhei-Cinlu]], and they shall not return until they can prove themselves worthy of a seat at the big kids table. They plan an uprising into the surface world, and wish to use [[Varis|the son of Lolth's son]] as a political or military gamepiece, either to bind or to lead.
 
 **The Prophecy**
 - [x] Assist the Hill Giants in entering the Prime plane
 - [ ] Fuck those adventurers messing with our plans
-- [ ] Assist the Fire King in ruining [[The Holy'lnds]]
-- [ ] Disempose the Giant's power, leave them stranded
+- [ ] Get Varis on board; any means necessary
+- [ ] Win the Underdark :)
 
 **Impending Doom**
 Rampant Chaos; the laws and order of the land and our natural world is dissolved into nothingness. Pain and misfortune befalls the common.
 
 **Cast**
-[[Alylay Do'ghym]], the matriarch
+[[Alylay Whitimore]], the matriarch
 
 **Stakes**
-How will the party respond to the attack?
 
 **Movelist**
 

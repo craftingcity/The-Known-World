@@ -4,7 +4,7 @@ tags: notes
 # Prenotes for Dec 11th
 So far, [[The Whitimores]] have played only a background role in the story. I want them on the main stage alongside the Fire Giants of [[King Snure]].
 
-If the party waits for over a few days, the [[The Whitimore]] may execute [[Jarl Grungar]] for failing to maintain the plan. The loyal Frost Giants are spared, and align themselves with [[King Snure]] for the "grand invasion". This event will happen a week after the Jarl's Execution.
+If the party waits for over a few days, the [[The Whitimore Files]] may execute [[Jarl Grungar]] for failing to maintain the plan. The loyal Frost Giants are spared, and align themselves with [[King Snure]] for the "grand invasion". This event will happen a week after the Jarl's Execution.
 
 - [ ] DM Screen
 - [ ] Module
@@ -20,7 +20,7 @@ In either case, [[The Whitimores]] have plans for these meddling adventurers; a 
 # Postnotes
 This one was mostly improv. Kakurak played no role; Marcus verbally led the party to the town of [[Baskin]], who was the most recent raided city from [[The Assault of the Giant Decenters]]. Their church was covered in ice from the attack and harbored a Remorhaz mating pair, which the party has slain.
 
-[[The Whitimore]] were watching the party, and they saw their opportunity to strike. Bardaux was last to leave the city's church and was shot by a poisoned arrow from a [[The Varis Hit|Whitimore Assassin]], and quickly captured by the extraction team.
+[[The Whitimore Files]] were watching the party, and they saw their opportunity to strike. Bardaux was last to leave the city's church and was shot by a poisoned arrow from a [[The Varis Hit|Whitimore Assassin]], and quickly captured by the extraction team.
 
 "You have something we want [[Bardaux]]... [[Varis]] has a greater role to play. I'm sure we'll speak again..." - An Unnamed Drow
 

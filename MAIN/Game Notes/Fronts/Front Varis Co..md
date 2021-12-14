@@ -9,7 +9,7 @@ This is using the [front](https://www.dungeonworldsrd.com/gamemastering/fronts/)
 At the height of peace in the world, disaster strikes. 
 
 ### Dangers
-#### [[The Whitimore]]
+#### [[The Whitimore Files]]
 
 **The Whitimore Drow** are a anarcho-sadist/pro-oppression/pro-resistance *force of chaos* originating in the Underdark bent on assisting those they please and continually destroying society for the benifit of noone purposefully (*impulse: to destroy all semblance of order*). They are making attempts at the powerful theocracy of The Church of the White Flame, and plan to establish a state of sado-anarchy in this land.
 
