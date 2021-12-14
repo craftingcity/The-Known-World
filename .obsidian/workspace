@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Planes/Underdark.md",
+            "file": "ALT/Amelia Xanthum, the Red.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Planes/Underdark.md",
+                "file": "ALT/Amelia Xanthum, the Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Planes/Underdark.md",
+                "file": "ALT/Amelia Xanthum, the Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Planes/Underdark.md"
+                "file": "ALT/Amelia Xanthum, the Red.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "dcd8fa13e660863b",
   "lastOpenFiles": [
+    "ALT/Amelia Xanthum, the Red.md",
     "MAIN/Planes/Underdark.md",
     "Prenotes Dec XX.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
@@ -163,7 +164,6 @@
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "King Snure.md",
-    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "MAIN/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md"
+    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md"
   ]
 }
