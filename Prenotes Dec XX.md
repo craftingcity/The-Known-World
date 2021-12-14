@@ -10,7 +10,7 @@ Cool! This seems like a lot of stuff I don't have to figure out right now and or
 
 Which means we have to prep more for the first two; Getting to the underdark, and braving its threats on the hunt for information. see [[Underdark]] for a rundown of the general stuffs about the underdark.
 
-I imagine that [[Varis]] and [[Amashod]] would suggest heading to the place that they exited the Underdark from, and I think that it would make sense for the portal to still be there, but the cave it was in has refilled its inhabitence and the tunnels from the surface into the deep have changed.
+I imagine that [[Varis]] and [[Amashod]] would suggest heading to the place that they exited the Underdark from, and I think that it would make sense for the portal to still be there, but the cave it was in has refilled its inhabitance and the tunnels from the surface into the deep have changed.
 
 - [ ] Build/Find a dungeon crawl for the "portal to the underdark" to be in
 
