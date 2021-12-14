@@ -16,9 +16,9 @@ The whole house has fallen from grace by the inaction of [[Do'gamet Whitimore]],
 
 **The Prophecy**
 - [x] Assist the Hill Giants in entering the Prime plane
-- [ ] Fuck those adventurers messing with our plans
+- [x] Fuck those adventurers messing with our plans
 - [ ] Get Varis on board; any means necessary
-- [ ] Win the Underdark :)
+- [ ] Invade [[The Planes of Existence|Prime]], again
 
 **Impending Doom**
 Rampant Chaos; the laws and order of the land and our natural world is dissolved into nothingness. Pain and misfortune befalls the common.
