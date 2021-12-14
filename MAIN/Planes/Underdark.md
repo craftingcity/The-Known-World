@@ -12,7 +12,7 @@ The rock of this place is featured; Darkrock drinks in the light of the place, b
 # King's Highway
 The tunnels were the screams of a tortured god, Torog, whom is believed to have finally died. Now Lolth is the Queen of the Underdark, and drow, mindflayer and other factions vie for the throne.
 
-The "King's Highway" is the largest and most permanent tunnels through this plane. The blood of Torog gives magic to it. Crusted blood and puss fill the gouges against the walls and the tunnels themselves. Ranging from 50 to 200 feet in diameter, they are the quickest and most dangerous path through the underdark.
+The "King's Highway" is the largest and most permanent tunnels through this plane. The blood of Torog gives magic to it. Crusted blood and puss fill the gouges against the walls and the tunnels themselves. Ranging from 50 to 200 feet in diameter, they are the quickest yet most dangerous path through the underdark.
 
 # Threats
 Drow make their home in the deep sections of the underdark, and make cities and townships in which to live. 
@@ -40,7 +40,7 @@ The Kings Highway rarely reaches the shallows. This is where most visitors and n
 ### Forgehome
 The largest dwarven settlement this side of the surface, a mining town, soon to be moved on from. The Mayors (not Kings, as this is an impermanent place) rule this place, and are typically other dwarves. The people of Forgehome still recall the reign of Keldo, the halfling, as a prosperous peace time for the city.
 
-The dwarves of Forgehome have grown rightly suspect of outsiders, and will only allow parties including their dwarven cousins to seek semipermanent refuge here, although if they are proven trustworthy, the denizens are willing to commit trade. [[Bosi]] runs the "Outlander Exchange" in Forgehome, and is one of the few trusted to engage with outsiders.
+The dwarves of Forgehome have grown rightly suspect of outsiders, and will only allow parties including their dwarven cousins to seek semi-permanent refuge here, although if they are proven trustworthy, the denizens are willing to commit trade. [[Bosi]] runs the "Outlander Exchange" in Forgehome, and is one of the few trusted to engage with outsiders.
 
 Forgehome keeps contact with [[Mountain Hall]], the nearest dwarven kingdom, and much of the trade flowing from Forgehome goes through there.
 
