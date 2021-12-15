@@ -9,5 +9,7 @@ Here lies a list of funny, interesting, or otherwise encounters set in the [[Und
 - An insidious 11th level human wizard and their trusty [Blood Golem](https://www.5esrd.com/database/creature/blood-golem/)
 - A colony of [Blood Men](https://www.5esrd.com/database/creature/bloodman/)
 - A colony of [Troglodyte]()
-# Kings Highway
+# Kings Highway / Deep
+- A group of Drow transporting goods and or prisioners using a giant fucking beetle
+- A group of Mind Flayers transporting a [Brain Gorger](https://www.5esrd.com/database/creature/brain-gorger/)
 

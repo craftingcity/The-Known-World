@@ -16,3 +16,8 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - [Blood Reaper](https://www.5esrd.com/database/creature/blood-reaper/), solitary hunters
 - [Blood Men](https://www.5esrd.com/database/creature/bloodman/), pack hunting imitations of life
 - "Vampire Dogs" (see [Bloodsapper](https://www.5esrd.com/database/creature/bloodsapper/))
+- [Brain Gorger](https://www.5esrd.com/database/creature/brain-gorger/), mindflayer progenitor
+- [Butatsch](https://www.5esrd.com/database/creature/butatsch/), protector of the weak
+- [Carrion Hound](https://www.5esrd.com/database/creature/carrion-hound/)
+- [Carrion Moth](https://www.5esrd.com/database/creature/carrion-moth/)
+- 
