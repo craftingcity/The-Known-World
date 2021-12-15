@@ -31,3 +31,10 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - [Widow's Blades](https://www.5esrd.com/database/creature/widows-blades/), parasitic wings
 
 # Beasts
+I will only list the more threatening beasts
+- [Death Watch Beetle](https://www.5esrd.com/database/creature/beetle-death-watch/)
+- [Giant Rhinocerous Beetle](https://www.5esrd.com/database/creature/beetle-giant-rhinoceros/)
+- [Goliath Beetle](https://www.5esrd.com/database/creature/beetle-goliath/)
+- [Requim Beetle](https://www.5esrd.com/database/creature/beetle-requiem/)
+- [Demon Spider](https://www.5esrd.com/database/creature/demon-spider/)
+- [Doombat](https://www.5esrd.com/database/creature/doombat/)
