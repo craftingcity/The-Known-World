@@ -4,26 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "3df4f8a161a828c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Planes/Underdark/Underdark Threats.md",
-            "mode": "source"
+        "id": "f01d84b47745f030",
+        "type": "split",
+        "children": [
+          {
+            "id": "b320f5717113a205",
+            "type": "split",
+            "children": [
+              {
+                "id": "3df4f8a161a828c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "e29f7743b92d1edb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MAIN/Planes/Underdark/Underdark.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "7ea346b402db2abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/Game Notes/Fronts/The Whitimore Files.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "e29f7743b92d1edb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Planes/Underdark/Underdark.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "MAIN/Game Notes/Fronts/The Whitimore Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "MAIN/Game Notes/Fronts/The Whitimore Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md"
+                "file": "MAIN/Game Notes/Fronts/The Whitimore Files.md"
               }
             }
           },
@@ -153,17 +178,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "3df4f8a161a828c8",
+  "active": "7ea346b402db2abb",
   "lastOpenFiles": [
+    "MAIN/Game Notes/Fronts/The Whitimore Files.md",
+    "MAIN/Game Notes/Fronts/Front Varis Co..md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "Prenotes Dec XX.md",
-    "MAIN/Game Notes/Fronts/The Whitimore Files.md",
     "ALT/Amelia Xanthum, the Red.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
     "MAIN/Game Notes/Historical Markings.md",
     "MAIN/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    "MAIN/Game Notes/Prime Timeline.md"
   ]
 }

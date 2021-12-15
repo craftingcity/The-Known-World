@@ -39,8 +39,8 @@ Rampant Chaos; the laws and order of the land and our natural world is dissolved
 -   Negotiate a deal
 -   Observe a potential foe in great detail
 
-#### [[The Planes of Existence#The Underdark|Great Below]]
-**The Great Below** is the place below our own. This *shadowland* is not for the feint of heart, and its keeps its own dangers. (*impulse: to corrupt or consume above*).
+#### The Cult of The Blackgate
+**The Cult of the Blackgate** is a *cult*. They serve the [Blackgate Behemoth](https://www.5esrd.com/database/creature/blackgate-behemoth/). They wish to bring it forth, from the depths of the underdark to the surface of the Prime plane.
 
 **The Prophecy**
 The signs that the danger is becoming closer and closer to its impending doom.
