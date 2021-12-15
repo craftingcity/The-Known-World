@@ -14,6 +14,11 @@ Finding places to eat, sleep, and do your work are a task each there own in the 
 
 Light is your greatest ally and your greatest beacon, for worse and rarely better.
 
+## For Varis
+Your experiences in the cells of the slavecarts had you losing track of time. Your were nearly constantly moving, and the darkness of material surrounding the bars of your cage made it near impossible to sense direction. The path was often bumpy and difficult. They made you climb or walk on foot during transit more than once. The climbs were very hard; worse were the beatings when you miss-stepped.
+
+You rarely ate on these journeys. When you did, it was a mush of poor smelling fungi and a 
+
 ## For Amashod
 The rock of this place is special; Alikiear has told you so. Your goblin companion showed you the hopefully unnecessary task of preparing and eating Wormrock, a porous near fleshy kind of stone that can be fried and seasoned with edible mushroom or fungi for an edible meal. They showed you too the brutality of Bloodstone when they ate a troglodyte's neck out in the middle of battle. 
 
