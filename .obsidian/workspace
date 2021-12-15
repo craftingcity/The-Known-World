@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "Underdark Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "Underdark Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md"
+                "file": "Underdark Encounters.md"
               }
             }
           },
@@ -171,13 +171,13 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "3df4f8a161a828c8",
+  "active": "3d55b337dbc4a2d7",
   "lastOpenFiles": [
-    "MAIN/Planes/Underdark/Underdark Threats.md",
     "Underdark Encounters.md",
+    "MAIN/Planes/Underdark/Underdark.md",
+    "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Game Notes/Fronts/The Whitimore Files.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
-    "MAIN/Planes/Underdark/Underdark.md",
     "Prenotes Dec XX.md",
     "ALT/Amelia Xanthum, the Red.md",
     "MAIN/Game Notes/NPCs/Player Characters/Amashod.md",
