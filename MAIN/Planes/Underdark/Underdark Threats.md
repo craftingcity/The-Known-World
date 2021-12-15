@@ -67,4 +67,5 @@ I will only list the more threatening beasts, but sightless rats and bats and ot
 - [Ashcloud](https://www.5esrd.com/database/creature/ashcloud/), single hunter
 - [Bloody Bones](https://www.5esrd.com/database/creature/bloody-bones-3/), commonly drow exiled for poor behavior in a lolth temple
 - [Crypt Thing](https://www.5esrd.com/database/creature/crypt-thing/), guarding the passages to places one does not want to be going.
-- [Ghoul](https://www.dndbeyond.com/monsters/ghoul)
+- [Ghoul](https://www.dndbeyond.com/monsters/ghoul), scavengers
+- [Shadow](https://www.5esrd.com/database/creature/overshadow/), pain spirits
