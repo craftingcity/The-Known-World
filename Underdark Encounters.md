@@ -7,5 +7,7 @@ Here lies a list of funny, interesting, or otherwise encounters set in the [[Und
 
 # The Shallows' Caves
 - An insidious 11th level human wizard and their trusty [Blood Golem](https://www.5esrd.com/database/creature/blood-golem/)
+- A colony of [Blood Men](https://www.5esrd.com/database/creature/bloodman/)
+- A colony of [Troglodyte]()
 # Kings Highway
 
