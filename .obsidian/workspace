@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark.md",
+                "file": "MAIN/Game Notes/Fronts/The Whitimore Files.md",
                 "mode": "source"
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For My Players, On the Underdark.md",
+                "file": "Underdark Drow Houses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For My Players, On the Underdark.md",
+                "file": "Underdark Drow Houses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For My Players, On the Underdark.md"
+                "file": "Underdark Drow Houses.md"
               }
             }
           },
@@ -172,17 +172,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "986317e8b58f0040",
+  "active": "e29f7743b92d1edb",
   "lastOpenFiles": [
-    "For My Players, On the Underdark.md",
     "Underdark Drow Houses.md",
-    "Underdark Flora.md",
+    "MAIN/Game Notes/Fronts/The Whitimore Files.md",
+    "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
+    "For My Players, On the Underdark.md",
     "MAIN/Planes/Underdark/Underdark.md",
+    "Underdark Flora.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "Underdark Encounters.md",
-    "MAIN/Game Notes/Fronts/The Whitimore Files.md",
     "MAIN/Game Notes/Fronts/Front Varis Co..md",
-    "Prenotes Dec XX.md",
-    "ALT/Amelia Xanthum, the Red.md"
+    "Prenotes Dec XX.md"
   ]
 }
