@@ -44,10 +44,7 @@ Rampant Chaos; the laws and order of the land and our natural world is dissolved
 
 **The Prophecy**
 The signs that the danger is becoming closer and closer to its impending doom.
-- [ ] A great force holds above
-- [ ] The Land Cracks Wide
-- [ ] Forth comes the infantry
-
+- [ ] Branded people are excecuted
 **Impending Doom**
 Impoverishment; enslavement, the abandon of what is good or right. 
 
