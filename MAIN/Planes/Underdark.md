@@ -57,7 +57,7 @@ Kuo-toas surround the dark lake and make their home in it. The Ziggurat is alien
 The Ziggurat connects the planes, and is one of the so called [[Anchors of the Multiverse]]
 
 ### Hraak Azul
-A flowing mushroom city inhabited (unnecessarily) by clans of troglodyte. The troglodytes use the fungal altars to create colored Scales that they value highly.
+A flowing and writhing mushroom city inhabited (unnecessarily) by clans of troglodyte. The troglodytes use the fungal altars to create colored Scales that they value highly.
 
 ### Howling Warrens
 No food grows here. The water is polluted. Feral humanoids make their home here and hunt eachother, but they are not the greatest threat. The sounds of the cavetunnels generate a horrible piercing wail. Below this place, one of Torog's Torture Chambers lies here ([[Glutton's Teeth]], to be accurate). The implements of destruction are a boon for some, but a healthy dose of reality should be doled to those who attempt to enter; this is the place of an angry god.
