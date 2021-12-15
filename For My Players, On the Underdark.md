@@ -24,10 +24,8 @@ The creatures here in the Underdark are nothing like the tales; they're worse. Y
 
 When hunting, you'll be competing with other humanoids, things that eat bones, giant bugs, and horrorbeasts with big teeth!
 
-# Flora
-
 ## For Amashod
-As the "Darkranger Mercenaries" said...
+As the "Darkranger Mercenaries" of Mariul, Amicus, and Triigon said...
 
 "Your greatest threats are Disease, Madness, and Poison. The beasties here will kill you, but many of them would just as easy feed on your corpse after you've killed yourself."
 
@@ -36,3 +34,9 @@ As the "Darkranger Mercenaries" said...
 "Then come the beasties; duergar are the worst. They'll as soon slap a chain around your neck as look at you. A lot of the Drow aren't too friendly either. Too much going on at home. Some of the wild things like Trogs, Goblin, or Bulettes you can just throw some meat at and they'll go away. Some things down here are downright mean though."
 
 They made you read aloud the journal of the woman they were hunting. It was in elvish. They were hunting a bad woman.
+
+# Flora
+Much of the Underdark's flora is as deadly as its fauna; chocking vines and poisoned spore blasting mushrooms are of great concern.
+
+## For Amashod
+
