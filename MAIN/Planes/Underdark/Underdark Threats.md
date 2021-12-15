@@ -47,4 +47,11 @@ I will only list the more threatening beasts
 - Duergar
 - Troglodytes
 - Shallow Human
-- 
+
+# Goblinoids
+- Goblin
+- Kobold
+
+# Monstrosities
+- Basalisk, kept by duergar
+- [Bulette](https://www.dndbeyond.com/monsters/bulette), free roaming hunters
