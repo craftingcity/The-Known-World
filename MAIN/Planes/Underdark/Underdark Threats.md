@@ -5,6 +5,9 @@ aliases:
 
 Here lies a list of viable threats to live in the underdark. Some have some flavor or skin attached, others do not. Enjoy.
 
+# Disease
+see [Diseases and Madness](https://www.5esrd.com/gamemastering/diseases/)
+
 # Aberrations
 Many of these Aberrations would be known only to the people of the Deep, but some could theoretically make their way to the Shallows in search of more prey.
 - The Dark Mushroom People (see [Aetherai](https://www.5esrd.com/database/creature/aetherai/))
@@ -38,3 +41,10 @@ I will only list the more threatening beasts
 - [Requim Beetle](https://www.5esrd.com/database/creature/beetle-requiem/)
 - [Demon Spider](https://www.5esrd.com/database/creature/demon-spider/)
 - [Doombat](https://www.5esrd.com/database/creature/doombat/)
+
+# Humanoids
+- Drow
+- Duergar
+- Troglodytes
+- Shallow Human
+- 
