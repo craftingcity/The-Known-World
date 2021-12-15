@@ -1,5 +1,5 @@
 ---
-tags: encounter
+tags: monster
 aliases:
 ---
 
@@ -12,4 +12,4 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - Ulcanat; "the evil that is" (see [Alien]https://www.5esrd.com/database/creature/alien/)
 - "Bone Eaters" (see [Avulzor](https://www.5esrd.com/database/creature/avulzor/))
 - [Bagiennik](https://www.5esrd.com/database/creature/bagiennik-3pp/)
-- 
+- Froglights, kept by many as pets (see [Blindheim](https://www.5esrd.com/database/creature/blindheim/))

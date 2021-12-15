@@ -44,7 +44,10 @@ Rampant Chaos; the laws and order of the land and our natural world is dissolved
 
 **The Prophecy**
 The signs that the danger is becoming closer and closer to its impending doom.
-- [ ] Branded people are excecuted
+- [ ] Brands appear on commoners around this safezone in the underdark
+- [ ] These people leave, spreading the news of the Black Gate
+- [ ] Enough people become members for the Behemoth to materialize
+- [ ] The Behemoth escapes the underdark
 **Impending Doom**
 Impoverishment; enslavement, the abandon of what is good or right. 
 
