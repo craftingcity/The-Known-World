@@ -22,3 +22,7 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - [Carrion Moth](https://www.5esrd.com/database/creature/carrion-moth/), group scavengers
 - [Caulborn](https://www.5esrd.com/database/creature/caulborn/), peaceful sages (think Ood)
 - [Cerebral Stalkers](https://www.5esrd.com/database/creature/cerebral-stalker/), singular hunters
+- "Spell Spiders" (see [Chelicerae](https://www.5esrd.com/database/creature/chelicerae-3pp/)), hunt alone or with others, including other spider-like creatures and Drow (although it is likely to eat anyone it can get is hands on if it is too hungry)
+- [Chuul](https://www.5esrd.com/database/creature/chuul/), water trappers
+- [Clamor](https://www.5esrd.com/database/creature/clamor/), communicative invisible spirits
+- [Cloaker](https://www.5esrd.com/database/creature/cloaker/), flying hidden hunters
