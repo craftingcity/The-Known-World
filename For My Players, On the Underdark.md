@@ -55,3 +55,7 @@ Giant's Bedroll - This pitcher plant is around eight feet in length, and is freq
 Kavep / Red Bean - These beans are highly poisonous, growing in little bunches along ceilings. They are a brownish color, and receive their name because they cause anyone who eats them to cough blood.
 
 Verr Gourd - This large plant grows alone, and tends to be found near water. Its faint orange color drains to brown as it decays. It makes an excellent container for water, holding around 20 ounces. It is too woody to eat.
+
+Fire Lichen - Pale orange-white in color, fire lichen thrives on warmth. Fire lichen can be ground and fermented into a hot, spicy paste, which is often spread on sporebread to give it flavor. Supposedly Duergar ferment fire lichen into a fiercely hot liquor.
+
+Zurkhwood - This giant mushroom can reach a height of 30 to 40 feet. Its large spores are edible with proper preparation, but zurkhwood is important primarily because its stalks are hard and woody. Zurkhwood is one of the very few sources of timber (or anything like it) in the Underdark, and many items that would be crafted from wood in the surface world are fashioned from zurkhwood in the Realms Below.

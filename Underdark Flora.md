@@ -26,3 +26,20 @@ as stolen from a reddit post
     
 -   Verr Gourd - This large plant grows alone, and tends to be found near water. Its faint orange color drains to brown as it decays. It makes an excellent container for water, holding around 20 ounces. It is too woody to eat.
 
+**Barrelstalk**: Stout as a hogshead of ale, the barrelstalk is a large, cask-shaped fungus that grows up to 8 feet in height and 5 feet in diameter. Its outer layers are tough and woody, but its inner flesh is edible, and its center is filled with a reservoir of water (usually from 20 to 50 gallons) that can be tapped and drained. The inner flesh turns black and poisonous when barrelstalk begins producing spores, which happens after ten years of growth.
+
+**Bluecap**: The grain of the Underdark, bluecap fungus is inedible to humanoids, but its spores can be ground to make a nutritious, if bland, flour. Bread made from bluecap flour is usually known as sporebread. Bluecap seems to do well with or without _faerzress_, and most Underdark humanoids cultivate it.
+
+**Cave Moss**: Found only in _faerzress_-rich regions, cave moss is inedible to humanoids, but it is a favorite grazing food of some giant vermin, as well as rothé.
+
+**Fire Lichen**: Pale orange-white in color, fire lichen thrives on warmth, so it grows in regions of geothermal heat or near connections to the Elemental Plane of Fire. Fire lichen can be ground and fermented into a hot, spicy paste, which is often spread on sporebread to give it flavor. Duergar ferment fire lichen into a fiercely hot liquor.
+
+**Luurden**: Luurden, or bloodfruit, is a rare tree that grows only in areas of strong _faerzress_. The barren branches of this pale, gnarled tree seem more dead than alive, but once every to 4 years, it produces a small amount of bitter red fruit that is used to make rare Underdark wines and elixirs.
+
+**Ripplebark**: A shelflike fungus that resembles nothing so much as a mass of rotting flesh, ripplebark is surprisingly edible without any special preparation, although it tastes much better if cooked properly. Ripplebark grows naturally in living caves.
+
+**Sussur**: Rare and magical, the so-called "deeproot" tree is found only in the largest of caverns. It can grow to a height of 60 feet, and its branches are long and gnarled, with banyanlike aerial roots. Few leaves grow on the sussur; it exists almost entirely on _faerzress_ and is often found in caverns where wizard fire is prevalent, a sussur tree can drink in magic from its environs, so most sussurs are surrounded by antimagic fields that extend for hundreds of feet.
+
+**Waterorb**: This bulbous fungus is aquatic. It grows in boulder-like patches underwater wherever the water deposits detritus.
+
+**Zurkhwood**: This giant mushroom can reach a height of 30 to 40 feet. Its large spores are edible with proper preparation, but zurkhwood is important primarily because its stalks are hard and woody. Zurkhwood is one of the very few sources of timber (or anything like it) in the Underdark, and many items that would be crafted from wood in the surface world are fashioned from zurkhwood in the Realms Below.
