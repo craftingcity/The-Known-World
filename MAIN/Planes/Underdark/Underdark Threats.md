@@ -34,7 +34,7 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - [Widow's Blades](https://www.5esrd.com/database/creature/widows-blades/), parasitic wings
 
 # Beasts
-I will only list the more threatening beasts
+I will only list the more threatening beasts, but sightless rats and bats and other creatures should be visible here
 - [Death Watch Beetle](https://www.5esrd.com/database/creature/beetle-death-watch/)
 - [Giant Rhinocerous Beetle](https://www.5esrd.com/database/creature/beetle-giant-rhinoceros/)
 - [Goliath Beetle](https://www.5esrd.com/database/creature/beetle-goliath/)
@@ -47,6 +47,7 @@ I will only list the more threatening beasts
 - Duergar
 - Troglodytes
 - Shallow Human
+- Doppleganger
 
 # Goblinoids
 - Goblin
@@ -55,3 +56,11 @@ I will only list the more threatening beasts
 # Monstrosities
 - Basalisk, kept by duergar
 - [Bulette](https://www.dndbeyond.com/monsters/bulette), free roaming hunters
+- [Drider](https://www.dndbeyond.com/monsters/drider), allies with Drow
+- [Grick](https://www.dndbeyond.com/monsters/grick), group water hunter
+- [Roper](https://www.dndbeyond.com/monsters/roper), ambush hunter
+- [Umber Hulk](https://www.aidedd.org/dnd/monstres.php?vo=umber-hulk), single hunter
+- [Draegloth](https://www.kassoon.com/dnd/monster-stat-block/409/draegloth/), group hunters for drow
+
+# Undead
+- [Apocalypse Knight](https://www.5esrd.com/database/creature/apocalypse-knight/), territorial, purpose unknown

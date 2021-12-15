@@ -33,6 +33,6 @@ As the "Darkranger Mercenaries" said...
 
 "Second to that; resource management. Food is easy to find here, its just hard to make sure that it isn't you. You've done a great job of that so far, but again, don't kill yourself."
 
-"Then come the beasties; duergar are the worst. They'll as soon slap a chain around your neck as look at you. A lot of the Drow aren't too friendly either. Too much going on at home. Some of the wild things like Trogs, Goblin, or Bulette"
+"Then come the beasties; duergar are the worst. They'll as soon slap a chain around your neck as look at you. A lot of the Drow aren't too friendly either. Too much going on at home. Some of the wild things like Trogs, Goblin, or Bulettes you can just throw some meat at and they'll go away. Some things down here are downright mean though."
 
 They made you read aloud the journal of the woman they were hunting. It was in elvish. They were hunting a bad woman.
