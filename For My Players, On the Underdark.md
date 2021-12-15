@@ -16,8 +16,17 @@ You had heard that they were a collector of shiny things, and bought their trust
 # Fauna
 The creatures here in the Underdark are nothing like the tales; they're worse. You're some tough adventurers, but in the Underdark, your flesh and bone says middle of the food chain.
 
-## For Amashod
-Your greatest threats are Disease, Madness, and Poison. The 
+When hunting, you'll be competing with other humanoids, things that eat bones, giant bugs, and horrorbeasts with big teeth!
+
 # Flora
 
 ## For Amashod
+As the "Darkranger Mercenaries" said...
+
+"Your greatest threats are Disease, Madness, and Poison. The beasties here will kill you, but many of them would just as easy feed on your corpse after you've killed yourself."
+
+"Second to that; resource management. Food is easy to find here, its just hard to make sure that it isn't you. You've done a great job of that so far."
+
+"Then come the beasties; vampire dogs, "
+
+They made you read aloud the journal of the woman they were hunting. It was in elvish. They were Drow. They explained that they
