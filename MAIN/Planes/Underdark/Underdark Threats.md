@@ -26,3 +26,8 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - [Chuul](https://www.5esrd.com/database/creature/chuul/), water trappers
 - [Clamor](https://www.5esrd.com/database/creature/clamor/), communicative invisible spirits
 - [Cloaker](https://www.5esrd.com/database/creature/cloaker/), flying hidden hunters
+- [Lurker Above](https://www.5esrd.com/database/creature/lurker-above/), single hunters
+- [Intellect Devourer](https://www.5esrd.com/database/creature/intellect-devourer/), mind flayer pet
+- [Widow's Blades](https://www.5esrd.com/database/creature/widows-blades/), parasitic wings
+
+# Beasts
