@@ -11,13 +11,14 @@ Many of these Aberrations would be known only to the people of the Deep, but som
 - "Inkfish Dog" (see [Akata](https://www.5esrd.com/database/creature/akata/))
 - Ulcanat; "the evil that is" (see [Alien](https://www.5esrd.com/database/creature/alien/))
 - "Bone Eaters" (see [Avulzor](https://www.5esrd.com/database/creature/avulzor/), [Bone Cobbler](https://www.5esrd.com/database/creature/bone-cobbler/), [Bone Crawler](https://www.5esrd.com/database/creature/bone-crawler/), [Bone Lord](https://www.5esrd.com/database/creature/bone-lord/), [Bonesucker](https://www.5esrd.com/database/creature/bonesucker/))
-- [Bagiennik](https://www.5esrd.com/database/creature/bagiennik-3pp/), "River Tricksters"
-- Froglights, kept by many as pets (see [Blindheim](https://www.5esrd.com/database/creature/blindheim/))
+- [Bagiennik](https://www.5esrd.com/database/creature/bagiennik-3pp/), river tricksters
+- Froglights (see [Blindheim](https://www.5esrd.com/database/creature/blindheim/)), kept by many as pets 
 - [Blood Reaper](https://www.5esrd.com/database/creature/blood-reaper/), solitary hunters
 - [Blood Men](https://www.5esrd.com/database/creature/bloodman/), pack hunting imitations of life
-- "Vampire Dogs" (see [Bloodsapper](https://www.5esrd.com/database/creature/bloodsapper/))
+- "Vampire Dogs" (see [Bloodsapper](https://www.5esrd.com/database/creature/bloodsapper/)), group hunters
 - [Brain Gorger](https://www.5esrd.com/database/creature/brain-gorger/), mindflayer progenitor
 - [Butatsch](https://www.5esrd.com/database/creature/butatsch/), protector of the weak
-- [Carrion Hound](https://www.5esrd.com/database/creature/carrion-hound/)
-- [Carrion Moth](https://www.5esrd.com/database/creature/carrion-moth/)
-- 
+- [Carrion Hound](https://www.5esrd.com/database/creature/carrion-hound/), group scavengers
+- [Carrion Moth](https://www.5esrd.com/database/creature/carrion-moth/), group scavengers
+- [Caulborn](https://www.5esrd.com/database/creature/caulborn/), peaceful sages (think Ood)
+- [Cerebral Stalkers](https://www.5esrd.com/database/creature/cerebral-stalker/), singular hunters
