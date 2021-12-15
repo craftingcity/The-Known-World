@@ -4,6 +4,8 @@ aliases: The Deep Below, Deep Below
 ---
 I've stolen a lot of junk from [this pdf](https://img.fireden.net/tg/image/1517/28/1517289863662.pdf).
 
+[This](https://worldbuilderblog.me/2014/05/06/the-underdark/) was also a good resource to draw from
+
 # Structure
 The Underdark is known for two sections; the shallows and the deep. The shallows and the deep mix like anything else in the worlds. The features of this place change, and over the weeks and months, the rock breathes and moves.
 
