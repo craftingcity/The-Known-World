@@ -28,6 +28,7 @@ Here lies a list of funny, interesting, or otherwise encounters set in the [[Und
 - The tunnel opens into a wide chamber filled with giant mushroom stalks planted in neat rows. The mushroom crops are tended by half a dozen elves who have been blinded and had their tongues cut out. They walk along the rows, feeling the stalks and plucking off insects.
 - A giant spider captured a roving group of bandits and wrapped them up for later. One of the bound bandits killed the spider with a lucky dagger hit, but they are still all bound up and need rescue. If rescued, the bandits are grateful... but they intend to steal their rescuers' supplies and leg it at the first opportunity.
 - The party encounters a caravan of Svirfnebli gemstone traders trekking the gauntlet between two Underdark settlements, they are willing to sell their wares to the party but are unwilling to buy anything except for gemstones at under-market value. The caravan is heavily guarded in order to discourage bandits from attacking this most juicy target
+- [Megadungeon](https://anyflip.com/vbea/zsbi)
 # Kings Highway / Deep
 - A group of Drow transporting goods and or prisioners using a giant fucking beetle
 - A group of Drow on a hunt with some beasties
