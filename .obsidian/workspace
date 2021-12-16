@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark.md",
+                "file": "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
                 "mode": "source"
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark.md",
+                "file": "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark.md",
+                "file": "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark.md"
+                "file": "MAIN/Planes/Underdark/Upper Northwestern Underdark.md"
               }
             }
           },
@@ -163,6 +162,7 @@
   },
   "active": "3df4f8a161a828c8",
   "lastOpenFiles": [
+    "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Game Notes/Fronts/The Whitimore Files.md",
     "House Thoulca.md",
@@ -171,7 +171,6 @@
     "For My Players, On the Underdark.md",
     "Underdark Flora.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
-    "Underdark Encounters.md",
-    "MAIN/Game Notes/Fronts/Front Varis Co..md"
+    "Underdark Encounters.md"
   ]
 }
