@@ -15,3 +15,6 @@ I imagine that [[Varis]] and [[Amashod]] would suggest heading to the place that
 - [ x ] Build/Find a dungeon crawl for the "portal to the underdark" to be in
 
 After they're in the Shallows, they need to get to the Deep before they can get any real information on specifics of Drow goings on. An ally made in the Shallows can guide them, or simply point the way. Maybe they also have a reason to traverse the Deep.
+
+# During Notes
+[[Kursk]]'s introduction has gone well. The classic "walks over to the table and introduces self to party".
