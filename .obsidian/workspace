@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+            "file": "MAIN/Planes/Underdark/Underdark.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4039e431e2a26cc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md"
+                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md"
               }
             }
           },
@@ -142,8 +153,10 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "3ee288080335893e",
+  "active": "4039e431e2a26cc1",
   "lastOpenFiles": [
+    "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
+    "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
     "MAIN/Planes/Underdark/House Thoulca.md",
     "Hey Dm, I go hunting.md",
@@ -151,8 +164,6 @@
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Underdark Flora.md",
     "MAIN/Planes/Underdark/Underdark Drow Houses.md",
-    "MAIN/Game Notes/Prenotes/For My Players, On the Underdark.md",
-    "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
-    "MAIN/Planes/Underdark/Underdark.md"
+    "MAIN/Game Notes/Prenotes/For My Players, On the Underdark.md"
   ]
 }
