@@ -24,6 +24,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "d16c0bae9f983c93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
+                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md"
+                "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md"
               }
             }
           },
@@ -153,8 +164,9 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "4039e431e2a26cc1",
+  "active": "d16c0bae9f983c93",
   "lastOpenFiles": [
+    "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
@@ -163,7 +175,6 @@
     "MAIN/Planes/Underdark/Underdark Encounters.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Underdark Flora.md",
-    "MAIN/Planes/Underdark/Underdark Drow Houses.md",
-    "MAIN/Game Notes/Prenotes/For My Players, On the Underdark.md"
+    "MAIN/Planes/Underdark/Underdark Drow Houses.md"
   ]
 }
