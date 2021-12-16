@@ -6,6 +6,9 @@ aliases:
 Here lies a list of funny, interesting, or otherwise encounters set in the [[Underdark]].
 
 # The Shallows' Caves
+- **death**
+- **disease**
+- **poison**
 - An insidious 11th level human wizard and their trusty [Blood Golem](https://www.5esrd.com/database/creature/blood-golem/)
 - A colony of [Blood Men](https://www.5esrd.com/database/creature/bloodman/)
 - A colony of [Troglodyte]()
@@ -23,6 +26,8 @@ Here lies a list of funny, interesting, or otherwise encounters set in the [[Und
 - The party happens upon a huge cavern that hosts the butchered remains of a battle between Duergar and Drow, a goldmine of non-magic weapons and armor are to be found but the party would need to contend with 1d6+2 Ghouls + 1d4-1 Ghasts (Add an extra dice to each per adventure tier) that are currently occupied with engorging the cadavers but will turn their attention to the party if they attempt to loot the corpses.
 - A skinny man with very little clothes on runs past the party, murmuring words about some sort of quest or unfinished duties, even if the party kills him he will run past the group again the next day. He does not appear the day after.
 - The tunnel opens into a wide chamber filled with giant mushroom stalks planted in neat rows. The mushroom crops are tended by half a dozen elves who have been blinded and had their tongues cut out. They walk along the rows, feeling the stalks and plucking off insects.
+- A giant spider captured a roving group of bandits and wrapped them up for later. One of the bound bandits killed the spider with a lucky dagger hit, but they are still all bound up and need rescue. If rescued, the bandits are grateful... but they intend to steal their rescuers' supplies and leg it at the first opportunity.
+- The party encounters a caravan of Svirfnebli gemstone traders trekking the gauntlet between two Underdark settlements, they are willing to sell their wares to the party but are unwilling to buy anything except for gemstones at under-market value. The caravan is heavily guarded in order to discourage bandits from attacking this most juicy target
 # Kings Highway / Deep
 - A group of Drow transporting goods and or prisioners using a giant fucking beetle
 - A group of Drow on a hunt with some beasties
