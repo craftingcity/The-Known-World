@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+            "file": "Underdark Encounters.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "Underdark Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+                "file": "Underdark Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md"
+                "file": "Underdark Encounters.md"
               }
             }
           },
@@ -145,9 +145,9 @@
   },
   "active": "3df4f8a161a828c8",
   "lastOpenFiles": [
+    "Underdark Encounters.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "Underdark Flora.md",
-    "Underdark Encounters.md",
     "Underdark Drow Houses.md",
     "Hey Dm, I go hunting.md",
     "For My Players, On the Underdark.md",
