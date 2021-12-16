@@ -47,7 +47,7 @@ They made you read aloud the journal of the woman they were hunting. It was in e
 Much of the Underdark's flora is as deadly as its fauna; chocking vines and poisoned spore blasting mushrooms are of great concern.
 
 ## For Varis
-You dealt with the plants of this place most when you were taken somewhere for a task; be it mining, collecting, or being used as bait. There were plants that they told you to eat because "You'll need your strength" like the 
+You dealt with the plants of this place most when you were taken somewhere for a task; be it mining, collecting, or being used as bait. On one trip, you were given a pickaxe, but you were quickly disarmed by the puff of a fungus and fell unconscious. On another, you would collect red berries in weaved baskets that the other slaves warned you not to try to sneak for dual purpose; not only would you be savagely beaten, but the berries are poisonous, instrumental in the poisons the drow use during assassinations, you shouldn't eat them even if you got away with it. 
 
 ## For Amashod
 
