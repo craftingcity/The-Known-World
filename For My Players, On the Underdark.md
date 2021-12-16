@@ -30,7 +30,7 @@ The creatures here in the Underdark are nothing like the tales; they're worse. Y
 When hunting, you'll be competing with other humanoids, things that eat bones, giant bugs, and horrorbeasts with big teeth!
 
 ## For Varis
-
+During your time working in the lower kitchens, you saw great icechambers filled with the corpses of all manner of creature. Large metal headed beasts and bugs of all kind were the most common creatures you saw in the freezer; the rarities were most exciting however. More than once, but not commonly, you would find the corpse of a scaled humanoid. Your most prominent memory was of a black skinned creature that was still slick with mucus hanging from the meathooks. You could swear that its bulbous head was still staring at you, even though you could find no eyes. 
 
 ## For Amashod
 As the "Darkranger Mercenaries" of Mariul, Amicus, and Triigon said...
@@ -45,6 +45,9 @@ They made you read aloud the journal of the woman they were hunting. It was in e
 
 # Flora
 Much of the Underdark's flora is as deadly as its fauna; chocking vines and poisoned spore blasting mushrooms are of great concern.
+
+## For Varis
+You dealt with the plants of this place most when you were taken somewhere for a task; be it mining, collecting, or being used as bait. There were plants that they told you to eat because "You'll need your strength" like the 
 
 ## For Amashod
 
