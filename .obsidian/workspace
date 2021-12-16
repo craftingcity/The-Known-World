@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For My Players, On the Underdark.md",
+                "file": "Underdark Flora.md",
                 "mode": "source"
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For My Players, On the Underdark.md",
+                "file": "Underdark Flora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For My Players, On the Underdark.md",
+                "file": "Underdark Flora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For My Players, On the Underdark.md"
+                "file": "Underdark Flora.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "986317e8b58f0040",
   "lastOpenFiles": [
+    "Underdark Flora.md",
+    "Underdark Encounters.md",
+    "Underdark Drow Houses.md",
+    "Hey Dm, I go hunting.md",
     "For My Players, On the Underdark.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Game Notes/Fronts/The Whitimore Files.md",
-    "House Thoulca.md",
-    "Underdark Drow Houses.md",
-    "MAIN/Game Notes/NPCs/Player Characters/Varis.md",
-    "Underdark Flora.md",
-    "Underdark Encounters.md"
+    "House Thoulca.md"
   ]
 }

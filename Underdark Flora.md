@@ -1,5 +1,5 @@
 ---
-tags:
+tags: Underdark, flora
 aliases:
 ---
 as stolen from a reddit post
