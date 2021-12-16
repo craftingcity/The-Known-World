@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b320f5717113a205",
-        "type": "split",
-        "children": [
-          {
-            "id": "3df4f8a161a828c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "986317e8b58f0040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Underdark Flora.md",
-                "mode": "source"
-              }
-            }
+        "id": "3df4f8a161a828c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MAIN/Planes/Underdark/Underdark Threats.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -57,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#encounter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underdark Flora.md",
+                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underdark Flora.md",
+                "file": "MAIN/Planes/Underdark/Underdark Threats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark Flora.md"
+                "file": "MAIN/Planes/Underdark/Underdark Threats.md"
               }
             }
           },
@@ -160,14 +143,14 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "986317e8b58f0040",
+  "active": "3df4f8a161a828c8",
   "lastOpenFiles": [
+    "MAIN/Planes/Underdark/Underdark Threats.md",
     "Underdark Flora.md",
     "Underdark Encounters.md",
     "Underdark Drow Houses.md",
     "Hey Dm, I go hunting.md",
     "For My Players, On the Underdark.md",
-    "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Upper Northwestern Underdark.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Game Notes/Fronts/The Whitimore Files.md",
