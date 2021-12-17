@@ -119,6 +119,14 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "9c31ebf42ef51b6e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
