@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+            "file": "MAIN/Planes/Underdark/Underdark Encounters.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mega",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+                "file": "MAIN/Planes/Underdark/Underdark Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
+                "file": "MAIN/Planes/Underdark/Underdark Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md"
+                "file": "MAIN/Planes/Underdark/Underdark Encounters.md"
               }
             }
           },
@@ -144,13 +145,13 @@
   },
   "active": "d4540897d8e5cbd7",
   "lastOpenFiles": [
+    "MAIN/Planes/Underdark/Underdark Encounters.md",
     "MAIN/Game Notes/Prenotes/Prenotes Dec 16.md",
     "MAIN/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Planes/Underdark/Underdark.md",
     "MAIN/Planes/Underdark/House Thoulca.md",
     "Hey Dm, I go hunting.md",
-    "MAIN/Planes/Underdark/Underdark Encounters.md",
     "MAIN/Planes/Underdark/Underdark Threats.md",
     "MAIN/Planes/Underdark/Underdark Flora.md",
     "MAIN/Planes/Underdark/Underdark Drow Houses.md"
