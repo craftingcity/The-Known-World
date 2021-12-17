@@ -1,15 +1,15 @@
 ---
-tags:
+tags: table
 aliases:
 ---
 
-1-10 | Your boxtext / Encounter
-11-20 | Your boxtext / Encounter
-21-30 | Your boxtext / Encounter
-31-40 | Your boxtext / Encounter
-41-50 | Your boxtext / Encounter
-51-00 | Your boxtext / Encounter
-61-00 | Your boxtext / Encounter
-71-00 | Your boxtext / Encounter
-81-00 | Your boxtext / Encounter
-91-00 | Your boxtext / Encounter
+1 | You have encountered horrible danger!
+2 | You have encountered an enemy!
+3 | You have encountered a scavenger!
+4 | You have encountered
+5 | Your boxtext / Encounter
+6 | Your boxtext / Encounter
+7 | Your boxtext / Encounter
+8 | Your boxtext / Encounter
+9 | Your boxtext / Encounter
+0 | You have encountered a boon!
