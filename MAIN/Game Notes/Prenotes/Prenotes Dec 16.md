@@ -18,3 +18,4 @@ After they're in the Shallows, they need to get to the Deep before they can get 
 
 # During Notes
 [[Kursk]]'s introduction has gone well. The classic "walks over to the table and introduces self to party".
+Fought bear and Ahnkeg
