@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2cbbf08f2f833a",
+        "id": "252774b96a9c95c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Underdark Travel Table.md",
+            "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mega",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -62,24 +61,8 @@
       {
         "id": "5131a5564ffb795f",
         "type": "tabs",
+        "dimension": 72.55813953488372,
         "children": [
-          {
-            "id": "0b20614126517060",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Underdark Travel Table.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "f1e77546b77b05ef",
             "type": "leaf",
@@ -92,24 +75,65 @@
             }
           },
           {
-            "id": "d2b2f67ea57b7f79",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Underdark Travel Table.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2460969991f25a74",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark Travel Table.md"
+                "file": "Current Camp/Planes/Underdark/Underdark Flora.md"
+              }
+            }
+          },
+          {
+            "id": "9c31ebf42ef51b6e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "527734e55eea46f6",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "17ef8b69e602c702",
+        "type": "tabs",
+        "dimension": 27.44186046511628,
+        "children": [
+          {
+            "id": "0b20614126517060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d2b2f67ea57b7f79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -122,46 +146,31 @@
             }
           },
           {
-            "id": "9c31ebf42ef51b6e",
+            "id": "6e2cbbf08f2f833a",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "27e6f2e655932b5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd5af1cdf20f109f",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 347.1111145019531,
-    "collapsed": true
+    "width": 252.11111450195312
   },
-  "active": "6e2cbbf08f2f833a",
+  "active": "252774b96a9c95c4",
   "lastOpenFiles": [
-    "Underdark Travel Table.md",
-    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark.md",
-    "Underdark Hazards.md",
-    "Underdark Ecology.md",
-    "Underdark Climate.md",
-    "Underdark Air.md",
-    "Underdark Light.md",
-    "Underdark Rock Formation.md",
-    "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Underdark Location Table.md"
+    "Current Camp/Planes/Underdark/Underdark Flora.md",
+    "Current Camp/Planes/Underdark/Underdark Drow Houses.md",
+    "Current Camp/Planes/Underdark/Underdark.md",
+    "Current Camp/Planes/Underdark/House Thoulca.md",
+    "Current Camp/Planes/Underdark/Tables/Underdark Encounters.md",
+    "Current Camp/Planes/Underdark/Realmshelp/Underdark Ecology.md",
+    "Current Camp/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+    "Current Camp/Game Notes/Prime Timeline.md",
+    "Current Camp/Holding Rules.md",
+    "Current Camp/Planes/Underdark/Tables/Underdark Travel Table.md"
   ]
 }

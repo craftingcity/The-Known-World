@@ -33,7 +33,7 @@ Surprisingly, however, green plants are not entirely absent from the Underdark. 
 
 **Zurkhwood**: This giant mushroom can reach a height of 30 to 40 feet. Its large spores are edible with proper preparation, but zurkhwood is important primarily because its stalks are hard and woody. Zurkhwood is one of the very few sources of timber (or anything like it) in the Underdark, and many items that would be crafted from wood in the surface world are fashioned from zurkhwood in the Realms Below.
 
-See [[For My Players, On the Underdark]] for another list of known flora.
+See [[Underdark Flora]] for the complete list of known flora.
 
 ### Torchstalks
 
