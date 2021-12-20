@@ -6,5 +6,11 @@ Okay. I need some stuff for travelling in the underdark, a list to pull from or 
 
 So. Objectives?
 
-- terrain (changes, length, etc.)
-- encounters (good, neut., bad roll -> other table, sound & light carry; is this a daily roll?)
+On Travel:
+- structure
+- biome
+- size
+
+On "Tick (ie once a day right? rations, long rests, )"
+- does encounter happen?
+- encounters table of description (good, neut., bad roll -> other table, sound & light carry; this is a saved roll, we get to know whats next, but not necessarily when^^. is this based on the biome where in? probably. high biome diversity -> low threat diversity? lets hope not)
