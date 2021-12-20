@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da0b19669c883978",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Underdark Travel Table.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "6e2cbbf08f2f833a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Underdark Rock Formation.md",
+            "file": "Underdark Light.md",
             "mode": "source"
           }
         }
@@ -63,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underdark Travel Table.md",
+                "file": "Underdark Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underdark Travel Table.md",
+                "file": "Underdark Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark Travel Table.md"
+                "file": "Underdark Light.md"
               }
             }
           },
@@ -161,17 +151,17 @@
     "width": 347.1111145019531,
     "collapsed": true
   },
-  "active": "da0b19669c883978",
+  "active": "6e2cbbf08f2f833a",
   "lastOpenFiles": [
-    "Underdark Travel Table.md",
+    "Underdark Light.md",
     "Underdark Rock Formation.md",
+    "Underdark Travel Table.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
     "Underdark Location Table.md",
     "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark Encounters.md",
     "Worldbuilding and Campaign - Varis and Co/Game Notes/Prenotes/Prenotes Dec 16.md",
     "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark.md",
     "Worldbuilding and Campaign - Varis and Co/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
-    "Worldbuilding and Campaign - Varis and Co/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/House Thoulca.md"
+    "Worldbuilding and Campaign - Varis and Co/Nations/Lands of the Great White Flame/The Holy'lnds.md"
   ]
 }
