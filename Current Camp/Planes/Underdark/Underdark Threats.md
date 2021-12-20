@@ -1,5 +1,5 @@
 ---
-tags: monster
+tags: monster, needs_work
 aliases:
 ---
 

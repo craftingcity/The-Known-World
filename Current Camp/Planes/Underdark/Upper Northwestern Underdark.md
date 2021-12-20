@@ -1,5 +1,5 @@
 ---
-tags:
+tags: relational_map
 aliases:
 ---
 

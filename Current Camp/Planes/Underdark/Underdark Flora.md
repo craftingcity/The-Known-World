@@ -2,7 +2,6 @@
 tags: Underdark, flora
 aliases:
 ---
-as stolen from a reddit post
 
 -   Lithel / 'Cavern Grass' - While Lithel provides very little food, in the form of its oat-like seeds, it can be dried and used to weave baskets and other helpful containers and objects. It is usually around a foot tall and grows in small, sparse patches. Its color is a dull grey, and its texture is spiny and spindly.
     

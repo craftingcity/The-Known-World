@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
+            "file": "The Whitimores.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duran",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Camp/Planes/Underdark/Underdark Flora.md"
+                "file": "The Whitimores.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
+                "file": "The Whitimores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Camp/Planes/Underdark/Underdark Flora.md",
+                "file": "The Whitimores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "252774b96a9c95c4",
   "lastOpenFiles": [
-    "Current Camp/Planes/Underdark/Underdark Flora.md",
-    "Current Camp/Planes/Underdark/Underdark Drow Houses.md",
-    "Current Camp/Planes/Underdark/Underdark.md",
-    "Current Camp/Planes/Underdark/House Thoulca.md",
-    "Current Camp/Planes/Underdark/Tables/Underdark Encounters.md",
-    "Current Camp/Planes/Underdark/Realmshelp/Underdark Ecology.md",
-    "Current Camp/Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
-    "Current Camp/Game Notes/Prime Timeline.md",
-    "Current Camp/Holding Rules.md",
-    "Current Camp/Planes/Underdark/Tables/Underdark Travel Table.md"
+    "The Whitimores.md",
+    "Current Camp/Game Notes/Prenotes/Prenotes Dec 11.md",
+    "Current Camp/Game Notes/Heritages/Hobgoblin Specifics.md",
+    "Current Camp/Game Notes/Stubs/Durandum Weaponry.md",
+    "TEMPLATES/Stub.md",
+    "Current Camp/Game Notes/Encounters/Warspider.md",
+    "Current Camp/Game Notes/Stubs/War Beast.md",
+    "Current Camp/Planes/Underdark/Upper Northwestern Underdark.md",
+    "Current Camp/Planes/Underdark/Underdark Threats.md",
+    "Current Camp/Planes/Underdark/Underdark Flora.md"
   ]
 }
