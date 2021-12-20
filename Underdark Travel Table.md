@@ -13,7 +13,7 @@ On Travel:
 - size
 
 
-Record entries from this table onto a sheet or page. Some results may be best represented as a "backtrack" as for m
+Record entries from this table onto a sheet or page. Some results may be best represented as a "backtrack" as for one or more reasons, the feature you are trying to access would be unattinable from one point or another.
 # Tables on Travel
 ## Entering a New Space
 
@@ -32,7 +32,14 @@ Record entries from this table onto a sheet or page. Some results may be best re
 2 | A Cave | See [[#Caves]]
 3 | A Dungeon | See [[#Dungones]] and then search for "Undermountain" or sometin
 4 | A Gorge | See [[#Gorges]]
-5 | A Lake
+5 | A Lake | See [[#Lakes]]
+6 | A Rift
+7 | A River
+8 | A Sea
+9 | A Shaft 
+10 | A Tunnel | See [[#Tunnels]]
+11 | A Vault | See [[#Vaults]]
+12 | A Volcano / Molten Flows | This should be clearly coming, spend a little longer where you're at if you need to.
 
 1d4 | for a potency of foodsources
 --- | --- 
