@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Underdark Hazards.md",
+            "file": "Underdark Travel Table.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underdark Hazards.md",
+                "file": "Underdark Travel Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underdark Hazards.md",
+                "file": "Underdark Travel Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark Hazards.md"
+                "file": "Underdark Travel Table.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "6e2cbbf08f2f833a",
   "lastOpenFiles": [
+    "Underdark Travel Table.md",
+    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark.md",
     "Underdark Hazards.md",
     "Underdark Ecology.md",
     "Underdark Climate.md",
     "Underdark Air.md",
     "Underdark Light.md",
     "Underdark Rock Formation.md",
-    "Underdark Travel Table.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Underdark Location Table.md",
-    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark Encounters.md"
+    "Underdark Location Table.md"
   ]
 }
