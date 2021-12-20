@@ -27,9 +27,24 @@ While most of the Underdark is exactly that, some locales possess sources of nat
 
 **Wizard Fire**: The rarest and most wondrous of natural illuminations in the Dug Too Deep, wizard fire consists of dancing sheets of dim light, like the northern lights of the surface world. Though it is only as bright as starlight, wizard fire is weird and beautiful.
 
-## Spotting Distances
-Terrain | Distance
+## Spotting Distances 
+#### in Dim Light
+Terrain | Distance*
 --- | ---
 Water Formed Cave | 2d4 x 10 ft.
 Fungal Forest | 3d6 x 10 ft.
-Gore or Shaft | 6d6 
+Gore or Shaft | 6d6 x 10 ft.
+Vault Floor | 6d6 x 10 ft.
+Rift, Tunnel, or Abyss | Limit of Sight**
+*if a party is carrying bright light, they may be spotted by double this range
+**A light source can be seen at a distance of 20 times its radius of illumination
+
+### Seeing Distant Light
+
+Carrying lights can be quite dangerous in the Upperdark. In a large cavern, a torch can be spotted from much farther away than its radius of illumination, which means that any creatures nearby have plenty of time to decide whether to avoid the surface dwellers or lay an ambush for them.
+
+**Complete Darkness**: In general, a light source can be spotted (Spot DC 20) at a distance equal to 20 times its radius of illumination, if the area is otherwise in complete darkness. For example, a sunrod can be seen from 600 feet away, provided that nothing obstructs the line of sight. An observer who fails this Spot check automatically spots the light source at half that distance.
+
+**Dim Light**: In conditions equal to starlight or moonlight, a light source can be spotted (Spot DC 20) at a distance equal to 10 times its radius of illumination. For instance, a sunrod can be seen from, 300 feet away in these conditions. An observer who fails this Spot check automatically spots the light source at half that distance.
+
+**Using Distant Illumination**: Creatures outside the illumination of a light source can see into it just fine. An observer who is close enough to spot the light source automatically (10 times the radius of illumination in complete darkness, or half that in dimlight) can make Spot checks as normal to discern creatures or objects in the illuminated area.

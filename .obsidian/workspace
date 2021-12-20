@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Underdark Light.md",
+            "file": "Underdark Climate.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underdark Light.md",
+                "file": "Underdark Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underdark Light.md",
+                "file": "Underdark Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underdark Light.md"
+                "file": "Underdark Climate.md"
               }
             }
           },
@@ -153,6 +153,8 @@
   },
   "active": "6e2cbbf08f2f833a",
   "lastOpenFiles": [
+    "Underdark Climate.md",
+    "Underdark Air.md",
     "Underdark Light.md",
     "Underdark Rock Formation.md",
     "Underdark Travel Table.md",
@@ -160,8 +162,6 @@
     "Underdark Location Table.md",
     "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark Encounters.md",
     "Worldbuilding and Campaign - Varis and Co/Game Notes/Prenotes/Prenotes Dec 16.md",
-    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark.md",
-    "Worldbuilding and Campaign - Varis and Co/Nations/Lands of the Great White Flame/Holdings/Baskin.md",
-    "Worldbuilding and Campaign - Varis and Co/Nations/Lands of the Great White Flame/The Holy'lnds.md"
+    "Worldbuilding and Campaign - Varis and Co/Planes/Underdark/Underdark.md"
   ]
 }
