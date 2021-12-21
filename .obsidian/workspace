@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kailkeep.md",
+            "file": "A Christmas Game.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#player_character",
+                "query": "var",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kailkeep.md"
+                "file": "A Christmas Game.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kailkeep.md",
+                "file": "A Christmas Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kailkeep.md",
+                "file": "A Christmas Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +162,15 @@
   },
   "active": "a8607339699f6645",
   "lastOpenFiles": [
-    "Kailkeep.md",
-    "Current Camp/Game Notes/NPCs/Player Characters/Amashod.md",
+    "A Christmas Game.md",
+    "Current Camp/Player Characters/Varis.md",
+    "Current Camp/Player Characters/Amashod.md",
+    "Current Camp/Player Characters/Bardaux.md",
+    "Current Camp/Nations/The Lands of Tetrimoc/Kailkeep.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Bardaux.md",
     "Current Camp/Game Notes/Prenotes/Prenotes Dec 16.md",
-    "The Whitimores.md",
+    "Current Camp/Planes/Underdark/Groups/The Whitimores.md",
     "Current Camp/Game Notes/Prenotes/Prenotes Dec 11.md",
-    "Current Camp/Game Notes/Heritages/Hobgoblin Specifics.md",
-    "Current Camp/Game Notes/Stubs/Durandum Weaponry.md",
-    "TEMPLATES/Stub.md"
+    "Current Camp/Game Notes/Heritages/Hobgoblin Specifics.md"
   ]
 }
