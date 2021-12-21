@@ -6,10 +6,6 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-A description of their function in the world.
-
-A politic of theirs that players would interact with.
-
 ## History
 Born in [[Prime Timeline|065AF]], Adriana Fairlin "Franx" Franx is a human employed by [[Guild Proper]] as the Record Keeper; a tall task, but one that they are well equipped by their years of reading and writing to perform.
 

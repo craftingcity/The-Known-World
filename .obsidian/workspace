@@ -4,11 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "acbfc2512dd91101",
+        "id": "1c7ed7290924914e",
+        "type": "split",
+        "children": [
+          {
+            "id": "acbfc2512dd91101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prime Timeline.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "eb3e6795076fba94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "e7fe405ee5c9157b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Politics of Coalition c. 078AF - 092AF.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Politics of Coalition c. 078AF - 092AF.md"
+              }
             }
           },
           {
@@ -108,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Politics of Coalition c. 078AF - 092AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Politics of Coalition c. 078AF - 092AF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +189,17 @@
     "direction": "horizontal",
     "width": 252.11111450195312
   },
-  "active": "acbfc2512dd91101",
+  "active": "e7fe405ee5c9157b",
   "lastOpenFiles": [
-    "Game Notes/Heritages/Hobgoblin Specifics.md",
-    "Bugbear Specifics.md",
-    "Goblin Specifics.md",
-    "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "A Christmas Game.md",
-    "World Notes/Player Characters/Varis.md",
-    "World Notes/Player Characters/Amashod.md",
-    "World Notes/Player Characters/Bardaux.md",
-    "World Notes/Nations/The Lands of Tetrimoc/Kailkeep.md",
-    "Game Notes/Prenotes/Prenotes Dec 16.md"
+    "Politics of Coalition c. 078AF - 092AF.md",
+    "Game Notes/Prime Timeline.md",
+    "World Notes/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+    "Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
+    "World Notes/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
+    "Game Notes/Prenotes/Prenotes Jan XX 22.md",
+    "Game Notes/Prenotes/Prenotes Oct 10 21.md",
+    "Game Notes/Prenotes/Prenotes Nov 27 21.md",
+    "Game Notes/Prenotes/Prenotes Nov 22 21.md",
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md"
   ]
 }

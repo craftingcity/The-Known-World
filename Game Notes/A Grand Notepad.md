@@ -11,4 +11,4 @@ Blood of [[Travis]]; "Blood of a brother..."
 
 # NEXT SESSION
 
-Okay. So none of that happened. See [[Prenotes Dec 11]]
+Okay. So none of that happened. See [[Prenotes Dec 11 21]]
