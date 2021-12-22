@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fe405ee5c9157b",
+        "id": "84940383c97a5567",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Organizational Notions.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "84940383c97a5567",
+        "id": "1a1a68051d08561e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -91,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +169,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.11111450195312
+    "width": 252.11111450195312,
+    "collapsed": true
   },
   "active": "84940383c97a5567",
   "lastOpenFiles": [
+    "Untitled.md",
     "Landing Page.md",
     "World Notes/Organizational Notions.md",
     "World Notes/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
@@ -180,7 +183,6 @@
     "World Notes/World Wide Happenings/Coalition City/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
     "Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
     "World Notes/World Wide Happenings/Coalition City/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
-    "Game Notes/Prenotes/Prenotes Jan XX 22.md",
-    "Game Notes/Prenotes/Prenotes Oct 10 21.md"
+    "Game Notes/Prenotes/Prenotes Jan XX 22.md"
   ]
 }
