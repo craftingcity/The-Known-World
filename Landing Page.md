@@ -11,8 +11,10 @@ History began for these new people with the fall of [[Tetrimoc]]. The elves say 
 
 [[Tetrimoc's Journal]] is a ancient document that records this time; it is like a word of god to some. For this reason, people record this era's years with the moniker AF, meaning after fall. Assuredly, some other grand event will cause their successors to change the convention.
 
-The humanoid people live in some harmony now with the goblinoid people, and for many, their societies have intertwined.
-
-In the year 013AF, the young heir of the Simonson Clan was born
+In the first years, these two peoples were weary and cautious. They both had little information of each other and their intentions. This tension was broken by the young Arthur Simonson as he fought for justice against the tyrants of the human and goblin settlements in the Northeast. Largely due to this act, the humanoid people live in relative harmony with the goblinoid people, and for many, their societies have completely intertwined.
 
 ## Geography
+
+At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eledrathil Greystone]], but that is another tale. 
+
+In the Northeast, as I have spoken of, are dense forests and open plains, rol
