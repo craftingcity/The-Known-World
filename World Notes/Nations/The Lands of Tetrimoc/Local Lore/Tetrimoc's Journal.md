@@ -1,5 +1,6 @@
 ---
 tags: loreful, tetrimocal, text
+aliases: Journal of Tetrimoc
 ---
 # Tetrimoc's Journal
 
