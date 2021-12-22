@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "84940383c97a5567",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "1a1a68051d08561e",
         "type": "leaf",
         "state": {
@@ -92,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Landing Page.md"
               }
             }
           },
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Landing Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Landing Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +161,10 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "84940383c97a5567",
+  "active": "1a1a68051d08561e",
   "lastOpenFiles": [
-    "Untitled.md",
     "Landing Page.md",
+    "Untitled.md",
     "World Notes/Organizational Notions.md",
     "World Notes/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "Game Notes/Prime Timeline.md",
