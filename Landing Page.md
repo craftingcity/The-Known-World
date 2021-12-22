@@ -17,4 +17,14 @@ In the first years, these two peoples were weary and cautious. They both had lit
 
 At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eledrathil Greystone]], but that is another tale. 
 
-In the Northeast, as I have spoken of, are dense forests and open plains, rol
+#### Northeast
+In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either simply "the Northeast" or "[[The Kingdom of Prosper]]". 
+
+Most of the goblinoid inhabitants that do not actually live within the Kingdom of Prosper (and especially the ones that are in an open war against it) perfer "the Northeast". 
+
+Most of the humanoids that live there would prefer the latter however, as most of them actually do live in Arthur's Kingdom.
+
+#### Northwest
+In the northwest lie [[The Holy'lnds]]. In the first years of this world, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths.
+
+#### SouthWes
