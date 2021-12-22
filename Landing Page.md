@@ -41,5 +41,13 @@ Each of the wards has a purpose that allows the greater city to prosper, and som
 
 [[The Guilds]] are a respected group of people who hold roles in the world at large. They are often respected and honored guests of the nations that host them, creating a connected network of Wizards, Merchants, Craftsfolk, and the like.
 
-## Life in the World
+## Big Notes from the World
+Coalition City is the biggest up-and-coming power in the world. The Kingdom and the Church have some contention, as they are both militarily strong, but neither could survive attacking the other at this time. The Kingdom and the Combine are in a similar holding pattern, but the military power of the Combine is much more guerrilla than outright warpower. Noone dares threaten the Lands of Tetrimoc, even with his recent disappearance.
+
+The places to learn or study would be the Wizards of the world. They hold the knowledge that must be kept for our continuation.
+
+Legend tells of many dangers in between the civilized lands. Beasts and Terrors 
+
 Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making it the dominant currency, but each of the "nations" of the world mint their own coin.
+
+The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
