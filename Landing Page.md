@@ -42,3 +42,4 @@ Each of the wards has a purpose that allows the greater city to prosper, and som
 [[The Guilds]] are a respected group of people who hold roles in the world at large. They are often respected and honored guests of the nations that host them, creating a connected network of Wizards, Merchants, Craftsfolk, and the like.
 
 ## Life in the World
+Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making it the dominant currency, but each of the "nations" of the world mint their own coin.
