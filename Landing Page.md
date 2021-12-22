@@ -5,7 +5,7 @@
 
 # Part 1 - General Information
 ## The World is Young
-Those of you that were "born" here know this all too well. The goblinoids lived without time; hunting, gathering, and supposedly swimming in primordial soup. Then, "the Immortal Yellow Dragon, the Great Tetrimoc" fell from the sky, cut himself on a rock, and hid in a hid in a hole. Finally; everyone else came too. Elves born from Eladrin parents traveled here, carved the first dwarves from the stone, told the first legends of halfling, found the first humans lying naked in their fields. The elves claim to be first to find many of the other peoples too, but they always lay claim to too much. 
+The goblinoids lived without time; hunting, gathering, and supposedly swimming in primordial soup. Then, "the Immortal Yellow Dragon, the Great Tetrimoc" fell from the sky, cut himself on a [[Kailkeep|rock]], and hid in a hid in a hole. Finally; everyone else came too. Elves born from Eladrin parents traveled here, carved the first dwarves from the stone, told the first legends of halfling, found the first humans lying naked in their fields. The elves claim to be first to find many of the other peoples too, but they always lay claim to too much. 
 
 History began for these new people with the fall of [[Tetrimoc]]. The elves say that this place was made for him to fall to, this is the truth, so much as it was what they were told by their parents. 
 
@@ -36,4 +36,9 @@ In the southeast, a great amount of water lays upon the land, making much of the
 Unlike the other nations of this world, the Democratic Combine is less a united government and more a universal legal system. The many that use the Combine as their system make war against eachother over resource, but will fiercely and effectively defend each other from "outside" attacks. 
 
 ### Coalition City
-Standing, carved into the center of the largest mountains at the eastern end of the [[Desert's Range]], a grand metropolis was born out of the need for communication and peace among the peoples of th
+Standing, carved into the center of the largest mountains at the eastern end of the [[Desert's Range]], a grand metropolis was born out of the need for communication and peace among the peoples of this world. The city is split into nine wards, each of which may as well be a city upon itself.
+Each of the wards has a purpose that allows the greater city to prosper, and some even have purpose for the world at large.
+
+[[The Guilds]] are a respected group of people who hold roles in the world at large. They are often respected and honored guests of the nations that host them, creating a connected network of Wizards, Merchants, Craftsfolk, and the like.
+
+## Life in the World
