@@ -1,6 +1,3 @@
-Greetings!
-Welcome to the only documents on the fictional setting of "The Known World".
-
 This is a setting written with fifth edition dungeons and dragons in mind as the main game to play, but we use elements from other games such as Dungeon World to organize this set of notes.
 
 My touchstones are: The Hobbit, Skyrim, Fallout New Vegas, Slathbog's Gold, League of Legends (but only the good parts), Critical Role (seasons 1, 2, and 3), The Adventure Zone (balance), Dimension 20 (fantasy high, misfits and magic, tiny heist, the seven, unsleeping city)
