@@ -60,6 +60,8 @@ The most common languages spoken are Desertspeech, High Common, King's Common, a
 
 # Questions Unanswered
 ## Power and Punishment
+There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]]. There are gr
+
 Who is in charge and what are they in charge of? Are there any powerful nations, dynasties, corporations, or organizations that the players should be aware of? What is the source of their power? What is illegal? Who enforces the law? What are typical punishments for crimes?
 
 Power and punishment  

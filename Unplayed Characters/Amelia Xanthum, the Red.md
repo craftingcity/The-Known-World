@@ -48,7 +48,8 @@ She is equipped with the following items:
 - "Dark" Common Clothes - she wears a loose set of worn dark cotton pants and tunic under her cloak
 - Component Pouch - a small brown bag with a red embroidery. it holds the following components:
 	- slightly glowing grey moss (light)
-	- 
+	- small bar of iron (hold person)
+	- small stinky ball of brown and yellow (fireball?)
 
 She holds in her inventory these items:
 - Marble Cube - its six faces each bare a grid of nine squares that extends to the four edges of each face. This is Amelia's most precious possession. She would never willingly part with it. As a part of her Master's teaching; she learned of "the single items", those things that we hold so precious for no other reason than that we do and this gives us comfort. 
