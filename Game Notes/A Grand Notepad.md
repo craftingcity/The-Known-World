@@ -23,3 +23,5 @@ crush them with rocks
 make it clear that it is hard to stay alive down here
 
 show how hard it is for other people to stay alive down here - our heroes are struggling less
+
+"Bones on the floor. An echoing drip that gets louder and quieter for hours on end as you travel. Your feet are tired. You've been walking for hours. Another crunch. Bones on the floor."

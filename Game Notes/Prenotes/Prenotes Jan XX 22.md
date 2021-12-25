@@ -4,7 +4,6 @@ aliases:
 ---
 
 # Prenotes for Jan XXth
-I will 
-
-
-Bones on the floor. An echoing drip that gets louder and quieter for hours on end as you travel. Your feet are tired. You've been walking for hours. 
+Black, grey, white. This is all the color we can see. A tunnel deep underground. The whistling of wind carries us to a group of four holes in this tunnel. Seemingly naturally formed in the wall of this dark grey stone, pockets. The for of them are not situated evenly, two are nearly stacked attop eachother and the third and fourth have some slope. 
+You are all used to hard travel, you have slept upon stone before. This rock is uncooperative. For all your shuffling, there is not a place to lay where you are totally comfortable. Eventually, you fell asleep. You are dreaming now. 
+For a moment K
