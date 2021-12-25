@@ -60,12 +60,14 @@ The most common languages spoken are Desertspeech, High Common, King's Common, a
 
 # Questions Unanswered
 ## Power and Punishment
-There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]]. There are gr
+There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and many regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use fear, and the Combine uses strength and fellowship.
 
-Who is in charge and what are they in charge of? Are there any powerful nations, dynasties, corporations, or organizations that the players should be aware of? What is the source of their power? What is illegal? Who enforces the law? What are typical punishments for crimes?
-
-Power and punishment  
+Execution is a common punishment for serious crimes such as treason or murder, but most people are subject to fines more than anything else. 
 ## Daily life 
+Most people live life knowing of "the magic all around us", but not seeing much of it. There are legends of arcanists, but the local engineer works the most magic around town. Water power, some plumbing, and a few techno-magic items are raritys in the world but they exsist.
+
+The most common profession is farmer. Then thief. Then "adventurer" or "realm defender". People of the realm keep an open mind for the most part. 
+
 What is the role of magic or technology in the life of most people? Are there any common professions? Are the majority of folk cosmopolitan or parochial? What do commoners fear or want? NPCs List and describe some important non-player characters or entities in your world. These could be rulers, powerful spellcasters, or mentors. Don’t limit yourself here to just individuals. Describe any important factions, organizations, armies, or corporations. Consider describing “monsters” here too. Players should know about the greedy lich who sends zombies to attack the city every three years and the tribe of ogres who control the old forest. 
 
 ## Magic, gods, and the planes 
