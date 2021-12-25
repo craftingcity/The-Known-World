@@ -26,6 +26,8 @@ The academy was bad for her. That paranoia. She was never safe, she hid her real
 
 [[#Stats|She has a way with people]]. Some find it charming. Some do not. All of them eventually give her what she needs or she takes it by fire.
 
+She is not the hero of whatever story we are about to tell. Yet.
+
 # Sheet
 Amelia is a Low Level Sorcerer of the Dragon Bloodline subclass. Her draconic ancestry is red.
 Her stat array should be ordered from highest to lowest as follows:
@@ -44,7 +46,9 @@ She is equipped with the following items:
 - Black Fingerless Gloves
 - Black Veil
 - "Dark" Common Clothes - she wears a loose set of worn dark cotton pants and tunic under her cloak
-- Component Pouch - a small brown bag with a red embroidery. it holds 
+- Component Pouch - a small brown bag with a red embroidery. it holds the following components:
+	- slightly glowing grey moss (light)
+	- 
 
 She holds in her inventory these items:
 - Marble Cube - its six faces each bare a grid of nine squares that extends to the four edges of each face. This is Amelia's most precious possession. She would never willingly part with it. As a part of her Master's teaching; she learned of "the single items", those things that we hold so precious for no other reason than that we do and this gives us comfort. 
@@ -56,14 +60,14 @@ She holds in her inventory these items:
 At third level, she has the following spells (4c 4s - 4, 2):
 Cantrips
 - Fire Bolt (this is her favorite spell)
-- Light
+- Light 
 - Mage Hand (she learned this from Doo'Ilp - "Any arcanist can do this Amelia; you must make this your effort. Think of your power. And again.")
 - Prestidigitation (this is the first spell she cast)
 
 1st Level
-- Burning Hands (massive fire! her (2nd) favorite!)
-- Shield  - this manifests as an orange pentoganal (gotta not die)
+- Burning Hands  - her fingertips alight in flame. she extends her fingers out from her firsts, and she blasts a wave of fire. (massive fire! her (2nd) favorite!)
+- Shield  - this manifests as an orange pentagonal shape that she places in between herself and the danger (gotta not die)
 
 2nd Level
 - Hold Person (she uses this in combination with her fire bolts to just fuck a single target for multiple rounds)
-- Alter Form (this is sorta her "hulk out fuck off" or "sneaky time trick")
+- Alter Self - her scales shift and meld her into a new person; they always keep her scales and eye however. she has no power over this. (this is sorta her "hulk out fuck off" or "sneaky time trick")
