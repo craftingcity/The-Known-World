@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "World Notes/Rough Lore/The Pantheon.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "084f8da5f3e84aa8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "On Interactions with Sama.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cosmopolitan",
+                "query": "\"patrons of need\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "On Interactions with Sama.md"
               }
             }
           },
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "On Interactions with Sama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "On Interactions with Sama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +172,10 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "694886f7a72c59a1",
+  "active": "084f8da5f3e84aa8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "On Interactions with Sama.md",
+    "World Notes/Rough Lore/The Pantheon.md",
     "Landing Page.md",
     "World Notes/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
@@ -171,7 +183,6 @@
     "World Notes/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "World Notes/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Prime Timeline.md",
-    "World Notes/Nations/The Lands of Tetrimoc/Kailkeep.md",
-    "World Notes/Nations/The Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
+    "World Notes/Nations/The Lands of Tetrimoc/Kailkeep.md"
   ]
 }
