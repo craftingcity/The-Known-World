@@ -3,11 +3,15 @@ tags: player_character, my_PC
 aliases: Amelia the Red, Amelia, 
 ---
 
-Amelia is a young looking human woman with curly black hair and and pale skin. She wears a red robe and a veil. The robe, while stylish, is positioned with the purpose of covering the right third of her body, which is entirely covered in red dragon scales - from her feet to her face. Her left eye is blue and her right is the yellow of a reptile's; thus the veil.
-
 Amelia "the Red" Xanthum was born to the noble House Xanthum. The common folk of (Riverside) spread rumor of the "dragonsblood" that populates the noble line, but most think this fairytale. It is not so. The House Xanthum has born many an adventurer, each of whom draws their strength from their bloodlines {icky}.
 
-Amelia was born to be an adventurer, literally, the cycles were such that we knew that Amelia was destined for this. We knew she was going to have *something*, but it took us a little bit to figure out it was magic. - Academy Rector Jamie (he/him, human)
+> Amelia was born to be an adventurer, literally, the cycles were such that we knew that Amelia was destined for this. We knew she was going to have *something*, but it took us a little bit to figure out it was magic. 
+> - Academy Rector Jamie (he/him, human)
+
+Amelia is a not quite young looking human woman with curly black hair and and pale skin. She wears a black veil and long black fingerless gloves underneath her blood red robe. The robe, while stylish, is intentionally positioned with the purpose of covering the right third of her body, which is entirely covered in red dragon scales - from her feet to her face. Her left eye is blue. Her right is the yellow of a reptile's; thus the veil.
+
+
+
 
 She is a little more proficient with a blade than most would expect from a spellcaster, as she was trained to be a martial fighter in her youth, and she quickly found a love for fire. She would often play with matches, and to her few friends, she was the local pyromaniac. She found that this often got her in trouble however, and kept her practice mostly private after burning her friend's father's book, she swears it to be an accident; I don't believe her, but maybe I should! 
 
@@ -18,3 +22,5 @@ She spent the beginnings of her adult years as a hermit, under the tutelage of a
 In her 20th year of age, as perhaps *some* text foretold, the scales spread to their final point. As she awoke upon this day, her eye had turned into the yellow of a reptile, and she had gained the power to control magic. It began as things small, a wave of flame when stoking the (Master's) fire or a meal done up slightly too quick. It was not until (Master Doo'Ilp) began to train her in the little magic he knew that it was truly clear what her life's work would be. She began to flourish, calling forth all manner of spell, though the ones of fire and destruction have always been her favorite. After some time, she set off into the world to seek experience with her magic, from recommendation of (Master Doo'Ilp). He is one of the few people that Amelia holds dear to her heart. 
 
 While she is in no great hurry to allow the knowledge of her mortality be known to her parents, her brothers and sisters deserve to know, and she dearly wishes to tell them. She was closest with her older sister (Esmerelda). Although her younger sister (Annibeth) was kind, she never knew how to talk to Amelia about some things, and her success at swordsmanship was a fracture in their relationship. She never paid much mind to her brothers, as they were older than their sisters and often spent days about town, doing their business. I'm pretty sure that they were thieves, but Amelia only knows it as "the brother's business".
+
+Okay. I played her in a oneshot; in summary, she's NE, she does not give people the risk of invested empathy and does not understand those who do. She is a little neurotic. The academy was bad for her. That paranoia. She was never safe, she hid her real self as far away as she could. She only ever brought herself closer to Master Doo'Il. He was emotionally aware, but had great difficulty being anything more than relaxing to Amelia, she loves him though. He was the only person after she was kinda abandoned by her family to this "high-performing"  school that cared more about what you can do than who you are and she wasn't ready for this path. 

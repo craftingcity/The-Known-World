@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Landing Page.md",
+            "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Unplayed Characters/Amelia Xanthum, the Red.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,8 @@
   },
   "active": "1a1a68051d08561e",
   "lastOpenFiles": [
-    "Landing Page.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
+    "Landing Page.md",
     "Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
     "World Notes/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "World Notes/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
