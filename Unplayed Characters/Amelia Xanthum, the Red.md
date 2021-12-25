@@ -16,15 +16,18 @@ She spent the beginnings of her adult years as a hermit, under the tutelage of a
 
 In her 20th year of age, as perhaps *some* text foretold, the scales spread to their final point. As she awoke upon this day, her eye had turned into the yellow of a reptile, and she had gained the power to control magic. It began as things small, a wave of flame when stoking the (Master's) fire or a meal done up slightly too quick. It was not until (Master Doo'Ilp) began to train her in the little magic he knew that it was truly clear what her life's work would be. She began to flourish, calling forth all manner of spell, though the ones of fire and destruction have always been her favorite. After some time, she set off into the world to seek experience with her magic, from recommendation of (Master Doo'Ilp). He is one of the few people that Amelia holds dear to her heart. 
 
-
+#### Family
 While she is in no great hurry to allow the knowledge of her mortality be known to her parents, her brothers and sisters deserve to know, and she dearly wishes to tell them. She was closest with her older sister (Esmerelda). Although her younger sister (Annibeth) was kind, she never knew how to talk to Amelia about some things, and her success at swordsmanship was a fracture in their relationship. She never paid much mind to her brothers, as they were older than their sisters and often spent days about town, doing their business. I'm pretty sure that they were thieves, but Amelia only knows it as "the brother's business".
 
-Okay. I played her in a oneshot; in summary, she's NE, she does not give people the risk of invested empathy and [[#Stats|does not understand those who do]]. She is a little [[#Stats|neurotic]]. The academy was bad for her. That paranoia. She was never safe, she hid her real self as far away as she could. She only ever brought herself closer to Master Doo'Il. He was emotionally aware, but had great difficulty being anything more than relaxing to Amelia, she loves him though. He was the only person after she was kinda abandoned by her family to this "high-performing"  school that cared more about what you can do than who you are and she wasn't ready for this path. 
+#### Experience
+Okay. I played her in a oneshot; in summary, she's NE, she does not give people the risk of invested empathy and [[#Stats|does not understand those who do]]. She is a little [[#Stats|neurotic]]. 
+
+The academy was bad for her. That paranoia. She was never safe, she hid her real self as far away as she could. She only ever brought herself closer to Master Doo'Il. He was emotionally aware, but had great difficulty being anything more than relaxing to Amelia, she loves him though. He was the only person after she was kinda abandoned by her family to this "high-performing"  school that cared more about what you can do than who you are and she wasn't ready for this path. 
 
 [[#Stats|She has a way with people]]. Some find it charming. Some do not. All of them eventually give her what she needs or she takes it by fire.
 
-# Stats
-Amelia is a Low Level Sorcerer of the Dragon Bloodline subclass.
+# Sheet
+Amelia is a Low Level Sorcerer of the Dragon Bloodline subclass. Her draconic ancestry is red.
 Her stat array should be ordered from highest to lowest as follows:
 
 1. CHA
@@ -33,6 +36,8 @@ Her stat array should be ordered from highest to lowest as follows:
 4. CON
 5. STR
 6. WIS
+
+She is proficient in Arcana, Deception, History, and Insight.
 
 She is equipped with the following items:
 - Red Cloak
