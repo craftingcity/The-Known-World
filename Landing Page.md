@@ -66,11 +66,11 @@ Execution is a common punishment for serious crimes such as treason or murder, b
 ## Daily life 
 Most people live life knowing of "the magic all around us", but not seeing much of it. There are legends of arcanists, but the local engineer works the most magic around town. Water power, some plumbing, and a few techno-magic items are raritys in the world but they exsist.
 
-The most common profession is farmer. Then thief. Then "adventurer" or "realm defender". People of the realm keep an open mind for the most part. 
-
-What is the role of magic or technology in the life of most people? Are there any common professions? Are the majority of folk cosmopolitan or parochial? What do commoners fear or want? NPCs List and describe some important non-player characters or entities in your world. These could be rulers, powerful spellcasters, or mentors. Don’t limit yourself here to just individuals. Describe any important factions, organizations, armies, or corporations. Consider describing “monsters” here too. Players should know about the greedy lich who sends zombies to attack the city every three years and the tribe of ogres who control the old forest. 
+The most common profession is farmer. Then thief. Then "adventurer" or "realm defender". People of the realm keep an open mind for the most part. Commoners fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security. 
 
 ## Magic, gods, and the planes 
+Magic is a mystery. Some try to solve it. Some use it freely. It is both respected and feared, as it has immense power. One can acquire magic in exchange. It never comes freely. The main faiths of the world serve powers on the plane; [[Its Greatness]] and [[Tetrimoc]]. There are some bards and clerics that worship the hard emotions of being a people, and other people worship some patron of need. Gods rarely interfere. 
+
 What is the role of magic in your world? Is it respected or feared (or some combination of the two). How can one acquire magical powers? Who are the gods or main faiths of your world? What are their attitude towards mortals? What other planes or dimensions influence our world? Can someone or something travel between our world and another plane?
 
 # Part 2 - Player Information 
