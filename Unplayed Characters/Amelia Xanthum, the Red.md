@@ -41,9 +41,12 @@ She is proficient in Arcana, Deception, History, and Insight.
 
 She is equipped with the following items:
 - Red Cloak
-- Black Gloves
+- Black Fingerless Gloves
 - Black Veil
 - "Dark" Common Clothes - she wears a loose set of worn dark cotton pants and tunic under her cloak
+- Component Pouch
+- 
 
 She holds in her inventory these items:
 - Marble Cube - its six faces each bare a grid of nine squares that extends to the four edges of each face. This is Amelia's most precious possession. She would never willingly part with it. As a part of her Master's teaching; she learned of "the single items", those things that we hold so precious for no other reason than that we do and this gives us comfort. 
+- Explorer's Pack
