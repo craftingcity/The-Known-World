@@ -54,4 +54,16 @@ She holds in her inventory these items:
 ## Spells
 
 At third level, she has the following spells (4c 4s - 4, 2):
-- Fire Bolt
+Cantrips
+- Fire Bolt (this is her favorite spell)
+- Light
+- Mage Hand (she learned this from Doo'Ilp - "Any arcanist can do this Amelia; you must make this your effort. Think of your power. And again.")
+- Prestidigitation (this is the first spell she cast)
+
+1st Level
+- Burning Hands (massive fire! her (2nd) favorite!)
+- Shield  - this manifests as an orange pentoganal (gotta not die)
+
+2nd Level
+- Hold Person (she uses this in combination with her fire bolts to just fuck a single target for multiple rounds)
+- Alter Form (this is sorta her "hulk out fuck off" or "sneaky time trick")
