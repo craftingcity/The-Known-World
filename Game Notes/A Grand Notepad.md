@@ -9,6 +9,17 @@ What if [[Kakurak]] died and turned into a lich's pet?
 
 Blood of [[Travis]]; "Blood of a brother..."
 
+[[The Pantheon#Sama]] takes Amashod if she goes down in a fight around here.
+
 # NEXT SESSION
 
-Okay. So none of that happened. See [[Prenotes Dec 11 21]]
+Okay. Lets use our map and our table to make some cool scenes as they travel the underdark. make it wierd, make it fun, but make it hell. 
+
+take their food
+poison them
+give them disease
+crush them with rocks
+
+make it clear that it is hard to stay alive down here
+
+show how hard it is for other people to stay alive down here - our heroes are struggling less

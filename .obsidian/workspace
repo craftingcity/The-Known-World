@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "694886f7a72c59a1",
+        "id": "d33b2bd1093c6dfd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Rough Lore/The Pantheon.md",
+            "file": "Game Notes/A Grand Notepad.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "084f8da5f3e84aa8",
+        "id": "8a9fe229d5b4a4b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "On Interactions with Sama.md",
+            "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0004fc3e51506772",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/Prenotes Dec 16 21.md",
             "mode": "source"
           }
         }
@@ -59,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On Interactions with Sama.md"
+                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md"
               }
             }
           },
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On Interactions with Sama.md",
+                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On Interactions with Sama.md",
+                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +182,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "084f8da5f3e84aa8",
+  "active": "8a9fe229d5b4a4b4",
   "lastOpenFiles": [
-    "On Interactions with Sama.md",
+    "Game Notes/Prenotes/Prenotes Jan XX 22.md",
+    "Game Notes/A Grand Notepad.md",
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+    "Game Notes/Prenotes/Prenotes Dec 11 21.md",
     "World Notes/Rough Lore/The Pantheon.md",
+    "On Interactions with Sama.md",
     "Landing Page.md",
     "World Notes/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
-    "World Notes/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "World Notes/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Game Notes/Prime Timeline.md",
-    "World Notes/Nations/The Lands of Tetrimoc/Kailkeep.md"
+    "Game Notes/NPCs/Loreful/Eledrathil Greystone.md"
   ]
 }

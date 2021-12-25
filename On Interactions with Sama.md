@@ -9,4 +9,4 @@ You don't exactly recognize them, you can't even see their face really. They poi
 
 You have been starving for some days now. 
 
-Amashod, you see the figure again. It waits until you stop before turning from the wall it was leaning on and emits a strange call. The rest of you hear this too. From the darkness you hear a clomping. With a strange haste and determination, a 
+Amashod, you see the figure again. It waits until you stop before turning from the wall it was leaning on and emits a strange call. The rest of you hear this too. From the darkness you hear a clomping. With a strange haste and determination, a buck with large heavy antlers comes sprinting up to you, and as it reaches you it skids to a stop before seemingly coming out of something.

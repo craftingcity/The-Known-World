@@ -48,3 +48,5 @@ The Current Pantheon is a representation of the emotional needs of the peoples w
 - the god of One Mindedness.
 - feels like sitting in a rainy forest
 - wet moss, fresh dirt
+- sama appears to their worshipers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
+- they are not easily amused
