@@ -22,7 +22,7 @@ While she is in no great hurry to allow the knowledge of her mortality be known 
 #### Experience
 Okay. I played her in a oneshot; in summary, she's NE, she does not give people the risk of invested empathy and [[#Stats|does not understand those who do]]. She is a little [[#Stats|neurotic]]. 
 
-The academy was bad for her. That paranoia. She was never safe, she hid her real self as far away as she could. She only ever brought herself closer to Master Doo'Il. He was emotionally aware, but had great difficulty being anything more than relaxing to Amelia, she loves him though. He was the only person after she was kinda abandoned by her family to this "high-performing"  school that cared more about what you can do than who you are and she wasn't ready for this path. 
+The academy was bad for her. That paranoia. She was never safe, she hid her real self as far away as she could. She only ever brought herself closer to Master Doo'Ilp. He was emotionally aware, but had great difficulty being anything more than relaxing to Amelia, she loves him though. He was the only person after she was kinda abandoned by her family to this "high-performing"  school that cared more about what you can do than who you are and she wasn't ready for this path. 
 
 [[#Stats|She has a way with people]]. Some find it charming. Some do not. All of them eventually give her what she needs or she takes it by fire.
 
@@ -31,22 +31,27 @@ Amelia is a Low Level Sorcerer of the Dragon Bloodline subclass. Her draconic an
 Her stat array should be ordered from highest to lowest as follows:
 
 1. CHA
-2. DEX
-3. INT
-4. CON
+2. CON
+3. DEX
+4. INT
 5. STR
 6. WIS
 
-She is proficient in Arcana, Deception, History, and Insight.
+She is proficient in Arcana, Deception, History, and Perception.
 
 She is equipped with the following items:
 - Red Cloak
 - Black Fingerless Gloves
 - Black Veil
 - "Dark" Common Clothes - she wears a loose set of worn dark cotton pants and tunic under her cloak
-- Component Pouch
-- 
+- Component Pouch - a small brown bag with a red embroidery. it holds 
 
 She holds in her inventory these items:
 - Marble Cube - its six faces each bare a grid of nine squares that extends to the four edges of each face. This is Amelia's most precious possession. She would never willingly part with it. As a part of her Master's teaching; she learned of "the single items", those things that we hold so precious for no other reason than that we do and this gives us comfort. 
-- Explorer's Pack
+- Explorer's Pack - a collection of things gifted from her master on her long trip.
+- Quarterstaff - she uses this as a walking stick. she found this staff before Doo'Ilp. she likes it, but it only has usefulness to her.
+
+## Spells
+
+At third level, she has the following spells (4c 4s - 4, 2):
+- Fire Bolt
