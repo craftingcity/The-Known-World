@@ -10,3 +10,6 @@ For a moment [[Kursk]], you're back in [[Baskin]] with your band of friends. You
 *This turns from a nice dinner scene to Kursk waking up with a Intellect Devourer trying to eat his head.*
 
 Int check on reality?
+
+Cool, great intro; where do we go from here?
+They need something to come to them - is that the mind flayers? I dont think so. This guy is a hunter. Maybe he has some plot to go back to but this guy has been lost a long time.
