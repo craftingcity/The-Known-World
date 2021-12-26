@@ -11,5 +11,16 @@ For a moment [[Kursk]], you're back in [[Baskin]] with your band of friends. You
 
 Int check on reality?
 
-Cool, great intro; where do we go from here?
+Cool, great intro; where do we go from here? **SOMEWHERE**
 They need something to come to them - is that the mind flayers? I dont think so. This guy is a hunter. Maybe he has some plot to go back to but this guy has been lost a long time.
+
+Okay. Some options:
+- "kind" drow
+- kind mercenaries
+- following someone bad home
+
+What are they looking for:
+BARDAUX
+INFORMATION ON BARDAUX
+INFORMATION ON WHITIMORE
+INFORMATION ON PEOPLE WHO TAKE PEOPLE FROM ABOVE
