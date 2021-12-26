@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Landing Page.md",
+            "file": "Greetings!.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Greetings!.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Greetings!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Greetings!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,8 @@
   },
   "active": "78f4e7c49f98512d",
   "lastOpenFiles": [
-    "Landing Page.md",
+    "Greetings!.md",
+    "Bible.md",
     "What do we know about the whitimore.md",
     "Game Notes/A Grand Notepad.md",
     "Game Notes/Prenotes/Prenotes Jan XX 22.md",
@@ -181,7 +182,6 @@
     "TEMPLATES/Prenotes.md",
     "Game Notes/Prenotes/Prenotes Dec 11 21.md",
     "Game Notes/Prenotes/For My Players, On the Underdark.md",
-    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
-    "Game Notes/Prenotes/Prenotes Oct 10 21.md"
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md"
   ]
 }
