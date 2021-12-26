@@ -59,7 +59,15 @@ x | See [[Underdark Rock Formation]]
 On "Tick (ie once a day right? rations, long rests)"
 - does encounter happen?
 - encounters table of description (good, neut., bad roll -> other table, sound & light carry; this is a saved roll, we get to know whats next, but not necessarily when^^. is this based on the biome where in? probably. high biome diversity -> low threat diversity? lets hope not)
+- I like 1dx as "percent something happens" and I like my players rolling dice, so thats cool.
+	- 1d6 seems reasonable?
 
+d100 | for something might happen
+--- | ---
+01-10 | Death. Something happened here. This one didn't make it. There is nothing to gain here.
+11-20 | Disease. A natural feature is affected. This one has even gone mad.
+21-30 | Posion. This thing is intentionally destructive to you. There is nothing to gain here.
+31-40 | Group. Theres a lot of them, and you're in their space. 
 
 
 # Plunderance!
