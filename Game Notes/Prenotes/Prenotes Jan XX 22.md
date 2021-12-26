@@ -9,3 +9,4 @@ You are all used to hard travel, you have slept upon stone before. This rock is 
 For a moment [[Kursk]], you're back in [[Baskin]] with your band of friends. You're sitting around the table, eating a grand feast in a cramped house. Agwir passes the butter to you: "For your bread! Its good you could be with us Kursk". Another of your friends turns you you and takes the meat dish you pass them: "Yeah! Totally! I'm really glad your'e here."
 *This turns from a nice dinner scene to Kursk waking up with a Intellect Devourer trying to eat his head.*
 
+Int check on reality?

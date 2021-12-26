@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d33b2bd1093c6dfd",
+        "id": "4bd0fcfb75183af3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/A Grand Notepad.md",
+            "file": "Game Notes/Prenotes/Prenotes Nov 27 21.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "8a9fe229d5b4a4b4",
+        "id": "14d6925c6c46b292",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0004fc3e51506772",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+            "file": "TEMPLATES/Prenote.md",
             "mode": "source"
           }
         }
@@ -102,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md"
+                "file": "TEMPLATES/Prenote.md"
               }
             }
           },
@@ -135,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
+                "file": "TEMPLATES/Prenote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan XX 22.md",
+                "file": "TEMPLATES/Prenote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +171,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "8a9fe229d5b4a4b4",
+  "active": "14d6925c6c46b292",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/Prenotes Jan XX 22.md",
-    "Game Notes/A Grand Notepad.md",
-    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+    "TEMPLATES/Prenote.md",
+    "Game Notes/Prenotes/Prenotes Nov 27 21.md",
     "Game Notes/Prenotes/Prenotes Dec 11 21.md",
+    "Game Notes/Prenotes/For My Players, On the Underdark.md",
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+    "Game Notes/Prenotes/Prenotes Oct 10 21.md",
+    "Game Notes/A Grand Notepad.md",
+    "Game Notes/Prenotes/Prenotes Jan XX 22.md",
     "World Notes/Rough Lore/The Pantheon.md",
-    "On Interactions with Sama.md",
-    "Landing Page.md",
-    "World Notes/Nations/The Lands of Tetrimoc/The Lands of Tetrimoc.md",
-    "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Game Notes/NPCs/Loreful/Eledrathil Greystone.md"
+    "On Interactions with Sama.md"
   ]
 }
