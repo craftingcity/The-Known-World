@@ -24,3 +24,22 @@ BARDAUX
 INFORMATION ON BARDAUX
 INFORMATION ON WHITIMORE
 INFORMATION ON PEOPLE WHO TAKE PEOPLE FROM ABOVE
+
+Okay
+step back
+introduce the underdark some more
+get comfortable here
+
+We want to push them deeper: "if the drow took your friend, you need to go down. thats the only way forward here."
+[[Amashod]] would know this
+[[Varis]] may know this too
+
+Lets build some more "random" stuff until they get to middeep. The Shallows bleed into the middeep well for the most part. Especially the artificial areas.
+
+Name Drops for middeep:
+
+[[Lolth]], Spider Queen
+
+[[Vhaeraun]], Progenitor
+
+[[Dead King ]]
