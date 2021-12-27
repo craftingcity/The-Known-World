@@ -4,7 +4,16 @@ aliases:
 ---
 > This thick book is bound in red leather and brown strappings. Its pages are worn and yellowed. It looks perhaps a hundred years of age. On its face, a metal lock binds the book shut.
 
-This is the Journal of [[Arthur Simonson]], King of [[The Kingdom of Prosper|Prosper]]. Its entries begin in the first century, and detail Artie's 
+This is the Journal of [[Arthur Simonson]], King of [[The Kingdom of Prosper|Prosper]]. Its entries begin in the first century, and detail some of the forever young king's exploits. 
+
+The journal begins with a small entry:
+
+"To Whom It May Concern,
+Welcome. You are reading now my recorded thoughts. I may spare no detail - this is your fair warning."
+
+And then, it begins:
+
+The first pages begin in the earliest years of time, when Arthur was a young man. They detail his life growing up as a half-hobgoblin who had no father to care for him. The next some become present, and they detail an adventurous life. For many years, this was Arthur's work; he went from place to place asking for work of any manner. Some jobs were quite successful. These entries sound of a man who has nothing but joy for the world. Some jobs were not. These entries sound of a man who has seen horror. War. Plauge
 
 
 
