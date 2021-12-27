@@ -18,7 +18,7 @@ content:
 date: 013AF
 title: A young [[Arthur Simonson]] makes moves
 content:
-The adventurer king makes his first moves against evil.
+The adventurer king makes his first moves against evil. His tale's beginning is unremakable. 
 
 date: 025AF
 title: A long Wait

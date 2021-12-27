@@ -23,6 +23,8 @@ Then, some pages of madness. Undated ramblings, scribbled drawings, and torn pag
 
 On the next entry, dated sometime in the [[Prime Timeline|winter of the year 056AF]], he speaks of his Final Quest: to unite the lands under a time of prosperity that would last for as long as he lived. He speaks somewhat differently than before, using some less than transparent metaphor and many more nothing-words.
 
+Then, he made war. His entries write of his close friends becoming generals in his war against the [[Bandit Lords]] that had taken a hold in the midst of the [[Northeastern Hobgoblin Territories]]. 
+
 
 
 
