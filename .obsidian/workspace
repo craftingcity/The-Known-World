@@ -4,58 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "88b92fec0d8dfe67",
+        "id": "518649d1e1d7ffd6",
         "type": "leaf",
-        "dimension": 37.12399119589141,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "413ddca6b11f662f",
+        "id": "718445ddd68c3afb",
         "type": "leaf",
-        "dimension": 31.694790902421126,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Northeastern Hobgoblin Territories.md",
+            "file": "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a182c48bbfc2b1a8",
-        "type": "split",
-        "dimension": 31.181217901687454,
-        "children": [
-          {
-            "id": "890a26a21ae207b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b090db0ab59aa925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prime Timeline.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -123,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md"
+                "file": "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md"
               }
             }
           },
@@ -164,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
+                "file": "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
+                "file": "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,17 +171,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "890a26a21ae207b5",
+  "active": "718445ddd68c3afb",
   "lastOpenFiles": [
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
-    "Northeastern Hobgoblin Territories.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+    "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
+    "README.md",
+    "Greetings!.md",
     "Game Notes/Prime Timeline.md",
+    "Northeastern Hobgoblin Territories.md",
+    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
+    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
+    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "World Notes/Planes/Underdark/Tables/Underdark Encounters.md",
-    "World Notes/Planes/Underdark/Tables/Underdark Travel Table.md",
-    "What do we know about the whitimore.md",
-    "Untitled.md",
-    "Game Notes/Prenotes/Prenotes Jan XX 22.md"
+    "World Notes/Planes/Underdark/Tables/Underdark Travel Table.md"
   ]
 }

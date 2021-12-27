@@ -3,11 +3,10 @@ tags: deity, world, needs_work
 ---
 # The Pantheon
 
-The Current Pantheon is a representation of the emotional needs of the peoples who inhabit the world and the physicality of the world. None have yet joined their number or taken one away (not that one really could without replacing it with something similar).
-
-# Listings
+The pantheon of gods on this place is not like those in the stories of Olympus. Gods are born from people, not the other way around. Gods need worshipers. Often, in exchange, they will do some work. The oldest gods of this place are the gods of emotion.
 
 ## Emotional Gods
+All of these gods are born of the feeling of emotion. Because of the Weave of this land, these emotions bore gods. 
 #### Arkraven 
 - sadness, death, grief, emptiness, void; a group of vultures picking the flesh from a corpse
 
@@ -25,6 +24,7 @@ The Current Pantheon is a representation of the emotional needs of the peoples w
 
 #### Blemon
 - loathing, disgust, disease; a green half masked figure in a dark robe holding a rotting wooden staff
+
 
 ### Physical Idols
 
@@ -44,9 +44,13 @@ The Current Pantheon is a representation of the emotional needs of the peoples w
 - magic, weave
 
 ## Patrons of Need
+Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. They are the household gods that the common fol
 ### Sama
 - the god of One Mindedness.
 - feels like sitting in a rainy forest
 - wet moss, fresh dirt
 - sama appears to their worshipers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
 - they are not easily amused
+
+## Gods of Triumph
+Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 
