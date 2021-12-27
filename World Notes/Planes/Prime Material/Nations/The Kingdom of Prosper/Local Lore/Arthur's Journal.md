@@ -13,7 +13,15 @@ Welcome. You are reading now my recorded thoughts. I may spare no detail - this 
 
 And then, it begins:
 
-The first pages begin in the earliest years of time, when Arthur was a young man. They detail his life growing up as a half-hobgoblin who had no father to care for him. The next some become present, and they detail an adventurous life. For many years, this was Arthur's work; he went from place to place asking for work of any manner. Some jobs were quite successful. These entries sound of a man who has nothing but joy for the world. Some jobs were not. These entries sound of a man who has seen horror. War. Plauge
+The first pages begin in the earliest years of time, when Arthur was a young man. They detail his life growing up as a half-hobgoblin who had no father to care for him. The next some become present, and they detail an adventurous life. 
+
+For many years, this was Arthur's work; he went from place to place asking for work of any manner. Some jobs were quite successful. These entries sound of a man who has nothing but joy for the world. Throughout these entries, he extrapolates on the benefits of a life of adventure. Tales of jobs, friends, love, and riches. Some jobs were not successful. These entries sound of a man who has seen horror. War. Plague. Corruption. Death. Many fair warnings to never pursue this life.
+
+All throughout these pages on adventures he has made, he makes remarks of the leadership; how it rules from fear and power rather than righteousness.
+
+Then, some pages of madness. Undated ramblings, scribbled drawings, and torn pages. 
+
+On the next entry, dated sometime in the [[Prime Timeline|winter of the year 056AF]]
 
 
 
