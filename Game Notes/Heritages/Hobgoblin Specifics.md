@@ -15,4 +15,4 @@ Hobgoblin clans hold themselves to an ancient system of honors: the [[Blood Hobg
 
 # Some Fun Facts
 - Hobgoblins and Humans cannot have children, or at least couldn't until [[Arthur Simonson|Arthur]]
-- some of the northern [[#Hobgoblin Clans]] are at war.
+- some of the northern [[#Hobgoblin Clans]] are [[The Hobgoblin Wars|at war]].

@@ -11,7 +11,9 @@ date: 000AF
 title: The Fall
 content: 
 
-[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
+[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. 
+
+Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
 
 
@@ -30,7 +32,7 @@ date: 028AF
 title: Minyostalma Falls
 content:
 
-In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy. It was burned. The remains of the other humaniod settlements in that area didn't survive the [[50 Year Fires|immolation]], but [[The Old|Minyostalma's Ruins]]
+In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy. It was burned. The remains of the other humaniod settlements in that area didn't survive the [[50 Year Fires|immolation]], but [[The Old|Minyostalma's Ruins]] did. It is now one of the great monuments of this era.
 
 date: 056AF
 title: [[Unification|Prosper Makes Peace]]

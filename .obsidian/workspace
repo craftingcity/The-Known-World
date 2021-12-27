@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "518649d1e1d7ffd6",
+        "id": "edefacec65180ba5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Northeastern Hobgoblin Territories.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "718445ddd68c3afb",
+        "id": "8d34a92cd6b7b156",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
+            "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Game Notes/Heritages/Hobgoblin Specifics.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +171,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "518649d1e1d7ffd6",
+  "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
-    "README.md",
-    "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
-    "Greetings!.md",
+    "Game Notes/Heritages/Hobgoblin Specifics.md",
     "Game Notes/Prime Timeline.md",
     "Northeastern Hobgoblin Territories.md",
     "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
+    "Bible.md",
+    "README.md",
+    "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
+    "Greetings!.md",
     "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
-    "World Notes/Planes/Underdark/Tables/Underdark Encounters.md",
-    "World Notes/Planes/Underdark/Tables/Underdark Travel Table.md"
+    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
   ]
 }
