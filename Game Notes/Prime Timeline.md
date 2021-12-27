@@ -2,7 +2,7 @@
 tags: timeline-labeled, world, notes, prime
 ---
 
-# Prime's Grand Timeline
+# Prime's Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
 
 ## The Age of Beginning
 The recorded history begins with [[Tetrimoc's Journal]].
@@ -18,7 +18,7 @@ content:
 date: 013AF
 title: A young [[Arthur Simonson]] makes moves
 content:
-[[The Kingdom of Prosper]] begins with Arthur raising his sword against [[The Arstoviches]], and freeing the humaniod settlements in the northeast from tryanny and constant war. [[Blood Hobgoblin Clan Pact#Peace|Peace]] will be made under Prosper's [[Unification]].
+The adventurer king makes his first moves against evil.
 
 date: 025AF
 title: A long Wait

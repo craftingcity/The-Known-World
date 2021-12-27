@@ -21,7 +21,7 @@ All throughout these pages on adventures he has made, he makes remarks of the le
 
 Then, some pages of madness. Undated ramblings, scribbled drawings, and torn pages. 
 
-On the next entry, dated sometime in the [[Prime Timeline|winter of the year 056AF]]
+On the next entry, dated sometime in the [[Prime Timeline|winter of the year 056AF]], he speaks of his Final Quest: to unite the lands under a time of prosperity that would last for as long as he lived. He speaks somewhat differently than before, using some less than transparent metaphor and many more nothing-words.
 
 
 
