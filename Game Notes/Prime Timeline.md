@@ -15,12 +15,15 @@ content:
 
 Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
-
+date: 
+title: Scholars Unite
+content:
+A "common" language has been formed. 
 
 date: 013AF
-title: A young [[Arthur Simonson]] makes moves
+title: [[Arthur Simonson]] raises his sword
 content:
-The adventurer king makes his first moves against evil. His tale's beginning is unremakable. 
+The adventurer king makes his first moves against evil. He will soon find [[On those Involved with Arthur Simonson|good friends]].
 
 date: 025AF
 title: A long Wait
@@ -37,13 +40,12 @@ In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was 
 date: 056AF
 title: [[Unification|Prosper Makes War]]
 content:
-[[Arthur Simonson]] begins to command a war against the [[Bandit Lords]] for the holdings
+[[Arthur Simonson]] begins to command a war against the [[Bandit Lords]] for their holdings in the [[Northeastern Hobgoblin Territories]]. 
 
 date: 059AF
 title: [[Unification|Prosper Makes Peace]]
 content:
-[[Arthur Simonson|The Great Adventurer King]] seals the deal with the other hobgoblin clans, and a tense peace comes through after the civil wars in cities around the area. 
-
+[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace comes through after the civil wars in cities around the area. 
 
 date: 073AF
 title: Nations Born
@@ -55,7 +57,7 @@ date: 078AF
 title: The Coalition is Formed
 content:
 
-A "common" language has been formed. [[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps inumaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
+[[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps inumaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
 
 date: 089AF
 title: The [[Invasion of Orcus]]
