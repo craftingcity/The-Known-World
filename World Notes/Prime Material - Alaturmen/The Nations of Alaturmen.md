@@ -2,7 +2,6 @@
 tags: world_page, bible, needs_work
 aliases:
 ---
-hey im building this using the ebberon book as an example
 # Nations of Alaturmen
 The following sections focus on what you need to know to create characters and NPCs from the nations of Alaturnmen and some of the smaller regions.
 
@@ -37,7 +36,7 @@ As you develop a character from the Kingdom of Prosper, consider the following p
 The Capital of the Kingdom, Prosper proper is a keep where the king lives and works, and the City of Prosper surrounds him. Mostly noble families do business here, but the city also disperses into many fields of farmers that call the city home.
 
 ### [[Moonlight]]
-Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. 
+Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. While some farming communities are friendly, Moonlight's common folk have no love for the adventure type, with some exceptions. Moonlight is home to [[Durth's Tavern]], a region renown bar, famous for its Aasimar patron and namesake who is both a great tavernkeep and non-guild adventure patron, although he has little to give but space. 
 
 ### [[Vurdine]]
 Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets".
