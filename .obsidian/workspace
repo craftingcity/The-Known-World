@@ -13,28 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "ed93597ceed41185",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Moonlight.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aec8ee6363c71437",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Alavini River.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -102,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moonlight.md"
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
               }
             }
           },
@@ -143,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moonlight.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moonlight.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +160,11 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "ed93597ceed41185",
+  "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
-    "Moonlight.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "Alavini River.md",
+    "Moonlight.md",
     "TEMPLATES/Stub.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Stubs/Durandum Weaponry.md",

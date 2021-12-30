@@ -44,6 +44,9 @@ Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". R
 ### [[Yerba]]
 A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based.
 
+### [[The Independant State of Yoursvik]]
+While the peace brought about by the Coalition is wonderful for some; the citizens of Yoursvik live every day under two rulers; a member of the [[The Democratic Combine of Peoples]] and the [[Arthur Simonson|King Of Prosper]]. While they are legally an independant state, both nations have claim to the city and a thumb in its pie. [[Noble House a'Haruuc]] hails from this city, and holds most of it's legal and illegal power. The [[Svik Talon]] is a group of citizens who use violence to maintain a border between the House's rule and their own. 
+
 # AAA
 **Capital:** a
 **Hallmarks:** a, a, a, a

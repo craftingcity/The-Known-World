@@ -1,5 +1,5 @@
 ---
-tags: holding,
+tags: holding, needs_work, 
 aliases:
 ---
 
@@ -11,7 +11,7 @@ Other Tags:
 
 # Description
 > Some time ago, a band of adventurers came to town, killed our mayor, ate our butcher, and we never saw them again! Thats why I hate you adventurers! You never even bother to clean up!
->  \- Francis Wurmlik, farm
+>  \- Francis Wurmlik, farmer
 ## Physicality of the Holding
 
 ## Population Distribution
