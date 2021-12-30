@@ -12,17 +12,16 @@ A decent system of roads connect the nations through [[Coalition City]]. From [[
 
 # [[The Kingdom of Prosper]]
 **Capital:** [[Castle Prosper]]
-**Hallmarks:** Cheese, Grains, Industry, Metalwork, Weapons
+**Hallmarks:** Grain
 
 In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources. Prosper leads the known world in industry. 
 
-Arthur's People are known for their pragmatism and preparedness. They lack the faith that the Tetramocians or the [[The Church of the White Flame|Church of Flame]] have, but they excel at finding the right tool for their job, or making one if necessary. Arthur's People have a talent for destruction, and many of the King's inventors work tirelessly on machines of war. The King's Silver Knights are one of the finest armies Alaturmen has known, rivaled only by the Flaming Exarchs of [[The Church of the White Flame|the Church]] and the combined forces of the [[Guild of Adventurers]]. 
+The Kingdom is a true monarchy, headed and completely ruled by his lordship [[Arthur Simonson]], it is also a [[Northeastern Hobgoblin Territories#Clans|Blood Clan]] under, again, [[Simonson Clan|Simonson rule]]. It is home to a few powerful noble families, many of whom have bloodline as far back as the beginning.
+
 
 ## Interesting things about Prosper
-- a
-- a
-- a
-- a
+- Some [[Nobles of Prosper]] are goblins, leading credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
+
 
 ## Characters from Prosper
 As you develop a character from the Kingdom of Prosper, consider the following properties:
