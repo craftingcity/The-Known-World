@@ -30,8 +30,14 @@ As you develop a character from the Kingdom of Prosper, consider the following p
 **a.** a
 
 ## Cities and Sites
-### Vurdine
-Home to Alaturmen's most prestigious Acadamy, Vurdine is a rural "college town"
+### [[Castle Prosper|City of Prosper]]
+The Capital of the Kingdom, Prosper proper is a keep where the king lives and works, and the City of Prosper surrounds him. Mostly noble families do business here, but the city also disperses into many fields of farmers that call the city home.
+
+### [[Vurdine]]
+Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets".
+
+### [[Yerba]]
+A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. 
 
 # AAA
 **Capital:** a
