@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Northeastern Hobgoblin Territories.md",
+            "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
+            "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Heritages/Hobgoblin Specifics.md"
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Heritages/Hobgoblin Specifics.md",
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,15 +173,15 @@
   },
   "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+    "World Notes/Bible.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
     "Game Notes/Heritages/Hobgoblin Specifics.md",
     "Game Notes/Prime Timeline.md",
-    "Northeastern Hobgoblin Territories.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Blood Hobgoblin Clan Pact.md",
-    "Bible.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Blood Hobgoblin Clan Pact.md",
     "README.md",
-    "World Notes/Planes/Prime Material/Rough Lore/The Pantheon.md",
-    "Greetings!.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
-    "World Notes/Planes/Prime Material/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
+    "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Pantheon.md",
+    "Greetings!.md"
   ]
 }

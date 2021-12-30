@@ -4,7 +4,7 @@ aliases: The Planes, Planes
 ---
 # The Material Plane
 ## Prime
-The Prime Material Plane expands with the ebb and flow of life. It grows and shrinks as it needs to. This is a process that takes many years, and begins with sentient creatures exploring and quickens with mapping of the "film layer" in between [[#Prime]] and other planes. This is known as the [[#In Between]] to scholars studying the subject.
+The Prime Material Plane (known to its population as Alaturmen) expands with the ebb and flow of life. It grows and shrinks as it needs to. This is a process that takes many years, and begins with sentient creatures exploring and quickens with mapping of the "film layer" in between [[#Prime]] and other planes. This is known as the [[#In Between]] to scholars studying the subject.
 
 As an effect of this mechanic, a commoner can walk into [[#The Wildlands]] end up in their desired plane of existence, and never be seen again.
 

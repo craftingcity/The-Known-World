@@ -55,9 +55,8 @@ Travel from one side of the world to the other takes a month. Crossing a nation 
 
 The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans and elves, often with historical language of the goblins, dragons, eladrin, and triton.
 
-# Questions Unanswered
 ## Power and Punishment
-There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and many regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use fear, and the Combine uses strength and fellowship.
+There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and a few regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use fear, and the Combine uses strength and community.
 
 Execution is a common punishment for serious crimes such as treason or murder, but most people are subject to fines more than anything else. 
 ## Daily life 
