@@ -9,4 +9,10 @@ This nation is organized by a single founding [[Blood Hobgoblin Clan Pact|docume
 # Clans
 There were five families of hobgoblins that settled in the northeast [[Prime Timeline#The Age of Beginning|when the people came]]. 
 
-[[Simonson Clan]] was a band of great warriors. Matron led, nothing but family stopped them.
+[[Simonson Clan]] was a band of great warriors. Matron led, nothing but family stopped them from achieving their lofty goals.
+
+[[Garqwak Clan]] is a family that keeps tradition in its heart. They hold many meetings for other clans when they have a dispute.
+
+[[Hurraquk Clan]]
+
+[[Emorin Clan]]
