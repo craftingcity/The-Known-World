@@ -24,17 +24,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "71e745e78544acb9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Deakred Range.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -102,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deakred Range.md"
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md"
               }
             }
           },
@@ -143,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deakred Range.md",
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deakred Range.md",
+                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +171,11 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "71e745e78544acb9",
+  "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
     "Deakred Range.md",
     "Mountain Hall.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
     "World Notes/Bible.md",
     "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
     "Game Notes/Heritages/Hobgoblin Specifics.md",
