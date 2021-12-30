@@ -25,13 +25,18 @@ The Kingdom is a true monarchy, headed and completely ruled by his lordship [[Ar
 
 ## Characters from Prosper
 As you develop a character from the Kingdom of Prosper, consider the following properties:
-**a.** a
+
+**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]]'s patriarch is the handsome goblin [[Blagur a'Nyrk]]', for example. 
+
 **a.** a
 **a.** a
 
 ## Cities and Sites
-### [[Castle Prosper|City of Prosper]]
+### [[Castle Prosper|Prosper Proper]]
 The Capital of the Kingdom, Prosper proper is a keep where the king lives and works, and the City of Prosper surrounds him. Mostly noble families do business here, but the city also disperses into many fields of farmers that call the city home.
+
+### [[Moonlight]]
+Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. 
 
 ### [[Vurdine]]
 Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets".

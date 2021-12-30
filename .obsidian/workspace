@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "0e41544c5576d589",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nobles of Prosper.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -92,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md"
+                "file": "Nobles of Prosper.md"
               }
             }
           },
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+                "file": "Nobles of Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+                "file": "Nobles of Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +184,9 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "8d34a92cd6b7b156",
+  "active": "0e41544c5576d589",
   "lastOpenFiles": [
+    "Nobles of Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
@@ -182,7 +195,6 @@
     "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
     "Deakred Range.md",
     "Mountain Hall.md",
-    "World Notes/Bible.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md"
+    "World Notes/Bible.md"
   ]
 }
