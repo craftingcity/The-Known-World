@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a373e2f17e26a735",
-        "type": "split",
-        "children": [
-          {
-            "id": "edefacec65180ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "99dfa315c93a93ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On those Involved with Arthur Simonson.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "8d34a92cd6b7b156",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aec8ee6363c71437",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Alavini River.md",
             "mode": "source"
           }
         }
@@ -77,13 +59,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -111,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On those Involved with Arthur Simonson.md"
+                "file": "Alavini River.md"
               }
             }
           },
@@ -152,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On those Involved with Arthur Simonson.md",
+                "file": "Alavini River.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On those Involved with Arthur Simonson.md",
+                "file": "Alavini River.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,17 +171,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "99dfa315c93a93ff",
+  "active": "aec8ee6363c71437",
   "lastOpenFiles": [
-    "On those Involved with Arthur Simonson.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
-    "Game Notes/Prime Timeline.md",
-    "Nobles of Prosper.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Blood Hobgoblin Clan Pact.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Simonson Clan.md"
+    "Alavini River.md",
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Game Notes/Stubs/Durandum Weaponry.md",
+    "World Notes/Other Planes/Underdark/Groups/House Thoulca.md",
+    "Game Notes/Stubs/War Beast.md",
+    "World Notes/Other Planes/Underdark/Groups/The Whitimores.md",
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
   ]
 }

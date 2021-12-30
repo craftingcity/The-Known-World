@@ -2,6 +2,7 @@
 tags: stub
 aliases:
 ---
+*This page is is a stub. You can help by expanding it!*
 
 A Warbeast is a mythological type of creation. A creature of mechanical and magical means. A fearsome beast when mastered by the wrong hands.
 

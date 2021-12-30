@@ -43,11 +43,11 @@ Small farming communities such as Moonlight are essential to the Kingdom's econo
 Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets".
 
 ### [[Yerba]]
-A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. 
+A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based.
 
 # AAA
 **Capital:** a
-**Hallmarks:** a
+**Hallmarks:** a, a, a, a
 
 desc.
 
