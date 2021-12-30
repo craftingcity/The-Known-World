@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "71e745e78544acb9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deakred Range.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md"
+                "file": "Deakred Range.md"
               }
             }
           },
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+                "file": "Deakred Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+                "file": "Deakred Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +182,10 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "8d34a92cd6b7b156",
+  "active": "71e745e78544acb9",
   "lastOpenFiles": [
+    "Deakred Range.md",
+    "Mountain Hall.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
     "World Notes/Bible.md",
     "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
@@ -180,8 +193,6 @@
     "Game Notes/Prime Timeline.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Blood Hobgoblin Clan Pact.md",
-    "README.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Rough Lore/The Pantheon.md",
-    "Greetings!.md"
+    "README.md"
   ]
 }
