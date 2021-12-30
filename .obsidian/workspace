@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "5bcb6599602ea1f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prime Timeline.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "8d34a92cd6b7b156",
         "type": "leaf",
         "state": {
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nobles of Prosper.md"
+                "file": "Game Notes/Prime Timeline.md"
               }
             }
           },
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nobles of Prosper.md",
+                "file": "Game Notes/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nobles of Prosper.md",
+                "file": "Game Notes/Prime Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +195,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "0e41544c5576d589",
+  "active": "5bcb6599602ea1f0",
   "lastOpenFiles": [
-    "Nobles of Prosper.md",
+    "Game Notes/Prime Timeline.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Nations of Alaturmen.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Blood Hobgoblin Clan Pact.md",
+    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "Nobles of Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "World Notes/Planes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Simonson Clan.md",
-    "World Notes/Planes/Prime Material - Alaturmen/Nations/Blood Clans/Northeastern Hobgoblin Territories.md",
-    "Deakred Range.md",
-    "Mountain Hall.md",
-    "World Notes/Bible.md"
+    "Deakred Range.md"
   ]
 }

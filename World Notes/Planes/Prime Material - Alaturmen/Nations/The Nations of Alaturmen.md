@@ -16,7 +16,7 @@ A decent system of roads connect the nations through [[Coalition City]]. From [[
 
 In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources. Prosper leads the known world in industry, and holds an [[Vurdine#Vurdine Acadamy|Academy]] in [[Vurdine]]
 
-The Kingdom is a true monarchy, headed and completely ruled by his lordship [[Arthur Simonson]], it is also a [[Northeastern Hobgoblin Territories#Clans|Blood Clan]] under, again, [[Simonson Clan|Simonson rule]]. It is home to a few powerful noble families, many of whom have bloodline as far back as the beginning.
+The Kingdom is a true monarchy, headed and completely ruled by his lordship [[Arthur Simonson]], it is also a [[Northeastern Hobgoblin Territories#Clans|Blood Clan]] under, again, [[Simonson Clan|Simonson rule]]. It is home to a few powerful noble families, many of whom have bloodline as far back as the [[Unification]].
 
 
 ## Interesting things about Prosper

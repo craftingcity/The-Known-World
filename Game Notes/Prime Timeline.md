@@ -35,6 +35,11 @@ content:
 In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy. It was burned. The remains of the other humaniod settlements in that area didn't survive the [[50 Year Fires|immolation]], but [[The Old|Minyostalma's Ruins]] did. It is now one of the great monuments of this era.
 
 date: 056AF
+title: [[Unification|Prosper Makes War]]
+content:
+[[Arthur Simonson]] begins to command a war against the [[Bandit Lords]] for the holdings
+
+date: 059AF
 title: [[Unification|Prosper Makes Peace]]
 content:
 [[Arthur Simonson|The Great Adventurer King]] seals the deal with the other hobgoblin clans, and a tense peace comes through after the civil wars in cities around the area. 
