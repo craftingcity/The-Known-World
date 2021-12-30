@@ -1,8 +1,8 @@
 ---
-tags: world_page, bible
+tags: world_page, bible, needs_work
 aliases:
 ---
-
+hey im building this using the ebberon book as an example
 # Nations of Alaturmen
 The following sections focus on what you need to know to create characters and NPCs from the nations of Alaturnmen and some of the smaller regions.
 
