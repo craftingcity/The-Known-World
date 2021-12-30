@@ -14,9 +14,10 @@ In [[Prime Timeline|128AF]], the local Hobgoblin population erupted into civil w
 The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army.
 
 #### Modern Politics
-For much of the first century, the [[Simonson Clan]] was all there was of "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. [[Arthur Simonson|Artie]] made a power vacuum, and filled it with himself.
+For much of the first century, the [[Simonson Clan]] was all there was of "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. [[Arthur Simonson|Artie]] made a power vacuum, and filled it with himself. This took much time. ]
+Related articles include [[Arthur's Journal]] and [[Unification]].
 
-In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the 
+In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 ## Population Distribution and Language
 The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans and Elves. 
