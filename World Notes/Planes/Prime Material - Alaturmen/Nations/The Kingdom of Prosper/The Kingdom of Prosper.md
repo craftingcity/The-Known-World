@@ -6,20 +6,19 @@ aliases: Prosper
 Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land (such as the farming community of [[Moonlight]]), connected by poorly kempt cobbled roads. Much of the geography of Prosper is forested. 
 
 ## History
-In the beginning, people made homes and farms here
+For much of the first century, "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. 
 
-In [[Prime Timeline|56AF]], [[Arthur Simonson]] united the lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. 
+In the very beginning, people made homes and farms here, and quickly the [[Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and took land from the hobgoblins to make their own holdings larger. 
 
-In [[Prime Timeline|128AF]], the local Hobgoblin population erupted into civil war. [[The Hobgoblin Wars]] have yet to be resolved and have created a massive issue for Artie and the rest of the government.
+In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. A great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
 
+In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
+
+Related articles include [[Arthur's Journal]] and [[Unification]].
 ## Government
 The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army.
 
-#### Modern Politics
-For much of the first century, the [[Simonson Clan]] was all there was of "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. [[Arthur Simonson|Artie]] made a power vacuum, and filled it with himself. This took much time. ]
-Related articles include [[Arthur's Journal]] and [[Unification]].
 
-In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 ## Population Distribution and Language
 The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans and Elves. 
