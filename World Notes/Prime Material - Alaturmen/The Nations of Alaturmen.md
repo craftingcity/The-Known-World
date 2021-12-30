@@ -28,7 +28,7 @@ As you develop a character from the Kingdom of Prosper, consider the following p
 
 **Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]]'s patriarch is the handsome goblin [[Blagur a'Nyrk]]', for example. 
 
-**a.** a
+**Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities
 **a.** a
 
 ## Cities and Sites
@@ -39,13 +39,13 @@ The Capital of the Kingdom, Prosper proper is a keep where the king lives and wo
 Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. While some farming communities are friendly, Moonlight's common folk have no love for the adventure type, with some exceptions. Moonlight is home to [[Durth's Tavern]], a region renown bar, famous for its Aasimar patron and namesake who is both a great tavernkeep and non-guild adventure patron, although he has little to give but space. 
 
 ### [[Vurdine]]
-Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets".
+Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets". 
 
 ### [[Yerba]]
-A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based.
+A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based. Many merchant families got their start in Yerba, such as the Northstones of [[Northstone Trading Company]].
 
 ### [[The Independant State of Yoursvik]]
-While the peace brought about by the Coalition is wonderful for some; the citizens of Yoursvik live every day under two rulers; a member of the [[The Democratic Combine of Peoples]] and the [[Arthur Simonson|King Of Prosper]]. While they are legally an independant state, both nations have claim to the city and a thumb in its pie. [[Noble House a'Haruuc]] hails from this city, and holds most of it's legal and illegal power. The [[Svik Talon]] is a group of citizens who use violence to maintain a border between the House's rule and their own. 
+While the peace brought about by the Coalition is wonderful for some; the citizens of Yoursvik live every day under two rulers; a member of the [[The Democratic Combine of Peoples]] and the [[Arthur Simonson|King Of Prosper]]. While they are legally an independant state, both nations have claim to the city and a thumb in its pie. [[Noble House a'Haruuc]] hails from this city, and holds most of it's legal power. They have, in accordance with [[Coalition's Founding Document]], left "ample room" for whomsoever of the Combine holds Yoursvik that day. [[Svik Talon]] is a group of citizens who use violence to maintain a border between the House's rule and their own. 
 
 # AAA
 **Capital:** a
