@@ -16,4 +16,39 @@ A decent system of roads connect the nations through [[Coalition City]]. From [[
 
 In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources. Prosper leads the known world in industry. 
 
-Arthur's People are known for their pragmatism and preparedness. They lack the community of [[The Democratic Combine of Peoples]] and the faith of [[The Church of the White Flame]], but they excel at finding the right tool for their job, or making one if necessary. Arthur's People have a talent for destruction, and many of the King's inventors work tirelessly on machines of war. The King's Silver Knights are one of the finest armies Alaturmen has known, rivaled only by the Flaming Exarchs of [[chuch.
+Arthur's People are known for their pragmatism and preparedness. They lack the faith that the Tetramocians or the [[The Church of the White Flame|Church of Flame]] have, but they excel at finding the right tool for their job, or making one if necessary. Arthur's People have a talent for destruction, and many of the King's inventors work tirelessly on machines of war. The King's Silver Knights are one of the finest armies Alaturmen has known, rivaled only by the Flaming Exarchs of [[The Church of the White Flame|the Church]] and the combined forces of the [[Guild of Adventurers]]. 
+
+## Interesting things about Prosper
+- a
+- a
+- a
+- a
+
+## Characters from Prosper
+As you develop a character from the Kingdom of Prosper, consider the following properties:
+**a.** a
+**a.** a
+**a.** a
+
+## Cities and Sites
+
+
+# AAA
+**Capital:** a
+**Hallmarks:** a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**a.** a
+
+## Cities and Sites
