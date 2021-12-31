@@ -12,10 +12,17 @@ Gobliniod and Humanoid of all kinds have created a life here in Alaturmen. Prese
 
 **Humanoid.**
 - human
-	- the normal amount of human "races"
+	- the normal amount of human "races" ie 0 but like cultural identity is cool and there are some differences between groups of people but that gap is shrinking i think??
 - elf 
-	- winter
-	- spring
-	- summer
-	- fall
+	- winter (NW)
+	- spring (SE)
+	- summer (SW)
+	- fall (NE)
+- dwarf
+	- mountain
+	- hill
+- halfling
+- gnome
+
+
 
