@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d34a92cd6b7b156",
+        "id": "2b6efe8bf282abd6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Heritages/Playable Races.md",
+            "file": "World Notes/Heritages/Dwarven Specifics.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
+                "file": "World Notes/Heritages/Dwarven Specifics.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "World Notes/Heritages/Dwarven Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "World Notes/Heritages/Dwarven Specifics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +171,17 @@
     "width": 252.11111450195312,
     "collapsed": true
   },
-  "active": "fb59fde03b4dca71",
+  "active": "2b6efe8bf282abd6",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "World Notes/Heritages/Dwarven Specifics.md",
     "World Notes/Heritages/Playable Races.md",
-    "World Notes/Prime Material - Alaturmen/Bible.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City.md",
+    "World Notes/Heritages/Human Specifics.md",
+    "World Notes/Heritages/Hobgoblin Specifics.md",
+    "World Notes/Heritages/Halfling Specifics.md",
     "World Notes/Heritages/Goliath Specifics.md",
     "World Notes/Heritages/Goblin Specifics.md",
-    "Alavini River.md",
-    "Moonlight.md",
-    "TEMPLATES/Stub.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    "World Notes/Heritages/Gnome Specifics.md",
+    "World Notes/Heritages/Elven Specifics.md",
+    "World Notes/Heritages/Eladrin Specifics.md"
   ]
 }
