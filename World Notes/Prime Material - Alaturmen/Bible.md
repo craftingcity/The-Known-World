@@ -19,6 +19,8 @@ In the first years, these two peoples were weary and cautious. They both had lit
 
 At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eledrathil Greystone]], but that is another tale. 
 
+Related articles include [[The Nations of Alaturmen]].
+
 ### Northeast
 In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either simply "the [[Northeastern Hobgoblin Territories|Territories]]" or "[[The Kingdom of Prosper]]". 
 
@@ -37,7 +39,7 @@ In the southeast, a great amount of water lays upon the land, making much of the
 
 Unlike the other nations of this world, the Democratic Combine is less a united government and more a universal legal system. The many that use the Combine as their system make war against eachother over resource, but will fiercely and effectively defend each other from "outside" attacks. 
 
-### Coalition City
+### [[Coalition City]]
 Standing, carved into the center of the largest mountains at the eastern end of the [[Desert's Range]], a grand metropolis was born out of the need for communication and peace among the peoples of this world. The city is split into nine wards, each of which may as well be a city upon itself.
 Each of the wards has a purpose that allows the greater city to prosper, and some even have purpose for the world at large.
 

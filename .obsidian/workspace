@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "fb59fde03b4dca71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -163,14 +174,14 @@
   "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
     "World Notes/Heritages/Playable Races.md",
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Bible.md",
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City.md",
     "World Notes/Heritages/Goliath Specifics.md",
     "World Notes/Heritages/Goblin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "Alavini River.md",
     "Moonlight.md",
     "TEMPLATES/Stub.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Game Notes/Stubs/Durandum Weaponry.md",
-    "World Notes/Other Planes/Underdark/Groups/House Thoulca.md"
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }
