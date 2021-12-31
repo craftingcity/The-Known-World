@@ -69,8 +69,8 @@ As you develop a character from AAA, consider the following properties:
 ## Cities and Sites
 
 # [[The Lands of Tetrimoc]]
-**Capital:** Unknown
-**Hallmarks:** a, a, a, a
+**Capital:** [[The Golden City]]
+**Hallmarks:** Sand, Gold, Durandurm 
 
 desc.
 
