@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+            "file": "World Notes/Heritages/Playable Races.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
+                "file": "World Notes/Heritages/Playable Races.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "World Notes/Heritages/Playable Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "World Notes/Heritages/Playable Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "8d34a92cd6b7b156",
   "lastOpenFiles": [
+    "World Notes/Heritages/Playable Races.md",
+    "World Notes/Heritages/Goliath Specifics.md",
+    "World Notes/Heritages/Goblin Specifics.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "Alavini River.md",
     "Moonlight.md",
     "TEMPLATES/Stub.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Stubs/Durandum Weaponry.md",
-    "World Notes/Other Planes/Underdark/Groups/House Thoulca.md",
-    "Game Notes/Stubs/War Beast.md",
-    "World Notes/Other Planes/Underdark/Groups/The Whitimores.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md"
+    "World Notes/Other Planes/Underdark/Groups/House Thoulca.md"
   ]
 }
