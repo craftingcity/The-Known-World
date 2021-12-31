@@ -8,11 +8,11 @@ Gobliniod and Humanoid of all kinds have created a life here in Alaturmen. Prese
 **Goblinoid.**
 - goblin
 - hobgoblin
-- orc
 
 **Humanoid.**
 - human
 	- the normal amount of human "races" ie 0 but like cultural identity is cool and there are some differences between groups of people but that gap is shrinking i think??
+- orc
 - elf 
 	- winter (NW)
 	- spring (SE)
