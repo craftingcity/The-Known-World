@@ -50,7 +50,7 @@ While the peace brought about by the Coalition is wonderful for some; the citize
 
 # [[The Democratic Combine of Peoples]]
 **Capital:** Unknown
-**Hallmarks:** a, a, a, a
+**Hallmarks:** Ale, Chaos
 
 desc.
 
