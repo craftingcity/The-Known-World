@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 65.31699520511455,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -20,11 +17,8 @@
         "type": "leaf",
         "dimension": 34.683004794885456,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MAIN/Game Notes/Prime Timeline.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MAIN/Game Notes/Prime Timeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,6 +120,14 @@
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b69f4d2b8442e48",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
