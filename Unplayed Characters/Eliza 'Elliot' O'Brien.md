@@ -27,4 +27,6 @@ On my person I keep...
 
 Around others, I try keep my head down. I'd rather not interact with people unless I have to, unless they're interesting to me for some reason. And even then, I am afraid I may reveal too much about myself, and they will use this to hurt me.
 
-I work at my Uncle's smithy, mostly as his assistant - moving tools, balancing books, gathering supplies, etc. This has given me some pysicalstrength
+I worked at my Uncle's smithy, mostly as his assistant - moving tools, balancing books, gathering supplies, etc. Rarely he will make attempts to teach me his craft, and I am always eager to learn. This has given me some physical strength as well as the ability to perform simple arithmetic. 
+
+Whenever I had time, I would 
