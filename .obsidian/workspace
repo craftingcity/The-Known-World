@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unplayed Characters/Untitled.md",
+                "file": "Building for Alec's Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unplayed Characters/Untitled.md",
+                "file": "Building for Alec's Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unplayed Characters/Untitled.md"
+                "file": "Building for Alec's Game.md"
               }
             }
           },
@@ -146,10 +146,10 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "a8bf0b6344924ff8",
+  "active": "c5edd839b4630cc9",
   "lastOpenFiles": [
-    "Unplayed Characters/Untitled.md",
     "Building for Alec's Game.md",
+    "Unplayed Characters/Untitled.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "README.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",

@@ -4,4 +4,6 @@ I am 19.
 
 My greatest fear?
 
-My childhood was confusing. I prefered playing with the boys whenever I could, 
+My childhood was confusing. I remember working the farm from a young age, alongside my brother, father, and grandfather. I was not given the luxury of kindness from my parents or brother as I grew up. They would often yell at me. 
+
+I grew up in Ireland. My parents scraped together enough money to send me and my brother to America when we were 14. They sent us to live with our Uncle, who emigrated.
