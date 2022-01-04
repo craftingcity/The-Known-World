@@ -10,6 +10,6 @@ I grew up in Ireland.  I was not given the luxury of kindness from my parents or
 
 My parents scraped together enough money to send me and my brother to America when I was 9 and my brother was 12. They sent us to live with our Uncle, who emigrated some years ago, I was too young to remember the day.
 
-I volunteered at the beginning of the civil war. I did not want my brother to fight alone.
+I volunteered at the beginning of the civil war. I did not want my brother to fight alone. I am a Private.
 
 I fell in love. We were together for some time before the war started, in secret of course, and she promised to wait for my return. 
