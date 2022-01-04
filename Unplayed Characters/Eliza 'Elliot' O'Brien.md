@@ -31,4 +31,7 @@ I worked at my Uncle's smithy, mostly as his assistant - moving tools, balancing
 
 Whenever I had time, I would spend time with Mary or play ball sports with the men of my city if we could not be together. All my skills are quite suitable of a soldier.
 
-No. Tales of my great-grandmother describe not quite human capabilities, but I assume these to be 
+No.
+
+My name is Eliza O'Brien, but most people know me as Elliot.
+
