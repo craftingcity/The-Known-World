@@ -4,7 +4,9 @@ I am a pale skinned. I am some 5 feet and change. I have short and curly bright 
 
 I am 19, born on the 8th of February 1844. 
 
-My biggest fear is that nothing will change. That I will fight and die and the course of the world will become more na
+My greatest fear
+- nothing will change
+- i'll be found out.
 
 I grew up in Ireland.  I was not given the luxury of kindness from my parents or brother as I grew up. They would often yell at me for playing sports with the boys or coming home muddy. I remember working the farm from a young age, alongside my brother, father, and grandfather.
 
@@ -16,6 +18,8 @@ I fell in love. We were together for some time before the war started, in secret
 
 My greatest failure.
 
-My biggest secret.
+My grave-bound secret.
 
-In my pockets I keep 
+In my pockets I keep Mary's gift to me - the painting she titled "Home" - my equipment
+
+Around others, I keep my head down. I'd rather not interact with people unless I have to, unless they're interesting to me for some reason. And even then, I am afraid I may reveal too much about myself, and they will use this to hurt me.
