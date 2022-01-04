@@ -16,13 +16,13 @@ I volunteered at the beginning of the civil war. I did not want my brother to fi
 
 I fell in love. We were together for some time before the war started, in secret of course, and she promised to wait for my return. 
 
-My greatest failure.
 
-My grave-bound secret.
+
+The ring I have, the one which I intend to wed Mary with, I took from the corpse of a man I had killed in battle. 
 
 On my person I keep... 
-- Mary's gift to me - the painting she titled "Home" 
-- my small bag of 
+- Mary's gift to me - the small charcoal image she titled "Home" 
+- a simple ring
 - the equipment given to me when I joined the war (which I assume includes some firearm, ammo, powder, and a uniform)
 
 Around others, I keep my head down. I'd rather not interact with people unless I have to, unless they're interesting to me for some reason. And even then, I am afraid I may reveal too much about myself, and they will use this to hurt me.
