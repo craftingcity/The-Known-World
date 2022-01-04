@@ -29,4 +29,6 @@ Around others, I try keep my head down. I'd rather not interact with people unle
 
 I worked at my Uncle's smithy, mostly as his assistant - moving tools, balancing books, gathering supplies, etc. Rarely he will make attempts to teach me his craft, and I am always eager to learn. This has given me some physical strength as well as the ability to perform simple arithmetic. 
 
-Whenever I had time, I would play ball sports with the men of my city or spend time with Mary. My skill set is formed 
+Whenever I had time, I would spend time with Mary or play ball sports with the men of my city if we could not be together. All my skills are quite suitable of a soldier.
+
+No. Tales of my great-grandmother describe not quite human capabilities, but I assume these to be 
