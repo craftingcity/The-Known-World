@@ -6,5 +6,6 @@ I these pages I describe a world that I lived in for some time; the hours I spen
 2. The [[The Pantheon|gods are here]], we can see them walk among us.
 3. This place changes. Someone always does something that makes it change.
 4. The [[The Planes of Existence|Planes]] are leaking in. This means we get to make more, but it also means that people want to stop it.
-5. People in this place simply become here. Sometimes they are born, sometimes they are carved. Everyone's story is different.
+5. People in this place simply become here. Sometimes they are born, sometimes they are carved. Everyone's story is different. This is good and cool.
 6. We start with peace; war happens anyways.
+7. Things need to happen despite the player's influence. This isn't just their story.

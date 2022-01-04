@@ -4,21 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "84cf072e2da2f886",
+        "id": "a8bf0b6344924ff8",
         "type": "leaf",
-        "dimension": 65.31699520511455,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "173470f80607b4fd",
+        "id": "95b013e637de1dcf",
         "type": "leaf",
-        "dimension": 34.683004794885456,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -135,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 215,
+    "collapsed": true
   },
-  "active": "173470f80607b4fd",
+  "active": "a8bf0b6344924ff8",
   "lastOpenFiles": [
+    "README.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year Fires.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "MAIN/MEDIA/MAP/PROSPER_2021-12-07T21_18_42.233Z.png",
     "MAIN/Game Notes/Prime Timeline.md",
     "MAIN/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "MAIN/Nations/Lands of the Great White Flame/The Holy'lnds.md",
     "MAIN/Game Notes/NPCs/Deity-like/Its Greatness.md",
-    "50 Year Fires.md",
-    "the art co.md",
-    "MAIN/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "MAIN/World Wide Happenings/Coalition City/Coalition City.md",
-    "MAIN/World Wide Happenings/Worldknown Groups/The Guilds.md",
-    "MAIN/An Introduction and Organizational Notions.md"
+    "the art co.md"
   ]
 }
