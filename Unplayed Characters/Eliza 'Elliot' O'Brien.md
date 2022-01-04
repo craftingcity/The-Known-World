@@ -16,7 +16,7 @@ I volunteered at the beginning of the civil war. I did not want my brother to fi
 
 I fell in love. We were together for some time before the war started, in secret of course, and she promised to wait for my return. 
 
-
+My greatest failure.
 
 The ring I have, the one which I intend to wed Mary with, I took from the corpse of a man I had killed in battle. 
 
@@ -25,4 +25,6 @@ On my person I keep...
 - a simple ring
 - the equipment given to me when I joined the war (which I assume includes some firearm, ammo, powder, and a uniform)
 
-Around others, I keep my head down. I'd rather not interact with people unless I have to, unless they're interesting to me for some reason. And even then, I am afraid I may reveal too much about myself, and they will use this to hurt me.
+Around others, I try keep my head down. I'd rather not interact with people unless I have to, unless they're interesting to me for some reason. And even then, I am afraid I may reveal too much about myself, and they will use this to hurt me.
+
+I work at my Uncle's smithy, mostly as his assistant - moving tools, balancing books, gathering supplies, etc. This has given me some pysicalstrength
