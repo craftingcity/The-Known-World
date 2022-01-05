@@ -29,6 +29,6 @@ I worked at my Uncle's smithy, mostly as his assistant - moving tools, balancing
 
 Whenever I had time, I would spend it with Mary if I could. Otherwise, I played ball sports with the men of my city or read the works of Austen, Poe, or the Brontes. All my skills are quite suitable of a soldier.
 
-No.
+Yes. Grandma's journal taught me *Heat Metal*.
 
 My name is Eliza O'Brien, but most people know me as Elliot.
