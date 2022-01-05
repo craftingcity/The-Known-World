@@ -14,7 +14,7 @@ I volunteered at the beginning of the civil war. I did not want my brother to fi
 
 I fell in love. We were together for some time before the war started, in secret of course, and she promised to wait for my return. 
 
-My greatest failure.
+I hurt my brother because he hurt me. He said something - I don't even remember it now, and without thinking I hit him. He beat me. We haven't spoken since.
 
 The ring I have, the one which I intend to wed Mary with, I took from the corpse of a man I had killed in battle. 
 
