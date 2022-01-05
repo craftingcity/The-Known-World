@@ -4,9 +4,7 @@ I am a pale skinned. I am some 5 feet and change. I have short and curly bright 
 
 I am 19, born on the 8th of February 1844. 
 
-My greatest fear
-- nothing will change
-- i'll be found out.
+My greatest fear? Buy me dinner first. Clowns, spiders, my sexuality and identity hurting me and the people I love, etc.
 
 I grew up in Ireland.  I was not given the luxury of kindness from my parents or brother as I grew up. They would often yell at me for playing sports with the boys or coming home muddy. I remember working the farm from a young age, alongside my brother, father, and grandfather.
 
