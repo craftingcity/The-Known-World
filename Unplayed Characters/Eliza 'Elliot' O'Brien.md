@@ -32,4 +32,3 @@ Whenever I had time, I would spend it with Mary if I could. Otherwise, I played 
 No.
 
 My name is Eliza O'Brien, but most people know me as Elliot.
-
