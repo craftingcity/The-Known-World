@@ -2,7 +2,7 @@
 
 I am a pale skinned. I am some 5 feet and change. I have short and curly bright red hair. I have green eyes. My features are soft. The other soldiers call me boyish. 
 
-I am 19, born on the 8th of February 1844. 
+I am 19, born on the 8th of February 1843. 
 
 My greatest fear? Buy me dinner first. Clowns, spiders, my sexuality and identity hurting me and the people I love, etc.
 
@@ -27,7 +27,7 @@ Around others, I try keep my head down. I'd rather not interact with people unle
 
 I worked at my Uncle's smithy, mostly as his assistant - moving tools, balancing books, gathering supplies, etc. Rarely he will make attempts to teach me his craft, and I am always eager to learn. This has given me some physical strength as well as the ability to perform simple arithmetic. 
 
-Whenever I had time, I would spend time with Mary or play ball sports with the men of my city if we could not be together. All my skills are quite suitable of a soldier.
+Whenever I had time, I would spend it with Mary if I could. Otherwise, I played ball sports with the men of my city or read the works of Austen, Poe, or the Brontes. All my skills are quite suitable of a soldier.
 
 No.
 
