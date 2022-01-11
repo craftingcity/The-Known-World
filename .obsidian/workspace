@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unplayed Characters/Eliza 'Elliot' O'Brien.md",
+            "file": "gifts 4 mimi.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unplayed Characters/Eliza 'Elliot' O'Brien.md",
+                "file": "gifts 4 mimi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unplayed Characters/Eliza 'Elliot' O'Brien.md",
+                "file": "gifts 4 mimi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unplayed Characters/Eliza 'Elliot' O'Brien.md"
+                "file": "gifts 4 mimi.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "6b4dd1c2b57497c2",
   "lastOpenFiles": [
+    "gifts 4 mimi.md",
     "Unplayed Characters/Eliza 'Elliot' O'Brien.md",
     "Eliza 'Elliot' O'Brien.md",
     "Building for Alec's Game.md",
@@ -145,7 +146,6 @@
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year Fires.md",
     "MAIN/MEDIA/MAP/PROSPER_2021-12-07T21_18_42.233Z.png",
-    "MAIN/Game Notes/Prime Timeline.md",
-    "MAIN/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    "MAIN/Game Notes/Prime Timeline.md"
   ]
 }
