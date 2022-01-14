@@ -36,7 +36,7 @@ My peoples are crafting a grand settlement around my lair. They worship me as a 
 A people from a far land came to me. They spoke of [[Arthur Simonson|a king]]. I spoke of my power. More communication to ensue. I do not wish to speak to these people. Perhaps I will make my people do this work instead. Not yet, this still requires my attention.
 
 #### Year 76
-I spoke with many of the peoples in recency. Annoying, but fruitful. We brokered for many seasons. I brought with me a band of mine, representing the whole of my flock. We spoke of peace, teamwork, growth. A fine trade; stay out of my scales and I will not smite you. The other representative peoples agreed. They will build [[Coalition City|a city]] in this honor. I will make this my people's work.
+I spoke with many of the peoples in recency. Annoying, but fruitful. We brokered for many seasons. I brought with me a band of mine, representing the whole of my flock. We spoke of peace, teamwork, growth. A fine trade; stay out of my scales and I will not smite you. The other representative peoples agreed. They will build [[World Notes/Prime Material - Alaturmen/World Wide Happenings 1/Coalition City/Coalition City|a city]] in this honor. I will make this my people's work.
 
 #### Year 88
 A group of people, [[The Grey Ordeal]], came to me seeking aid. They have interrupted an important slumber. They speak of a tussle with a [[The Invasion of Orcus|grand demon prince]]. One was of my flock. I granted him this boon. Many of my items were distributed, and they will be returned in fold, a share of the spoils of war, and my claw in this story. 

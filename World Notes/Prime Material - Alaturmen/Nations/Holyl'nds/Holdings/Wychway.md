@@ -10,7 +10,7 @@ Defenses:
 Other Tags:
 
 # Description
-Wychway is a small town, notable only because of its proximity to the northern exitway of [[Coalition City]].
+Wychway is a small town, notable only because of its proximity to the northern exitway of [[World Notes/Prime Material - Alaturmen/World Wide Happenings 1/Coalition City/Coalition City]].
 
 ## Physicality of the Holding
 
