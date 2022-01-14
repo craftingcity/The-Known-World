@@ -7,7 +7,7 @@ This is the name for the region of the Known World that the hobgoblin clans that
 This nation is organized by a single founding [[Blood Hobgoblin Clan Pact|document]] that each member of the hobgoblin clans has signed over the years - or chosen to be destroyed.
 
 # Clans
-There were five families of hobgoblins that settled in the northeast [[Prime Timeline#The Age of Beginning|when the people came]]. 
+There were seven large families of hobgoblins that settled in the northeast [[Prime Timeline#The Age of Beginning|when the people came]]. 
 
 [[Simonson Clan]] was a band of great warriors. Matron led, nothing but family stopped them from achieving their lofty goals.
 
@@ -16,3 +16,9 @@ There were five families of hobgoblins that settled in the northeast [[Prime Tim
 [[Hurraquk Clan]]
 
 [[Emorin Clan]]
+
+[[Scrivin Clan]]
+
+[[Bulgpim Clan]]
+
+[[Wheernat Clan]]

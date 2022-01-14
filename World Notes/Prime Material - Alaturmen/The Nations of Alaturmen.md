@@ -20,7 +20,7 @@ While the Kingdom is a true monarchy, headed and completely ruled by his lordshi
 
 ## Interesting things about Prosper
 - Some [[Nobles of Prosper]] are goblins, leading credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
-- Our King, [[Arthur Simonson|Artie]], is unaging! He plans to rule for a long time.
+- Our King, [[Arthur Simonson|Artie]], is unaging, but not disillusioned. He protects his common citizen as well as he can.
 
 
 ## Characters from Prosper
