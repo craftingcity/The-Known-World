@@ -46,3 +46,5 @@ A large vault, high food potency, sedimentary rock.
 Bluecap, Barrelstalk, Verr Gourd, Smokebulb, Lithel
 
 Duergar made a path through here. The party has managed to pick it up. I will lead them to the city of [[Ammyrain]] proper. 
+
+On their first day, they encountered 8 bullet, which they 
