@@ -4,13 +4,13 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+Prosperity: Wealthy
+Population: Growing
+Defenses: Garrison
+Other Tags: Religion (Lolth), Resource (), Emnity (Ammyrain, Trog Territory)
 
 # Description
-Any sort of local lore...
+Ungaethram is a large drow city in a [[Underdark Travel Table#Entering a New Space|gigantic vault]]
 ## Physicality of the Holding
 
 ## Population Distribution
