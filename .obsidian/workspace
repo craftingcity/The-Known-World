@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e57d07d82f24b716",
+        "id": "fdc27d877cdd0f3c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Underdark Drow Houses.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9ea908bfc53c17c1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,17 +120,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "9ea908bfc53c17c1",
+  "active": "fdc27d877cdd0f3c",
   "lastOpenFiles": [
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
+    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+    "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+    "Untitled.md",
     "World Notes/Underdark/Underdark Drow Houses.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "Blurkfraggir.md",
-    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
-    "World Notes/Underdark/Underdark Flora.md",
-    "World Notes/Underdark/Upper Northwestern Underdark.md",
-    "Northstone Trading Company.md",
-    "gifts 4 mimi.md",
-    "Unplayed Characters/Eliza 'Elliot' O'Brien.md"
+    "World Notes/Underdark/Locations & Holdings/Blurkfraggir.md",
+    "World Notes/Underdark/Underdark Flora.md"
   ]
 }
