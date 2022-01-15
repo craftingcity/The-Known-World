@@ -14,7 +14,7 @@ Ungaethram is a large drow city in a [[Underdark Travel Table#Entering a New Spa
 ## Physicality of the Holding
 Towering stone buildings stand above the ramshackle barrelstalk constructions that make up the most of the Ungaethram. The [[Ungaethram Drow Houses#The Upper Third|upper thrid]] each have a tower in Ungaethram, but the rest of the houses make due with whatever they can build and buy. 
 ## Population Distribution
-Nearly 8/10th drow, and then 1/20th each of dwarves, kuo-tao, human, and few other races.
+Nearly 7/10th drow, and then 1/20th each of dwarves, gnifrblin, goblins, kuo-tao, human, and small collections of the other races.
 
 ## Defenses
 
