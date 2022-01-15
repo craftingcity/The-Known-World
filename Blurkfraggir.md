@@ -5,19 +5,20 @@ aliases:
 
 # Holding Tags
 Prosperity: Moderate
-Population: Steady
+Population: Shrinking
 Defenses: Guard
-Other Tags: Duergar, Need (Water)
+Other Tags: Duergar, Need (Water), Blight (Illithid)
 
 # Description
-Any sort of local lore...
+The duergar that live here were once found by a group of humans that mined into the underdark. They have been hunted by Illithid as of late.
 ## Physicality of the Holding
+Blurkfraggir is pitched into a deep pocket, some thousand feet deep. Many bridges of moss-rope and barrelstalk span the tunnels of this settlement. 
 
 ## Population Distribution
-Nearly 100% 
-
-## Defenses
+Nearly 100% deurgar. They hold goblin and human slaves, 50% each. 
 
 ## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
+Many places of industry and metallurgy, the duergar make homes here too. 
+
+A tavern in the center of town is kept by a family of duergar.
 
