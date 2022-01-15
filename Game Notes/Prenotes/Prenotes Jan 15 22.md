@@ -42,4 +42,5 @@ New Area:
 
 4, 11, 4, 1, 
 
-A large vault, high food potency, sedimentary rock
+A large vault, high food potency, sedimentary rock.
+Bluecap, Barrelstalk, Verr Gourd, Smokebulb, Lithel
