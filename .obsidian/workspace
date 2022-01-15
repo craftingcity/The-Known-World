@@ -39,6 +39,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "51cbad8bcfec2c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Underdark Flora.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -159,14 +170,14 @@
   "active": "fdc27d877cdd0f3c",
   "lastOpenFiles": [
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
+    "World Notes/Underdark/Underdark Flora.md",
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
+    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Game Notes/Prenotes/Prenotes Dec 16 21.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "Untitled.md",
     "World Notes/Underdark/Underdark Drow Houses.md",
-    "World Notes/Underdark/Locations & Holdings/Blurkfraggir.md",
-    "World Notes/Underdark/Underdark Flora.md"
+    "World Notes/Underdark/Locations & Holdings/Blurkfraggir.md"
   ]
 }
