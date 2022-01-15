@@ -36,3 +36,10 @@ Thinking about how many sessions I want to stay in the underdark, 10 maybe. Our 
 I think no matter what direction they push, I will move them into the the "duergar pocket" of [[Blurkfraggir]].
 
 There is an elder brain ([[A'zi'imli'ku]]) living near [[Blurkfraggir]] trying to escape to the surface. It is currently feeding on its citizens as it prepares for the final leg of its journey.
+
+# During Notes
+New Area:
+
+4, 11, 4, 1, 
+
+A large vault, high food potency, sedimentary rock
