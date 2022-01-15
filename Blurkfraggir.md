@@ -7,7 +7,7 @@ aliases:
 Prosperity: Moderate
 Population: Steady
 Defenses: Guard
-Other Tags: Duergar
+Other Tags: Duergar, Need (Water)
 
 # Description
 Any sort of local lore...
