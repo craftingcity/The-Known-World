@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+                "file": "Blurkfraggir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+                "file": "Blurkfraggir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md"
+                "file": "Blurkfraggir.md"
               }
             }
           },
@@ -146,12 +146,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 215,
+    "collapsed": true
   },
-  "active": "6b4dd1c2b57497c2",
+  "active": "271c40a9ad3e2e1f",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "Blurkfraggir.md",
+    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Underdark/Underdark Flora.md",
     "World Notes/Underdark/Upper Northwestern Underdark.md",
