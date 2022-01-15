@@ -14,7 +14,7 @@ Any sort of local lore...
 ## Physicality of the Holding
 
 ## Population Distribution
-If it differs from the nation's...
+Nearly 100% 
 
 ## Defenses
 
