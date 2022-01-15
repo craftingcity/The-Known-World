@@ -31,4 +31,6 @@ Name Drops for middeep:
 
 [[Vhaeraun]], Progenitor
 
-Thinking about how many sessions I want to stay in the underdark, 10 maybe. Our first 4 will introduce the threats of the underdark, the next few will likely be a more urban ([[]]) setting before finally interacting with the "dungeon" of [[Whitimore's Last Hold]], which is located in the fungal depths of [[]]. 
+Thinking about how many sessions I want to stay in the underdark, 10 maybe. Our first 4 will introduce the threats of the underdark, the next few will likely be a more urban ([[Ungaethram]]) setting before finally interacting with the "dungeon" of [[Whitimore's Last Hold]], which is located in the fungal depths of [[Mulutumi]]. 
+
+I think no matter what direction they push, I will move them into the the "duergar pocket".

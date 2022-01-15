@@ -27,10 +27,10 @@ South-south-east, a dwarven settlement in Deepburrow. They are of the Hill Dwarv
 
 Far to its south, [[Mulutumi]] is a fungal city, home to all in the underdark. This is where [[The Whitimore Files|The Whitimore]] fled to after being exiled from [[Ungaethram]].
 
-Centered between the Inverted Tower, Deepburrow, and Mulutumi is the Grazing Fields. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
+Centered between the [[Inverted Tower]], [[Deepburrow]], and [[Mulutumi]] is the [[Grazing Fields]]. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
 
 South of the Fields, a fungal forest leeches some of the prosperity that the Fields see.
 
-Slightly northeast is Growth Heart. A ruin of an old druid's attempts at making the underdark a more comfortable place.
+Slightly northeast is [[Growth Heart]]. A ruin of an old druid's attempts at making the underdark a more comfortable place.
 
 South some, the crystal sea spans far.
