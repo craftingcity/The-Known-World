@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "42471fa351a13fcc",
+        "id": "6b4dd1c2b57497c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Northstone Trading Company.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ebf3abde9df9ffa9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "Northstone Trading Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "Northstone Trading Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
+                "file": "Northstone Trading Company.md"
               }
             }
           },
@@ -130,14 +119,6 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "4b69f4d2b8442e48",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
           }
         ]
       }
@@ -145,17 +126,17 @@
     "direction": "horizontal",
     "width": 215
   },
-  "active": "ebf3abde9df9ffa9",
+  "active": "6b4dd1c2b57497c2",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
     "Northstone Trading Company.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
-    "Trxyi Emorin.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
-    "MEDIA/MAPS/The Holyl'nds.png",
-    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png",
-    "MEDIA/MAPS/The Holyl'nds 1.png"
+    "gifts 4 mimi.md",
+    "Unplayed Characters/Eliza 'Elliot' O'Brien.md",
+    "Eliza 'Elliot' O'Brien.md",
+    "Building for Alec's Game.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "README.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year Fires.md",
+    "MAIN/MEDIA/MAP/PROSPER_2021-12-07T21_18_42.233Z.png"
   ]
 }
