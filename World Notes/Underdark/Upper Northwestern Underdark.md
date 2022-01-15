@@ -19,13 +19,13 @@ West further, the Long River. This connects the Howling warrens and the Troglody
 
 Northeast of the territory of troglodytes, the old Inverted Tower remains untouched, as its wards and traps still take victim.
 
-Northeast still, a large vault contains the Drow city of Ungaethram. 
+Northeast still, a large vault contains the Drow city of [[Ungaethram]]. 
 
 To their east, a dragon hunts.
 
 South-south-east, a dwarven settlement in Deepburrow. They are of the Hill Dwarven Kingdom Actstow to the far north of [[World Notes/Prime Material - Alaturmen/World Wide Happenings 1/Coalition City/Coalition City]].
 
-Far to its south, Mulutumi is a fungal city, home to all in the underdark. This is where [[The Whitimore Files|The Whitimore]] fled to after being exiled from Ungaethram.
+Far to its south, [[Mulutumi]] is a fungal city, home to all in the underdark. This is where [[The Whitimore Files|The Whitimore]] fled to after being exiled from [[Ungaethram]].
 
 Centered between the Inverted Tower, Deepburrow, and Mulutumi is the Grazing Fields. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
 
