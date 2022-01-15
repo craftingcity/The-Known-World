@@ -7,7 +7,7 @@ aliases:
 Prosperity: Moderate
 Population: Shrinking
 Defenses: Guard
-Other Tags: Duergar, Need (Water), Blight (Illithid), Religion (Harsh Brandism)
+Other Tags: Duergar, Need (Water), Blight (Illithid), Religion (Harsh Brandism), Resource (Ore)
 
 # Description
 The duergar that live here were once found by a group of humans that mined into the underdark. They have been hunted by Illithid as of late.

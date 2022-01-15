@@ -65,9 +65,11 @@ On "Tick (ie once a day right? rations, long rests)"
 d100 | for something might happen
 --- | ---
 01-10 | Death. Something happened here. This one didn't make it. There is nothing to gain here.
-11-20 | Disease. A natural feature is affected. This one has even gone mad.
+11-20 | Disease. A natural feature is affected. The sickness is visibly destructive.
 21-30 | Posion. This thing is intentionally destructive to you. There is nothing to gain here.
 31-40 | Group. Theres a lot of them, and you're in their space. 
+4 | One alone. Its just this one, and maybe its bad still.
+5 | 
 
 
 # Plunderance!
