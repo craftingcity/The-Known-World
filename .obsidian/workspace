@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "c1b2500ce2f41148",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Underdark Threats.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "0329a96c5ef9a1e6",
         "type": "split",
         "children": [
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+                "file": "World Notes/Underdark/Underdark Threats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+                "file": "World Notes/Underdark/Underdark Threats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md"
+                "file": "World Notes/Underdark/Underdark Threats.md"
               }
             }
           },
@@ -167,8 +178,9 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "fdc27d877cdd0f3c",
+  "active": "c1b2500ce2f41148",
   "lastOpenFiles": [
+    "World Notes/Underdark/Underdark Threats.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "World Notes/Underdark/Underdark Flora.md",
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
@@ -177,7 +189,6 @@
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Game Notes/Prenotes/Prenotes Dec 16 21.md",
-    "Untitled.md",
-    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md"
+    "Untitled.md"
   ]
 }
