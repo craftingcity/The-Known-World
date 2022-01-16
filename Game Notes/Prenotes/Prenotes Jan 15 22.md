@@ -49,6 +49,18 @@ Duergar made a path through here. The party has managed to pick it up. I will le
 
 On their first day, they encountered 8 bullet, which they summarily defeated. 3 were able to run. This prey bites back.
 
-they traveled for 3 days before seeing the light of [[Ammyrain]]
+the party gathered some rations in this lush place.
+
+they traveled for 3 days before seeing the light of [[Ammyrain]], then another two.
 
 [[Amashod]] mentioned [[The Book of Soma]].
+
+[[Kursk]] will level up to 12, and none of the party will
+
+# Postnotes
+I introduced Soma as a protector in a Green Cloak without features. 
+
+The mechanics of travel were as follows;
+- during the "day" of travel, each party member may roll a check for something to do, such as Survival for navigating around, or Stealth for keeping the party hidden and quiet.
+- during a rest, the party each eats a ration, and then may perform a check for each watch; usually perception to actually stay alert on watch, but someone like Amashod (who has a 19 passive perception) doesnt necessarily have to.
+
