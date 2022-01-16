@@ -50,3 +50,5 @@ Duergar made a path through here. The party has managed to pick it up. I will le
 On their first day, they encountered 8 bullet, which they summarily defeated. 3 were able to run. This prey bites back.
 
 they traveled for 3 days before seeing the light of [[Ammyrain]]
+
+[[Amashod]] mentioned [[The Book of Soma]].
