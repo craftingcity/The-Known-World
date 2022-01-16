@@ -47,4 +47,4 @@ Bluecap, Barrelstalk, Verr Gourd, Smokebulb, Lithel
 
 Duergar made a path through here. The party has managed to pick it up. I will lead them to the city of [[Ammyrain]] proper. 
 
-On their first day, they encountered 8 bullet, which they 
+On their first day, they encountered 8 bullet, which they summarily defeated. 3 were able to run. This prey bites back.
