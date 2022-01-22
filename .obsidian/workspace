@@ -24,17 +24,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "6eb08048cee6eb64",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md"
               }
             }
           },
@@ -157,11 +146,11 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "f9c49d1f208714da",
+  "active": "cd736a89d20062e5",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Game Notes/NPCs/Leaders/Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Janesland.md",

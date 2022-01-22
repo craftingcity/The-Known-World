@@ -22,7 +22,7 @@ Arthur lives in his holding, [[Castle Prosper]], with his lovers. Long ago, he l
 ## Statistics
 Arthur is, at base, a CR 9 ["Champion Warrior"](https://www.5esrd.com/gamemastering/monsters-foes/npc/champion-warrior/). His weapons is a *longsword +3*. He wears a *belt of unnatural strength* that sets his Strength to 24, and a *ring of mind shielding* that houses no other soul and is kept invisible unless otherwise stated. His curse provides him with the mechanical effects of a *ring of regeneration*.
 
-He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Caput Dei" is a circlet made of a band of platinum and gold and is politically invaluable, but could theoretically be sold for some 1,500 pp.
+He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "[[Novum Caput Dei]]" is a circlet made of a band of platinum and gold and is politically invaluable, but could theoretically be sold for some 1,500 pp.
 
 ## Titles
 {wip; one for each major holding in Prosper, a few for events in his past as an adventurer}
@@ -33,6 +33,8 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Ca
 - The Great Liberator
 - Favorite Son of [[Yerba]]
 - Grand Sower of [[Moonlight]]
+- [[Janesland]]
+- [[Gambleum]]
 - [[Magius]]
 - [[Ethera]]
 - [[Theurgi]]

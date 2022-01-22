@@ -15,15 +15,16 @@ In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil wa
 In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 Related articles include [[Arthur's Journal]] and [[Unification]].
+
 ## Government
 The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army.
 
-The population pay taxes to maintain the cities and kingdom operations
+The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur has a team of accountants that work together with the [[Guild of Merchants]] and [[Guild of Crafters]] to budget for the whole of the kingdom.
 
 
 
 ## Population Distribution and Language
-The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans and Elves. 
+The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans, Goblins, and Elves. 
 
 Population distribution is as follows; one may...
 - large swaths of the "races of men", such as humans, halflings, dwarves
@@ -38,4 +39,5 @@ Population distribution is as follows; one may...
 These symbols are yet unfinished and unimplemented;
 - The [[Nobles of Prosper]]'s house crests
 - The [[Seal of Kingdom Prosper]]
-- [[Simonson Clan|Clan Simonson]]
+- The [[Simonson Seal]]
+- The [[Novum Caput Dei]]

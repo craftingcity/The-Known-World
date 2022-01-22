@@ -5,6 +5,7 @@ aliases:
 
 Each of the Noble Houses has a purpose in the function of the Kingdom, or so says [[Arthur Simonson]]. Not only do they take care of lands, they also do business with the [[Simonson Clan]] as an entity; for example, [[Noble House a'Fen]] is on Simonson payroll to maintain and build new roads to a certain standard of quality. 
 
+Each house has a job in the kingdom, a holding they control, and a seal or crest - some sort of image that represents them.
 # The Houses
 
 ## [[Noble House a'Fen]]
