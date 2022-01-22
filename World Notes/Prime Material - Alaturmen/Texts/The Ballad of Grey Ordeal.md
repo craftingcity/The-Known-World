@@ -127,6 +127,8 @@ Eladrithal knew he chose wisely. As did Tubric. As did Waywalket.
 
 There was a big rock. Long and tall, spindled with encorement - the [[Stone of Desmoniur]].
 
-The gnome knew of this thing. She quickly warned the others, and took her battlestance.
+The gnome knew of this thing. She quickly warned the others, and took her battlestance. The others headed and moved to do the same
 
-Without warning, the rock flashed and summoned a great beast! 
+Without warning, the rock flashed and summoned a great beast!
+
+Tubric strode boldly forward, brandashing his young axe, and Eladrithal stood tall and aimed true, and Waywalket gathered a great power in her hands.
