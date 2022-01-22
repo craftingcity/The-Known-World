@@ -33,7 +33,7 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "Novum Ca
 - The Great Liberator
 - Favorite Son of [[Yerba]]
 - Grand Sower of [[Moonlight]]
--  [[Magius]]
+- [[Magius]]
 - [[Ethera]]
 - [[Theurgi]]
 - [[Benders]]

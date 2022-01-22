@@ -18,6 +18,8 @@ Related articles include [[Arthur's Journal]] and [[Unification]].
 ## Government
 The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army.
 
+The population pay taxes to maintain the cities and kingdom operations
+
 
 
 ## Population Distribution and Language
