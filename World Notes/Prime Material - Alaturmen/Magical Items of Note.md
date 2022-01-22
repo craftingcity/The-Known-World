@@ -4,11 +4,14 @@ aliases:
 ---
 
 # Wonderous Items
-
+- 
 # Weapons
 - Magni Liberatoris Nostri Temporis
-	- > A +3 Longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
 	- Currently possesed by [[Arthur Simonson]]
+
+- Greystone's Arm
+	- > A +3 longbow, crafted by [[The Old Man]]
 
 # Armor
 - The White Cloak of Waywalket Turring
