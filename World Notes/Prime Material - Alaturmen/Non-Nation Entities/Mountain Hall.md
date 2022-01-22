@@ -12,7 +12,7 @@ Other Tags:
 # Description
 Mountain Hall is the dwarven monarchy that holds much of the riches of [[Deakred Range]].
 
-During the time of [[Great Fires]], the personal collection of [[Frin Copperhammer]]
+During the time of [[Great Fires]], the personal collection of [[Frin Copperhammer]] was lost and spread by the refugees of that catastrophe.
 
 ## Physicality of the Holding
 
