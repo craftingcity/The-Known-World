@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Texts/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Texts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Texts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Texts/Untitled.md"
               }
             }
           },
@@ -137,15 +137,15 @@
   },
   "active": "7eec183781309933",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Texts/Untitled.md",
+    "Poppy Bumbleheart.md",
+    "Paulo San Tymiq.md",
     "Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
     "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
     "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
     "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
     "Game Notes/NPCs/Unsorted/The Grand Archmage Alergra Barrowinch.md",
-    "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
-    "Game Notes/NPCs/Leaders/Jarl Grungar.md"
+    "Game Notes/NPCs/Leaders/Trxyi Emorin.md"
   ]
 }
