@@ -13,5 +13,5 @@ In 93 AF, they settled down and put focus on the efforts of the [[Guilds]]
 
 Members include:
 [[Tubric Millstone Wrinsmith]]
-[[Eledrathil Greystone]]
+[[Eladrithal Greystone]]
 [[Waywalket Turring]]

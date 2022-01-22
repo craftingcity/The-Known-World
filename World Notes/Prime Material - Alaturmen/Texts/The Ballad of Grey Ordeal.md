@@ -8,7 +8,7 @@ A bar, so the public says, but I don't believe them.
 
 Waywalket was the first to introduce herself; "a student of the arcane and otherwise"
 
-Eledrathil thought this funny, but during their time together quickly found himself respecting her words.
+Eladrithal thought this funny, but during their time together quickly found himself respecting her words.
 
 Tubric, ever the gentleman, was second. He spoke in a voice that was short but he spoke in sentences long. Many words, all of them fruitful, efficient, bulbous, and insightful. 
 
@@ -89,7 +89,7 @@ What of Eladrithal, you say, his story cant end this early; it doesn't, worry no
 
 Grew up in a place we call Mountain Hall. The Wrinsmiths are famous now, no thanks to Tubric. 
 
-As a lad, he worked with his mother, in the church, and worshipped Blemon alongside his peers.
+As a lad, he worked with his mother, in the church, and worshiped Blemon alongside his peers.
 
 The god chose him. A long time ago. 
 
@@ -122,3 +122,11 @@ A small display - she knew where they were.
 But great potential.
 
 Eladrithal knew he chose wisely. As did Tubric. As did Waywalket.
+
+## On the second day.
+
+There was a big rock. Long and tall, spindled with encorement - the [[Stone of Desmoniur]].
+
+The gnome knew of this thing. She quickly warned the others, and took her battlestance.
+
+Without warning, the rock flashed and summoned a great beast! 

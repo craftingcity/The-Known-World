@@ -4,7 +4,7 @@ aliases:
 ---
 
 > I live in a place of many wonders. The land shifts in front of our eyes. I would not believe it if I could not see it. Your magic would look pale in comparison [[Uncle Greystone|Uncle]]. Others have found us, and we work together; but something is not right. You said we were the first people here, but you were wrong. 
-> \- [[Eledrathil Greystone]]
+> \- [[Eladrithal Greystone]]
 
 ## The World is Young
 The goblinoids lived without time; hunting, gathering, and supposedly swimming in primordial soup. Then, "the Immortal Yellow Dragon, the Great Tetrimoc" fell from the sky, cut himself on a [[Kailkeep|rock]], and hid in a hid in a hole. Finally; everyone else came too. Elves born from Eladrin parents traveled here, carved the first dwarves from the stone, told the first legends of halfling, found the first humans lying naked in their fields. The elves claim to be first to find many of the other peoples too, but they always lay claim to too much. 
@@ -17,7 +17,7 @@ In the first years, these two peoples were weary and cautious. They both had lit
 
 ## Geography
 
-At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eledrathil Greystone]], but that is another tale. 
+At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
 
 Related articles include [[The Nations of Alaturmen]].
 

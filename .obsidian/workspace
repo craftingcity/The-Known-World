@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Texts/Untitled.md",
+            "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texts/Untitled.md",
+                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texts/Untitled.md",
+                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texts/Untitled.md"
+                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md"
               }
             }
           },
@@ -137,15 +137,15 @@
   },
   "active": "7eec183781309933",
   "lastOpenFiles": [
-    "Texts/Untitled.md",
+    "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+    "Game Notes/NPCs/Loreful/Poppy Bumbleheart.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Stone of Desmoniur.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md",
+    "Game Notes/NPCs/Loreful/Eladrithal Greystone.md",
     "Game Notes/NPCs/Pantheon/The Pantheon.md",
-    "Poppy Bumbleheart.md",
-    "Paulo San Tymiq.md",
-    "Game Notes/NPCs/Loreful/Eledrathil Greystone.md",
+    "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
     "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
     "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
-    "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
-    "Game Notes/NPCs/Unsorted/The Grand Archmage Alergra Barrowinch.md"
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md"
   ]
 }
