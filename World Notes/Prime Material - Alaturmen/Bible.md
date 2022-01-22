@@ -39,7 +39,7 @@ In the southeast, a great amount of water lays upon the land, making much of the
 
 Unlike the other nations of this world, the Democratic Combine is less a united government and more a universal legal system. The many that use the Combine as their system make war against eachother over resource, but will fiercely and effectively defend each other from "outside" attacks. 
 
-### [[World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City]]
+### [[Coalition City]]
 Standing, carved into the center of the largest mountains at the eastern end of the [[Desert's Range]], a grand metropolis was born out of the need for communication and peace among the peoples of this world. The city is split into nine wards, each of which may as well be a city upon itself.
 Each of the wards has a purpose that allows the greater city to prosper, and some even have purpose for the world at large.
 
@@ -72,6 +72,10 @@ Most people live life knowing of "the magic all around us", but not seeing much 
 The most common profession is farmer. Then thief. Then "adventurer" or "realm defender". People of the realm keep an open mind for the most part. Commoners fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security. 
 
 ## Magic, gods, and the planes 
-Magic is a mystery. Some try to solve it. Some use it freely. It is both respected and feared, as it has immense power. One can acquire magic in exchange. It never comes freely. The main faiths of the world serve powers on the plane; [[Its Greatness]] and [[Tetrimoc]]. There are some bards and clerics that worship the hard emotions of being a people, and other people worship some patron of need. Gods rarely interfere. 
+Magic is a mystery. Some try to solve it. Some use it freely. It is both respected and feared, as it has immense power. One can acquire magic in exchange. It never comes freely. 
+
+Items enchanted and spellbound are rare, hard to create, harder to find. Few exist outside of hoards of dragons and wizards.
+
+The main faiths of the world serve powers on the plane; [[Its Greatness]] and [[Tetrimoc]]. There are some bards and clerics that worship the hard emotions of being a people, and other people worship some patron of need. Gods rarely interfere. 
 
 The planes are fluid. The outside leaks in here, and some guild scholars say that we can push back too. Some people try, foolishly. 

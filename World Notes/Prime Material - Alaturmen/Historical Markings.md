@@ -8,7 +8,7 @@ See the following sections of the following pages:
 - [[The Holy'lnds#Important Symbolism]]
 - [[The Democratic Combine of Peoples#Important Symbolism]]
 - [[The Lands of Tetrimoc#Important Symbolism]]
-- [[World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City#Important Symbolism]]
+- [[Coalition City#Important Symbolism]]
 
 See the following tags:
 - #symbol

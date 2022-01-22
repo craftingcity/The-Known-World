@@ -1,5 +1,5 @@
 ---
-tags: group, coalition
+tags: group, coalition, guilds
 ---
 # The Guilds
 

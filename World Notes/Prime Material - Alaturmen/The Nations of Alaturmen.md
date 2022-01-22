@@ -7,7 +7,7 @@ The following sections focus on what you need to know to create characters and N
 
 The "Four Nations of Coalition" arose some half century after [[Tetrimoc]] fell. After they rose to power, they began to interact and it became clear that a peace would be most beneficial for everyone. Together they built a "world capital" into the large end of the [[Deakred Range]].
 
-A decent system of roads connect the nations through [[World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City|Coalition City]]. From [[World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Coalition City|Coalition City]], the [[Alavini River]] leads south, giving southern nations access to and from the city via waterway.
+A decent system of roads connect the nations through [[Coalition City|Coalition City]]. From [[Coalition City|Coalition City]], the [[Alavini River]] leads south, giving southern nations access to and from the city via waterway.
 
 # [[The Kingdom of Prosper]]
 **Capital:** [[Castle Prosper]]
