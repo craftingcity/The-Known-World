@@ -4,62 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a524c7f5f7dbace4",
-        "type": "split",
-        "children": [
-          {
-            "id": "fb541d76bf033b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "022fa8d8aef4bcda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "c0417364d8064bb1",
-        "type": "split",
-        "children": [
-          {
-            "id": "0769f9fd22da62fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bee492dd7da8d73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/The Grand Archmage Alergra Barrowinch.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "7eec183781309933",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,17 +128,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "0769f9fd22da62fe",
+  "active": "7eec183781309933",
   "lastOpenFiles": [
     "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
-    "Game Notes/NPCs/The Grand Archmage Alergra Barrowinch.md",
-    "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
+    "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
     "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
+    "Game Notes/NPCs/Unsorted/The Grand Archmage Alergra Barrowinch.md",
+    "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
     "Game Notes/NPCs/Leaders/Jarl Grungar.md",
     "Game Notes/NPCs/Leaders/Arthur Simonson.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
-    "Game Notes/NPCs/Loreful/Waywalket Turring.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md"
   ]
 }

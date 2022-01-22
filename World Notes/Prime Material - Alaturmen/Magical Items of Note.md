@@ -14,8 +14,12 @@ aliases:
 	- > A +3 longbow, crafted by [[The Old Man]]
 
 - Alergra's Staff of Power
-	- > Alergra's own Staff of Power, e
-	- Currently possessed by CHAR
+	- > Alergra's own Staff of Power, created by her and enchanted with her most common spells.
+	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+
+- The Tuber
+	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
+	- Currently location unknown
 
 # Armor
 - The White Cloak of Waywalket Turring
