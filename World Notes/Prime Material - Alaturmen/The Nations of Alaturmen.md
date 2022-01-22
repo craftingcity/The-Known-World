@@ -39,8 +39,8 @@ The Capital of the Kingdom, Prosper proper is a keep where the king lives and wo
 ### [[Moonlight]]
 Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. While some farming communities are friendly, Moonlight's common folk have no love for the adventure type, with some exceptions. Moonlight is home to [[Durth's Tavern]], a region renown bar, famous for its Aasimar patron and namesake who is both a great tavernkeep and non-guild adventure patron, although he has little to give but space. 
 
-### [[Vurdine]]
-Home to Prosper's most prestigious Acadamy, Vurdine is a rural "college town". Rumor has it that the King hand picks Vurdine Acadamy students to work for him on "kingdom secrets". 
+### [[Magius]]
+Home to Prosper's most prestigious Acadamy, Magius is a rural "college town". Rumor has it that the King hand picks [[Magius University]] students to work for him on "kingdom secrets". 
 
 ### [[Yerba]]
 A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based. Many merchant families got their start in Yerba, such as the Northstones of [[Northstone Trading Company]].
