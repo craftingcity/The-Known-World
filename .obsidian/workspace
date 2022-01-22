@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
+                "file": "Game Notes/NPCs/The Grand Archmage Alergra Barrowinch.md",
                 "mode": "source"
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Magic Item Authors.md"
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md"
               }
             }
           },
@@ -182,17 +182,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "fb541d76bf033b7f",
+  "active": "0769f9fd22da62fe",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
+    "Game Notes/NPCs/The Grand Archmage Alergra Barrowinch.md",
+    "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
     "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
-    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
-    "Game Notes/NPCs/Leaders/Trxyi Emorin.md",
     "Game Notes/NPCs/Leaders/Jarl Grungar.md",
     "Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
     "Game Notes/NPCs/Loreful/Waywalket Turring.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
   ]
 }

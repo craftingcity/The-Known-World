@@ -8,9 +8,9 @@ These people are the authors of magic items.
 ## Few, but Powerful
 The following authors are responsible for very rare and legendary items, but due to their power, they are quite hard to come by. These authors create items that could rival the gods. (*+3 weapons*, unique items, great spellbooks and tomes)
 
-[[The Grand Archmage Alergra Barrowinch]] - 
-[[The Old Man]] - 
-[[Guraxlog]] - 
+[[The Grand Archmage Alergra Barrowinch]] - created her own magical items
+[[The Old Man]] - created [[The Grey Ordeal]]'s magical items
+[[Guraxlog]] - created [[Arthur Simonson]]'s magical items
 ## Many, and Mild
 The following authors are responsible for much of the bulk of what our adventurers seek, the items that can be quested for but one might encounter at a highly-powerful political party.
 

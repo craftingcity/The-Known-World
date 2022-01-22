@@ -13,9 +13,27 @@ aliases:
 - Greystone's Arm
 	- > A +3 longbow, crafted by [[The Old Man]]
 
+- Alergra's Staff of Power
+	- > Alergra's own Staff of Power, e
+	- Currently possessed by CHAR
+
 # Armor
 - The White Cloak of Waywalket Turring
-	- > A white dragonhide cloak
+	- > A white dragonhide cloak crafted by [[The Old Man]]
 	- Currently possessed by [[Varis]]
 
+- Alergra's Cloak of Diversion
+	- > Alergra's cloak creates duplicates of its wearer
+	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+
 # Artifacts
+- The Quick Time
+	- > A small hourglass that has major chronomantic power, crafted by [[The Grand Archmage Alergra Barrowinch]]
+	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+
+
+
+## Ex.
+- NAME
+	- > DESC
+	- Currently possessed by CHAR

@@ -20,3 +20,9 @@ Their place of residence, work, and other locations they may be found in, such a
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
+
+Alergra created powerful magical items she uses to defend herself and the city of [[Magius]];
+
+Alergra's Staff of Power
+Alergra's Cloak of Diversion
+The Quick Time
