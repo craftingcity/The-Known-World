@@ -2,7 +2,7 @@
 ### Retold as Oraphic; [[Paulo San Tymiq]]
 #### Written by [[Poppy Bumbleheart]]
 
-They were all young wen they met. 
+## They were all young wen they met. 
 
 A bar, so the public says, but I dont believe them. 
 
@@ -37,4 +37,46 @@ He was happy to oblige; a favor he needed; in exchange - the great treasure of d
 
 Done and done - "What would you have us do?"
 
-Some days travel. A long walk. 
+Some days travel. 
+
+## A long walk.
+
+Eladrithal Greystone.
+
+Was walking ahead. Just too far.
+
+His legs.
+
+So long.
+
+His new friends looked up at him; trundling ahead.
+
+"Branches."
+
+"Hard rope."
+
+"Stop that."
+
+Through laughter; "She started it!"
+
+The gnome and dwarf jolly lagged behind.
+
+A rock, the back of the blonde head stained red with blood and his face with dust; too far.
+
+"FUCK"
+
+"GRAX YUR WZHIMLUAX BEYGU'UOK"
+
+A goblin rouge.
+
+A kind people, situationally quite distressed.
+
+Desperate times, I say.
+
+The two rush forward, and Eladrithal tries to stand, his head is hit again with the rock, he is unconscious, bleeding out the back of his head. The goblin, I never learned his name, goes for his pack. 
+
+Roots around.
+
+Pulls out some bread, confused with its paper wrapping;
+
+Flare to the face - Turring 
