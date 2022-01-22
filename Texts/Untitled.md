@@ -79,4 +79,21 @@ Roots around.
 
 Pulls out some bread, confused with its paper wrapping;
 
-Flare to the face - Turring 
+Flare to the face! - Turring is a good shot, she always has been.
+
+With just the two of them, they scare off the rouge.
+
+What of Eladrithal, you say, his story cant end this early; it doesn't, worry not you beautiful soul; but how?
+
+## Tubric Millstone Wrinsmith
+
+Grew up in a place we call Mountain Hall. The Wrinsmiths are famous now, no thanks to Tubric. 
+
+As a lad, he worked with his mother, in the church, and worshipped Blemon alongside his peers.
+
+The god chose him. A long time ago. 
+
+Blemon raised the boy, but he made himself the man.
+
+With a dull green light, Tubric waves his amulet over the head of his fallen friend. A moment passes, and he says a few words we would not understand; too powerful for our ears - not godspeech, as I have been corrected, but some measure of Weave; near all the same to me.
+
