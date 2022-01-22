@@ -8,6 +8,35 @@
         "type": "split",
         "children": [
           {
+            "id": "fb541d76bf033b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "022fa8d8aef4bcda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "277b4ee5c5a2aa37",
+        "type": "split",
+        "children": [
+          {
             "id": "cd736a89d20062e5",
             "type": "leaf",
             "state": {
@@ -19,40 +48,18 @@
             }
           },
           {
-            "id": "fb541d76bf033b7f",
+            "id": "bee492dd7da8d73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "022fa8d8aef4bcda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "The Wizard In Blue.md",
                 "mode": "source"
               }
             }
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "bee492dd7da8d73c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Grand Archmage Alergra Barrowinch.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Arthur Simonson.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md"
               }
             }
           },
@@ -175,17 +182,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "022fa8d8aef4bcda",
+  "active": "fb541d76bf033b7f",
   "lastOpenFiles": [
-    "Game Notes/NPCs/Leaders/Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
-    "The Grand Archmage Alergra Barrowinch.md",
     "Magic Item Authors.md",
+    "The Wizard In Blue.md",
+    "The Grand Archmage Alergra Barrowinch.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md",
+    "Game Notes/NPCs/Leaders/Arthur Simonson.md",
     "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Guilds.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }
