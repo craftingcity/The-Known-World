@@ -2,9 +2,9 @@
 ### Retold as Oraphic; [[Paulo San Tymiq]]
 #### Written by [[Poppy Bumbleheart]]
 
-## They were all young wen they met. 
+## They were all young when they met. 
 
-A bar, so the public says, but I dont believe them. 
+A bar, so the public says, but I don't believe them. 
 
 Waywalket was the first to introduce herself; "a student of the arcane and otherwise"
 
@@ -85,7 +85,7 @@ With just the two of them, they scare off the rouge.
 
 What of Eladrithal, you say, his story cant end this early; it doesn't, worry not you beautiful soul; but how?
 
-## Tubric Millstone Wrinsmith
+## Tubric Millstone Wrinsmith.
 
 Grew up in a place we call Mountain Hall. The Wrinsmiths are famous now, no thanks to Tubric. 
 
@@ -97,3 +97,28 @@ Blemon raised the boy, but he made himself the man.
 
 With a dull green light, Tubric waves his amulet over the head of his fallen friend. A moment passes, and he says a few words we would not understand; too powerful for our ears - not godspeech, as I have been corrected, but some measure of Weave; near all the same to me.
 
+As he layed there, pitched in dirt, he dreamed.
+
+He thinks this an unpleasant sensation, bless the elves, and wakes himself as soon as he is able.
+
+## They rested under the trees.
+
+They made a small camp, kept themselves small and quiet, they knew they were not made safe in this forest.
+
+But they had to rest.
+
+Waywalket spoke of her home - "I realize I haven't shared".
+
+She grew up in a small village. She spent her early years working with her family at their home.
+
+She knew she was destined to learn more.
+
+She left. And began to practice.
+
+"And now I can do this!"
+
+A small display - she knew where they were.
+
+But great potential.
+
+Eladrithal knew he chose wisely. As did Tubric. As did Waywalket.
