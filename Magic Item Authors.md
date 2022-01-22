@@ -10,7 +10,7 @@ I wanna make magic items cool; they need stories and authors.
 # Few, but Powerful
 [[The Grand Archmage Alergra Barrowinch]]
 # Many, and Mild
-[[Frin Copperhammer]]
+[[Frin Copperhammer]] - created many of the "dwarven made" magical items
 [[Kakurak]]
 # Masses, and Minor
-[[]]
+[[Sally Seashell]] - known for non-weapons, wonderous and quality of life items are her specialty

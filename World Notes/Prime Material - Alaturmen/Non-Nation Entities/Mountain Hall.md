@@ -10,7 +10,9 @@ Defenses:
 Other Tags:
 
 # Description
-Mountain Hall is the dwarven monarchy that holds much of the riches of [[Deakred Range]]
+Mountain Hall is the dwarven monarchy that holds much of the riches of [[Deakred Range]].
+
+During the time of [[Great Fires]], the personal collection of [[Frin Copperhammer]]
 
 ## Physicality of the Holding
 
