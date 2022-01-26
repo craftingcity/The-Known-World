@@ -10,8 +10,8 @@
     "file-explorer:new-file": 2,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
-    "app:delete-file": 1,
-    "editor:delete-paragraph": 1
+    "app:delete-file": 2,
+    "editor:delete-paragraph": 2
   },
   "keyboardStatistics": {
     "insert-template": 12,
