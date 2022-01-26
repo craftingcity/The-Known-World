@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Banayu.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Banayu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Banayu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Banayu.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "7eec183781309933",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Banayu.md",
     "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
     "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
     "Game Notes/NPCs/Loreful/Poppy Bumbleheart.md",
@@ -145,7 +146,6 @@
     "Game Notes/NPCs/Loreful/Eladrithal Greystone.md",
     "Game Notes/NPCs/Pantheon/The Pantheon.md",
     "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
-    "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md"
+    "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md"
   ]
 }

@@ -8,5 +8,7 @@
   "mouseStatistics": {
     "open-with-default-app:show": 1
   },
-  "keyboardStatistics": {}
+  "keyboardStatistics": {
+    "insert-template": 1
+  }
 }

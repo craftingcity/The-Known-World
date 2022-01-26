@@ -12,7 +12,7 @@ An old bard, and one who was known to tell no embellishes or lies. Since his dea
 
 
 ## History
-Born into Alaturmen 
+Born into Alaturmen at the conception of the Humans, [[Prime Timeline|000AF]], Paulo was raised 
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
