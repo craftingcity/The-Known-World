@@ -12,7 +12,7 @@ Born in [[Prime Timeline|065AF]], Adriana Fairlin "Franx" Franx is a human emplo
 She is are responsible for writing the Guild's official historical texts; these texts being [[On The Text of Tetrimoc; Guild Position]], [[Politics of Coalition c. 078AF - 092AF]], [[Politics of Coalition c. 093AF - XXXAF]].
 
 ## Location
-Franx works in the Guild Offices of [[World Notes/Prime Material - Alaturmen/World Wide Happenings 1/Coalition City/Coalition City]]
+Franx works in the Guild Offices of [[Coalition City]]
 They live in the Upper side of the Moss Ward.
 
 ## Statistics

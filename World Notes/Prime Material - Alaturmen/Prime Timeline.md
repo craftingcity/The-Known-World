@@ -18,12 +18,12 @@ Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from ston
 date: 
 title: Scholars Unite
 content:
-A "common" language has been formed. 
+A "common" language has been formed, based most on the languages of the Elves and Goblins.
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword
 content:
-The adventurer king makes his first moves against evil. He will soon find [[On those Involved with Arthur Simonson|good friends]].
+The adventurer king makes his first moves against evil. He will soon find [[On Peoples Involved with Arthur Simonson#Adventuring War Associates|good allies]].
 
 date: 025AF
 title: A long Wait
