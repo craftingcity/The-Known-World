@@ -15,10 +15,6 @@ content:
 
 Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
-date: 
-title: Scholars Unite
-content:
-A "common" language has been formed, based most on the languages of the Elves and Goblins.
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword
@@ -46,6 +42,11 @@ date: 059AF
 title: [[Unification|Prosper Makes Peace]]
 content:
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace comes through after the civil wars in cities around the area. 
+
+date: 064AF
+title: Scholars Unite
+content:
+A "common" language has been formed, based most on the languages of the Elves and Goblins. A
 
 date: 073AF
 title: Nations Born
