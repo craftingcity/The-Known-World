@@ -2,6 +2,10 @@
 tags: world_page, bible, needs_work
 aliases:
 ---
+
+![[alaturmen-100AF.png]]
+*The Known World c. 100AF - [[Jasper Vwem]]*
+
 # Nations of Alaturmen
 The following sections focus on what you need to know to create characters and NPCs from the nations of Alaturnmen and some of the smaller regions.
 

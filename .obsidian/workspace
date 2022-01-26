@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md"
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
               }
             }
           },
@@ -137,6 +137,8 @@
   },
   "active": "eab95ae369c7aed7",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "Game Notes/NPCs/Civilians/Jasper Vwem.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
     "Baron Filip.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
@@ -144,8 +146,6 @@
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
     "Detraminx.md",
     "The Symbol of the Knights in Red.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md",
-    "Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
-    "TEMPLATES/Group.md"
+    "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md"
   ]
 }

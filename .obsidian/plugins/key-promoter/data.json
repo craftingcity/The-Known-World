@@ -7,14 +7,16 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 1,
-    "workspaces:open-modal": 1
+    "file-explorer:new-file": 2,
+    "workspaces:open-modal": 1,
+    "editor:attach-file": 1
   },
   "keyboardStatistics": {
-    "insert-template": 9,
+    "insert-template": 10,
     "switcher:open": 6,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 7
+    "workspace:close": 7,
+    "app:go-back": 1
   }
 }
