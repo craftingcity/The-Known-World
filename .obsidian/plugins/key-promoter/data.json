@@ -10,10 +10,10 @@
     "file-explorer:new-file": 1
   },
   "keyboardStatistics": {
-    "insert-template": 6,
+    "insert-template": 8,
     "switcher:open": 5,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 1
+    "workspace:close": 2
   }
 }
