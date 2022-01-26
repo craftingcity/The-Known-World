@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eab95ae369c7aed7",
+        "id": "c476986d98fe8693",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-            "mode": "preview"
+            "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "old",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+                "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,23 +108,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
+                "file": "Game Notes/NPCs/Unsorted/Detraminx.md"
               }
             }
           },
           {
-            "id": "364c2f7ce769283b",
+            "id": "036d19c43b0e3aef",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "graph-analysis",
               "state": {}
             }
           },
           {
-            "id": "1dd644284c35c883",
+            "id": "4b69f4d2b8442e48",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -135,17 +135,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "eab95ae369c7aed7",
+  "active": "c476986d98fe8693",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Unsorted/Detraminx.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "Game Notes/NPCs/Civilians/Jasper Vwem.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
-    "Baron Filip.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "Three Nation Highways.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
-    "Detraminx.md",
-    "The Symbol of the Knights in Red.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md"
+    "Northstone Trading Company.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "Trxyi Emorin.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
+    "MEDIA/MAPS/The Holyl'nds.png",
+    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png"
   ]
 }
