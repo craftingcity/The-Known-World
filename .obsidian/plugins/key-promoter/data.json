@@ -3,5 +3,10 @@
   "showAssigned": true,
   "threshold": 0,
   "notificationTimeout": 5,
-  "template": "{{commandId}} - {{commandName}} - {{hotkey}}"
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "open-with-default-app:show": 1
+  },
+  "keyboardStatistics": {}
 }

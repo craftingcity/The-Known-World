@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+            "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,23 +108,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md"
+                "file": "Game Notes/NPCs/Loreful/Paulo San Tymiq.md"
               }
             }
           },
           {
-            "id": "036d19c43b0e3aef",
+            "id": "364c2f7ce769283b",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
           {
-            "id": "53331ea2892342ce",
+            "id": "1dd644284c35c883",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "graph-analysis",
               "state": {}
             }
           }
@@ -137,13 +137,13 @@
   },
   "active": "7eec183781309933",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
     "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
     "Game Notes/NPCs/Loreful/Poppy Bumbleheart.md",
     "World Notes/Prime Material - Alaturmen/Natural Features/Stone of Desmoniur.md",
     "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md",
     "Game Notes/NPCs/Loreful/Eladrithal Greystone.md",
     "Game Notes/NPCs/Pantheon/The Pantheon.md",
-    "Game Notes/NPCs/Loreful/Paulo San Tymiq.md",
     "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
     "Game Notes/NPCs/Loreful/Tubric Millstone Wrinsmith.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Guilds/Guild of Wizards.md"

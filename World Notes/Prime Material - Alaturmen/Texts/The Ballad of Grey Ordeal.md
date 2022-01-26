@@ -133,4 +133,4 @@ Without warning, the rock flashed and summoned a great beast!
 
 Tubric strode boldly forward, brandashing his young axe, and Eladrithal stood tall and aimed true, and Waywalket gathered a great power in her hands.
 
-They quickly slew the beast! The four arms and sharp beak were no match for the prowess of the three adventurers.
+In a flash of steel, they quickly slew the beast! The four arms and sharp beak were no match for the prowess of the three adventurers.
