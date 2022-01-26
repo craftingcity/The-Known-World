@@ -46,7 +46,7 @@ content:
 date: 064AF
 title: Scholars Unite
 content:
-A "common" language has been formed, based most on the languages of the Elves and Goblins. A
+A "common" language has been formed, based most on the languages of the Elves and Goblins. 
 
 date: 073AF
 title: Nations Born
