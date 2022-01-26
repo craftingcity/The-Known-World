@@ -6,9 +6,10 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "open-with-default-app:show": 1
+    "open-with-default-app:show": 1,
+    "file-explorer:new-file": 1
   },
   "keyboardStatistics": {
-    "insert-template": 3
+    "insert-template": 5
   }
 }
