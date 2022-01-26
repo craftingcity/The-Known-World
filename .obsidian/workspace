@@ -32,17 +32,6 @@
                     "mode": "source"
                   }
                 }
-              },
-              {
-                "id": "8f6de396c9804b30",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Detraminx.md",
-                    "mode": "source"
-                  }
-                }
               }
             ],
             "direction": "horizontal"
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detraminx.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detraminx.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detraminx.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md"
               }
             }
           },
@@ -182,12 +171,12 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "8f6de396c9804b30",
+  "active": "9ce31051cb658392",
   "lastOpenFiles": [
-    "Detraminx.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
-    "The Symbol of the Knights in Red.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "Detraminx.md",
+    "The Symbol of the Knights in Red.md",
     "Baron Filip.md",
     "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md",
     "Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",

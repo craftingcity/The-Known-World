@@ -2,19 +2,17 @@
 tags: npc
 aliases:
 ---
-# Detraminx, the 
+# Detraminx, the Putrid Queen
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-A description of their function in the world.
-
-A politic of theirs that players would interact with.
+The dead ruler of [[Huntyr Swamp]]
 
 ## History
-A general history of the character, from their conception to their current state
+Once the ruler of [[Huntyr Swamp]], now dead by [[Baron Filip]]'s hand.
 
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+Dead and Buried under [[Baron's Throne]].
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
