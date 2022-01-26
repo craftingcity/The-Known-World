@@ -7,8 +7,11 @@
         "id": "c476986d98fe8693",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -130,6 +137,7 @@
   },
   "active": "c476986d98fe8693",
   "lastOpenFiles": [
+    "Untitled.md",
     "ATHENAEUM ADRIFT/January/Untitled.md",
     "World Notes/Prime Material - Alaturmen/Texts/The Holy Atlas of Yamisch.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Greensburrow.md",
@@ -138,7 +146,6 @@
     "Game Notes/NPCs/Pantheon/The Pantheon.md",
     "Game Notes/NPCs/Pantheon/The Pantheon 1.md",
     "Game Notes/NPCs/Unsorted/Detraminx.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "Northstone Trading Company.md"
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
   ]
 }

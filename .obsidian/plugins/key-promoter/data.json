@@ -19,6 +19,7 @@
     "editor:open-search": 1,
     "global-search:open": 1,
     "workspace:close": 8,
-    "app:go-back": 1
+    "app:go-back": 1,
+    "file-explorer:new-file": 1
   }
 }
