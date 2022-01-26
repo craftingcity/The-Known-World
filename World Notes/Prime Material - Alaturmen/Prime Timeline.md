@@ -64,7 +64,7 @@ date: 084AF
 title: [[Three Nation Highways]]
 content:
 
-The [[Guild of Crafters]] finish the large, interconnected roadway in the north and southeast. Trade bloss
+The [[Guild of Crafters]] finish the large, interconnected roadway in the north and southeast. Trade blossoms.
 
 date: 089AF
 title: The [[Invasion of Orcus]]
