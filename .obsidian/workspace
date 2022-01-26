@@ -4,51 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2f4dbd49da6451",
-        "type": "split",
-        "children": [
-          {
-            "id": "6801d51aa5e092ec",
-            "type": "split",
-            "children": [
-              {
-                "id": "d296b6dbec36ab88",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Baron Filip.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9ce31051cb658392",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "565865bbfb144499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-                "mode": "preview"
-              }
-            }
+        "id": "eab95ae369c7aed7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md"
               }
             }
           },
@@ -171,17 +135,17 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "565865bbfb144499",
+  "active": "eab95ae369c7aed7",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+    "Baron Filip.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Three Nation Highways.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
     "Detraminx.md",
     "The Symbol of the Knights in Red.md",
-    "Baron Filip.md",
     "World Notes/Prime Material - Alaturmen/Natural Features/Alavini River.md",
     "Game Notes/NPCs/Civilians/Adriana Fairlin Franx.md",
-    "TEMPLATES/Group.md",
-    "TEMPLATES/Holdings.md"
+    "TEMPLATES/Group.md"
   ]
 }
