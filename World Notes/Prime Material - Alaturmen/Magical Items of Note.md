@@ -3,9 +3,10 @@ tags: bookkeeping,
 aliases:
 ---
 
-# Wonderous Items
+# Crafted Items
+## Wonderous Items
 - 
-# Weapons
+## Weapons
 - Magni Liberatoris Nostri Temporis
 	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
 	- Currently possesed by [[Arthur Simonson]]
@@ -21,7 +22,7 @@ aliases:
 	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
 	- Currently location unknown
 
-# Armor
+## Armor
 - The White Cloak of Waywalket Turring
 	- > A white dragonhide cloak crafted by [[The Old Man]]
 	- Currently possessed by [[Varis]]
@@ -30,14 +31,13 @@ aliases:
 	- > Alergra's cloak creates duplicates of its wearer
 	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
 
-# Artifacts
+## Artifacts
 - The Quick Time
 	- > A small hourglass that has major chronomantic power, crafted by [[The Grand Archmage Alergra Barrowinch]]
 	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
 
 
 
-## Ex.
-- NAME
-	- > DESC
-	- Currently possessed by CHAR
+# Divine Creation
+## Artifacts
+## Armot

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
+            "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Unsorted/Detraminx.md",
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Unsorted/Detraminx.md"
+                "file": "World Notes/Prime Material - Alaturmen/Magical Items of Note.md"
               }
             }
           },
@@ -137,15 +137,15 @@
   },
   "active": "c476986d98fe8693",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
+    "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
+    "World Notes/Prime Material - Alaturmen/Texts/The Holy Atlas of Yamisch.md",
+    "Game Notes/NPCs/Pantheon/The Pantheon.md",
+    "Game Notes/NPCs/Pantheon/The Pantheon 1.md",
     "Game Notes/NPCs/Unsorted/Detraminx.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "Northstone Trading Company.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Coalition City/Guild Texts/On Peoples Involved with Arthur Simonson.md",
-    "Trxyi Emorin.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
-    "MEDIA/MAPS/The Holyl'nds.png",
-    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png"
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
   ]
 }
