@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md"
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
               }
             }
           },
@@ -171,10 +171,10 @@
     "width": 215,
     "collapsed": true
   },
-  "active": "9ce31051cb658392",
+  "active": "565865bbfb144499",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md",
     "Detraminx.md",
     "The Symbol of the Knights in Red.md",
     "Baron Filip.md",

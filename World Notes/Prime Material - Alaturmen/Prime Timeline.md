@@ -60,6 +60,12 @@ content:
 
 [[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps inumaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
 
+date: 084AF
+title: [[Three Nation Highways]]
+content:
+
+The [[Guild of Crafters]] finish the large, interconnected roadway in the north and southeast. Trade bloss
+
 date: 089AF
 title: The [[Invasion of Orcus]]
 content:
