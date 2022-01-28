@@ -2,6 +2,8 @@ Dear Bardaux,
 
 The following depicts a description of your time in this place, including a, from my perception, non-graphic description of torture.
 
+At the end, I'll ask you to make some dice rolls.
+
 
 
 
@@ -32,6 +34,6 @@ These questions and more. They ask about everything - things they shouldn't know
 
 
 
-I request of you two checks - a Constitution Save with the intention of learning what, if anything, you divulged, and a Perception check with the intention of what, if anything, you learned about this place and these people - both of which will be at disadvantage.
+I request of you two checks - a Constitution Save with the intention of learning what, if anything, you divulged, and a Perception check with the intention of what, if anything, you learned about this place and these people - both of which will be at disadvantage;
 
 You have four points of Exhaustion (see Appendix A: Conditions in your Players Handbook).
