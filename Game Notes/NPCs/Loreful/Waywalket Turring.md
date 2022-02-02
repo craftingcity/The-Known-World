@@ -8,3 +8,5 @@ since deceased; hoard donated to [[Kakurak]]
 instrumental in the defeat of Orcus.
 
 she/her
+
+accredited with the creation of the "Common" language

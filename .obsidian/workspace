@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Pantheon/The Pantheon.md",
+            "file": "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "73552e16a9c80ac7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Pantheon/The Pantheon.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Pantheon/The Pantheon.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Pantheon/The Pantheon.md"
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
               }
             }
           },
@@ -136,17 +147,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "6ddbba1e3f081a1a",
+  "active": "73552e16a9c80ac7",
   "lastOpenFiles": [
-    "Game Notes/NPCs/Pantheon/The Pantheon.md",
-    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/Organizational Notions.md",
-    "World Notes/Prime Material - Alaturmen/Magic Item Authors.md",
-    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Vurdine.md",
-    "TEMPLATES/Group.md",
-    "Dear Bardaux.md"
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+    "Game Notes/NPCs/Loreful/Waywalket Turring.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Stone of Desmoniur.md",
+    "Game Notes/NPCs/Pantheon/The Pantheon.md",
+    "Game Notes/NPCs/Pantheon/On Interactions with Sama.md",
+    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md"
   ]
 }
