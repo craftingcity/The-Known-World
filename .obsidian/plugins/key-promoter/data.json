@@ -9,14 +9,17 @@
     "open-with-default-app:show": 1,
     "file-explorer:new-file": 2,
     "workspaces:open-modal": 1,
-    "editor:attach-file": 1
+    "editor:attach-file": 1,
+    "app:delete-file": 3,
+    "editor:delete-paragraph": 3
   },
   "keyboardStatistics": {
-    "insert-template": 10,
+    "insert-template": 12,
     "switcher:open": 6,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 7,
-    "app:go-back": 1
+    "workspace:close": 8,
+    "app:go-back": 1,
+    "file-explorer:new-file": 1
   }
 }

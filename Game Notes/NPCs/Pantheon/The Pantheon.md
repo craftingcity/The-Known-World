@@ -9,7 +9,8 @@ Few people of this world do not worship some kind of god. We can see them, and w
 
 ## Emotional Gods
 All of these gods are born of the feeling of emotion. Because of the Weave of this land, these emotions bore gods. And soon, these gods gathered followers. 
-#### Arkraven 
+
+#### Ar'kraven 
 - sadness, death, grief, emptiness, void; a group of vultures picking the flesh from a corpse
 
 #### Sune
@@ -48,12 +49,19 @@ These are the gods of material. They are what we touch and breathe. Each of the 
 
 ## Patrons of Need
 Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. They are the household gods.
+
 #### Sama
 - the god of One Mindedness.
 - feels like sitting in a rainy forest
 - smells of wet moss, fresh dirt
-- sama appears to their worshipers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
+- sama appears to their followers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
 - they are not easily amused
+
+#### Yamisch
+- the god of True Sight
+- feels like the best trip you've ever had
+- smells of blueberry, honey
+- yamish appears to their followers as a map or scroll that has too much detail / knowledge
 
 ## Gods of Triumph
 Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 
