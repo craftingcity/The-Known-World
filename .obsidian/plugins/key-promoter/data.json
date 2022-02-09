@@ -18,18 +18,18 @@
     "workspace:close-others": 5,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 1,
-    "backlink:open-backlinks": 3,
+    "backlink:open-backlinks": 4,
     "backlink:toggle-backlinks-in-document": 1,
     "outgoing-links:open": 1,
     "outgoing-links:open-for-current": 2,
     "editor:rename-heading": 1
   },
   "keyboardStatistics": {
-    "insert-template": 19,
-    "switcher:open": 10,
+    "insert-template": 20,
+    "switcher:open": 11,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 25,
+    "workspace:close": 27,
     "app:go-back": 4,
     "file-explorer:new-file": 3
   }

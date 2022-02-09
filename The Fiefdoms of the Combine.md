@@ -19,6 +19,14 @@ The Combine has many feifdoms.
 - [[Amourain]]
 - [[Farrow Watch]]
 
-[[Southern Quillbuck Jungle]] controlled by [[Baron Havord]] and [[Northstone Trading Company]] 
+[[Southern Quillbuck Jungle]] controlled by [[Baron Havord]] and [[Northstone Trading Company]], they hold one major settlement
+- [[Quillbuck NTC]]
 
 [[Nothern Quillbuck Jungle]] and [[Reugb Marshes]] are controlled by by [[Baron Xuiop]] and [[Beasts Righteous]], they hold four major settlements.
+- [[Boneborn]]
+- [[Smoothpost]]
+- [[Trike Roof]]
+- [[Slyfront]]
+
+[[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they controll two major settlements.
+- 
