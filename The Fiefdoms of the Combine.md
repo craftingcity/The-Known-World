@@ -19,4 +19,6 @@ The Combine has many feifdoms.
 - [[Amourain]]
 - [[Farrow Watch]]
 
-[[Quillbuck Jungle]] is split between two barronies; that of the [[Southern Quillbuck Jungle]] controlled by [[Baron ]]
+[[Southern Quillbuck Jungle]] controlled by [[Baron Havord]] and [[Northstone Trading Company]] 
+
+[[Nothern Quillbuck Jungle]] and [[Reugb Marshes]] are controlled by by [[Baron Xuiop]] and [[Beasts Righteous]], they hold four major settlements.
