@@ -25,11 +25,11 @@
     "editor:rename-heading": 1
   },
   "keyboardStatistics": {
-    "insert-template": 15,
+    "insert-template": 16,
     "switcher:open": 9,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 22,
+    "workspace:close": 23,
     "app:go-back": 3,
     "file-explorer:new-file": 3
   }
