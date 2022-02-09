@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "da9e6872a0f488e4",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Baron Filip.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Baron Filip.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Leaders/Baron Filip.md"
+                "file": "MEDIA/MAPS/alaturmen-100AF.png"
               }
             }
           },
@@ -136,8 +146,9 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "11e0fd09c6ac9196",
+  "active": "da9e6872a0f488e4",
   "lastOpenFiles": [
+    "MEDIA/MAPS/alaturmen-100AF.png",
     "Game Notes/NPCs/Leaders/Baron Filip.md",
     "Game Notes/A Grand Notepad.md",
     "Red Throne.md",
@@ -146,7 +157,6 @@
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/NPCs/Leaders/Valerio Avishalom.md",
-    "Game Notes/NPCs/Leaders/Jarl Grungar.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Huntyr Swamp.md"
+    "Game Notes/NPCs/Leaders/Jarl Grungar.md"
   ]
 }
