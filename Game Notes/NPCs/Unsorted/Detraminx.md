@@ -12,7 +12,7 @@ The dead ruler of [[Huntyr Swamp]]
 Once the ruler of [[Huntyr Swamp]], now dead by [[Baron Filip]]'s hand.
 
 ## Location
-Dead and Buried under [[Baron's Throne]].
+Dead and Buried under [[Red Throne]].
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

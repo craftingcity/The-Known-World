@@ -4,5 +4,5 @@
 
 [[Arthur Simonson]] holds a horde in the vaults of his [[Castle Prosper|Keep Prosper]]
 
-[[Baron Filip]] holds a modest horde in [[his home, yet to be created]]
+[[Baron Filip]] holds a modest horde in [[Red Throne]]
 

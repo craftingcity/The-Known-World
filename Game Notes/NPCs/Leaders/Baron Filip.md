@@ -2,9 +2,9 @@
 tags: npc
 aliases:
 ---
-# Name of Char
+# Baron Issac Filip
 
-> A regal old dragonborn dressed in ceremonial plate armor
+> A regal old dragonborn dressed in blood stained ceremonial plate armor, a large claymore - it too soaked in old blood - with gold embossing at his side.
 
 Leader of the [[Knights in Red]], and Baron of [[Huntyr Swamp]].
 
