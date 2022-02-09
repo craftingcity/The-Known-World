@@ -25,10 +25,10 @@
   },
   "keyboardStatistics": {
     "insert-template": 12,
-    "switcher:open": 7,
+    "switcher:open": 8,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 10,
+    "workspace:close": 11,
     "app:go-back": 1,
     "file-explorer:new-file": 2
   }

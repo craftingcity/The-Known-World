@@ -1,1 +1,2 @@
 Old Elves, ie the Elves of first generation come from [[Feywild|the land of Fey, the land of Queens Seasons]]. Most know many secrets of the world, although they are still considered young; [[Elven Specifics]] dictates an infinite lifespan until their [[Elven Specifics#Final Walk]].
+
