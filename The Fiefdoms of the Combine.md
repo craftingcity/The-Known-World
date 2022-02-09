@@ -31,8 +31,19 @@ The Combine has many feifdoms.
 [[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they control two major settlements.
 
 [[Grumbling Hills]] is controlled by [[Baron Cassindil]] and [[Y'alneas]], they control five major settlements.
+- [[Crullfeld]]
+- [[Darnt Hillkeep]]
+- [[Penshaw]]
+- [[Aeberu]]
+- [[Saker Narnclaedra]]
 
 [[Wetfoot Greenland]] is controlled by [[Baron J'Tail]] and [[Five Pike]], they control three major settlements.
+- [[Millyr]]
+- [[Lakeview]]
+- [[Shyla Belanore]]
 
-[[Centerlick Mossland]] is controlled by [[Baron Vannis]] and [[Mossburg Enfocers]], they controll four major settlements.
+[[Centerlick Mossland]] is controlled by [[Baron Vannis]] and [[Mossburg Enforcers]], they controll four major settlements.
 - [[Mossburg]]
+- [[Hyrwinch]]
+- [[Black Egal]]
+- [[Four Stone]]
