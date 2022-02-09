@@ -2,13 +2,10 @@
 tags: nation_page, combine
 ---
 ## The Democratic Combine of Peoples
-
-Marshy, ecclectic. Buildings of wood on poles, large stone towers, cities in the trees.
-
-The DCP is a represented collection of disperate and warring peoples. They are bound together by this years long war as "a nation in civil war", but individual groups fight tooth and nail for power. 
+The Democratic Combine of Peoples is a anarch-governed
 
 ### Government
-Each collection of people is governed in its own way. Many raiding parties and theologies and monarchies and shit like that. Most big factions control a major city and some of its subsidiaries, but there are many smaller factions vying for power inside each controlled area. Given the state of constant civil war, that city's local leaders are generally a better force of control than whatever faction currently claims the city.
+
 
 ### Population Distribution
 - large swaths of the "exotic races" such as dragonborn, goliaths, tiefling, kenku, triton

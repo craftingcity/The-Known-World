@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "11e0fd09c6ac9196",
+        "id": "cc06875b2116a3de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Leaders/Baron Filip.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "da9e6872a0f488e4",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
             }
           },
@@ -146,8 +136,10 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "da9e6872a0f488e4",
+  "active": "cc06875b2116a3de",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "The Fiefdoms of the Combine.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "Game Notes/NPCs/Leaders/Baron Filip.md",
     "Game Notes/A Grand Notepad.md",
@@ -155,8 +147,6 @@
     "World Notes/Prime Material - Alaturmen/Horde.md",
     "Game Notes/NPCs/Unsorted/Detraminx.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/NPCs/Leaders/Valerio Avishalom.md",
-    "Game Notes/NPCs/Leaders/Jarl Grungar.md"
+    "Game Notes/NPCs/List of Names.md"
   ]
 }

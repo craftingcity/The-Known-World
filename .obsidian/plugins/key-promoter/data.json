@@ -26,11 +26,11 @@
   },
   "keyboardStatistics": {
     "insert-template": 14,
-    "switcher:open": 8,
+    "switcher:open": 9,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 20,
+    "workspace:close": 22,
     "app:go-back": 3,
-    "file-explorer:new-file": 2
+    "file-explorer:new-file": 3
   }
 }
