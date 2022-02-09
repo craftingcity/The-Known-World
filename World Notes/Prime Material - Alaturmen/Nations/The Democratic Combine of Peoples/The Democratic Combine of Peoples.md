@@ -2,6 +2,8 @@
 tags: nation_page, combine
 ---
 ## The Democratic Combine of Peoples
+![[combine-100AF.png]]
+*Combine Territory as of 100AF*
 
 The Democratic Combine of Peoples is a anarch-fiefdom-government that signed the [[Coalition's Founding Document]].
 

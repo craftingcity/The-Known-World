@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cc06875b2116a3de",
+        "id": "b7d9262317dc8675",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Fiefdoms of the Combine.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fiefdoms of the Combine.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fiefdoms of the Combine.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fiefdoms of the Combine.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md"
               }
             }
           },
@@ -137,17 +136,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "cc06875b2116a3de",
+  "active": "b7d9262317dc8675",
   "lastOpenFiles": [
-    "The Fiefdoms of the Combine.md",
-    "Growth Heart.md",
-    "Baron Xuiop.md",
-    "Asilar 'Goldhand' Guir.md",
-    "Asilar's Bounty.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
+    "Game Notes/NPCs/List of Names.md",
+    "World Notes/Prime Material - Alaturmen/Texts/An Account of Our Fallen.md",
+    "Game Notes/NPCs/Unsorted/River Powell.md",
+    "TEMPLATES/Text.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Coalition City/Communicae.md",
-    "Coalition's Founding Document.md",
-    "MEDIA/MAPS/alaturmen-100AF.png"
+    "World Notes/Underdark/Locations & Holdings/Growth Heart.md",
+    "Game Notes/NPCs/Leaders/Barons of Combine/Baron Xuiop.md",
+    "Game Notes/NPCs/Loreful/Asilar 'Goldhand' Guir.md"
   ]
 }

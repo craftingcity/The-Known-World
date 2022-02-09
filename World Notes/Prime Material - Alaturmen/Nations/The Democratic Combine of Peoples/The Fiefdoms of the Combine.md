@@ -1,4 +1,6 @@
-The Combine has many feifdoms.
+[[The Democratic Combine of Peoples]] has many feifdoms.
+![[combine-100AF.png]]
+*Combine Territory as of 100AF*
 
 [[Huntyr Swamp]] is controlled by [[Baron Filip]] and [[Knights in Red]], they control three major settlements.
 - [[Red Throne]]
@@ -29,6 +31,8 @@ The Combine has many feifdoms.
 - [[Slyfront]]
 
 [[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they control two major settlements.
+- [[Zalfari]]
+- [[Amyl Dother]]
 
 [[Grumbling Hills]] is controlled by [[Baron Cassindil]] and [[Y'alneas]], they control five major settlements.
 - [[Crullfeld]]
