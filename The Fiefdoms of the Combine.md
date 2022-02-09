@@ -11,4 +11,12 @@ The Combine has many feifdoms.
 
 [[Eastlick Mossland]] is controlled by [[Baron Glask]] and [[Riphounds]], they hold four major settlements.
 - [[Barkryn]]
-- [[Cl]]
+- [[Klear Hold]]
+- [[Beacon]]
+- [[Asilar's Bounty]]
+
+[[Westlick Mossland]] is controlled by [[Baron Avory]] and the [[Slimknives]], they hold two major settlements.
+- [[Amourain]]
+- [[Farrow Watch]]
+
+[[Quillbuck Jungle]] is split between two barronies; that of the [[Southern Quillbuck Jungle]] controlled by [[Baron ]]
