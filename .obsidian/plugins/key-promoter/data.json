@@ -28,8 +28,8 @@
     "switcher:open": 7,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 11,
-    "app:go-back": 2,
+    "workspace:close": 12,
+    "app:go-back": 3,
     "file-explorer:new-file": 2
   }
 }
