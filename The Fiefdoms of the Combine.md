@@ -28,5 +28,6 @@ The Combine has many feifdoms.
 - [[Trike Roof]]
 - [[Slyfront]]
 
-[[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they controll two major settlements.
-- 
+[[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they control two major settlements.
+
+[[Grumbling Hills]] is controlled by [[Baron Cassindil]] and [[Y'alneas]], they control five major settlements.
