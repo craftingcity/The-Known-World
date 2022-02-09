@@ -9,15 +9,27 @@
     "open-with-default-app:show": 1,
     "file-explorer:new-file": 2,
     "workspaces:open-modal": 1,
-    "editor:attach-file": 1
+    "editor:attach-file": 1,
+    "app:delete-file": 5,
+    "editor:delete-paragraph": 5,
+    "graph:open": 4,
+    "workspace:undo-close-pane": 3,
+    "workspace:close": 3,
+    "workspace:close-others": 3,
+    "obsidian-dangling-links:show-dangling-links-view": 1,
+    "backlink:open": 1,
+    "backlink:open-backlinks": 1,
+    "backlink:toggle-backlinks-in-document": 1,
+    "outgoing-links:open": 1,
+    "outgoing-links:open-for-current": 1
   },
   "keyboardStatistics": {
-    "insert-template": 10,
-    "switcher:open": 6,
+    "insert-template": 12,
+    "switcher:open": 7,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 9,
+    "workspace:close": 10,
     "app:go-back": 1,
-    "file-explorer:new-file": 1
+    "file-explorer:new-file": 2
   }
 }

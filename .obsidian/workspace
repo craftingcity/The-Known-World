@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "96d1b551e7b81273",
+        "id": "73552e16a9c80ac7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rumors of Old Elves.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0abf4d70415e2d5d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
-            "mode": "source"
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "old",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rumors of Old Elves.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +96,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rumors of Old Elves.md",
-                "linksCollapsed": false,
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -119,44 +108,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rumors of Old Elves.md"
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
               }
             }
           },
           {
-            "id": "364c2f7ce769283b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "1dd644284c35c883",
+            "id": "036d19c43b0e3aef",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "4b69f4d2b8442e48",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 215,
+    "width": 1037.5,
     "collapsed": true
   },
-  "active": "96d1b551e7b81273",
+  "active": "73552e16a9c80ac7",
   "lastOpenFiles": [
-    "Rumors of Old Elves.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/NPCs/Civilians/Jasper Vwem.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
-    "Baron Filip.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "Three Nation Highways.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red.md"
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Heritages.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+    "Game Notes/NPCs/Loreful/Waywalket Turring.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Stone of Desmoniur.md"
   ]
 }

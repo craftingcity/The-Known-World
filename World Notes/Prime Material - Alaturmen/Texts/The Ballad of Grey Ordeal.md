@@ -67,7 +67,7 @@ A rock, the back of the blonde head stained red with blood and his face with dus
 
 "GRAX YUR WZHIMLUAX BEYGU'UOK"
 
-A goblin rouge.
+A goblin rogue.
 
 A kind people, situationally quite distressed.
 
@@ -127,10 +127,3 @@ Eladrithal knew he chose wisely. As did Tubric. As did Waywalket.
 
 There was a big rock. Long and tall, spindled with encorement - the [[Stone of Desmoniur]].
 
-The gnome knew of this thing. She quickly warned the others, and took her battlestance. The others headed and moved to do the same
-
-Without warning, the rock flashed and summoned a great beast!
-
-Tubric strode boldly forward, brandashing his young axe, and Eladrithal stood tall and aimed true, and Waywalket gathered a great power in her hands.
-
-In a flash of steel, they quickly slew the beast! The four arms and sharp beak were no match for the prowess of the three adventurers.
