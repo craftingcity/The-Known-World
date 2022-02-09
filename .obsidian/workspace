@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "2415c05336639c45",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
