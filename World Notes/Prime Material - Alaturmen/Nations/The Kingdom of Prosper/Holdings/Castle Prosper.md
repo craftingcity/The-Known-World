@@ -22,8 +22,9 @@ The population of Castle Prosper is a great example of the population of the nat
 The [[Nobles of Prosper]] pay for good protection, both for and from the common folk. The city guard is well trained and patrols at all hours. The walls of the Keep and the City make for a great defensive position.
 
 ## Notable Locations
-Loose;
-- a nearby mine
-- Keelram Forest
-- the Proper Castle Prosper
-- the holding of [[Yerba]]
+### Castle Prosper Interior
+#### Library
+A great tower in the corner of the keep holds many secrets of the kingdom.
+#### Garrison
+#### Great Hall
+#### Vault

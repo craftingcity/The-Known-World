@@ -2,19 +2,17 @@
 tags: npc
 aliases:
 ---
-# Name of Char
+# Edward Bodaim
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-A old gnomish lorekeeper.
-
-A politic of theirs that players would interact with.
+Once a member of the [[Bandit Lords]] holding territory in the [[Northeastern Hobgoblin Territories]] now deceased.
 
 ## History
-A general history of the character, from their conception to their current state
+Held the holding of [[Castle Prosper]] during the time of the [[Bandit Lords]], slain by [[Arthur Simonson]].
 
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+The graves of [[Castle Prosper]].
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
