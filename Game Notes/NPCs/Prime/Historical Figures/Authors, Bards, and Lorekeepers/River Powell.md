@@ -6,7 +6,7 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-A first generation elf, noted writer, and member of [[Cenva Minyo]]
+A first generation elf, noted author, and member of [[Cenva Minyo]]
 
 ## History
 A general history of the character, from their conception to their current state
