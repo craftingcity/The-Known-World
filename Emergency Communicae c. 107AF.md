@@ -18,9 +18,6 @@ LOT: Skipping introductions Silvan?
 
 CWF: Yes - my people are in danger. I have not spoken to this [[Kakurak]], but as I said, Grundle speaks true.
 
-DCP: I am Srioh. I represent the interests of [[Baron Filip]]. It is the opinion of the [[Baron Filip]], myself, and the other [[Knights in Red]] that this is a plight we have been preparing to hear. This is the reason for founding as a Coalition, the reason we are all here to talk is to hear this call.
+DCP: I am [[Srioh]]. I represent the interests of [[Baron Filip]]. It is the opinion of the [[Baron Filip]], myself, and the other [[Knights in Red]] that this is a plight we have been preparing to hear. This is the reason for founding as a Coalition, the reason we are all here to talk is to hear this call.
 
-LOT: I am 
-
-
-
+LOT: I am Writh. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[]]
