@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
-            "mode": "source"
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+            "mode": "preview"
           }
         }
       },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "Emergency Communicae c. 103AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "Emergency Communicae c. 103AF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md"
+                "file": "Emergency Communicae c. 103AF.md"
               }
             }
           },
@@ -176,17 +176,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "36c05f81ac263d57",
+  "active": "f5e46bff114483b1",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "Emergency Communicae c. 103AF.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Fraznky Bradley.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
     "Game Notes/NPCs/List of Names.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Golden Claws.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/The Lands of Tetrimoc.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md",
-    "Srioh.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md"
   ]
 }
