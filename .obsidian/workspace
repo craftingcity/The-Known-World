@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Heilich-Muwwoq.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Heilich-Muwwoq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Heilich-Muwwoq.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Heilich-Muwwoq.md"
               }
             }
           },
@@ -168,7 +169,7 @@
   },
   "active": "c46f5fe3cae4a3dd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Heilich-Muwwoq.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Game Notes/A Grand Notepad.md",
