@@ -7,7 +7,7 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 2,
+    "file-explorer:new-file": 3,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
     "app:delete-file": 6,
@@ -24,10 +24,10 @@
     "outgoing-links:open-for-current": 1
   },
   "keyboardStatistics": {
-    "insert-template": 12,
-    "switcher:open": 8,
-    "editor:open-search": 1,
-    "global-search:open": 1,
+    "insert-template": 13,
+    "switcher:open": 11,
+    "editor:open-search": 2,
+    "global-search:open": 2,
     "workspace:close": 15,
     "app:go-back": 1,
     "file-explorer:new-file": 2

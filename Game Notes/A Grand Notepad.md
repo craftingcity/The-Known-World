@@ -15,7 +15,7 @@ Blood of [[Travis]]; "Blood of a brother..."
 
 Hey Hey! Travel is going well. We moved them toward a duergar city, which means we need to build a duergar city.
 
-Should be easy enough. I'll use hexographer.
+Should be easy enough. I'll use paint.
 
 # PROJECT ELVES
 
