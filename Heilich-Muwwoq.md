@@ -24,5 +24,31 @@ Nearly all of the unchained population of Heilich is Duergar, with the exception
 ## Defenses
 
 ## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
 
+### Town Square
+Market Stalls
+- weapons
+- armor
+- fresh vegetables
+- fresh meat
+- live workers
+
+Rekivquim Franxop (Rekivquim Specialties)
+- a high-end collector's store that keeps an array of wanted items
+
+
+### Criminal's Cross
+Quirik Remp Caurquin (Spiny Ass Lodging)
+- a no questions asked no records kept style of inn that became very popular as the nobles hired more outsiders
+
+Yuiz-Zuiv Juiq-Tanhg (Lavender-Smell Dance-Party)
+- a club that specializes in lavender-smelling smoke bars and a stocked population of working slaves
+### Higher Housing
+#### Drug Production
+### Da'Heggun Manor
+#### Da'Heggun Mines
+##### Northern
+##### Southern
+### Da'Furik Manor
+### Lower Housing
+#### Slave Road
