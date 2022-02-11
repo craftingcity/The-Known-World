@@ -30,9 +30,9 @@
     "switcher:open": 16,
     "editor:open-search": 2,
     "global-search:open": 3,
-    "workspace:close": 31,
+    "workspace:close": 35,
     "app:go-back": 7,
-    "file-explorer:new-file": 3,
+    "file-explorer:new-file": 4,
     "editor:open-link-in-new-leaf": 1
   }
 }
