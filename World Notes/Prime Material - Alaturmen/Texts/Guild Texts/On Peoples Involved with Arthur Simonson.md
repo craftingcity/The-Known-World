@@ -18,3 +18,4 @@ This text is a list of all known associates to the King [[Arthur Simonson]] of [
 
 ## Post-Kingship 
 [[Varis]] & [[Amashod]] - unknown, last seen entering [[Kailkeep]], [[Prime Timeline|025AF]], assumed deceased, see Adv. Guild files
+[[Fraznky Bradley]]

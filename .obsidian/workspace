@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Emergency Communicae c. 107AF.md",
+            "file": "Emergency Communicae c. 103AF.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergency Communicae c. 107AF.md",
+                "file": "Emergency Communicae c. 103AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergency Communicae c. 107AF.md",
+                "file": "Emergency Communicae c. 103AF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergency Communicae c. 107AF.md"
+                "file": "Emergency Communicae c. 103AF.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "f5e46bff114483b1",
   "lastOpenFiles": [
-    "Emergency Communicae c. 107AF.md",
+    "Emergency Communicae c. 103AF.md",
+    "Fraznky Bradley.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/NPCs/List of Names.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Golden Claws.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md",
     "Srioh.md",
-    "Untitled.md",
-    "Game Notes/NPCs/Prime/Pantheon/Tetrimoc.md",
-    "Filip Grundle.md",
-    "Yyu Clipwin.md"
+    "Untitled.md"
   ]
 }

@@ -34,7 +34,7 @@ Sueridus | Amalindis
 ## Southwestern
 Neutral | Neutral
 ---|---
-Bun  | Srioh
+Bun  | Pural
 Writh  | Muurs
 Gnacs  | Srac
 Srewo  | Qipaal
