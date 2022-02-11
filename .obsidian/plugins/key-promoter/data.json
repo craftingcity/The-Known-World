@@ -30,7 +30,7 @@
     "editor:open-search": 2,
     "global-search:open": 3,
     "workspace:close": 28,
-    "app:go-back": 4,
+    "app:go-back": 5,
     "file-explorer:new-file": 3,
     "editor:open-link-in-new-leaf": 1
   }
