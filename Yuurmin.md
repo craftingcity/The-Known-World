@@ -11,10 +11,12 @@ The crimeboss of [[Heilich-Muwwoq]]. Their most trusted crew is nicknammed the "
 ## History
 Someone needs to pick up the criminal slack around town.
 
-Symbolizes ownership with the Protzgi Tattoo / Brand.
+Symbolizes ownership with the Protzgi Tattoo / Brand;
+
+a simple three-quarters circle capping a three pronged fork
 
 ## Location
-
+[[Heilich-Muwwoq#Higher Housing|Yuurmin's Home]]
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

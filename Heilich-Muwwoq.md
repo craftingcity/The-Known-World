@@ -22,6 +22,7 @@ The long streets are cobbled in light stone and lined with tall iron lanterns of
 Nearly all of the unchained population of Heilich is Duergar, with the exception of a few bands of mercenaries or traders who have proven themselves worthy allies to the town.
 
 ## Defenses
+The Da'Furik and Da'Heggun families each hire guard to the local Muwwoq-Gueb (Muwwoq-Protectors). 
 
 ## Notable Locations
 
@@ -36,6 +37,9 @@ Market Stalls
 Rekivquim Franxop (Rekivquim Specialties)
 - a high-end collector's store that keeps an array of wanted items
 
+Heggun Quikoua Fratee (Heggun Weapons Great)
+- Da'Heggun weapon depots
+
 
 ### Criminal's Cross
 Quirik Remp Caurquin (Spiny Ass Lodging)
@@ -46,6 +50,9 @@ Yuiz-Zuiv Juiq-Tanhg (Lavender-Smell Dance-Party)
 
 
 ### Higher Housing
+Yuurmin's Home
+- a towering stone fortress in the higher housing district
+
 #### Drug Production
 Yuurmin's Traphouses
 - Yuurmin and the Protzgi Quiwkim own lots of property that they use to create and sell drugs
@@ -64,3 +71,4 @@ Silver.
 ### Da'Furik Manor
 ### Lower Housing
 #### Slave Road
+Little is here other than delapidated structures and slavers looking for an unattended catch.
