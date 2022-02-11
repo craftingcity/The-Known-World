@@ -15,17 +15,6 @@
         }
       },
       {
-        "id": "ae5aaac836a21119",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Filip Grundle.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d983f646117376f4",
         "type": "leaf",
         "state": {
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filip Grundle.md",
+                "file": "Emergency Communicae c. 107AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filip Grundle.md",
+                "file": "Emergency Communicae c. 107AF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filip Grundle.md"
+                "file": "Emergency Communicae c. 107AF.md"
               }
             }
           },
@@ -158,10 +147,10 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "ae5aaac836a21119",
+  "active": "f5e46bff114483b1",
   "lastOpenFiles": [
-    "Filip Grundle.md",
     "Emergency Communicae c. 107AF.md",
+    "Filip Grundle.md",
     "Yyu Clipwin.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/List of Names.md",

@@ -6,7 +6,7 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-The [[Guild of Adventurers]]
+The [[Guild of Adventurers]] backup speaker at [[Communicae]].
 
 ## History
 A general history of the character, from their conception to their current state
