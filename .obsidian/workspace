@@ -15,23 +15,23 @@
         }
       },
       {
-        "id": "ed76501e415ed11b",
+        "id": "ae5aaac836a21119",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Speaker Vanavar.md",
+            "file": "Filip Grundle.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "4c7250c23833cd39",
+        "id": "d983f646117376f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Worldwide Calander Systems.md",
+            "file": "Game Notes/NPCs/List of Names.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speaker Vanavar.md",
+                "file": "Filip Grundle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speaker Vanavar.md",
+                "file": "Filip Grundle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speaker Vanavar.md"
+                "file": "Filip Grundle.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "ed76501e415ed11b",
+  "active": "ae5aaac836a21119",
   "lastOpenFiles": [
-    "Speaker Vanavar.md",
+    "Filip Grundle.md",
     "Emergency Communicae c. 107AF.md",
+    "Yyu Clipwin.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/NPCs/List of Names.md",
+    "names.md",
+    "Speaker Vanavar.md",
     "The Worldwide Calander Systems.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
-    "Game Notes/Prenotes/Prenotes Feb 12 22.md",
-    "Game Notes/NPCs/Prime/Coalition Guild/Wizards/The Wizard In Blue.md",
-    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
-    "Game Notes/Prenotes/Prenotes Dec 11 21.md",
-    "Game Notes/Prenotes/Prenotes Nov 22 21.md",
-    "Untitled.md"
+    "Game Notes/Prenotes/Prenotes Feb 12 22.md"
   ]
 }
