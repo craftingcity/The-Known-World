@@ -13,7 +13,8 @@ They entrust their second in command [[Buzkif Garyp]] with the day to day operat
 Someone needs to run the slave trade in town.
 
 ## Location
-[[Heilich-Muwwoq]]
+[[Heilich-Muwwoq#Da'Furik Manor]]
 
+[[Heilich-Muwwoq#Criminal's Cross|Yuiz-Zuiv Juiq-Tanhg]]
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

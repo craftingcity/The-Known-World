@@ -15,15 +15,33 @@
         }
       },
       {
-        "id": "3810a47530de494c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Taerich Da'Furik.md",
-            "mode": "source"
+        "id": "9544ec8c7a3252f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "f3ab90bbe7d535ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yuurmin.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "128b4447c6ada935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wuer-Heur-Tuigier Da'Heggun.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -152,14 +170,14 @@
   "active": "c46f5fe3cae4a3dd",
   "lastOpenFiles": [
     "Heilich-Muwwoq.md",
+    "Yuurmin.md",
+    "Wuer-Heur-Tuigier Da'Heggun.md",
     "Taerich Da'Furik.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Game Notes/A Grand Notepad.md",
     "Rumors of Old Elves.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
-    "conflict-files-obsidian-git.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

@@ -43,12 +43,24 @@ Quirik Remp Caurquin (Spiny Ass Lodging)
 
 Yuiz-Zuiv Juiq-Tanhg (Lavender-Smell Dance-Party)
 - a club that specializes in lavender-smelling smoke bars and a stocked population of working slaves
+
+
 ### Higher Housing
 #### Drug Production
+Yuurmin's Traphouses
+- Yuurmin and the Protzgi Quiwkim own lots of property that they use to create and sell drugs
+- marked with the Protzgi Brand
+
 ### Da'Heggun Manor
 #### Da'Heggun Mines
+Both the mines are equipped with powerful machinery that drills into the depths of iron and silver ores here.
+
 ##### Northern
+Iron.
+
 ##### Southern
+Silver.
+
 ### Da'Furik Manor
 ### Lower Housing
 #### Slave Road
