@@ -10,3 +10,9 @@ aliases:
 	- [ ] maps?
 	- [ ] encounters / monsters?
 	- [ ] intro / recap?
+
+Name Drops for middeep:
+
+[[Lolth]], Spider Queen
+
+[[Vhaeraun]], Progenitor

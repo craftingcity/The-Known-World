@@ -29,7 +29,7 @@ The movers and shakers fall into one of three factions, those who work for [[Tae
 
 - An Elder Brain [[A'zi'imli'ku]] lives below the city
 	- duergar have been disappearing from the city
-	- intellect devourers roam the manor fields
+	- intellect devourers sneakily roam the manor fields
 	- Protzgi Quiwkim have a bounty out for ilithid
 
 ## Physicality of the Holding

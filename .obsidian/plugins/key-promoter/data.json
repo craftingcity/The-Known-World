@@ -26,12 +26,12 @@
     "graph:open-local": 1
   },
   "keyboardStatistics": {
-    "insert-template": 20,
+    "insert-template": 22,
     "switcher:open": 16,
     "editor:open-search": 2,
     "global-search:open": 3,
-    "workspace:close": 30,
-    "app:go-back": 6,
+    "workspace:close": 31,
+    "app:go-back": 7,
     "file-explorer:new-file": 3,
     "editor:open-link-in-new-leaf": 1
   }

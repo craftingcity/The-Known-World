@@ -12,44 +12,47 @@
             "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
             "mode": "source"
           }
-        },
-        "group": "05c449729fea4eff"
+        }
       },
       {
-        "id": "10786e58a096edd4",
+        "id": "68ba7e5a56c820bd",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
+            "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "648e015d5acc6e8d",
+        "type": "split",
+        "children": [
+          {
+            "id": "a5ccd89248151e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a3f8dcf2d57e99be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+                "mode": "source"
+              }
             }
           }
-        },
-        "group": "05c449729fea4eff"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md"
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
               }
             }
           },
@@ -173,17 +176,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "39ea7dc3da26621a",
+  "active": "68ba7e5a56c820bd",
   "lastOpenFiles": [
-    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+    "Mulutumi.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
-    "World Notes/Underdark/Locations & Holdings/Blurkfraggir.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+    "World Notes/Underdark/Locations & Holdings/Blurkfraggir.md",
     "World Notes/Underdark/Locations & Holdings/Growth Heart.md",
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
-    "Game Notes/A Grand Notepad.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "MEDIA/MAPS/Magius-100AF.png"
+    "Game Notes/A Grand Notepad.md"
   ]
 }
