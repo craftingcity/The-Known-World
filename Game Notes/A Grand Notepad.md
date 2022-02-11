@@ -17,17 +17,6 @@ Hey Hey! Travel is going well. We moved them toward a duergar city, which means 
 
 Should be easy enough. I'll use paint.
 
-## Three Clue
-I want the players to understand some things about [[Heilich-Muwwoq]]
-
-1. This used to be a human mining settlement
-	1. the machinery is not of duergar construction
-	2. the manors are not of duergar construction
-	3. a large population of slaves are human here
-2. Bardaux isnt here;
-		1. Ungaethram is the largest Drow settlement around
-		2. The Da'Furik Family sells slaves, ties to [[Yuurmin]], ties to [[Ungaethram]]
-		3. 
 
 # PROJECT ELVES
 

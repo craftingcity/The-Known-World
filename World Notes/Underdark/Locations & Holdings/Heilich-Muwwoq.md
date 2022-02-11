@@ -16,6 +16,17 @@ What was once a mining colony of humans is now the capital city of the Duergar o
 
 The movers and shakers fall into one of three factions, those who work for [[Taerich Da'Furik]], those who work for [[Wuer-Heur-Tuigier Da'Heggun]], and those who work for [[Yuurmin]].
 
+### Revelations and Clues
+- [[Yuurmin]] and the Protzgi Quiwkim control the city 
+	- Muwwoq-Gueb are sometimes Protzgi Branded
+	- Da'Furik slaves are sold to Protzgi
+	- Da'Haggun weapons are sold to Protzgi
+- Heilich has dealings with [[Ungaethram]], but people dont like that
+	- citizens grumble about secret drow deals
+	- mercenary groups come and go from Heilich to [[Ungaethram]]
+	- a
+- 
+
 ## Physicality of the Holding
 The long streets are cobbled in light stone and lined with tall iron lanterns of dull yellow glow. The stone buildings of the Lower Housing are slim and tall; squeezed together by their neighbors. These buildings are worn and marked, engravings and paint-tags and murals line the faces of this place. Southeast from there, the cave grows luscious grass and mushrooms at the estates of the nobles. The Eastern side of town houses the middle class, merchants, criminals, mercenaries, and the like.
 
@@ -24,6 +35,8 @@ Nearly all of the unchained population of Heilich is Duergar, with the exception
 
 ## Defenses
 The Da'Furik and Da'Heggun families each hire guard to the local Muwwoq-Gueb (Muwwoq-Protectors). 
+
+Their symbol is a crest split in two with iconography of a pickaxe and a chain.
 
 ## Notable Locations
 
