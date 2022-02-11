@@ -1,6 +1,6 @@
 ---
 tags: npc
-aliases: wizard in the blue cloak
+aliases: that wizard in the blue cloak
 ---
 # The Wizard In Blue
 
