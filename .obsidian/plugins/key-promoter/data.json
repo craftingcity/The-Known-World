@@ -22,10 +22,11 @@
     "backlink:toggle-backlinks-in-document": 1,
     "outgoing-links:open": 1,
     "outgoing-links:open-for-current": 1,
-    "editor:rename-heading": 9
+    "editor:rename-heading": 9,
+    "graph:open-local": 1
   },
   "keyboardStatistics": {
-    "insert-template": 19,
+    "insert-template": 20,
     "switcher:open": 16,
     "editor:open-search": 2,
     "global-search:open": 3,

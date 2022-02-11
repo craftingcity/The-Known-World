@@ -7,7 +7,7 @@ aliases: New Ammyrain
 Prosperity: Wealthy
 Population: Steady (~2500)
 Defenses: Guard
-Other Tags: Safe, Oath (Duergar), Trade (Worthy Travelers, Ungaethram by Proxy), Culture (Isolationism), Power (Duergar Politics), History (Mining)
+Other Tags: Oath (Duergar), Trade (Worthy Travelers, Ungaethram by Proxy), Culture (Isolationism), Power (Duergar Politics), History (Mining), Blight (Ilithid)
 
 ![[Heilich-Muwwoq-100AF.png]]
 
@@ -21,11 +21,16 @@ The movers and shakers fall into one of three factions, those who work for [[Tae
 	- Muwwoq-Gueb are sometimes Protzgi Branded
 	- Da'Furik slaves are sold to Protzgi
 	- Da'Haggun weapons are sold to Protzgi
+
 - Heilich has dealings with [[Ungaethram]], but people dont like that
 	- citizens grumble about secret drow deals
 	- mercenary groups come and go from Heilich to [[Ungaethram]]
 	- Protzgi cargo heads to [[Ungaethram]]
-- Bardaux was never here.
+
+- An Elder Brain [[A'zi'imli'ku]] lives below the city
+	- duergar have been disappearing from the city
+	- intellect devourers roam the manor fields
+	- Protzgi Quiwkim have a bounty out for ilithid
 
 ## Physicality of the Holding
 The long streets are cobbled in light stone and lined with tall iron lanterns of dull yellow glow. The stone buildings of the Lower Housing are slim and tall; squeezed together by their neighbors. These buildings are worn and marked, engravings and paint-tags and murals line the faces of this place. Southeast from there, the cave grows luscious grass and mushrooms at the estates of the nobles. The Eastern side of town houses the middle class, merchants, criminals, mercenaries, and the like.

@@ -33,9 +33,9 @@ Name Drops for middeep:
 
 Thinking about how many sessions I want to stay in the underdark, 10 maybe. Our first 4 will introduce the threats of the underdark, the next few will likely be a more urban ([[Ungaethram]]) setting before finally interacting with the "dungeon" of [[Whitimore's Last Hold]], which is located in the fungal depths of [[Mulutumi]]. 
 
-I think no matter what direction they push, I will move them into the the "duergar pocket" of [[Blurkfraggir]].
+I think no matter what direction they push, I will move them into the the "duergar pocket" of [[Heilich-Muwwoq]].
 
-There is an elder brain ([[A'zi'imli'ku]]) living near [[Blurkfraggir]] trying to escape to the surface. It is currently feeding on its citizens as it prepares for the final leg of its journey.
+There is an elder brain ([[A'zi'imli'ku]]) living near [[Heilich-Muwwoq]] trying to escape to the surface. It is currently feeding on its citizens as it prepares for the final leg of its journey.
 
 # During Notes
 New Area:
@@ -45,13 +45,13 @@ New Area:
 A large vault, high food potency, sedimentary rock.
 Bluecap, Barrelstalk, Verr Gourd, Smokebulb, Lithel
 
-Duergar made a path through here. The party has managed to pick it up. I will lead them to the city of [[Ammyrain]] proper. 
+Duergar made a path through here. The party has managed to pick it up. I will lead them to the city of [[Heilich-Muwwoq]] proper. 
 
 On their first day, they encountered 8 bullet, which they summarily defeated. 3 were able to run. This prey bites back.
 
 the party gathered some rations in this lush place.
 
-they traveled for 3 days before seeing the light of [[Ammyrain]], then another two.
+they traveled for 3 days before seeing the light of [[Heilich-Muwwoq]], then another two.
 
 [[Amashod]] mentioned [[The Book of Soma]].
 
