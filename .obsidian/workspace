@@ -4,41 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "abdfd9e064d6415a",
-        "type": "split",
-        "children": [
-          {
-            "id": "b17cf76c802b9926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magius.md",
-                "mode": "source"
-              }
-            },
-            "group": "0918cccd23ab4654"
-          },
-          {
-            "id": "9d05fcdbf9d846cc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Magius.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "0918cccd23ab4654"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "5d383ef68a8f49e1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relational",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magius.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Magius.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,17 +129,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "9d05fcdbf9d846cc",
+  "active": "5d383ef68a8f49e1",
   "lastOpenFiles": [
-    "Magius.md",
+    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
+    "MEDIA/MAPS/Magius-100AF.png",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Magius.md",
+    "TEMPLATES/Holdings.md",
+    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "World Notes/Prime Material - Alaturmen/Horde.md",
     "Underdark NPC Names.md",
     "Game Notes/NPCs/Prime/Historical Figures/Authors, Bards, and Lorekeepers/Poppy Bumbleheart.md",
     "Game Notes/NPCs/Prime/Historical Figures/Authors, Bards, and Lorekeepers/River Powell.md",
-    "Game Notes/NPCs/Prime/Historical Figures/Bandit Lords/Edward Bodaim.md",
-    "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Alextreas.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "Game Notes/NPCs/Prime/Undesired Holyl'nders/Marcus.md",
-    "Game Notes/NPCs/Prime/Giant Leadership/Jarl Grungar.md"
+    "Game Notes/NPCs/Prime/Historical Figures/Bandit Lords/Edward Bodaim.md"
   ]
 }
