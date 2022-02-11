@@ -10,4 +10,4 @@ The ancient order that survives [[The Old|Minyostalma]] by protecting the lore a
 Its oldest members are the survivors of the [[50 Year Fires]].
 
 ### Symbolism
-A leaf-tent over a small city adorned by a symetrical fla
+A leaf-tent over a small city adorned by a symmetrical flame covering the skyline of the city.

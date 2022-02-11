@@ -2,11 +2,13 @@
 tags: npc
 aliases:
 ---
-# Baron Issac Filip
+# Xuiop, Heartbeast
 
-> A regal old dragonborn dressed in blood stained ceremonial plate armor, a large claymore - it too soaked in old blood - with gold embossing at his side.
+> A lumbering set of six limbs enters the room. They are furred in brown and end in a grip of razors. At this beasts center, a dull red glow eminates underneath its fur. With a deep bassy growl; "Greetings." 
 
-Leader of the [[Knights in Red]], and Baron of [[Huntyr Swamp]].
+A description of their function in the world.
+
+A politic of theirs that players would interact with.
 
 ## History
 A general history of the character, from their conception to their current state

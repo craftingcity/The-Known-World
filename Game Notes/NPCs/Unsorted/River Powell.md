@@ -2,11 +2,11 @@
 tags: npc
 aliases:
 ---
-# Baron Issac Filip
+# River Powell
 
-> A regal old dragonborn dressed in blood stained ceremonial plate armor, a large claymore - it too soaked in old blood - with gold embossing at his side.
+> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-Leader of the [[Knights in Red]], and Baron of [[Huntyr Swamp]].
+A first generation elf, noted writer, and member of [[Cenva Minyo]]
 
 ## History
 A general history of the character, from their conception to their current state

@@ -2,13 +2,13 @@
 tags: nation_page, combine
 ---
 ## The Democratic Combine of Peoples
+![[combine-100AF.png]]
+*Combine Territory as of 100AF*
 
-Marshy, ecclectic. Buildings of wood on poles, large stone towers, cities in the trees.
-
-The DCP is a represented collection of disperate and warring peoples. They are bound together by this years long war as "a nation in civil war", but individual groups fight tooth and nail for power. 
+The Democratic Combine of Peoples is a anarch-fiefdom-government that signed the [[Coalition's Founding Document]].
 
 ### Government
-Each collection of people is governed in its own way. Many raiding parties and theologies and monarchies and shit like that. Most big factions control a major city and some of its subsidiaries, but there are many smaller factions vying for power inside each controlled area. Given the state of constant civil war, that city's local leaders are generally a better force of control than whatever faction currently claims the city.
+The Rulers of [[The Fiefdoms of the Combine]] conference often, and form their own alliances between themselves. The clauses in [[Coalition's Founding Document]] allow anyone that holds a fief (ie enough land to feed a knight) to represent the Combine in [[Communicae]].
 
 ### Population Distribution
 - large swaths of the "exotic races" such as dragonborn, goliaths, tiefling, kenku, triton
@@ -17,7 +17,7 @@ Each collection of people is governed in its own way. Many raiding parties and t
 - rarely feyborn, such as eladrin
 
 ### History
-
+The Combine was formed at the signing of the [[Coalition's Founding Document]]
 ### Notable Factions
 - The [[Knights in Red]], led by [[Baron Filip]], are a group of well meaning knights that maintain tight control of the [[Huntyr Swamp]]
 
