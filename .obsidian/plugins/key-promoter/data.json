@@ -24,12 +24,12 @@
     "outgoing-links:open-for-current": 1
   },
   "keyboardStatistics": {
-    "insert-template": 16,
-    "switcher:open": 11,
+    "insert-template": 17,
+    "switcher:open": 12,
     "editor:open-search": 2,
     "global-search:open": 2,
-    "workspace:close": 18,
-    "app:go-back": 1,
+    "workspace:close": 20,
+    "app:go-back": 2,
     "file-explorer:new-file": 2,
     "editor:open-link-in-new-leaf": 1
   }

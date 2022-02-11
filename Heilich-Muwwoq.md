@@ -7,9 +7,10 @@ aliases: New Ammyrain
 Prosperity: Wealthy
 Population: Steady (~2500)
 Defenses: Guard
-Other Tags: Safe, Oath (Duergar), Trade (Travel, Ungaethram by Proxy)
+Other Tags: Safe, Oath (Duergar), Trade (Worthy Travelers, Ungaethram by Proxy), Culture (Isolationism), Power (Duergar Politics), History (Mining)
 
 ![[Heilich-Muwwoq-100AF.png]]
+
 # Heilich-Muwwoq (New Ammyrain)
 What was once a mining colony of humans is now the capital city of the Duergar of the [[Upper Northwestern Underdark]].
 
@@ -44,6 +45,7 @@ Heggun Quikoua Fratee (Heggun Weapons Great)
 ### Criminal's Cross
 Quirik Remp Caurquin (Spiny Ass Lodging)
 - a no questions asked no records kept style of inn that became very popular as the nobles hired more outsiders
+- owned by a drow, [[Alextreas]]
 
 Yuiz-Zuiv Juiq-Tanhg (Lavender-Smell Dance-Party)
 - a club that specializes in lavender-smelling smoke bars and a stocked population of working slaves
@@ -57,6 +59,9 @@ Yuurmin's Home
 Yuurmin's Traphouses
 - Yuurmin and the Protzgi Quiwkim own lots of property that they use to create and sell drugs
 - marked with the Protzgi Brand
+
+Vuirm Buirm (Import Export)
+- Yuurmin's illegal trade with [[Ungaethram]] for food and drug supplies in exchange for Da'Heggun weapons and Da'Furik slaves
 
 ### Da'Heggun Manor
 #### Da'Heggun Mines
