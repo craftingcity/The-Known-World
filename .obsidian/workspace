@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+            "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md"
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "39ea7dc3da26621a",
   "lastOpenFiles": [
-    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
+    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "Game Notes/A Grand Notepad.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",

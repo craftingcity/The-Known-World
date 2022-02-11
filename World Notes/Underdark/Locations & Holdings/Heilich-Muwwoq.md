@@ -24,8 +24,8 @@ The movers and shakers fall into one of three factions, those who work for [[Tae
 - Heilich has dealings with [[Ungaethram]], but people dont like that
 	- citizens grumble about secret drow deals
 	- mercenary groups come and go from Heilich to [[Ungaethram]]
-	- a
-- 
+	- Protzgi cargo heads to [[Ungaethram]]
+- Bardaux was never here.
 
 ## Physicality of the Holding
 The long streets are cobbled in light stone and lined with tall iron lanterns of dull yellow glow. The stone buildings of the Lower Housing are slim and tall; squeezed together by their neighbors. These buildings are worn and marked, engravings and paint-tags and murals line the faces of this place. Southeast from there, the cave grows luscious grass and mushrooms at the estates of the nobles. The Eastern side of town houses the middle class, merchants, criminals, mercenaries, and the like.
