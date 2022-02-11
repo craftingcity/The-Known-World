@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c46f5fe3cae4a3dd",
+        "id": "621be6cb8dac9e49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heilich-Muwwoq.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d160144c926a5836",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Holding Rules.md",
+            "file": "Game Notes/NPCs/as/Marcus.md",
             "mode": "source"
           }
         }
@@ -59,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heilich-Muwwoq.md",
+                "file": "Game Notes/NPCs/as/Marcus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heilich-Muwwoq.md",
+                "file": "Game Notes/NPCs/as/Marcus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heilich-Muwwoq.md"
+                "file": "Game Notes/NPCs/as/Marcus.md"
               }
             }
           },
@@ -149,17 +136,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "c46f5fe3cae4a3dd",
+  "active": "621be6cb8dac9e49",
   "lastOpenFiles": [
-    "Heilich-Muwwoq.md",
-    "Alextreas.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "Wuer-Heur-Tuigier Da'Heggun.md",
-    "Yuurmin.md",
-    "Taerich Da'Furik.md",
-    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Game Notes/A Grand Notepad.md",
-    "Rumors of Old Elves.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md"
+    "Game Notes/NPCs/as/Marcus.md",
+    "Game Notes/NPCs/as/Poppy Bumbleheart.md",
+    "Game Notes/NPCs/as/Peoples of Combine/Asilar 'Goldhand' Guir.md",
+    "Game Notes/NPCs/as/Guild/Jasper Vwem.md",
+    "Game Notes/NPCs/as/Guild/Adriana Fairlin Franx.md",
+    "Game Notes/NPCs/Unsorted/River Powell.md",
+    "Game Notes/NPCs/as/Dragon/Detraminx.md",
+    "Game Notes/NPCs/as/Northeastern Hobgoblin Territories/Trxyi Emorin.md",
+    "Underdark NPC Names.md",
+    "World Notes/Prime Material - Alaturmen/Holding Rules.md"
   ]
 }

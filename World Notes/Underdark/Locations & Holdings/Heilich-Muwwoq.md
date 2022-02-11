@@ -67,6 +67,8 @@ Vuirm Buirm (Import Export)
 #### Da'Heggun Mines
 Both the mines are equipped with powerful machinery that drills into the depths of iron and silver ores here.
 
+Smithies collect around the outsides of the mines; the ore is processed quickly. 
+
 ##### Northern
 Iron.
 
