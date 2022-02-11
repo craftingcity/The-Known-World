@@ -13,18 +13,9 @@ Blood of [[Travis]]; "Blood of a brother..."
 
 # NEXT SESSION
 
-Okay. Lets use our map and our table to make some cool scenes as they travel the underdark. make it wierd, make it fun, but make it hell. 
+Hey Hey! Travel is going well. We moved them toward a duergar city, which means we need to build a duergar city.
 
-take their food
-poison them
-give them disease
-crush them with rocks
-
-make it clear that it is hard to stay alive down here
-
-show how hard it is for other people to stay alive down here - our heroes are struggling less
-
-"Bones on the floor. An echoing drip that gets louder and quieter for hours on end as you travel. Your feet are tired. You've been walking for hours. Another crunch. Bones on the floor."
+Should be easy enough. I'll use hexographer.
 
 # PROJECT ELVES
 

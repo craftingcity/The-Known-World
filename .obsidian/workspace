@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d9262317dc8675",
+        "id": "b606c3d3d19fa578",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
+            "file": "Game Notes/A Grand Notepad.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md"
+                "file": "Game Notes/A Grand Notepad.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "b7d9262317dc8675",
+  "active": "b606c3d3d19fa578",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Asilar's Bounty.md",
-    "Game Notes/NPCs/List of Names.md",
-    "World Notes/Prime Material - Alaturmen/Texts/An Account of Our Fallen.md",
-    "Game Notes/NPCs/Unsorted/River Powell.md",
-    "TEMPLATES/Text.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "World Notes/Underdark/Locations & Holdings/Growth Heart.md",
-    "Game Notes/NPCs/Leaders/Barons of Combine/Baron Xuiop.md",
-    "Game Notes/NPCs/Loreful/Asilar 'Goldhand' Guir.md"
+    "Game Notes/A Grand Notepad.md",
+    "Rumors of Old Elves.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Old.md",
+    "conflict-files-obsidian-git.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Heritages.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md"
   ]
 }
