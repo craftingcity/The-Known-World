@@ -32,8 +32,9 @@ What has [[King Snure]] been up to?
 - finishing [[War Beast]] :)
 - wrecking shop in the northwest
 
-Has Kakurak presented this as a great threat to the [[Guild of Adventurers]]
-- yeah probably, but the paperwork for this stuff takes time, we can get an emergancy communicae approved in about a week (from when the deal was struck, the party went to investiga)
+Has Kakurak presented this as a great threat to the [[Guild of Adventurers]]?
+- yeah probably, but the [[Emergency Communicae c. 107AF|paperwork]] for this stuff takes time, we can get an emergancy communicae approved in about a week (from when the deal was struck, the party went to investigate the most recently hit town and got snatched)
+	- the 
 
 Name Drops for middeep:
 

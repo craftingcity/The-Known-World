@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+            "file": "Emergency Communicae c. 107AF.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ed76501e415ed11b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speaker Vanavar.md",
             "mode": "source"
           }
         }
@@ -20,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Jan 15 22.md",
+            "file": "The Worldwide Calander Systems.md",
             "mode": "source"
           }
         }
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "file": "Speaker Vanavar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "file": "Speaker Vanavar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md"
+                "file": "Speaker Vanavar.md"
               }
             }
           },
@@ -147,17 +158,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "f5e46bff114483b1",
+  "active": "ed76501e415ed11b",
   "lastOpenFiles": [
+    "Speaker Vanavar.md",
+    "Emergency Communicae c. 107AF.md",
+    "The Worldwide Calander Systems.md",
+    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Wizards/The Wizard In Blue.md",
-    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "Game Notes/Prenotes/Prenotes Dec 16 21.md",
     "Game Notes/Prenotes/Prenotes Dec 11 21.md",
     "Game Notes/Prenotes/Prenotes Nov 22 21.md",
-    "Untitled.md",
-    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-    "Mulutumi.md"
+    "Untitled.md"
   ]
 }
