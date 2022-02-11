@@ -27,10 +27,10 @@
   },
   "keyboardStatistics": {
     "insert-template": 29,
-    "switcher:open": 24,
+    "switcher:open": 27,
     "editor:open-search": 2,
     "global-search:open": 3,
-    "workspace:close": 41,
+    "workspace:close": 42,
     "app:go-back": 12,
     "file-explorer:new-file": 5,
     "editor:open-link-in-new-leaf": 1

@@ -15,15 +15,44 @@
         }
       },
       {
-        "id": "d983f646117376f4",
+        "id": "36c05f81ac263d57",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/List of Names.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "dcbacb8da40ac363",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b60379ddd8176d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "d983f646117376f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergency Communicae c. 103AF.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergency Communicae c. 103AF.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergency Communicae c. 103AF.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md"
               }
             }
           },
@@ -147,17 +176,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "f5e46bff114483b1",
+  "active": "36c05f81ac263d57",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "Emergency Communicae c. 103AF.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Fraznky Bradley.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/NPCs/List of Names.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Golden Claws.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/The Lands of Tetrimoc.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md",
-    "Srioh.md",
-    "Untitled.md"
+    "Srioh.md"
   ]
 }
