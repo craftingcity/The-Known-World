@@ -7,6 +7,7 @@
 [Dark Exchange](https://www.dandwiki.com/wiki/Dark_Exchange_(5e_Spell))
 [Deepen Shadows](https://www.dandwiki.com/wiki/Deepen_Shadows_(5e_Spell))
 [Elemental Aegis](https://www.dandwiki.com/wiki/Elemental_Aegis_(5e_Spell))
+[Impart Knowledge](https://www.dandwiki.com/wiki/Impart_Knowledge_(5e_Spell))
 [Label](https://www.dandwiki.com/wiki/Label_(5e_Spell))
 [Leonardo's Magic Card](https://www.dandwiki.com/wiki/Leonardo%27s_Magic_Card_(5e_Spell))
 [Magnetize](https://www.dandwiki.com/wiki/Magnetize_(5e_Spell))
@@ -27,6 +28,12 @@
 [Call Bird](https://www.dandwiki.com/wiki/Call_Bird_(5e_Spell))
 [Clear Thought](https://www.dandwiki.com/wiki/Clear_Thought_(5e_Spell))
 [Coin Bag](https://www.dandwiki.com/wiki/Coin_Bag_(5e_Spell))
+[Divine Armor](https://www.dandwiki.com/wiki/Divine_Armor_(5e_Spell))
+[Erase](https://www.dandwiki.com/wiki/Erase_(5e_Spell))
+[Muffle](https://www.dandwiki.com/wiki/Muffle_(5e_Spell))
+[Palpitate](https://www.dandwiki.com/wiki/Palpitate_(5e_Spell))
+[Scan](https://www.dandwiki.com/wiki/Scan_(5e_Spell))
+[Skull Goblet]
 # 2nd Level
 
 # 3rd Level
