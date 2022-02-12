@@ -14,36 +14,16 @@ size: meduim
 type: humanoid
 subtype: duergar
 alignment: ne
-ac: number
-hp: number
-hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
-saves:
-    - <ability-score>: number
-skillsaves:
-    - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+ac: 13
+hp: 48
+hit_dice: 7d6+24
+speed: 25ft
+stats: [16, 15, 13, 9, 9, 10]
 senses: string
-languages: string
-cr: number
-spells:
-    - <description>
-    - <spell level>: <spell-list>
+languages: Undercommon, Dwarvern
+cr: 2
 traits:
-    - [<trait-name>, <trait-description>]
-    - ...
+    - [Pack Tactics, When within 5 feet of an ally, this creature gains advantage on its attacks.]
 actions:
-    - [<trait-name>, <trait-description>]
-    - ...
-legendary_actions:
-    - [<legendary_actions-name>, <legendary_actions-description>]
-    - ...
-reactions:
-    - [<reaction-name>, <reaction-description>]
-    - ...
+    - [Spear, Melee weapon attack: reach 10ft, +5 to hit, ]
 ```
