@@ -19,10 +19,10 @@ These are the first empires of a growing world, and the impact of players should
 
 ## Conflict Will Shape the Path of the World
 
-Evils want for power and will take it from those who hold it with no remorse. The current empires are all headed by good folk (except for maybe the DCP, but they're weird so its ok) and as such the global conflict is kept to a minimum, but one day something is gonna threaten that peace and change it forever.
+Evils want for power and will take it from those who hold it with no remorse. The current empires are all headed by good folk and as such the global conflict is kept to a minimum, but one day something is gonna threaten that peace and change it forever.
 
 ## The World is Magical
 
-It is known as the Weave; it is all things. Some artisans manipulate it unconsciously.
+It is known as the Weave; it is all things. Its power runs through Alaturmen like its rivers. Some artisans manipulate it unconsciously. Some practitioners manipulate it consciously. Common folk consider it deadly and powerful. 
 
 
