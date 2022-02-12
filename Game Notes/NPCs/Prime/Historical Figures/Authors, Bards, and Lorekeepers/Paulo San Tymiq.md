@@ -12,10 +12,11 @@ An old bard, and one who was known to tell no embellishes or lies. Since his dea
 
 
 ## History
-Born into Alaturmen at the conception of the Humans, [[Prime Timeline|000AF]], Paulo was raised 
+Born into Alaturmen as a second-generation human and grew to appreciate the importance of story and history by the time he came of age. After some time pursuing this career to mild success, Paulo wrote and orated [[The Ballad of Grey Ordeal]], and his largely reportive story was known in all Alaturmen.
 
+He wrote many more influental peices during his time
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
