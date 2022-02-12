@@ -4,9 +4,9 @@ aliases:
 ---
 
 # Prenotes for Feb 12th
-- [ ] DM Screen
-- [ ] Notepaper
-- [ ] Prep
+- [x] DM Screen
+- [x] Notepaper
+- [x] Prep
 	- [ ] maps?
 	- [x] encounters / monsters?
 	- [x] intro / recap?
