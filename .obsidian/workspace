@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "a5efe5eb1c9b9e86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md"
               }
             }
           },
@@ -150,8 +161,9 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "e6a3014a4fb935d3",
+  "active": "a5efe5eb1c9b9e86",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
     "Game Notes/Encounters/Zer Muwwoq-Geub.md",
@@ -160,7 +172,6 @@
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
     "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
     "Game Notes/Encounters/Planeswalking toward Fire.md",
-    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-    "TEMPLATES/Encounter.md"
+    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md"
   ]
 }

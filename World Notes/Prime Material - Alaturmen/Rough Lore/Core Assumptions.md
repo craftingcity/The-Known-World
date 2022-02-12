@@ -23,6 +23,6 @@ Evils want for power and will take it from those who hold it with no remorse. Th
 
 ## The World is Magical
 
-Magic is young and wild and freely given to those who know how to ask for it. Magic items are powerful or plentiful, as nothing has yet to consume that resource. Practitioners are common, but powerful ones are rare. Few arcanists level past 5 or 6 before being too reckless for their own good or settling down and stagnating. No one learns to become lvl 20 by sitting at home and studying (there aren't books on that yet!).
+It is known as the Weave; it is all things. Some artisans manipulate it unconsciously.
 
 
