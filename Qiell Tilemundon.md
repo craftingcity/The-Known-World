@@ -4,9 +4,7 @@ aliases:
 ---
 # Qiell Tilemundon
 
-> I am an evil wizard
-
-I'm an evil wizard! Grr!
+> I am an evil wizard! I wear all black robes and drink the blood of rare beasts in exchange for continued lifespan. I'm an evil wizard! Grr!
 
 ## History
 A general history of the character, from their conception to their current state

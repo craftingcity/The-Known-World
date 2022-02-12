@@ -8,7 +8,7 @@ aliases:
 - [ ] Notepaper
 - [ ] Prep
 	- [ ] maps?
-	- [ ] encounters / monsters?
+	- [x] encounters / monsters?
 	- [x] intro / recap?
 ## INTRO
 
