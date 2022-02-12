@@ -131,10 +131,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "57667a6297f0a362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef24a1b0a2f3dc45",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1037.5,
+    "width": 280.6111145019531,
     "collapsed": true
   },
   "active": "d7e212ebfdd10584",
