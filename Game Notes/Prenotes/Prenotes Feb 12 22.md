@@ -53,3 +53,6 @@ Amashod - 19
 Varis - 16
 Grod - 16
 Kursk - 15
+
+A pile of goo and body parts fell from the top of the cavern.
+- a gift from [[A'zi'imli'ku]]'s servants
