@@ -46,3 +46,10 @@ remember travel rules; any rest = 1 ration / traveler, action based in game - ca
 
 introduce fun npcs this session - lots of actually cool duergar and otherwise gangsters / mercs
 
+# During Notes
+pp:
+
+Amashod - 19
+Varis - 16
+Grod - 
+Kursk - 
