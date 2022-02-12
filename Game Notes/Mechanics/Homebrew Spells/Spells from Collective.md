@@ -45,7 +45,7 @@
 # 6th Level
 
 # 7th Level
-
+[Bind Lesser Being](https://www.dandwiki.com/wiki/Bind_Lesser_Being_(5e_Spell))
 # 8th Level
 
 # 9th Level
