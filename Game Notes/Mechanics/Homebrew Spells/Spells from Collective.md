@@ -33,7 +33,7 @@
 [Muffle](https://www.dandwiki.com/wiki/Muffle_(5e_Spell))
 [Palpitate](https://www.dandwiki.com/wiki/Palpitate_(5e_Spell))
 [Scan](https://www.dandwiki.com/wiki/Scan_(5e_Spell))
-[Skull Goblet]
+[Skull Goblet](https://www.dandwiki.com/wiki/Skull_Goblet_(5e_Spell))
 # 2nd Level
 
 # 3rd Level
@@ -49,3 +49,7 @@
 # 8th Level
 
 # 9th Level
+[Bond With Reality](https://www.dandwiki.com/wiki/Bond_with_Reality_(5e_Spell))
+[Duplicate](https://www.dandwiki.com/wiki/Duplicate_(5e_Spell))
+[Hallowed Lances](https://www.dandwiki.com/wiki/Hallowed_Lances_(5e_Spell))
+[Knowledge](https://www.dandwiki.com/wiki/Knowledge_(5e_Spell))
