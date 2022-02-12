@@ -17,7 +17,7 @@ Paulo was born into Alaturmen on the 14th of First Melt, 34 cycles after Tetrimo
 He wrote many more influential pieces during his time as a bard. While some tales say that Paulo was slain in a glorious battle, the rumors are not true. He settled down in [[Four Stone]], and died peacefully around friends in 098AF at 64 cycles old.
 
 ## Location
-His memory is most visibly remembered at the [[]]
+His memory is most visibly remembered at the [[Four Stone#Goat Breathing Fire]]
 
 
 ## Statistics
