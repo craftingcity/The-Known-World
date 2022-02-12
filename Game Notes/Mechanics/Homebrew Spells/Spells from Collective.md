@@ -19,7 +19,14 @@
 [Tremorsense](https://www.dandwiki.com/wiki/Tremorsense_(5e_Spell))
 [Twitch](https://www.dandwiki.com/wiki/Twitch_(5e_Spell))
 # 1st Level
-
+[Agony Warp](https://www.dandwiki.com/wiki/Agony_Warp_(5e_Spell))
+[Arcane Mark](https://www.dandwiki.com/wiki/Arcane_Mark_(5e_Spell))
+[Arcane Strength](https://www.dandwiki.com/wiki/Arcane_Strength_(5e_Spell))
+[Arcane Tether](https://www.dandwiki.com/wiki/Arcane_Tether_(5e_Spell))
+[Aspect of the Hunter](https://www.dandwiki.com/wiki/Aspect_of_the_Hunter_(5e_Spell))
+[Call Bird](https://www.dandwiki.com/wiki/Call_Bird_(5e_Spell))
+[Clear Thought](https://www.dandwiki.com/wiki/Clear_Thought_(5e_Spell))
+[Coin Bag](https://www.dandwiki.com/wiki/Coin_Bag_(5e_Spell))
 # 2nd Level
 
 # 3rd Level
