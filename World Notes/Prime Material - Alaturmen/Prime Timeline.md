@@ -11,15 +11,13 @@ date: 000AF
 title: The Fall
 content: 
 
-[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. 
+[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. They have known this land in the time before its becoming.
 
 Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
 
-date: 001AF
-title: Enginuity
-content:
+Each of these new people brought something with them, some knowledge, technique, concept, culture. 
 
-
+Quickly, people began to respect the Weave. There were those that used it selfishly, and they were called evil, and those that used it for the benifit of others, and they were called good.
 
 
 date: 013AF
