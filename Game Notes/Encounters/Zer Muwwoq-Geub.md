@@ -27,10 +27,10 @@ traits:
 actions:
 	- [Multiattack, As an action, the Kegeur takes two spear attacks.]
     - [Spear, Melee weapon attack: reach 10ft, +5 to hit, 3d6+3 peircing damage]
-	- [Sling, Ranged weapon attack: 40/160ft, +5 to hit, 2d4+2 bludgoning damage]
+	- [Sling, Ranged weapon attack: 40/160ft, +5 to hit, 3d4+2 bludgoning damage]
 ```
 
-## Muwwoq-Geub
+## Muwwoq-Geub (city guard)
 ```statblock
 name: Muwwoq-Geub
 size: medium
@@ -46,11 +46,10 @@ senses: darkvision 60ft
 languages: Undercommon, Dwarven
 cr: 5
 traits:
-    - [Sheild Bound, When adjacent to an enemy of size medium or smaller and two allies with this action, as an action, the Geub makes a contested Strength (Athletics) attack with advantage. On a success, all three allies with this trait drop their sheilds and the enemy is restrained]
+    - [Pack Tactics, When within 5 feet of an ally, this creature gains advantage on its attacks.]
 actions:
-    - [string, string]
-legendary_actions:
-    - [string, string]
-reactions:
-    - [string, string]
+    - [Multiattack, As an action, the Geub makes two Spear attacks.]
+	- [Sheild Bound, When adjacent to an enemy of size medium or smaller and two allies with this action, as an action, the Geub makes a contested Strength (Athletics) attack with advantage. On a success, all three allies with this trait drop their sheilds and the enemy is restrained.]
+	- [Spear, Melee weapon attack: reach 10ft +7 to hit, 7d6+5 peircing damage.]
+	- [Crossbow, Ranged weapon attack: 60/180ft, +5 to hit, 4d8+3 peircing damage.]
 ```
