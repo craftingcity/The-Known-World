@@ -114,18 +114,18 @@
             }
           },
           {
-            "id": "036d19c43b0e3aef",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
             "id": "4b69f4d2b8442e48",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2d6a8514c94d66b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
               "state": {}
             }
           }

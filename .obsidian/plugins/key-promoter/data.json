@@ -83,7 +83,7 @@
   "keyboardStatistics": {
     "insert-template": 32,
     "switcher:open": 30,
-    "editor:open-search": 2,
+    "editor:open-search": 3,
     "global-search:open": 3,
     "workspace:close": 52,
     "app:go-back": 14,
