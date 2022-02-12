@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "626c6d3c6c5b9f08",
-        "type": "split",
-        "children": [
-          {
-            "id": "62e1016af826844d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "960d10b35867ebcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-                "mode": "preview"
-              }
-            }
+        "id": "62e1016af826844d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "bf7f110ba17ec708",
@@ -60,13 +42,13 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.647851377018044,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 1.7947275005914858,
+                  "close": true
                 }
               }
             }
@@ -221,17 +203,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "960d10b35867ebcb",
+  "active": "62e1016af826844d",
   "lastOpenFiles": [
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
+    "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Alextreas.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Untitled.md",
     "Qiell Tilemundon.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
     "Game Notes/NPCs/Prime/Historical Figures/Authors, Bards, and Lorekeepers/Paulo San Tymiq.md",
-    "Four Stone.md",
-    "Baron J'Tail.md"
+    "Four Stone.md"
   ]
 }
