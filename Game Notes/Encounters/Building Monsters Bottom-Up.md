@@ -28,17 +28,17 @@ Note that your attack stat, if it adds to damage, must be paid for in the damage
 Now you spend your **MBP**s:  
   
 **Things to buy:**  
-8 HP for each 1 **MBP**  
-+/- 1 AC for +/- 1 **MBP** (can even sell AC! But don't go crazy.)  
-+3 standard attack routine damage for 1 **MBP**  
-+3 legendary action/off turn/bonus attack damage for 1 **MBP** (total damage; 3 legendary actions doing 10 each is 30/3 = 10 MBP)  
-+2 primary attack/save DC attribute (a +1 attribute modifier) for 1 **MBP** (or -2 to get 1 back). (if you have more than one, average them. If one is used way more than the other, ignore the other one).  
-9 points of single-use damage for 1 **MBP**. If this replaces your standard attack attack routine, only pay for the damage difference.  
-A save proficiency is 1 **MBP**.  
-Legendary resists cost 2 **MBP** for the first, then 1 for each one afterwards (up to 3).  
-Significant resistances/immunities doubles the cost of buying HP (or more or less)  
-Significant vulnerabilities halves HP cost  
-Flying at or under 9 CR is worth 2 **MBP**  
+- 8 HP for each 1 **MBP**  
+- +/- 1 AC for +/- 1 **MBP** (can even sell AC! But don't go crazy.)  
+- +3 standard attack routine damage for 1 **MBP**  
+- +3 legendary action/off turn/bonus attack damage for 1 **MBP** (total damage; 3 legendary actions doing 10 each is 30/3 = 10 MBP)  
+- +2 primary attack/save DC attribute (a +1 attribute modifier) for 1 **MBP** (or -2 to get 1 back). (if you have more than one, average them. If one is used way more than the other, ignore the other one).  
+- 9 points of single-use damage for 1 **MBP**. If this replaces your standard attack attack routine, only pay for the damage difference.  
+- A save proficiency is 1 **MBP**.  
+- Legendary resists cost 2 **MBP** for the first, then 1 for each one afterwards (up to 3).  
+- Significant resistances/immunities doubles the cost of buying HP (or more or less)  
+- Significant vulnerabilities halves HP cost  
+- Flying at or under 9 CR is worth 2 **MBP**  
   
 Attacks that are area effects (1/2 damage on save) should be assumed to hit more than 1 target; multiply their effective damage before calculating their cost.  
   
