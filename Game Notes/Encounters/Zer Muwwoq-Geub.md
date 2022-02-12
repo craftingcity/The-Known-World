@@ -19,7 +19,7 @@ hp: 48
 hit_dice: 7d6+24
 speed: 25ft
 stats: [16, 15, 13, 9, 9, 10]
-senses: string
+senses: darkvision 60ft
 languages: Undercommon, Dwarvern
 cr: 2
 traits:
@@ -37,27 +37,16 @@ size: medium
 type: humanoid
 subtype: duergar
 alignment: ne
-ac: number
-hp: number
+ac: 19
+hp: 64
 hit_dice: string
-speed: string
-stats: [number, number, number, number, number, number]
-saves:
-    - str: 3
-skillsaves:
-    - string: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+speed: 25
+stats: [20, 15, 15, 12, 10, 10]
+senses: darkvision 60ft
+languages: Undercommon, Dwarven
 cr: 5
-spells:
-    - <description>
-    - <spell level>: <spell-list>
 traits:
-    - [string, string]
+    - [Sheild Bound, When adjacent to an enemy of size medium or smaller and two allies with this action, as an action, the Geub makes a contested Strength (Athletics) attack with advantage. On a success, all three allies with this trait drop their sheilds and the enemy is restrained]
 actions:
     - [string, string]
 legendary_actions:
