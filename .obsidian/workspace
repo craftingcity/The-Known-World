@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
               }
             }
           },
@@ -153,6 +152,7 @@
   },
   "active": "e6a3014a4fb935d3",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
     "Game Notes/Encounters/Zer Muwwoq-Geub.md",
     "Game Notes/Encounters/Building Monsters Bottom-Up.md",
@@ -161,7 +161,6 @@
     "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
     "Game Notes/Encounters/Planeswalking toward Fire.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-    "TEMPLATES/Encounter.md",
-    "Game Notes/Encounters/Encounter.md"
+    "TEMPLATES/Encounter.md"
   ]
 }
