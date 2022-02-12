@@ -13,39 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "afac4270174c3eb6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c8543e28ae7ba212",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Encounters/Warspider.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3824a6efed0a2296",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Encounters/Building Monsters Bottom-Up.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -172,9 +140,9 @@
   "active": "d7e212ebfdd10584",
   "lastOpenFiles": [
     "Game Notes/Encounters/Zer Muwwoq-Geub.md",
-    "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
-    "Game Notes/Encounters/Warspider.md",
     "Game Notes/Encounters/Building Monsters Bottom-Up.md",
+    "Game Notes/Encounters/Warspider.md",
+    "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Yuurmin.md",
     "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
     "Game Notes/Encounters/Planeswalking toward Fire.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
