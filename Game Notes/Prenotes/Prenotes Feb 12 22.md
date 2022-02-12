@@ -51,5 +51,5 @@ pp:
 
 Amashod - 19
 Varis - 16
-Grod - 
-Kursk - 
+Grod - 16
+Kursk - 15
