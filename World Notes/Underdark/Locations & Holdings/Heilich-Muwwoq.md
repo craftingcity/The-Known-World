@@ -39,9 +39,11 @@ The long streets are cobbled in light stone and lined with tall iron lanterns of
 Nearly all of the unchained population of Heilich is Duergar, with the exception of a few bands of mercenaries or traders who have proven themselves worthy allies to the town.
 
 ## Defenses
-The Da'Furik and Da'Heggun families each hire guard to the local Muwwoq-Gueb (Muwwoq-Protectors). 
+Heilich-Muwwoq is a town guarded by both militia and standing guards. 
 
-Their symbol is a crest split in two with iconography of a pickaxe and a chain.
+The Da'Furik and Da'Heggun families each hire guard to the local Muwwoq-Gueb (Muwwoq-Protectors). The militia is well trained, as the Muwwoq-Geub regularly holds paid training that comes recommended from all in town.
+
+The Muwwoq-Geub symbol is a blue and black sheild crest split in two by a chain, with iconography of a pickaxe and an array of swords on opposing sides.
 
 ## Notable Locations
 

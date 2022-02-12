@@ -4,12 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d97cdf6ddefdc1a6",
+        "id": "d7e212ebfdd10584",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
+            "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5c388ba3eda8fa04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Encounters/Warspider.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3824a6efed0a2296",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
             "mode": "source"
           }
         }
@@ -68,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
+                "file": "Game Notes/Encounters/Warspider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
+                "file": "Game Notes/Encounters/Warspider.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md"
+                "file": "Game Notes/Encounters/Warspider.md"
               }
             }
           },
@@ -136,17 +158,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "d97cdf6ddefdc1a6",
+  "active": "5c388ba3eda8fa04",
   "lastOpenFiles": [
+    "Game Notes/Encounters/Warspider.md",
+    "Game Notes/Encounters/Zer Muwwoq-Geub.md",
+    "Game Notes/Encounters/Fire Giant War Band.md",
+    "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
     "Game Notes/NPCs/Prime/Kingdom of Prosper/Fraznky Bradley.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Yyu Clipwin.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Srioh.md",
     "Game Notes/NPCs/List of Names.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md",
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md"
   ]
 }
