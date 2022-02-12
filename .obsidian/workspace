@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+            "file": "Game Notes/Encounters/Building Monsters Bottom-Up.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md",
+                "file": "Game Notes/Encounters/Building Monsters Bottom-Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md",
+                "file": "Game Notes/Encounters/Building Monsters Bottom-Up.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md"
+                "file": "Game Notes/Encounters/Building Monsters Bottom-Up.md"
               }
             }
           },
@@ -147,17 +147,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "d7e212ebfdd10584",
+  "active": "3824a6efed0a2296",
   "lastOpenFiles": [
-    "Game Notes/Encounters/Zer Muwwoq-Geub.md",
+    "Game Notes/Encounters/Building Monsters Bottom-Up.md",
+    "Game Notes/Encounters/Warspider.md",
+    "Game Notes/Encounters/Planeswalking toward Fire.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+    "Game Notes/Encounters/Zer Muwwoq-Geub.md",
     "TEMPLATES/Encounter.md",
     "Game Notes/Encounters/Encounter.md",
-    "Game Notes/Encounters/Warspider.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
     "Game Notes/NPCs/Prime/Kingdom of Prosper/Fraznky Bradley.md",
-    "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Yyu Clipwin.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Srioh.md",
-    "Game Notes/NPCs/List of Names.md"
+    "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Yyu Clipwin.md"
   ]
 }
