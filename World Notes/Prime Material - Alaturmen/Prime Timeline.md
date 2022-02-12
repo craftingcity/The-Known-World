@@ -17,7 +17,7 @@ Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from ston
 
 Each of these new people brought something with them, some knowledge, technique, concept, culture. 
 
-Quickly, people began to respect those that could manipulate the Weave. There were [|those] that used it selfishly, and they were called evil, and [The Wizard in Blue|those] that used it for the benifit of others, and they were called good.
+Quickly, cultures began to respect or fear those that could manipulate the Weave. There were [|those] that used it selfishly, and they were called evil, and [The Wizard in Blue|those] that used it for the benifit of others, and they were called good.
 
 
 date: 013AF

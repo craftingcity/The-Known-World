@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a5efe5eb1c9b9e86",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md"
+                "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
               }
             }
           },
@@ -161,10 +150,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "a5efe5eb1c9b9e86",
+  "active": "e6a3014a4fb935d3",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
     "Game Notes/Encounters/Zer Muwwoq-Geub.md",
     "Game Notes/Encounters/Building Monsters Bottom-Up.md",
