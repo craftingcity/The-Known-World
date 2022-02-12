@@ -56,13 +56,13 @@ date: 073AF
 title: Nations Born
 content:
 
-Nations are clear now. The [[50 Year Fires]] have ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. The [[The Democratic Combine of Peoples]] is ratified, and its internal power struggle (see [[Combine's Great Wars]]) begins. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
+Nations are clear now. The [[50 Year Fires]] have ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
 
 date: 078AF
-title: The Coalition is Formed
+title: The Coalition and the Democratic Combine of Peoples is Formed
 content:
 
-[[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps inumaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
+[[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
 
 date: 084AF
 title: [[Three Nation Highways]]

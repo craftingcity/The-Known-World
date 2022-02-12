@@ -23,7 +23,7 @@
     "outgoing-links:open": 2,
     "outgoing-links:open-for-current": 2,
     "editor:rename-heading": 10,
-    "graph:open-local": 2,
+    "graph:open-local": 3,
     "editor:focus-left": 1,
     "editor:focus-right": 1,
     "workspace:split-horizontal": 1,
@@ -81,8 +81,8 @@
     "file-recovery:open": 1
   },
   "keyboardStatistics": {
-    "insert-template": 32,
-    "switcher:open": 33,
+    "insert-template": 33,
+    "switcher:open": 34,
     "editor:open-search": 3,
     "global-search:open": 3,
     "workspace:close": 58,

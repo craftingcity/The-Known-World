@@ -12,9 +12,9 @@ An old bard, and one who was known to tell no embellishes or lies. Since his dea
 
 
 ## History
-Born into Alaturmen as a second-generation human and grew to appreciate the importance of story and history by the time he came of age. After some time pursuing this career to mild success, Paulo wrote and orated [[The Ballad of Grey Ordeal]], and his largely reportive story was known in all Alaturmen.
+Born into Alaturmen on the 14th of First Melt  as a second-generation human and grew to appreciate the importance of story and history by the time he came of age. After some time pursuing this career to mild success, Paulo wrote and orated [[The Ballad of Grey Ordeal]], and his largely reportive story was known in all Alaturmen.
 
-He wrote many more influental peices during his time
+He wrote many more influental peices during his time as a bard. While some tales say that Paulo was slain in a glorious battle, the rumors are not true. He settled down in [[Four Stone]], and died peacefully around friends in 098AF at 
 ## Location
 
 
