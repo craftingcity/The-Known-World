@@ -15,17 +15,6 @@
         }
       },
       {
-        "id": "5c388ba3eda8fa04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Encounters/Warspider.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "3824a6efed0a2296",
         "type": "leaf",
         "state": {
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Encounters/Warspider.md",
+                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Encounters/Warspider.md",
+                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Encounters/Warspider.md"
+                "file": "Game Notes/Encounters/Zer Muwwoq-Geub.md"
               }
             }
           },
@@ -158,17 +147,17 @@
     "width": 1037.5,
     "collapsed": true
   },
-  "active": "5c388ba3eda8fa04",
+  "active": "d7e212ebfdd10584",
   "lastOpenFiles": [
-    "Game Notes/Encounters/Warspider.md",
     "Game Notes/Encounters/Zer Muwwoq-Geub.md",
-    "Game Notes/Encounters/Fire Giant War Band.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
+    "TEMPLATES/Encounter.md",
+    "Game Notes/Encounters/Encounter.md",
+    "Game Notes/Encounters/Warspider.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Filip Grundle.md",
     "Game Notes/NPCs/Prime/Kingdom of Prosper/Fraznky Bradley.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Adventurers/Yyu Clipwin.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Srioh.md",
-    "Game Notes/NPCs/List of Names.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holy'lnds.md"
+    "Game Notes/NPCs/List of Names.md"
   ]
 }
