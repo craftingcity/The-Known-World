@@ -24,7 +24,7 @@ Vetericus  | Anouk
 Uraias  | Emelia
 Fridigern  | Amalda
 Ammius  | Malasintha
-Totila  | Gudeliva
+Totila  | 
 Eraric  | Elja
 Theodemer | Narin  
 Inna  | Amala

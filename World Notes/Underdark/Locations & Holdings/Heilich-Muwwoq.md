@@ -67,6 +67,7 @@ Heggun Quikoua Fratee (Heggun Weapons Great)
 Quirik Remp Caurquin (Spiny Ass Lodging)
 - a no questions asked no records kept style of inn that became very popular as the nobles hired more outsiders
 - owned by a drow, [[Alextreas]]
+	- [[Gudeliva]] is the go to guide
 
 Yuiz-Zuiv Juiq-Tanhg (Lavender-Smell Dance-Party)
 - a club that specializes in lavender-smelling smoke bars and a stocked population of working slaves
