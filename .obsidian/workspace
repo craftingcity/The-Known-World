@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+            "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md"
+                "file": "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "563ef1ae8886ed23",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
     "Game Notes/NPCs/List of Names.md",
@@ -224,7 +225,6 @@
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Alextreas.md",
     "Untitled.md",
-    "Qiell Tilemundon.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md"
+    "Qiell Tilemundon.md"
   ]
 }
