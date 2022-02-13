@@ -11,7 +11,7 @@ A description of their function in the world.
 A politic of theirs that players would interact with.
 
 ## History
-Drow Guide 
+Drow Guide - bladelock
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.

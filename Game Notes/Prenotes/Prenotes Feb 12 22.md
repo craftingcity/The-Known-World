@@ -59,4 +59,6 @@ A pile of goo and body parts fell from the top of the cavern.
 
 As they entered the town, [[Varis]] gave his name in an attempt to buy information for fake drugs.
 
-[[]]
+After spending some time in town, they hired [[Gudeliva]] to guide them to the Vault City [[Ungaethram]].
+
+They end the session after consuming rations going to sleep - need to do watches.
