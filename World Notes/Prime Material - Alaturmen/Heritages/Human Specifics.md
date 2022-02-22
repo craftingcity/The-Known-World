@@ -10,8 +10,9 @@ Given the ingenuity and spirituality of humans, and a great deal of learning fro
 During the time of [[The Assault of the Giant Decenters]], there have been five generations;
 
 date | generation | age
---- | ---
-~00 AF | zero | dead, ~103
-~25 AF | one | dead, ~78
-~50 AF | two | on the way out, ~53
-~75 AF | three | , ~28
+--- | --- | ---
+00 AF | zero | dead, 103
+~25 AF | one | dead, 68~88
+~50 AF | two | most dead, 43~63
+~75 AF | three | adult, 18~38
+~100 AF | four | child 3~13

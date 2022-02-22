@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de5f194017edb6bf",
-        "type": "split",
-        "children": [
-          {
-            "id": "41456f45bdcc3aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nicolas Talaveem.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ced376d96567d934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
-                "mode": "source"
-              }
-            }
+        "id": "41456f45bdcc3aad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nicolas Talaveem.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+                "file": "Nicolas Talaveem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+                "file": "Nicolas Talaveem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md"
+                "file": "Nicolas Talaveem.md"
               }
             }
           },
@@ -168,10 +150,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "ced376d96567d934",
+  "active": "41456f45bdcc3aad",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
     "Nicolas Talaveem.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
     "Sometimes, you need villans..md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/NPCs/List of Names.md",
