@@ -34,7 +34,7 @@
 - [[Zalfari]]
 - [[Amyl Dother]]
 
-[[Grumbling Hills]] is controlled by [[Baron Cassindil]] and [[Y'alneas]], they control five major settlements.
+[[Grumbling Hills]] is controlled by [[Baron Yassir Cassindil]] and [[Y'alneas]], they control five major settlements.
 - [[Crullfeld]]
 - [[Darnt Hillkeep]]
 - [[Penshaw]]

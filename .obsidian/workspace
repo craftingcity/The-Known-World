@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Baron Cassindil.md",
+            "file": "Baron Yassir Cassindil.md",
             "mode": "source"
           }
         }
@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
-            "mode": "source"
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+            "mode": "preview"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baron Cassindil.md",
+                "file": "Baron Yassir Cassindil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baron Cassindil.md",
+                "file": "Baron Yassir Cassindil.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baron Cassindil.md"
+                "file": "Baron Yassir Cassindil.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "8d5cad4ebdac0454",
   "lastOpenFiles": [
-    "Baron Cassindil.md",
+    "Baron Yassir Cassindil.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
     "Nicolas Talaveem.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
     "Sometimes, you need villans..md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
