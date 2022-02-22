@@ -4,12 +4,12 @@ aliases:
 ---
 # Nicolas Talaveem
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A man of worn face and dark eyes. Perhaps his body is some fourty years, but his [[Marked By the Fire|soul bears a dark ancient mark]].
 
-A first-generation human. Nicolas was orphaned by the [[50 Year Fires]]. He was adopted by a family of elves that collected orphaned sur
+A first-generation human. Nicolas was orphaned by the [[50 Year Fires]]. He was adopted by [[Baron Cassindil|a family of elves]] that collected orphaned survivors of their [[The Old|psuedo-ancestral home]].
 
 ## History
-A general history of the character, from their conception to their current state
+As a child, Nicolas witnessed a horrible holy act, the [[50 Year Fires]]. He was [[Marked By the Fire]]. His 
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
