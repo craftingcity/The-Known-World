@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "41456f45bdcc3aad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+        "id": "de5f194017edb6bf",
+        "type": "split",
+        "children": [
+          {
+            "id": "41456f45bdcc3aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nicolas Talaveem.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ced376d96567d934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md"
               }
             }
           },
@@ -150,9 +168,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "41456f45bdcc3aad",
+  "active": "ced376d96567d934",
   "lastOpenFiles": [
-    "Untitled.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+    "Nicolas Talaveem.md",
     "Sometimes, you need villans..md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Game Notes/NPCs/List of Names.md",
@@ -160,7 +179,6 @@
     "Game Notes/NPCs/Underdark/Heilich-Muwwoq/Taerich Da'Furik.md",
     "Gudeliva.md",
     "World Notes/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
-    "World Notes/Underdark/Tables/Underdark Travel Table.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
   ]
 }
