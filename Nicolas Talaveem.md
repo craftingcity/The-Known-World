@@ -17,12 +17,13 @@ As Nicolas began to reach adulthood, he was at the top of the wand-weaving game.
 
 Nicolas used the principles he used in wand-weaving to being to craft his own magics, creating personal spells and wards. He has been seeking the greatest boon - eternal life.
 
-> Perhaps some alteration of the Magic Jar concept. I would need 
+> Perhaps some alteration of the Magic Jar concept. I would need someone's assistance in transportation. That may only be a temporary solution.
 
-In the time around [[The Assault of the Giant Decenters]], Nicolas is about seventy, and has the magical power of a 14th level spellcaster.
+
 
 ## Location
-Nicolas has a home in the hamlet near [[Aeberu]]
+Nicolas has a home in the hamlet near [[Aeberu]].
+Nicolas keeps a lair; [[Darktower]]
 
 ## Statistics
-Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
+In the time around [[The Assault of the Giant Decenters]], Nicolas is about seventy, and has the magical power of a 14th level spellcaster.
