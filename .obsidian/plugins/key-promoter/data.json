@@ -81,13 +81,13 @@
     "file-recovery:open": 1
   },
   "keyboardStatistics": {
-    "insert-template": 36,
-    "switcher:open": 45,
+    "insert-template": 37,
+    "switcher:open": 46,
     "editor:open-search": 3,
     "global-search:open": 3,
-    "workspace:close": 64,
+    "workspace:close": 69,
     "app:go-back": 18,
-    "file-explorer:new-file": 7,
+    "file-explorer:new-file": 8,
     "editor:open-link-in-new-leaf": 1,
     "editor:save-file": 1
   }
