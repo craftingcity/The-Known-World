@@ -13,28 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "8d5cad4ebdac0454",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Baron Yassir Cassindil.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "143b0dcd465ee82b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baron Yassir Cassindil.md",
+                "file": "Nicolas Talaveem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baron Yassir Cassindil.md",
+                "file": "Nicolas Talaveem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baron Yassir Cassindil.md"
+                "file": "Nicolas Talaveem.md"
               }
             }
           },
@@ -172,13 +150,13 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "8d5cad4ebdac0454",
+  "active": "41456f45bdcc3aad",
   "lastOpenFiles": [
-    "Baron Yassir Cassindil.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
     "Nicolas Talaveem.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "Baron Yassir Cassindil.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
     "Sometimes, you need villans..md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
