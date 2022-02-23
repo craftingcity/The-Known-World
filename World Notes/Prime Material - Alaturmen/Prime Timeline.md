@@ -25,11 +25,11 @@ title: [[Arthur Simonson]] raises his sword
 content:
 The adventurer king makes his first moves against evil. He will soon find [[On Peoples Involved with Arthur Simonson#Adventuring War Associates|good allies]].
 
-date: 025AF
+date: 023AF
 title: The [[50 Year White Burning]] begins.
 content:
 
-Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the current worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years. It's veiw omits some key features of this period, such as...
+Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]].
 
 date: 028AF
 title: Minyostalma Falls

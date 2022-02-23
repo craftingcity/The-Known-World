@@ -11,6 +11,8 @@ The area now known as [[The Holy'lnds]] was once a part of the [[Great Northern 
 
 Minyostalma was surrounded by this forest, and the cities keepers made deals with the families who lived nearby. And for Many years, it thrived. It protected others. It was a beacon for all who wished for peaceful protection. 
 
-On the [[Prime Timeline|25th year After Tetrimoc's Fall]], [[Its Greatness]] decended upon [[The Holy'lnds]]. Three years later, Minyostalma fell.
+On the [[Prime Timeline|25th year After Tetrimoc's Fall]], [[Its Greatness]] descended upon [[The Holy'lnds]]. Three years later, Minyostalma fell.
 
-Soon after, the area was inhospitable. The fires became too great. Kind alike were immolated. Few were spared, the young childs - too young to survive on their own - those that can say truly that they were there.
+Soon after, the area was inhospitable. The fires became too great. Kind alike were immolated. The young childes - too young to survive on their own - are many of those few that can say truly that they were there.
+
+[[Its Greatness|The Great White Flame]] burned for 
