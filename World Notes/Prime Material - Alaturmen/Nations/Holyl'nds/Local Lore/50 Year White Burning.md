@@ -15,4 +15,4 @@ On the [[Prime Timeline|25th year After Tetrimoc's Fall]], [[Its Greatness]] des
 
 Soon after, the area was inhospitable. The fires became too great. Kind alike were immolated. The young childes - too young to survive on their own - are many of those few that can say truly that they were there.
 
-[[Its Greatness|The Great White Flame]] burned for 
+[[Its Greatness|The Great White Flame]] burned for twenty years before it halted. It held against the [[Deakred Range]], almost reaching [[Mountain Hall]], and a line in the [[Great Northern Forests]] against the [[Northeastern Hobgoblin Territories]].
