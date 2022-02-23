@@ -26,7 +26,7 @@ content:
 The adventurer king makes his first moves against evil. He will soon find [[On Peoples Involved with Arthur Simonson#Adventuring War Associates|good allies]].
 
 date: 025AF
-title: A long Wait
+title: The [[50 Year White Burning]] begins.
 content:
 
 Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]]. Little happens in the current worldwide lens until the nations are fully formed. See [[Tetrimoc's Journal]] for a firsthand veiw of these long waiting years. It's veiw omits some key features of this period, such as...
@@ -56,7 +56,7 @@ date: 073AF
 title: Nations Born
 content:
 
-Nations are clear now. The [[50 Year Fires]] have ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
+Nations are clear now. The [[50 Year White Burning]] has ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
 
 date: 078AF
 title: The Coalition and the Democratic Combine of Peoples is Formed
