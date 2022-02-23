@@ -5,4 +5,10 @@ aliases:
 
 The 50 Year White Burning was a devastating event in the history of Alaturmen. 
 
-When the elves first came to Alaturmen, they built a city.
+When the elves first came to Alaturmen, they built a city. [[The Old|Minyostalma]]. It was the largest settlement that side of the mountains.
+
+The area now known as [[The Holy'lnds]] was once a part of the [[Great Northern Forests]] that spanned the upper half of [[Central Alaturmen]].
+
+Minyostalma was surrounded by this forest, and the cities keepers made deals with the families who lived nearby. And for Many years, it thrived. It protected others. It was a beacon for all who wished for peaceful protection. 
+
+On the [[Prime Timeline]]
