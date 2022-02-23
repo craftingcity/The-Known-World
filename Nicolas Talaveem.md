@@ -3,10 +3,12 @@ tags: npc
 aliases:
 ---
 # Nicolas Talaveem
+## Keeper of Darktower
+#### he/him/his
 
-> A man of worn face and dark eyes. Perhaps his body is some 70 years, but his [[Marked By the Fire|soul bears a dark ancient mark]]. He wears a gray cloak. He holds a dark crooked wood
+> A man of worn face and dark eyes. Perhaps his body is some 70 years, but his [[Marked By the Fire|soul bears a dark ancient mark]]. He wears a gray cloak around his thin form. He holds a crooked staff of dark wood. It bears a crack that emits a dull arcane light.
 
-A first-generation human. Nicolas was orphaned by the [[50 Year Fires]]. He was adopted by [[Baron Yassir Cassindil|a family of elves]] that collected orphaned survivors of their [[The Old|psuedo-ancestral home]].
+Nicolas is a first-generation human.  was orphaned by the [[50 Year Fires]]. He was adopted by [[Baron Yassir Cassindil|a family of elves]] that collected orphaned survivors of their [[The Old|psuedo-ancestral home]].
 
 ## History
 As a child, Nicolas witnessed a horrible holy act, the [[50 Year Fires]]. He was [[Marked By the Fire]]. His adoptive family, the [[Baron Yassir Cassindil|Cassindils]], took him to their lands in the [[Grumbling Hills]] where he grew up in a small hamlet near [[Aeberu]].
