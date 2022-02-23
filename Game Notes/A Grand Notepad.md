@@ -20,4 +20,4 @@ Should be easy enough. I'll use paint.
 
 # PROJECT ELVES
 
-Make elves cool and old-tolkein-esq; good crafters and enchanters - similar with dwarves; next to do - but they got hit hard eary with [[The Old|Minyostalma]] and the [[50 Year Fires]]
+Make elves cool and old-tolkein-esq; good crafters and enchanters - similar with dwarves; next to do - but they got hit hard eary with [[The Old|Minyostalma]] and the [[50 Year White Burning]]

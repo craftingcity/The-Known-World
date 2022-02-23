@@ -27,7 +27,7 @@ I seek knowledge and wealth. I will fly for some time, and return here when I am
 I return to you. My flight was fruitful. I know the lay of the lands. I have chosen this to make my home.
 
 #### Year 31
-The creatures gather around my cave in grand numbers. They call themselves "people". Some speak of [[50 Year Fires|a great fire]]. They ask me for protection. They more often protect themselves, but I agree to this contract. A small boon from each of these ones. Tasty.
+The creatures gather around my cave in grand numbers. They call themselves "people". Some speak of [[50 Year White Burning|a great fire]]. They ask me for protection. They more often protect themselves, but I agree to this contract. A small boon from each of these ones. Tasty.
 
 #### Year 50
 My peoples are crafting a grand settlement around my lair. They worship me as a god. They should, I am as close as many of them will get. The cut I sustained during my fall was upon the mountain of [[Kailkeep]]. The Kobolds there do not listen to me, I waited too long to claim them as my own. They have harbored many evils since my reawakening. I will keep them stagnant, until my flock is ready to handle themselves. 
