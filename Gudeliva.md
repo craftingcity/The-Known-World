@@ -32,6 +32,7 @@ Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow 
 	- Where are we headed?
 		- Why?
 		- Would you perfer speed, safetly, or the medium of the two extremes (neither of which can be guaranteed).
+			- Explain routing; dangers, perils, vertical movement, common threats, etc
 
 ## History
 Born and raised in [[Ungaethram]], vehemently disagreed with the gender power structure of their home.

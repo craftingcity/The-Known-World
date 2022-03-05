@@ -21,7 +21,7 @@ Northeast still, a large vault contains the Drow city of [[Ungaethram]].
 
 To their east, a dragon hunts.
 
-South-south-east, a dwarven settlement in Deepburrow. They are of the Hill Dwarven Kingdom Actstow to the far north of [[Coalition City]].
+South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Actstow]] to the far north of [[Coalition City]].
 
 Far to its south, [[Mulutumi]] is a fungal city, home to all in the underdark. This is where [[The Whitimore Files|The Whitimore]] fled to after being exiled from [[Ungaethram]].
 

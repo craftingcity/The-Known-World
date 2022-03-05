@@ -20,4 +20,13 @@ We are in the heart city of a large lush cavern, it will take four travel days t
 
 3d20 keep highest
 safe = +5
-quick = -
+mid = +/- 0
+quick = -5
+
+roll on the [[Underdark Travel Table]] as normal
+
+Quickest path goes past Dragon Lair and through Ootool.
+
+Safest path goes down to the end of the Duergar territories and then past the grazing fields and then toward [[Ungaethram]].
+
+Middle needs to avoid Dragon Lair, 

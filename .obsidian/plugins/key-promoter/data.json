@@ -83,10 +83,10 @@
     "workspace:split-vertical": 1
   },
   "keyboardStatistics": {
-    "insert-template": 39,
-    "switcher:open": 55,
+    "insert-template": 42,
+    "switcher:open": 56,
     "editor:open-search": 4,
-    "global-search:open": 3,
+    "global-search:open": 4,
     "workspace:close": 76,
     "app:go-back": 20,
     "file-explorer:new-file": 8,

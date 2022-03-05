@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Feb 12 22.md",
+            "file": "Dwarven Kingdom Actstow.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#relational_map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+                "file": "Dwarven Kingdom Actstow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+                "file": "Dwarven Kingdom Actstow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md"
+                "file": "Dwarven Kingdom Actstow.md"
               }
             }
           },
@@ -172,8 +173,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "720ad9329ea5b0aa",
+  "active": "6ca734fba2bc22f6",
   "lastOpenFiles": [
+    "Dwarven Kingdom Actstow.md",
+    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
     "Gudeliva.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
@@ -181,8 +184,6 @@
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "Nicolas Talaveem.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
-    "Baron Yassir Cassindil.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md"
+    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md"
   ]
 }
