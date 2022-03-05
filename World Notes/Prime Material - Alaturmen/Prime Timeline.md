@@ -94,10 +94,6 @@ title: The Great Retirement
 content:
 
 [[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands, and this age ends. [[Tetrimoc]] no longer is a visible leader of his flock (as such his journal is widely distributed by scribes), and the [[Golden Claws]] become the driving political power of [[The Lands of Tetrimoc]].
-```
-
-## The Second Age / The Age of Wonder
-```timeline-labeled
 
 date: 103AF
 title: [[The Assault of the Giant Decenters]]
