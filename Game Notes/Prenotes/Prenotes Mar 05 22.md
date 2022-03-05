@@ -4,12 +4,12 @@ aliases:
 ---
 
 # Prenotes for March 5th
-- [ ] DM Screen
-- [ ] Notepaper
+- [x] DM Screen
+- [x] Notepaper
 - [ ] Prep
 	- [ ] maps?
 	- [ ] encounters / monsters?
-	- [ ] intro / recap?
+	- [x] intro / recap?
 
 After a quick stop in the [[Heilich-Muwwoq|duergar city]], the party hired the drow guide [[Gudeliva]] to take them to [[Ungaethram]]. The party is camped a few hundred yards away from the glowing city and banging machinery. 
 
@@ -29,4 +29,4 @@ Quickest path goes past Dragon Lair and through Ootool.
 
 Safest path goes down to the end of the Duergar territories, through [[Deepburrow]] and then past the grazing fields and then toward [[Ungaethram]].
 
-Middle needs to avoid Dragon Lair, 
+# During Play
