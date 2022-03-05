@@ -15,7 +15,7 @@ As a child, Nicolas witnessed a horrible holy act, the [[50 Year White Burning]]
 
 Under the sponsorship and watch of the Cassindil family, Nicolas began to learn the sport of wand-weaving and quickly became a formidable opponent. 
 
-As Nicolas began to reach adulthood, he was at the top of the wand-weaving game. He felt that no opponent could match him. He used his connections to the Cassindil family to begin to collect a personal collection of arcane texts of various sources.
+As Nicolas began to reach adulthood, he was at the top of the wand-weaving game. He felt that no opponent could match him. He used his connections to the Cassindil family to begin to collect a personal collection of arcane texts of various sources. He was soon approached by [[The Wizard In Blue]], and was convinced to join the [[Guild of Wizards]]. Nicolas hides as much of his knowledge from his peers as he can.
 
 Nicolas used the principles he used in wand-weaving to being to craft his own magics, creating personal spells and wards. He has been seeking the greatest boon - eternal life.
 

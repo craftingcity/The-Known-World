@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "555e0022026fd098",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "b1bce317a3770957",
         "type": "split",
         "children": [
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,8 +191,9 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "1063f490c5cd55d9",
+  "active": "555e0022026fd098",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Gudeliva.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
@@ -190,7 +202,6 @@
     "Dwarven Kingdom Actstow.md",
     "Actstow Hills.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year White Burning.md"
   ]
 }
