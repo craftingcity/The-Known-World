@@ -27,6 +27,7 @@ Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow 
 		- Touchy Subjects?
 	- How will we be eating?	
 		- I can hunt, but food is hard to come by usually
+		- Pathing may lead us through some settlements
 	- How will we be traveling?
 		- I can walk, and I have gear to navigate vertically
 	- Where are we headed?

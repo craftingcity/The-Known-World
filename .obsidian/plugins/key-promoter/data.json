@@ -87,8 +87,8 @@
     "switcher:open": 58,
     "editor:open-search": 4,
     "global-search:open": 4,
-    "workspace:close": 76,
-    "app:go-back": 26,
+    "workspace:close": 78,
+    "app:go-back": 32,
     "file-explorer:new-file": 8,
     "editor:open-link-in-new-leaf": 1,
     "editor:save-file": 1

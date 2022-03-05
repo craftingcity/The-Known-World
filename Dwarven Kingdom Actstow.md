@@ -4,28 +4,27 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity:
+Prosperity: Rich
 Population:
 Defenses:
 Other Tags:
 
 # Description
 
-The Dwarven Kingdom to the north of [[Coalition City]] in the [[Actstow Hills]].
-
-Actstow is a thin but deep dwarven kingdom, its founders dug so deep that they 
+The Dwarven Kingdom to the north of [[Coalition City]] in the [[Actstow Hills]]. Actstow is a thin but deep dwarven kingdom. They are rich in metal and gems.
 
 Actstow has a strong trade and defense relationship with [[The Kingdom of Prosper]].
 
 Actstow has a mild trade relationship and a honored peace with [[The Church of the White Flame]].
 
+Actstow has a strong trade and defense relationship with [[Deepburrow]], and has a tactical incentive for its survival and defense.
+
 ## Physicality of the Holding
 
 ## Population Distribution
-Nearly all hill dwarves
+Nearly all hill dwarves.
 
 ## Defenses
 
 ## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
-
+Actstow is so deep that it harbors one of the few stable entrances to the underdark.
