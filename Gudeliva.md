@@ -44,6 +44,14 @@ They came of age and began to wander the Lolth-Drow and Duergar territories, and
 Work all around the Underdark.
 
 ## Statistics
-They are a CR 9 Bladelock, +7 to hit, 2d10 on hit, 
+They are a CR ? Bladelock; 
+
++7 to hit, 2d10 on hit, 
 3 charges of +3d8
 5 charges of ranged attack
+
+Gudeliva has access to the following spells:
+4 1st level slots: *Alarm*, *Entangle*, *Expeditious Retreat*, *Feather Fall*, *Purify Food and Drink*
+3 2nd level
+3 3rd level
+1 4th level
