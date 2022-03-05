@@ -30,3 +30,4 @@ Quickest path goes past Dragon Lair and through Ootool.
 Safest path goes down to the end of the Duergar territories, through [[Deepburrow]] and then past the grazing fields and then toward [[Ungaethram]].
 
 # During Play
+Kursk yells for assistance against the undead threat
