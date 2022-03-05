@@ -92,7 +92,7 @@ As you develop a character from AAA, consider the following properties:
 
 ## Cities and Sites
 
-# [[The Holy'lnds]]
+# [[The Holyl'nds]]
 **Capital:** the Holy City of Kanielkiln
 **Hallmarks:** a, a, a, a
 

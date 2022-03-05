@@ -11,7 +11,7 @@ Other Tags:
 
 # The Holy City of Kanielkiln
 
-A vast tiered city in the [[The Holy'lnds|Lands of the Great White Flame]] the top of which holds in reverence the Blackened Brazier, in which The Great White Flame resides. This is the flame from which all other tendered flames are lit, and the others from these. The tiers of the city loosely follow the [[The Church of the White Flame#Castes|Castes System]].
+A vast tiered city in the [[The Holyl'nds|Lands of the Great White Flame]] the top of which holds in reverence the Blackened Brazier, in which The Great White Flame resides. This is the flame from which all other tendered flames are lit, and the others from these. The tiers of the city loosely follow the [[The Church of the White Flame#Castes|Castes System]].
 
 ## Physicality of the Holding
 
@@ -22,7 +22,7 @@ In the outer ring of the city, some Tendered make their home here among the Patr
 Outside the walls of the city, many of the Unseen make their permanency in ramshackled buildings of burnt wood and clay brick. These folk are workers and pay their Tendered in exchange for its Greatness' tolerance. 
 
 ## Population Distribution
-As the Capital city in the [[The Church of the White Flame|Holy Nation of Flame]], Kanielkiln is very representative of the distribution listed in [[The Holy'lnds|The Holyl'nds]]
+As the Capital city in the [[The Church of the White Flame|Holy Nation of Flame]], Kanielkiln is very representative of the distribution listed in [[The Holyl'nds|The Holyl'nds]]
 
 ## Defenses
 

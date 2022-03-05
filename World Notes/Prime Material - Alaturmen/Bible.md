@@ -29,7 +29,7 @@ Most of the goblinoid inhabitants that do not actually live within the Kingdom o
 Most of the humanoids that live there would prefer the latter however, as most of them actually do live in Arthur's Kingdom.
 
 ### Northwest
-In the northwest lie [[The Holy'lnds]]. In the first years of this world, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths.
+In the northwest lie [[The Holyl'nds]]. In the first years of this world, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths.
 
 ### Southwest
 In the Southwest, a vast desert stretches from the mountains on its northern edge to the great [[Alavini River|Alavini]] river that flows along eastern. Most of this desert is known as [[The Outlands]], where bands of thieves and nomads are left to roam and steal. In the desert's heart [[The Golden City]] stands tall. Opulent and Imperial, this city is home to most of the business that goes on in the desert, even much of the thievery that occurs in the Outlands has a central line of communication to and from the city. 

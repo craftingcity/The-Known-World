@@ -1,5 +1,5 @@
 ---
-aliases: [The Holyl'nds, The Lands of the Great White Flame, The Land of the Great White Flame, Lands of the Great White Flame, Holyl'nd]
+aliases: [The Lands of the Great White Flame, The Land of the Great White Flame, Lands of the Great White Flame]
 tags: gwf, nation_page
 ---
 

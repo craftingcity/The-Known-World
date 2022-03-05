@@ -3,7 +3,7 @@ tags: holding, dragon, current
 ---
 # Kakurak's Lair
 
-The Adult Bronze dragon Kakurak (120 years) lives in a wet cave edged to the Firelight Sea in the [[The Holy'lnds|Lands of the Great White Flame]]. He keeps a satyr druid Marcus as his servant and companion, and tasks himself with protecting the people of the Known World.
+The Adult Bronze dragon Kakurak (120 years) lives in a wet cave edged to the Firelight Sea in the [[The Holyl'nds|Lands of the Great White Flame]]. He keeps a satyr druid Marcus as his servant and companion, and tasks himself with protecting the people of the Known World.
 
 1. Cave Enterence
 

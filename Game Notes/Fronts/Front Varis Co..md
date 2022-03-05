@@ -16,7 +16,7 @@ At the height of peace in the world, disaster strikes.
 **The Prophecy**
 - [x] Assist the Hill Giants in entering the Prime plane
 - [ ] Fuck those adventurers messing with our plans
-- [ ] Assist the Fire King in ruining [[The Holy'lnds]]
+- [ ] Assist the Fire King in ruining [[The Holyl'nds]]
 - [ ] Disempose the Giant's power, leave them stranded
 
 **Impending Doom**
