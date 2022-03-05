@@ -27,6 +27,8 @@ You have just finished consuming your rations for tonight, your stomachs feel ju
 - Questions
 	- Tell me more about your group
 		- Skills?
+			- Sights?
+			- Spells?
 		- Heirarchy?
 		- Touchy Subjects?
 	- How will we be eating?	
