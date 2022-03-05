@@ -4,55 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1063f490c5cd55d9",
+        "id": "720ad9329ea5b0aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+            "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "555e0022026fd098",
+        "id": "c8c10e45215627b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Gudeliva.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "b1bce317a3770957",
-        "type": "split",
-        "children": [
-          {
-            "id": "720ad9329ea5b0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c8c10e45215627b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gudeliva.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Gudeliva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Gudeliva.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Gudeliva.md"
               }
             }
           },
@@ -191,12 +161,12 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "555e0022026fd098",
+  "active": "c8c10e45215627b6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Gudeliva.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/Prenotes Feb 12 22.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
     "Dwarven Kingdom Actstow.md",
