@@ -78,14 +78,15 @@
     "outline:open": 1,
     "outline:open-for-current": 1,
     "workspaces:save-and-load": 1,
-    "file-recovery:open": 1
+    "file-recovery:open": 1,
+    "daily-notes": 1
   },
   "keyboardStatistics": {
     "insert-template": 39,
     "switcher:open": 55,
     "editor:open-search": 4,
     "global-search:open": 3,
-    "workspace:close": 74,
+    "workspace:close": 76,
     "app:go-back": 20,
     "file-explorer:new-file": 8,
     "editor:open-link-in-new-leaf": 1,

@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for Jan XXth
+# Prenotes for Jan 15th
 
 Black, grey, white. This is all the color we can see. A tunnel deep underground. The whistling of wind carries us to a group of four holes in this tunnel. Seemingly naturally formed in the wall of this dark grey stone, pockets. The four of them are not situated evenly, two are nearly stacked atop each-other and the third and fourth have some slope. 
 
