@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for March 4th
+# Prenotes for March 5th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
