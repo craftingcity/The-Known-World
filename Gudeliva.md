@@ -6,9 +6,8 @@ aliases:
 
 > A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard.
 
-Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow and Duergar
+Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow and Duergar territories.
 
-A politic of theirs that players would interact with.
 ### The Checklist
 - Safety
 	- Follow my guidance to the word!
@@ -30,9 +29,14 @@ A politic of theirs that players would interact with.
 		- I can hunt, but food is hard to come by usually
 	- How will we be traveling?
 		- I can walk, and I have gear to navigate vertically
+	- Where are we headed?
+		- Why?
+		- Would you perfer speed, safetly, or the medium of the two extremes (neither of which can be guaranteed).
 
 ## History
-Drow Guide - bladelock
+Born and raised in [[Ungaethram]], vehemently disagreed with the gender power structure of their home.
+
+They came of age and began to wander the Lolth-Drow and Duergar territories, and soon began to guide folks.
 
 ## Location
 Work all around the Underdark.
