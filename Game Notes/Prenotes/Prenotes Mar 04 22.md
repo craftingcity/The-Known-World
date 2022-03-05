@@ -25,4 +25,11 @@ You have just finished consuming your rations for tonight, your stomachs feel ju
 		- yall already got this done
 	- I'm your guide, not your soldier
 - Questions
-	- SKi
+	- Tell me more about your group
+		- Skills?
+		- Heirarchy?
+		- Touchy Subjects?
+	- How will we be eating?	
+		- I can hunt, but food is hard to come by usually
+	- How will we be traveling?
+		- I can walk, and I have gear to navigate vertically

@@ -79,7 +79,8 @@
     "outline:open-for-current": 1,
     "workspaces:save-and-load": 1,
     "file-recovery:open": 1,
-    "daily-notes": 1
+    "daily-notes": 1,
+    "workspace:split-vertical": 1
   },
   "keyboardStatistics": {
     "insert-template": 39,
