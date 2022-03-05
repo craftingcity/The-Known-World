@@ -17,10 +17,10 @@ The Rulers of [[The Fiefdoms of the Combine]] conference often, and form their o
 - rarely feyborn, such as eladrin
 
 ### History
-The Combine was formed at the signing of the [[Coalition's Founding Document]]
+The Combine was formed at the signing of the [[Coalition's Founding Document]].
 ### Notable Factions
+- See [[The Fiefdoms of the Combine]]
 - The [[Knights in Red]], led by [[Baron Filip]], are a group of well meaning knights that maintain tight control of the [[Huntyr Swamp]]
 
 ### Notable Places
-- [[Lorem]], defacto capital of DCP
-- [[Huntyr Swamp]]
+- See [[The Fiefdoms of the Combine]]

@@ -4,44 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "1063f490c5cd55d9",
+        "id": "b7d9262317dc8675",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b1bce317a3770957",
-        "type": "split",
-        "children": [
-          {
-            "id": "720ad9329ea5b0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c8c10e45215627b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gudeliva.md",
-                "mode": "source"
-              }
-            }
+        "id": "255dac3e4935af3a",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/combine-100AF.png"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "8a331da0cd5fd849",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relational_map",
+                "query": "old",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +69,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 272
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -98,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gudeliva.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gudeliva.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +129,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gudeliva.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
+            }
+          },
+          {
+            "id": "036d19c43b0e3aef",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             }
           },
           {
@@ -149,48 +148,26 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "d2d6a8514c94d66b",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "57667a6297f0a362",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef24a1b0a2f3dc45",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.6111145019531,
+    "width": 1037.5,
     "collapsed": true
   },
-  "active": "c8c10e45215627b6",
+  "active": "8a331da0cd5fd849",
   "lastOpenFiles": [
-    "Gudeliva.md",
-    "Game Notes/Prenotes/Prenotes Mar 05 22.md",
-    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Game Notes/Prenotes/Prenotes Feb 12 22.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-    "Dwarven Kingdom Actstow.md",
-    "Actstow Hills.md",
-    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "MEDIA/MAPS/combine-100AF.png",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Lorem.md",
+    "Game Notes/NPCs/Prime/Peoples of Combine/Baron Yassir Cassindil.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Grumble Hills/Aeberu.md",
+    "World Notes/Prime Material - Alaturmen/Magical Items of Note.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Huntyr Swamp/Neverwallow.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Democratic Combine of Peoples/Holdings/Mossburg/Four Stone.md",
+    "Game Notes/NPCs/Prime/Coalition Guild/Wizards/Nicolas Talaveem.md"
   ]
 }

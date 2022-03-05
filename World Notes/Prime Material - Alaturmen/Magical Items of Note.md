@@ -47,4 +47,4 @@ aliases:
 ## Wonderous Items
 - [[The Holy Atlas of Yamisch]]
 	- > A prophetic atlas of Alaturmen. Author unknown, but the divinally inclined believe this item to be a work of Yamasch.
-	- Currently in Temple Yamasch in [[Greensburrow]]
+	- Currently in Temple Yamasch in [[Aeberu]]
