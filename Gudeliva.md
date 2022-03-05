@@ -4,7 +4,7 @@ aliases:
 ---
 # Gudeliva
 
-> A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard.
+> A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard. Many pouches and belts adorn their lithe form.
 
 Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow and Duergar territories.
 
