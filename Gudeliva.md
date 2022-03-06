@@ -47,8 +47,8 @@ Work all around the Underdark.
 They are a CR ? Bladelock; 
 
 +7 to hit, 2d10 on hit, 
-3 charges of +3d8
-5 charges of ranged attack
+3 charges of +3d8 (0)
+5 charges of ranged attack (1)
 
 Gudeliva has access to the following spells:
 4 1st level slots: *Alarm*, *Entangle*, *Expeditious Retreat*, *Feather Fall*, *Purify Food and Drink*
