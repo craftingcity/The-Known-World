@@ -44,3 +44,5 @@ its been 9 days
 people are looking at [[Gudeliva]]'s health, they are infected with Undead Rot
 
 [[Gudeliva]] acknowledged Soma's Figure.
+
+Purchased many items from the traveling salesgnome Blazaldorp, including a cure for 
