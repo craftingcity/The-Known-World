@@ -41,3 +41,6 @@ The party leaves the [[Heilich-Muwwoq]] cavern, entering a 10 foot tunnel with n
 
 its been 9 days
 
+people are looking at [[Gudeliva]]'s health, they are infected with Undead Rot
+
+[[Gudeliva]] acknowledged Soma's Figure.
