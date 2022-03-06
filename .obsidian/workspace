@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+                "file": "Gudeliva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+                "file": "Gudeliva.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md"
+                "file": "Gudeliva.md"
               }
             }
           },
@@ -172,13 +172,13 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "720ad9329ea5b0aa",
+  "active": "c8c10e45215627b6",
   "lastOpenFiles": [
+    "Gudeliva.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "World Notes/Underdark/Underdark Flora.md",
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
-    "Gudeliva.md",
     "World Notes/Underdark/Underdark Threats.md",
     "conflict-files-obsidian-git.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
