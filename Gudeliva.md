@@ -40,6 +40,8 @@ Born and raised in [[Ungaethram]], vehemently disagreed with the gender power st
 
 They came of age and began to wander the Lolth-Drow and Duergar territories, and soon began to guide folks.
 
+During one of their travels, they encountered a necromancer, whom they thought they quickly dispatched, but has come back to haunt their most recent journey.
+
 ## Location
 Work all around the Underdark.
 
