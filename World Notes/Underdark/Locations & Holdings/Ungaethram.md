@@ -10,7 +10,7 @@ Defenses: Garrison
 Other Tags: Religion (Lolth), Resource (), Emnity (Ammyrain, Trog Territory)
 
 # Description
-Ungaethram is a large drow city in a [[Underdark Travel Table#Entering a New Space|gigantic vault]]
+Ungaethram is a large drow city in a [[Underdark Travel Table#Entering a New Space|gigantic vault]]. Each of the Houses has their own estates inside the vault, and they are often about two hour's walk and "community" space inbetween. Much of the cave is light by the glowing red of the fey-bettle that live in this space, but they are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of the blue bulbs
 ## Physicality of the Holding
 Towering stone buildings stand above the ramshackle barrelstalk constructions that make up the most of the Ungaethram. The [[Ungaethram Drow Houses#The Upper Third|upper thrid]] each have a tower in Ungaethram, but the rest of the houses make due with whatever they can build and buy. 
 ## Population Distribution
@@ -29,7 +29,12 @@ Including both locations in the holding and around it, such as "the cave three m
 The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram. 
 
 - The greatest **House Baenre**
+	- blue six point star on purple
 - The leaders in magic **House Barrison Del'Armgo**
+	- black spider iconography on red
 - The psycics of **House Oblodra**
+	- a gradient of grey pink to lavender in reversing stripes
 - The trade-pin **House Faen Tlabbar**
+	- 
+- The reclusive judge-sorcerers of **House Xorlarrin**
 - 
