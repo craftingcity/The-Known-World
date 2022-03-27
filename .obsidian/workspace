@@ -20,21 +20,39 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Tables/Underdark Encounters.md",
+            "file": "Game Notes/Prenotes/Prenotes Mar 05 22.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c8c10e45215627b6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gudeliva.md",
-            "mode": "source"
+        "id": "b8a70ab7e2e62fc0",
+        "type": "split",
+        "children": [
+          {
+            "id": "937909b3f7dbbc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "c8c10e45215627b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gudeliva.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Encounters.md",
+                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Encounters.md",
+                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Encounters.md"
+                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md"
               }
             }
           },
@@ -172,15 +190,15 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "577032dec78c6567",
+  "active": "720ad9329ea5b0aa",
   "lastOpenFiles": [
-    "World Notes/Underdark/Tables/Underdark Encounters.md",
     "Game Notes/Prenotes/Prenotes Mar 27 22.md",
-    "World Notes/Underdark/Underdark Flora.md",
-    "Game Notes/Prenotes/Prenotes Mar 05 22.md",
-    "Gudeliva.md",
-    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "World Notes/Underdark/Tables/Underdark Travel Table.md",
+    "Gudeliva.md",
+    "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+    "World Notes/Underdark/Tables/Underdark Encounters.md",
+    "World Notes/Underdark/Underdark Flora.md",
+    "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "World Notes/Underdark/Underdark Threats.md",
     "conflict-files-obsidian-git.md",
     "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md"
