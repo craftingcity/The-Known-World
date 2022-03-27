@@ -47,4 +47,4 @@ people are looking at [[Gudeliva]]'s health, they are infected with Undead Rot
 
 Purchased many items from the traveling salesgnome Blazaldorp, including a cure for [[Gudeliva]]'s infection.
 
-its been 10 days.
+its been 10 days down here, 4 since leaving [[Heilich-Muwwoq]].
