@@ -32,7 +32,7 @@ After some travel, the party encounters a lone Chelicerae and its most recent li
 After some time, Krenzo makes his move, and attempts to rob the party during a shift change. Depending on the relationships formed with the other party members, Wyruq and Blug will act accordingly. 
 
 - [ ] Case the crew
-- [ ] Find their stash
+- [x] Find their stash
 - [ ] Grab
 - [ ] Bolt
 
