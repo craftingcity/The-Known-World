@@ -40,3 +40,4 @@ After some travel, the party encounters the lair of the kooky necromancer (aka K
 KS has stayed mobile, but he travels with his undead entarage - he has a few ghoul that carry his equipment and some Fierstjerren assistants whom themselves have collected some human followers. He is still studying his most recent creation; the Crypt Thing. KS has not enjoyed running his death cult on the go and is looking for a place to settle down - this looks fine.
 
 ## During Game
+
