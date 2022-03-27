@@ -19,4 +19,8 @@ They are heading southwest from N.A. toward [[Ungaethram]]. They will likey find
 
 We're gonna run the three-bandits-in-a-web scene and the kooky necromancer scene. 
 
-The party is awoken by Amashod after a cold and uncomfortable sleep on the sedimentary stone 
+The party is awoken by Amashod after a cold and uncomfortable sleep on the stone of this 10ft tunnel. [[Gudeliva]] looks as bad as they did hours ago. What do you do?
+
+After some travel, this arterial joins with a Kings Road that links to [[Ootool]] and then [[Ungaethram]]. It is made of Bloodstone (crit on 19+).
+
+After some travel, the party encounters a lone Chelicerae and its most recent live catch; a group of three "mercin"
