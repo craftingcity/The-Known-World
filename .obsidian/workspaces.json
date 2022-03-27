@@ -1,0 +1,199 @@
+{
+  "workspaces": {
+    "mar 27": {
+      "main": {
+        "id": "5ed90ef10bfe4fd7",
+        "type": "split",
+        "children": [
+          {
+            "id": "720ad9329ea5b0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "577032dec78c6567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Underdark Threats.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b8a70ab7e2e62fc0",
+            "type": "split",
+            "children": [
+              {
+                "id": "937909b3f7dbbc9c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "c8c10e45215627b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gudeliva.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "fba8da5f7a93a851",
+        "type": "split",
+        "children": [
+          {
+            "id": "81370ff04aeebe8d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "075c81df386bf4a8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5a6204feda992b25",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#relational_map",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 241.5
+      },
+      "right": {
+        "id": "98ea4b0506423d23",
+        "type": "split",
+        "children": [
+          {
+            "id": "5131a5564ffb795f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b20614126517060",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f1e77546b77b05ef",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d2b2f67ea57b7f79",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2460969991f25a74",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md"
+                  }
+                }
+              },
+              {
+                "id": "4b69f4d2b8442e48",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d2d6a8514c94d66b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "57667a6297f0a362",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef24a1b0a2f3dc45",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 280.6111145019531,
+        "collapsed": true
+      },
+      "active": "720ad9329ea5b0aa"
+    }
+  },
+  "active": "mar 27"
+}

@@ -23,4 +23,7 @@ The party is awoken by Amashod after a cold and uncomfortable sleep on the stone
 
 After some travel, this arterial joins with a Kings Road that links to [[Ootool]] and then [[Ungaethram]]. It is made of Bloodstone (crit on 19+).
 
-After some travel, the party encounters a lone Chelicerae and its most recent live catch; a group of three "mercin"
+After some travel, the party encounters a lone Chelicerae and its most recent live catch; a group of three "mercenaries".
+- Krenzo is a half-duergar fighter. He is overbearing and speaks for his group. Secretly he desires a simple life. 
+- Wyruq, the Grave Presence is a bluescaled dragonborn barbarian/paladin of . He is stoic and speaks sternly. He owes his life to Krenzo and would do anything for him. 
+- Blug Fpurgz is a kuo-toa 
