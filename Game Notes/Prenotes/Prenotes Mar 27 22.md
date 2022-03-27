@@ -35,4 +35,4 @@ After some time, Krenzo makes his move, and attempts to rob the party during a s
 - [ ] Grab
 - [ ] Bolt
 
-After some travel, the party encounters the lair of the kooky necromancer that has been making the undead in the area. KS has stayed mobile, and has his personal assistant flesh golem carry his gear. Definitely gonna try to bolt if the party doesnt sneak up. Definitely gonna recur if the party doesn't end him.
+After some travel, the party encounters the lair of the kooky necromancer that has been making the undead in the area. KS has stayed mobile, but he travels with his undead entarage - he has a few ghoul that carry his equipment and some Fierstjerren assistants. Definitely gonna try to bolt if the party doesnt sneak up. Definitely gonna recur if the party doesn't end him.
