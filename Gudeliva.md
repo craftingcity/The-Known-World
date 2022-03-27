@@ -51,7 +51,6 @@ They are a CR ? Bladelock;
 5 charges of ranged attack
 
 Gudeliva has access to the following spells:
-4 1st level slots: *Alarm*, *Entangle*, *Expeditious Retreat*, *Feather Fall*, *Purify Food and Drink*
-3 2nd level
-3 3rd level
-1 4th level
+3 1st level slots: *Alarm*, *Entangle*, *Expeditious Retreat*, *Feather Fall*, *Find Familiar*, *Purify Food and Drink*
+2 2nd level slots: *Beast Sense*, *Continual FLame*, *Pass Without Trace*, *Rope Trick*, *Summon Beast*
+1 3rd level slot: *Clairvoyance*
