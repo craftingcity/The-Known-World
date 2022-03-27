@@ -4,18 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75173104678efc62",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "34911ca7a3b81b9d",
+        "id": "720ad9329ea5b0aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,6 +13,46 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "577032dec78c6567",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Underdark Threats.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b8a70ab7e2e62fc0",
+        "type": "split",
+        "children": [
+          {
+            "id": "937909b3f7dbbc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "c8c10e45215627b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gudeliva.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -161,7 +190,7 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "34911ca7a3b81b9d",
+  "active": "720ad9329ea5b0aa",
   "lastOpenFiles": [
     "Game Notes/Prenotes/Prenotes Mar 27 22.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",

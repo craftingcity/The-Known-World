@@ -8,7 +8,7 @@
   "mouseStatistics": {
     "open-with-default-app:show": 1,
     "file-explorer:new-file": 2,
-    "workspaces:open-modal": 2,
+    "workspaces:open-modal": 3,
     "editor:attach-file": 1,
     "app:delete-file": 8,
     "editor:delete-paragraph": 8,
@@ -24,8 +24,10 @@
     "outgoing-links:open-for-current": 2,
     "editor:rename-heading": 1,
     "editor:save-file": 1,
-    "workspaces:save-and-load": 1,
-    "file-recovery:open": 1
+    "workspaces:save-and-load": 2,
+    "file-recovery:open": 1,
+    "app:reload": 1,
+    "workspaces:load": 1
   },
   "keyboardStatistics": {
     "insert-template": 24,
