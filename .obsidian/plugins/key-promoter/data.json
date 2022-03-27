@@ -31,11 +31,11 @@
   },
   "keyboardStatistics": {
     "insert-template": 24,
-    "switcher:open": 24,
+    "switcher:open": 27,
     "editor:open-search": 2,
     "global-search:open": 1,
     "workspace:close": 43,
-    "app:go-back": 7,
+    "app:go-back": 8,
     "file-explorer:new-file": 3
   }
 }
