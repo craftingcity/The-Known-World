@@ -24,6 +24,15 @@ The party is awoken by Amashod after a cold and uncomfortable sleep on the stone
 After some travel, this arterial joins with a Kings Road that links to [[Ootool]] and then [[Ungaethram]]. It is made of Bloodstone (crit on 19+).
 
 After some travel, the party encounters a lone Chelicerae and its most recent live catch; a group of three "mercenaries".
-- Krenzo is a half-duergar fighter. He is overbearing and speaks for his group. Secretly he desires a simple life. 
-- Wyruq, the Grave Presence is a bluescaled dragonborn barbarian/paladin of . He is stoic and speaks sternly. He owes his life to Krenzo and would do anything for him. 
-- Blug Fpurgz is a kuo-toa magician, though she fights with a blade. She is wary and speaks nervously. She is under Krenzo's thumb, as he genuinely has been 
+- Krenzo is a half-duergar fighter/rogue. He is overbearing and speaks for his group. He is doing his best to survive, the any major city is unnacceptable for them. 
+- Wyruq, the Grave Presence is a bluescaled dragonborn barbarian/paladin of Certi'Alkior. He is stoic and speaks sternly. He owes his life to Krenzo and would do anything for him. 
+- Blug Fpurgz is a kuo-toa magician, though she fights with a blade. She is wary and speaks nervously. She is under Krenzo's thumb, as he genuinely has been her best option for survival for some time, but its clear that she is not an adventurer.
+
+After some time, Krenzo makes his move, and attempts to rob the party during a shift change. Depending on the relationships formed with the other party members, Wyruq and Blug will act accordingly. 
+
+- [ ] Case the crew
+- [ ] Find their stash
+- [ ] Grab
+- [ ] Bolt
+
+After some travel, the party encounters the lair of the kooky necromancer that has been making the undead in the area. KS has stayed mobile, and has his personal
