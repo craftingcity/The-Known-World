@@ -35,4 +35,6 @@ After some time, Krenzo makes his move, and attempts to rob the party during a s
 - [ ] Grab
 - [ ] Bolt
 
-After some travel, the party encounters the lair of the kooky necromancer that has been making the undead in the area. KS has stayed mobile, but he travels with his undead entarage - he has a few ghoul that carry his equipment and some Fierstjerren assistants. Definitely gonna try to bolt if the party doesnt sneak up. Definitely gonna recur if the party doesn't end him.
+After some travel, the party encounters the lair of the kooky necromancer (aka KS aka Kayus) that has been making the undead in the area. One of his Fierstjerren has reported a prime position for relocation - [an abandoned duergar outpost](https://rpgcharacters.files.wordpress.com/2019/03/dwarven-folly.png), funnily enough, Gudeliva knows the same position and would offer it as a place to stay while passing through.
+
+KS has stayed mobile, but he travels with his undead entarage - he has a few ghoul that carry his equipment and some Fierstjerren assistants whom themselves have collected some human followers. He is still studying his most recent creation; the Crypt Thing. KS has not enjoyed running his death cult on the go and is looking for a place to settle down - this looks fine.
