@@ -25,5 +25,11 @@ Including both locations in the holding and around it, such as "the cave three m
 [[Ungaethram Drow Houses]]
 
 # Politics
-## "The Upper Third"
-The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram.
+## [[Ungaethram Drow Houses#The Upper Third|"The Upper Third"]]
+The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram. 
+
+- The greatest **House Baenre**
+- The leaders in magic **House Barrison Del'Armgo**
+- The psycics of **House Oblodra**
+- The trade-pin **House Faen Tlabbar**
+- 
