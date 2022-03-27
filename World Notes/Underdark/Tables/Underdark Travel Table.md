@@ -30,7 +30,7 @@ Record entries from this table onto a sheet or page. Some results may be best re
 --- | --- | ---
 1 | An Abyss | "Vast, empty voids of awesome scope". See [[#Abysses]]
 2 | A Cave | See [[#Caves]]
-3 | A Dungeon | See [[#Dungones]] and then search for "Undermountain" or sometin
+3 | A Dungeon | See [[#Dungeons]] and then search for "Undermountain" or sometin
 4 | A Gorge | See [[#Gorges]]
 5 | A Lake | See [[#Lakes]]
 6 | A Rift | See [[#Rifts]]

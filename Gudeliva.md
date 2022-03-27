@@ -4,7 +4,7 @@ aliases:
 ---
 # Gudeliva
 
-> A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard.
+> A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard. Many pouches and belts adorn their lithe form.
 
 Gudeliva is one of the few guides of the Underdark, and works in the Lolth-Drow and Duergar territories.
 
@@ -40,6 +40,8 @@ Born and raised in [[Ungaethram]], vehemently disagreed with the gender power st
 
 They came of age and began to wander the Lolth-Drow and Duergar territories, and soon began to guide folks.
 
+During one of their travels, they encountered a necromancer, whom they thought they quickly dispatched, but has come back to haunt their most recent journey.
+
 ## Location
 Work all around the Underdark.
 
@@ -47,8 +49,8 @@ Work all around the Underdark.
 They are a CR ? Bladelock; 
 
 +7 to hit, 2d10 on hit, 
-3 charges of +3d8
-5 charges of ranged attack
+3 charges of +3d8 (0)
+5 charges of ranged attack (1)
 
 Gudeliva has access to the following spells:
 3 1st level slots: *Alarm*, *Entangle*, *Expeditious Retreat*, *Feather Fall*, *Find Familiar*, *Purify Food and Drink*
