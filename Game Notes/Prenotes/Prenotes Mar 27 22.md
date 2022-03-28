@@ -42,4 +42,6 @@ KS has stayed mobile, but he travels with his undead entarage - he has a few gho
 
 ## During Game
 
-kinda a slush / rp session; the spider fight was fun, but it only took 1.2 rounds, i introduced the crew. it looks like the party may have to use 1/2 rations - see starvation - while W, K, and B are traveling with the party. Gudliva is still sick and getting worse (but will su)
+kinda a slush / rp session; the spider fight was fun, but it only took 1.2 rounds, i introduced the crew. it looks like the party may have to use 1/2 rations - see starvation - while W, K, and B are traveling with the party. Gudliva is still sick and getting worse (but will survive bc of the tincture).
+
+Krenzo knows that the party has a Bag of Holding. Wyruq ingratiated himself with Grod. 
