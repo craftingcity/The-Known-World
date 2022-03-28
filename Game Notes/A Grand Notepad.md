@@ -18,6 +18,21 @@ Hey Hey! Travel is going well. We moved them toward a duergar city, which means 
 Should be easy enough. I'll use paint.
 
 
+
+
+# PZ Notes
+eerie
+fort benning
+fort redstone
+grapeseed
+HQ of FR
+Little Township
+NewEkron
+Pitstop
+Ravencreek
+Rosewood Ex
+St Bernard
+Survival Store
 # PROJECT ELVES
 
-Make elves cool and old-tolkein-esq; good crafters and enchanters - similar with dwarves; next to do - but they got hit hard eary with [[The Old|Minyostalma]] and the [[50 Year White Burning]]
+Make elves cool and old-tolkein-esq; good crafters and enchanters - similar with dwarves; next to do - but they got hit hard early with [[The Old|Minyostalma]] and the [[50 Year White Burning]]

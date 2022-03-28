@@ -9,50 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+            "file": "Game Notes/A Grand Notepad.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "577032dec78c6567",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Underdark Threats.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b8a70ab7e2e62fc0",
-        "type": "split",
-        "children": [
-          {
-            "id": "937909b3f7dbbc9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Tables/Underdark Travel Table.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "c8c10e45215627b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gudeliva.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md"
+                "file": "Game Notes/A Grand Notepad.md"
               }
             }
           },
@@ -192,15 +152,15 @@
   },
   "active": "720ad9329ea5b0aa",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/Prenotes Mar 27 22.md",
+    "Game Notes/A Grand Notepad.md",
+    "Gudeliva.md",
+    "World Notes/Underdark/Tables/Underdark Travel Table.md",
     "World Notes/Underdark/Underdark Threats.md",
+    "Game Notes/Prenotes/Prenotes Mar 27 22.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
     "Game Notes/Prenotes/Prenotes Jan 15 22.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Gudeliva.md",
-    "World Notes/Underdark/Tables/Underdark Travel Table.md",
     "World Notes/Underdark/Tables/Underdark Encounters.md",
-    "World Notes/Underdark/Underdark Flora.md",
-    "conflict-files-obsidian-git.md"
+    "World Notes/Underdark/Underdark Flora.md"
   ]
 }
