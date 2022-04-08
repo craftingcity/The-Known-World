@@ -7,8 +7,11 @@
         "id": "5916963a1965f88e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md"
+              }
             }
           },
           {
@@ -139,6 +146,7 @@
   },
   "active": "5916963a1965f88e",
   "lastOpenFiles": [
+    "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
     "gifts 4 mimi.md",
     "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
@@ -147,7 +155,6 @@
     "Game Notes/NPCs/Prime/Qiell Tilemundon.md",
     "For My Players/Dear Bardaux.md",
     "Game Notes/NPCs/Underdark/Travelers/Blzldlp.md",
-    "Game Notes/Mechanics/Custom Feats.md",
-    "Game Notes/Fronts/The Whitimore Files.md"
+    "Game Notes/Mechanics/Custom Feats.md"
   ]
 }

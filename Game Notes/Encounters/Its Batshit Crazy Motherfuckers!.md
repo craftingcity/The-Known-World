@@ -3,6 +3,7 @@ The Its Batshit Crazy Motherfuckers! are a group of bandits and mauraders who ki
 Before every engagement one screams their name.
 
 1 flyer
+	A tiefling with giant bat-like wings; Screamer, because it screams the thing.
 1 sniper
 2 muscle
 1 speed
