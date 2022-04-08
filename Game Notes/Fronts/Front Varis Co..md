@@ -30,9 +30,14 @@ The Lovers
 The Joker
 	A middlepeice pawn who knows her place, she is the butt end of her better's jokes. She indutifully assists the Matriarch. She makes money from the Lovers. She competes with the Black Knight. She caused the Forgotten.
 The Black Knight
-	A powerful force allowed to move freely under a heavy thumb. She honors the Matriarch. She regards the Lovers twofold; together as just another servant of the Matriarch, and separately 
+	A powerful force allowed to move freely under a heavy thumb. She honors the Matriarch, and wishes to do so. She regards the Lovers twofold; together as just another servant of the Matriarch, and separately has an affair with One. She knows that she would be chosen over the Joker. She believes that the Forgotten has been removed from play.
 The Forgotten
-	A thinker and planner, the true force behind the forward motion of the Whitimore plan.
+	A thinker and planner, the true force behind the forward motion of the Whitimore plan. She resents the Matriarch, but still needs her. She uses the Other of the Lovers. She will repay the Joker in the end. She came up with the Black Knight only to be betrayed when the time was right.
 
-#### [[King Snure]]
+#### The Giant Invasion
 **King Snure** is a Fire Giant King that has rejected the Ordening and has collected an army of giantkind and represents *the arcane enemy*.
+
+**The Prophecy**
+- [x] Enlist all who would aid me
+- [ ]  all who would Oppose me
+- [ ] Rule for forseable time
