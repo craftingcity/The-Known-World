@@ -7,8 +7,8 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 2,
-    "workspaces:open-modal": 3,
+    "file-explorer:new-file": 3,
+    "workspaces:open-modal": 1,
     "editor:attach-file": 1,
     "app:delete-file": 8,
     "editor:delete-paragraph": 8,
@@ -22,17 +22,12 @@
     "backlink:toggle-backlinks-in-document": 1,
     "outgoing-links:open": 1,
     "outgoing-links:open-for-current": 2,
-    "editor:rename-heading": 1,
-    "editor:save-file": 1,
-    "workspaces:save-and-load": 2,
-    "file-recovery:open": 1,
-    "app:reload": 1,
-    "workspaces:load": 1
+    "editor:rename-heading": 1
   },
   "keyboardStatistics": {
-    "insert-template": 24,
-    "switcher:open": 30,
-    "editor:open-search": 3,
+    "insert-template": 25,
+    "switcher:open": 15,
+    "editor:open-search": 1,
     "global-search:open": 1,
     "workspace:close": 46,
     "app:go-back": 8,
