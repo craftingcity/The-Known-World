@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0c2ba1cdf89aac4b",
+        "id": "5916963a1965f88e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
+            "file": "Game Notes/A Grand Notepad.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "93104a15bd625447",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relational_map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +79,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -96,8 +107,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
-                "linksCollapsed": true,
+                "file": "Game Notes/A Grand Notepad.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md"
+                "file": "Game Notes/A Grand Notepad.md"
               }
             }
           },
@@ -127,14 +138,7 @@
               "type": "graph-analysis",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "57667a6297f0a362",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "ef24a1b0a2f3dc45",
             "type": "leaf",
@@ -143,24 +147,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "0c2ba1cdf89aac4b",
+  "active": "5916963a1965f88e",
   "lastOpenFiles": [
-    "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "Dear Bardaux.md",
-    "conflict-files-obsidian-git.md",
-    "Sometimes, you need villans..md",
-    "Ootool.md",
-    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
-    "Game Notes/Prenotes/Prenotes Mar 05 22.md",
+    "Game Notes/A Grand Notepad.md",
     "Game Notes/Prenotes/Prenotes Mar 27 22.md",
-    "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
-    "Game Notes/Prenotes/Prenotes Feb 12 22.md"
+    "Game Notes/Encounters/Warspider.md",
+    "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
+    "gifts 4 mimi.md",
+    "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
+    "World Notes/Underdark/Locations & Holdings/Ootool.md",
+    "README.md",
+    "Underdark NPC Names.md",
+    "Game Notes/NPCs/Prime/Qiell Tilemundon.md"
   ]
 }
