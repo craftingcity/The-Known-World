@@ -54,14 +54,21 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 - the god of One Mindedness.
 - feels like sitting in a rainy forest
 - smells of wet moss, fresh dirt
-- sama appears to their followers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
+- Sama appears to their followers as a figure cloaked in dark green or blue or brown, and does not speak. their face or head cannot be perceived
 - they are not easily amused
 
 #### Yamisch
-- the god of True Sight
+- the god of true vision
 - feels like the best trip you've ever had
 - smells of blueberry, honey
-- yamish appears to their followers as a map or scroll that has too much detail / knowledge
+- Yamish appears to their followers as a map or scroll that has too much detail / knowledge
+
+#### Certi'alkior
+- the god of a quick death
+- feels like warm blood and cold steel
+- smells of sweat, gunpowder
+- Certi'alkior appears to their followers in battle before their final stand, though seeing her is not considered a holy sentence to death
+	- ask the Paladin Wyruq the Grave Presence
 
 ## Gods of Triumph
 Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 
