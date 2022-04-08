@@ -14,7 +14,7 @@ tags: notes
 
 Kakurak wishes to bestow upon the party two scrolls (of *comprehend languages* and *plane shift*) and a *ring of dragons' breath*.
 
-Kakurak will ask the adventurers to continue their assault against the [[Front Varis Co.#The Giants|The Giants]] and use the chain to enter [[The Planes of Existence#The Plane of Ice]]. There they will find the keep of the [[Jarl Grugnur]]. It is their task to capture him alive if possible.
+Kakurak will ask the adventurers to continue their assault against the [[Varis Co.#The Giants|The Giants]] and use the chain to enter [[The Planes of Existence#The Plane of Ice]]. There they will find the keep of the [[Jarl Grugnur]]. It is their task to capture him alive if possible.
 
 ## Livenotes
 

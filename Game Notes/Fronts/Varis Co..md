@@ -23,8 +23,8 @@ At the height of peace in the world, disaster strikes.
 Rampant Chaos, the laws and order of  the land and our natural world is dissolved into nothingness. Pain and misfortune befalls the common.
 
 **Cast**
-The Matriarch
-	The new ruler of the Whitimores since Matron Niigata's assasination has been running the company-house as best she can. She blows of steam with the lovers. She confides in the Joker. She always asks more of the Black Knight. She cast out the Forgotten.
+The Matriarch - [[Alylay Whitimore]]
+	The new ruler of the Whitimores since [[Do'gamet Whitimore]] assasination has been running the company-house as best she can. She blows of steam with the lovers. She confides in the Joker. She always asks more of the Black Knight. She cast out the Forgotten.
 The Lovers
 	A pair of lovers near inseparable; they wait sensually as an art piece unto all. They await the Matriarch's every command. They have a secret with the Joker. One has an affair with the Black Knight the other doesn't know of. The other deals with the Forgotten to the benefit of Both.
 The Joker
@@ -51,8 +51,10 @@ The King
 The Soldier
 	The manager of troops and war. The King's right hand. The Son's best hope. The Chief's best nightmare. The Jarl's favorite enemy. The leader of the hunt on the Dragon.
 The Son / Engineer
+	The wunderbar child, a great engineer, a great fighter, no back. Loves the King, too much. Trains under the Soldier. Dispises the Chief. Loves the Jarl only because he does not yet fear him. 
 The Chief - Dead
 	A poor excuse for a leader, a poorer choice as the man on the ground. Wishes to impress the King. Hates the Soldier for what he did. Knows the Son is too soft. Knows the Jarl is too hard. Never got to know the Dragon.
 The Jarl
 	The proud Jarl wishes to raid in peace. The King is wrong. The Soldier is not worth saving. The Son is too far gone. The Chief is an idiot. The Dragon is smart.
-The Dragon
+The Dragon - [[Kakurak]]
+	The best chance for our realm sans our heroes. Directly opposes the King. Yet to fight the Soldier. Needs the Son's knowledge. Wishes to halt the Chief. Wishes to halt the Jarl.
