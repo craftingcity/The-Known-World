@@ -43,7 +43,7 @@ Her stat array should be ordered from highest to lowest as follows:
 5. STR
 6. WIS
 
-She is proficient in Arcana, Deception, History, and Persuasion.
+She is proficient in Arcana, Intimidation, History, and Persuasion.
 
 She is equipped with the following items:
 - Red Cloak - casually covers her scales and can be readjusted for more coverage and or warmth

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5916963a1965f88e",
+        "id": "0c2ba1cdf89aac4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/A Grand Notepad.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "93104a15bd625447",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/Prenotes Mar 27 22.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -50,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#relational_map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,14 +65,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,8 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/A Grand Notepad.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -118,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/A Grand Notepad.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +120,14 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "57667a6297f0a362",
+        "type": "tabs",
+        "children": [
           {
             "id": "ef24a1b0a2f3dc45",
             "type": "leaf",
@@ -147,25 +136,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "5916963a1965f88e",
+  "active": "0c2ba1cdf89aac4b",
   "lastOpenFiles": [
-    "Game Notes/A Grand Notepad.md",
+    "World Notes/Prime Material - Alaturmen/Horde.md",
+    "Unplayed Characters/Amelia Xanthum, the Red.md",
+    "conflict-files-obsidian-git.md",
+    "Dear Bardaux.md",
+    "Sometimes, you need villans..md",
+    "Ootool.md",
+    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+    "Game Notes/Prenotes/Prenotes Mar 05 22.md",
     "Game Notes/Prenotes/Prenotes Mar 27 22.md",
-    "Game Notes/Encounters/Warspider.md",
-    "Game Notes/Encounters/Its Batshit Crazy Motherfuckers!.md",
-    "gifts 4 mimi.md",
-    "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
-    "World Notes/Underdark/Locations & Holdings/Ootool.md",
-    "README.md",
-    "Underdark NPC Names.md",
-    "Game Notes/NPCs/Prime/Qiell Tilemundon.md"
+    "World Notes/Underdark/Locations & Holdings/Ungaethram.md"
   ]
 }
