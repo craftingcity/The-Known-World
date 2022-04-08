@@ -7,11 +7,11 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 3,
-    "workspaces:open-modal": 1,
+    "file-explorer:new-file": 2,
+    "workspaces:open-modal": 3,
     "editor:attach-file": 1,
-    "app:delete-file": 8,
-    "editor:delete-paragraph": 8,
+    "app:delete-file": 9,
+    "editor:delete-paragraph": 9,
     "graph:open": 4,
     "workspace:undo-close-pane": 10,
     "workspace:close": 10,
@@ -22,14 +22,19 @@
     "backlink:toggle-backlinks-in-document": 1,
     "outgoing-links:open": 1,
     "outgoing-links:open-for-current": 2,
-    "editor:rename-heading": 1
+    "editor:rename-heading": 1,
+    "editor:save-file": 1,
+    "workspaces:save-and-load": 2,
+    "file-recovery:open": 1,
+    "app:reload": 1,
+    "workspaces:load": 1
   },
   "keyboardStatistics": {
-    "insert-template": 25,
-    "switcher:open": 15,
-    "editor:open-search": 1,
+    "insert-template": 24,
+    "switcher:open": 31,
+    "editor:open-search": 3,
     "global-search:open": 1,
-    "workspace:close": 46,
+    "workspace:close": 48,
     "app:go-back": 8,
     "file-explorer:new-file": 3
   }
