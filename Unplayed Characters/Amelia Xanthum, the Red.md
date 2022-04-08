@@ -57,7 +57,7 @@ She is equipped with the following items:
 She holds in her inventory these items:
 - Marble Cube - its six faces each bare a grid of nine squares that extends to the four edges of each face. This is Amelia's most precious possession. She would never willingly part with it. As a part of her Master's teaching; she learned of "the single items", those things that we hold so precious for no other reason than that we do and this gives us comfort. 
 - Explorer's Pack - a collection of things gifted from her master on her long trip.
-- Rapier - purchased from a traveling merchant early in her journey
+- Rapier - gained after a bandit mistook Red for a easy target
 - two Daggers - each strapped under her clothing as emergency weaponry
 
 ## Spells
