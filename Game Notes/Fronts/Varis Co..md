@@ -9,7 +9,7 @@ This is using the [front](https://www.dungeonworldsrd.com/gamemastering/fronts/)
 At the height of peace in the world, disaster strikes. 
 
 ### Dangers
-#### [[The Whitimore Files]]
+#### [[The Whitimores]]
 
 **The Whitimore Drow** are a anarcho-sadist/pro-oppression/pro-resistance *force of chaos* originating in the Underdark bent on the acquisition and distribution of power
 

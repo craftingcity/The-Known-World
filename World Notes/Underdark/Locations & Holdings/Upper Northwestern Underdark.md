@@ -23,7 +23,7 @@ To their east, a dragon hunts.
 
 South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Actstow]] to the far north of [[Coalition City]].
 
-Far to its south, [[Mulutumi]] is a fungal city, home to all in the underdark. This is where [[The Whitimore Files|The Whitimore]] fled to after being exiled from [[Ungaethram]].
+Far to its south, [[Ootool]] is a fungal city, home to all in the underdark. This is where [[The Whitimores]] fled to after being exiled from [[Ungaethram]].
 
 Centered between the [[Inverted Tower]], [[Deepburrow]], and [[Mulutumi]] is the [[Grazing Fields]]. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
 

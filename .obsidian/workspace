@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "720ad9329ea5b0aa",
+        "id": "5916963a1965f88e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relational_map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -127,13 +127,7 @@
               "type": "graph-analysis",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "57667a6297f0a362",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "ef24a1b0a2f3dc45",
             "type": "leaf",
@@ -142,23 +136,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 280.6111145019531
   },
-  "active": "720ad9329ea5b0aa",
+  "active": "5916963a1965f88e",
   "lastOpenFiles": [
     "Game Notes/Fronts/The Whitimore Files.md",
+    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+    "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
+    "Game Notes/Prenotes/Prenotes Dec 11 21.md",
     "Game Notes/Fronts/Varis Co..md",
+    "World Notes/Underdark/Groups/The Whitimores.md",
     "Game Notes/Fronts/Hobgoblin Wars.md",
-    "Game Notes/Fronts/The War on Tetrimoc.md",
-    "World Notes/Prime Material - Alaturmen/Organizational Notions.md",
-    "Game Notes/A Grand Notepad.md",
-    "conflict-files-obsidian-git.md",
-    "Gudeliva.md",
-    "World Notes/Underdark/Tables/Underdark Travel Table.md",
-    "World Notes/Underdark/Underdark Threats.md"
+    "Game Notes/Fronts/The War on Tetrimoc.md"
   ]
 }

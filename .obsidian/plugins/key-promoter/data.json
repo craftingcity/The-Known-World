@@ -13,9 +13,9 @@
     "app:delete-file": 9,
     "editor:delete-paragraph": 9,
     "graph:open": 4,
-    "workspace:undo-close-pane": 11,
-    "workspace:close": 11,
-    "workspace:close-others": 11,
+    "workspace:undo-close-pane": 12,
+    "workspace:close": 12,
+    "workspace:close-others": 12,
     "obsidian-dangling-links:show-dangling-links-view": 2,
     "backlink:open": 2,
     "backlink:open-backlinks": 9,
@@ -32,10 +32,10 @@
   "keyboardStatistics": {
     "insert-template": 24,
     "switcher:open": 31,
-    "editor:open-search": 3,
+    "editor:open-search": 6,
     "global-search:open": 1,
-    "workspace:close": 48,
-    "app:go-back": 8,
+    "workspace:close": 54,
+    "app:go-back": 9,
     "file-explorer:new-file": 3
   }
 }
