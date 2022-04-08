@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.6111145019531
+    "width": 280.6111145019531,
+    "collapsed": true
   },
   "active": "5916963a1965f88e",
   "lastOpenFiles": [
-    "Game Notes/Fronts/The Whitimore Files.md",
-    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
-    "World Notes/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Game Notes/Encounters/The Varis Hit.md",
-    "Game Notes/Prenotes/Prenotes Dec 16 21.md",
-    "Game Notes/Prenotes/Prenotes Dec 11 21.md",
-    "Game Notes/Fronts/Varis Co..md",
-    "World Notes/Underdark/Groups/The Whitimores.md",
-    "Game Notes/Fronts/Hobgoblin Wars.md",
-    "Game Notes/Fronts/The War on Tetrimoc.md"
+    "gifts 4 mimi.md",
+    "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
+    "World Notes/Underdark/Locations & Holdings/Ootool.md",
+    "README.md",
+    "Underdark NPC Names.md",
+    "Game Notes/NPCs/Prime/Qiell Tilemundon.md",
+    "For My Players/Dear Bardaux.md",
+    "Game Notes/NPCs/Underdark/Travelers/Blzldlp.md",
+    "Game Notes/Mechanics/Custom Feats.md",
+    "Game Notes/Fronts/The Whitimore Files.md"
   ]
 }

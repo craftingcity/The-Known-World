@@ -10,8 +10,8 @@
     "file-explorer:new-file": 2,
     "workspaces:open-modal": 3,
     "editor:attach-file": 1,
-    "app:delete-file": 10,
-    "editor:delete-paragraph": 10,
+    "app:delete-file": 11,
+    "editor:delete-paragraph": 11,
     "graph:open": 4,
     "workspace:undo-close-pane": 12,
     "workspace:close": 12,
@@ -22,7 +22,7 @@
     "backlink:toggle-backlinks-in-document": 2,
     "outgoing-links:open": 2,
     "outgoing-links:open-for-current": 3,
-    "editor:rename-heading": 1,
+    "editor:rename-heading": 2,
     "editor:save-file": 1,
     "workspaces:save-and-load": 2,
     "file-recovery:open": 1,
@@ -30,7 +30,7 @@
     "workspaces:load": 1
   },
   "keyboardStatistics": {
-    "insert-template": 24,
+    "insert-template": 27,
     "switcher:open": 31,
     "editor:open-search": 6,
     "global-search:open": 1,
