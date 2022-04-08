@@ -7,11 +7,8 @@
         "id": "5916963a1965f88e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Fronts/The Whitimore Files.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Fronts/The Whitimore Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Fronts/The Whitimore Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Fronts/The Whitimore Files.md"
-              }
+              "state": {}
             }
           },
           {
