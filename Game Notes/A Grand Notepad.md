@@ -16,7 +16,8 @@ Blood of [[Travis]]; "Blood of a brother..."
 
 [[The Pantheon#Sama]] takes Amashod if she goes down in a fight around here.
 
-
+### Future Sense
+The [[Ungaethram Drow Houses|Nobles]] of [[Ungaethram]] excommunicated House [[The Whitimores|Whitimore]] not only for their belief in the false god, they were also removed for working with the Fire Giant Snure.
 # NEXT SESSION
 
 [[Gudeliva]] is sick, they need to rest in [[Ootool]]. Krenzo pops off the plan before they all enter the city (if it goes off without a hitch, he can use the urban center as getaway). Run [[Prenotes Mar 27 22#Kayus]] after [[Ootool]].

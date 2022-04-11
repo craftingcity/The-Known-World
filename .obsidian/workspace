@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
+            "file": "Game Notes/A Grand Notepad.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md",
+                "file": "Game Notes/A Grand Notepad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unplayed Characters/Amelia Xanthum, the Red.md"
+                "file": "Game Notes/A Grand Notepad.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "0c2ba1cdf89aac4b",
   "lastOpenFiles": [
+    "Game Notes/A Grand Notepad.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
     "World Notes/Prime Material - Alaturmen/Horde.md",
     "conflict-files-obsidian-git.md",
@@ -160,7 +161,6 @@
     "Ootool.md",
     "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "Game Notes/Prenotes/Prenotes Mar 05 22.md",
-    "Game Notes/Prenotes/Prenotes Mar 27 22.md",
-    "World Notes/Underdark/Locations & Holdings/Ungaethram.md"
+    "Game Notes/Prenotes/Prenotes Mar 27 22.md"
   ]
 }
