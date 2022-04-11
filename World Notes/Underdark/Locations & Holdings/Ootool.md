@@ -4,10 +4,10 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity: 
-Population:
-Defenses:
-Other Tags:
+Prosperity: Poor
+Population: Steady
+Defenses: Legion
+Other Tags: Safe, Exotic (Fungus - Weaponry, Medicine) Emnity (Trogg Territories)
 
 # Description
 The "city" of Ootool, so it is called, is alive. It is the city and its inhabitants, the fungal growth spreading through the Underdark dying and growing and so slowly moving - and only if it is suited. Fables declare Ootool to be infinite in its wisdom, and its journeys for decades if necessary.
@@ -25,5 +25,8 @@ If it differs from the nation's...
 ## Defenses
 
 ## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
+The Gear Shop
+- Fungal "Blades"
+- Distilled Fungus Jar
+- 
 
