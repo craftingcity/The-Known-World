@@ -7,7 +7,7 @@ aliases:
 Prosperity: Poor
 Population: Steady
 Defenses: Legion
-Other Tags: Safe, Exotic (Fungus - Weaponry, Medicine) Emnity (Trogg Territories)
+Other Tags: Exotic (Fungus - Weaponry, Medicine) Emnity (Trogg Territories)
 
 # Description
 The "city" of Ootool, so it is called, is alive. It is the city and its inhabitants, the fungal growth spreading through the Underdark dying and growing and so slowly moving - and only if it is suited. Fables declare Ootool to be infinite in its wisdom, and its journeys for decades if necessary.

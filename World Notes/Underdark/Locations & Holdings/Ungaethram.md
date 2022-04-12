@@ -6,11 +6,11 @@ aliases:
 # Holding Tags
 Prosperity: Wealthy
 Population: Growing
-Defenses: Garrison
-Other Tags: Religion (Lolth), Resource (), Emnity (Ammyrain, Trog Territory)
+Defenses: Legion+ (population of humanoids and spiderkin, Lolth's Favor)
+Other Tags: Religion (Lolth), Resource (), Emnity (Duergar erritories, Trog Territory)
 
 # Description
-Ungaethram is a large drow city in a [[Underdark Travel Table#Entering a New Space|gigantic vault]]. Each of the Houses has their own estates inside the vault, and they are often about two hour's walk and "community" space inbetween. Much of the cave is light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
+Ungaethram is a the capital city of the Lolth-Drow. The ciin a [[Underdark Travel Table#Entering a New Space|gigantic vault]]. Each of the Houses has their own estates inside the vault, and they are often about two hour's walk and "community" space inbetween. Much of the cave is light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
 ## Physicality of the Holding
 Towering stone buildings stand above the ramshackle barrelstalk constructions that make up the most of the Ungaethram. The [[Ungaethram Drow Houses#The Upper Third|upper thrid]] each have a tower in Ungaethram, but the rest of the houses make due with whatever they can build and buy. 
 ## Population Distribution

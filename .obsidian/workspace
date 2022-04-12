@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0c2ba1cdf89aac4b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
-            "mode": "source"
+        "id": "762a49ef2859e34a",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c2ba1cdf89aac4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0167643026a57965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "0b5c96ea2ee6da8b",
@@ -79,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md"
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md"
               }
             }
           },
@@ -161,8 +179,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "0c2ba1cdf89aac4b",
+  "active": "0167643026a57965",
   "lastOpenFiles": [
+    "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+    "Ungaethram to be.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Flaker, Ootool Servicer.md",
@@ -170,8 +190,6 @@
     "Unplayed Characters/Amelia Xanthum, the Red.md",
     "World Notes/Prime Material - Alaturmen/Horde.md",
     "conflict-files-obsidian-git.md",
-    "Dear Bardaux.md",
-    "Sometimes, you need villans..md",
-    "Ootool.md"
+    "Dear Bardaux.md"
   ]
 }
