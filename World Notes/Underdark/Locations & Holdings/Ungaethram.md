@@ -10,7 +10,11 @@ Defenses: Legion+ (population of humanoids and spiderkin, Lolth's Favor)
 Other Tags: Religion (Lolth), Resource (), Emnity (Duergar erritories, Trog Territory)
 
 # Description
-Ungaethram is a the capital city of the Lolth-Drow. The ciin a [[Underdark Travel Table#Entering a New Space|gigantic vault]]. Each of the Houses has their own estates inside the vault, and they are often about two hour's walk and "community" space inbetween. Much of the cave is light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
+Ungaethram is a name twofold. It names the capital city of the Lolth Drow and the vault that city resides in. The entrances to the vault have been curated by its inhabitants; there are a half dozen "horizontal" entrances and only four "vertical" entrances. These points are heavily monitored and often guarded. 
+
+The city itself is a sprawling growth of beautiful elven architecture centered around a massive pillar carved into the shape of their Goddess, the Spider Queen, Lolth.
+
+Much of the vault is light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
 ## Physicality of the Holding
 Towering stone buildings stand above the ramshackle barrelstalk constructions that make up the most of the Ungaethram. The [[Ungaethram Drow Houses#The Upper Third|upper thrid]] each have a tower in Ungaethram, but the rest of the houses make due with whatever they can build and buy. 
 ## Population Distribution
