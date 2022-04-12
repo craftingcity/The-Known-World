@@ -74,3 +74,9 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 
 
 ####
+
+# Non-God Powers
+## Planar Rulers
+Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level".
+
+#### Demegorgan, the Demon King of Chaos

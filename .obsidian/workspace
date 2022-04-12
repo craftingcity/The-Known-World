@@ -4,44 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3234422ead25a87",
+        "id": "8129659ddcddc002",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/A Grand Notepad.md",
+            "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "c74c638c467d36d4",
-        "type": "split",
-        "children": [
-          {
-            "id": "525e9d3c3f4ada59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8b8dedcb9ef5b996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar XX XX.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar XX XX.md",
+                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar XX XX.md",
+                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar XX XX.md"
+                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md"
               }
             }
           },
@@ -179,17 +150,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "8b8dedcb9ef5b996",
+  "active": "8129659ddcddc002",
   "lastOpenFiles": [
-    "Prenotes Mar XX XX.md",
-    "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Game Notes/A Grand Notepad.md",
+    "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
+    "Prenotes Mar XX XX.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
     "Kohnstamm.md",
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "Game Notes/NPCs/Prime/Coalition Guild/Admin/Adriana Fairlin Franx.md"
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
   ]
 }
