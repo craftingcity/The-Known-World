@@ -32,9 +32,9 @@ Including both locations in the holding and around it, such as "the cave three m
 
 # Politics
 ## [[Ungaethram Drow Houses#The Upper Third|"The Upper Third"]]
-The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram. For the most part, their interactions decide the fate of Ungaethram. To help visualize the ongoings of the city, each house is given a number representing its relative power to the other top houses. In total, there is 90 "political power" among the top 18 Houses in the city. There is 10 distributed among the
+The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram. For the most part, their interactions decide the fate of Ungaethram. To help visualize the ongoings of the city, each house is given a number representing its relative power to the other top houses. In total, there is 90 "political power" among the top 18 Houses in the city. There is 10 distributed among the countless Lesser Houses.
 
-- The greatest **House Baenre**
+- The greatest **House Baenre** ()
 	- blue six point star on purple
 - The leaders in magic **House Barrison Del'Armgo**
 	- black spider iconography on red
@@ -43,4 +43,14 @@ The upper third is a group of 18 powerful drow families that wield the most powe
 - The trade-pin **House Faen Tlabbar**
 	- 
 - The reclusive judge-sorcerers of **House Xorlarrin**
-- The magical warlords **House Agrach Dyrr**
+- The magical warlords of **House Agrach Dyrr**
+- The two-faced traders of **House Mizzrym**
+- The mushroom barons of **House Fey Branch** and their *Brown Mushroom Merchant Company*
+- The fast risers of **House Tuin'Tarl**
+- The militant yet weak members of **House Duskryn**
+- The contended of **House Srune'lett**
+- The dual-mothered of **House Horlbar**
+- The harsh inner-dealers of **House Kenafin**
+- The magical bankers of **House Druu'giir**
+- The farmers of **House Hunzrin**
+- 
