@@ -28,9 +28,17 @@ LOT: We are ones to keep our word.
 
 KOP: I am [[Fraznky Bradley]], I speak for his Lordship [[Arthur Simonson]], and we too will offer our support in this time.
 
-SPEAKER: Then the entities are in accordance, that this is a threat of major concern?
+SPEAKER: Then the national entities are in accordance, that this is a threat of major concern?
 
-CWF: Our people are still recovering from the great tragedy that befell our lands thirty years ago. We need to rely on your support for our people.
+LOT: Aye.
+
+KOP: Aye.
+
+
+
+CWF: Our people are still recovering from the fires. We were refugees in your arms not 30 years ago, and when we call again you answer. I thank you. My people thank you.
+
+SPEAKER: And the Guild?
 
 ADV.: It is the Guild's position to nip this in the bud - we can create support through volunteer groups and gold - but armies are costly, and Kakurak has performed work for the cause. Supposedly he hired a group of capable adventurers, they've been dealing with some of the major groups already. Smaller teams would be easier to move faster, and if armies really become necessary, we'd support that.
 
