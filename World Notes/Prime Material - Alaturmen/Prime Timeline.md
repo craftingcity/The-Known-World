@@ -99,13 +99,12 @@ date: 103AF
 title: [[The Assault of the Giant Decenters]]
 content:
 
-The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. === currently running, see prenotes from oct 10 - ... ===
+The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, but become crippled at the loss of their friend.
 
 date: 104AF
-title: [[The Hobgoblin Wars]]
-content:
+title: 
 
-War breaks in hobgoblin tribes across [[The Kingdom of Prosper]]. [[Arthur Simonson]] does his best to keep the humaniods of his kingdom safe, but havoc begins to spread across Prosper, threatening spreads. === run a game about this?? ===
+
 
 
 ```

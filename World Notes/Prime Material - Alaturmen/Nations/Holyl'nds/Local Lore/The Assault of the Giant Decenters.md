@@ -1,7 +1,7 @@
 ---
 tags: current, writeup, loreful
 ---
-In the year of 134AF, a group of Giants gathered together with a simple plan. Travel the planes, make space in the [[The Planes of Existence#Prime|Prime Material Plane]] via assaulting and enslaving its inhabitants, and live there free of The Ordening. Snure brought this plan to two other Giant leaders, and plans to spread the word of the great migration. Stone giant groups have heard, but are not particularly interested. Cloud and Storm giant groups outright disavow the plan. Other groups of Frost, Fire, and Hill are in a similar camp to the groups of Stone, currently uninterested and unconvinced.
+In the year of 102AF, a group of Giants gathered together with a simple plan. Travel the planes, make space in the [[The Planes of Existence#Prime|Prime Material Plane]] via assaulting and enslaving its inhabitants, and live there free of The Ordening. Snure brought this plan to two other Giant leaders, and plans to spread the word of the great migration. Stone giant groups heard, but few became interested. Cloud and Storm giant groups outright disavowed the plan. Other groups of Frost, Fire, and Hill are in a similar camp to the groups of Stone, currently uninterested and unconvinced.
 
 To help Snure with this plan, the [[The Whitimores]] provide the means of inter-planar travel. They wish not to fight in the frontlines of the war, but rather to push the giants into the Prime plane to further their own goals of total chaos.
 

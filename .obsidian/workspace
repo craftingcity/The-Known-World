@@ -7,9 +7,21 @@
         "id": "11d02fa8cfc3a0cb",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+            "file": "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1b4804df0aaa8e59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md"
               }
             }
           },
@@ -149,8 +161,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "11d02fa8cfc3a0cb",
+  "active": "1b4804df0aaa8e59",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "Game Notes/Fronts/Varis Co..md",
@@ -158,8 +172,6 @@
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "Game Notes/NPCs/Underdark/Untitled.md",
-    "World Notes/Underdark/Locations & Holdings/Ootool.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "Ungaethram to be.md"
+    "World Notes/Underdark/Locations & Holdings/Ootool.md"
   ]
 }
