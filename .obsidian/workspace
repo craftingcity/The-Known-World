@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Groups/The Whitimores.md",
+            "file": "Game Notes/Fronts/Varis Co..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Groups/The Whitimores.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Groups/The Whitimores.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Groups/The Whitimores.md"
+                "file": "Game Notes/Fronts/Varis Co..md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "11d02fa8cfc3a0cb",
   "lastOpenFiles": [
+    "Game Notes/Fronts/Varis Co..md",
     "World Notes/Underdark/Groups/The Whitimores.md",
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
@@ -160,7 +161,6 @@
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Ungaethram to be.md",
     "Game Notes/NPCs/Underdark/Ootool/Flaker, Ootool Servicer.md",
-    "Game Notes/A Grand Notepad.md",
-    "Unplayed Characters/Amelia Xanthum, the Red.md"
+    "Game Notes/A Grand Notepad.md"
   ]
 }
