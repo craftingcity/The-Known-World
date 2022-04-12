@@ -46,13 +46,15 @@ The upper third is a group of 18 powerful drow families that wield the most powe
 - The magical warlords of **House Agrach Dyrr** (5)
 - The two-faced traders of **House Mizzrym** (5)
 - The mushroom barons of **House Fey Branch** and their *Brown Mushroom Merchant Company* (7)
-- The fast risers of **House Tuin'Tarl**
-- The militant yet weak members of **House Duskryn**
-- The contended of **House Srune'lett**
-- The dual-mothered of **House Horlbar**
-- The harsh inner-dealers of **House Kenafin**
-- The magical bankers of **House Druu'giir**
-- The farmers of **House Hunzrin**
-- The spider-mages of **House Shobalar**
-- The official Alaturmen dealers of **House Vandree**
-- The Ancient Eyes of Lolth; **House Symryvvin**
+- The fast risers of **House Tuin'Tarl** (6)
+- The militant yet weak members of **House Duskryn** (3)
+- The contended of **House Srune'lett** (1)
+- The dual-mothered of **House Horlbar** (2)
+- The harsh inner-dealers of **House Kenafin** (2)
+- The magical bankers of **House Druu'giir** (3)
+- The farmers of **House Hunzrin** (1)
+- The spider-mages of **House Shobalar** (2)
+- The official Alaturmen dealers of **House Vandree** (2)
+- The Ancient Eyes of Lolth; **House Symryvvin** (0/?)
+	- House Symryvvin have never used any means of gaining power within Ungaethram
+	- rumor states that even Matron Baenre requests Matron Symryvvin's wisdom

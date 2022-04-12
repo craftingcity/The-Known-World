@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c2ba1cdf89aac4b",
+        "id": "11d02fa8cfc3a0cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+            "file": "World Notes/Underdark/Groups/The Whitimores.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+                "file": "World Notes/Underdark/Groups/The Whitimores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+                "file": "World Notes/Underdark/Groups/The Whitimores.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md"
+                "file": "World Notes/Underdark/Groups/The Whitimores.md"
               }
             }
           },
@@ -150,8 +150,9 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "0c2ba1cdf89aac4b",
+  "active": "11d02fa8cfc3a0cb",
   "lastOpenFiles": [
+    "World Notes/Underdark/Groups/The Whitimores.md",
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "Game Notes/NPCs/Underdark/Untitled.md",
@@ -160,7 +161,6 @@
     "Ungaethram to be.md",
     "Game Notes/NPCs/Underdark/Ootool/Flaker, Ootool Servicer.md",
     "Game Notes/A Grand Notepad.md",
-    "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "World Notes/Prime Material - Alaturmen/Horde.md"
+    "Unplayed Characters/Amelia Xanthum, the Red.md"
   ]
 }
