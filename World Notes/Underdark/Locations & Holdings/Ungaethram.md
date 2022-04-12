@@ -16,7 +16,7 @@ The city itself is a sprawling growth of beautiful elven architecture centered a
 
 The city's neighborhoods - and at the same time, the [[Ungaethram Drow Houses|Noble House's]] Estates - are visibly different in both style and class from one another. Some estates are massive, the largest of which is alone one of the largest population centers you have ever seen, rivaling Coalition City. In comparison, the estates that claim only one house or two are only worth mentioning for their quantity in the hundreds.
 
-The edges of the vault are light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
+The edges of the vault are light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of a dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
 
 
 ## Population Distribution
