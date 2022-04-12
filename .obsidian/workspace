@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "1b4804df0aaa8e59",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
+    "Kohnstamm.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
     "Game Notes/NPCs/Prime/Coalition Guild/Admin/Adriana Fairlin Franx.md",
     "Politics of Coalition c. 093AF - XXXAF.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "Game Notes/Fronts/Varis Co..md",
-    "World Notes/Underdark/Groups/The Whitimores.md"
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
   ]
 }

@@ -107,9 +107,9 @@ content:
 
 The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, but become crippled at the loss of their friend.
 
-The Coalition has [[Emergency Communicae c. 103AF|a meeting...]]
+The Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]]. 
 
-
+The 
 
 
 ```
