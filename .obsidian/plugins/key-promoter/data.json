@@ -7,7 +7,7 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 3,
+    "file-explorer:new-file": 4,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
     "app:delete-file": 12,
@@ -25,8 +25,8 @@
     "editor:rename-heading": 1
   },
   "keyboardStatistics": {
-    "insert-template": 28,
-    "switcher:open": 25,
+    "insert-template": 29,
+    "switcher:open": 26,
     "editor:open-search": 1,
     "global-search:open": 1,
     "workspace:close": 56,
