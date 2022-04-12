@@ -34,18 +34,18 @@ Including both locations in the holding and around it, such as "the cave three m
 ## [[Ungaethram Drow Houses#The Upper Third|"The Upper Third"]]
 The upper third is a group of 18 powerful drow families that wield the most power in Ungaethram. For the most part, their interactions decide the fate of Ungaethram. To help visualize the ongoings of the city, each house is given a number representing its relative power to the other top houses. In total, there is 90 "political power" among the top 18 Houses in the city. There is 10 distributed among the countless Lesser Houses.
 
-- The greatest **House Baenre** ()
+- The greatest **House Baenre** (21)
 	- blue six point star on purple
-- The leaders in magic **House Barrison Del'Armgo**
+- The leaders in magic **House Barrison Del'Armgo** (8)
 	- black spider iconography on red
-- The psycics of **House Oblodra**
+- The psycics of **House Oblodra** (7)
 	- a gradient of grey pink to lavender in reversing stripes
-- The trade-pin **House Faen Tlabbar**
+- The trade-pin **House Faen Tlabbar** (7)
 	- 
-- The reclusive judge-sorcerers of **House Xorlarrin**
-- The magical warlords of **House Agrach Dyrr**
-- The two-faced traders of **House Mizzrym**
-- The mushroom barons of **House Fey Branch** and their *Brown Mushroom Merchant Company*
+- The reclusive judge-sorcerers of **House Xorlarrin** (7)
+- The magical warlords of **House Agrach Dyrr** (5)
+- The two-faced traders of **House Mizzrym** (5)
+- The mushroom barons of **House Fey Branch** and their *Brown Mushroom Merchant Company* (7)
 - The fast risers of **House Tuin'Tarl**
 - The militant yet weak members of **House Duskryn**
 - The contended of **House Srune'lett**
@@ -53,4 +53,6 @@ The upper third is a group of 18 powerful drow families that wield the most powe
 - The harsh inner-dealers of **House Kenafin**
 - The magical bankers of **House Druu'giir**
 - The farmers of **House Hunzrin**
-- 
+- The spider-mages of **House Shobalar**
+- The official Alaturmen dealers of **House Vandree**
+- The Ancient Eyes of Lolth; **House Symryvvin**

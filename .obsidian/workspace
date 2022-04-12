@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "da6a182d3e2e00aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -165,13 +154,13 @@
   "lastOpenFiles": [
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+    "Game Notes/NPCs/Underdark/Untitled.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Ungaethram to be.md",
-    "Flaker, Ootool Servicer.md",
+    "Game Notes/NPCs/Underdark/Ootool/Flaker, Ootool Servicer.md",
     "Game Notes/A Grand Notepad.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
-    "World Notes/Prime Material - Alaturmen/Horde.md",
-    "conflict-files-obsidian-git.md"
+    "World Notes/Prime Material - Alaturmen/Horde.md"
   ]
 }

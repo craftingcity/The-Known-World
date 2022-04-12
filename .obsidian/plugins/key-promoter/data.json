@@ -10,8 +10,8 @@
     "file-explorer:new-file": 3,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
-    "app:delete-file": 10,
-    "editor:delete-paragraph": 10,
+    "app:delete-file": 12,
+    "editor:delete-paragraph": 12,
     "graph:open": 5,
     "workspace:undo-close-pane": 11,
     "workspace:close": 11,
@@ -26,10 +26,10 @@
   },
   "keyboardStatistics": {
     "insert-template": 27,
-    "switcher:open": 18,
+    "switcher:open": 20,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 51,
+    "workspace:close": 52,
     "app:go-back": 10,
     "file-explorer:new-file": 3,
     "file-explorer:new-file-in-new-pane": 1
