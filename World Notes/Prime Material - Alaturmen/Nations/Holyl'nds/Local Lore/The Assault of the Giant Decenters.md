@@ -18,3 +18,5 @@ Kakurak's team dealt a swift blow to the giants, nearly completely exterminating
 Kakurak's team was dealt a hard and unexpected blow when they were attacked by a group known as [[The Whitimores]] - a group of drow from the Underdark, who said they could help.
 
 Snure's second wave was met with much less resistance. The Frost Giants and the Fire Giants were well equipped to attack the defence-poor humanoid settlements in the [[The Holyl'nds|northwest]].
+
+The entity known as [[Coalition's Founding Document|Coalition]]
