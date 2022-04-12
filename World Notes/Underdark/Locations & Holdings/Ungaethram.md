@@ -12,11 +12,13 @@ Other Tags: Religion (Lolth), Resource (), Emnity (Duergar erritories, Trog Terr
 # Description
 Ungaethram is a name twofold. It names the capital city of the Lolth Drow and the vault that city resides in. The entrances to the vault have been curated by its inhabitants; there are a half dozen "horizontal" entrances and only four "vertical" entrances. These points are heavily monitored and often guarded. 
 
-The city itself is a sprawling growth of beautiful elven architecture centered around a massive pillar carved into the shape of their Goddess, the Spider Queen, Lolth.
+The city itself is a sprawling growth of beautiful elven architecture centered around a massive pillar carved into the shape of their Goddess, the Spider Queen, Lolth. 
 
-Much of the vault is light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
-## Physicality of the Holding
-Towering stone buildings stand above the ramshackle barrelstalk constructions that make up the most of the Ungaethram. The [[Ungaethram Drow Houses#The Upper Third|upper thrid]] each have a tower in Ungaethram, but the rest of the houses make due with whatever they can build and buy. 
+The city's neighborhoods - and at the same time, the [[Ungaethram Drow Houses|Noble House's]] Estates - are visibly different in both style and class from one another. Some estates are massive, the largest of which is alone one of the largest population centers you have ever seen, rivaling Coalition City. In comparison, the estates that claim only one house or two are only worth mentioning for their quantity in the hundreds.
+
+The edges of the vault are light by the glowing red of the fey-beetle that live in this space. They are cast from the city proper wherever possible - they are a menace to food and textiles - where instead the drow favor the glow of dull blue; most of the estates have purchased the House Barrison Del'Armgo's lighting solution, the everlight brazier. They only sell it in blue. 
+
+
 ## Population Distribution
 Nearly 7/10th drow, and then 1/20th each of dwarves, gnifrblin, goblins, kuo-tao, human, and small collections of the other races.
 
