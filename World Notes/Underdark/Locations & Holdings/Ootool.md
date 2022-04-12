@@ -22,13 +22,24 @@ Ootool is a large slowly shifting fungal city. It takes years for it to move mor
 Most of the population of Ootool is non-humanoid fungals. Some humanoids reside in Ootool, some of which are fungal.
 
 ## Defenses
-Ootool is capable of defending itself with spores if nece
+Ootool is capable of defending itself with spores if necessary, but it is mostly reliant on its inhabitants for protection.
 
 ## Notable Locations
 Ootool currently resides in an area of ancient power and current plot significance. It would be useful for Ootool's area to be well defined.
 
-Gimble sells weapons - poor imitations of typical humanoid weaponry that packs quite a powerful effect into an otherwise despicable blade.
-Tungle Ciim sells potions - brewed from the pollen of Ootool.
-Conspicuous Temple - the lair of [[The Whitimores]].
+One portion is maintained by the Scale Clan of trogladytes who travel with Ootool and defend it while reaping their reward - multicolored fungal scales. These are greatly important to their culture.
+
+- Temp
+
+One portion is maintained by a group of mutated humanoids. They call eachother Servitors. Each sports a fungal growth from an orifice of theirs.
+
+- Largegate
+- 
+
+Three central portions are maintained by a group of fungaloids. They do not welcome outsiders, but will gladly work with them for mutual gain.
+
+- Tunnel Maze
+- Central Stalks
+- Regrowth Chamber
 
 

@@ -4,41 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "762a49ef2859e34a",
-        "type": "split",
-        "children": [
-          {
-            "id": "0c2ba1cdf89aac4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0167643026a57965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "0b5c96ea2ee6da8b",
+        "id": "0c2ba1cdf89aac4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Holding Rules.md",
+            "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
             "mode": "source"
           }
         }
@@ -182,9 +153,9 @@
   "active": "0c2ba1cdf89aac4b",
   "lastOpenFiles": [
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
+    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "Ungaethram to be.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Flaker, Ootool Servicer.md",
     "Game Notes/A Grand Notepad.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
