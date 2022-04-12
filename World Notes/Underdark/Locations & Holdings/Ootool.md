@@ -27,19 +27,25 @@ Ootool is capable of defending itself with spores if necessary, but it is mostly
 ## Notable Locations
 Ootool currently resides in an area of ancient power and current plot significance. It would be useful for Ootool's area to be well defined.
 
-One portion is maintained by the Scale Clan of trogladytes who travel with Ootool and defend it while reaping their reward - multicolored fungal scales. These are greatly important to their culture.
+Two portions are maintained by the Scale Clan of trogladytes who travel with Ootool and defend it while reaping their reward - multicolored fungal scales. These are greatly important to their culture.
 
-- Temp
+- Temple White
+- Temple Blue
+- Temple Brown
+- The Climb
 
 One portion is maintained by a group of mutated humanoids. They call eachother Servitors. Each sports a fungal growth from an orifice of theirs.
 
 - Largegate
-- 
+- Housing
+- Feeding Growths
 
 Three central portions are maintained by a group of fungaloids. They do not welcome outsiders, but will gladly work with them for mutual gain.
 
 - Tunnel Maze
 - Central Stalks
 - Regrowth Chamber
+- Gathering Hall
+- Gallery
 
 

@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+            "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "da6a182d3e2e00aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md"
+                "file": "World Notes/Underdark/Locations & Holdings/Ungaethram.md"
               }
             }
           },
@@ -152,15 +163,15 @@
   },
   "active": "0c2ba1cdf89aac4b",
   "lastOpenFiles": [
+    "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
+    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "World Notes/Underdark/Locations & Holdings/Ungaethram.md",
     "Ungaethram to be.md",
     "Flaker, Ootool Servicer.md",
     "Game Notes/A Grand Notepad.md",
     "Unplayed Characters/Amelia Xanthum, the Red.md",
     "World Notes/Prime Material - Alaturmen/Horde.md",
-    "conflict-files-obsidian-git.md",
-    "Dear Bardaux.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
