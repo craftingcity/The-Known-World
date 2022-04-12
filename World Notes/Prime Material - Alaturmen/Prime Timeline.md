@@ -89,21 +89,23 @@ content:
 
 [[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of Orcus. After a long battle, Orcus was returned to wherever he once came. This battle culminated in the [[The Democratic Combine of Peoples|southeast]], specifically the region of [[Hyjeovo]].
 
+While the demons were foiled, they were not destroyed. The Hells will strike again, in a long time. 
+
 date: 092AF
 title: The Great Retirement
 content:
+![[alaturmen-100AF.png]]
 
-[[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands, and this age ends. [[Tetrimoc]] no longer is a visible leader of his flock (as such his journal is widely distributed by scribes), and the [[Golden Claws]] become the driving political power of [[The Lands of Tetrimoc]].
+[[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands, and this age of beginning ends. 
+
+[[Tetrimoc]] no longer is a visible leader of his flock (as such his journal is widely distributed by scribes), and the [[Golden Claws]] become the driving political power of [[The Lands of Tetrimoc]].
+
 
 date: 103AF
 title: [[The Assault of the Giant Decenters]]
 content:
 
 The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, but become crippled at the loss of their friend.
-
-date: 104AF
-title: 
-
 
 
 
