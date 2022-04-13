@@ -79,14 +79,14 @@ Some creatures of this place have become so powerful that they have become god-l
 ## Outer Planar Rulers
 Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level".
 
-#### Demegorgan, the Demon King of the Abyss
-Demegorgan is the most powerful demon in the Abyss.
+#### Demogorgan, the Demon King of the Abyss
+[[Demogorgan]] is the most powerful demon in the [[Abyss]].
 #### Asmodeus, the Grand Arch-Devil of Nessus and All Baator
 [[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of the Hells.
 #### The Queen of Swords
 The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
 #### [[Waghoba, Beast of Arcadia]]
-The great feline beast ruling the chaotic jungles of [[Arcadia]]
+The great feline beast ruling the chaotic jungles of [[Arcadia]].
 
 
 ## Inner Planar Rulers
