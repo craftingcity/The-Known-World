@@ -10,8 +10,8 @@
     "file-explorer:new-file": 4,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
-    "app:delete-file": 12,
-    "editor:delete-paragraph": 12,
+    "app:delete-file": 13,
+    "editor:delete-paragraph": 13,
     "graph:open": 5,
     "workspace:undo-close-pane": 11,
     "workspace:close": 11,
@@ -29,8 +29,8 @@
     "switcher:open": 27,
     "editor:open-search": 1,
     "global-search:open": 1,
-    "workspace:close": 59,
-    "app:go-back": 12,
+    "workspace:close": 60,
+    "app:go-back": 13,
     "file-explorer:new-file": 3,
     "file-explorer:new-file-in-new-pane": 1
   }

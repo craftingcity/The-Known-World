@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8129659ddcddc002",
+        "id": "b8c569de2e10d98a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-            "mode": "source"
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md"
               }
             }
           },
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "57667a6297f0a362",
@@ -147,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.6111145019531,
-    "collapsed": true
+    "width": 280.6111145019531
   },
-  "active": "8129659ddcddc002",
+  "active": "b8c569de2e10d98a",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
+    "Kohnstamm.md",
+    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+    "Politics of Coalition c. 093AF - XXXAF.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Game Notes/A Grand Notepad.md",
     "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
     "Prenotes Mar XX XX.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Local Lore/The Assault of the Giant Decenters.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-    "Kohnstamm.md",
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
   ]
 }
