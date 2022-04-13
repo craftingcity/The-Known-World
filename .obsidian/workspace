@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c569de2e10d98a",
+        "id": "069685dcae93acdb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-            "mode": "preview"
-          }
+          "type": "FANTASY_CALENDAR",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,13 +121,23 @@
               "type": "graph-analysis",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "57667a6297f0a362",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "5b48e40e4f533d50",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc7e29ccdba2f14c",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
           {
             "id": "ef24a1b0a2f3dc45",
             "type": "leaf",
@@ -142,14 +146,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 280.6111145019531
   },
-  "active": "b8c569de2e10d98a",
+  "active": "069685dcae93acdb",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
+    "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
     "Kohnstamm.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
@@ -157,8 +164,6 @@
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Game Notes/A Grand Notepad.md",
     "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
-    "Prenotes Mar XX XX.md",
-    "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "Prenotes Mar XX XX.md"
   ]
 }
