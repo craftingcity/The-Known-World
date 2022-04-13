@@ -30,12 +30,12 @@
   },
   "keyboardStatistics": {
     "insert-template": 29,
-    "switcher:open": 28,
+    "switcher:open": 29,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 60,
+    "workspace:close": 62,
     "app:go-back": 13,
-    "file-explorer:new-file": 3,
+    "file-explorer:new-file": 4,
     "file-explorer:new-file-in-new-pane": 1
   }
 }

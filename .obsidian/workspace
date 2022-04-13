@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "069685dcae93acdb",
+        "id": "019eb2423c6dde43",
         "type": "leaf",
         "state": {
-          "type": "FANTASY_CALENDAR",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Map of Alaturmen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "708a5904de43eea0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -66,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Map of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Map of Alaturmen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Map of Alaturmen.md"
+              }
             }
           },
           {
@@ -151,19 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.6111145019531
+    "width": 280.6111145019531,
+    "collapsed": true
   },
-  "active": "069685dcae93acdb",
+  "active": "019eb2423c6dde43",
   "lastOpenFiles": [
+    "Map of Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
     "Kohnstamm.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
     "Politics of Coalition c. 093AF - XXXAF.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Game Notes/A Grand Notepad.md",
-    "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
-    "Prenotes Mar XX XX.md"
+    "Game Notes/A Grand Notepad.md"
   ]
 }
