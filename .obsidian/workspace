@@ -10,18 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Map of Alaturmen.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "708a5904de43eea0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -174,6 +163,7 @@
   "active": "019eb2423c6dde43",
   "lastOpenFiles": [
     "Map of Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
     "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
@@ -181,7 +171,6 @@
     "Kohnstamm.md",
     "World Notes/Prime Material - Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
     "Politics of Coalition c. 093AF - XXXAF.md",
-    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Game Notes/A Grand Notepad.md"
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md"
   ]
 }
