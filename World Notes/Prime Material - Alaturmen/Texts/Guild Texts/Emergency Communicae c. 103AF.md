@@ -28,12 +28,26 @@ LOT: We are ones to keep our word.
 
 KOP: I am [[Fraznky Bradley]], I speak for his Lordship [[Arthur Simonson]], and we too will offer our support in this time.
 
-SPEAKER: Then the entities are in accordance, that this is a threat of major concern?
+SPEAKER: Then the national entities are in accordance, that this is a threat of major concern?
 
-CWF: Our people are still recovering from the great tragedy that befell our lands thirty years ago. We need to rely on your support for our people.
+LOT: Aye.
 
-ADV.: It is the Guild's position to nip this in the bud - we can create support through volunteer groups and gold - but armies are costly, and Kakurak has performed work for the cause. Supposedly he hired a group of capable adventurers, they've been dealing with some of the major groups already. Smaller teams would be easier to move faster, and if armies really become necessary, we'd support that.
+KOP: Aye.
 
-CWF: I am told we are not to discuss military matters in detail here. We fully accept the support of [[The Democratic Combine of Peoples]] and [[The Lands of Tetrimoc]]. [[The Church of the White Flame]] wishes to convey invitations to talk in further detail, we will hold a council in [[Kohnstamm]] for those who would wish to attend. Please be swift with your reinforcements.
+
+
+CWF: Our people are still recovering from the fires. We were refugees in your arms not 30 years ago, and when we call again you answer. I thank you. My people thank you.
+
+SPEAKER: And the Guild?
+
+ADV.: It is the Guild's position to nip this in the bud - we can create support through volunteer groups and gold - but armies are costly, and Kakurak has performed work for the cause. Supposedly he hired a group of capable adventurers, they've been dealing with some of the major groups already. Smaller teams would be easier to move faster, and if armies really become necessary, we'd support that. Could you pass that here?
+
+*the paper is passed*
+
+Mhm. Okay yeah. So if we -
+
+SPEAKER: Excuse me! I am told we are not to discuss military matters in detail here. Representative Silvan?
+
+CWF: We will hold a council in [[Kohnstamm]] for those who would wish to attend. Please be swift with your reinforcements.
 
 SPEAKER: With that call to arms, our time for this issue is complete. Thank you for your day.

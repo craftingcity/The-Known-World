@@ -7,15 +7,20 @@ I want to make the lore of my world cool and interactive. [[Historical Markings]
 
 ### PROJECT ELVES
 
-Make elves cool and old-tolkein-esq; good crafters and enchanters - similar with dwarves; next to do - but they got hit hard early with [[The Old|Minyostalma]] and the [[50 Year White Burning]].
+- finish heratige pages
+- populate cultural centers with hotspots
+- continue to record history
 
 ### Gen
 What if [[Kakurak]] died and turned into a lich's pet?
+- this seems like it would happen at a later date
 
 Blood of [[Travis]]; "Blood of a brother..."
+Body of [[Bardaux]]; "Body of a betrayer..."
 
 [[The Pantheon#Sama]] takes Amashod if she goes down in a fight around here.
 
+The [[Ungaethram Drow Houses|Nobles]] of [[Ungaethram]] excommunicated House [[The Whitimores|Whitimore]] not only for their belief in the false god, they were also removed for working with the Fire Giant Snure.
 
 # NEXT SESSION
 
@@ -23,4 +28,4 @@ Blood of [[Travis]]; "Blood of a brother..."
 
 I want a few scenes with Krezo, Wyruq, and Blug Fpurgz before the crew reaches [[Ootool]].
 
-[[Ootool]] should feel alien, desolate yet alive, isolated yet bursting. Interaction with traditional NPCs should be kept to those who have entered with the party - all in-city folk are to be fungal, non-humanoid, or otherwise outcast, except for the Whitimore Drow posted on watch equipped with a suicide tooth if caught. 
+[[Ootool]] should feel alien, desolate yet alive, isolated yet bursting. Interaction with traditional NPCs should be kept to those who have entered with the party - all in-city folk are to be fungal, non-humanoid, or otherwise outcast, except for the Whitimore Drow posted on watch equipped with a suicide tooth if caught and the groups described in the homepage for the holding. 
