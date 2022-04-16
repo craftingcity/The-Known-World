@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
                 "mode": "source"
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 16 22.md"
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md"
               }
             }
           },
@@ -200,17 +200,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "cb8a8f0123aad89f",
+  "active": "498df0e78ea33039",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
-    "World Notes/Underdark/Tables/Underdark Travel Table.md",
-    "Game Notes/A Grand Notepad.md",
+    "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
+    "World Notes/Underdark/Tables/Underdark Travel Table.md",
+    "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
+    "Game Notes/A Grand Notepad.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Prime Material - Alaturmen/Tracking/Who has a Horde.md",
     "conflict-files-obsidian-git.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md"
   ]
 }
