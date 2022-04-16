@@ -2,4 +2,4 @@ Old Elves, ie the Elves of first generation come from [[Feywild|the land of Fey,
 
 - The first city; [[The Old|Minyostalma]]
 	- "It was a beautiful sight - they were expert craftsfolk. I recall the marble and jade halls."
-	- It still holds the ancient weaponry of the expert craftsfolk - a [[Horde]]
+	- It still holds the ancient weaponry of the expert craftsfolk - a [[Who has a Horde]]
