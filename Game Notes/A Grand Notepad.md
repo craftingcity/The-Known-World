@@ -29,3 +29,4 @@ The [[Ungaethram Drow Houses|Nobles]] of [[Ungaethram]] excommunicated House [[T
 I want a few scenes with Krezo, Wyruq, and Blug Fpurgz before the crew reaches [[Ootool]].
 
 [[Ootool]] should feel alien, desolate yet alive, isolated yet bursting. Interaction with traditional NPCs should be kept to those who have entered with the party - all in-city folk are to be fungal, non-humanoid, or otherwise outcast, except for the Whitimore Drow posted on watch equipped with a suicide tooth if caught and the groups described in the homepage for the holding. 
+
