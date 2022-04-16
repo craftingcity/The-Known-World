@@ -22,4 +22,9 @@ Another hour or so later, the party hears another bellow.
 
 After passing the Worm's Road, the party finds the fissure that leads to [[Ootool]].
 
+
+
 3, 4, 4, 1
+
+
+full rations tonight
