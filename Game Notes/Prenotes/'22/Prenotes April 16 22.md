@@ -26,5 +26,9 @@ After passing the Worm's Road, the party finds the fissure that leads to [[Ootoo
 
 3, 4, 4, 1
 
+[[Gudeliva]] was recognized and healed by the Troggs
+
+The party set up camp at the Public Purple Toadstool in the central housing area of the humanoid cave4rn of Ootool.
+
 
 full rations tonight
