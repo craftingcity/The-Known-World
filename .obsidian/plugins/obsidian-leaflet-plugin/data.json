@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "alaturmen-rolling",
-      "lastAccessed": 1650137128845,
+      "lastAccessed": 1650482669857,
       "markers": [
         {
           "id": "ID_f9ca5a494a38",
@@ -74,6 +74,22 @@
           "loc": [
             -0.9798176884651184,
             0.06589747074095653
+          ],
+          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8d8fae9281b",
+          "type": "default",
+          "loc": [
+            -0.7649739384651184,
+            0.5971129015982377
           ],
           "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
           "mutable": true,
@@ -247,9 +263,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
