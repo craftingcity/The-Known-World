@@ -4,26 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "019eb2423c6dde43",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
-            "mode": "source"
+        "id": "7feab182729c235f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e196a8da27827f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "019eb2423c6dde43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "0e196a8da27827f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -182,14 +189,14 @@
   "active": "0e196a8da27827f7",
   "lastOpenFiles": [
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Actstow Hills.md",
+    "MEDIA/MAPS/alaturmen-100AF.png",
+    "Game Notes/A Grand Notepad.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Deakred Range.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
     "World Notes/Stubs/Durandurm Weaponry.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/Kickoff.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/The Outlands.md",
-    "Map of Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Holyl'nds.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/Kickoff.md"
   ]
 }
