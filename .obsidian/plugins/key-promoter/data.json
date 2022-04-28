@@ -31,13 +31,13 @@
     "table-editor-obsidian:delete-row": 1
   },
   "keyboardStatistics": {
-    "insert-template": 29,
-    "switcher:open": 34,
+    "insert-template": 30,
+    "switcher:open": 35,
     "editor:open-search": 2,
     "global-search:open": 1,
     "workspace:close": 63,
     "app:go-back": 13,
-    "file-explorer:new-file": 4,
+    "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,
     "editor:save-file": 1
   }
