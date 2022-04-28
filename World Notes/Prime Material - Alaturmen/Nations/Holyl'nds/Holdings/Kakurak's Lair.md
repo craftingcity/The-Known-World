@@ -3,7 +3,7 @@ tags: holding, dragon, current
 ---
 # Kakurak's Lair
 
-The Adult Bronze dragon Kakurak (120 years) lives in a wet cave edged to the Firelight Sea in the [[The Holyl'nds|Lands of the Great White Flame]]. He keeps a satyr druid Marcus as his servant and companion, and tasks himself with protecting the people of the Known World.
+The Adult Bronze dragon Kakurak (120 years) lives in a wet cave edged to the [[Firelight Sea]] in the [[The Holyl'nds|Lands of the Great White Flame]]. He keeps a satyr druid Marcus as his servant and companion, and tasks himself with protecting the people of the Known World.
 
 1. Cave Enterence
 
@@ -29,7 +29,7 @@ In this large rectangular hall, lead plates cover the carved space here. Dark st
 
 - An *indestructability generator*. This small circular plate looks to be made of iron and is the size of a small coin. It bares no features. When held to something and its command word spoken, the plate attatches to the item and creates a thin field of dense Weave, bestowing the following affects; the item's AC is raised by 10 or set to 20, whichever is higher. If attatched to a set of armor, the armor gains a +4 bonus in addition to any other enchantments.
 - A *necklace of compulsion*. A silver chain adorns a small locket. The locket has no latch, and cannot be forced open until the item is innert. The images inside are of many thousand small horrible faces. Anyone who wears the necklace becomes attatched to whomsoever speaks the command word of the necklace and would follow their will as if it was their own. Once attuned, there is no saving throw.
-- A *ring of false wishes*. This golden ring grants its wearer three wishes. Once the three charges have been expended the ring falls off its wearer's hand and cannot be worn by them again. Those wishes are then turned upon thier wisher, generally resulting in horrible mayhem. 
+- A *ring of false wishes*. This golden ring grants its wearer three wishes. Once the three charges have been expended the ring falls off its wearer's hand and cannot be worn by them again. Those wishes are then turned upon their wisher, generally resulting in horrible mayhem. 
  
  5. Treasure Room / Kakurak's Lair
 

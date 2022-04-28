@@ -7,9 +7,10 @@
         "id": "d69c7f640a6e48f8",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+            "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png"
+                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md"
               }
             }
           },
@@ -169,15 +170,15 @@
   },
   "active": "d69c7f640a6e48f8",
   "lastOpenFiles": [
+    "World Notes/Underdark/Locations & Holdings/Ootool.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Three Nation Highways.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/Holdings/Kakurak's Lair.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "MEDIA/MAPS/combine-100AF.png",
     "MEDIA/MAPS/Heilich-Muwwoq-100AF.png",
     "MEDIA/MAPS/Magius-100AF.png",
     "MEDIA/MAPS/The Holyl'nds.png",
-    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png",
-    "World Notes/Prime Material - Alaturmen/Bible.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Actstow Hills.md"
+    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png"
   ]
 }
