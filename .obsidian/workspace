@@ -4,34 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "990690fbd38575a4",
+        "id": "891c704f2106a0c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+            "file": "Game Notes/Fronts/Varis Co..md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "e15b5fdb85d0bb99",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-            "mode": "source"
+        "id": "8c54c51f1bb5aff5",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a6239d0e7ba0710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do'gamet Whitimore.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e9ddfc5b1aefc66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alylay Whitimore.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "db5af35edd914777",
+        "id": "bda5e22ce5e93efe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+            "file": "Alylay's Journal.md",
             "mode": "source"
           }
         }
@@ -90,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+                "file": "Alylay's Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+                "file": "Alylay's Journal.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
+                "file": "Alylay's Journal.md"
               }
             }
           },
@@ -190,17 +208,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "e15b5fdb85d0bb99",
+  "active": "bda5e22ce5e93efe",
   "lastOpenFiles": [
+    "Alylay's Journal.md",
+    "Game Notes/Fronts/Varis Co..md",
+    "Alylay Whitimore.md",
+    "Do'gamet Whitimore.md",
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
-    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+    "World Notes/Underdark/Groups/The Whitimores.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Ceilie Courts.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
-    "World Notes/Feywild/Feywild.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/The Worldwide Calander Systems.md",
-    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md"
+    "Ceilie Courts.md"
   ]
 }
