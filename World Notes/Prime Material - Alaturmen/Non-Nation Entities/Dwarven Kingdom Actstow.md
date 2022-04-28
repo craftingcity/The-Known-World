@@ -19,6 +19,8 @@ Actstow has a mild trade relationship and a honored peace with [[The Church of t
 
 Actstow has a strong trade and defense relationship with [[Deepburrow]], and has a tactical incentive for its survival and defense.
 
+Actstow has a honor-bound defense relationship with [[Cenva Minyo]], but these spring elves are hardened - great cousins to be around!
+
 ## Physicality of the Holding
 
 ## Population Distribution
