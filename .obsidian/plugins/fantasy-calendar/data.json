@@ -178,32 +178,7 @@
         "day": 24,
         "month": 2
       },
-      "events": [
-        {
-          "name": "Ar'Kraven's New Moon",
-          "description": "Ar'Kravens New Moon is the first day of the year, identified by the first sliver of \"Ar'Kraven's New Moon\". ",
-          "date": {
-            "day": 1,
-            "month": 0,
-            "year": 103
-          },
-          "id": "ID_b919e868faab",
-          "note": "World Notes/Prime Material - Alaturmen/Rough Lore/The Worldwide Calander Systems",
-          "category": "natural-events",
-          "end": {
-            "year": 103,
-            "month": 0,
-            "day": 1
-          },
-          "formulas": [
-            {
-              "type": "interval",
-              "number": 1,
-              "timespan": "days"
-            }
-          ]
-        }
-      ],
+      "events": [],
       "id": "ID_4bcad9a86b39",
       "categories": [
         {
