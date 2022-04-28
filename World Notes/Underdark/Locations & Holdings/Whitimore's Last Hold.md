@@ -1,24 +1,18 @@
 ---
-tags: holding,
+tags: stub
 aliases:
 ---
 
-# Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+*This page is a #stub . You can help by expanding it!*
 
-# Description
+[[The Whitimores]] are holed up in a large temple structure below the Gathering Hall in Ootool.
+## Under the Gathering Hall
+![[https://rpgcharacters.files.wordpress.com/2022/03/pillars-and-temple.png]]
+*Under the Gathering Hall*
 
-Located near [[Mulutumi]]
-## Physicality of the Holding
 
-## Population Distribution
-If it differs from the nation's...
 
-## Defenses
-
-## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
+## Inside the Last Hold
+![[https://rpgcharacters.files.wordpress.com/2022/03/pillars-and-temple-interior.png]]
+*Inside the Last Hold*
 

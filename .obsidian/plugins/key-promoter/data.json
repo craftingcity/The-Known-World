@@ -30,7 +30,7 @@
     "obsidian-git:clone-repo": 1
   },
   "keyboardStatistics": {
-    "insert-template": 31,
+    "insert-template": 32,
     "switcher:open": 46,
     "editor:open-search": 2,
     "global-search:open": 1,
@@ -38,6 +38,7 @@
     "app:go-back": 14,
     "file-explorer:new-file": 4,
     "file-explorer:new-file-in-new-pane": 1,
-    "command-palette:open": 1
+    "command-palette:open": 1,
+    "editor:save-file": 1
   }
 }

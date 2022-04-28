@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "e15b5fdb85d0bb99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "db5af35edd914777",
         "type": "leaf",
         "state": {
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Ootool.md"
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
               }
             }
           },
@@ -179,8 +190,9 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "990690fbd38575a4",
+  "active": "e15b5fdb85d0bb99",
   "lastOpenFiles": [
+    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
@@ -189,7 +201,6 @@
     "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
     "World Notes/Feywild/Feywild.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/The Worldwide Calander Systems.md",
-    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md"
   ]
 }
