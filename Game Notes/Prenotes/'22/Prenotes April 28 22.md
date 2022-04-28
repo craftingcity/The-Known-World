@@ -15,6 +15,4 @@ It has been 12 sleeps since the party has seen the sun. The party plans to spend
 
 The Kalix Trogs, the Servitors, and the Ootool Hivemind live in tri-symboitic harmony here.
 
-Amashod is likely to notice the Whitimore Lookout that walks the three central portions of Ootool if she 
-
-I kinda don't know whats gonna happen next. 
+Amashod may notice the Whitimore Lookout that walks the three central portions of Ootool.
