@@ -4,33 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7feab182729c235f",
-        "type": "split",
-        "children": [
-          {
-            "id": "0e196a8da27827f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "019eb2423c6dde43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
-                "mode": "source"
-              }
-            }
+        "id": "d69c7f640a6e48f8",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/alaturmen-100AF.png"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md"
+                "file": "MEDIA/MAPS/alaturmen-100AF.png"
               }
             }
           },
@@ -186,17 +167,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "0e196a8da27827f7",
+  "active": "d69c7f640a6e48f8",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Actstow Hills.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
-    "Game Notes/A Grand Notepad.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md",
-    "World Notes/Prime Material - Alaturmen/Natural Features/Deakred Range.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Mountain Hall.md",
+    "MEDIA/MAPS/combine-100AF.png",
+    "MEDIA/MAPS/Heilich-Muwwoq-100AF.png",
+    "MEDIA/MAPS/Magius-100AF.png",
+    "MEDIA/MAPS/The Holyl'nds.png",
+    "MEDIA/MAPS/PROSPER_2021-12-07T21_18_42.233Z.png",
     "World Notes/Prime Material - Alaturmen/Bible.md",
-    "World Notes/Stubs/Durandurm Weaponry.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/Kickoff.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Holdings/The Golden City.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+    "World Notes/Prime Material - Alaturmen/Natural Features/Actstow Hills.md"
   ]
 }
