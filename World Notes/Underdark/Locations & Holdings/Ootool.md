@@ -29,14 +29,14 @@ Ootool currently resides in an area of ancient power and current plot significan
 
 Two portions are maintained by the Scale Clan of trogladytes who travel with Ootool and defend it while reaping their reward - multicolored fungal scales. These are greatly important to their culture.
 
-- Temple White
-- Temple Blue
-- Temple Brown
-- The Climb
+- Temple White - the chamber of white stump, blue scale
+- Temple Blue - the chamber of blue stump, brown scale
+- Temple Brown - the chamber of brown stump, blue scale
+- The Climb - a large stairwell that connects the upper trogladyte temples with each other and the lower bowels of Ootool
 
 One portion is maintained by a group of mutated humanoids. They call eachother Servitors. Each sports a fungal growth from an orifice of theirs.
 
-- Largegate
+- Largegate - a strange black gate. fewer flora 
 - Housing
 - Feeding Growths
 
