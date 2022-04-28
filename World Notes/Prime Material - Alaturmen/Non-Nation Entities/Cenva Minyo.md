@@ -13,7 +13,7 @@ During the burning, many of the spring elves died, but the few who survived were
 
 Cenva Minyo wanted to make a deal with the dwarves of the [[Dwarven Kingdom Actstow]], who inhabited the hills. They would do no deals with outsiders, they said! These young elves stood among themselves and spoke a moment before responding that they were not outsiders, but cousins once removed; the elven ancestors had in essence birthed the first dwarves after all! 
 
-They now reside south of the [[Actstow Hills]], in the forests
+They now reside south of the [[Actstow Hills]], in the forests.
 
 ### Symbolism
 A triangle - representing the first tents Cenva Minyo stayed in after the flames. Inside, at its base, stands a simply represented city - [[The Old|Minyostalma]] - above which the "sky" (upper portion of the triangle) is filled with a vertically symmetrical flame - representing their hatred for what [[Its Greatness]] has done.

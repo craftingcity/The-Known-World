@@ -29,23 +29,23 @@ Ootool currently resides in an area of ancient power and current plot significan
 
 Two portions are maintained by the Scale Clan of trogladytes who travel with Ootool and defend it while reaping their reward - multicolored fungal scales. These are greatly important to their culture.
 
-- Temple White
-- Temple Blue
-- Temple Brown
-- The Climb
+- Temple White - the chamber of white stump, blue scale. cave bungalos house competitors for the white scale.
+- Temple Blue - the chamber of blue stump, brown scale. cave bungalos house competitors for the brown scale.
+- Temple Brown - the chamber of brown stump, blue scale. cave bungalos house competitors for the blue scale.
+- The Climb - a large stairwell that connects the upper trogladyte temples with each other and the lower bowels of Ootool
 
 One portion is maintained by a group of mutated humanoids. They call eachother Servitors. Each sports a fungal growth from an orifice of theirs.
 
-- Largegate
-- Housing
-- Feeding Growths
+- Largegate - a large black gate smack dab in the middle of the servitor territory, **to be avoided**
+- Housing - dozens of large toadstools are used as houses for the Servitors
+- Feeding Growths - large farms in the lower vault of the Servitor's territory
 
 Three central portions are maintained by a group of fungaloids. They do not welcome outsiders, but will gladly work with them for mutual gain.
 
-- Tunnel Maze
-- Central Stalks
-- Regrowth Chamber
-- Gathering Hall
-- Gallery
+- Tunnel Maze - a defense for non-hivemind-oids, a complex maze, easily navigated with hivemind assistance.
+- Central Stalks - the core mind of Ootool
+- Regrowth Chamber - a large chamber for the specific purpose of regrowing portions of damaged fungaloids.
+- Gathering Hall - a chamber for the Atriarch of Ootool to hold ceremony. also connected to [[Whitimore's Last Hold]].
+- Gallery - a garden of hundreds of beautiful flora.
 
 

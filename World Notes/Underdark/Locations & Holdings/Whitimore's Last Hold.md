@@ -1,24 +1,27 @@
 ---
-tags: holding,
+tags: stub
 aliases:
 ---
 
-# Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+*This page is a #stub . You can help by expanding it!*
 
-# Description
+[[The Whitimores]] are holed up in a large temple structure below the Gathering Hall in Ootool.
+## Under the Gathering Hall
+![[https://rpgcharacters.files.wordpress.com/2022/03/pillars-and-temple.png]]
+*Under the Gathering Hall*
 
-Located near [[Mulutumi]]
-## Physicality of the Holding
+Under the Gathering hall, the Mycosynth roots of Ootool reach deep and drink from the river. This grounds houses a temple. Many permanant and non-permanant structres surround the temple, flowing even across the river. This encampment looks like it could house and, noticing the fishing nets and curated berry bushes, feed some dozen humanoids.
 
-## Population Distribution
-If it differs from the nation's...
+Outside the temple, three teams of twelve work and live.
 
-## Defenses
+## Inside the Last Hold
+![[https://rpgcharacters.files.wordpress.com/2022/03/pillars-and-temple-interior.png]]
+*Inside the Last Hold*
 
-## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
+The inside of the temple is too old to be recognizable, the stone barren of any marking and slick with wet growth.
 
+The temple interior has been converted to an operations center.
+
+The undertemple is honorable housing. The 
+
+The catacombs is for prisoners, and contains a secret saferoom with a scoll of delay blast fireball and planeshift and a tuning rod for the plane of fire. if things go bad :).

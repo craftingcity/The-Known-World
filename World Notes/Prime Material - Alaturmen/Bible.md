@@ -25,7 +25,7 @@ Related articles include [[The Nations of Alaturmen]], [[Central Alaturmen]], [[
 In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either "the [[Northeastern Hobgoblin Territories|Territories]]" or "[[The Kingdom of Prosper]]". While both "nations" lay claim to this northeast quarter of Alaturmen, neither are willing to war for it at this time.
 
 ### Northwest
-In the northwest lie [[The Holyl'nds]]. In the first years of this world, it was a promised future for the spring elves - the whole [[Great Northern Forests]]. But too soon, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths - but [[Cenva Minyo|these elves]] have .
+In the northwest lie [[The Holyl'nds]]. In the first years of this world, it was a promised future for the spring elves - the whole [[Great Northern Forests]]. But too soon, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths - but [[Cenva Minyo|these elves]] have made it their sworn enemy.
 
 ### Southwest
 In the Southwest, a vast desert stretches from the mountains on its northern edge to the great [[Alavini River|Alavini]] river that flows along eastern. Most of this desert is known as [[The Outlands]], where bands of thieves and nomads are left to roam and steal. In the desert's heart [[The Golden City]] stands tall. Opulent and Imperial, this city is home to most of the business that goes on in the desert, even much of the thievery that occurs in the Outlands has a central line of communication to and from the city. 
@@ -33,7 +33,7 @@ In the Southwest, a vast desert stretches from the mountains on its northern edg
 ### Southeast
 In the southeast, a great amount of water lays upon the land, making much of the earth wet and swampy. This is very useful for growing food, which is much of what occurs in the [[The Democratic Combine of Peoples]], but the people of this land make war among themselves here too.
 
-Unlike the other nations of this world, the Democratic Combine is less a united government and more a universal legal system. The many that use the Combine as their system make war against eachother over resource, but will fiercely and effectively defend each other from "outside" attacks. 
+Unlike the other nations of this world, the Democratic Combine is less a united government and more a universal legal system. The many that use the Combine as their system make war against each other over resource, but will fiercely and effectively defend each other from "outside" attacks. 
 
 ### [[Coalition City]]
 Standing, carved into the center of the largest mountains at the eastern end of the [[Desert's Range]], a grand metropolis was born out of the need for communication and peace among the peoples of this world. The city is split into nine wards, each of which may as well be a city upon itself.
@@ -42,9 +42,9 @@ Each of the wards has a purpose that allows the greater city to prosper, and som
 [[The Guilds]] are a respected group of people who hold roles in the world at large. They are often respected and honored guests of the nations that host them, creating a connected network of Wizards, Merchants, Craftsfolk, and the like.
 
 ## Big Notes from the World
-Coalition City is the biggest up-and-coming power in the world. The Kingdom and the Church have some contention, as they are both militarily strong, but neither could survive attacking the other at this time. The Kingdom and the Combine are in a similar holding pattern, but the military power of the Combine is much more guerrilla than outright warpower. Noone dares threaten the Lands of Tetrimoc, even with his recent disappearance.
+Coalition City is the biggest up-and-coming power in the world. The Kingdom and the Church have some contention, as they are both militarily strong, but neither could survive attacking the other at this time. The same can be said for the Kingdom and the Hobgoblin Territories, as well as The Kingdom and the Combine. No-one dares threaten the Lands of Tetrimoc, even with his recent disappearance.
 
-The places to learn or study would be the Wizards of the world. They hold the knowledge that must be kept for our continuation.
+The places to learn or study would be the [[Cenva Minyo]], [[Guild of Wizards]], [[Magius]], [[The Golden City#Tetrimoc's Library]].
 
 Legend tells of many dangers in between the civilized lands. Beasts and Terrors hold just upon the edges of civilization, wearing away. 
 
@@ -56,19 +56,20 @@ The people of the world have [[The Worldwide Calander Systems|different names]] 
 
 Travel from one side of the world to the other takes a month. Crossing a nation takes roughly a week. Travel is easy, but unrefined.
 
-The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans and elves, often with historical language of the goblins, dragons, eladrin, and triton.
+The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the goblins, dragons, elves, and triton.
 
 ## Power and Punishment
-There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and a few regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use fear, and the Combine uses strength and community.
+There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and a few regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use authoritarian fear, and the Combine uses strength and community.
 
 Execution is a common punishment for serious crimes such as treason or murder, but most people are subject to fines more than anything else. 
+
 ## Daily life 
-Most people live life knowing of "the magic all around us", but not seeing much of it. There are legends of arcanists, but the local engineer works the most magic around town. Water power, some plumbing, and a few techno-magic items are raritys in the world but they exsist.
+Most people live life knowing of "the magic all around us", but not seeing much of it. There are legends of arcanists, but the local engineer works the most magic around town. Water power, some plumbing, and a few techno-magic items are rarities in the world but they exist.
 
 The most common profession is farmer. Then thief. Then "adventurer" or "realm defender". People of the realm keep an open mind for the most part. Commoners fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security. 
 
 ## Magic, gods, and the planes 
-Magic is a mystery. Some try to solve it. Some use it freely. It is both respected and feared, as it has immense power. One can acquire magic in exchange. It never comes freely. 
+Magic is a mystery. Some try to solve it. Some use it freely. It is both respected and feared, as it has immense power. One can acquire magic in *exchange*. It never comes freely. 
 
 Items enchanted and spellbound are rare, hard to create, harder to find. Few exist outside of hoards of dragons and wizards.
 
