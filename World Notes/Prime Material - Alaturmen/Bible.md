@@ -13,23 +13,19 @@ History began for these new people with the fall of [[Tetrimoc]]. The elves say 
 
 [[Tetrimoc's Journal]] is a ancient document that records this time; it is like a word of god to some. For this reason, people record this era's years with the moniker AF, meaning after fall. Assuredly, some other grand event will cause their successors to change the convention.
 
-In the first years, these two peoples were weary and cautious. They both had little information of each other and their intentions. This tension was broken by the young Arthur Simonson as he fought for justice against the tyrants of the human and goblin settlements in the Northeast. Largely due to this act, the humanoid people live in relative harmony with the goblinoid people, and for many, their societies have completely intertwined.
+In the first years, these two peoples - the humanoids and the goblinoids -  were weary and cautious of each other. They both had little information of each other and their intentions. This tension was broken by the young Arthur Simonson as he fought for justice against the tyrants of the human and goblin settlements in the Northeast of [[Central Alaturmen]]. Largely due to this act, the humanoid people live in relative harmony with the goblinoid people, and for many, their societies have completely intertwined, just as they have on the other planes.
 
 ## Geography
 
 At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
 
-Related articles include [[The Nations of Alaturmen]].
+Related articles include [[The Nations of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Rangers]].
 
 ### Northeast
-In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either simply "the [[Northeastern Hobgoblin Territories|Territories]]" or "[[The Kingdom of Prosper]]". 
-
-Most of the goblinoid inhabitants that do not actually live within the Kingdom of Prosper (and especially the ones that are in an open war against it) perfer "the [[Northeastern Hobgoblin Territories]]". 
-
-Most of the humanoids that live there would prefer the latter however, as most of them actually do live in Arthur's Kingdom.
+In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either "the [[Northeastern Hobgoblin Territories|Territories]]" or "[[The Kingdom of Prosper]]". While both "nations" lay claim to this northeast quarter of Alaturmen, neither are willing to war for it at this time.
 
 ### Northwest
-In the northwest lie [[The Holyl'nds]]. In the first years of this world, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths.
+In the northwest lie [[The Holyl'nds]]. In the first years of this world, it was a promised future for the spring elves - the whole [[Great Northern Forests]]. But too soon, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths - but [[Cenva Minyo|these elves]] have .
 
 ### Southwest
 In the Southwest, a vast desert stretches from the mountains on its northern edge to the great [[Alavini River|Alavini]] river that flows along eastern. Most of this desert is known as [[The Outlands]], where bands of thieves and nomads are left to roam and steal. In the desert's heart [[The Golden City]] stands tall. Opulent and Imperial, this city is home to most of the business that goes on in the desert, even much of the thievery that occurs in the Outlands has a central line of communication to and from the city. 
