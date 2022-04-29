@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md"
+                "file": "Game Notes/Fronts/Varis Co..md"
               }
             }
           },
@@ -197,17 +197,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "bda5e22ce5e93efe",
+  "active": "3251efb12167f079",
   "lastOpenFiles": [
+    "Game Notes/Fronts/Varis Co..md",
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "Game Notes/Encounters/The Varis Hit.md",
     "World Notes/Underdark/Groups/The Whitimores.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
-    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "Game Notes/A Grand Notepad.md",
     "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
     "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
     "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-    "Alylay's Journal.md",
-    "Alylay Whitimore.md"
+    "Alylay's Journal.md"
   ]
 }
