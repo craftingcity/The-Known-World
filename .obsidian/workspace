@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alylay's Journal.md",
-            "mode": "preview"
+            "file": "World Notes/Underdark/Alylay's Journal.md",
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+                "file": "World Notes/Underdark/Alylay's Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+                "file": "World Notes/Underdark/Alylay's Journal.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
+                "file": "World Notes/Underdark/Alylay's Journal.md"
               }
             }
           },
@@ -190,17 +190,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "e9ddfc5b1aefc66a",
+  "active": "bda5e22ce5e93efe",
   "lastOpenFiles": [
+    "World Notes/Underdark/Alylay's Journal.md",
     "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
-    "Alylay Whitimore.md",
+    "Game Notes/NPCs/Underdark/Ootool/Alylay Whitimore.md",
     "Game Notes/Fronts/Varis Co..md",
-    "Alylay's Journal.md",
     "Do'gamet Whitimore.md",
     "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
     "World Notes/Underdark/Locations & Holdings/Ootool.md",
     "World Notes/Underdark/Groups/The Whitimores.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Ceilie Courts.md"
+    "World Notes/Feywild/Ceilie Courts.md"
   ]
 }

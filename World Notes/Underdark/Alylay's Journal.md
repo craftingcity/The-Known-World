@@ -15,6 +15,8 @@ The most recent entries read...
 
 > We have found a place to stay. Make our new religion true and pure, blessed be Vhaeraun, fair he be. We need only two more pieces! We have the blood-piece! Only two more!
 
+> We made deals with the Giants. Hag brought it in. We help them move about, they help us with our resource issues. Good deal.
+
 > Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. =========================================================================================================================================================================================================================================================================================================================================================================================================================
 
 > The brotherhood-piece. Quick snag they tell me. good WOPAJKD
