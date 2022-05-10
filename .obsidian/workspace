@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+            "file": "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md"
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "7c9a332bba2d4c76",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
     "Game Notes/A Grand Notepad.md",
     "Game Notes/NPCs/Prime/World Villans/Qiell Tilemundon.md",
@@ -178,7 +179,6 @@
     "World Notes/Underdark/General/Underdark.md",
     "World Notes/Underdark/Untitled.md",
     "Game Notes/Fronts/Varis Co..md",
-    "Game Notes/Encounters/The Varis Hit.md",
-    "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
+    "Game Notes/Encounters/The Varis Hit.md"
   ]
 }

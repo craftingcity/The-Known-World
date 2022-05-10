@@ -3,7 +3,7 @@ tags: race_specifics
 aliases:
 ---
 ## Legends from the Elves
-The old tales say the most ancient dwarves were 
+The old tales say the most ancient dwarves were carved by the Elves using tools given to them by their parents. 
 
 ## Reproduction and Beyond
 Dwarves carve their next generation from stone. When two or more dwarves form a child, they share a deep bond.
