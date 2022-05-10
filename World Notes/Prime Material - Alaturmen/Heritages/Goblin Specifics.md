@@ -1,8 +1,15 @@
 ---
-tags: race_specifics, goblinoid, needs_work
+tags: race_specifics, goblinoid
 aliases:
 ---
-Goblins are a #goblinoid race. This means a few things;
-- They have a legitimate claim to being "here first", given that humans and elves and dwarves "came" here when [[Tetrimoc]] fell.
-- They are born of planscape; giving and begetting thing one
-- They are sibling to the other two #goblinoid races
+## Legends from beyond the Material Plane
+Tales of "the first goblin" do not exist, goblins have been for as long as anything has been able to think and likely long before then.
+
+## Reproduction and Beyond
+Goblins are reproduce sexually, and generally have children in multiples. A goblin's childhood entirely depends on where they grew up. Many goblins are able to happily survive in the wild, using their claws, teeth, eyes, and other abilities to their advantage. These same features get goblin children bullied in some "civilized" spaces.
+
+Goblins live for about fifty years. Traditionally, goblins are raised for "the honorable death", but such a concept is clearly subjective, and as such could be interpreted by many cultures.
+
+## Subspecies
+
+"True" Goblins are 
