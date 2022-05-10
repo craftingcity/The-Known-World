@@ -4,44 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bda5e22ce5e93efe",
+        "id": "7c9a332bba2d4c76",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Encounters/The Varis Hit.md",
+            "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a4d0384dc4fae707",
-        "type": "split",
-        "children": [
-          {
-            "id": "7c9a332bba2d4c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/A Grand Notepad.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3251efb12167f079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md"
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md"
               }
             }
           },
@@ -197,17 +168,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "3251efb12167f079",
+  "active": "7c9a332bba2d4c76",
   "lastOpenFiles": [
-    "Game Notes/Fronts/Varis Co..md",
-    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
-    "Game Notes/Encounters/The Varis Hit.md",
-    "World Notes/Underdark/Groups/The Whitimores.md",
-    "World Notes/Underdark/Locations & Holdings/Ootool.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
     "Game Notes/A Grand Notepad.md",
-    "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
-    "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
-    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-    "Alylay's Journal.md"
+    "Game Notes/NPCs/Prime/World Villans/Qiell Tilemundon.md",
+    "Game Notes/NPCs/Prime/Dragon/Detraminx.md",
+    "Game Notes/NPCs/Prime/Historical Figures/Bandit Lords/Edward Bodaim.md",
+    "World Notes/Underdark/General/Underdark.md",
+    "World Notes/Underdark/Untitled.md",
+    "Game Notes/Fronts/Varis Co..md",
+    "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
   ]
 }
