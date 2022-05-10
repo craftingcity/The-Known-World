@@ -94,7 +94,6 @@ While the demons were foiled, they were not destroyed. The Hells will strike aga
 date: 092AF
 title: The Great Retirement
 content:
-![[alaturmen-100AF.png]]
 
 [[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands, and this age of beginning ends. 
 
