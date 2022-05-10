@@ -12,4 +12,6 @@ Like their progeny, the Eladrin are seasonally influenced.
 
 The Spring and Summer eladrin are quite similar, and range dark in skin-tone, hair color, and eye color. 
 
-The Autumn Eladrin are comparatively colorful, and tend to be colored brighter than their kin. The Winter Eladrin are mono-chromic, and have barely any color to their skin. They are often pitch black or pure white, wholly. 
+The Autumn Eladrin are comparatively colorful, and tend to be colored brighter than their kin. 
+
+The Winter Eladrin are mono-chromic, and have barely any color to their skin. They are often pitch black or pure white, wholly. 
