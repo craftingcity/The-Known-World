@@ -21,18 +21,22 @@ Much like their progenitors, the elves of Alaturmen are sub-categorized by the s
 ### Spring Elves
 Spring elves, also known as the Wood Elves, first came to the northeast of [[Central Alaturmen]]. There, they were unwelcome - the [[Bandit Lords]] and the [[Northeastern Hobgoblin Territories]] both had no kindness for them. The Spring elves retreated into the forest for some time, but during the rise of [[Arthur Simonson]], the Spring Elves became an important ally for the resistance forces. After [[The Kingdom of Prosper]] destroyed the [[Bandit Lords]] and ceased hostility with [[Northeastern Hobgoblin Territories]], the Spring Elves migrated en-mass from the surrounding forests.
 
+Traditional Spring Elf culture promotes community, kindness and enlightenment - most who think of "the good, helpful elf" would picture a spring elf.
+
 ### Summer Elves
-Summer Elves, also known as the Desert Elves, first came to the southwest of [[Central Alaturmen]]
+Summer Elves, also known as the Desert Elves, first came to the southwest of [[Central Alaturmen]]. There they met the people who came to worship Tetrimoc, and they saw their committal. The eldest Summer Elves are some of the few who could truly claim to have seen the [[Tetrimoc|Great Yellow Dragon]]. While Summer elves can be found throughout Alaturmen, a large population live in [[The Golden City]] working as [[Golden Claws]].
+
+Traditional summer elf culture promotes impulse and fruitless joy, so long as their actions would not impede their Walk.
 
 ### Autumn Elves
 Autumn elves, also known as the High Elves, first came to the southeast of [[Central Alaturmen]], the area now known as [[The Fiefdoms of the Combine]]. There, they used their progenitor's natural magics in the battle for power and resources ever-present in the Fiefdoms. 
 
-The traditional culture of the Autumn elves gives great respect to the Weave
+The traditional culture of the Autumn elves gives great respect to the Weave and those who can manipulate it.
 
 ### Winter Elves
 The Winter elves, also known as the Drow, inherited many of the features of their progenitors. Sharp, long features, mono-chrome skin-tone, etc.
 
-The culture of traditional Winter Elves is one of isolation and arrogance. 
+The culture of traditional Winter Elves promotes cultural isolation and personal arrogance. 
 
-Winter elves first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They made peace with the goblinoids there and together, they formed the beginnings of a great nation; [[The Old|Minyostalma]]. After the [[50 Year White Burning]], the remnants of Minyostalma formed [[Cenva Minyo]].
+Winter elves first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They quickly exterminated goblinoids that lived there over the course of their first year. They formed the beginnings of a powerful nation; [[The Old|Minyostalma]], but before the seeds of this nation could flower, they were [[50 Year White Burning|burned]]. After the [[50 Year White Burning]], the surviving remnants of Minyostalma formed [[Cenva Minyo]], plotting against the White Flame in the southern [[Grumbling Hills]].
 
