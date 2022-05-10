@@ -11,5 +11,8 @@ Goblins are reproduce sexually, and generally have children in multiples. A gobl
 Goblins live for about fifty years. Traditionally, goblins are raised for "the honorable death", but such a concept is clearly subjective, and as such could be interpreted by many cultures.
 
 ## Subspecies
+"True" Goblins are short and gangly. Their ears suggest they may originate from the Feywild or before, and their eyes and claws are great perks in wilderness survival.
 
-"True" Goblins are 
+Hobgoblins are moderately sized. From a human perspective, "they are the most like us" in that hobgoblins remain calmer than their cousins.
+
+Bugbear are the largest subspecies of goblin and the most animalistic. Few live in "civilized" areas, but gather together to form clans and bands.
