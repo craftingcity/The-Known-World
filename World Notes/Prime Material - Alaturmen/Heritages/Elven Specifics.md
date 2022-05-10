@@ -2,10 +2,10 @@
 tags: race_specifics
 aliases:
 ---
+## Legends from the Eladrin
+The elves of Alaturmen are progeny of Eladrin 
 
-Elves are typically born of an elven or eladrin parent and another sexual partner.
-
-# Age
+## Age
 Elves are considered young at thirty or below and reach adulthood after completing their first step in the Walk - this being their first major achievement - typically around two hundred (meaning that most elves alive are still considered children!). Most elves take their [[#Final Walk]] at around 300.
 
 ## Final Walk
