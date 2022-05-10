@@ -18,11 +18,14 @@ Some rumor that these elves who make the walk return to their ancestors and meet
 ## Subspecies
 Like their progenitors, the elves are affected by the seasons.
 
-Spring elves first came to the northeast
+Spring elves first came to the northeast of [[Central Alaturmen]].
 
 Summer elves first came to the southwest of 
 
-Fall elves first came to the southeast
+Fall elves first came to the southeast [[Central Alaturmen]], the area now known as [[The Fiefdoms of the Combine]]. There, they used their progenitor's natural magics 
 
-Winter elves first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They made peace with the goblinoids there and together, they formed the beginnings of a great nation; [[The Old|Minyostalma]]. 
+### Winter Elves
+The Winter elves have long features and 
+
+Winter elves first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They made peace with the goblinoids there and together, they formed the beginnings of a great nation; [[The Old|Minyostalma]]. After the [[50 Year White Burning]], the remnants of Minyostalma formed [[Cenva Minyo]].
 
