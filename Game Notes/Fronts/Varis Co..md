@@ -46,15 +46,15 @@ The Forgotten - [[Balywikin Whitimore]]
 Tyranny, and all those who would prosper will be crushed under my iron fists.
 
 **Cast**
-The King
-	The great tyrant, lover of all things warm and painful. The Soldier is useful but replaceable. The Son has brought great gifts. The Chief is a disapointment. The Jarl needs to learn his place. Directly opposing the Dragon.
+The King - [[King Snure]]
+	The great tyrant, lover of all things warm and painful. The Soldier is useful but replaceable. The Son has brought great gifts. The Chief is a disappointment. The Jarl needs to learn his place. Directly opposing the Dragon.
 The Soldier
 	The manager of troops and war. The King's right hand. The Son's best hope. The Chief's best nightmare. The Jarl's favorite enemy. The leader of the hunt on the Dragon.
 The Son / Engineer
-	The wunderbar child, a great engineer, a great fighter, no back. Loves the King, too much. Trains under the Soldier. Dispises the Chief. Loves the Jarl only because he does not yet fear him. 
+	The wunderbar child, a great engineer, a great fighter, no back. Loves the King, too much. Trains under the Soldier. Despises the Chief. Loves the Jarl only because he does not yet fear him. 
 The Chief - Dead
 	A poor excuse for a leader, a poorer choice as the man on the ground. Wishes to impress the King. Hates the Soldier for what he did. Knows the Son is too soft. Knows the Jarl is too hard. Never got to know the Dragon.
-The Jarl
+The Jarl - [[Jarl Grungar]]
 	The proud Jarl wishes to raid in peace. The King is wrong. The Soldier is not worth saving. The Son is too far gone. The Chief is an idiot. The Dragon is smart.
 The Dragon - [[Kakurak]]
 	The best chance for our realm sans our heroes. Directly opposes the King. Yet to fight the Soldier. Needs the Son's knowledge. Wishes to halt the Chief. Wishes to halt the Jarl.
