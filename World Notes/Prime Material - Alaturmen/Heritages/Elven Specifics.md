@@ -17,25 +17,25 @@ Elves can live forever, if they so desire, but many elves feel a calling that is
 
 Some rumor that these elves who make the walk return to their ancestors and meet their heirs at the end of time - few believe this to be true.
 
-## Subspecies
+### Subspecies
 Much like their progenitors, the elves of Alaturmen are sub-categorized by the seasons of the year.
 
-### Spring Elves
+#### Spring Elves
 Spring elves, also known as the Wood Elves, first came to the northeast of [[Central Alaturmen]]. There, they were unwelcome - the [[Bandit Lords]] and the [[Northeastern Hobgoblin Territories]] both had no kindness for them. The Spring elves retreated into the forest for some time, but during the rise of [[Arthur Simonson]], the Spring Elves became an important ally for the resistance forces. After [[The Kingdom of Prosper]] destroyed the [[Bandit Lords]] and ceased hostility with [[Northeastern Hobgoblin Territories]], the Spring Elves migrated en-mass from the surrounding forests.
 
 Traditional Spring Elf culture promotes community, kindness and enlightenment - most who think of "the good, helpful elf" would picture a spring elf.
 
-### Summer Elves
+#### Summer Elves
 Summer Elves, also known as the Desert Elves, first came to the southwest of [[Central Alaturmen]]. There they met the people who came to worship Tetrimoc, and they saw their committal. The eldest Summer Elves are some of the few who could claim truly to have seen the [[Tetrimoc|Great Yellow Dragon]]. While Summer elves can be found throughout Alaturmen, a large population live in [[The Golden City]] working as [[Golden Claws]].
 
 Traditional summer elf culture promotes impulse and fruitless joy, so long as their actions would not impede their Walk.
 
-### Autumn Elves
+#### Autumn Elves
 Autumn elves, also known as the High Elves, first came to the southeast of [[Central Alaturmen]], the area now known as [[The Fiefdoms of the Combine]]. There, they used their progenitor's natural magics in the battle for power and resources ever-present in the Fiefdoms. 
 
 The traditional culture of the Autumn elves gives great respect to the Weave and those who can manipulate it.
 
-### Winter Elves
+#### Winter Elves
 The Winter elves, also known as the Drow, inherited many of the features of their progenitors. Sharp, long features, mono-chrome skin-tone, etc.
 
 The culture of traditional Winter Elves promotes cultural isolation and personal arrogance. 

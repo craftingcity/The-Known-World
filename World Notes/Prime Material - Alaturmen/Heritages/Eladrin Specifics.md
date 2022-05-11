@@ -7,7 +7,7 @@ Eladrin are minor humanoid fey. They mostly inhabit the Feywild, but some have b
 
 Those Eladrin that live in the Feywild are under the protection of the [[Ceilie Courts]], and although they are not very powerful fey, they have a middling position in the courts.
 
-## Subspecies
+### Subspecies
 Like their progeny, the Eladrin are seasonally influenced. 
 
 The Spring and Summer eladrin are quite similar, and range dark in skin-tone, hair color, and eye color. 
