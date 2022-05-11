@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "25e4013ab3d55c60",
+        "id": "e384637342ff220d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Dragonborn Specifics.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ce16d25a28dab305",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "67679cbb8d9b058a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Gnome Specifics.md",
+            "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
             "mode": "source"
           }
         }
@@ -90,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md"
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md"
               }
             }
           },
@@ -189,17 +167,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "ce16d25a28dab305",
+  "active": "e384637342ff220d",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Dragonborn Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Gnome Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Goblin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Halfling Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Goliath Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Prime Timeline.md"
+    "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
+    "World Notes/Prime Material - Alaturmen/Texts/The Holy Atlas of Yamisch.md",
+    "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
+    "World Notes/Prime Material - Alaturmen/Tracking/Who has a Horde.md",
+    "World Notes/Prime Material - Alaturmen/Player Characters/Tales of UNNAMMED/Amashod.md",
+    "World Notes/Prime Material - Alaturmen/Player Characters/Tales of UNNAMMED/Varis.md",
+    "Game Notes/NPCs/Prime/Adventuring Parties/Grey Ordeal/Waywalket Turring.md",
+    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
   ]
 }

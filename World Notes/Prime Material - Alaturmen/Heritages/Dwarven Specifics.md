@@ -6,7 +6,7 @@ aliases:
 The old tales say the most ancient dwarves were carved by the Elves using tools given to them by their parents. 
 
 ## Reproduction and Beyond
-Dwarves carve their next generation from the stone of their home. When two or more dwarves form a child, they share a deep bond. Given that dwarves have traditional humanoid sexual organs, but they do not need them to use them to reproduce, a dwarf's sexuality and gender are completely disconnected from their body.
+Dwarves carve their next generation from the stone of their home. When two or more dwarves form a child, they share a deep bond. Given that dwarves have traditional humanoid sexual organs, but they do not need them to use them to reproduce, a dwarf's sexuality and gender are based more in this bond than their own body.
 
 Dwarves do not have a childhood in the way that sexually reproducing species do. The many years that dwarves spend forming is similar to incubation more than childhood. 
 

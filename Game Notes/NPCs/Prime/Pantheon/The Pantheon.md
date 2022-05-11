@@ -1,7 +1,7 @@
 ---
 tags: deity, world, needs_work
 ---
-# The Pantheon
+# Gods of Alaturmen
 
 The pantheon of gods on this place is not like those in the stories of Olympus. Gods are born from people, not the other way around. Gods need worshipers. Often, in exchange, they will do some work. The oldest gods of this place are the gods of emotion.
 
@@ -75,9 +75,9 @@ Some creatures of this place have become so powerful that they have become god-l
 
 ####
 
-# Non-God Powers
+# The Gods of the Planes
 ## Outer Planar Rulers
-Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level".
+Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level" in regards to power or ability.
 
 #### Demogorgan, the Demon King of the Abyss
 [[Demogorgan]] is the most powerful demon in the [[Abyss]].
@@ -94,7 +94,7 @@ The plane of community has no ruler, but its will is a powerful force when whole
 
 ## Inner Planar Rulers
 #### Jabbawok and the Ceilie Courts
-The [[Feywild]] is ruled by a powerful fey who takes the name [[Jabbawok]]. [[Jabbawok]] makes deal with the [[Ceilie Courts]] of the seasonal fey.
+The [[Feywild]] is ruled by a powerful fey who takes the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey whom in turn control the general population of the Feywild.
 
 #### Lolth
 The [[Underdark]] is ruled by the viscous misandrist [[Lolth]].

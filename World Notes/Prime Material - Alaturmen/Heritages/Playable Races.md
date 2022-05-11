@@ -3,26 +3,27 @@ tags: bible
 aliases:
 ---
 
-Gobliniod and Humanoid of all kinds have created a life here in Alaturmen. Presented in the order I think of them, the playable races in this section have made a noticable mark on Alaturmen's [[Prime Timeline|history]].
+Gobliniod and Humanoid of all kinds have created a life here in Alaturmen. Presented in the order I think of them, the playable races in this section have made a noticeable mark on Alaturmen's [[Prime Timeline|history]].
 
-**Goblinoid.**
-- [[Goblin Specifics]]
-- [[Hobgoblin Specifics]]
+Here lies a list of the currently described specifics of the Heritages and Specifics of the peoples of Alaturmen.
 
-**Humanoid.**
-- [[Human Specifics]]
-- [[Orc Specifics]]
-- [[Elven Specifics]] 
-	- winter (NW)
-	- spring (SE)
-	- summer (SW)
-	- fall (NE)
-- [[Dwarven Specifics]]
-	- mountain
-	- hill
-- [[Halfling Specifics]]
-- [[Gnome Specifics]]
+### Elven Claims
+[[Dwarven Specifics]]
+[[Kenku Specifics]]
 
-**None of the Above.**
+### Dwarven Claims
+[[Goliath Specifics]]
+[[Gnome Specifics]]
 
-- [[Kobold Specifics]]
+### Goblin Claims
+[[Goblin Specifics]]
+[[Gnoll Specifics]]
+[[Halfling Specifics]]
+
+### Dragon Claims
+[[Dragonborn Specifics]]
+[[Kobold Specifics]]
+
+### Unclaimed
+[[Human Specifics]]
+[[Orc Specifics]]
