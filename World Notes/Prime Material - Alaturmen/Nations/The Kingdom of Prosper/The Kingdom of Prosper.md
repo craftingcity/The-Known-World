@@ -3,7 +3,7 @@ tags: nation_page, prosper
 aliases: Prosper
 ---
 # The Kingdom of Prosper
-Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land (such as the farming community of [[Moonlight]]), connected by poorly kempt cobbled roads. Much of the geography of Prosper is forested. 
+Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land (such as the farming community of [[Moonlight]]), connected by poorly kept cobbled roads. Much of the geography of Prosper is forested. 
 
 ## History
 For much of the first century, "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. 

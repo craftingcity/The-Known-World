@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e384637342ff220d",
+        "id": "7908ab4eb859d063",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
+            "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md"
+                "file": "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "e384637342ff220d",
+  "active": "7908ab4eb859d063",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "World Notes/Prime Material - Alaturmen/Texts/The Holy Atlas of Yamisch.md",
-    "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
-    "World Notes/Prime Material - Alaturmen/Tracking/Who has a Horde.md",
-    "World Notes/Prime Material - Alaturmen/Player Characters/Tales of UNNAMMED/Amashod.md",
-    "World Notes/Prime Material - Alaturmen/Player Characters/Tales of UNNAMMED/Varis.md",
-    "Game Notes/NPCs/Prime/Adventuring Parties/Grey Ordeal/Waywalket Turring.md",
-    "World Notes/Prime Material - Alaturmen/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Magius.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Janesland.md",
+    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Gambleum.md",
+    "Game Notes/NPCs/Prime/Kingdom of Prosper/Arthur Simonson.md",
+    "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md"
   ]
 }
