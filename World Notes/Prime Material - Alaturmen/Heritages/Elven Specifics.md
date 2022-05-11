@@ -6,7 +6,9 @@ aliases:
 The elves of Alaturmen are progeny of Eladrin. Born for this land, making it their home is the right of any adult elf born of the Eladrin.
 
 ## Reproduction and Beyond
-The first generation of Elves were born 
+The first generation of Elves were formed by the [[Ceilie Courts]] and parented by groups of [[Eladrin Specifics|Eladrin]]. They were trained for and given by birthright the world of Alaturmen.
+
+Elves share the traditional humanoid sexual organs, but their process of reproduction requires one or more of the sexual partners to produce a work of artistry directly before, after, or during the conception.
 
 Elves are considered young at thirty or below and reach adulthood after completing their first step in the Walk - this being their first major achievement - typically around one hundred (meaning that most elves alive are still considered children!). Most elves take their [[#Final Walk]] at around 300.
 
@@ -24,7 +26,7 @@ Spring elves, also known as the Wood Elves, first came to the northeast of [[Cen
 Traditional Spring Elf culture promotes community, kindness and enlightenment - most who think of "the good, helpful elf" would picture a spring elf.
 
 ### Summer Elves
-Summer Elves, also known as the Desert Elves, first came to the southwest of [[Central Alaturmen]]. There they met the people who came to worship Tetrimoc, and they saw their committal. The eldest Summer Elves are some of the few who could truly claim to have seen the [[Tetrimoc|Great Yellow Dragon]]. While Summer elves can be found throughout Alaturmen, a large population live in [[The Golden City]] working as [[Golden Claws]].
+Summer Elves, also known as the Desert Elves, first came to the southwest of [[Central Alaturmen]]. There they met the people who came to worship Tetrimoc, and they saw their committal. The eldest Summer Elves are some of the few who could claim truly to have seen the [[Tetrimoc|Great Yellow Dragon]]. While Summer elves can be found throughout Alaturmen, a large population live in [[The Golden City]] working as [[Golden Claws]].
 
 Traditional summer elf culture promotes impulse and fruitless joy, so long as their actions would not impede their Walk.
 

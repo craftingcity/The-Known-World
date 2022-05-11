@@ -10,7 +10,7 @@ Dwarves carve their next generation from the stone of their home. When two or mo
 
 Dwarves do not have a childhood in the way that sexually reproducing species do. The many years that dwarves spend forming is similar to incubation more than childhood. 
 
-Dwarves live for nearly a quarter of a century - usually about two-hundred and 20 years - before the curse of mortality claims them. Most believe that they pass beyond the barrier of Alaturmen and beyond the Wildlands to a place of peace in work.
+Dwarves live for nearly a quarter of a millennium - usually about two-hundred and 20 years - before the curse of mortality claims them. Most believe that they pass beyond the barrier of Alaturmen and beyond the Wildlands to a place of peace in work.
 
 ## Subspecies
 Many Mountain dwarves grow great beards, and keep them as both a point of pride and as a useful tool to prevent chips and dust from entering their lungs during mining.
