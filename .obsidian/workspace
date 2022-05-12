@@ -7,8 +7,11 @@
         "id": "215790767e759cec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
+              }
             }
           },
           {
@@ -162,15 +169,15 @@
   },
   "active": "215790767e759cec",
   "lastOpenFiles": [
-    "Game Notes/NPCs/Prime/Kingdom of Prosper/Arthur Simonson.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Yerba.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Moonlight.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Magius.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Castle Prosper.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Janesland.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/Holdings/Gambleum.md",
-    "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md"
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
+    "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md",
+    "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Trxyi Emorin.md",
+    "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Amelia Simonson.md",
+    "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
+    "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Fronts/Varis Co..md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Dragonborn Specifics.md",
+    "Game Notes/NPCs/Prime/Kingdom of Prosper/Arthur Simonson.md"
   ]
 }
