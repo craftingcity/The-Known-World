@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "215790767e759cec",
+        "id": "4da20fadb4a3b638",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "62dd9db97203dd59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,17 +175,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "215790767e759cec",
+  "active": "62dd9db97203dd59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Kailkeep.md",
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
     "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md",
     "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Trxyi Emorin.md",
     "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Amelia Simonson.md",
     "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
-    "Game Notes/Encounters/The Varis Hit.md",
-    "Game Notes/Fronts/Varis Co..md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Dragonborn Specifics.md",
-    "Game Notes/NPCs/Prime/Kingdom of Prosper/Arthur Simonson.md"
+    "Game Notes/Encounters/The Varis Hit.md"
   ]
 }
