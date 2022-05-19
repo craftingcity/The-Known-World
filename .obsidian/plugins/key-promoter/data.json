@@ -33,10 +33,10 @@
   },
   "keyboardStatistics": {
     "insert-template": 38,
-    "switcher:open": 58,
+    "switcher:open": 63,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 104,
+    "workspace:close": 107,
     "app:go-back": 19,
     "file-explorer:new-file": 4,
     "file-explorer:new-file-in-new-pane": 1,

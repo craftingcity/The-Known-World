@@ -4,22 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4da20fadb4a3b638",
+        "id": "ec23bd89434573d0",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        }
-      },
-      {
-        "id": "62dd9db97203dd59",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -47,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hobgoblin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,17 +161,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "62dd9db97203dd59",
+  "active": "ec23bd89434573d0",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
+    "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
+    "World Notes/Underdark/General/Underdark.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/The Hobgoblin Wars.md",
+    "Game Notes/Fronts/Hobgoblin Wars.md",
     "conflict-files-obsidian-git.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Kailkeep.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md",
-    "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md",
-    "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Trxyi Emorin.md",
-    "Game Notes/NPCs/Prime/Northeastern Hobgoblin Territories/Amelia Simonson.md",
-    "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
-    "Game Notes/Encounters/The Varis Hit.md"
+    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md"
   ]
 }
