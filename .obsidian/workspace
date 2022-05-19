@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "aa0ddbb2b825d640",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Encounters/The Varis Hit.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md"
+                "file": "Game Notes/Encounters/The Varis Hit.md"
               }
             }
           },
@@ -167,10 +178,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "70903735b15e745e",
+  "active": "aa0ddbb2b825d640",
   "lastOpenFiles": [
-    "Game Notes/Fronts/Varis Co..md",
     "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Fronts/Varis Co..md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Underdark/General/Underdark.md",
