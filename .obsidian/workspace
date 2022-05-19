@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ec23bd89434573d0",
+        "id": "70903735b15e745e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Encounters/The Varis Hit.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hobgoblin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Encounters/The Varis Hit.md"
+              }
             }
           },
           {
@@ -161,8 +167,9 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "ec23bd89434573d0",
+  "active": "70903735b15e745e",
   "lastOpenFiles": [
+    "Game Notes/Encounters/The Varis Hit.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Underdark/General/Underdark.md",
@@ -171,7 +178,6 @@
     "conflict-files-obsidian-git.md",
     "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Kailkeep.md",
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md"
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
   ]
 }
