@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Encounters/The Varis Hit.md",
+            "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
+                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Fronts/Varis Co..md"
+                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md"
               }
             }
           },
@@ -178,17 +178,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "70903735b15e745e",
+  "active": "aa0ddbb2b825d640",
   "lastOpenFiles": [
-    "Game Notes/Fronts/Varis Co..md",
+    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Fronts/Varis Co..md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Underdark/General/Underdark.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/The Hobgoblin Wars.md",
     "Game Notes/Fronts/Hobgoblin Wars.md",
     "conflict-files-obsidian-git.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Kailkeep.md",
-    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md"
+    "World Notes/Prime Material - Alaturmen/Nations/Lands of Tetrimoc/Kailkeep.md"
   ]
 }
