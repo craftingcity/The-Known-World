@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+            "file": "Game Notes/Encounters/The Varis Hit.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Underdark/Groups/Ungaethram Drow Houses.md"
+                "file": "Game Notes/Fronts/Varis Co..md"
               }
             }
           },
@@ -178,11 +178,11 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "aa0ddbb2b825d640",
+  "active": "70903735b15e745e",
   "lastOpenFiles": [
-    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
-    "Game Notes/Encounters/The Varis Hit.md",
     "Game Notes/Fronts/Varis Co..md",
+    "Game Notes/Encounters/The Varis Hit.md",
+    "World Notes/Underdark/Groups/Ungaethram Drow Houses.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Underdark/General/Underdark.md",
