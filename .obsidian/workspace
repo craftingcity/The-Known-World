@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d1eee519acca8fa9",
+        "id": "c2899e9df70c7401",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "99da93e39244997c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
+            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
+                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md"
+                "file": "World Notes/Prime Material - Alaturmen/Bible.md"
               }
             }
           },
@@ -178,17 +167,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "d1eee519acca8fa9",
+  "active": "c2899e9df70c7401",
   "lastOpenFiles": [
-    "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Goblin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Bible.md",
+    "Guraxlog.md",
+    "Grumbling Hills.md",
+    "Darnt Hillkeep.md",
     "World Notes/Prime Material - Alaturmen/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Gnoll Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
-    "World Notes/Feywild/Feywild.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-    "Darnt Hillkeep.md"
+    "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
+    "prime Time.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Halfling Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Goliath Specifics.md"
   ]
 }

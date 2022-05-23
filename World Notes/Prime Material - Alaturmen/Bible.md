@@ -7,7 +7,7 @@ aliases:
 > \- [[Eladrithal Greystone]]
 
 ## The World is Young
-The goblinoids lived without time; hunting, gathering, and supposedly swimming in primordial soup. Then, "the Immortal Yellow Dragon, the Great Tetrimoc" fell from the sky, cut himself on a [[Kailkeep|rock]], and hid in a hid in a hole. Finally; everyone else came too. Elves born from Eladrin parents traveled here, carved the first dwarves from the stone, told the first legends of halfling, found the first humans lying naked in their fields. The elves claim to be first to find many of the other peoples too, but they always lay claim to too much. 
+The goblins lived without time; hunting, gathering, and supposedly swimming in primordial soup. Then, "the Immortal Yellow Dragon, the Great Tetrimoc" fell from the sky, cut himself on a [[Kailkeep|rock]], and hid in a hid in a hole. Finally; everyone else came too. 
 
 History began for these new people with the fall of [[Tetrimoc]]. The elves say that this place was made for him to fall to, this is the truth, so much as it was what they were told by their parents. 
 
