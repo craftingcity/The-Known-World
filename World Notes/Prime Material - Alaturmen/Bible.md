@@ -25,7 +25,7 @@ Related articles include [[The Nations of Alaturmen]], [[Central Alaturmen]], [[
 In the Northeast, as I have spoken of, are dense forests and open plains, rolling hills connecting the lot. The common folk of this world call this quarter of the world either "the [[Northeastern Hobgoblin Territories|Territories]]" or "[[The Kingdom of Prosper]]". While both "nations" lay claim to this northeast quarter of Alaturmen, neither are willing to war for it at this time.
 
 ### Northwest
-In the northwest lie [[The Holyl'nds]]. In the first years of this world, it was a promised future for the spring elves - the whole [[Great Northern Forests]]. But too soon, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths - but [[Cenva Minyo|these elves]] have made it their sworn enemy.
+In the northwest lie [[The Holyl'nds]]. In the first years of this world, it was a promised future for the winter elves - their half of the [[Great Northern Forests]]. But too soon, a [[Its Greatness|great white flame]] burnt the whole of the northwestern fourth of the world. It stopped before the mountains of the desert and it burnt deep into the great northern forests. Few people or structures survived. Then, it stopped, pulled back, and the people flooded into its arms. They now worship this fire, for it allows itself to be contained in their braziers and hearths - but [[Cenva Minyo|these elves]] have made it their sworn enemy.
 
 ### Southwest
 In the Southwest, a vast desert stretches from the mountains on its northern edge to the great [[Alavini River|Alavini]] river that flows along eastern. Most of this desert is known as [[The Outlands]], where bands of thieves and nomads are left to roam and steal. In the desert's heart [[The Golden City]] stands tall. Opulent and Imperial, this city is home to most of the business that goes on in the desert, even much of the thievery that occurs in the Outlands has a central line of communication to and from the city. 
@@ -56,7 +56,7 @@ The people of the world have [[The Worldwide Calander Systems|different names]] 
 
 Travel from one side of the world to the other takes a month. Crossing a nation takes roughly a week. Travel is easy, but unrefined.
 
-The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the goblins, dragons, elves, and triton.
+The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the dragons, elves, goblin, and triton respectively.
 
 ## Power and Punishment
 There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and a few regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use authoritarian fear, and the Combine uses strength and community.

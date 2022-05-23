@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+            "file": "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md"
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "c2899e9df70c7401",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
     "Guraxlog.md",
     "Grumbling Hills.md",
@@ -177,7 +178,6 @@
     "World Notes/Prime Material - Alaturmen/Heritages/Orc Specifics.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Human Specifics.md",
     "prime Time.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Halfling Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Goliath Specifics.md"
+    "World Notes/Prime Material - Alaturmen/Heritages/Halfling Specifics.md"
   ]
 }
