@@ -4,6 +4,9 @@ tags: timeline-labeled, world, notes, prime
 
 # Prime's Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
 
+## The Time Before Time
+As is the case with all of the planes in the multiverse, the Goblin swam in the soup of creation long before any other.
+
 ## The Age of Beginning
 The recorded history begins with [[Tetrimoc's Journal]].
 ```timeline-labeled

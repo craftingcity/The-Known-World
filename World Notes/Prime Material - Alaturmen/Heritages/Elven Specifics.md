@@ -3,7 +3,7 @@ tags: race_specifics
 aliases:
 ---
 ## Legends from the Eladrin
-The elves of Alaturmen are progeny of Eladrin. Born for this land, making it their home is the right of any adult elf born of the Eladrin.
+The Elves of Alaturmen are progeny of Eladrin. Born for this land, making it their home is the right of any adult elf.
 
 ## Reproduction and Beyond
 The first generation of Elves were formed by the [[Ceilie Courts]] and parented by groups of [[Eladrin Specifics|Eladrin]]. They were trained for and given by birthright the world of Alaturmen.

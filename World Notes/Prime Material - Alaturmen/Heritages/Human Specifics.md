@@ -3,9 +3,8 @@ tags: race_specifics
 aliases:
 ---
 
-The progenitor humans, the 'zero generation', awoke in the fields of the northern lands of central Alaturmen circa 00AF.
-
-Given the ingenuity and spirituality of humans, and a great deal of learning from the #goblinoid folks, humans have developed a lifespan of roughly fourty years, and a roughly twenty-five year mating cycle.
+## Legends from... Alaturmen?
+The first tales of the humans come from the Elves, but they lay no claim to progeny. They say they found the first generation of humans in the fields and forests, naked and hungry like any other animal. Then, so long as they are being truthful, they say that the Humans did not come until the Elves and Dragons did, the Goblin did not know them in the Time before Time.
 
 During the time of [[The Assault of the Giant Decenters]], there have been five generations;
 
