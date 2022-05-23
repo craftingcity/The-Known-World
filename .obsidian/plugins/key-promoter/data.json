@@ -18,7 +18,7 @@
     "workspace:close-others": 18,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 1,
-    "backlink:open-backlinks": 8,
+    "backlink:open-backlinks": 9,
     "backlink:toggle-backlinks-in-document": 1,
     "outgoing-links:open": 1,
     "outgoing-links:open-for-current": 2,
@@ -32,11 +32,11 @@
     "table-editor-obsidian:delete-row": 5
   },
   "keyboardStatistics": {
-    "insert-template": 38,
+    "insert-template": 39,
     "switcher:open": 65,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 107,
+    "workspace:close": 112,
     "app:go-back": 19,
     "file-explorer:new-file": 4,
     "file-explorer:new-file-in-new-pane": 1,

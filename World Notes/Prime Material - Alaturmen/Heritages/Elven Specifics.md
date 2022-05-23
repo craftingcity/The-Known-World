@@ -13,11 +13,11 @@ Elves share the traditional humanoid sexual organs, but their process of reprodu
 Elves are considered young at thirty or below and reach adulthood after completing their first step in the Walk - this being their first major achievement - typically around one hundred (meaning that most elves alive are still considered children!). Most elves take their [[#Final Walk]] at around 300.
 
 ### Final Walk
-Elves can live forever, if they so desire, but many elves feel a calling that is culturally known as the Final Walk. Historically, this path leads east.
+"True" Elves can live forever, if they so desire, but almost all elves succumb to the calling that is culturally known as the Final Walk. Historically, this path leads north out of [[Central Alaturmen]], and the elves that follow this path leave through the [[Actstow Hills]]. 
 
-Some rumor that these elves who make the walk return to their ancestors and meet their heirs at the end of time - few believe this to be true.
+Some rumor that these elves who complete their Walk gather with their ancestors and heirs at the end of time. This is a non-elven rumor, none who Walk know what they are being called to.
 
-### Subspecies
+## Subspecies
 Much like their progenitors, the elves of Alaturmen are sub-categorized by the seasons of the year.
 
 #### Spring Elves
@@ -33,12 +33,10 @@ Traditional summer elf culture promotes impulse and fruitless joy, so long as th
 #### Autumn Elves
 Autumn elves, also known as the High Elves, first came to the southeast of [[Central Alaturmen]], the area now known as [[The Fiefdoms of the Combine]]. There, they used their progenitor's natural magics in the battle for power and resources ever-present in the Fiefdoms. 
 
-The traditional culture of the Autumn elves gives great respect to the Weave and those who can manipulate it.
+The traditional culture of the Autumn elves requires respect to be given to those who have spent their time mastering their skills.
 
 #### Winter Elves
-The Winter elves, also known as the Drow, inherited many of the features of their progenitors. Sharp, long features, mono-chrome skin-tone, etc.
+The Winter elves, also known as the Drow, first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They quickly exterminated goblinoids that lived there over the course of their first year. They formed the beginnings of a powerful nation; [[The Old|Minyostalma]], but before the seeds of this nation could flower, they were [[50 Year White Burning|burned]]. After the [[50 Year White Burning]], the surviving remnants of Minyostalma formed [[Cenva Minyo]], plotting against the White Flame in the southern [[Grumbling Hills]].
 
-The culture of traditional Winter Elves promotes cultural isolation and personal arrogance. 
-
-Winter elves first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They quickly exterminated goblinoids that lived there over the course of their first year. They formed the beginnings of a powerful nation; [[The Old|Minyostalma]], but before the seeds of this nation could flower, they were [[50 Year White Burning|burned]]. After the [[50 Year White Burning]], the surviving remnants of Minyostalma formed [[Cenva Minyo]], plotting against the White Flame in the southern [[Grumbling Hills]].
+The culture of traditional Winter Elves promotes cultural isolation, arrogance, and self-sufficiency. 
 
