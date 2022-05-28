@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3b65885db048a6d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+            "file": "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md"
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md"
               }
             }
           },
@@ -180,15 +169,15 @@
   },
   "active": "c2899e9df70c7401",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "Game Notes/A Grand Notepad.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Elven Specifics.md",
     "World Notes/Prime Material - Alaturmen/Map of Alaturmen.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Eladrin Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Playable Races.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Triton Specifics.md",
-    "Guraxlog.md",
-    "Grumbling Hills.md",
-    "Darnt Hillkeep.md"
+    "World Notes/Prime Material - Alaturmen/Heritages/Playable Races.md"
   ]
 }
