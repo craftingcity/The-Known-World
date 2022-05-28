@@ -42,7 +42,7 @@ Each of the wards has a purpose that allows the greater city to prosper, and som
 [[The Guilds]] are a respected group of people who hold roles in the world at large. They are often respected and honored guests of the nations that host them, creating a connected network of Wizards, Merchants, Craftsfolk, and the like.
 
 ## Big Notes from the World
-Coalition City is the biggest up-and-coming power in the world. The Kingdom and the Church have some contention, as they are both militarily strong, but neither could survive attacking the other at this time. The same can be said for the Kingdom and the Hobgoblin Territories, as well as The Kingdom and the Combine. No-one dares threaten the Lands of Tetrimoc, even with his recent disappearance.
+Coalition City is the biggest up-and-coming power in the world. The Kingdom and the Church have some contention, as they are both militarily strong, but neither could survive attacking the other at this time. The same can be said for the Kingdom and the Hobgoblin Territories, as well as The Kingdom and the Combine. No-one dares threaten the Lands of Tetrimoc, even with his current lack of appearances.
 
 The places to learn or study would be the [[Cenva Minyo]], [[Guild of Wizards]], [[Magius]], [[The Golden City#Tetrimoc's Library]].
 
