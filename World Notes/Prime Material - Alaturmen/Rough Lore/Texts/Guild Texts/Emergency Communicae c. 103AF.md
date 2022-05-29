@@ -4,11 +4,11 @@ aliases:
 ---
 
 ## Forword
-This is a transcript of the meeting on the 24th Day of Final Planting serviced by [[Poppy Bumbleheart]]
+This is a transcript of the meeting on the 24th Day of Planting serviced by [[Poppy Bumbleheart]]
 
 ## CONTENT
 
-SPEAKER: ... [unintelligible] ... Very well. Lets begin. Please calm youselves and others around you, speakers take you stands, others, your seats. The day is the 24th of Final Planting. I am [[Speaker Vanavar]]. Speak.
+SPEAKER: ... [unintelligible] ... Very well. Lets begin. Please calm youselves and others around you, speakers take you stands, others, your seats. The day is the 24th of Planting. I am [[Speaker Vanavar]]. Speak.
 
 ADV.: I am [[Filip Grundle]], I speak on behalf of [[Yyu Clipwin]] as a representative of the [[Guild of Adventurers]]. Through reputable means - the [[Kakurak|adventurer dragon]], Kakurak - we have been alerted to a force of Giantfolk marching into the territories of [[The Church of the White Flame]].
 
