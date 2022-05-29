@@ -2,88 +2,8 @@
   "mapMarkers": [
     {
       "id": "alaturmen-rolling",
-      "lastAccessed": 1650482669857,
+      "lastAccessed": 1653764310118,
       "markers": [
-        {
-          "id": "ID_f9ca5a494a38",
-          "type": "default",
-          "loc": [
-            -1.0930989384651184,
-            0.28463323638807236
-          ],
-          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f93a5a8b89f8",
-          "type": "default",
-          "loc": [
-            -0.7708333134651184,
-            0.3686121464133043
-          ],
-          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d86bf9c91a39",
-          "type": "default",
-          "loc": [
-            -1.1106770634651184,
-            0.5365699664637682
-          ],
-          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e9fac8e9b929",
-          "type": "default",
-          "loc": [
-            -1.3333333134651184,
-            0.06003847701826581
-          ],
-          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8b8a492b2afb",
-          "type": "default",
-          "loc": [
-            -0.9798176884651184,
-            0.06589747074095653
-          ],
-          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
         {
           "id": "ID_b8d8fae9281b",
           "type": "default",
@@ -250,6 +170,54 @@
           "loc": [
             -1.0501301884651184,
             0.8900625877327677
+          ],
+          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbd8f8e94b99",
+          "type": "default",
+          "loc": [
+            -1.1074490025639534,
+            0.53414791720224
+          ],
+          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8dad96a6968",
+          "type": "default",
+          "loc": [
+            -1.3359646275639534,
+            0.06346480956631884
+          ],
+          "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18080b29581b",
+          "type": "default",
+          "loc": [
+            -0.9824490025639534,
+            0.06541785150671686
           ],
           "layer": "%5B%5Balaturmen-100AF.png%5D%5D",
           "mutable": true,

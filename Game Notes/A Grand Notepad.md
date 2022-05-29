@@ -22,6 +22,10 @@ Body of [[Bardaux]]; "Body of a betrayer..."
 
 The [[Ungaethram Drow Houses|Nobles]] of [[Ungaethram]] excommunicated House [[The Whitimores|Whitimore]] not only for their belief in the false god, they were also removed for working with the Fire Giant Snure.
 
+Shrine to the missing of the [[Wildlands]]
+
+Temples and Shrines to the Gods
+
 # NEXT SESSION
 
 [[Gudeliva]] is sick, they need to rest in [[Ootool]]. Krenzo pops off the plan before they all enter the city (if it goes off without a hitch, he can use the urban center as getaway). Run [[Prenotes Mar 27 22#Kayus]] after [[Ootool]].

@@ -15,4 +15,4 @@ Dwarves live for nearly a quarter of a millennium - usually about two-hundred an
 ### Subspecies
 Many Mountain dwarves grow great beards, and keep them as both a point of pride and as a useful tool to prevent chips and dust from entering their lungs during mining.
 
-Most Hill dwarves grow beards, though most keep them short and kept, a cosmetic more than a tool, and rarely do hill dwarves grow beard lengths of more than a foot.
+Most Hill dwarves grow beards, though most keep them short and kept, a cosmetic more than a tool, and rarely do hill dwarves grow beard lengths of more than a half-foot.

@@ -1,7 +1,10 @@
 ---
-tags: race_specifics, fey, needs_work
+tags: race_specifics, fey
 aliases:
 ---
+## Legends from Beyond the Material Plane
+The story of the Eladrin is far too long to be truly known, but their connection to the [[Feywild]] the the [[Ceilie Courts]]
+
 ## Seasonal Fey
 Eladrin are minor humanoid fey. They mostly inhabit the Feywild, but some have been seen in Alaturmen. They are the progenitors of the [[Elven Specifics|Elves]].
 
