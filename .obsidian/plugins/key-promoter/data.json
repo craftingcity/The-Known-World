@@ -7,7 +7,7 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 7,
+    "file-explorer:new-file": 8,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
     "app:delete-file": 23,
@@ -55,11 +55,11 @@
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": 1
   },
   "keyboardStatistics": {
-    "insert-template": 39,
-    "switcher:open": 57,
+    "insert-template": 40,
+    "switcher:open": 60,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 100,
+    "workspace:close": 101,
     "app:go-back": 20,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,

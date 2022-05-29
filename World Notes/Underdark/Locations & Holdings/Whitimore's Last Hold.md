@@ -24,4 +24,4 @@ The temple interior has been converted to an operations center.
 
 The undertemple is honorable housing. The 
 
-The catacombs is for prisoners, and contains a secret saferoom with a scoll of delay blast fireball and planeshift and a tuning rod for the plane of fire. if things go bad :).
+The catacombs is for prisoners, and contains a secret saferoom with a scoll of delay blast fireball and a black chain of *planeshift to the plane of fire*. if things go bad :).

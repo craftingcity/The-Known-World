@@ -20,3 +20,7 @@ The most recent entries read...
 > Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. Soon he shall come. =========================================================================================================================================================================================================================================================================================================================================================================================================================
 
 > The brotherhood-piece. Quick snag they tell me. good WOPAJKD
+
+> FINALLY, THE BETRAYER
+> HE SHALL COME SOON HE SHALL COME SOON
+> VHAERAUN
