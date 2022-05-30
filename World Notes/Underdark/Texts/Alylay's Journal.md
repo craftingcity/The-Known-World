@@ -21,6 +21,6 @@ The most recent entries read...
 
 > The brotherhood-piece. Quick snag they tell me. good WOPAJKD
 
-> FINALLY, THE BETRAYER
+> FINALLY, THE BETRAYER-PEICE
 > HE SHALL COME SOON HE SHALL COME SOON
 > VHAERAUN
