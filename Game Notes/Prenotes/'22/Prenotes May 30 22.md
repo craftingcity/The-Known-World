@@ -14,4 +14,5 @@ aliases:
 
 I have the encounter prep in paper somewhere.
 
-I talked with Grandpa Jim to see about his two characters, he said if given the option, he would continue to play Kursk, I suggested that this means Bardaux is my NPC now - he seemed ammicable and accepted this.
+I talked with Grandpa to see about his two characters, he said if given the option, he would continue to play Kursk, I suggested that this means Bardaux is my NPC now - he seemed ammicable and accepted this.
+
