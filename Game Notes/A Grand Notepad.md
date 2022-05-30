@@ -26,6 +26,8 @@ Shrine to the missing of the [[Wildlands]]
 
 Temples and Shrines to the Gods
 
+In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
+
 # NEXT SESSION
 
 [[Gudeliva]] is sick, they need to rest in [[Ootool]]. Krenzo pops off the plan before they all enter the city (if it goes off without a hitch, he can use the urban center as getaway). Run [[Prenotes Mar 27 22#Kayus]] after [[Ootool]].

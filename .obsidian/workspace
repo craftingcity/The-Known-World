@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "321dddbc5b444ae4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible 2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -178,10 +189,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "67aef16a6674b040",
+  "active": "321dddbc5b444ae4",
   "lastOpenFiles": [
-    "Bible 2.md",
     "conflict-files-obsidian-git.md",
+    "Bible 2.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
     "World Notes/Prime Material - Alaturmen/Holding Rules.md",
     "Spike's Characters/Amelia Hawkford, the Red.md",
