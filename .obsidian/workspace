@@ -4,23 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "a463bd7401b21dc4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
-            "mode": "source"
+        "id": "f5b8cf0a17a5b833",
+        "type": "split",
+        "children": [
+          {
+            "id": "90ab073928d4ee03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6397970d9a168d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible 2.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "67aef16a6674b040",
+        "id": "a88648b5f7a0eefb",
+        "type": "split",
+        "children": [
+          {
+            "id": "4770ab50364d5c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swampish.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "63d62179b3f40f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "7e78b57e735b62cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bible 2.md",
+            "file": "Game Notes/A Grand Notepad.md",
             "mode": "source"
           }
         }
@@ -79,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Swampish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Swampish.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible 2.md"
+                "file": "Swampish.md"
               }
             }
           },
@@ -171,24 +218,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "67aef16a6674b040",
+  "active": "4770ab50364d5c92",
   "lastOpenFiles": [
-    "Bible 2.md",
+    "Swampish.md",
     "conflict-files-obsidian-git.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
-    "World Notes/Prime Material - Alaturmen/Holding Rules.md",
-    "Spike's Characters/Amelia Hawkford, the Red.md",
-    "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
-    "World Notes/Underdark/Texts/Alylay's Journal.md",
-    "World Notes/Underdark/Alylay's Journal.md",
-    "Game Notes/A Grand Notepad.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Satyr Specifics.md"
+    "Desertspeech.md",
+    "High Common.md",
+    "King's Common.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+    "Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md"
   ]
 }
