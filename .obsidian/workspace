@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swampish.md",
+                "file": "Bible 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swampish.md",
+                "file": "Bible 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swampish.md"
+                "file": "Bible 2.md"
               }
             }
           },
@@ -226,16 +226,16 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "4770ab50364d5c92",
+  "active": "6397970d9a168d0c",
   "lastOpenFiles": [
+    "Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Bible.md",
     "Swampish.md",
     "conflict-files-obsidian-git.md",
-    "World Notes/Prime Material - Alaturmen/Bible.md",
     "Desertspeech.md",
     "High Common.md",
     "King's Common.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
-    "Bible 2.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
     "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md"
   ]

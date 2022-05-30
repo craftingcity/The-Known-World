@@ -50,13 +50,13 @@ Legend tells of many dangers in between the civilized lands. Beasts and Terrors 
 
 Much of the treasure of the world is held in horde, still yet to be plundered, but a handsome price some may pay for a job done well.
 
-Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making it the dominant currency, but each of the "nations" of the world mint their own coin.
 
-The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
+
+
 
 Travel from one side of the world to the other takes a month. Crossing a nation takes roughly a week. Travel is easy, but unrefined.
 
-The most common languages spoken are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the dragons, elves, goblin, and triton respectively.
+
 
 ## Power and Punishment
 There are four "national" level powers, the church, the kingdom, the immortal dragon (but mostly [[Golden Claws]]), and the united forces of [[The Democratic Combine of Peoples]], one lower power regulatory federal system, and a few regional powers that are not a part of the national contest (yet). Church is theocracy, Kingdom is united fellowship monarchy, the Claws use authoritarian fear, and the Combine uses strength and community.

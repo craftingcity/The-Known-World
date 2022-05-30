@@ -63,3 +63,12 @@ Related articles include: [[Dwarven Specifics#Hill Dwarves]]
 The Mountain Hall is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarves' heart belongs to his family first, and remain minor isolationists.
 
 Related articles include [[Dwarven Specifics#Mountain Dwarves]]
+
+## People
+Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making it the dominant currency, but each of the "nations" of the world mint their own coin.
+
+The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer.
+
+The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
+
+The most common languages spoken - and therefore  are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the dragons, elves, goblin, and triton respectively.
