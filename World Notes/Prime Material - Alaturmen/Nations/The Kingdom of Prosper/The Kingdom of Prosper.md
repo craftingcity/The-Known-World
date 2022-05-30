@@ -10,9 +10,8 @@ For much of the first century, "The Kingdom of Prosper", it was an idea in a you
 
 In the very beginning, people made homes and farms here, and quickly the [[Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and took land from the hobgoblins to make their own holdings larger. 
 
-In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. A great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
+In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. In the end, it was a great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
 
-In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 Related articles include [[Arthur's Journal]] and [[Unification]].
 

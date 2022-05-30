@@ -19,12 +19,14 @@ Quickly, these claims had no power, for **mortality** would claim all in Alaturm
 
 ## Geography
 
-At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breaths in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
+At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breathes in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
 
 Related articles include [[The Nations of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Rangers]].
 
 ### Northeast
-The northeast is a temperate forest. 
+The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]].
+
+Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common]]
 
 ### Northwest
 The northwest was a temperate forest, and is now a unique ashen ecosystem (see Morrowind?).
