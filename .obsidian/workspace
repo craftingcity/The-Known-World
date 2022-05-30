@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Bible.md",
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "mode": "source"
               }
             }
@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swampish.md",
+                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
                 "mode": "source"
               }
             }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+                "file": "Game Notes/Fronts/Varis Co..md",
                 "mode": "source"
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Game Notes/Encounters/The Varis Hit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible 2.md"
+                "file": "Game Notes/Encounters/The Varis Hit.md"
               }
             }
           },
@@ -226,17 +226,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "6397970d9a168d0c",
+  "active": "90ab073928d4ee03",
   "lastOpenFiles": [
-    "Bible 2.md",
+    "Game Notes/Encounters/The Varis Hit.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
+    "Game Notes/Fronts/Varis Co..md",
+    "World Notes/Underdark/Groups/The Whitimores.md",
+    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
     "Swampish.md",
-    "conflict-files-obsidian-git.md",
-    "Desertspeech.md",
-    "High Common.md",
-    "King's Common.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
     "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
-    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md"
+    "Bible 2.md",
+    "conflict-files-obsidian-git.md",
+    "Desertspeech.md"
   ]
 }

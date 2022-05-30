@@ -16,7 +16,7 @@ At the height of peace in the world, disaster strikes.
 **The Prophecy**
 - [x] Assist the Hill Giants in entering the Prime plane
 - [x] Impose the Fire Giants on the Prime plane
-- [ ] Find Varis
+- [x] Find Varis
 - [ ] Make him a god
 
 **Impending Doom**
