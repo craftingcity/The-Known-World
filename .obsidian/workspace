@@ -37,12 +37,12 @@
         "type": "split",
         "children": [
           {
-            "id": "261d566e9b418f51",
+            "id": "4770ab50364d5c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King's Common.md",
+                "file": "Swampish.md",
                 "mode": "source"
               }
             }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Wildlands.md",
+                "file": "King's Common.md",
                 "mode": "source"
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "King's Common.md",
+                "file": "Bible 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "King's Common.md",
+                "file": "Bible 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "King's Common.md"
+                "file": "Bible 2.md"
               }
             }
           },
@@ -226,17 +226,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "261d566e9b418f51",
+  "active": "6397970d9a168d0c",
   "lastOpenFiles": [
-    "King's Common.md",
     "Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Bible.md",
+    "Swampish.md",
+    "Desertspeech.md",
+    "High Common.md",
+    "King's Common.md",
+    "Game Notes/NPCs/Prime/Giant Leadership/King Snure.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Wildlands.md",
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "Central Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Game Notes/A Grand Notepad.md",
-    "World Notes/Prime Material - Alaturmen/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Great Abadon Lake.md",
-    "World Notes/Prime Material - Alaturmen/Bible.md"
+    "Central Alaturmen.md"
   ]
 }
