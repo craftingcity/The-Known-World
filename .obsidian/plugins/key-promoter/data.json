@@ -36,9 +36,9 @@
     "switcher:open": 70,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 119,
+    "workspace:close": 120,
     "app:go-back": 19,
-    "file-explorer:new-file": 4,
+    "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,
     "command-palette:open": 1,
     "editor:save-file": 3
