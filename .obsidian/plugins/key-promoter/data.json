@@ -59,7 +59,7 @@
     "switcher:open": 60,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 101,
+    "workspace:close": 102,
     "app:go-back": 20,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,
