@@ -50,6 +50,16 @@ In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Dea
 
 ### "Non-Nation Entities"
 #### Cenva Minyo
+The Winter Elf Remnants, [[Cenva Minyo]], gather and grow just south of the Actstow Hills, waiting for their moment to enact revenge for their fallen in the [[Great Fires]].
+
+Related articles include: [[Elven Specifics#Winter Elves]]
 
 #### Dwarven Kingdom Actstow
-The Dwarven Kingdom Actstow is a beating heart of dwarven industrialism. The dwarves here are carved
+The [[Dwarven Kingdom Actstow]] is a beating heart of dwarven industrialism. The dwarves here are carved from hill stone, and they have shown grace and honor in the face of uncertainty.
+
+Related articles include: [[Dwarven Specifics#Hill Dwarves]]
+
+#### Dwarven Kingdom Suremantle
+The Mountain Hall is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarves' heart belongs to his family first, and remain minor isolationists.
+
+Related articles include [[Dwarven Specifics#Mountain Dwarves]]

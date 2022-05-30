@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King's Common.md",
+                "file": "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
                 "mode": "source"
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Swampish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible 2.md",
+                "file": "Swampish.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible 2.md"
+                "file": "Swampish.md"
               }
             }
           },
@@ -226,17 +226,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "6397970d9a168d0c",
+  "active": "4770ab50364d5c92",
   "lastOpenFiles": [
-    "Bible 2.md",
-    "World Notes/Prime Material - Alaturmen/Bible.md",
     "Swampish.md",
+    "World Notes/Prime Material - Alaturmen/Bible.md",
     "Desertspeech.md",
     "High Common.md",
     "King's Common.md",
-    "Game Notes/NPCs/Prime/Giant Leadership/King Snure.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Wildlands.md",
-    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
-    "Central Alaturmen.md"
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Cenva Minyo.md",
+    "Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md",
+    "World Notes/Prime Material - Alaturmen/Non-Nation Entities/Dwarven Kingdom Actstow.md",
+    "Game Notes/NPCs/Prime/Giant Leadership/King Snure.md"
   ]
 }
