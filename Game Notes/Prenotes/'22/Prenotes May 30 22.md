@@ -18,3 +18,5 @@ I talked with Grandpa Jim to see about his two characters, he said if given the 
 
 The Whitimores need Varis alive, for his Soul, Bardaux and Travis are not necessarily needed, though they are useful for their Blood and Body.
 
+They tell me the betrayer-peice was delivered by Fiyl'ysil from the surface. Only the born-peice remains. We MUST find him.
+
