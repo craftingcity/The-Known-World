@@ -71,4 +71,4 @@ The most common working job is that of the Farmer. The second most common is tha
 
 The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
 
-The most common languages spoken - and therefore  are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with the great influence of the historical languages of the dragons, elves, goblin, and triton respectively.
+The most common languages spoken - and therefore the common humanoid trade languages - are Desertspeech, High Common, King's Common, and Swampish. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
