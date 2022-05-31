@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "golden claw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "862ea603cae4a16d",
+  "active": "33d52f5f62206b7f",
   "lastOpenFiles": [
     "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
     "World Notes/Prime Material - Alaturmen/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",

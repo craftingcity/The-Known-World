@@ -77,30 +77,32 @@ See [[The Fiefdoms of the Combine]].
 **Capital:** [[The Golden City]]
 **Hallmarks:** Sand, Gold, Durandurm, Fear, Authority
 
-The lands of [[Tetrimoc]] are hot and dry.
+The lands of [[Tetrimoc]] are hot and dry. Its deserts are roamed by clans of nomadic cannibal raiders and honorable thieves. There are spare yet dense centers of civility and population, the grandest of which is [[The Golden City]].
 
-## Interesting things about AAA
-- a
-- a
-- a
-- a
+## Interesting things about the Lands of Tetrimoc
+- The lands of Tetrimoc are supposedly protected and ruled by the Legendary Now-Mortal Dragon Tetrimoc. It has been many years since another mortal has reported a sighting of this legendary dragon.
+- Nearly all occurrences in these lands could be traced by cause or effect to the Golden City - even the movements of the nomadic Outlanders and the battles of Thieves.
+- A rare material that captures the power of the elements known as Durandurm is exclusive to the deserts in Tetrimoc's Lands.
 
-## Characters from AAA
-As you develop a character from AAA, consider the following properties:
-**a.** a
-**a.** a
+## Characters from the Lands of Tetrimoc
+As you develop a character from the Lands of the Yellow Dragon, consider the following properties:
+
+**Points of Civilization.** Civilization in the Lands of Tetrimoc is hard to find. What has your character had to do to survive? Do they have connections to any of the groups of the area, such as the [[Golden Claws]] or the bands of Thieves or Nomads?
+
+**Ancestral Homeland.** The legends of Alaturmen suggest that it was Tetrimoc's decent to Alaturmen that brought nearly all humanoid life to these lands. How does your character feel about these claims? How does your character treat the foreign folk that come to pay their respects to this legend?
+
 **a.** a
 
 ## Cities and Sites
 
 # [[The Holyl'nds]]
 **Capital:** the Holy City of Kanielkiln
-**Hallmarks:** a, a, a, a
+**Hallmarks:** White Flame, Faith, Martial Prowess, Divine Magic
 
-desc.
+The Holyl'nds were once dense with the trees and bushes of the [[Great Northern Forests]], but the mysterious [[Its Greatness|White Flame]] caused [[Great Fires]] that changed the landscape drastically. Where once there stood the beginnings of a beautiful elven civilization, [[The Church of the White Flame]] makes civilization from wasteland and faith.
 
-## Interesting things about AAA
-- a
+## Interesting things about The Holyl'nds
+- [[Its Greatness]], the White 
 - a
 - a
 - a
