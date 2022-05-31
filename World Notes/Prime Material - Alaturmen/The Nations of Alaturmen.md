@@ -19,18 +19,18 @@ A decent system of roads connect the nations through [[Coalition City]], a proje
 
 In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources, strategic positioning, and a powerful leadership. Prosper leads the known world in industry, commerce, and education. 
 
-Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great Adventurer King]], supported and managed by the [[Nobles of Prosper]] - and a legal blood clan, according to the [[Blood Hobgoblin Clan Pact]]
+Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great Adventurer King]], supported and managed by the [[Nobles of Prosper]] - and a legal blood clan, according to the [[Blood Hobgoblin Clan Pact]]. This is important, as these seemingly conflicting forms of governance lend Prosper authority to all cultures.
 
 
 ## Interesting things about Prosper
-- Some [[Nobles of Prosper]] are goblins, leading credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
+- Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
 - Our King, [[Arthur Simonson|Artie]], is unaging, but not disillusioned. He protects his common citizen as well as he can.
 
 
 ## Characters from Prosper
 As you develop a character from the Kingdom of Prosper, consider the following properties:
 
-**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]]'s patriarch is the handsome goblin [[Blagur a'Nyrk]], for example. 
+**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]] for example.
 
 **Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities or open air?
 
@@ -54,9 +54,9 @@ While the peace brought about by the Coalition is wonderful for some; the citize
 
 # [[The Democratic Combine of Peoples]]
 **Capital:** Unknown
-**Hallmarks:** Ale, Chaos
+**Hallmarks:** Chaos, Idol Worship, Alcohol, Bountiful Flora
 
-desc.
+The Democratic Combine of Peoples were created for the 
 
 ## Interesting things about AAA
 - a
