@@ -67,17 +67,24 @@ Related articles include [[Dwarven Specifics#Mountain Dwarves]]
 ## People
 Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making it the dominant currency, but each of the "nations" of the world mint their own coin.
 
-The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer.
+The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer. People of the realm keep an open mind for the most part. Most fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security.
 
 The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
 
 The most common languages spoken - and therefore the common humanoid trade languages - are [[Desertspeech]], [[High Common]], [[King's Common]], and [[Swampish]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
 
+Most folks have interacted with medieval style technology
+
 ## Power
-The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared.
+The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare, hard to create, harder to find. Few exist outside of hoards of dragons and wizards.
 
 Secondarily, many gain power by learning from their elders, peers, and the materials of the past. Two of three people develop the ability to read.
 
-Finally, of course, many people gain power from physical force; more weaponry, people, or efficiency 
+Finally, of course, many people gain power from physical force; more weaponry, people, or strength.
+
+Gods rarely interfere.
 
 ## Punishment
+Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.
+
+Many cultures have unique forms of punishment and unique crimes. A culture's justification for punishment is also often unique, be it a contract, ideal, or some other broken bond.
