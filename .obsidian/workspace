@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "33d52f5f62206b7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md"
+                "file": "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md"
               }
             }
           },
@@ -168,17 +179,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "69a3dc04730ca373",
+  "active": "33d52f5f62206b7f",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/The Nations of Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Wildlands.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/The Rambleon.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Rumors of Old Elves.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Draconic.md",
-    "World Notes/Prime Material - Alaturmen/Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Bible 2.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Draconic Lore.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Swampish.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/King's Common.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/High Common.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Desertspeech.md"
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Swampish.md"
   ]
 }

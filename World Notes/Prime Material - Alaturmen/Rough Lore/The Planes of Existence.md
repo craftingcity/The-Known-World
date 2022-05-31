@@ -3,6 +3,7 @@ tags: planes, world, needs_work
 aliases: The Planes, Planes
 ---
 # The Material Plane
+The material planes are the top-most points in the structure of the planes. "It's only downhill from here."
 ## Prime
 The Prime Material Plane (known to its population as Alaturmen, a name given to it by the [[Eladrin Specifics|Eladrin]]) expands with the ebb and flow of the Weave. It grows and shrinks as it desires to. This is a process that takes many years, and begins with sentient creatures exploring and quickens with mapping of the "film layer" in between [[#Prime]] and other planes. This is known as the [[#In Between]] to scholars studying the subject.
 
@@ -35,6 +36,8 @@ Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 
 
 
 ## The Elemental Planes
+The elemental planes are the middle point in the waterfall-esq structure of the planes. 
+
 ### The Plane of Earth
 This is the home plane of the Xorn, who tunnel through the solid rock of this plane and happily consume the rare materials formed from the leaks and overlaps from the other Elemental planes.
 

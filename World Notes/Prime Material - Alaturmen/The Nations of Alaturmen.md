@@ -7,19 +7,19 @@ aliases:
 *The Known World c. 100AF - [[Jasper Vwem]]*
 
 # Nations of Alaturmen
-The following sections focus on what you need to know to create characters and NPCs from the nations of Alaturnmen and some of the smaller regions.
+The following sections focus on what you need to know to create characters and NPCs from the nations of Alaturmen and some of the smaller regions.
 
-The "Four Nations of Coalition" arose some half century after [[Tetrimoc]] fell. After they rose to power, they began to interact and it became clear that a peace would be most beneficial for everyone. Together they built a "world capital" into the large end of the [[Deakred Range]].
+The "Four Nations of Coalition" arose some half century after [[Tetrimoc]] fell to Alaturmen. After they rose to power, they began to interact and it became clear that a peace would be most beneficial for everyone. Together they built a "world capital" known as [[Coalition City]] into the large eastern end of the [[Deakred Range]].
 
-A decent system of roads connect the nations through [[Coalition City|Coalition City]]. From [[Coalition City|Coalition City]], the [[Alavini River]] leads south, giving southern nations access to and from the city via waterway.
+A decent system of roads connect the nations through [[Coalition City]], a project of mutual benefit sponsored by the Coalition, known as the [[Three Nation Highways]]. From [[Coalition City]], the [[Alavini River]] leads south, giving southern nations access to and from the city via waterway.
 
 # [[The Kingdom of Prosper]]
 **Capital:** [[Castle Prosper]]
 **Hallmarks:** Art, Artifice, Grain, Forestry, Martial Prowess
 
-In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources. Prosper leads the known world in industry and commerce, and holds an [[Vurdine#Vurdine Acadamy|Academy]] in [[Vurdine]]. 
+In the wake of the Fall, Prosper is one of the most powerful nations in Alaturmen. It possesses abundant resources, strategic positioning, and a powerful leadership. Prosper leads the known world in industry, commerce, and education. 
 
-While the Kingdom is a true monarchy, headed and completely ruled by his lordship [[Arthur Simonson]], it is also a [[Northeastern Hobgoblin Territories#Clans|Blood Clan]] under, again, [[Simonson Clan|Simonson rule]]. It is home to a few powerful noble families, many of whom have bloodline as far back as the [[Unification]].
+Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great Adventurer King]], supported and managed by the [[Nobles of Prosper]] - and a legal blood clan, according to the [[Blood Hobgoblin Clan Pact]]
 
 
 ## Interesting things about Prosper
