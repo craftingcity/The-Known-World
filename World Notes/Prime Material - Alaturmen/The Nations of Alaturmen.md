@@ -41,42 +41,43 @@ As you develop a character from the Kingdom of Prosper, consider the following p
 The Capital of the Kingdom, Prosper proper is a keep where the king lives and works, and the City of Prosper surrounds him. Mostly noble families do business here, but the city also disperses into many fields of farmers that call the city home.
 
 ### [[Moonlight]]
-Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. While some farming communities are friendly, Moonlight's common folk have no love for the adventure type, with some exceptions. Moonlight is home to [[Durth's Tavern]], a region renown bar, famous for its Aasimar patron and namesake who is both a great tavernkeep and non-guild adventure patron, although he has little to give but space. 
+Small farming communities such as Moonlight are essential to the Kingdom's economy, as they produce the food that the other folk eat. While some farming communities are friendly, Moonlight's common folk have no love for the adventure type, with some exceptions. Moonlight is home to [[Durth's Tavern]], a region renown bar, famous for its Goliath patron and namesake who is both a great tavernkeep and non-guilded adventure's patron, although he has little to give but space. 
 
 ### [[Magius]]
-Home to Prosper's most prestigious Acadamy, Magius is a rural "college town". Rumor has it that the King hand picks [[Magius University]] students to work for him on "kingdom secrets". 
+Home to Prosper's most prestigious Academy, Magius is a rural "college town". Rumor has it that the King hand picks [[Magius University]] students to work for him on "kingdom secrets". The dean of the Academy, [[The Grand Archmage Alergra Barrowinch]] is a efficient and ruthless teacher and mentor.
 
 ### [[Yerba]]
 A lavish city, they call this place "the City of Adventure". This is the largest city in the Kingdom, rivaling even the King's own holding. This is where the Guild Halls representing the Kingdom are based. Many merchant families got their start in Yerba, such as the Northstones of [[Northstone Trading Company]].
 
-### [[The Independant State of Yoursvik]]
-While the peace brought about by the Coalition is wonderful for some; the citizens of Yoursvik live every day under two rulers; a member of the [[The Democratic Combine of Peoples]] and the [[Arthur Simonson|King Of Prosper]]. While they are legally an independant state, both nations have claim to the city and a thumb in its pie. [[Noble House a'Haruuc]] hails from this city, and holds most of it's legal power. They have, in accordance with [[Coalition's Founding Document]], left "ample room" for whomsoever of the Combine holds Yoursvik that day. [[Svik Talon]] is a group of citizens who use violence to maintain a border between the House's rule and their own. 
 
 # [[The Democratic Combine of Peoples]]
 **Capital:** Unknown
 **Hallmarks:** Chaos, Idol Worship, Alcohol, Bountiful Flora
 
-The Democratic Combine of Peoples were created for the 
+The Democratic Combine of Peoples were created for the purpose of collecting the voices of the waring nation-states of the southeastern wetlands of [[Central Alaturmen]].
 
-## Interesting things about AAA
-- a
-- a
-- a
-- a
+## Interesting things about the Combine
+- The elves who came to this area of Alaturmen brought with them powerful elemental magic, imbuing the lands with Woven strength.
+- Triton traveled here from the Elemental Plane of Water early in Alaturmen's history, and have shaped the language of this area to closer match their own.
+- Most people know their Barons by name, face, and reputation. It is common for a Baron of Combine to hold court with *all* their subjects.
 
-## Characters from AAA
-As you develop a character from AAA, consider the following properties:
-**a.** a
-**a.** a
+## Characters from Combine
+As you develop a character from the Combine, consider the following properties:
+
+**Warring Alliance.** In the Combine, city-states vie for power and property, but outside of the Combine, its members treat each-other as family. Does your character hold a grudge or a debt to a particular city-state?
+
+**Wetlands.** Much of the Combine is damp if not entirely submerged. Consider that most travel by waterway throughout the Combine; What does your character do to traverse their homeland? 
+
 **a.** a
 
 ## Cities and Sites
+See [[The Fiefdoms of the Combine]].
 
 # [[The Lands of Tetrimoc]]
 **Capital:** [[The Golden City]]
-**Hallmarks:** Sand, Gold, Durandurm 
+**Hallmarks:** Sand, Gold, Durandurm, Fear, Authority
 
-desc.
+The lands of [[Tetrimoc]] are hot and dry.
 
 ## Interesting things about AAA
 - a
