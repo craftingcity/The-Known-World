@@ -50,10 +50,6 @@ Legend tells of many dangers in between the civilized lands. Beasts and Terrors 
 
 Much of the treasure of the world is held in horde, still yet to be plundered, but a handsome price some may pay for a job done well.
 
-
-
-
-
 Travel from one side of the world to the other takes a month. Crossing a nation takes roughly a week. Travel is easy, but unrefined.
 
 
