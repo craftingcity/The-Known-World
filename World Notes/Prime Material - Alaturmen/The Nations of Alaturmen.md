@@ -24,18 +24,18 @@ Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great A
 
 ## Interesting things about Prosper
 - Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
-- Our King, [[Arthur Simonson|Artie]], is unaging, but not disillusioned. He protects his common citizen as well as he can.
-- The standing army that the King employs treats their peers well, as most of their members come from the common families of the Prosper.
+- Our King, [[Arthur Simonson|Artie]], is ageless, but not disillusioned. He protects his common citizen as well as he can.
+- The standing army that the King employs treats their peers well, and most of their members come from the common families of Prosper.
 
 
 ## Characters from Prosper
 As you develop a character from the Kingdom of Prosper, consider the following properties:
 
-**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]] for example.
+**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]] for example. Does your character know the truth about their family? How does your family's reputation affect your character?
 
-**Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities or open air?
+**Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities or open air? 
 
-**a.** a
+**Strong People.** Most of the people who live in Prosper have some martial training and physical strength. A strong people is a kind people, after all. How does your character compare to their peers? How does your character maintain their strength?
 
 ## Cities and Sites
 ### [[Castle Prosper|Prosper Proper]]
@@ -69,7 +69,7 @@ As you develop a character from the Combine, consider the following properties:
 
 **Wetlands.** Much of the Combine is damp if not entirely submerged. Consider that most travel by waterway throughout the Combine; What does your character do to traverse their homeland? 
 
-**a.** a
+**Powerful Magic.** The people of the Combine all share a Woven Patch of elemental magic. How does this natural predisposition to the elements affect your character? Can your character use their Patch to their advantage, or is it a detriment that they must commonly recover from or cover up?
 
 ## Cities and Sites
 See [[The Fiefdoms of the Combine]].
@@ -86,18 +86,18 @@ The lands of [[Tetrimoc]] are hot and dry. Its deserts are roamed by clans of no
 - A rare material that captures the power of the elements known as Durandurm is exclusive to the deserts in Tetrimoc's Lands.
 
 ## Characters from the Lands of Tetrimoc
-As you develop a character from the Lands of the Yellow Dragon, consider the following properties:
+As you develop a character from the Lands of the Progenitor Dragon, consider the following properties:
 
 **Points of Civilization.** Civilization in the Lands of Tetrimoc is hard to find. What has your character had to do to survive? Do they have connections to any of the groups of the area, such as the [[Golden Claws]] or the bands of Thieves or Nomads?
 
 **Ancestral Homeland.** The legends of Alaturmen suggest that it was Tetrimoc's decent to Alaturmen that brought nearly all humanoid life to these lands. How does your character feel about these claims? How does your character treat the foreign folk that come to pay their respects to this legend?
 
-**a.** a
-
 ## Cities and Sites
 ### [[The Golden City]]
+The beating heart of Tetrimoc; A massive towering spire jutting from a deep hole in the deserts of Tetrimoc hosts the Golden City. This massive city is ruled by the [[Golden Claws]], who claim to take direction from Tetrimoc's chosen speakers. There they enforce strict laws and customs that benefit themselves over their peers. Most of the wealth of Tetrimoc's Lands makes its way to and from the Golden City.
+
 ### [[Kickoff]]
-The first 
+Kickoff is the first city of Alaturmen to discover and use Durandurm. The thieves of the Outlands trade, fight, and steal for this material. Kickoff's independence is reliant on their exclusive Durandurm technology.
 
 # [[The Holyl'nds]]
 **Capital:** the Holy City of Kanielkiln
@@ -119,6 +119,8 @@ As you develop a character from AAA, consider the following properties:
 
 ## Cities and Sites
 ### [[The Holy City of Kanielkiln]]
+### [[Baskin]]
+Baskin was once a 
 
 # [[Northeastern Hobgoblin Territories]]
 **Capital:** Unknown
