@@ -60,7 +60,7 @@ The [[Dwarven Kingdom Actstow]] is a beating heart of dwarven industrialism. The
 Related articles include: [[Dwarven Specifics#Hill Dwarves]]
 
 #### Dwarven Kingdom Suremantle
-The Mountain Hall is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarves' heart belongs to his family first, and remain minor isolationists.
+The Mountain Hall is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarf's heart belongs to their family first, and they therefore remain minor xenophobes and isolationists.
 
 Related articles include [[Dwarven Specifics#Mountain Dwarves]]
 
@@ -76,13 +76,13 @@ The most common languages spoken - and therefore the common humanoid trade langu
 Most folks have interacted with medieval style technology
 
 ## Power
-The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare, hard to create, harder to find. Few exist outside of hoards of dragons and wizards.
+The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare; hard to create, harder to find. Few exist outside of hoards of dragons and mages.
 
 Secondarily, many gain power by learning from their elders, peers, and the materials of the past. Two of three people develop the ability to read.
 
 Finally, of course, many people gain power from physical force; more weaponry, people, or strength.
 
-Gods rarely interfere.
+Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God - or a a power of such a caliber.
 
 ## Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.
