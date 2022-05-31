@@ -58,7 +58,7 @@
     "insert-template": 42,
     "switcher:open": 77,
     "editor:open-search": 3,
-    "global-search:open": 2,
+    "global-search:open": 3,
     "workspace:close": 108,
     "app:go-back": 24,
     "file-explorer:new-file": 5,
