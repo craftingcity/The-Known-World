@@ -15,34 +15,45 @@ So called "Mirror" planes of our [[#Prime]] plane exist. Some such include the [
 ## General
 The [[Wildlands]] is the name that the people of [[#Prime]] give to the areas beyond their ability to return from. 
 
-## In Between...
+### In Between...
 The Ethereal plane acts as the beach of the Astral Sea. One walks too far into the [[#The Wildlands]] and things become strange; long and stretched, real but dreamlike. Seeing these affects means that one has passed beyond Alaturmen and into the Wildlands Ethereal - it is too far to turn back.
 
-## The Astral Sea
-The Astral Sea is a great pink soup of mass and energy. It is visually similar to the concept of "floating islands", but the physical space of this plane is malleable via thought alone. This plane bends to its inhabitant's will.
+### The Astral Sea
+The Astral Sea is a great pink soup of mass and energy. It is visually similar to the concept of "floating islands", but the physical space of this plane is malleable via thought alone. This plane bends to its inhabitant's force of will.
 
 If one has no destination in mind or loses that destination while traveling the Ethereal, one would end up in the Astral Sea. 
 
-Many chose or are born into living their lives in this great Sea; some become thought pirates, others great information gatherers, others still attempt to live a simple peaceful life. 
+Many chose to or are born into living their lives in this great Sea; some become thought pirates, others great information gatherers, others still attempt to live a simple peaceful life. 
 
 ## Planeswalking
 
-Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. While Planeswalking, every day, roll 1d12. On a roll of 12, present the players with an encounter. After a combat, the players must make a Constitution check, the DC of which is based on how many hit die they have (24 - remaining hit die). Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. Half of these days are spent in the [[#Prime]]'s border ethereal and the other half is spent in the destination plane's. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]]. 
+Walking the planes and ending up where you want to be is possible, but very difficult. One must maintain concentration on the destination during the entire trip, including during rest. 
+
+While Planeswalking, every day, roll 1d12. On a roll of 12, present the players with an encounter. After a combat, the players must make a Constitution check, the DC of which is calculated by the following equation: 35 - # of hit die = DC.
+
+Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. Half of these days are spent in the [[#Prime]]'s border ethereal and the other half is spent in the destination plane's. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]]. 
 
 
 ## The Elemental Planes
 ### The Plane of Earth
+This is the home plane of the Xorn, who tunnel through the solid rock of this plane and happily consume the rare materials formed from the leaks and overlaps from the other Elemental planes.
+
 ### The Plane of Fire
+This is the home plane of the Azer. The heat here is so powerful that most materials become molten. The Azer use those precious few materials that don't lose their form so easy in the defense of their homelands from the leaks and overlaps from the other Elemental Planes.
+
 ### The Plane of Water
-#### Great Glacier
-Currently ruled by [[Jarl Grungar]]. A great glacier where the plane of Water and Air meet; the Plane of Ice.
+This is the home plane of the Triton. Powerful fighters and mages with kind souls, the Triton defend their home from the leaks and overlaps from the other Elemental Planes.
 
 ### The Plane of Air
+This is the home plane of the Aarakocra, who use their wings to traverse the large swaths of open sky between the leaks and overlaps of the other Elemental Planes.
+
+### Leaks and Overlaps
+#### Great Glacier
+This massive glacier is the meeting place of the Planes of Air and Water. Here, Ice Giants hunt fish and bird who come too close.
 
 
 ## The Outer Planes
-The so called "afterlife". Alignment Extremists end up in one of four places. Non-extremists go to one of any number of other places, such as the many warrior spirits of Valhalla, or the lost souls of Limbo.
-
+The "outer" planes are at the lowest point in the waterfall-esq structure of the planes - the fina
 #### Mechanis, the Land of Law
 
 #### The Abyss, the Land of Chaos
@@ -50,3 +61,5 @@ The so called "afterlife". Alignment Extremists end up in one of four places. No
 #### Elysium, the Land of Good
 
 #### Nine Hells, the Land of Evil
+
+#### Limbo, the Land of Neutrality
