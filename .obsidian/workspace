@@ -4,62 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b8cf0a17a5b833",
-        "type": "split",
-        "children": [
-          {
-            "id": "90ab073928d4ee03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6397970d9a168d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Texts/The Ballad of Grey Ordeal.md",
-                "mode": "source"
-              }
-            }
+        "id": "6397970d9a168d0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "a88648b5f7a0eefb",
-        "type": "split",
-        "children": [
-          {
-            "id": "4770ab50364d5c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "63d62179b3f40f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Fronts/Varis Co..md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "7e78b57e735b62cc",
@@ -126,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Encounters/The Varis Hit.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes May 30 22.md"
               }
             }
           },
@@ -226,17 +179,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "90ab073928d4ee03",
+  "active": "6397970d9a168d0c",
   "lastOpenFiles": [
-    "Game Notes/Encounters/The Varis Hit.md",
+    "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Texts/The Ballad of Grey Ordeal.md",
-    "Game Notes/NPCs/Prime/Adventuring Parties/Grey Ordeal/Tubric Millstone Wrinsmith.md",
-    "Bible 2.md",
+    "Game Notes/Encounters/The Varis Hit.md",
     "Game Notes/Fronts/Varis Co..md",
     "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+    "Game Notes/NPCs/Prime/Adventuring Parties/Grey Ordeal/Tubric Millstone Wrinsmith.md",
+    "Bible 2.md",
     "World Notes/Prime Material - Alaturmen/Bible.md",
     "World Notes/Underdark/Groups/The Whitimores.md",
-    "Swampish.md",
-    "World Notes/Prime Material - Alaturmen/Heritages/Dwarven Specifics.md"
+    "Swampish.md"
   ]
 }
