@@ -53,7 +53,10 @@ This massive glacier is the meeting place of the Planes of Air and Water. Here, 
 
 
 ## The Outer Planes
-The "outer" planes are at the lowest point in the waterfall-esq structure of the planes - the fina
+The "outer" planes are at the lowest point in the waterfall-esq structure of the planes - the last stop before oblivion.
+
+Souls who pass beyond their material planes find themselves drawn to one of these planes, where ostensibly they would spend the rest of eternity.
+
 #### Mechanis, the Land of Law
 
 #### The Abyss, the Land of Chaos
