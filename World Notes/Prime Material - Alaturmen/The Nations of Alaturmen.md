@@ -25,6 +25,7 @@ Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great A
 ## Interesting things about Prosper
 - Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
 - Our King, [[Arthur Simonson|Artie]], is unaging, but not disillusioned. He protects his common citizen as well as he can.
+- The standing army that the King employs treats their peers well, as most of their members come from the common families of the Prosper.
 
 
 ## Characters from Prosper
@@ -94,6 +95,9 @@ As you develop a character from the Lands of the Yellow Dragon, consider the fol
 **a.** a
 
 ## Cities and Sites
+### [[The Golden City]]
+### [[Kickoff]]
+The first 
 
 # [[The Holyl'nds]]
 **Capital:** the Holy City of Kanielkiln
@@ -102,14 +106,14 @@ As you develop a character from the Lands of the Yellow Dragon, consider the fol
 The Holyl'nds were once dense with the trees and bushes of the [[Great Northern Forests]], but the mysterious [[Its Greatness|White Flame]] caused [[Great Fires]] that changed the landscape drastically. Where once there stood the beginnings of a beautiful elven civilization, [[The Church of the White Flame]] makes civilization from wasteland and faith.
 
 ## Interesting things about The Holyl'nds
-- [[Its Greatness]], the White 
-- a
+- [[Its Greatness]], the White Flame, while once considered a horrible disastrous force, is now revered for its allowances; it's voluntary containment and its dispense of its own power to those that revere it.
+- The people who live in the Holyl'nds are subjected to the caste system that the Church imposes. Where does your character lie in this system? Does your character agree with its implementation?
 - a
 - a
 
-## Characters from AAA
+## Characters from The Holyl'nds
 As you develop a character from AAA, consider the following properties:
-**a.** a
+**Theocracy.** 
 **a.** a
 **a.** a
 
