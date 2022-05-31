@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f73bc3ad47946672",
+        "id": "69a3dc04730ca373",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Bible.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ce53ffee8b2fe2da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bible 2.md",
+            "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible 2.md",
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible 2.md",
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible 2.md"
+                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md"
               }
             }
           },
@@ -179,17 +168,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "ce53ffee8b2fe2da",
+  "active": "69a3dc04730ca373",
   "lastOpenFiles": [
-    "Bible 2.md",
-    "World Notes/Prime Material - Alaturmen/Bible.md",
-    "Spike's Characters/Amelia Hawkford, the Red.md",
-    "Game Notes/A Grand Notepad.md",
-    "Game Notes/Prenotes/'22/Prenotes May 30 22.md",
-    "World Notes/Underdark/Locations & Holdings/Ootool.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Texts/The Ballad of Grey Ordeal.md",
-    "Game Notes/Encounters/The Varis Hit.md",
-    "Game Notes/Fronts/Varis Co..md",
-    "World Notes/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
+    "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Rumors of Old Elves.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Draconic.md",
+    "World Notes/Prime Material - Alaturmen/Bible 2.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Draconic Lore.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Core Assumptions.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Swampish.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/King's Common.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/High Common.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/Language/Desertspeech.md"
   ]
 }
