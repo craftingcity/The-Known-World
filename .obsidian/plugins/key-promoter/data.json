@@ -56,15 +56,16 @@
     "graph-analysis:open-Clustering Coefficient": 1
   },
   "keyboardStatistics": {
-    "insert-template": 51,
+    "insert-template": 52,
     "switcher:open": 82,
     "editor:open-search": 3,
-    "global-search:open": 5,
-    "workspace:close": 126,
-    "app:go-back": 27,
+    "global-search:open": 6,
+    "workspace:close": 127,
+    "app:go-back": 31,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,
     "command-palette:open": 1,
-    "editor:save-file": 3
+    "editor:save-file": 3,
+    "app:go-forward": 2
   }
 }
