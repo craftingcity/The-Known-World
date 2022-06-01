@@ -58,10 +58,10 @@
   },
   "keyboardStatistics": {
     "insert-template": 55,
-    "switcher:open": 74,
+    "switcher:open": 75,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 122,
+    "workspace:close": 124,
     "app:go-back": 30,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,

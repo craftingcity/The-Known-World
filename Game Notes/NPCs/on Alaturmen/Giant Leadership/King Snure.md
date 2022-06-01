@@ -19,7 +19,7 @@ Snure knew he must have this tool of war, and with it, he would become unstoppab
 
 He gathered two others – the Cheiftan Shimmik (or something) and the [[Jarl Grungar]]. Together, they invaded the plane of [[Alaturmen - Prime]] using the Drow Magic of [[The Whitimores]].
 
-King Snures goals remain incomplete, and 
+King Snures goals remain incomplete, as of writing, but he draws closer with each passing hour. Construction has been unable to be interrupted as of yet, and Snure's influence has held fast against the counter attack in [[Baskin]].
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
