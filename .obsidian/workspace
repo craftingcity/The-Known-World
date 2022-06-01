@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5504f40cc644fb",
+        "id": "80178202039a9564",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -112,8 +112,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "cb5504f40cc644fb",
+  "active": "80178202039a9564",
   "lastOpenFiles": [
+    "Game Notes/Game Notes.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Outer/Nine Hells/The Nine Hells of Baator.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/Outer/Elysium/Places/Valhalla.md",
@@ -121,8 +123,6 @@
     "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Notes on the Multiverse/Inner/Underdark/General/Lolth.md",
     "Community.md",
-    "Waghoba, Beast of Arcadia.md",
-    "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
-    "Notes on the Multiverse/Outer/Nine Hells/Asmodeus.md"
+    "Waghoba, Beast of Arcadia.md"
   ]
 }

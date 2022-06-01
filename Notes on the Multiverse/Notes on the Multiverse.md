@@ -1,0 +1,188 @@
+# Notes on the Multiverse Table of Contents
+%% Begin Waypoint %%
+- **[[Notes on the Multiverse]]**
+	- **Inner**
+		- **Alaturmen - Prime**
+			- [[Bible 2]]
+			- **People**
+				- **Heritages**
+					- [[Dragonborn Specifics]]
+					- [[Dwarven Specifics]]
+					- [[Eladrin Specifics]]
+					- [[Elven Specifics]]
+					- [[Gnoll Specifics]]
+					- [[Gnome Specifics]]
+					- [[Goblin Specifics]]
+					- [[Goliath Specifics]]
+					- [[Halfling Specifics]]
+					- [[Human Specifics]]
+					- [[Orc Specifics]]
+					- [[Satyr Specifics]]
+				- **Nations**
+					- **Holyl'nds**
+						- **Local Lore**
+							- [[50 Year White Burning]]
+							- [[Great Fires]]
+							- [[The Assault of the Giant Decenters]]
+							- [[The Old]]
+						- [[The Church of the White Flame]]
+					- **Lands of Tetrimoc**
+						- **Factions**
+							- [[Agrandica's Thieves]]
+							- [[Barthalmule's Thieves]]
+							- [[Cobalt's Thieves]]
+							- [[Golden Claws]]
+						- **Local Lore**
+							- [[Tetrimoc's Journal]]
+							- [[Tetrimoc's Tournament of Glory]]
+							- [[The Code of Thieves]]
+						- [[The Lands of Tetrimoc]]
+						- [[The Outlands]]
+					- **[[The Democratic Combine of Peoples]]**
+						- **Factions**
+							- **[[Knights in Red]]**
+								- [[Srioh]]
+								- [[Symbolism of the KiR]]
+					- **[[The Kingdom of Prosper]]**
+						- **Local Lore**
+							- [[Arthur's Journal]]
+							- [[Bandit Lords]]
+							- [[Nobles of Prosper]]
+							- [[Northstone Trading Company]]
+							- [[Simonson Clan]]
+							- [[The Arstoviches]]
+							- [[Unification]]
+				- **Non-Nation Entities**
+					- **Blood Clans**
+						- [[Blood Hobgoblin Clan Pact]]
+						- [[Northeastern Hobgoblin Territories]]
+						- [[The Hobgoblin Wars]]
+					- [[Cenva Minyo]]
+					- **[[Coalition City]]**
+						- [[Communicae]]
+						- **Guilds**
+							- [[Guild of Wizards]]
+					- [[Dwarven Kingdom Actstow]]
+					- [[Mountain Hall]]
+				- **Player Characters**
+					- **Tales of Kakurak's Chosen**
+						- [[Amashod]]
+						- [[Bardaux]]
+						- [[Grod]]
+						- [[Kursk]]
+						- [[Varis and Amashod's Story]]
+						- [[Varis]]
+			- **Places**
+				- [[Central Alaturmen]]
+				- **Natural Features**
+					- [[Actstow Hills]]
+					- [[Alavini River]]
+					- [[Deakred Range]]
+					- [[Great Northern Forests]]
+					- [[Huntyr Swamp]]
+					- [[Stone of Desmoniur]]
+					- [[Three Nation Highways]]
+				- **Northeastern Central**
+					- [[Castle Prosper]]
+					- [[Gambleum]]
+					- [[Janesland]]
+					- [[Magius]]
+					- [[Moonlight]]
+					- [[Yerba]]
+				- **Northwestern Central**
+					- [[Baskin]]
+					- [[Kakurak's Lair]]
+					- [[Kohnstamm]]
+					- [[The Holy City of Kanielkiln]]
+					- [[The Holyl'nds]]
+					- [[Wychway]]
+				- **Southeast Central**
+					- **Eastlick**
+						- [[Asilar's Bounty]]
+					- **Grumble Hills**
+						- [[Aeberu]]
+					- **Huntyr Swamp**
+						- [[Neverwallow]]
+						- [[Red Throne]]
+					- **Mossburg**
+						- [[Four Stone]]
+					- [[The Fiefdoms of the Combine]]
+				- **Southwestern Central**
+					- [[Kailkeep]]
+					- [[Kickoff]]
+					- [[The Golden City]]
+			- **Rough Lore**
+				- [[Durandurm Weaponry]]
+				- **Language**
+					- [[Desertspeech]]
+					- [[Draconic]]
+					- [[High Common]]
+					- [[King's Common]]
+					- [[Swampish]]
+				- [[Prime Timeline]]
+				- **Texts**
+					- [[An Account of Our Fallen]]
+					- **Guild Texts**
+						- [[Coalition's Founding Document]]
+						- [[Emergency Communicae c. 103AF]]
+						- [[On Peoples Involved with Arthur Simonson]]
+						- [[On The Text of Tetrimoc; Guild Position]]
+						- [[Politics of Coalition c. 078AF - 092AF]]
+					- [[The Ballad of Grey Ordeal]]
+				- [[The Places of Alaturmen]]
+				- [[The Planes of Existence]]
+				- [[The Worldwide Calander Systems]]
+				- **World Wide Happenings**
+					- **Worldknown Groups**
+						- [[The Grey Ordeal]]
+						- [[The Guilds]]
+			- **Tracking**
+				- [[Historical Markings]]
+				- [[Magic Item Authors]]
+				- [[Magical Items of Note]]
+				- [[Who has a Horde]]
+		- **[[Feywild]]**
+			- [[Ceilie Courts]]
+		- **Underdark**
+			- **General**
+				- [[Lolth]]
+				- [[Underdark Air]]
+				- [[Underdark Climate]]
+				- [[Underdark Ecology]]
+				- [[Underdark Flora]]
+				- [[Underdark Hazards]]
+				- [[Underdark Light]]
+				- [[Underdark Rock Formation]]
+				- [[Underdark Threats]]
+				- [[Underdark]]
+			- **Groups**
+				- [[House Thoulca]]
+				- [[The Whitimores]]
+				- [[Ungaethram Drow Houses]]
+			- **Locations & Holdings**
+				- [[Blurkfraggir]]
+				- [[Great Abadon Lake]]
+				- [[Growth Heart]]
+				- [[Heilich-Muwwoq]]
+				- [[Mulutumi]]
+				- [[Ootool]]
+				- [[Ungaethram]]
+				- [[Upper Northwestern Underdark]]
+				- [[Whitimore's Last Hold]]
+			- **Tables**
+				- [[Underdark Encounters]]
+				- [[Underdark Travel Table]]
+			- **Texts**
+				- [[Alylay's Journal]]
+	- **Outer**
+		- **[[Abyss]]**
+		- **Elysium**
+			- **Places**
+				- [[Valhalla]]
+		- **Limbo**
+			- [[Queen of Swords]]
+		- **Nine Hells**
+			- [[Asmodeus]]
+			- [[The Nine Hells of Baator]]
+
+%% End Waypoint %%

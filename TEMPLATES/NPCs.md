@@ -2,7 +2,9 @@
 tags: npc
 aliases:
 ---
-# Name of Char
+# Name
+## Titles
+### pronouns
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
