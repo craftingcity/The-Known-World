@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "34c295b29b56ba8c",
+        "id": "10b4f63fa2d247d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Outer/Nine Hells/The Nine Layers of Hell.md",
+            "file": "MEDIA/MEDIA.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 241.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Nine Hells/The Nine Layers of Hell.md",
+                "file": "MEDIA/MEDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,60 +96,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Nine Hells/The Nine Layers of Hell.md",
+                "file": "MEDIA/MEDIA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "2460969991f25a74",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Nine Hells/The Nine Layers of Hell.md"
-              }
-            }
-          },
-          {
-            "id": "4b69f4d2b8442e48",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2d6a8514c94d66b",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "5b48e40e4f533d50",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc7e29ccdba2f14c",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef24a1b0a2f3dc45",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
             }
           },
           {
@@ -160,24 +110,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312,
+    "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "34c295b29b56ba8c",
+  "active": "10b4f63fa2d247d5",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Nine Hells/The Nine Layers of Hell.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Elysium/Places/Valhalla.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/The Planes of Existence.md",
-    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Lolth.md",
-    "Community.md",
-    "Waghoba, Beast of Arcadia.md",
-    "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
-    "Notes on the Multiverse/Outer/Nine Hells/Asmodeus.md"
+    "MEDIA/MEDIA.md",
+    "Spike's Characters/Spike's Characters.md",
+    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "TEMPLATES/TEMPLATES.md",
+    "ORGANIZATION/Holding Rules.md",
+    "TEMPLATES/Encounter.md",
+    "TEMPLATES/Statblock.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northwestern Central/Wychway.md"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "commitMessage": "LAPTOP: {{date}}",
+  "autoCommitMessage": "LAPTOP: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 20,
   "autoPullInterval": 30,
@@ -14,5 +15,7 @@
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false
+  "treeStructure": false,
+  "refreshSourceControl": true,
+  "basePath": ""
 }
