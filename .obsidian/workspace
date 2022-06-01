@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10b4f63fa2d247d5",
+        "id": "0fa46e26707e3a9b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MEDIA/MEDIA.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MEDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MEDIA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +113,10 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "10b4f63fa2d247d5",
+  "active": "0fa46e26707e3a9b",
   "lastOpenFiles": [
     "MEDIA/MEDIA.md",
+    "conflict-files-obsidian-git.md",
     "Spike's Characters/Spike's Characters.md",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -128,7 +124,6 @@
     "TEMPLATES/TEMPLATES.md",
     "ORGANIZATION/Holding Rules.md",
     "TEMPLATES/Encounter.md",
-    "TEMPLATES/Statblock.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northwestern Central/Wychway.md"
+    "TEMPLATES/Statblock.md"
   ]
 }
