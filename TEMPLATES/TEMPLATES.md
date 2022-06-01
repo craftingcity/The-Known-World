@@ -1,7 +1,6 @@
 # TEMPLATES Overview
 %% Begin Waypoint %%
 - **[[TEMPLATES]]**
-	- [[Encounter]]
 	- [[Fronts]]
 	- [[Group]]
 	- [[Holdings]]
@@ -10,7 +9,7 @@
 	- [[Statblock]]
 	- [[Stub]]
 	- [[Tags and Aliases]]
-	- [[Text]]
+	- [[Waypoint]]
 
 %% End Waypoint %%
  

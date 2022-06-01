@@ -1,4 +1,4 @@
-# Notes on the Multiverse Overview
+# Notes on the Multiverse Table of Contents
 %% Begin Waypoint %%
 - **[[Notes on the Multiverse]]**
 	- **Inner**
@@ -183,11 +183,6 @@
 			- [[Queen of Swords]]
 		- **Nine Hells**
 			- [[Asmodeus]]
-			- [[The Nine Layers of Hell]]
+			- [[The Nine Hells of Baator]]
 
 %% End Waypoint %%
- 
-```ccard
-type: folder_brief_live
-```
- 

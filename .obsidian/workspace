@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0fa46e26707e3a9b",
+        "id": "ce7d9e223d0a7fb5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Game Notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Game Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Game Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +118,17 @@
     "width": 280.6111145019531,
     "collapsed": true
   },
-  "active": "0fa46e26707e3a9b",
+  "active": "ce7d9e223d0a7fb5",
   "lastOpenFiles": [
-    "MEDIA/MEDIA.md",
-    "conflict-files-obsidian-git.md",
-    "Spike's Characters/Spike's Characters.md",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "TEMPLATES/TEMPLATES.md",
-    "ORGANIZATION/Holding Rules.md",
-    "TEMPLATES/Encounter.md",
-    "TEMPLATES/Statblock.md"
+    "Notes on the Multiverse/Outer/Outer.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+    "Notes on the Multiverse/Outer/Limbo/Limbo.md",
+    "Notes on the Multiverse/Outer/Nine Hells/Nine Hells.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md"
   ]
 }

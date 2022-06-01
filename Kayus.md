@@ -2,13 +2,11 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
+# Kayus
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-A description of their function in the world.
+Kayus is a necromancer. He was following 
 
 A politic of theirs that players would interact with.
 

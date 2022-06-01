@@ -1,0 +1,56 @@
+# on Alaturmen
+%% Begin Waypoint %%
+- **[[on Alaturmen]]**
+	- **[[Adventuring Parties]]**
+	- **Church of White Flame**
+		- [[Enoch Ben]]
+		- [[Valerio Avishalom]]
+	- **Coalition Guild**
+		- **Admin**
+			- [[Adriana Fairlin Franx]]
+			- [[Speaker Vanavar]]
+		- **Adventurers**
+			- [[Filip Grundle]]
+			- [[Jasper Vwem]]
+			- [[Yyu Clipwin]]
+		- **Wizards**
+			- [[Nicolas Talaveem]]
+			- [[The Grand Archmage Alergra Barrowinch]]
+			- [[The Wizard In Blue]]
+	- **Dragon**
+		- [[Blackacid]]
+		- [[Detraminx]]
+		- [[Kakurak]]
+	- **Giant Leadership**
+		- [[Jarl Grungar]]
+		- [[King Snure]]
+	- **Historical Figures**
+		- **Authors, Bards, and Lorekeepers**
+			- [[Paulo San Tymiq]]
+			- [[Poppy Bumbleheart]]
+			- [[River Powell]]
+		- **Bandit Lords**
+			- [[Edward Bodaim]]
+	- **Kingdom of Prosper**
+		- [[Arthur Simonson]]
+		- [[Fraznky Bradley]]
+	- **Northeastern Hobgoblin Territories**
+		- [[Amelia Simonson]]
+		- [[Trxyi Emorin]]
+	- **Pantheon**
+		- [[Its Greatness]]
+		- [[On Interactions with Sama]]
+		- [[Tetrimoc]]
+		- [[The Pantheon]]
+	- **Peoples of Combine**
+		- [[Asilar 'Goldhand' Guir]]
+		- [[Baron Filip]]
+		- [[Baron J'Tail]]
+		- [[Baron Xuiop]]
+		- [[Baron Yassir Cassindil]]
+	- **Undesired Holyl'nders**
+		- [[Marcus]]
+	- **World Villans**
+		- [[Qiell Tilemundon]]
+
+%% End Waypoint %%
