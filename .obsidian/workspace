@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
+            "file": "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fiefd",
+                "query": "kak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
+                "file": "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
+                "file": "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md"
+                "file": "Game Notes/NPCs/Prime/Dragon/Kakurak.md"
               }
             }
           },
@@ -180,6 +181,8 @@
   },
   "active": "e63a53f7c316721a",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
+    "Game Notes/A Grand Notepad.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md",
@@ -187,8 +190,6 @@
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Central Alaturmen.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
-    "Great Abadon Lake.md"
+    "Central Alaturmen.md"
   ]
 }

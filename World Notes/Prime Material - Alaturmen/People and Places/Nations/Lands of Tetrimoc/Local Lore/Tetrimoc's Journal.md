@@ -20,3 +20,4 @@ The stars tell me I have been sleeping for over 20 cycles. I will survey the lan
 #### Year 25
 My body is healed, and my lair is crafted. I have seen some bipedal creatures since in my travels, and upon my return to my lair they found me and we spoke. 
 
+I have made 
