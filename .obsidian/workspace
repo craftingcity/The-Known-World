@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "582cd212723150e6",
+        "id": "8b4b2105918fc645",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guraxlog.md",
+            "file": "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guraxlog.md",
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guraxlog.md",
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guraxlog.md"
+                "file": "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md"
               }
             }
           },
@@ -164,20 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 126.61111450195312,
+    "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "582cd212723150e6",
+  "active": "8b4b2105918fc645",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/Tracking/Magical Items of Note.md",
+    "Central Alaturmen.md",
+    "World Notes/Prime Material - Alaturmen/Places/Natural Features/Great Northern Forests.md",
+    "World Notes/Prime Material - Alaturmen/Rough Lore/The Planes of Existence.md",
+    "World Notes/Abyss/Abyss.md",
+    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
     "Guraxlog.md",
     "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
     "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/The Lands of Tetrimoc.md",
-    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/The Outlands.md",
-    "World Notes/Prime Material - Alaturmen/People/Nations/Holyl'nds/Local Lore/The Old.md",
-    "Great Northern Forests.md",
-    "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md",
-    "Game Notes/NPCs/Prime/Dragon/Kakurak.md"
+    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/The Outlands.md"
   ]
 }

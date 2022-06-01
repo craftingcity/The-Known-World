@@ -4,10 +4,6 @@ aliases:
 ---
 
 # Crafted Items
-## Artifacts
-- The Quick Time
-	- > A small hourglass that has major chronomantic power, crafted by [[The Grand Archmage Alergra Barrowinch]]
-	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
 ## Armor
 - The White Cloak of Waywalket Turring
 	- > A white dragonhide cloak crafted by [[The Old Man]]
@@ -18,12 +14,19 @@ aliases:
 	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
 
 ## Wonderous Items
-- 
+- The Quick Time
+	- > A small hourglass that has major chronomantic power, crafted by [[The Grand Archmage Alergra Barrowinch]]
+	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+
+- Arthur's Ring of Regeneration
+	- > A simple golden ring that contains a very powerful incantation, granting the attuned regeneration from injury and immunity to age, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- >> This ring is cursed. Once attuned, it cannot be removed. It provides a minor effect of lethargy during regeneration. Every one hundred years it applies a permanent level of exhaustion.
+	- Currently possessed by [[Arthur Simonson]]
 
 ## Weapons
 - Magni Liberatoris Nostri Temporis
 	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
-	- Currently possesed by [[Arthur Simonson]]
+	- Currently possessed by [[Arthur Simonson]]
 
 - Greystone's Arm
 	- > A +3 longbow, crafted by [[The Old Man]]
