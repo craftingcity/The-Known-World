@@ -14,39 +14,47 @@ date: 000AF
 title: The Fall
 content: 
 
-As [[Tetrimoc]] falls, Alaturmen is formed. People 
-
+As [[Tetrimoc]] falls, Alaturmen is formed. People flock to this new plane and bear others here.
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword
 content:
-The adventurer king makes his first moves against evil. He will soon find [[On Peoples Involved with Arthur Simonson#Adventuring War Associates|good allies]].
 
-date: 023AF
-title: The [[50 Year White Burning]] begins.
+A young half-hobgoblin first begins to adventure and gain strength.
+
+date: 017AF
+title: Bandits rule the [[Great Northern Forests]]
 content:
 
-Tetrimoc fully recovers, settlements are beginning to form and nations history generally begins here. [[Its Greatness]] starts the [[50 Year Fires]] in the [[The Holy'lnds|northwest]].
+The young people of Alaturmen quickly find violence against one another to be a profitable venture. [[Bandit Lords]] come to rule city-states in the northern half of [[Central Alaturmen]]
+
+date: 023AF
+title: The [[Great Fires]] begin.
+content:
+
+From the sky, a droplet of White Fire spreads amegeddon in the [[Great Northern Forests]]
 
 date: 028AF
 title: Minyostalma Falls
 content:
 
-In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy. It was burned. The remains of the other humaniod settlements in that area didn't survive the [[50 Year Fires|immolation]], but [[The Old|Minyostalma's Ruins]] did. It is now one of the great monuments of this era.
+In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy, therefore it was immolated. It stands now as [[The Old]], and as the only surviving structures from the time before the Flame.
 
-date: 035AF
-title: 
+date: 032AF
+title: Hobgoblins form the Blood Clans
 content:
+
+After years of subjugation from the [[Bandit Lords]], the hobgoblin of the  [[Great Northern Forests]] form the [[Blood Hobgoblin Clan Pact]] and begin to make war against foes and kin alike.
 
 date: 040AF
 title:
 content:
 
 date: 043AF
-title: [[Its Greatness]] retreats
+title: [[Its Greatness]] calms
 content:
 
-Twenty years after its coming, the White Flame retreats to Kanielkiln, where it becomes worshipped as the fickle master of [[The Holyl'nds]].
+Twenty years after its coming, the White Flame retreats to what is now known as Kanielkiln, where it becomes worshipped as the fickle master of [[The Holyl'nds]].
 
 date: 050AF
 title: 
@@ -54,13 +62,15 @@ content:
 
 
 date: 056AF
-title: [[Unification|Prosper Makes War]]
+title: Simonson makes War
 content:
-[[Arthur Simonson]] begins to command a war against the [[Bandit Lords]] for their holdings in the [[Northeastern Hobgoblin Territories]]. 
+
+[[Arthur Simonson]] leads a party of adventurers and an army of home-grown warriors against the [[Bandit Lords]] that ruled in the northwest of [[Central Alaturmen]].
 
 date: 059AF
-title: [[Unification|Prosper Makes Peace]]
+title: Simonson make Peace
 content:
+
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace comes through after the civil wars in cities around the area. 
 
 date: 065AF

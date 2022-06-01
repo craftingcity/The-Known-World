@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "34333388c9b0ff83",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/Great Fires.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4f702c50beef90ad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e3b9d3dd8dfbf059",
+        "id": "010a80dc51eea730",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "c9e6767d9bf75d85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Central Alaturmen.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "Central Alaturmen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md"
+                "file": "Central Alaturmen.md"
               }
             }
           },
@@ -189,17 +178,17 @@
     "width": 126.61111450195312,
     "collapsed": true
   },
-  "active": "e3b9d3dd8dfbf059",
+  "active": "c9e6767d9bf75d85",
   "lastOpenFiles": [
+    "Central Alaturmen.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "Great Northern Forests.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/Great Fires.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/The Church of the White Flame.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/The Holyl'nds.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Holdings/Baskin.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Heritages/Human Specifics.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Heritages/Aaracrokra.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Heritages/Satyr Specifics.md",
-    "Game Notes/NPCs/Prime/Dragon/Detraminx.md"
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Holdings/Baskin.md"
   ]
 }
