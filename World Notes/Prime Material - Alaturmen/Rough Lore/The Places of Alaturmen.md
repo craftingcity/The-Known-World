@@ -119,14 +119,17 @@ As you develop a character from AAA, consider the following properties:
 
 ## Cities and Sites
 ### [[The Holy City of Kanielkiln]]
-### [[Baskin]]
-Baskin was once a 
+Kanielkiln is the Capital of the Church. In its center, the grand temple of [[Its Greatness]] stands. This is where It contained itself after the [[Great Fires]]. Only Firstchurch or Spoken may grace themselves by entering this sacred temple.
 
+### [[Baskin]]
+Baskin was once a proud city of the Church. Now it stands in Ice and Fire, injured greatly by [[The Assault of the Giant Decenters]].
+
+# Non-Nation Entities
 # [[Northeastern Hobgoblin Territories]]
 **Capital:** Unknown
-**Hallmarks:** a, a, a, a
+**Hallmarks:** Honor, Alcohol, Forestry, Raid-War
 
-desc.
+The Hobgoblin Territories are a longstanding collection of Hobgoblin Blood Clans bound by the [[Blood Hobgoblin Clan Pact]] to do their duty in making honorable war with any who would oppose them.
 
 ## Interesting things about AAA
 - a
@@ -143,6 +146,46 @@ As you develop a character from AAA, consider the following properties:
 ## Cities and Sites
 
 # [[Mountain Hall]]
+**Capital:** Mountain Hall
+**Hallmarks:** a, a, a, a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+
+## Cities and Sites
+
+# [[Cenva Minyo]]
+**Capital:** Mountain Hall
+**Hallmarks:** a, a, a, a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+
+## Cities and Sites
+
+# [[Dwarven Kingdom Actstow]]
 **Capital:** Mountain Hall
 **Hallmarks:** a, a, a, a
 

@@ -11,4 +11,4 @@ The Knights in Red are a group of mercenaries sworn to [[Baron Filip]] of [[The 
 The Knights in Red were formed after [[Baron Filip]] took the head of the black dragon [[Detraminx]]
 
 ### Symbolism
-[[The Symbol of the Knights in Red]]
+[[Symbolism of the KiR]]
