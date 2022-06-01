@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
-            "mode": "preview"
+            "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4dcb84ce80198855",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/The Outlands.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md"
+                "file": "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
               }
             }
           },
@@ -169,6 +180,8 @@
   },
   "active": "010a80dc51eea730",
   "lastOpenFiles": [
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/The Outlands.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
     "Central Alaturmen.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Democratic Combine of Peoples/The Fiefdoms of the Combine.md",
@@ -176,8 +189,6 @@
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
     "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Great Northern Forests.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/50 Year White Burning.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/Great Fires.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/The Church of the White Flame.md"
+    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Holyl'nds/Local Lore/50 Year White Burning.md"
   ]
 }
