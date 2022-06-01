@@ -17,7 +17,7 @@ The thieves have a cultural disposition against death or taking the life of anot
 # Nomad Tribes
 The nomadic tribes of this area are, like thieves, forceful with their resource gathering, but unlike the thieves, few live to tell their tales. Food is a scarcity in the desert, and unlike the Thieves, the nomads do not grow and steal their food, but rather opt to eat whatever they can catch.
 
-Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the outlands and, while meant to be exaggerated, most are true.
+Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the Outlands and, while meant to be exaggerated, most are true.
 
 ## Weapons
-The nomads do not share the thieves cultural value on life. They generally use their natural weapons or bladed weaponry, finishing off and removing their prey before fleeing to consume it or continuing to fight for their lives, home, and resources. 
+The nomads do not share the thieves cultural value of life. They generally use their natural weapons, preferring bladed weaponry secondarily. After maiming their prey, they remove them to consume their fresh kill. If necessary, a nomad will die trying to defend their kill, tools, or pack.
