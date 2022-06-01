@@ -11,7 +11,7 @@ Matriarch of [[The Whitimores]].
 A politic of theirs that players would interact with.
 
 ## History
-[[World Notes/Underdark/Texts/Alylay's Journal]]
+[[Alylay's Journal]]
 
 ## Location
 [[Whitimore's Last Hold]]

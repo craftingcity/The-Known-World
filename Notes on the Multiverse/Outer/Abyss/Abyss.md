@@ -8,7 +8,7 @@ aliases:
 # Demon Lords and their Layers
 There are five layers to the Abyss, each ruled by a demon lord. Demons and their lords pray for chaos more than anything (including Evil).
 
-## [[Demogorgon]], Lord of All Demons, Prince of Abyss Entire
+## [[Demogorgon]], Lord of All Demons, Prince of the Abyss
 
 ## [[Orcus]], Lord of Undead, Prince of Thanatos
 

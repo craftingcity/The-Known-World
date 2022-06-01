@@ -85,11 +85,7 @@ Some beings are so powerful that while they are not technically gods, as they ar
 [[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of the Hells.
 #### The Queen of Swords
 The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
-#### [[Waghoba, Beast of Arcadia]]
-The great feline beast ruling the chaotic jungles of [[Arcadia]].
 
-#### Community
-The plane of community has no ruler, but its will is a powerful force when wholey untied or otherwise channeled.
 
 
 ## Inner Planar Rulers
