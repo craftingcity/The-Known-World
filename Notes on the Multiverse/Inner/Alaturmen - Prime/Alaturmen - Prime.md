@@ -19,7 +19,6 @@
 		- **Nations**
 			- **Holyl'nds**
 				- **Local Lore**
-					- [[50 Year White Burning]]
 					- [[Great Fires]]
 					- [[The Assault of the Giant Decenters]]
 					- [[The Old]]

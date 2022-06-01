@@ -3,6 +3,8 @@ tags: npc
 aliases:
 ---
 # Gudeliva
+## Guide
+### they/them
 
 > A tall greyskin drow. They are wearing a simple dark brown cloak and a long curved scabbard. Many pouches and belts adorn their lithe form.
 

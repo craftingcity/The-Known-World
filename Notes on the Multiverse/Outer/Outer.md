@@ -4,7 +4,7 @@
 	- **[[Abyss]]**
 	- **[[Elysium]]**
 	- **[[Limbo]]**
-	- **Mechanis**
+	- **[[Mechanis]]**
 	- **[[Nine Hells]]**
 
 %% End Waypoint %%

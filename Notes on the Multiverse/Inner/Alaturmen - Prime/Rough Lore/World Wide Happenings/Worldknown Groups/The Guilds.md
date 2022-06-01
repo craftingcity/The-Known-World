@@ -5,9 +5,9 @@ tags: group, coalition, guilds
 
 The guilds function as the "federal government", as such that they enforce general practices across the peaceful lands that they can access.
 
-#### [[Rangers]]
+#### Rangers
 
-[[Rangers|The Guild of Rangers]] keep [[The Planes of Existence]] at bay. This is their main function. Some see The Rangers as a more stagnant reflection of the Adventurers Guild, acting like State Police or Forestry Service more than something like FBI.
+The members of the [[Ranger's Guild]] keep [[The Planes of Existence]] at bay. This is their main function. Some see The Rangers as a more stagnant reflection of the Adventurers Guild, acting like State Police or Forestry Service more than something like FBI.
 
 #### Wizards
 

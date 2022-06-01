@@ -21,7 +21,7 @@ Quickly, these claims had no power, for **mortality** would claim all in Alaturm
 
 At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breathes in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
 
-Related articles include [[The Places of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Rangers]].
+Related articles include [[The Places of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
 
 ### Northeast
 The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]].
@@ -41,7 +41,7 @@ Related articles include; [[Tetrimoc]], [[The Outlands]], [[The Golden City]], [
 ### Southeast
 The southeast is a series of wet and warm areas. This makes much of the land swampy and wet. Incredibly, this has created an abundance of food and livable area here, as the people who came to live here developed technologies that took great advantage of their surroundings.
 
-All of what is considered "the southeast" is controlled by members of the [[Democratic Combine of Peoples]]. Each member controls their own territory, and is encouraged to fight with their peers for the power they hold, but when the Combine is under threat, all quarrels are halted for the common good of the Peoples.
+All of what is considered "the southeast" is controlled by members of [[The Democratic Combine of Peoples]]. Each member controls their own territory, and is encouraged to fight with their peers for the power they hold, but when the Combine is under threat, all quarrels are halted for the common good of the Peoples.
 
 Related articles include: [[The Fiefdoms of the Combine]], [[Swampish]]
 
