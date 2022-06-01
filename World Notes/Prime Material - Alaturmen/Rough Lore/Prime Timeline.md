@@ -14,13 +14,7 @@ date: 000AF
 title: The Fall
 content: 
 
-[[Tetrimoc]] falls, the timeline begins. The #goblinoid people have been here for as long as they can remember. They have known this land in the time before its becoming.
-
-Humans wake in the fields. [[Dwarves Specifics|Dwarves]] become carved from stone, the first story of a [[Halfling Specifics|Halflings]] is told. The [[Elves Specifics|Elves]] say they've lived childhoods in another place, and their knowledge shows it. Soon Dwaves find the nomadic [[Goliath Specifics|Goliath]] wandering their mountians, some [[Gnome Specifics|Gnomes]] trundle in. It will be some years until the first [[Dragonborn Specifics|Dragonborn]] will be born, but many other "exotic" races such as [[Kenku Specifics|Kenku]] and [[Tiefling Specifics|Tiefling]] place their origin stories around this time as well.
-
-Each of these new people brought something with them, some knowledge, technique, concept, culture. 
-
-Quickly, cultures began to respect or fear those that could manipulate the Weave. There were [|those] that used it selfishly, and they were called evil, and [The Wizard in Blue|those] that used it for the benifit of others, and they were called good.
+As [[Tetrimoc]] falls, Alaturmen is formed. People 
 
 
 date: 013AF
@@ -44,9 +38,15 @@ date: 035AF
 title: 
 content:
 
-date: 045AF
-title: 
+date: 040AF
+title:
 content:
+
+date: 043AF
+title: [[Its Greatness]] retreats
+content:
+
+Twenty years after its coming, the White Flame retreats to Kanielkiln, where it becomes worshipped as the fickle master of [[The Holyl'nds]].
 
 date: 050AF
 title: 
@@ -63,22 +63,19 @@ title: [[Unification|Prosper Makes Peace]]
 content:
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace comes through after the civil wars in cities around the area. 
 
-date: 064AF
-title: Scholars Unite
-content:
-A "common" language has been formed, based most on the languages of the Elves and Goblins. 
-
-date: 073AF
-title: Nations Born
+date: 065AF
+title:
 content:
 
-Nations are clear now. The [[50 Year White Burning]] has ended and the [[The Church of the White Flame|Church of Flame]] has taken control of the northwest. With [[The Kingdom of Prosper]] becoming an imperial powerhouse in the northeast, small skirmishes between the Combine and Prosper leads to a minor war.
+date: 070AF
+title:
+content:
 
 date: 078AF
-title: The Coalition and the Democratic Combine of Peoples is Formed
+title: The Coalition and the Democratic Combine of Peoples are Formed
 content:
 
-[[The Grey Ordeal]] unite the nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. For the next decade, this is where the nations struggle for power. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
+[[The Grey Ordeal]] unite the nations for peace and cooperation given limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
 
 date: 084AF
 title: [[Three Nation Highways]]

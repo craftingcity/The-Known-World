@@ -1,7 +1,7 @@
 ---
 tags: gwf, loreful, needs_work
 ---
-A historical notion on the Great Fires of [[Prime Timeline|beforetimes]].
 
-## Massive destruction
-Of the first accounts recovered, none bear witness to grace or impunity. A quick and effiecient destruction of the people before us. We, the first generation, were untouched. Or we were simply placed here. 
+The Great Fires describe a twenty year period of time where [[Its Greatness]] near indiscriminately burnt away all evidence of life. After reaching what is now the clear border between [[The Church of the White Flame]] and [[The Kingdom of Prosper]], [[Its Greatness]] retreated to [[The Holy City of Kanielkiln|Kanielkiln]] and contained itself there. Soon the people would flock back to the [[The Holyl'nds]] and worship [[Its Greatness]] as their fickle master.
+
+Only children under five were spared; of them, the surviving Winter Elves formed the faction [[Cenva Minyo]] and have sworn vengeance for their fallen parents.
