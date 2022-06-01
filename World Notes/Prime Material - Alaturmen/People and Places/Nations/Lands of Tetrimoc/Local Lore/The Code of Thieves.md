@@ -6,14 +6,13 @@ Respect my fellows.
 Respect my marks.
 Respect my tools.
 
-
 I fight for my own, and for our families.
 They shall eat before we shall eat.
+They shall heal before we shall heal.
 
 I will not kill.
-The value of life is above any coin.
+No life is worth less than any coin.
+Especially my own. I will call my hits.
 
-My weapon is my livelihood.
+My tools are my livelihood.
 There is nothing that will separate our bond.
-
-
