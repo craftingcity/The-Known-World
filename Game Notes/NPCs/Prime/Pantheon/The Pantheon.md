@@ -79,8 +79,8 @@ Some creatures of this place have become so powerful that they have become god-l
 ## Outer Planar Rulers
 Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level" in regards to power or ability.
 
-#### Demogorgan, the Demon King of the Abyss
-[[Demogorgan]] is the most powerful demon in the [[Abyss]].
+#### Demogorgon, the Demon King of the Abyss
+[[Demogorgon]] is the most powerful demon in the [[Abyss]].
 #### Asmodeus, the Grand Arch-Devil of Nessus and All Baator
 [[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of the Hells.
 #### The Queen of Swords

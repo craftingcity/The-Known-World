@@ -6,11 +6,11 @@ aliases:
 # Crafted Items
 ## Armor
 - The White Cloak of Waywalket Turring
-	- > A white dragonhide cloak crafted by [[The Old Man]]
+	- > A white dragonhide cloak crafted by [[The Old Man]]. It provides the attuned a +3 to AC and resistance to cold damage.
 	- Currently possessed by [[Varis]]
 
 - Alergra's Cloak of Diversion
-	- > Alergra's cloak creates duplicates of its wearer
+	- > Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
 	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
 
 ## Wonderous Items
@@ -26,6 +26,7 @@ aliases:
 ## Weapons
 - Magni Liberatoris Nostri Temporis
 	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- >> This sword is cursed. The attuned emotionally needs it to be close at hand at all times.
 	- Currently possessed by [[Arthur Simonson]]
 
 - Greystone's Arm
