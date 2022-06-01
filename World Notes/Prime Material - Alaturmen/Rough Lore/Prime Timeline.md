@@ -58,10 +58,11 @@ content:
 
 Twenty years after its coming, the White Flame retreats to what is now known as Kanielkiln, where it becomes worshipped as the fickle master of [[The Holyl'nds]].
 
-date: 050AF
-title: 
+date: 051AF
+title: From the Ashes rise the Spoken
 content:
 
+[[Its Greatness]] claims champions of its church as its Spoken, granting them Patches of its Woven powers.
 
 date: 056AF
 title: Simonson makes War
@@ -73,14 +74,14 @@ date: 059AF
 title: Simonson make Peace
 content:
 
-[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace comes through after the civil wars in cities around the area. 
+[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the war in the area
 
 date: 065AF
 title:
 content:
 
 date: 070AF
-title:
+title: 
 content:
 
 date: 078AF
@@ -116,7 +117,7 @@ date: 103AF
 title: [[The Assault of the Giant Decenters]]
 content:
 
-The grand adventurer dragon [[Kakurak]] uses his past and current resources hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, and become crippled at the loss of their friend.
+The grand adventurer dragon [[Kakurak]] uses his past and current resources to hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, and become crippled at the loss of their friend.
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 

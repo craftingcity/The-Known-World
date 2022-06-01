@@ -53,7 +53,8 @@
     "obsidian-dice-roller:reroll": 1,
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": 1,
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": 1,
-    "graph-analysis:open-Clustering Coefficient": 1
+    "graph-analysis:open-Clustering Coefficient": 1,
+    "workspace:export-pdf": 1
   },
   "keyboardStatistics": {
     "insert-template": 53,
@@ -66,6 +67,7 @@
     "file-explorer:new-file-in-new-pane": 1,
     "command-palette:open": 1,
     "editor:save-file": 3,
-    "app:go-forward": 2
+    "app:go-forward": 2,
+    "workspace:export-pdf": 1
   }
 }
