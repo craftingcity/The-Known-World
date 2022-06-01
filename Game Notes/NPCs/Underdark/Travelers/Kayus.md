@@ -6,7 +6,7 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-Kayus is a necromancer. He was following 
+Kayus is a necromancer. He was following [[Gudeliva]] during their time with Kakurak's Chosen in the Underdark.
 
 A politic of theirs that players would interact with.
 

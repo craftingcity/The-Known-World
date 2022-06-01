@@ -41,6 +41,7 @@
 					- **[[Knights in Red]]**
 						- [[Srioh]]
 						- [[Symbolism of the KiR]]
+				- **Local Lore**
 			- **[[The Kingdom of Prosper]]**
 				- **Local Lore**
 					- [[Arthur's Journal]]
@@ -53,6 +54,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]

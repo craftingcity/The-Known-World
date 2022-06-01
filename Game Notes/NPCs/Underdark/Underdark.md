@@ -12,6 +12,7 @@
 	- **Travelers**
 		- [[Blzldlp]]
 		- [[Gudeliva]]
+		- [[Kayus]]
 	- [[Travis]]
 	- **Whitimore**
 		- [[Alylay Whitimore]]

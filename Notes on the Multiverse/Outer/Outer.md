@@ -2,13 +2,9 @@
 %% Begin Waypoint %%
 - **[[Outer]]**
 	- **[[Abyss]]**
-	- **Elysium**
-		- **Places**
-			- [[Valhalla]]
-	- **Limbo**
-		- [[Queen of Swords]]
-	- **Nine Hells**
-		- [[Asmodeus]]
-		- [[The Nine Hells of Baator]]
+	- **[[Elysium]]**
+	- **[[Limbo]]**
+	- **Mechanis**
+	- **[[Nine Hells]]**
 
 %% End Waypoint %%

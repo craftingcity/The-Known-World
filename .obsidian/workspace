@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "80178202039a9564",
+        "id": "c5e0f279ed6eaef6",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -112,17 +113,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "80178202039a9564",
+  "active": "c5e0f279ed6eaef6",
   "lastOpenFiles": [
+    "The Tower of Limbo.md",
     "Game Notes/Game Notes.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
+    "Game Notes/NPCs/Underdark/Underdark.md",
+    "Game Notes/NPCs/Underdark/Travelers/Kayus.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Outer/Nine Hells/The Nine Hells of Baator.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Elysium/Places/Valhalla.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/The Planes of Existence.md",
-    "Game Notes/NPCs/Prime/Pantheon/The Pantheon.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Lolth.md",
-    "Community.md",
-    "Waghoba, Beast of Arcadia.md"
+    "Notes on the Multiverse/Outer/Elysium/Places/Valhalla.md"
   ]
 }

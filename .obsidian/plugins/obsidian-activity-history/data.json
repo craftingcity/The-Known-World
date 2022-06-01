@@ -4,16 +4,36 @@
     {
       "path": "/",
       "initialized": true
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "initialized": true
+    },
+    {
+      "path": "Game Notes",
+      "initialized": true
     }
   ],
   "trackedProjects": [
-    "/"
+    "/",
+    "Notes on the Multiverse",
+    "Game Notes"
   ],
   "checkpointList": [
     {
       "path": "/",
       "date": "2022-06-01",
-      "size": 389923
+      "size": 381859
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "date": "2022-06-01",
+      "size": 251097
+    },
+    {
+      "path": "Game Notes",
+      "date": "2022-06-01",
+      "size": 102072
     }
   ],
   "activityHistory": [
@@ -246,15 +266,41 @@
         },
         {
           "date": "2022-05-30",
-          "value": 864
+          "value": 5990
         },
         {
           "date": "2022-05-31",
-          "value": 24625
+          "value": 44730
         },
         {
           "date": "2022-06-01",
-          "value": 1352
+          "value": 13429
+        }
+      ]
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "size": [
+        {
+          "date": "2022-05-31",
+          "value": 0
+        },
+        {
+          "date": "2022-06-01",
+          "value": 5349
+        }
+      ]
+    },
+    {
+      "path": "Game Notes",
+      "size": [
+        {
+          "date": "2022-05-31",
+          "value": 0
+        },
+        {
+          "date": "2022-06-01",
+          "value": 7667
         }
       ]
     }
