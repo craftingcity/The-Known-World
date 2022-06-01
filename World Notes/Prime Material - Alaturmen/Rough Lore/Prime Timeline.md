@@ -87,9 +87,9 @@ date: 078AF
 title: The Coalition and the Democratic Combine of Peoples are Formed
 content:
 
-[[The Grey Ordeal]] unite the nations for peace and cooperation given limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] make sure nothing gets out of hand, but are weakened by animosity between the nations (see [[Politics of Coalition c. 078AF - 092AF]] for a written account). 
+[[The Grey Ordeal]] unite the nations for peace and cooperation given limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] are formed to monitor and control certain aspects of this grand civilization. 
 
-The southern states born of rebelion gather together as [[The Democratic Combine of Peoples]]. 
+The southern states born of rebelion gather together as [[The Democratic Combine of Peoples]] and form a "kind" structure for both working together and against one another.
 
 date: 084AF
 title: [[Three Nation Highways]]
