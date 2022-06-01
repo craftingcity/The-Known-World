@@ -53,18 +53,20 @@
     "obsidian-dice-roller:reroll": 1,
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": 1,
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": 1,
-    "find-unlinked-files:delete-unlinked-files": 3
+    "find-unlinked-files:delete-unlinked-files": 3,
+    "switcher:open": 1
   },
   "keyboardStatistics": {
-    "insert-template": 52,
-    "switcher:open": 73,
+    "insert-template": 55,
+    "switcher:open": 74,
     "editor:open-search": 2,
     "global-search:open": 1,
-    "workspace:close": 121,
-    "app:go-back": 23,
+    "workspace:close": 122,
+    "app:go-back": 30,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-new-pane": 1,
     "command-palette:open": 1,
-    "editor:save-file": 3
+    "editor:save-file": 3,
+    "graph:open": 1
   }
 }
