@@ -74,10 +74,10 @@ date: 059AF
 title: Simonson make Peace
 content:
 
-[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the war in the area
+[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
 
 date: 065AF
-title:
+title: 
 content:
 
 date: 070AF

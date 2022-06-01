@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "49cffd97d6832351",
+        "id": "582cd212723150e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+            "file": "Guraxlog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "Guraxlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
+                "file": "Guraxlog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md"
+                "file": "Guraxlog.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 126.61111450195312,
     "collapsed": true
   },
-  "active": "49cffd97d6832351",
+  "active": "582cd212723150e6",
   "lastOpenFiles": [
+    "Guraxlog.md",
+    "World Notes/Prime Material - Alaturmen/Tracking/Magic Item Authors.md",
+    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/The Lands of Tetrimoc.md",
+    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/The Outlands.md",
+    "World Notes/Prime Material - Alaturmen/People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Great Northern Forests.md",
     "World Notes/Prime Material - Alaturmen/Rough Lore/Prime Timeline.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md",
-    "Game Notes/NPCs/Prime/Dragon/Kakurak.md",
-    "Game Notes/A Grand Notepad.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Journal.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/The Outlands.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
-    "World Notes/Prime Material - Alaturmen/People and Places/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
+    "World Notes/Prime Material - Alaturmen/People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "World Notes/Prime Material - Alaturmen/People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md",
+    "Game Notes/NPCs/Prime/Dragon/Kakurak.md"
   ]
 }
