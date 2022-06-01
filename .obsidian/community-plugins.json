@@ -11,5 +11,7 @@
   "obsidian-kanban",
   "find-unlinked-files",
   "oz-image-plugin",
-  "tag-wrangler"
+  "tag-wrangler",
+  "folder-note-plugin",
+  "waypoint"
 ]
