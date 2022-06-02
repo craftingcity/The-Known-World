@@ -4,23 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "e7b88dc98aeaef1b",
+        "type": "leaf",
+        "dimension": 54.73300970873787,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/GrainIntoGold.pdf"
+          }
+        }
+      },
+      {
         "id": "a6dbcad7e19649d7",
         "type": "leaf",
+        "dimension": 45.26699029126214,
         "state": {
           "type": "markdown",
           "state": {
             "file": "ORGANIZATION/Notes From Grain Into Gold.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e7b88dc98aeaef1b",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/GrainIntoGold.pdf"
           }
         }
       }
@@ -62,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -130,8 +133,8 @@
   "active": "a6dbcad7e19649d7",
   "lastOpenFiles": [
     "ORGANIZATION/Notes From Grain Into Gold.md",
-    "MEDIA/MEDIA.md",
     "MEDIA/GrainIntoGold.pdf",
+    "MEDIA/MEDIA.md",
     "ORGANIZATION/ORGANIZATION.md",
     "ORGANIZATION/Organizational Notions.md",
     "A Grand Notepad.md",

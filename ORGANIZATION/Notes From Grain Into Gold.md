@@ -21,3 +21,7 @@ Middlemen transport via caravans over land (at ~1.6sp/barrel/day) and ships over
 Don't forget about taxes.
 
 And risk.
+
+Two ways for crafters to think about their money, as a wage or as a profit - wages are for professionals, profits are for giggers.
+
+Medium risk is about +20% wages. Increasing exponetially, with adventurers earning thousands of silver for their death defying feats.
