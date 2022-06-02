@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
+            "file": "Notes on the Multiverse/Notes on the Multiverse.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +119,15 @@
   },
   "active": "a6dbcad7e19649d7",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
     "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Bible 2.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/World Wide Happenings/Worldknown Groups/The Guilds.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Inner.md",
     "Celestial.md",
     "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md"
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md"
   ]
 }
