@@ -1,7 +1,6 @@
 ---
 tags: notes
 ---
-# CURRENT NOTES
 ### Historical Markings
 I want to make the lore of my world cool and interactive. [[Historical Markings]] on weapons, armor, and other items of importance or value such as coins or paintings are a great idea. #npc characters should make passing remarks about #loreful happenings and characters. Firsthand #text accounts are useful to flesh out these ideas, but cannot be the only way the lore is delivered. Ideally, the story we tell at the table aligns with the story I tell you about this world, and the characters and groups our players interact with should interact with the lore as well. Given that this is a living document, and one that is quite young, we are only at the beginning stages of that idea.
 
@@ -35,4 +34,5 @@ In the second century, contention begins to arise as the [[Northeastern Hobgobli
 I want a few scenes with Krezo, Wyruq, and Blug Fpurgz before the crew reaches [[Ootool]].
 
 [[Ootool]] should feel alien, desolate yet alive, isolated yet bursting. Interaction with traditional NPCs should be kept to those who have entered with the party - all in-city folk are to be fungal, non-humanoid, or otherwise outcast, except for the Whitimore Drow posted on watch equipped with a suicide tooth if caught and the groups described in the homepage for the holding. 
+
 

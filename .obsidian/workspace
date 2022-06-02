@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+            "file": "ORGANIZATION/Organizational Notions.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "ORGANIZATION/Organizational Notions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "ORGANIZATION/Organizational Notions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +119,15 @@
   },
   "active": "a6dbcad7e19649d7",
   "lastOpenFiles": [
+    "ORGANIZATION/Organizational Notions.md",
+    "A Grand Notepad.md",
+    "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
     "Game Notes/NPCs/Underdark/Travelers/Gudeliva.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Bible 2.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/World Wide Happenings/Worldknown Groups/The Guilds.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Celestial.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
   ]
 }
