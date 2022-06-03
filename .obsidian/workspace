@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4036d7507da02c8b",
+        "id": "a50653c6d6592a6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Valerio Avishalom.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e83f6bf175f70f89",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/The Church of the White Flame.md",
+            "file": "Darnt Hillkeep.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Valerio Avishalom.md",
+                "file": "Darnt Hillkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Valerio Avishalom.md",
+                "file": "Darnt Hillkeep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "4036d7507da02c8b",
+  "active": "a50653c6d6592a6c",
   "lastOpenFiles": [
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Valerio Avishalom.md",
+    "Darnt Hillkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Non-Nation Entities/Cenva Minyo.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Local Lore/Great Fires.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Enoch Ben.md",
-    "Game Notes/NPCs/Underdark/Underdark.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Authors, Bards, and Lorekeepers/River Powell.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Authors, Bards, and Lorekeepers/Authors, Bards, and Lorekeepers.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Historical Figures.md",
     "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/High Holyl'nders.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guilded Adventuers/Guilded Adventuers.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Yyu Clipwin.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Jasper Vwem.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Filip Grundle.md"
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Valerio Avishalom.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Enoch Ben.md"
   ]
 }

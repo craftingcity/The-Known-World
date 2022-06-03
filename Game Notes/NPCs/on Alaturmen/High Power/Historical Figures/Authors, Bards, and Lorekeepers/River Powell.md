@@ -3,10 +3,14 @@ tags: npc
 aliases:
 ---
 # River Powell
+## Author
+### they/them
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A charming looking winter-Elven person with middle cropped straight black hair that pairs well with their eyes, makeup, and fine outfit. They are smiling at you from their artists' rendition of them smiling and presenting the book you are looking at to you surrounded by quotations from himself praising the book's quality, excitement, and both entertainment and educational value.
 
-A first generation elf, noted author, and member of [[Cenva Minyo]]
+A first generation winter-elf, noted author, and member of [[Cenva Minyo]].
+
+
 
 ## History
 A general history of the character, from their conception to their current state
