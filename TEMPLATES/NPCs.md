@@ -12,6 +12,11 @@ A description of their function in the world.
 
 A politic of theirs that players would interact with.
 
+## Goals
+A goal that this NPC has.
+
+How that goal could resolve when it is achieved (or failed, if this is considered a genuine possibility).
+
 ## History
 A general history of the character, from their conception to their current state
 
