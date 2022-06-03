@@ -30,11 +30,11 @@
 - [[Trike Roof]]
 - [[Slyfront]]
 
-[[Jammu's Groves]] are controlled by [[Baron Jammu]] and [[Grovetenders]], they control two major settlements.
+[[Jammu's Groves]] are controlled by [[Baron Yassir Cassindil]] and the [[Grovetenders]], they control two major settlements.
 - [[Zalfari]]
 - [[Amyl Dother]]
 
-[[Grumbling Hills]] is controlled by [[Baron Yassir Cassindil]] and [[Y'alneas]], they control five major settlements.
+[[Grumbling Hills]] is controlled by [[Baron Jammu]] and the [[Hillkeep Loyalists]], they control five major settlements.
 - [[Crullfeld]]
 - [[Darnt Hillkeep]]
 - [[Penshaw]]

@@ -2,7 +2,9 @@
 tags: npc, leader, prosper, needs_work
 aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
-# The Great Adventurer King, Arthur Simonson
+# Arthur "Artie" Simonson
+## The Great Adventurer King (and so on)
+### he/him
 
 > A tall well kept half-hobgoblin-human man with dark curly hair. He wears a set of leather armor underneath a large blue royal coat. Atop his head sits a platinum circlet spiked with gold.
 
