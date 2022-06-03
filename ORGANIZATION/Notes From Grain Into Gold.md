@@ -25,3 +25,7 @@ And risk.
 Two ways for crafters to think about their money, as a wage or as a profit - wages are for professionals, profits are for giggers.
 
 Medium risk is about +20% wages. Increasing exponetially, with adventurers earning thousands of silver for their death defying feats. If a merchant thinks they could negotiate a better price to hire these people for, they will. 
+
+Servicers cannot stock inventory and need to make a certain amount, leading them to charge more for less work than a craftsmen, but if a price becomes established, they will have to compete for costumers more than pricing. 
+
+Clothing is typically expensive, and especially because people want it dyed.
