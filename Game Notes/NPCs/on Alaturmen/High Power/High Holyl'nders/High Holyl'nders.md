@@ -1,6 +1,6 @@
 # Church of White Flame
 %% Begin Waypoint %%
-- **[[Church of White Flame]]**
+- **[[High Holyl'nders]]**
 	- [[Enoch Ben]]
 	- [[Valerio Avishalom]]
 

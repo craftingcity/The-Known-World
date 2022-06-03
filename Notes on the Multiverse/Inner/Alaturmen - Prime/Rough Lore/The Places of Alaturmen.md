@@ -23,7 +23,7 @@ Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great A
 
 
 ## Interesting things about Prosper
-- Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Northeastern Hobgoblin Territories#Clans|Blood Clan]].
+- Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories#Clans|Blood Clan]].
 - Our King, [[Arthur Simonson|Artie]], is ageless, but not disillusioned. He protects his common citizen as well as he can.
 - The standing army that the King employs treats their peers well, and most of their members come from the common families of Prosper.
 
@@ -125,7 +125,7 @@ Kanielkiln is the Capital of the Church. In its center, the grand temple of [[It
 Baskin was once a proud city of the Church. Now it stands in Ice and Fire, injured greatly by [[The Assault of the Giant Decenters]].
 
 # Non-Nation Entities
-# [[Northeastern Hobgoblin Territories]]
+# [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories]]
 **Capital:** Unknown
 **Hallmarks:** Honor, Alcohol, Forestry, Raid-War
 

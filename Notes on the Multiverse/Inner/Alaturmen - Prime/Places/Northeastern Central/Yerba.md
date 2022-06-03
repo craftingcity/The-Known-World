@@ -10,7 +10,7 @@ Defenses:
 Other Tags:
 
 # Description
-Yerba is an old city, founded in the time of the [[Bandit Lords]], the effects of [[The Arstoviches]] are still remembered. Today, the city swears fealty to [[Noble House a'LeQuinn]] and [[The Kingdom of Prosper]].
+Yerba is an old city, founded in the time of the [[Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Bandit Lords/Bandit Lords]], the effects of [[The Arstoviches]] are still remembered. Today, the city swears fealty to [[Noble House a'LeQuinn]] and [[The Kingdom of Prosper]].
 ## Physicality of the Holding
 A grand city, the Kingdom's largest in-fact, with beautiful gardens and cobbled streets.
 ## Population Distribution

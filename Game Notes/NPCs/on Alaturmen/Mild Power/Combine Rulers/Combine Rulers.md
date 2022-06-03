@@ -1,7 +1,6 @@
-# Peoples of Combine
+# Combine Rulers
 %% Begin Waypoint %%
-- **[[Peoples of Combine]]**
-	- [[Asilar 'Goldhand' Guir]]
+- **[[Combine Rulers]]**
 	- [[Baron Filip]]
 	- [[Baron J'Tail]]
 	- [[Baron Xuiop]]

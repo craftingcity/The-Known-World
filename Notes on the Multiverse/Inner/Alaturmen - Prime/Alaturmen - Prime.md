@@ -18,6 +18,8 @@
 			- [[Satyr Specifics]]
 		- **Nations**
 			- **Holyl'nds**
+				- **Factions**
+					- [[Macht's Orcs]]
 				- **Local Lore**
 					- [[Great Fires]]
 					- [[The Assault of the Giant Decenters]]
@@ -40,6 +42,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -47,13 +50,7 @@
 			- [[Dwarven Kingdom Actstow]]
 			- [[Mountain Hall]]
 		- **Player Characters**
-			- **Tales of Kakurak's Chosen**
-				- [[Amashod]]
-				- [[Bardaux]]
-				- [[Grod]]
-				- [[Kursk]]
-				- [[Varis and Amashod's Story]]
-				- [[Varis]]
+			- **[[Tales of Kakurak's Chosen]]**
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Natural Features**
@@ -96,9 +93,11 @@
 	- **Rough Lore**
 		- [[Durandurm Weaponry]]
 		- **Language**
+			- [[Celestial]]
 			- [[Desertspeech]]
 			- [[Draconic]]
 			- [[High Common]]
+			- [[Infernal]]
 			- [[King's Common]]
 			- [[Swampish]]
 		- [[Prime Timeline]]

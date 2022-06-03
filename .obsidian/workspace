@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fbaae22d4962eed3",
+        "id": "4036d7507da02c8b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Macht's Orcs.md",
+            "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macht's Orcs.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macht's Orcs.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "fbaae22d4962eed3",
+  "active": "4036d7507da02c8b",
   "lastOpenFiles": [
-    "Macht's Orcs.md",
-    "The Patron Saints of Kakurak.md",
-    "Ranger's Guild.md",
-    "TEMPLATES/Non-Canon.md",
-    "MEDIA/GrainIntoGold.pdf",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
-    "A Grand Notepad.md",
-    "MEDIA/MEDIA.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "ORGANIZATION/Organizational Notions.md"
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Wizard In Blue.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Nicolas Talaveem.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Adventurers/Filip Grundle.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Adventurers/Adventurers.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Admin/Admin.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Adventuring Parties/Adventuring Parties.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Adventuring Parties/Grey Ordeal/Grey Ordeal.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Combine Rulers.md"
   ]
 }

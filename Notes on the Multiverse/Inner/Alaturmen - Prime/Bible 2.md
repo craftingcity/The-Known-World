@@ -24,7 +24,7 @@ At the edge of the land, the common folk will tell you to venture no further. Th
 Related articles include [[The Places of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
 
 ### Northeast
-The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]].
+The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Notes on the Multiverse/Inner/Alaturmen - Prime/People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories]].
 
 Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common]]
 

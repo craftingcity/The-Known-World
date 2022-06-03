@@ -2,7 +2,9 @@
 tags: npc
 aliases:
 ---
-# Asilar 'GoldHand' Guir
+# Name
+## Titles
+### pronouns
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
@@ -11,7 +13,7 @@ A description of their function in the world.
 A politic of theirs that players would interact with.
 
 ## History
-Ex-[[Bandit Lords]] member turned famous thief and [[Asilar's Bounty|settler]].
+Once a slave of the Hill Giants during the time of [[The Assault of the Giant Decenters]], Macht freed his clan with assistance from [[Kakurak's Chosen]] with assistance from [[The Patron Saints of Kakurak]].
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.

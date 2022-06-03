@@ -117,9 +117,11 @@ date: 103AF
 title: [[The Assault of the Giant Decenters]]
 content:
 
-The grand adventurer dragon [[Kakurak]] uses his past and current resources to hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, and become crippled at the loss of their friend.
+The grand adventurer dragon [[Kakurak]] uses his past and current resources to hire an unnamed group of adventuerers to halt the invasion of the Giants. His group is initially successful, but become crippled at the loss of their friend.
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 
-Soon after, the Chosen of Kakurak return to Alaturmen...
+Soon after, the unnamed group returns to Alaturmen. 
+
+After many years, this group would be known as [[The Patron Saints of Kakurak]].
 ```
