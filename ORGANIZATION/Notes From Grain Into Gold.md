@@ -54,4 +54,9 @@ The trapping trade is based on beaver trappers trapping 2.5 beavers per day and 
 
 Buttons are rare, zippers are rarer, broaches are common, lacing is also probably common enough.
 
-A slave without training would run 100sp and one with training would range closer to 250sp, in either case, a slave needs to be provided with food and shelter.
+A slave without any training would run 100sp and one with basic training would range closer to 250sp, while one that could perform a specialized task would cost about a third more every two sp a non-slave would make performing the job (say 350 for a 8sp task, 500 for a 12sp and so on), in any case, a slave needs to be provided with food and shelter, as well as supervision and enforcement. Just as there are other overly priced commodities, buyers beware when failing to authenticate or appraise.
+
+Dining out costs 4x at lower end places and 6x at higher ones.
+
+Don't forget always be Cutting Corners.
+

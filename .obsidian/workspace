@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b88dc98aeaef1b",
+        "id": "fbaae22d4962eed3",
         "type": "leaf",
-        "dimension": 80.56562726613488,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/GrainIntoGold.pdf"
-          }
-        }
-      },
-      {
-        "id": "a6dbcad7e19649d7",
-        "type": "leaf",
-        "dimension": 19.43437273386512,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+            "file": "The Patron Saints of Kakurak.md",
             "mode": "source"
           }
         }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+                "file": "The Patron Saints of Kakurak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+                "file": "The Patron Saints of Kakurak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,17 +118,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "a6dbcad7e19649d7",
+  "active": "fbaae22d4962eed3",
   "lastOpenFiles": [
+    "The Patron Saints of Kakurak.md",
+    "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "A Grand Notepad.md",
-    "MEDIA/GrainIntoGold.pdf",
     "MEDIA/MEDIA.md",
     "ORGANIZATION/ORGANIZATION.md",
     "ORGANIZATION/Organizational Notions.md",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md"
+    "Notes on the Multiverse/Inner/Inner.md"
   ]
 }
