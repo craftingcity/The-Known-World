@@ -43,3 +43,5 @@ Remember Food-Waste -> Animals -> Food
 Remember Oils, Crop Rotation, and Region Weather / Temperature.
 
 Hemp is useful, especially for ropes, but not to make oil or fine clothing. Flax makes linen, which is finer than canvas, but silk is the finest form these three. Velvet is best made with silk, but could be mimiced with other materials. Oven very rich folks don't wear true velvet often.
+
+Lye makes soap and glass.
