@@ -31,9 +31,15 @@
 			- [[Marcus]]
 		- **Untitled**
 	- **Mild Power**
-		- **[[Adventurers]]**
 		- **[[Combine Rulers]]**
+		- **Guild Representitives**
+			- [[Filip Grundle]]
+			- [[Jasper Vwem]]
+			- [[Yyu Clipwin]]
+		- **[[Guilded Adventuers]]**
 		- **Local Leader**
+			- [[Enoch Ben]]
 			- [[Macht]]
+			- [[Valerio Avishalom]]
 
 %% End Waypoint %%
