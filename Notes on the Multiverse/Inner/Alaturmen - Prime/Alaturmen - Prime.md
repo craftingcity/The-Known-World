@@ -71,6 +71,7 @@
 			- [[Yerba]]
 		- **Northwestern Central**
 			- [[Baskin]]
+			- [[Firelight Sea]]
 			- [[Kakurak's Lair]]
 			- [[Kohnstamm]]
 			- [[The Holy City of Kanielkiln]]
