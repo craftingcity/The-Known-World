@@ -49,3 +49,9 @@ Lye makes soap and glass.
 Wax makes seals, from bees, or bayberries, or fat.
 
 Vinegar is made from any alcohol and will cost 10% more. 
+
+The trapping trade is based on beaver trappers trapping 2.5 beavers per day and selling the pelts for 4.5sp.
+
+Buttons are rare, zippers are rarer, broaches are common, lacing is also probably common enough.
+
+A slave without training would run 100sp and one with training would range closer to 250sp, in either case, a slave needs to be provided with food and shelter.
