@@ -37,3 +37,7 @@ Preserving food reduces the amount of edible food, but the costs of preserving a
 Pewter, Tin, Steel and Copper are valued roughly the same. Lead and Iron are also valued roughly the same, at 1/3 Copper. Bronze is valued at 2 times Copper. All prices change if not taken at source. Obviously, certain metals are more or less useful for certain things and more or less abundant, both factors will change the pricing. 
 
 Coins are a little freaky because minting costs something; If an ounce of silver is worth 1sp, a pound of silver is worth 16sp, and yet there are 25sp in a pound when sent and processed by the mint! This means that a silver coin is actually only 2/3 of an ounce of silver. A mint only is making 50% profit for cost because of the materials and labor. If coinage is too impure, it may become unacceptable internationally, and cause dismay or war.
+
+Remember Food-Waste -> Animals -> Food
+
+Remember Oils, Crop Rotation, .
