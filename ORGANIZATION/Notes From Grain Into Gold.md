@@ -32,4 +32,8 @@ Clothing is typically expensive, and especially because people want it dyed.
 
 A pound of unrefined rock salt would cost about 2.5cp. It is common enough to be used as a universally acceptable currency.
 
-Preserving food reduces the amount of edible food, but the costs of preserving are higher than producing, so the end result is less food for more (or about the same amount) money. 
+Preserving food reduces the amount of edible food, but the costs of preserving are higher than producing, so the end result is less food for more (or about the same amount) money - and it conforms to a container in both quantity and pricing. 
+
+Pewter, Tin, Steel and Copper are valued roughly the same. Lead and Iron are also valued roughly the same, at 1/3 Copper. Bronze is valued at 2 times Copper. All prices change if not taken at source. Obviously, certain metals are more or less useful for certain things and more or less abundant, both factors will change the pricing. 
+
+Coins are a little freaky because minting costs something; If an ounce of silver is worth 1sp, a pound of silver is wor
