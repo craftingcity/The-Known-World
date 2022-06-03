@@ -29,3 +29,5 @@ Medium risk is about +20% wages. Increasing exponetially, with adventurers earni
 Servicers cannot stock inventory and need to make a certain amount, leading them to charge more for less work than a craftsmen, but if a price becomes established, they will have to compete for costumers more than pricing. 
 
 Clothing is typically expensive, and especially because people want it dyed.
+
+A pound of unrefined rock salt would cost about 2.5cp. It is common enough to be used as a universally acceptable currency.
