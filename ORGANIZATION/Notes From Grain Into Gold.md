@@ -75,3 +75,7 @@ Because Alaturmen is low magic high fantasy, magical effects need to be expensiv
 Two things are true of all mortals. Death. Taxes.
 
 Personal taxes seem like bogus, so Alaturmen focuses on Tariffs, Tolls, and Community Service, and Tithe.
+
+This is the economy of a medivel feudalistic society; most people work from the wake to the sleep of their days. Summer gives the most people free time (specifically farmers). Relaxing work is considered recreation, equipment games can be expensive or cheap, people drink, smoke, and generally share these things, and when towns get large enough, people host performers and festivals and fairs. Fairs and Festivals are vital to the economy and mental health of the world, and this is important enough that high ups are willing to sponsor them. Sports too make good recreation, as well as good training; a sport will efficiently train if it conforms to the required skills of the military style of the region.
+
+Most economy interaction is trade, even when prices are listed. Pelts, Salt, and other staple goods would be more acceptable than coinage for most people, meaning that a hunter/gatherer may mark up their prices 4x in coins compared to Pemmican.
