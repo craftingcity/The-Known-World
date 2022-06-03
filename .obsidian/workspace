@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "69c1ce69343dc718",
+        "id": "3ecd36092a75367d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+            "file": "Economics of Alaturmen.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+                "file": "Economics of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
+                "file": "Economics of Alaturmen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +128,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "69c1ce69343dc718",
+  "active": "3ecd36092a75367d",
   "lastOpenFiles": [
+    "Economics of Alaturmen.md",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "MEDIA/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
@@ -138,7 +139,6 @@
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northwestern Central/Firelight Sea.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md"
+    "Game Notes/Game Notes.md"
   ]
 }
