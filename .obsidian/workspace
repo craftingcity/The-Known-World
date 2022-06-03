@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ede20406dce7b24b",
+        "id": "042acd3731ff9149",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Marked By the Fire.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marked By the Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Marked By the Fire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -112,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "ede20406dce7b24b",
+  "active": "042acd3731ff9149",
   "lastOpenFiles": [
+    "Marked By the Fire.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
     "TEMPLATES/NPCs.md",
     "Baron Jammu.md",
     "ORGANIZATION/Holding Rules.md",
     "Game Notes/Game Notes.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/High Holyl'nders.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Historical Figures.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Kingdom of Prosper.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Fraznky Bradley.md"
+    "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/High Holyl'nders.md"
   ]
 }

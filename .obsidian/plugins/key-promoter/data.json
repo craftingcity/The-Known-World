@@ -13,9 +13,9 @@
     "app:delete-file": 42,
     "editor:delete-paragraph": 42,
     "graph:open": 10,
-    "workspace:undo-close-pane": 21,
-    "workspace:close": 21,
-    "workspace:close-others": 21,
+    "workspace:undo-close-pane": 22,
+    "workspace:close": 22,
+    "workspace:close-others": 22,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 1,
     "backlink:open-backlinks": 8,
@@ -58,11 +58,11 @@
     "find-unlinked-files:delete-unlinked-files": 4
   },
   "keyboardStatistics": {
-    "insert-template": 77,
-    "switcher:open": 111,
+    "insert-template": 78,
+    "switcher:open": 112,
     "editor:open-search": 3,
     "global-search:open": 6,
-    "workspace:close": 168,
+    "workspace:close": 171,
     "app:go-back": 42,
     "file-explorer:new-file": 9,
     "file-explorer:new-file-in-new-pane": 2,
@@ -70,6 +70,6 @@
     "editor:save-file": 3,
     "app:go-forward": 4,
     "workspace:export-pdf": 1,
-    "graph:open": 7
+    "graph:open": 12
   }
 }

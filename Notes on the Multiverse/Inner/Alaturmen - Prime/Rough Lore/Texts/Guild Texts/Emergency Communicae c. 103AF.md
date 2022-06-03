@@ -12,13 +12,15 @@ SPEAKER: ... [unintelligible] ... Very well. Lets begin. Please calm youselves a
 
 ADV.: I am [[Filip Grundle]], I speak on behalf of [[Yyu Clipwin]] as a representative of the [[Guild of Adventurers]]. Through reputable means - the [[Kakurak|adventurer dragon]], Kakurak - we have been alerted to a force of Giantfolk marching into the territories of [[The Church of the White Flame]].
 
-CWF: Yes; as Grundle speaks the truth. The domains of the Tendered [[Valerio Avishalom|Avishalom]], [[|Avner]], and [[|Haleli]], as well as their subordinates, have received harsh attacks against them. 
+CWF: Yes; as Grundle speaks the truth. The domains of the Tendered [[Valerio Avishalom|Avishalom]], [[Caris Avner|Avner]], and [[Amirriyl Haleli|Haleli]] and their subordinates have received harsh attacks against them. The Church has been focusing on their recovery. We must act together in this time.
 
 LOT: Skipping introductions Silvan?
 
 CWF: Yes - my people are in danger. I have not spoken to this [[Kakurak]], but as I said, Grundle speaks true.
 
-DCP: I am [[Srioh]]. I represent the interests of [[Baron Filip]]. It is the opinion of the [[Baron Filip]], myself, and the other [[Knights in Red]] that this is a plight we have been preparing to hear. This is the reason for founding as a Coalition, the reason we are all here to talk is to hear this call. The other Barons are in agreement with this.
+DCP: I am [[Srioh]]. I represent the interests of [[Baron Filip]]. It is the opinion of the [[Baron Filip]], myself, and the other [[Knights in Red]] that this is a plight we have been preparing to hear. This is the reason for founding as a Coalition, the reason we are all here to talk is to hear this call. I think I speak for all of us in this?
+
+DCP-*: *Yelling in agreement*
 
 LOT: I am Writh. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[Venclaw]], with a request for a meeting of war.
 
