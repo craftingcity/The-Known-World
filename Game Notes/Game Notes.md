@@ -18,7 +18,7 @@
 		- [[Custom Feats]]
 		- **Homebrew Spells**
 			- [[Spells from Collective]]
-	- **[[NPCs]]**
-	- **[[Prenotes]]**
+	- **[[Game Notes/NPCs/NPCs]]**
+	- **[[Game Notes/Prenotes/Prenotes]]**
 
 %% End Waypoint %%

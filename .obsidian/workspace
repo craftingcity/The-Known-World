@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "042acd3731ff9149",
+        "id": "079984868665c84b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marked By the Fire.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/How the Weave becomes Magic.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marked By the Fire.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/How the Weave becomes Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marked By the Fire.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/How the Weave becomes Magic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "042acd3731ff9149",
+  "active": "079984868665c84b",
   "lastOpenFiles": [
-    "Marked By the Fire.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
-    "TEMPLATES/NPCs.md",
-    "Baron Jammu.md",
-    "ORGANIZATION/Holding Rules.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/How the Weave becomes Magic.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/High Holyl'nders.md"
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
+    "Mechanis.md",
+    "Notes on the Multiverse/Outer/Outer.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "MEDIA/MEDIA.md",
+    "ORGANIZATION/TEMPLATES/Disambiguation.md"
   ]
 }

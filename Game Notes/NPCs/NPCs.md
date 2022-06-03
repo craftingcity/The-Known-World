@@ -1,6 +1,6 @@
 # NPCs
 %% Begin Waypoint %%
-- **[[NPCs]]**
+- **[[Game Notes/NPCs/NPCs]]**
 	- [[List of Names]]
 	- **[[on Alaturmen]]**
 	- **[[Underdark]]**

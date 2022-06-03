@@ -22,6 +22,7 @@
 					- [[Macht's Orcs]]
 				- **Local Lore**
 					- [[Great Fires]]
+					- [[Marked By the Fire]]
 					- [[The Assault of the Giant Decenters]]
 					- [[The Old]]
 				- [[The Church of the White Flame]]
@@ -76,6 +77,7 @@
 			- [[The Holyl'nds]]
 			- [[Wychway]]
 		- **Southeast Central**
+			- [[Darnt Hillkeep]]
 			- **Eastlick**
 				- [[Asilar's Bounty]]
 			- **Grumble Hills**
@@ -92,6 +94,7 @@
 			- [[The Golden City]]
 	- **Rough Lore**
 		- [[Durandurm Weaponry]]
+		- [[How the Weave becomes Magic]]
 		- **Language**
 			- [[Celestial]]
 			- [[Desertspeech]]

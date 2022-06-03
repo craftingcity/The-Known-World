@@ -3,6 +3,7 @@
 - **[[Combine Rulers]]**
 	- [[Baron Filip]]
 	- [[Baron J'Tail]]
+	- [[Baron Jammu]]
 	- [[Baron Xuiop]]
 	- [[Baron Yassir Cassindil]]
 
