@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "079984868665c84b",
+        "id": "20f2d7326e3574ed",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/GrainIntoGold.pdf"
+          }
+        }
+      },
+      {
+        "id": "69c1ce69343dc718",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
+            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
             "mode": "source"
           }
         }
@@ -52,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
+                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
+                "file": "ORGANIZATION/Notes From Grain Into Gold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +128,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "079984868665c84b",
+  "active": "69c1ce69343dc718",
   "lastOpenFiles": [
+    "ORGANIZATION/Notes From Grain Into Gold.md",
+    "MEDIA/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
@@ -126,8 +139,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northwestern Central/Firelight Sea.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "MEDIA/MEDIA.md"
+    "Game Notes/NPCs/NPCs.md"
   ]
 }

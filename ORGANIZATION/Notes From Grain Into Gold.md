@@ -58,5 +58,20 @@ A slave without any training would run 100sp and one with basic training would r
 
 Dining out costs 4x at lower end places and 6x at higher ones.
 
-Don't forget always be Cutting Corners.
+Don't forget, always be Cutting Corners.
 
+Diamonds are super useful, pretty, and rare, meaning they're great to use as our "top" valuable, at 1000sp for a one carat diamond and doubling in value every 50% increase in size, a two carat diamond is 3500sp and a three carat diamond is 7,000sp, and so on.
+
+Rubies, Sapphires, Emerald, and Amethyst are all in the same tier, but Amethyst are worth less bc of real life lore, which is why the darnt hillkeep exports a bunch of Amethyst.
+
+Pearls are cool. Baroque (aka shitty not perfect ones) cost 20-25sp average. Round (aka cool perfect good ones) cost 500sp. Both will be more valuable when worked into a piece, like all other materials.
+
+An arrow costs about 1sp because its time intensive.
+
+A small backpack costs 10sp, but adventurers carry a lot of / heavy shit so they would need better and bigger packs.
+
+Because Alaturmen is low magic high fantasy, magical effects need to be expensive, but available. Enchanting, Healing, and Alchemy are all important magical jobs. Other tasks can be performed and enhanced by magic, but this would pay more along the lines of a very rare specialist than one of the above.
+
+Two things are true of all mortals. Death. Taxes.
+
+Personal taxes seem like bogus, so Alaturmen focuses on Tariffs, Tolls, and Community Service, and Tithe.
