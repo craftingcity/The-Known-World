@@ -27,6 +27,8 @@ Temples and Shrines to the Gods
 
 In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
+A man walks into a shop, buys a potion. Weeks later, comes back to the shop, says it saved their life. Tells the merchant he will craft her anything she wished for in their ability to create. The merchant thought, and then said she wished for something to help make books. The artificer said it would take them only a week, to the merchant's surprise, and in a week's time, they had the first printing press. And a gnome, but that is another tale.
+
 # NEXT SESSION
 
 [[Gudeliva]] is sick, they need to rest in [[Ootool]]. Krenzo pops off the plan before they all enter the city (if it goes off without a hitch, he can use the urban center as getaway). Run [[Prenotes Mar 27 22#Kayus]] after [[Ootool]].

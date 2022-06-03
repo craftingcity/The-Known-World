@@ -1,3 +1,6 @@
+[[GrainIntoGold.pdf]]
+
+# Opening
 We use the standard 100:10:1 for cp:sp:gp.
 
 Adventurers are *not* the most important people in the world, although they do end up with a great deal of power and connection.
@@ -12,6 +15,8 @@ Consider Land, Overhead and Cutting Corners.
 
 When folks don't work, they hunt and gather, although these are professions unto themselves.
 
+# Middlemen
+### ie Merchants
 Middlemen transport via caravans over land (at ~1.6sp/barrel/day) and ships over water (at ~1.6sp/barrel/day)...
 
 **The example given at this point is much too large for Alaturmen as it is, folks use the Avalani to transport goods up and down the coast and to and from the city.**
@@ -21,3 +26,9 @@ Middlemen transport via caravans over land (at ~1.6sp/barrel/day) and ships over
 Don't forget about taxes.
 
 And risk.
+
+When buying from an adventurer, a merchant would want to pay 1/2 to 1/3 what they could sell it for, basing on what the item is and excepting Rarer items or Distant items.
+
+Stolen items generally sell for ~10-15% less.
+
+# Craftsmen
