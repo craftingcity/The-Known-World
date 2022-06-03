@@ -31,3 +31,5 @@ Servicers cannot stock inventory and need to make a certain amount, leading them
 Clothing is typically expensive, and especially because people want it dyed.
 
 A pound of unrefined rock salt would cost about 2.5cp. It is common enough to be used as a universally acceptable currency.
+
+Preserving food reduces the amount of edible food, but the costs of preserving are higher than producing, so the end result is less food for more (or about the same amount) money. 
