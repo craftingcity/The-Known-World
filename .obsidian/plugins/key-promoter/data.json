@@ -58,17 +58,17 @@
     "find-unlinked-files:delete-unlinked-files": 2
   },
   "keyboardStatistics": {
-    "insert-template": 69,
+    "insert-template": 71,
     "switcher:open": 97,
     "editor:open-search": 3,
     "global-search:open": 6,
     "workspace:close": 158,
-    "app:go-back": 33,
+    "app:go-back": 37,
     "file-explorer:new-file": 9,
     "file-explorer:new-file-in-new-pane": 2,
     "command-palette:open": 1,
     "editor:save-file": 3,
-    "app:go-forward": 2,
+    "app:go-forward": 3,
     "workspace:export-pdf": 1,
     "graph:open": 7
   }

@@ -4,6 +4,7 @@
 	- [[Fronts]]
 	- [[Group]]
 	- [[Holdings]]
+	- [[Non-Canon]]
 	- [[NPCs]]
 	- [[Prenotes]]
 	- [[Statblock]]

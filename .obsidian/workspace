@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Patron Saints of Kakurak.md",
+            "file": "Macht's Orcs.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Patron Saints of Kakurak.md",
+                "file": "Macht's Orcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Patron Saints of Kakurak.md",
+                "file": "Macht's Orcs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +119,15 @@
   },
   "active": "fbaae22d4962eed3",
   "lastOpenFiles": [
+    "Macht's Orcs.md",
     "The Patron Saints of Kakurak.md",
+    "Ranger's Guild.md",
+    "TEMPLATES/Non-Canon.md",
     "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "A Grand Notepad.md",
     "MEDIA/MEDIA.md",
     "ORGANIZATION/ORGANIZATION.md",
-    "ORGANIZATION/Organizational Notions.md",
-    "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "ORGANIZATION/Organizational Notions.md"
   ]
 }
