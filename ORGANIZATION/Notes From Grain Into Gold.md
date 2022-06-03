@@ -40,4 +40,4 @@ Coins are a little freaky because minting costs something; If an ounce of silver
 
 Remember Food-Waste -> Animals -> Food
 
-Remember Oils, Crop Rotation, .
+Remember Oils, Crop Rotation, and Region Weather / Temperature.
