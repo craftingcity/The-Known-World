@@ -4,15 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6a29a52dc6635815",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics of Alaturmen.md",
-            "mode": "source"
+        "id": "1d3ddf48e871e7e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a29a52dc6635815",
+            "type": "leaf",
+            "dimension": 23.04147465437788,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics of Alaturmen.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f96a3e55fc98a5c9",
+            "type": "leaf",
+            "dimension": 76.95852534562212,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/GrainIntoGold.pdf"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "718626b55a9d44e5",
@@ -131,10 +150,10 @@
   "active": "718626b55a9d44e5",
   "lastOpenFiles": [
     "Economics of Prosper.md",
+    "MEDIA/GrainIntoGold.pdf",
     "Economics of Alaturmen.md",
     "ORGANIZATION/TEMPLATES/Economy.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
-    "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/ORGANIZATION.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",

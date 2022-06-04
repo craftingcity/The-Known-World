@@ -12,21 +12,27 @@ The Kingdom of Prosper controls what was the [[Bandit Lords]]' territory, which 
 Rye is the common bread.
 
 White flour is better served making other foods than bread, such as cakes and muffins and jelly pastries and the like - a mild delicacy, one might say.
+
 ### Food
 What lives here?
 #### Meat
-The forests of Prosper are populated by plump deer and pig. Cattle are kept on large ranches in cities and villages, but herding and keeping cattle farther from civilization quickly becomes impossible, leading these people to use goats instead.
+Cattle are kept on large ranches in cities and villages, but herding and keeping cattle farther from civilization quickly becomes impossible, leading these people to use goats instead. Rabbit are also a commonly kept farm animal in this region.
+
+The forests of Prosper are populated by deer, turkey, goose, pig and smaller animals like rabbits, raccoon, and rodents. Most game is considered commoner's meat, because it's cheap, available, and not great! Fowl and Chevron reside a step above game, but Pork and Beef are leagues of their own.
 
 #### Dairy
-Both goat and cow milk and cheese are available, but cows are both harder to maintain and more desireable, so they generally cost more than the goat alternative.
+Both goat and cow milk and cheese are available, but cows are both harder to maintain and more desirable, so they generally cost more than the goat alternative.
 
 #### Grain
-Rye is a powerful taste. One that Prosper is used to, but Wheat makes its way into the middle-class diet too. Corn, Beans, and Potatoes are considered feed, not food.
+Rye is a powerful taste. One that Prosper is used to, but Wheat makes its way into the middle-class diet too. Nuts are not particularly common to this region, but some acorns and heart-nuts are found in this region and turned into cheap flour.
 
 #### Fruit
 Apples and Pears are common wild trees, and make good drinks, both sweet and hard. Berries are less common, but still grow well in the region, making most more pricey than the other fruits, but Citrus reigns supreme in rarity, as it does not grow at all in this less than temperate weather.
 
 #### Vegetable
+Beans, Carrots, 
+
+
 #### Spice and Oil
 #### Delicacy
 
