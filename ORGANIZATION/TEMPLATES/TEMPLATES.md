@@ -8,7 +8,7 @@
 	- [[Holdings]]
 	- [[Non-Canon]]
 	- [[NPCs]]
-	- [[Prenotes]]
+	- [[ORGANIZATION/TEMPLATES/Prenotes]]
 	- [[Statblock]]
 	- [[Stub]]
 	- [[Tags and Aliases]]
