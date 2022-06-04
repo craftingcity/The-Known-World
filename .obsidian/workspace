@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20f2d7326e3574ed",
+        "id": "a86a48c11bba0310",
         "type": "leaf",
-        "dimension": 85.25073746312685,
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/GrainIntoGold.pdf"
-          }
-        }
-      },
-      {
-        "id": "3ecd36092a75367d",
-        "type": "leaf",
-        "dimension": 14.749262536873156,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -80,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +112,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "20f2d7326e3574ed",
+  "active": "a86a48c11bba0310",
   "lastOpenFiles": [
-    "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/Notes From Grain Into Gold.md",
+    "MEDIA/GrainIntoGold.pdf",
     "Economics of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
