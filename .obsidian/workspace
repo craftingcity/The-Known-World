@@ -4,6 +4,16 @@
     "type": "split",
     "children": [
       {
+        "id": "64ced326a24a61e0",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/GrainIntoGold.pdf"
+          }
+        }
+      },
+      {
         "id": "a86a48c11bba0310",
         "type": "leaf",
         "state": {
@@ -120,8 +130,8 @@
   "active": "a86a48c11bba0310",
   "lastOpenFiles": [
     "Economics of Alaturmen.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
     "MEDIA/GrainIntoGold.pdf",
+    "ORGANIZATION/Notes From Grain Into Gold.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",

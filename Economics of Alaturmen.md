@@ -56,6 +56,16 @@ Prosper's people are generally well educated and hard working. While mercantilis
 
 
 ## Northeast Hobgoblin Territories
+### Prelim
+Much of the Territories are dense forest; grains are not as plentiful as meat and fruit, therefore Pemmican is the base food in these areas.
+
+### Pemmican
+By combining powdered meats and fruits with hot liquid fats and seasoning, a powerful and preservable food is made.
+
+### Food
+For selections of meat, there are many game animals to hunt and trap, and many families have small s
+
+
 
 ## The DCP
 
@@ -64,3 +74,8 @@ Prosper's people are generally well educated and hard working. While mercantilis
 ## The Holyl'nd
 
 ## Coalition City
+
+## Acstow Dwarves & Cenva Minyo
+
+## Deakred Dwarves
+
