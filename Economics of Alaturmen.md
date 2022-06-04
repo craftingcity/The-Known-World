@@ -23,7 +23,24 @@ Land is "owned" by the King, but he grants management to his nobles, who rent th
 Lands closer to Castle Prosper or Coalition City are considered much more valuable, as they are better protected. The best of the King's fields grow Barley.
 
 ### Overhead
-In outskirt homesteads and villages, there are no ways of refridgerating food, but in larger villages and cities, iceboxes are maintained by journeymen mages. Most folk carry a self-defense weapon, and most family have at least one bow and set of arrows for hunting. Horses are the most common working animal in this region, although some folks hire bugbear instead of keeping a work animal.
+In outskirt homesteads and villages, there are no ways of refridgerating food, but in larger villages and cities, iceboxes are maintained by journeymen mages. Most folk carry a self-defense weapon, and most family have at least one bow and set of arrows for hunting. Horses are the most common working animal in this region, although some folks hire bugbear instead of keeping a work animal. Often, farms have dairy working sheds and outbuildings for fuel storage.
+
+### Cutting Corners
+Rye is a cheap grain, and many vegetables are cheap as well. Game and "poor" meat is normalized, and quality livestock is considered a mild delicacy.
+
+This means that soups, stews, and similar meals are common food, and when paired with local forage can prove to be quite tasteful. Not only is this considered culturally acceptable, it is considered an intelligent and practical choice.
+
+### Middlemen
+Prosper is positioned in the second best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner will buy a small collection of novel spices for a season alongside their staples at festival markets.
+
+### Craftsmen
+The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can make enough work in the larger villages of the region. 
+
+### Textiles
+People in Prosper are mostly for furs and goat-wool. Cattle and Horse leather is more useful as other things. Canvas is more common than Linen, and much more common than the luxury import Silk.
+
+### Preservation
+There are few sources of salt in Prosper, although it is imported from both Combine and Acstow.
 
 
 ## Northeast Hobgoblin Territories
