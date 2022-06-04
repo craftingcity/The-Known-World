@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prenotes.md",
+            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes.md",
+                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes.md",
+                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +119,15 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "Prenotes.md",
     "Economics of Prosper.md",
     "Economics of the Hobgoblin Territories.md",
-    "Economics of Alaturmen.md",
-    "MEDIA/GrainIntoGold.pdf",
-    "ORGANIZATION/TEMPLATES/Economy.md",
-    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md"
+    "Economics of Alaturmen.md"
   ]
 }
