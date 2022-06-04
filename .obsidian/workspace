@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of Alaturmen.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "718626b55a9d44e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics of Prosper.md",
+            "file": "Economics of the Hobgoblin Territories.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of Prosper.md",
+                "file": "Economics of the Hobgoblin Territories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of Prosper.md",
+                "file": "Economics of the Hobgoblin Territories.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +117,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "718626b55a9d44e5",
+  "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "Economics of the Hobgoblin Territories.md",
     "Economics of Prosper.md",
     "Economics of Alaturmen.md",
     "MEDIA/GrainIntoGold.pdf",
@@ -138,7 +128,6 @@
     "ORGANIZATION/ORGANIZATION.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    "ORGANIZATION/Notes From Grain Into Gold.md"
   ]
 }

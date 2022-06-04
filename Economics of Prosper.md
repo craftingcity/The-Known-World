@@ -45,7 +45,7 @@ Because Prosper is in a powerful trade position, the available delicacies are fr
 ### Vices
 Brothels in Alaturmen are all represented by the Guild of Merchants, should they chose to be.
 
-Many farmers grow Cannabis and Tobacco alongside their other fibers, although 
+Many farmers grow Cannabis and Tobacco alongside their other fibers and dry them at home. These are one of Prosper's few exports to the world trade.
 
 ### Land
 Land is "owned" by the King, but he grants management to his nobles, who rent their land. The nobles are responsible for the upkeep of public works on their managed land, and the King often holds Common Court by lottery at festivals to check in with his citizenry.
@@ -53,8 +53,6 @@ Land is "owned" by the King, but he grants management to his nobles, who rent th
 Lands closer to Castle Prosper or Coalition City are considered much more valuable, as they are better protected. The best of the King's fields grow Barley.
 
 ### Overhead
-What about taxes? Work animals? Buildings? Productions?
-
 In outskirt homesteads and villages, there are no ways of refrigerating food, but in larger villages and cities, iceboxes are maintained by journeymen mages. Most folk carry a self-defense weapon, and most family have at least one bow and set of arrows for hunting. Horses are the most common working animal in this region, although some folks hire bugbear instead of keeping a work animal. 
 
 Often, in addition to the "average", farms in Prosper have dairy working sheds, drying sheds, and outbuildings for fuel storage.
@@ -70,28 +68,34 @@ Prosper is positioned in the second best position for trade, lagging only slight
 Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. No-one is going to snitch their neighbor's backroom deals, most likely because they're a part of them, and they would like things to stay the way they are instead of paying unnecessary fees.
 
 ### Craftsmen
-How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
 The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
 
-The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of res
+The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
+
+Guilded Craftsmen generally request 50/50 timed charging based on how long they believe the project to take at the level of quality requested.
 
 ### Textiles
-What sort of fabrics / leathers are available and acceptable? What about dyes?
+People in Prosper wear mostly for furs or goat-wool. Leather is more useful as things other than clothing. Canvas is more common than Linen, and much more common than the luxury import Silk.
+
+The berries of the region make warm and cool dyes, but not very poppy ones. The people of Prosper have little demand for imported dye other than the coveted White or Black.
 
 ### Preservation
-What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+There are few sources of salt in Prosper, although it is imported from both Combine and Acstow. Applesugar is fairly weak and distinctly flavored compared to other sources, but can still be used in preservatives. Cheese, Canned (with applesugar) and Pickled (generally in apple or barley vinegar) vegetables, Sausage, and Pemmican are the most common preservatives.
 
 ### Containers
-What do people put stuff in? Do we show it or is it hidden? Can they be reused?
+Baskets and Bags are the most common transportation mediums, although barrels and boxes are still used in large operations. The pottery of the region is generally poor, and most folk import their pottery when they can.
 
 ### Mining
-What can be mined? How elaborate are the setups?
+Prosper primarily trades with Acstow for their mining materials, although some specialties such as gems they buy from the south. While there are some operations in Prosper, with powerful operations nearby, it's often cheaper to import than produce.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
+Prosper has access to most alchemical components, leading to a large alchemical industry in Prosper. The city of Magius holds an academy, and some of its most talented graduates work for the government as mages of war or as enchanters and artificers for their specialized needs.
+
+Some wealthy sections of cities have wind-powered-aquafirs and most mills are powered by the wind as well.
+
 ### Other Notes
-- 
-- 
-- 
+- Prosper's people are generally well educated, practical, and hard working. 
+- The people of Prosper are typically not institutionally religious, they are community focused culturally. 
