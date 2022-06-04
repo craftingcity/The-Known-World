@@ -30,14 +30,20 @@ Rye is a powerful taste. One that Prosper is used to, but Wheat makes its way in
 Apples and Pears are common wild trees, and make good drinks, both sweet and hard. Berries are less common, but still grow well in the region, making most more pricey than the other fruits, but Citrus reigns supreme in rarity, as it does not grow at all in this less than temperate weather.
 
 #### Vegetable
-Beans, Carrots, 
+Beans, Carrots, Cabbage, Oats, Pumpkin, and Winter Squash are food of the common. People generally make many soups in this region, and while this is the cultural norm, it is also considered an intelligent and practical choice.
 
+Animals are to be fed hay, corn, or potato. 
 
 #### Spice and Oil
+The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
+
+Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but cheaper, a more distasteful option is available in heart-nut oil.
+
 #### Delicacy
+Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do only barely well.
 
 ### Vices
-What do people do for *fun*?
+Brothels in Alaturmen are all represented by the Guild of 
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
