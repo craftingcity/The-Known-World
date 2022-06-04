@@ -9,17 +9,32 @@ aliases:
 The area of the Hobgoblin Territories is largely forested. It is cold and rainy in this area. 
 
 ### "Bread"
-
+Pemmican is a combination of powdered meat, fruit, and boiled fat. It lasts a long time, is cheap, and quite dense in nutrition.
 
 ### Food
 What lives here?
 #### Meat
+The most common meat is game. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal. Goose and Duck are commonly kept as well, for their feathers, eggs, and meat.
+
 #### Dairy
+Goats milk and cheese are reasonably common, as are Goose and Duck egg. Some folks press nuts into dairy products as well, but this is a time consuming process that produces a less desirable product.
+
 #### Grain
+Wheat does not grow wild here, although Barley does. Acorns and Heartnut are reasonable replacements in breads, but Rye is preferable.
+
 #### Fruit
+Apple, Pear, and Berries grow in abundance in the dense forests of the area. Sweet and Hard drinks made from these fruits are the preferred drinks of the area, although Beer is produced as well.
+
 #### Vegetable
+Lettuces, Cabbage, Beets, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
+
 #### Spice and Oil
+Mint and Parsley grow well in the shade, as well as the common roots such as Garlic and Onion.
+
+Nut oils are made, but considered poor replacements for goat's butter. Rarely, good Oils from the City in Gold make their way into the territories and are highly valued.
+
 #### Delicacy
+Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
 
 ### Vices
 What do people do for *fun*?
