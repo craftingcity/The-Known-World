@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of Alaturmen.md",
+            "file": "ORGANIZATION/TEMPLATES/Economy.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of Alaturmen.md",
+                "file": "ORGANIZATION/TEMPLATES/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of Alaturmen.md",
+                "file": "ORGANIZATION/TEMPLATES/Economy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "a86a48c11bba0310",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Economy.md",
+    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
     "Economics of Alaturmen.md",
     "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Bandit Lords/Bandit Lords.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Central Alaturmen.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md"
   ]
 }

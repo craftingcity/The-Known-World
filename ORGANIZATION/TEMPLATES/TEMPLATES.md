@@ -2,6 +2,7 @@
 %% Begin Waypoint %%
 - **[[TEMPLATES]]**
 	- [[Disambiguation]]
+	- [[Economy]]
 	- [[Fronts]]
 	- [[Group]]
 	- [[Holdings]]

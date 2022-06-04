@@ -65,6 +65,14 @@ By combining powdered meats and fruits with hot liquid fats and seasoning, a pow
 ### Food
 For selections of meat, there are many game animals to hunt and trap, and many families have small livestock, such as goat, turkey, or goose. Beef and Cow's Milk are hard to come by around here, but certain Clans have access to Cattle if they don't own them themselves.
 
+If the times become truly tough, humanoid is an acceptable meat, although most prefer not to eat it if they can. When no other viable options present themselves (such as if a starving clan of hobgoblin fought a starving clan of humans in the hobgoblin's territory and the children need to eat today, including the un-borns in these people).
+
+Grains are generally hard to come by, but Barley is much more plentiful than Wheat. Rye bread is relatively common at deeply established camps, but becomes rarer in younger sections of the Territories.
+
+Wild fruits such as Apple and Blackberry are plentiful in the densest parts of the forests.
+
+
+
 
 
 ## The DCP
