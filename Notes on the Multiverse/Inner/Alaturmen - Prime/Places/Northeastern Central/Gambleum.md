@@ -4,13 +4,14 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity:
-Population:
-Defenses:
+Prosperity: Rich
+Population: Growing
+Defenses: Garrison
 Other Tags:
 
 # Description
-Any sort of local lore...
+Along with farming, Gambleum's main export is chance. They also are a important import/export city for the materials produced in the [[Actstow Hills]].
+
 ## Physicality of the Holding
 
 ## Population Distribution

@@ -78,11 +78,11 @@
 			- [[The Holyl'nds]]
 			- [[Wychway]]
 		- **Southeast Central**
-			- [[Darnt Hillkeep]]
 			- **Eastlick**
 				- [[Asilar's Bounty]]
 			- **Grumble Hills**
 				- [[Aeberu]]
+				- [[Darnt Hillkeep]]
 			- **Huntyr Swamp**
 				- [[Neverwallow]]
 				- [[Red Throne]]
