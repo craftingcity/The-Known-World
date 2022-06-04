@@ -52,7 +52,7 @@ Prosper primarily trades with Acstow for their mining materials, although some s
 Prosper has access to most alchemical components, leading to a large alchemical industry in Prosper. The city of Magius holds an academy, and some of its most talented graduates work for the government as mages of war or as enchanters and artificers for their specialized needs.
 
 ### More
-Prosper's people are generally well educated and hard working. While mercantilism is a common occupation, it is not a well respected one. The people of Prosper are typically not institutionally religious, they  
+Prosper's people are generally well educated and hard working. While mercantilism is a common occupation, it is not a well respected one. The people of Prosper are typically not institutionally religious, they are community focused culturally. 
 
 
 ## Northeast Hobgoblin Territories

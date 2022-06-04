@@ -6,6 +6,7 @@
       {
         "id": "20f2d7326e3574ed",
         "type": "leaf",
+        "dimension": 85.25073746312685,
         "state": {
           "type": "pdf",
           "state": {
@@ -16,10 +17,11 @@
       {
         "id": "3ecd36092a75367d",
         "type": "leaf",
+        "dimension": 14.749262536873156,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of Alaturmen.md",
+            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
             "mode": "source"
           }
         }
@@ -78,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of Alaturmen.md",
+                "file": "MEDIA/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of Alaturmen.md",
+                "file": "MEDIA/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,16 +129,16 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3ecd36092a75367d",
+  "active": "20f2d7326e3574ed",
   "lastOpenFiles": [
+    "MEDIA/GrainIntoGold.pdf",
+    "ORGANIZATION/Notes From Grain Into Gold.md",
     "Economics of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Bandit Lords/Bandit Lords.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
-    "MEDIA/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Factions/Macht's Orcs.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Central Alaturmen.md"
   ]
