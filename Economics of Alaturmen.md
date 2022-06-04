@@ -40,7 +40,19 @@ The Guilds of Coalition City have their fingers in many pies, and are well repre
 People in Prosper are mostly for furs and goat-wool. Cattle and Horse leather is more useful as other things. Canvas is more common than Linen, and much more common than the luxury import Silk.
 
 ### Preservation
-There are few sources of salt in Prosper, although it is imported from both Combine and Acstow.
+There are few sources of salt in Prosper, although it is imported from both Combine and Acstow. Applesugar is fairly weak and distinctly flavored compared to other sources, but can still be used in preservatives. Cheese, Canned (with applesugar) and Pickled (generally in apple or barley vinegar) vegetables, Sausage, and Pemmican are the most common preservatives.
+
+### Containers
+Baskets and Bags are the most common transportation mediums, although barrels and boxes are still used in large operations. The pottery of the region is generally poor, and most folk import their pottery when they can.
+
+### Mining
+Prosper primarily trades with Acstow for their mining materials, although some specialties such as gems they buy from the south. While there are some operations in Prosper, with masters nearby, it's often better to import than produce.
+
+### Magic
+Prosper has access to most alchemical components, leading to a large alchemical industry in Prosper. The city of Magius holds an academy, and some of its most talented graduates work for the government as mages of war or as enchanters and artificers for their specialized needs.
+
+### More
+Prosper's people are generally well educated and hard working. While mercantilism is a common occupation, it is not a well respected one. The people of Prosper are typically not institutionally religious, they  
 
 
 ## Northeast Hobgoblin Territories
