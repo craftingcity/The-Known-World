@@ -7,9 +7,10 @@
         "id": "6a29a52dc6635815",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/GrainIntoGold.pdf"
+            "file": "Economics of the Hobgoblin Territories.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/GrainIntoGold.pdf",
+                "file": "Economics of the Hobgoblin Territories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/GrainIntoGold.pdf",
+                "file": "Economics of the Hobgoblin Territories.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +119,8 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "Economics of the Hobgoblin Territories.md",
+    "Economics of Prosper.md",
     "MEDIA/GrainIntoGold.pdf",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
@@ -125,8 +128,6 @@
     "Game Notes/Game Notes.md",
     "ORGANIZATION/ORGANIZATION.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
-    "Prenotes.md",
-    "Economics of Prosper.md",
-    "Economics of the Hobgoblin Territories.md"
+    "Prenotes.md"
   ]
 }

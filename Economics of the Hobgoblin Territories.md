@@ -3,13 +3,13 @@ tags: economy
 aliases:
 ---
 
-# UNASSIGNED Economy
+# Territories Economy
 ## As suggested by Grains into Gold
 ### Prelim
-I'm gonna need at the very least, a size, terrain, and weather pattern.
+The area of the Hobgoblin Territories is largely forested. It is cold and rainy in this area. 
 
 ### "Bread"
-What is *the* food?
+
 
 ### Food
 What lives here?
