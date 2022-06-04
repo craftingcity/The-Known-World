@@ -7,10 +7,9 @@
         "id": "6a29a52dc6635815",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-            "mode": "source"
+            "file": "MEDIA/GrainIntoGold.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+                "file": "MEDIA/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+                "file": "MEDIA/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +118,7 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "MEDIA/GrainIntoGold.pdf",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
     "Game Notes/NPCs/NPCs.md",
@@ -127,7 +127,6 @@
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "Prenotes.md",
     "Economics of Prosper.md",
-    "Economics of the Hobgoblin Territories.md",
-    "Economics of Alaturmen.md"
+    "Economics of the Hobgoblin Territories.md"
   ]
 }
