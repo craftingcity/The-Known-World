@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of the Hobgoblin Territories.md",
+            "file": "Economics of Prosper.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Economics of Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Economics of Prosper.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,8 +119,8 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
-    "Economics of the Hobgoblin Territories.md",
     "Economics of Prosper.md",
+    "Economics of the Hobgoblin Territories.md",
     "Economics of Alaturmen.md",
     "MEDIA/GrainIntoGold.pdf",
     "ORGANIZATION/TEMPLATES/Economy.md",
