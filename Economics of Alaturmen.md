@@ -34,7 +34,7 @@ This means that soups, stews, and similar meals are common food, and when paired
 Prosper is positioned in the second best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner will buy a small collection of novel spices for a season alongside their staples at festival markets.
 
 ### Craftsmen
-The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can make enough work in the larger villages of the region. 
+The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region. 
 
 ### Textiles
 People in Prosper are mostly for furs and goat-wool. Cattle and Horse leather is more useful as other things. Canvas is more common than Linen, and much more common than the luxury import Silk.
@@ -63,7 +63,7 @@ Much of the Territories are dense forest; grains are not as plentiful as meat an
 By combining powdered meats and fruits with hot liquid fats and seasoning, a powerful and preservable food is made.
 
 ### Food
-For selections of meat, there are many game animals to hunt and trap, and many families have small s
+For selections of meat, there are many game animals to hunt and trap, and many families have small livestock, such as goat, turkey, or goose. Beef and Cow's Milk are hard to come by around here, but certain Clans have access to Cattle if they don't own them themselves.
 
 
 
