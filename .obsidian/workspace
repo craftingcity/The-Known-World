@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "eefac7e8070e78ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ORGANIZATION/TEMPLATES/Economy.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -120,6 +131,7 @@
   "active": "446363d02aed0300",
   "lastOpenFiles": [
     "Economics of the Hobgoblin Territories.md",
+    "ORGANIZATION/TEMPLATES/Economy.md",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
@@ -127,7 +139,6 @@
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Historical Figures.md",
     "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Game Notes.md"
+    "Game Notes/Prenotes/Prenotes.md"
   ]
 }

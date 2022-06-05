@@ -39,16 +39,16 @@ Nut oils are made, but considered poor replacements for goat's butter. Rarely, g
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
 
 ### Vices
-The Clans of the Territories gather for Festivals and Gladiatorial Combat often. The hard drinks of fruit are prized in this area, beer less, but acceptably so.  
+The Clans of the Territories gather for Festivals and Gladiatorial Combat when at peace. The hard drinks of fruit are prized in this area, beer less, but acceptably so. Some of the forage of the area is psychedelicly active, and highly prized for this effect.
 
 ### Land
-The Clans of the Territories fight eachother for their land. If they can take land by force, a clan would attempt to do so. Most folks live in mobile 
+The Clans of the Territories fight eachother for their land. If they can take land by force, a Mangugu would attempt to do so, for the prosperity of their clan. 
 
 ### Overhead
-What about taxes? Work animals? Buildings? Productions?
+Because there is no greater collective of the Clans, other than the [[Blood Hobgoblin Clan Pact]], taxes are always in the form of community service to the local Mangugu. Most folks live in these semi-nomadic clans, but well established clans often have more permanent structures if they believe that they can be defended. Production processes, if they can be permanent and defended, can be large, but otherwise, are generally small and personal.
 
 ### Cutting Corners
-How do people make ends meet? How do people value their luxuries?
+When times are very tough, 
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
