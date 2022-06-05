@@ -48,10 +48,12 @@ The Clans of the Territories fight eachother for their land. If they can take la
 Because there is no greater collective of the Clans, other than the [[Blood Hobgoblin Clan Pact]], taxes are always in the form of community service to the local Mangugu. Most folks live in these semi-nomadic clans, but well established clans often have more permanent structures if they believe that they can be defended. Production processes, if they can be permanent and defended, can be large, but otherwise, are generally small and personal.
 
 ### Cutting Corners
-When times are very tough, 
+When times are very tough, the people of the Territories know that they are not above eating the meat of their own fallen. Neither Humanoid or Goblinoid is an *acceptable* meat, but when there is no other alternative for you, your Clan, your Clan's goats, the people you just felled for their farmland are still fresh meat. Generally, this is unnecessary, the forests provide.
+
+Butter is a necessity of life in the Territories, most people make it on their own, during travel. If survival is key, forgoing even the simplest spices of onion and mint would stretch a Clan's budget.
 
 ### Middlemen
-What does trade look like around here? What about guilds? Markets?
+Trade between peaced Clans are common enough to consider their economy together as we do, and most "merchants" work directly under their Mangugu to maintain certainty of inventory. Festival markets are quickly mobilized, in constant preparation for an assault. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?

@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "446363d02aed0300",
+        "id": "ef65772610fdda37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of the Hobgoblin Territories.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eefac7e8070e78ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/TEMPLATES/Economy.md",
+            "file": "Guilds.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Guilds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Guilds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "446363d02aed0300",
+  "active": "ef65772610fdda37",
   "lastOpenFiles": [
-    "Economics of the Hobgoblin Territories.md",
+    "Guilds.md",
     "ORGANIZATION/TEMPLATES/Economy.md",
+    "Economics of the Hobgoblin Territories.md",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Kingdom of Prosper.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Historical Figures.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Prenotes/Prenotes.md"
+    "Game Notes/NPCs/NPCs.md"
   ]
 }
