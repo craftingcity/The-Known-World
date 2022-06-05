@@ -21,3 +21,7 @@ The guards will begin to search for them, given the descriptions given from the 
 
 If the party travels through the night before making camp, along the road they would see a large lake to the south, dotted with many buildings, and far to their north, a large castle on a hill. Much of the surrounding area is barley fields. 
 
+It will take the party four days to travel from [[Magius]] to [[Yerba]], which is the closest location, then four days to [[Darnt Hillkeep]], then closer to a week towards [[The Golden City]]. 
+
+These calculations are for on foot, after a night of travel from Magius. Taking Horses for our party (that they could purchase for probably about 100sp per with some fine haggling) would double their speed, and make the theoretical two week deadline more reasonable.
+

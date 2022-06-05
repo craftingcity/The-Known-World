@@ -18,10 +18,7 @@
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
 		- **[[Kingdom of Prosper]]**
-		- **Northeastern Clan Leaders**
-			- [[Amelia Simonson]]
-			- [[Northeastern Hobgoblin Territories]]
-			- [[Trxyi Emorin]]
+		- **[[Northeastern Clan Leaders]]**
 		- **[[World Villans]]**
 	- **Higher Power**
 		- [[Grand Pantheon]]
@@ -29,6 +26,7 @@
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
 		- **Combine Citizens**
+		- **[[Ex-Bandit Lords]]**
 		- **Lower Holyl'nders**
 		- **Servent of a Patron**
 			- [[Marcus]]
