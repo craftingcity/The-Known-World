@@ -2,7 +2,9 @@
 tags: npc
 aliases:
 ---
-# Alegra Barrowinch, The Grand Archmage of [[Magius]]
+# Alegra Barrowinch
+## The Grand Archmage of Magius and the Court of the Adventurer King
+### she/her
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
