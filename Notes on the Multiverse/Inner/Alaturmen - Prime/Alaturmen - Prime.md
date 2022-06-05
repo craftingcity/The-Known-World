@@ -78,7 +78,7 @@
 			- [[The Ballad of Grey Ordeal]]
 		- [[The Places of Alaturmen]]
 		- [[The Planes of Existence]]
-		- [[The Worldwide Calander Systems]]
+		- [[The Worldwide Calendar Systems]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]

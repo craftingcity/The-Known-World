@@ -18,9 +18,10 @@
         "id": "415611ec371d5433",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Worldwide Calendar Systems.md",
+            "mode": "source"
           }
         }
       },
@@ -73,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Worldwide Calendar Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Worldwide Calendar Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +140,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "0aa83f86e5a5ecd7",
+  "active": "415611ec371d5433",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Worldwide Calendar Systems.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
+    "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
     "Game Notes/Prenotes/'22/Prenotes July 04 22.md",
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/Prenotes/'21/'21.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
     "Grumbling Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Stone of Desmoniur.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/Lands of Tetrimoc/Factions/Tetramocal Congregation.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Stone of Desmoniur.md"
   ]
 }
