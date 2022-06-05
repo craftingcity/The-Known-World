@@ -1,6 +1,6 @@
 # Bandit Lords
 %% Begin Waypoint %%
-- **[[Bandit Lords]]**
+- **[[Ex-Bandit Lords]]**
 	- [[Asilar 'Goldhand' Guir]]
 	- [[Edward Bodaim]]
 

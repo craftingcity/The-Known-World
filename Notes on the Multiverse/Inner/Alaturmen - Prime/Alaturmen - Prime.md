@@ -43,7 +43,7 @@
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
 				- **Holdings**
-				- [[Northeastern Hobgoblin Territories]]
+				- [[Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**

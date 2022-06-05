@@ -8,7 +8,7 @@ Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]]
 ## History
 For much of the first century, "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. 
 
-In the very beginning, people made homes and farms here, and quickly the [[Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories#Clans|Blood Clans]] and took land from the hobgoblins to make their own holdings larger. 
+In the very beginning, people made homes and farms here, and quickly the [[Bandit]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Clan Leaders/Northeastern Hobgoblin Territories#Clans|Blood Clans]] and took land from the hobgoblins to make their own holdings larger. 
 
 In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords]] that had ruled this area. In the end, it was a great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
 

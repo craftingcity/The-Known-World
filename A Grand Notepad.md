@@ -25,6 +25,6 @@ Shrine to the missing of the [[Wildlands]]
 
 Temples and Shrines to the Gods
 
-In the second century, contention begins to arise as the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
+In the second century, contention begins to arise as the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Clan Leaders/Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 Bag-head bandits.

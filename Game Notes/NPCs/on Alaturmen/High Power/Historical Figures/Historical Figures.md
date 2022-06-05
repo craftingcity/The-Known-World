@@ -2,6 +2,9 @@
 %% Begin Waypoint %%
 - **[[Historical Figures]]**
 	- **[[Authors, Bards, and Lorekeepers]]**
-	- **[[Bandit Lords]]**
+	- **Ex-Bandit Lords**
+		- [[Asilar 'Goldhand' Guir]]
+		- [[Bandit Lords]]
+		- [[Edward Bodaim]]
 
 %% End Waypoint %%

@@ -18,7 +18,10 @@
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
 		- **[[Kingdom of Prosper]]**
-		- **[[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories]]**
+		- **Northeastern Clan Leaders**
+			- [[Amelia Simonson]]
+			- [[Northeastern Hobgoblin Territories]]
+			- [[Trxyi Emorin]]
 		- **[[World Villans]]**
 	- **Higher Power**
 		- [[Grand Pantheon]]
