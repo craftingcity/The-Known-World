@@ -60,11 +60,11 @@
     "graph:animate": 1
   },
   "keyboardStatistics": {
-    "insert-template": 101,
-    "switcher:open": 151,
+    "insert-template": 102,
+    "switcher:open": 153,
     "editor:open-search": 3,
     "global-search:open": 7,
-    "workspace:close": 195,
+    "workspace:close": 196,
     "app:go-back": 66,
     "file-explorer:new-file": 15,
     "file-explorer:new-file-in-new-pane": 4,
