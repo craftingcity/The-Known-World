@@ -8,18 +8,17 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-The Grand Archmage of [[Magius]], and a great crafter of items.
-
-A politic of theirs that players would interact with.
+The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy.
 
 ## History
-A general history of the character, from their conception to their current state
+Alegra is a genius. She does not plan well, but she was one of the few who has learned wizardry from very few examples.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
 
-[[Magius University]]
-[[Archmage Barrowinch's Tower]] - her place of residence and her [[Who has a Horde]]
+[[Magius University]] - her lab, her office, and her lecture halls are collected here.
+[[Archmage Barrowinch's Tower]] - her place of residence and personal treasury.
+Alegra frequents a bakery in the 
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
