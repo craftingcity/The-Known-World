@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics of the Hobgoblin Territories.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics of the Hobgoblin Territories.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +119,15 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Non-Nation Entities/Mountain Hall.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Economics of the Hobgoblin Territories.md",
     "Economics of Prosper.md",
     "MEDIA/GrainIntoGold.pdf",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Game Notes.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
-    "Prenotes.md"
+    "ORGANIZATION/ORGANIZATION.md"
   ]
 }
