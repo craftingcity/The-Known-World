@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "210632752b64ebec",
+        "id": "446363d02aed0300",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1a5ff2d7762391da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bc2386c143bafd87",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +112,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "210632752b64ebec",
+  "active": "446363d02aed0300",
   "lastOpenFiles": [
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Kingdom of Prosper.md",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
@@ -148,8 +123,6 @@
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Northeastern Clan Leaders/Northeastern Clan Leaders.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }
