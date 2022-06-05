@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
-            "mode": "source"
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Prime Timeline.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Prime Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Prime Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +119,8 @@
   },
   "active": "6a29a52dc6635815",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Rough Lore/Prime Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Nations/Holyl'nds/Local Lore/Great Fires.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Deakred Range.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/People/Non-Nation Entities/Mountain Hall.md",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
@@ -126,8 +128,6 @@
     "Economics of Prosper.md",
     "MEDIA/GrainIntoGold.pdf",
     "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Game Notes.md",
-    "ORGANIZATION/ORGANIZATION.md"
+    "Game Notes/NPCs/NPCs.md"
   ]
 }
