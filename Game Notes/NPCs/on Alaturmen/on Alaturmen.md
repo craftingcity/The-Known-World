@@ -30,7 +30,6 @@
 		- **Lower Holyl'nders**
 		- **Servent of a Patron**
 			- [[Marcus]]
-		- **Untitled**
 	- **Mild Power**
 		- **[[Combine Rulers]]**
 		- **Guild Representitives**

@@ -6,7 +6,7 @@ aliases:
 ## Bandit Lord
 ### he/him
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> Imagine a skeleton in a coffin buried with a sword and a sack of gold. That's Edward.
 
 Once a member of the [[Bandit Lords]] holding territory in the northeast of Central Alaturmen, now deceased.
 
