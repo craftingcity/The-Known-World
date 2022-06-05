@@ -31,6 +31,7 @@
 					- [[Barthalmule's Thieves]]
 					- [[Cobalt's Thieves]]
 					- [[Golden Claws]]
+					- [[Tetramocal Congregation]]
 				- **Local Lore**
 					- [[Tetrimoc's Journal]]
 					- [[Tetrimoc's Tournament of Glory]]

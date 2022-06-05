@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2b46b3778ddbac",
+        "id": "35f78e30819333dd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Grumbling Hills.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Grumbling Hills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Grumbling Hills.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -112,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "cc2b46b3778ddbac",
+  "active": "35f78e30819333dd",
   "lastOpenFiles": [
+    "Grumbling Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Stone of Desmoniur.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/Lands of Tetrimoc/Factions/Tetramocal Congregation.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Elven Specifics.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Ex-Bandit Lords/Edward Bodaim.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Arthur's Journal.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "A Grand Notepad.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }

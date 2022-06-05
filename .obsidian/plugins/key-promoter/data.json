@@ -12,7 +12,7 @@
     "editor:attach-file": 1,
     "app:delete-file": 47,
     "editor:delete-paragraph": 47,
-    "graph:open": 10,
+    "graph:open": 11,
     "workspace:undo-close-pane": 25,
     "workspace:close": 25,
     "workspace:close-others": 25,
@@ -55,21 +55,23 @@
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": 1,
     "graph-analysis:open-Clustering Coefficient": 1,
     "workspace:export-pdf": 1,
-    "find-unlinked-files:delete-unlinked-files": 9
+    "find-unlinked-files:delete-unlinked-files": 9,
+    "graph:open-local": 1,
+    "graph:animate": 1
   },
   "keyboardStatistics": {
-    "insert-template": 99,
+    "insert-template": 101,
     "switcher:open": 151,
     "editor:open-search": 3,
     "global-search:open": 7,
-    "workspace:close": 194,
-    "app:go-back": 65,
+    "workspace:close": 195,
+    "app:go-back": 66,
     "file-explorer:new-file": 15,
     "file-explorer:new-file-in-new-pane": 4,
     "command-palette:open": 1,
     "editor:save-file": 3,
     "app:go-forward": 11,
     "workspace:export-pdf": 1,
-    "graph:open": 25
+    "graph:open": 27
   }
 }
