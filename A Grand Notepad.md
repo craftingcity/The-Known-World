@@ -17,7 +17,7 @@ What if [[Kakurak]] died and turned into a lich's pet?
 Blood of [[Travis]]; "Blood of a brother..."
 Body of [[Bardaux]]; "Body of a betrayer..."
 
-[[The Pantheon#Sama]] takes Amashod if she goes down in a fight around here.
+[[Grand Pantheon#Sama]] takes Amashod if she goes down in a fight around here.
 
 The [[Ungaethram Drow Houses|Nobles]] of [[Ungaethram]] excommunicated House [[The Whitimores|Whitimore]] not only for their belief in the false god, they were also removed for working with the Fire Giant Snure.
 
@@ -25,16 +25,6 @@ Shrine to the missing of the [[Wildlands]]
 
 Temples and Shrines to the Gods
 
-In the second century, contention begins to arise as the [[Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
+In the second century, contention begins to arise as the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories#Clans|Blood Clans]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
-A man walks into a shop, buys a potion. Weeks later, comes back to the shop, says it saved their life. Tells the merchant he will craft her anything she wished for in their ability to create. The merchant thought, and then said she wished for something to help make books. The artificer said it would take them only a week, to the merchant's surprise, and in a week's time, they had the first printing press. And a gnome, but that is another tale.
-
-# NEXT SESSION
-
-[[Gudeliva]] is sick, they need to rest in [[Ootool]]. Krenzo pops off the plan before they all enter the city (if it goes off without a hitch, he can use the urban center as getaway). Run [[Prenotes Mar 27 22#Kayus]] after [[Ootool]].
-
-I want a few scenes with Krezo, Wyruq, and Blug Fpurgz before the crew reaches [[Ootool]].
-
-[[Ootool]] should feel alien, desolate yet alive, isolated yet bursting. Interaction with traditional NPCs should be kept to those who have entered with the party - all in-city folk are to be fungal, non-humanoid, or otherwise outcast, except for the Whitimore Drow posted on watch equipped with a suicide tooth if caught and the groups described in the homepage for the holding. 
-
-
+Bag-head bandits.

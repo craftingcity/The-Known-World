@@ -4,16 +4,36 @@
     {
       "path": "/",
       "initialized": true
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "initialized": true
+    },
+    {
+      "path": "Game Notes",
+      "initialized": true
     }
   ],
   "trackedProjects": [
-    "/"
+    "/",
+    "Notes on the Multiverse",
+    "Game Notes"
   ],
   "checkpointList": [
     {
       "path": "/",
-      "date": "2022-06-03",
-      "size": 386423
+      "date": "2022-06-04",
+      "size": 414354
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "date": "2022-06-04",
+      "size": 259249
+    },
+    {
+      "path": "Game Notes",
+      "date": "2022-06-04",
+      "size": 106018
     }
   ],
   "activityHistory": [
@@ -246,23 +266,77 @@
         },
         {
           "date": "2022-05-30",
-          "value": 864
+          "value": 5990
         },
         {
           "date": "2022-05-31",
-          "value": 24625
+          "value": 44730
         },
         {
           "date": "2022-06-01",
-          "value": 7161
+          "value": 15416
         },
         {
           "date": "2022-06-02",
-          "value": 1466
+          "value": 15277
         },
         {
           "date": "2022-06-03",
-          "value": 119
+          "value": 20990
+        },
+        {
+          "date": "2022-06-04",
+          "value": 2431
+        }
+      ]
+    },
+    {
+      "path": "Notes on the Multiverse",
+      "size": [
+        {
+          "date": "2022-05-31",
+          "value": 0
+        },
+        {
+          "date": "2022-06-01",
+          "value": 7053
+        },
+        {
+          "date": "2022-06-02",
+          "value": 6615
+        },
+        {
+          "date": "2022-06-03",
+          "value": 4586
+        },
+        {
+          "date": "2022-06-04",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "path": "Game Notes",
+      "size": [
+        {
+          "date": "2022-05-31",
+          "value": 0
+        },
+        {
+          "date": "2022-06-01",
+          "value": 7690
+        },
+        {
+          "date": "2022-06-02",
+          "value": 2840
+        },
+        {
+          "date": "2022-06-03",
+          "value": 1474
+        },
+        {
+          "date": "2022-06-04",
+          "value": 47
         }
       ]
     }

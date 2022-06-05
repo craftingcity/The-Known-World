@@ -18,8 +18,11 @@
 			- [[Satyr Specifics]]
 		- **Nations**
 			- **Holyl'nds**
+				- **Factions**
+					- [[Macht's Orcs]]
 				- **Local Lore**
 					- [[Great Fires]]
+					- [[Marked By the Fire]]
 					- [[The Assault of the Giant Decenters]]
 					- [[The Old]]
 				- [[The Church of the White Flame]]
@@ -40,6 +43,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -47,13 +51,7 @@
 			- [[Dwarven Kingdom Actstow]]
 			- [[Mountain Hall]]
 		- **Player Characters**
-			- **Tales of Kakurak's Chosen**
-				- [[Amashod]]
-				- [[Bardaux]]
-				- [[Grod]]
-				- [[Kursk]]
-				- [[Varis and Amashod's Story]]
-				- [[Varis]]
+			- **[[Tales of Kakurak's Chosen]]**
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Natural Features**
@@ -73,6 +71,7 @@
 			- [[Yerba]]
 		- **Northwestern Central**
 			- [[Baskin]]
+			- [[Firelight Sea]]
 			- [[Kakurak's Lair]]
 			- [[Kohnstamm]]
 			- [[The Holy City of Kanielkiln]]
@@ -83,6 +82,7 @@
 				- [[Asilar's Bounty]]
 			- **Grumble Hills**
 				- [[Aeberu]]
+				- [[Darnt Hillkeep]]
 			- **Huntyr Swamp**
 				- [[Neverwallow]]
 				- [[Red Throne]]
@@ -95,10 +95,13 @@
 			- [[The Golden City]]
 	- **Rough Lore**
 		- [[Durandurm Weaponry]]
+		- [[How the Weave becomes Magic]]
 		- **Language**
+			- [[Celestial]]
 			- [[Desertspeech]]
 			- [[Draconic]]
 			- [[High Common]]
+			- [[Infernal]]
 			- [[King's Common]]
 			- [[Swampish]]
 		- [[Prime Timeline]]

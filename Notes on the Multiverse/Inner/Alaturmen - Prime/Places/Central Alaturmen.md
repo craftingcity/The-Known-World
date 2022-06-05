@@ -1,10 +1,10 @@
 ---
-tags: stub
+tags: disambiguation
 aliases:
 ---
 
-*This page is a #stub . You can help by expanding it!*
+*This page describes a #disambiguation.*
 
-![[alaturmen-100AF.png]]
+Central Alaturmen references *extremely generally* the people and places in the "four corners" of the nations surrounding [[Coalition City]].
 
-Central Alaturmen is the central region of Alaturmen formed in [[Prime Timeline#The Age of Beginning|the Age of Beginning]]. It reaches from the [[Great Northern Forests]] to the mouth of the [[Alavini River]] and from the western end of [[Deakred Range]] to the eastern edges of the [[Great Northern Forests]], [[Eastlick Mossland]], and [[Wetfoot Greenland]].
+The most Northern, Southern, Eastern, and Western points in "central" Alaturmen mark the beginning of the [[Wildlands]] in their current form. 
