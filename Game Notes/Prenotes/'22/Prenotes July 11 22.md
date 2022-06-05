@@ -25,5 +25,5 @@ It will take the party four days to travel from [[Magius]] to [[Yerba]], which i
 
 These calculations are for on foot, after a night of travel from Magius. Taking Horses for our party (that they could purchase for probably about 100sp per with some fine haggling) would double their speed, and make the theoretical two week deadline more reasonable.
 
-In the hills far to the north of the [[Darnt Hillkeep]], by the road's bend, [[Barret Bodaim]] and his Bandits have made their home-camp. When Barret gets the report that there are some shmucks walking about with little-to-no protection, he'll approve their shakedown, or further harassment if necessary.
+In the hills far to the north of the [[Darnt Hillkeep]], by the road's bend, [[Barret Bodaim]] and his Bandits have made their home-camp. When Barret gets the report that there are some shmucks walking about with little-to-no protection and or high-value goods, he'll approve their shakedown, or further harassment if necessary.
 
