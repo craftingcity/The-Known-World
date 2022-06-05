@@ -23,7 +23,7 @@ Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great A
 
 
 ## Interesting things about Prosper
-- Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories#Clans|Blood Clan]].
+- Some [[Nobles of Prosper]] are goblins, lending credit to the Kingdom's claim to be a legal [[Blood CLan]]
 - Our King, [[Arthur Simonson|Artie]], is ageless, but not disillusioned. He protects his common citizen as well as he can.
 - The standing army that the King employs treats their peers well, and most of their members come from the common families of Prosper.
 
@@ -31,11 +31,11 @@ Prosper is both a traditional monarchy - headed by [[Arthur Simonson|The Great A
 ## Characters from Prosper
 As you develop a character from the Kingdom of Prosper, consider the following properties:
 
-**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]] for example. Does your character know the truth about their family? How does your family's reputation affect your character?
+**Family Heritage.** In the kingdom, everyone comes from somewhere. Many families are not noble, and work the farms and crafting halls, but those who are landed in this society have an "a" sound before their family name; the [[Noble House a'Nyrk]] for example. Does your character know the truth about their family? How does your family's reputation affect your character, especially when/if they do know the truth?
 
-**Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities or open air? 
+**Farm or Forest?.**  Did you grow up in the many farms of the southeast or in the "frontier" forests at the edge of the Kingdom's influence? Are you more comfortable in cities or open air?
 
-**Strong People.** Most of the people who live in Prosper have some martial training and physical strength. A strong people is a kind people, after all. How does your character compare to their peers? How does your character maintain their strength?
+**Strong People.** Most of the people who live in Prosper have some martial training and physical strength. A strong people is a kind people, after all. How does your character compare themselves to their peers? How does your character maintain their strength, inner and outer?
 
 ## Cities and Sites
 ### [[Castle Prosper|Prosper Proper]]
@@ -190,6 +190,26 @@ As you develop a character from AAA, consider the following properties:
 **Hallmarks:** a, a, a, a
 
 desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+
+## Cities and Sites
+
+# Circle of the Idols
+**Capital:** Unknown
+**Hallmarks:** Magic, Wine, Fertility
+
+The Circle of Idols describes the greater culture and the collective of the areas individual Druid Circles maintained.
 
 ## Interesting things about AAA
 - a

@@ -16,6 +16,11 @@ content:
 
 As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others here.
 
+date: 003AF
+title: Druids invoke Weave Arcane
+content:
+The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, this circle of druids enscribed the first scrolls. From them, the came to understand workings of the Idol's domains, as well as their peer's. 
+
 date: 013AF
 title: [[Arthur Simonson]] raises his sword
 content:
