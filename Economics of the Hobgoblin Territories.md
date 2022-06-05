@@ -26,10 +26,12 @@ Wheat does not grow wild here, although Barley does. Acorns and Heartnut are rea
 Apple, Pear, and Berries grow in abundance in the dense forests of the area. Sweet and Hard drinks made from these fruits are the preferred drinks of the area, although Beer is produced as well.
 
 #### Vegetable
-Lettuces, Cabbage, Beets, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
+Lettuces, Cabbage, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
 
 #### Spice and Oil
 Mint and Parsley grow well in the shade, as well as the common roots such as Garlic and Onion.
+
+Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juice.
 
 Nut oils are made, but considered poor replacements for goat's butter. Rarely, good Oils from the City in Gold make their way into the territories and are highly valued.
 
