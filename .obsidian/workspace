@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "bc2386c143bafd87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
+                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
+                "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +128,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "210632752b64ebec",
+  "active": "bc2386c143bafd87",
   "lastOpenFiles": [
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
     "MEDIA/SUPP/AlchemistsLab.pdf",
     "Notes on Alchemists Lab.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "MEDIA/GrainIntoGold.pdf",
-    "Prenotes.md",
-    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md"
+    "Prenotes.md"
   ]
 }
