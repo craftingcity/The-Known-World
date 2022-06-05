@@ -39,10 +39,10 @@ Nut oils are made, but considered poor replacements for goat's butter. Rarely, g
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
 
 ### Vices
-What do people do for *fun*?
+The Clans of the Territories gather for Festivals and Gladiatorial Combat often. The hard drinks of fruit are prized in this area, beer less, but acceptably so.  
 
 ### Land
-Think about how people get their land, from who, and what features would there be?
+The Clans of the Territories fight eachother for their land. If they can take land by force, a clan would attempt to do so. Most folks live in mobile 
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
