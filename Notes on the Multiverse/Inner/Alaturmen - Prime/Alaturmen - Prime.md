@@ -43,7 +43,7 @@
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
 				- **Holdings**
-				- [[Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories]]
+				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
@@ -54,6 +54,8 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- [[Durandurm Weaponry]]
+		- [[Economics of Prosper]]
+		- [[Economics of the Hobgoblin Territories]]
 		- [[How the Weave becomes Magic]]
 		- **Language**
 			- [[Celestial]]
