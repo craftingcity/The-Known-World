@@ -6,7 +6,7 @@ aliases:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
-Once a member of the [[Bandit Lords]] holding territory in the [[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Clan Leaders/Northeastern Hobgoblin Territories]] now deceased.
+Once a member of the [[Bandit Lords]] holding territory in the northeast of Central Alaturmen, now deceased.
 
 ## History
 Held the holding of [[Castle Prosper]] during the time of the [[Bandit Lords]], slain by [[Arthur Simonson]].
