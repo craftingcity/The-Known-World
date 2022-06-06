@@ -17,4 +17,4 @@ When the Young Arthur Simonson came to them and offered them ward of the land if
 For [[Wilson LeQuinn]]'s service to the King during the wars against the [[Bandit Lords]], the House a'LeQuinn was bestowed ward of the land during [[Unification]] and has managed the area well. Because of their position in relation to both [[Castle Prosper]] and [[Coalition City]], they manage one of the wealthiest areas of Alaturmen. 
 
 ### Symbolism
-The house a'LeQuinn symbol is a Bull's head over a large forest.
+The house a'LeQuinn symbol is a bull's head over a forest.

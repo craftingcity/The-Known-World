@@ -3,7 +3,7 @@ tags: npc, leader, prosper, needs_work
 aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
 # Arthur "Artie" Simonson
-## The Great Adventurer King (and so on)
+## The Great Liberator, the Adventurer King, (and so on)
 ### he/him
 
 > A tall well kept half-hobgoblin-human man with dark curly hair. He wears a set of leather armor underneath a large blue royal coat. Atop his head sits a platinum circlet spiked with gold.
@@ -28,22 +28,20 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "[[Novum 
 
 ## Titles
 {wip; one for each major holding in Prosper, a few for events in his past as an adventurer}
-- Firstborn of [[Amelia Simonson]]
-- Slayer of Garanbik
-- Grand Poohba of the [[Simonson Clan]]
-- Favorite Son of [[Yerba]]
-- Grand Sower of [[Moonlight]]
-- [[Janesland]]
-- [[Gambleum]]
-- [[Magius]]
-- [[Ethera]]
-- [[Theurgi]]
-- [[Benders]]
-- [[Diables]]
-- [[Vitalities]]
-- Candle Keeper of [[Ardor]]
-- [[Glamora]]
-- [[Esoteriques]]
-- [[Aurgurs]]
 - The Great Liberator
 - Adventurer King of Prosper
+- Firstborn of [[Amelia Simonson]]
+- Slayer of the horror Garanbik
+- Grand Poohba of the [[Simonson Clan]]
+	- Favorite Son of [[Yerba]]
+		- Grand Sower of [[Moonlight]]
+	- Balancier in [[Janesland]]
+		- Honor in Stone ([[Benders]])
+	- [[Diables]]
+		- [[Vitalities]]
+	- [[Gambleum]]
+		- Candle Keeper of [[Ardor]]
+		- [[Glamora]]
+		- [[Esoteriques]]
+	- [[Magius]]
+		- [[Aurgurs]]
