@@ -16,7 +16,7 @@ They rule this massive complex, and even stronger monsters respect them as the t
 
 ## Hooks
 ### Druids of Terra
-For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed, and many of their 
+For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed, and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess.
 ### Missing People
 ### God damn Raiders!
 ### Arcane Hotspot
