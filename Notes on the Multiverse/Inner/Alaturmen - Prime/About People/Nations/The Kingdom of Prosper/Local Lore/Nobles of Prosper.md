@@ -9,14 +9,17 @@ Each house has a job in the kingdom, a holding they control, and a seal or crest
 # The Houses
 
 ## [[Noble House a'Fen]]
-It is the task of the a'Fen House to maintain the roadways of the kingdom. They hold [[Janesland]] and its surroundings.
+It is the task of the a'Fen House to maintain the roadways of the kingdom. They hold [[Janesland]] and its surroundings. Their crest is...
 
 ## [[Noble House a'Nyrk]]
+It is the task of the a'Nyrk House to ... They hold [[Diables]] and its surroundings. Their crest is ...
 
 ## [[Noble House a'Valim]]
+It is the task of the a'Valim House to ... They hold ... and its surroundings. Their crest is ...
 
 ## [[Noble House a'Haruuc]]
+It is the task of the a'Haruuc House to ... They hold ... and its surroundings. Their crest is ...
 
 ## [[Noble House a'LeQuinn]]
-It is the task of the LeQuinn House to manage the cattle of the kingdom. They hold [[Yerba]] and its surroundings. Their crest is a bull's head over a forest.
+It is the task of the a'LeQuinn House to manage the cattle of the kingdom. They hold [[Yerba]] and its surroundings. Their crest is a bull's head over a forest.
 

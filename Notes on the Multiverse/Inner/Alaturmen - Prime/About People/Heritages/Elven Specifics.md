@@ -36,7 +36,7 @@ Autumn elves, also known as the High Elves, first came to the southeast of [[Cen
 The traditional culture of the Autumn elves requires respect to be given to those who have spent their time mastering their skills.
 
 #### Winter Elves
-The Winter elves, also known as the Drow, first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They quickly exterminated goblinoids that lived there over the course of their first year. They formed the beginnings of a powerful nation; [[The Old|Minyostalma]], but before the seeds of this nation could flower, they were [[50 Year White Burning|burned]]. After the [[50 Year White Burning]], the surviving remnants of Minyostalma formed [[Cenva Minyo]], plotting against the White Flame in the southern [[Grumbling Hills]].
+The Winter elves, also known as the Drow, first came to the northwest of [[Central Alaturmen]], the area of the [[Great Northern Forests]] now known as [[The Holyl'nds]]]. They quickly exterminated goblinoids that lived there over the course of their first year. They formed the beginnings of a powerful nation; [[The Old|Minyostalma]], but before the seeds of this nation could flower, they were burned. After the [[Great Fires]], the surviving remnants of Minyostalma formed [[Cenva Minyo]], plotting against the White Flame in the southern [[Grumbling Hills]].
 
 The culture of traditional Winter Elves promotes cultural isolation, arrogance, and self-sufficiency. 
 
