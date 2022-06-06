@@ -12,17 +12,6 @@
         }
       },
       {
-        "id": "2b81c3751211962f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diables.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "6d2aedbc44fd5dcd",
         "type": "split",
         "children": [
