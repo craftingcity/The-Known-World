@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+            "file": "Nala Co..md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "orcus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+                "file": "Nala Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+                "file": "Nala Co..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +120,15 @@
   },
   "active": "ba0fa9bb7257cbd4",
   "lastOpenFiles": [
+    "Nala Co..md",
+    "Game Notes/NPCs/on Alaturmen/High Power/World Villans/World Villans.md",
+    "Game Notes/Fronts/Varis Co..md",
     "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "Griss'eltel Bodaim.md",
     "Barret Bodaim.md",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Edward Bodaim.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Asilar 'Goldhand' Guir.md",
-    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Ex-Bandit Lords.md",
-    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Historical Figures/Historical Figures.md"
+    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Asilar 'Goldhand' Guir.md"
   ]
 }
