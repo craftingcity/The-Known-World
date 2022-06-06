@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for Jully 11th
+# Prenotes for June 11th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -41,3 +41,8 @@ A group of traveling hobgoblin merchants are moving between Yerba and Magius in 
 > You lay in a dark cold place. Some moments pass, before light pierces this darkness. A crack at first, and then with a loud bang and kick of dust, the light pours in. A deep hum wafts into your place of rest. Obscured by this blinding light behind them, a figure stands over you, says, "Let's have a chat, old friend", and grabs your head from your body by your eyes (like a bowling ball).
 	> for [[Ulfgar]]
 
+When the party awake the next day, they find a small glowing purple rabbit. She speaks as [[The Grand Archmage Alergra Barrowinch]] and chastises the party for their immediate lack of discretion. 
+
+"Please, when a job is under the table like this, some things are infered. Is your reward not suitable for such a task? I am willing to rectify our contract if necessary, in both of our favors."
+
+She also mentions that the Guards of Magius have mildly accurate descriptions and have put minor bounties (175sp) on all but [[Nala]] who has a much steeper bounty on her head (3000sp). To her all this means is that another dropoff point will need to be arranged.

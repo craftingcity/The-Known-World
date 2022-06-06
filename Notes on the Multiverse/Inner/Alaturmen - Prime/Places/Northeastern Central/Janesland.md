@@ -4,10 +4,10 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+Prosperity: Moderate
+Population: Growing
+Defenses: Garrison
+Other Tags: 
 
 # Description
 Any sort of local lore...

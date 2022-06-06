@@ -10,7 +10,7 @@ This is a document that describes the formal peaceful relationship between the e
 - no attackies
 - trade deals okay, tarrifs negotiate, but be nice
 - help eachother when things go bad
-	- like a [[50 Year White Burning|fire]]
+	- like another [[Great Fires]]
 	- or an [[Invasion of Orcus|invasion]]
 	- or an [[The Assault of the Giant Decenters|invasion]]
 

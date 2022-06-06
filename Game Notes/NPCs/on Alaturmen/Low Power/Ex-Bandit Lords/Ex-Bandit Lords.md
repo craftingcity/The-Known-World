@@ -2,7 +2,9 @@
 %% Begin Waypoint %%
 - **[[Ex-Bandit Lords]]**
 	- [[Asilar 'Goldhand' Guir]]
+	- [[Barret Bodaim]]
 	- [[Edward Bodaim]]
+	- [[Griss'eltel Bodaim]]
 
 %% End Waypoint %%
 

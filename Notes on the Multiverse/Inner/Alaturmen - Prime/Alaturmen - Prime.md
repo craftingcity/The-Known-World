@@ -72,6 +72,7 @@
 			- **Guild Texts**
 				- [[Coalition's Founding Document]]
 				- [[Emergency Communicae c. 103AF]]
+				- [[Laws of Adventuring]]
 				- [[On Peoples Involved with Arthur Simonson]]
 				- [[On The Text of Tetrimoc; Guild Position]]
 				- [[Politics of Coalition c. 078AF - 092AF]]
@@ -94,7 +95,9 @@
 			- [[Stone of Desmoniur]]
 			- [[Three Nation Highways]]
 		- **Northeastern Central**
+			- [[Benders]]
 			- [[Castle Prosper]]
+			- [[Diables]]
 			- [[Gambleum]]
 			- [[Janesland]]
 			- [[Magius]]
@@ -114,6 +117,7 @@
 			- **Grumble Hills**
 				- [[Aeberu]]
 				- [[Darnt Hillkeep]]
+			- [[Grumbling Hills]]
 			- **Huntyr Swamp**
 				- [[Neverwallow]]
 				- [[Red Throne]]

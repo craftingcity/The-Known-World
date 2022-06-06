@@ -25,7 +25,6 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
-		- [[Barret Bodaim]]
 		- **Combine Citizens**
 		- **[[Ex-Bandit Lords]]**
 		- **Lower Holyl'nders**
