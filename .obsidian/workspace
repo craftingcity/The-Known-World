@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Places of Alaturmen.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bc2386c143bafd87",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+            "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Places of Alaturmen.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Places of Alaturmen.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +119,15 @@
   },
   "active": "210632752b64ebec",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Places of Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Druids of Animan.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Kingdom of Prosper.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/The Grand Archmage Alergra Barrowinch.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md"
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Wizards.md",
+    "MEDIA/SUPP/AlchemistsLab.pdf",
+    "Notes on Alchemists Lab.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+    "MEDIA/MAPS/alaturmen-100AF.png",
+    "MEDIA/GrainIntoGold.pdf",
+    "Prenotes.md",
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md"
   ]
 }
