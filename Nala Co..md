@@ -30,7 +30,7 @@ Optional; Ask a question or two about something that you dont know, ideally dire
 Copy and Paste the movelist here for some flavor on how the danger will act.
 
 #### The Warbands of [[Scrivin Clan]]
-**NAME** is... *danger type*... (*impulse:XXXXX*). Feel free to add notes before, after, or during the encoded parts of this paragraph.
+**The Warbands of Scrivin Clan** are a *horde of wandering barbarians* (*impulse:to grow strong and divide their enemies before them*) sent to Prosper to probe the outer edges for weakness. Feel free to add notes before, after, or during the encoded parts of this paragraph.
 
 **The Prophecy**
 The signs that the danger is becoming closer and closer to its impending doom.
@@ -74,3 +74,10 @@ Optional; Ask a question or two about something that you dont know, ideally dire
 **Movelist**
 Copy and Paste the movelist here for some flavor on how the danger will act.
 
+-   Learn forbidden knowledge
+-   Cast a spell over time and space
+-   Attack a foe with magic, directly or otherwise
+-   Spy on someone with a scrying spell
+-   Recruit a follower or toady
+-   Tempt someone with promises
+-   Demand a sacrifice

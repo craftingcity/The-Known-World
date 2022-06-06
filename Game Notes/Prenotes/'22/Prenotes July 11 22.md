@@ -27,3 +27,8 @@ These calculations are for on foot, after a night of travel from Magius. Taking 
 
 In the hills far to the north of the [[Darnt Hillkeep]], by the road's bend, [[Barret Bodaim]] and his Bandits have made their home-camp. When Barret gets the report that there are some shmucks walking about with little-to-no protection and or high-value goods, he'll approve their shakedown, or further harassment if necessary.
 
+> An image of a goblin bleeding out and being picked to death by a vulture. A moment or so passes and the goblin slowly dies. Another moment. A low hum permeates the air, and the dead goblin opens its eyes.
+	> for [[Nala]]
+
+> 
+	> for [[Jarren]]
