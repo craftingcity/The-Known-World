@@ -25,9 +25,7 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
-		- **Combine Citizens**
 		- **[[Ex-Bandit Lords]]**
-		- **Lower Holyl'nders**
 		- **Servent of a Patron**
 			- [[Marcus]]
 	- **Mild Power**
