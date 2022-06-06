@@ -11,6 +11,7 @@
 		- [[Zer Muwwoq-Geub]]
 	- **Fronts**
 		- [[Hobgoblin Wars]]
+		- [[Nala Co.]]
 		- [[Rangers Gone Rouge]]
 		- [[The War on Tetrimoc]]
 		- [[Varis Co.]]
@@ -18,7 +19,7 @@
 		- [[Custom Feats]]
 		- **Homebrew Spells**
 			- [[Spells from Collective]]
-	- **[[Game Notes/NPCs/NPCs]]**
-	- **[[Game Notes/Prenotes/Prenotes]]**
+	- **[[NPCs]]**
+	- **[[Prenotes]]**
 
 %% End Waypoint %%

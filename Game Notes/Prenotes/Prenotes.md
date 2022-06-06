@@ -1,6 +1,6 @@
 # Prenotes Overview
 %% Begin Waypoint %%
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 	- **[['21]]**
 	- **[['22]]**
 

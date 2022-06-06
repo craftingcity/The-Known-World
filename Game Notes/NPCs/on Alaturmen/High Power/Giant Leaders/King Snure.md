@@ -22,7 +22,9 @@ He gathered two others – the Chief Whats-His-Name and the [[Jarl Grungar]]. To
 King Snures goals remain incomplete, as of writing, but he draws closer with each passing hour. Construction has been unable to be interrupted as of yet, and Snure's influence has held fast against the counter attack in [[Baskin]].
 
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+[[Baskin]] in his new throne.
+
+[[Plane of Fire]] in his old throne.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
