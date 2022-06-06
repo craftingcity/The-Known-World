@@ -27,8 +27,17 @@ These calculations are for on foot, after a night of travel from Magius. Taking 
 
 In the hills far to the north of the [[Darnt Hillkeep]], by the road's bend, [[Barret Bodaim]] and his Bandits have made their home-camp. When Barret gets the report that there are some shmucks walking about with little-to-no protection and or high-value goods, he'll approve their shakedown, or further harassment if necessary.
 
+A group of traveling hobgoblin merchants are moving between Yerba and Magius in the opposite direction of the party, though they would sell many delicacies of the Northeastern Territories.
+
+> A beautifully rank melody wafts through you mind, swimming high and low, before calming to a deep hum. And staying there. And looming there. And waiting there.
+	> for [[Breenabelle]]
+
+> You awake in the middle of the night. Camp is calm, but undefended. Pip is agitated, as a deep hum begins to fill the air. Pip belches a white flame. It stares into your soul. You feel judged. You feel accepted, like a hug from a guardian. The hum does not cease.
+	> for [[Jarren]]
+
 > An image of a goblin bleeding out and being picked to death by a vulture. A moment or so passes and the goblin slowly dies. Another moment. A low hum permeates the air, and the dead goblin opens its eyes.
 	> for [[Nala]]
 
-> 
-	> for [[Jarren]]
+> You lay in a dark cold place. Some moments pass, before light pierces this darkness. A crack at first, and then with a loud bang and kick of dust, the light pours in. A deep hum wafts into your place of rest. Obscured by this blinding light behind them, a figure stands over you, says, "Let's have a chat, old friend", and grabs your head from your body by your eyes (like a bowling ball).
+	> for [[Ulfgar]]
+

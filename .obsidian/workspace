@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -121,6 +122,7 @@
   "active": "ba0fa9bb7257cbd4",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+    "Game Notes/Prenotes/'22/Prenotes July 04 22.md",
     "Nala Co..md",
     "Game Notes/NPCs/on Alaturmen/High Power/World Villans/World Villans.md",
     "Game Notes/Fronts/Varis Co..md",
@@ -128,7 +130,6 @@
     "Griss'eltel Bodaim.md",
     "Barret Bodaim.md",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Edward Bodaim.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Asilar 'Goldhand' Guir.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md"
   ]
 }
