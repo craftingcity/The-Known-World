@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "14d61b3bdd7380b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "50 year white",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,6 +131,7 @@
   "active": "1383fbc255a28748",
   "lastOpenFiles": [
     "Prenotes 06 09 22.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
     "ORGANIZATION/TEMPLATES/Prenotes.md",
     "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
@@ -128,7 +139,6 @@
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Janesland.md",
     "Benders.md",
     "Diables.md",
-    "ORGANIZATION/Holding Rules.md",
-    "ORGANIZATION/TEMPLATES/Holdings.md"
+    "ORGANIZATION/Holding Rules.md"
   ]
 }
