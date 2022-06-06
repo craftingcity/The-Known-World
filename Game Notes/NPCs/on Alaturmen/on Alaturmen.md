@@ -18,7 +18,7 @@
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
 		- **[[Kingdom of Prosper]]**
-		- **[[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories]]**
+		- **[[Northeastern Clan Leaders]]**
 		- **[[World Villans]]**
 	- **Higher Power**
 		- [[Grand Pantheon]]
@@ -26,10 +26,10 @@
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
 		- **Combine Citizens**
+		- **[[Ex-Bandit Lords]]**
 		- **Lower Holyl'nders**
 		- **Servent of a Patron**
 			- [[Marcus]]
-		- **Untitled**
 	- **Mild Power**
 		- **[[Combine Rulers]]**
 		- **Guild Representitives**

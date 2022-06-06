@@ -1,4 +1,5 @@
 # Gen
+The Ranger's Guild is responsible for keeping the citizenry of all Alaturmen (not just members of nations agreed to Coalition) safe from the dangers of the Wildland and the places beyond.
 
 ### Sërvëshod
 ***Future content***

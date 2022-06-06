@@ -26,10 +26,12 @@ Wheat does not grow wild here, although Barley does. Acorns and Heartnut are rea
 Apple, Pear, and Berries grow in abundance in the dense forests of the area. Sweet and Hard drinks made from these fruits are the preferred drinks of the area, although Beer is produced as well.
 
 #### Vegetable
-Lettuces, Cabbage, Beets, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
+Lettuces, Cabbage, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
 
 #### Spice and Oil
 Mint and Parsley grow well in the shade, as well as the common roots such as Garlic and Onion.
+
+Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juice.
 
 Nut oils are made, but considered poor replacements for goat's butter. Rarely, good Oils from the City in Gold make their way into the territories and are highly valued.
 
@@ -37,19 +39,21 @@ Nut oils are made, but considered poor replacements for goat's butter. Rarely, g
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
 
 ### Vices
-What do people do for *fun*?
+The Clans of the Territories gather for Festivals and Gladiatorial Combat when at peace. The hard drinks of fruit are prized in this area, beer less, but acceptably so. Some of the forage of the area is psychedelicly active, and highly prized for this effect.
 
 ### Land
-Think about how people get their land, from who, and what features would there be?
+The Clans of the Territories fight eachother for their land. If they can take land by force, a Mangugu would attempt to do so, for the prosperity of their clan. 
 
 ### Overhead
-What about taxes? Work animals? Buildings? Productions?
+Because there is no greater collective of the Clans, other than the [[Blood Hobgoblin Clan Pact]], taxes are always in the form of community service to the local Mangugu. Most folks live in these semi-nomadic clans, but well established clans often have more permanent structures if they believe that they can be defended. Production processes, if they can be permanent and defended, can be large, but otherwise, are generally small and personal.
 
 ### Cutting Corners
-How do people make ends meet? How do people value their luxuries?
+When times are very tough, the people of the Territories know that they are not above eating the meat of their own fallen. Neither Humanoid or Goblinoid is an *acceptable* meat, but when there is no other alternative for you, your Clan, your Clan's goats, the people you just felled for their farmland are still fresh meat. Generally, this is unnecessary, the forests provide.
+
+Butter is a necessity of life in the Territories, most people make it on their own, during travel. If survival is key, forgoing even the simplest spices of onion and mint would stretch a Clan's budget.
 
 ### Middlemen
-What does trade look like around here? What about guilds? Markets?
+Trade between peaced Clans are common enough to consider their economy together as we do, and most "merchants" work directly under their Mangugu to maintain certainty of inventory. Festival markets are quickly mobilized, in constant preparation for an assault. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?

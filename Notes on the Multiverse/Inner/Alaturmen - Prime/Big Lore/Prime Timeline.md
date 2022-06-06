@@ -89,6 +89,10 @@ date: 070AF
 title: 
 content:
 
+date: 075AF
+title:
+content:
+
 date: 078AF
 title: The Coalition and the Democratic Combine of Peoples are Formed
 content:
@@ -126,7 +130,10 @@ The grand adventurer dragon [[Kakurak]] uses his past and current resources to h
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 
-Soon after, the unnamed group returns to Alaturmen. 
+Soon after...
 
-After many years, this group would be known as [[The Patron Saints of Kakurak]].
+date: 105AF
+title: The beginning of a Tale
+content:
+Somewhere, a bard strums their lute.
 ```

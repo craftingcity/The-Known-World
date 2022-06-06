@@ -69,7 +69,7 @@ Most people use barter to trade for resources, as most people do not carry minte
 
 The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer. People of the realm keep an open mind for the most part. Most fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security.
 
-The people of the world have [[The Worldwide Calander Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
+The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
 
 The most common languages spoken - and therefore the common humanoid trade languages - are [[Desertspeech]], [[High Common]], [[King's Common]], and [[Swampish]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
 
