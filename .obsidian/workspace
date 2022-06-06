@@ -4,52 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1052ec943b1113",
+        "id": "1383fbc255a28748",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "91fc7a5c2fab7699",
-        "type": "split",
-        "children": [
-          {
-            "id": "2fa8aec6108b6455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Janesland.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "abad3bfd620d8669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c3a5c03ab794e076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORGANIZATION/Holding Rules.md",
-                "mode": "source"
-              }
-            }
+          "type": "markdown",
+          "state": {
+            "file": "Prenotes 06 09 22.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -107,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Janesland.md",
+                "file": "Prenotes 06 09 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Janesland.md",
+                "file": "Prenotes 06 09 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,17 +118,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2fa8aec6108b6455",
+  "active": "1383fbc255a28748",
   "lastOpenFiles": [
+    "Prenotes 06 09 22.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "Game Notes/Prenotes/'22/Prenotes July 11 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Gambleum.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Janesland.md",
     "Benders.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Diables.md",
     "ORGANIZATION/Holding Rules.md",
-    "ORGANIZATION/TEMPLATES/Holdings.md",
-    "Laws of Adventuring.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Wizards/Nicolas Talaveem.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Enoch Ben.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Texts/Guild Texts/Coalition's Founding Document.md"
+    "ORGANIZATION/TEMPLATES/Holdings.md"
   ]
 }
