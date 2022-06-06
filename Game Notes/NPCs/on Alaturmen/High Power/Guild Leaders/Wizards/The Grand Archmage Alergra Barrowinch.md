@@ -13,7 +13,7 @@ The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the M
 
 People who know her as the most powerful mage and arcanist they have ever met, including her peers, though they may not be speaking their truth to that rumor. In addition to this, they would describe her as hard working, and tough to work with.
 
-
+At the age of twenty, she was taught the Weave Arcane by the [[Druids of Animan]]. Only five years later was she inducted onto the Council of Wizards upon its conception.
 
 ## History
 Alergra is a genius. She does not plan well, but she was one of the few who has learned wizardry from very few examples.
