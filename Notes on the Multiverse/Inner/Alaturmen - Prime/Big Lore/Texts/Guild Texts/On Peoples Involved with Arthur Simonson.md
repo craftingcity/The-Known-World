@@ -14,8 +14,10 @@ This text is a list of all known associates to the King [[Arthur Simonson]] of [
 
 ## Adventuring / War Associates
 [[Big Buster]] - deceased, buried in [[Yerba]], no threat level
-[[Guraxlog]], the War Wizard - deceased, entombed in a Guild Containment Center, contained threat level Blue
+[[Guraxlog]], the War Wizard – deceased, entombed in a Guild Containment Center, contained threat level Blue
+[[Mateus Fyrren]] - deceased, buried in/under/as the [[Mateus Tree]] in [[Yerba]]
+
 
 ## Post-Kingship 
-[[Varis]] & [[Amashod]] - unknown, last seen entering [[Kailkeep]], [[Prime Timeline|025AF]], assumed deceased, see Adv. Guild files
-[[Fraznky Bradley]]
+[[Varis]] & [[Amashod]] - unknown, last seen entering [[Kailkeep]], assumed deceased, see Adv. Guild files
+[[Fraznky Bradley]] - speaker in Coalition

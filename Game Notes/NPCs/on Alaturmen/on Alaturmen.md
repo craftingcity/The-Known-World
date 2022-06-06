@@ -25,6 +25,7 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
+		- [[Barret Bodaim]]
 		- **[[Ex-Bandit Lords]]**
 		- **Servent of a Patron**
 			- [[Marcus]]
