@@ -31,6 +31,7 @@
 					- [[Barthalmule's Thieves]]
 					- [[Cobalt's Thieves]]
 					- [[Golden Claws]]
+					- [[Tetramocal Congregation]]
 				- **Local Lore**
 					- [[Tetrimoc's Journal]]
 					- [[Tetrimoc's Tournament of Glory]]
@@ -42,6 +43,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -53,6 +55,8 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- [[Durandurm Weaponry]]
+		- [[Economics of Prosper]]
+		- [[Economics of the Hobgoblin Territories]]
 		- [[How the Weave becomes Magic]]
 		- **Language**
 			- [[Celestial]]
@@ -74,6 +78,7 @@
 			- [[The Ballad of Grey Ordeal]]
 		- [[The Places of Alaturmen]]
 		- [[The Planes of Existence]]
+		- [[The Worldwide Calendar Systems]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]
