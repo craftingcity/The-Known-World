@@ -1,6 +1,6 @@
 # Northeastern Hobgoblin Territories
 %% Begin Waypoint %%
-- **[[Northeastern Hobgoblin Territories]]**
+- **[[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories]]**
 	- [[Amelia Simonson]]
 	- [[Trxyi Emorin]]
 

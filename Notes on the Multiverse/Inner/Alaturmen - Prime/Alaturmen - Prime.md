@@ -1,8 +1,7 @@
 # Alaturmen - Prime
 %% Begin Waypoint %%
 - **[[Alaturmen - Prime]]**
-	- [[Bible 2]]
-	- **People**
+	- **About People**
 		- **Heritages**
 			- [[Dragonborn Specifics]]
 			- [[Dwarven Specifics]]
@@ -52,6 +51,35 @@
 			- [[Mountain Hall]]
 		- **Player Characters**
 			- **[[Tales of Kakurak's Chosen]]**
+	- [[Bible 2]]
+	- **Big Lore**
+		- [[Durandurm Weaponry]]
+		- [[How the Weave becomes Magic]]
+		- **Language**
+			- [[Celestial]]
+			- [[Desertspeech]]
+			- [[Draconic]]
+			- [[High Common]]
+			- [[Infernal]]
+			- [[King's Common]]
+			- [[Swampish]]
+		- [[Prime Timeline]]
+		- **Texts**
+			- [[An Account of Our Fallen]]
+			- **Guild Texts**
+				- [[Coalition's Founding Document]]
+				- [[Emergency Communicae c. 103AF]]
+				- [[On Peoples Involved with Arthur Simonson]]
+				- [[On The Text of Tetrimoc; Guild Position]]
+				- [[Politics of Coalition c. 078AF - 092AF]]
+			- [[The Ballad of Grey Ordeal]]
+		- [[The Places of Alaturmen]]
+		- [[The Planes of Existence]]
+		- [[The Worldwide Calander Systems]]
+		- **World Wide Happenings**
+			- **Worldknown Groups**
+				- [[The Grey Ordeal]]
+				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Natural Features**
@@ -93,34 +121,6 @@
 			- [[Kailkeep]]
 			- [[Kickoff]]
 			- [[The Golden City]]
-	- **Rough Lore**
-		- [[Durandurm Weaponry]]
-		- [[How the Weave becomes Magic]]
-		- **Language**
-			- [[Celestial]]
-			- [[Desertspeech]]
-			- [[Draconic]]
-			- [[High Common]]
-			- [[Infernal]]
-			- [[King's Common]]
-			- [[Swampish]]
-		- [[Prime Timeline]]
-		- **Texts**
-			- [[An Account of Our Fallen]]
-			- **Guild Texts**
-				- [[Coalition's Founding Document]]
-				- [[Emergency Communicae c. 103AF]]
-				- [[On Peoples Involved with Arthur Simonson]]
-				- [[On The Text of Tetrimoc; Guild Position]]
-				- [[Politics of Coalition c. 078AF - 092AF]]
-			- [[The Ballad of Grey Ordeal]]
-		- [[The Places of Alaturmen]]
-		- [[The Planes of Existence]]
-		- [[The Worldwide Calander Systems]]
-		- **World Wide Happenings**
-			- **Worldknown Groups**
-				- [[The Grey Ordeal]]
-				- [[The Guilds]]
 	- **Tracking**
 		- [[Historical Markings]]
 		- [[Magic Item Authors]]

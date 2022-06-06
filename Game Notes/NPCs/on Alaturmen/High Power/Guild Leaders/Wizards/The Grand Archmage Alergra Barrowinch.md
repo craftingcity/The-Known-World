@@ -4,14 +4,21 @@ aliases:
 ---
 # Alegra Barrowinch
 ## The Grand Archmage of Magius and the Court of the Adventurer King
+## Purple Mage of the Guild of Wizards
 ### she/her
 
-> A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries with her her staff of power at all times.
+> A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.
 
-The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy.
+The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy. Seat on the Guild of Mages, titled the Purple Mage.
+
+People who know her as the most powerful mage and arcanist they have ever met, including her peers, though they may not be speaking their truth to that rumor. In addition to this, they would describe her as hard working, and tough to work with.
+
+
 
 ## History
 Alergra is a genius. She does not plan well, but she was one of the few who has learned wizardry from very few examples.
+
+Early in her life, she was shut into her home, her mother and father were very poor, and could not afford to send her to any school. As she grew in age and creativity, she found ways of avoiding her chores and opted to rather travel into the forest to explore for new hiding spots to read. 
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.

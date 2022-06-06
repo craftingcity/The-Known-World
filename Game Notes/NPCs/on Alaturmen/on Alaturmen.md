@@ -18,7 +18,7 @@
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
 		- **[[Kingdom of Prosper]]**
-		- **[[Northeastern Hobgoblin Territories]]**
+		- **[[Game Notes/NPCs/on Alaturmen/High Power/Northeastern Hobgoblin Territories/Northeastern Hobgoblin Territories]]**
 		- **[[World Villans]]**
 	- **Higher Power**
 		- [[Grand Pantheon]]

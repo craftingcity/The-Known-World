@@ -44,8 +44,9 @@ These are the gods of material. They are what we touch and breathe. Each of the 
 #### Aquan 
 - water
 
-#### Anima
+#### Animan
 - magic, weave
+- Animan was the Idol that bore arcane magic into the minds of the fresh noids of Alaturmen.
 
 ## Patrons of Need
 Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. They are the household gods.
