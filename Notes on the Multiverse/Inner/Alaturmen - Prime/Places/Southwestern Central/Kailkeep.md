@@ -33,7 +33,7 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
-3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them, 
+3. Tertiarily, the Kobolds want to appease their partner, Terra, and maintain their followers. The best way to do that is to make sure that they are housed, fed, entertained, and willing to die for their cause.
 
 ### Kailkeep's Secrets
 #### Proving Grounds
@@ -61,10 +61,22 @@ The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, e
 
 #### Inhabitants of Kailkeep
 ##### Goblin
+Most goblin living in Kailkeep came seeking treasure or purpose, and found instead their need to survive.
+
+Goblin of Alaturmen love a good fight, and what's better than a massive complex dedicated to fighting in competition for acceptance by a banished clan of mad kobold!? 
+
 ##### Gnoll 
+Gnoll of the Desert have taken residence in Kailkeep. Here they can satisfy their hunger and find safety from the persecution of others of the "civilized" world.
+
 ##### Ankheg
+A family of Ankheg have been hunbanded for food and defense, and will work together with those who can communicate with them and form a deal that it would honor.
+
 ##### Red Wurm
+A family of Red Wurm have been husbanded for food and defense, and these six-inch diameter, 3 foot long Wurms carry a powerful bite and a quick wriggle.
+
 ##### Luzikiemal Risen
+Luzikiemal, Corrupted is a draco-lich of a young brass dragon. He resides in the Upper levels of Kailkeep as an eternal favorite bet for the Kobold Viewers.
+
 #### Invaders
 ##### Lost Thieves of Honor
 A group of Honorable Thieves have found their way into the Hells of Kailkeep. They say they come from all over (ie, they are a mix from all three groups in the Desert), and they want nothing more than to get back to their families to make sure they are safe.
@@ -98,6 +110,11 @@ In some places of Kailkeep, there are windows of an incredibly thin, strong, and
 
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
+##### Dead ends and Past Messages
+Dead ends are marked with a large draconic rune that reads "HALT" and bare no consistent features beyond this.
+
+Many of these dead ends attract messages from previous visitors, although they can be found throughout the Kailkeep Hells, and any such messages become framed and dated by Terran moments after they are completed.
+
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
 Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder that holds the door in place in the wall.
 
@@ -105,10 +122,11 @@ The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any
 
 Some doors in Kailkeep are "ko-bolted", meaning they cannot (as enforced by Terra's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
 > ###### What the fuck is an Access Binding??
-> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, bc you dont need the dude who maintains the slime pits in the False Allure rooms, what if he goops the place up? No-one with an Access Binding is allowed to entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes, but they do maintenance work whenever an area is clear of entertainers, and will shut areas down using Terran's magic if maintenance is urgent.
+> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, bc you dont need the dude who maintains the slime pits in the False Allure rooms, what if he goops the place up? 
+> No-one with an Access Binding is allowed to entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes, but they do maintenance work whenever an area is clear of entertainers, and will shut areas down using Terran's magic if maintenance is urgent.
 
 ##### Illumination
-The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bioluminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
+The Kobolds who view the Hells as entertainment or contest have no need for light, except for in the larger rooms of the Hells, in which case the bioluminescent mushroom Glowbulb has been cultivated to provide low light. In most cases, the light the entertainers provide for themselves is sufficient.
 
 
 ## Greater Map
