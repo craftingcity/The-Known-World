@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for June 9th
+# Prenotes for June 7th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -26,6 +26,6 @@ With full bellies, an ally at your side, and the fate of the world you call home
 - the ice giants accepted our terms, backed out and are planning on standing their ground against any who would oppose them, including Snure
 - the nations of Coalition have agreed to return assault, are already too slow, the Giants are here and the Church is losing ground.
 
-[[King Snure]] is on Alaturmen, his Son is working on his War Machine. Many hill giants, fire giants, and few stone and ice giants have joined him from around the elemental planes to invade. Air and Storm giants who directly opposed this found themselves losing an unfair fight, and then bound and willed to become weapon for Snure and his Free Giants.
+[[King Snure]] is on Alaturmen in his Keep of Magma, and his Son is working on the War Machine in the workshops of his home. Many hill giants, fire giants, and few stone and ice giants have joined him from around the elemental planes to invade. Air and Storm giants who directly opposed this found themselves losing an unfair fight, and then bound and willed to become weapon for Snure and his Free Giants.
 
 ### What happened?

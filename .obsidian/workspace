@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +119,8 @@
   },
   "active": "25ba1ad0991d8a31",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -126,8 +128,6 @@
     "Notes on the Multiverse/Inner/Inner.md",
     "Game Notes/Game Notes.md",
     "Game Notes/NPCs/NPCs.md",
-    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Prenotes/'22/'22.md"
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md"
   ]
 }
