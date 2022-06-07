@@ -43,12 +43,14 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 #### Architecture
-Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. In its lowest floors, the first three, it is a carefully crafted dungeon of false allure - stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who used to . 
+Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. In its lowest floors, the first three, it is a carefully crafted dungeon of false allure - stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Heroe's favor before...
 
 The fourth level is a drastic change of theme. Where once there was red cobble and dusty crypt, there is translucently thin stone stronger than steel and flat black marble surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
 
+Those who enter Kailkeep's Hells *cannot* return from whence they came. The only exit is forward. Up.
+
 ##### Ceilings
-The ceilings of Kailkeep's "Hells" are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
+The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
 
 ##### Veiwings and Tunnels
 In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells.
@@ -58,6 +60,9 @@ Between the areas of viewing, there are tunnels sized for two small creatures to
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
 
 Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble.
+
+##### Illumination
+The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bioluminescence Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
 
 
 ## Greater Map
