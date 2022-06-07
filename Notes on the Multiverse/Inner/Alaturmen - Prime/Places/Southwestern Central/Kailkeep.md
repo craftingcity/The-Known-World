@@ -33,6 +33,12 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 ### The Kobold's Goals
 ### The Factions of Kailkeep
 #### Kobolds
+The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.
+
+Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep.
+
+The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
+
 #### Inhabitants of Kailkeep
 #### Invaders of Kailkeep's Secrets
 #### Proving Grounds
