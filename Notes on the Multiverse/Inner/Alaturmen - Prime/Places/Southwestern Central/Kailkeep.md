@@ -16,10 +16,32 @@ They rule this massive complex, and even stronger monsters respect them as the t
 
 ## Hooks
 ### Druids of Terra
-For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed, and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess.
+For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed, and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyways, but be prepared to ambush these assholes right after they find the goods.
+
 ### Missing People
+For as long as there has been a mountain, there have been people bored enough to want to climb it. When those people travel to Kailkeep, either for fun or profit, they do not return. The explorer's husband is distraught, as is the Cartagrophers' Guild, and so too are the dwarfs failing to set up a remote operation without their Quartermaster.
+
 ### God damn Raiders!
+The inhabitants of Kailkeep are sustained by hunting as well as gathering. When people are not coming to them, they must come to people. If the Kobolds have been having a rough year, they'll either send raids themselves or order one of the factions under their command to raid for them.
+
 ### Arcane Hotspot
+In my world, Alaturmen, magic is not common. The amount of magical items alone would ping someone's radar, let alone the powerful primordial force of Terra moving into a mountain. Any of the Metalic 
+
+If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot.
 
 ## Outline
+### The Kobold's Goals
+### The Factions of Kailkeep
+#### Kobolds
+#### Inhabitants of Kailkeep
+#### Invaders of Kailkeep
+### Kailkeep's Secrets
+#### Proving Grounds
+#### Vast Arcane Power
+#### Curse Factory
+#### Corrupted Dragon
+### Kailkeep's Features
+#### Terra's Mountain
+#### Architecture
 ## Greater Map
+### Level One:
