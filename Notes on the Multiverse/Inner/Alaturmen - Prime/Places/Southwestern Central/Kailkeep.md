@@ -22,4 +22,13 @@ For some time, the Druids of Terra were hidden, guarding the secrets of Arcane m
 ### Arcane Hotspot
 
 ## Outline
+### The Kobold's Goals
+### The Factions of Kailkeep
+#### Internal
+#### "External"
+### Kailkeep's Secrets
+### Kailkeep's Features
+#### Terra's Mountain
+#### Architecture
 ## Greater Map
+### Level One:
