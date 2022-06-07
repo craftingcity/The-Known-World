@@ -37,7 +37,10 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 
 ### Kailkeep's Secrets
 #### Proving Grounds
+While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not truly win.
+
 #### Vast Arcane Power
+For whatever reason, the Kobolds of Kailkeep have access to Terran's great powers and have used them to create structures of stone nearly at will. Terran also has enchanted the mountain, preventing shape changing
 #### Curse Factory
 #### Corrupted Dragon
 
@@ -51,9 +54,23 @@ The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, e
 
 #### Inhabitants of Kailkeep
 ##### Goblin
+##### Gnoll 
+##### Ankheg
+##### Red Wurm
 ##### Luzikiemal Risen
-#####
-#### Invaders 
+#### Invaders
+##### Lost Thieves of Honor
+A group of Honorable Thieves have found their way into the Hells of Kailkeep. They say they come from all over (ie, they are a mix from all three groups in the Desert), and they want nothing more than to get back to their families to make sure they are safe.
+
+##### Golden Claws
+A group of guardsfolk have found their way into the Hells of Kailkeep. They are extremely hostile to anyone who does not worship the same Deity as them (for my purposes, this is [[Tetrimoc]]), but would offer nearly anything to ones who bear its mark.
+
+##### Dwarven Warriors
+A group of dwarven warriors were tasked with the removal of Kobolds threatening their ([[Mountain Hall]]) supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
+
+##### Unwitting Participants
+Many of Kailkeep's "invaders" were people taken to the Hells during a slower time for the Kobold's entertainment. Some have banded together into small packs, doing what they must to survive together.
+
 ### Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
