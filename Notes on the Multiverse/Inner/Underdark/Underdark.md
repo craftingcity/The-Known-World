@@ -16,6 +16,7 @@
 		- [[House Thoulca]]
 		- [[The Whitimores]]
 		- [[Ungaethram Drow Houses]]
+	- [[Kalix]]
 	- **Locations & Holdings**
 		- [[Blurkfraggir]]
 		- [[Great Abadon Lake]]

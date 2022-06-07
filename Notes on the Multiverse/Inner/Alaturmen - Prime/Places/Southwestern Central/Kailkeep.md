@@ -33,13 +33,23 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
-3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. 
+3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them, 
 
 ### Kailkeep's Secrets
 #### Proving Grounds
+While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not truly win.
+
 #### Vast Arcane Power
+For whatever reason, the Kobolds of Kailkeep have access to Terran's great powers and have used them to create structures of stone nearly at will. Terran also has enchanted the mountain, preventing unwanted manipulation of the mountain stone.
+
 #### Curse Factory
+Of the many arcane secrets the Kobolds of Kailkeep have mastered, the art of creating cheap enchanted weaponry is one of them. The only cost is a curse! Some curses can be worked around, others cannot. Those that can are typically worn and reproduced for those that would this particular enchantment would benefit. Those that cannot are given as false boons to those inside the Hells, adding some Hope to their lives, and some spice to the Kobold's entertainment.
+
 #### Corrupted Dragon
+Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons Kakurak and Luzikiemal visited. There, Kakurak met his greatest ally. And there, Luzikiemal perished. 
+
+Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of Luzikiemal as a set piece in their entertainment.
+
 
 ### The Factions of Kailkeep
 #### Kobolds
@@ -51,9 +61,23 @@ The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, e
 
 #### Inhabitants of Kailkeep
 ##### Goblin
+##### Gnoll 
+##### Ankheg
+##### Red Wurm
 ##### Luzikiemal Risen
-#####
-#### Invaders 
+#### Invaders
+##### Lost Thieves of Honor
+A group of Honorable Thieves have found their way into the Hells of Kailkeep. They say they come from all over (ie, they are a mix from all three groups in the Desert), and they want nothing more than to get back to their families to make sure they are safe.
+
+##### Golden Claws
+A group of guardsfolk have found their way into the Hells of Kailkeep. They are extremely hostile to anyone who does not worship the same Deity as them (for my purposes, this is [[Tetrimoc]]), but would offer nearly anything to ones who bear its mark.
+
+##### Dwarven Warriors
+A group of dwarven warriors were tasked with the removal of Kobolds threatening their ([[Mountain Hall]]) supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
+
+##### Unwitting Participants
+Many of Kailkeep's "invaders" were people taken to the Hells during a slower time for the Kobold's entertainment. Some have banded together into small packs, doing what they must to survive together.
+
 ### Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
@@ -75,10 +99,16 @@ In some places of Kailkeep, there are windows of an incredibly thin, strong, and
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
-Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble.
+Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder that holds the door in place in the wall.
+
+The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
+
+Some doors in Kailkeep are "ko-bolted", meaning they cannot (as enforced by Terra's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
+> ###### What the fuck is an Access Binding??
+> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, bc you dont need the dude who maintains the slime pits in the False Allure rooms, what if he goops the place up? No-one with an Access Binding is allowed to entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes, but they do maintenance work whenever an area is clear of entertainers, and will shut areas down using Terran's magic if maintenance is urgent.
 
 ##### Illumination
-The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bioluminescence Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
+The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bioluminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
 
 
 ## Greater Map
@@ -86,7 +116,7 @@ Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds
 
 The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
 
-Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to be mapped.
+Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
 ### Level One: Hook
 ### Level Two: Line
