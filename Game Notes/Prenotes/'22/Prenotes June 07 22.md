@@ -28,4 +28,6 @@ With full bellies, an ally at your side, and the fate of the world you call home
 
 [[King Snure]] is on Alaturmen in his Keep of Magma, and his Son is working on the War Machine in the workshops of his home. Many hill giants, fire giants, and few stone and ice giants have joined him from around the elemental planes to invade. Air and Storm giants who directly opposed this found themselves losing an unfair fight, and then bound and willed to become weapon for Snure and his Free Giants.
 
-### What happened?
+[[The Whitimores]] fled to King Snure's Magma Keep. There, they were greeted with honors. After [[Alylay Whitimore]] explained the situation, that the remnants of the Whitimore House had been sundered by this group of adventurers they were tasked with destroying, [[King Snure]] imprisoned them for their failures, citing the clause of their contract that states usefulness.
+
+### What happened this session?
