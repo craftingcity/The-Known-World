@@ -31,6 +31,16 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 
 ## Outline
 ### The Kobold's Goals
+1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
+2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
+3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. 
+
+### Kailkeep's Secrets
+#### Proving Grounds
+#### Vast Arcane Power
+#### Curse Factory
+#### Corrupted Dragon
+
 ### The Factions of Kailkeep
 #### Kobolds
 The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.
@@ -40,11 +50,10 @@ Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. 
 The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
 
 #### Inhabitants of Kailkeep
-#### Invaders of Kailkeep's Secrets
-#### Proving Grounds
-#### Vast Arcane Power
-#### Curse Factory
-#### Corrupted Dragon
+##### Goblin
+##### Luzikiemal Risen
+#####
+#### Invaders 
 ### Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
@@ -73,7 +82,11 @@ The Kobolds who view the Hells as entertainment have no need for light, except i
 
 
 ## Greater Map
-Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the playersThat is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
+Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the players ascend from, they enter the next level presented here, some intervention by the fates, perhaps. That is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
+
+The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
+
+Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to be mapped.
 
 ### Level One: Hook
 ### Level Two: Line
