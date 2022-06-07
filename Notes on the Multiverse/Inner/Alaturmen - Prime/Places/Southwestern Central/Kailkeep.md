@@ -41,7 +41,9 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 #### Corrupted Dragon
 ### Kailkeep's Features
 #### Terra's Mountain
+The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 #### Architecture
+##### 
 ## Greater Map
 ### Level One: Hook
 ### Level Two: Line
