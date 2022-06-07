@@ -55,27 +55,32 @@ Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corps
 #### Kobolds
 The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.
 
-Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep.
+##### Operators
+Trusted members of Kailkeep are called to operate the mechanisms of Kailkeep, referee games, and otherwise maintain the Hells of Kailkeep. Often times, Operators will take after certain groups of Entertainers and leave them messages or gifts to find, be them boons or betrayals.
 
-The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
+##### Civilians
+The many kobolds who live and work in Kailkeep enjoy spending time with their clutchmates watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
 
-#### Inhabitants of Kailkeep
+##### Entertainers
+Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep. In either case, Kobolds are feared in the Hells, and are often submitted to without question for fear of retribution by the Operators.
+
+#### Entertainer Factions
 ##### Goblin
 Most goblin living in Kailkeep came seeking treasure or purpose, and found instead their need to survive.
 
-Goblin of Alaturmen love a good fight, and what's better than a massive complex dedicated to fighting in competition for acceptance by a banished clan of mad kobold!? 
+Goblin of Alaturmen love a good fight, and what's better than a massive complex dedicated to fighting in competition for acceptance by a clan of mad kobold!? 
 
 ##### Gnoll 
 Gnoll of the Desert have taken residence in Kailkeep. Here they can satisfy their hunger and find safety from the persecution of others of the "civilized" world.
 
 ##### Ankheg
-A family of Ankheg have been hunbanded for food and defense, and will work together with those who can communicate with them and form a deal that it would honor.
+A family of Ankheg have been husbanded for food and defense, and will work together with those who can communicate with them and form a deal that it would honor.
 
 ##### Red Wurm
-A family of Red Wurm have been husbanded for food and defense, and these six-inch diameter, 3 foot long Wurms carry a powerful bite and a quick wriggle.
+A family of Red Wurm have been husbanded for food and defense, and these six-inch diameter, 3 foot long Wurms carry a powerful bite and dexterous wriggle.
 
 ##### Luzikiemal Risen
-Luzikiemal, Corrupted is a draco-lich of a young brass dragon. He resides in the Upper levels of Kailkeep as an eternal favorite bet for the Kobold Viewers.
+Luzikiemal, Corrupted is a draco-lich of a young brass dragon. He resides in the Upper levels of Kailkeep as an eternal favorite bet for the Kobold Viewers, though he never moves beyond the Ninth Floor.
 
 #### Invaders
 ##### Lost Thieves of Honor
@@ -138,40 +143,50 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 
 ## False Allure
 ### Level One: Hook
-Level One of Kailkeep's False Allure presents itself as the bottom floor of a rising crypt. This level is purposefully accessible, the threats that make their home here are weak; Entertainers who have ascended the Hells are ordered return to the False Allure if they refuse to entertain. 
+Level One of Kailkeep's False Allure presents itself as the bottom floor of a rising dwarven fortress. The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. 
 
-The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. 
+The kobolds intend to bring those that have come here deeper into Kailkeep. This level is purposefully accessible and the threats that make their home here are purposefully weak – Entertainers who have ascended the Hells are ordered return to the False Allure if they refuse to entertain. 
 
-Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here and this art and architecture is not dwarven in nature. Dwarves most often *descend* rather than *ascend*, the most secure entrance should be the most well defended by the nature of the mountain, ie the peak. This is true of the other floors of the False Allure as well.
+Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here, and this art and architecture is not dwarven in nature. These falsehoods are also detectable in the other floors of the False Allure as well.
 
 ### Level Two: Line
-Level Two of Kailkeep continues to present itself as this false dwarven crypt and continues to tell the story of Kailkeep, though the intent of the artistry twists - these arcane invaders were actually good, the mountain was happy that they had driven the dwarves away.
+Level Two of Kailkeep continues to present itself as this false dwarven keep and continues to the tale of the Kobolds and the Dwarves, though the intent of the artistry twists – these arcane invaders were actually good, the mountain was happy that they had driven the dwarves away.
 
 ### Level Three: Sinker
-Level Three of Kailkeep begins to close this false tale of Kobold herocism against the horrid, cruel, mountain-scarring dwarves, and how the kobolds finally made their home in these "dwarven" halls.
+Level Three of Kailkeep begins to close this false tale of Kobold heroism against the horrid, cruel, mountain-scarring dwarves, and how the kobolds finally made their home in these "dwarven" halls, but keep these lower levels empty as an honor to their fallen comrades.
 
 ## Hells of Kailkeep
 ### Level Four: Let the Games Begin!
-And the rug is ripped from under them. It never was a dwarven clan! It was the kobolds the whole time! And here they are, front and center, laughing away at the newcomer-fools. 
+And the rug is ripped from under them. There never was a dwarven clan! It was the kobolds the whole time! And here they are, front and center, laughing away at the newcomer-fools. 
 
 #### Gimmik
-This level is a series of harmful obstacles designed to test the newcomer's resolve, but not yet their life - let that rest in the hands of the other entertainers. Simple traps and puzzles, but this is the first level on which there are other entertainers - the signs of life are overwhelming.
+This level is a series of harmful obstacles designed to test the newcomer's resolve, but not yet their life – let that rest in the hands of the other entertainers. Simple traps and puzzles, but this is the first level on which there are other entertainers – the signs of life are overwhelming.
 
 #### Moving On
+Continuing onward into Level Five is not a difficulty, but avoiding the traps that guard the stairs could be perceived as such.
 
 ### Level Five: Four Corners
 #### Gimmik
+Four towers forming a square in equidistance hold the only exits beyond, leading to funneling of entertainers. It is the intent of this floor to force interaction between groups of entertainers that have progressed this far.
+
 #### Moving On
-This level has many entrances from floors below, but very few exits to floors beyond. Four towers forming a square in equidistance hold the only exits beyond, leading to funneling of entertainers.
+This level has many entrances from floors below, but very few exits to floors beyond. 
 
 ### Level Six: Pick-up Sticks
 #### Gimmik
 Hidden about this level, some found by other entertainers, are the arcane keys to the levels beyond. These keys take the form of medallions marked with integers and operations.
+
 #### Moving On
 In a similar manner to the floors below, progress beyond floor six is restricted. Any who wish to open the levels above must open large vault doors locked by Weave Arcane and marked with triple digit numbers. If one wishes to progress, they must provide medallions that produce a valid expression that is equal in sum to the value of the door they are attempting to open.
+
 ### Level Seven: Kadabbi
 #### Gimmik
+As entertainers ascend to Level Seven they are paired with others until they form a group of seven. Then, they enter an enchanted game of Kadabbi where one member of the team of seven becomes the tagger, and must use their now crackling electric hands to tag the members of the other team. A stipulation; the taggers (and I suppose the taggies) cannot breathe on the opposite side of their field. If a tagger dies, their power is granted to another random taggie from their team.
+
+Game-rooms and Teams are separated and managed by kobold Geomancers harnessing Terra's power from special Operation Viewing areas.
 #### Moving On
+A team moves on together after two victories over two other teams.
+
 ### Level Eight: Here Comes an Old Soldier from Wish Bay
 #### Gimmik
 #### Moving On
