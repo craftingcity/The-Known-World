@@ -87,10 +87,10 @@ Luzikiemal, Corrupted is a draco-lich of a young brass dragon. He resides in the
 A group of Honorable Thieves have found their way into the Hells of Kailkeep. They say they come from all over (ie, they are a mix from all three groups in the Desert), and they want nothing more than to get back to their families to make sure they are safe.
 
 ##### Golden Claws
-A group of guardsfolk have found their way into the Hells of Kailkeep. They are extremely hostile to anyone who does not worship the same Deity as them (for my purposes, this is [[Tetrimoc]]), but would offer nearly anything to ones who bear its mark.
+A group of humanoid guards from a nearby bastion of civilization have found their way into the Hells of Kailkeep. They are extremely hostile to anyone who does not worship the same Deity as them (for my purposes, this is [[Tetrimoc]]), but would offer nearly anything to ones who openly bear their Diety's mark.
 
 ##### Dwarven Warriors
-A group of dwarven warriors were tasked with the removal of Kobolds threatening their ([[Mountain Hall]]) supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
+A group of dwarven warriors (for my purposes, they come from [[Mountain Hall]]) were tasked with the removal of Kobolds threatening their supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
 
 ##### Unwitting Participants
 Many of Kailkeep's "invaders" were people taken to the Hells during a slower time for the Kobold's entertainment. Some have banded together into small packs, doing what they must to survive together.
@@ -107,6 +107,9 @@ The fourth level presents a drastic change of theme. Where once there was red co
 
 Those who enter Kailkeep's Hells *cannot* return from whence they came. The only exit is forward. Up.
 
+##### Scoreboards
+Throughout the Hells, there are scoreboards displaying the betting odds for the packs of Entertainers in the Hells on the current level. These scoreboards are maintained by Operators in real time, and it is a popular scene when teams of entertainers clash in front of a scoreboard.
+
 ##### Ceilings
 The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
 
@@ -115,20 +118,26 @@ In some places of Kailkeep, there are windows of an incredibly thin, strong, and
 
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
-##### Dead ends and Past Messages
+##### Dead Ends and Past Messages
 Dead ends are marked with a large draconic rune that reads "HALT" and bare no consistent features beyond this.
 
-Many of these dead ends attract messages from previous visitors, although they can be found throughout the Kailkeep Hells, and any such messages become framed and dated by Terran moments after they are completed.
+Many of these dead ends attract messages from previous visitors, although they can be found throughout the Kailkeep Hells, and any such messages become framed and dated by Operators moments after they are completed.
 
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
 Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder that holds the door in place in the wall.
 
-The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
+The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any and all secret doors marked on my maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot than others. Please use your discretion.
 
-Some doors in Kailkeep are "ko-bolted", meaning they cannot (as enforced by Terra's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
+Some doors in Kailkeep are "ko-bolted", locked by Operator's magics to be opened only by a living Kobold Marked with the correct Access Bindings.
+
 > ###### What the fuck is an Access Binding??
-> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, bc you dont need the dude who maintains the slime pits in the False Allure rooms, what if he goops the place up? 
-> No-one with an Access Binding is allowed to entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes, but they do maintenance work whenever an area is clear of entertainers, and will shut areas down using Terran's magic if maintenance is urgent.
+> It's like a keycard in a video game, except its a magic kobold tattoo.
+>  
+> Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits in the False Allure rooms; what if he goops the place up? 
+> 
+> No-one with an Access Binding is allowed to entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes. 
+> 
+> Some Marked perform maintenance work in areas that are clear of Entertainers, and Operators will shut areas down if that maintenance is urgent.
 
 ##### Illumination
 The Kobolds who view the Hells as entertainment or contest have no need for light, except for in the larger rooms of the Hells, in which case the bioluminescent mushroom Glowbulb has been cultivated to provide low light. In most cases, the light the entertainers provide for themselves is sufficient.
