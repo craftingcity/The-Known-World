@@ -48,10 +48,12 @@ The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, e
 ### Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
-#### Architecture
-Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. In its lowest floors, the first three, it is a carefully crafted dungeon of false allure - stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Heroe's favor before...
 
-The fourth level is a drastic change of theme. Where once there was red cobble and dusty crypt, there is translucently thin stone stronger than steel and flat black marble surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
+#### False Allure Architecture
+In its lowest floors, the first three, it is a carefully crafted dungeon of false allure – stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Heroe's favor before...
+
+#### Hells Architecture
+The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is flat black marble and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
 
 Those who enter Kailkeep's Hells *cannot* return from whence they came. The only exit is forward. Up.
 
@@ -64,7 +66,6 @@ In some places of Kailkeep, there are windows of an incredibly thin, strong, and
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
-
 Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble.
 
 ##### Illumination
@@ -72,6 +73,8 @@ The Kobolds who view the Hells as entertainment have no need for light, except i
 
 
 ## Greater Map
+Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the playersThat is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
+
 ### Level One: Hook
 ### Level Two: Line
 ### Level Three: Sinker
