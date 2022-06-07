@@ -140,22 +140,47 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 ### Level One: Hook
 Level One of Kailkeep's False Allure presents itself as the bottom floor of a rising crypt. This level is purposefully accessible, the threats that make their home here are weak; Entertainers who have ascended the Hells are ordered return to the False Allure if they refuse to entertain. 
 
-The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here and this art and architecture is not dwarven in nature.
+The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. 
 
-
+Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here and this art and architecture is not dwarven in nature. Dwarves most often *descend* rather than *ascend*, the most secure entrance should be the most well defended by the nature of the mountain, ie the peak. This is true of the other floors of the False Allure as well.
 
 ### Level Two: Line
-Level Two of Kailkeep's False Allure continues to present itself as the False Allure, and continues to tell the story of Kailkeep, though the intent of the artistry becomes fluid, maybe these arcane invaders were good actually.
+Level Two of Kailkeep continues to present itself as this false dwarven crypt and continues to tell the story of Kailkeep, though the intent of the artistry twists - these arcane invaders were actually good, the mountain was happy that they had driven the dwarves away.
 
 ### Level Three: Sinker
+Level Three of Kailkeep begins to close this false tale of Kobold herocism against the horrid, cruel, mountain-scarring dwarves, and how the kobolds finally made their home in these "dwarven" halls.
+
 ## Hells of Kailkeep
 ### Level Four: Let the Games Begin!
+And the rug is ripped from under them. It never was a dwarven clan! It was the kobolds the whole time! And here they are, front and center, laughing away at the newcomer-fools. 
+
+#### Gimmik
+This level is a series of harmful obstacles designed to test the newcomer's resolve, but not yet their life - let that rest in the hands of the other entertainers. Simple traps and puzzles, but this is the first level on which there are other entertainers - the signs of life are overwhelming.
+
+#### Moving On
+
 ### Level Five: Four Corners
+#### Gimmik
+#### Moving On
+This level has many entrances from floors below, but very few exits to floors beyond. Four towers forming a square in equidistance hold the only exits beyond, leading to funneling of entertainers.
+
 ### Level Six: Pick-up Sticks
+#### Gimmik
+Hidden about this level, some found by other entertainers, are the arcane keys to the levels beyond. These keys take the form of medallions marked with integers and operations.
+#### Moving On
+In a similar manner to the floors below, progress beyond floor six is restricted. Any who wish to open the levels above must open large vault doors locked by Weave Arcane and marked with triple digit numbers. If one wishes to progress, they must provide medallions that produce a valid expression that is equal in sum to the value of the door they are attempting to open.
 ### Level Seven: Kadabbi
+#### Gimmik
+#### Moving On
 ### Level Eight: Here Comes an Old Soldier from Wish Bay
+#### Gimmik
+#### Moving On
 ### Level Nine: The Floor is Ooze!
+#### Gimmik
+#### Moving On
 ### Level Ten: Fight to the Death
+#### Gimmik
+#### Moving On
 ## Home Sweet Home
 ### Level Eleven: Welcome Home!
 ### Level Twelve: Work and Live
