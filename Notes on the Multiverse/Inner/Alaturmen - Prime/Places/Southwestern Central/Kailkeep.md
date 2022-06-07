@@ -136,9 +136,19 @@ The first three levels present very little challenge to even the greenest advent
 
 Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
+## False Allure
 ### Level One: Hook
+Level One of Kailkeep's False Allure presents itself as the bottom floor of a rising crypt. This level is purposefully accessible, the threats that make their home here are weak; Entertainers who have ascended the Hells are ordered return to the False Allure if they refuse to entertain. 
+
+The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here and this art and architecture is not dwarven in nature.
+
+
+
 ### Level Two: Line
+Level Two of Kailkeep's False Allure continues to present itself as the False Allure, and continues to tell the story of Kailkeep, though the intent of the artistry becomes fluid, maybe these arcane invaders were good actually.
+
 ### Level Three: Sinker
+## Hells of Kailkeep
 ### Level Four: Let the Games Begin!
 ### Level Five: Four Corners
 ### Level Six: Pick-up Sticks
@@ -146,6 +156,7 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 ### Level Eight: Here Comes an Old Soldier from Wish Bay
 ### Level Nine: The Floor is Ooze!
 ### Level Ten: Fight to the Death
+## Home Sweet Home
 ### Level Eleven: Welcome Home!
 ### Level Twelve: Work and Live
 ### Level Thirteen: Defense From Above
