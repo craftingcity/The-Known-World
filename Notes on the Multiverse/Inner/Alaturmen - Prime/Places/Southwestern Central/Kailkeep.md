@@ -34,6 +34,13 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
 3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. 
+
+### Kailkeep's Secrets
+#### Proving Grounds
+#### Vast Arcane Power
+#### Curse Factory
+#### Corrupted Dragon
+
 ### The Factions of Kailkeep
 #### Kobolds
 The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.
@@ -43,11 +50,10 @@ Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. 
 The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
 
 #### Inhabitants of Kailkeep
-#### Invaders of Kailkeep's Secrets
-#### Proving Grounds
-#### Vast Arcane Power
-#### Curse Factory
-#### Corrupted Dragon
+##### Goblin
+##### Luzikiemal Risen
+#####
+#### Invaders 
 ### Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druid's grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
