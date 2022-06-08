@@ -29,28 +29,54 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 
 # Common Knowledge Ingredients
 ## Flora
-### Fruit
 ### Veggie
 #### Flowers
-#### Mandrake
-#### Moss
+##### Alkanet Pulp
+##### Aloe Vera Nectar
+##### Dragon's Tongue
+##### Foxglove Pulp
+##### Ginko Leaf
+##### Lavender
+##### Nightshade
 #### Fungi
+##### Polypore Red Cap
+##### Polypore Yellow Cap
+##### Polypore Blue Cap
+##### Dryad Saddle
+##### Elf Cup
+##### Glowshroom
+##### Stinkhorn
+#### Moss
+##### Brightmoss
+##### Common Moss
+#### Seed
+##### Apple Seed
+#### Roots
+##### Harrada
+##### Mandrake
+##### Onion
 ### Otherwise
 #### Wood
-##### Ironwood
+##### Heartnut Wood
+##### Iron-wood
 ## Fauna
 ### Liquid
 #### Blood
+##### Demonic
+##### Humanoid
 #### Waste
 ### Solid
 #### Bone
 #### Cocoon
 #### Hair
 #### Organ
-#### Ivory / Pearl
+##### Newt Eye
+#### Ivory / Horn / Pearl
+##### Minotaur Horn
 #### Feather / Scale
 #### Fur / Leather
 #### Waste
+##### Bat Guano
 ## Underground
 ### Gem
 #### Agate
@@ -65,7 +91,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Onyx
 #### Jade
 #### Quartz
-### Metal/Solid
+### Metal
 #### Adamantine
 #### Alabaster
 #### Copper
@@ -74,6 +100,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Silver
 #### Platinum
 #### Zinc
+### Rock
 #### Mica
 #### Marble
 #### Slate
@@ -86,6 +113,11 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Coal
 #### Charcoal
 #### Dirt
+#### Salt
+##### Rock
+##### Fire
+##### Ice
+##### Storm
 #### Sulfur
 ### Goop
 #### Bitumen
