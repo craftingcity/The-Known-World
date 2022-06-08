@@ -33,7 +33,7 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
-3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them, 
+3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them.
 
 ### Kailkeep's Secrets
 #### Proving Grounds
