@@ -43,6 +43,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -102,7 +103,6 @@
 			- [[Stone of Desmoniur]]
 			- [[Three Nation Highways]]
 		- **Northeastern Central**
-			- [[Archmage Barrowinch's Tower]]
 			- [[Benders]]
 			- [[Castle Prosper]]
 			- [[Diables]]

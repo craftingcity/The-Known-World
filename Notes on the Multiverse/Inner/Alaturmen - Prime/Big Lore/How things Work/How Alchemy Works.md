@@ -27,11 +27,58 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 
 # Common Knowledge Reactants
 ## Flora
+### Yknow, fruits and veggies n shit
 ## Fauna
-## Terra
-## Aqua
-## Igna
-## Anima
+### Liquid
+#### Blood
+#### Waste
+### Solid
+#### Bone
+#### Cocoon
+#### Hair
+#### Eye
+#### Organ
+#### Ivory
+#### Feather
+#### Fur
+#### Leather
+#### Waste
+## Underground
+### Gem
+#### Agate
+#### Amber
+#### Crystal
+#### Diamond
+#### Glass
+#### Onyx
+#### Jade
+### Metal
+#### Adamantine
+#### Copper
+#### Gold
+#### Iron
+### Powder/Salt/Otherwise
+#### Alum
+#### Chalk
+#### Coal
+#### Charcoal
+#### Dirt
+#### Sulfur
+### Goop
+#### Bitumen
+#### Clay
+## Processed
+### Ash
+#### Bone Ash
+#### Living Ash
+#### Wood Ash
+### Fabric
+#### Cloth
+#### Silk
+#### Fleece
+### Liquid
+#### Alcohol
+#### Ink
 
 # Common Knowledge Products
 ## Liquid
