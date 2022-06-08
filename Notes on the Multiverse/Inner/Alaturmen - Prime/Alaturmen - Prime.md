@@ -63,6 +63,7 @@
 			- [[Economics of The Holyl'nds]]
 		- **How things Work**
 			- [[Durandurm Weaponry]]
+			- [[How Alchemy Works]]
 			- [[How the Weave becomes Magic]]
 			- [[The Planes of Existence]]
 			- [[The Worldwide Calendar Systems]]
@@ -101,6 +102,7 @@
 			- [[Stone of Desmoniur]]
 			- [[Three Nation Highways]]
 		- **Northeastern Central**
+			- [[Archmage Barrowinch's Tower]]
 			- [[Benders]]
 			- [[Castle Prosper]]
 			- [[Diables]]

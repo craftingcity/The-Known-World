@@ -7,9 +7,19 @@
         "id": "030e40d23b77cc7b",
         "type": "leaf",
         "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/AlchemistsLab.pdf"
+          }
+        }
+      },
+      {
+        "id": "10f854121a73f4ca",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Acstow.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
             "mode": "source"
           }
         }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Acstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Acstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +127,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "030e40d23b77cc7b",
+  "active": "10f854121a73f4ca",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
+    "MEDIA/MEDIA.md",
+    "MEDIA/SUPP/AlchemistsLab.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How the Weave becomes Magic.md",
+    "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Acstow.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "MEDIA/MEDIA.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md"
   ]
 }

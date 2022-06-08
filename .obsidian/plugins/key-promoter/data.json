@@ -60,14 +60,14 @@
     "graph:animate": 1
   },
   "keyboardStatistics": {
-    "insert-template": 108,
-    "switcher:open": 176,
+    "insert-template": 109,
+    "switcher:open": 179,
     "editor:open-search": 4,
     "global-search:open": 9,
-    "workspace:close": 220,
+    "workspace:close": 222,
     "app:go-back": 70,
     "file-explorer:new-file": 19,
-    "file-explorer:new-file-in-new-pane": 4,
+    "file-explorer:new-file-in-new-pane": 5,
     "command-palette:open": 1,
     "editor:save-file": 3,
     "app:go-forward": 11,
