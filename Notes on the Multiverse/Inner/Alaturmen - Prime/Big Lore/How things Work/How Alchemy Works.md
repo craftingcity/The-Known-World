@@ -32,7 +32,11 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 ### Fruit
 ### Veggie
 #### Mandrake
+#### Moss
+#### Fungi
 ### Otherwise
+#### Wood
+##### Ironwood
 #### String
 ## Fauna
 ### Liquid
@@ -42,12 +46,10 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Bone
 #### Cocoon
 #### Hair
-#### Eye
 #### Organ
-#### Ivory
-#### Feather
-#### Fur
-#### Leather
+#### Ivory / Pearl
+#### Feather / Scale
+#### Fur / Leather
 #### Waste
 ## Underground
 ### Gem
@@ -55,14 +57,28 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Amber
 #### Crystal
 #### Diamond
+#### Ruby
+#### Sapphire
+#### Emerald
+#### Amethyst
 #### Glass
 #### Onyx
 #### Jade
-### Metal
+#### Quartz
+### Metal/Solid
 #### Adamantine
 #### Copper
 #### Gold
 #### Iron
+#### Silver
+#### Platinum
+#### Zinc
+#### Mica
+#### Marble
+#### Slate
+#### Granite
+#### Sandstone
+#### Limestone
 ### Powder/Salt/Otherwise
 #### Alum
 #### Chalk
@@ -73,6 +89,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 ### Goop
 #### Bitumen
 #### Clay
+#### Mercury
 ## Processed
 ### Ash
 #### Bone Ash
@@ -87,13 +104,28 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Ink
 
 # Common Knowledge Products
-## Liquid
-### Consumable
-### Applicable
-### Adversarial
-## Gel / Salve
-### Consumable
-### Applicable
-### Adversarial
-## Solid
-## Powder
+## Liquids
+### Potions
+#### Healing
+### Oils
+#### 
+### Poisons / Acids
+#### Royal Water
+## Gels / Salves
+### Helpful
+### Harmful
+## Solids
+#### Alchemical Clay
+#### Black Steel
+#### Bituitem
+A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size.
+
+Can be used as candles or markers when correctly shaped.
+
+#### Pressigen
+
+#### Unliftables
+The ability to permanently suspend an object from the effects of physics is a powerful one.
+## Powders
+#### Alchemical / Magical Chalk
+#### Alchemical Thermite

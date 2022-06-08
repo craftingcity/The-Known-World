@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "bcc7404e636c98e8",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/AlchemistsLab.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -121,8 +131,8 @@
   "active": "f76b0f1bab939052",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
-    "ORGANIZATION/ORGANIZATION.md",
     "MEDIA/SUPP/AlchemistsLab.pdf",
+    "ORGANIZATION/ORGANIZATION.md",
     "Archmage Barrowinch's Tower.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "MEDIA/MEDIA.md",
