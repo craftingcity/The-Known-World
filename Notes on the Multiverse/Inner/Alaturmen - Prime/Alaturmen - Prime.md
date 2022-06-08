@@ -43,7 +43,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -54,10 +53,14 @@
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
 	- **Big Lore**
-		- [[Durandurm Weaponry]]
-		- [[Economics of Prosper]]
-		- [[Economics of the Hobgoblin Territories]]
-		- [[How the Weave becomes Magic]]
+		- **Economy Pages**
+			- [[Economics of Prosper]]
+			- [[Economics of the Hobgoblin Territories]]
+		- **How things Work**
+			- [[Durandurm Weaponry]]
+			- [[How the Weave becomes Magic]]
+			- [[The Planes of Existence]]
+			- [[The Worldwide Calendar Systems]]
 		- **Language**
 			- [[Celestial]]
 			- [[Desertspeech]]
@@ -78,8 +81,6 @@
 				- [[Politics of Coalition c. 078AF - 092AF]]
 			- [[The Ballad of Grey Ordeal]]
 		- [[The Places of Alaturmen]]
-		- [[The Planes of Existence]]
-		- [[The Worldwide Calendar Systems]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]
