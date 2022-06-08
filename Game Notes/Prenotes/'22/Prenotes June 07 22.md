@@ -31,3 +31,4 @@ With full bellies, an ally at your side, and the fate of the world you call home
 [[The Whitimores]] fled to King Snure's Magma Keep. There, they were greeted with honors. After [[Alylay Whitimore]] explained the situation, that the remnants of the Whitimore House had been sundered by this group of adventurers they were tasked with destroying, [[King Snure]] imprisoned them for their failures, citing the clause of their contract that states usefulness.
 
 ### What happened this session?
+Well, not a ton. I had forgotten they had to leave the Underdark, so they fought through the Grazing Fields and left via the Pit to the Growth Heart that surfaces in the [[Northeastern Hobgoblin Territories]]. At the end of the session, the Party had made their way into Kakurak's Lair, with Kakurak following 
