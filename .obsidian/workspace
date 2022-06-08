@@ -7,10 +7,9 @@
         "id": "bfc5ca8a6d8206f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/AlchemistsLab.pdf"
           }
         }
       }
@@ -52,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
+                "file": "MEDIA/SUPP/AlchemistsLab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
+                "file": "MEDIA/SUPP/AlchemistsLab.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +119,7 @@
   },
   "active": "bfc5ca8a6d8206f4",
   "lastOpenFiles": [
+    "MEDIA/SUPP/AlchemistsLab.pdf",
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
     "Economics of The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
@@ -127,7 +128,6 @@
     "Game Notes/Game Notes.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/NPCs/Underdark/Underdark.md",
-    "Game Notes/NPCs/Underdark/Whitimore/Alylay Whitimore.md",
-    "Game Notes/NPCs/Underdark/Ootool/Alylay Whitimore.md"
+    "Game Notes/NPCs/Underdark/Whitimore/Alylay Whitimore.md"
   ]
 }
