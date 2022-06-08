@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "030e40d23b77cc7b",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/AlchemistsLab.pdf"
-          }
-        }
-      },
-      {
         "id": "10f854121a73f4ca",
         "type": "leaf",
         "state": {
