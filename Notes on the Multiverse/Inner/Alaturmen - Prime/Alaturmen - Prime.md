@@ -54,8 +54,13 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- **Economy Pages**
+			- [[Economics of Acstow]]
+			- [[Economics of Combine]]
+			- [[Economics of Mountain Hall]]
 			- [[Economics of Prosper]]
+			- [[Economics of Tetrimoc's Desert]]
 			- [[Economics of the Hobgoblin Territories]]
+			- [[Economics of The Holyl'nds]]
 		- **How things Work**
 			- [[Durandurm Weaponry]]
 			- [[How the Weave becomes Magic]]
