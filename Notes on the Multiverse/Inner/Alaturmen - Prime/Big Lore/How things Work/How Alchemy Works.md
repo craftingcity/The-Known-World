@@ -27,7 +27,11 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 
 # Common Knowledge Reactants
 ## Flora
-### Yknow, fruits and veggies n shit
+### Fruit
+### Veggie
+#### Mandrake
+### Otherwise
+#### String
 ## Fauna
 ### Liquid
 #### Blood
