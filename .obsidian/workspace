@@ -12,6 +12,17 @@
             "file": "MEDIA/SUPP/AlchemistsLab.pdf"
           }
         }
+      },
+      {
+        "id": "d06636c78c8fb5a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Archmage Barrowinch's Tower.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -51,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/AlchemistsLab.pdf",
+                "file": "Archmage Barrowinch's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/AlchemistsLab.pdf",
+                "file": "Archmage Barrowinch's Tower.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +127,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "bfc5ca8a6d8206f4",
+  "active": "d06636c78c8fb5a5",
   "lastOpenFiles": [
+    "Archmage Barrowinch's Tower.md",
     "MEDIA/SUPP/AlchemistsLab.pdf",
+    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "MEDIA/MEDIA.md",
+    "ORGANIZATION/TEMPLATES/Adventure.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
     "Economics of The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/NPCs/Underdark/Underdark.md",
-    "Game Notes/NPCs/Underdark/Whitimore/Alylay Whitimore.md"
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md"
   ]
 }

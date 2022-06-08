@@ -1,6 +1,7 @@
 # TEMPLATES Overview
 %% Begin Waypoint %%
 - **[[TEMPLATES]]**
+	- [[Adventure]]
 	- [[Disambiguation]]
 	- [[Economy]]
 	- [[Fronts]]
@@ -8,7 +9,7 @@
 	- [[Holdings]]
 	- [[Non-Canon]]
 	- [[NPCs]]
-	- [[ORGANIZATION/TEMPLATES/Prenotes]]
+	- [[Prenotes]]
 	- [[Statblock]]
 	- [[Stub]]
 	- [[Tags and Aliases]]

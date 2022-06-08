@@ -150,62 +150,62 @@ The first three levels present very little challenge to even the greenest advent
 
 Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
-## False Allure
-### Level One: Hook
+### False Allure
+#### Level One: Hook
 Level One of Kailkeep's False Allure presents itself as the bottom floor of a rising dwarven fortress. The artistry present in this level tells the story of Kailkeep in falsehood, positing that Kobolds of great Arcane Power took this mountain from a clan of dwarves. 
 
 The kobolds intend to bring those that have come here deeper into Kailkeep. This level is purposefully accessible and the threats that make their home here are purposefully weak – Entertainers who have ascended the Hells are ordered return to the False Allure if they refuse to entertain. 
 
 Anyone with knowledge of dwarven history or architecture would know that no dwarves have lived here, and this art and architecture is not dwarven in nature. These falsehoods are also detectable in the other floors of the False Allure as well.
 
-### Level Two: Line
+#### Level Two: Line
 Level Two of Kailkeep continues to present itself as this false dwarven keep and continues to the tale of the Kobolds and the Dwarves, though the intent of the artistry twists – these arcane invaders were actually good, the mountain was happy that they had driven the dwarves away.
 
-### Level Three: Sinker
+#### Level Three: Sinker
 Level Three of Kailkeep begins to close this false tale of Kobold heroism against the horrid, cruel, mountain-scarring dwarves, and how the kobolds finally made their home in these "dwarven" halls, but keep these lower levels empty as an honor to their fallen comrades.
 
-## Hells of Kailkeep
-### Level Four: Let the Games Begin!
+### Hells of Kailkeep
+#### Level Four: Let the Games Begin!
 And the rug is ripped from under them. There never was a dwarven clan! It was the kobolds the whole time! And here they are, front and center, laughing away at the newcomer-fools. 
 
-#### Gimmik
+##### Gimmik
 This level is a series of harmful obstacles designed to test the newcomer's resolve, but not yet their life – let that rest in the hands of the other entertainers. Simple traps and puzzles, but this is the first level on which there are other entertainers – the signs of life are overwhelming.
 
-#### Moving On
+##### Moving On
 Continuing onward into Level Five is not a difficulty, but avoiding the traps that guard the stairs could be perceived as such.
 
-### Level Five: Four Corners
-#### Gimmik
+#### Level Five: Four Corners
+##### Gimmik
 Four towers forming a square in equidistance hold the only exits beyond, leading to funneling of entertainers. It is the intent of this floor to force interaction between groups of entertainers that have progressed this far.
 
-#### Moving On
+##### Moving On
 This level has many entrances from floors below, but very few exits to floors beyond. 
 
-### Level Six: Pick-up Sticks
-#### Gimmik
+#### Level Six: Pick-up Sticks
+##### Gimmik
 Hidden about this level, some found by other entertainers, are the arcane keys to the levels beyond. These keys take the form of medallions marked with integers and operations.
 
-#### Moving On
+##### Moving On
 In a similar manner to the floors below, progress beyond floor six is restricted. Any who wish to open the levels above must open large vault doors locked by Weave Arcane and marked with triple digit numbers. If one wishes to progress, they must provide medallions that produce a valid expression that is equal in sum to the value of the door they are attempting to open.
 
-### Level Seven: Kadabbi
-#### Gimmik
+#### Level Seven: Kadabbi
+##### Gimmik
 As entertainers ascend to Level Seven they are paired with others until they form a group of seven. Then, they enter an enchanted game of Kadabbi where one member of the team of seven becomes the tagger, and must use their now crackling electric hands to tag the members of the other team. A stipulation; the taggers (and I suppose the taggies) cannot breathe on the opposite side of their field. If a tagger dies, their power is granted to another random taggie from their team.
 
 Game-rooms and Teams are separated and managed by kobold Geomancers harnessing Terra's power from special Operation Viewing areas.
-#### Moving On
+##### Moving On
 A team moves on together after two victories over two other teams.
 
-### Level Eight: Here Comes an Old Soldier from Wish Bay
-#### Gimmik
-#### Moving On
-### Level Nine: The Floor is Ooze!
-#### Gimmik
-#### Moving On
-### Level Ten: Fight to the Death
-#### Gimmik
-#### Moving On
-## Home Sweet Home
-### Level Eleven: Welcome Home!
-### Level Twelve: Work and Live
-### Level Thirteen: Defense From Above
+#### Level Eight: Here Comes an Old Soldier from Wish Bay
+##### Gimmik
+##### Moving On
+#### Level Nine: The Floor is Ooze!
+##### Gimmik
+##### Moving On
+#### Level Ten: Fight to the Death
+##### Gimmik
+##### Moving On
+### Home Sweet Home
+#### Level Eleven: Welcome Home!
+#### Level Twelve: Work and Live
+#### Level Thirteen: Defense From Above
