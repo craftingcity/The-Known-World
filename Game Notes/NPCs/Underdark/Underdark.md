@@ -7,7 +7,6 @@
 		- [[Wuer-Heur-Tuigier Da'Heggun]]
 		- [[Yuurmin]]
 	- **Ootool**
-		- [[Alylay Whitimore]]
 		- [[Flaker, Ootool Servicer]]
 	- **Travelers**
 		- [[Blzldlp]]
