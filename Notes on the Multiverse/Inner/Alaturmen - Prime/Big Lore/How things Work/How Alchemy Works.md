@@ -17,6 +17,8 @@ Journeymen
 Novices
 Apprentices
 
+Experts and Masters of the craft of Alchemy are likely working with ingredients and products not on upcoming listings – items so rare that they cannot be mentioned, or secret procedures producing higher quality items.
+
 # How do I start?
 
 Very little learned magic can be enough to start an alchemist on their journey. Mending, Presdedigation, and like cantrips are very useful tools in any alchemist's tool-belt.
@@ -25,7 +27,7 @@ Alchemy begins at the Philosopher's stone. A Philosipher's Stone or some of its 
 
 Once an alchemist has their stone, they can create Red Water, and Yellow Powder, two forms of material that inherit portions of the abilities of the Philosophers Stone. Recipes for creating Philosopher's Stones that bear these ingredients form new Stones much quicker than those without.
 
-# Common Knowledge Reactants
+# Common Knowledge Ingredients
 ## Flora
 ### Fruit
 ### Veggie
