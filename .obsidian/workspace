@@ -13,16 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "bcc7404e636c98e8",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/AlchemistsLab.pdf"
-          }
-        }
       }
     ],
     "direction": "vertical"

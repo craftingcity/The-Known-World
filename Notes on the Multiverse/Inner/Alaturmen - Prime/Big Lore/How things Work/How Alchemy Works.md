@@ -31,13 +31,13 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 ## Flora
 ### Fruit
 ### Veggie
+#### Flowers
 #### Mandrake
 #### Moss
 #### Fungi
 ### Otherwise
 #### Wood
 ##### Ironwood
-#### String
 ## Fauna
 ### Liquid
 #### Blood
@@ -67,6 +67,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Quartz
 ### Metal/Solid
 #### Adamantine
+#### Alabaster
 #### Copper
 #### Gold
 #### Iron
@@ -95,25 +96,38 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Bone Ash
 #### Living Ash
 #### Wood Ash
-### Fabric
-#### Cloth
+### Fabric / String
+#### Cotton
+#### Hemp
+#### Linen
 #### Silk
 #### Fleece
 ### Liquid
 #### Alcohol
 #### Ink
+#### Distilled Water
 
 # Common Knowledge Products
 ## Liquids
 ### Potions
 #### Healing
 ### Oils
-#### 
+#### Hell Oil
+#### Liquid Light
+#### Liquid Fear
+#### Miner's Savior
 ### Poisons / Acids
 #### Royal Water
+#### Enchanter's Acid
 ## Gels / Salves
 ### Helpful
+#### Dwarven Grease
+#### Alchemical Leather
+#### Alchemical Steel
+#### Scar Balm
 ### Harmful
+### Otherwise
+#### Huumpo
 ## Solids
 #### Alchemical Clay
 #### Black Steel
@@ -123,9 +137,14 @@ A powerful coal-like substance. When used to mark an object, the mark would rema
 Can be used as candles or markers when correctly shaped.
 
 #### Pressigen
+An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
 
 #### Unliftables
 The ability to permanently suspend an object from the effects of physics is a powerful one.
+
+#### Woven Steel
+#### Woven Glass
+
 ## Powders
 #### Alchemical / Magical Chalk
 #### Alchemical Thermite
