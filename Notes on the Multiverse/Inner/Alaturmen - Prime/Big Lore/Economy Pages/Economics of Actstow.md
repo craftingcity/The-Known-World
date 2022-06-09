@@ -48,12 +48,14 @@ The greatest vices of Actstow are Smokebulb, Tobacco, and Cannabis. Smokebulb is
 Some brothels crop up in Actstow, but these, like Smokebulb, are considered culturally unacceptable and are generally run *poorly*.
 
 ### Land
-Land in Actstow is a prime resource. One can purchase or lease land from the King in units of 1/8th acres. Rooms in Inns and the like are costly.
+Land in Actstow is a prime resource. One can purchase or lease land from the King or the ruling Clan in units of 1/8th acres. Rooms in Inns and the like are costly.
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
 
 Taxes are payed by the Clans. Clans have individual tax regimes, using different methods to calculate the correct figures, but most commoners end up paying about one-fifth of their profit to their Clan. The Clans then each turn and pay the King, about one-sixth of *their* profit. These tax collections happen every ten years, and are enforced by mundane tax collectors that quote figures based on what they can observe. Most folks attempt to cheat the collectors, leading to the low figures seen above. This crime is considered minor and is punished by fine, leading to someone who gets caught paying closer to one-third of their profit from this ten year period.
+
+All mines are owned by the King of Acstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of what they mined after management takes its due. 
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
@@ -62,11 +64,21 @@ Recovering from loss is difficult in Actstow. If one does not produce enough foo
 
 The most common of these methods is tax evasion. Most citizens of Actstow keep a hidden compartment or room for their most valued possessions, including (when the tax collector comes) work-stations, tools, fine furniture and clothing, and food preserves.
 
+Soups and Stews are considered a poor meal. Many commoners must make these "watered down dishes" to stretch their food supplies and for ease of transport; scooping a day's breakfast and lunch on your way out the door to the mines is not uncommon in poorer families of Acstow.
+
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
+Trade is heavily influenced by the value of what is mined and what is needed by the current goals of the Clans. Unions of Miners raise the price of "private" minerals such that they can afford to continue to do their work. Much of these "private" minerals are exported to other entities by caravans that trade in such things.
+
+Collections of stair-climbing market stalls appear wherever people gather. Markets such as these have all manner of goods, although it is common to find many things missing from the available selection as merchants move to different markets throughout the day.
+
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
+
+Most production companies in Actstow are teams of at least two members, one to acquire material, the other to work it. Commonly, a third member exports the crafts, but if this is not an option, freelance merchants buy in bulk all around Actstow.
+
+Because this "family" style operation is so common in Actstow, 
 
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
