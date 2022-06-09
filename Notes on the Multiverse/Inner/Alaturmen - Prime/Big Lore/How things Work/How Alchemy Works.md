@@ -28,8 +28,9 @@ Alchemy begins at the Philosopher's stone. A Philosipher's Stone or some of its 
 Once an alchemist has their stone, they can create Red Water, and Yellow Powder, two forms of material that inherit portions of the abilities of the Philosophers Stone. Recipes for creating Philosopher's Stones that bear these ingredients form new Stones much quicker than those without.
 
 # Common Knowledge Ingredients
+General Categories list specific categories list rare ingredients in those categories.
+
 ## Flora
-### Veggie
 #### Flowers
 ##### Alkanet Pulp
 ##### Aloe Vera Nectar
@@ -55,7 +56,6 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 ##### Harrada
 ##### Mandrake
 ##### Onion
-### Otherwise
 #### Wood
 ##### Heartnut Wood
 ##### Iron-wood
@@ -148,6 +148,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 ##### Storm
 #### Sulfur
 ### Goop
+#### Crude Oil
 #### Bitumen
 #### Clay
 #### Mercury
@@ -168,11 +169,16 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Distilled Water
 
 # Common Knowledge Products
+All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale.
 ## Liquids
 ### Potions
 #### Healing
+#### Resistance
+#### Vitality
 ### Oils
 #### Hell Oil
+Hell Oil sticks to metal, sliding around and off other materials like water, and burns while in contact with oxygen.
+#### Ice Oil
 #### Liquid Light
 #### Liquid Fear
 #### Miner's Savior
@@ -185,6 +191,7 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Alchemical Leather
 #### Alchemical Steel
 #### Scar Balm
+#### Heamox Balm
 ### Harmful
 ### Otherwise
 #### Huumpo
