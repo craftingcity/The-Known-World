@@ -67,16 +67,44 @@ Once an alchemist has their stone, they can create Red Water, and Yellow Powder,
 #### Waste
 ### Solid
 #### Bone
+##### Kraken Beak
 #### Cocoon
 #### Hair
+##### Centaur Mane
+##### Medusan Snake
 #### Organ
 ##### Newt Eye
+##### Beholder Stalk
+##### Coackatrice Eye
+##### Ankheg Gullet
+##### Gorgon Gullet
+##### Dragon Eye
+##### Dragon Heart
+##### Dragon Liver
+##### Rust Beetle Gullet
 #### Ivory / Horn / Pearl
+##### Basalisk Fang
 ##### Minotaur Horn
+##### Devil Horn
+##### Dragon Tooth
+##### Unicorn Horn
 #### Feather / Scale
-#### Fur / Leather
+##### Phoenix Feather
+##### Harpy Feather
+##### Hydra Scale
+##### Dragon Scale
+##### Owlbear Feather
+##### Wyvern Scale
+#### Fur / Leather / Chitin
+##### Displacer Leather
+##### Wurm Chitin
+##### Yeti Fur
 #### Waste
+##### Succubus / Incubus Excrete 
 ##### Bat Guano
+##### Ectoplasm
+##### Vampire Dust
+##### Gelatinous Ooze
 ## Underground
 ### Gem
 #### Agate
