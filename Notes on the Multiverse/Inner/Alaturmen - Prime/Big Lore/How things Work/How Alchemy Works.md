@@ -8,8 +8,6 @@ Alchemy is the process of creating or imparting a consistent magical effect into
 
 Often, the finished results are the potions that keep adventurers alive, the tinctures that commoners take to stave off disease, and the trinkets and items that perform specific tasks all around Alaturmen.
 
-Continue reading [[AlchemistsLab.pdf]]
-
 ## Grades
 Masters
 Experts
@@ -20,7 +18,7 @@ Apprentices
 Experts and Masters of the craft of Alchemy are likely working with ingredients and products not on upcoming listings – items so rare that they cannot be mentioned, or secret procedures producing higher quality items.
 
 # How do I start?
-You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
+You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes, and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
 
 ## Philosopher's Stone
 Alchemy almost always begins at the Philosopher's stone. A Philosipher's Stone or some of its baser products are a requirement in higher level alchemy. 
@@ -132,6 +130,7 @@ The hardest malleable metal known to exist.
 #### Iron
 #### Silver
 #### Platinum
+#### Mithril
 #### Lead
 #### Zinc
 ### Rock
@@ -202,35 +201,59 @@ Potions of Elemental Resistance provide resistance to the corresponding element.
 Potions of Barkskin and Potions of Stoneskin are weaker forms of the Potions of Resistance, and effectively cast the spells *barkskin* and *stoneskin* respectively.
 
 #### Potion of Charm
+Potions of Charm have similar effects to the spell *charm person*.
 ##### Rage
+See *rage, curse of the berserker*
 ##### Love
+See *pilpher of love*
 ##### Greed
+See *incite greed*
 
-#### Potion of Enhance
+#### Potion of Enhancement
+Potions of Enhancement temporarily increase the Quaffer's attributes based on their Grade.
 
 #### Potion of Detection / Sense / Understanding
 ##### Detection
+Potions of Detection are crafted to view specific things that would otherwise be non-visible.
 ##### Sense
+Potions of Sense are crafted to sense other planes of existence.
 ##### Understanding
+Potions of Understanding are crafted to transfer specific pieces of knowledge.
 
 #### Potion of Haste
+Gotta go fast.
+See *haste*
 
 #### Potion of Dragon's Breath
+Potions of Dragon's Breath are meant to emulate actual Dragon's Breaths.
+See *dragon's breath*
 
 #### Potion of Form
+Potions of Form give the Quaffer unique abilities based on the type and Grade of the potion.
 ##### Shadow
+See *pass without trace*
 ##### Gas
+See *gaseous form*
 ##### Aqua
+See *waterbreathing*
 ##### Freedom
+See *freedom of movement*
 
 ### Oils
 #### Hell Oil
 Hell Oil sticks to metal, sliding around and off other materials like water, and burns while in contact with oxygen.
 
+See *heat metal*
+
 #### Ice Oil
 Ice Oil sticks to metal, sliding around and off other materials like water, and freezes while in contact with oxygen.
 
+See *heat metal*, but imagine its Ice.
+
 #### Liquid Light
+Liquid light is as it sounds, a liquid form that emits bright light. While not *actually* light made liquid, it performs all the tasks that you could ask from a liquid version of light.
+
+See **
 
 #### Liquid Fear
 
@@ -329,6 +352,8 @@ This rune alters the dimension of the internals of the container it is applied t
 #### Immobility
 #### Understanding
 #### Sense
+#### Spellbind
+Runes of Spellbinding are incredibly difficult to successfully create on existing objects (*staff of power*).
 ### Enhance
 #### Elemental Patches
 (*flame tongue, frost brand*).
@@ -340,7 +365,8 @@ Patches of Weave applied to armor, ammunition, and weaponry can provide a boost 
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
 ### Curse
 #### Attachment
-#### Berserk
+#### Emotion
 #### Vulnerability
+#### Harm
 ## Scrolls
 When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll.
