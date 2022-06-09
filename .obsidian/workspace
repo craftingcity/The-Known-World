@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f76b0f1bab939052",
+        "id": "1b29c9756df173e0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0012342b98c68029",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -80,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +113,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "0012342b98c68029",
+  "active": "1b29c9756df173e0",
   "lastOpenFiles": [
+    "MEDIA/SUPP/BookOfWishes.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
     "MEDIA/SUPP/AlchemistsLab.pdf",
     "ORGANIZATION/ORGANIZATION.md",
@@ -139,7 +124,6 @@
     "MEDIA/MEDIA.md",
     "ORGANIZATION/TEMPLATES/Adventure.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
-    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-    "Economics of The Holyl'nds.md"
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md"
   ]
 }
