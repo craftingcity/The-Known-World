@@ -183,25 +183,21 @@ All products have either a quality or a required "mastery" of the skills of alch
 ## Liquids
 ### Potions
 #### Potion of "Healing"
-True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when Quaffed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
-
+True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when consumed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
 ##### Vitality
-Passed off as "healing" potions, Potions of Vitality are typically much cheaper than their true cousins, as they do not actually heal any wounds, but rather invigorate the Quaffer for the same number in temperary HP as they would when Quaffing a Potion of Healing.
-
+Passed off as "healing" potions, Potions of Vitality are typically much cheaper than their true cousins, as they do not actually heal any wounds, but rather invigorate the consumer for the same number in temperary HP as they would when consuming a Potion of Healing.
 ##### Cure
 Potions of "Cure Disease" are a combination of alchemical and traditional anti-biotics, anti-fungals, and anti-parasites.
 
 #### Potion of Resistance
 Potions of Resistance provide resistance to non-magical forms of slashing, bludgeoning, and piercing damage.
-
 ##### Elemental Resistance
 Potions of Elemental Resistance provide resistance to the corresponding element.
-
 ##### Barkskin / Stoneskin
 Potions of Barkskin and Potions of Stoneskin are weaker forms of the Potions of Resistance, and effectively cast the spells *barkskin* and *stoneskin* respectively.
 
 #### Potion of Charm
-Potions of Charm have similar effects to the spell *charm person*.
+Potions of Charm affect the consumer's disposition.
 ##### Rage
 See *rage, curse of the berserker*
 ##### Love
@@ -211,14 +207,18 @@ See *incite greed*
 
 #### Potion of Enhancement
 Potions of Enhancement temporarily increase the Quaffer's attributes based on their Grade.
+See *enhance ability*
 
 #### Potion of Detection / Sense / Understanding
 ##### Detection
 Potions of Detection are crafted to view specific things that would otherwise be non-visible.
+See *see invisibility*
 ##### Sense
 Potions of Sense are crafted to sense other planes of existence.
+See *true sight*
 ##### Understanding
 Potions of Understanding are crafted to transfer specific pieces of knowledge.
+See *comprehend languages*
 
 #### Potion of Haste
 Gotta go fast.
@@ -253,30 +253,58 @@ See *heat metal*, but imagine its Ice.
 #### Liquid Light
 Liquid light is as it sounds, a liquid form that emits bright light. While not *actually* light made liquid, it performs all the tasks that you could ask from a liquid version of light.
 
-See **
+See *light*
 
 #### Liquid Fear
+Liquid Fear invokes its namesake in those that nearby. When consumed, if one is bold enough to do such a thing, Liquid Fear is deadly.
+
+See *fear, dissident whispers*
 
 #### Liquid Joy
+Liquid Joy provides the opposite effects of Liquid Fear, invoking its namesake in those nearby. When consumed, the feeling is amplified. As one could imagine, this substance is quite addictive.
+
+See *charm person, enthrall*
 
 #### Liquid Calm
+Liquid Calm is a soldier's best friend. While it does not combat the physical affects of adrenaline, it does affect the mental ones, allowing oneself to remain calm under even the most extreme pressure.
+
+See *calm emotions*
 
 #### Miner's Savior
+When exposed to oxygen, Miner's Savior expands to form triangles of stone. Its most common use-case gave this substance its name and many miners the opportunity to see their children grow.
 
 ### Poisons
-#### Sleep Juice
+#### Traditional
+Traditional poisons act as you would expect, somehow harming or outright killing their consumer.
+See the damage table on your DM's screen.
 
 #### Impairment
+Many poisons produce effects other than simply killing their consumer.
 ##### Diminish Affect
+Some reduce the attributes of their consumers.
+See *enhance ability* and reverse it
 ##### Blind / Deafen
+Or otherwise impair their senses.
+See *blind/deafen*
 ##### Slow
+Some reduce a target's ability to move.
+See *slow*
 ##### Paralyze
+Or prevent it entirely.
+See the effect *paralyzed*
 
 #### King's Last Drink
+The King's Last Drink is a slow acting poison that creates two affects in its consumer. While this poison never kills its consumer, it does render them nearly functionless.
 ##### Truth
+The first affect manifests before the other. After a full week of consumption, the consumer will be unable to speak a lie.
+See *zone of truth*
 ##### Madness
+After a month of consumption, the second portion of this poison takes effect, causing a maddening rage in its consumer.
+See *crown of madness*
 
 #### Stink
+Stink is a gaseous poison that induces nausea and vomiting in those that inhale or otherwise consume it.
+See *stinking cloud*
 
 ### Acids
 #### Royal Water
