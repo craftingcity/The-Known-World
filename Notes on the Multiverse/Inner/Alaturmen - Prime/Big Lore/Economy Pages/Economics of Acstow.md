@@ -8,19 +8,25 @@ aliases:
 ### Prelim
 I'm gonna need at the very least, a size, terrain, and weather pattern.
 
-The soil of [[Actstow Hills]]
+The soil of [[Actstow Hills]] is extremely poor. The large majority of the supply of food in Actstow is grown underground, meaning that the pattern of weather is of no concern and heat can be controlled well.
 
-The large majority of Acstow's food supply grows under [[Actstow Hills|the hills]], lit by Glowshroom.
-
-### "Bread"
-
+### Potato Bread
+Potatoes grow well in the conditions of Acstow's greenhouses, and grow plentifully at that. Potato flour makes a wonderful white bread to boot.
 
 ### Food
 What lives here?
 #### Meat
+Foul make up the large majority of an Acstownian's meat supplies. Chevron takes a far second. No game is available in Acstow, as it is neither produced nor imported here.
+
 #### Dairy
+Goat is the only available true dairy in Acstow. Peanut and Almond milks are acceptable substitutes in most cases.
+
 #### Grain
+Largely, potato is the only "grain" produced in Acstow. Small amounts of other grains could be found, but not in large quantities, and almost certainly not for sale.
+
 #### Fruit
+
+
 #### Vegetable
 #### Spice and Oil
 #### Delicacy
