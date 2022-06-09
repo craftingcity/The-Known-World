@@ -123,17 +123,21 @@ Mechanically, this should simply look like better rolls = better success.
 #### Onyx
 #### Jade
 #### Quartz
+#### Durandurm
 ### Metal
 #### Adamantine
+The hardest malleable metal known to exist.
 #### Alabaster
 #### Copper
 #### Gold
 #### Iron
 #### Silver
 #### Platinum
+#### Lead
 #### Zinc
 ### Rock
 #### Mica
+Alchemically inert and visually semi-transparent.
 #### Marble
 #### Slate
 #### Granite
@@ -178,14 +182,21 @@ All products have either a quality or a required "mastery" of the skills of alch
 ### Potions
 #### Potion of "Healing"
 True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when Quaffed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
+
 ##### Vitality
 Passed off as "healing" potions, Potions of Vitality are typically much cheaper than their true cousins, as they do not actually heal any wounds, but rather invigorate the Quaffer for the same number in temperary HP as they would when Quaffing a Potion of Healing.
+
 ##### Cure
 Potions of "Cure Disease" are a combination of alchemical and traditional anti-biotics, anti-fungals, and anti-parasites.
 
 #### Potion of Resistance
+Potions of Resistance provide resistance to non-magical forms of slashing, bludgeoning, and piercing damage.
+
 ##### Elemental Resistance
+Potions of Elemental Resistance provide resistance to the corresponding element.
+
 ##### Barkskin / Stoneskin
+Potions of Barkskin and Potions of Stoneskin are weaker forms of the Potions of Resistance, and effectively cast the spells *barkskin* and *stoneskin* respectively.
 
 #### Potion of Charm
 ##### Rage
@@ -286,6 +297,9 @@ Bituitem combined with Yellow Powder and reformed into markers allow for long-la
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
 
+#### Magical Bean
+Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted.
+
 ## Powders
 #### Alchemical / Magical Chalk
 #### Alchemical Thermite
@@ -295,7 +309,17 @@ An alchemical fabric that acts similar to elastic. In addition to its stretching
 Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item.
 
 ### Invoke Wonder
+#### Alchemical Conjuration
+This rune is commonly applied to containers (*alchemy jug*).
+#### Animation
+This rune provides inert objects the ability to move in simple or complex manners. (*animated shield*).
 ### Enhance
+#### Physical Patches
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in physical attributes (*amulet of health*).
+#### Mental Patches
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in mental attributes (*amulet of health*).
+#### Woven Patches
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
 ### Curse
 ## Scrolls
 When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll.
