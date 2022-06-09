@@ -22,11 +22,16 @@ Foul make up the large majority of an Acstownian's meat supplies. Chevron takes 
 Goat is the only available true dairy in Acstow. Peanut and Almond milks are acceptable substitutes in most cases.
 
 #### Grain
-Largely, potato is the only "grain" produced in Acstow. Small amounts of other grains could be found, but not in large quantities, and almost certainly not for sale.
+Potatoes and Peanuts are the two most common flours in Acstow. Potato flour makes a fluffy white bread while Peanut makes a dense protein heavy soup thickener or breading.
+
+Small amounts of true grains could be found, but not in large quantities, and almost certainly not for sale.
 
 #### Fruit
-Few fruits are grown in Acstow, those that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
+While soil and temperature can be controlled, space is an issue for growing Fruit in Acstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
+Acstow grows Peach and Plum for their plump juices. Lemon, Lime, and Orange are cultivated here because of their rarety elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Acstow.
+
+Peanuts are grown similar in quantity to potatoes.
 
 #### Vegetable
 #### Spice and Oil
