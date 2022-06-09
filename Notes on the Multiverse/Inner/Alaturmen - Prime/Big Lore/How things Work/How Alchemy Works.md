@@ -39,35 +39,56 @@ Mechanically, this should simply look like better rolls = better success.
 
 ## Flora
 #### Flowers
+Many common flowers are Alchemically potent. Often times, the hue of a flower alludes to its effects.
 ##### Alkanet Pulp
+A necessary component of high grade Potions of Cure
 ##### Aloe Vera Nectar
+A necessary component of high grade Potions of Healing.
 ##### Dragon's Tongue
+A necessary component of high grade Potions of Dragon's Breath
 ##### Foxglove Pulp
+A necessary component of high grade Potions of Form
 ##### Ginko Leaf
+A necessary component of high grade Potions of Charm
 ##### Lavender
+A necessary component of high grade Impairment Poisons
 ##### Nightshade
+A necessary component of high grade Traditional Poisons
 #### Fungi
 ##### Polypore Red Cap
+A necessary component of high grade Huumpo
 ##### Polypore Yellow Cap
+A necessary component of high grade Huumpo
 ##### Polypore Blue Cap
+A necessary component of high grade Huumpo
 ##### Dryad Saddle
 ##### Elf Cup
+A necessary component of high grade Elvenfiber
 ##### Glowshroom
+A necessary component of high grade Liquid Light
 ##### Stinkhorn
 ##### Smokebulb
 #### Fruit
 ##### Goodberry
+A necessary component of high grade Heamox Balm
 #### Moss
 ##### Brightmoss
+A necessary component of high grade Liquid Light
 #### Seed
 ##### Apple Seed
+A necessary component of high grade Impairment Poison: Sleep
 #### Roots
 ##### Harrada
+A necessary component of high grade Impairment Poison: Paralyze
 ##### Mandrake
+Considered a "spark of life"
 ##### Onion
+A necessary component of high grade Potion of Cure
 #### Wood
 ##### Heartnut Wood
+A necessary component of Potion of Barkskin and Potion of Stoneskin
 ##### Iron-wood
+A necessary component of high grade Potion of Resistance
 ## Fauna
 ### Liquid
 #### Blood
@@ -97,6 +118,7 @@ Mechanically, this should simply look like better rolls = better success.
 ##### Devil Horn
 ##### Dragon Tooth
 ##### Unicorn Horn
+A necessary component of high grade potion of
 #### Feather / Scale
 ##### Phoenix Feather
 ##### Harpy Feather
@@ -187,10 +209,11 @@ As collected from an Air Elemental
 #### Distilled Water
 
 # Common Alchemical Products
-All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale.
+All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale. Time of production varies with Grade as well.
+
 ## Liquids
 ### Potions
-#### Potion of "Healing"
+#### Potion of Healing
 True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when consumed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
 ##### Vitality
 Passed off as "healing" potions, Potions of Vitality are typically much cheaper than their true cousins, as they do not actually heal any wounds, but rather invigorate the consumer for the same number in temperary HP as they would when consuming a Potion of Healing.
@@ -297,9 +320,9 @@ See *blind/deafen*
 ##### Slow
 Some reduce a target's ability to move.
 See *slow*
-##### Paralyze
+##### Paralyze / Sleep
 Or prevent it entirely.
-See the effect *paralyzed*
+See the effects *paralyzed, sleep*
 
 #### King's Last Drink
 The King's Last Drink is a slow acting poison that creates two affects in its consumer. While this poison never kills its consumer, it does render them nearly functionless.
@@ -366,7 +389,7 @@ An extremely taxing material to produce, Pure Force is a measure of magically co
 See *wall of force*
 
 #### Magical Bean
-Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted.
+Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted and watered.
 
 ## Powders
 #### Alchemical / Magical Chalk
@@ -379,6 +402,8 @@ Alchemical Thermite is a powerful substance that burns extremely hot, long, and 
 ## Runes
 Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item.
 
+Runes can take anywhere from an hour to multiple weeks.
+
 ### Wonder
 #### Alchemical Conjuration
 This rune is commonly applied to containers (*alchemy jug*).
@@ -388,17 +413,17 @@ This rune provides inert objects the ability to move in simple or complex manner
 This rune alters the dimension of the internals of the container it is applied to (*bag of devouring, holding, tricks*).
 #### Detection
 This rune allows detection of certain otherwise undetectable things (*see invisibility, detect magic*).
-#### Flight
+#### Flying
 This rune allows flight (*carpet of flying, boots of levitation, broom of flying*).
-#### Illusion
+#### Invoke Illusion
 This rune invokes an illusion of some kind, as specified within the markings of the Rune (*hat of disguise*).
 #### Immobility
 This rune locks the affected outside of physic's reach. (*immovable rod*).
 #### Understanding
 This rune imparts knowledge onto its affected (*helm of comprehend languages*).
-#### Sense
+#### Sensing
 This rune allows vision of senses beyond a user's typical (*lenses of truesight*).
-#### Spellbind
+#### Spellbinding
 Runes of Spellbinding are incredibly difficult to successfully create on existing objects (*staff of power*).
 ### Enhance
 #### Elemental Patches
