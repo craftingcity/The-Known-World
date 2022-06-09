@@ -63,9 +63,13 @@
 			- [[Economics of the Hobgoblin Territories]]
 			- [[Economics of The Holyl'nds]]
 		- **How things Work**
+			- **Alchemy**
+				- [[All Alchemical Ingredients]]
+				- [[All Alchemical Products, kinda]]
+				- [[How Alchemy Works]]
 			- [[Durandurm Weaponry]]
-			- [[How Alchemy Works]]
-			- [[How the Weave becomes Magic]]
+			- **Magic**
+				- [[How the Weave becomes Magic]]
 			- [[The Planes of Existence]]
 			- [[The Worldwide Calendar Systems]]
 		- **Language**
@@ -103,6 +107,7 @@
 			- [[Stone of Desmoniur]]
 			- [[Three Nation Highways]]
 		- **Northeastern Central**
+			- [[Archmage Barrowinch's Tower]]
 			- [[Benders]]
 			- [[Castle Prosper]]
 			- [[Diables]]

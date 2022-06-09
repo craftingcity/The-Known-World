@@ -3,13 +3,13 @@ tags: economy
 aliases:
 ---
 
-# UNASSIGNED Economy
+# Holyl'nd's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-I'm gonna need at the very least, a size, terrain, and weather pattern.
+The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in [[Its Greatness|It's]] glory. The Holyl'nds experience cold, wet weather patterns.
 
-### "Bread"
-What is *the* food?
+### Cornbread
+Cornbread is the bread of "choice" in the Holyl'nds. Other, perhaps truer, grains simply do not grow in this area.
 
 ### Food
 What lives here?

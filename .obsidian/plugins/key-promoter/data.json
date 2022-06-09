@@ -7,11 +7,11 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 16,
+    "file-explorer:new-file": 17,
     "workspaces:open-modal": 1,
     "editor:attach-file": 3,
-    "app:delete-file": 50,
-    "editor:delete-paragraph": 50,
+    "app:delete-file": 51,
+    "editor:delete-paragraph": 51,
     "graph:open": 12,
     "workspace:undo-close-pane": 29,
     "workspace:close": 29,
@@ -55,7 +55,7 @@
     "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": 1,
     "graph-analysis:open-Clustering Coefficient": 1,
     "workspace:export-pdf": 1,
-    "find-unlinked-files:delete-unlinked-files": 12,
+    "find-unlinked-files:delete-unlinked-files": 13,
     "graph:open-local": 1,
     "graph:animate": 1
   },
