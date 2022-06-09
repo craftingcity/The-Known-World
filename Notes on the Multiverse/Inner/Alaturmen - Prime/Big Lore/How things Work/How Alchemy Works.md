@@ -20,15 +20,19 @@ Apprentices
 Experts and Masters of the craft of Alchemy are likely working with ingredients and products not on upcoming listings – items so rare that they cannot be mentioned, or secret procedures producing higher quality items.
 
 # How do I start?
+You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
 
-Very little learned magic can be enough to start an alchemist on their journey. Mending, Presdedigation, and like cantrips are very useful tools in any alchemist's tool-belt.
+## Philosopher's Stone
+Alchemy almost always begins at the Philosopher's stone. A Philosipher's Stone or some of its baser products are a requirement in higher level alchemy. 
 
-Alchemy begins at the Philosopher's stone. A Philosipher's Stone or some of its baser products are a requirement in higher level alchemy. Creating such a stone requires a spark of life, a powder of wisdom, and time. Such vague ingredients have led many alchemists to form their own recipes for creating such a work.
+Creating such a stone requires "a spark of life", "a powder of wisdom", and time. The vaguer ingredients have led many alchemists to form their own recipes for creating such a work.
 
-Once an alchemist has their stone, they can create Red Water, and Yellow Powder, two forms of material that inherit portions of the abilities of the Philosophers Stone. Recipes for creating Philosopher's Stones that bear these ingredients form new Stones much quicker than those without.
+Expert Alchemists can create Red Water, and Journeymen can craft Yellow Powder. These two materials are the two forms of Philosopher's Stone. Recipes for creating Philosopher's Stones that bear these ingredients form new Stones much quicker than those without, leading to theoretically exponentially increasing production.
 
 # Common Knowledge Ingredients
-General Categories list specific categories list rare ingredients in those categories.
+General Categories list specific categories list rare ingredients in those categories. Rarer ingredients are more potent.
+
+Mechanically, this should simply look like better rolls = better success.
 
 ## Flora
 #### Flowers
@@ -173,27 +177,38 @@ All products have either a quality or a required "mastery" of the skills of alch
 ## Liquids
 ### Potions
 #### Potion of "Healing"
+True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when Quaffed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
 ##### Vitality
-##### Healing
+Passed off as "healing" potions, Potions of Vitality are typically much cheaper than their true cousins, as they do not actually heal any wounds, but rather invigorate the Quaffer for the same number in temperary HP as they would when Quaffing a Potion of Healing.
+##### Cure
+Potions of "Cure Disease" are a combination of alchemical and traditional anti-biotics, anti-fungals, and anti-parasites.
+
 #### Potion of Resistance
 ##### Elemental Resistance
 ##### Barkskin / Stoneskin
+
 #### Potion of Charm
 ##### Rage
 ##### Love
 ##### Greed
+
 #### Potion of Enhance
+
 #### Potion of Detection / Sense / Understanding
 ##### Detection
 ##### Sense
 ##### Understanding
+
 #### Potion of Haste
+
 #### Potion of Dragon's Breath
+
 #### Potion of Form
 ##### Shadow
 ##### Gas
 ##### Aqua
 ##### Freedom
+
 ### Oils
 #### Hell Oil
 Hell Oil sticks to metal, sliding around and off other materials like water, and burns while in contact with oxygen.
@@ -202,34 +217,50 @@ Hell Oil sticks to metal, sliding around and off other materials like water, and
 Ice Oil sticks to metal, sliding around and off other materials like water, and freezes while in contact with oxygen.
 
 #### Liquid Light
+
 #### Liquid Fear
+
 #### Liquid Joy
+
 #### Liquid Calm
+
 #### Miner's Savior
+
 ### Poisons
 #### Sleep Juice
+
 #### Impairment
 ##### Diminish Affect
 ##### Blind / Deafen
 ##### Slow
 ##### Paralyze
+
 #### King's Last Drink
 ##### Truth
 ##### Madness
+
 #### Stink
+
 ### Acids
 #### Royal Water
+
 #### Enchanter's Acid
+
 ## Gels
 ### Helpful
 #### Dwarven Grease
-#### Alchemical Leather
+
+#### Alchemical Leather / Hide
+
 #### Alchemical Steel
+
 #### Scar Balm
+
 #### Heamox Balm
 A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, and Paralysis.
+
 #### Zombaren Balm
-A balm that prevents zombification.
+A balm that prevents when correctly applied to wounds, fights against the permanent affects of being bitten by a Zombie, including Grave Rot, Pain, Stat Decrease, and Zombification.
 
 ### Harmful
 ### Otherwise
