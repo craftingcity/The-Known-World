@@ -59,23 +59,22 @@ In outskirt homesteads and villages, there are no ways of refrigerating food, bu
 
 Often, in addition to the "average", farms in Prosper have dairy working sheds, drying sheds, and outbuildings for fuel storage.
 
-The king's "tax" is one-twelfth to the army, one twelfth to the poor, and one-twelfth to the public. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
+The king's tax is one-twelfth to the army, one twelfth to the poor, and one-twelfth to the nobility. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
 
 ### Cutting Corners
-The people of Prosper are practical, they eat cheap grains with cheap dishes. Most people make their own clothes and spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another.
+The people of Prosper are practical, they eat cheap grains and meats in cheap dishes. Most people make their own clothes and grow their own spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another – they "do as the King would do".
 
 ### Middlemen
 Prosper is positioned in the second best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner can buy a small collection of novel spices for a season alongside their staples at festival markets.
 
-Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. No-one is going to snitch their neighbor's backroom deals, most likely because they're a part of them, and they would like things to stay the way they are instead of paying unnecessary fees.
+Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. The people of would like things to stay the way they are instead of paying seemingly unnecessary fees for "transportation" or false "luxury".
 
 ### Craftsmen
+The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the value of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
 
-The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
+The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as specialized rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
 
-The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
-
-Guilded Craftsmen generally request 50/50 timed charging based on how long they believe the project to take at the level of quality requested.
+Guilded Craftsmen generally request 50/50 timed charging based on how long they believe the project to take at the level of quality requested, according to the Guild's value of these things, of course.
 
 ### Textiles
 People in Prosper wear mostly for furs or goat-wool. Leather is more useful as things other than clothing. Canvas is more common than Linen, and much more common than the luxury import Silk.

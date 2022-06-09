@@ -53,10 +53,14 @@ Land in Actstow is a prime resource. One can purchase or lease land from the Kin
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
 
-
+Taxes are payed by the Clans. Clans have individual tax regimes, using different methods to calculate the correct figures, but most commoners end up paying about one-fifth of their profit to their Clan. The Clans then each turn and pay the King, about one-sixth of *their* profit. These tax collections happen every ten years, and are enforced by mundane tax collectors that quote figures based on what they can observe. Most folks attempt to cheat the collectors, leading to the low figures seen above. This crime is considered minor and is punished by fine, leading to someone who gets caught paying closer to one-third of their profit from this ten year period.
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
+
+Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves. 
+
+The most common of these methods is tax evasion. Most citizens of Actstow keep a hidden compartment or room for their most valued possessions, including (when the tax collector comes) work-stations, tools, fine furniture and clothing, and food preserves.
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
