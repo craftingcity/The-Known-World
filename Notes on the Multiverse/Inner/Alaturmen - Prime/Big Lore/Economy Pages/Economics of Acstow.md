@@ -29,7 +29,7 @@ Small amounts of true grains could be found, but not in large quantities, and al
 #### Fruit
 While soil and temperature can be controlled, space is an issue for growing Fruit in Acstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
-Acstow grows Peach and Plum for their plump juices and Peanuts for their protein. Lemon, Lime, and Orange are cultivated here because of their rarety elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Acstow.
+Acstow grows Peach and Plum for their plump juices and Peanuts for their protein. Lemon, Lime, and Orange are cultivated here because of their rarely elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Acstow.
 
 #### Vegetable
 Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Acstow. Dense leafy greens like Cabbage and Lettuce grow well too.
@@ -38,16 +38,24 @@ Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes
 Beet Sugar and Salt are the two most common spices and preservatives in Acstow. Garlic, Ginger, and Onion grow well in the limiting conditions. Mint and Parsley are commonly imported from the east. Cinnamon more uncommon, but still accessible to the lower-middle class, also imported from the east.
 
 #### Delicacy
-As in 
+Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Acstow delicacy. Pairs well with ginger, onion, and garlic.
+
+Acstow is a fairly rich place, although not well positioned for massive trade, meaning most "delicacy" is imported.
 
 ### Vices
-What do people do for *fun*?
+The greatest vices of Acstow are Smokebulb, Tobacco, and Cannabis. Smokebulb is generally home-grown, as it is culturally unacceptable, but Cannabis and Tobacco are imported and much more acceptable.
+
+Some brothels crop up in Acstow, but these, like Smokebulb, are considered culturally unacceptable and are generally run *poorly*.
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
 
+Land in Acstow is a prime resource. One can purchase or lease land from the King in units of 1/8th acres. Rooms in Inns and the like are costly.
+
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
+
+
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?

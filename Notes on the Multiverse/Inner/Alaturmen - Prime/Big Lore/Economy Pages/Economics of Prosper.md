@@ -43,7 +43,7 @@ Cow Butter is generally reserved special occasion and Goat Butter used in everyd
 Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do as well.
 
 ### Vices
-Brothels in Alaturmen are all represented by the Guild of Merchants, should they chose to be.
+Brothels in all Alaturmen are represented by the [[Guild of Merchants#Yáramólë]], should they chose to be.
 
 Many farmers grow Cannabis and Tobacco alongside their other fibers and dry them at home. These are one of Prosper's few exports to the world trade.
 
