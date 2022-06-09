@@ -35,12 +35,12 @@ Beans, Carrots, Cabbage, Oats, Pumpkin, and Winter Squash are food of the common
 Animals are to be fed hay, corn, or potato. 
 
 #### Spice and Oil
-The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
+The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Mint and Parsley grow well in the area. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
 
-Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but cheaper, more distasteful options are available in heart-nut oil and seedoil.
+Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but "cheaper" (although only from lack of demand), more distasteful options are available in heart-nut oil and seedoil.
 
 #### Delicacy
-Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do only barely well.
+Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do as well.
 
 ### Vices
 Brothels in Alaturmen are all represented by the Guild of Merchants, should they chose to be.

@@ -33,7 +33,7 @@ Mint and Parsley grow well in the shade, as well as the common roots such as Gar
 
 Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juice.
 
-Nut oils are made, but considered poor replacements for goat's butter. Rarely, good Oils from the City in Gold make their way into the territories and are highly valued.
+Nut oils and milks are made, but considered poor replacements for goat's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
 
 #### Delicacy
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.

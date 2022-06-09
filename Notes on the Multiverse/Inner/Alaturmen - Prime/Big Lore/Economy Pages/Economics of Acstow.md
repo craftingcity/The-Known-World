@@ -29,13 +29,16 @@ Small amounts of true grains could be found, but not in large quantities, and al
 #### Fruit
 While soil and temperature can be controlled, space is an issue for growing Fruit in Acstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
-Acstow grows Peach and Plum for their plump juices. Lemon, Lime, and Orange are cultivated here because of their rarety elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Acstow.
-
-Peanuts are grown similar in quantity to potatoes.
+Acstow grows Peach and Plum for their plump juices and Peanuts for their protein. Lemon, Lime, and Orange are cultivated here because of their rarety elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Acstow.
 
 #### Vegetable
+Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Acstow. Dense leafy greens like Cabbage and Lettuce grow well too.
+
 #### Spice and Oil
+Beet Sugar and Salt are the two most common spices and preservatives in Acstow. Garlic, Ginger, and Onion grow well in the limiting conditions. Mint and Parsley are commonly imported from the east. Cinnamon more uncommon, but still accessible to the lower-middle class, also imported from the east.
+
 #### Delicacy
+As in 
 
 ### Vices
 What do people do for *fun*?
