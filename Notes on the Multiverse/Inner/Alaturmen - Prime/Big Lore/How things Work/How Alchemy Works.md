@@ -53,7 +53,6 @@ Mechanically, this should simply look like better rolls = better success.
 ##### Stinkhorn
 #### Moss
 ##### Brightmoss
-##### Common Moss
 #### Seed
 ##### Apple Seed
 #### Roots
@@ -151,9 +150,13 @@ Alchemically inert and visually semi-transparent.
 #### Dirt
 #### Salt
 ##### of Rock
+As collected from an Earth Elemental
 ##### of Fire
+As collected from a Fire Elemental
 ##### of Ice
+As collected from a Water Elemental
 ##### of Storm
+As collected from an Air Elemental
 #### Sulfur
 ### Goop
 #### Crude Oil
@@ -267,7 +270,7 @@ This grease degrades very slowly, even under great stress, allowing for great wo
 A weak healing balm that removes scarring from skin when applied.
 
 #### Heamox Balm
-A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, Paralysis, and most Diseases.
+A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, Paralysis, and most Diseases (~*Keoghtom's Ointment*).
 
 #### Zombaren Balm
 A healing balm that prevents when correctly applied to wounds, fights against the permanent affects of being bitten by a Zombie, including Grave Rot, Pain, Stat Decrease, and Zombification.
@@ -282,6 +285,8 @@ Alchemical clay acts like normal clay in nearly every way, except that it is ine
 > All recipes of alchemical clay require a base of Philosipher's Stone and some inert clay. Other ingredients, and all processes are specific to their recipes.
 
 #### Alchemical Leather / Hide
+##### Elvenfiber
+##### Animabric
 
 
 #### Black Steel
@@ -297,6 +302,8 @@ Bituitem combined with Yellow Powder and reformed into markers allow for long-la
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
 
+#### Force
+
 #### Magical Bean
 Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted.
 
@@ -308,12 +315,23 @@ Traditionally, Magical Beans are used to store Weave Potentia, but they are valu
 ## Runes
 Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item.
 
-### Invoke Wonder
+### Wonder
 #### Alchemical Conjuration
 This rune is commonly applied to containers (*alchemy jug*).
 #### Animation
 This rune provides inert objects the ability to move in simple or complex manners. (*animated shield*).
+#### Dimension
+This rune alters the dimension of the internals of the container it is applied to (*bag of devouring, holding, tricks*).
+#### Detection
+#### Flight
+(*carpet of flying, boots of levitation, broom of flying*).
+#### Illusion
+#### Immobility
+#### Understanding
+#### Sense
 ### Enhance
+#### Elemental Patches
+(*flame tongue, frost brand*).
 #### Physical Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in physical attributes (*amulet of health*).
 #### Mental Patches
@@ -321,5 +339,8 @@ Patches of Weave applied to armor, ammunition, and weaponry can provide a boost 
 #### Woven Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
 ### Curse
+#### Attachment
+#### Berserk
+#### Vulnerability
 ## Scrolls
 When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll.
