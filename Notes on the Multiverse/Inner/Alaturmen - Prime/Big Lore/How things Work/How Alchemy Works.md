@@ -20,6 +20,9 @@ Experts and Masters of the craft of Alchemy are likely working with ingredients 
 # How do I start?
 You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes, and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
 
+## "Alchemist's Tools"
+The adventuring kit for basic alchemy is composed of a mortar and pestle, for grinding, an alembic, for wet distillation, a retort, for dry distillation, and a calcinator
+
 ## Philosopher's Stone
 Alchemy almost always begins at the Philosopher's stone. A Philosipher's Stone or some of its baser products are a requirement in higher level alchemy. 
 
@@ -49,6 +52,9 @@ Mechanically, this should simply look like better rolls = better success.
 ##### Elf Cup
 ##### Glowshroom
 ##### Stinkhorn
+##### Smokebulb
+#### Fruit
+##### Goodberry
 #### Moss
 ##### Brightmoss
 #### Seed
