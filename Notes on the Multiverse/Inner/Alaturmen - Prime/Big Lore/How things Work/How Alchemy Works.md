@@ -9,11 +9,11 @@ Alchemy is the process of creating or imparting a consistent magical effect into
 Often, the finished results are the potions that keep adventurers alive, the tinctures that commoners take to stave off disease, and the trinkets and items that perform specific tasks all around Alaturmen.
 
 ## Grades
-Masters
-Experts
-Journeymen
-Novices
-Apprentices
+Masters (~lvl 16)
+Experts (~lvl 11)
+Journeymen (~lvl 8)
+Novices (~lvl 5)
+Apprentices (~lvl 1)
 
 Experts and Masters of the craft of Alchemy are likely working with ingredients and products not on upcoming listings – items so rare that they cannot be mentioned, or secret procedures producing higher quality items.
 
@@ -335,32 +335,37 @@ Alchemical clay acts like normal clay in nearly every way, except that it is ine
 
 > All recipes of alchemical clay require a base of Philosipher's Stone and some inert clay. Other ingredients, and all processes are specific to their recipes.
 
-#### Alchemical Leather / Hide
+#### Alchemical Fiber / Leather / Hide
+Alchemical fibers have been treated by alchemical processes to be tougher and less reactive than their untreated counterparts.
 ##### Elvenfiber
+Elvenfiber is a very rare material that is used to make *equipment of elvenkind*.
 ##### Animabric
-
+Animabric is a fiberous material that is used to create cloaks and other clothing that hold Woven Patches and other Affects.
 
 #### Black Steel
 Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting while such an item is nearby.
 
 #### Bituitem
-A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size.
-
-Can be used as candles or markers when correctly shaped.
+A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size. This substance can be used for extremely long lasting candles or markers when correctly shaped.
 ##### Magical Bituitem
-Bituitem combined with Yellow Powder and reformed into markers allow for long-lasting rune writings.
+Bituitem combined with Yellow Powder and reformed into markers allow for long-lasting Rune writings.
 
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
 
-#### Force
+#### Pure Force
+An extremely taxing material to produce, Pure Force is a measure of magically contained pressure that acts as a solid substance.
+See *wall of force*
 
 #### Magical Bean
 Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted.
 
 ## Powders
 #### Alchemical / Magical Chalk
+Alchemical Chalk is a common component in rituals and other magical happenings. It is produced by combining mundane chalk and Yellow Powder.
+
 #### Alchemical Thermite
+Alchemical Thermite is a powerful substance that burns extremely hot, long, and precise.
 
 # Common Enchanter's Products
 ## Runes
@@ -370,31 +375,49 @@ Runes can be written in Magical Chalk or Magical Bituitem to invoke specific eff
 #### Alchemical Conjuration
 This rune is commonly applied to containers (*alchemy jug*).
 #### Animation
-This rune provides inert objects the ability to move in simple or complex manners. (*animated shield*).
+This rune provides inert objects the ability to move in simple or complex manners (*animated shield*).
 #### Dimension
 This rune alters the dimension of the internals of the container it is applied to (*bag of devouring, holding, tricks*).
 #### Detection
+This rune allows detection of certain otherwise undetectable things (*see invisibility, detect magic*).
 #### Flight
-(*carpet of flying, boots of levitation, broom of flying*).
+This rune allows flight (*carpet of flying, boots of levitation, broom of flying*).
 #### Illusion
+This rune invokes an illusion of some kind, as specified within the markings of the Rune (*hat of disguise*).
 #### Immobility
+This rune locks the affected outside of physic's reach. (*immovable rod*).
 #### Understanding
+This rune imparts knowledge onto its affected (*helm of comprehend languages*).
 #### Sense
+This rune allows vision of senses beyond a user's typical (*lenses of truesight*).
 #### Spellbind
 Runes of Spellbinding are incredibly difficult to successfully create on existing objects (*staff of power*).
 ### Enhance
 #### Elemental Patches
-(*flame tongue, frost brand*).
+Patches of weave applied to armor, ammunition, and weaponry can invoke the elements to their advantage (*flame tongue, frost brand*).
+
 #### Physical Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in physical attributes (*amulet of health*).
+
 #### Mental Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in mental attributes (*amulet of health*).
+
 #### Woven Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
 ### Curse
 #### Attachment
+Some curses bond an unhealthy attachment between the user and the cursed item.
+
 #### Emotion
+Some curses affect the user's mood.
+
 #### Vulnerability
+Some curses invoke vulnerability on a user, generally or specifically.
+
 #### Harm
+Some curses outright harm the user.
+
 ## Scrolls
-When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll.
+When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll. This process takes a variable amount of time, depending on the Grade of equipment they are using and the level of the spell they wish to Scroll. One can use the following expression to determine the time such an act would take.
+
+(3 days^level of spell) / (grade of best equipment where Apprentice is 1)

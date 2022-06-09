@@ -9,7 +9,7 @@
     "open-with-default-app:show": 1,
     "file-explorer:new-file": 16,
     "workspaces:open-modal": 1,
-    "editor:attach-file": 2,
+    "editor:attach-file": 3,
     "app:delete-file": 50,
     "editor:delete-paragraph": 50,
     "graph:open": 12,
