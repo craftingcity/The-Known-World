@@ -25,6 +25,7 @@ Goat is the only available true dairy in Acstow. Peanut and Almond milks are acc
 Largely, potato is the only "grain" produced in Acstow. Small amounts of other grains could be found, but not in large quantities, and almost certainly not for sale.
 
 #### Fruit
+Few fruits are grown in Acstow, those that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
 
 #### Vegetable
