@@ -172,26 +172,53 @@ General Categories list specific categories list rare ingredients in those categ
 All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale.
 ## Liquids
 ### Potions
-#### Healing
-#### Resistance
-#### Vitality
+#### Potion of "Healing"
+##### Vitality
+##### Healing
+#### Potion of Resistance
+##### Elemental Resistance
+#### Potion of Charm
+##### Rage
+##### Love
+#### Potion of Enhance / Diminish
+#### Potion of Detection / Sense / Understanding
+##### Detection
+##### Sense
+##### Understanding
+#### Potion of Haste
+#### Potion of Dragon's Breath
+#### Potion of 
 ### Oils
 #### Hell Oil
 Hell Oil sticks to metal, sliding around and off other materials like water, and burns while in contact with oxygen.
+
 #### Ice Oil
+Ice Oil sticks to metal, sliding around and off other materials like water, and freezes while in contact with oxygen.
+
 #### Liquid Light
 #### Liquid Fear
+#### Liquid Joy
+#### Liquid Calm
 #### Miner's Savior
-### Poisons / Acids
+### Poisons
+#### Sleep Juice
+#### Impairment
+##### Blind / Deafen
+##### Slow
+##### Paralyze
+#### King's Last Drink
+### Acids
 #### Royal Water
 #### Enchanter's Acid
-## Gels / Salves
+## Gels
 ### Helpful
 #### Dwarven Grease
 #### Alchemical Leather
 #### Alchemical Steel
 #### Scar Balm
 #### Heamox Balm
+A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, and Paralysis.
+
 ### Harmful
 ### Otherwise
 #### Huumpo
@@ -215,3 +242,4 @@ The ability to permanently suspend an object from the effects of physics is a po
 ## Powders
 #### Alchemical / Magical Chalk
 #### Alchemical Thermite
+## Runes
