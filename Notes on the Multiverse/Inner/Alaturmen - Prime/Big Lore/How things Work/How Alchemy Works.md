@@ -236,13 +236,19 @@ A balm that prevents zombification.
 #### Huumpo
 ## Solids
 #### Alchemical Clay
+Alchemical clay acts like normal clay in nearly every way, except that it is inert to nearly all magical or physical effects. While pieces formed of Alchemical Clay cannot shatter, chip, rust, or otherwise decay, they do dent well when exposed to mild force and an un-moving object. 
+
+> All recipes of alchemical clay require a base of Philosipher's Stone and some inert clay. Other ingredients, and all processes are specific to their recipes.
+
 #### Black Steel
+Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting.
+
 #### Bituitem
 A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size.
 
 Can be used as candles or markers when correctly shaped.
-##### Magic Bituitem
-Bituitem combined with 
+##### Magical Bituitem
+Bituitem combined with Yellow Powder and reformed into markers allow for long-lasting rune writings.
 
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
@@ -259,7 +265,7 @@ The ability to permanently suspend an object from the effects of physics is a po
 
 # Common Enchanter's Products
 ## Runes
-Runes can be written in Magical Chalk or to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent.
+Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent.
 ### Invoke Wonder
 ### Enhance
 ### Curse
