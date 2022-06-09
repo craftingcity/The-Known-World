@@ -146,10 +146,10 @@ Mechanically, this should simply look like better rolls = better success.
 #### Charcoal
 #### Dirt
 #### Salt
-##### Rock
-##### Fire
-##### Ice
-##### Storm
+##### of Rock
+##### of Fire
+##### of Ice
+##### of Storm
 #### Sulfur
 ### Goop
 #### Crude Oil
@@ -243,36 +243,38 @@ Ice Oil sticks to metal, sliding around and off other materials like water, and 
 
 ### Acids
 #### Royal Water
+This is one of the most powerful Acids an Alchemist can create. This is one of the few substances that would burn through alchemically enhanced solids.
 
 #### Enchanter's Acid
+Enchanter's Acid is also a very powerful acid, but only when in the presence of a Woven material, including Runes or Enchanted Objects.
 
 ## Gels
-### Helpful
-#### Dwarven Grease
-
-#### Alchemical Leather / Hide
-
-#### Alchemical Steel
+#### Dwarven / Gnomish Grease
+This grease degrades very slowly, even under great stress, allowing for great works of engineering. As it is quite sticky, one must be very careful during the application process.
 
 #### Scar Balm
+A weak healing balm that removes scarring from skin when applied.
 
 #### Heamox Balm
-A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, and Paralysis.
+A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, Paralysis, and most Diseases.
 
 #### Zombaren Balm
-A balm that prevents when correctly applied to wounds, fights against the permanent affects of being bitten by a Zombie, including Grave Rot, Pain, Stat Decrease, and Zombification.
+A healing balm that prevents when correctly applied to wounds, fights against the permanent affects of being bitten by a Zombie, including Grave Rot, Pain, Stat Decrease, and Zombification.
 
-### Harmful
-### Otherwise
 #### Huumpo
+This pink gel is extremely flammable, and alights on its own when exposed to oxygen.
+
 ## Solids
 #### Alchemical Clay
 Alchemical clay acts like normal clay in nearly every way, except that it is inert to nearly all magical or physical effects. While pieces formed of Alchemical Clay cannot shatter, chip, rust, or otherwise decay, they do dent well when exposed to mild force and an un-moving object. 
 
 > All recipes of alchemical clay require a base of Philosipher's Stone and some inert clay. Other ingredients, and all processes are specific to their recipes.
 
+#### Alchemical Leather / Hide
+
+
 #### Black Steel
-Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting.
+Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting while such an item is nearby.
 
 #### Bituitem
 A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size.
@@ -284,19 +286,14 @@ Bituitem combined with Yellow Powder and reformed into markers allow for long-la
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
 
-#### Unliftables
-The ability to permanently suspend an object from the effects of physics is a powerful one.
-
-#### Woven Steel
-#### Woven Glass
-
 ## Powders
 #### Alchemical / Magical Chalk
 #### Alchemical Thermite
 
 # Common Enchanter's Products
 ## Runes
-Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent.
+Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item.
+
 ### Invoke Wonder
 ### Enhance
 ### Curse
