@@ -168,7 +168,7 @@ General Categories list specific categories list rare ingredients in those categ
 #### Ink
 #### Distilled Water
 
-# Common Knowledge Products
+# Common Alchemical Products
 All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale.
 ## Liquids
 ### Potions
@@ -177,17 +177,23 @@ All products have either a quality or a required "mastery" of the skills of alch
 ##### Healing
 #### Potion of Resistance
 ##### Elemental Resistance
+##### Barkskin / Stoneskin
 #### Potion of Charm
 ##### Rage
 ##### Love
-#### Potion of Enhance / Diminish
+##### Greed
+#### Potion of Enhance
 #### Potion of Detection / Sense / Understanding
 ##### Detection
 ##### Sense
 ##### Understanding
 #### Potion of Haste
 #### Potion of Dragon's Breath
-#### Potion of 
+#### Potion of Form
+##### Shadow
+##### Gas
+##### Aqua
+##### Freedom
 ### Oils
 #### Hell Oil
 Hell Oil sticks to metal, sliding around and off other materials like water, and burns while in contact with oxygen.
@@ -203,10 +209,14 @@ Ice Oil sticks to metal, sliding around and off other materials like water, and 
 ### Poisons
 #### Sleep Juice
 #### Impairment
+##### Diminish Affect
 ##### Blind / Deafen
 ##### Slow
 ##### Paralyze
 #### King's Last Drink
+##### Truth
+##### Madness
+#### Stink
 ### Acids
 #### Royal Water
 #### Enchanter's Acid
@@ -218,6 +228,8 @@ Ice Oil sticks to metal, sliding around and off other materials like water, and 
 #### Scar Balm
 #### Heamox Balm
 A powerful healing balm that, when correctly applied to wounds, heals both the external and internal wounds of the appliee. This includes, but is not limited to, Bleeding, Poison, and Paralysis.
+#### Zombaren Balm
+A balm that prevents zombification.
 
 ### Harmful
 ### Otherwise
@@ -229,6 +241,8 @@ A powerful healing balm that, when correctly applied to wounds, heals both the e
 A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size.
 
 Can be used as candles or markers when correctly shaped.
+##### Magic Bituitem
+Bituitem combined with 
 
 #### Pressigen
 An alchemical fabric that acts similar to elastic. In addition to its stretching capabilities, it also conforms to an edge on its own; when used to create clothes or when acting as a sealant, the Pressigen squeezes to become water-tight against the object(s).
@@ -242,4 +256,12 @@ The ability to permanently suspend an object from the effects of physics is a po
 ## Powders
 #### Alchemical / Magical Chalk
 #### Alchemical Thermite
+
+# Common Enchanter's Products
 ## Runes
+Runes can be written in Magical Chalk or to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent.
+### Invoke Wonder
+### Enhance
+### Curse
+## Scrolls
+When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll.
