@@ -55,7 +55,7 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- **Economy Pages**
-			- [[Economics of Acstow]]
+			- [[Economics of Actstow]]
 			- [[Economics of Combine]]
 			- [[Economics of Mountain Hall]]
 			- [[Economics of Prosper]]

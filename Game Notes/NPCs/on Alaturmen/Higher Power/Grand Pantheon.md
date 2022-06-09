@@ -94,4 +94,4 @@ The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
 The [[Feywild]] is ruled by a powerful fey who takes the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey whom in turn control the general population of the Feywild.
 
 #### Lolth
-The [[Underdark]] is ruled by the viscous misandrist [[Lolth]].
+The [[Game Notes/NPCs/in Underdark/Underdark]] is ruled by the viscous misandrist [[Lolth]].
