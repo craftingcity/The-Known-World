@@ -21,7 +21,9 @@ Experts and Masters of the craft of Alchemy are likely working with ingredients 
 You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes, and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
 
 ## "Alchemist's Tools"
-The adventuring kit for basic alchemy is composed of a mortar and pestle, for grinding, an alembic, for wet distillation, a retort, for dry distillation, and a calcinator
+The adventuring kit for basic alchemy is composed of a mortar and pestle, for grinding, an alembic, for wet distillation, a retort, for dry distillation, and a calcinator for indirect heat processing.
+
+Using these portable tools, alchemical products will be of a lower grade than when using a permanent lab.
 
 ## Philosopher's Stone
 Alchemy almost always begins at the Philosopher's stone. A Philosipher's Stone or some of its baser products are a requirement in higher level alchemy. 
@@ -31,7 +33,7 @@ Creating such a stone requires "a spark of life", "a powder of wisdom", and time
 Expert Alchemists can create Red Water, and Journeymen can craft Yellow Powder. These two materials are the two forms of Philosopher's Stone. Recipes for creating Philosopher's Stones that bear these ingredients form new Stones much quicker than those without, leading to theoretically exponentially increasing production.
 
 # Common Knowledge Ingredients
-General Categories list specific categories list rare ingredients in those categories. Rarer ingredients are more potent.
+General Categories list specific categories list rare ingredients in those categories. Rarer ingredients are more potent, but the Weave is in all things.
 
 Mechanically, this should simply look like better rolls = better success.
 
