@@ -7,9 +7,9 @@
         "id": "c427a0da3c58e3f5",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "pdf",
           "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +119,7 @@
   },
   "active": "c427a0da3c58e3f5",
   "lastOpenFiles": [
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
@@ -127,7 +128,6 @@
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Halfling Specifics.md",
     "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md"
   ]
 }
