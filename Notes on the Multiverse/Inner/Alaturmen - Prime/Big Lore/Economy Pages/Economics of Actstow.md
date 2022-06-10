@@ -74,7 +74,11 @@ Actstow does mint its own coins, but Prosper's coins are accepted for their full
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
 
+Linen and Fine Leathers are the only truly acceptable clothing materials in Actstow. Feathers are a common filigree.
 
+Hemp is a poor dwarves' material, more used for containing than wearing. 
+
+Farms of domesticated Wurm make many colors dye, but the Pure Whites and Blacks are extremely rare in Actstow.
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
