@@ -88,6 +88,8 @@ Actstow's climate is controlled, and magically maintained iceboxes are accessibl
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 
+Many containers are metal or glass, and re-usability is a prime directive when crafting containers.
+
 ### Mining
 What can be mined? How elaborate are the setups?
 
