@@ -4,14 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b64667e283789677",
+        "id": "c427a0da3c58e3f5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
+        }
+      },
+      {
+        "id": "0c9790768c5683fa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +123,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "b64667e283789677",
+  "active": "0c9790768c5683fa",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-    "MEDIA/MEDIA.md",
-    "MEDIA/SUPP/AlchemistsLab.pdf",
+    "Balthazar Wumfingle.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+    "MEDIA/MAPS/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How the Weave becomes Magic.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Halfling Specifics.md"
   ]
 }
