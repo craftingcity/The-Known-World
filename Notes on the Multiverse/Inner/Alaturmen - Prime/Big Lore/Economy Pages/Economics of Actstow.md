@@ -37,7 +37,7 @@ Beet Sugar and Salt are the two most common spices and preservatives in Actstow.
 #### Delicacy
 Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow delicacy. Pairs well with ginger, onion, and garlic.
 
-A local delicacy of the children of Actstow 
+A local delicacy of the children of Actstow is a frozen dairy cream, sweetened with spices such as cinnamon, ginger, and fruit.
 
 Actstow is a fairly rich place, although not well positioned for massive trade, meaning most "delicacy" is imported.
 
