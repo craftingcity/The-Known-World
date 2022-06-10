@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
             "mode": "source"
           }
         }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +129,15 @@
   },
   "active": "0c9790768c5683fa",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
     "conflict-files-obsidian-git.md",
     "Balthazar Wumfingle.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "MEDIA/MAPS/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md"
   ]
 }
