@@ -17,8 +17,11 @@
         "id": "0c9790768c5683fa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,6 +130,8 @@
   },
   "active": "0c9790768c5683fa",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+    "conflict-files-obsidian-git.md",
     "Balthazar Wumfingle.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
@@ -132,8 +139,6 @@
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Halfling Specifics.md"
+    "Notes on the Multiverse/Inner/Inner.md"
   ]
 }

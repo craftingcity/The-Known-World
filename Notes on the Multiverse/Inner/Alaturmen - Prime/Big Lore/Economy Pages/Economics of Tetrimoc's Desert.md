@@ -8,8 +8,9 @@ aliases:
 ### Prelim
 I'm gonna need at the very least, a size, terrain, and weather pattern.
 
-### "Bread"
-What is *the* food?
+Tetrimoc's Desert is a lawless and vast desert. Warm during the day, cold during the night – and very dry.
+
+### Corn
 
 ### Food
 What lives here?
@@ -17,6 +18,7 @@ What lives here?
 #### Dairy
 #### Grain
 #### Fruit
+Cactus!
 #### Vegetable
 #### Spice and Oil
 #### Delicacy

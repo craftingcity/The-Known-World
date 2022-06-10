@@ -8,7 +8,7 @@ aliases:
 ### Prelim
 The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in [[Its Greatness|It's]] glory. The Holyl'nds experience cold, wet weather patterns.
 
-### Cornbread
+### "White" Corn
 Cornbread is the bread of "choice" in the Holyl'nds. Other, perhaps truer, grains simply do not grow in this area.
 
 ### Food
