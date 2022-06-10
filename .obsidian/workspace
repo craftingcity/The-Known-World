@@ -12,17 +12,6 @@
             "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
         }
-      },
-      {
-        "id": "0c9790768c5683fa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +116,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "0c9790768c5683fa",
+  "active": "c427a0da3c58e3f5",
   "lastOpenFiles": [
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -136,7 +126,6 @@
     "conflict-files-obsidian-git.md",
     "Balthazar Wumfingle.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md"
   ]
