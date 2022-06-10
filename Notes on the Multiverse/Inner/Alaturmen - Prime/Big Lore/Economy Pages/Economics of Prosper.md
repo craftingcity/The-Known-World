@@ -6,7 +6,7 @@ aliases:
 # Prosper's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-The Kingdom of Prosper controls what was the [[Bandit Lords]]' territory, which is majorly farmland, and otherwise fairly forested. While it is not itself rich in resources, Prosper's relationship with Acstow allows for them to be rich in metals and other precious materials. Magic does not impact the everyday life of a citizen of Prosper. The Kingdom is a medium, less-than temperate region. It experiences mild rains.
+The Kingdom of Prosper controls what was the [[Bandit Lords]]' territory, which is majorly farmland, and otherwise fairly forested. While it is not itself rich in resources, Prosper's relationship with Actstow allows for them to be rich in metals and other precious materials. Magic does not impact the everyday life of a citizen of Prosper. The Kingdom is a medium, less-than temperate region. It experiences mild rains.
 
 ### Bread
 Rye is the common bread.
@@ -37,7 +37,7 @@ Animals are to be fed hay, corn, or potato.
 #### Spice and Oil
 The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Mint and Parsley grow well in the area. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
 
-Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but "cheaper" (although only from lack of demand), more distasteful options are available in heart-nut oil and seedoil.
+Cow butter is generally reserved for special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but "cheaper" (although only from lack of demand), more distasteful options are available in heart-nut oil and seed oil.
 
 #### Delicacy
 Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do as well.

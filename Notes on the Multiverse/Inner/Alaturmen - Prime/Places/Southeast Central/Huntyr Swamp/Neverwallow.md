@@ -21,4 +21,4 @@ If it differs from the nation's...
 
 ## Notable Locations
 [[Grumpship's Home]] - the home of a notable alchemist
-[[Neverwallow Druid's Circle]] - the circle where the druids of Neverwallow gather
+[[Druids of Aquan]] - the circle where the druids of Neverwallow gather
