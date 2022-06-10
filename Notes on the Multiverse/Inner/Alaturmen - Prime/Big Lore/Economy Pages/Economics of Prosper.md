@@ -82,7 +82,7 @@ People in Prosper wear mostly for furs or goat-wool. Leather is more useful as t
 The berries of the region make warm and cool dyes, but not very poppy ones. The people of Prosper have little demand for imported dye other than the coveted White or Black.
 
 ### Preservation
-There are few sources of salt in Prosper, although it is imported from both Combine and Acstow. Applesugar is fairly weak and distinctly flavored compared to other sources, but can still be used in preservatives. Cheese, Canned (with applesugar) and Pickled (generally in apple or barley vinegar) vegetables, Sausage, and Pemmican are the most common preservatives.
+There are few sources of salt in Prosper, although it is imported from both Combine and Acstow. Applesugar is fairly weak and distinctly flavored compared to other sources, but can still be used in preservatives. Cheese pairs well with Meat, Beer and other imported spirits. Vegetables are typically pickled with apple vinegar, lending them a strong flavor. Fruit preserves and other vegetables are sometimes canned in glass or metal cans.
 
 ### Containers
 Baskets and Bags are the most common transportation mediums, although barrels and boxes are still used in large operations. The pottery of the region is generally poor, and most folk import their pottery when they can.
