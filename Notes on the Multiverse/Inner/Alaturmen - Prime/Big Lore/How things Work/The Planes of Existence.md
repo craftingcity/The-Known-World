@@ -10,7 +10,7 @@ The Prime Material Plane (known to its population as Alaturmen, a name given to 
 As an effect of this mechanic, a commoner can walk into [[#The Wildlands]] end up in their desired plane of existence, and never be seen again.
 
 ## Mirror Planes
-So called "Mirror" planes of our [[#Prime]] plane exist. Some such include the [[Feywild]] and the [[Underdark]].
+So called "Mirror" planes of our [[#Prime]] plane exist. Some such include the [[Feywild]] and the [[Game Notes/NPCs/in Underdark/Underdark]].
 
 # The [[Wildlands]]
 ## General

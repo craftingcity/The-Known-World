@@ -20,14 +20,14 @@ Actstow has a mild trade relationship and a honored peace with [[The Church of t
 
 Actstow has a strong trade and defense relationship with [[Deepburrow]], and has a tactical incentive for its survival and defense.
 
-Actstow has a honor-bound defense relationship with [[Cenva Minyo]], but these winter elves are hardened - great cousins to be around!
+Actstow has a honor-bound defense relationship with [[Cenva Minyo]], but these winter elves are hardened - great cousins to have around!
 
 ## Physicality of the Holding
 
 ## Population Distribution
-Nearly all hill dwarves.
+Mostly Hill Dwarves, but Winter Elves from [[Cenva Minyo]] or Duergar from [[Underdark|The Deep Below]] are relatively common occupants / visitors as well.
 
 ## Defenses
 
 ## Notable Locations
-Actstow is so deep that it harbors one of the few stable entrances to the underdark.
+Actstow is so deep that it harbors one of the few stable entrances to the [[Underdark]], [[Deepburrow]].

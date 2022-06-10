@@ -3,7 +3,7 @@ tags: economy
 aliases:
 ---
 
-# UNASSIGNED Economy
+# Tetrimoc's Desert's Economy
 ## As suggested by Grains into Gold
 ### Prelim
 I'm gonna need at the very least, a size, terrain, and weather pattern.

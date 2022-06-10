@@ -35,20 +35,22 @@ Beans, Carrots, Cabbage, Oats, Pumpkin, and Winter Squash are food of the common
 Animals are to be fed hay, corn, or potato. 
 
 #### Spice and Oil
-The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
+The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Mint and Parsley grow well in the area. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
 
-Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but cheaper, more distasteful options are available in heart-nut oil and seedoil.
+Cow Butter is generally reserved special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but "cheaper" (although only from lack of demand), more distasteful options are available in heart-nut oil and seedoil.
 
 #### Delicacy
-Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do only barely well.
+Because Prosper is in a powerful trade position, the available delicacies are from almost every culture in Alaturmen. Anyone wanting to put on a show would have personally traveled to collect another region's delicacy and brought it back, but your personal assistant would do as well.
 
 ### Vices
-Brothels in Alaturmen are all represented by the Guild of Merchants, should they chose to be.
+Brothels in all Alaturmen are represented by the [[Guild of Merchants#Yáramólë]], should they chose to be.
 
 Many farmers grow Cannabis and Tobacco alongside their other fibers and dry them at home. These are one of Prosper's few exports to the world trade.
 
 ### Land
-Land is "owned" by the King, but he grants management to his nobles, who rent their land. The nobles are responsible for the upkeep of public works on their managed land, and the King often holds Common Court by lottery at festivals to check in with his citizenry.
+Land is "owned" by the King, but he grants management to his nobles, who rent their land to commoners. The nobles are responsible for the upkeep of public works on their managed land, and the King often holds Common Court by lottery at festivals to check in with his citizenry.
+
+Temples to all of the [[Grand Pantheon#Emotional Gods]] can be found in Prosper, and larger cities have multiple temples. Prosper is the Domain of the Idol Ventan, and he is worshiped in the [[Circle of Ventan]].
 
 Lands closer to Castle Prosper or Coalition City are considered much more valuable, as they are better protected. The best of the King's fields grow Barley.
 
@@ -57,23 +59,22 @@ In outskirt homesteads and villages, there are no ways of refrigerating food, bu
 
 Often, in addition to the "average", farms in Prosper have dairy working sheds, drying sheds, and outbuildings for fuel storage.
 
-The king's "tax" is one-twelfth to the army, one twelfth to the poor, and one-twelfth to the public. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty – ie with magical means.
+The king's tax is one-twelfth to the army, one twelfth to the poor, and one-twelfth to the nobility. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
 
 ### Cutting Corners
-The people of Prosper are practical, they eat cheap grains with cheap dishes. Most people make their own clothes and spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another.
+The people of Prosper are practical, they eat cheap grains and meats in cheap dishes. Most people make their own clothes and grow their own spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another – they "do as the King would do".
 
 ### Middlemen
 Prosper is positioned in the second best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner can buy a small collection of novel spices for a season alongside their staples at festival markets.
 
-Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. No-one is going to snitch their neighbor's backroom deals, most likely because they're a part of them, and they would like things to stay the way they are instead of paying unnecessary fees.
+Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. The people of would like things to stay the way they are instead of paying seemingly unnecessary fees for "transportation" or false "luxury".
 
 ### Craftsmen
+The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the value of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
 
-The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the prices of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
+The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as specialized rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
 
-The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
-
-Guilded Craftsmen generally request 50/50 timed charging based on how long they believe the project to take at the level of quality requested.
+Guilded Craftsmen generally request 50/50 timed charging based on how long they believe the project to take at the level of quality requested, according to the Guild's value of these things, of course.
 
 ### Textiles
 People in Prosper wear mostly for furs or goat-wool. Leather is more useful as things other than clothing. Canvas is more common than Linen, and much more common than the luxury import Silk.

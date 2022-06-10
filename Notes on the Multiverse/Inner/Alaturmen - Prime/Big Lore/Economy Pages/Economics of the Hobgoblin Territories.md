@@ -3,7 +3,7 @@ tags: economy
 aliases:
 ---
 
-# Territories Economy
+# Territories of the Northeastern Hobgoblin Clans' Economy
 ## As suggested by Grains into Gold
 ### Prelim
 The area of the Hobgoblin Territories is largely forested. It is cold and rainy in this area. 
@@ -14,7 +14,7 @@ Pemmican is a combination of powdered meat, fruit, and boiled fat. It lasts a lo
 ### Food
 What lives here?
 #### Meat
-The most common meat is game. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal. Goose and Duck are commonly kept as well, for their feathers, eggs, and meat.
+The most common meat is game by a large degree. Rat and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal. Goose and Duck are commonly kept as well, for their feathers, eggs, and meat.
 
 #### Dairy
 Goats milk and cheese are reasonably common, as are Goose and Duck egg. Some folks press nuts into dairy products as well, but this is a time consuming process that produces a less desirable product.
@@ -33,7 +33,7 @@ Mint and Parsley grow well in the shade, as well as the common roots such as Gar
 
 Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juice.
 
-Nut oils are made, but considered poor replacements for goat's butter. Rarely, good Oils from the City in Gold make their way into the territories and are highly valued.
+Nut oils and milks are made, but considered poor replacements for goat's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
 
 #### Delicacy
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.

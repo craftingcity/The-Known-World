@@ -43,6 +43,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -54,7 +55,7 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- **Economy Pages**
-			- [[Economics of Acstow]]
+			- [[Economics of Actstow]]
 			- [[Economics of Combine]]
 			- [[Economics of Mountain Hall]]
 			- [[Economics of Prosper]]
@@ -62,9 +63,13 @@
 			- [[Economics of the Hobgoblin Territories]]
 			- [[Economics of The Holyl'nds]]
 		- **How things Work**
+			- **Alchemy**
+				- [[All Alchemical Ingredients]]
+				- [[All Alchemical Products, kinda]]
+				- [[How Alchemy Works]]
 			- [[Durandurm Weaponry]]
-			- [[How Alchemy Works]]
-			- [[How the Weave becomes Magic]]
+			- **Magic**
+				- [[How the Weave becomes Magic]]
 			- [[The Planes of Existence]]
 			- [[The Worldwide Calendar Systems]]
 		- **Language**

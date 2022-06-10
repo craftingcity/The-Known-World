@@ -11,7 +11,7 @@ The Wizard In Blue appears when they are needed. They hold a unimaginable wealth
 ## History
 The Wizard in Blue has always been around, some #goblinoid tales even describe him as a legend.
 
-He was instrumental in the Quest for [[Bardaux]], as it was his information that led the party to the [[Underdark]].
+He was instrumental in the Quest for [[Bardaux]], as it was his information that led the party to the [[Game Notes/NPCs/in Underdark/Underdark]].
 
 ## Location
 The Wizard in Blue appears where they are needed. They most often spend time in bars and taverns.
