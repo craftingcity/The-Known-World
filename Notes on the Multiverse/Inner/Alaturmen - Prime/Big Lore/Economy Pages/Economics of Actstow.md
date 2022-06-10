@@ -37,6 +37,8 @@ Beet Sugar and Salt are the two most common spices and preservatives in Actstow.
 #### Delicacy
 Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow delicacy. Pairs well with ginger, onion, and garlic.
 
+A local delicacy of the children of Actstow 
+
 Actstow is a fairly rich place, although not well positioned for massive trade, meaning most "delicacy" is imported.
 
 ### Vices
@@ -81,7 +83,7 @@ Farms of domesticated Wurm make many colors dye, but the Pure Whites and Blacks 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
-
+Actstow's climate is controlled, and magically maintained iceboxes are accessible to the upper middle class. Salted meats and Canned fruits and vegetables are extremely common in Actstow to those that cannot afford to keep ice.
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
@@ -91,6 +93,10 @@ What can be mined? How elaborate are the setups?
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
+
+Oh ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow.
+
+
 
 ### Other Notes
 - 
