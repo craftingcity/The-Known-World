@@ -15,51 +15,26 @@
         }
       },
       {
-        "id": "280669481c4c2b2f",
-        "type": "split",
-        "children": [
-          {
-            "id": "73733d3a30c14d7c",
-            "type": "split",
-            "children": [
-              {
-                "id": "7419ab2591ccf1b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "20b1e68c9089d12a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "8a56702656d81afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-                "mode": "source"
-              }
-            }
+        "id": "b1690ca8de954842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "4dda5e030e4dcccc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +139,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "b64667e283789677",
+  "active": "b1690ca8de954842",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-    "MEDIA/MEDIA.md"
+    "Untitled.md"
   ]
 }

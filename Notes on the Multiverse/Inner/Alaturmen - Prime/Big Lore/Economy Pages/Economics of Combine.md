@@ -6,7 +6,7 @@ aliases:
 # The Democratic Combine of People's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-While each state of Combine varies in their favors and productions, this page paints the broad strokes of the Combine's economy.
+While each state of Combines varies in their favors and productions, this page paints the broad strokes of the Combine's economy.
 
 Combine is a warm and wet place, magically infused with ancient elven and druidic magics.
 
@@ -16,16 +16,28 @@ Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many d
 ### Food
 What lives here?
 #### Meat
-Fish is the most common meat in the combine. Crab and Shellfish are 
+Fish is the most common meat in the combine. Crab and Shellfish are uncommon, but still accessible. 
+
+Folks husband Goats and Pig in the wetlands of Combines, as well as Ducks and Geese.
+
+Some very important people husband cattle as well, but because of the anarchic nature of the Combines, grazing is an issue.
+
 #### Dairy
+
+
 #### Grain
+Rice is *the* grain of the Combines. No other grain is really desired here either, except perhaps for the sake of variety.
+
 #### Fruit
 #### Vegetable
 #### Spice and Oil
 #### Delicacy
+Sweet rice cake are a wonderful treat, but the top delicacy is sweet-and-sour beef.
 
 ### Vices
-What do people do for *fun*?
+Some of the best alcohols known to Alaturmen come from the Combine's distilleries, and many fall to the vice Lush in this fertile land.
+
+As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants]].
 
 ### Land
 Think about how people get their land, from who, and what features would there be?

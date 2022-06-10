@@ -20,7 +20,7 @@ The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], a
 
 The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur has a team of accountants that work together with the [[Guild of Merchants]] and [[Guild of Crafters]] to budget for the whole of the kingdom.
 
-
+See also [[Economics of Prosper]].
 
 ## Population Distribution and Language
 The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans, Goblins, and Elves. 
