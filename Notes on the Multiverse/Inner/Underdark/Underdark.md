@@ -5,7 +5,7 @@ aliases: The Deep Below, Deep Below
 
 # Underdark
 %% Begin Waypoint %%
-- **[[Notes on the Multiverse/Inner/Underdark/Underdark]]**
+- **[[Underdark]]**
 	- **General**
 		- [[Lolth]]
 		- [[Underdark Air]]

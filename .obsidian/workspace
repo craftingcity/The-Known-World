@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c427a0da3c58e3f5",
+        "id": "b64667e283789677",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -51,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +112,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "c427a0da3c58e3f5",
+  "active": "b64667e283789677",
   "lastOpenFiles": [
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
-    "MEDIA/MAPS/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How Alchemy Works.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "MEDIA/MEDIA.md",
+    "MEDIA/SUPP/AlchemistsLab.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Halfling Specifics.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/How the Weave becomes Magic.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Acstow.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md"
   ]
 }

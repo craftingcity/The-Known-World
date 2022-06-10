@@ -43,7 +43,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -55,7 +54,6 @@
 	- [[Bible 2]]
 	- **Big Lore**
 		- **Economy Pages**
-			- [[Economics of Actstow]]
 			- [[Economics of Combine]]
 			- [[Economics of Mountain Hall]]
 			- [[Economics of Prosper]]
