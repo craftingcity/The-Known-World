@@ -34,7 +34,7 @@ A group of traveling hobgoblin merchants are moving between Yerba and Magius in 
 > A beautifully rank melody wafts through you mind, swimming high and low, before calming to a deep hum. And staying there. And looming there. And waiting there.
 	> for [[Breenabelle]]
 
-> You awake in the middle of the night. Camp is calm, but undefended. Pip is agitated, as a deep hum begins to fill the air. Pip belches a white flame. It stares into your soul. You feel judged. You feel accepted, like a hug from a guardian. The hum does not cease.
+> You awake in the middle of the night. Camp is calm, but undefended. Pip is agitated, as a deep hum begins to fill the air. Pip belches a white flame. It stares into your soul. You feel judged. You feel accepted, like a hug from a guardian. The hum does not cease. And then you wake up.
 	> for [[Jarren]]
 
 > An image of a goblin bleeding out and being picked to death by a vulture. A moment or so passes and the goblin slowly dies. Another moment. A low hum permeates the air, and the dead goblin opens its eyes.

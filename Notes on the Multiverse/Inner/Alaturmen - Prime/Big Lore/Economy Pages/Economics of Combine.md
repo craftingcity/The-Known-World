@@ -6,14 +6,17 @@ aliases:
 # The Democratic Combine of People's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-I'm gonna need at the very least, a size, terrain, and weather pattern.
+While each state of Combine varies in their favors and productions, this page paints the broad strokes of the Combine's economy.
 
-### "Bread"
-What is *the* food?
+Combine is a warm and wet place, magically infused with ancient elven and druidic magics.
+
+### Rice
+Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many dishes!
 
 ### Food
 What lives here?
 #### Meat
+Fish is the most common meat in the combine. Crab and Shellfish are 
 #### Dairy
 #### Grain
 #### Fruit

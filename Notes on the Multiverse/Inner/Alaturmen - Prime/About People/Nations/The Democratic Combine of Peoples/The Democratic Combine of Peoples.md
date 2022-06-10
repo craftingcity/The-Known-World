@@ -14,7 +14,7 @@ The Rulers of [[The Fiefdoms of the Combine]] conference often, and form their o
 - large swaths of the "exotic races" such as dragonborn, goliaths, tiefling, kenku, triton
 - commonly find the "races of men", such as human, halflings, dwarves
 - uncommonly find elven folk
-- rarely feyborn, such as eladrin
+- rarely feyborn or underkin, such as eladrin or duergar
 
 ### History
 The Combine was formed at the signing of the [[Coalition's Founding Document]].
