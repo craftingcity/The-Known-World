@@ -7,7 +7,7 @@
         "id": "7704cdc1afe23874",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -115,15 +115,15 @@
   },
   "active": "7704cdc1afe23874",
   "lastOpenFiles": [
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
-    "Game Notes/NPCs/in Underdark/in Underdark.md",
-    "Untitled.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Castle Prosper.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/in Underdark/in Underdark.md",
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md"
   ]
 }
