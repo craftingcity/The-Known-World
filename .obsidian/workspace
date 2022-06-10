@@ -4,34 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b64667e283789677",
+        "id": "c427a0da3c58e3f5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
         }
       },
       {
-        "id": "b1690ca8de954842",
+        "id": "0c9790768c5683fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4dda5e030e4dcccc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
             "mode": "source"
           }
         }
@@ -74,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +128,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "b1690ca8de954842",
+  "active": "0c9790768c5683fa",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md"
+    "Balthazar Wumfingle.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+    "MEDIA/MAPS/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Prime Timeline.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md"
   ]
 }
