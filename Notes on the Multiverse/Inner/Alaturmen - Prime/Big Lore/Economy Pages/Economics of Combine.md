@@ -37,7 +37,7 @@ Sweet rice cake are a wonderful treat, but the top delicacy is sweet-and-sour be
 ### Vices
 Some of the best alcohols known to Alaturmen come from the Combine's distilleries, and many fall to the vice Lush in this fertile land.
 
-As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants]].
+As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
