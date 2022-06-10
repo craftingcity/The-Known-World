@@ -17,6 +17,8 @@ As the party passes by many acres of farmland, they begin to hear the natural sh
 
 Do you travel through the night or make camp now?
 
+### What does the World know?
+
 The guards will begin to search for them, given the descriptions given from the Bartender of the Silver Unicorn and the five survivors of the parties "retaliation and defense of their members".
 
 If the party travels through the night before making camp, along the road they would see a large lake to the south, dotted with many buildings, and far to their north, a large castle on a hill. Much of the surrounding area is barley fields. 
@@ -45,4 +47,6 @@ When the party awake the next day, they find a small glowing purple rabbit. She 
 
 "Please, when a job is under the table like this, some things are infered. Is your reward not suitable for such a task? I am willing to rectify our contract if necessary, in both of our favors."
 
-She also mentions that the Guards of Magius have mildly accurate descriptions and have put minor bounties (175sp) on all but [[Nala]] who has a much steeper bounty on her head (3000sp). To her all this means is that another dropoff point will need to be arranged.
+She also mentions that the Guards of Magius have mildly accurate descriptions and have put minor bounties (450sp) on all but [[Nala]] who has a much steeper bounty on her head (3000sp). To her all this means is that another dropoff point will need to be arranged.
+
+### What happened this time?
