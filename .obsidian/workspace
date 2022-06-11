@@ -7,8 +7,11 @@
         "id": "c8bb97121a5ec365",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +120,7 @@
   },
   "active": "c8bb97121a5ec365",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Fiefdoms of the Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Baron Xuiop.md",
@@ -123,7 +129,6 @@
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
-    "A Grand Notepad.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md"
   ]
 }

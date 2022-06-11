@@ -66,8 +66,8 @@
 		- **How things Work**
 			- **Alchemy**
 				- [[All Alchemical Ingredients]]
-				- [[All Alchemical Products, kinda]]
 				- [[How Alchemy Works]]
+				- [[Known Alchemical Products]]
 			- [[Durandurm Weaponry]]
 			- **Magic**
 				- [[How the Weave becomes Magic]]

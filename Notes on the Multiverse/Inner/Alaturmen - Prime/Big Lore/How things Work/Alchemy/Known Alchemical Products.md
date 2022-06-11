@@ -80,6 +80,9 @@ Liquid light is as it sounds, a liquid form that emits bright light. While not *
 
 See *light*
 
+#### Liquid Darkness
+Liquid Darkness is as it sounds. 
+
 #### Liquid Fear
 Liquid Fear invokes its namesake in those that nearby. When consumed, if one is bold enough to do such a thing, Liquid Fear is deadly.
 
