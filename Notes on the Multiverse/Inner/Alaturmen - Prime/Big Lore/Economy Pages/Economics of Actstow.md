@@ -52,10 +52,10 @@ Land in Actstow is a prime resource. One can purchase or lease land from the Kin
 ### Overhead
 Taxes are payed by the Clans. Clans have individual tax regimes, using different methods to calculate the correct figures, but most commoners end up paying about one-fifth of their profit to their Clan. The Clans then each turn and pay the King, about one-sixth of *their* profit. These tax collections happen every ten years, and are enforced by mundane tax collectors that quote figures based on what they can observe. Most folks attempt to cheat the collectors, leading to the low figures seen above. This crime is considered minor and is punished by fine, leading to someone who gets caught paying closer to one-third of their profit from this ten year period.
 
-All mines are owned by the King of Acstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of what they mined after management takes its due. 
+All mines are owned by the King of Actstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of what they mined after management takes its due. 
 
 ### Cutting Corners
-Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves. 
+Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves, i.e. crime. 
 
 The most common of these methods is tax evasion. Most citizens of Actstow keep a hidden compartment or room for their most valued possessions, including (when the tax collector comes) work-stations, tools, fine furniture and clothing, and food preserves.
 
@@ -86,23 +86,21 @@ What is being preserved, how, with what, in where? Are these methods suitable fo
 Actstow's climate is controlled, and magically maintained iceboxes are accessible to the upper middle class. Salted meats and Canned fruits and vegetables are extremely common in Actstow to those that cannot afford to keep ice.
 
 ### Containers
-What do people put stuff in? Do we show it or is it hidden? Can they be reused?
-
 Many containers are metal or glass, and re-usability is a prime directive when crafting containers.
+
+The people of Actstow generally use metal, preferring to keep their secrets.
 
 Wooden and Ceramic containers are acceptable, cheaper alternatives to the finer metallic dishes.
 
 ### Mining
-What can be mined? How elaborate are the setups?
-
 Anything and everything can be mined in the [[Actstow Hills]], but many things are rarer than others. Durandurm is extremely rare even compared to other gem rarities.
 
+Much of the hills in this place are dense in ore and mineral. The separation of portions or purity level of what is mined may require chemical or even alchemical separation, which can be an expensive, although rarely lengthy, task before it can be processed for creation.
+
 ### Magic / Technology
-Has magic influenced any of these things? What about Technology?
+Oh, ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow. The pots that the farmers grow their foods in are enchanted by their creators. The tools are too, as are the rooms – climate control, remember – and many of the complex mechanisms that move the dwarves and supplies around the Hills.
 
-Oh ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow. The pots that the farmers grow their 
-
-
+Speaking of those mechanisms, systems of elevators, large pneumatic delivery systems, minor automatons of gear and gem. The poor of Actstow are very poor, but a large middle class lives a comfortable life under the rule of the Clans serving the King.
 
 ### Other Notes
 - 
