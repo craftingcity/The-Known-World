@@ -32,21 +32,37 @@ Fine white flour is imported for certain delicacies, but most folk enjoy the tas
 
 #### Fruit
 
+
 #### Vegetable
-Skunk Weed, Water SPinach
+Skunk Weed, Water Spinach, Water Caltrop, Taro, Lotus, Cattail are few of the many Stinky, Leafy, Starchy vegetables that grow in the Combine. Vegetable soups are a common and an *acquired* taste, especially when spiced poorly.
+
+Marigold and Catnip are worth mentioning as they do appear in most gardens in the Combine, but not as a consumable or a spice, but rather a repellent and an attractant. Wild cats are culturally considered good luck, and well tended ones may even provide minor gifts or service.
+
 #### Spice and Oil
-Jasmine, Water-Pepper
+Jasmine, Water-Pepper, Wasabi, Basil, and Sage all grow well in the warmer wetter conditions of Combine. 
+
+Lemongrass often appears as a garnish and a tea in the Combine.
+
+Olive and Almond oils are imported from the West bank of the [[Alavini River]] for relatively cheap, and most middle class families could access them for their everyday meals.
+
+Poorer oils such as Heart-nut are imported from the north, but the common folk have little choice but goat butter or some type of lard for their oil.
 
 #### Delicacy
-Sweet rice cake are a wonderful treat, but the top delicacy is sweet-and-sour beef.
+Sweet rice cake are a wonderful treat, but the best dish a middle class family could ask for is sweet-and-sour beef with vegetable noodle and rice.
+
+Nobles import white flour for some pastries and other fine dishes, but these are reserved for occasion to all but the richest of citizens.
 
 ### Vices
 Some of the best alcohols known to Alaturmen come from the Combine's distilleries, and many fall to the vice Lush in this fertile land.
+
+The Big Three Drugs from the north, Smokebulb, Cannabis, and Tobacco are imported in droves to the Combine, and are one of the two things fought over for here other than land - drugs and money.
 
 As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
+
+In a very similar manner to their neighbors in the North, citizens of Combine pay their local lord, who fights others for their lands and goods. When citizens purchase land from a lord, they become lords of that land, which lends itself quite well to rents and leases for those that would rather not play the game. When a contract of that nature is signed, it is with the Current and All Future Barons. This is respected, assuming that Future Baron doesn't want their citizens to buy them out, leave, or revolt.
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
