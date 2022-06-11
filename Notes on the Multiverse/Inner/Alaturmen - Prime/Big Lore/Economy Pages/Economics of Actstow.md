@@ -32,19 +32,21 @@ Actstow grows Peach and Plum for their plump juices and Peanuts for their protei
 Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Actstow. Dense leafy greens like Cabbage and Lettuce grow well too.
 
 #### Spice and Oil
-Beet Sugar and Salt are the two most common spices and preservatives in Actstow. Garlic, Ginger, and Onion grow well in the limiting conditions. Mint and Parsley are commonly imported from the east. Cinnamon more uncommon, but still accessible to the lower-middle class, also imported from the east.
+Beet Sugar and Salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods. 
+
+Garlic, Ginger, and Onion grow well in the limiting conditions. Mint and Parsley are commonly imported from the east. Cinnamon is more uncommon, but still accessible to the lower-middle class, also imported from the east.
 
 #### Delicacy
-Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow delicacy. Pairs well with ginger, onion, and garlic.
+Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow dish. Pairs well with ginger, onion, and garlic.
 
 A local delicacy of the children of Actstow is a frozen dairy cream, sweetened with spices such as cinnamon, ginger, and fruit.
 
-Actstow is a fairly rich place, although not well positioned for massive trade, meaning most "delicacy" is imported.
+Actstow is a fairly rich place, although not well positioned for massive trade, meaning most delicacy is imported or outlawed.
 
 ### Vices
-The greatest vices of Actstow are Smokebulb, Tobacco, and Cannabis. Smokebulb is generally home-grown, as it is culturally unacceptable, but Cannabis and Tobacco are imported and much more acceptable.
+The home-grown vices of Actstow are Smokebulb, Tobacco, and Cannabis. Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere and are much more culturally acceptable.
 
-Some brothels crop up in Actstow, but these, like Smokebulb, are considered culturally unacceptable and are generally run *poorly*.
+Some brothels crop up in Actstow, but these, like Smokebulb, are considered culturally unacceptable and are generally run *poorly*, refusing assistance from the [[Guild of Merchants]].
 
 ### Land
 Land in Actstow is a prime resource. One can purchase or lease land from the King or the ruling Clan in units of 1/8th acres. Rooms in Inns and the like are costly.

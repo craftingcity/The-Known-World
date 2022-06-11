@@ -23,16 +23,19 @@ Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Du
 Some very important people husband cattle as well, but because of the anarchic nature of the Combines, grazing is an issue.
 
 #### Dairy
-
+Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or imported almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
 
 #### Grain
-Rice is *the* grain of the Combines. No other grain is really desired here either, except perhaps for the sake of variety.
+Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety.
+
+Fine white flour is imported for certain delicacies, but most folk enjoy the taste of their home-grown grain.
 
 #### Fruit
+
 #### Vegetable
-Skunk Weed, Grasses, Skinky Shit, Yam
+Skunk Weed, Water SPinach
 #### Spice and Oil
-Jasmine, 
+Jasmine, Water-Pepper
 
 #### Delicacy
 Sweet rice cake are a wonderful treat, but the top delicacy is sweet-and-sour beef.

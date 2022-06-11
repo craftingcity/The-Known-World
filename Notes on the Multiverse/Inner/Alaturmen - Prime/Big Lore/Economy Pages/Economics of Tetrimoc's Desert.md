@@ -22,6 +22,8 @@ Cactus!
 #### Vegetable
 #### Spice and Oil
 Rosemary, Lavender, Oregano,
+
+Olives and Almonds grow on the West bank of the [[Alavini River]].
 #### Delicacy
 
 ### Vices
