@@ -2,15 +2,20 @@
 tags: npc
 aliases:
 ---
-# Xuiop, Heartbeast
-## Baron
-### they/them
+# Killrick Emm Glask
+## "Honorable" Baron of [[Eastlick Mossland]] and the [[Riphounds]]
+### he/her
 
-> A lumbering set of six limbs enters the room. They are furred in brown and end in a grip of razors. At this beasts center, a dull red glow eminates underneath its fur. With a deep bassy growl; "Greetings." 
+> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
 A description of their function in the world.
 
 A politic of theirs that players would interact with.
+
+## Goals
+A goal that this NPC has.
+
+How that goal could resolve when it is achieved (or failed, if this is considered a genuine possibility).
 
 ## History
 A general history of the character, from their conception to their current state

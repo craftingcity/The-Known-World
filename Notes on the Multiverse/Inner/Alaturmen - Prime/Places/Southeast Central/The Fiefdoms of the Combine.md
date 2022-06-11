@@ -24,13 +24,13 @@
 [[Southern Quillbuck Jungle]] controlled by [[Baron Havord]] and [[Northstone Trading Company]], they hold one major settlement
 - [[Quillbuck NTC]]
 
-[[Nothern Quillbuck Jungle]] and [[Reugb Marshes]] are controlled by by [[Baron Xuiop]] and [[Beasts Righteous]], they hold four major settlements.
+[[Northern Quillbuck Jungle]] and [[Reugb Marshes]] are controlled by by [[Baron Xuiop]] and [[Beasts Righteous]], they hold four major settlements.
 - [[Boneborn]]
 - [[Smoothpost]]
 - [[Trike Roof]]
 - [[Slyfront]]
 
-[[Jammu's Groves]] are controlled by [[Baron Yassir Cassindil]] and the [[Grovetenders]], they control two major settlements.
+[[Greater Groves]] are controlled by [[Baron Yassir Cassindil]] and the [[Grovetenders]], they control two major settlements.
 - [[Zalfari]]
 - [[Amyl Dother]]
 

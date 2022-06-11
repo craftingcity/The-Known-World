@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c69bf8786bc3af6",
+        "id": "cfccacf096a9babc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fb70ed2547c76005",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Fiefdoms of the Combine.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +129,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "8c69bf8786bc3af6",
+  "active": "cfccacf096a9babc",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Fiefdoms of the Combine.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Baron Xuiop.md",
+    "Baron Glask.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md"
+    "A Grand Notepad.md"
   ]
 }
