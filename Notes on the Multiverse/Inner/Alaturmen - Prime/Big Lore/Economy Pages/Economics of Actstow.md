@@ -90,13 +90,17 @@ What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 
 Many containers are metal or glass, and re-usability is a prime directive when crafting containers.
 
+Wooden and Ceramic containers are acceptable, cheaper alternatives to the finer metallic dishes.
+
 ### Mining
 What can be mined? How elaborate are the setups?
+
+Anything and everything can be mined in the [[Actstow Hills]], but many things are rarer than others. Durandurm is extremely rare even compared to other gem rarities.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
-Oh ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow.
+Oh ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow. The pots that the farmers grow their 
 
 
 
