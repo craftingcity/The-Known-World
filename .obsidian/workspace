@@ -7,9 +7,10 @@
         "id": "8c69bf8786bc3af6",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +120,7 @@
   },
   "active": "8c69bf8786bc3af6",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
@@ -127,7 +129,6 @@
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Cenva Minyo.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md"
   ]
 }

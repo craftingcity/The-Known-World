@@ -119,6 +119,20 @@ The first three levels present very little challenge to even the greenest advent
 Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
 ### Level One: Hook
+#### 1. King's Hall
+##### 1A. Broom Closet
+##### 1B. Entrance Hall
+#### 2. Guest's Quarters
+##### 2A.
+##### 2B.
+##### 2C.
+#### 3. Minor Vault
+#### 4. Dining Throne Room
+#### 5. Lower Caves
+#### 6. Esteemed Quarters
+#### 7. Servant's Hall
+#### 8. Major 
+
 ### Level Two: Line
 ### Level Three: Sinker
 ### Level Four: Let the Games Begin!
