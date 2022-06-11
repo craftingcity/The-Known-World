@@ -3,8 +3,9 @@ tags: npc
 aliases:
 ---
 # Alegra Barrowinch
-## The Grand Archmage of Magius and the Court of the Adventurer King
-## Purple Mage of the Guild of Wizards
+## The Grand Archmage of Magius Academy
+## High Mage of the Court of [[Arthur Simonson]]
+## Red Mage of the [[Guild of Wizards]]
 ### she/her
 
 > A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.
@@ -15,10 +16,16 @@ People who know her as the most powerful mage and arcanist they have ever met, i
 
 At the age of twenty, she was taught the Weave Arcane by the [[Druids of Animan]]. Only five years later was she inducted onto the Council of Wizards upon its conception.
 
+After Mastering her skills in sorcery and alchemy, she settled in Magius. After communicating with [[Arthur Simonson|Artie]], founded the [[Magius University]] of Magic.
+
+She uses dedicated assistants and hommunculi to further her research.
+
 ## History
-Alergra is a genius. She does not plan well, but she was one of the few who has learned wizardry from very few examples.
+Alergra is a genius. She does not plan well, but she was one of the few who has mastered magic from very few examples.
 
 Early in her life, she was shut into her home, her mother and father were very poor, and could not afford to send her to any school. As she grew in age and creativity, she found ways of avoiding her chores and opted to rather travel into the forest to explore for new hiding spots to read. 
+
+She is missing years of her life that she cannot remember in the forests, only bits and pieces. She hopes to return these memories to herself one day.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
