@@ -22,3 +22,5 @@ If it differs from the nation's...
 ## Notable Locations
 [[Sally Seashell]] runs [[Sally's Seaside Spot]] in the alley between [[Brandle Wrench]], the [[Earlwynn's Fine Dining]], and [[Yawning Pillow]], the Inn.
 
+[[Alisinder Rancarlo]]'s Glass Company makes much of the glassware and windows in Yerba.
+

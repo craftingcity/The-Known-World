@@ -50,3 +50,5 @@ When the party awake the next day, they find a small glowing purple rabbit. She 
 She also mentions that the Guards of Magius have mildly accurate descriptions and have put minor bounties (450sp) on all but [[Nala]] who has a much steeper bounty on her head (3000sp). To her all this means is that another dropoff point will need to be arranged.
 
 ### What happened this time?
+
+I got the names for the people they need to get their packages from. [[Alisinder Rancarlo]] in [[Yerba]], [[Baron Jammu]] in the [[Darnt Hillkeep]], and [[Doctor Gunagido]] in [[The Golden City]].
