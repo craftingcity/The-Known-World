@@ -6,6 +6,30 @@ aliases:
 All products have either a quality or a required "mastery" of the skills of alchemy – these follow the [[#Grades]] scale. Time of production varies with Grade as well.
 
 ## Liquids
+### Non-Potion, Non-Oil Liquids
+#### "Biblical" / Elven Wine
+Wine processed by some alchemical process that hydrates like water and inebriates like wine.
+
+#### Liquid Light
+Liquid light is as it sounds, a liquid form that emits bright light. While not *actually* light made liquid, it performs all the tasks that you could ask from a liquid version of light.
+
+See *light*
+
+#### Liquid Fear
+Liquid Fear invokes its namesake in those that nearby. When consumed, if one is bold enough to do such a thing, Liquid Fear is deadly.
+
+See *fear, dissident whispers*
+
+#### Liquid Joy
+Liquid Joy provides the opposite effects of Liquid Fear, invoking its namesake in those nearby. When consumed, the feeling is amplified. As one could imagine, this substance is quite addictive.
+
+See *charm person, enthrall*
+
+#### Liquid Calm
+Liquid Calm is a soldier's best friend. While it does not combat the physical affects of adrenaline, it does affect the mental ones, allowing oneself to remain calm under even the most extreme pressure.
+
+See *calm emotions*
+
 ### Potions
 #### Potion of Healing
 True Potions of healing are expensive, as their components are typically quite rare. A potion of Apprentice Quality heals for 2d4 + 4 when consumed. As the Grade of the created potion increases, so too does the effect, at a doubling rate.
@@ -75,35 +99,20 @@ Ice Oil sticks to metal, sliding around and off other materials like water, and 
 
 See *heat metal*, but imagine its Ice.
 
-#### Liquid Light
-Liquid light is as it sounds, a liquid form that emits bright light. While not *actually* light made liquid, it performs all the tasks that you could ask from a liquid version of light.
-
-See *light*
-
-#### Liquid Darkness
-Liquid Darkness is as it sounds. 
-
-#### Liquid Fear
-Liquid Fear invokes its namesake in those that nearby. When consumed, if one is bold enough to do such a thing, Liquid Fear is deadly.
-
-See *fear, dissident whispers*
-
-#### Liquid Joy
-Liquid Joy provides the opposite effects of Liquid Fear, invoking its namesake in those nearby. When consumed, the feeling is amplified. As one could imagine, this substance is quite addictive.
-
-See *charm person, enthrall*
-
-#### Liquid Calm
-Liquid Calm is a soldier's best friend. While it does not combat the physical affects of adrenaline, it does affect the mental ones, allowing oneself to remain calm under even the most extreme pressure.
-
-See *calm emotions*
-
 #### Miner's Savior
 When exposed to oxygen, Miner's Savior expands to form triangles of stone. Its most common use-case gave this substance its name and many miners the opportunity to see their children grow.
+
+See *stoneshape?*
+
+#### Assassin's Slick
+When exposed to oxygen, Assassin's Slick creates a thick black fog that lasts for a long time in the air, although it loses it's fight against heavy wind or rain.
+
+See *darkness*
 
 ### Poisons
 #### Traditional
 Traditional poisons act as you would expect, somehow harming or outright killing their consumer.
+
 See the damage table on your DM's screen.
 
 #### Impairment
@@ -168,7 +177,7 @@ Alchemical fibers have been treated by alchemical processes to be tougher and le
 ##### Elvenfiber
 Elvenfiber is a very rare material that is used to make *equipment of elvenkind*.
 ##### Animabric
-Animabric is a fiberous material that is used to create cloaks and other clothing that hold Woven Patches and other Affects.
+Animabric is a fibrous material that is used to create cloaks and other clothing that hold Woven Patches and other Affects. It is formed from silk, and is *quite* expensive.
 
 #### Black Steel
 Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting while such an item is nearby.
@@ -183,7 +192,8 @@ An alchemical fabric that acts similar to elastic. In addition to its stretching
 
 #### Pure Force
 An extremely taxing material to produce, Pure Force is a measure of magically contained pressure that acts as a solid substance.
-See *wall of force*
+
+See *wall of force*.
 
 #### Magical Bean
 Traditionally, Magical Beans are used to store Weave Potentia, but they are valued as tokens of friendship between Alchemists and also provide novel although potentially dangerous entertainment when planted and watered.
@@ -222,6 +232,7 @@ This rune imparts knowledge onto its affected (*helm of comprehend languages*).
 This rune allows vision of senses beyond a user's typical (*lenses of truesight*).
 #### Spellbinding
 Runes of Spellbinding are incredibly difficult to successfully create on existing objects (*staff of power*).
+
 ### Enhance
 #### Elemental Patches
 Patches of weave applied to armor, ammunition, and weaponry can invoke the elements to their advantage (*flame tongue, frost brand*).
@@ -234,6 +245,7 @@ Patches of Weave applied to armor, ammunition, and weaponry can provide a boost 
 
 #### Woven Patches
 Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
+
 ### Curse
 #### Attachment
 Some curses bond an unhealthy attachment between the user and the cursed item.
@@ -250,4 +262,4 @@ Some curses outright harm the user.
 ## Scrolls
 When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll. This process takes a variable amount of time, depending on the Grade of equipment they are using and the level of the spell they wish to Scroll. One can use the following expression to determine the time such an act would take.
 
-(3 days^level of spell) / (grade of best equipment where Apprentice is 1)
+(3 days^level of spell) / (grade of best equipment where Apprentice is .5)

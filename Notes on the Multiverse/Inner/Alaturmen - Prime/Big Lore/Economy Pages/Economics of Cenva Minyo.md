@@ -42,6 +42,8 @@ How are the craftsmen organized? Guild? How are they monitored / maintain their 
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
 
+Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile.
+
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
