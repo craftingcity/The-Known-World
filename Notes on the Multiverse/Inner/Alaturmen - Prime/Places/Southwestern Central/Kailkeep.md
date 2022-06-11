@@ -128,12 +128,28 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 ##### 2C.
 #### 3. Minor Vault
 #### 4. Dining Throne Room
-#### 5. Lower Caves
+##### 4A. Panic Room
+#### 5. Vaulted Caves
 #### 6. Esteemed Quarters
-#### 7. Servant's Hall
-#### 8. Major 
-
+##### 6A. "Green Room"
+##### 6B. Study
+##### 6C. Linen Closet
+##### 6D. War-room
+##### 6E. Grand Bedroom
+#### 7. Hall of Bguyyn
+#### 8. Minor Store Room
 ### Level Two: Line
+#### 1. Ascended Hall
+#### 2. Mural and Statues of Kermallin
+#### 3. Servent's Quarters
+#### 4. Common Quarters
+#### 5. Private Hall
+#### 6. Art Blocks
+#### 7. Balcony
+#### 8. Secret Balcony
+#### 9. Miniature Vault
+#### 10. Cavern Home
+#### 11. Art Walk
 ### Level Three: Sinker
 ### Level Four: Let the Games Begin!
 ### Level Five: Four Corners
