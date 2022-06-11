@@ -13,6 +13,8 @@ Wine processed by some alchemical process that hydrates like water and inebriate
 #### Liquid Light
 Liquid light is as it sounds, a liquid form that emits bright light. While not *actually* light made liquid, it performs all the tasks that you could ask from a liquid version of light.
 
+Some adventurers purchase Liquid light and use it as some kind of blinding flash attack or for extremely controlled but powerful light management.
+
 See *light*
 
 #### Liquid Fear
@@ -56,25 +58,33 @@ See *incite greed*
 
 #### Potion of Enhancement
 Potions of Enhancement temporarily increase the Quaffer's attributes based on their Grade.
+
 See *enhance ability*
 
-#### Potion of Detection / Sense / Understanding
+#### Potions of Enlightenment
 ##### Detection
 Potions of Detection are crafted to view specific things that would otherwise be non-visible.
+
 See *see invisibility*
+
 ##### Sense
 Potions of Sense are crafted to sense other planes of existence.
+
 See *true sight*
+
 ##### Understanding
 Potions of Understanding are crafted to transfer specific pieces of knowledge.
+
 See *comprehend languages*
 
 #### Potion of Haste
 Gotta go fast.
+
 See *haste*
 
 #### Potion of Dragon's Breath
 Potions of Dragon's Breath are meant to emulate actual Dragon's Breaths.
+
 See *dragon's breath*
 
 #### Potion of Form
