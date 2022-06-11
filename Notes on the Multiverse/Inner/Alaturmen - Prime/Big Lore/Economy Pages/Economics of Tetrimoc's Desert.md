@@ -21,6 +21,7 @@ What lives here?
 Cactus!
 #### Vegetable
 #### Spice and Oil
+Rosemary, Lavender, Oregano,
 #### Delicacy
 
 ### Vices

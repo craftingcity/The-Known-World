@@ -6,10 +6,10 @@ aliases:
 # Mountain Hall's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-I'm gonna need at the very least, a size, terrain, and weather pattern.
+Mountain Hall is a large colony of near-isolationist Mountain Dwarves of the [[Dwarven Kingdom Suremantle]].
 
-### "Bread"
-What is *the* food?
+### Mushroom
+The Bluecap mushrooms cultivated in Mountain Hall make a thick musky flour. Most citizens of Mountain hall use this to thicken their soups and stews, but Blue Bread is formed sometimes, but when compared to other "true grain" bread, is a crumbly mess of stinking powder.
 
 ### Food
 What lives here?

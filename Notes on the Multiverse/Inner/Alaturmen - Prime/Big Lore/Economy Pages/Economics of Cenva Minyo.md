@@ -3,10 +3,10 @@ tags: economy
 aliases:
 ---
 
-# [[Cenva Minyo]] Economy
+# The Economy of Cenva Minyo
 ## As suggested by Grains into Gold
 ### Prelim
-I'm gonna need at the very least, a size, terrain, and weather pattern.
+Cenva Minyo is a small permanent colony of Winter Elves that live to the South of the [[Actstow Hills]].
 
 ### "Bread"
 What is *the* food?

@@ -16,9 +16,9 @@ Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many d
 ### Food
 What lives here?
 #### Meat
-Fish is the most common meat in the combine. Crab and Shellfish are uncommon, but still accessible. 
+Fish is the most common meat in the combine. Crab and Shellfish are uncommon, but still accessible. Many people cultivate farms of bugs for many reasons, including as food, bait, spice, and dye.
 
-Folks husband Goats and Pig in the wetlands of Combines, as well as Ducks and Geese.
+Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese.
 
 Some very important people husband cattle as well, but because of the anarchic nature of the Combines, grazing is an issue.
 
@@ -30,7 +30,10 @@ Rice is *the* grain of the Combines. No other grain is really desired here eithe
 
 #### Fruit
 #### Vegetable
+Skunk Weed, Grasses, Skinky Shit, Yam
 #### Spice and Oil
+Jasmine, 
+
 #### Delicacy
 Sweet rice cake are a wonderful treat, but the top delicacy is sweet-and-sour beef.
 

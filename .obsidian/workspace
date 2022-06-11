@@ -9,7 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1224c9daaae1e11d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1abcb4f3806bd36a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
             "mode": "source"
           }
         }
@@ -68,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +139,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "deb2d3802f88d5c8",
+  "active": "1224c9daaae1e11d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Balthazar Wumfingle.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
-    "MEDIA/MAPS/alaturmen-100AF.png"
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
   ]
 }
