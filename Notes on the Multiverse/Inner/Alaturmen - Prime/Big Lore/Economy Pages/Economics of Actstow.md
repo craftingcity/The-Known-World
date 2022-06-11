@@ -64,7 +64,7 @@ The most common of these methods is tax evasion. Most citizens of Actstow keep a
 Soups and Stews are considered a poor meal. Many commoners must make these "watered down dishes" to stretch their food supplies and for ease of transport; scooping a day's breakfast and lunch on your way out the door to the mines is not uncommon in poorer families of Acstow.
 
 ### Middlemen
-Trade is heavily influenced by the value of what is mined and what is needed by the current goals of the Clans. Unions of Miners raise the price of "private" minerals such that they can afford to continue to do their work. Much of these "private" minerals are exported to other entities by caravans that trade in such things.
+The Guild of Merchants is reasonably well represented in the hills of Actstow, and can manipulate the prices for the benifit of Coalition. Unions of Miners raise the price of "private" minerals such that they can afford to continue to do their work. Much of these "private" minerals are exported to other entities by caravans that trade in such things.
 
 Collections of stair-climbing market stalls appear wherever people gather. Markets such as these have all manner of goods, although it is common to find many things missing from the available selection as merchants move to different markets throughout the day.
 

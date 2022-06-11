@@ -28,3 +28,5 @@ Temples and Shrines to the Gods
 In the second century, contention begins to arise as the [[Blood Hobgoblin Clan Pact]] and the [[Nobles of Prosper]] begin to generate animosity. The Nobles want the resources that the Blood Clans have, but neither side really wants a war. The patriarch of [[Noble House a'Valim]] and the matriarch of [[Noble House a'Nyrk]] have a sick love affair and similar goals.
 
 Bag-head bandits.
+
+"For the Lands of Tetrimoc and the Empire of the [[Golden Claws]]!"

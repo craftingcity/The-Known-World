@@ -36,7 +36,11 @@ Fine white flour is imported for certain delicacies, but most folk enjoy the tas
 #### Vegetable
 Skunk Weed, Water Spinach, Water Caltrop, Taro, Lotus, Cattail are few of the many Stinky, Leafy, Starchy vegetables that grow in the Combine. Vegetable soups are a common and an *acquired* taste, especially when spiced poorly.
 
+Summer Squashes do well in the heat of Combine.
+
 Marigold and Catnip are worth mentioning as they do appear in most gardens in the Combine, but not as a consumable or a spice, but rather a repellent and an attractant. Wild cats are culturally considered good luck, and well tended ones may even provide minor gifts or service.
+
+Animals are fed with rinds from melons and squashes, or with peas or poor spinach.
 
 #### Spice and Oil
 Jasmine, Water-Pepper, Wasabi, Basil, and Sage all grow well in the warmer wetter conditions of Combine. 
