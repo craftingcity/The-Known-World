@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "deb2d3802f88d5c8",
+        "id": "8c69bf8786bc3af6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1abcb4f3806bd36a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
         }
       }
@@ -63,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "deb2d3802f88d5c8",
+  "active": "8c69bf8786bc3af6",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdom Actstow.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Actstow Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+    "conflict-files-obsidian-git.md"
   ]
 }
