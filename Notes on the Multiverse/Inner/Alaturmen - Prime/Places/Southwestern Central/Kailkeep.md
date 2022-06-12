@@ -30,6 +30,13 @@ In my world, Alaturmen, magic is not common. The amount of magical items alone w
 If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot.
 
 ## Outline
+### Philosophy
+Kailkeep is a sad place where evil festers. Those who have come before leave as much light as they can, but it is quickly dimmed by the cruelty on display in this place. From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about they story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
+
+This is built for player's to survive and run from, not beat into nothingness. Put a little fear back in the hearts and minds of your friends, family, or otherwise.
+
+I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than 4chan storyboar
+
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
@@ -217,8 +224,10 @@ A door in the wall made of adamentine is marked with the [[Draconic]] rune that 
 ##### Markings
 
 ##### The Spikes
+Around the room in three foot intervals are rotating stone pillars with stilleto-esq blades that reach their point 5 inches out from their pillar. When some runs into these pillars, they become pierced by them; damaging them for 4d4 damage and restraining them.
 
 ##### The Oil
+The Floor of this room is covered in a slick clear oil. Moving across this oil carefully requires a DC 17 check, probably a simple or proficient dexterity check or a relevant skill if you're feeling extra nice.
 
 ##### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
