@@ -1,23 +1,8 @@
 ---
-tags: holding,
+tags: stub
 aliases:
 ---
 
-# Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+*This page is a #stub . You can help by expanding it!*
 
-# Description
-Any sort of local lore...
-## Physicality of the Holding
-
-## Population Distribution
-If it differs from the nation's...
-
-## Defenses
-
-## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
-
+While no major holdings are in the Grumbling Hills, the much [[Hillkeep Loyalists]] make their home here. The Hillkeep Clan of Hill Dwarves founded the [[Darnt Hillkeep]], but could found no Kingdom, lest they wish to make war against the - at the time - powerful [[Bandit Lords]]. Now the Hills of Ameerinthia find themselves tred upon by all manner of foot, though still the Hill Dwarves most of all.
