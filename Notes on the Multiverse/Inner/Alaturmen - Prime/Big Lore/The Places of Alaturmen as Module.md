@@ -124,8 +124,8 @@ Kanielkiln is the Capital of the Church. In its center, the grand temple of [[It
 ### [[Baskin]]
 Baskin was once a proud city of the Church. Now it stands in Ice and Fire, injured greatly by [[The Assault of the Giant Decenters]].
 
-# Non-Nation Entities
-# [[Northeas]]
+# Non Coalition Entities
+# [[Northeastern Hobgoblin Territories]]
 **Capital:** Unknown
 **Hallmarks:** Honor, Alcohol, Forestry, Raid-War
 
@@ -145,7 +145,7 @@ As you develop a character from AAA, consider the following properties:
 
 ## Cities and Sites
 
-# [[Mountain Hall]]
+# [[Dwarven Kingdom Copperhammer]]
 **Capital:** Mountain Hall
 **Hallmarks:** a, a, a, a
 
@@ -161,12 +161,54 @@ desc.
 As you develop a character from AAA, consider the following properties:
 **a.** a
 **a.** a
-**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+**a.** a
+
+## Cities and Sites
+
+
+# [[Dwarven Kingdom Actstow]]
+**Capital:** Actstow Hills
+**Hallmarks:** a, a, a, a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**a.** a
 
 ## Cities and Sites
 
 # [[Cenva Minyo]]
-**Capital:** Mountain Hall
+**Capital:** Aractstow (*outside Actstow*)
+**Hallmarks:** Elvenfiber, a, a, a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**a.** a
+
+## Cities and Sites
+
+
+# [[Dwarven Kingdom Jammu]]
+**Capital:** Grumbling Hills
 **Hallmarks:** a, a, a, a
 
 desc.
@@ -181,12 +223,12 @@ desc.
 As you develop a character from AAA, consider the following properties:
 **a.** a
 **a.** a
-**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+**a.** a
 
 ## Cities and Sites
 
-# [[Dwarven Kingdom Actstow]]
-**Capital:** Mountain Hall
+# [[Dwarven Kingdom Suremantle]]
+**Capital:** Grumbling Hills
 **Hallmarks:** a, a, a, a
 
 desc.
@@ -201,11 +243,9 @@ desc.
 As you develop a character from AAA, consider the following properties:
 **a.** a
 **a.** a
-**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+**a.** a
 
-## Cities and Sites
-
-# Circle of the Idols
+# Druids of the Idols
 **Capital:** Unknown
 **Hallmarks:** Magic, Wine, Fertility
 
@@ -223,6 +263,24 @@ Nearly always, a Circle is secret; very few know its place. To this end, a Druid
 As you develop a character from AAA, consider the following properties:
 **a.** a
 **a.** a
-**The Dug Too Deep.** How has the Great Deep effected you and your family? Do you oppose the darkness below, or see it as a untapped well of power?
+**a.** a
 
 ## Cities and Sites
+
+# [[]]
+**Capital:** Grumbling Hills
+**Hallmarks:** a, a, a, a
+
+desc.
+
+## Interesting things about AAA
+- a
+- a
+- a
+- a
+
+## Characters from AAA
+As you develop a character from AAA, consider the following properties:
+**a.** a
+**a.** a
+**a.** a

@@ -10,7 +10,7 @@ Defenses:
 Other Tags:
 
 # Description
-The Darnt Hillkeep is home to [[Baron Jammu]], of the Hill Clan Jammu, and there she keeps her standing army and her wealth.
+The Darnt Hillkeep is home to [[Baron Jammu]], of the [[Dwarven Kingdom Jammu]], and there she keeps her standing army and her wealth.
 ## Physicality of the Holding
 
 ## Population Distribution

@@ -42,16 +42,24 @@
 			- **[[The Kingdom of Prosper]]**
 		- **Non-Nation Entities**
 			- **Blood Clans**
-				- [[Blood Hobgoblin Clan Pact]]
+				- **Misc**
+					- [[Blood Hobgoblin Clan Pact]]
+					- [[The Hobgoblin Wars]]
 				- [[Northeastern Hobgoblin Territories]]
-				- [[The Hobgoblin Wars]]
+				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
-			- [[Druids of Animan]]
-			- [[Druids of Aquan]]
-			- [[Druids of Ventan]]
-			- [[Dwarven Kingdom Actstow]]
-			- [[Mountain Hall]]
+			- **Druids of the Idols**
+				- [[Druids of Animan]]
+				- [[Druids of Aquan]]
+				- [[Druids of Ignan]]
+				- [[Druids of Terran]]
+				- [[Druids of Ventan]]
+			- **Dwarven Kingdoms**
+				- [[Dwarven Kingdom Actstow]]
+				- [[Dwarven Kingdom Copperhammer]]
+				- [[Dwarven Kingdom Jammu]]
+				- [[Dwarven Kingdom Suremantle]]
 		- **Player Characters**
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
@@ -94,7 +102,7 @@
 				- [[On The Text of Tetrimoc; Guild Position]]
 				- [[Politics of Coalition c. 078AF - 092AF]]
 			- [[The Ballad of Grey Ordeal]]
-		- [[The Places of Alaturmen]]
+		- [[The Places of Alaturmen as Module]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]
@@ -141,6 +149,7 @@
 			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
+			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**

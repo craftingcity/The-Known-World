@@ -73,7 +73,7 @@ A group of Honorable Thieves have found their way into the Hells of Kailkeep. Th
 A group of guardsfolk have found their way into the Hells of Kailkeep. They are extremely hostile to anyone who does not worship the same Deity as them (for my purposes, this is [[Tetrimoc]]), but would offer nearly anything to ones who bear its mark.
 
 ##### Dwarven Warriors
-A group of dwarven warriors were tasked with the removal of Kobolds threatening their ([[Mountain Hall]]) supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
+A group of dwarven warriors were tasked with the removal of Kobolds threatening their ([[Dwarven Kingdom Copperhammer]]) supply lines, and cannot report back that Kailkeep is a much larger bite of evil than a group of its size could handle.
 
 ##### Unwitting Participants
 Many of Kailkeep's "invaders" were people taken to the Hells during a slower time for the Kobold's entertainment. Some have banded together into small packs, doing what they must to survive together.

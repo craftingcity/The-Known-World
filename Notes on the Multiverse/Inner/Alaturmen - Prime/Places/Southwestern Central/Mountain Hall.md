@@ -1,8 +1,3 @@
----
-tags: holding,
-aliases:
----
-
 # Holding Tags
 Prosperity:
 Population:

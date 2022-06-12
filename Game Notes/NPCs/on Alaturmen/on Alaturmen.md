@@ -8,9 +8,6 @@
 			- [[Detraminx]]
 			- [[Kakurak]]
 			- [[Tetrimoc]]
-		- **Druids of the Idols**
-			- [[Druids of Ignan]]
-			- [[Druids of Terran]]
 		- **Giant Leaders**
 			- [[Jarl Grungar]]
 			- [[King Snure]]
