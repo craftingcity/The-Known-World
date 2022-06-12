@@ -113,6 +113,13 @@
 			- **Smaller than a city**
 				- [[Benders]]
 				- [[Moonlight]]
+			- **Smaller than a feature**
+				- [[Castle Prosper]]
+				- [[Diables]]
+				- [[Gambleum]]
+				- [[Janesland]]
+				- [[Magius]]
+				- [[Yerba]]
 			- **Smaller than a village**
 				- [[Archmage Barrowinch's Tower]]
 				- [[Brandle Wrench]]
@@ -132,12 +139,22 @@
 				- [[Baskin]]
 				- [[Kohnstamm]]
 				- [[The Holy City of Kanielkiln]]
+			- **Smaller than a village**
+				- [[Kakurak's Lair]]
 			- [[The Holy City of Kanielkiln]]
 			- [[The Holyl'nds]]
 			- [[Wychway]]
 		- **Southeast Central**
 			- **Eastlick**
 				- [[Asilar's Bounty]]
+			- **Smaller than a city**
+				- [[Aeberu]]
+				- [[Asilar's Bounty]]
+				- [[Four Stone]]
+				- [[Neverwallow]]
+			- **Smaller than a feature**
+				- [[Darnt Hillkeep]]
+				- [[Red Throne]]
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- **Smaller than a city**

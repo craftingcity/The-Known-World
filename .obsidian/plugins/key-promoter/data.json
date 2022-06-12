@@ -58,7 +58,10 @@
     "find-unlinked-files:delete-unlinked-files": 26,
     "graph:open-local": 2,
     "graph:animate": 1,
-    "key-promoter:key-promoter": 1
+    "key-promoter:key-promoter": 1,
+    "app:open-vault": 1,
+    "file-explorer:move-file": 1,
+    "note-composer:merge-file": 1
   },
   "keyboardStatistics": {
     "insert-template": 109,

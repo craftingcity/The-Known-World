@@ -160,23 +160,50 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 There are three variations of this "floor", though room is a better descriptor. 
 
 #### 1. Pressure
-Four bowls rest on four pressure plates on their four platforms in the four corners of the room.
+Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
+
+##### Markings
+On the floor of this room there are many square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". On the wall above the platform of the Kobold giving blood is a formatted marking;
+> 
 
 ##### Bowls
+These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
 
 ##### Plates
-The plates are set to detect thirty pounds of weight applied directly downwards. Once all four plates are triggered at the same time, the trapdoor to level five 
+The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding more weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the **Hidden Holes**.
 
 ##### Platform
-Each of the platforms depict a Kobold giving something. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving his own blood, and other full of burning books.
+Each of the platforms depicts a Kobold giving something into a bowl. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving their own blood, and another willingly giving books and scrolls.
+
+###### Hidden Holes
+Along the platforms, small holes appear. These have no marking or indications of any kind other than their existence.
+
+These holes will dispense a necrotic gas (that deals 2d4 necrotic damage at the beginning of an occupant's turn) into the enclosed room upon the secondary trigger of the **Plates**.
+
+##### Hidden Trap Door
+In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
+
+##### Ko-bolted Access Door
+A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 #### 2. Spikes and Oil
+##### Markings
+
+##### The Spikes
+
+##### The Oil
+
+##### Hidden Trap Door
+In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
+
+##### Ko-bolted Access Door
+A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 #### 3. Sand Table
-This is a timed puzzle room. On the walls there are etchings of the Mountain Kailkeep is in, and a table with a lowered center (8") that contains to its brim and overflown onto the floor - as if sweeped off - a fine red sand.
+This is a timed puzzle room. On the walls there are etchings of the Mountain Kailkeep is in, and a table with a lowered center (8") that contains to its brim and overflown onto the floor - as if swiped off - a fine red sand.
 
 ##### The Sand
-A lil bit of something for yah, the table holds exactly 33 pounds of dry red sand, but when the kobolds reset the room, they use units of 35, and sweep the rest onto the floor. This means that there are two "un/intentional" extra pounds of dry sand. That very quickly become wet. And or flown down to the blocked sewer **Below the Table**.
+A 'lil bit of something for 'yah, the table holds exactly 33 pounds of dry red sand, but when the kobolds reset the room, they use units of 35, and sweep the rest onto the floor. This means that there are two "un/intentional" extra pounds of dry sand. That very quickly become wet. And or flown down to the blocked sewer **Below the Table**.
 
 ##### The Vision Columns
 As the stairs close behind the poor souls given this task, the vision columns fire up, and its runes hum and generate a fine dust that swirls together to form an image of a room of Kobold. These kobold begin to, out loud, in [[Draconic]], note defining features of each of the observed. After the Kobolds finish, the dust disappears and the vision fades. The **Mouths** begin to pour.
@@ -198,6 +225,12 @@ The Art of Kailkeep has the exact dimensions that are required for the plates be
 Anyone who has a good eye for art or difference in works (or both, like a forger) would notice the softer texture of the mountain art compared to the walls of the room. 
 
 The Kobolds had one specific idea for what this symbolizes, build this, exactly, with this soft sand from our home. Or die, in our shit.
+
+##### Markings
+There are no markings in this room. Any attempts at marking in this room are futile, if they can be refuted by an Operator, they are instantly. If they could only be removed by a power as great as Terra, then a moment passes before it is removed.
+
+##### Hidden Trap Door
+In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
 ##### Ko-bolted Access Door
 A door in the opposite wall as the Art of Kailkeep made of adamentine is marked with the [[Draconic]] rune that indicates our concept of three in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
