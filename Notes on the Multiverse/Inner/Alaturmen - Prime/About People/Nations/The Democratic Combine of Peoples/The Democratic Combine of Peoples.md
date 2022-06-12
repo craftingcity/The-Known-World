@@ -5,7 +5,7 @@ tags: nation_page, combine
 ![[combine-100AF.png]]
 *Combine Territory as of 100AF*
 
-The Democratic Combine of Peoples is a anarch-fiefdom-government that signed the [[Coalition's Founding Document]].
+The Democratic Combine of Peoples is a anarchco-autonomous-area government that signed the [[Coalition's Founding Document]].
 
 ### Government
 The Rulers of [[The Baronies of the Combine]] conference often, and form their own alliances between themselves. The clauses in [[Coalition's Founding Document]] allow anyone that holds a fief (ie enough land to feed a knight) to represent the Combine in [[Communicae]].

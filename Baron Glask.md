@@ -5,15 +5,19 @@ aliases:
 # Killrick Emm Glask
 ## "Honorable" Baron of [[Eastlick Mossland]] and the [[Riphounds]]
 ### he/her
+#### VO EXAMPLE:
 
-> A beatifully crafted muscular form emerges from behind the styled door. Her dark ponytailed hair flows
+![[Baron Glask VOX.webm]]
+
+
+> A beatifully crafted muscular form emerges from behind the styled door. Her dark ponytailed hair flows long behind him. Her every muscle flexes as he walks calmly over.
 
 A description of their function in the world.
 
-A politic of theirs that players would interact with.
+While the Baron puts on a kind demenor, Killrick Emm Glask has earned his name. She has no trouble removing peices from the gameboard - personally - and no trouble moving morality to suit his needs - or whoevers' paying her.
 
 ## Goals
-A goal that this NPC has.
+The Baron Glask wishes to 
 
 How that goal could resolve when it is achieved (or failed, if this is considered a genuine possibility).
 
