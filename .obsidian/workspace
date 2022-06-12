@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "997932b1a0b08e12",
+        "id": "e7a6a7b5db9cae80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4de03680929d4705",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +129,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "997932b1a0b08e12",
+  "active": "4de03680929d4705",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
+    "MEDIA/MAPS/alaturmen-100AF.png",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "Wilson a'LeQuinn.md",
+    "Carrie a'LeQuinn.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
     "Brandle Wrench.md",
-    "Sally's Seaside Spot.md",
-    "Earlwynn's Fine Dining.md",
-    "Yawning Pillow.md",
-    "Alisinder Rancarlo.md",
-    "Doctor Gunagido.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Baron Jammu.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumble Hills/Darnt Hillkeep.md"
+    "Sally's Seaside Spot.md"
   ]
 }

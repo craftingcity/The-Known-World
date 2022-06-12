@@ -14,7 +14,7 @@ The LeQuinn family has had its history in Yerba as long as the Arstoviches have.
 
 When the Young Arthur Simonson came to them and offered them ward of the land if only they would help him free their neighbors in the same fashion as they would help him - start the uprising of the people against their worse.
 
-For [[Wilson LeQuinn]]'s service to the King during the wars against the [[Bandit Lords]], the House a'LeQuinn was bestowed ward of the land during [[Unification]] and has managed the area well. Because of their position in relation to both [[Castle Prosper]] and [[Coalition City]], they manage one of the wealthiest areas of Alaturmen. 
+For [[Wilson a'LeQuinn]]'s service to the King during the wars against the [[Bandit Lords]], the House a'LeQuinn was bestowed ward of the land during [[Unification]] and has managed the area well. Because of their position in relation to both [[Castle Prosper]] and [[Coalition City]], they manage one of the wealthiest areas of Alaturmen. 
 
 ### Symbolism
 The house a'LeQuinn symbol is a bull's head over a forest.
