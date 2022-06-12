@@ -160,7 +160,15 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 There are three variations of this "floor", though room is a better descriptor. 
 
 #### 1. Pressure
-An allude to the next floor's Gimmik, this room has four pressure bowls 3 feet wide with a square ==rim== that extends to the fixture at a total of five feet square and four feet tall - bowl extended. There is very little to this trap, 30 pounds of weight must be put on the 
+Four bowls rest on four pressure plates on their four platforms in the four corners of the room.
+
+##### Bowls
+
+##### Plates
+The plates are set to detect thirty pounds of weight applied directly downwards. Once all four plates are triggered at the same time, the trapdoor to level five 
+
+##### Platform
+Each of the platforms depict a Kobold giving something. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving his own blood, and other full of burning books.
 
 #### 2. Spikes and Oil
 
