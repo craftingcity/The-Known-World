@@ -2,10 +2,12 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
-#### VO EXAMPLE:
+# Shimmer
+## Baron of the Gabrin Shrublands
+## Grand Admiral of [[Dampguard]]
+### she/they
+#### VO EXAMPLE
+![[Baron Shimmer VOX.webm]]
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 

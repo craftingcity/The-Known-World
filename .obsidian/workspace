@@ -4,12 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "80ac0de6d0f35957",
+        "id": "e9bd05b2be46a164",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "e55b211784cb7ecd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6558ade26ed89ce3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Baronies of the Combine.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2f5150941ff450fd",
+        "type": "split",
+        "children": [
+          {
+            "id": "3b2549fedeaab872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baron Glask.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "414c439f9fa5d35c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eastlick Mossland.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -49,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -66,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Baron Glask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Baron Glask.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +165,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "80ac0de6d0f35957",
+  "active": "3b2549fedeaab872",
   "lastOpenFiles": [
-    "Dragon Blood Inn.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
-    "MEDIA/MAPS/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dwarven Specifics.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Edward Bodaim.md",
-    "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Barret Bodaim.md"
+    "Baron Glask.md",
+    "ORGANIZATION/TEMPLATES/NPCs.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Baronies of the Combine.md",
+    "Eastlick Mossland.md",
+    "Gabrin Shrublands.md",
+    "MEDIA/MEDIA.md",
+    "Baron Shimmer.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Natural Features/Huntyr Swamp.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Actstow.md"
   ]
 }

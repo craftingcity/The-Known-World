@@ -5,4 +5,4 @@ aliases:
 
 *This page is a #stub . You can help by expanding it!*
 
-A large swamp under the control of the [[Knights in Red]]
+The Huntyr Swamp is a mean barony, encompassing three holdings, [[Red Throne]], [[Falseguard]], and [[Neverwallow]]. Currently, the entire swamp is under the control of the [[Knights in Red]].

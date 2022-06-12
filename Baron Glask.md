@@ -6,7 +6,7 @@ aliases:
 ## "Honorable" Baron of [[Eastlick Mossland]] and the [[Riphounds]]
 ### he/her
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A beatifully crafted muscular form emerges from behind the styled door. Her dark ponytailed hair flows
 
 A description of their function in the world.
 

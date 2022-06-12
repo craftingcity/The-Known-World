@@ -31,7 +31,7 @@ Summer Elves, also known as the Desert Elves, first came to the southwest of [[C
 Traditional summer elf culture promotes impulse and fruitless joy, so long as their actions would not impede their Walk.
 
 #### Autumn Elves
-Autumn elves, also known as the High Elves, first came to the southeast of [[Central Alaturmen]], the area now known as [[The Fiefdoms of the Combine]]. There, they used their progenitor's natural magics in the battle for power and resources ever-present in the Fiefdoms. 
+Autumn elves, also known as the High Elves, first came to the southeast of [[Central Alaturmen]], the area now known as [[The Baronies of the Combine]]. There, they used their progenitor's natural magics in the battle for power and resources ever-present in the Fiefdoms. 
 
 The traditional culture of the Autumn elves requires respect to be given to those who have spent their time mastering their skills.
 

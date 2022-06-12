@@ -43,7 +43,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -137,7 +136,7 @@
 				- [[Red Throne]]
 			- **Mossburg**
 				- [[Four Stone]]
-			- [[The Fiefdoms of the Combine]]
+			- [[The Baronies of the Combine]]
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- [[Kickoff]]
