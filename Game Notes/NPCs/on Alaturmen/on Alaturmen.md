@@ -18,6 +18,7 @@
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
 		- **[[Kingdom of Prosper]]**
+		- **Leaders in Prosper**
 		- **[[Northeastern Clan Leaders]]**
 		- **[[World Villans]]**
 	- **Higher Power**
@@ -25,9 +26,7 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
-		- **Combine Citizens**
 		- **[[Ex-Bandit Lords]]**
-		- **Lower Holyl'nders**
 		- **Self-Made**
 			- [[Alisinder Rancarlo]]
 		- **Servant of a Patron**
