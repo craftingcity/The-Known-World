@@ -1,6 +1,6 @@
-# Alaturmen - Prime Material Plane
+# Alaturmen - Prime
 %% Begin Waypoint %%
-- **[[Alaturmen - Prime Material Plane]]**
+- **[[Alaturmen - Prime]]**
 	- **About People**
 		- **Heritages**
 			- [[Dragonborn Specifics]]
@@ -36,22 +36,30 @@
 					- [[Tetrimoc's Journal]]
 					- [[Tetrimoc's Tournament of Glory]]
 					- [[The Code of Thieves]]
-				- [[The Lands of Tetrimoc]]
+				- [[The Deserts of Tetrimoc]]
 				- [[The Outlands]]
 			- **[[The Democratic Combine of Peoples]]**
 			- **[[The Kingdom of Prosper]]**
 		- **Non-Nation Entities**
 			- **Blood Clans**
-				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
+				- **Misc**
+					- [[Blood Hobgoblin Clan Pact]]
+					- [[The Hobgoblin Wars]]
 				- [[Northeastern Hobgoblin Territories]]
+				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
-			- [[Druids of Animan]]
-			- [[Druids of Aquan]]
-			- [[Druids of Ventan]]
-			- [[Dwarven Kingdom Actstow]]
-			- [[Mountain Hall]]
+			- **Druids of the Idols**
+				- [[Druids of Animan]]
+				- [[Druids of Aquan]]
+				- [[Druids of Ignan]]
+				- [[Druids of Terran]]
+				- [[Druids of Ventan]]
+			- **Dwarven Kingdoms**
+				- [[Dwarven Kingdom Actstow]]
+				- [[Dwarven Kingdom Copperhammer]]
+				- [[Dwarven Kingdom Jammu]]
+				- [[Dwarven Kingdom Suremantle]]
 		- **Player Characters**
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
@@ -67,8 +75,8 @@
 			- [[Economics of The Holyl'nds]]
 		- **How things Work**
 			- **Alchemy**
+				- [[All Alchemical Ingredients]]
 				- [[How Alchemy Works]]
-				- [[Known Alchemical Ingredients]]
 				- [[Known Alchemical Products]]
 			- [[Durandurm Weaponry]]
 			- **Magic**
@@ -94,7 +102,7 @@
 				- [[On The Text of Tetrimoc; Guild Position]]
 				- [[Politics of Coalition c. 078AF - 092AF]]
 			- [[The Ballad of Grey Ordeal]]
-		- [[The Places of Alaturmen]]
+		- [[The Places of Alaturmen as Module]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]
@@ -138,10 +146,14 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
+			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
+			- **Smaller than a feature**
+			- **Smaller than a village**
 			- [[The Golden City]]
 		- **World Features**
 			- **Natural or Territory**

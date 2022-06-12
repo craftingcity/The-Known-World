@@ -10,6 +10,7 @@
 		- [[Warspider]]
 		- [[Zer Muwwoq-Geub]]
 	- **Fronts**
+		- [[Hobgoblin Wars]]
 		- [[Nala Co.]]
 		- [[Rangers Gone Rouge]]
 		- [[The War on Tetrimoc]]

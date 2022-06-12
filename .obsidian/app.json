@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "MEDIA",
+  "attachmentFolderPath": "/",
   "spellcheck": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
@@ -129,12 +129,6 @@
     "Caltrop",
     "hommunculi",
     "anarchco",
-    "gameboard",
-    "Vamparism",
-    "Arstoviches",
-    "smokebulb",
-    "Thermite",
-    "Arcana",
-    "Bituitem"
+    "gameboard"
   ]
 }

@@ -70,7 +70,6 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 - smells of sweat, gunpowder
 - Certi'alkior appears to their followers in battle before their final stand, though seeing her is not considered a holy sentence to death
 	- ask the Paladin Wyruq the Grave Presence
-	- or [[Nala]]
 
 ## Gods of Triumph
 Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 

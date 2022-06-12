@@ -92,7 +92,7 @@ The largest dwarven settlement this side of the surface, a mining town, soon to 
 
 The dwarves of Forgehome have grown rightly suspect of outsiders, and will only allow parties including their dwarven cousins to seek semi-permanent refuge here, although if they are proven trustworthy, the denizens are willing to commit trade. [[Bosi]] runs the "Outlander Exchange" in Forgehome, and is one of the few trusted to engage with outsiders.
 
-Forgehome keeps contact with [[Mountain Hall]], the nearest dwarven kingdom, and much of the trade flowing from Forgehome goes through there.
+Forgehome keeps contact with the nearest dwarven kingdom, and much of the trade flowing from Forgehome goes through there.
 
 The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep.
 
