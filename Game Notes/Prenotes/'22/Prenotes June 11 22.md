@@ -52,3 +52,5 @@ She also mentions that the Guards of Magius have mildly accurate descriptions an
 ### What happened this time?
 
 I got the names for the people they need to get their packages from. [[Alisinder Rancarlo]] in [[Yerba]], [[Baron Jammu]] in the [[Darnt Hillkeep]], and [[Doctor Gunagido]] in [[The Golden City]].
+
+Clark Lowe the bandit.

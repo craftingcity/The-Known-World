@@ -6,7 +6,7 @@ aliases:
 ## Northeastern
 Masc | Femme | Neutral
 --------|--------|--------
-Clark Lowe  | Sasha Lowe | x
+  | Sasha Lowe | x
 Theo Anderson  | Paige Saunders | Glen Stone
 Nico Bennett  | Freya Harris | Glen Berry
 River Mcdonald  | Alaya Mccarthy | Val Harris
