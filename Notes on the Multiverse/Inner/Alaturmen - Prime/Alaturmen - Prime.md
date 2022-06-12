@@ -36,7 +36,7 @@
 					- [[Tetrimoc's Journal]]
 					- [[Tetrimoc's Tournament of Glory]]
 					- [[The Code of Thieves]]
-				- [[The Lands of Tetrimoc]]
+				- [[The Deserts of Tetrimoc]]
 				- [[The Outlands]]
 			- **[[The Democratic Combine of Peoples]]**
 			- **[[The Kingdom of Prosper]]**

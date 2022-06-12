@@ -74,7 +74,7 @@ As you develop a character from the Combine, consider the following properties:
 ## Cities and Sites
 See [[The Democratic Combine of Peoples#Notable Places]].
 
-# [[The Lands of Tetrimoc]]
+# [[The Deserts of Tetrimoc]]
 **Capital:** [[The Golden City]]
 **Hallmarks:** Sand, Gold, Durandurm, Fear, Authority
 
