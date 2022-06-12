@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "30999c092f0a2ec3",
+        "id": "50b32e6a6a6ee5f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Baronies of the Combine.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "17c0aee330ffc2a3",
+        "id": "93d612580a1f96a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2b65b0a3eb626b17",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Eastlick Mossland.md",
+            "file": "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +128,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "17c0aee330ffc2a3",
+  "active": "50b32e6a6a6ee5f8",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Eastlick Mossland.md",
-    "Northern Quillbuck Jungle.md",
-    "Reugb Marshes.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/The Baronies of the Combine.md",
-    "Centerlick Mossland.md",
-    "Wetfoot Greenland.md",
-    "Greater Groves.md",
-    "ORGANIZATION/TEMPLATES/Stub.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumbling Hills.md"
+    "Untitled.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Druids of the Idols/Druids of Ignan.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Druids of Ventan.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Druids of the Idols/Druids of Terran.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Druids of Animan.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Druids of Aquan.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md"
   ]
 }

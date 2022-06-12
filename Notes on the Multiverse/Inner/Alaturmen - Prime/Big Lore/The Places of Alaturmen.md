@@ -72,7 +72,7 @@ As you develop a character from the Combine, consider the following properties:
 **Powerful Magic.** The people of the Combine all share a Woven Patch of elemental magic. How does this natural predisposition to the elements affect your character? Can your character use their Patch to their advantage, or is it a detriment that they must commonly recover from or cover up?
 
 ## Cities and Sites
-See [[The Baronies of the Combine]].
+See [[The Democratic Combine of Peoples#Notable Places]].
 
 # [[The Lands of Tetrimoc]]
 **Capital:** [[The Golden City]]

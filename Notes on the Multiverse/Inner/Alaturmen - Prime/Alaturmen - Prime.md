@@ -47,6 +47,9 @@
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
+			- [[Druids of Animan]]
+			- [[Druids of Aquan]]
+			- [[Druids of Ventan]]
 			- [[Dwarven Kingdom Actstow]]
 			- [[Mountain Hall]]
 		- **Player Characters**
@@ -98,49 +101,72 @@
 				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
-		- **Natural Features**
-			- [[Actstow Hills]]
-			- [[Alavini River]]
-			- [[Deakred Range]]
-			- [[Great Northern Forests]]
-			- [[Huntyr Swamp]]
-			- [[Stone of Desmoniur]]
-			- [[Three Nation Highways]]
 		- **Northeastern Central**
-			- [[Archmage Barrowinch's Tower]]
-			- [[Benders]]
-			- [[Castle Prosper]]
-			- [[Diables]]
-			- [[Gambleum]]
-			- [[Janesland]]
-			- [[Magius]]
-			- [[Moonlight]]
-			- [[Yerba]]
+			- **Smaller than a city**
+				- [[Benders]]
+				- [[Moonlight]]
+			- **Smaller than a feature**
+				- [[Castle Prosper]]
+				- [[Diables]]
+				- [[Gambleum]]
+				- [[Janesland]]
+				- [[Magius]]
+				- [[Yerba]]
+			- **Smaller than a village**
+				- [[Archmage Barrowinch's Tower]]
+				- [[Brandle Wrench]]
+				- [[Dragon Blood Inn]]
+				- [[Earlwynn's Fine Dining]]
+				- [[Sally's Seaside Spot]]
+				- [[Yawning Pillow]]
 		- **Northwestern Central**
-			- [[Baskin]]
-			- [[Firelight Sea]]
-			- [[Kakurak's Lair]]
-			- [[Kohnstamm]]
-			- [[The Holy City of Kanielkiln]]
+			- **Smaller than a city**
+				- [[Wychway]]
+			- **Smaller than a feature**
+				- [[Baskin]]
+				- [[Kohnstamm]]
+				- [[The Holy City of Kanielkiln]]
+			- **Smaller than a village**
+				- [[Kakurak's Lair]]
 			- [[The Holyl'nds]]
-			- [[Wychway]]
 		- **Southeast Central**
-			- **Eastlick**
-				- [[Asilar's Bounty]]
-			- **Grumble Hills**
+			- **Smaller than a city**
 				- [[Aeberu]]
-				- [[Darnt Hillkeep]]
-			- [[Grumbling Hills]]
-			- **Huntyr Swamp**
-				- [[Neverwallow]]
-				- [[Red Throne]]
-			- **Mossburg**
+				- [[Asilar's Bounty]]
 				- [[Four Stone]]
-			- [[The Baronies of the Combine]]
+				- [[Neverwallow]]
+			- **Smaller than a feature**
+				- [[Darnt Hillkeep]]
+				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
-			- [[Kickoff]]
+			- **Smaller than a city**
+				- [[Kickoff]]
+			- **Smaller than a feature**
+			- **Smaller than a village**
 			- [[The Golden City]]
+		- **World Features**
+			- **Natural or Territory**
+				- [[Actstow Hills]]
+				- [[Alavini River]]
+				- [[Centerlick Mossland]]
+				- [[Deakred Range]]
+				- [[Eastlick Mossland]]
+				- [[Firelight Sea]]
+				- [[Gabrin Shrublands]]
+				- [[Great Northern Forests]]
+				- [[Great Quillbuck Jungle]]
+				- [[Great Southern Mossland]]
+				- [[Grumbling Hills]]
+				- [[Huntyr Swamp]]
+				- [[Northern Quillbuck Jungle]]
+				- [[Reugb Marshes]]
+				- [[Southern Quillbuck Jungle]]
+				- [[Westlick Mossland]]
+				- [[Wetfoot Greenland]]
+			- [[Stone of Desmoniur]]
+			- [[Three Nation Highways]]
 	- **Tracking**
 		- [[Historical Markings]]
 		- [[Magic Item Authors]]

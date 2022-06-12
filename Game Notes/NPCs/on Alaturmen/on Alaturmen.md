@@ -8,6 +8,9 @@
 			- [[Detraminx]]
 			- [[Kakurak]]
 			- [[Tetrimoc]]
+		- **Druids of the Idols**
+			- [[Druids of Ignan]]
+			- [[Druids of Terran]]
 		- **Giant Leaders**
 			- [[Jarl Grungar]]
 			- [[King Snure]]
@@ -25,11 +28,12 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
-		- [[Balthazar Wumfingle]]
-		- **Combine Citizens**
 		- **[[Ex-Bandit Lords]]**
-		- **Lower Holyl'nders**
-		- **Servent of a Patron**
+		- **Self-Made**
+			- [[Alisinder Rancarlo]]
+		- **Servant of a Patron**
+			- [[Balthazar Wumfingle]]
+			- [[Doctor Gunagido]]
 			- [[Marcus]]
 	- **Mild Power**
 		- **[[Combine Rulers]]**
@@ -39,8 +43,10 @@
 			- [[Yyu Clipwin]]
 		- **[[Guilded Adventuers]]**
 		- **Local Leader**
+			- [[Carrie a'LeQuinn]]
 			- [[Enoch Ben]]
 			- [[Macht]]
 			- [[Valerio Avishalom]]
+			- [[Wilson a'LeQuinn]]
 
 %% End Waypoint %%

@@ -24,7 +24,7 @@ At the edge of the land, the common folk will tell you to venture no further. Th
 Related articles include [[The Places of Alaturmen]], [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
 
 ### Northeast
-The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories]].
+The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]]].
 
 Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common]]
 
@@ -43,7 +43,7 @@ The southeast is a series of wet and warm areas. This makes much of the land swa
 
 All of what is considered "the southeast" is controlled by members of [[The Democratic Combine of Peoples]]. Each member controls their own territory, and is encouraged to fight with their peers for the power they hold, but when the Combine is under threat, all quarrels are halted for the common good of the Peoples.
 
-Related articles include: [[The Baronies of the Combine]], [[Swampish]]
+Related articles include: [[The Democratic Combine of Peoples#Notable Factions]], [[Swampish]]
 
 ### Coalition City
 In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds]]. Members thereof are often regarded in authority, no matter their current location.
