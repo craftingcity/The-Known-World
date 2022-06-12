@@ -25,7 +25,7 @@ date: 013AF
 title: [[Arthur Simonson]] raises his sword
 content:
 
-A young half-hobgoblin first begins to adventure and gain strength. He meets with a young brass dragon; [[Kakurak]]. Together, they begin the first grand campaign of Alaturmen.
+A young half-hobgoblin first begins to adventure and gain strength. He meets with a young brass dragon; [[Kakurak]]. Together, they begin the first grand campaign of Alaturmen. Soon he will meet other great allies and great enemies.
 
 date: 017AF
 title: Bandits rule the [[Great Northern Forests]]
@@ -76,18 +76,20 @@ content:
 [[Arthur Simonson]] leads a party of adventurers and an army of home-grown warriors against the [[Bandit Lords]] that ruled in the northwest of [[Central Alaturmen]].
 
 date: 059AF
-title: Simonson make Peace
+title: The Bandit Lords are forced out
 content:
 
-[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
+[[Arthur Simonson]] completes his war's main goal - exterminate the [[Bandit Lords]]. Now he must hold this new territory from the Hobgoblins to the northeast.
 
 date: 065AF
 title: 
 content:
 
-date: 070AF
-title: 
+date: 072AF
+title: Simonson make Peace
 content:
+
+[[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
 
 date: 075AF
 title:

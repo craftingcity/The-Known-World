@@ -1,6 +1,6 @@
-# Alaturmen - Prime
+# Alaturmen - Prime Material Plane
 %% Begin Waypoint %%
-- **[[Alaturmen - Prime]]**
+- **[[Alaturmen - Prime Material Plane]]**
 	- **About People**
 		- **Heritages**
 			- [[Dragonborn Specifics]]
@@ -45,7 +45,6 @@
 				- [[Blood Hobgoblin Clan Pact]]
 				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
-				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
 			- [[Druids of Animan]]
@@ -68,8 +67,8 @@
 			- [[Economics of The Holyl'nds]]
 		- **How things Work**
 			- **Alchemy**
-				- [[All Alchemical Ingredients]]
 				- [[How Alchemy Works]]
+				- [[Known Alchemical Ingredients]]
 				- [[Known Alchemical Products]]
 			- [[Durandurm Weaponry]]
 			- **Magic**
@@ -103,13 +102,6 @@
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Northeastern Central**
-			- [[Benders]]
-			- [[Castle Prosper]]
-			- [[Diables]]
-			- [[Gambleum]]
-			- [[Janesland]]
-			- [[Magius]]
-			- [[Moonlight]]
 			- **Smaller than a city**
 				- [[Benders]]
 				- [[Moonlight]]
@@ -127,12 +119,7 @@
 				- [[Earlwynn's Fine Dining]]
 				- [[Sally's Seaside Spot]]
 				- [[Yawning Pillow]]
-			- [[Yerba]]
 		- **Northwestern Central**
-			- [[Baskin]]
-			- [[Firelight Sea]]
-			- [[Kakurak's Lair]]
-			- [[Kohnstamm]]
 			- **Smaller than a city**
 				- [[Wychway]]
 			- **Smaller than a feature**
@@ -141,12 +128,8 @@
 				- [[The Holy City of Kanielkiln]]
 			- **Smaller than a village**
 				- [[Kakurak's Lair]]
-			- [[The Holy City of Kanielkiln]]
 			- [[The Holyl'nds]]
-			- [[Wychway]]
 		- **Southeast Central**
-			- **Eastlick**
-				- [[Asilar's Bounty]]
 			- **Smaller than a city**
 				- [[Aeberu]]
 				- [[Asilar's Bounty]]

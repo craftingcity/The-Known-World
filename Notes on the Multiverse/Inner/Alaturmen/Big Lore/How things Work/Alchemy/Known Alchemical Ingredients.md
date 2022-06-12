@@ -2,7 +2,7 @@
 tags:
 aliases:
 ---
-# Known Knowledge Ingredients
+# Known Alchemical Ingredients
 General Categories list specific categories list rare ingredients in those categories. Rarer ingredients are more potent, but the Weave is in all things.
 
 Mechanically, this should simply look like better rolls = better success.
@@ -24,6 +24,8 @@ A necessary component of high grade Potions of Charm
 A necessary component of high grade Impairment Poisons
 ##### Nightshade
 A necessary component of high grade Traditional Poisons
+##### Witchweed
+A necessary component of high grade Spell Smoke
 #### Fungi
 Many fungi are alchemically potent, but the most potent fungi have evolved to hide themselves among other mushrooms.
 ##### Polypore Red Cap

@@ -27,21 +27,23 @@ Arthur is, at base, a CR 9 ["Champion Warrior"](https://www.5esrd.com/gamemaster
 He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "[[Novum Caput Dei]]" is a circlet made of a band of platinum and gold and is politically invaluable, but could theoretically be sold for some 1,500 pp.
 
 ## Titles
-{wip; one for each major holding in Prosper, a few for events in his past as an adventurer}
 - The Great Liberator
 - Adventurer King of Prosper
 - Firstborn of [[Amelia Simonson]]
-- Slayer of the horror Garanbik
+- Slayer of the horror Garanbik, the war-wizard [[Guraxlog]], the beast Yuzzminx, and the [[Witch of Ardor]]
 - Grand Poohba of the [[Simonson Clan]]
+- Living Titles in his holdings; the ...
 	- Favorite Son of [[Yerba]]
 		- Grand Sower of [[Moonlight]]
 	- Balancier in [[Janesland]]
-		- Honor in Stone ([[Benders]])
-	- [[Diables]]
-		- [[Vitalities]]
-	- [[Gambleum]]
+		- Honored in the Stones of [[Benders]]
+		- Heartborn of the [[Diables]]
+		- Seedbearer of [[Vitalities]]
+	- Highest Roller in [[Gambleum]]
 		- Candle Keeper of [[Ardor]]
-		- [[Glamora]]
-		- [[Esoteriques]]
-	- [[Magius]]
-		- [[Aurgurs]]
+		- Crowned Marvel in [[Glamora]]
+		- Commanding Officer of [[Esoteriques]]
+	- Grand Elder of [[Magius]]
+		- Witcher General of [[Aurgurs]]
+	- King of the Simonson Court
+	- Lord of [[Castle Prosper]]

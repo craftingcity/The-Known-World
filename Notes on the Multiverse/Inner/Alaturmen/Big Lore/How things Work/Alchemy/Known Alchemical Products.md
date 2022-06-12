@@ -119,6 +119,9 @@ When exposed to oxygen, Assassin's Slick creates a thick black fog that lasts fo
 
 See *darkness*
 
+#### Assassin's Ink
+After a minute of exposure to oxygen, this ink becomes nearly invisible to the naked eye. It is revealed again under heat, such as a fire
+
 ### Poisons
 #### Traditional
 Traditional poisons act as you would expect, somehow harming or outright killing their consumer.
@@ -178,7 +181,7 @@ This pink gel is extremely flammable, and alights on its own when exposed to oxy
 
 ## Solids
 #### Alchemical Clay
-Alchemical clay acts like normal clay in nearly every way, except that it is inert to nearly all magical or physical effects. While pieces formed of Alchemical Clay cannot shatter, chip, rust, or otherwise decay, they do dent well when exposed to mild force and an un-moving object. 
+Alchemical clay acts like normal clay in nearly every way, except that it is inert to nearly all magical or physical effects. While pieces formed of Alchemical Clay cannot shatter, chip, rust, or otherwise decay, they do dent well when exposed to mild force and a dense enough object. 
 
 > All recipes of alchemical clay require a base of Philosipher's Stone and some inert clay. Other ingredients, and all processes are specific to their recipes.
 
@@ -189,8 +192,8 @@ Elvenfiber is a very rare material that is used to make *equipment of elvenkind*
 ##### Animabric
 Animabric is a fibrous material that is used to create cloaks and other clothing that hold Woven Patches and other Affects. It is formed from silk, and is *quite* expensive.
 
-#### Black Steel
-Black Steel is a steel formed alchemically that absorbs light and enhances the malleability of the Weave near it. While this makes forging something of the material even easier than steel, the same can be said of spellcasting while such an item is nearby.
+#### Dark Oil and Black Steel
+Black Steel is a steel formed alchemically with Dark Oil that absorbs light and enhances the malleability of the Weave near it. This makes forging something of the material even easier than steel, and the same can be said of spellcasting while such an item is nearby.
 
 #### Bituitem
 A powerful coal-like substance. When used to mark an object, the mark would remain for many hundreds of years. When used as a fuel, the substance burns for multiple years at the same heat as coal of the same size. This substance can be used for extremely long lasting candles or markers when correctly shaped.
@@ -215,9 +218,18 @@ Alchemical Chalk is a common component in rituals and other magical happenings. 
 #### Alchemical Thermite
 Alchemical Thermite is a powerful substance that burns extremely hot, long, and precise.
 
+#### Alchemical Explosive
+Alchemical explosive is a powerful substance that reacts to heat in such a manner that in low pressure conditions no detonation occurs, but a shockwave is produced instead, but in higher pressure conditions, the detonation is supersonic (which classifies it as a "high" explosive). 
+
+#### Bulbkiss
+Alchemically treated smokebulb formed into crystals and crushed into powder for a purer and more powerful – and therefore addictive – experience.
+
+#### Suregrip
+This white fluffy powder combines with the oils in one's skin and provides advantage to hold or climb for as long as the powder remains or about ten minutes.
+
 # Common Enchanter's Products
 ## Runes
-Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item and invoking Weave Arcana upon the Rune.
+Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item and invoking Weave Arcane upon the Rune.
 
 Runes can take anywhere from an hour to multiple weeks.
 
@@ -248,13 +260,13 @@ Runes of Spellbinding are incredibly difficult to successfully create on existin
 Patches of weave applied to armor, ammunition, and weaponry can invoke the elements to their advantage (*flame tongue, frost brand*).
 
 #### Physical Patches
-Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in physical attributes (*amulet of health*).
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in physical attributes (*amulet of health*) or certain specific skills (*sneaky boots or some shit*).
 
 #### Mental Patches
-Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in mental attributes (*amulet of health*).
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in mental attributes (*amulet of health*) or certain specific skills (*historic lute or some shit*).
 
 #### Woven Patches
-Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying,*). 
+Patches of Weave applied to armor, ammunition, and weaponry can provide a boost in efficiency (*+1, +2, +3, of slaying, true-dwarven-crafted tools*). 
 
 ### Curse
 #### Attachment
@@ -273,3 +285,19 @@ Some curses outright harm the user.
 When an enchanter is attempting to capture the effect of a specific spell, they will create a scroll. This process takes a variable amount of time, depending on the Grade of equipment they are using and the level of the spell they wish to Scroll. One can use the following expression to determine the time such an act would take.
 
 (3 days^level of spell) / (grade of best equipment where Apprentice is .5)
+
+# Tools of Trade Alchemists
+
+
+# Common Completed Adventuring Equipment
+## Gear
+### Camp
+#### Pressigen Foldable Tent
+The Pressigen keeps water out and the metal poles create a quick set up and take down time. While heavier than a simple bedroll, the comfort is worth the expense :) *~ding*
+## Weaponry
+### Throwable
+#### Flashpellet
+A small, fragile, opaque bead. When the bead is shattered with force, creatures within a ten foot radius must succeed on a DC 14 Dexterity Save or become blinded for a minute.
+
+#### Spell Smoke
+A tight bundle of herbs wrapped in a ignitable substance and treated by an Alchemist. When burned, this stick of herbs produces a thin cloud of white smoke in a 10-foot radius that almost seems to sparkle and shimmer. When within the smoke, no obscurity is provided. Spell attacks and Concentration checks performed within the radius are at disadvantage.

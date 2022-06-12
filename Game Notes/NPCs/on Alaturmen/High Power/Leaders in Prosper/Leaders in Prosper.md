@@ -1,6 +1,6 @@
-# Kingdom of Prosper
+# Leaders in Prosper
 %% Begin Waypoint %%
-- **[[Kingdom of Prosper]]**
+- **[[Leaders in Prosper]]**
 	- [[Arthur Simonson]]
 	- [[Fraznky Bradley]]
 

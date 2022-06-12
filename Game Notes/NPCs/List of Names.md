@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# List of Names
+# "of Men"
 Masc | Femme | Neutral
 --------|--------|--------
   Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
@@ -15,6 +15,8 @@ Zak Williamson | Elsa Grifiths | Skye Johnbill
 Tomas Francis  | Frankie Davis | Gail Thomas
 Louis Stewart  | Lois Rogers | Vic Willis
 Doirin Pheiderin | Kia Pearce | Marley Richardson
+
+# "of Else"
 
 x | x | x | x
 ----|----
@@ -29,6 +31,7 @@ Fatuc | Gowunth | Mumcik | Terrikx
 Waztraek | Frothong | Ngacipa | Krerdundin
 Qholooji | Aibitiuks | Gnisotruls | Vrarakuuv
 
+# of [[The Church of the White Flame|Church of Flame]]
 Masc | Femme
 ---|---	
 Xonsu ben Benkaei | Shir Li ben Hafetz Hayim

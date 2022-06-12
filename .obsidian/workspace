@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "530f3ecf80d5fce0",
+        "id": "44bd0135e7722870",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/List of Names.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hobgoblin wars",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +112,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "530f3ecf80d5fce0",
+  "active": "44bd0135e7722870",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/All Alchemical Ingredients.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
-    "Dragon Blood Inn.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md"
+    "Nala.md",
+    "NPCs related to Spark of Good.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Leaders in Prosper/Arthur Simonson.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
+    "Witch of Ardor.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "Game Notes/Game Notes.md"
   ]
 }

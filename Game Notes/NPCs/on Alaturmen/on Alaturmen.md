@@ -20,7 +20,10 @@
 			- **[[Wizards]]**
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
-		- **[[Kingdom of Prosper]]**
+		- **Leaders in Prosper**
+			- [[Arthur Simonson]]
+			- [[Fraznky Bradley]]
+			- [[Kingdom of Prosper]]
 		- **[[Northeastern Clan Leaders]]**
 		- **[[World Villans]]**
 	- **Higher Power**
