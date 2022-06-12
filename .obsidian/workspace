@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "68668ada930124c2",
+        "id": "530f3ecf80d5fce0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/NPCs/List of Names.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +118,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "68668ada930124c2",
+  "active": "530f3ecf80d5fce0",
   "lastOpenFiles": [
-    "Game Notes/NPCs/on Alaturmen/High Power/Northeastern Clan Leaders/Northeastern Clan Leaders.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Blood Clans/Simonson Clan.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Mountain Hall.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Copperhammer.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/The Places of Alaturmen as Module.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/World Features/Natural or Territory/Deakred Range.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md"
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/All Alchemical Ingredients.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
+    "Dragon Blood Inn.md",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md"
   ]
 }
