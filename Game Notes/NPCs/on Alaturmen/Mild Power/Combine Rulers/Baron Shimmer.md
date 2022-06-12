@@ -2,9 +2,12 @@
 tags: npc
 aliases:
 ---
-# Killrick Emm Glask
-## "Honorable" Baron of [[Eastlick Mossland]] and the [[Riphounds]]
-### he/her
+# Shimmer
+## Baron of the Gabrin Shrublands
+## Grand Admiral of [[Dampguard]]
+### she/they
+#### VO EXAMPLE
+![[Baron Shimmer VOX.webm]]
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 

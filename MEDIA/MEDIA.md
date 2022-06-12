@@ -1,6 +1,8 @@
 # MEDIA Overview
 %% Begin Waypoint %%
 - **[[MEDIA]]**
+	- **AUDIO**
+
 	- **CHAR**
 
 	- **MAPS**

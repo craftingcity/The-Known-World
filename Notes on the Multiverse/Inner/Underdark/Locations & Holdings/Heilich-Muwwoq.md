@@ -12,7 +12,7 @@ Other Tags: Oath (Duergar), Trade (Worthy Travelers, Ungaethram by Proxy), Cultu
 ![[Heilich-Muwwoq-100AF.png]]
 
 # Heilich-Muwwoq (New Ammyrain)
-What was once a mining colony of humans is now the capital city of the Duergar of the [[Upper Northwestern Underdark]].
+What was once a mining colony of humans from [[The Democratic Combine of Peoples]] is now the capital city of the Duergar of the [[Upper Northwestern Underdark]].
 
 The movers and shakers fall into one of three factions, those who work for [[Taerich Da'Furik]], those who work for [[Wuer-Heur-Tuigier Da'Heggun]], and those who work for [[Yuurmin]].
 

@@ -5,6 +5,7 @@ aliases:
 # Name
 ## Titles
 ### pronouns
+#### VO EXAMPLE:
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
