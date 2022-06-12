@@ -8,7 +8,7 @@ Masc | Femme | Neutral
 --------|--------|--------
   | Sasha Lowe | x
 Theo Anderson  | Paige Saunders | Glen Stone
-Nico Bennett  | Freya Harris | Glen Berry
+  | Freya Harris | Glen Berry
 River Mcdonald  | Alaya Mccarthy | Val Harris
 Leighton Mitchell  | Lily-Mae Fisher | Val Stevens
 Mark Ross  | Lyla Bradley | Franky Bradley

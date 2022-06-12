@@ -7,3 +7,6 @@ aliases:
 
 Inn / Fight club
 
+Nico Bennett the Orcish Patron of the Dragon Blood Inn
+
+Bets run theough Paul the Shady elf.
