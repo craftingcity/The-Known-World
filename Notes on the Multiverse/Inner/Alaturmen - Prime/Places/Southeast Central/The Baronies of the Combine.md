@@ -1,4 +1,11 @@
-[[The Democratic Combine of Peoples]] has many feifdoms.
+---
+tags: notes
+aliases:
+---
+
+*This page of #notes. You can help moving this information elsewhere and replacing references to this page with their proper locations.*
+
+[[The Democratic Combine of Peoples]] has many baronies.
 ![[combine-100AF.png]]
 *Combine Territory as of 100AF*
 
@@ -30,7 +37,7 @@
 - [[Trike Roof]]
 - [[Slyfront]]
 
-[[Greater Groves]] are controlled by [[Baron Yassir Cassindil]] and the [[Grovetenders]], they control two major settlements.
+[[Centerlick Mossland#Southern Third]] is controlled by [[Baron Yassir Cassindil]] and the [[Grovetenders]], they control two major settlements.
 - [[Zalfari]]
 - [[Amyl Dother]]
 
