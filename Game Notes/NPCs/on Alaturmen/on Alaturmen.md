@@ -28,7 +28,9 @@
 		- [[Its Greatness]]
 		- [[The Patron Saints of Kakurak]]
 	- **Low Power**
+		- **Combine Citizens**
 		- **[[Ex-Bandit Lords]]**
+		- **Lower Holyl'nders**
 		- **Self-Made**
 			- [[Alisinder Rancarlo]]
 		- **Servant of a Patron**

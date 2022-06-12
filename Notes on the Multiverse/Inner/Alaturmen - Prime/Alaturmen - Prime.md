@@ -43,6 +43,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[The Hobgoblin Wars]]
 			- [[Cenva Minyo]]
@@ -102,16 +103,16 @@
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Northeastern Central**
+			- [[Benders]]
+			- [[Castle Prosper]]
+			- [[Diables]]
+			- [[Gambleum]]
+			- [[Janesland]]
+			- [[Magius]]
+			- [[Moonlight]]
 			- **Smaller than a city**
 				- [[Benders]]
 				- [[Moonlight]]
-			- **Smaller than a feature**
-				- [[Castle Prosper]]
-				- [[Diables]]
-				- [[Gambleum]]
-				- [[Janesland]]
-				- [[Magius]]
-				- [[Yerba]]
 			- **Smaller than a village**
 				- [[Archmage Barrowinch's Tower]]
 				- [[Brandle Wrench]]
@@ -119,32 +120,28 @@
 				- [[Earlwynn's Fine Dining]]
 				- [[Sally's Seaside Spot]]
 				- [[Yawning Pillow]]
+			- [[Yerba]]
 		- **Northwestern Central**
+			- [[Baskin]]
+			- [[Firelight Sea]]
+			- [[Kakurak's Lair]]
+			- [[Kohnstamm]]
 			- **Smaller than a city**
 				- [[Wychway]]
 			- **Smaller than a feature**
 				- [[Baskin]]
 				- [[Kohnstamm]]
 				- [[The Holy City of Kanielkiln]]
-			- **Smaller than a village**
-				- [[Kakurak's Lair]]
+			- [[The Holy City of Kanielkiln]]
 			- [[The Holyl'nds]]
+			- [[Wychway]]
 		- **Southeast Central**
-			- **Smaller than a city**
-				- [[Aeberu]]
+			- **Eastlick**
 				- [[Asilar's Bounty]]
-				- [[Four Stone]]
-				- [[Neverwallow]]
-			- **Smaller than a feature**
-				- [[Darnt Hillkeep]]
-				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- **Smaller than a city**
 				- [[Kickoff]]
-			- **Smaller than a feature**
-			- **Smaller than a village**
 			- [[The Golden City]]
 		- **World Features**
 			- **Natural or Territory**

@@ -151,7 +151,50 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 #### 10. Cavern Home
 #### 11. Art Walk
 ### Level Three: Sinker
+#### 1. Hall
+#### 2. Quarter
+#### 3. Kitchen
+#### 4. Artistry
+#### 5. Work Vault
 ### Level Four: Let the Games Begin!
+There are three variations of this "floor", though room is a better descriptor. 
+
+#### 1. Pressure
+An allude to the next floor's Gimmik, this room has four pressure bowls 3 feet wide with a square ==rim== that extends to the fixture at a total of five feet square and four feet tall - bowl extended. There is very little to this trap, 30 pounds of weight must be put on the 
+
+#### 2. Spikes and Oil
+
+#### 3. Sand Table
+This is a timed puzzle room. On the walls there are etchings of the Mountain Kailkeep is in, and a table with a lowered center (8") that contains to its brim and overflown onto the floor - as if sweeped off - a fine red sand.
+
+##### The Sand
+A lil bit of something for yah, the table holds exactly 33 pounds of dry red sand, but when the kobolds reset the room, they use units of 35, and sweep the rest onto the floor. This means that there are two "un/intentional" extra pounds of dry sand. That very quickly become wet. And or flown down to the blocked sewer **Below the Table**.
+
+##### The Vision Columns
+As the stairs close behind the poor souls given this task, the vision columns fire up, and its runes hum and generate a fine dust that swirls together to form an image of a room of Kobold. These kobold begin to, out loud, in [[Draconic]], note defining features of each of the observed. After the Kobolds finish, the dust disappears and the vision fades. The **Mouths** begin to pour.
+
+##### The Sand Table
+Under the four legs of the table that holds the sand are pressure plates that are wired to detect an exact pressure-weight-degree. A cone of this dry red sand that is six inches taller than the outer edge of the table and or fourteen inches taller than the floor of the table's recess with a radius of 1.5' triggers these plates. in the center of the 8' by 5' rectangular table. This table contains a 7' by 4' by 8" recess build to contain the 33 pounds of sand found set in the table. 
+
+This cone, when composed of entirely the dry red sand weighs 33 pounds exactly. Wet sand weighs twice as much as dry sand, meaning a cone of entirely wet sand need only be half as large – but still the same dimension. When using both wet and dry sand, use your discretion, let the dice tell the story, or do a bunch of boring math in the middle of the session. One of those three is bad advice. No~! You have to guess!
+
+##### Below the Table
+Below the table is a three-foot diameter spindled adamentine grate drains into a cylinder in the floor. After two feet, this cylinder thins to two inches. A stone trap-wall closes at the same time as the stairs here, trapping the sewage from the Mouths in with those who triggered the stairs. Austensibly, a mage comes and spews water everywhere, then someone comes and resets the sand, and then the room is ready to go again.
+
+##### The Mouths of Refuse
+In each of the four ceiling-corners of the room, there are four stone statues of winged kobold sticking there, their mouths agape. After the Vision Columns are finished, the **Mouths** begin to stream a brown water into the room. This is Kailkeep's sewage. 
+
+##### Art of Kailkeep
+The Art of Kailkeep has the exact dimensions that are required for the plates below the table to trigger. 
+
+Anyone who has a good eye for art or difference in works (or both, like a forger) would notice the softer texture of the mountain art compared to the walls of the room. 
+
+The Kobolds had one specific idea for what this symbolizes, build this, exactly, with this soft sand from our home. Or die, in our shit.
+
+##### Ko-bolted Access Door
+A door in the opposite wall as the Art of Kailkeep made of adamentine is marked with the [[Draconic]] rune that indicates our concept of three in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
+
+
 ### Level Five: Four Corners
 ### Level Six: Pick-up Sticks
 ### Level Seven: Kadabbi
