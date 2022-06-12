@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dragon Blood Inn.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "f497609c17ec95de",
+  "active": "a7717008d151247a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
     "Dragon Blood Inn.md",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
@@ -150,7 +151,6 @@
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Edward Bodaim.md",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Barret Bodaim.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumble Hills/Darnt Hillkeep.md",
-    "Game Notes/NPCs/List of Names.md"
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumble Hills/Darnt Hillkeep.md"
   ]
 }
