@@ -53,4 +53,6 @@ She also mentions that the Guards of Magius have mildly accurate descriptions an
 
 I got the names for the people they need to get their packages from. [[Alisinder Rancarlo]] in [[Yerba]], [[Baron Jammu]] in the [[Darnt Hillkeep]], and [[Doctor Gunagido]] in [[The Golden City]].
 
-Clark Lowe the bandit.
+Clark Lowe the bandit as been born anew as Clargen, and is moving on from banditry. They have gotten through the dreams and Barrowinches rabbit.
+
+Nala is disguised as red dragonborn (19 performance).

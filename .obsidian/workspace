@@ -10,7 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3d49ae57ef5c76c7",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/alaturmen-100AF.png"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+                "file": "MEDIA/MAPS/alaturmen-100AF.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,8 +128,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "f497609c17ec95de",
+  "active": "3d49ae57ef5c76c7",
   "lastOpenFiles": [
+    "MEDIA/MAPS/alaturmen-100AF.png",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dwarven Specifics.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
@@ -128,7 +139,6 @@
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumble Hills/Darnt Hillkeep.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "MEDIA/MAPS/alaturmen-100AF.png",
     "Wilson a'LeQuinn.md"
   ]
 }
