@@ -35,12 +35,12 @@ Kailkeep is a sad place where evil festers. Those who have come before leave as 
 
 This is built for player's to survive and run from, not beat into nothingness. Put a little fear back in the hearts and minds of your friends, family, or otherwise.
 
-I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than 4chan storyboar
+I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds.
 
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
-2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else.
-3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them.
+2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else does, right?
+3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them while they are well-fed and harbored.
 
 ### Kailkeep's Secrets
 #### Proving Grounds
@@ -147,6 +147,7 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 ##### 6E. Grand Bedroom
 #### 7. Hall of Bguyyn
 #### 8. Minor Store Room
+##### 8A. Large Ko-bolted Access
 ### Level Two: Line
 #### 1. Ascended Hall
 #### 2. Mural and Statues of Kermallin
