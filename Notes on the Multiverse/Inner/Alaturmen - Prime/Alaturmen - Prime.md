@@ -108,6 +108,7 @@
 				- [[The Grey Ordeal]]
 				- [[The Guilds]]
 	- **Places**
+		- [[Central Alaturmen]]
 		- **Northeastern Central**
 			- **Smaller than a city**
 				- [[Benders]]
@@ -145,14 +146,12 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
-			- **Smaller than a feature**
-			- **Smaller than a village**
+			- [[The Golden City]]
 		- **World Features**
 			- **Natural or Territory**
 				- [[Actstow Hills]]
