@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "530f3ecf80d5fce0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/NPCs/List of Names.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -121,11 +132,11 @@
   "active": "64e5405f4e1036cb",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southwestern Central/Kailkeep.md",
+    "Game Notes/NPCs/List of Names.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dragonborn Specifics.md",
     "Dragon Blood Inn.md",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
     "MEDIA/MAPS/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dwarven Specifics.md",

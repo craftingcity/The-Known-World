@@ -110,6 +110,8 @@ Some doors in Kailkeep are "ko-bolted", meaning they cannot (as enforced by Terr
 ##### Illumination
 The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bioluminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
 
+##### Formatted Markings
+Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ## Greater Map
 Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the players ascend from, they enter the next level presented here, some intervention by the fates, perhaps. That is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
@@ -163,8 +165,33 @@ There are three variations of this "floor", though room is a better descriptor.
 Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
 
 ##### Markings
-On the floor of this room there are many square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". On the wall above the platform of the Kobold giving blood is a formatted marking;
+On the floor of this room there are many (at least 7) square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". 
+
+On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common]];
+> 026 - 07 - 14
 > 
+> They do not let us speak so plain;
+> To let us share the gain
+> So I share with you this ballad;
+> Know I used these bowls for Salad
+> 
+> Good luck, and may the
+> **TERRA** be with all of us
+> 
+> Ellis Hawkins, Daughter of Delilah
+
+On the wall to the right of the Kobold giving food is a formatted marking in [[Infernal]];
+> 014 - 02 - 02
+> 
+> Do not eat the hand that feeds you.
+> 
+> Know this. **TERRA** lives.
+
+On the floor in a corner of the room that is bare of other marks is an unformatted marking in [[Celestial]];
+
+> THIRY EXACTLY
+> NO GREED
+> NO TEMPRANCE
 
 ##### Bowls
 These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
