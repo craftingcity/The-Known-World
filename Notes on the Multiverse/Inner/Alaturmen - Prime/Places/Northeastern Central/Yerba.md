@@ -24,3 +24,7 @@ If it differs from the nation's...
 
 [[Alisinder Rancarlo]]'s Glass Company makes much of the glassware and windows in Yerba.
 
+[[Dragon Blood Inn]]
+
+[[Kirin's Stables]]
+

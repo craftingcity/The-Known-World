@@ -53,6 +53,10 @@ She also mentions that the Guards of Magius have mildly accurate descriptions an
 
 I got the names for the people they need to get their packages from. [[Alisinder Rancarlo]] in [[Yerba]], [[Baron Jammu]] in the [[Darnt Hillkeep]], and [[Doctor Gunagido]] in [[The Golden City]].
 
-Clark Lowe the bandit as been born anew as Clargen, and is moving on from banditry. They have gotten through the dreams and Barrowinches rabbit.
+Clark Lowe the bandit as been born anew as Clargen, and is moving on from banditry. They have gotten through the dreams and Barrowinch's rabbit.
 
 Nala is disguised as red dragonborn (19 performance).
+
+little fucker loves pears
+
+Jarren knows Yerba well. Why? Jerran's human mom was a dancer, orcs came into town and pushed her out of business, father was the elf moved to Yerba to not die in the fires.

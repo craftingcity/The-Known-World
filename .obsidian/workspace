@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a7717008d151247a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dragon Blood Inn.md",
             "mode": "source"
           }
         }
@@ -18,9 +29,10 @@
         "id": "3d49ae57ef5c76c7",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/alaturmen-100AF.png"
+            "file": "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +140,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3d49ae57ef5c76c7",
+  "active": "f497609c17ec95de",
   "lastOpenFiles": [
-    "MEDIA/MAPS/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Northeastern Central/Yerba.md",
+    "Dragon Blood Inn.md",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "MEDIA/MAPS/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/About People/Heritages/Dwarven Specifics.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Edward Bodaim.md",
     "Game Notes/NPCs/on Alaturmen/Low Power/Ex-Bandit Lords/Barret Bodaim.md",
     "Notes on the Multiverse/Inner/Alaturmen - Prime/Places/Southeast Central/Grumble Hills/Darnt Hillkeep.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Big Lore/Economy Pages/Economics of Prosper.md",
-    "Wilson a'LeQuinn.md"
+    "Game Notes/NPCs/List of Names.md"
   ]
 }
