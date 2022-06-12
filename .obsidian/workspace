@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d5de26456d5f90c",
+        "id": "44bd0135e7722870",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+            "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hobgoblin wars",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "8d5de26456d5f90c",
+  "active": "44bd0135e7722870",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Durandurm Weaponry.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/The Places of Alaturmen as Module.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
-    "Notes on the Multiverse/Inner/Alaturmen - Prime/Alaturmen - Prime.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Leaders in Prosper/Arthur Simonson.md",
+    "Nala.md",
+    "NPCs related to Spark of Good.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md"
+    "Witch of Ardor.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md"
   ]
 }

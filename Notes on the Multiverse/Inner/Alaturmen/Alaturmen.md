@@ -1,6 +1,6 @@
-# Alaturmen
+# Alaturmen - Prime
 %% Begin Waypoint %%
-- **[[Alaturmen]]**
+- **[[Alaturmen - Prime]]**
 	- **About People**
 		- **Heritages**
 			- [[Dragonborn Specifics]]
@@ -37,13 +37,11 @@
 					- [[Tetrimoc's Tournament of Glory]]
 					- [[The Code of Thieves]]
 				- [[The Deserts of Tetrimoc]]
-				- [[The Lands of Tetrimoc]]
 				- [[The Outlands]]
 			- **[[The Democratic Combine of Peoples]]**
 			- **[[The Kingdom of Prosper]]**
 		- **Non-Nation Entities**
 			- **Blood Clans**
-				- [[Blood Hobgoblin Clan Pact]]
 				- **Misc**
 					- [[Blood Hobgoblin Clan Pact]]
 					- [[The Hobgoblin Wars]]
@@ -51,22 +49,17 @@
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
-			- [[Druids of Animan]]
-			- [[Druids of Aquan]]
 			- **Druids of the Idols**
 				- [[Druids of Animan]]
 				- [[Druids of Aquan]]
 				- [[Druids of Ignan]]
 				- [[Druids of Terran]]
 				- [[Druids of Ventan]]
-			- [[Druids of Ventan]]
-			- [[Dwarven Kingdom Actstow]]
 			- **Dwarven Kingdoms**
 				- [[Dwarven Kingdom Actstow]]
 				- [[Dwarven Kingdom Copperhammer]]
 				- [[Dwarven Kingdom Jammu]]
 				- [[Dwarven Kingdom Suremantle]]
-			- [[Mountain Hall]]
 		- **Player Characters**
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
@@ -83,10 +76,9 @@
 		- **How things Work**
 			- **Alchemy**
 				- [[All Alchemical Ingredients]]
-				- [[Durandurm Weaponry]]
 				- [[How Alchemy Works]]
-				- [[Known Alchemical Ingredients]]
 				- [[Known Alchemical Products]]
+			- [[Durandurm Weaponry]]
 			- **Magic**
 				- [[How the Weave becomes Magic]]
 			- [[The Planes of Existence]]
@@ -154,14 +146,11 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
-			- **Smaller than a feature**
-			- **Smaller than a village**
 			- [[The Golden City]]
 		- **World Features**
 			- **Natural or Territory**
