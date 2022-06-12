@@ -1,8 +1,8 @@
 # Inner
 %% Begin Waypoint %%
 - **[[Inner]]**
-	- **[[Alaturmen - Prime]]**
+	- **[[Alaturmen]]**
 	- **[[Feywild]]**
-	- **[[Notes on the Multiverse/Inner/Underdark/Underdark]]**
+	- **[[Underdark]]**
 
 %% End Waypoint %%
