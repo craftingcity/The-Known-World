@@ -106,7 +106,9 @@ In some places of Kailkeep, there are windows of an incredibly thin, strong, and
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
-Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder that holds the door in place in the wall.
+
+
+Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder of stone that holds the door in place in the wall.
 
 The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
 
@@ -120,34 +122,39 @@ The Kobolds who view the Hells as entertainment have no need for light, except i
 ##### Formatted Markings
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
-## Greater Map
+# Greater Map
 Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the players ascend from, they enter the next level presented here, some intervention by the fates, perhaps. That is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
 
 The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
 
 Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
-### Level One: Hook
-#### 1. King's Hall
-##### 1A. Broom Closet
-##### 1B. Entrance Hall
-#### 2. Guest's Quarters
-##### 2A.
-##### 2B.
-##### 2C.
-#### 3. Minor Vault
-#### 4. Dining Throne Room
-##### 4A. Panic Room
-#### 5. Vaulted Caves
-#### 6. Esteemed Quarters
-##### 6A. "Green Room"
-##### 6B. Study
-##### 6C. Linen Closet
-##### 6D. War-room
-##### 6E. Grand Bedroom
-#### 7. Hall of Bguyyn
-#### 8. Minor Store Room
-##### 8A. Large Ko-bolted Access
+## Level One: Hook
+![[L1 - KKFA_ Hook.png]]
+*Kailkeep, Level One: False Allure – Hook*
+### What Dwells Here?
+#### Dismissed Goblin
+#### Loose Rats
+#### Wandering Encounters
+
+### Exploring this Level
+##### 1.
+##### 2.
+##### 3. King's Dining Hall
+
+**Egress.**
+**Statues.**
+**Braziers.**
+**Throne.**
+**Marble Table.**
+**Wall Chains.**
+
+##### 4.
+##### 5.
+##### 6.
+##### 7.
+##### 8.
+
 ### Level Two: Line
 #### 1. Ascended Hall
 #### 2. Mural and Statues of Kermallin
