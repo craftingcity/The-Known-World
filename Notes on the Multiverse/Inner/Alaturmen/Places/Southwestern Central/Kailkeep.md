@@ -134,12 +134,12 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 *Kailkeep, Level One: False Allure – Hook*
 ### What Dwells Here?
 #### Dismissed Goblin
-#### Loose Rats
+#### Intelligent Rats
 #### Wandering Encounters
 
 ### Exploring this Level
-##### 1.
-##### 2.
+##### 1. 
+##### 2. 
 ##### 3. King's Dining Hall
 
 **Egress.**
@@ -150,7 +150,7 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 **Wall Chains.**
 
 ##### 4.
-##### 5.
+##### 5. War
 ##### 6.
 ##### 7.
 ##### 8.

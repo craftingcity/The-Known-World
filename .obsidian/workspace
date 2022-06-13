@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "bc7326d549de0ac1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "19d8baf8edb7385b",
+  "active": "bc7326d549de0ac1",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
     "Spike's Characters/Grekk.md",
