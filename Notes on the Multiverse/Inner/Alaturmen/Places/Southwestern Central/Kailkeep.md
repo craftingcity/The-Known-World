@@ -156,28 +156,19 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 ##### 8.
 
 ### Level Two: Line
-#### 1. Ascended Hall
-#### 2. Mural and Statues of Kermallin
-#### 3. Servent's Quarters
-#### 4. Common Quarters
-#### 5. Private Hall
-#### 6. Art Blocks
-#### 7. Balcony
-#### 8. Secret Balcony
-#### 9. Miniature Vault
-#### 10. Cavern Home
-#### 11. Art Walk
 ### Level Three: Sinker
-#### 1. Hall
-#### 2. Quarter
-#### 3. Kitchen
-#### 4. Artistry
-#### 5. Work Vault
 ### Level Four: Let the Games Begin!
 There are three variations of this "floor", though room is a better descriptor. 
 
 #### 1. Pressure
 Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
+
+**Markings.**
+**Bowls.**
+**Plates.**
+**Platforms.**
+**Hidden Trap Door.**
+**Ko-bolted Door.**
 
 ##### Markings
 On the floor of this room there are many (at least 7) square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". 
