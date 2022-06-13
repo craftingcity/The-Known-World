@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44bd0135e7722870",
+        "id": "37982b45c902e1c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +117,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "44bd0135e7722870",
+  "active": "37982b45c902e1c3",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Leaders in Prosper/Arthur Simonson.md",
     "Nala.md",
@@ -127,7 +128,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
-    "Witch of Ardor.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md"
+    "Witch of Ardor.md"
   ]
 }
