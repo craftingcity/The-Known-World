@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37982b45c902e1c3",
+        "id": "934e473e8f4c8954",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4e0ef8b9e7958944",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +117,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "4e0ef8b9e7958944",
+  "active": "934e473e8f4c8954",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Leaders in Prosper/Arthur Simonson.md",
-    "Nala.md",
-    "NPCs related to Spark of Good.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md"
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md"
   ]
 }

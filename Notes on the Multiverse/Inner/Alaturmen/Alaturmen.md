@@ -36,6 +36,7 @@
 					- [[Tetrimoc's Journal]]
 					- [[Tetrimoc's Tournament of Glory]]
 					- [[The Code of Thieves]]
+				- [[The Deserts of Tetrimoc]]
 				- [[The Lands of Tetrimoc]]
 				- [[The Outlands]]
 			- **[[The Democratic Combine of Peoples]]**
@@ -43,7 +44,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- **Misc**
 					- [[Blood Hobgoblin Clan Pact]]
 					- [[The Hobgoblin Wars]]
@@ -118,6 +118,7 @@
 	- **Places**
 		- [[Central Alaturmen]]
 		- **Northeastern Central**
+			- [[NE Travel Table]]
 			- **Smaller than a city**
 				- [[Benders]]
 				- [[Moonlight]]
@@ -136,6 +137,7 @@
 				- [[Sally's Seaside Spot]]
 				- [[Yawning Pillow]]
 		- **Northwestern Central**
+			- [[NW Travel Table]]
 			- **Smaller than a city**
 				- [[Wychway]]
 			- **Smaller than a feature**
@@ -146,6 +148,7 @@
 				- [[Kakurak's Lair]]
 			- [[The Holyl'nds]]
 		- **Southeast Central**
+			- [[SE Travel Table]]
 			- **Smaller than a city**
 				- [[Aeberu]]
 				- [[Asilar's Bounty]]
@@ -154,10 +157,15 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
+			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
+			- **Smaller than a feature**
+			- **Smaller than a village**
+			- [[SW Travel Table]]
 			- [[The Golden City]]
 		- **World Features**
 			- **Natural or Territory**
