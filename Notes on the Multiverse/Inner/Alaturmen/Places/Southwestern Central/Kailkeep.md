@@ -138,8 +138,17 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 #### Wandering Encounters
 
 ### Exploring this Level
-##### 1. 
-##### 2. 
+##### 1. King's Garden
+
+**Egress.**
+**Hanging Tools.**
+**Glowshroom.**
+**Fruits and Vegetables.**
+
+##### 2. Chamber of Process
+
+**Egress.**
+
 ##### 3. King's Dining Hall
 
 **Egress.**
@@ -149,11 +158,11 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 **Marble Table.**
 **Wall Chains.**
 
-##### 4.
-##### 5. War
-##### 6.
-##### 7.
-##### 8.
+##### 4. Chamber of Relaxation
+##### 5. Warroom
+##### 6. Chamber of Slumber
+##### 7. Servant's Quarters
+##### 8. Servant's Stores
 
 ### Level Two: Line
 ### Level Three: Sinker
