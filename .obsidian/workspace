@@ -4,7 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa21edb32f0aabe",
+        "id": "19d8baf8edb7385b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bc7326d549de0ac1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -117,17 +128,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2aa21edb32f0aabe",
+  "active": "bc7326d549de0ac1",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+    "Spike's Characters/Grekk.md",
+    "Arstovich.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Leaders in Prosper/Arthur Simonson.md",
     "Nala.md",
     "NPCs related to Spark of Good.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md"
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md"
   ]
 }

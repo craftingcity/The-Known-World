@@ -3,6 +3,7 @@
 - **[[Spike's Characters]]**
 	- [[Amelia Hawkford, the Red]]
 	- [[Eliza 'Elliot' O'Brien]]
+	- [[Grekk]]
 
 %% End Waypoint %%
 
