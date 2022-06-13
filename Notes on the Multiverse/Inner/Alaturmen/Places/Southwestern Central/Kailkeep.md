@@ -145,6 +145,11 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 **Glowshroom.**
 **Fruits and Vegetables.**
 
+###### Egress.
+###### Hanging Tools.
+###### Glowshroom.
+###### Fruits and Vegetables.
+
 ##### 2. Chamber of Process
 
 **Egress.**
