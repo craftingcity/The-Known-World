@@ -73,17 +73,22 @@ There are two large categories of creatures that Inhabit Kailkeep, those with an
 ###### Kobolds of Kailkeep
 ###### Goblin Loyalists
 ###### Goblin Dissenters
-###### Red-pack Gnoll
+###### Red Gnoll
+###### Gaund Loyalists
 ###### Ancients of Mountainhall
 ###### Golden Claw Guard
 ###### Honorable Thieves
 ###### Survivalists
 ###### Reformed Entertainers
 ##### Beasties
-###### Ankheg
-###### Loose Wurm
+###### Ankheg, Kruthik, Wurm, Carrion Crawler
+###### Ooze
 ###### Unusual Rodents
-###### 
+###### Genoid
+###### Mad-walkers
+###### Yeeqzu'g, Mad-speaker
+###### Bernet, Lodestone Golem
+###### Luzikiemal, Risen
 
 ### Kailkeep's Features
 #### Terra's Mountain
