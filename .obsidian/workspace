@@ -10,18 +10,30 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md"
+            "file": "Prenotes June 14 22.md"
           }
         }
       },
       {
         "id": "934e473e8f4c8954",
         "type": "leaf",
-        "dimension": 78.9950203712087,
+        "dimension": 39.49751018560435,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6f06d2c0bcea871a",
+        "type": "leaf",
+        "dimension": 39.49751018560435,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prenotes June 14 22.md",
             "mode": "source"
           }
         }
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+                "file": "Prenotes June 14 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+                "file": "Prenotes June 14 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,8 +135,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "934e473e8f4c8954",
+  "active": "6f06d2c0bcea871a",
   "lastOpenFiles": [
+    "Prenotes June 14 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -133,7 +146,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
-    "conflict-files-obsidian-git.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md"
   ]
 }

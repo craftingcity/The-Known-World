@@ -222,12 +222,11 @@ Along the platforms, there are small drilled holes that lead down into a tube be
 
 These holes will dispense a horrible gas into the enclosed room upon the secondary trigger of the **Plates**. This gas does 1d4 poison damage and 1d4 necrotic damage. It is not flammable. It is very slightly more dense than air.
 
-> ##### Trap Design
-> I pretty consistently throughout my D&D experience have thought about how traps get set, and reset.
-> Lets think about a simple spike pit. 
-> I set it up by tying a rope to myself and a anchor, digging a hole, setting spikes at the bottom, and climbing out of the hole using my rope, and hiding the pit.
-> How would I reset this? Eventually my pit will be too full of corpse to spike any casualties, how can I get the spikes clear, let alone collect any loot on these corpses. Am I, *personally*, resetting the camouflage every time someone falls through it?
-> 
+> ##### Trapping Efficiently
+> I pretty consistently throughout my D&D experience have thought about how traps get set, and reset. Let's think about a simple spike pit. 
+> I set it up by tying a rope to myself and an anchor, digging a hole, setting spikes at the bottom, and climbing out of the hole using my rope, and hiding the pit.
+> How would I reset this? Eventually my pit will be too full of corpse to spike any casualties, how can I get the spikes clear, let alone collect any loot on these corpses. Am I, *personally*, resetting the camouflage every time someone falls through it? No way right? Not unless it's the only option. I'm gonna try to make a door or something at the bottom, or actuate a piston below the spikes to raise them.
+> So when designing this gas trap, I was thinking about how it would be easiest to reset – if the gas is just slightly heavier than air, it would collect at the floor eventually. If this could automatically drain into the reserves, even better. Now I only need a bunch of tubing, a source of force for my gas, and a trigger, and I'll have a large portion of my trap reset for me.
 
 ##### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
