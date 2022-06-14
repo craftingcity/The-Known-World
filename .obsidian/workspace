@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfe0c9940c57c4c",
+        "id": "b44c3e1fa005e8e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/LARGE.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "934e473e8f4c8954",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter One - Introduction.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
             "mode": "source"
           }
         }
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter One - Introduction.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter One - Introduction.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +110,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "934e473e8f4c8954",
+  "active": "b44c3e1fa005e8e3",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/LARGE.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Kailkeep.md",
-    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
-    "Giant's Toe.md",
-    "ORGANIZATION/TEMPLATES/Adventure.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix C; Relationship Charts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix B; Unique Items.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix A; Stat Blocks.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Twelve - Faction Deep Dive.md"
   ]
 }
