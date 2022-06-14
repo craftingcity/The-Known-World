@@ -6,18 +6,18 @@
       {
         "id": "68bf323aafdbf14d",
         "type": "leaf",
-        "dimension": 21.00497962879131,
+        "dimension": 26.174023409956284,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prenotes June 14 22.md"
+            "file": "Giant's Toe.md"
           }
         }
       },
       {
         "id": "934e473e8f4c8954",
         "type": "leaf",
-        "dimension": 39.49751018560435,
+        "dimension": 49.21731772669581,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,11 +29,11 @@
       {
         "id": "6f06d2c0bcea871a",
         "type": "leaf",
-        "dimension": 39.49751018560435,
+        "dimension": 24.608658863347905,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prenotes June 14 22.md",
+            "file": "Giant's Toe.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes June 14 22.md",
+                "file": "Giant's Toe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes June 14 22.md",
+                "file": "Giant's Toe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,15 @@
   },
   "active": "6f06d2c0bcea871a",
   "lastOpenFiles": [
+    "Giant's Toe.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
     "Prenotes June 14 22.md",
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }

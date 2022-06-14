@@ -171,6 +171,7 @@ There are three variations of this "floor", though room is a better descriptor.
 Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
 
 **Markings.**
+**Dust.**
 **Bowls.**
 **Plates.**
 **Platforms.**
@@ -205,6 +206,9 @@ On the floor in a corner of the room that is bare of other marks is an unformatt
 > THIRY EXACTLY
 > NO GREED
 > NO TEMPRANCE
+
+##### Dust
+That used to be a person!
 
 ##### Bowls
 These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
