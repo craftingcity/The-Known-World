@@ -44,7 +44,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- **Misc**
 					- [[Blood Hobgoblin Clan Pact]]
 					- [[The Hobgoblin Wars]]
@@ -160,11 +159,14 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- [[Kailkeep]]
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
+			- **Smaller than a feature**
+			- **Smaller than a village**
 			- [[SW Travel Table]]
 			- [[The Golden City]]
 		- **World Features**
