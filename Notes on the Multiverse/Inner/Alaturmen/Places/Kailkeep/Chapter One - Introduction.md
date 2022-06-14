@@ -78,29 +78,45 @@ There are two large categories of creatures that Inhabit Kailkeep, those with an
 
 ##### Intelligent Factions
 ###### Kobolds of Kailkeep
+The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair.
+
 ###### Goblin Loyalists
+Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
+
 ###### Goblin Dissenters
+Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape.
+
 ###### Red Gnoll
+The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
+
 ###### Gaund Loyalists
+The ancient reptilian people Gaund are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
+
 ###### Ancients of Mountainhall
-For as long as Kailkeep has been, Mountainhall has fought it. Squads are sent to Kailkeep when they commit 
+For as long as Kailkeep has been, the Dwarves of Mountainhall has fought it. Squads are sent to Kailkeep when they commit horrible crimes or under brave, foolish command. Few survive to old age, but All dwarves in Kailkeep are Ancients.
 
 ###### Golden Claw Guard
-Whole squads of the [[Golden Claws]] of [[The Golden City]] find their way into Kailkeep when they aren't careful on patrol – a folly of incompetence, arrogance, or surprise.
+Whole squads of [[Golden Claws]] of [[The Golden City]] find their way into Kailkeep when they aren't careful on patrol – a folly of incompetence, arrogance, or surprise.
 
 ###### Honorable Thieves
 Trained thieves and pirates have banded together on their shared lifestyle; honoring [[The Code of Thieves]] as their highest law.
 
 ###### Survivalists
-People with little to no training have been taken to the Hells as long as they have existed. Few survive, retain morality, *and* intelligence. These are those few.
+People with little to no training have been taken to the Hells as long as the Hells have existed. Few survive, retain morality, *and* intelligence. These are those few.
 
 ###### Reformed Entertainers
 Whores of glory who have turned from morality in favor of comfort. They play to the crowd *too well*.
 
 ##### Beasties
 ###### Ankheg, Kruthik, Wurm, Carrion Crawler
+Insects abound the levels of Kailkeep, surviving on the flesh of their kills, or, when husbanded by stable communities, their feed.
+
 ###### Ooze
+Because of their stagnant nature, the Ooze of Kailkeep are often considered fixtures more than living beings. They are commonly husbanded in the Hells of Kailkeep.
+
 ###### Unusual Rodents
+The density of Woven material in the area of Kailkeep has done *something* to the rodents here. Many are larger, more ferocious, and more difficult to deal with. Some create a massive amount of children and husband extremely well. Some can fucking fly. Shits crazy.
+
 ###### Genoid
 ###### Mad-walkers
 ###### Yeeqzu'g, Mad-speaker
@@ -119,34 +135,6 @@ The fourth level presents a drastic change of theme. Where once there was red co
 
 Those who enter Kailkeep's Hells *cannot* return from whence they came. The only exit is forward. Up.
 
-##### Ceilings
-The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
-
-##### Veiwings and Tunnels
-In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells.
-
-Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
-
-##### Doors, Secret Doors, and Ko-Bolted Doors.
-Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder of stone that holds the door in place in the wall.
-
-The secret doors of Kailkeep are not uniform, but they are hidden similarly. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
-
-Some doors in Kailkeep are "ko-bolted", meaning they cannot (as enforced by Terra's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
-
-> ###### What the fuck is an Access Binding??
-> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits in the pristine puzzle rooms, what if he goops the place up?
-> No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage they would have against their foes, but they do maintenance work whenever an area is clear of Entertainers, and Operators go so far as to temporarily enclose areas in stone to work in peace.
-
-##### Illumination
-The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
-
-##### Formatted Markings
-Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
-
-##### Scoreboard
-Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds and entertainment rating of the owner of the hand, given they are still alive.
-
 ## The Hells of Kailkeep
 ### The World's Biggest Entertainment Center
 Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. 
@@ -161,3 +149,31 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 The Kobolds keep service entrances from which they and their loyalists come and go, as well as the three first floors of the Hells of Kailkeep; The False Allure. The False Allure has many entrances around the base of the mountain.
 
 Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep.
+
+##### Ceilings
+The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
+
+##### Veiwings and Tunnels
+In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells.
+
+Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
+
+##### Doors, Secret Doors, and Ko-Bolted Doors.
+Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder of stone that holds the door in place in the wall.
+
+The secret doors of Kailkeep are not uniform, but they are hidden at similar skill. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
+
+Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an Operator's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
+
+> ###### What the fuck is an Access Binding??
+> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits in the pristine puzzle rooms, what if he goops the place up?
+> No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone to work in peace.
+
+##### Illumination
+The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
+
+##### Formatted Markings
+Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
+
+##### Scoreboard
+Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds and entertainment rating of the owner of the hand, given they are still alive.
