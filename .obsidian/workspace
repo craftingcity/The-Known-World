@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d134d436913ebf",
+        "id": "704eeb872b35db26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "5bda842d5cc496f8",
+        "id": "8cebaf186aa4ad50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
+    "width": 411.5,
     "collapsed": true
   },
   "right": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,17 +122,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "f2d134d436913ebf",
+  "active": "8cebaf186aa4ad50",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
-    "conflict-files-obsidian-git.md",
-    "Giant's Toe.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
-    "ORGANIZATION/TEMPLATES/Adventure.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
-    "Prenotes June 14 22.md",
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md"
+    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md"
   ]
 }
