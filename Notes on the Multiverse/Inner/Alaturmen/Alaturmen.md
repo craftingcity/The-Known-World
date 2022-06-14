@@ -165,11 +165,11 @@
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Chapter Nine - Level Eight; The Floor Is Ooze!]]
+				- [[Untitled]]
 			- **Smaller than a village**
-				- [[Chapter Nine - Level Eight; The Floor Is Ooze!]]
+				- [[Untitled]]
 			- [[SW Travel Table]]
-			- [[The Golden City]]
+			- **[[The Golden City]]**
 		- **World Features**
 			- **Natural or Territory**
 				- [[Actstow Hills]]

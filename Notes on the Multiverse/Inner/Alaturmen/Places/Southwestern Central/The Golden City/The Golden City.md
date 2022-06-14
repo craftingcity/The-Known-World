@@ -1,7 +1,13 @@
 ---
-tags: holding,
+tags: folderfile
 aliases:
 ---
+
+# The Golden City
+%% Begin Waypoint %%
+- **[[The Golden City]]**
+
+%% End Waypoint %%
 
 # Holding Tags
 Prosperity:
