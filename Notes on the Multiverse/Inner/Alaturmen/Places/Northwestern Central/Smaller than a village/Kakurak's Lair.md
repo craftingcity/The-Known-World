@@ -39,11 +39,11 @@ All of the items in this room are of overwhelming value.
 
 Many magical scrolls and magical gems are stuffed and sorted in shelves and racks that line the northern wall of this room. Weapons and armor of beautiful craft are placed on racks in the east and west.
 
-Among the rest, an *alchemy jug*, an *amulet of the planes*, a *plate mail of invulnerability*, a *hide armor of cold resistance*, a *belt of dwarvenkind*, a *belt of frost giant strenght*, a pair of *boots of elvenkind*, a pair of *boots of striding and springing*, a *cape of the mountebank*, a *dragonslayer shortsword*, an *elven chain shirt*, a pair of *gauntlets of ogre power*, a *hammer of thunderbolts*, a *helm of teleportation*, a *mace of smiting*, a *mantle of spell resistence*, a *+2 spell focus*.
+Among the rest, an *alchemy jug*, an *amulet of the planes*, a *plate mail of invulnerability*, a *hide armor of cold resistance*, a *belt of dwarven-kind*, a *belt of frost giant strength*, a pair of *boots of elven-kind*, a pair of *boots of striding and springing*, a *cape of the mountebank*, a *dragon-slayer shortsword*, an *elven chain shirt*, a pair of *gauntlets of ogre power*, a *hammer of thunderbolts*, a *helm of teleportation*, a *mace of smiting*, a *mantle of spell resistance*, a *+2 spell focus*.
 
 6. Kakurak's Study
 
-In his study, many bookshelves hold tomes of knowledge. A formitable collection. A pair of armchairs flank a fireplace and a small table with a decanter and two glasses. In the northeastern corner of the room, a marble table holds a *crystal ball of true seeing, mind reading, and identifying*. On a raised pedistal in the center of the room a carved and black-with-gold-spekcles chalked *teleportation circle* lies.
+In his study, many bookshelves hold tomes of knowledge. A formidable collection. A pair of armchairs flank a fireplace and a small table with a decanter and two glasses. In the northeastern corner of the room, a marble table holds a *crystal ball of true seeing, mind reading, and identifying*. On a raised pedestal in the center of the room a carved and black-with-gold-speckles chalked *teleportation circle* lies.
 
 7. Guests Quarters
 
