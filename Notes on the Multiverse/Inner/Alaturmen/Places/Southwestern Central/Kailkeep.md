@@ -141,7 +141,7 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious, if you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
 
 ## Level One: Hook
-
+![[KKHell - 1_Hook.png]]
 ### What Dwells Here?
 #### Dismissed Goblin
 #### Intelligent Rats
@@ -149,6 +149,8 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 
 ### Exploring this Level
 
+#### 22.
+**Staircase.**
 ## Level Two: Line
 ### What Dwells Here?
 ### Exploring this Level
