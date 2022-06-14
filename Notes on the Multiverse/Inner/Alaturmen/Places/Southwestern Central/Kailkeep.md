@@ -260,9 +260,12 @@ There are three variations of this "floor", though room is a better descriptor.
 ##### 1. Pressure
 Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
 
-**Markings.**
-**Dust.**
-**Bowls.**
+**Markings.** All around the room, many etched squared surround messages in many scripts, but always dated in one.
+
+**Dust.** A thin layer of grey dust clings to every thing in this space.
+
+**Bowls.** Four bowls rest on raised [[#Platforms]]. They are four and one half feet in diameter, and they dip into the platform three feet. It's curvature is perfect.
+
 **Plates.**
 **Platforms.**
 **Hidden Trap Door.**
@@ -304,9 +307,9 @@ That used to be a person!
 These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
 
 ###### Plates
-The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding more weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the **Hidden Holes**.
+The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding or removing any weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the [[#Platforms]].
 
-###### Platform
+###### Platforms
 Each of the platforms depicts a Kobold giving something into a bowl. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving their own blood, and another willingly giving books and scrolls.
 
 At the bottom of each of the platforms are drilled grates that quickly reveal only darkness.
