@@ -118,8 +118,7 @@
 				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
-		- **Kailkeep**
-			- [[Introduction]]
+		- **[[Kailkeep]]**
 		- **Northeastern Central**
 			- [[NE Travel Table]]
 			- **Smaller than a city**
@@ -161,7 +160,6 @@
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
 		- **Southwestern Central**
-			- [[Kailkeep]]
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
