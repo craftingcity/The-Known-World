@@ -69,7 +69,7 @@
               "type": "backlink",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,10 +103,10 @@
             }
           },
           {
-            "id": "c9c1cf88c6e41274",
+            "id": "68bf323aafdbf14d",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
               "state": {}
             }
           }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312,
-    "collapsed": true
+    "width": 538.6111450195312
   },
   "active": "934e473e8f4c8954",
   "lastOpenFiles": [

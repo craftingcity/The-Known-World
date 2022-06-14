@@ -143,8 +143,8 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 ## Level One: Hook
 ![[KKHell - 1_Hook.png]]
 ### What Dwells Here?
-#### Dismissed Goblin
-#### Intelligent Rats
+#### Injured or Retired Loyalists
+#### Unusual Rats
 #### Wandering Encounters
 
 ### Exploring this Level
@@ -152,6 +152,8 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 #### 22.
 **Staircase.**
 ## Level Two: Line
+![[KKHell - 2_Line.png]]
+
 ### What Dwells Here?
 ### Exploring this Level
 ## Level Three: Sinker
