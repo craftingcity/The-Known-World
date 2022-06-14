@@ -177,10 +177,15 @@ Almost all exposed caves have been converted into parts of the False Allure or t
 ##### 2b. Entrance Hall
 
 ##### 3a. King's Common Room
-This is the room to which the King of this place would make his speeches.
+This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen.
 
-**Egress.**
-**Furniture.**
+**Egress.** The doors described herein are all exactly the same. These doors are made of a cactus wood, fine once, now rotted and worn with old age. All of these 
+
+In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[#25]]. the northeastern door leads to [[#22]]. The eastern door leads to [[#15]].
+
+**Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands.
+
+**Chandelier.** High above, in the ceiling of the floor above, a chandelier sheds down a dim warm light.
 
 ##### 3b. Ducted-Pot Chamber
 **Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works, too.
@@ -196,17 +201,41 @@ This is the room to which the King of this place would make his speeches.
 ##### 5. Supply Overflow
 ##### 6a. Specialization A
 ##### 6b. Specialization B
-##### 7. Production Room
-##### 8a. Supplies Import, Product Export
+##### 7. Production Room A
+##### 8a. Product Examination and Export
 ##### 8b. Hallway with Stairs
-##### 9a.
-##### 9b.
-##### 9c.
-##### 10a. Food Import
-
+##### 9a. Production Room B
+##### 9b. Hallway of Manual
+##### 9c. Hallway and Dry Feed Storage
+##### 10a. Supplies Import
+##### 10b. Cooling Chamber
+##### 11.
+##### 12.
+##### 13.
+##### 14.
+##### 15.
+##### 16a.
+##### 16b.
+##### 17.
+##### 18.
+##### 19a.
+##### 19b.
+##### 19c.
+##### 20a.
+##### 20b.
+##### 20c.
+##### 20d.
+##### 21a.
+##### 21b.
 ##### 22.
-**Egress.**
 **Staircase.**
+##### 23.
+##### 24.
+##### 25.
+##### 26a.
+##### 26b.
+##### 26c.
+##### 26d.
 ### Level Two: Line
 ![[KKHell - 2_Line.png]]
 
