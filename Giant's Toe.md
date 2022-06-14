@@ -11,3 +11,12 @@ Giant's Toe is the Keep in the Redl'nds, the firery eastern part of [[The Holyl'
 ### Factions
 ### Features
 ## Greater Map
+### Lower Floor
+#### What Dwells Here?
+#### Exploring this place...
+### Upper Floor
+#### What Dwells Here?
+#### Exploring this place...
+### Roof
+#### What Dwells Here?
+#### Exploring this place...
