@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfe0c9940c57c4c",
+        "id": "b9a7772423319a2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/LARGE.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "934e473e8f4c8954",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
             "mode": "source"
           }
         }
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +110,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "934e473e8f4c8954",
+  "active": "b9a7772423319a2b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Six - Level Six; Pick-up Sticks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/LARGE.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Kailkeep.md",
-    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix C; Relationship Charts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix B; Unique Items.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix A; Stat Blocks.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Twelve - Faction Deep Dive.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Ten - Level Nine; A Final Test.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Nine - Level Eight; The Floor Is Ooze!.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a village/Untitled.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a feature/Untitled.md"
   ]
 }

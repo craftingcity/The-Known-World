@@ -118,11 +118,11 @@
 				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
-		- **[[Kailkeep]]**
 		- **Northeastern Central**
 			- [[NE Travel Table]]
 			- **Smaller than a city**
 				- [[Benders]]
+				- [[Giant's Toe]]
 				- [[Moonlight]]
 			- **Smaller than a feature**
 				- [[Castle Prosper]]
@@ -160,9 +160,14 @@
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
 		- **Southwestern Central**
+			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
+			- **Smaller than a feature**
+				- [[Chapter Nine - Level Eight; The Floor Is Ooze!]]
+			- **Smaller than a village**
+				- [[Chapter Nine - Level Eight; The Floor Is Ooze!]]
 			- [[SW Travel Table]]
 			- [[The Golden City]]
 		- **World Features**
