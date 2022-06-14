@@ -266,13 +266,16 @@ Four bowls rest on four pressure plates on their four platforms in the four corn
 
 **Bowls.** Four bowls rest on raised [[#Platforms]]. They are four and one half feet in diameter, and they dip into the platform three feet. It's curvature is perfect.
 
-**Plates.**
-**Platforms.**
-**Hidden Trap Door.**
-**Ko-bolted Door.**
+**Pressure Plates.** Below the **Bowls**, in the **Platforms**, pressure plates are triggered at exactly thirty pounds of downward force, and re-triggered if the weight changes.
+
+**Platforms.** Four unique five foot square platform-cubes extend from the floor and wall. They all hold a uniform and perfect bowl as well as art.
+
+**Hidden Trap Door.** Hidden in the stone above the center of the room is a stone sliding trapdoor that is actuated by all four of the **Pressure Plates** triggering only once.
+
+**Ko-bolted Door.** A mysterious door of rare and tough metal marked with a claw and a draconic rune.
 
 ###### Markings
-On the floor of this room there are many (at least 7) square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". 
+On the floor and walls of this room there are many (at least 7) square indentations with [[Draconic]] runes extended; "NO CHEAT". 
 
 On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common]];
 > 026 - 07 - 14
@@ -307,7 +310,7 @@ That used to be a person!
 These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
 
 ###### Plates
-The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding or removing any weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the [[#Platforms]].
+The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding or removing any weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the **Platforms**.
 
 ###### Platforms
 Each of the platforms depicts a Kobold giving something into a bowl. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving their own blood, and another willingly giving books and scrolls.
@@ -346,6 +349,12 @@ In the center of the ceiling of this room is a thin line of space between the tw
 A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 ##### 2. Spikes and Oil
+
+**Markings.**
+**Spikes.**
+**Oil.**
+**Hidden Trap Door.**
+**Ko-Bolted Access Door.**
 ###### Markings
 
 ###### The Spikes

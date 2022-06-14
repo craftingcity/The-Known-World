@@ -4,36 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "68bf323aafdbf14d",
-        "type": "leaf",
-        "dimension": 22.98943948009748,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md"
-          }
-        }
-      },
-      {
         "id": "934e473e8f4c8954",
         "type": "leaf",
-        "dimension": 38.505280259951256,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Introduction.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0c8cc474aefd3e9e",
-        "type": "leaf",
-        "dimension": 38.505280259951256,
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
           }
         }
       }
@@ -75,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -92,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,20 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312,
-    "collapsed": true
+    "width": 538.6111450195312
   },
   "active": "934e473e8f4c8954",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Kailkeep/Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
     "Giant's Toe.md",
     "ORGANIZATION/TEMPLATES/Adventure.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
     "Prenotes June 14 22.md",
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md"
   ]
 }

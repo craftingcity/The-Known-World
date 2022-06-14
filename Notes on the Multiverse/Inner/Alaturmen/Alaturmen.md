@@ -118,6 +118,8 @@
 				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
+		- **Kailkeep**
+			- [[Introduction]]
 		- **Northeastern Central**
 			- [[NE Travel Table]]
 			- **Smaller than a city**

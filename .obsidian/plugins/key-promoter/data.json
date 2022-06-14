@@ -7,15 +7,15 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "open-with-default-app:show": 1,
-    "file-explorer:new-file": 21,
+    "file-explorer:new-file": 22,
     "workspaces:open-modal": 1,
     "editor:attach-file": 1,
     "app:delete-file": 67,
     "editor:delete-paragraph": 67,
     "graph:open": 13,
-    "workspace:undo-close-pane": 34,
-    "workspace:close": 34,
-    "workspace:close-others": 35,
+    "workspace:undo-close-pane": 35,
+    "workspace:close": 35,
+    "workspace:close-others": 36,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 2,
     "backlink:open-backlinks": 15,
@@ -106,7 +106,9 @@
     "tag-pane:open": 1,
     "outline:open": 2,
     "outline:open-for-current": 2,
-    "editor:toggle-fold": 1
+    "editor:toggle-fold": 1,
+    "theme:use-dark": 2,
+    "theme:use-light": 2
   },
   "keyboardStatistics": {
     "insert-template": 109,
