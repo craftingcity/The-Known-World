@@ -160,6 +160,7 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 ##### Wandering Encounters
 #### Exploring this Level
 ### Level Three: Sinker
+![[KKHell - 3_Sinker.png]]
 #### What Dwells Here?
 #### Exploring this Level
 ### Level Four: Let the Games Begin!
