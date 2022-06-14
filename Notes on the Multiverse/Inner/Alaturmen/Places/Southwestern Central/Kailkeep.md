@@ -127,47 +127,59 @@ The Kobolds who view the Hells as entertainment have no need for light, except i
 ##### Formatted Markings
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
-# Greater Map
+##### Scoreboard
+Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds and entertainment rating of the owner of the hand, given they are still alive.
+
+## Greater Map
 Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the players ascend from, they enter the next level presented here, some intervention by the fates, perhaps. That is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
 
 The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
 
 Above the third Level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with limited information about the truest natures of Kailkeep. A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
-## Entering Kailkeep
+### Entering Kailkeep
 Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious, if you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
 
-## Level One: Hook
+### Level One: Hook
+![[KKHell - 1_Hook.png]]
+#### What Dwells Here?
+##### Injured or Retired Loyalists
+##### Unusual Rats
+##### Wandering Encounters
 
-### What Dwells Here?
-#### Dismissed Goblin
-#### Intelligent Rats
-#### Wandering Encounters
+#### Exploring this Level
 
-### Exploring this Level
+##### 22.
+**Staircase.**
+### Level Two: Line
+![[KKHell - 2_Line.png]]
 
-## Level Two: Line
-### What Dwells Here?
-### Exploring this Level
-## Level Three: Sinker
-### What Dwells Here?
-### Exploring this Level
-## Level Four: Let the Games Begin!
-### What Dwells Here?
-### Exploring this Level
+#### What Dwells Here?
+##### Injured or Retired Loyalists
+##### Unusual Rats
+##### Wandering Encounters
+#### Exploring this Level
+### Level Three: Sinker
+![[KKHell - 3_Sinker.png]]
+#### What Dwells Here?
+#### Exploring this Level
+### Level Four: Let the Games Begin!
+#### What Dwells Here?
+#### Exploring this Level
 There are three variations of this "floor", though room is a better descriptor. 
 
-#### 1. Pressure
+##### 1. Pressure
 Four bowls rest on four pressure plates on their four platforms in the four corners of the room. A fine dust sits on the sandstone fixtures of this room.
 
 **Markings.**
+**Dust.**
 **Bowls.**
 **Plates.**
 **Platforms.**
 **Hidden Trap Door.**
 **Ko-bolted Door.**
 
-##### Markings
+###### Markings
 On the floor of this room there are many (at least 7) square intentions with the [[Draconic]] runes extended that represent our understanding of "NO CHEAT". 
 
 On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common]];
@@ -196,84 +208,94 @@ On the floor in a corner of the room that is bare of other marks is an unformatt
 > NO GREED
 > NO TEMPRANCE
 
-##### Bowls
+###### Dust
+That used to be a person!
+
+###### Bowls
 These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
 
-##### Plates
+###### Plates
 The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding more weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the **Hidden Holes**.
 
-##### Platform
+###### Platform
 Each of the platforms depicts a Kobold giving something into a bowl. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving their own blood, and another willingly giving books and scrolls.
 
-###### Hidden Holes
-Along the platforms, small holes appear. These have no marking or indications of any kind other than their existence.
+At the bottom of each of the platforms are drilled grates that quickly reveal only darkness.
 
-These holes will dispense a necrotic gas (that deals 2d4 necrotic damage at the beginning of an occupant's turn) into the enclosed room upon the secondary trigger of the **Plates**.
+Along the platforms, there are small drilled holes that lead down into a tube before turning and continuing elsewhere. These have no marking or indications of any kind other than their existence.
 
-##### Hidden Trap Door
+These holes will dispense a horrible gas into the enclosed room upon the secondary trigger of the **Plates**. This gas does 1d4 poison damage and 1d4 necrotic damage. It is not flammable. It is very slightly more dense than air.
+
+> ##### Trapping Efficiently
+> I pretty consistently throughout my D&D experience have thought about how traps get set, and reset. Let's think about a simple spike pit. 
+> I set it up by tying a rope to myself and an anchor, digging a hole, setting spikes at the bottom, and climbing out of the hole using my rope, and hiding the pit.
+> How would I reset this? Eventually my pit will be too full of corpse to spike any casualties, how can I get the spikes clear, let alone collect any loot on these corpses. Am I, *personally*, resetting the camouflage every time someone falls through it? No way right? Not unless it's the only option. I'm gonna try to make a door or something at the bottom, or actuate a piston below the spikes to raise them.
+> So when designing this gas trap, I was thinking about how it would be easiest to reset – if the gas is just slightly heavier than air, it would collect at the floor eventually. If this could automatically drain into the reserves, even better. Now I only need a bunch of tubing, a source of force for my gas, and a trigger, and I'll have a large portion of my trap reset for me.
+
+###### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
-##### Ko-bolted Access Door
+###### Ko-bolted Access Door
 A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
-#### 2. Spikes and Oil
-##### Markings
+##### 2. Spikes and Oil
+###### Markings
 
-##### The Spikes
+###### The Spikes
 Around the room in three foot intervals are rotating stone pillars with stilleto-esq blades that reach their point 5 inches out from their pillar. When some runs into these pillars, they become pierced by them; damaging them for 4d4 damage and restraining them.
 
-##### The Oil
+###### The Oil
 The Floor of this room is covered in a slick clear oil. Moving across this oil carefully requires a DC 17 check, probably a simple or proficient dexterity check or a relevant skill if you're feeling extra nice.
 
-##### Hidden Trap Door
+###### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
-##### Ko-bolted Access Door
+###### Ko-bolted Access Door
 A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
-#### 3. Sand Table
+##### 3. Sand Table
 This is a timed puzzle room. On the walls there are etchings of the Mountain Kailkeep is in, and a table with a lowered center (8") that contains to its brim and overflown onto the floor - as if swiped off - a fine red sand.
 
-##### The Sand
+###### The Sand
 A 'lil bit of something for 'yah, the table holds exactly 33 pounds of dry red sand, but when the kobolds reset the room, they use units of 35, and sweep the rest onto the floor. This means that there are two "un/intentional" extra pounds of dry sand. That very quickly become wet. And or flown down to the blocked sewer **Below the Table**.
 
-##### The Vision Columns
+###### The Vision Columns
 As the stairs close behind the poor souls given this task, the vision columns fire up, and its runes hum and generate a fine dust that swirls together to form an image of a room of Kobold. These kobold begin to, out loud, in [[Draconic]], note defining features of each of the observed. After the Kobolds finish, the dust disappears and the vision fades. The **Mouths** begin to pour.
 
-##### The Sand Table
+###### The Sand Table
 Under the four legs of the table that holds the sand are pressure plates that are wired to detect an exact pressure-weight-degree. A cone of this dry red sand that is six inches taller than the outer edge of the table and or fourteen inches taller than the floor of the table's recess with a radius of 1.5' triggers these plates. in the center of the 8' by 5' rectangular table. This table contains a 7' by 4' by 8" recess build to contain the 33 pounds of sand found set in the table. 
 
 This cone, when composed of entirely the dry red sand weighs 33 pounds exactly. Wet sand weighs twice as much as dry sand, meaning a cone of entirely wet sand need only be half as large – but still the same dimension. When using both wet and dry sand, use your discretion, let the dice tell the story, or do a bunch of boring math in the middle of the session. One of those three is bad advice. No~! You have to guess!
 
-##### Below the Table
+###### Below the Table
 Below the table is a three-foot diameter spindled adamentine grate drains into a cylinder in the floor. After two feet, this cylinder thins to two inches. A stone trap-wall closes at the same time as the stairs here, trapping the sewage from the Mouths in with those who triggered the stairs. Austensibly, a mage comes and spews water everywhere, then someone comes and resets the sand, and then the room is ready to go again.
 
-##### The Mouths of Refuse
+###### The Mouths of Refuse
 In each of the four ceiling-corners of the room, there are four stone statues of winged kobold sticking there, their mouths agape. After the Vision Columns are finished, the **Mouths** begin to stream a brown water into the room. This is Kailkeep's sewage. 
 
-##### Art of Kailkeep
+###### Art of Kailkeep
 The Art of Kailkeep has the exact dimensions that are required for the plates below the table to trigger. 
 
 Anyone who has a good eye for art or difference in works (or both, like a forger) would notice the softer texture of the mountain art compared to the walls of the room. 
 
 The Kobolds had one specific idea for what this symbolizes, build this, exactly, with this soft sand from our home. Or die, in our shit.
 
-##### Markings
+###### Markings
 There are no markings in this room. Any attempts at marking in this room are futile, if they can be refuted by an Operator, they are instantly. If they could only be removed by a power as great as Terra, then a moment passes before it is removed.
 
-##### Hidden Trap Door
+###### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
-##### Ko-bolted Access Door
+###### Ko-bolted Access Door
 A door in the opposite wall as the Art of Kailkeep made of adamentine is marked with the [[Draconic]] rune that indicates our concept of three in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 
-## Level Five: Four Corners
-## Level Six: Pick-up Sticks
-## Level Seven: Kadabbi
-## Level Eight: Here Comes an Old Soldier from Wish Bay
-## Level Nine: The Floor is Ooze!
-## Level Ten: Fight to the Death
-## Level Eleven: Welcome Home!
-## Level Twelve: Work and Live
-## Level Thirteen: Defense From Above
+### Level Five: Four Corners
+### Level Six: Pick-up Sticks
+### Level Seven: Kadabbi
+### Level Eight: Here Comes an Old Soldier from Wish Bay
+### Level Nine: The Floor is Ooze!
+### Level Ten: Fight to the Death
+### Level Eleven: Welcome Home!
+### Level Twelve: Work and Live
+### Level Thirteen: Defense From Above

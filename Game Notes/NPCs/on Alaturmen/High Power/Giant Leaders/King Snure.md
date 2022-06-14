@@ -23,6 +23,7 @@ King Snures goals remain incomplete, as of writing, but he draws closer with eac
 
 ## Location
 [[Baskin]] in his new throne.
+ - See [[Giant's Toe]]
 
 [[Plane of Fire]] in his old throne.
 

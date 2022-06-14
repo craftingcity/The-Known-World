@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
+        "id": "68bf323aafdbf14d",
+        "type": "leaf",
+        "dimension": 11.32,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Giant's Toe.md"
+          }
+        }
+      },
+      {
         "id": "934e473e8f4c8954",
         "type": "leaf",
+        "dimension": 37.92,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6f06d2c0bcea871a",
+        "type": "leaf",
+        "dimension": 50.760000000000005,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Giant's Toe.md",
             "mode": "source"
           }
         }
@@ -52,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
-                "collapseAll": false,
+                "file": "Giant's Toe.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -96,38 +121,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+                "file": "Giant's Toe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c9c1cf88c6e41274",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "934e473e8f4c8954",
+  "active": "6f06d2c0bcea871a",
   "lastOpenFiles": [
+    "Giant's Toe.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
+    "ORGANIZATION/TEMPLATES/Adventure.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
+    "Prenotes June 14 22.md",
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
-    "conflict-files-obsidian-git.md"
+    "Notes on the Multiverse/Inner/Inner.md"
   ]
 }

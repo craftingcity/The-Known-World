@@ -10,3 +10,6 @@ aliases:
 ### Factions
 ### Features
 ## Greater Map
+### Beginning
+#### What Dwells Here?
+#### Exploring this place...
