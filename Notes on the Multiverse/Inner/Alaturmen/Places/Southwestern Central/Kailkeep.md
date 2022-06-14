@@ -39,6 +39,10 @@ This is an experience built for players to survive and run from, not beat. Put a
 
 I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a primordial idol. They watch deadly rooms behind walls of impenetrable yet transparent and thin rock. They *want* you here. So they can torture you. But not your players, again, this should be a goofy / fun **and** dark / stormy night.
 
+For the purposes of running this module "from the book"; No matter where the players ascend from, they enter somewhere on the next level presented here – some intervention by the fates, perhaps. 
+
+You *must know* that the levels presented here only explore the tip of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – now you'll have to replace *it* before they get there). I've tried to include notes on my designs throughout.
+
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else does, right?
@@ -136,7 +140,7 @@ Markings that are not magically hidden from Terra and the Operators are formatte
 Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds and entertainment rating of the owner of the hand, given they are still alive.
 
 ## Greater Map
-Kailkeep has been crafted from the stone of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. Perhaps no matter where the players ascend from, they enter the next level presented here, some intervention by the fates, perhaps. That is not for me to decide, but you must know that the levels presented here only explore the tip of this massive structure.
+Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. 
 
 The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
 
@@ -179,9 +183,9 @@ Almost all exposed caves have been converted into parts of the False Allure or t
 ##### 3a. King's Common Room
 This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen.
 
-**Egress.** The doors described herein are all exactly the same. These doors are made of a cactus wood, fine once, now rotted and worn with old age. All of these 
+**Egress.** The doors described herein are all exactly the same. These doors are made of {an arid wood}, fine once, now rotted and worn with old age. Once, they held hinges of some metal, but now there only is a hole in the wood now. All of these doors are unmarked, other than their dwarven-esq filigree.
 
-In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[#25]]. the northeastern door leads to [[#22]]. The eastern door leads to [[#15]].
+In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[#25]]. The northeastern door leads to [[#22]]. The eastern door leads to [[#15]].
 
 **Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands.
 
@@ -311,11 +315,26 @@ Along the platforms, there are small drilled holes that lead down into a tube be
 
 These holes will dispense a horrible gas into the enclosed room upon the secondary trigger of the **Plates**. This gas does 1d4 poison damage and 1d4 necrotic damage. It is not flammable. It is very slightly more dense than air.
 
-> ##### Trapping Efficiently
-> I pretty consistently throughout my D&D experience have thought about how traps get set, and reset. Let's think about a simple spike pit. 
+> *Trapping Efficiently*
+> 
+> I pretty consistently throughout my D&D experience have thought about how traps get constructed, set, and reset, especially in a "abandoned dungeon" setting. When I looked for a good source for this I become disappointed with the mild results. Traps look like stat blocks in a lot of modules, and that feels like a shame to the art-form.
+> 
+> Let's think about a simple spike pit. 
 > I set it up by tying a rope to myself and an anchor, digging a hole, setting spikes at the bottom, and climbing out of the hole using my rope, and hiding the pit.
-> How would I reset this? Eventually my pit will be too full of corpse to spike any casualties, how can I get the spikes clear, let alone collect any loot on these corpses. Am I, *personally*, resetting the camouflage every time someone falls through it? No way right? Not unless it's the only option. I'm gonna try to make a door or something at the bottom, or actuate a piston below the spikes to raise them.
-> So when designing this gas trap, I was thinking about how it would be easiest to reset – if the gas is just slightly heavier than air, it would collect at the floor eventually. If this could automatically drain into the reserves, even better. Now I only need a bunch of tubing, a source of force for my gas, and a trigger, and I'll have a large portion of my trap reset for me.
+> 
+> How would I eventually reset this? 
+> 
+> My pit will be too full of corpse to spike any casualties. How can I get the spikes clear? Let alone collect any loot on these corpses? 
+> 
+> Am I, *personally*, resetting the camouflage every time someone falls through it? No way right? Not unless it's the only option. 
+> 
+> I'm gonna try to make a door or something at the bottom, or actuate a piston below the spikes to raise them.
+> 
+> So when designing this gas trap, I was thinking about how it would be easiest to reset if the gas is just slightly heavier than air; it would collect at the floor eventually, making it easier to clear or funnel back into our reserves. 
+> 
+> Now I only need a bunch of tubing, a source of force for my gas, and a trigger, and I'll have a large portion of my trap reset for me with little to no work - so long as the work it took to do this over the simple spikes doesn't count for anything.
+> 
+> Luckily for me and Kailkeep's Kobolds, this is a very magical place, meaning that construction becomes very easy (see *stoneshape* and then imagine if it was a spell you learned from the **PRIMORDIAL IDOL OF EARTH, TERRA**), and less "preparation" work is required.
 
 ###### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
