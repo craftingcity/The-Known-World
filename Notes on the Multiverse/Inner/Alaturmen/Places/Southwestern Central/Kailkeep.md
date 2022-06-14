@@ -31,11 +31,13 @@ If your setting is of a higher commonality of magic, this hook becomes much simp
 
 ## Outline
 ### Philosophy
-Kailkeep is a sad place where evil festers. Those who have come before leave as much light as they can, but it is quickly dimmed by the cruelty on display in this place. From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about they story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
+Kailkeep is a sad place where evil festers. Those who have come before leave as much light as they can, but it is quickly dimmed by the cruelty on display in this place. Adventurers are fun to watch. The Kobolds have created a system that allows them to safely watch them in their element - near certain death.
 
-This is built for player's to survive and run from, not beat into nothingness. Put a little fear back in the hearts and minds of your friends, family, or otherwise.
+From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about they story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
 
-I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds.
+This is an experience built for players to survive and run from, not beat. Put a little fear back in the hearts and minds of your friends, family, or otherwise. I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds. So, I built Kailkeep.
+
+I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a primordial idol. They watch deadly rooms behind walls of impenetrable yet transparent and thin rock. They *want* you here. So they can torture you. But not your players, again, this should be a goofy / fun **and** dark / stormy night.
 
 ### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
@@ -43,20 +45,23 @@ I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, b
 3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them while they are well-fed and harbored.
 
 ### Kailkeep's Secrets
+#### Viewer's Favor
+Kailkeep's worst kept secret is that it is what it is; entertainment for a colony of Kobolds who harbor evils for fun. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
+
 #### Proving Grounds
-While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not truly win.
+While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not win.
 
 #### Vast Arcane Power
-For whatever reason, the Kobolds of Kailkeep have access to Terran's great powers and have used them to create structures of stone nearly at will. Terran also has enchanted the mountain, preventing unwanted manipulation of the mountain stone.
+For whatever reason, the Kobolds of Kailkeep have access to Terran's arcane teachings, and those who have learned the craft of geomancy and work the Hells are known as Operators, and they bend the stone of the mountain to their will. Those who don't are known as geomancers, but the Kailkeep Innards are a different Module. 
 
-#### Curse Factory
-Of the many arcane secrets the Kobolds of Kailkeep have mastered, the art of creating cheap enchanted weaponry is one of them. The only cost is a curse! Some curses can be worked around, others cannot. Those that can are typically worn and reproduced for those that would this particular enchantment would benefit. Those that cannot are given as false boons to those inside the Hells, adding some Hope to their lives, and some spice to the Kobold's Entertainment.
+Of the many arcane secrets the Kobolds of Kailkeep have mastered, the art of creating cheap enchanted weaponry is one of them. The only cost is a curse! 
+
+Some curses can be worked with, others cannot. Those that can are typically worn and reproduced for those that would benefit. Those that cannot are given as false boons to those inside the Hells, adding some hope to their lives, and some spice to the Kobold's Entertainment.
 
 #### Corrupted Dragon
 Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons Kakurak and Luzikiemal visited. There, Kakurak met his greatest ally. And there, Luzikiemal perished. 
 
 Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of Luzikiemal as a set piece in their entertainment.
-
 
 ### The Factions of Kailkeep
 #### Kobolds
@@ -64,7 +69,7 @@ The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their 
 
 Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep.
 
-The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings.
+The many kobold "civilians" who work and keep Kailkeep, both Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and make spectacular winnings. Generally, they spend this newfound wealth investing in prospects, betting again, then losing, but some keep winning and the economy of Kailkeep flows.
 
 #### Inhabitants of Kailkeep
 There are two large categories of creatures that Inhabit Kailkeep, those with and those without "true" intelligence, ie language, planning, that stuff.
@@ -139,6 +144,10 @@ Above the third Level, Kailkeep presents a challenge constructed for three to fi
 
 ### Entering Kailkeep
 Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious, if you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
+
+The Kobolds keep service entrances from which they and their loyalists come and go, as well as the three first floors of the Hells of Kailkeep; The False Allure. The False Allure has many entrances around the base of the mountain.
+
+Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep.
 
 ### Level One: Hook
 ![[KKHell - 1_Hook.png]]
