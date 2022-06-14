@@ -4,8 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "68bf323aafdbf14d",
+        "type": "leaf",
+        "dimension": 21.00497962879131,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md"
+          }
+        }
+      },
+      {
         "id": "934e473e8f4c8954",
         "type": "leaf",
+        "dimension": 78.9950203712087,
         "state": {
           "type": "markdown",
           "state": {
@@ -52,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -101,20 +114,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "68bf323aafdbf14d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312
+    "width": 538.6111450195312,
+    "collapsed": true
   },
   "active": "934e473e8f4c8954",
   "lastOpenFiles": [

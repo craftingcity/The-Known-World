@@ -212,10 +212,15 @@ The plates are set to detect thirty pounds of pressure applied directly downward
 ##### Platform
 Each of the platforms depicts a Kobold giving something into a bowl. One shows a kobold willingly giving coins, another willingly giving food, another willingly giving their own blood, and another willingly giving books and scrolls.
 
-###### Hidden Holes
-Along the platforms, small holes appear. These have no marking or indications of any kind other than their existence.
+At the bottom of each of the platforms are drilled grates that quickly reveal only darkness.
 
-These holes will dispense a necrotic gas (that deals 2d4 necrotic damage at the beginning of an occupant's turn) into the enclosed room upon the secondary trigger of the **Plates**.
+###### Hidden Holes
+Along the platforms, there are small drilled holes that lead down into a tube before turning and continuing elsewhere. These have no marking or indications of any kind other than their existence.
+
+These holes will dispense a horrible gas into the enclosed room upon the secondary trigger of the **Plates**. This gas does 1d4 poison damage and 1d4 necrotic damage. It is not flammable. It is very slightly more dense than air.
+
+> ##### Tra[ ]
+
 
 ##### Hidden Trap Door
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
