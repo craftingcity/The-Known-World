@@ -24,6 +24,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "146d07b5784cd35d",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -125,6 +135,7 @@
   "active": "8cebaf186aa4ad50",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
+    "MEDIA/SUPP/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
@@ -132,7 +143,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
