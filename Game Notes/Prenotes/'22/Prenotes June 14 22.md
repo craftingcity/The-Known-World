@@ -17,6 +17,8 @@ When last we left our heroes, they had returned safely to the surface, arriving 
 "We have much to discuss..."
 
 ### What does the World Know?
+[[Prenotes June 07 22]]
+
 Very little changed last week, use the notes you already have to make a fun time. The "firey" area of [[The Holyl'nds]], west of [[Baskin]], is the minor lair of [[King Snure]].
 
 ### What happened?
