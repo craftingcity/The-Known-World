@@ -155,6 +155,9 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 ![[KKHell - 2_Line.png]]
 
 ### What Dwells Here?
+#### Injured or Retired Loyalists
+#### Unusual Rats
+#### Wandering Encounters
 ### Exploring this Level
 ## Level Three: Sinker
 ### What Dwells Here?
