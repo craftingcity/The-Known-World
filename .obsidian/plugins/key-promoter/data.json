@@ -104,7 +104,8 @@
     "editor:fold-all": 1,
     "editor:unfold-all": 1,
     "tag-pane:open": 1,
-    "outline:open": 1
+    "outline:open": 2,
+    "outline:open-for-current": 1
   },
   "keyboardStatistics": {
     "insert-template": 109,

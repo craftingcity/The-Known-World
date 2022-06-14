@@ -17,12 +17,23 @@
       {
         "id": "934e473e8f4c8954",
         "type": "leaf",
-        "dimension": 77.01056051990251,
+        "dimension": 38.505280259951256,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0c8cc474aefd3e9e",
+        "type": "leaf",
+        "dimension": 38.505280259951256,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
           }
         }
       }

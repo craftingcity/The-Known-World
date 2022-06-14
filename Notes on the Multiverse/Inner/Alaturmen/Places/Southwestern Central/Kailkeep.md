@@ -157,8 +157,35 @@ Almost all exposed caves have been converted into parts of the False Allure or t
 ##### Wandering Encounters
 
 #### Exploring this Level
+##### 1a. Guest Stairs
+
+**Egress.**
+**Staircase.**
+**Wall Detail.**
+
+##### 1b. Preparation Room 
+
+
+**Egress.**
+**Furniture.**
+
+##### 1c. Garment Storage
+**Rotating Garment Rack.**
+
+##### 2a. Hall of Departure
+
+##### 2b. Entrance Hall
+
+##### 3a. King's Common Room
+This is the room to which the King of this place would make his speeches.
+
+##### 3b. Ducted-Pot Chamber
+**Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works, too.
+
+##### 3c.
 
 ##### 22.
+**Egress.**
 **Staircase.**
 ### Level Two: Line
 ![[KKHell - 2_Line.png]]
