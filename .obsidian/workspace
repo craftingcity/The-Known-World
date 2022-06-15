@@ -7,10 +7,9 @@
         "id": "335b3cbe7ce2d19f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a village/Kakurak's Lair.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
           }
         }
       },
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a village/Kakurak's Lair.md",
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a village/Kakurak's Lair.md",
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +141,15 @@
   },
   "active": "335b3cbe7ce2d19f",
   "lastOpenFiles": [
+    "MEDIA/SUPP/GrainIntoGold.pdf",
+    "grani.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a village/Kakurak's Lair.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
     "MEDIA/MAPS/WORLD/The Holyl'nds.png",
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
     "Game Notes/Fronts/Varis Co..md",
     "Notes on the Multiverse/Inner/Underdark/Groups/The Whitimores.md",
-    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
-    "Game Notes/Prenotes/'22/Prenotes June 07 22.md"
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
   ]
 }
