@@ -7,10 +7,9 @@
         "id": "cfe9e9cdfa929c7d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +112,9 @@
   },
   "active": "cfe9e9cdfa929c7d",
   "lastOpenFiles": [
+    "MEDIA/SUPP/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
     "grani.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a village/Kakurak's Lair.md",
