@@ -34,6 +34,8 @@ Most people are educated, and understand why they pay taxes and are protected by
 
 The above provide the people a sense of general community and honesty, which generally leads to people loving their neighbors and accepting their strangers.
 
+People attend temples of the Gods of Emotion when they wish to gain their favor, or if they believe in the ideals of that church, temple, or deity. 
+
 #### Economics
 Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Wood and meat is abundant in this area. Much of the more expensive items are imported spices and metals.
 

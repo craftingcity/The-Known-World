@@ -1,6 +1,6 @@
 ---
 tags: group, 
-aliases:
+aliases: Lands of Tetrimoc
 ---
 
 # Deserts of Tetrimoc
@@ -29,6 +29,10 @@ Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the
 
 ## Culture
 ### Golden City-zens
+#### Heritage
+#### Language
+#### Beliefs
+#### Economics
 #### Symbolism
 [[Golden Claws#Symbolism]]
 ### Thieves
