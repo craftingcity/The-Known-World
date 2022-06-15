@@ -7,8 +7,10 @@
         "id": "cb993117d0274581",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+              }
             }
           }
         ],
@@ -116,6 +122,7 @@
   },
   "active": "cb993117d0274581",
   "lastOpenFiles": [
+    "MEDIA/SUPP/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
     "conflict-files-obsidian-git.md",
     "Giant's Toe.md",
@@ -124,7 +131,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/Baskin.md",
     "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
     "Prenotes June 14 22.md",
-    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Dragons/Kakurak.md"
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md"
   ]
 }
