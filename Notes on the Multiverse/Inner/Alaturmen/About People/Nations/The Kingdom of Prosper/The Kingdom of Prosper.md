@@ -16,19 +16,29 @@ In [[Prime Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil wa
 Related articles include [[Arthur's Journal]] and [[Unification]].
 
 ## Governance
-The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army.
+The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army, known as Arthur's Knights. Arthur's Knights work with the [[Nobles of Prosper]] to defend their estates and the borders of the greater Kingdom.
 
-The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur has a team of accountants that work together with the [[Guild of Merchants]] and [[Guild of Crafters]] to budget for the whole of the kingdom.
+The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur hires a guild of accountants that work together with the [[Guild of Merchants]], [[Guild of Crafters]], and [[Nobles of Prosper]] to budget food, water, medicine, coin, and other supplies and works for the whole of the kingdom.
 
 ## Culture
-The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the languages of Humans, Goblins, and Elves. 
+#### Heritage
+The citizens of the Kingdom generally are of Human or Goblin descent, or both in a large number of cases, though the Kingdom turns away none who swear fealty to the [[Nobles of Prosper]] and [[Arthur Simonson|The Great Adventurer King]].
+
+#### Language
+The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
+
+#### Politics
+
+#### Economics
+Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Meat is abundant in this area. Much of the more expensic
 
 See also [[Economics of Prosper]].
 
-## Technology
-## Important Symbolism
-These symbols are yet unfinished and unimplemented;
+### Symbolism
 - The [[Nobles of Prosper]]'s house crests
 - The [[Seal of Kingdom Prosper]]
 - The [[Simonson Seal]]
 - The [[Novum Caput Dei]]
+
+## Technology
+### Magic

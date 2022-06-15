@@ -45,9 +45,6 @@
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
 				- **Holdings**
-				- **Misc**
-					- [[Blood Hobgoblin Clan Pact]]
-					- [[The Hobgoblin Wars]]
 				- [[Northeastern Hobgoblin Territories]]
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
