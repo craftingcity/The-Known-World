@@ -30,15 +30,31 @@ Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the
 ## Culture
 ### Golden City-zens
 #### Heritage
+People of all heritage come to behold the city in the desert, but the first people that came here, to [[Tetrimoc]]'s lair, were Human. Gnoll and Goblin are not welcome in the Golden City, but they are here anyways.
+
 #### Language
+The language spoken in the City in Gold is a dialect of [[Desertspeech]] that heavily favors its [[Draconic]] roots.
+
 #### Beliefs
+The people of the City in Gold worship [[Tetrimoc]]. The [[Golden Claws]] have claimed to speak for [[Tetrimoc]] in his absence, and the people have believed them and accepted their harsh rule.
+
 #### Economics
+The systems and laws put into place by the [[Golden Claws]] have created a very large divide between the rich and poor. There is a very small middle class, and progressing from beyond this status is extremely difficult.
+
+See also [[Economics of Tetrimoc's Desert]]
 #### Symbolism
 [[Golden Claws#Symbolism]]
+[[Tetrimoc#Symbolism]]
 ### Thieves
+#### Heritage
+#### Language
+#### Beliefs
 The thieves have a cultural disposition against death or taking the life of another. Generally, they use blunted weaponry and ammunition, but some of the more powerful members carry and use [[Durandurm Weaponry]].
 #### Symbolism
 ### Nomads
+#### Heritage
+#### Language
+#### Beliefs
 The nomads do not share the thieves' cultural value of life. They generally use their natural weapons, preferring bladed weaponry secondarily. After maiming their prey, they remove them to consume their fresh kill. If necessary, a nomad will die trying to defend their kill, tools, or pack.
 #### Symbolism
 ## Technology
