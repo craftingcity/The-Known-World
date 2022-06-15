@@ -22,3 +22,5 @@ When last we left our heroes, they had returned safely to the surface, arriving 
 Very little changed last week, use the notes you already have to make a fun time. The "firey" area of [[The Holyl'nds]], west of [[Baskin]], is the minor lair of [[King Snure]].
 
 ### What happened?
+
+The party raided Kakurak's cabinets and went to rest. The gathered their information and have decided to assault the [[Giant's Toe]].
