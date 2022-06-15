@@ -1,6 +1,12 @@
 ---
-tags: stub
+tags: group, 
 aliases:
 ---
 
-*This page is a #stub. You can help by expanding it!*
+# Dwarven Kingdom Jammu
+## History
+## Governance
+## Culture
+### Symbolism
+## Technology
+### Magic

@@ -1,6 +1,12 @@
 ---
-tags: stub
+tags: group, 
 aliases:
 ---
 
-*This page is a #stub . You can help by expanding it!*
+# Group Name
+## History
+## Governance
+## Culture
+### Symbolism
+## Technology
+### Magic

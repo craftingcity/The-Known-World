@@ -59,7 +59,7 @@ In outskirt homesteads and villages, there are no ways of refrigerating food, bu
 
 Often, in addition to the "average", farms in Prosper have dairy working sheds, drying sheds, and outbuildings for fuel storage.
 
-The king's tax is one-twelfth to the army, one twelfth to the poor, and one-twelfth to the nobility. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
+The king's tax is one-twelfth to the army, one-eleventh to the poor, and one-thirteenth to the nobility. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
 
 ### Cutting Corners
 The people of Prosper are practical, they eat cheap grains and meats in cheap dishes. Most people make their own clothes and grow their own spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another – they "do as the King would do".

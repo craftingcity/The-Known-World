@@ -1,8 +1,11 @@
 ---
-tags: nation_page, tetrimocal
+tags: group, 
+aliases:
 ---
-## The Deserts of Tetrimoc
 
+# Deserts of Tetrimoc
+## History
+## Governance
 ### Government of [[The Golden City]]
 While many in the Golden City claim that all of the desert is ruled by [[Tetrimoc]], he has grown complacent (or simply bored), and leaves the [[The Outlands|Outlanders]] to themselves. Tetrimoc apparently controls the immediate area around the Golden City, and the [[The Outlands|Outlanders]] control the rest of the Desert, given that it has been [[Prime Timeline|a few years]] since Tetrimoc has been seen in the city.
 
@@ -10,20 +13,29 @@ While many in the Golden City claim that all of the desert is ruled by [[Tetrimo
 
 The Claws also patrol around the area claimed for [[Tetrimoc]] on their war wyverns, but would not stray far from the city. They know that a band of Thieves are a mighty foe for their patrol. Generally, if a Claw does encounter a band, they both respectfully turn the other way and do something else. The Nomads get no such treatment.
 
-### The Tournament
-While the Thieves are often left to their own devices, [[The Golden City]] hosts [[Tetrimoc's Tournament of Glory]] for the most affluent class to spectate. Many Thieves come and fight for sport here, and a Thief that wins is given glorious treasure; this bounty is always enough to move the winners and their family many many classes above where they were before. This is supposedly sponsored by [[Tetrimoc]]'s horde.
+### Thieves
+The Thieves follow [[The Code of Thieves]]. By all following these simple ideals, they  
 
-### Population Distribution and Language
-The desert's common is largely based on the languages of Dragons and Gnolls; draconic and abyssal respectively. This language is called [[Desertspeech]].
+Three "teams" of thieves have become very well established, and fight against each other and the four or more nomadic collectives for the few and far between resources in the desert. The "teams" are each named after and headed by a "team captain" who has proven themself in their own way. Currently, the three teams are lead by [[Agrandica]], [[Barthalmule]], and [[Cobalt]].
 
-Population distribution is as follows; one may...
-- commonly find the "races of men", such as human, halflings, dwarves
-- commonly find the "monstrous races", such as gnoll and "domesticated  #goblinoid"
-- uncommonly find elven folk
-- uncommonly find the "exotic races" such as dragonborn, goliaths, tiefling, kenku
+Food, water, and medicine are primary concerns, while ammunition and weaponry are secondary. Raw resources such as wood, stone, and metal are tertiary, as the Thieves rarely make - preferring to maintain - permanent structures.
 
-#### Places of Note
-[[Kickoff]]
+The thieves husband Camel and raise them for war. Each team has perhaps 50 trained camel to use at their disposal across each of their bases.
 
-## Important Symbolism
+### Nomads
+The nomadic tribes of this area are, like thieves, forceful with their resource gathering, but unlike the thieves, few live to tell their tales. Food is a scarcity in the desert, and unlike the Thieves, the nomads do not grow and steal their food, but rather opt to eat whatever they can catch.
+
+Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the Outlands and, while meant to be exaggerated, most are true.
+
+## Culture
+### Golden City-zens
+#### Symbolism
 [[Golden Claws#Symbolism]]
+### Thieves
+The thieves have a cultural disposition against death or taking the life of another. Generally, they use blunted weaponry and ammunition, but some of the more powerful members carry and use [[Durandurm Weaponry]].
+#### Symbolism
+### Nomads
+The nomads do not share the thieves' cultural value of life. They generally use their natural weapons, preferring bladed weaponry secondarily. After maiming their prey, they remove them to consume their fresh kill. If necessary, a nomad will die trying to defend their kill, tools, or pack.
+#### Symbolism
+## Technology
+### Magic

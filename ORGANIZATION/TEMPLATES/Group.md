@@ -4,9 +4,9 @@ aliases:
 ---
 
 # Group Name
-
-## Description
-
 ## History
-
+## Governance
+## Culture
 ### Symbolism
+## Technology
+### Magic

@@ -44,6 +44,7 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- **Misc**
 					- [[Blood Hobgoblin Clan Pact]]
 					- [[The Hobgoblin Wars]]
@@ -51,22 +52,17 @@
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
-			- [[Druids of Animan]]
-			- [[Druids of Aquan]]
 			- **Druids of the Idols**
 				- [[Druids of Animan]]
 				- [[Druids of Aquan]]
 				- [[Druids of Ignan]]
 				- [[Druids of Terran]]
 				- [[Druids of Ventan]]
-			- [[Druids of Ventan]]
-			- [[Dwarven Kingdom Actstow]]
 			- **Dwarven Kingdoms**
 				- [[Dwarven Kingdom Actstow]]
 				- [[Dwarven Kingdom Copperhammer]]
 				- [[Dwarven Kingdom Jammu]]
 				- [[Dwarven Kingdom Suremantle]]
-			- [[Mountain Hall]]
 		- **Player Characters**
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
@@ -117,11 +113,11 @@
 				- [[The Guilds]]
 	- **Places**
 		- [[Central Alaturmen]]
-		- **[[Kailkeep]]**
 		- **Northeastern Central**
 			- [[NE Travel Table]]
 			- **Smaller than a city**
 				- [[Benders]]
+				- [[Giant's Toe]]
 				- [[Moonlight]]
 			- **Smaller than a feature**
 				- [[Castle Prosper]]
@@ -158,15 +154,17 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
+			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
+				- [[Untitled]]
 			- **Smaller than a village**
+				- [[Untitled]]
 			- [[SW Travel Table]]
-			- [[The Golden City]]
+			- **[[The Golden City]]**
 		- **World Features**
 			- **Natural or Territory**
 				- [[Actstow Hills]]
