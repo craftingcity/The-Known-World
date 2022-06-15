@@ -23,7 +23,7 @@ Giant's Toe is the Keep in the Redl'nds, the fiery eastern part of [[The Holyl'n
 #### What Dwells Here?
 ##### Slaves, Orcish and Otherwise
 ##### Giants and Kin
-##### Gunder, Son of Snure
+##### [[Prince Bissk]]
 #### Exploring this place...
 ### Roof
 #### What Dwells Here?

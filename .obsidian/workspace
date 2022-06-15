@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "469c2abd92a8d89f",
+        "id": "7f1a3fa45282ea3b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Fronts/Nala Co..md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Fronts/Nala Co..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Fronts/Nala Co..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Fronts/Nala Co..md"
+              }
             }
           }
         ],
@@ -114,17 +121,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "469c2abd92a8d89f",
+  "active": "7f1a3fa45282ea3b",
   "lastOpenFiles": [
+    "Game Notes/Fronts/Nala Co..md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicae.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",
     "Bandit Lords.md",
     "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Desertspeech.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "ORGANIZATION/TEMPLATES/Group.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/The Places of Alaturmen as Module.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/King's Common.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md"
   ]
 }

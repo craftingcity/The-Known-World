@@ -21,7 +21,7 @@ Quickly, these claims had no power, for **mortality** would claim all in Alaturm
 
 At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breathes in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
 
-Related articles include [[The Places of Alaturmen as Module]], [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
+Related articles include; [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
 
 ### Northeast
 The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]]].
