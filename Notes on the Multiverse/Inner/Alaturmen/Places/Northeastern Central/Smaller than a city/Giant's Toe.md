@@ -3,7 +3,7 @@ tags:
 aliases:
 ---
 # Giant's Toe
-Giant's Toe is the Keep in the Redl'nds, the firery eastern part of [[The Holyl'nds]].
+Giant's Toe is the Keep in the Redl'nds, the fiery eastern part of [[The Holyl'nds]].
 ## Hooks
 ## Outline
 ### Goals
@@ -12,11 +12,21 @@ Giant's Toe is the Keep in the Redl'nds, the firery eastern part of [[The Holyl'
 ### Features
 ## Greater Map
 ### Ground Floor
+![[GiantsToe - Upper.png]]
 #### What Dwells Here?
+##### Giants and Kin
+##### Azir
+##### Lerrin, False Prisoner
 #### Exploring this place...
 ### Lower Floor
+![[GiantsToe- Lower.png]]
 #### What Dwells Here?
+##### Slaves, Orcish and Otherwise
+##### Giants and Kin
+##### Gunder, Son of Snure
 #### Exploring this place...
 ### Roof
 #### What Dwells Here?
+##### Giants and Kin
 #### Exploring this place...
+'t's a roof.

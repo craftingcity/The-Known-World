@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d134d436913ebf",
+        "id": "cb993117d0274581",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5bda842d5cc496f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -80,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +93,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "562ad8174e6741cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ],
@@ -122,7 +114,7 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "f2d134d436913ebf",
+  "active": "cb993117d0274581",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
     "conflict-files-obsidian-git.md",
