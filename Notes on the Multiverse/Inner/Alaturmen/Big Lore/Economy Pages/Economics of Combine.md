@@ -18,23 +18,21 @@ What lives here?
 #### Meat
 Fish is the most common meat in the combine. Crab and Shellfish are uncommon, but still accessible. Many people cultivate farms of bugs for many reasons, including as food, bait, spice, and dye.
 
-Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese.
-
-Some very important people husband cattle as well, but because of the anarchic nature of the Combines, grazing is an issue.
+Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese. Some very power people husband cattle as well, but this is a difficult and expensive task here.
 
 #### Dairy
 Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or imported almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
 
 #### Grain
-Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety.
+Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety in luxury.
 
 Fine white flour is imported for certain delicacies, but most folk enjoy the taste of their home-grown grain.
 
 #### Fruit
-
+Citrus, Plum, Peach, Pear, Cherries, Tomatoes, Papaya, Mango, and many other warm growing fruits are prosperous in this area. These myriad of fruits are dried, salted, and preserved throughout the Combine.
 
 #### Vegetable
-Skunk Weed, Water Spinach, Water Caltrop, Taro, Lotus, Cattail are few of the many Stinky, Leafy, Starchy vegetables that grow in the Combine. Vegetable soups are a common and an *acquired* taste, especially when spiced poorly.
+Skunk Weed, Water Spinach, Water Caltrop, Taro, Lotus, Cattail are few of the many Stinky, Leafy, Starchy vegetables that grow in the Combine. Vegetable soups are a common and *acquired* taste, especially when spiced poorly.
 
 Summer Squashes do well in the heat of Combine.
 
@@ -57,19 +55,21 @@ Sweet rice cake are a wonderful treat, but the best dish a middle class family c
 Nobles import white flour for some pastries and other fine dishes, but these are reserved for occasion to all but the richest of citizens.
 
 ### Vices
-Some of the best alcohols known to Alaturmen come from the Combine's distilleries, and many fall to the vice Lush in this fertile land.
-
-The Big Three Drugs from the north, Smokebulb, Cannabis, and Tobacco are imported in droves to the Combine, and are one of the two things fought over for here other than land - drugs and money.
+Some of the best alcohols known to Alaturmen come from the Combine's distilleries, and many fall to the vice Lush in this fertile land. From the north, Smokebulb, Cannabis, and Tobacco are imported in droves to Combine.
 
 As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
-Think about how people get their land, from who, and what features would there be?
-
 In a very similar manner to their neighbors in the North, citizens of Combine pay their local lord, who fights others for their lands and goods. When citizens purchase land from a lord, they become lords of that land, which lends itself quite well to rents and leases for those that would rather not play the game. When a contract of that nature is signed, it is with the Current and All Future Barons. This is respected, assuming that Future Baron doesn't want their citizens to buy them out, leave, or revolt.
 
+Most land is very wet and fertile in Combine.
+
 ### Overhead
-What about taxes? Work animals? Buildings? Productions?
+The citizens of Combine pay extreme taxes to their Current Baron. Many tax collectors attempt to take one of three under order of the Baron, but established Barons collect thinner fees, one of five or six. 
+
+Many citizens of Combine are quite strong, and their labor is highly valued in farms and transportation companies. Many people hire Goliath or Bugbear to do the labor that a typical work animal would perform.
+
+All of the buildings in this area are reinforced against water damage and many are on stilts above the waterlines. Boardwalks and bridges make inter-building travel easy. All builds of production have heavy roofs.
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
