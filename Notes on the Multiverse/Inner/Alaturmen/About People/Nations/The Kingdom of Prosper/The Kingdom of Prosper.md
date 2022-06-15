@@ -1,5 +1,5 @@
 ---
-tags: nation_page, prosper
+tags: group
 aliases: Prosper
 ---
 # The Kingdom of Prosper
@@ -27,10 +27,15 @@ The citizens of the Kingdom generally are of Human or Goblin descent, or both in
 #### Language
 The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
 
-#### Politics
+#### Beliefs
+Citizens of Prosper are culturally bonded by the [[Unification]] and their genuine love for the genuinely good [[Arthur Simonson|King Of Prosper]]. 
+
+Most people are educated, and understand why they pay taxes and are protected by a standing military. People have no reason to fear Arthur's Knights or Truth-collectors – so long as they do not lie.
+
+The above provide the people a sense of general community and honesty, which generally leads to people loving their neighbors and accepting their strangers.
 
 #### Economics
-Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Meat is abundant in this area. Much of the more expensic
+Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Wood and meat is abundant in this area. Much of the more expensive items are imported spices and metals.
 
 See also [[Economics of Prosper]].
 

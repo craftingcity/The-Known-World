@@ -9,7 +9,7 @@ aliases:
 ## Culture
 #### Heritage
 #### Language
-#### Politics
+#### Belief
 #### Economics
 ### Symbolism
 ## Technology

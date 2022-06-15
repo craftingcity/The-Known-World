@@ -103,7 +103,6 @@
 				- [[On The Text of Tetrimoc; Guild Position]]
 				- [[Politics of Coalition c. 078AF - 092AF]]
 			- [[The Ballad of Grey Ordeal]]
-		- [[The Places of Alaturmen as Module]]
 		- **World Wide Happenings**
 			- **Worldknown Groups**
 				- [[The Grey Ordeal]]

@@ -1,5 +1,6 @@
 ---
-tags: deity, world, needs_work
+tags: bible
+aliases: 
 ---
 # Gods of Alaturmen
 
