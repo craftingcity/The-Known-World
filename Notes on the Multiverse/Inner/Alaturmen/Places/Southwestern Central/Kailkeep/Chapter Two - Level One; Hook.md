@@ -54,9 +54,18 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 5. Supply Overflow
 ##### 6a. Specialization A
 ##### 6b. Specialization B
-##### 7. Production Room A
+##### 7. Primary Production
+**Egress.**
+**Workshop.**
+**Valuables.**
 ##### 8a. Product Examination and Export
+**Examination Table.**
+**Storage Shelves.**
+**Valuables.**
+**Ko-Bolted Door.**
+
 ##### 8b. Hallway with Stairs
+This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards ().
 ##### 9a. Production Room B
 ##### 9b. Hallway of Manual
 ##### 9c. Hallway and Dry Feed Storage
@@ -64,8 +73,12 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 10b. Cooling Chamber
 ##### 11. Dry Storage
 ##### 12. Water Storage
+**Egress.** Two 7' arches pierce the western and southern walls. The western archway splits into a hallway, leading to the Sauce Preparation room (13) directly west or the Primary Production room (7) to the south west. The southern arch leads to two staircases, both of which lead upwards ==(northern; , western;)==.  A thin stone door is ajar in the northern doorway, leading into a dark room (11).
+
 **In-Wall Tank.** Extending out from where the southern and eastern walls would meet is a 2.5' diameter stone barrel-tank built out from the wall, four and a half feet above the ground. It's height reaches the ceiling. At the barrels' edge, a spigot rests, closed. A thin window of transparent white stone extends upward from the lowest point of the barrel wall, displaying the water inside the barrel. It is currently 3/4ths full (15 gallons) of clean, potable water.
-**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a 
+
+**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage.
+
 ##### 13. Sauce Preparation
 ##### 14. Storage Hallway
 ##### 15. Saucing Chambers / 
