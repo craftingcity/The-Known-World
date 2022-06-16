@@ -102,7 +102,7 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
-**Shelves.** 
+**Shelves.** Shelves of latticed stone baskets hold iron, gold, and rare gems, as well as.
 
 ##### 10b. Cooling Chamber
 **Thin Ducts.**
