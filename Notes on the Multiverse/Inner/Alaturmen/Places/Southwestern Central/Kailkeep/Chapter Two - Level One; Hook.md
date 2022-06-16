@@ -5,11 +5,10 @@
 Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep.
 
 ##### Unusual Rats
-Unusually Large Rats are bred by the Loyalists who work the Hells.
-
-There are many loose Unusual Rats in these areas as well, some Tunneling and 
+Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
 
 ##### Wandering Encounters
+
 
 #### Exploring this Level
 ##### 1a. Guest Stairs
@@ -72,21 +71,12 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 16b. Quick Access Food Storage and Hallway
 ##### 17. Cold Storage Room
 ##### 18. Greater Kitchen
-##### 19a. 
-##### 19b.
-##### 19c.
-##### 20a. 
-##### 20b. Hallway
-##### 20c. Hallway to Elsewhere
-##### 20d. Rats Nest
-##### 21a. 
-##### 21b. Rats Nest
-##### 22.
+##### 22. Staircase
 **Staircase.**
-##### 23.
-##### 24.
+##### 23. Minor Storage
+##### 24. Major Storage
 ##### 25. Servant Preparation Chamber
 ##### 26a. Servant's Barracks
 ##### 26b. Enforcer's Barracks
 ##### 26c. Hallway to Elsewhere
-##### 26d. Secondary Supply Chamber
+##### 26d. Supply Import
