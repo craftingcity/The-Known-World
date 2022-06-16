@@ -44,7 +44,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
@@ -150,15 +149,16 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Appendix D;]]
+				- [[Untitled]]
 			- **Smaller than a village**
-				- [[Appendix D;]]
+				- [[Untitled]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**
