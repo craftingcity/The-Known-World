@@ -53,9 +53,15 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 4c. Bag Holding
 ##### 5. Supply Overflow
 ##### 6a. Partmaking A
-**Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. On the table, many ironworking tools such as files, clamps, and hammers are carefully main
+**Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
+
+**Weird Machine.** A large stone machine stands 3' tall 2' wide against the southern wall of this room. It's center is hollow, and the cylinder inside can be accessed by a compartment in the top of the machine as well as three large doors in the front that compose the machine's frontern wall. On its left wall, a stone button is painted orange. When this button is pressed, alchemical thermite alights and quickly heats the internal chamber of the machine.
+
+**Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
 ##### 6b. Partmaking B
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge is a raised platform, on which a slotted anvil made of stone and bronze sits. 
+
 ##### 7. Primary Production
 **Egress.**
 **Workshop.** 
