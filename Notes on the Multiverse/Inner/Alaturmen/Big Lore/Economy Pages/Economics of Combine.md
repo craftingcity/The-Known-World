@@ -16,7 +16,7 @@ Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many d
 ### Food
 What lives here?
 #### Meat
-Fish is the most common meat in the combine. Crab and Shellfish are uncommon, but still accessible. Many people cultivate farms of bugs for many reasons, including as food, bait, spice, and dye.
+Fish is the most common meat in the combine. Crab, Shellfish, and Turtle are uncommon, but still accessible. Many people cultivate farms of bugs for many reasons, including as food, bait, spice, and dye.
 
 Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese. Some very power people husband cattle as well, but this is a difficult and expensive task here.
 
