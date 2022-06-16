@@ -9,6 +9,7 @@ aliases:
 	- [[Appendix A; Stat Blocks]]
 	- [[Appendix B; Unique Items]]
 	- [[Appendix C; NPCs in Kailkeep]]
+	- [[Appendix D; Index of Messages]]
 	- [[Chapter Eight - Level Seven; Kadabbi]]
 	- [[Chapter Eleven - Maintaining Kailkeep]]
 	- [[Chapter Five - Level Four; Four Corners]]

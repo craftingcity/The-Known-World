@@ -24,8 +24,7 @@ There are many loose Unusual Rats in these areas as well, some Tunneling and
 **Egress.**
 **Furniture.**
 
-##### 1c. Garment Storage
-**Rotating Garment Rack.**
+##### 1c. Hallway to Elsewhere
 
 ##### 2a. Hall of Departure
 
@@ -76,18 +75,18 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 19a. 
 ##### 19b.
 ##### 19c.
-##### 20a. Servent's Barracks
-##### 20b. Servent's Hall
-##### 20c. Servent's Hall
-##### 20d. 
-##### 21a.
-##### 21b.
+##### 20a. 
+##### 20b. Hallway
+##### 20c. Hallway to Elsewhere
+##### 20d. Rats Nest
+##### 21a. 
+##### 21b. Rats Nest
 ##### 22.
 **Staircase.**
 ##### 23.
 ##### 24.
-##### 25.
-##### 26a.
-##### 26b.
-##### 26c.
-##### 26d.
+##### 25. Servant Preparation Chamber
+##### 26a. Servant's Barracks
+##### 26b. Enforcer's Barracks
+##### 26c. Hallway to Elsewhere
+##### 26d. Secondary Supply Chamber
