@@ -1,5 +1,3 @@
-
-
 # Let me tell you a story...
 In the Time before Time, for a moment and forever, the goblins thrived in the soup of Primordial nothing. Right after that, one single moment later, [[Tetrimoc]] split the heavens of Alaturmen and threw himself down unto it. There he was given his first wound by the lone mountain known now as Kailkeep. 
 
@@ -10,7 +8,7 @@ Kailkeep is a massive complex dug by a fanatical group of Kobold for two main pu
 They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has become as horrible as they are.
 
 ## About rules stuff
-Above the third level, Kailkeep presents a challenge constructed for three to five level six adventurers working together as a team with the limited information presented about the natures of Kailkeep's Hells. 
+Above it's third level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with the limited information presented about the natures of Kailkeep's Hells. As they progress, they should gain experience as you see fit, but know that the mechanical challenge presented will rise in difficulty further up the floors one goes.
 
 ## Hooks
 ### Druids of Terra

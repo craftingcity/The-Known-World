@@ -156,9 +156,9 @@
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Untitled]]
+				- [[Appendix D;]]
 			- **Smaller than a village**
-				- [[Untitled]]
+				- [[Appendix D;]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**
