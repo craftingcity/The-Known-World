@@ -60,7 +60,12 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
 ##### 6b. Partmaking B
-**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze sits. 
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
+- **Anvil.**
+- **Bellows.**
+- **Forge.**
+
+**Shelves.** On small shelves across the room from the forge
 
 ##### 7. Primary Production
 **Egress.**
@@ -94,19 +99,23 @@ This hallway connects the **Fine Production** room (9a) and the **Supplies Impor
 **Shelves.** 
 
 ##### 10b. Cooling Chamber
+**Thin Ducts.**
+**Ice Chambers.**
 ##### 11. Dry Storage
-**Large Shelves.** Shelves of hemp or linen bags labeled by black runes in [[Draconic]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, 
+Other than the *Large Shelves* in this room, it bares no defining features.
+
+**Large Shelves.** Shelves of hemp and linen bags labeled by black runes in [[Draconic]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, beans, flour, sugar, powdered meat, and onions are stacked on these shelves, and one could find 1d6-2 of each if they were to spend the time searching every shelf.
 
 ##### 12. Water Storage
 **Egress.** Two 7' arches pierce the western and southern walls. The western archway splits into a hallway, leading to the Sauce Preparation room (13) directly west or the Primary Production room (7) to the south west. The southern arch leads to two staircases, both of which lead upwards ==(northern; , western;)==.  A thin stone door is ajar in the northern doorway, leading into a dark room (11).
 
 **In-Wall Tank.** Extending out from where the southern and eastern walls would meet is a 2.5' diameter stone barrel-tank built out from the wall, four and a half feet above the ground. It's height reaches the ceiling. At the barrels' edge, a spigot rests, closed. A thin window of transparent white stone extends upward from the lowest point of the barrel wall, displaying the water inside the barrel. It is currently 3/4ths full (15 gallons) of clean, potable water.
 
-**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage.
+**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
 ##### 13. Sauce Preparation
 ##### 14. Storage Hallway
-##### 15. Saucing Chambers / 
+##### 15. "Saucing" Chambers
 ##### 16a. Supplementary Kitchen
 ##### 16b. Quick Access Food Storage and Hallway
 ##### 17. Cold Storage Room
