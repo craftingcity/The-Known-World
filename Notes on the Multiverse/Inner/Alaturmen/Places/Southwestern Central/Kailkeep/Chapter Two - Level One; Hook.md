@@ -2,6 +2,8 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
+Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep.
+
 ##### Unusual Rats
 ##### Wandering Encounters
 

@@ -21,26 +21,30 @@ For as long as there has been a mountain, there have been people bored enough to
 The inhabitants of Kailkeep are sustained by hunting as well as gathering. When people are not coming to them, they must come to people. If the Kobolds have been having a rough year, they'll either send raids themselves or order one of the factions under their command to raid for them.
 
 ### Arcane Hotspot
-In my world, Alaturmen, magic is not common. The amount of magical items alone would ping someone's radar, let alone the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of density in the area of Kailkeep, even from afar.
+In my world, Alaturmen, magic is not common. The amount of magical items alone would ping someone's radar, let alone the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of arcane density in the area of Kailkeep, even from afar.
 
-If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot.
+If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot - its magic.
 
 ## Outline
-### Philosophy
-Kailkeep is a sad place where evil festers. Those who have come before leave as much light as they can, but it is quickly dimmed by the cruelty on display in this place. Adventurers are fun to watch. The Kobolds have created a system that allows them to safely watch them in their element - near certain death.
+### Exposition
+Kailkeep is a sad place where evil festers. Those who have come before leave as much light as they can, but it is quickly dimmed by the cruelty on display in this place. 
 
+Adventurers are fun to watch. The Kobolds have created a system that allows them to safely watch them in their element - near certain death.
+
+### Philosophy
 From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about they story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
 
 This is an experience built for players to survive and run from, not beat. Put a little fear back in the hearts and minds of your friends, family, or otherwise. I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds. So, I built Kailkeep.
 
-I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a primordial idol. They watch deadly rooms behind walls of impenetrable yet transparent and thin rock. They *want* you here. So they can torture you. But not your players, again, this should be a goofy / fun **and** dark / stormy night.
+I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a primordial idol. They watch deadly rooms behind walls of impenetrable yet transparent and thin rock. They *want* you here. So they can torture you. But not your players, again, this should be a dark, stormy night of fun.
 
+### Running Kailkeep
 For the purposes of running this module "from the book"; No matter where the players ascend from, they enter somewhere on the next level presented here – some intervention by the fates, perhaps. 
 
-You *must know* that the levels presented here only explore the tip of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – now you'll have to replace *it* before they get there). I've tried to include notes on my designs throughout.
+You *must know* that the levels presented here only explore the tip of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – you'll have to replace it before anyone goes there). I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
 
 ### The Kobold's Goals
-1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out.
+1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their collective survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out. Thankfully, the Hells of Kailkeep provide a very thorough defense. 
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else does, right?
 3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them while they are well-fed and harbored.
 
@@ -116,7 +120,11 @@ Because of their stagnant nature, the Ooze of Kailkeep are often considered fixt
 The density of Woven material in the area of Kailkeep has done *something* to the rodents here. Many are larger, more ferocious, and more difficult to deal with. Some create a massive amount of children and husband extremely well. Some can fucking fly. Shits crazy.
 
 ###### Genoid
+A species of earth elemental came with Terra, small price to pay for power. The Kobolds host these small rock creatures as honored guests, much as a deist would honor an Angel of their God.
+
 ###### Mad-walkers
+Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
+
 ###### Yeeqzu'g, Mad-speaker
 ###### Bernet, Lodestone Golem
 ###### Luzikiemal, Risen
@@ -125,13 +133,9 @@ The density of Woven material in the area of Kailkeep has done *something* to th
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 
-#### False Allure Architecture
+#### False Allure
 In its lowest floors, the first three, it is a carefully crafted dungeon of false allure – stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Heroe's favor before...
 
-#### Hells Architecture
-The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is flat black marble and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
-
-Those who enter Kailkeep's Hells *cannot* return from whence they came. The only exit is forward. Up.
 
 ## The Hells of Kailkeep
 ### The World's Biggest Entertainment Center
@@ -147,6 +151,11 @@ Kailkeep is a massive structure, too big to map here. If one were to avoid the o
 The Kobolds keep service entrances from which they and their loyalists come and go, as well as the three first floors of the Hells of Kailkeep; The False Allure. The False Allure has many entrances around the base of the mountain.
 
 Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep.
+
+#### Hells Architecture
+The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is flat black marble and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
+
+Those who enter Kailkeep would be thinking *wish*fully to believe that they can escape the grasp of the Hells. The only way *out* is ***through***.
 
 ##### Ceilings
 The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
