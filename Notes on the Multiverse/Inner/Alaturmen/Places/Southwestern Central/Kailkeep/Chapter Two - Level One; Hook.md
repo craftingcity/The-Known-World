@@ -52,12 +52,15 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 4b. Servant's Hall to the King's Common Room
 ##### 4c. Bag Holding
 ##### 5. Supply Overflow
-##### 6a. Specialization A
-##### 6b. Specialization B
+##### 6a. Partmaking A
+**Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. On the table, many ironworking tools such as files, clamps, and hammers are carefully main
+
+##### 6b. Partmaking B
 ##### 7. Primary Production
 **Egress.**
-**Workshop.**
+**Workshop.** 
 **Valuables.**
+
 ##### 8a. Product Examination and Export
 **Examination Table.**
 **Storage Shelves.**
@@ -66,9 +69,20 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 
 ##### 8b. Hallway with Stairs
 This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards ().
-##### 9a. Production Room B
+
+##### 9a. Fine Production
+**Egress.**
+**Fine Workshop.**
+**Lone Chair.**
+
 ##### 9b. Hallway of Manual
+**Hallway.**
+**Instructional Artistry.**
 ##### 9c. Hallway and Dry Feed Storage
+This hallway connects the **Fine Production** room (9a) and the **Supplies Import** room (10a). Directly opposing the southern door of the **Supplies Import**, a twentfy foot long rotating rack 
+
+**Large Storeage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump with dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (ie less than two pounds of each foodstuff).
+
 ##### 10a. Supplies Import
 ##### 10b. Cooling Chamber
 ##### 11. Dry Storage
