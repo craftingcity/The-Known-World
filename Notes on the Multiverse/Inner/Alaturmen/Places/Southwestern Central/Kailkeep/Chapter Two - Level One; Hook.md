@@ -60,7 +60,7 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
 ##### 6b. Partmaking B
-**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge is a raised platform, on which a slotted anvil made of stone and bronze sits. 
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze sits. 
 
 ##### 7. Primary Production
 **Egress.**
@@ -87,11 +87,16 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 ##### 9c. Hallway and Dry Feed Storage
 This hallway connects the **Fine Production** room (9a) and the **Supplies Import** room (10a). Directly opposing the southern door of the **Supplies Import**, a twentfy foot long rotating rack 
 
-**Large Storeage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump with dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (ie less than two pounds of each foodstuff).
+**Large Storeage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump mixtures of dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (less than two pounds of each foodstuff, mixed at about 50:50 ratio, boil with spice and bonuses for six to ten minutes, enjoy).
 
 ##### 10a. Supplies Import
+**Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
+**Shelves.** 
+
 ##### 10b. Cooling Chamber
 ##### 11. Dry Storage
+**Large Shelves.** Shelves of hemp or linen bags labeled by black runes in [[Draconic]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, 
+
 ##### 12. Water Storage
 **Egress.** Two 7' arches pierce the western and southern walls. The western archway splits into a hallway, leading to the Sauce Preparation room (13) directly west or the Primary Production room (7) to the south west. The southern arch leads to two staircases, both of which lead upwards ==(northern; , western;)==.  A thin stone door is ajar in the northern doorway, leading into a dark room (11).
 
