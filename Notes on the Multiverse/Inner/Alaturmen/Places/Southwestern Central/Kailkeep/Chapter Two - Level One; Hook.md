@@ -11,6 +11,8 @@ Unusually Large Rats are bred by the Loyalists who work this Level. Some of thes
 The False Allure is very stagnant. Any wandering encounters would be composed of loose rat or moving and working retired loyalists.
 
 #### Exploring this Level
+In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical place for you to attach Kailkeep to your setting, or add your own content, if you'd like. In any case, these places need not exist if this is sounds like more work than its work
+
 ##### 1a. Guest Stairs
 
 **Egress.**
@@ -25,6 +27,8 @@ The False Allure is very stagnant. Any wandering encounters would be composed of
 
 ##### 1c. Hallway to Elsewhere
 
+**DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
+
 ##### 2a. Hall of Departure
 
 ##### 2b. Entrance Hall
@@ -34,14 +38,14 @@ This is the room to which the King of this place would make his speeches and the
 
 **Egress.** The doors described herein are all exactly the same. These doors are made of {an arid wood}, fine once, now rotted and worn with old age. Once, they held hinges of some metal, but now there only is a hole in the wood now. All of these doors are unmarked, other than their dwarven-esq filigree.
 
-In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[#25]]. The northeastern door leads to [[#22]]. The eastern door leads to [[#15]].
+In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[]]. The northeastern door leads to [[]]. The eastern door leads to [[]].
 
 **Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands.
 
 **Chandelier.** High above, in the ceiling of the floor above, a chandelier sheds down a dim warm light.
 
 ##### 3b. Ducted-Pot Chamber
-**Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works, too.
+**Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works the exact way yours does, too, weirdly enough.
 
 ##### 3c. Eyes and Ears of the King
 **Secret Door.**
@@ -65,7 +69,7 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 - **Bellows.**
 - **Forge.**
 
-**Shelves.** On small shelves across the room from the forge
+**Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
 
 ##### 7. Primary Production
 **Egress.**
