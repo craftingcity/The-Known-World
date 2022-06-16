@@ -91,12 +91,14 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 **Lone Chair.**
 
 ##### 9b. Hallway of Manual
-**Hallway.**
-**Instructional Artistry.**
-##### 9c. Hallway and Dry Feed Storage
-This hallway connects the **Fine Production** room (9a) and the **Supplies Import** room (10a). Directly opposing the southern door of the **Supplies Import**, a twentfy foot long rotating rack 
+**Hallway.** This hallway connects the **Primary Production** room with the **Fine Production** room, and taking a sharp left sends you through the arch towards the **Supplies Import** room.
 
-**Large Storeage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump mixtures of dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (less than two pounds of each foodstuff, mixed at about 50:50 ratio, boil with spice and bonuses for six to ten minutes, enjoy).
+**Instructional Artistry.** Through the entirety of the hall, instructional art of a dwarf creating weapons is carved into one wall and this same dwarf creating jewelry on the other wall.
+
+##### 9c. Hallway and Dry Feed Storage
+**Hallway.** This hallway connects the **Fine Production** room (9a) and the **Supplies Import** room (10a). Directly opposing the southern door of the **Supplies Import**, a twenty-foot-long rotating storage rack is attached to the ceiling by thick wire.
+
+**Large Storage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump mixtures of dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (less than two pounds of each foodstuff, mixed at about 50:50 ratio, boil with spice and bonuses for six to ten minutes, serve with bread and cheese).
 
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 

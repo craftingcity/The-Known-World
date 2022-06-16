@@ -6,5 +6,7 @@ Running the game may seem a difficult task on its own to some of our newest recr
 ## Examining the Existing Levels of the Hells
 ### False Allure
 #### Level One
-- Partmaking B forges the shapes necessary for Partmaking A to shape them into these parts, as well as performing other duties such as forging blades and axeheads.
-- 
+- Kobolds of Kailkeep pay these people in food and supplies to produce weapons and ammo and export them.
+- Partmaking B forges the metals given to them by the Kobolds into the lengths and shapes required for Partmaking A to create the finished parts and for Fine to create their finished parts.
+- Primary takes these Partmaking A's products and creates finished weaponry, which go to Examination, and then Export.
+- Fine takes the material from Production B and creates jewelry, a
