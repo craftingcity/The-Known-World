@@ -2,13 +2,13 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep.
+Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
 
 ##### Wandering Encounters
-
+The False Allure is very stagnant. Any wandering encounters would be composed of loose rat or moving and working retired loyalists.
 
 #### Exploring this Level
 ##### 1a. Guest Stairs
@@ -64,9 +64,11 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 ##### 10b. Cooling Chamber
 ##### 11. Dry Storage
 ##### 12. Water Storage
+**In-Wall Tank.** Extending out from where the southern and eastern walls would meet is a 2.5' diameter stone barrel-tank built out from the wall, four and a half feet above the ground. It's height reaches the ceiling. At the barrels' edge, a spigot rests, closed. A thin window of transparent white stone extends upward from the lowest point of the barrel wall, displaying the water inside the barrel. It is currently 3/4ths full (15 gallons) of clean, potable water.
+**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a 
 ##### 13. Sauce Preparation
 ##### 14. Storage Hallway
-##### 15. Saucing Chambers
+##### 15. Saucing Chambers / 
 ##### 16a. Supplementary Kitchen
 ##### 16b. Quick Access Food Storage and Hallway
 ##### 17. Cold Storage Room
