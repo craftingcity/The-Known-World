@@ -2,7 +2,7 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability (see your favorite Injury Table, take two or three) – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
+Groups of goblin and guand work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
 
 Due to their injuries, the Loyalists here will call for an alert before grouping in the Armory (13) and sending their strongest to hold the Spiked Defenses (15) and Primary Production (7) rooms. Any Guand that still have their abilities or Goblin that have both legs and at least one arm would be among those fighters.
 
@@ -20,28 +20,34 @@ In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical pla
 A twenty-five foot square room contains an ornate staircase leading from one of the many surface level entrances to Kailkeep. It has only one other point of egress, a damaged wooden door to the west.
 
 **Staircase.**
+
 **Wall Detail.**
-**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a *Ko-Bolted Door* and the *Secret Door* that 
+
+**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a *Ko-Bolted Door* and the *Secret Door* in the turn of the Hallway in the *Partmaking A* room (6a).
 
 ##### 1b. Preparation Room 
 Once a room for final preparations by people before entering the common room before their king, now a alarm signal for the occupants of this place. 
 
-**Egress.**
-**Furniture.**
+**Egress.** A door of thin stone leads east to the **Guest Stairs** (1a) and another leads north to the **Hall of Departure** (2a). A portal to Elsewhere appears on this room's western wall.
+
+**Ruined Furniture.** Ruined tables and stools of stone are pushed into the corners of this room. This was one used for any final preparations before continuing into the "public" of the common room.
 
 ##### 1c. Hallway to Elsewhere
-**DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
+**DM's Choice.** This does not have to exist. If Elsewhere doesn't exist, neither do its portals.
 
 ##### 2a. Hall of Departure
 This is the point at which servants would depart from their masters and join the forces of their host the King.
 
-**Egress.**
-**Worn Carpet.**
+**Egress.** A 7' arch leads north into the **Entrance Hall** (2b). A southern thin stone door leads to the **Preparation Room** (1b) and another in the western wall leads into the servent's halls connecting to the **Entrance Hall** (2b) and **###** (27).
+
+**Worn Carpet.** A red dyed carpet stretches from the southern door though the arch in this room and into the **Entrance Hall**.
 
 ##### 2b. Entrance Hall
 This is the entrance hall to the common room. Minor nobles and the common folk would congregate through this hall to listen to the King of this place, supposedly.
 
 **Wall Detail.**
+
+**Worn Carpet.** A red dyed carpet stretch
 
 ##### 3a. King's Common Room
 This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen. This room is occupied by two *goblin* working the loom and three old *goblin* conversing and sitting with two *guand* in the southeast corner of the room.
@@ -89,13 +95,16 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
 
 ##### 6a. Partmaking A
+**Hallway.**
+
+**Secret Door.**
+
 **Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
 
 **Weird Machine.** A large stone machine stands 3' tall 2' wide against the southern wall of this room. It's center is hollow, and the cylinder inside can be accessed by a compartment in the top of the machine as well as three large doors in the front that compose the machine's frontern wall. On its left wall, a stone button is painted orange. When this button is pressed, alchemical thermite alights and quickly heats the internal chamber of the machine.
 
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
-**Secret Door.**
 
 ##### 6b. Partmaking B
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
@@ -107,7 +116,9 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 
 ##### 7. Primary Production
 **Egress.** Two southern doors lead to the **Partmaking** rooms (6a & 6b), one eastern door opens to the **Hallway of Manual** (9b).
-**Workshop.** 
+
+**Workshop.** The large space here is equipped with large tables and shelves of tools and materials. The space here is occupied by 14 *goblin* and 4 *guand* working together to create weapons and ammunition from the parts they have available. Multiple pieces are unfinished in space.
+
 **Valuables.**
 
 ##### 8a. Product Examination and Export
