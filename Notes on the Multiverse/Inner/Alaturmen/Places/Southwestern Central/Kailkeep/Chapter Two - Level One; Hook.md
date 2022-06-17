@@ -67,7 +67,7 @@ What was once meant for noble luggage is now used to store the personal items of
 Inside each of these bags are a half-eaten ration and some small collections of keepsakes; small charcoal drawings, beautiful stones, flaked tools, carved ivory figurines and dice, or other small stuff, both in value and size. No-one would appraise any individual item taken from here to be worth more than a few copper, excluding the rations, of course.
 
 ##### 5. Supply Overflow
-**Egress.** On the north and south walls, on their most eastern points, a must 
+**Egress.** On the north and south walls, on their most eastern points, a thin stone door stands in its frame.
 
 **Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
 
