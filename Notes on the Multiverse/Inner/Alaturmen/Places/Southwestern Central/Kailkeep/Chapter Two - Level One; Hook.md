@@ -25,6 +25,7 @@ Once a room for final preparations by people before entering the common room bef
 
 **Egress.**
 **Furniture.**
+**Alarm.**
 
 ##### 1c. Hallway to Elsewhere
 **DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
@@ -185,3 +186,6 @@ Should your adventurers wish to gather all of the items in these crates, they wi
 **Ko-Bolted Door.**
 **Platform.**
 **Shelves.**
+
+##### 27. Organization Chamber
+**Desk.** Stacked neatly atop the desk are many forms hand written on thin tan leathers in a black-red ink. A quill and ink-pot rests next to a blank stack of these leather papyrus.
