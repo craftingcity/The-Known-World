@@ -31,19 +31,23 @@ Once a room for final preparations by people before entering the common room bef
 
 ##### 2a. Hall of Departure
 This is the point at which servants would depart from their masters and join the forces of their host the King.
+
 **Egress.**
 **Worn Carpet.**
 
 ##### 2b. Entrance Hall
+This is the entrance hall to the common room. Minor nobles and the common folk would congregate through this hall to listen to the King of this place, supposedly.
+
+**Wall Detail.**
 
 ##### 3a. King's Common Room
-This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen.
+This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen. This room is occupied by two *goblin* working the loom and three old *goblin* conversing and sitting with two *guand* in the southeast corner of the room.
 
 **Egress.** The doors described herein are all exactly the same. These doors are made of {an arid wood}, fine once, now rotted and worn with old age. Once, they held hinges of some metal, but now there only is a hole in the wood now. All of these doors are unmarked, other than their dwarven-esq filigree.
 
 In the southeast, the corner forms an arch that egresses the (2b). In the southern jutty-stone-bit's western wall, a door leads to the (4b). The northwestern door leads to (25). The northeastern door leads to (22). The eastern door leads to (15).
 
-**Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands. Four hand looms sit together in the center of this chamber.
+**Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands. A iron wheel-loom stands in the center of the now-cleared space, a box of thread and yarn stands beside the loom's stone stool.
 
 **Chandelier.** High above, in the ceiling of the floor above, a chandelier sheds down a dim warm light.
 
@@ -56,6 +60,16 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 **Stone Box-stool.** Beyond the door, a small chamber of 5 by 10 feet. A box made of stone and covered by a long rotten pile of blankets stands alone in the center of this chamber. It is two feet tall, three feet long, and one foot wide. This box has no mechanism for locking. It has stone hinges. Inside, a curved scope crafted of ruby and bronze and a bronze cone listening device.
 
 ##### 4a. Guest Servant Quarters
+What was once a guest quarters for servants of visiting noble has been converted into a church-like chamber, including an altar, kneel sheets, and many lit and unlit candles.
+
+**Altar.** A large altar composed of disassembled stone beds takes up much of the eastern half of the room. A lectern stands on its frontern center, facing out towards the many **Kneel Sheets** and the **Candles** at the back of the room.
+
+**Kneel Sheets.** Fifteen blankets of linen and furs have been placed in front of the altar, leaving two aisles between the three rows heading toward the altar.
+
+**Candles.** Resting in slotted stone posts are many dozens of beeswax candles. About half are currently lit.
+
+**Wall Detail.**
+
 ##### 4b. Servant's Hall to the King's Common Room
 This hallway connects the **King's Common Room** (3a) and the **Supply Overflow** (5) room. **Bag Holding** (4c) is on the hall's turn.
 
@@ -82,9 +96,9 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 
 ##### 6b. Partmaking B
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
-- **Anvil.**
-- **Bellows.**
-- **Forge.**
+- **Anvil.** The anvil is composed mostly of stone, but is cored with bronze rods and a thick bronze plating on its working faces.
+- **Bellows.** The bellows is composed of an iron frame and a tan leather bag to contain and push the air into the forge.
+- **Forge.** The forge is a deep bed of lit cha
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
 
