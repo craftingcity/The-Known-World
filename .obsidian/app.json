@@ -137,5 +137,6 @@
     "thieves",
     "thermite",
     "caltrops"
-  ]
+  ],
+  "legacyEditor": true
 }

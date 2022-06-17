@@ -6,7 +6,7 @@
       {
         "id": "8e422a66b8f99d95",
         "type": "leaf",
-        "dimension": 46.75166970248937,
+        "dimension": 23.37583485124469,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +16,21 @@
         }
       },
       {
+        "id": "d005268d4cda0bdf",
+        "type": "leaf",
+        "dimension": 23.37583485124469,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "9eccac4d1ebfd5b9",
         "type": "leaf",
-        "dimension": 19.91499696417729,
+        "dimension": 19.914996964177295,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +42,7 @@
       {
         "id": "7aa16b4298bb6e8f",
         "type": "leaf",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "state": {
           "type": "image",
           "state": {
@@ -148,6 +160,7 @@
   "active": "8e422a66b8f99d95",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guilds.md",
@@ -155,7 +168,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
     "MEDIA/MAPS/DUNG/KKHell - 2_Line.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix D; Index of Messages.md",
-    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix D; Index of Messages.md"
   ]
 }

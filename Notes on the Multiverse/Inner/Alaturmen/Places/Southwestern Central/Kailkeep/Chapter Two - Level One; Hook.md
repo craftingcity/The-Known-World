@@ -11,17 +11,16 @@ Unusually Large Rats are bred by the Loyalists who work this Level. Some of thes
 The False Allure is very stagnant. Any wandering encounters would be composed of loose rat or moving and working retired loyalists.
 
 #### Exploring this Level
-In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical place for you to attach Kailkeep to your setting, or add your own content, if you'd like. In any case, these places need not exist if this is sounds like more work than its work
+In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical place for you to attach Kailkeep to your setting, or add your own content, if you'd like. In any case, these places need not exist if this is sounds like more work than worth to you (and call your union rep., please).
 
 ##### 1a. Guest Stairs
+A twenty five foot square room contains an ornate staircase leading from one of the many surface level entrances to Kailkeep. It has only one other point of egress, a damaged wooden door to the west.
 
-**Egress.**
 **Staircase.**
 **Wall Detail.**
+**Secret Door.**
 
 ##### 1b. Preparation Room 
-
-
 **Egress.**
 **Furniture.**
 
@@ -29,6 +28,8 @@ In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical pla
 **DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
 
 ##### 2a. Hall of Departure
+**Egress.**
+**Worn Carpet.**
 
 ##### 2b. Entrance Hall
 
@@ -61,6 +62,8 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 **Weird Machine.** A large stone machine stands 3' tall 2' wide against the southern wall of this room. It's center is hollow, and the cylinder inside can be accessed by a compartment in the top of the machine as well as three large doors in the front that compose the machine's frontern wall. On its left wall, a stone button is painted orange. When this button is pressed, alchemical thermite alights and quickly heats the internal chamber of the machine.
 
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
+
+**Secret Door.**
 
 ##### 6b. Partmaking B
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
