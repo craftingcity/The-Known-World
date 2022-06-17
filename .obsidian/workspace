@@ -6,7 +6,7 @@
       {
         "id": "8e422a66b8f99d95",
         "type": "leaf",
-        "dimension": 23.37583485124469,
+        "dimension": 41.95506982392228,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,33 +16,39 @@
         }
       },
       {
-        "id": "d005268d4cda0bdf",
-        "type": "leaf",
-        "dimension": 23.37583485124469,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
-            "mode": "source"
+        "id": "8607ac1c7f68d38a",
+        "type": "split",
+        "dimension": 26.04735883424408,
+        "children": [
+          {
+            "id": "d005268d4cda0bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "9eccac4d1ebfd5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "9eccac4d1ebfd5b9",
-        "type": "leaf",
-        "dimension": 19.914996964177295,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "7aa16b4298bb6e8f",
         "type": "leaf",
-        "dimension": 33.333333333333336,
+        "dimension": 31.997571341833638,
         "state": {
           "type": "image",
           "state": {

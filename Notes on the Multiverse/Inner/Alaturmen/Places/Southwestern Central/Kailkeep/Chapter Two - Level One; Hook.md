@@ -2,7 +2,7 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
+Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability (see your favorite Injury Table, take two or three) – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
@@ -14,13 +14,15 @@ The False Allure is very stagnant. Any wandering encounters would be composed of
 In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical place for you to attach Kailkeep to your setting, or add your own content, if you'd like. In any case, these places need not exist if this is sounds like more work than worth to you (and call your union rep., please).
 
 ##### 1a. Guest Stairs
-A twenty five foot square room contains an ornate staircase leading from one of the many surface level entrances to Kailkeep. It has only one other point of egress, a damaged wooden door to the west.
+A twenty-five foot square room contains an ornate staircase leading from one of the many surface level entrances to Kailkeep. It has only one other point of egress, a damaged wooden door to the west.
 
 **Staircase.**
 **Wall Detail.**
 **Secret Door.**
 
 ##### 1b. Preparation Room 
+Once a room for final preparations by people before entering the common room before their king, now a alarm signal for the occupants of this place. 
+
 **Egress.**
 **Furniture.**
 
@@ -28,6 +30,7 @@ A twenty five foot square room contains an ornate staircase leading from one of 
 **DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
 
 ##### 2a. Hall of Departure
+This is the point at which servants would depart from their masters and join the forces of their host the King.
 **Egress.**
 **Worn Carpet.**
 
@@ -54,7 +57,11 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 
 ##### 4a. Guest Servant Quarters
 ##### 4b. Servant's Hall to the King's Common Room
+This hallway connects the *King's Common Room* () and 
+
 ##### 4c. Bag Holding
+What was once meant for noble luggage is now used to store the personal items of the Inhabitants of this area.
+
 ##### 5. Supply Overflow
 ##### 6a. Partmaking A
 **Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
@@ -80,8 +87,7 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 
 ##### 8a. Product Examination and Export
 **Examination Table.**
-**Storage Shelves.**
-**Valuables.**
+**Shelves.**
 **Ko-Bolted Door.**
 
 ##### 8b. Hallway with Stairs
@@ -90,7 +96,7 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 ##### 9a. Fine Production
 **Egress.** Two creaky wooden doors lead west, the northern of which leads to the **Hallway of Manual** (9b), and the southern to the **Hallway with Stairs** (8b). A 6' arch leads north, to the **Hallway and Dry Feed Storage** (9c).
 
-**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. Three *goblin* sit and work at the large table in this southern half of the room, chatting quietly among themselves.
+**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. A large stone work-table and three stools take most of the space in the southern half of the room. Three *goblin* sit and work at the large table in this southern half of the room, chatting quietly among themselves. There are some stores of 1lb gold bars and uncut ruby, emerald, and sapphire (perhaps 2d6-1 each?).
 
 **Lone Chair.** A lone stone stool backed against the wall creates a simple chair. Worn furs and cloths lay on the seat. Atop the seat, a *goblin* sits, crossbow in hand, fast asleep. A quiver of six steel bolts leans against the legs of the stool.
 
@@ -149,8 +155,13 @@ Other than the *Large Shelves*, this room bares no defining features.
 ##### 23. Minor Storage
 **Crates.**
 ##### 24. Major Storage
-**Tool Rack.**
-**Crates.**
+**Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock.
+
+**Crates.** Four-foot cube crates of iron store many life-goods, such as rope, leathers, linen, feather, glass, and many other forms of raw material.
+
+Should your adventurers wish to gather all of the items in these crates, they will find 
+
+**Shelves.** Stacked upon shelves are many hemp and linen bags of food goods (see *Dry Storage* for more details), as well as many .
 ##### 25. Servant Preparation Chamber
 **Wardrobes.**
 ##### 26a. Rough Barracks
