@@ -57,12 +57,20 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 
 ##### 4a. Guest Servant Quarters
 ##### 4b. Servant's Hall to the King's Common Room
-This hallway connects the *King's Common Room* () and 
+This hallway connects the **King's Common Room** (3a) and the **Supply Overflow** (5) room. **Bag Holding** (4c) is on the hall's turn.
 
 ##### 4c. Bag Holding
 What was once meant for noble luggage is now used to store the personal items of the Inhabitants of this area.
 
+**Shelves.** Thin shelves hold small bags of leather (about the size of a modern day "mini-backpack") in slotted stone compartmented shelves. 
+
+Inside each of these bags are a half-eaten ration and some small collections of keepsakes; small charcoal drawings, beautiful stones, flaked tools, carved ivory figurines and dice, or other small stuff, both in value and size. No-one would appraise any individual item taken from here to be worth more than a few copper, excluding the rations, of course.
+
 ##### 5. Supply Overflow
+**Egress.** On the north and south walls, on their most eastern points, a must 
+
+**Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
+
 ##### 6a. Partmaking A
 **Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
 
@@ -91,7 +99,7 @@ What was once meant for noble luggage is now used to store the personal items of
 **Ko-Bolted Door.**
 
 ##### 8b. Hallway with Stairs
-This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards ().
+**Hallway.** This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards to the ###### room ().
 
 ##### 9a. Fine Production
 **Egress.** Two creaky wooden doors lead west, the northern of which leads to the **Hallway of Manual** (9b), and the southern to the **Hallway with Stairs** (8b). A 6' arch leads north, to the **Hallway and Dry Feed Storage** (9c).
@@ -152,16 +160,18 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Spice Rack.**
 ##### 22. Staircase
 **Staircase.**
+**Wall Detail.**
 ##### 23. Minor Storage
-**Crates.**
+**Crates.** Pushed against one another and stacked atop eachother, many crates containing many raw goods (see **Major Storage** for details).
 ##### 24. Major Storage
-**Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock.
+**Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock, although most of the pegs are empty - perhaps they are being used or held elsewhere?
 
-**Crates.** Four-foot cube crates of iron store many life-goods, such as rope, leathers, linen, feather, glass, and many other forms of raw material.
+**Crates.** Four-foot cube crates of iron store many life-goods, such as pottery, rope, leathers, linen, as well as many forms of raw material like feathers, glass, and wrapped pounds of clay.
 
-Should your adventurers wish to gather all of the items in these crates, they will find 
+Should your adventurers wish to gather all of the items in these crates, they will find way too much to carry, but almost any basic material they could be looking for sans anything made of wood.
 
-**Shelves.** Stacked upon shelves are many hemp and linen bags of food goods (see *Dry Storage* for more details), as well as many .
+**Shelves.** Stacked upon shelves are many hemp and linen bags of food goods (see *Dry Storage* for more details), as well as many folded linen blankets and stacked pillows.
+
 ##### 25. Servant Preparation Chamber
 **Wardrobes.**
 ##### 26a. Rough Barracks
