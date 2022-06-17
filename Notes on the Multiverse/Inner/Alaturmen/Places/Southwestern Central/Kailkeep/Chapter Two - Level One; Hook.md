@@ -4,7 +4,9 @@
 ##### Injured or Retired Loyalists
 Groups of goblin and guand work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
 
-Due to their injuries, the Loyalists here will call for an alert before grouping in the Armory (13) and sending their strongest to hold the Spiked Defenses (15) and Primary Production (7) rooms. Any Guand that still have their abilities or Goblin that have both legs and at least one arm would be among those fighters.
+All of the loyalists on this level keep a side-arm and an alert horn (generally made of ivory or iron) with them, such as a dagger or a small metal club, but the higher-grade equipment is exported or kept in the **Armory** (13) when it is not in use.
+
+Due to their injuries, the Loyalists here will call for an alert before grouping in the **Armory** (13) and sending their strongest to hold the **Spiked Defenses** (15) and **Primary Production** (7) rooms. Any Guand that still have their abilities or Goblin that have both legs and at least one arm would be among those fighters.
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
@@ -45,12 +47,31 @@ This is the point at which servants would depart from their masters and join the
 ##### 2b. Entrance Hall
 This is the entrance hall to the common room. Minor nobles and the common folk would congregate through this hall to listen to the King of this place, supposedly.
 
-**Wall Detail.**
+**Egress.** A 7' arch fills the southern entryway, leading into the **Hall of Departure** (2a), and another greater 12' arch leads into the **King's Common Room** (3a).
 
-**Worn Carpet.** A red dyed carpet stretch
+**Wall Detail.** Along the eastern and western walls, dwarven-esq art displays many scenes of work, revelry, arguing, and eventually, it becomes clear that one becomes king, as he is crowned in a throne with many people bowing to him. he begins to grow old and sick as the people continue to work and revel, and they do what they can to make him happy before he leaves the people behind, taking only five others with him.
+
+In very basic [[Dwarven (language)|Dwarven]] runes enscribed underneath each scene, a "story" is told;
+
+> "before, six siblings 
+> came here made home
+> created family, grow old
+> we write their stories.
+> mined the mountain
+> with iron and gold
+> with deep above jewels
+> fine craft done here.
+> large home, many family
+> one living sibling; king
+> happy keep him
+> short life he live
+> honor memories of 
+> all sibling-grandparents"
+
+**Worn Carpet.** A red dyed carpet stretches from the southern arch and turns northeast in the center of this room, tapering off in strands before it can reach the **King's Common Room** (3a).
 
 ##### 3a. King's Common Room
-This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen. This room is occupied by two *goblin* working the loom and three old *goblin* conversing and sitting with two *guand* in the southeast corner of the room.
+This is the room to which the King of this place would make his speeches and the Common folk would stand or sit and listen. This room is occupied by two *goblin* working the loom and three old *goblin* conversing and sitting with two *guand* in the southeast corner of the room. A *goblin* with a crossbow loaded in hand sits on a stool fifteen feet southeast from the arch that leads to the **Entrance Hall** (2b). 
 
 **Egress.** The doors described herein are all exactly the same. These doors are made of {an arid wood}, fine once, now rotted and worn with old age. Once, they held hinges of some metal, but now there only is a hole in the wood now. All of these doors are unmarked, other than their dwarven-esq filigree.
 
