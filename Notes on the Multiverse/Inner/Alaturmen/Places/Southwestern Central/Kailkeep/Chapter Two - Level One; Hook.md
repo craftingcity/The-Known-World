@@ -4,6 +4,8 @@
 ##### Injured or Retired Loyalists
 Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability (see your favorite Injury Table, take two or three) – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
 
+Due to their injuries, the Loyalists here will call for an alert before grouping in the Armory (13) and sending their strongest to hold the Spiked Defenses (15) and Primary Production (7) rooms. Any Guand that still have their abilities or Goblin that have both legs and at least one arm would be among those fighters.
+
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
 
@@ -11,6 +13,7 @@ Unusually Large Rats are bred by the Loyalists who work this Level. Some of thes
 The False Allure is very stagnant. Any wandering encounters would be composed of loose rat or moving and working retired loyalists.
 
 #### Exploring this Level
+##### Elsewhere
 In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical place for you to attach Kailkeep to your setting, or add your own content, if you'd like. In any case, these places need not exist if this is sounds like more work than worth to you (and call your union rep., please).
 
 ##### 1a. Guest Stairs
@@ -18,7 +21,7 @@ A twenty-five foot square room contains an ornate staircase leading from one of 
 
 **Staircase.**
 **Wall Detail.**
-**Secret Door.**
+**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a *Ko-Bolted Door* and the *Secret Door* that 
 
 ##### 1b. Preparation Room 
 Once a room for final preparations by people before entering the common room before their king, now a alarm signal for the occupants of this place. 
@@ -98,12 +101,12 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
 - **Anvil.** The anvil is composed mostly of stone, but is cored with bronze rods and a thick bronze plating on its working faces.
 - **Bellows.** The bellows is composed of an iron frame and a tan leather bag to contain and push the air into the forge.
-- **Forge.** The forge is a deep bed of lit cha
+- **Forge.** The forge is a deep bed of lit charcoal held back by a five inch thick wall of stone. At the base of the Forge, the Bellows is attatched, and the anvil is on a raised platform closeby.
 
-**Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
+**Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, 1lb blocks of iron sit waiting to be worked.
 
 ##### 7. Primary Production
-**Egress.**
+**Egress.** Two southern doors lead to the **Partmaking** rooms (6a & 6b), one eastern door opens to the **Hallway of Manual** (9b).
 **Workshop.** 
 **Valuables.**
 
@@ -154,17 +157,22 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
-##### 13. 
-##### 14. Storage Hallway
+##### 13. Armory
+**Iron Cabinets.**
+**Racks.**
+**.**
 
-##### 15. 
+##### 14. Storage Hallway
+##### 15. Spiked Defenses
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 ##### 16b. Quick Access Food Storage and Hallway
-**Hallway.**
-**Food Cart.**
+**Hallway.** This hallway connects the **Cold Storage** room and the **Supplementary Kitchen**, as well as serving for a good location to store the *Food Cart*.
+
+**Food Cart.** A thin and tall wheeled stone cart contains many ceramic bottles of sauce and oil and iron bins of ingredients.
+
 ##### 17. Cold Storage Room
 **Meat Hooks.**
 **Shelves.**
