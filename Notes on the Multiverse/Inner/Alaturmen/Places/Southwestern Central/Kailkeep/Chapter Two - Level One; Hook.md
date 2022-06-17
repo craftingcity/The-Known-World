@@ -26,7 +26,6 @@ In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical pla
 **Furniture.**
 
 ##### 1c. Hallway to Elsewhere
-
 **DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
 
 ##### 2a. Hall of Departure
@@ -105,7 +104,7 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
 
-**Shelves.** Shelves hold multiple latticed stone baskets. They are each hold iron, silver, gold, and rare gems. 
+**Shelves.** Shelves hold multiple latticed stone baskets that are each three feet cubes with open tops. They are each labeled on the bases of each of the four sides of the basket in [[Draconic]] for iron, silver, gold, ruby, emerald, and sapphire. The baskets of marked of iron, gold, and each of the gems are empty. The basket marked for silver is 2/3rds full of 1lb silver bars.
 
 ##### 10b. Cooling Chamber
 **Stone Coolers.** Six stone boxes with thin slits in their lid contain large blocks of ice and slush. These small three foot cubes of stone and ice cool this room and the adjoined (17) to temperatures that fluctuate around thirty three degrees.
@@ -124,11 +123,13 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
-##### 13. Sauce Preparation
+##### 13. 
 ##### 14. Storage Hallway
-##### 15. "Saucing" Chambers
+##### 15. 
 ##### 16a. Supplementary Kitchen
 ##### 16b. Quick Access Food Storage and Hallway
+**Hallway.**
+**Food Cart.**
 ##### 17. Cold Storage Room
 ##### 18. Greater Kitchen
 ##### 22. Staircase
@@ -136,7 +137,15 @@ Other than the *Large Shelves*, this room bares no defining features.
 ##### 23. Minor Storage
 ##### 24. Major Storage
 ##### 25. Servant Preparation Chamber
-##### 26a. Servant's Barracks
-##### 26b. Enforcer's Barracks
+**.**
+##### 26a. Rough Barracks
+**Bunks.**
+##### 26b. Fine Barracks
+**Beds.**
 ##### 26c. Hallway to Elsewhere
+**DM's Choice.** This does not have to exist. If Elsewhere doesnt exist, neither do its portals.
+
 ##### 26d. Supply Import
+**Ko-Bolted Door.**
+**Platform.**
+**Shelves.**
