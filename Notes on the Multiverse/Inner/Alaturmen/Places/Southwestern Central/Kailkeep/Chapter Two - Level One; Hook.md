@@ -88,9 +88,9 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 ##### 9a. Fine Production
 **Egress.** Two creaky wooden doors lead west, the northern of which leads to the **Hallway of Manual** (9b), and the southern to the **Hallway with Stairs** (8b). A 6' arch leads north, to the **Hallway and Dry Feed Storage** (9c).
 
-**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. Three *goblin* sit and work at the large table in this southern half of the room.
+**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. Three *goblin* sit and work at the large table in this southern half of the room, chatting quietly among themselves.
 
-**Lone Chair.** A lone stone stool backed against the wall creates a simple chair. Worn furs and cloths lay on the seat. Atop the seat, a *goblin* sits, crossbow in hand, fast asleep. A quiver of six steel bolts leans 
+**Lone Chair.** A lone stone stool backed against the wall creates a simple chair. Worn furs and cloths lay on the seat. Atop the seat, a *goblin* sits, crossbow in hand, fast asleep. A quiver of six steel bolts leans against the legs of the stool.
 
 ##### 9b. Hallway of Manual
 **Hallway.** This hallway connects the **Primary Production** room with the **Fine Production** room, and taking a sharp left sends you through the arch towards the **Supplies Import** room.
@@ -104,13 +104,16 @@ This hallway links the **Production Examination and Export** (8a) and **Fine Pro
 
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
-**Shelves.** Shelves of latticed stone baskets hold iron, gold, and rare gems, as well as.
+
+**Shelves.** Shelves hold multiple latticed stone baskets. They are each hold iron, silver, gold, and rare gems. 
 
 ##### 10b. Cooling Chamber
-**Thin Ducts.**
-**Ice Chambers.**
+**Stone Coolers.** Six stone boxes with thin slits in their lid contain large blocks of ice and slush. These small three foot cubes of stone and ice cool this room and the adjoined (17) to temperatures that fluctuate around thirty three degrees.
+
+**Thin Ducts.** In the northern wall of the chamber, thin slits in the rock form vents between the adjoining chamber.
+
 ##### 11. Dry Storage
-Other than the *Large Shelves* in this room, it bares no defining features.
+Other than the *Large Shelves*, this room bares no defining features.
 
 **Large Shelves.** Shelves of hemp and linen bags labeled by black runes in [[Draconic]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, beans, flour, sugar, powdered meat, and onions are stacked on these shelves, and one could find 1d6-2 of each if they were to spend the time searching every shelf.
 
