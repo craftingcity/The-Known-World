@@ -37,9 +37,9 @@ This is the room to which the King of this place would make his speeches and the
 
 **Egress.** The doors described herein are all exactly the same. These doors are made of {an arid wood}, fine once, now rotted and worn with old age. Once, they held hinges of some metal, but now there only is a hole in the wood now. All of these doors are unmarked, other than their dwarven-esq filigree.
 
-In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall]]. In the southern jutty-stone-bit's western wall, a door leads to the [[#4b Servant's Hall to the King's Common Room]]. The northwestern door leads to [[]]. The northeastern door leads to [[]]. The eastern door leads to [[]].
+In the southeast, the corner forms an arch that egresses the (2b). In the southern jutty-stone-bit's western wall, a door leads to the (4b). The northwestern door leads to (25). The northeastern door leads to (22). The eastern door leads to (15).
 
-**Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands.
+**Furniture.** Some 30 stools made stone and wrapped in rotting furs and cloths are pushed to the edges of this chamber. In the center of this room, what used to be a nice circular rug is now rotted and ripped to strands. Four hand looms sit together in the center of this chamber.
 
 **Chandelier.** High above, in the ceiling of the floor above, a chandelier sheds down a dim warm light.
 
@@ -140,6 +140,7 @@ Other than the *Large Shelves*, this room bares no defining features.
 ##### 18. Greater Kitchen
 **Hearth.**
 **Preparation Tables.**
+**Spice Rack.**
 ##### 22. Staircase
 **Staircase.**
 ##### 23. Minor Storage
