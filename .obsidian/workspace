@@ -4,11 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "14bfa791442c37c3",
+        "id": "8e422a66b8f99d95",
         "type": "leaf",
+        "dimension": 46.75166970248937,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9eccac4d1ebfd5b9",
+        "type": "leaf",
+        "dimension": 19.91499696417729,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7aa16b4298bb6e8f",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
+          }
         }
       }
     ],
@@ -49,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
+    "width": 411.5,
     "collapsed": true
   },
   "right": {
@@ -66,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +121,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "562ad8174e6741cf",
+            "id": "b38d88444b36c7fc",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md"
+              }
             }
           }
         ],
@@ -114,17 +145,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "14bfa791442c37c3",
+  "active": "8e422a66b8f99d95",
   "lastOpenFiles": [
-    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guilds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
     "MEDIA/MAPS/DUNG/KKHell - 2_Line.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Appendix D; Index of Messages.md",
+    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
   ]
 }

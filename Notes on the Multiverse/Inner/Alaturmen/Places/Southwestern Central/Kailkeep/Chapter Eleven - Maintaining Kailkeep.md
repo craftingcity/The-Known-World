@@ -6,7 +6,7 @@ Running the game may seem a difficult task on its own to some of our newest recr
 ## Examining the Existing Levels of the Hells
 ### False Allure
 #### Level One
-- Kobolds of Kailkeep pay these people in food and supplies to produce weapons and ammo and to exchange for the next payment.
+- Kobolds of Kailkeep pay these retirees in food and supplies to produce weapons and ammo in exchange for the next payment.
 - Partmaking B forges the metals given to them by the Kobolds into the lengths and shapes required for Partmaking A to create the finished parts and for Fine to create their finished parts.
 - Primary takes these Partmaking A's products and creates finished weaponry, which go to Examination, and then Export.
 - Fine takes the material from Production B and creates jewelry, sending them to Examination and then Export.

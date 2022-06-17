@@ -86,9 +86,11 @@ In the southeast, the corner forms an arch that egresses the [[#2b Entrance Hall
 This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards ().
 
 ##### 9a. Fine Production
-**Egress.**
-**Fine Workshop.**
-**Lone Chair.**
+**Egress.** Two creaky wooden doors lead west, the northern of which leads to the **Hallway of Manual** (9b), and the southern to the **Hallway with Stairs** (8b). A 6' arch leads north, to the **Hallway and Dry Feed Storage** (9c).
+
+**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. Three *goblin* sit and work at the large table in this southern half of the room.
+
+**Lone Chair.** A lone stone stool backed against the wall creates a simple chair. Worn furs and cloths lay on the seat. Atop the seat, a *goblin* sits, crossbow in hand, fast asleep. A quiver of six steel bolts leans 
 
 ##### 9b. Hallway of Manual
 **Hallway.** This hallway connects the **Primary Production** room with the **Fine Production** room, and taking a sharp left sends you through the arch towards the **Supplies Import** room.
