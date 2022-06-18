@@ -85,7 +85,7 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 **Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works the exact way yours does, too, weirdly enough.
 
 ##### 3c. Eyes and Ears of the King
-**Secret Door.** A secret stone door sits flush with the wall of the **King's Common Chamber** (3a). A square hole about four feet from the floor is cov
+**Secret Door.** A secret stone door sits flush with the wall of the **King's Common Chamber** (3a). A square hole about four feet from the floor is covered in a painted mesh that carefully camouflages the peep-hole this door contains.
 
 **Stone Box-stool.** Beyond the door, a small chamber of 5 by 10 feet. A box made of stone and covered by a long rotten pile of blankets stands alone in the center of this chamber. It is two feet tall, three feet long, and one foot wide. This box has no mechanism for locking. It has stone hinges. Inside, a curved scope crafted of ruby and bronze and a bronze cone listening device.
 
@@ -99,6 +99,20 @@ What was once a guest quarters for servants of visiting noble has been converted
 **Candles.** Resting in slotted stone posts are many dozens of beeswax candles. About half are currently lit.
 
 **Wall Detail.** A long sequence of snapshot-and-caption dwarven-esq art pieces span the perimeter of this room five feet above the ground. The art shows scenes of a dwarf coordinating mining efforts throughout the mountain and dealing with the stresses of such an expedition, including monsters, explosions, and side character death. Our protagonist is lost after they heroically save many others by lifting up the ceiling during a cave in, and having their story honored in this room.
+
+In very basic [[Dwarven (language)|Dwarven]] runes enscribed underneath each scene, a "story" is told;
+
+> "fast digger
+> strong bodied
+> the quickest of us
+> made more than any
+> fought for us
+> saved many lives
+> gave too many speeches
+> for their own good
+> saved many with death
+> holding heavy cave
+> forever"
 
 ##### 4b. Servant's Hall to the King's Common Room
 This hallway connects the **King's Common Room** (3a) and the **Supply Overflow** (5) room. **Bag Holding** (4c) is on the hall's turn.
@@ -128,10 +142,10 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 
 
 ##### 6b. Partmaking B
-**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attached into the bottom of the pit of black rock. 
 - **Anvil.** The anvil is composed mostly of stone, but is cored with bronze rods and a thick bronze plating on its working faces.
 - **Bellows.** The bellows is composed of an iron frame and a tan leather bag to contain and push the air into the forge.
-- **Forge.** The forge is a deep bed of lit charcoal held back by a five inch thick wall of stone. At the base of the Forge, the Bellows is attatched, and the anvil is on a raised platform closeby.
+- **Forge.** The forge is a deep bed of lit charcoal held back by a five inch thick wall of stone. At the base of the Forge, the Bellows is attached, and the anvil is on a raised platform close by.
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, 1lb blocks of iron sit waiting to be worked.
 
@@ -153,7 +167,7 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 9a. Fine Production
 **Egress.** Two creaky wooden doors lead west, the northern of which leads to the **Hallway of Manual** (9b), and the southern to the **Hallway with Stairs** (8b). A 6' arch leads north, to the **Hallway and Dry Feed Storage** (9c).
 
-**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. A large stone work-table and three stools take most of the space in the southern half of the room. Three *goblin* sit and work at the large table in this southern half of the room, chatting quietly among themselves. There are some stores of 1lb gold bars and uncut ruby, emerald, and sapphire (perhaps 2d6-1 each?).
+**Fine Workshop.** This space is equipped with table, stool, and tools for three people to work together to cut gems and create fine jewelry of gold and silver. A large stone work-table and three stools take most of the space in the southern half of the room. Three *goblin* sit and work at the large table in this southern half of the room, chatting quietly among themselves. There are some stores of 1lb gold bars and large uncut ruby, emerald, and sapphire (perhaps 2d6-1 each?).
 
 **Lone Chair.** A lone stone stool backed against the wall creates a simple chair. Worn furs and cloths lay on the seat. Atop the seat, a *goblin* sits, crossbow in hand, fast asleep. A quiver of six steel bolts leans against the legs of the stool.
 
@@ -190,12 +204,14 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
 ##### 13. Armory
-**Iron Cabinets.**
-**Racks.**
-**.**
+**Iron Cabinets.** Collected into quivers of the appropriate sizes, bundles of 20 bolts and arrows of steel
+
+**Racks.** In iron weapon racks, many weapons are heald. Sharpened iron poles form spears, longswords of forged iron, war-picks of the same. 
 
 ##### 14. Storage Hallway
 ##### 15. Spiked Defenses
+**Stationary Spikes.** Large sharpened iron spike-walls line the south-west and northern walls. Anyone pushed into these spikes must make a Dexterity saving throw to take half damage. Those who failed take a full 3d6 piercing damage.
+
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
