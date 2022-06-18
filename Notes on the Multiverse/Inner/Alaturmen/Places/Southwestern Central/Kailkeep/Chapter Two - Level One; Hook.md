@@ -216,15 +216,15 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
-
+`1	 	`																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
-##### 16b. Quick Access Food Storage and Hallway
+##### 16b. Quick Access Food Storage a	`1																																											nd Hallway
 **Hallway.** This hallway connects the **Cold Storage** room and the **Supplementary Kitchen**, as well as serving for a good location to store the *Food Cart*.
 
 **Food Cart.** A thin and tall wheeled stone cart contains many ceramic bottles of sauce and oil and iron bins of ingredients.
 
-##### 17. Cold Storage Room
+##### 17. Cold Storage Room 
 **Meat Hooks.** Many large dressed corpses rest on hooks hanging from mounts in the ceiling in this room. There are over 400 pounds of meat is held frozen in this room. Of what type, that is not hard to determine; there are three humanoid corpses for every two large animal corpses (such as cattle, horses, camel, large goat or sheep).
 
 **Butcher's Table.** In the center of this room, there is a large stone table that holds a thick wooden board that has been cut into thousands of times by the cleaver that now rests in the wood of the table again.
