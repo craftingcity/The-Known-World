@@ -203,7 +203,7 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **In-Wall Tank.** Extending out from where the southern and eastern walls would meet is a 2.5' diameter stone barrel-tank built out from the wall, four and a half feet above the ground. It's height reaches the ceiling. At the barrels' edge, a spigot rests, closed. A thin window of transparent white stone extends upward from the lowest point of the barrel wall, displaying the water inside the barrel. It is currently 3/4ths full (15 gallons) of clean, potable water.
 
-**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
+**Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks). 
 
 ##### 13. Armory
 **Iron Cabinets.** Collected into quivers of the appropriate sizes, bundles of 20 bolts and arrows of iron are stored here, long with their bow and crossbow counterparts. In total, 4 sets are stored in these two cabinets.
