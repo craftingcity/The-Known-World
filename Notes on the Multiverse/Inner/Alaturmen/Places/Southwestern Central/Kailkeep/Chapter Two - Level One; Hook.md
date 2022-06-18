@@ -145,7 +145,7 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attached into the bottom of the pit of black rock. 
 - **Anvil.** The anvil is composed mostly of stone, but is cored with bronze rods and a thick bronze plating on its working faces.
 - **Bellows.** The bellows is composed of an iron frame and a tan leather bag to contain and push the air into the forge.
-- **Forge.** The forge is a deep bed of lit charcoal held back by a five inch thick wall of stone. At the base of the Forge, the Bellows is attached, and the anvil is on a raised platform close by.
+- **Forge.** The forge is a deep bed of lit charcoal held back by a five-inch thick wall of stone. At the base of the Forge, the Bellows is attached, and the anvil is on a raised platform close by.
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, 1lb blocks of iron sit waiting to be worked.
 
@@ -159,8 +159,9 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 8a. Product Examination and Export
 **Examination Table.** A table in the center of this room bears a grand stone chair, adorned in linen blankets and furs. Resting on the table is one huge piece of worn leather and a large series of magnifying lenses.
 
-**Shelves.** Many bundles of weapons 
-**Ko-Bolted Door.**
+**Shelves.** Many bundles of weapons wrapped in large leathers are stacked on the shelves here. Quivers of iron arrows and bolts rest hanging from the poles of the iron shelves.
+
+**Ko-Bolted Door.** A large door composed of adamentine takes up only a small doorway in the southern wall of this room. It is embossed with a small three-clawed hand-print and deeper with a draconic rune reading "one".
 
 ##### 8b. Hallway with Stairs
 **Hallway.** This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards to the ###### room ().
@@ -180,7 +181,7 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 9c. Hallway and Dry Feed Storage
 **Hallway.** This hallway connects the **Fine Production** room (9a) and the **Supplies Import** room (10a). Directly opposing the southern door of the **Supplies Import**, a twenty-foot-long rotating storage rack is attached to the ceiling by thick wire.
 
-**Large Storage Track.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump mixtures of dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (less than two pounds of each foodstuff, mixed at about 50:50 ratio, boil with spice and bonuses for six to ten minutes, serve with bread and cheese).
+**Large Storage Rack.** A large metal rack on the ceiling hangs dozens of hooks below it, on each of which is a leather bag, plump mixtures of dry mushroom and beans. If your adventurers stop and collect each and every bag, they will find 36 + 2d4 leather bags, each of which contain one and one-half day's "rations" (less than two pounds of each foodstuff, mixed at about 50:50 ratio, boil with spice and bonuses for six to ten minutes, serve with bread and cheese).
 
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
@@ -205,9 +206,9 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
 ##### 13. Armory
-**Iron Cabinets.** Collected into quivers of the appropriate sizes, bundles of 20 bolts and arrows of steel
+**Iron Cabinets.** Collected into quivers of the appropriate sizes, bundles of 20 bolts and arrows of iron are stored here, long with their bow and crossbow counterparts. In total, 4 sets are stored in these two cabinets.
 
-**Racks.** In iron weapon racks, many weapons are heald. Sharpened iron poles form spears, longswords of forged iron, war-picks of the same. 
+**Racks.** In iron weapon racks, many weapons are held. Sharpened iron poles form spears, longswords of forged iron, war-picks of the same. 
 
 ##### 14. Storage Hallway
 ##### 15. Spiked Defenses
@@ -217,18 +218,26 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
+
 ##### 16b. Quick Access Food Storage and Hallway
 **Hallway.** This hallway connects the **Cold Storage** room and the **Supplementary Kitchen**, as well as serving for a good location to store the *Food Cart*.
 
 **Food Cart.** A thin and tall wheeled stone cart contains many ceramic bottles of sauce and oil and iron bins of ingredients.
 
 ##### 17. Cold Storage Room
-**Meat Hooks.**
-**Shelves.**
+**Meat Hooks.** Many large dressed corpses rest on hooks hanging from mounts in the ceiling in this room. There are over 400 pounds of meat is held frozen in this room. Of what type, that is not hard to determine; there are three humanoid corpses for every two large animal corpses (such as cattle, horses, camel, large goat or sheep).
+
+**Butcher's Table.** In the center of this room, there is a large stone table that holds a thick wooden board that has been cut into thousands of times by the cleaver that now rests in the wood of the table again.
+
+**Shelves.** Resting on the shelves of this room, there are shoddy iron buckets with ceramic interiors full of frozen blood and organs, such as liver, spleen, and heart, at about a 30:70 ratio.
+
 ##### 18. Greater Kitchen
-**Hearth.**
-**Preparation Tables.**
-**Spice Rack.**
+**Cooking Bed.** A large stone pit of hot coals stands in the center of this room. Hanging above it, many cooking spits, pots, and pans rest above the coals.
+
+**Preparation Tables.** The four stone tables with wooden boards indented flush have been cut upon thousands of times. There are two other stone tables that do not have these boards, and are more commonly used for resting or larger dishes.
+
+**Spice Rack.** Hanging above the preparation tables are thin sk
+
 ##### 22. Staircase
 **Staircase.**
 **Wall Detail.**
