@@ -228,6 +228,7 @@ Should your adventurers wish to gather all of the items in these crates, they wi
 
 ##### 25. Servant Preparation Chamber
 **Wardrobes.**
+
 ##### 26a. Rough Barracks
 **Bunks.**
 ##### 26b. Fine Barracks
