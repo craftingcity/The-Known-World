@@ -236,7 +236,7 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **Preparation Tables.** The four stone tables with wooden boards indented flush have been cut upon thousands of times. There are two other stone tables that do not have these boards, and are more commonly used for resting or larger dishes.
 
-**Spice Rack.** Hanging above the preparation tables are thin sk
+**Spice Rack.** Hanging above the preparation tables are thin spice racks with small ceramic jars resting inside. Each have a dwarven rune that reads one of the following; "salt", "pepper", "cumin", "paprika", "teriyaki mix".
 
 ##### 22. Staircase
 **Staircase.**
