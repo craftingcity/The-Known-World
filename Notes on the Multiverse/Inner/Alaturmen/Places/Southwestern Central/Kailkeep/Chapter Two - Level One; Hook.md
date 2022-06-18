@@ -6,7 +6,7 @@ Groups of goblin and guand work this level of the Hells for the Kobolds of Inner
 
 All of the loyalists on this level keep a side-arm and an alert horn (generally made of ivory or iron) with them, such as a dagger or a small metal club, but the higher-grade equipment is exported or kept in the **Armory** (13) when it is not in use.
 
-Due to their injuries, the Loyalists here will call for an alert before grouping in the **Armory** (13) and sending their strongest to hold the **Spiked Defenses** (15) and **Primary Production** (7) rooms. Any Guand that still have their abilities or Goblin that have both legs and at least one arm would be among those fighters.
+Due to their injuries, the Loyalists here will call for an alert before grouping in the **Armory** (13) and sending their strongest to hold the **Spiked Defenses** (15) and **Primary Production** (7) rooms. 
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
