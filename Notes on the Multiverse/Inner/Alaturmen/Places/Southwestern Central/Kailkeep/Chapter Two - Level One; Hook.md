@@ -21,18 +21,18 @@ In many rooms on this level, "Elsewhere" is mentioned. This is a theoretical pla
 ##### 1a. Guest Stairs
 A twenty-five foot square room contains an ornate staircase leading from one of the many surface level entrances to Kailkeep. It has only one other point of egress, a damaged wooden door to the west.
 
-**Staircase.**
+**Staircase.** The stairs here egress to and from a finely carved tunnel on the surface of the desert leading into the mountain.
 
-**Wall Detail.**
+**Wall Detail.** On the eastern wall of this room, a large mural is embossed into the wall of a dwarven hand shaking a dragon-like claw with three fingers.
 
-**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a **Ko-Bolted Do*or* and the **Secret Door** in the turn of the **Hallway** in the **Partmaking A** room (6a).
+**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a **Ko-Bolted Door** and the **Secret Door** in the turn of the **Hallway** in of **Partmaking A** room (6a).
 
 ##### 1b. Preparation Room 
 Once a room for final preparations by people before entering the common room before their king, now a alarm signal for the occupants of this place. 
 
 **Egress.** A door of thin stone leads east to the **Guest Stairs** (1a) and another leads north to the **Hall of Departure** (2a). A portal to Elsewhere appears on this room's western wall.
 
-**Ruined Furniture.** Ruined tables and stools of stone are pushed into the corners of this room. This was one used for any final preparations before continuing into the "public" of the common room.
+**Ruined Furniture.** Rubbled stone of tables and stools are pushed into the corners of this room. These were one used for any final preparations before continuing into the "public" of the common room.
 
 ##### 1c. Hallway to Elsewhere
 **DM's Choice.** This does not have to exist. If Elsewhere doesn't exist, neither do its portals.
@@ -152,13 +152,14 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 7. Primary Production
 **Egress.** Two southern doors lead to the **Partmaking** rooms (6a & 6b), one eastern door opens to the **Hallway of Manual** (9b).
 
-**Workshop.** The large space here is equipped with large tables and shelves of tools and materials. The space here is occupied by 14 *goblin* and 4 *guand* working together to create weapons and ammunition from the parts they have available. Multiple pieces are unfinished in space.
+**Wierd Workshop.** The large space here is equipped with large tables and shelves of wierd tools and materials of iron and a orange powder that has no smell. The space here is occupied by 14 *goblin* and 4 *guand* working together to create weapons and ammunition from the parts they have available using these tools and creating large sparks using their tools to do so. Multiple pieces are unfinished in space.
 
-**Valuables.**
+**Valuables.** 14 finished iron arrows and 4 finished iron bolts rest in quivers at the ends of their assembly area. Two iron longswords and one unassembled battleaxe rest in a large piece of leather at the end of the workshop tables. In total there is 60 + 2d10 pounds of worked iron of many military shapes, should one consider such a thing of valuable.
 
 ##### 8a. Product Examination and Export
-**Examination Table.**
-**Shelves.**
+**Examination Table.** A table in the center of this room bears a grand stone chair, adorned in linen blankets and furs. Resting on the table is one huge piece of worn leather and a large series of magnifying lenses.
+
+**Shelves.** Many bundles of weapons 
 **Ko-Bolted Door.**
 
 ##### 8b. Hallway with Stairs
