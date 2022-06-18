@@ -25,7 +25,7 @@ A twenty-five foot square room contains an ornate staircase leading from one of 
 
 **Wall Detail.**
 
-**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a *Ko-Bolted Door* and the *Secret Door* in the turn of the Hallway in the *Partmaking A* room (6a).
+**Secret Door.** Hehe! I lied! A secret door of thin stone lies flush with the wall, leading to a **Ko-Bolted Do*or* and the **Secret Door** in the turn of the **Hallway** in the **Partmaking A** room (6a).
 
 ##### 1b. Preparation Room 
 Once a room for final preparations by people before entering the common room before their king, now a alarm signal for the occupants of this place. 
@@ -85,7 +85,7 @@ In the southeast, the corner forms an arch that egresses the (2b). In the southe
 **Ducted-Pot.** Its a shitter. But its made of dwarven-esq plumbing and work. It works the exact way yours does, too, weirdly enough.
 
 ##### 3c. Eyes and Ears of the King
-**Secret Door.**
+**Secret Door.** A secret stone door sits flush with the wall of the **King's Common Chamber** (3a). A square hole about four feet from the floor is cov
 
 **Stone Box-stool.** Beyond the door, a small chamber of 5 by 10 feet. A box made of stone and covered by a long rotten pile of blankets stands alone in the center of this chamber. It is two feet tall, three feet long, and one foot wide. This box has no mechanism for locking. It has stone hinges. Inside, a curved scope crafted of ruby and bronze and a bronze cone listening device.
 
@@ -98,7 +98,7 @@ What was once a guest quarters for servants of visiting noble has been converted
 
 **Candles.** Resting in slotted stone posts are many dozens of beeswax candles. About half are currently lit.
 
-**Wall Detail.**
+**Wall Detail.** A long sequence of snapshot-and-caption dwarven-esq art pieces span the perimeter of this room five feet above the ground. The art shows scenes of a dwarf coordinating mining efforts throughout the mountain and dealing with the stresses of such an expedition, including monsters, explosions, and side character death. Our protagonist is lost after they heroically save many others by lifting up the ceiling during a cave in, and having their story honored in this room.
 
 ##### 4b. Servant's Hall to the King's Common Room
 This hallway connects the **King's Common Room** (3a) and the **Supply Overflow** (5) room. **Bag Holding** (4c) is on the hall's turn.
@@ -116,9 +116,9 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
 
 ##### 6a. Partmaking A
-**Hallway.**
+**Hallway.** The hallway in this area connects to the **Primary Production** room (7) as well as the **Supply Overflow** room (5).
 
-**Secret Door.**
+**Secret Door.** In the hallway, flush with the stone, a secret door leads to the **Guest Stairs** (1a) and a *Ko-Bolted Door*.
 
 **Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
 
