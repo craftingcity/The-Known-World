@@ -152,7 +152,7 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 ##### 16b. Quick Access Food Storage and Hallway
 **Hallway.**
-**Food Cart.**
+**Food Cart.**  
 ##### 17. Cold Storage Room
 **Meat Hooks.**
 **Shelves.**
