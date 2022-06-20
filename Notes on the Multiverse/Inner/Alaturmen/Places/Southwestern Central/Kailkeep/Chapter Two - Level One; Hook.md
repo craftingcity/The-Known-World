@@ -149,6 +149,7 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
+
 ##### 16b. Quick Access Food Storage and Hallway
 **Hallway.**
 **Food Cart.**
@@ -160,10 +161,13 @@ Other than the *Large Shelves*, this room bares no defining features.
 **Preparation Tables.**
 **Spice Rack.**
 ##### 22. Staircase
-**Staircase.**
-**Wall Detail.**
+**Staircase.** A staircase of stone leads upwards into the ### room ().
+
+**Wall Detail.** 
+
 ##### 23. Minor Storage
 **Crates.** Pushed against one another and stacked atop eachother, many crates containing many raw goods (see **Major Storage** for details).
+
 ##### 24. Major Storage
 **Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock, although most of the pegs are empty - perhaps they are being used or held elsewhere?
 
