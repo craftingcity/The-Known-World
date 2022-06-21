@@ -143,11 +143,14 @@ Other than the *Large Shelves*, this room bares no defining features.
 ##### 13. Armory
 **Iron Cabinets.** In iron cabinets around this room, multiple sets of weaponry in good condition including bow & arrow, crossbow & bolt, and spear & shield.
 
-**Shelves.** On the many shelves of this room, linen bags of dry goods (), iron-ceramic kegs of water (1 gal each), 
+**Shelves.** On the many shelves of this room, linen bags of dry goods (10 lb), iron-ceramic kegs of water (1 gal each), and many surplus quivers of bolts and arrows.
 
 ##### 14. Storage Hallway
+**Thin Cart.** A thin stone cart on wheels slides in and out of the southern recess in this area. Shelves on this cart are overflowing with dirty dishes and utensils.
 
 ##### 15. Spiked Defenses
+**Spiked Corners.** In the northeastern and southwestern corners of this room, tall spike barricades of iron rest in this otherwise unoccupied room.
+
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
@@ -155,18 +158,29 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 ##### 16b. Quick Access Food Storage and Hallway
 **Hallway.**
-**Food Cart.**  
+
+**Food Cart.**  A thin stone cart on wheels slides in and out of the recess in this area. Shelves on this cart hold ceramic bins that hold selections of foods that are usually held in the **Cold Storage** room (17).
+
 ##### 17. Cold Storage Room
-**Meat Hooks.**
-**Shelves.**
+**Meat Hooks.** On many hooks hanging from the ceiling of this room are dressed corpses, both humanoid and otherwise. Overall, there is about 800 lbs of meat here, but only about a third of that would serve well for those with moral stomachs.
+
+**Butcher's Table.** A large stone table is stained with blood in the northeastern corner of this room. Many cuts on its surface indicate years if not decades of use.
+
+**Shelves.** On the shelves of this area, racks of ceramic risers divide groups of raw vegetables kept here. Closed and stacked ceramic pots hold goat's milk and cheese. Wrapped in hemp sheets, cuts of meat lay stacked on the bottom shelves.
+
+The shelves are in total 1/3rd full of fresh produce.
+
 ##### 18. Greater Kitchen
-**Hearth.**
-**Preparation Tables.**
-**Spice Rack.**
+**Hearth.** A large central hearth warms the kitchen. Above it pans and pots hang on iron hooks, most of which are filled with a dank stew-like substance.
+
+**Preparation Table.** A large stone table spans the northern wall of this room, knives and spoons and other utensils strewn about its face. It is dirty, brown, green, and red stains the every surface.
+
+**Spice Rack.** Above the large *preparation table* against the northern wall is a large iron spice rack that holds glass vials of various spices from around the world.
+
 ##### 22. Staircase
 **Staircase.** A staircase of stone leads upwards into the ### room ().
 
-**Wall Detail.** 
+**Wall Detail.** On the 
 
 ##### 23. Minor Storage
 **Crates.** Pushed against one another and stacked atop eachother, many crates containing many raw goods (see **Major Storage** for details).
