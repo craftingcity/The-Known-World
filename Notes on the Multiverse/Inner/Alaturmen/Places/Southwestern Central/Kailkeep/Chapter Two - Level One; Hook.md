@@ -83,21 +83,20 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 
 ##### 6b. Partmaking B
 **Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attached into the bottom of the pit of black rock. 
-- **Anvil.** The anvil is composed of stone, but it is reinforced at its core and on its faces with bronze.
-- **Bellows.** An iron skeleton and a tan leather bag make a crude bellows at the bottom of the forge.
-- **Forge.** A thick wall of stone holds back red-hot charcoal.
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
 
 ##### 7. Primary Production
-**Egress.**
+**Egress.** Two doors lead south to the **Partmaking** rooms (6 a & b). Another door leads north, into the western egress of the **Water Storage** room (12). Another still leads east, into the **Hallway of Manual** (9b).
+
 **Workshop.** A large set of stone tables and stools takes up the center of this room, and the walls are lined in workbenches. This area is equipped to have twelve workers at any one time working either alone or in pairs to create martial goods.
-**Valuables.**
 
 ##### 8a. Product Examination and Export
-**Examination Table.**
-**Shelves.**
-**Ko-Bolted Door.**
+**Examination Table.** A small stone table sits in the center of the room, a stool well adorned in linen blankets accompany it. Standing on the table is a mounted lens of magnification and a long burnt candle in its small holder.
+
+**Shelves.** Weaponry fills the shelves here - well stored in accompanying sheaths or quivers.
+
+**Ko-Bolted Door.** In the southwestern corner of the room, plain as day, a Ko-Bolted door of adamentine stands imposingly, it's three clawed indent posing a deadly question; what comes out of this door?
 
 ##### 8b. Hallway with Stairs
 **Hallway.** This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards to the ###### room ().
@@ -141,10 +140,14 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
-##### 13. 
+##### 13. Armory
+**Iron Cabinets.** In iron cabinets around this room, multiple sets of weaponry in good condition including bow & arrow, crossbow & bolt, and spear & shield.
+
+**Shelves.** On the many shelves of this room, linen bags of dry goods (), iron-ceramic kegs of water (1 gal each), 
+
 ##### 14. Storage Hallway
 
-##### 15. 
+##### 15. Spiked Defenses
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
