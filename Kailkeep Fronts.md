@@ -1,27 +1,56 @@
 ## Adventure Front: Codename KKHells
 ### False Allure
-The **False Allure** of Kailkeep is as it's name suggests, an allure for adventurers that bares no truth. is... *danger type*... (*impulse:XXXXX*). Feel free to add notes before, after, or during the encoded parts of this paragraph.
+The **False Allure** (*impulse: to draw in the weak-willed*) of Kailkeep is as it's name suggests, an allure for adventurers that bares no truth. 
 
 **Cast**
-Optional; Name a character, place, or thing that the characters would encounter.
+- Weak Loyalists
+	- Goblin Smith
+	- Guand Forgers
+- Unusual Rats
+	- Large Domesticated
+	- Large Wild
+	- Swarming
 
 **Movelist**
-Copy and Paste the movelist here for some flavor on how the danger will act.
+-   Lure someone in
+-   Hide something from sight
 
 ### Kailkeep's Lower Hells
-**NAME** is... *danger type*... (*impulse:XXXXX*). Feel free to add notes before, after, or during the encoded parts of this paragraph.
+The **Lower Hells** is *Unholy Ground* (*impulse: to spawn evil*).
 
 **Cast**
-Optional; Name a character, place, or thing that the characters would encounter.
+- Entertainers
+	- Champions of Kailkeep
+	- Convicts of Kailkeep
+	- Mad Dogs
+	- Dishonorable Thieves
+	- 
+- Stagnants
+	- Survivor's Camp
+- Ascenders
 
 **Movelist**
-Copy and Paste the movelist here for some flavor on how the danger will act.
+-   Vomit forth a lesser monster
+-   Leave a lingering effect on an inhabitant or visitor
+-   Hide something from sight
+-   Offer power
+-   Dampen magic or increase its effects
+-   Confuse or obfuscate truth or direction
+-   Corrupt a natural law
 
 ### Kailkeep's Upper Hells
-**NAME** is... *danger type*... (*impulse:XXXXX*). Feel free to add notes before, after, or during the encoded parts of this paragraph.
+The **Upper Hells** is *Shadowland* (*impulse: to corrupt or consume the living*).
 
 **Cast**
-Optional; Name a character, place, or thing that the characters would encounter.
+- Entertainers
+- Ascenders
+- Stagnants
 
 **Movelist**
-Copy and Paste the movelist here for some flavor on how the danger will act.
+-   Learn forbidden knowledge
+-   Cast a spell over time and space
+-   Attack a foe with magic, directly or otherwise
+-   Spy on someone with a scrying spell
+-   Recruit a follower or toady
+-   Tempt someone with promises
+-   Demand a sacrifice
