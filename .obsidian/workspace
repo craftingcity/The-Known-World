@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91058b7202555d25",
+        "id": "f05d0070928bf42f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "956dd712c6c537a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,17 +114,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "91058b7202555d25",
+  "active": "f05d0070928bf42f",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "ORGANIZATION/Organizational Notions.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Outlands.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/High Common.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "A Grand Notepad.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/The Holyl'nds.md"
   ]
 }
