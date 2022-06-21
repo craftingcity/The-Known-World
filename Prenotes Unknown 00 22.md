@@ -46,8 +46,14 @@ Grand Taku | Barbarian / Monk | Summer-Elven
 
 Yerba will know of the murder in the morning, and criers will shout it with the other news of the day. Guards will be on the lookout for these fugitives, and people who recognize them would report them.
 
-Traveling from [[Yerba]] to the [[Darnt Hillkeep]] would take two days of travel by horseback. Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldfield]]
+Traveling from [[Yerba]] to the [[Darnt Hillkeep]] would take two days of travel by horseback. 
 
-A group of traveling hobgoblin merchants are moving between Yerba and Magius in the opposite direction of the party, though they would sell many delicacies of the Northeastern Territories.
+The party encounters a band of [[Barret Bodaim]]'s bandits their first night's rest.
+
+The party encounters a merchant cart run by hobgoblin their second night's rest.
+
+Arriving at the [[Darnt Hillkeep]] is an interesting process. When you make it to the hills, you're in the Hillkeep, but when you want to go see [[Baron Jammu]], you gotta go miles south to the "proper" [[Darnt Hillkeep]], a large human settlement that has integrated with the rest of the Hillkeep 
+
+Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldfield]], but possibly [[Aeberu]] or even [[Coalition City]] would take a day or less from Hillkeep proper.
 
 ### What happened?
