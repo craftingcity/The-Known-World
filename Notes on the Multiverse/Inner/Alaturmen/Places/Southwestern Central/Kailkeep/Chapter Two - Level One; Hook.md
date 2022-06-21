@@ -2,7 +2,7 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin and Guand live and work here producing weapons and ammunition 
+Groups of Goblin and Guand live and work here producing weapons and ammunition, and staying out of the way of any newcomers that make there way here.
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
@@ -73,25 +73,25 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
 
 ##### 6a. Partmaking A
-**Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
+**Small Workshop.** This small workshop is outfitted for three people to work together to work iron. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
 
 **Weird Machine.** A large stone machine stands 3' tall 2' wide against the southern wall of this room. It's center is hollow, and the cylinder inside can be accessed by a compartment in the top of the machine as well as three large doors in the front that compose the machine's frontern wall. On its left wall, a stone button is painted orange. When this button is pressed, alchemical thermite alights and quickly heats the internal chamber of the machine.
 
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
-**Secret Door.**
+**Secret Door.** In the hall leading north, a secret door connects to the **Guest Stairs** (1a).
 
 ##### 6b. Partmaking B
-**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
-- **Anvil.**
-- **Bellows.**
-- **Forge.**
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attached into the bottom of the pit of black rock. 
+- **Anvil.** The anvil is composed of stone, but it is reinforced at its core and on its faces with bronze.
+- **Bellows.** An iron skeleton and a tan leather bag make a crude bellows at the bottom of the forge.
+- **Forge.** A thick wall of stone holds back red-hot charcoal.
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
 
 ##### 7. Primary Production
 **Egress.**
-**Workshop.** 
+**Workshop.** A large set of stone tables and stools takes up the center of this room, and the walls are lined in workbenches. This area is equipped to have twelve workers at any one time working either alone or in pairs to create martial goods.
 **Valuables.**
 
 ##### 8a. Product Examination and Export

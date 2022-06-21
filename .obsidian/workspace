@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "eb633251b71a47fd",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -124,10 +134,10 @@
   "active": "b98f31a6c265bea2",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep Fronts.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
-    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
     "Game Notes/Fronts/Giant's Toe Front.md",
