@@ -44,10 +44,12 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
+			- [[Desert Thieves]]
 			- **Druids of the Idols**
 				- [[Druids of Animan]]
 				- [[Druids of Aquan]]
@@ -149,16 +151,15 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Untitled]]
+				- [[Economics of Coalition City]]
 			- **Smaller than a village**
-				- [[Untitled]]
+				- [[Economics of Coalition City]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**

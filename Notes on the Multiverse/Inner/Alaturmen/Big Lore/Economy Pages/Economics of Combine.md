@@ -96,6 +96,7 @@ What can be mined? How elaborate are the setups?
 Has magic influenced any of these things? What about Technology?
 
 ### Other Notes
+#### Specifics regarding Certain Baronies
 - 
 - 
 - 

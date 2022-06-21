@@ -18,6 +18,7 @@ As the party passes by many acres of farmland, they begin to hear the natural sh
 Do you travel through the night or make camp now?
 
 ### What does the World know?
+The ingame date is The 19th of Regrowth, 105AF.
 
 The guards will begin to search for them, given the descriptions given from the Bartender of the Silver Unicorn and the five survivors of the parties "retaliation and defense of their members".
 
@@ -60,3 +61,5 @@ Nala is disguised as red dragonborn (19 performance).
 little fucker loves pears
 
 Jarren knows Yerba well. Why? Jerran's human mom was a dancer, orcs came into town and pushed her out of business, father was the elf moved to Yerba to not die in the fires.
+
+No change of contract was necessary, and the meeting place was moved back to where the party met with archmage as rabbit.

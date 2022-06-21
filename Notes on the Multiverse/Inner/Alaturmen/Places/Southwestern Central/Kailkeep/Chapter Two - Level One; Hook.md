@@ -2,7 +2,7 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability (see your favorite Injury Table, take two or three) – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
+Groups of Goblin and Gaund live and work here producing weapons and ammunition, and staying out of the way of any newcomers that make there way here.
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
@@ -73,31 +73,30 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 **Shelves.** The shelves that line the western walls of this room are empty, save for a few rat droppings.
 
 ##### 6a. Partmaking A
-**Small Workshop.** This small workshop is outfitted for three people as such. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
+**Small Workshop.** This small workshop is outfitted for three people to work together to work iron. The western third of this room is taken by a simple large 14.5' stone table and three stone stools half as tall as the 4' table. Many medium quality metal-working tools such as files, clamps, and hammers are carefully placed above the table on posts of stone, as well as three ivory googles.
 
 **Weird Machine.** A large stone machine stands 3' tall 2' wide against the southern wall of this room. It's center is hollow, and the cylinder inside can be accessed by a compartment in the top of the machine as well as three large doors in the front that compose the machine's frontern wall. On its left wall, a stone button is painted orange. When this button is pressed, alchemical thermite alights and quickly heats the internal chamber of the machine.
 
 **Instructional Artistry.** Above the **Weird Machine**, on the southern wall, many carvings make a larger instructional art-piece that shows a dwarf operating the machine and crafting sets of caltrops, arrowheads, and simple darts.
 
-**Secret Door.**
+**Secret Door.** In the hall leading north, a secret door connects to the **Guest Stairs** (1a).
 
 ##### 6b. Partmaking B
-**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attatched into the bottom of the pit of black rock. 
-- **Anvil.**
-- **Bellows.**
-- **Forge.**
+**Small Forge.** Large chunks of a smoky black rock sizzle and pop from behind their stone wall. Attached to this small stone forge are two raised platforms, on which a slotted anvil made of stone and bronze and a bellows attached into the bottom of the pit of black rock. 
 
 **Shelves.** On small shelves across the room from the forge sit sheets of this black rock, three inches thick and nine inches square. Beside them, blocks of iron sit waiting to be worked.
 
 ##### 7. Primary Production
-**Egress.**
-**Workshop.** 
-**Valuables.**
+**Egress.** Two doors lead south to the **Partmaking** rooms (6 a & b). Another door leads north, into the western egress of the **Water Storage** room (12). Another still leads east, into the **Hallway of Manual** (9b).
+
+**Workshop.** A large set of stone tables and stools takes up the center of this room, and the walls are lined in workbenches. This area is equipped to have twelve workers at any one time working either alone or in pairs to create martial goods.
 
 ##### 8a. Product Examination and Export
-**Examination Table.**
-**Shelves.**
-**Ko-Bolted Door.**
+**Examination Table.** A small stone table sits in the center of the room, a stool well adorned in linen blankets accompany it. Standing on the table is a mounted lens of magnification and a long burnt candle in its small holder.
+
+**Shelves.** Weaponry fills the shelves here - well stored in accompanying sheaths or quivers.
+
+**Ko-Bolted Door.** In the southwestern corner of the room, plain as day, a Ko-Bolted door of adamentine stands imposingly, it's three clawed indent posing a deadly question; what comes out of this door?
 
 ##### 8b. Hallway with Stairs
 **Hallway.** This hallway links the **Production Examination and Export** (8a) and **Fine Production** (9a) rooms with a set of stairs that lead upwards to the ###### room ().
@@ -141,10 +140,17 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 **Shitty Wooden Barrels.** Barrels made of old wooden shields disassembled leak water slowly onto the floor here, making the area around them slick with algae. While these barrels are all also 3/4ths full of water, it is less than clean. In its current state, a failure of a DC 13 CON check upsets the drinker's weak stomach, leading to a condition or some amount of damage (I'd go with like 2d4+2. Bad water fucking sucks).
 
-##### 13. 
-##### 14. Storage Hallway
+##### 13. Armory
+**Iron Cabinets.** In iron cabinets around this room, multiple sets of weaponry in good condition including bow & arrow, crossbow & bolt, and spear & shield.
 
-##### 15. 
+**Shelves.** On the many shelves of this room, linen bags of dry goods (10 lb), iron-ceramic kegs of water (1 gal each), and many surplus quivers of bolts and arrows.
+
+##### 14. Storage Hallway
+**Thin Cart.** A thin stone cart on wheels slides in and out of the southern recess in this area. Shelves on this cart are overflowing with dirty dishes and utensils.
+
+##### 15. Spiked Defenses
+**Spiked Corners.** In the northeastern and southwestern corners of this room, tall spike barricades of iron rest in this otherwise unoccupied room.
+
 ##### 16a. Supplementary Kitchen
 **Large Water Purification System.** A large stone system of tubing and chambers takes up the northwestern corner of the room.
 
@@ -152,21 +158,32 @@ Other than the *Large Shelves*, this room bares no defining features.
 
 ##### 16b. Quick Access Food Storage and Hallway
 **Hallway.**
-**Food Cart.**  
+
+**Food Cart.**  A thin stone cart on wheels slides in and out of the recess in this area. Shelves on this cart hold ceramic bins that hold selections of foods that are usually held in the **Cold Storage** room (17).
+
 ##### 17. Cold Storage Room
-**Meat Hooks.**
-**Shelves.**
+**Meat Hooks.** On many hooks hanging from the ceiling of this room are dressed corpses, both humanoid and otherwise. Overall, there is about 800 lbs of meat here, but only about a third of that would serve well for those with moral stomachs.
+
+**Butcher's Table.** A large stone table is stained with blood in the northeastern corner of this room. Many cuts on its surface indicate years if not decades of use.
+
+**Shelves.** On the shelves of this area, racks of ceramic risers divide groups of raw vegetables kept here. Closed and stacked ceramic pots hold goat's milk and cheese. Wrapped in hemp sheets, cuts of meat lay stacked on the bottom shelves.
+
+The shelves are in total 1/3rd full of fresh produce.
+
 ##### 18. Greater Kitchen
-**Hearth.**
-**Preparation Tables.**
-**Spice Rack.**
+**Hearth.** A large central hearth warms the kitchen. Above it pans and pots hang on iron hooks, most of which are filled with a dank stew-like substance.
+
+**Preparation Table.** A large stone table spans the northern wall of this room, knives and spoons and other utensils strewn about its face. It is dirty, brown, green, and red stains the every surface.
+
+**Spice Rack.** Above the large *preparation table* against the northern wall is a large iron spice rack that holds glass vials of various spices from around the world.
+
 ##### 22. Staircase
 **Staircase.** A staircase of stone leads upwards into the ### room ().
 
-**Wall Detail.** 
+**Wall Detail.** On the wall opposite the stairs, a dwarven-esq mural presents a Kailkeep as the dwarves could make it be - a large stronghold - excavated and powerful. Below the mural, dwarven runes state; "As it should be".
 
 ##### 23. Minor Storage
-**Crates.** Pushed against one another and stacked atop eachother, many crates containing many raw goods (see **Major Storage** for details).
+**Crates.** Pushed against one another and stacked atop each other, many crates containing many raw goods (see **Major Storage** for details).
 
 ##### 24. Major Storage
 **Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock, although most of the pegs are empty - perhaps they are being used or held elsewhere?
@@ -178,9 +195,11 @@ Should your adventurers wish to gather all of the items in these crates, they wi
 **Shelves.** Stacked upon shelves are many hemp and linen bags of food goods (see *Dry Storage* for more details), as well as many folded linen blankets and stacked pillows.
 
 ##### 25. Servant Preparation Chamber
-**Wardrobes.**
+**Wardrobes.** Wardrobes of stone hold many blankets and sheets of linen.
+
 ##### 26a. Rough Barracks
-**Bunks.**
+**Bunks.** Stone bunks fill the space here. Many leather, linen, or hemp bags are stuffed under beds or blankets atop them. The beds here are disheveled and unkempt.
+
 ##### 26b. Fine Barracks
 **Beds.**
 ##### 26c. Hallway to Elsewhere
