@@ -5,7 +5,7 @@ The **False Allure** (*impulse: to draw in the weak-willed*) of Kailkeep is as i
 **Cast**
 - Weak Loyalists
 	- Goblin Smith
-	- Guand Forgers
+	- Gaund Forgers
 - Strange Beasties
 	- Unusual Rodents
 	- Genoid
@@ -54,7 +54,7 @@ The **Upper Hells** is *Shadowland* (*impulse: to corrupt or consume the living*
 - Entertainers
 	- Champions of Kailkeep
 	- Red Gnoll
-	- Guand Loyalists
+	- Gaund Loyalists
 	- Reformed
 - Ascenders
 	- Ancients of Mountainhall
