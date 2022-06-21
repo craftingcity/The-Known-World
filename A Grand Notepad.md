@@ -24,15 +24,3 @@ In the second century, contention begins to arise as the [[Blood Hobgoblin Clan 
 Bag-head bandits.
 
 "For the Lands of Tetrimoc and the Empire of the [[Golden Claws]]!"
-
-
-
-
-
-
-
-
-
-[[The Holy City of Kanielkiln]]
-[[Baskin]] / [[Giant's Toe]]
-[[Kohnstamm]]

@@ -124,11 +124,11 @@
 		- **Northwestern Central**
 			- [[NW Travel Table]]
 			- **Smaller than a city**
-				- [[Wychway]]
 			- **Smaller than a feature**
 				- [[Baskin]]
 				- [[Kohnstamm]]
 				- [[The Holy City of Kanielkiln]]
+				- [[Wychway]]
 			- **Smaller than a village**
 				- [[Kakurak's Lair]]
 			- [[The Holyl'nds]]
