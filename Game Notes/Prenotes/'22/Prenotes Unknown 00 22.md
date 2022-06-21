@@ -52,7 +52,7 @@ The party encounters a band of [[Barret Bodaim]]'s bandits their first night's r
 
 The party encounters a merchant cart run by hobgoblin their second night's rest.
 
-Arriving at the [[Darnt Hillkeep]] is an interesting process. When you make it to the hills, you're in the Hillkeep, but when you want to go see [[Baron Jammu]], you gotta go miles south to the "proper" [[Darnt Hillkeep]], a large human settlement that has integrated with the rest of the Hillkeep 
+Arriving at the [[Darnt Hillkeep]] is an interesting process. When you make it to the hills, you're in the Hillkeep, but when you want to go see [[Baron Jammu]], you gotta go miles south to the "proper" [[Darnt Hillkeep]], a large human settlement that has integrated with the rest of the Hillkeep.
 
 Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldfield]], but possibly [[Aeberu]] or even [[Coalition City]] would take a day or less from Hillkeep proper.
 

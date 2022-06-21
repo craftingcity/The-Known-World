@@ -12,6 +12,7 @@
 	- [[Prenotes]]
 	- [[Statblock]]
 	- [[Stub]]
+	- [[Table]]
 	- [[Tags and Aliases]]
 	- [[Waypoint]]
 
