@@ -21,11 +21,14 @@ Bets for fights are handled by Paul the Shady Elf, a now old spring elf.
 
 The matches on the main card tonight are:
 
-- High 
-- Midcard Title Bout
-- Midcard Non-Title
-- Duos Bout
-- Fresh Meat Bout
+Match | Fighter One | Fighter Two | Betting | Rolling
+--- | --- | --- | --- | ---
+1 | Bungaloo Twins | Hillkeep's Finest | 1:2 | 8/20
+2 | Kalipsum, Wildguardian Extrordinare | Dire Wolf | 4:1 | 2/20
+3 | Frang, the Brusier | Cuzlywix Byuv | 3:2 | 5/20
+4 | Albre Cain | Condor Falcon | 2:3 | 10/20
+5 | Carrigen Mist | Grand Taku | 1:3 | 12/20
+6+ | Fresh Meat | Champion of the Night | 10:1 | 1/20
 
 
 ### What happened?
