@@ -22,5 +22,6 @@ aliases:
 	- [[Chapter Three - Level Two; Line]]
 	- [[Chapter Twelve - Faction Deep Dive]]
 	- [[Chapter Two - Level One; Hook]]
+	- [[Kailkeep Fronts]]
 
 %% End Waypoint %%

@@ -2,7 +2,7 @@
 ![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
-Groups of Goblin, Guand, and other Loyalists work this level of the Hells for the Kobolds of Inner Kailkeep. Most of the intelligent life here has some minor physical disability (see your favorite Injury Table, take two or three) – anyone who could fight well would still be entertaining in the Hells. It is the security of these lower levels that is the purpose of these weaker loyalists.
+Groups of Goblin and Guand live and work here producing weapons and ammunition 
 
 ##### Unusual Rats
 Unusually Large Rats are bred by the Loyalists who work this Level. Some of these Large Rats have gotten loose, and begun to move about the Lower Floors.
