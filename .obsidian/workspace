@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9bf22f69d6634a",
+        "id": "21c0baa4560fac7b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/The Holyl'nds.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9009b6b9e7f5bd96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Grand Notepad.md",
             "mode": "source"
           }
         }
@@ -52,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+                "file": "A Grand Notepad.md"
               }
             }
           }
@@ -121,17 +131,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2a9bf22f69d6634a",
+  "active": "9009b6b9e7f5bd96",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Kingdom of Prosper/Arthur Simonson.md",
-    "Noble House a'Haruuc.md",
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/SUPP/BookOfWishes.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Cenva Minyo.md"
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Its Greatness.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a feature/The Holy City of Kanielkiln.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "MEDIA/MEDIA.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }
