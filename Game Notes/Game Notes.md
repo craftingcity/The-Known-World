@@ -10,6 +10,7 @@
 		- [[Warspider]]
 		- [[Zer Muwwoq-Geub]]
 	- **Fronts**
+		- [[Giant's Toe Front]]
 		- [[Hobgoblin Wars]]
 		- [[Nala Co.]]
 		- [[Rangers Gone Rouge]]

@@ -156,9 +156,9 @@
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Untitled]]
+				- [[Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a village/Untitled]]
 			- **Smaller than a village**
-				- [[Untitled]]
+				- [[Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a village/Untitled]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**

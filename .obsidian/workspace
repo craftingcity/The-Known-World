@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8e422a66b8f99d95",
+        "id": "c01ef054b80585ae",
         "type": "leaf",
-        "dimension": 26.546292739147134,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+            "file": "Game Notes/Fronts/Giant's Toe Front.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "8607ac1c7f68d38a",
-        "type": "split",
-        "dimension": 32.96196696119861,
-        "children": [
-          {
-            "id": "d005268d4cda0bdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9eccac4d1ebfd5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "7aa16b4298bb6e8f",
+        "id": "2ffb1f2a1059d713",
         "type": "leaf",
-        "dimension": 40.491740299654246,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png"
+            "file": "Game Notes/Fronts/Varis Co..md",
+            "mode": "source"
           }
         }
       }
@@ -111,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+                "file": "Game Notes/Fronts/Giant's Toe Front.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+                "file": "Game Notes/Fronts/Giant's Toe Front.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md"
+                "file": "Game Notes/Fronts/Giant's Toe Front.md"
               }
             }
           }
@@ -163,17 +132,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "8e422a66b8f99d95",
+  "active": "c01ef054b80585ae",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
+    "Game Notes/Fronts/Giant's Toe Front.md",
+    "Game Notes/Fronts/Varis Co..md",
+    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
+    "MEDIA/MAPS/DUNG/GiantsToe- Lower.png",
+    "MEDIA/MAPS/DUNG/KKHell - 1_Hook.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eleven - Maintaining Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guilds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
-    "MEDIA/MAPS/DUNG/KKHell - 2_Line.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Three - Level Two; Line.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
