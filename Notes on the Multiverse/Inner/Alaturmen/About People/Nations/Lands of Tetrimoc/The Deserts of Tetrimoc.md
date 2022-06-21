@@ -4,6 +4,7 @@ aliases: Lands of Tetrimoc
 ---
 
 # Deserts of Tetrimoc
+![[Tetrimoc-100AF.png]]
 ## History
 ## Governance
 ### Government of [[The Golden City]]
