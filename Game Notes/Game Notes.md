@@ -15,7 +15,6 @@
 		- [[Nala Co.]]
 		- [[Rangers Gone Rouge]]
 		- [[The War on Tetrimoc]]
-		- [[Varis Co.]]
 	- **Mechanics**
 		- [[Custom Feats]]
 		- **Homebrew Spells**

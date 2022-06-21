@@ -40,9 +40,9 @@ Optional; Ask a question or two about something that you dont know, ideally dire
 
 **The Prophecy**
 The signs that the danger is becoming closer and closer to its impending doom.
-- [ ] Portent One
-- [ ] Portent Two
-- [ ] Portent Three
+- [x] Enlist all who would aid me
+- [ ] Conquer all who would Oppose me
+- [ ] Rule for foreseeable time
 
 **Impending Doom**
 Pestilence
