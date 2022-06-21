@@ -4,69 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5caa9568516795",
-        "type": "split",
-        "children": [
-          {
-            "id": "7646463c6c7aece4",
-            "type": "split",
-            "children": [
-              {
-                "id": "3c3845b8c97e8886",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "010479697d68a0d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "5cdd2f02f26cb27f",
-            "type": "split",
-            "children": [
-              {
-                "id": "3ce3df914126306b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "fbccf64ad5327884",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "1b710788ea64582c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -123,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,17 +114,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3c3845b8c97e8886",
+  "active": "1b710788ea64582c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/NE Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
-    "ORGANIZATION/TEMPLATES/Table.md",
-    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
-    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "MEDIA/MAPS/WORLD/combine-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Smaller than a feature/Darnt Hillkeep.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Coalition City.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Outer/Nine Hells/Nine Hells.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md"
   ]
 }

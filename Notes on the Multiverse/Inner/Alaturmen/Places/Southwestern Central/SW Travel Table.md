@@ -3,7 +3,7 @@ tags: table
 aliases:
 ---
 # South Western Central Alaturmen
-Much of the North West is civilized. The outskirts of this area are densely inhabited by hobgoblin, while the interior is densely populated by goblin, human, and others. These two groups are both governed, and do not openly war at this time.
+Much of the South West is civilized. The outskirts of this area are densely inhabited by human, gnoll, goblin, and many native fauna. Nearly the only recognized organization here is [[The Golden City]], as ruled by the [[Golden Claws]], but the [[Desert Thieves]] hold the outskirts where they can.
 
 ### Tables
 #### General Encounter Table
@@ -17,3 +17,5 @@ Much of the North West is civilized. The outskirts of this area are densely inha
 6 | Empty Space | Opportunity
 
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
+
+#### Native Fauna

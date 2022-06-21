@@ -12,7 +12,7 @@
     "editor:attach-file": 2,
     "app:delete-file": 81,
     "editor:delete-paragraph": 81,
-    "graph:open": 13,
+    "graph:open": 14,
     "workspace:undo-close-pane": 36,
     "workspace:close": 36,
     "workspace:close-others": 37,

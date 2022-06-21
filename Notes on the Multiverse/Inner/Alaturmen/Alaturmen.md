@@ -49,6 +49,7 @@
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
+			- [[Desert Thieves]]
 			- **Druids of the Idols**
 				- [[Druids of Animan]]
 				- [[Druids of Aquan]]
@@ -156,9 +157,9 @@
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Prenotes Unknown 00 22]]
+				- [[Economics of Coalition City]]
 			- **Smaller than a village**
-				- [[Prenotes Unknown 00 22]]
+				- [[Economics of Coalition City]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**

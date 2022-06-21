@@ -3,7 +3,7 @@ tags: table
 aliases:
 ---
 # North Western Central Alaturmen
-Much of the North West is civilized. The outskirts of this area are densely inhabited by hobgoblin, while the interior is densely populated by goblin, human, and others. These two groups are both governed, and do not openly war at this time.
+Much of the North West is civilized. The people here are under the strong cultural influences of [[The Church of the White Flame]], and most who live in this land live in villages blessed by a Tendered - to become their Patrons, a more favorable position than living in the wastes.
 
 ### Tables
 #### General Encounter Table
@@ -17,3 +17,5 @@ Much of the North West is civilized. The outskirts of this area are densely inha
 6 | Empty Space | Opportunity
 
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
+
+#### Native Fauna

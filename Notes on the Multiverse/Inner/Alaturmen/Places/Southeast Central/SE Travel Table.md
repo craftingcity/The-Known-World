@@ -3,7 +3,7 @@ tags: table
 aliases:
 ---
 # South Eastern Central Alaturmen
-Much of the North West is civilized. The outskirts of this area are densely inhabited by hobgoblin, while the interior is densely populated by goblin, human, and others. These two groups are both governed, and do not openly war at this time.
+Much of the South East is civilized. People here are from all over, and they all pay respect to their Barons. There is nearly constant war in this area, between barons, groups of barons, etc., but these people are trained to protect all citizens of the Combine of Democratic Peoples.
 
 ### Tables
 #### General Encounter Table
@@ -17,3 +17,5 @@ Much of the North West is civilized. The outskirts of this area are densely inha
 6 | Empty Space | Opportunity
 
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
+
+#### Native Fauna
