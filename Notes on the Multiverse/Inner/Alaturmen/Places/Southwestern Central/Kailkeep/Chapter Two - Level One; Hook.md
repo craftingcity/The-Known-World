@@ -180,10 +180,10 @@ The shelves are in total 1/3rd full of fresh produce.
 ##### 22. Staircase
 **Staircase.** A staircase of stone leads upwards into the ### room ().
 
-**Wall Detail.** On the 
+**Wall Detail.** On the wall opposite the stairs, a dwarven-esq mural presents a Kailkeep as the dwarves could make it be - a large stronghold - excavated and powerful. Below the mural, dwarven runes state; "As it should be".
 
 ##### 23. Minor Storage
-**Crates.** Pushed against one another and stacked atop eachother, many crates containing many raw goods (see **Major Storage** for details).
+**Crates.** Pushed against one another and stacked atop each other, many crates containing many raw goods (see **Major Storage** for details).
 
 ##### 24. Major Storage
 **Tool Rack.** Hanging from the a rack mounted into the wall, many tools of work are placed delicately on pegs extending from a massive iron sheet mounted into the rock, although most of the pegs are empty - perhaps they are being used or held elsewhere?
@@ -195,9 +195,11 @@ Should your adventurers wish to gather all of the items in these crates, they wi
 **Shelves.** Stacked upon shelves are many hemp and linen bags of food goods (see *Dry Storage* for more details), as well as many folded linen blankets and stacked pillows.
 
 ##### 25. Servant Preparation Chamber
-**Wardrobes.**
+**Wardrobes.** Wardrobes of stone hold many blankets and sheets of linen.
+
 ##### 26a. Rough Barracks
-**Bunks.**
+**Bunks.** Stone bunks fill the space here. Many leather, linen, or hemp bags are stuffed under beds or blankets atop them. The beds here are disheveled and unkempt.
+
 ##### 26b. Fine Barracks
 **Beds.**
 ##### 26c. Hallway to Elsewhere
