@@ -7,4 +7,7 @@ I take a lot of my organizational tools from [Dungeon World](https://www.dungeon
 Often, I use #fronts to organize the dangers of a campaign.
 My #holding use systems of tags that I coopt from DW.
 
-I am of the mind to use the 6 mile hex as my "true world" size. This means that a map the size of ireland (which I intend on using in reference), roughly 280 miles, would be a hex length of 47 (rounding up). 6 square miles converts to 3840 acres (1:~640).
+
+![[6milehexexample.jpg]]
+I am of the mind to use the 6 mile hex as my "true world" size. 6 square miles converts to 3840 acres (1sqm:~640acre).
+

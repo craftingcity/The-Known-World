@@ -6,7 +6,7 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "open-with-default-app:show": 1,
+    "open-with-default-app:show": 2,
     "file-explorer:new-file": 35,
     "workspaces:open-modal": 1,
     "editor:attach-file": 2,

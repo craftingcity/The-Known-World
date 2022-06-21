@@ -4,6 +4,9 @@ tags: gwf, nation_page
 ---
 
 # The Church of the White Flame
+![[Holy-100AF.png]]
+*the area of [[The Holyl'nds]]*
+
 ## History
 The [[#The Church of the White Flame]] is the main body of government in the [[The Holyl'nds]], as a caste theocracy. They worship [[Its Greatness]] as a great force to be revered for its allowance of containment. 
 

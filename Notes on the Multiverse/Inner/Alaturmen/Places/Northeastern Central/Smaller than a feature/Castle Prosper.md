@@ -1,6 +1,6 @@
 ---
 tags: holding, prosper
-aliases: Keep Prosper, City of Prosper, Prosper Proper
+aliases:
 ---
 
 # Holding Tags

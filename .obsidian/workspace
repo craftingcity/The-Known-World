@@ -12,6 +12,17 @@
             "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
           }
         }
+      },
+      {
+        "id": "343a67d7817082cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -120,10 +131,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "fc3dc92f2dd701fb",
+  "active": "343a67d7817082cc",
   "lastOpenFiles": [
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "conflict-files-obsidian-git.md",
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/BookOfWishes.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",

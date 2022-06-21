@@ -44,7 +44,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
@@ -65,15 +64,7 @@
 			- **[[Tales of Kakurak's Chosen]]**
 	- [[Bible 2]]
 	- **Big Lore**
-		- **Economy Pages**
-			- [[Economics of Actstow]]
-			- [[Economics of Cenva Minyo]]
-			- [[Economics of Combine]]
-			- [[Economics of Mountain Hall]]
-			- [[Economics of Prosper]]
-			- [[Economics of Tetrimoc's Desert]]
-			- [[Economics of the Hobgoblin Territories]]
-			- [[Economics of The Holyl'nds]]
+		- **[[Economy Pages]]**
 		- **How things Work**
 			- **Alchemy**
 				- [[All Alchemical Ingredients]]
@@ -133,11 +124,11 @@
 		- **Northwestern Central**
 			- [[NW Travel Table]]
 			- **Smaller than a city**
-				- [[Wychway]]
 			- **Smaller than a feature**
 				- [[Baskin]]
 				- [[Kohnstamm]]
 				- [[The Holy City of Kanielkiln]]
+				- [[Wychway]]
 			- **Smaller than a village**
 				- [[Kakurak's Lair]]
 			- [[The Holyl'nds]]
@@ -151,15 +142,16 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Economics of Coalition City]]
+				- [[Untitled]]
 			- **Smaller than a village**
-				- [[Economics of Coalition City]]
+				- [[Untitled]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**

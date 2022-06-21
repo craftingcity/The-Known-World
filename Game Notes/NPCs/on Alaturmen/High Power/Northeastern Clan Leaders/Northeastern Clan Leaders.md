@@ -1,4 +1,4 @@
-# Northeastern Hobgoblin Territories
+# Northeastern Hobgoblin Territories NPCS
 %% Begin Waypoint %%
 - **[[Northeastern Clan Leaders]]**
 	- [[Amelia Simonson]]
