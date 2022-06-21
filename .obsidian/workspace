@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b710788ea64582c",
+        "id": "fc3dc92f2dd701fb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+              }
             }
           }
         ],
@@ -114,8 +120,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "1b710788ea64582c",
+  "active": "fc3dc92f2dd701fb",
   "lastOpenFiles": [
+    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
+    "MEDIA/SUPP/BookOfWishes.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
@@ -123,8 +131,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Coalition City.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Outer/Nine Hells/Nine Hells.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
