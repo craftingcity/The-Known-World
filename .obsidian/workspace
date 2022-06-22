@@ -4,23 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57df0327bcaf71a2",
+        "id": "d2b2d565953ae80a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
-        "id": "f52dba67c6826fac",
+        "id": "5f53d25348ba955a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
             "mode": "source"
           }
         }
@@ -50,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire lichen",
+                "query": "company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md"
               }
             }
           }
@@ -133,17 +129,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "57df0327bcaf71a2",
+  "active": "5f53d25348ba955a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
-    "Game Notes/Prenotes/'22/Prenotes Mar 05 22.md",
-    "Deepburrow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
+    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Encounters.md",
+    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
+    "Game Notes/Prenotes/'21/Prenotes Dec 16 21.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Player Characters/Tales of Kakurak's Chosen/Amashod.md",
+    "Game Notes/NPCs/in Underdark/in Underdark.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Game Notes/NPCs/in Underdark/Underdark.md"
   ]
 }

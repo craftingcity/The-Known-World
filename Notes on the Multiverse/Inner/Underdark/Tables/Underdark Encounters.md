@@ -3,7 +3,7 @@ tags: encounter, Underdark, needs_work
 aliases:
 ---
 
-Here lies a list of funny, interesting, or otherwise encounters set in the [[Game Notes/NPCs/in Underdark/Underdark]].
+Here lies a list of funny, interesting, or otherwise encounters set in the [[Underdark]].
 
 # The Shallows' Caves
 - **death**

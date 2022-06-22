@@ -21,7 +21,7 @@ Fish is the most common meat in the combine. Crab, Shellfish, and Turtle are unc
 Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese. Some very power people husband cattle as well, but this is a difficult and expensive task here.
 
 #### Dairy
-Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or imported almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
+Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
 
 #### Grain
 Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety in luxury.
@@ -47,7 +47,7 @@ Lemongrass often appears as a garnish and a tea in the Combine.
 
 Olive and Almond oils are imported from the West bank of the [[Alavini River]] for relatively cheap, and most middle class families could access them for their everyday meals.
 
-Poorer oils such as Heart-nut are imported from the north, but the common folk have little choice but goat butter or some type of lard for their oil.
+Poorer oils such as Heart-nut are imported from the north, but the common folk have little choice but goat butter or lard for their oil.
 
 #### Delicacy
 Sweet rice cake are a wonderful treat, but the best dish a middle class family could ask for is sweet-and-sour beef with vegetable noodle and rice.

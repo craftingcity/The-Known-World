@@ -1,6 +1,8 @@
 ---
-tags: groups
+tags: stub
 aliases:
 ---
 
-The Northstone Trading company is a large trading family based in [[Yerba]]. They deal mostly in construction supplies.
+*This page is a #stub. You can help by expanding it!*
+
+The family of Northstone's Merchant Company; based in [[Yerba]], the Northstone Trading Company competes for coin in the market of North Eastern Alaturmen.

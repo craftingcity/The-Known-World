@@ -11,8 +11,7 @@ Cenva Minyo is a small permanent colony of Winter Elves that live to the South o
 ### "Bread"
 What is *the* food?
 
-### Food
-What lives here?
+### Potato Bread
 #### Meat
 #### Dairy
 #### Grain

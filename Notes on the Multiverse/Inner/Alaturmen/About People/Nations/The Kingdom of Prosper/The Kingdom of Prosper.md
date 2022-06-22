@@ -42,6 +42,8 @@ People attend temples of the Gods of Emotion when they wish to gain their favor,
 #### Economics
 Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Wood and meat is abundant in this area. Much of the more expensive items are imported spices and metals.
 
+Merchants are dishonorable crooks in the eye of the common people, but through the support of the people of means in the area, merchants import and export products west, south-west, and south.
+
 See also [[Economics of Prosper]].
 
 ### Symbolism
