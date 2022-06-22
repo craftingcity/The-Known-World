@@ -74,13 +74,15 @@ Leather and Hides are commonly worn during the warmer seasons. Winter clothing i
 Most meat and fruits are turned into pemmican. Some meats become salted, some fruits become jellies or spreads, but it is simply the most effective use of the materials caloric.
 
 ### Containers
-People 
+People store things in leather and hide bags. Possessions must be packed when not in use, so belts with pouches and bags are common accessories. Some permanent settlements contain perishables in ceramic dishes, but only for limited times, and never for transport.
 
 ### Mining
-What can be mined? How elaborate are the setups?
+Copper and Lead can be mined here. There are few mining operations in this area, as most metals can be cheaply imported from the west.
 
 ### Magic / Technology
-Has magic influenced any of these things? What about Technology?
+The people of the Territories experience magic in religion. Shamans preach knowledge and can heal or harm with only a touch. People attempt to buy magical power from otherworldly beings through cults and rituals.
+
+The Technology of the region is sub-par, as research cannot be performed well in non-permanent structures or warring conditions. Magically powered mild temperature controls such as heaters and coolers are accessible in this region.
 
 ### Other Notes
 - 

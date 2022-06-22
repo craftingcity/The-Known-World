@@ -14,8 +14,14 @@ The Bluecap mushrooms cultivated in Mountain Hall make a thick musky flour. Most
 ### Food
 What lives here?
 #### Meat
+Goats and Chicken are husbanded in Mountain Hall. They are fed moss, insects, squash rinds, and other wastes. Beef is imported from the north.
+
 #### Dairy
+Goat's milk and cheese are the locally produced dairy. Eggs are produced en mass by chicken.
+
 #### Grain
+Bluecap Mushroom creates a crumbly musky flour. Other grains are imported, but they are expensive compared to Bluecap.
+
 #### Fruit
 #### Vegetable
 #### Spice and Oil
