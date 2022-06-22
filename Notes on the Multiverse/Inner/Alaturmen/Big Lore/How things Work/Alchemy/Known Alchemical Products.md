@@ -228,6 +228,8 @@ This white fluffy powder combines with the oils in one's skin and provides advan
 #### Bulbkiss
 Alchemically treated smokebulb formed into crystals and crushed into powder for a purer and more powerful – and addictive – experience.
 
+#### Nova
+
 # Common Enchanter's Products
 ## Runes
 Runes can be written in Magical Chalk or Magical Bituitem to invoke specific effects during ritual, but must become a part of the item they are affecting if the enchanter intends their effect to be permanent. Any "enchanted" item is created by applying runes to some portion of the item and invoking Weave Arcane upon the Rune.
@@ -295,6 +297,8 @@ When an enchanter is attempting to capture the effect of a specific spell, they 
 ### Camp
 #### Pressigen Foldable Tent
 The Pressigen keeps water out and the metal poles create a quick set up and take down time. While heavier than a simple bedroll, the comfort is worth the expense :) *~ding*
+### Exploration
+#### Heart Vine
 ## Weaponry
 ### Throwable
 #### Flashpellet
@@ -302,3 +306,5 @@ A small, fragile, opaque bead. When the bead is shattered with force, creatures 
 
 #### Spell Smoke
 A tight bundle of herbs wrapped in a ignitable substance and treated by an Alchemist. When burned, this stick of herbs produces a thin cloud of white smoke in a 10-foot radius that almost seems to sparkle and shimmer. When within the smoke, no obscurity is provided. Spell attacks and Concentration checks performed within the radius are at disadvantage.
+
+#### Thorn Bloom

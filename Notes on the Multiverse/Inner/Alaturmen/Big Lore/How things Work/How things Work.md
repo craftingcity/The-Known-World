@@ -9,7 +9,6 @@ aliases:
 	- **Alchemy**
 		- [[Durandurm Weaponry]]
 		- [[How Alchemy Works]]
-		- [[Known Alchemical Ingredients]]
 		- [[Known Alchemical Products]]
 	- **Magic**
 		- [[How the Weave becomes Magic]]

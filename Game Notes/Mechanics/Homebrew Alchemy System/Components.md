@@ -4,13 +4,14 @@ aliases:
 ---
 # Table of All Alchemical Components
 
-Component Name | Component Motif | Type | Area | Numerical Rarity (1-3,4,5) | Value (sp per gal/lb) | Notes
+Component Name | Component Motif | Type | Area | Numerical Rarity (1-3,4,5) | Value (sp per unit (gal/lb/carat)) | Notes
 ---|---|---|---|---|---|---
 Alkanet Pulp | healing / disease | flora | common | 1 | 1.0
 Aloe Vera Nectar | healing / fire | flora | south-west | 2 | 12.0
 Dragon's Tongue | fire / dragon | flora | south-east | 3 | 21.2
 Foxglove Pulp | illusion / form | flora | common | 2 | 4.5
 Ginko Leaf | illusion / charm | flora | south-east | 2 | 4.0
+Oxa Leaf
 Lavender | poison / charm | flora | south-west | 1 | 8.5
 Nightshade | poison / form | flora | north-west | 4 | 120.0
 Witchweed | poison / arcana | flora | north-east | 2 | 1.2
@@ -23,6 +24,8 @@ Stinkhorn | poison / air | flora | north-west | 1 | 0.4
 Smokebulb | poison / illusion | flora | underground | 3 | 8.8
 Tobacco | poison / air | flora | northern | 1 | 1.4 
 Cannabis | charm / healing | flora | northern | 1 | 4.2 
+Dareanamon
+Isiopara
 Goodberry | healing / arcana | flora | arcane | 2 | 3.5
 Brightmoss | light / water | flora | underground | 3 | 18.0
 Apple Seed | poison / disease | flora | north-east | 1 | 1.4
@@ -54,11 +57,14 @@ Gullet (ankheg)
 Gullet (gorgon)
 Gullet (rust monster)
 Heart (dragon)
+Hair
+Hair (satyr)
 Horn (minotaur)
 Horn (devil)
 Horn (unicorn)
 Ivory
 Liver (dragon)
+Scale
 Scale (hydra)
 Scale (dragon)
 Leather
@@ -74,3 +80,52 @@ Excrete (devil)
 Ectoplasm
 Waste (bat)
 ---|---|---|---|---|---|---
+Agate
+Amber
+Crystal (colored)
+Crystal (clear)
+Diamond
+Ruby
+Sapphire
+Emerald
+Amethyst
+Glass
+Onyx
+Jade
+Quartz (white)
+Quartz (rose)
+Durandurm
+Adamentine
+Alabaster
+Copper
+Gold
+Iron
+Silver
+Lead
+Pewter
+Platinum
+Mithril
+Zinc
+Mica
+Marble
+Slate
+Granite
+Sandstone
+Limestone
+Alum
+Chalk
+Coal
+Charcoal
+Soil (rich)
+Soil (holy)
+Salt
+Elemental Salt
+Sulfur
+Crude Oil
+Bitumen
+Clay
+Mercury
+Ash (wood)
+Ash (bone)
+Liquor
+Distilled Water
