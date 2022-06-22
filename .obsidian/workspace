@@ -6,11 +6,23 @@
       {
         "id": "6088c9b186949dfc",
         "type": "leaf",
-        "dimension": 59.01639344262295,
+        "dimension": 56.52701882210079,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "31eb79c40e38731d",
+        "type": "leaf",
+        "dimension": 22.70795385549484,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
             "mode": "source"
           }
         }
@@ -18,23 +30,11 @@
       {
         "id": "8bacb50f2a9b9b91",
         "type": "leaf",
-        "dimension": 22.768670309653917,
+        "dimension": 20.76502732240437,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "16e9bf0b0ace12f3",
-        "type": "leaf",
-        "dimension": 18.21493624772313,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
             "mode": "source"
           }
         }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md"
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "6088c9b186949dfc",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
     "Game Notes/Mechanics/Homebrew Alchemy System/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/New Quillbuck.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/New Quillbuck.md"
   ]
 }
