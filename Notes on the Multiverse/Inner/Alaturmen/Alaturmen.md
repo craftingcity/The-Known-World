@@ -1,4 +1,6 @@
 # Alaturmen - Prime
+![[alaturmen-100AF.png]]
+
 %% Begin Waypoint %%
 - **[[Alaturmen]]**
 	- **About People**
@@ -44,7 +46,6 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
-				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
 				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
@@ -124,10 +125,12 @@
 				- [[Yawning Pillow]]
 		- **Northwestern Central**
 			- [[NW Travel Table]]
+			- **Smaller than a city**
 			- **Smaller than a feature**
 				- [[Baskin]]
 				- [[Kohnstamm]]
 				- [[The Holy City of Kanielkiln]]
+				- [[Wychway]]
 			- **Smaller than a village**
 				- [[Kakurak's Lair]]
 			- [[The Holyl'nds]]
@@ -141,6 +144,7 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
+			- **Smaller than a village**
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
 			- [[Mountain Hall]]

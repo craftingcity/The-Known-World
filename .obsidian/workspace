@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "410c08e1fce2f24e",
+        "id": "2935f22b819c7a01",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Huntyr Swamp.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Huntyr Swamp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Huntyr Swamp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Huntyr Swamp.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -121,17 +113,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "410c08e1fce2f24e",
+  "active": "2935f22b819c7a01",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Huntyr Swamp.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Southern Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Centerlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Northern Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Southern Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "MEDIA/MEDIA.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
+    "Untitled.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
+    "MEDIA/MEDIA.md",
+    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
+    "MEDIA/MAPS/WORLD/combine-100AF.png",
+    "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
   ]
 }
