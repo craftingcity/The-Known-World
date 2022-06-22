@@ -23,6 +23,7 @@ The people in this area speak a common language known as [[High Common]]. It cla
 The people of the Holyl'nd revere [[Its Greatness]] for allowing itself to be contained and giving their peers power. 
 
 #### Economics
+See [[Economics of The Holyl'nds]]
 ### Symbolism
 ## Technology
 ### Magic

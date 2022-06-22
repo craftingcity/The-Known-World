@@ -34,19 +34,19 @@ Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes
 #### Spice and Oil
 Locally grown Beets make Sugar. This sugar and rock salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods, and expensive Oils are imported from the south. 
 
-Ginger and Parsley are native to the region and grow well in the limits of Actstow's greenhouses. 
+Ginger and Parsley are native to the region and grow well in the limits of Actstow's greenhouses. Garlic and Onion does not taste desirable when grown under any reasonable conditions in Actstow, but they are imported from the east cheaply alongside Mint and Cinnamon. Peppercorn, Lemongrass, and Lavender are all low supply commodities imported from the west. The even more expensive Southern spices (wow, many demand), such as Nutmeg, Cumin, Paprika, Sage, Jasmine, Wasabi, and Basil are rarer, but still accessible to those with the right connections.
 
 #### Delicacy
 Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow dish. Pairs well with ginger, onion, and garlic.
 
-A local delicacy of the children of Actstow is a frozen dairy cream, sweetened with spices such as cinnamon, ginger, and fruit.
+A local delicacy of the children of Actstow is a frozen dairy cream, sweetened with spices such as cinnamon, ginger, or fruit preservative.
 
-Actstow is a fairly rich place, although not well positioned for massive trade, meaning most delicacy is imported or outlawed.
+Actstow is a fairly rich place, although not very well positioned for massive trade, meaning most delicacy is imported or outlawed.
 
 ### Vices
-The home-grown vices of Actstow are Smokebulb, Tobacco, and Cannabis. Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere and are much more culturally acceptable.
+Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere (or secretly home-grown) and are much more culturally acceptable.
 
-Some brothels crop up in Actstow, but these, like Smokebulb, are considered culturally unacceptable and are generally run *poorly*, refusing assistance from the [[Guild of Merchants]].
+Some brothels crop up in Actstow, but these too are considered culturally unacceptable. They are generally run savagely in addition, as they must publicly exist to be assisted by the [[Guild of Merchants]].
 
 ### Land
 Land in Actstow is a prime resource. One can purchase or lease land from the King or the ruling Clan in units of 1/8th acres. Rooms in Inns and the like are costly.
@@ -57,14 +57,14 @@ Taxes are payed by the Clans. Clans have individual tax regimes, using different
 All mines are owned by the King of Actstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of what they mined after management takes its due. 
 
 ### Cutting Corners
-Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves, i.e. crime. 
+Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves, i.e. just crime. 
 
-The most common of these methods is tax evasion. Most citizens of Actstow keep a hidden compartment or room for their most valued possessions, including (when the tax collector comes) work-stations, tools, fine furniture and clothing, and food preserves.
+The most common of these methods is tax evasion. Most citizens of Actstow keep a hidden compartment or room for their most valued possessions, that includes (when the tax collector comes) work-stations, tools, fine furniture and clothing, and food preserves.
 
 Soups and Stews are considered a poor meal. Many commoners must make these "watered down dishes" to stretch their food supplies and for ease of transport; scooping a day's breakfast and lunch on your way out the door to the mines is not uncommon in poorer families of Acstow.
 
 ### Middlemen
-The Guild of Merchants is reasonably well represented in the hills of Actstow, and can manipulate the prices for the benifit of Coalition. Unions of Miners raise the price of "private" minerals such that they can afford to continue to do their work. Much of these "private" minerals are exported to other entities by caravans that trade in such things.
+The Guild of Merchants is reasonably well represented in the hills of Actstow, and can manipulate the prices for the benefit of Coalition. Unions of Miners raise the price of "private" minerals such that they can afford to continue to do their work. Much of these "private" minerals are exported to other entities by caravans that trade in such things.
 
 Collections of stair-climbing market stalls appear wherever people gather. Markets such as these have all manner of goods, although it is common to find many things missing from the available selection as merchants move to different markets throughout the day.
 
@@ -73,26 +73,22 @@ Most production companies in Actstow are teams of at least two members, one to a
 
 Because this "family" style operation is so common in Actstow, specialists have an easier time hiding their secrets from spies and competitors.
 
-Actstow does mint its own coins, but Prosper's coins are accepted for their full value here.
+Actstow does mint its own coins, but both Prosper's and the Church's coins are accepted for their full value here.
 
 ### Textiles
 Linen and Fine Leathers are the only truly acceptable clothing materials in Actstow. Feathers are a common filigree.
 
 Hemp is a poor dwarves' material, more used for containing than wearing. 
 
-Farms of domesticated Wurm make many colors dye, but the Pure Whites and Blacks are extremely rare in Actstow.
+Farms of domesticated Wurm make many muted colors dye, but the Pure Whites and Blacks are extremely rare in Actstow.
 
 ### Preservation
-What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
-
 Actstow's climate is controlled, and magically maintained iceboxes are accessible to the upper middle class. Salted meats and Canned fruits and vegetables are extremely common in Actstow to those that cannot afford to keep ice.
 
 ### Containers
 Many containers are metal or glass, and re-usability is a prime directive when crafting containers.
 
-The people of Actstow generally use metal, preferring to keep their secrets.
-
-Wooden and Ceramic containers are acceptable, cheaper alternatives to the finer metallic dishes.
+The people of Actstow generally use metal, preferring to keep their secrets. Wooden and Ceramic containers are acceptable, cheaper alternatives to the finer metallic dishes.
 
 ### Mining
 Anything and everything can be mined in the [[Actstow Hills]], but many things are rarer than others. Durandurm is extremely rare even compared to other gem rarities.
