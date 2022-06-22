@@ -17,12 +17,16 @@ Iron Ember | Church | 1.0 | a small coil of 2 ounces workable iron
 Golden Fifth | Church | 2.0 | one-fifth of a gold whole
 Golden Whole | Church | 10.0 | a complete gold whole, five fifths
 --- | --- | ---- | ---
-Lead Finger | Tetrimoc | 0.1
-Lead Claw | 
-Silver Puck | Tetrimoc | 0.8
-Golden Puck | Tetrimoc | 8.0
-Golden Finger | Tetrimoc | 26.0
+Lead Finger | Tetrimoc | 0.1 | dragonly finger of lead
+Lead Claw | Tetrimoc | 0.7
+Silver Puck | Tetrimoc | 0.8 | a half ounce of silver, minted
+Golden Puck | Tetrimoc | 8.0 | a half ounce of gold, minted
+Golden Finger | Tetrimoc | 26.0 | dragonly finger of gold
+Golden Claw | Tetrimoc | 182.0
 --- | --- | ---- | ---
+Tin Bit | Actstow | 0.1
+Jade Bit | Actstow | 
+
 
 
 

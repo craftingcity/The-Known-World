@@ -57,6 +57,8 @@ What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 ### Mining
 What can be mined? How elaborate are the setups?
 
+Lead, Silver, and Gold can be found in abundance in this area.
+
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
