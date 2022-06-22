@@ -19,3 +19,9 @@ Much of the North West is civilized. The people here are under the strong cultur
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
 
 #### Native Fauna
+#### Hooks
+[[The Church of the White Flame]]
+[[Dwarven Kingdom Actstow]]
+[[Cenva Minyo]]
+[[Dwarven Kingdom Suremantle]]
+[[Druids of Ignan]]

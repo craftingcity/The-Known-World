@@ -19,3 +19,6 @@ Much of the South East is civilized. People here are from all over, and they all
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
 
 #### Native Fauna
+#### Hooks
+See [[The Democratic Combine of Peoples#Notable Factions]].
+[[Druids of Aquan]]

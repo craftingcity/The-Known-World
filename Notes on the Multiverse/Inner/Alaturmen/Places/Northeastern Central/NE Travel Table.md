@@ -19,3 +19,9 @@ Much of the North East is civilized. The outskirts of this area are densely inha
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
 
 #### Native Fauna
+#### Hooks
+[[Dwarven Kingdom Actstow]]
+[[Cenva Minyo]]
+[[Northeastern Hobgoblin Territories]]
+[[Kingdom of Prosper]]
+[[Druids of Ventan]]

@@ -59,7 +59,6 @@
 				- [[Druids of Ventan]]
 			- **Dwarven Kingdoms**
 				- [[Dwarven Kingdom Actstow]]
-				- [[Dwarven Kingdom Copperhammer]]
 				- [[Dwarven Kingdom Jammu]]
 				- [[Dwarven Kingdom Suremantle]]
 		- **Player Characters**

@@ -37,6 +37,8 @@ The prime delicacy of Mountain Hall is the chevron-bluecap kabasa. It is often s
 ### Vices
 What do people do for *fun*?
 
+Smokebulb is cultivated in great quantity in Mountain Hall alongside 
+
 ### Land
 Think about how people get their land, from who, and what features would there be?
 

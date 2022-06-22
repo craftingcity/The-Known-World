@@ -19,3 +19,8 @@ Much of the South West is civilized. The outskirts of this area are densely inha
 How many? How big is it / are they? How badly do they need it? Why is that interesting to the players and their characters?
 
 #### Native Fauna
+#### Hooks
+[[Desert Thieves]]
+[[The Deserts of Tetrimoc#Nomads]]
+[[Golden Claws]]
+[[Druids of Terran]]
