@@ -4,13 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2614265e56a55b2e",
+        "id": "da0b0666cd892861",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7b934c5ed821dba5",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
           }
         }
       }
@@ -48,11 +58,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
               }
             }
           }
@@ -120,17 +132,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2614265e56a55b2e",
+  "active": "7b934c5ed821dba5",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Druids of Alaturmen/Druids of Alaturmen.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Orcish Shamans/Orcish Shamans.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Combine Rulers.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Folk of Business/Folk of Business.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Guilded Adventuers/Guilded Adventuers.md",
-    "Game Notes/NPCs/on Alaturmen/Mild Power/Thief Lords of the Desert/Thief Lords of the Desert.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Untitled.md",
+    "A Grand Notepad.md"
   ]
 }

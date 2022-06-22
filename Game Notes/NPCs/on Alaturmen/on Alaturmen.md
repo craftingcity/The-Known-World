@@ -9,6 +9,8 @@ aliases:
 - **[[on Alaturmen]]**
 	- **High Power**
 		- **[[Adventuring Parties]]**
+		- **[[Authors, Bards, and Lorekeepers]]**
+		- **[[Combine Rulers]]**
 		- **Dragons**
 			- [[Blackacid]]
 			- [[Detraminx]]
@@ -23,26 +25,28 @@ aliases:
 			- **[[Guild Merchants]]**
 			- **[[Guild Wizards]]**
 		- **[[High Holyl'nders]]**
-		- **[[Historical Figures]]**
 		- **[[Loose Wizards]]**
 		- **[[Northeastern Clan Leaders]]**
 		- **[[Propsper Nobility]]**
 		- **[[World Villans]]**
 	- **Higher Power**
 		- **[[Alaturmen's Gods]]**
+		- [[All-Father Annam]]
 		- **[[Demon Lords]]**
 	- **Low Power**
 		- **[[Combine Citizens]]**
-		- **[[Ex-Bandit Lords]]**
+		- **Desert Citizens**
+		- **G-City Citizens**
 		- **King's Tenants**
 			- [[Balthazar Wumfingle]]
+			- **[[Ex-Bandit Lords]]**
 			- [[Fraznky Bradley]]
 		- **[[Lower Holyl'nders]]**
+		- **[[Orcish Shamans]]**
 	- **Mild Power**
-		- **[[Combine Rulers]]**
+		- **Employees of Golden Claw**
 		- **[[Folk of Business]]**
 		- **[[Guild Representitives]]**
-		- **[[Orcish Shamans]]**
 		- **[[Tendered]]**
 		- **[[Thief Lords of the Desert]]**
 

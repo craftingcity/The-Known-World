@@ -1,3 +1,8 @@
+---
+tags: bookkeeping
+aliases:
+---
+
 # Who has a Horde?
 ## And Where?
 

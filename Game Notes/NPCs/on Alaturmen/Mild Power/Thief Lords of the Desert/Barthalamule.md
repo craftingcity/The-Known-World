@@ -2,8 +2,8 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
+# Barthalamule
+## Thief Lord of the Desert
 ### pronouns
 #### VO EXAMPLE:
 

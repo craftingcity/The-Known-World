@@ -19,7 +19,6 @@ aliases:
 			- [[Guild of Merchants]]
 			- [[Guild of Wizards]]
 			- [[Ranger's Guild]]
-	- [[Desert Thieves]]
 	- **Druids of the Idols**
 		- [[Druids of Animan]]
 		- [[Druids of Aquan]]

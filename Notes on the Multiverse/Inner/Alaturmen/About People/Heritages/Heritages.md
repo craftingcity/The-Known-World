@@ -10,6 +10,7 @@ aliases:
 	- [[Dwarven Specifics]]
 	- [[Eladrin Specifics]]
 	- [[Elven Specifics]]
+	- [[Giant Specifics]]
 	- [[Gnoll Specifics]]
 	- [[Gnome Specifics]]
 	- [[Goblin Specifics]]

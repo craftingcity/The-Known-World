@@ -17,7 +17,7 @@ The Claws also patrol around the area claimed for [[Tetrimoc]] on their war wyve
 ### Thieves
 The Thieves follow [[The Code of Thieves]]. By all following these simple ideals, they  
 
-Three "teams" of thieves have become very well established, and fight against each other and the four or more nomadic collectives for the few and far between resources in the desert. The "teams" are each named after and headed by a "team captain" who has proven themself in their own way. Currently, the three teams are lead by [[Agrandica]], [[Barthalmule]], and [[Cobalt]].
+Three "teams" of thieves have become very well established, and fight against each other and the four or more nomadic collectives for the few and far between resources in the desert. The "teams" are each named after and headed by a "team captain" who has proven themself in their own way. Currently, the three teams are lead by [[Agrandica]], [[Barthalamule]], and [[Cobalt]].
 
 Food, water, and medicine are primary concerns, while ammunition and weaponry are secondary. Raw resources such as wood, stone, and metal are tertiary, as the Thieves rarely make - preferring to maintain - permanent structures.
 

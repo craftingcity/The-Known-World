@@ -1,5 +1,5 @@
 ---
-tags: bookkeeping, 
+tags: bookkeeping, loreful
 aliases:
 ---
 
