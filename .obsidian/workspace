@@ -7,8 +7,33 @@
         "id": "f05d0070928bf42f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "68f4defae3e84252",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Southern Mossland.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "183b935503784353",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md"
+              }
             }
           }
         ],
@@ -114,17 +143,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "f05d0070928bf42f",
+  "active": "183b935503784353",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Eastlick Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Southern Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Northern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Southern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "MEDIA/MEDIA.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "ORGANIZATION/Organizational Notions.md",
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Outlands.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
