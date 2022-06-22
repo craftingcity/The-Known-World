@@ -23,7 +23,7 @@ The largest dairy in this area is cow's milk. Cheese and butter are created from
 While some grains can be found in import, the only grain that grows in this area is "Great Maize", a white variant of traditional corn / maize. The flavor is blander than its more colored cousin, but beggars cannot be choosers.
 
 #### Fruit
-Very few fruits will survive the soil in this area. The two most consumed fruits in this area are avocado and pear, both of which survive in the soil of the Holyl'nds. Solan Berry are cultivated in this area, but their tomato-like fruit grow to be small, grey, and saggy.
+Very few fruits will survive the soil in this area. The two most consumed fruits in this area are avocado and pear, both of which survive in the soil of the Holyl'nds. Solan Berry are cultivated in this area, but their tomato-like fruit grow to be small, grey, and saggy. Heart-nuts are produced as large fruit on small trees in this region, although they are not culturally acceptable as food for a person.
 
 #### Vegetable
 Lettuce, Cabbage, and Squash perform well in the soil in this area. Beans are a rotation crop, and it is generally considered animal's food, but certain dishes such as some stews or salads they are essential in.
@@ -103,7 +103,7 @@ Charcoal is the must abundant mine-able in the region sans the holyl'nd itself. 
 ### Magic / Technology
 The magic of this region is held in and enforces the theocracy of [[The Church of the White Flame]] and therefore is modulated through [[Its Greatness]]. Commoners experience magic as religion; the crops are shit this year because you made our god made, or, the crops are really good this year because we made our god happy.
 
-The technology of this region is par for the region; wind and manual power is efficiently used to solve common problems. Buildings are built from a medium strength brick, worse than ceramic or concrete, 
+The technology of this region is par for the region; wind and manual power is efficiently used to solve common problems. Buildings are built from a medium strength brick, worse than ceramic or concrete, and most "fine" components of a building or machine are built of iron, copper, or bronze.
 
 ### Other Notes
 - 

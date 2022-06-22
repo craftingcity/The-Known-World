@@ -16,25 +16,25 @@ Potatoes grow well in the conditions of Acstow's greenhouses, and grow plentiful
 Foul make up the large majority of an Acstownian's meat supplies. Chevron takes a far second. No game is available in Actstow, as it is neither produced nor imported here.
 
 #### Dairy
-Goat is the only available true dairy in Actstow. Peanut and Almond milks are acceptable substitutes in most cases.
+Goat is the only available true dairy in Actstow. Peanut and Almond milks are acceptable substitutes in most cases - peanut being the local commodity, it is less expensive, almond being the desired commodity, it is imported quickly from neighboring states.
 
 #### Grain
-Potatoes and Peanuts are the two most common flours in Actstow. Potato flour makes a fluffy white bread while Peanut makes a dense protein heavy soup thickener or breading.
+Potatoes and Peanuts are the two most common flours in Actstow. Potato flour makes a fluffy white bread while Peanut makes a protein dense flour more suitable as thickener or breading.
 
-Small amounts of true grains could be found, but not in large quantities, and almost certainly not for sale.
+Small amounts of true grains could be found for use in delicacy, but not in large quantities, and almost certainly not for sale.
 
 #### Fruit
 While soil and temperature can be controlled, space is an issue for growing Fruit in Actstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
-Actstow grows Peach and Plum for their plump juices and Peanuts for their protein. Lemon, Lime, and Orange are cultivated here because of their rarely elsewhere in the world, but they are poor in quality compared to world imports. "Emerging" Avocados grow better than most in Acstow's conditions, leading them to be a higher quantity fruit in Actstow.
+Emerging avocado make for efficient and desirable fruits, and peanuts and oranges are also locally grown fruits. Pears, Apples, Grapes, Cherries and Berries are imported from many neighboring states. Almonds are imported from the east, and are as expensive as they should be for their demand and distance from their sources.
 
 #### Vegetable
-Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Actstow. Dense leafy greens like Cabbage and Lettuce grow well too.
+Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Actstow. Dense leafy greens like Cabbage and Lettuce grow well under these conditions as well. Special case is extended to Mushrooms and Squash who can handle Actstow's rough raw soil.
 
 #### Spice and Oil
-Beet Sugar and Salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods. 
+Locally grown Beets make Sugar. This sugar and rock salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods, and expensive Oils are imported from the south. 
 
-Garlic, Ginger, and Onion grow well in the limiting conditions. Mint and Parsley are commonly imported from the east. Cinnamon is more uncommon, but still accessible to the lower-middle class, also imported from the east.
+Ginger and Parsley are native to the region and grow well in the limits of Actstow's greenhouses. 
 
 #### Delicacy
 Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is a *wonderful* Actstow dish. Pairs well with ginger, onion, and garlic.
