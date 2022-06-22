@@ -1,5 +1,5 @@
 ---
-tags: natural_feature,
+tags: 
 aliases:
 ---
 

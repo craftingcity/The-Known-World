@@ -7,7 +7,6 @@ aliases:
 %% Begin Waypoint %%
 - **[[How things Work]]**
 	- **Alchemy**
-		- [[All Alchemical Ingredients]]
 		- [[Durandurm Weaponry]]
 		- [[How Alchemy Works]]
 		- [[Known Alchemical Ingredients]]

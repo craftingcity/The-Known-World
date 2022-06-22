@@ -1,5 +1,5 @@
 ---
-tags: list
+tags: bookkeeping
 aliases: Markings, Symbolism
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: npc, greyordeal, gwf, loreful
+tags: npc, greyordeal, loreful
 ---
 A Dwarven Cleric of the NPC Party [[The Grey Ordeal]]
 

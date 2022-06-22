@@ -1,5 +1,5 @@
 ---
-tags: holding, combine
+tags: holding,
 aliases:
 ---
 

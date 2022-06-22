@@ -1,3 +1,7 @@
+---
+tags: fey, planes
+aliases:
+---
 # Feywild
 %% Begin Waypoint %%
 - **[[Feywild]]**

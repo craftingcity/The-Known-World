@@ -1,5 +1,5 @@
 ---
-tags: npc, dragon, current
+tags: npc, dragon
 ---
 # Kakurak
 ## the Arbitrator, the First Great Adventurer Dragon

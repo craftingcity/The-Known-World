@@ -1,6 +1,6 @@
 ---
 aliases: Its Greatness, It's Greatness, The Holy Flame, White Flame, The Great White Flame
-tags: npc, deity, gwf
+tags: npc, deity
 ---
 
 Its Greatness is the White Flame in this area's name. It is the white flame seen in the many cities of this place. It is seen wherever there is but should not be a great human triumph in [[The Holyl'nds]] and wherever this land perseveres even given its scars.

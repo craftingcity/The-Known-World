@@ -1,5 +1,5 @@
 ---
-tags: stub, loreful, age_of_beginning
+tags: stub, loreful,
 aliases: Minyostalma's Ruins, Minyostalma, The Old Ruins
 ---
 

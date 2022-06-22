@@ -1,5 +1,5 @@
 ---
-tags:
+tags: mechanics
 aliases:
 ---
 # Known Alchemical Products

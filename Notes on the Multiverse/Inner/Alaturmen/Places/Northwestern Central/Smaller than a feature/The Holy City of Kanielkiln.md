@@ -1,5 +1,5 @@
 ---
-tags: holding, gwf
+tags: holding,
 aliases: The Holy City of Kanielkiln, Kanielkiln, The Holy City, Holy City of Kanielkiln
 ---
 

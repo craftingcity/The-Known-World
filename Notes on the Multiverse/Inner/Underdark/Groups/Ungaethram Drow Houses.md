@@ -1,5 +1,5 @@
 ---
-tags: Underdark, politics
+tags: Underdark
 aliases:
 ---
 ### "The Upper Third":

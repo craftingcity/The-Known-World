@@ -1,5 +1,5 @@
 ---
-tags: player_character
+tags: player_character, elven
 aliases:
 ---
 Amashod was born to [[Eladrin Specifics]] parents. She was called Essamale. When she was young, her brother was captured by the [[House Thoulca]], and she gave pursuit. She was on her own in the [[Underdark]] for a long time. She has at least once encountered a shadow dragon.

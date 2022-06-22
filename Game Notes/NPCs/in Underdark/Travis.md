@@ -1,5 +1,5 @@
 ---
-tags: npc, current
+tags: npc
 aliases:
 ---
 # Travis, Bloodbrother

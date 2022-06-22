@@ -1,5 +1,5 @@
 ---
-tags: plane, needs_work
+tags: planes, needs_work
 aliases: The Deep Below, Deep Below
 ---
 

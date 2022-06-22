@@ -1,5 +1,5 @@
 ---
-tags: npc, leader, interplanar
+tags: npc, leader, planes
 ---
 # The Jarl of the Grungarian Frost Giant Clan
 

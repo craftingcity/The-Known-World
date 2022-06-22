@@ -1,5 +1,5 @@
 ---
-tags: Underdark, flora
+tags: Underdark
 aliases:
 ---
 

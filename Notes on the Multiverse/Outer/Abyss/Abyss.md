@@ -10,10 +10,10 @@ There are five layers to the Abyss, each ruled by a demon lord. Demons and their
 
 ## [[Demogorgon]], Lord of All Demons, Prince of the Abyss
 
-## [[Orcus]], Lord of Undead, Prince of Thanatos
+## [[Orcus]], Lord of Undead, Prince of [[Thanatos]]
 
-## [[Graz'zt]], Lord of Pleasure, Prince of Hydonga
+## [[Graz'zt]], Lord of Pleasure, Prince of [[Hydonga]]
 
-## [[Baphomet]], Lord of Beasts, Prince of Endless Maze
+## [[Baphomet]], Lord of Beasts, Prince of [[Endless Maze]]
 
 ## [[Juiblex]], Lord of Ooze, Prince of Nothing

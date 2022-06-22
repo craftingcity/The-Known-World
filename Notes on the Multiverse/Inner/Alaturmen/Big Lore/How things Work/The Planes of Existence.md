@@ -1,5 +1,5 @@
 ---
-tags: planes, world, needs_work
+tags: planes, bible
 aliases: The Planes, Planes
 ---
 # The Material Plane

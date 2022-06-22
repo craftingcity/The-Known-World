@@ -1,5 +1,5 @@
 ---
-tags: player_character, my_PC
+tags: 
 aliases: Amelia the Red, Amelia, 
 ---
 

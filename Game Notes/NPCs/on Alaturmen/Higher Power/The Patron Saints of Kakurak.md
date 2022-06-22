@@ -1,5 +1,5 @@
 ---
-tags: non-cannon
+tags: non-canon
 aliases:
 ---
 

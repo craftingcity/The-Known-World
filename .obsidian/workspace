@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a003878c7dc837e",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "d921545db30873c0",
+        "id": "6f632fb7ff7cd1c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wildlands.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
             "mode": "source"
           }
         }
@@ -47,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#symbol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildlands.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +86,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequencyReverse",
                 "useHierarchy": true
               }
             }
@@ -105,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildlands.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildlands.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md"
               }
             }
           }
@@ -128,17 +120,17 @@
     "direction": "horizontal",
     "width": 538.6111450195312
   },
-  "active": "d921545db30873c0",
+  "active": "6f632fb7ff7cd1c9",
   "lastOpenFiles": [
-    "Wildlands.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
-    "Giant Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
-    "All-Father Annam.md",
-    "Ordening.md",
-    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/World Villans/Qiell Tilemundon.md",
-    "Game Notes/Fronts/Nala Co..md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
+    "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/All Alchemical Ingredients.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md"
   ]
 }

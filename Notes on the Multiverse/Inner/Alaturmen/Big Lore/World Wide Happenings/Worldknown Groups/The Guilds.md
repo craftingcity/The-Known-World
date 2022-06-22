@@ -1,5 +1,5 @@
 ---
-tags: group, coalition, guilds
+tags: groups, coalition,
 ---
 # The Guilds
 The guilds function as the "federal government", as such that they enforce general practices across the peaceful lands that they can access.

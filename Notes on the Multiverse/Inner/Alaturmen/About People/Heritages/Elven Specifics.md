@@ -1,5 +1,5 @@
 ---
-tags: race_specifics
+tags: race_specifics, elven
 aliases:
 ---
 ## Legends from the Eladrin

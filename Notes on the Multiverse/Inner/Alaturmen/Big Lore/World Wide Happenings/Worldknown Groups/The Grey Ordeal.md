@@ -1,5 +1,5 @@
 ---
-tags: group, greyordeal
+tags: groups, greyordeal
 ---
 # The Grey Ordeal
 

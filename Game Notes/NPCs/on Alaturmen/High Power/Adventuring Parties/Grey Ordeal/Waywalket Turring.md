@@ -1,5 +1,5 @@
 ---
-tags: npc, combine, loreful, greyordeal
+tags: npc, loreful, greyordeal
 ---
 Waywalket 'Phnipper' Turring, the gnomish wizard of the [[The Grey Ordeal]]. Born and raised in the [[The Democratic Combine of Peoples|Combine]]; hails specifically from {more to come}
 

@@ -1,5 +1,5 @@
 ---
-tags: magic_items, loreful
+tags: bookkeeping, loreful
 aliases:
 ---
 

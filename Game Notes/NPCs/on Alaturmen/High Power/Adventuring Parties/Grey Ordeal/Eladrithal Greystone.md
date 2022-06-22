@@ -1,5 +1,5 @@
 ---
-tags: npc, loreful, greyordeal, gwf
+tags: npc, loreful, greyordeal, elven
 ---
 # Eledrithal Greystone
 

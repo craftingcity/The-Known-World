@@ -1,5 +1,5 @@
 ---
-tags: encounter, monster, WarBeast
+tags: 
 aliases: 
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: timeline-labeled, world, notes, prime
+tags: timeline-labeled, bookkeeping
 ---
 
 # Prime's Grand [Timeline](https://github.com/George-debug/obsidian-timeline)

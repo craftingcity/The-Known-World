@@ -1,5 +1,5 @@
 ---
-tags: group, elven
+tags: groups, elven
 aliases:
 ---
 

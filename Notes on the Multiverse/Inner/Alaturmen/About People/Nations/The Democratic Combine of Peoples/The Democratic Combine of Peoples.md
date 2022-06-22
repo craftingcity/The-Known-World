@@ -1,5 +1,5 @@
 ---
-tags: group, 
+tags: groups, 
 aliases:
 ---
 # The Democratic Combine of Peoples

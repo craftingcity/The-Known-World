@@ -1,5 +1,5 @@
 ---
-tags: player_character
+tags: player_character, elven
 aliases:
 ---
 
