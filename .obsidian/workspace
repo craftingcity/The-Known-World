@@ -4,12 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "2935f22b819c7a01",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "4046cd7466b076cf",
+        "type": "split",
+        "children": [
+          {
+            "id": "c6e2518024906ebc",
+            "type": "split",
+            "children": [
+              {
+                "id": "439e62d6aed6f771",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "b953578e222f1c6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "feeede3ad1a627f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of the Hobgoblin Territories.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "2d38096ff9f5c08a",
+            "type": "split",
+            "children": [
+              {
+                "id": "94511dfb625a00b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "8326e940c477d2c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "d9cc15bf52395f10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Prosper.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "e187fd0aa4c49097",
+            "type": "split",
+            "children": [
+              {
+                "id": "1b2d398b4bf6df1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "3bd02c1c62c6906e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Coalition City.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "8828b9225846cf97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -66,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +224,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md"
+              }
             }
           }
         ],
@@ -114,17 +237,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2935f22b819c7a01",
+  "active": "439e62d6aed6f771",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
-    "Untitled.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
-    "MEDIA/MEDIA.md",
-    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
-    "MEDIA/MAPS/WORLD/combine-100AF.png",
-    "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of the Hobgoblin Territories.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Cenva Minyo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md"
   ]
 }

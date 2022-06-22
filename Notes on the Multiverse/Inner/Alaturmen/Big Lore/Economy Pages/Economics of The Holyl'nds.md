@@ -9,7 +9,7 @@ aliases:
 The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in [[Its Greatness|It's]] glory. The Holyl'nds experience cold, wet weather patterns.
 
 ### "White" Corn
-Cornbread is the bread of "choice" in the Holyl'nds. Other, perhaps truer, grains simply do not grow in this area.
+The fine silty soil of this land does not grow any grain other than a type of white maize. This is typically formed into a cornbread and served with carrot, potato, and foul.
 
 ### Food
 What lives here?

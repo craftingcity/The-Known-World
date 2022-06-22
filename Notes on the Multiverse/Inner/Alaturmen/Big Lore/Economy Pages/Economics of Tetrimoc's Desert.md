@@ -11,6 +11,7 @@ I'm gonna need at the very least, a size, terrain, and weather pattern.
 Tetrimoc's Desert is a lawless and vast desert. Warm during the day, cold during the night – and very dry.
 
 ### Corn
+The Desert of Tetrimoc is warm during the day and cold during the night. Maize grows well in these conditions, and consumes most of the nutrients in the sandy soil in this region.
 
 ### Food
 What lives here?
