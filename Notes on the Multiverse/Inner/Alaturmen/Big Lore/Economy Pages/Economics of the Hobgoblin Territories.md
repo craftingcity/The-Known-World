@@ -12,34 +12,39 @@ The area of the Hobgoblin Territories is largely forested. It is cold and rainy 
 The people of the Territories most commonly consume a combination of powdered fruits, meats, and fats. This paste-like dish keeps for long periods of time and can be created with simple ingredients.
 
 ### Food
-What lives here?
+Most clans in the Territories participate in nomadic hunter-gather behavior, and prefer to cultivate crops and livestock through manipulation rather than "traditional" farming.
+
 #### Meat
-The most common meat is game by a large degree. Rat and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal.
+The most common meat is game by a large degree. Rabbit and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal.
 
 #### Dairy
 Goat's milk and cheese are the only true dairy produced in this region. Some clans press almonds and create a milk-like-substance in this manner. Eggs are harvested as forage from wild birds.
 
 #### Grain
-Barley grows in small wild patches in this region. Some clans process heart-nuts and almonds into a flour, and this makes a fine alter
+Barley grows in small wild patches in this region. Some clans process heart-nuts and almonds into a flour, and this makes a fine alternative when grain is necessary.
 
 #### Fruit
-Apple, Pear, and Berries grow in abundance in the dense forests of the area. Sweet and Hard drinks made from these fruits are the preferred drinks of the area, although Beer is produced as well.
+Apple, Pear, and Cherries grow in abundance in the dense forests of this region. Heart-nut and Almond trees also grow wild here. All of these fruit trees are cultivated into orchards by clans through years of manipulation.
 
 #### Vegetable
-Lettuces, Cabbage, Carrots, Potatoes grow well in the shade of the dense forests. Animals feed on grass and wild insects as well as grown vegetables as well.
+Carrots, Potatoes, Turnips, Yams, and Squash all grow well in this region and are commonly gathered by many clans of the Territories.
+
+Animals of the region are fed on grass and shrubbery.
 
 #### Spice and Oil
-Mint and Parsley grow well in the shade, as well as the common roots such as Garlic and Onion.
+Mint and Parsley grow well in the shade, as well as the common roots of Garlic and Onion.
 
-Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juice.
+Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juices.
 
-Nut oils and milks are made, but considered poor replacements for goat's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
+Nut oils and milks are made, but considered poor replacements for goat or cow's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
 
 #### Delicacy
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
 
 ### Vices
-The Clans of the Territories gather for Festivals and Gladiatorial Combat when at peace. The hard drinks of fruit are prized in this area, beer less, but acceptably so. Some of the forage of the area is psychedelicly active, and highly prized for this effect.
+The Clans of the Territories gather for Festivals and Gladiatorial Combat when at peace. The hard drinks of fruit are prized in this area, beer less, but acceptably so. Tobacco has been cultivated here for years, and Cannabis is cheaply imported from the south-west.
+
+Smokebulb grows rarely in this region, and is a highly desired ritual medicine in the here.
 
 ### Land
 The Clans of the Territories fight eachother for their land. If they can take land by force, a Mangugu would attempt to do so, for the prosperity of their clan. 
@@ -53,19 +58,23 @@ When times are very tough, the people of the Territories know that they are not 
 Butter is a necessity of life in the Territories, most people make it on their own, during travel. If survival is key, forgoing even the simplest spices of onion and mint would stretch a Clan's budget.
 
 ### Middlemen
-Trade between peaced Clans are common enough to consider their economy together as we do, and most "merchants" work directly under their Mangugu to maintain certainty of inventory. Festival markets are quickly mobilized, in constant preparation for an assault. 
+Trade between peaced Clans are common enough to consider their economy together as we do, and most "merchants" work directly under their Mangugu to maintain certainty of inventory. Festival markets are quickly mobilized gatherings of dealers and muscle, in constant preparation for an assault. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
+Most crafts are passed through familial tale, and while this structure does maintain a monopoly on knowledge, it is quite fragile. Specialists learn from mentors of their clans.
+
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
 
+Leather and Hides are commonly worn during the warmer seasons. Winter clothing is most often lined in furs or knitted of hemp, or both. Linen and Silk are rarities in this region, and denote foreign wealth.
+
 ### Preservation
-What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+Most meat and fruits are turned into pemmican. Some meats become salted, some fruits become jellies or spreads, but it is simply the most effective use of the materials caloric.
 
 ### Containers
-What do people put stuff in? Do we show it or is it hidden? Can they be reused?
+People 
 
 ### Mining
 What can be mined? How elaborate are the setups?
