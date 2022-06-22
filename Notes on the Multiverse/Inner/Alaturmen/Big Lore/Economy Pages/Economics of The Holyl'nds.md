@@ -83,12 +83,12 @@ The [[Guild of Crafters]] keep their monopoly by maintaining hierarchy positions
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
 
-Leather is not to be worn, except as armor, and hemp is barely acceptable to commoners. Linen and Silk are the sought textiles of this region. Dyes from this area are poor, formed of fruit and vegetable matter, and imported dye is extremely expensive. Brown and grey are the two most common colors, the family of blue falling shortly behind, and anything remotely vibrant is considered regal fashion. 
+Leather is not to be worn, except as armor, and hemp is barely acceptable to commoners. Flax is a popular plantation crop; Linen and Silk are the most sought textiles of this region. Dyes from this area are poor, formed of fruit and vegetable matter, and imported dye is extremely expensive. Brown and grey are the two most common colors, the family of blue falling shortly behind, and anything remotely vibrant is considered regal fashion. 
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
-Nearly all preservatives are reserved for winter, 
+Salted beef and cow's butter and cheese are a pantry staple. These are generally wrapped in thin leathers. Corn flour is stored in linen bags. Salted avocado
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
