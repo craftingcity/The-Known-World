@@ -8,19 +8,19 @@ aliases:
 ### Prelim
 The area of the Hobgoblin Territories is largely forested. It is cold and rainy in this area. 
 
-### "Bread"
-Pemmican is a combination of powdered meat, fruit, and boiled fat. It lasts a long time, is cheap, and quite dense in nutrition.
+### Pemmican
+The people of the Territories most commonly consume a combination of powdered fruits, meats, and fats. This paste-like dish keeps for long periods of time and can be created with simple ingredients.
 
 ### Food
 What lives here?
 #### Meat
-The most common meat is game by a large degree. Rat and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal. Goose and Duck are commonly kept as well, for their feathers, eggs, and meat.
+The most common meat is game by a large degree. Rat and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal.
 
 #### Dairy
-Goats milk and cheese are reasonably common, as are Goose and Duck egg. Some folks press nuts into dairy products as well, but this is a time consuming process that produces a less desirable product.
+Goat's milk and cheese are the only true dairy produced in this region. Some clans press almonds and create a milk-like-substance in this manner. Eggs are harvested as forage from wild birds.
 
 #### Grain
-Wheat does not grow wild here, although Barley does. Acorns and Heartnut are reasonable replacements in breads, but Rye is preferable.
+Barley grows in small wild patches in this region. Some clans process heart-nuts and almonds into a flour, and this makes a fine alter
 
 #### Fruit
 Apple, Pear, and Berries grow in abundance in the dense forests of the area. Sweet and Hard drinks made from these fruits are the preferred drinks of the area, although Beer is produced as well.

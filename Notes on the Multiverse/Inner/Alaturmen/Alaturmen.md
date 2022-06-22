@@ -46,8 +46,8 @@
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
+				- **Holdings**
 				- [[Northeastern Hobgoblin Territories]]
-				- [[Simonson Clan]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
 			- [[Desert Thieves]]
@@ -125,7 +125,6 @@
 				- [[Yawning Pillow]]
 		- **Northwestern Central**
 			- [[NW Travel Table]]
-			- **Smaller than a city**
 			- **Smaller than a feature**
 				- [[Baskin]]
 				- [[Kohnstamm]]
@@ -144,7 +143,6 @@
 			- **Smaller than a feature**
 				- [[Darnt Hillkeep]]
 				- [[Red Throne]]
-			- **Smaller than a village**
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
 			- [[Mountain Hall]]
