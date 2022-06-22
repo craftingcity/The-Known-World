@@ -17,7 +17,7 @@ For the purpose of a speedy beginning to a campaign, King Snure was born in Modu
 
 Snure knew he must have this tool of war, and with it, he would become unstoppable. He gathered allies and resources by making promises he fully intended to break at his whim, but his son brought him dire news. While construction could begin immediately, a series of raids on the newest plane of the multiverse may be immediately necessary, as the supplies of the Giant Decenters were not high in [[Durandurm]].
 
-He gathered two others – the Chief Whats-His-Name and the [[Jarl Grungar]]. Together, they invaded the plane of [[Alaturmen - Prime]] using the Drow Magic of [[The Whitimores]].
+He gathered two others – the Chief Whats-His-Name and the [[Jarl Grungar]]. Together, they invaded the plane of [[Alaturmen]] using the Drow Magic of [[The Whitimores]].
 
 King Snures goals remain incomplete, as of writing, but he draws closer with each passing hour. Construction has been unable to be interrupted as of yet, and Snure's influence has held fast against the counter attack in [[Baskin]].
 
@@ -25,7 +25,7 @@ King Snures goals remain incomplete, as of writing, but he draws closer with eac
 [[Baskin]] in his new throne.
  - See [[Giant's Toe]]
 
-[[Plane of Fire]] in his old throne.
+[[The Planes of Existence#The Plane of Fire]] in his old throne.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

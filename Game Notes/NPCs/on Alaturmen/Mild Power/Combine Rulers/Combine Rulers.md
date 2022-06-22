@@ -1,4 +1,5 @@
 # Combine Rulers
+see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%
 - **[[Combine Rulers]]**
 	- [[Baron Filip]]

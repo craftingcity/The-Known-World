@@ -4,22 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b2d565953ae80a",
+        "id": "a1ae238772ea55d9",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "5f53d25348ba955a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -47,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "company",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,17 +114,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "5f53d25348ba955a",
+  "active": "a1ae238772ea55d9",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
-    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Encounters.md",
-    "Game Notes/NPCs/on Alaturmen/Higher Power/Grand Pantheon.md",
-    "Game Notes/Prenotes/'21/Prenotes Dec 16 21.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Player Characters/Tales of Kakurak's Chosen/Amashod.md",
-    "Game Notes/NPCs/in Underdark/in Underdark.md",
-    "Game Notes/NPCs/NPCs.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Coalition Guild.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Leaders/Admin/Adriana Fairlin Franx.md",
     "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Game Notes/NPCs/in Underdark/Underdark.md"
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/on Alaturmen/on Alaturmen.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Guilded Adventuers/Guilded Adventuers.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Local Leader/Local Leader.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Combine Rulers.md"
   ]
 }

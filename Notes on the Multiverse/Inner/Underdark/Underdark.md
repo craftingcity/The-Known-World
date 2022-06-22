@@ -23,6 +23,7 @@ aliases: The Deep Below, Deep Below
 	- [[Kalix]]
 	- **Locations & Holdings**
 		- [[Blurkfraggir]]
+		- [[Deepburrow]]
 		- [[Great Abadon Lake]]
 		- [[Growth Heart]]
 		- [[Heilich-Muwwoq]]

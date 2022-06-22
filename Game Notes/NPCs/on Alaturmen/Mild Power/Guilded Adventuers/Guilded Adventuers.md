@@ -1,4 +1,5 @@
 # Adventurers
+see [[Guild of Adventurers]]
 %% Begin Waypoint %%
 - **[[Guilded Adventuers]]**
 
