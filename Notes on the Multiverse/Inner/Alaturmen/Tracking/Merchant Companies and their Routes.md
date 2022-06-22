@@ -18,6 +18,8 @@ aliases:
 ### [[Deep-Guardian Tactical Security Company]]
 ### [[Ammarin Transportation]]
 ### [[Harvord Trading Company]]
+### [[Hillstone Trading Company]]
+### [[Mossburg Corporation]]
 ## Southwestern Companies
 ### [[Golden Merchant's Company]]
 # Merchant Routes
@@ -25,5 +27,12 @@ aliases:
 ### Three-Nation Route
 ## Intranational Routes
 ### Kingdom of Prosper
+#### Big Three Route
+The "big three" in this instance are [[Gambleum]], [[Janesland]], and [[Yerba]], but this route reaches more destinations than those.
+
+1. 
+
+#### Scenic Route
 ### Democratic Combine of Peoples
-### 
+### Holyl'nds
+### Tetrimoc's Desert

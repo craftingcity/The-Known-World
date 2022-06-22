@@ -5,7 +5,7 @@ aliases:
 
 # Northeastern Blood-Hobgoblin Territories
 ## History
-In the time before time, the goblinoid were united as one. Thirty-two years after [[Tetrimoc]] fell, and after thirty-two years of subjugation by the [[Bandit Lords]], the Hobgoblin of the Eastern half of the [[Great Northern Forests]] wrote and signed the [[Blood Hobgoblin Clan Pact]] before making war against all others. After the fall of the [[Bandit Lords]] and many years, these Clans made peace with the new [[Kingdom of Prosper]].
+In the time before time, the goblinoid were united as one. Thirty-two years after [[Tetrimoc]] fell, and after thirty-two years of subjugation by the [[Bandit Lords]], the Hobgoblin of the Eastern half of the [[Great Northern Forests]] wrote and signed the [[Blood Hobgoblin Clan Pact]] before making war against all others. After the fall of the [[Bandit Lords]] and many years, these Clans made peace with their newest neighbor; [[The Kingdom of Prosper]].
 
 Not long after their peace, they turned on each other, though they were never truly allied, and they still fight in the north-east forests of [[Central Alaturmen]].
 

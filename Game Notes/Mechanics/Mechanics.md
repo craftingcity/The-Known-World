@@ -6,8 +6,7 @@ aliases:
 # Mechanics
 %% Begin Waypoint %%
 - **[[Mechanics]]**
-	- [[Custom Feats]]
-	- **Homebrew Spells**
-		- [[Spells from Collective]]
+	- **[[Homebrew Alchemy System]]**
+	- **[[Homebrew Spells]]**
 
 %% End Waypoint %%

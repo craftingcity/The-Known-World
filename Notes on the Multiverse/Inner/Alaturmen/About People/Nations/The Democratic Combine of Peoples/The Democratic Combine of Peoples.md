@@ -21,7 +21,7 @@ When push comes to shove, the attitude of the Barons turn from competitor to def
 - The [[Dampguard]], led by [[Baron Shimmer]], are a rich group of privateers that control much of the [[Alavini River]] – to the [[Guild of Merchants]]' chagrin.
 - The [[Riphounds]] are a group of ruthless raider-knights led by the "Honorable" [[Baron Glask]] that control the [[Eastlick Mossland]] and have a "calming" rivalry with the [[Ranger's Guild]] that keep their borders.
 - [[Baron Avory]] and the [[Slimknives]] control the [[Westlick Mossland]] from behind mask and shadow.
-- [[Baron Havord]] founded [[Harvord Trading Company]] in 092AF. He, and the employees and board members of the , "control" - in the loosest and most capitalist sense of the word – the [[Southern Quillbuck Jungle]], and have their base of operations, [[Quillbuck]], deep in the center of the jungle.
+- [[Baron Havord]] founded [[Harvord Trading Company]] in 092AF. He, and the employees and board members of the [[Harvord Trading Company]], "control" - in the loosest and most capitalist sense of the word – the [[Southern Quillbuck Jungle]], and have their base of operations, the distatefully named [[New Quillbuck]], deep in the center of the jungle.
 - [[Baron Xuiop]] and their [[Beasts Righteous]] control the [[Northern Quillbuck Jungle]] and the [[Reugb Marshes]] by the rule of power.
 - [[Baron Yassir Cassindil]] oversees the [[Grovetenders]] and their safekeeping of the [[Centerlick Mossland#Southern Third]].
 - [[Baron Jammu]] and the [[Hillkeep Loyalists]] keep the [[Grumbling Hills]] and the [[Centerlick Mossland#Northern Third]].

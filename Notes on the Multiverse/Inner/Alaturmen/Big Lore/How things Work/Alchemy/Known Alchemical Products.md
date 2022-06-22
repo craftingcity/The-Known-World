@@ -221,11 +221,12 @@ Alchemical Thermite is a powerful substance that burns extremely hot, long, and 
 #### Alchemical Explosive
 Alchemical explosive is a powerful substance that reacts to heat in such a manner that in low pressure conditions no detonation occurs, but a shockwave is produced instead, but in higher pressure conditions, the detonation is supersonic (which classifies it as a "high" explosive). 
 
-#### Bulbkiss
-Alchemically treated smokebulb formed into crystals and crushed into powder for a purer and more powerful – and therefore addictive – experience.
-
 #### Suregrip
 This white fluffy powder combines with the oils in one's skin and provides advantage to hold or climb for as long as the powder remains or about ten minutes.
+
+## Vices
+#### Bulbkiss
+Alchemically treated smokebulb formed into crystals and crushed into powder for a purer and more powerful – and addictive – experience.
 
 # Common Enchanter's Products
 ## Runes
