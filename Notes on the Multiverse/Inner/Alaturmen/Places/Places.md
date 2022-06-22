@@ -1,0 +1,81 @@
+---
+tags: folderfile
+aliases:
+---
+
+# Places
+%% Begin Waypoint %%
+- **[[Places]]**
+	- [[Central Alaturmen]]
+	- **Northeastern Central**
+		- [[NE Travel Table]]
+		- **Smaller than a city**
+			- [[Benders]]
+			- [[Giant's Toe]]
+			- [[Moonlight]]
+		- **Smaller than a feature**
+			- [[Castle Prosper]]
+			- [[Diables]]
+			- [[Gambleum]]
+			- [[Janesland]]
+			- [[Magius]]
+			- [[Yerba]]
+		- **Smaller than a village**
+			- [[Archmage Barrowinch's Tower]]
+			- [[Brandle Wrench]]
+			- [[Dragon Blood Inn]]
+			- [[Earlwynn's Fine Dining]]
+			- [[Sally's Seaside Spot]]
+			- [[Yawning Pillow]]
+	- **Northwestern Central**
+		- [[NW Travel Table]]
+		- **Smaller than a feature**
+			- [[Baskin]]
+			- [[Kohnstamm]]
+			- [[The Holy City of Kanielkiln]]
+			- [[Wychway]]
+		- **Smaller than a village**
+			- [[Kakurak's Lair]]
+		- [[The Holyl'nds]]
+	- **Southeast Central**
+		- [[SE Travel Table]]
+		- **Smaller than a city**
+			- [[Aeberu]]
+			- [[Asilar's Bounty]]
+			- [[Four Stone]]
+			- [[Neverwallow]]
+		- **Smaller than a feature**
+			- [[Darnt Hillkeep]]
+			- [[Red Throne]]
+	- **Southwestern Central**
+		- **[[Kailkeep]]**
+		- **[[Mountain Hall]]**
+		- **Smaller than a city**
+			- [[Kickoff]]
+		- **Smaller than a feature**
+		- **Smaller than a village**
+		- [[SW Travel Table]]
+		- **[[The Golden City]]**
+	- **World Features**
+		- **Natural or Territory**
+			- [[Actstow Hills]]
+			- [[Alavini River]]
+			- [[Centerlick Mossland]]
+			- [[Deakred Range]]
+			- [[Eastlick Mossland]]
+			- [[Firelight Sea]]
+			- [[Gabrin Shrublands]]
+			- [[Great Northern Forests]]
+			- [[Great Quillbuck Jungle]]
+			- [[Great Southern Mossland]]
+			- [[Grumbling Hills]]
+			- [[Huntyr Swamp]]
+			- [[Northern Quillbuck Jungle]]
+			- [[Reugb Marshes]]
+			- [[Southern Quillbuck Jungle]]
+			- [[Westlick Mossland]]
+			- [[Wetfoot Greenland]]
+		- [[Stone of Desmoniur]]
+		- [[Three Nation Highways]]
+
+%% End Waypoint %%

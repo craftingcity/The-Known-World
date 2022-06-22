@@ -35,10 +35,10 @@ While Planeswalking, every day, roll 1d12. On a roll of 12, present the players 
 Planeswalking from the edge of the [[#Prime]] to a [[#Mirror Planes]] takes 1d4 x 4 days, to [[#The Elemental Planes]] takes 2d4 x 6 days, and to any of [[#The Outer Planes]] takes 3d4 x 8 days. Half of these days are spent in the [[#Prime]]'s border ethereal and the other half is spent in the destination plane's. At the end of this trip, the characters will find themselves deposited in the plane of their choosing, or if they failed to their concentrations, [[#The Astral Sea]]. 
 
 
-## The Elemental Planes
+## The [[Elemental Planes]]
 The elemental planes are the middle point in the waterfall-esq structure of the planes. 
 
-### The Plane of Earth
+### The [[Plane of Earth]]
 This is the home plane of the Xorn, who tunnel through the solid rock of this plane and happily consume the rare materials formed from the leaks and overlaps from the other Elemental planes.
 
 ### The Plane of Fire

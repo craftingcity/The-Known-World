@@ -1,7 +1,8 @@
 # Notes on the Multiverse Table of Contents
+connect to [[Game Notes]]
 %% Begin Waypoint %%
 - **[[Notes on the Multiverse]]**
-	- **Elemental**
+	- **Elemental Planes**
 		- **Plane of Air**
 		- **Plane of Earth**
 		- **Plane of Fire**

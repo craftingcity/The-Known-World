@@ -42,7 +42,27 @@
 				- [[The Lands of Tetrimoc]]
 				- [[The Outlands]]
 			- **[[The Democratic Combine of Peoples]]**
+				- **Factions**
+					- [[Grovetenders]]
+					- [[Hillkeep Loyalists]]
+					- **[[Knights in Red]]**
+						- [[Srioh]]
+						- [[Symbolism of the KiR]]
+					- [[Riphounds]]
+				- **Local Lore**
 			- **[[The Kingdom of Prosper]]**
+				- **Factions**
+					- [[Noble House a'Haruuc]]
+					- [[Noble House a'LeQuinn]]
+					- [[Northstone Trading Company]]
+					- [[Simonson Clan]]
+					- [[The Arstoviches]]
+				- **Local Lore**
+					- [[Arthur's Journal]]
+					- [[Bandit Lords]]
+					- [[Nobles of Prosper]]
+					- [[The Legend of the Bandit Lords]]
+					- [[Unification]]
 		- **Non-Nation Entities**
 			- **Blood Clans**
 				- [[Blood Hobgoblin Clan Pact]]
@@ -50,6 +70,13 @@
 				- [[Northeastern Hobgoblin Territories]]
 			- [[Cenva Minyo]]
 			- **[[Coalition City]]**
+				- [[Communicae]]
+				- **[[Guilds]]**
+					- [[Guild of Adventurers]]
+					- [[Guild of Crafters]]
+					- [[Guild of Merchants]]
+					- [[Guild of Wizards]]
+					- [[Ranger's Guild]]
 			- [[Desert Thieves]]
 			- **Druids of the Idols**
 				- [[Druids of Animan]]
@@ -148,9 +175,7 @@
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**
-				- [[Untitled]]
 			- **Smaller than a village**
-				- [[Untitled]]
 			- [[SW Travel Table]]
 			- **[[The Golden City]]**
 		- **World Features**
