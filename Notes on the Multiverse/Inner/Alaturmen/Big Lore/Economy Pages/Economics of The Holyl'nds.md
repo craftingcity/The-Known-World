@@ -53,17 +53,25 @@ Think about how people get their land, from who, and what features would there b
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
 
-Much of the "law" of this land is enforced by it's theocratic culture combined with a dominant and pseudo-omnipresent religious figure.
+People expect protection from the Church, but often reach to each-other before their superiors. Some families have bows and arrows, and most have some sort of home-defense weapon such as a club or 
 
-Taxes are a mandatory tithe presented to the *Tendered* bi-weekly. While there is no "true" numbered tax, any less than one-third earns one dirty looks and fewer friends. Tendered in turn tithe one-fifth of their total revenue during this two week period to the *Collectors* that come for this tithe.
+Much of the "law" of this land is enforced by it's theocratic culture combined with a dominant and pseudo-omnipresent religious figure. Taxes are a mandatory tithe presented to the *Tendered* bi-weekly. While there is no "true" numbered tax, any less than one-third earns one dirty looks and fewer friends. Tendered in turn tithe four-fifth of their total revenue during this two week period to the *Collectors* that come for this tithe.
 
-A farm's work animal is typically a Bull that has been trained from birth for the position. A rancher will generally sell young work-bull 
+A farm's work animal is typically a bull that has been trained from birth for the position. A rancher will generally sell young work-bull to farmers rather than a farmer training their own bull. People of means will generally have (either by hire or purchase) Unseen that perform complex labor tasks as well.
+
+Buildings are generally larger than they have to be, and buildings are farther apart than one may consider typical. 
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
 
+While there is no upward mobility in the Holyl'nds, people can often make ends meet by speaking with their neighbors. When this does not work, this generally means the whole neighborhood is doing poorly, at which point the people will ask for intervention, either from [[The Church of the White Flame|The Church]] or [[Its Greatness|The Holy Flame]].
+
+People value privacy and community. Textiles are a symbol of status, as they are nearly always imported (leather (not imported) < hemp < linen < silk).
+
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
+
+The church mints coins, and cities use them frequently, but folks on the outskirts of civilization are much less happy to trade for round metal. Trade between villages is in barter. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?

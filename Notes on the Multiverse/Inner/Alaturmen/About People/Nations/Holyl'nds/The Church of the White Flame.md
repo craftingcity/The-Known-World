@@ -26,15 +26,16 @@ Ranking from highest to lowest in station:
 - Tendered (a priest of a church or other establishment grown and raised for their position)
 	- a Tendered is generally the master of a plantation of some kind and the leader of the local church. a town or city can have any number of tendered, but the church's money is not the Tendered's, all other than a certain percentage require some other income to feed themselves and any family take care of. 
 	- Certain jobs a Tendered undertakes earns them a special name. While this does come with a minor ascension in status, it is similar to a novice becoming a journeyman.
-		- *Detainers* are Tendered who 
-		- *Keepers* are Tendered who train captured slaves
+		- *Detainers* are Tendered who hunt for (undesirable) and bring them to a *Keeper*.
+		- *Keepers* are Tendered who train captured (undesirable) into becoming *Unseen*.
 - Patron (a patron of an establishment Tended by a member of The Church)
 	- there is no difference between Patrons, although those who would train their children to become Tendered
-- Unseen (well trained Goblinoid, winter-Elves, Orc)
+- Unseen (trained undesirable)
 	- this is the point at which systemic cultural racism takes its cut, and moves the profits upward from here
-- (undesirable) ("wild" Gobliniod, Orc, other "trainable" races, including animals)
+	- many Unseen are "free", but cannot find any work other than those that would be performed by "owned" Unseen as well.
+- (undesirable) (unclaimed / undefended Goblinoid, Orc, Halfling, Winter-Elves)
 	- while their name suggests that one might get rid of them, the (undesirable) are a group that, when captured and enslaved, make wonderful Unseen. 
-		- This is the job of select few Tended, known as Keepers.
+		- This is the job of select few *Tended*, known as *Keepers*.
 
 
 
