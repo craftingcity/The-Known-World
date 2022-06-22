@@ -18,16 +18,25 @@ Golden Fifth | Church | 2.0 | one-fifth of a gold whole
 Golden Whole | Church | 10.0 | a complete gold whole, five fifths
 --- | --- | ---- | ---
 Lead Finger | Tetrimoc | 0.1 | dragonly finger of lead
-Lead Claw | Tetrimoc | 0.7
+Lead Claw | Tetrimoc | 0.6
 Silver Puck | Tetrimoc | 0.8 | a half ounce of silver, minted
 Golden Puck | Tetrimoc | 8.0 | a half ounce of gold, minted
 Golden Finger | Tetrimoc | 26.0 | dragonly finger of gold
-Golden Claw | Tetrimoc | 182.0
+Golden Claw | Tetrimoc | 156.0
 --- | --- | ---- | ---
 Tin Bit | Actstow | 0.1
-Jade Bit | Actstow | 
-
-
+Tin Bolt | Actstow | 1.0 | its ten bits attached
+Elven Leaf | Cenva Minyo | 2.5 | thin square patches of elvenfiber
+Jade Bit | Actstow | 11.0 | 1 carat average jade, minted
+--- | --- | ---- | ---
+Lead Quarter | Mnt Hall | 0.025
+Lead Plate | Mnt Hall | 0.1
+Silver Quarter | Mnt Hall | 0.25
+Silver Plate | Mnt Hall | 1.0
+Golden Quarter | Mnt Hall | 2.5
+Golden Plate | Mnt Hall | 10.0
+Mithril Quarter | Mnt Hall | 25.0
+Mithril Plate |
 
 
 

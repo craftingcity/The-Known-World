@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Cenva Minyo
+#### *for the hatred of fire, we are home here*
 ## Description
 The ancient order who's first members suvived the [[Great Fires]]. They now task themselves with maintaining a clear path to Walk on Alaturmen and revenge for their Fallen.
 
