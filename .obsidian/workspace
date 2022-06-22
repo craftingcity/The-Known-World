@@ -14,12 +14,23 @@
         }
       },
       {
-        "id": "d748e9b0584bfc2a",
+        "id": "ebfbd1f53cf1e5b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7627e8dfd8a4e5c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
             "mode": "source"
           }
         }
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
             }
           }
@@ -132,17 +143,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "d748e9b0584bfc2a",
+  "active": "7627e8dfd8a4e5c4",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Gambleum.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Janesland.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
     "MEDIA/SUPP/AMMS-SilkRoad.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md"
   ]
 }

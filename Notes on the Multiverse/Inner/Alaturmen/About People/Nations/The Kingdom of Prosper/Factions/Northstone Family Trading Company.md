@@ -5,4 +5,6 @@ aliases:
 
 *This page is a #stub. You can help by expanding it!*
 
-The family of Northstone formed their Merchant Company in; based in [[Yerba]], the Northstone Trading Company competes for coin in the market of North Eastern Alaturmen.
+The family of Northstone formed their Merchant Company in 074AF. They are based in [[Yerba]]. 
+
+Please see [[Merchant Companies and their Routes]] for more details.

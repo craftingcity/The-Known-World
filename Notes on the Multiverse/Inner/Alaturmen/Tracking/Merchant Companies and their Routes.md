@@ -6,10 +6,18 @@ aliases:
 
 # Merchant Companies
 ## Northeastern Companies
+### [[Guild of Merchants]]
 ### [[Northstone Family Trading Company]]
+### [[Hobgoblin Carriage Fellowship]]
+### [[Gormit's Carts]]
 ## Northwestern Companies
+### [[Guild of Merchants]]
+### [[Wealth of the Chosen]]
 ## Southeastern Companies
-### [[Harvord's Trading Company]]
+### [[Guild of Merchants]]
+### [[Deep-Guardian Tactical Security Company]]
+### [[Ammarin Transportation]]
+### [[Harvord Trading Company]]
 ## Southwestern Companies
 ### [[Golden Merchant's Company]]
 # Merchant Routes
