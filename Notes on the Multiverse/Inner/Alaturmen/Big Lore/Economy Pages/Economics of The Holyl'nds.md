@@ -6,7 +6,7 @@ aliases:
 # Holyl'nd's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in [[Its Greatness|It's]] glory. The Holyl'nds experience cold, wet weather patterns.
+The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in the shadow of [[Its Greatness|It's]] glorious [[The Church of the White Flame|Church of Flame]]. The Holyl'nds experience cold, wet weather patterns.
 
 ### "White" Corn
 The fine silty soil of this land does not grow any grain other than a type of white maize. This is typically formed into a bread.
@@ -23,32 +23,41 @@ The largest dairy in this area is cow's milk. Cheese and butter are created from
 While some grains can be found in import, the only grain that grows in this area is "Great Maize", a white variant of traditional corn / maize. The flavor is blander than its more colored cousin, but beggars cannot be choosers.
 
 #### Fruit
-Very few fruits will survive the soil in this area. The two most consumed fruits in this area are avocado and pear, both of which survive in the soil of the Holyl'nds. Solan Berry are cultivated in this area, but their fruit grow to be small, grey, and saggy.
+Very few fruits will survive the soil in this area. The two most consumed fruits in this area are avocado and pear, both of which survive in the soil of the Holyl'nds. Solan Berry are cultivated in this area, but their tomato-like fruit grow to be small, grey, and saggy.
 
 #### Vegetable
 Lettuce, Cabbage, and Squash perform well in the soil in this area. Beans are a rotation crop, and it is generally considered animal's food, but certain dishes such as some stews or salads they are essential in.
 
 #### Spice and Oil
-While most folk use butter or milk to cook, some professionals make Heart-nut Oil for industrial use. Some Avacado Oil is imported from [[Mountain Hall]], but this is a very expensive alternative.
+While most folk use butter or milk to cook, some professionals make Heart-nut Oil for industrial use. Some Avocado Oil is imported from [[Mountain Hall]], but this is a very expensive alternative.
 
-Lemongrass, Peppercorn, and Lavender are staple spices in this area. Salt is cheaply imported from the south and the east. Ginger, Parsley, Onion, Garlic, and Paprika can be imported from nearby regions for over-value prices.
+Lemongrass, Peppercorn, and Lavender are staple spices in this area. Salt is cheaply imported from the south and the east. Ginger, Parsley, Onion, Garlic, and Paprika can be imported from nearby regions for over-value prices, and other spices are exorbitantly expensive here, if available at all.
 
 #### Delicacy
-A ration from this place probably includes jerkied, smoked, or salted beef, dryed pear, salted butter.
+A ration from this place probably includes jerkied, smoked, or salted beef, dried pear, salted butter.
 
 Spiced beef served with fruit, vegetables, and white-corn bread is the commoner's delicacy in this area.
 
 ### Vices
-What do people do for *fun*?
-People in this area grow and smoke tobacco. Smokebulb, its subsidieries, and Cannabis are also available substances in this area, but they are imported from other places.
+People in this area grow and smoke tobacco. Smokebulb, its subsidiaries, and Cannabis are also available substances in this area, but they are imported from other places and therefore more expensive.
 
-Bourbon of white-corn is the drink of choice in the Holyl'nds, although pear ciders are commonly served as well. Rarely, Combine Spirits are available in bars and taverns of this area, and while they are expensive liquors, they are worth their weight
+Bourbon of white-corn is the drink of choice in the Holyl'nds, although pear ciders are commonly served as well. Rarely, Combine Spirits are available in bars and taverns of this area, and while they are expensive liquors, they are worth the label mark-up.
+
+Like other nations under Coalition, the brothels of the Holyl'nds are protected by the [[Guild of Merchants#Yáramólë]], although they do not need them, the [[The Church of the White Flame|Church of Flame]] provides all the protection one could need.
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
 
+[[The Church of the White Flame|The Church]] claims all the Holyl'nds, and grants portions to *Tendered* who can hold it. *Patrons* who collect around them answer to their *Tendered*, who is now responsible for the land their Patrons claim.
+
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
+
+Much of the "law" of this land is enforced by it's theocratic culture combined with a dominant and pseudo-omnipresent religious figure.
+
+Taxes are a mandatory tithe presented to the *Tendered* bi-weekly. While there is no "true" numbered tax, any less than one-third earns one dirty looks and fewer friends. Tendered in turn tithe one-fifth of their total revenue during this two week period to the *Collectors* that come for this tithe.
+
+A farm's work animal is typically a Bull that has been trained from birth for the position. A rancher will generally sell young work-bull 
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
