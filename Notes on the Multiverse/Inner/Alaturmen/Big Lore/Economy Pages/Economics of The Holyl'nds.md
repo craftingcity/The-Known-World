@@ -53,34 +53,42 @@ Think about how people get their land, from who, and what features would there b
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
 
-People expect protection from the Church, but often reach to each-other before their superiors. Some families have bows and arrows, and most have some sort of home-defense weapon such as a club or 
+People expect protection from the Church, but often reach to each-other before their superiors. Some families have a bow and set of arrows, and most have another some sort of home-defense weapon such as a club or sword. Some people have sport-weapons as well, but these are more individual than general.
 
 Much of the "law" of this land is enforced by it's theocratic culture combined with a dominant and pseudo-omnipresent religious figure. Taxes are a mandatory tithe presented to the *Tendered* bi-weekly. While there is no "true" numbered tax, any less than one-third earns one dirty looks and fewer friends. Tendered in turn tithe four-fifth of their total revenue during this two week period to the *Collectors* that come for this tithe.
 
 A farm's work animal is typically a bull that has been trained from birth for the position. A rancher will generally sell young work-bull to farmers rather than a farmer training their own bull. People of means will generally have (either by hire or purchase) Unseen that perform complex labor tasks as well.
 
-Buildings are generally larger than they have to be, and buildings are farther apart than one may consider typical. 
+Buildings are generally larger than they have to be, and buildings are farther apart than one may consider typical. Most buildings are built of bricks formed from the soil of this area. Often, these are reinforced by large charcoal logs or imported wood.
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
 
 While there is no upward mobility in the Holyl'nds, people can often make ends meet by speaking with their neighbors. When this does not work, this generally means the whole neighborhood is doing poorly, at which point the people will ask for intervention, either from [[The Church of the White Flame|The Church]] or [[Its Greatness|The Holy Flame]].
 
-People value privacy and community. Textiles are a symbol of status, as they are nearly always imported (leather (not imported) < hemp < linen < silk).
+People value privacy and community. Textiles are a symbol of status, as they are nearly always imported (leather (not imported) < hemp < linen < silk). Gems and precious metals are valued accessories and materials in this areas. 
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
-The church mints coins, and cities use them frequently, but folks on the outskirts of civilization are much less happy to trade for round metal. Trade between villages is in barter. 
+The church mints coins, and cities use them frequently, but folks on the outskirts of civilization are much less happy to trade for round metal. Trade between villages is in barter. Merchants and producers travel to festivals to do trade and form markets by drawn carriage.
+
+The [[Guild of Crafters]] and the [[Guild of Merchants]] are powerful in this region. Most crafting knowledge in this area was lost during the [[Great Fires]], and the people have many unmet needs in this area, both problems the guilds were designed to solve. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
+The [[Guild of Crafters]] keep their monopoly by maintaining hierarchy positions of knowledge. Nearly all the specialists of this area work in Guild facilities.
+
 ### Textiles
 What sort of fabrics / leathers are available and acceptable? What about dyes?
 
+Leather is not to be worn, except as armor, and hemp is barely acceptable to commoners. Linen and Silk are the sought textiles of this region. Dyes from this area are poor, formed of fruit and vegetable matter, and imported dye is extremely expensive. Brown and grey are the two most common colors, the family of blue falling shortly behind, and anything remotely vibrant is considered regal fashion. 
+
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+
+Nearly all preservatives are reserved for winter, 
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
