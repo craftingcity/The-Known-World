@@ -60,6 +60,16 @@ Butter / Cheese (1lb) | 1.2-1.8
 Diamond (1 carat, cut) | 1000.0
 Emerald / Ruby / Sapphire (1 carat, cut) | 500.0
 Amethyst (1 carat, cut) | 100.0
-Goat (healthy) | 
+Goat (healthy) | 5.0-15.0
+Chicken (healthy) | 0.5-0.6
+Rabbit (healthy) | 0.5-1.5
+Tobacco
+Cannabis
+Smokebulb
+Desert Drug
+Hemp fabric (1 yard, thin)
+Hemp fabric (1 yard, strong)
+Linen fabric (1 yard)
+Silk fabric (1 yard)
 
 
