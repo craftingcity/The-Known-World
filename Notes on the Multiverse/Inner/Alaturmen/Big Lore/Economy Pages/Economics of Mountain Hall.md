@@ -14,7 +14,7 @@ The Bluecap mushrooms cultivated in Mountain Hall make a thick musky flour. Most
 ### Food
 What lives here?
 #### Meat
-Goats, Chicken, and Pig are husbanded in Mountain Hall. They are fed moss, insects, squash rinds, and other wastes. Beef is imported from the north.
+Goats, Chicken, and Wurm are husbanded in Mountain Hall. They are fed moss, insects, squash rinds, and other wastes. Beef is imported from the north.
 
 #### Dairy
 Goat's milk and cheese are the locally produced dairy. Eggs are produced en mass by chicken.
@@ -37,13 +37,21 @@ The prime delicacy of Mountain Hall is the chevron-bluecap kabasa. It is often s
 ### Vices
 What do people do for *fun*?
 
-Smokebulb is cultivated in great quantity in Mountain Hall alongside 
+Smokebulb is cultivated in great quantity in Mountain Hall, and is a culturally acceptable substance. Blue Whiskey, the alcohol of fermented Bluecap, is also culturally acceptable. Some alcohol is imported from the south and east.
+
+Brothels in Mountain Hall are well maintained, even without the assistance of the [[Guild of Merchants]].
 
 ### Land
 Think about how people get their land, from who, and what features would there be?
 
+The King of [[Mountain Hall]] owns all the land in the [[Dwarven Kingdom Suremantle]] - mountain dwarves of this region dig into the mountains of the [[Deakred Range]]. Citizens often craft their homes and those of their neighbors. 
+
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
+
+Mountain Hall is ruled by its King. The [[Nobles of Mountain Hall]] are tenants-in-chief of their regions, and maintain a manorial relationship with their citizens. Taxes of one-half mined goods and one-eighth all other goods are collected by employed tax collectors who pass this tax to their lord, who pass this and one fourth their profits to the king, who in turn uses it to fund kingdom projects, passing this money back to the nobles, who in turn pass it back to the people. 
+
+Domesticated Wurm are the most common work animal, and are common 
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?

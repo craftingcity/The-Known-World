@@ -48,6 +48,8 @@ Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported
 
 Some brothels crop up in Actstow, but these too are considered culturally unacceptable. They are generally run savagely in addition, as they must publicly exist to be assisted by the [[Guild of Merchants]].
 
+Potato Wine and Vodka are the local drinks of choice in Actstow. Fire Lichen Rum is imported from [[Deepburrow]].
+
 ### Land
 Land in Actstow is a prime resource. One can purchase or lease land from the King or the ruling Clan in units of 1/8th acres. Rooms in Inns and the like are costly.
 
