@@ -8,7 +8,7 @@ This is using the [front](https://www.dungeonworldsrd.com/gamemastering/fronts/)
 ## Campaign Front: Codename Nala Co.
 
 ### Dangers
-#### Bandits of Bodaim
+#### Bandits of [[Barret Bodaim]]
 **NAME** is... *danger type*... (*impulse:XXXXX*). Feel free to add notes before, after, or during the encoded parts of this paragraph.
 
 **The Prophecy**
@@ -18,7 +18,7 @@ The signs that the danger is becoming closer and closer to its impending doom.
 - [ ] Portent Three
 
 **Impending Doom**
-Choose one from the book, or write your own. This is what will happen if the danger is left to fester.
+Bandit Lords rise in the northeast!
 
 **Cast**
 Optional; Name a character, place, or thing that the characters would encounter.
@@ -36,10 +36,10 @@ Copy and Paste the movelist here for some flavor on how the danger will act.
 The signs that the danger is becoming closer and closer to its impending doom.
 - [ ] Portent One
 - [ ] Portent Two
-- [ ] Portent Three
+- [ ] Protent Three
 
 **Impending Doom**
-Choose one from the book, or write your own. This is what will happen if the danger is left to fester.
+Scrivin Clan makes war!
 
 **Cast**
 Optional; Name a character, place, or thing that the characters would encounter.
@@ -61,7 +61,7 @@ The signs that the danger is becoming closer and closer to its impending doom.
 - [ ] Orcus breaks ground on Alaturmen
 
 **Impending Doom**
-Ar'kraven is destroyed, Orcus rules the dead in his realm and our own.
+[[Qiell Tilemundon]] releases [[Orcus]] in exchange for immortality.
 
 **Cast**
 [[Qiell Tilemundon]] - the wizard seeking lichdom and Orcus

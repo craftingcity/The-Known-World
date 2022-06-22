@@ -25,7 +25,7 @@ King Snures goals remain incomplete, as of writing, but he draws closer with eac
 [[Baskin]] in his new throne.
  - See [[Giant's Toe]]
 
-[[The Planes of Existence#The Plane of Fire]] in his old throne.
+[[Plane of Fire]] in his old throne.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.

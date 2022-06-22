@@ -19,7 +19,7 @@ The [[Wildlands]] is the name that the people of [[#Prime]] give to the areas be
 ### In Between...
 The Ethereal plane acts as the beach of the Astral Sea. One walks too far into the [[#The Wildlands]] and things become strange; long and stretched, real but dreamlike. Seeing these affects means that one has passed beyond Alaturmen and into the Wildlands Ethereal - it is too far to turn back.
 
-### The Astral Sea
+### The [[Astral Sea]]
 The Astral Sea is a great pink soup of mass and energy. It is visually similar to the concept of "floating islands", but the physical space of this plane is malleable via thought alone. This plane bends to its inhabitant's force of will.
 
 If one has no destination in mind or loses that destination while traveling the Ethereal, one would end up in the Astral Sea. 
@@ -41,13 +41,13 @@ The elemental planes are the middle point in the waterfall-esq structure of the 
 ### The [[Plane of Earth]]
 This is the home plane of the Xorn, who tunnel through the solid rock of this plane and happily consume the rare materials formed from the leaks and overlaps from the other Elemental planes.
 
-### The Plane of Fire
+### The [[Plane of Fire]]
 This is the home plane of the Azer. The heat here is so powerful that most materials become molten. The Azer use those precious few materials that don't lose their form so easy in the defense of their homelands from the leaks and overlaps from the other Elemental Planes.
 
-### The Plane of Water
+### The [[Plane of Water]]
 This is the home plane of the Triton. Powerful fighters and mages with kind souls, the Triton defend their home from the leaks and overlaps from the other Elemental Planes.
 
-### The Plane of Air
+### The [[Plane of Air]]
 This is the home plane of the Aarakocra, who use their wings to traverse the large swaths of open sky between the leaks and overlaps of the other Elemental Planes.
 
 ### Leaks and Overlaps
@@ -60,12 +60,12 @@ The "outer" planes are at the lowest point in the waterfall-esq structure of the
 
 Souls who pass beyond their material planes find themselves drawn to one of these planes, where ostensibly they would spend the rest of eternity.
 
-#### Mechanis, the Land of Law
+#### [[Mechanis]], the Land of Law
 
-#### The Abyss, the Land of Chaos
+#### [[The Abyss]], the Land of Chaos
 
-#### Elysium, the Land of Good
+#### [[Elysium]], the Land of Good
 
-#### Nine Hells, the Land of Evil
+#### [[Nine Hells]], the Land of Evil
 
-#### Limbo, the Land of Neutrality
+#### [[Limbo]], the Land of Neutrality

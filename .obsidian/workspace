@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "43e25aa68f4b7a38",
+        "id": "9a003878c7dc837e",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,12 +12,12 @@
         }
       },
       {
-        "id": "152685342bf7c4e0",
+        "id": "d921545db30873c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
+            "file": "Wildlands.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
+                "file": "Wildlands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
+                "file": "Wildlands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,29 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md"
+                "file": "Wildlands.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312,
-    "collapsed": true
+    "width": 538.6111450195312
   },
-  "active": "152685342bf7c4e0",
+  "active": "d921545db30873c0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Elemental Planes/Elemental Planes.md",
-    "Notes on the Multiverse/Elemental Planes/Plane of Water/Plane of Water.md",
-    "Notes on the Multiverse/Elemental Planes/Plane of Fire/Plane of Fire.md",
-    "Notes on the Multiverse/Elemental Planes/Plane of Earth/Plane of Earth.md",
-    "Notes on the Multiverse/Elemental Planes/Plane of Air/Plane of Air.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+    "Wildlands.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
+    "Giant Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
+    "All-Father Annam.md",
+    "Ordening.md",
+    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/World Villans/Qiell Tilemundon.md",
+    "Game Notes/Fronts/Nala Co..md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md"
   ]
 }
