@@ -88,16 +88,22 @@ Leather is not to be worn, except as armor, and hemp is barely acceptable to com
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
-Salted beef and cow's butter and cheese are a pantry staple. These are generally wrapped in thin leathers. Corn flour is stored in linen bags. Salted avocado
+Salted beef and cow's butter and cheese are a pantry staple. These are generally wrapped in thin leathers. Corn flour is stored in linen bags. Salted and spiced avocado cream is stored in jars of village-crafted ceramic or glass containers. Solan and Pear jellies are stored in similar containers, some addition to properly seal the container. Vegetables are pickled with fruit vinegar of the region and canned in glass or metal containers.
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 
+Reusable glass and ceramic containers store many preserved foods. Some people of means can their preserves in metal containers that must be reforged to properly seal again.
+
+People store their personal items in small ceramic boxes or bags of leather, hemp, or linen.
+
 ### Mining
-What can be mined? How elaborate are the setups?
+Charcoal is the must abundant mine-able in the region sans the holyl'nd itself. Copper, Iron, Coal, and Tin can also be mined in this region - not very abundantly. 
 
 ### Magic / Technology
-Has magic influenced any of these things? What about Technology?
+The magic of this region is held in and enforces the theocracy of [[The Church of the White Flame]] and therefore is modulated through [[Its Greatness]]. Commoners experience magic as religion; the crops are shit this year because you made our god made, or, the crops are really good this year because we made our god happy.
+
+The technology of this region is par for the region; wind and manual power is efficiently used to solve common problems. Buildings are built from a medium strength brick, worse than ceramic or concrete, 
 
 ### Other Notes
 - 

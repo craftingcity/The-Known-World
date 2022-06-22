@@ -52,7 +52,7 @@ What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 What can be mined? How elaborate are the setups?
 
 ### Magic / Technology
-Has magic influenced any of these things? What about Technology?
+How do commoners experience magic? What about technology?
 
 ### Other Notes
 - 
