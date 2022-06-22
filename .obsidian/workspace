@@ -6,7 +6,7 @@
       {
         "id": "6088c9b186949dfc",
         "type": "leaf",
-        "dimension": 40.49586776859505,
+        "dimension": 57.64705882352941,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,28 +16,34 @@
         }
       },
       {
-        "id": "8bacb50f2a9b9b91",
-        "type": "leaf",
-        "dimension": 29.752066115702483,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-            "mode": "source"
+        "id": "05a2882a28017f29",
+        "type": "split",
+        "dimension": 42.35294117647058,
+        "children": [
+          {
+            "id": "8bacb50f2a9b9b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "31eb79c40e38731d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "31eb79c40e38731d",
-        "type": "leaf",
-        "dimension": 29.752066115702483,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
