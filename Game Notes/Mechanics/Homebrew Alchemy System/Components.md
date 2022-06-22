@@ -32,6 +32,7 @@ Onion | charm / earth | flora | northern | 1 | 0.1
 Heartnut Wood | arcana / disease | flora | common | 1 | 0.1
 Iron Wood | earth / arcana | flora | north-east | 4 | 30.0
 ---|---|---|---|---|---|---
+Ash (vampire)
 Blood | disease / arcane | fauna | common | 1 | 0.2
 Blood (demon) | fire / arcane | fauna | outer | 5 | 1475.0
 Blood (celestial) | air / arcane | fauna | outer | 5 | 2000.0
@@ -42,8 +43,34 @@ Eye (newt) | illusion / disease | fauna | common | 2 | 0.5
 Eye (cockatrice) | arcane / poison | fauna | south-west | 5 | 1250.0
 Eye (beholder) | arcane / air | fauna | underground | 5 | 1500.0
 Eye (dragon)
+Fang (basilisk)
+Fang (dragon)
+Feather
+Feather (phoenix)
+Feather (harpy)
+Feather (owlbear)
+Fur (yeti)
 Gullet (ankheg)
 Gullet (gorgon)
 Gullet (rust monster)
 Heart (dragon)
+Horn (minotaur)
+Horn (devil)
+Horn (unicorn)
+Ivory
 Liver (dragon)
+Scale (hydra)
+Scale (dragon)
+Leather
+Leather (displacer)
+Chitin
+Chitin (ankheg)
+Chitin (wurm)
+Ooze
+Ooze (yellow)
+Ooze (black)
+Ooze (green)
+Excrete (devil)
+Ectoplasm
+Waste (bat)
+---|---|---|---|---|---|---
