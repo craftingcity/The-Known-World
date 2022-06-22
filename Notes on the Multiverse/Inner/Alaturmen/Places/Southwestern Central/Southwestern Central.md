@@ -10,6 +10,7 @@ aliases:
 	- **[[Mountain Hall]]**
 	- **Smaller than a city**
 		- [[Kickoff]]
+		- [[New Quillbuck]]
 	- **Smaller than a feature**
 	- **Smaller than a village**
 	- [[SW Travel Table]]
