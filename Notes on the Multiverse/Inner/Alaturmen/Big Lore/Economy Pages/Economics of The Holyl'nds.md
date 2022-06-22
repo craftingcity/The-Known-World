@@ -9,15 +9,25 @@ aliases:
 The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in [[Its Greatness|It's]] glory. The Holyl'nds experience cold, wet weather patterns.
 
 ### "White" Corn
-The fine silty soil of this land does not grow any grain other than a type of white maize. This is typically formed into a cornbread and served with carrot, potato, and foul.
+The fine silty soil of this land does not grow any grain other than a type of white maize. This is typically formed into a bread.
 
 ### Food
 What lives here?
 #### Meat
+Cattle are a valued commodity in the Holyl'nds, both for their production of Dairy product and for their large leathers and meat. The large swaths of un-used land provide much space for ranchers to graze in.
+
 #### Dairy
+The largest dairy in this area is cow's milk. Cheese and butter are created from it and spread throughout Alaturmen.
+
 #### Grain
+While some grains can be found in import, the only grain that grows in this area is "Great Maize", a white variant of traditional corn / maize. The flavor is blander than its more colored cousin, but beggars cannot be choosers.
+
 #### Fruit
+Very few fruits will survive the soil in this area. The two most consumed fruits in this area are avocado and pear, both of which survive in the soil of the Holyl'nds. "Great Tomatoes" are cultivated in this area, but their fruit grow to be grey and saggy.
+
 #### Vegetable
+Lettuce, Cabbage, and Squash perform well in the soil in this area. Beans are a rotation crop, and it is generally considered animal's food, but certain dishes such as some stews or salads they are essential in.
+
 #### Spice and Oil
 #### Delicacy
 
