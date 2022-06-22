@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7430bd3717770eed",
+        "id": "ee40f979690f751a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md"
               }
             }
           }
@@ -120,10 +121,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "7430bd3717770eed",
+  "active": "ee40f979690f751a",
   "lastOpenFiles": [
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
