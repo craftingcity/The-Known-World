@@ -54,7 +54,7 @@
 				- **Factions**
 					- [[Noble House a'Haruuc]]
 					- [[Noble House a'LeQuinn]]
-					- [[Northstone Trading Company]]
+					- [[Northstone Family Trading Company]]
 					- [[Simonson Clan]]
 					- [[The Arstoviches]]
 				- **Local Lore**
