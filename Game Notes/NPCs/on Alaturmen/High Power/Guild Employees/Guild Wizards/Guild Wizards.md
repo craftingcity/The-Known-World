@@ -1,6 +1,6 @@
 # Wizards
 %% Begin Waypoint %%
-- **[[Wizards]]**
+- **[[Guild Wizards]]**
 	- [[Nicolas Talaveem]]
 	- [[The Grand Archmage Alergra Barrowinch]]
 	- [[The Wizard In Blue]]

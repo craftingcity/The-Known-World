@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "MEDIA",
   "spellcheck": true,
   "showLineNumber": false,
   "defaultViewMode": "source",

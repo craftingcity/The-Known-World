@@ -3,7 +3,7 @@ tags: npc
 aliases:
 ---
 # Edward Lee Gunagido
-## Doctor of Storage
+## Doctor of Chemistry
 ### he/him
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.

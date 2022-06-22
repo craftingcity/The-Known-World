@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f632fb7ff7cd1c9",
+        "id": "2614265e56a55b2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#symbol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
               }
             }
           }
@@ -118,19 +117,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312
+    "width": 538.6111450195312,
+    "collapsed": true
   },
-  "active": "6f632fb7ff7cd1c9",
+  "active": "2614265e56a55b2e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Symbolism of the KiR.md",
-    "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/All Alchemical Ingredients.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Druids of Alaturmen/Druids of Alaturmen.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Orcish Shamans/Orcish Shamans.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Combine Rulers/Combine Rulers.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Folk of Business/Folk of Business.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Guilded Adventuers/Guilded Adventuers.md",
+    "Game Notes/NPCs/on Alaturmen/Mild Power/Thief Lords of the Desert/Thief Lords of the Desert.md"
   ]
 }

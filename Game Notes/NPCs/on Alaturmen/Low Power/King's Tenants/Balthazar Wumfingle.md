@@ -4,6 +4,7 @@ aliases:
 ---
 # Balthazar Wumfingle
 ## Steward
+## Attendant
 ### he/they
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.

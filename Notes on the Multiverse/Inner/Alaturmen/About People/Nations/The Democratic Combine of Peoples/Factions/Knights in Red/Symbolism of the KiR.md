@@ -1,5 +1,5 @@
 ---
-tags: stub, symbol
+tags: stub
 aliases:
 ---
 

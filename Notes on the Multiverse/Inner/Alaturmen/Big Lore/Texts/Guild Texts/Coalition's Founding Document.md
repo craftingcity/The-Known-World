@@ -1,5 +1,5 @@
 ---
-tags: stub, text
+tags: stub, text, coalition
 aliases:
 ---
 

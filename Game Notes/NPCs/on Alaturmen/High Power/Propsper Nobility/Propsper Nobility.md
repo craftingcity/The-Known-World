@@ -1,8 +1,9 @@
 # Kingdom of Prosper
 see [[The Kingdom of Prosper]]
 %% Begin Waypoint %%
-- **[[Kingdom of Prosper]]**
+- **[[Propsper Nobility]]**
 	- [[Arthur Simonson]]
-	- [[Fraznky Bradley]]
+	- [[Carrie a'LeQuinn]]
+	- [[Wilson a'LeQuinn]]
 
 %% End Waypoint %%

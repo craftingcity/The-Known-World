@@ -1,3 +1,9 @@
+---
+tags: folderfile
+aliases:
+---
+
+
 # on Alaturmen
 %% Begin Waypoint %%
 - **[[on Alaturmen]]**
@@ -8,44 +14,36 @@
 			- [[Detraminx]]
 			- [[Kakurak]]
 			- [[Tetrimoc]]
-		- **Giant Leaders**
-			- [[Jarl Grungar]]
-			- [[King Snure]]
-		- **Guild Leaders**
-			- **[[Admin]]**
-			- [[Coalition Guild]]
-			- **[[Wizards]]**
+		- **[[Giant Leaders]]**
+		- **Guild Employees**
+			- **[[Guild Admin]]**
+			- **[[Guild Adventurers]]**
+			- **[[Guild Crafters]]**
+			- [[Guild Leaders]]
+			- **[[Guild Merchants]]**
+			- **[[Guild Wizards]]**
 		- **[[High Holyl'nders]]**
 		- **[[Historical Figures]]**
-		- **[[Kingdom of Prosper]]**
+		- **[[Loose Wizards]]**
 		- **[[Northeastern Clan Leaders]]**
+		- **[[Propsper Nobility]]**
 		- **[[World Villans]]**
 	- **Higher Power**
-		- [[Grand Pantheon]]
-		- [[Its Greatness]]
-		- [[The Patron Saints of Kakurak]]
+		- **[[Alaturmen's Gods]]**
+		- **[[Demon Lords]]**
 	- **Low Power**
-		- **Combine Citizens**
+		- **[[Combine Citizens]]**
 		- **[[Ex-Bandit Lords]]**
-		- **Lower Holyl'nders**
-		- **Self-Made**
-			- [[Alisinder Rancarlo]]
-		- **Servant of a Patron**
+		- **King's Tenants**
 			- [[Balthazar Wumfingle]]
-			- [[Doctor Gunagido]]
-			- [[Marcus]]
+			- [[Fraznky Bradley]]
+		- **[[Lower Holyl'nders]]**
 	- **Mild Power**
 		- **[[Combine Rulers]]**
-		- **Guild Representitives**
-			- [[Filip Grundle]]
-			- [[Jasper Vwem]]
-			- [[Yyu Clipwin]]
-		- **[[Guilded Adventuers]]**
-		- **Local Leader**
-			- [[Carrie a'LeQuinn]]
-			- [[Enoch Ben]]
-			- [[Macht]]
-			- [[Valerio Avishalom]]
-			- [[Wilson a'LeQuinn]]
+		- **[[Folk of Business]]**
+		- **[[Guild Representitives]]**
+		- **[[Orcish Shamans]]**
+		- **[[Tendered]]**
+		- **[[Thief Lords of the Desert]]**
 
 %% End Waypoint %%

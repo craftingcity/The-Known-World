@@ -1,5 +1,5 @@
 ---
-tags: holding, coalition, needs_work
+tags: holding, coalition
 aliases: The City in the Mountains, Peacetown
 ---
 ## Coalition City

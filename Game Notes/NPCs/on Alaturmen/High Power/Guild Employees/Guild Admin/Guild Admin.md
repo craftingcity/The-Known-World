@@ -1,6 +1,6 @@
 # Admin
 %% Begin Waypoint %%
-- **[[Admin]]**
+- **[[Guild Admin]]**
 	- [[Adriana Fairlin Franx]]
 	- [[Speaker Vanavar]]
 
