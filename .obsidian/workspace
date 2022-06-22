@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3591c8a4922a9d87",
+        "id": "597d8aa1cb4cab36",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Currency of Alaturmen.md",
+            "file": "Game Notes/Game Notes.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Currency of Alaturmen.md",
+                "file": "Game Notes/Game Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Currency of Alaturmen.md",
+                "file": "Game Notes/Game Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Currency of Alaturmen.md"
+                "file": "Game Notes/Game Notes.md"
               }
             }
           }
@@ -121,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3591c8a4922a9d87",
+  "active": "597d8aa1cb4cab36",
   "lastOpenFiles": [
-    "Currency of Alaturmen.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Products.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Mountain Hall/Mountain Hall.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-    "MEDIA/MAPS/WORLD/combine-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Actstow.md"
   ]
 }

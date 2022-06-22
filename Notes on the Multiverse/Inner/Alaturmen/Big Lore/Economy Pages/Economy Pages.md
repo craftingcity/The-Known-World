@@ -6,6 +6,7 @@ aliases:
 # Economy Pages
 %% Begin Waypoint %%
 - **[[Economy Pages]]**
+	- [[Currency of Alaturmen]]
 	- [[Economics of Actstow]]
 	- [[Economics of Cenva Minyo]]
 	- [[Economics of Coalition City]]
