@@ -145,7 +145,7 @@
 				- [[Red Throne]]
 		- **Southwestern Central**
 			- **[[Kailkeep]]**
-			- [[Mountain Hall]]
+			- **[[Mountain Hall]]**
 			- **Smaller than a city**
 				- [[Kickoff]]
 			- **Smaller than a feature**

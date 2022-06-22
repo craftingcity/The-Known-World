@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5efbf36cd360e0",
+        "id": "98772b931ad5e26b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -121,17 +114,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2f5efbf36cd360e0",
+  "active": "98772b931ad5e26b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/NW Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/SE Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Mountain Hall/Mountain Hall.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dwarven Specifics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of the Hobgoblin Territories.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Hobgoblin Clan Pact.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Prime Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Northeastern Hobgoblin Territories.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Simonson Clan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of the Hobgoblin Territories.md"
   ]
 }

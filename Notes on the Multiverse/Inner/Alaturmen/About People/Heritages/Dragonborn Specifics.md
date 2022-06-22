@@ -3,7 +3,7 @@ tags: race_specifics
 aliases:
 ---
 ## Legends from the Immortal Dragons
-The legends of dragons first speak of the great immortal dragons, god-like beings whom grew bored of their power and created the material planes for them to play in. There, they became dragon.
+The legends of dragons first speak of the great immortal dragons, god-like beings whom grew bored of their power and created the material planes for them to play in. There, they became mortal true dragon.
 
 The dragon made children of many, including the Dragonborn.
 

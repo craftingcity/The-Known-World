@@ -3,7 +3,7 @@ tags: table
 aliases:
 ---
 # South Western Central Alaturmen
-Much of the South West is civilized. The outskirts of this area are densely inhabited by human, gnoll, goblin, and many native fauna. Nearly the only recognized organization here is [[The Golden City]], as ruled by the [[Golden Claws]], but the [[Desert Thieves]] hold the outskirts where they can.
+Much of the South West is civilized. The outskirts of this area are densely inhabited by human, dwarves, gnoll, goblin, and many native fauna. Nearly the only recognized organization here is [[The Golden City]], as ruled by the [[Golden Claws]], but the [[Desert Thieves]] hold the outskirts where they can.
 
 ### Tables
 #### General Encounter Table

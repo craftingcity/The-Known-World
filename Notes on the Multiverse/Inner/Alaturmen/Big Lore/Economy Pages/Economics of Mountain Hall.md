@@ -26,13 +26,13 @@ Bluecap Mushroom creates a crumbly musky flour. Other grains are imported, but t
 Avocados and Almonds are grown in massive orchards, but these are the only fruit that grow in this region. Many fruits are imported from the south and the east, but these are quite expensive because of the King's tariffs.
 
 #### Vegetable
-Many types of Mushroom are grown in Mountain Hall. Squash and Cabbage are also grown here. Beans are a rotation crop and are not for consumption by people. Some vegetables are imported, but there is little demand for non-local vegetables.
+Many types of Mushroom are grown in Mountain Hall. Squash and Cabbage are also grown here. Beans are a rotation crop and are considered acceptable as food for the people. Some vegetables are imported, but there is little demand for non-local vegetables.
 
 #### Spice and Oil
 Locally, the only available spices and oils are rock salt and avocado oil. Rock salt is mined from Mountain Hall's depths. Avocados are pressed into oil as an industry in this region. Many Oils and Spices are imported from the south. These are not as heavily tarriffed as fruit.
 
 #### Delicacy
-Goat is the most desired meat and Paprika is the most desired spice. 
+The prime delicacy of Mountain Hall is the chevron-bluecap kabasa. It is often served with beans, squash, and some types of mushroom and is traditionally spiced with salt, pepper, paprika, lavander, and nutmeg.
 
 ### Vices
 What do people do for *fun*?
