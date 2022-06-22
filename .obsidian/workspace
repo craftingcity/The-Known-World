@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "31eb79c40e38731d",
+        "id": "3591c8a4922a9d87",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+            "file": "Currency of Alaturmen.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "669d8216b7aa6774",
+        "id": "da646b3054c87d43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9aa7dd57f8c40af5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ORGANIZATION/Notes From Grain Into Gold.md",
             "mode": "source"
           }
         }
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "file": "Currency of Alaturmen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "file": "Currency of Alaturmen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md"
+                "file": "Currency of Alaturmen.md"
               }
             }
           }
@@ -132,17 +143,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "669d8216b7aa6774",
+  "active": "3591c8a4922a9d87",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+    "Currency of Alaturmen.md",
+    "ORGANIZATION/Notes From Grain Into Gold.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Merchants.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Ingredients.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Components/Components.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md"
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Products.md"
   ]
 }

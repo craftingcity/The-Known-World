@@ -88,7 +88,7 @@ There are few sources of salt in Prosper, although it is imported from both Comb
 Baskets and Bags are the most common transportation mediums, although barrels and boxes are still used in large operations. The pottery of the region is generally poor, and most folk import their pottery when they can.
 
 ### Mining
-Prosper primarily trades with Acstow for their mining materials, although some specialties such as gems they buy from the south. While there are some operations in Prosper, with powerful operations nearby, it's often cheaper to import than produce.
+Prosper primarily trades with Acstow for their mining materials, although some specialties such as gems they buy from the south. While there are some mines in Prosper, with such powerful operations nearby, it's often cheaper to import than produce.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
