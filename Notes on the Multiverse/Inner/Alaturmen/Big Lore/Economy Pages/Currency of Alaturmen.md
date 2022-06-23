@@ -26,7 +26,7 @@ Golden Claw | Tetrimoc | 156.0
 --- | --- | --- | ---
 Tin Bit | Actstow | 0.1
 Tin Bolt | Actstow | 1.0 | its ten bits attached
-Elven Leaf | Cenva Minyo | 2.5 | thin square patches of elvenfiber
+Elven Leaf | Cenva Minyo | 3.0 | 1/10th sq. yard of elven fiber
 Jade Bit | Actstow | 11.0 | 1 carat average jade, minted
 --- | --- | --- | ---
 Lead Quarter | Mnt Hall | 0.025
@@ -77,10 +77,12 @@ Rabbit (healthy) | 0.5-1.5
 Tobacco (1lb) | 1.2
 Cannabis (1lb) | 3.6
 Smokebulb (1lb) | 10.0
+Bulbkiss (1lb, powder) | 18.0
 Lephora Fruit (1lb) | 13.2
 Dareanamon (1lb, crystal) | 22.0
 Dareanamon (1 gal., syrup) | 28.0
 Isiopara (1lb, powder) | 63.0
+Nova (1lb, powder) | 2.4
 --- | --- | --- 
 Hemp fabric (1 sq. yard, soft) | 2.6
 Hemp fabric (1 sq. yard, strong) | 3.2

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "597d8aa1cb4cab36",
+        "id": "ab24c4b1b2a3b88c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
-            "mode": "preview"
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md"
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md"
               }
             }
           }
@@ -121,17 +121,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "597d8aa1cb4cab36",
+  "active": "ab24c4b1b2a3b88c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Mountain Hall/Mountain Hall.md"
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "Game Notes/Mechanics/How Alchemy Works.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/How things Work.md",
+    "MEDIA/MEDIA.md",
+    "MEDIA/SUPP/Here lie my suppliments....md"
   ]
 }
