@@ -77,10 +77,12 @@ Rabbit (healthy) | 0.5-1.5
 Tobacco (1lb) | 1.2
 Cannabis (1lb) | 3.6
 Smokebulb (1lb) | 10.0
+Bulbkiss (1lb, powder) | 18.0
 Lephora Fruit (1lb) | 13.2
 Dareanamon (1lb, crystal) | 22.0
 Dareanamon (1 gal., syrup) | 28.0
 Isiopara (1lb, powder) | 63.0
+Nova (1lb, powder) | 2.4
 --- | --- | --- 
 Hemp fabric (1 sq. yard, soft) | 2.6
 Hemp fabric (1 sq. yard, strong) | 3.2
