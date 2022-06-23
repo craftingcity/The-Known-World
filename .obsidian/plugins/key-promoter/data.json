@@ -13,9 +13,9 @@
     "app:delete-file": 111,
     "editor:delete-paragraph": 110,
     "graph:open": 16,
-    "workspace:undo-close-pane": 45,
-    "workspace:close": 45,
-    "workspace:close-others": 46,
+    "workspace:undo-close-pane": 51,
+    "workspace:close": 51,
+    "workspace:close-others": 52,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 2,
     "backlink:open-backlinks": 24,
@@ -119,7 +119,9 @@
     "insert-current-time": 1,
     "note-composer:split-file": 1,
     "workspace:split-vertical": 1,
-    "markdown-table-editor:markdown-table-editor-open-vertical": 1
+    "markdown-table-editor:markdown-table-editor-open-vertical": 2,
+    "markdown-table-editor:markdown-table-editor-open-horizontal": 1,
+    "markdown-table-editor:markdown-table-editor-select-table-content": 1
   },
   "keyboardStatistics": {
     "insert-template": 109,

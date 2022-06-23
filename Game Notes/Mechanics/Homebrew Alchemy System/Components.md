@@ -4,7 +4,7 @@ aliases:
 ---
 # Table of All Alchemical Components
 
-Component Name | Component Motif | Type | Area | Numerical Rarity (1-3,4,5) | Value (sp per unit (gal/lb/carat)) | Notes
+Component Name | Motif A | Motif B | Type | Area | Numerical Rarity (1-3,4,5) | Value (sp per unit (gal/lb/carat)) | Notes
 ---|---|---|---|---|---|---
 Alkanet Pulp | healing / disease | flora | common | 1 | 1.0
 Aloe Vera Nectar | healing / fire | flora | south-west | 2 | 12.0
@@ -24,8 +24,6 @@ Smokebulb | poison / illusion | flora | underground | 3 | 10.0
 Lephora Fruit | charm / illusion | flora | south-west | 1 | 13.2
 Tobacco | poison / air | flora | northern | 1 | 1.2 
 Cannabis | charm / healing | flora | northern | 1 | 3.6 
-Dareanamon |
-Isiopara |
 Goodberry | healing / arcana | flora | arcane | 2 | 3.5
 Brightmoss | light / water | flora | underground | 3 | 18.0
 Apple Seed | poison / disease | flora | north-east | 1 | 1.4
