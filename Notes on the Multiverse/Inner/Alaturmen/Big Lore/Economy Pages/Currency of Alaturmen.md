@@ -57,28 +57,39 @@ Wine (1 gal., average qual.) | 7.2
 Honey (1lb) | 3.0
 Olive Oil (1 gal.) | 8.0
 Butter / Cheese (1lb) | 1.2-1.8
+--- | --- | --- 
 Diamond (1 carat, cut) | 1000.0
 Emerald / Ruby / Sapphire (1 carat, cut) | 500.0
 Amethyst (1 carat, cut) | 100.0
+--- | --- | --- 
 Goat (healthy) | 5.0-15.0
 Chicken (healthy) | 0.5-0.6
 Rabbit (healthy) | 0.5-1.5
-Tobacco (1lb)
-Cannabis (1lb)
-Smokebulb (1lb)
-Lephora Fruit (1lb)
-Hemp fabric (1 sq. yard, soft)
-Hemp fabric (1 sq. yard, strong)
-Goat's wool (1 sq. yard, light)
-Linen fabric (1 sq. yard, farm)
-Linen fabric (1 sq. yard, fine)
-Silk fabric (1 sq. yard)
-Leather (1 sq. yard, cattle)
-Leather (1 sq. yard, goat)
-Leather (1 sq. yard, pig)
-Leather (1 sq. yard, deer)
-Pelt, raccoon
-Pelt, fox
-Pelt, rabbit
+--- | --- | --- 
+Tobacco (1lb) | 1.2
+Cannabis (1lb) | 3.6
+Smokebulb (1lb) | 10.0
+Lephora Fruit (1lb) | 13.2
+Dareanamon (1lb, crystal) | 22.0
+Dareanamon (1 gal., syrup) | 28.0
+Isiopara (1lb, powder) | 
+--- | --- | --- 
+Hemp fabric (1 sq. yard, soft) | 2.6
+Hemp fabric (1 sq. yard, strong) | 3.2
+Linen fabric (1 sq. yard, farm) | 3.3
+Linen fabric (1 sq. yard, fine) | 4.0
+Silk fabric (1 sq. yard) | 42.5
+--- | --- | --- 
+Leather (1 sq. yard, cattle) | 6.0
+Leather (1 sq. yard, goat) | 7.0
+Leather (1 sq. yard, pig) | 3.2
+Leather (1 sq. yard, deer) | 4.5
+Leather (1 sq. yard, horse) | 6.0
+Pelt, raccoon | 4.5
+Pelt, fox | 5.0
+Pelt, rabbit | 0.3
+Pelt, gecko | 0.25
+Chitin (1lb, wurm) | 2.4
+Chitin (1lb, ankheg) | 1.8
 
 

@@ -6,7 +6,7 @@
       {
         "id": "2935f22b819c7a01",
         "type": "leaf",
-        "dimension": 57.28,
+        "dimension": 40.134529147982065,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,15 +16,33 @@
         }
       },
       {
-        "id": "3a9a1b18b624c902",
-        "type": "leaf",
-        "dimension": 42.72,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+        "id": "f49ac479f9137c29",
+        "type": "split",
+        "dimension": 59.865470852017935,
+        "children": [
+          {
+            "id": "a4fbfa0bb6002c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3a9a1b18b624c902",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -136,6 +154,7 @@
   "active": "2935f22b819c7a01",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
     "A Grand Notepad.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
@@ -143,7 +162,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md",
-    "MEDIA/MEDIA.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economy Pages.md"
   ]
 }
