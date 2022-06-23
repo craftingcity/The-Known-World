@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "90db059e857bfdca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Mechanics/How Alchemy Works.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
