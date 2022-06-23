@@ -7,7 +7,7 @@ aliases:
 Prosperity: Rich
 Population: Shrinking
 Defenses: Guard
-Other Tags: Need (Food), Arcane, Personage ([[The Grand Archmage Alergra Barrowinch]]), Blight (Arcane Experiments)
+Other Tags: Need (Food), Arcane, Personage ([[Alergra Barrowinch]]), Blight (Arcane Experiments)
 
 ![[Magius-100AF.png]]
 # Description

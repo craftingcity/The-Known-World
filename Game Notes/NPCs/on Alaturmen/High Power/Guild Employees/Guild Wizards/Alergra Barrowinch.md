@@ -5,7 +5,7 @@ aliases:
 # Alegra Barrowinch
 ## The Grand Archmage of Magius Academy
 ## High Mage of the Court of [[Arthur Simonson]]
-## Red Mage of the [[Guild of Wizards]]
+## the Red Mage [[Guild of Wizards]]
 ### she/her
 
 > A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.

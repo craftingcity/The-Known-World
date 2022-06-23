@@ -4,53 +4,44 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "id": "fa52fe2616f2d0a8",
-=======
-        "id": "fe73ed9474b30141",
->>>>>>> Stashed changes
+        "id": "c8978a254e3157d2",
+        "type": "split",
+        "children": [
+          {
+            "id": "e35fd5ae606caf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guilds.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1a06ffcc2b0956cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Wizards.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "746c970e19223101",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
-=======
-            "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
->>>>>>> Stashed changes
-            "mode": "source"
-          }
-=======
-        "id": "880c29577cbcbf3f",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
->>>>>>> Stashed changes
-        }
-<<<<<<< Updated upstream
-=======
-      },
-      {
-        "id": "e91087f53aaf8d91",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "f4563ac40343abea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md",
             "mode": "source"
           }
         }
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -77,15 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "query": "giant",
-=======
-                "query": "",
->>>>>>> Stashed changes
-=======
-                "query": "scroll",
->>>>>>> Stashed changes
+                "query": "wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,14 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
-=======
->>>>>>> Stashed changes
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> Stashed changes
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
-=======
->>>>>>> Stashed changes
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> Stashed changes
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-<<<<<<< Updated upstream
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md"
-=======
-                "file": "conflict-files-obsidian-git.md"
->>>>>>> Stashed changes
+                "file": "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ],
@@ -189,47 +150,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "active": "fa52fe2616f2d0a8",
+  "active": "746c970e19223101",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Giant Leaders/King Snure.md",
-    "Game Notes/Fronts/Giant's Toe Front.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md",
+    "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/Nicolas Talaveem.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guild of Wizards.md",
+    "MEDIA/MAPS/WORLD/combine-100AF.png",
+    "Game Notes/NPCs/on Alaturmen/High Power/Combine Rulers/Combine Rulers.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds/Guilds.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/Fronts/Fronts.md",
-    "Prince Bissk.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "conflict-files-obsidian-git.md"
-=======
-  "active": "880c29577cbcbf3f",
-  "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
-    "Untitled.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
->>>>>>> Stashed changes
-=======
-  "active": "f4563ac40343abea",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System.md",
-    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
-    "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
-    "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md"
->>>>>>> Stashed changes
+    "Game Notes/Prenotes/'22/'22.md",
+    "Game Notes/NPCs/NPCs.md"
   ]
 }

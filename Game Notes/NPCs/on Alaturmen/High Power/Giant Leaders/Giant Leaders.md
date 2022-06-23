@@ -9,5 +9,6 @@ aliases:
 - **[[Giant Leaders]]**
 	- [[Jarl Grungar]]
 	- [[King Snure]]
+	- [[Prince Bissk]]
 
 %% End Waypoint %%

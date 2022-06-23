@@ -3,6 +3,8 @@ tags: npc
 aliases:
 ---
 # Yassir Cassindil
+## Baron
+## Elven Harborer
 #### any pronouns
 
 > An elven figure wearing a long green robe lays along the purple couch. Their long blonde hair is gathered lazily in a bun atop their head. 

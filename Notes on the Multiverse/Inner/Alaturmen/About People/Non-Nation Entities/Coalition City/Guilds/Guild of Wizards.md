@@ -13,11 +13,13 @@ For a list of High Power Wizards (including those not on the Council of Mages) s
 ### Council of Mages
 The Council of Mages are the few people responsible for the use of Weave Arcane on Alaturmen. Each is titled the Mage of their domain.
 
-The Red Mage, [[The Grand Archmage Alergra Barrowinch]]
+The Red Mage, [[Alergra Barrowinch]]
 The Blue Mage, [[The Wizard In Blue]]
-The Yellow Mage,
-The White Mage,
-The Black Mage,
+The Yellow Mage, [[Nicolas Talaveem]]
+The White Mage, 
+The Black Mage, [[Qiell Tilemundon]]
+
+### Courier 
 ## Culture
 ### Symbolism
 ## Technology
