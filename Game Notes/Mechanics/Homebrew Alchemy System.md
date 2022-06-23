@@ -23,6 +23,8 @@ A rare school of alchemy that is generally only practiced by the dragon-kin them
 
 
 ### How do *I* start doing Alchemy?
+![[AlchemicalComponentMotifs.png]]
+*A representation of the nineteen  Barrowinch-Gunagido alchemical motifs.*
 #### Philosopher's Stone
 Alchemy begins at the Philosopher's Stone. The collected energy in such an object is so great that it effects other objects it is exposed to. Alchemical formula will often involve touching, submerging, wrapping, or otherwise contacting the stone or one of its subsidiary products - Red Water and Yellow Powder. These two are lesser forms of the stone, Yellow Powder more-so than Red Water, regularly replace the Stone in alchemical formula.
 
@@ -45,7 +47,9 @@ A permanent lab can grow and shrink to the needs of an alchemist, but anything m
 
 ### Mechanics
 #### Production
-The act of creating an alchemical product by a player is both an in-game performance that include collecting ingredients, equipment, and knowledge, and a roll of Intelligence (Arcana / Alchemist's Tools) for mechanical effect. When this check is performed during downtime, or by an NPC, one would "take ten", and calculate as though they had rolled a ten on the die.
+The act of creating an alchemical product by a player is both an in-game performance that include collecting ingredients, equipment, knowledge, and creativity, as well as a roll of Intelligence (Arcana / Alchemist's Tools) for mechanical effect. 
+
+When this check is performed during downtime, or by an NPC, one would "take ten", and calculate as though they had rolled a ten on the die.
 
 x | Detail
 --- | ---
