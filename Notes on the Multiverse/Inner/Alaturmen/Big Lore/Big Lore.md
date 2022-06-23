@@ -8,9 +8,9 @@ aliases:
 - **[[Big Lore]]**
 	- **[[Economy Pages]]**
 	- **[[Language]]**
-	- [[Prime Timeline]]
 	- **[[Texts]]**
 	- [[The Worldwide Calendar Systems]]
+	- [[Timeline]]
 	- **[[World Wide Happenings]]**
 
 %% End Waypoint %%

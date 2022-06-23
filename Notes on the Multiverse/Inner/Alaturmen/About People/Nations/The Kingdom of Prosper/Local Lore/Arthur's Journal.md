@@ -21,12 +21,12 @@ All throughout these pages on adventures he has made, he makes remarks of the le
 
 Then, some pages of madness. Undated ramblings, scribbled drawings, and torn pages. 
 
-On the next entry, dated sometime in the [[Prime Timeline|winter of the year 056AF]], he speaks of his Final Quest: to unite the lands under a time of prosperity that would last for as long as he lived. He speaks somewhat differently than before, using some less than transparent metaphor and many more nothing-words.
+On the next entry, dated sometime in the [[Timeline|winter of the year 056AF]], he speaks of his Final Quest: to unite the lands under a time of prosperity that would last for as long as he lived. He speaks somewhat differently than before, using some less than transparent metaphor and many more nothing-words.
 
 Then, he made war. His entries write of his close friends becoming generals in his war against the [[Bandit Lords]] that had taken a hold in the midst of the peoples of the Northwest. 
 
 
 
 
-An entry dated [[Prime Timeline|104AF]]
+An entry dated [[Timeline|104AF]]
 "... and they said the Hobgoblins were making war. I have given orders to my legion to spread from [[Castle Prosper|Keep Prosper]] to defend our smaller holdings, but I cannot make the hobgoblin's peace. I have sent word to the [[Guild of Adventurers]], but for now I must keep our people safe."

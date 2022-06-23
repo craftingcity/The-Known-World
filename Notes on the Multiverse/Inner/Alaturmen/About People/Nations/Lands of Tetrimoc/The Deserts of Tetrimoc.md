@@ -8,7 +8,7 @@ aliases: Lands of Tetrimoc
 ## History
 ## Governance
 ### Government of [[The Golden City]]
-While many in the Golden City claim that all of the desert is ruled by [[Tetrimoc]], he has grown complacent (or simply bored), and leaves the [[The Outlands|Outlanders]] to themselves. Tetrimoc apparently controls the immediate area around the Golden City, and the [[The Outlands|Outlanders]] control the rest of the Desert, given that it has been [[Prime Timeline|a few years]] since Tetrimoc has been seen in the city.
+While many in the Golden City claim that all of the desert is ruled by [[Tetrimoc]], he has grown complacent (or simply bored), and leaves the [[The Outlands|Outlanders]] to themselves. Tetrimoc apparently controls the immediate area around the Golden City, and the [[The Outlands|Outlanders]] control the rest of the Desert, given that it has been [[Timeline|a few years]] since Tetrimoc has been seen in the city.
 
 "Tetrimoc" rules with a golden claw; much like an iron fist, but more benevolent and more ruthless. His followers are much the same. [[The Golden City]] is a safe place to be, as it is protected by the [[Golden Claws]], but those who protect also enforce. They are called "Claws" for a reason.
 
