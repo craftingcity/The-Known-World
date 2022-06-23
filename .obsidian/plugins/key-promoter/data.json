@@ -117,7 +117,8 @@
     "editor:open-search-replace": 1,
     "insert-current-date": 1,
     "insert-current-time": 1,
-    "note-composer:split-file": 1
+    "note-composer:split-file": 1,
+    "workspace:split-vertical": 1
   },
   "keyboardStatistics": {
     "insert-template": 109,

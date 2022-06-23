@@ -47,6 +47,8 @@ Merchant's Silver Pound | Guild | 10.0
 Merchant's Gold Pound | Guild | 100.0
 Merchant's Platinum Pound | Guild | 1000.0
 
+### Chart
+
 
 ## Goods
 Good | Value in sp | Notes
