@@ -6,6 +6,7 @@ connect to [[Game Notes]]
 	- **[[Elemental Planes]]**
 	- **[[Inner]]**
 	- **[[Outer]]**
+	- [[The Planes of Existence]]
 	- [[Wildlands]]
 
 %% End Waypoint %%
