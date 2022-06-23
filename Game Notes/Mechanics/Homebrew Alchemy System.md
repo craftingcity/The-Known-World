@@ -38,7 +38,7 @@ A rare school of alchemy that is generally only practiced by the dragon-kin them
 
 ### How do *I* start doing Alchemy?
 ![[AlchemicalComponentMotifs.png]]
-*A representation of the nineteen Barrowinch-Gunagido alchemical motifs.*
+*A representation of the twenty-nine Barrowinch-Gunagido alchemical motifs.*
 #### Philosopher's Stone
 Alchemy begins at the Philosopher's Stone. The collected energy in such an object is so great that it effects other objects it is exposed to. Alchemical formula will often involve touching, submerging, wrapping, or otherwise contacting the stone or one of its subsidiary products - Red Water and Yellow Powder. These two are lesser forms of the stone, Yellow Powder more-so than Red Water, regularly replace the Stone in alchemical formula.
 

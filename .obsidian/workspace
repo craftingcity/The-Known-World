@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "280b0e3fe0132548",
+        "id": "fe73ed9474b30141",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bd15e9cd8236b02c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md"
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md"
               }
             }
           }
@@ -132,17 +121,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "280b0e3fe0132548",
+  "active": "fe73ed9474b30141",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+    "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
     "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Game Notes.md",
-    "MEDIA/MEDIA.md"
+    "Game Notes/Game Notes.md"
   ]
 }
