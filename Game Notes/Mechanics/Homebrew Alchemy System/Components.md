@@ -11,7 +11,6 @@ Aloe Vera Nectar | healing / fire | flora | south-west | 2 | 12.0
 Dragon's Tongue | fire / dragon | flora | south-east | 3 | 21.2
 Foxglove Pulp | illusion / form | flora | common | 2 | 4.5
 Ginko Leaf | illusion / charm | flora | south-east | 2 | 4.0
-Oxa Leaf |
 Lavender | poison / charm | flora | south-west | 1 | 8.5
 Nightshade | poison / form | flora | north-west | 4 | 120.0
 Witchweed | poison / arcana | flora | north-east | 2 | 1.2
