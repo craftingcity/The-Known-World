@@ -7,6 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
 	- [[NW Travel Table]]
+	- **Smaller than a city**
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]

@@ -32,6 +32,7 @@ aliases:
 		- **[[World Villans]]**
 	- **Higher Power**
 		- **[[Alaturmen's Gods]]**
+		- [[All-Father Annam]]
 		- **[[Demon Lords]]**
 	- **Low Power**
 		- **[[Combine Citizens]]**
@@ -43,10 +44,7 @@ aliases:
 		- **[[Orcish Shamans]]**
 	- **Mild Power**
 		- **[[Folk of Business]]**
-		- **Guild Representitives**
-			- [[Filip Grundle]]
-			- [[Jasper Vwem]]
-			- [[Yyu Clipwin]]
+		- **[[Guild Representitives]]**
 		- **[[Tendered]]**
 		- **[[Thief Lords of the Desert]]**
 

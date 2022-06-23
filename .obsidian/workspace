@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "fa52fe2616f2d0a8",
         "type": "leaf",
         "state": {
@@ -12,6 +13,13 @@
             "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
             "mode": "source"
           }
+=======
+        "id": "880c29577cbcbf3f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -39,7 +47,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "giant",
+=======
+                "query": "",
+>>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +112,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +126,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -121,6 +143,7 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "fa52fe2616f2d0a8",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
@@ -133,5 +156,19 @@
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "conflict-files-obsidian-git.md"
+=======
+  "active": "880c29577cbcbf3f",
+  "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
+    "MEDIA/SUPP/GrainIntoGold.pdf",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
+    "Untitled.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+>>>>>>> Stashed changes
   ]
 }
