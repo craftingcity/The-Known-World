@@ -17,6 +17,8 @@ Apprentices (~lvl 1)
 
 Experts and Masters of the craft of Alchemy are likely working with ingredients and products not on upcoming listings – items so rare that they cannot be mentioned, or secret procedures producing higher quality items.
 
+## Schools
+
 # How do I start?
 You will need tools to set up your lab. Most alchemists have their own recipes, containers, processes, and the like. No magic is necessary to begin alchemy, but it certainly can make the processes much easier or otherwise replace some steps of a recipe.
 

@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c556dff057bcf064",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
-            "mode": "source"
+        "id": "14e3f53c698a766f",
+        "type": "split",
+        "children": [
+          {
+            "id": "c556dff057bcf064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d6f6066fe4fd3dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md"
               }
             }
           }
@@ -121,8 +139,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "c556dff057bcf064",
+  "active": "d6f6066fe4fd3dae",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
     "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
@@ -131,7 +150,6 @@
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Homebrew Alchemy System/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Alchemy System/Products.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md",
-    "MEDIA/SUPP/GrainIntoGold.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Economics of Mountain Hall.md"
   ]
 }
