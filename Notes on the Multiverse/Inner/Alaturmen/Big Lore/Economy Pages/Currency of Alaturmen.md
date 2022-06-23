@@ -63,10 +63,10 @@ Amethyst (1 carat, cut) | 100.0
 Goat (healthy) | 5.0-15.0
 Chicken (healthy) | 0.5-0.6
 Rabbit (healthy) | 0.5-1.5
-Tobacco
-Cannabis
-Smokebulb
-Desert Drug
+Tobacco (1lb)
+Cannabis (1lb)
+Smokebulb (1lb)
+Lephora Fruit (1lb)
 Hemp fabric (1 yard, thin)
 Hemp fabric (1 yard, strong)
 Linen fabric (1 yard)

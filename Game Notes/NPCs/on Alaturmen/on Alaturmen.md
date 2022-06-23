@@ -25,18 +25,16 @@ aliases:
 			- **[[Guild Merchants]]**
 			- **[[Guild Wizards]]**
 		- **[[High Holyl'nders]]**
+		- **Leaders in Prosper**
 		- **[[Loose Wizards]]**
 		- **[[Northeastern Clan Leaders]]**
 		- **[[Propsper Nobility]]**
 		- **[[World Villans]]**
 	- **Higher Power**
 		- **[[Alaturmen's Gods]]**
-		- [[All-Father Annam]]
 		- **[[Demon Lords]]**
 	- **Low Power**
 		- **[[Combine Citizens]]**
-		- **Desert Citizens**
-		- **G-City Citizens**
 		- **King's Tenants**
 			- [[Balthazar Wumfingle]]
 			- **[[Ex-Bandit Lords]]**
@@ -44,9 +42,11 @@ aliases:
 		- **[[Lower Holyl'nders]]**
 		- **[[Orcish Shamans]]**
 	- **Mild Power**
-		- **Employees of Golden Claw**
 		- **[[Folk of Business]]**
-		- **[[Guild Representitives]]**
+		- **Guild Representitives**
+			- [[Filip Grundle]]
+			- [[Jasper Vwem]]
+			- [[Yyu Clipwin]]
 		- **[[Tendered]]**
 		- **[[Thief Lords of the Desert]]**
 
