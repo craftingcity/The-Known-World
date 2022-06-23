@@ -36,3 +36,21 @@ Okay, so you want to set up a permanent lab. Okay. Do it. There is no guideline 
 A permanent lab can grow and shrink to the needs of an alchemist, but anything more than the Alchemist's Tools needs a permanent housing.
 
 ### Mechanics
+#### Production
+The act of creating an alchemical product by a player is both an in-game performance that include collecting ingredients, equipment, and knowledge, and a roll for mechanical effect. When this check is performed during downtime, or by an NPC, one would "take ten", and calculate as though they had rolled a ten on the die.
+
+x | Detail
+--- | ---
+30+ | Master
+25-29| Expert
+18-24 | Journeym'n
+13-17 | Novice
+8-12 | Apprentice
+(+8, nonstacking) | Using a Philosopher's Stone
+(+4, nonstacking) | Using some Red Water
+(+2, nonstacking) | Using some Yellow Powder
+(+0-4, once) | Using an alchemically potent ingredient
+#### Collection
+Collecting ingredients that are alchemically potent is a task that involves correctly identifying and harvesting such an ingredient. For the purposes of our game this will involve a Wisdom (Survival) check against the following table.
+
+x | Detail
