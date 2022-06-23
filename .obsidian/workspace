@@ -7,9 +7,10 @@
         "id": "83ae9baaaa2479ca",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/GrainIntoGold.pdf",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md"
               }
             }
           }
@@ -122,15 +124,15 @@
   },
   "active": "83ae9baaaa2479ca",
   "lastOpenFiles": [
-    "MEDIA/SUPP/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/Known Alchemical Products.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Economy Pages/Currency of Alaturmen.md",
+    "ORGANIZATION/Notes From Grain Into Gold.md",
+    "MEDIA/SUPP/GrainIntoGold.pdf",
+    "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
     "Game Notes/Mechanics/Homebrew Alchemy System/Products.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/Alchemy/How Alchemy Works.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/How things Work/The Planes of Existence.md",
     "conflict-files-obsidian-git.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md"
+    "Game Notes/Game Notes.md"
   ]
 }

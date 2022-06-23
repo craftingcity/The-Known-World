@@ -26,7 +26,7 @@ Golden Claw | Tetrimoc | 156.0
 --- | --- | --- | ---
 Tin Bit | Actstow | 0.1
 Tin Bolt | Actstow | 1.0 | its ten bits attached
-Elven Leaf | Cenva Minyo | 2.5 | thin square patches of elvenfiber
+Elven Leaf | Cenva Minyo | 3.0 | 1/10th sq. yard of elven fiber
 Jade Bit | Actstow | 11.0 | 1 carat average jade, minted
 --- | --- | --- | ---
 Lead Quarter | Mnt Hall | 0.025
