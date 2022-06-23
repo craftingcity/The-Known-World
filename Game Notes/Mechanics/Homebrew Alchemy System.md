@@ -17,7 +17,7 @@ It is true that most alchemists find success in creating their own formula, but 
 Durandurm's ability to invoke elemental power has led to its use in many formula and labratory across Alaturmen. By harnessing the powers of the most basic Elements, one could manipulate the Weave to their will.
 
 #### Draconic
-A rare school of alchemy that is generally only practiced by the dragon-kin themselves that involves using physical aspects of the body of a dragon-kin as components in alchemy.
+A rare school of alchemy that is generally only practiced by the dragon-kin themselves that involves using physical aspects of the body of a dragon-kin as potent components in alchemy.
 
 #### Necrotic
 
