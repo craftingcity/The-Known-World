@@ -2,19 +2,94 @@
 tags: timeline-labeled, bookkeeping
 ---
 
-# Prime's Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
+# Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
 
 ## The Time Before Time
 As is the case with all of the planes in the multiverse, the Goblin swam in the soup of creation long before any other.
 
+```timeline-labeled
+date: 99999TBT
+title: Three Fates Weave
+content:
+
+Three beings beyond undestanding weave together the fabrics of reality.
+
+
+
+date: 85000TBT~AF
+title:
+content:
+
+date: 75000TBT~AF
+title:
+content:
+
+date: 65000TBT~AF
+title:
+content:
+
+date: 55000TBT~AF
+title:
+content:
+
+date: 45000TBT~AF
+title:
+content:
+
+date: 35000TBT~AF
+title:
+content:
+
+date: 25000TBT~AF
+title:
+content:
+
+date: 20000TBT~AF
+title:
+content:
+
+date: 15000TBT~AF
+title:
+content:
+
+date: 10000TBT~AF
+title:
+content:
+
+date: 05000TBT~AF
+title:
+content:
+
+date: 02500TBT~AF
+title:
+content:
+
+date: 01500TBT~AF
+title:
+content:
+
+date: 01000TBT~AF
+title:
+content:
+
+date: 00500TBT~AF
+title:
+content:
+
+date: 000TBT~AF
+title: The Fall
+content:
+As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others in this new plane.
+```
+
 ## The Age of Beginning
 The recorded history begins with [[Tetrimoc's Journal]].
 ```timeline-labeled
-date: 000AF
+date: 000TBT~AF
 title: The Fall
 content: 
 
-As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others here.
+As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others in this new plane.
 
 date: 003AF
 title: Druids invoke Weave Arcane
