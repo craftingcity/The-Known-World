@@ -2,9 +2,11 @@
 %% Begin Waypoint %%
 - **[[Outer]]**
 	- **[[Abyss]]**
+	- [[Astral Sea]]
 	- **[[Elysium]]**
 	- **[[Limbo]]**
-	- **[[Notes on the Multiverse/Outer/Mechanis/Mechanis]]**
+	- **[[Mechanis]]**
 	- **[[Nine Hells]]**
+	- [[Wildlands]]
 
 %% End Waypoint %%
