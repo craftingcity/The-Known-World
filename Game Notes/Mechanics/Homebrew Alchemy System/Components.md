@@ -70,9 +70,8 @@ Scale (hydra)
 Scale (dragon)
 Leather
 Leather (displacer)
-Chitin
-Chitin (ankheg)
-Chitin (wurm)
+Chitin (ankheg) | 1.8
+Chitin (wurm) | 2.4
 Ooze
 Ooze (yellow)
 Ooze (black)
@@ -81,25 +80,25 @@ Excrete (devil)
 Ectoplasm
 Waste (bat)
 ---|---|---|---|---|---|---
-Agate
-Amber
+Agate | 125.0
+Amber | 10.0
 Crystal (colored)
 Crystal (clear)
-Diamond
-Ruby
-Sapphire
-Emerald
-Amethyst
-Glass
-Onyx
-Jade
-Quartz (white)
-Quartz (rose)
-Durandurm
-Adamentine
-Alabaster
-Copper
-Gold
+Diamond | 1000.0
+Ruby | 550.0
+Sapphire | 500.0
+Emerald | 450.0
+Amethyst | 100.0
+Glass | 
+Onyx | 300.0
+Jade | 8.0
+Quartz (white) | 3.5
+Quartz (rose) | 5.0
+Durandurm | 750.0
+Adamentine | 600.0
+Alabaster | 0.2
+Copper | 1.2
+Gold |
 Iron
 Silver
 Lead

@@ -6,7 +6,7 @@
       {
         "id": "2935f22b819c7a01",
         "type": "leaf",
-        "dimension": 40.134529147982065,
+        "dimension": 20.067264573991032,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,33 +16,27 @@
         }
       },
       {
-        "id": "f49ac479f9137c29",
-        "type": "split",
-        "dimension": 59.865470852017935,
-        "children": [
-          {
-            "id": "a4fbfa0bb6002c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3a9a1b18b624c902",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/GrainIntoGold.pdf"
-              }
-            }
+        "id": "a4fbfa0bb6002c34",
+        "type": "leaf",
+        "dimension": 20.067264573991032,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System/Components.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "3a9a1b18b624c902",
+        "type": "leaf",
+        "dimension": 59.865470852017935,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/GrainIntoGold.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
