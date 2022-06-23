@@ -35,17 +35,17 @@ Silver Quarter | Mnt Hall | 0.25
 Silver Plate | Mnt Hall | 1.0
 Golden Quarter | Mnt Hall | 2.5
 Golden Plate | Mnt Hall | 10.0
-Mithril Quarter | Mnt Hall | 25.0
-Mithril Plate | Mnt Hall | 100.0
+Mithril Quarter | Mnt Hall | 50.0
+Mithril Plate | Mnt Hall | 200.0
 --- | --- | ---- | ---
-Merchant's Iron | Guild | .36
-Merchant's Lead | Guild | .36
-Merchant's Copper | Guild | 1.0
-Merchant's Tin | Guild | 1.0
-Merchant's Bronze | Guild | 2.0
-Merchant's Silver | Guild | 10.0
-Merchant's Gold | Guild | 100.0
-Merchant's Platinum | Guild | 1000.0
+Merchant's Iron Pound | Guild | 0.36
+Merchant's Lead Pound | Guild | 0.36
+Merchant's Copper Pound | Guild | 1.0
+Merchant's Tin Pound | Guild | 1.0
+Merchant's Bronze Pound | Guild | 2.0
+Merchant's Silver Pound | Guild | 10.0
+Merchant's Gold Pound | Guild | 100.0
+Merchant's Platinum Pound | Guild | 1000.0
 
 
 ## Goods
@@ -53,23 +53,49 @@ Good | Value in sp | Notes
 --- | --- | --- 
 Salt (1lb) | 0.75
 Sugar (1lb) | 1.0
-Wine (1 gal., average qual.) | 7.2
+Wine (1 gal., average qual.) | 6.3
+Whiskey (1 gal., average qual.) | 19.5
 Honey (1lb) | 3.0
 Olive Oil (1 gal.) | 8.0
 Butter / Cheese (1lb) | 1.2-1.8
+--- | --- | --- 
 Diamond (1 carat, cut) | 1000.0
-Emerald / Ruby / Sapphire (1 carat, cut) | 500.0
+Diamond (2 carat, cut) | 3500.0
+Emerald / Ruby / Sapphire (1 carat, cut) | ~500.0
+Emerald / Ruby / Sapphire (2 carat, cut) | ~1750.0
 Amethyst (1 carat, cut) | 100.0
+Amethyst (2 carat, cut) | 350.0
+Glass (1 carat, colored, cut) | 0.1
+Glass (1 carat, clear, cut) | 0.3
+--- | --- | --- 
 Goat (healthy) | 5.0-15.0
 Chicken (healthy) | 0.5-0.6
 Rabbit (healthy) | 0.5-1.5
-Tobacco
-Cannabis
-Smokebulb
-Desert Drug
-Hemp fabric (1 yard, thin)
-Hemp fabric (1 yard, strong)
-Linen fabric (1 yard)
-Silk fabric (1 yard)
+--- | --- | --- 
+Tobacco (1lb) | 1.2
+Cannabis (1lb) | 3.6
+Smokebulb (1lb) | 10.0
+Lephora Fruit (1lb) | 13.2
+Dareanamon (1lb, crystal) | 22.0
+Dareanamon (1 gal., syrup) | 28.0
+Isiopara (1lb, powder) | 63.0
+--- | --- | --- 
+Hemp fabric (1 sq. yard, soft) | 2.6
+Hemp fabric (1 sq. yard, strong) | 3.2
+Linen fabric (1 sq. yard, farm) | 3.3
+Linen fabric (1 sq. yard, fine) | 4.0
+Silk fabric (1 sq. yard) | 42.5
+--- | --- | --- 
+Leather (1 sq. yard, cattle) | 6.0
+Leather (1 sq. yard, goat) | 7.0
+Leather (1 sq. yard, pig) | 3.2
+Leather (1 sq. yard, deer) | 4.5
+Leather (1 sq. yard, horse) | 6.0
+Pelt, raccoon | 4.5
+Pelt, fox | 5.0
+Pelt, rabbit | 0.3
+Pelt, gecko | 0.25
+Chitin (1lb, wurm) | 2.4
+Chitin (1lb, ankheg) | 1.8
 
 
