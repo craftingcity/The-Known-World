@@ -67,9 +67,18 @@ Tobacco (1lb)
 Cannabis (1lb)
 Smokebulb (1lb)
 Lephora Fruit (1lb)
-Hemp fabric (1 yard, thin)
-Hemp fabric (1 yard, strong)
-Linen fabric (1 yard)
-Silk fabric (1 yard)
+Hemp fabric (1 sq. yard, soft)
+Hemp fabric (1 sq. yard, strong)
+Goat's wool (1 sq. yard, light)
+Linen fabric (1 sq. yard, farm)
+Linen fabric (1 sq. yard, fine)
+Silk fabric (1 sq. yard)
+Leather (1 sq. yard, cattle)
+Leather (1 sq. yard, goat)
+Leather (1 sq. yard, pig)
+Leather (1 sq. yard, deer)
+Pelt, raccoon
+Pelt, fox
+Pelt, rabbit
 
 
