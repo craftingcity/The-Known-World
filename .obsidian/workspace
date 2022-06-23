@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "aa70a13e5afd8685",
+        "id": "280b0e3fe0132548",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bd15e9cd8236b02c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes June 24 22.md"
+              }
             }
           }
         ],
@@ -114,17 +132,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "aa70a13e5afd8685",
+  "active": "280b0e3fe0132548",
   "lastOpenFiles": [
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
+    "Game Notes/Prenotes/'22/Prenotes June 24 22.md",
+    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
+    "Game Notes/Prenotes/'22/'22.md",
+    "Game Notes/Prenotes/Prenotes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Adventuring Parties/Kakurak's Chosen/Kakurak's Chosen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Player Characters/Player Characters.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md"
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Game Notes/Game Notes.md",
+    "MEDIA/MEDIA.md"
   ]
 }
