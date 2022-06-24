@@ -2,19 +2,23 @@
 tags: npc
 aliases:
 ---
-# The Queen of Swords
+# ...
+## Ex-Advisor-Child of [[Jabbawok]]
+## Ruler of [[Limbo]]
+## Queen of Swords
+### she/it/they
+#### VO EXAMPLE:
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A humanoid form elongated 18 feet tall, wearing a cloak of shadow and a mask of light. A crown of swords formed of pure force floats above it. The Queen performs silence and judgment.
 
-A description of their function in the world.
+The Queen of Swords rules [[The Tower of Limbo]], where she anchors the planes in the [[Heart of the All Father]].
 
-A politic of theirs that players would interact with.
+The Queen of Swords makes a point of quickly ending the existence of any who dare to worship her.
 
 ## History
-A general history of the character, from their conception to their current state
-
-## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
-
-## Statistics
-Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
+### Conception
+#### Character Goal
+### Current
+#### Character Goal
+#### Location
+[[The Tower of Limbo]].

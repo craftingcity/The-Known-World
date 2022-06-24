@@ -6,6 +6,7 @@ aliases:
 # Heritages
 %% Begin Waypoint %%
 - **[[Heritages]]**
+	- [[Aaracokra Specifics]]
 	- [[Dragonborn Specifics]]
 	- [[Dwarven Specifics]]
 	- [[Eladrin Specifics]]
@@ -17,8 +18,12 @@ aliases:
 	- [[Goliath Specifics]]
 	- [[Halfling Specifics]]
 	- [[Human Specifics]]
+	- [[Kenku Specifics]]
 	- [[Kobold Specifics]]
+	- [[Kuo-Toa Specifics]]
+	- [[Mecha Specifics]]
 	- [[Orc Specifics]]
 	- [[Satyr Specifics]]
+	- [[Triton Specifics]]
 
 %% End Waypoint %%

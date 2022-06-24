@@ -1,3 +1,8 @@
+---
+tags:
+aliases: Corpse-meat of the All Father
+---
+
 # Alaturmen - Prime
 ![[alaturmen-100AF.png]]
 
