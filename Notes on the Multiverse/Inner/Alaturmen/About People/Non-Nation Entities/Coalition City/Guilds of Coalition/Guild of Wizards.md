@@ -16,7 +16,7 @@ The Council of Mages are the few people responsible for the use of Weave Arcane 
 The Red Mage, [[Alergra Barrowinch]]
 The Blue Mage, [[The Wizard In Blue]]
 The Yellow Mage, [[Nicolas Talaveem]]
-The White Mage, 
+The White Mage, [[Pirre Tald]]
 The Black Mage, [[Qiell Tilemundon]]
 
 ### Luh'turiñgolë Courier Service
