@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paths through Power.md",
+                "file": "Game Notes/Mechanics/Spells from Collective.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paths through Power.md",
+                "file": "Game Notes/Mechanics/Spells from Collective.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paths through Power.md"
+                "file": "Game Notes/Mechanics/Spells from Collective.md"
               }
             }
           }
@@ -133,10 +133,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "bddbf98e55cfe59f",
+  "active": "cc3109065b0114ec",
   "lastOpenFiles": [
-    "Paths through Power.md",
     "Game Notes/Mechanics/Spells from Collective.md",
+    "Paths through Power.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
     "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",

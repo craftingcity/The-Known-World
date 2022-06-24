@@ -24,10 +24,10 @@ Generally, this power is too much for any mortal to safely handle, leveled beyon
 
 
 ### Wild
-
+The tapestry of the Weave is constantly flowing and knotting over itself, and such a knot intensifies the Weave in this area of the Weave. To mortals, this often seems like an incalculable random pattern, but those who can harness these wild knots can become incalculably powerful.
 
 ## Elemental
-By harnessing the base elements of physicality, one follows a path to ancient power.
+By harnessing the base elements of physicality, one follows an ancient Path.
 
 ### Weave Arcane
 When a mage crafts their own magics through the formulas of Weave Arcane, they produce an affect that can emulate almost any other path of power, but without the proper guidance, one would drown in the possibilities along this path before reaching its truest conclusion; dunamancy.
