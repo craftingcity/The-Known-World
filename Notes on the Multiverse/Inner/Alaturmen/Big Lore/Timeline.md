@@ -13,7 +13,7 @@ content:
 
 Three beings beyond undestanding create the Weave, the fabric of reality. 
 
-To begin the tapestry of time, they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants they cobbled together the [[Demogorgon]].
+To begin the tapestry of time, these beings created Titans; they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants cobbled themselves together into the [[Demogorgon]].
 
 date: 85000TBT
 title: Annam rips, tears, sews - creates.
@@ -22,8 +22,8 @@ content:
 Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]].
 
 date: 75000TBT
-title: 
-content:
+title: The Titans claim planes.
+content: 
 
 date: 65000TBT
 title:
@@ -48,7 +48,7 @@ content:
 The tension between the spawn of [[Asmodeus]] and the spawn of [[Demogorgon]] make war across the "lower planes" of [[The Nine Hells of Baator]]
 
 date: 20000TBT
-title:
+title: [[Demogorgon]]'s child, Turuk
 content:
 
 date: 15000TBT

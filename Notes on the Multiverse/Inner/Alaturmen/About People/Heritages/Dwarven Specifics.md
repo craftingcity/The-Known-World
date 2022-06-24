@@ -3,7 +3,9 @@ tags: race_specifics
 aliases:
 ---
 ## Legends from the Elves
-The old tales say the most ancient dwarves were carved by the Elves using tools given to them by their parents. 
+> The old tales say the most ancient dwarves were carved by the Elves using tools given to them by their parents. 
+
+Dwarves the descendants of Elementals, and have been formed of all elements throughout the planes, but all Alaturmen Dwarves claim their roots in the Earth.
 
 ## Reproduction and Beyond
 Dwarves carve their next generation from the stone of their home. When two or more dwarves form a child, they share a deep bond. Given that dwarves have traditional humanoid sexual organs, but they do not need them to use them to reproduce, a dwarf's sexuality and gender are based more in this bond than their own body.

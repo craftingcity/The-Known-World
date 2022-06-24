@@ -2,14 +2,12 @@
 tags: bible
 aliases: 
 ---
-# Gods of Alaturmen
+# Gods by Plane
+## Gods of Alaturmen
+The pantheon of gods on this place is not like those in the stories of Olympus. Gods are born from people, not the other way around. Gods need worshipers. Often, in exchange, they will do some work. The oldest gods of this place are the gods of emotion. Few people of this world do not worship some kind of god. We can see them, and we can influence them. They exist. Fewer still worship only one god, as no single gods favor is truly enough in this world.
 
-The pantheon of gods on this place is not like those in the stories of Olympus. Gods are born from people, not the other way around. Gods need worshipers. Often, in exchange, they will do some work. The oldest gods of this place are the gods of emotion.
-
-Few people of this world do not worship some kind of god. We can see them, and we can influence them. They exist. Fewer still worship only one god, as no single gods favor is truly enough in this world. So they say.
-
-## Emotional Gods
-All of these gods are born of the feeling of emotion. Because of the Weave of this land, these emotions bore gods. And soon, these gods gathered followers. 
+### Emotional Gods
+All of these gods are born of the feeling of emotion. As these gods made themselves known, they gained followers, and harvested their Faith. In trade, they offer their favor in the form of divine magic, .
 
 #### Ar'kraven 
 - sadness, death, grief, emptiness, void; a group of vultures picking the flesh from a corpse

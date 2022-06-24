@@ -3,7 +3,9 @@ tags: race_specifics, goblinoid
 aliases:
 ---
 ## Legends from beyond the Material Plane
-Tales of "the first goblin" do not exist, goblins have been anywhere and everywhere for as long as anything has been able to think and likely long before then.
+> Tales of "the first goblin" do not exist, goblins have been anywhere and everywhere for as long as anything has been able to think and likely long before then.
+
+Goblin are descendant from [[Demogorgon]] and as a species is extremely old. The tales about swimming in the soup of reality could be reasonably considered true.
 
 ## Reproduction and Beyond
 Goblins are reproduce sexually, and generally have children in litters. A goblin's childhood entirely depends on where they grew up. Many goblins are able to happily survive in the wild, using their claws, teeth, eyes, and other abilities to their advantage. These same features get goblin children bullied in some "civilized" spaces.
