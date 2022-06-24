@@ -23,10 +23,9 @@ aliases:
 			- **[[Guild Crafters]]**
 			- [[Guild Leaders]]
 			- **[[Guild Merchants]]**
-			- **[[Guild Wizards]]**
+			- **[[Guilded Wizard NPCs]]**
 		- **[[High Holyl'nders]]**
-		- **Leaders in Prosper**
-		- **[[Loose Wizards]]**
+		- **[[Loose Wizard NPCs]]**
 		- **[[Northeastern Clan Leaders]]**
 		- **[[Propsper Nobility]]**
 		- **[[World Villans]]**
@@ -36,6 +35,8 @@ aliases:
 		- **[[Demon Lords]]**
 	- **Low Power**
 		- **[[Combine Citizens]]**
+		- **Desert Citizens**
+		- **G-City Citizens**
 		- **King's Tenants**
 			- [[Balthazar Wumfingle]]
 			- **[[Ex-Bandit Lords]]**
@@ -43,6 +44,7 @@ aliases:
 		- **[[Lower Holyl'nders]]**
 		- **[[Orcish Shamans]]**
 	- **Mild Power**
+		- **Employees of Golden Claw**
 		- **[[Folk of Business]]**
 		- **[[Guild Representitives]]**
 		- **[[Tendered]]**

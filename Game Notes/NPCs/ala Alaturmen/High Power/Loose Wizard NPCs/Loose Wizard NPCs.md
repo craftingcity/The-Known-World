@@ -5,6 +5,6 @@ aliases:
 
 # Loose Wizards
 %% Begin Waypoint %%
-- **[[Loose Wizards]]**
+- **[[Loose Wizard NPCs]]**
 
 %% End Waypoint %%

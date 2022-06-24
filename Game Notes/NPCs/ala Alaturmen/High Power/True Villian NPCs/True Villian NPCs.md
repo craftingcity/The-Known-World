@@ -1,8 +1,7 @@
 # World Villans
 %% Begin Waypoint %%
-- **[[World Villans]]**
+- **[[True Villian NPCs]]**
 	- [[Arstovich]]
-	- [[Qiell Tilemundon]]
 	- [[Witch of Ardor]]
 
 %% End Waypoint %%

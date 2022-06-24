@@ -10,7 +10,7 @@ aliases:
 		- [[Admin]]
 		- [[Adriana Fairlin Franx]]
 		- [[Speaker Vanavar]]
-	- **[[Guild Wizards]]**
+	- **[[Guilded Wizard NPCs]]**
 	- **Untitled**
 
 %% End Waypoint %%

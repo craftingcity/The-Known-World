@@ -1,6 +1,6 @@
 # Underdark Overview
 %% Begin Waypoint %%
-- **[[in Underdark]]**
+- **[[ala Underdark]]**
 	- **Heilich-Muwwoq**
 		- [[Alextreas]]
 		- [[Taerich Da'Furik]]

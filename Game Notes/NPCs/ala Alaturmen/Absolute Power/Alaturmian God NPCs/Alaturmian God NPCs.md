@@ -5,7 +5,7 @@ aliases:
 
 # Alaturmen's Gods
 %% Begin Waypoint %%
-- **[[Alaturmen's Gods]]**
+- **[[Alaturmian God NPCs]]**
 	- [[Grand Pantheon]]
 	- [[Its Greatness]]
 	- [[The Patron Saints of Kakurak]]

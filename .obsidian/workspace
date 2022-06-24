@@ -20,8 +20,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pirre Tald.md",
+            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "933b240459bc9c51",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/MAPS/DUNG/GiantsToe - Upper.pdf"
           }
         }
       }
@@ -63,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -80,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pirre Tald.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pirre Tald.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pirre Tald.md"
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md"
               }
             }
           }
@@ -134,15 +143,15 @@
   },
   "active": "ee18a57d3115c1f3",
   "lastOpenFiles": [
-    "Pirre Tald.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/World Wide Happenings/Worldknown Groups/The Guilds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/Guild Employees/Guild Wizards/Alergra Barrowinch.md",
-    "Game Notes/NPCs/on Alaturmen/High Power/High Holyl'nders/Nicolas Talaveem.md",
-    "MEDIA/MAPS/WORLD/combine-100AF.png"
+    "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/High Holyl'nder NPCs/High Holyl'nder NPCs.md",
+    "Game Notes/NPCs/ala Underdark/ala Underdark.md",
+    "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Loose Wizard NPCs/Loose Wizard NPCs.md",
+    "Pirre Tald.md"
   ]
 }

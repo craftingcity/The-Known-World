@@ -5,7 +5,7 @@ aliases:
 
 # Demon Lords
 %% Begin Waypoint %%
-- **[[Demon Lords]]**
+- **[[Demon Lord NPCs]]**
 	- [[Baphomet]]
 	- [[Demogorgon]]
 	- [[Graz'zt]]

@@ -1,7 +1,7 @@
 # Combine Rulers
 see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%
-- **[[Combine Rulers]]**
+- **[[Barons of Combine NPCs]]**
 	- [[Baron Filip]]
 	- [[Baron Glask]]
 	- [[Baron J'Tail]]

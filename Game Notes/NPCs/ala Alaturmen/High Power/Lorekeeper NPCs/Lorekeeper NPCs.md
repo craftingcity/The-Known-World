@@ -1,6 +1,6 @@
 # Authors, Bards, and Lorekeepers
 %% Begin Waypoint %%
-- **[[Authors, Bards, and Lorekeepers]]**
+- **[[Lorekeeper NPCs]]**
 	- [[Paulo San Tymiq]]
 	- [[Poppy Bumbleheart]]
 	- [[River Powell]]

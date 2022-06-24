@@ -4,12 +4,13 @@ aliases:
 ---
 # Pirre Tald
 ## The White Mage
-### she/they/he
+### they/she/he
 #### VO EXAMPLE:
 
-> A pure white Winter Elf wears a complementary white robe. Their hair is braided into cornrows
+> A pure inky-black Winter Elf wears a complementary off-white robe. Their hair is braided into thick braids that come together at the back of their head in a large bun.
 
-A description of their function in the world.
+Pirre is the White Mage on the [[Guild of Wizards#Council of Mages]]. It is their responsibility to guide the Guild of Wizards into morality.
+
 ## History
 ### Conception
 #### Character Goal

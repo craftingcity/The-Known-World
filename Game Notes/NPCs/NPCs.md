@@ -1,8 +1,55 @@
 # NPCs
 %% Begin Waypoint %%
 - **[[NPCs]]**
-	- **[[in Underdark]]**
+	- **ala Alaturmen**
+		- **Absolute Power**
+			- **[[Alaturmian God NPCs]]**
+			- [[All-Father Annam]]
+			- **[[Demon Lord NPCs]]**
+		- **High Power**
+			- **[[Barons of Combine NPCs]]**
+			- **[[Blood Clan Leadership NPCs]]**
+			- **Guild Employee NPCs**
+				- **[[Guild Admin]]**
+				- **[[Guild Adventurers]]**
+				- **[[Guild Crafters]]**
+				- [[Guild Leaders]]
+				- **[[Guild Merchants]]**
+				- **[[Guilded Wizard NPCs]]**
+			- **[[High Holyl'nder NPCs]]**
+			- **[[Loose Wizard NPCs]]**
+			- **[[Lorekeeper NPCs]]**
+			- **[[Nobles of Prosper NPCs]]**
+			- **Past Adventurers, Now NPCs**
+				- [[Adventuring Parties]]
+				- **[[Grey Ordeal]]**
+				- **[[Kakurak's Chosen]]**
+			- **[[True Villian NPCs]]**
+		- **Mild Power**
+			- **Employees of Golden Claw**
+			- **[[Folk of Business]]**
+			- **[[Guild Representitives]]**
+			- **[[Tendered]]**
+			- **[[Thief Lords of the Desert]]**
+		- [[on Alaturmen]]
+		- **Weak Power**
+			- **[[Combine Citizens]]**
+			- **Desert Citizens**
+			- **G-City Citizens**
+			- **King's Tenants**
+				- [[Balthazar Wumfingle]]
+				- **[[Ex-Bandit Lords]]**
+				- [[Fraznky Bradley]]
+			- **[[Lower Holyl'nders]]**
+			- **[[Orcish Shamans]]**
+		- **zNon-Humanoid**
+			- **Draconic NPCs**
+				- [[Blackacid]]
+				- [[Detraminx]]
+				- [[Kakurak]]
+				- [[Tetrimoc]]
+			- **[[Giant NPCs]]**
+	- **[[ala Underdark]]**
 	- [[List of Names]]
-	- **[[on Alaturmen]]**
 
 %% End Waypoint %%
