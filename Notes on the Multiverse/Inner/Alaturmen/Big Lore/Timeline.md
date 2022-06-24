@@ -12,9 +12,9 @@ date: 99999TBT
 title: Three Fates Weave
 content:
 
-Three beings beyond undestanding weave together the fabrics of reality.
+Three beings beyond undestanding create the Weave, the fabric of reality. 
 
-
+To begin the tapestry of time, they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants they cobbled together the [[Demogorgon]].
 
 date: 85000TBT~AF
 title:

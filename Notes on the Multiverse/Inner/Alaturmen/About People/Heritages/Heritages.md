@@ -17,6 +17,7 @@ aliases:
 	- [[Goliath Specifics]]
 	- [[Halfling Specifics]]
 	- [[Human Specifics]]
+	- [[Kobold Specifics]]
 	- [[Orc Specifics]]
 	- [[Satyr Specifics]]
 
