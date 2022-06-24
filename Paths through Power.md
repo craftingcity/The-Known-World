@@ -10,16 +10,24 @@ As characters reach 20th level they become extremely powerful forces of change i
 Those beings that gain power through Faith eventually become reliant on it to power their existence and become the heads of cults or churches or their deity.
 
 ### Necrotic
-By following the path of the Necromancer, one attempts to brute-force the Weave to give the power of life and death. Generally, this power is too much for any mortal to safely handle, leveled beyond 20 or not; absolute power corrupts absolutely.
+By following the path of the Necromancer, one attempts to brute-force the Weave to give the practitioner power over life and death. 
+
+Generally, this power is too much for any mortal to safely handle, leveled beyond 20 or not; absolute power corrupts absolutely.
 
 ## Draconic
+
+
 ### Sorceric
+
+
 ## Fae
+
+
 ### Wild
-Harnessing the power of the fey magics is a difficult task, and even when done properly, the result is chaotic.
+
 
 ## Elemental
-By harnessing the base elements of physicality, one can follow a path to great power.
+By harnessing the base elements of physicality, one follows a path to ancient power.
 
-### Arcanic
-When a mage crafts their own magics through the formulas of Weave Arcane, they produce an arcane affect that can emulate almost any other p
+### Weave Arcane
+When a mage crafts their own magics through the formulas of Weave Arcane, they produce an affect that can emulate almost any other path of power, but without the proper guidance, one would drown in the possibilities along this path before reaching its truest conclusion; dunamancy.
