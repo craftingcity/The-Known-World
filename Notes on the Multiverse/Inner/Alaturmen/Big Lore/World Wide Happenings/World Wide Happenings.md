@@ -8,6 +8,5 @@ aliases:
 - **[[World Wide Happenings]]**
 	- **Worldknown Groups**
 		- [[The Grey Ordeal]]
-		- [[The Guilds]]
 
 %% End Waypoint %%

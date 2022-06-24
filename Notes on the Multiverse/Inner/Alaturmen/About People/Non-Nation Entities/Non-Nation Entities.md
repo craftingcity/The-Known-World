@@ -8,9 +8,17 @@ aliases:
 - **[[Non-Nation Entities]]**
 	- **Blood Clans**
 		- [[Blood Hobgoblin Clan Pact]]
+		- **Holdings**
 		- [[Northeastern Hobgoblin Territories]]
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
+		- [[Communicae]]
+		- **[[Guilds of Coalition]]**
+			- [[Guild of Adventurers]]
+			- [[Guild of Crafters]]
+			- [[Guild of Merchants]]
+			- [[Guild of Wizards]]
+			- [[Ranger's Guild]]
 	- **Druids of the Idols**
 		- [[Druids of Animan]]
 		- [[Druids of Aquan]]

@@ -19,7 +19,8 @@ The Yellow Mage, [[Nicolas Talaveem]]
 The White Mage, 
 The Black Mage, [[Qiell Tilemundon]]
 
-### Courier 
+### Luh'turiñgolë Courier Service
+The elvish word in the title of the Guild's courier service translates roughly to "a magical horse with magics and wisdom". It is the task of the Luh'turingole to transport information and objects throughout Alaturmen as authorized by the [[Guilds of Coalition]]
 ## Culture
 ### Symbolism
 ## Technology

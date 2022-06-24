@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Guild Representitives
-see [[Guilds]]
+see [[Guilds of Coalition]]
 %% Begin Waypoint %%
 - **[[Guild Representitives]]**
 	- [[Filip Grundle]]

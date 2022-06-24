@@ -46,7 +46,7 @@ All of what is considered "the southeast" is controlled by members of [[The Demo
 Related articles include: [[The Democratic Combine of Peoples#Notable Factions]], [[Swampish]]
 
 ### Coalition City
-In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds]]. Members thereof are often regarded in authority, no matter their current location.
+In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds of Coalition]]. Members thereof are often regarded in authority, no matter their current location.
 
 ### "Non-Nation Entities"
 #### Cenva Minyo
