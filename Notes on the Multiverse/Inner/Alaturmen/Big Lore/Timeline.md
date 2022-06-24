@@ -5,8 +5,7 @@ tags: timeline-labeled, bookkeeping
 # Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
 
 ## The Time Before Time
-As is the case with all of the planes in the multiverse, the Goblin swam in the soup of creation long before any other.
-
+- Beings of this period cannot be destroyed; only replaced, changed, or banished.
 ```timeline-labeled
 date: 99999TBT
 title: Three Fates Weave
@@ -16,63 +15,67 @@ Three beings beyond undestanding create the Weave, the fabric of reality.
 
 To begin the tapestry of time, they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants they cobbled together the [[Demogorgon]].
 
-date: 85000TBT~AF
+date: 85000TBT
+title: Annam rips, tears, sews - creates.
+content:
+
+Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]].
+
+date: 75000TBT
+title: 
+content:
+
+date: 65000TBT
 title:
 content:
 
-date: 75000TBT~AF
+date: 55000TBT
 title:
 content:
 
-date: 65000TBT~AF
+date: 45000TBT
 title:
 content:
 
-date: 55000TBT~AF
+date: 35000TBT
 title:
 content:
 
-date: 45000TBT~AF
+date: 25000TBT
+title: Demons and Devils fail to concile. The [[Blood War]] begins.
+content:
+
+The tension between the spawn of [[Asmodeus]] and the spawn of [[Demogorgon]] make war across the "lower planes" of [[The Nine Hells of Baator]]
+
+date: 20000TBT
 title:
 content:
 
-date: 35000TBT~AF
+date: 15000TBT
 title:
 content:
 
-date: 25000TBT~AF
+date: 10000TBT
 title:
 content:
 
-date: 20000TBT~AF
+date: 05000TBT
 title:
 content:
 
-date: 15000TBT~AF
+date: 02500TBT
 title:
 content:
 
-date: 10000TBT~AF
+date: 01500TBT
 title:
 content:
 
-date: 05000TBT~AF
+date: 01000TBT
 title:
 content:
 
-date: 02500TBT~AF
-title:
-content:
-
-date: 01500TBT~AF
-title:
-content:
-
-date: 01000TBT~AF
-title:
-content:
-
-date: 00500TBT~AF
+date: 00500TBT
 title:
 content:
 
@@ -83,7 +86,6 @@ As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and b
 ```
 
 ## The Age of Beginning
-The recorded history begins with [[Tetrimoc's Journal]].
 ```timeline-labeled
 date: 000TBT~AF
 title: The Fall

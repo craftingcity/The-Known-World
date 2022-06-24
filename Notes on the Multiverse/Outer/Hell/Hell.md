@@ -1,7 +1,6 @@
 # Nine Hells
 %% Begin Waypoint %%
-- **[[Nine Hells]]**
-	- [[Asmodeus]]
+- **[[Hell]]**
 	- [[The Nine Hells of Baator]]
 
 %% End Waypoint %%

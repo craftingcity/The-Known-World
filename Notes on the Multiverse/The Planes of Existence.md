@@ -66,6 +66,6 @@ Souls who pass beyond their material planes find themselves drawn to one of thes
 
 #### [[Elysium]], the Land of Good
 
-#### [[Nine Hells]], the Land of Evil
+#### [[Hell]], the Land of Evil
 
 #### [[Limbo]], the Land of Neutrality

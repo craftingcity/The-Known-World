@@ -4,9 +4,9 @@
 	- **[[Abyss]]**
 	- [[Astral Sea]]
 	- **[[Elysium]]**
+	- **[[Hell]]**
 	- **[[Limbo]]**
 	- **[[Mechanis]]**
-	- **[[Nine Hells]]**
 	- [[Wildlands]]
 
 %% End Waypoint %%
