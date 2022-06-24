@@ -48,8 +48,10 @@ content:
 The tension between the spawn of [[Asmodeus]] and the spawn of [[Demogorgon]] make war across the "lower planes" of [[The Nine Hells of Baator]]
 
 date: 20000TBT
-title: [[Demogorgon]]'s child, Turuk
+title: [[Demogorgon]]'s child bursts from [[Abyss]], through the [[Plane of Earth]].
 content:
+
+Turruk, a demonic son of [[Demogorgon]], attempts to controll the power of the [[Plane of Earth]]. [[All-Father Annam]] curses him with madness, and banishes him from the [[Abyss]], capturing him in a plane: the [[Underdark]]. Turruk will spend the rest of his exsistence carving this plane in stone as punishment for his hubris. The denizens of this place call him the "[[Mad-King Turruk]]".
 
 date: 15000TBT
 title:

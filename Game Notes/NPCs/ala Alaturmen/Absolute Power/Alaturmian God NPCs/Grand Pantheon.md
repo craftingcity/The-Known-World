@@ -7,7 +7,7 @@ aliases:
 The pantheon of gods on this place is not like those in the stories of Olympus. Gods are born from people, not the other way around. Gods need worshipers. Often, in exchange, they will do some work. The oldest gods of this place are the gods of emotion. Few people of this world do not worship some kind of god. We can see them, and we can influence them. They exist. Fewer still worship only one god, as no single gods favor is truly enough in this world.
 
 ### Emotional Gods
-All of these gods are born of the feeling of emotion. As these gods made themselves known, they gained followers, and harvested their Faith. In trade, they offer their favor in the form of divine magic, .
+All of these gods are born of the feeling of emotion. As these gods made themselves known, they gained followers, and harvested their Faith. In trade, they offer their favor in the form of divine magic.
 
 #### Ar'kraven 
 - sadness, death, grief, emptiness, void; a group of vultures picking the flesh from a corpse
@@ -28,8 +28,8 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - loathing, disgust, disease; a green half masked figure in a dark robe holding a rotting wooden staff
 
 
-## Physical Idols
-These are the gods of material. They are what we touch and breathe. Each of the physical idols are both an entity unto themselves and a piece of a larger whole: [[The Planes of Existence#Prime|The Prime Material Plane]].
+### Physical Idols
+Born from the corpse of [[All-Father Annam]], these idols of the elements rule physicality on [[Alaturmen]].
 
 #### Terran
 - earth
@@ -47,8 +47,8 @@ These are the gods of material. They are what we touch and breathe. Each of the 
 - magic, weave
 - Animan was the Idol that bore arcane magic into the minds of the fresh noids of Alaturmen.
 
-## Patrons of Need
-Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. They are the household gods.
+### Patrons of Need
+Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. These are the most common household gods.
 
 #### Sama
 - the god of One Mindedness.
@@ -69,6 +69,11 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 - smells of sweat, gunpowder
 - Certi'alkior appears to their followers in battle before their final stand, though seeing her is not considered a holy sentence to death
 	- ask the Paladin Wyruq the Grave Presence
+
+#### Burraw
+- the god of fat harvests
+- feels like warm bread, sand between your toes
+- smells of baked good, spice
 
 ## Gods of Triumph
 Some creatures of this place have become so powerful that they have become god-like, and their rules begin to change. They need worshipers like any other god, but unlike others, their power comes from the stories people tell about them. 
