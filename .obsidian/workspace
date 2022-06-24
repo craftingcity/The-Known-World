@@ -4,34 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e35fd5ae606caf94",
+        "id": "a276e085aae7c3a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+            "file": "Notes on the Multiverse/The Planes of Existence.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ee18a57d3115c1f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "933b240459bc9c51",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/MAPS/DUNG/GiantsToe - Upper.pdf"
           }
         }
       }
@@ -89,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md"
+                "file": "Notes on the Multiverse/The Planes of Existence.md"
               }
             }
           }
@@ -141,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "ee18a57d3115c1f3",
+  "active": "a276e085aae7c3a0",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Planes of Existence.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "MEDIA/MAPS/DUNG/GiantsToe - Upper.pdf",
     "Game Notes/NPCs/ala Alaturmen/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/High Holyl'nder NPCs/High Holyl'nder NPCs.md",
     "Game Notes/NPCs/ala Underdark/ala Underdark.md",
     "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Loose Wizard NPCs/Loose Wizard NPCs.md",
-    "Pirre Tald.md"
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
   ]
 }
