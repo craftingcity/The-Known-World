@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+            "file": "Game Notes/Mechanics/Homebrew Spells/Barrowinch's Custom Spells.md",
             "mode": "source"
           }
         }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Barrowinch's Custom Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Barrowinch's Custom Spells.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md"
+                "file": "Game Notes/Mechanics/Homebrew Spells/Barrowinch's Custom Spells.md"
               }
             }
           }
@@ -134,15 +133,15 @@
   },
   "active": "a276e085aae7c3a0",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Spells/Barrowinch's Custom Spells.md",
+    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Orc Specifics.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dwarven Specifics.md",
     "Kuo-Toa Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Hell/Hell.md",
-    "Notes on the Multiverse/Outer/Nine Hells/Asmodeus.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md"
   ]
 }
