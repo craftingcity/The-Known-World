@@ -19,7 +19,7 @@ date: 85000TBT
 title: Annam rips, tears, sews - creates.
 content:
 
-Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]].
+Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material.
 
 date: 75000TBT
 title: The Titans claim planes.
