@@ -7,4 +7,4 @@ aliases:
 
 Abyssal is the language of the [[Demons]] of the [[Abyss]].
 
-Aby
+Abyssal sounds like a rough barking or chanting, with morphemes formed combining any singular consonant and any singular vowel.

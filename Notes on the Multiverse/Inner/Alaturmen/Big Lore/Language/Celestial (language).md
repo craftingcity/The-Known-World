@@ -7,6 +7,5 @@ aliases:
 
 Celestial is the language of the [[Angels]] of [[Elysium]].
 
-To all mortals, Celestial sounds like a choir of thousands singing in high tones.
+To all mortals, Celestial sounds like a choir of thousands singing in high tones, though it still communicates as a "traditional" language. 
 
-To immortals or their kin, including [[Demons]], [[Devils]], [[Dragonkin]] and other [[Angels]], Celestial evokes communication rather than participates in it.
