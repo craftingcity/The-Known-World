@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md"
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md"
               }
             }
           }
@@ -131,8 +131,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "37f5426a7758b621",
+  "active": "3fea731b1941fcc7",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
@@ -140,7 +141,6 @@
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "First Invasion of Orcus.md",
-    "Game Notes/Mechanics/How the Weave becomes Magic.md",
     "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
   ]
