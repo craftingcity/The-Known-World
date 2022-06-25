@@ -7,4 +7,4 @@ aliases:
 
 King's Common is the language spoken by most people in the north-east of [[Central Alaturmen]], and is a passable humanoid trade language.
 
-It claims its roots in the languages of the first conversations between the humans and goblins who gathered in this area at the age of beginning. It was later supplemented by ancient elven as well, leading to what is now known as King's Common.
+It claims its roots in the languages of the first conversations between the humans and goblins who gathered in this area.

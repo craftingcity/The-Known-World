@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b6a6d3ed4533fc50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Desertspeech (language).md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md"
               }
             }
           }
@@ -122,15 +133,15 @@
   },
   "active": "4a523670434f9301",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Desertspeech (language).md",
-    "ORGANIZATION/TEMPLATES/Language.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Abyssal (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Swampish (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/King's Common (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/High Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Infernal (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Draconic (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Swampish (language).md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Abyssal (language).md",
+    "ORGANIZATION/TEMPLATES/Language.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Infernal (language).md"
   ]
 }

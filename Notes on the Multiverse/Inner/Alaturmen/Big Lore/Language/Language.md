@@ -5,7 +5,7 @@ aliases:
 
 # Language
 %% Begin Waypoint %%
-- **[[Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language]]**
+- **[[Language]]**
 	- **Ancestral Languages**
 		- **Age of Beginning**
 			- [[Ancient Human (language)]]
@@ -20,6 +20,7 @@ aliases:
 		- [[Desertspeech (language)]]
 		- [[High Common (language)]]
 		- [[King's Common (language)]]
+		- [[Modern Elven]]
 		- [[Swampish (language)]]
 
 %% End Waypoint %%
