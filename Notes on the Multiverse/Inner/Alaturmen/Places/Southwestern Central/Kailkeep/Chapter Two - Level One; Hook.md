@@ -121,7 +121,7 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 10a. Supplies Import
 **Platforms.** Raised six-inch square platforms of stone about four and one half feet wide. Some brown and white dusts can be found on these platforms, as well as the scent of mushrooms (DC ~20). 
 
-**Shelves.** Shelves hold multiple latticed stone baskets that are each three feet cubes with open tops. They are each labeled on the bases of each of the four sides of the basket in [[Draconic]] for iron, silver, gold, ruby, emerald, and sapphire. The baskets of marked of iron, gold, and each of the gems are empty. The basket marked for silver is 2/3rds full of 1lb silver bars.
+**Shelves.** Shelves hold multiple latticed stone baskets that are each three feet cubes with open tops. They are each labeled on the bases of each of the four sides of the basket in [[Draconic (language)]] for iron, silver, gold, ruby, emerald, and sapphire. The baskets of marked of iron, gold, and each of the gems are empty. The basket marked for silver is 2/3rds full of 1lb silver bars.
 
 ##### 10b. Cooling Chamber
 **Stone Coolers.** Six stone boxes with thin slits in their lid contain large blocks of ice and slush. These small three foot cubes of stone and ice cool this room and the adjoined (17) to temperatures that fluctuate around thirty three degrees.
@@ -131,7 +131,7 @@ Inside each of these bags are a half-eaten ration and some small collections of 
 ##### 11. Dry Storage
 Other than the *Large Shelves*, this room bares no defining features.
 
-**Large Shelves.** Shelves of hemp and linen bags labeled by black runes in [[Draconic]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, beans, flour, sugar, powdered meat, and onions are stacked on these shelves, and one could find 1d6-2 of each if they were to spend the time searching every shelf.
+**Large Shelves.** Shelves of hemp and linen bags labeled by black runes in [[Draconic (language)]] line each of the four corners of this room. Each is full of dry goods, 8 pound bags of mushrooms, beans, flour, sugar, powdered meat, and onions are stacked on these shelves, and one could find 1d6-2 of each if they were to spend the time searching every shelf.
 
 ##### 12. Water Storage
 **Egress.** Two 7' arches pierce the western and southern walls. The western archway splits into a hallway, leading to the Sauce Preparation room (13) directly west or the Primary Production room (7) to the south west. The southern arch leads to two staircases, both of which lead upwards ==(northern; , western;)==.  A thin stone door is ajar in the northern doorway, leading into a dark room (11).

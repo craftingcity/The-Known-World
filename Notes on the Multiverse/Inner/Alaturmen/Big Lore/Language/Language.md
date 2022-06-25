@@ -6,11 +6,11 @@ aliases:
 # Language
 %% Begin Waypoint %%
 - **[[Language]]**
-	- [[Celestial]]
+	- [[Celestial (language)]]
 	- [[Desertspeech]]
-	- [[Draconic]]
+	- [[Draconic (language)]]
 	- [[High Common]]
-	- [[Infernal]]
+	- [[Infernal (language)]]
 	- [[King's Common]]
 	- [[Swampish]]
 

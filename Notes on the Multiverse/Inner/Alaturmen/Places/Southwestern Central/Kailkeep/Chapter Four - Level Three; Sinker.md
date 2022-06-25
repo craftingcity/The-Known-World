@@ -25,7 +25,7 @@ Four bowls rest on four pressure plates on their four platforms in the four corn
 **Ko-bolted Door.** A mysterious door of rare and tough metal marked with a claw and a draconic rune.
 
 ###### Markings
-On the floor and walls of this room there are many (at least 7) square indentations with [[Draconic]] runes extended; "NO CHEAT". 
+On the floor and walls of this room there are many (at least 7) square indentations with [[Draconic (language)]] runes extended; "NO CHEAT". 
 
 On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common]];
 > 026 - 07 - 14
@@ -40,14 +40,14 @@ On the wall above the platform of the Kobold giving blood is a formatted marking
 > 
 > Ellis Hawkins, Daughter of Delilah
 
-On the wall to the right of the Kobold giving food is a formatted marking in [[Infernal]];
+On the wall to the right of the Kobold giving food is a formatted marking in [[Infernal (language)]];
 > 014 - 02 - 02
 > 
 > Do not eat the hand that feeds you.
 > 
 > Know this. **TERRA** lives.
 
-On the floor in a corner of the room that is bare of other marks is an unformatted marking in [[Celestial]];
+On the floor in a corner of the room that is bare of other marks is an unformatted marking in [[Celestial (language)]];
 
 > THIRY EXACTLY
 > NO GREED
@@ -57,7 +57,7 @@ On the floor in a corner of the room that is bare of other marks is an unformatt
 That used to be a person!
 
 ###### Bowls
-These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic]] rune for our understanding of ~"thirty weight".
+These bowls are made of the same sandstone as the platforms, plates, and walls of this room. At the bottom of the bowl, the [[Draconic (language)]] rune for our understanding of ~"thirty weight".
 
 ###### Plates
 The plates are set to detect thirty pounds of pressure applied directly downwards. Once all four plates are triggered at the same time, the hidden trapdoor to level five opens. If any of the pressure is altered in any way, including adding or removing any weight, the secondary trigger occurs, shutting the trap door and activating the gas trap of the **Platforms**.
@@ -96,7 +96,7 @@ These holes will dispense a horrible gas into the enclosed room upon the seconda
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
 ###### Ko-bolted Access Door
-A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
+A door in the wall made of adamentine is marked with the [[Draconic (language)]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 ##### 2. Spikes and Oil
 
@@ -117,7 +117,7 @@ The Floor of this room is covered in a slick clear oil. Moving across this oil c
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
 ###### Ko-bolted Access Door
-A door in the wall made of adamentine is marked with the [[Draconic]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
+A door in the wall made of adamentine is marked with the [[Draconic (language)]] rune that indicates our concept of "three" in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
 
 ##### 3. Sand Table
 This is a timed puzzle room. On the walls there are etchings of the Mountain Kailkeep is in, and a table with a lowered center (8") that contains to its brim and overflown onto the floor - as if swiped off - a fine red sand.
@@ -126,7 +126,7 @@ This is a timed puzzle room. On the walls there are etchings of the Mountain Kai
 A 'lil bit of something for 'yah, the table holds exactly 33 pounds of dry red sand, but when the kobolds reset the room, they use units of 35, and sweep the rest onto the floor. This means that there are two "un/intentional" extra pounds of dry sand. That very quickly become wet. And or flown down to the blocked sewer **Below the Table**.
 
 ###### The Vision Columns
-As the stairs close behind the poor souls given this task, the vision columns fire up, and its runes hum and generate a fine dust that swirls together to form an image of a room of Kobold. These kobold begin to, out loud, in [[Draconic]], note defining features of each of the observed. After the Kobolds finish, the dust disappears and the vision fades. The **Mouths** begin to pour.
+As the stairs close behind the poor souls given this task, the vision columns fire up, and its runes hum and generate a fine dust that swirls together to form an image of a room of Kobold. These kobold begin to, out loud, in [[Draconic (language)]], note defining features of each of the observed. After the Kobolds finish, the dust disappears and the vision fades. The **Mouths** begin to pour.
 
 ###### The Sand Table
 Under the four legs of the table that holds the sand are pressure plates that are wired to detect an exact pressure-weight-degree. A cone of this dry red sand that is six inches taller than the outer edge of the table and or fourteen inches taller than the floor of the table's recess with a radius of 1.5' triggers these plates. in the center of the 8' by 5' rectangular table. This table contains a 7' by 4' by 8" recess build to contain the 33 pounds of sand found set in the table. 
@@ -153,4 +153,4 @@ There are no markings in this room. Any attempts at marking in this room are fut
 In the center of the ceiling of this room is a thin line of space between the two blocks of sandstone that form the trapdoor the mechanisms of this room engage and disengage.
 
 ###### Ko-bolted Access Door
-A door in the opposite wall as the Art of Kailkeep made of adamentine is marked with the [[Draconic]] rune that indicates our concept of three in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.
+A door in the opposite wall as the Art of Kailkeep made of adamentine is marked with the [[Draconic (language)]] rune that indicates our concept of three in the lower center of the door, and a small kobold-palm-shaped indentation marked with the same symbol on the palm, but smaller, above the rune.

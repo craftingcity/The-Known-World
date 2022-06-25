@@ -9,7 +9,40 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Draconic (language).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "192acbfb9181fdd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Celestial (language).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ba6be6e6f74f07fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4ba12807cadc2365",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Abyssal (language).md",
             "mode": "source"
           }
         }
@@ -69,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md"
               }
             }
           }
@@ -121,17 +154,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3fea731b1941fcc7",
+  "active": "ba6be6e6f74f07fa",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Celestial (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Draconic (language).md",
+    "Abyssal (language).md",
     "Game Notes/Mechanics/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Outer/Hell/The Nine Hells of Baator.md",
     "Notes on the Multiverse/Outer/Hell/Hell.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "The Abyss.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md"
   ]
 }
