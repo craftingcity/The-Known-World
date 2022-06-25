@@ -22,8 +22,10 @@ content:
 Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material.
 
 date: 75000TBT
-title: The Titans claim planes.
+title: The Titans form planes the outer planes.
 content: 
+
+[[Asmodeus]] builds [[The Nine Hells of Baator]] and births his devils with his blood.
 
 date: 65000TBT
 title: 
@@ -66,7 +68,7 @@ title:
 content:
 
 date: 02500TBT
-title:
+title: Unseelie exodus into the [[Underdark]].
 content:
 
 date: 01500TBT

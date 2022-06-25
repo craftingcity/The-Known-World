@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -135,14 +134,14 @@
   "active": "37f5426a7758b621",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Inner/Inner.md",
     "First Invasion of Orcus.md",
     "Game Notes/Mechanics/How the Weave becomes Magic.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/NPCs/NPCs.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Game Notes/Mechanics/Spells from Collective.md",
-    "Paths through Power.md",
-    "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
   ]
 }
