@@ -1,3 +1,9 @@
+---
+tags: folderfile
+aliases:
+---
+
+
 # NPCs
 %% Begin Waypoint %%
 - **[[NPCs]]**

@@ -1,5 +1,5 @@
 ---
-tags:
+tags: folderfile
 aliases: Corpse-meat of the All Father
 ---
 

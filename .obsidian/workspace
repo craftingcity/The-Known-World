@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3109065b0114ec",
+        "id": "3fea731b1941fcc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Spells from Collective.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bddbf98e55cfe59f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+            "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
             "mode": "source"
           }
         }
@@ -59,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Spells from Collective.md",
+                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Spells from Collective.md",
+                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Spells from Collective.md"
+                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
               }
             }
           }
@@ -133,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "cc3109065b0114ec",
+  "active": "3fea731b1941fcc7",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Spells from Collective.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/Mechanics/Spells from Collective.md",
     "Paths through Power.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
     "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Triton Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Kuo-Toa Specifics.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md"
   ]
 }
