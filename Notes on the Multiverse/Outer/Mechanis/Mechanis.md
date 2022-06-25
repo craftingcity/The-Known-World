@@ -1,9 +1,12 @@
 ---
-tags:folderfile
+tags: folderfile,
 aliases:
 ---
+# Mechanis
+## The Outer Plane of Ideal Law
 
-# Mechanis Overview
+
+###### Table of Contents
 %% Begin Waypoint %%
 - **[[Mechanis]]**
 

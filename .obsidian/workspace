@@ -9,7 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
+            "file": "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d88e04a33c2ca96d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a6d8ac438ec12a3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
             "mode": "source"
           }
         }
@@ -68,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md"
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
               }
             }
           }
@@ -120,17 +142,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "ba0d6198554f808f",
+  "active": "a6d8ac438ec12a3d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
     "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
     "README.md",
     "A Grand Notepad.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
-    "MEDIA/SUPP/ANC-Main.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
   ]
 }
