@@ -1,5 +1,5 @@
 ---
-tags: folderfile,
+tags: folderfile, planes
 aliases:
 ---
 # Elysium
