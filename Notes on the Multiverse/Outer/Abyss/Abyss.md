@@ -21,5 +21,6 @@ The five layers of the Abyss are each ruled by a demon lord. Demons and their lo
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Abyss]]**
+	- **Places**
 
 %% End Waypoint %%

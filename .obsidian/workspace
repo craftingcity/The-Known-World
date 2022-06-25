@@ -4,62 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eeba2ed7550e06c4",
-        "type": "split",
-        "children": [
-          {
-            "id": "be2b22e54a177dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ba0d6198554f808f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
-                "mode": "source"
-              }
-            }
+        "id": "54cb1499c6b410c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Outer/Wildlands.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "dd721206db9e06c9",
-        "type": "split",
-        "children": [
-          {
-            "id": "d88e04a33c2ca96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a6d8ac438ec12a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+                "file": "Notes on the Multiverse/Outer/Wildlands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+                "file": "Notes on the Multiverse/Outer/Wildlands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+                "file": "Notes on the Multiverse/Outer/Wildlands.md"
               }
             }
           }
@@ -167,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "a6d8ac438ec12a3d",
+  "active": "54cb1499c6b410c0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
-    "River Styx.md",
+    "Notes on the Multiverse/Outer/Wildlands.md",
+    "Notes on the Multiverse/Outer/Outer.md",
+    "Notes on the Multiverse/Outer/Astral Sea.md",
+    "Notes on the Multiverse/Outer/River Styx.md",
     "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Hell/The Nine Hells of Baator.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md"
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/All-Father Annam.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md"
   ]
 }

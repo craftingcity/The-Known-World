@@ -1,7 +1,8 @@
 # Limbo
 %% Begin Waypoint %%
 - **[[Limbo]]**
+	- **Places**
+		- [[The Tower of Limbo]]
 	- [[Queen of Swords]]
-	- [[The Tower of Limbo]]
 
 %% End Waypoint %%

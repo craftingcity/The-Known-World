@@ -6,5 +6,6 @@ aliases:
 ## The Outer Plane of Ideal Evil
 %% Begin Waypoint %%
 - **[[Nine Hells of Baator]]**
+	- **Layers**
 
 %% End Waypoint %%
