@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
+            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md"
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "a2bacda7e6f5549a",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md",
+    "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
     "Notes on the Multiverse/Outer/Limbo/Limbo.md",
     "Notes on the Multiverse/Outer/Limbo/Places/Untitled.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "Notes on the Multiverse/Outer/Wildlands.md",
     "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Astral Sea.md",
-    "Notes on the Multiverse/Outer/River Styx.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
+    "Notes on the Multiverse/Outer/Astral Sea.md"
   ]
 }
