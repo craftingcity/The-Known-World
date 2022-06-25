@@ -26,24 +26,24 @@ Related articles include; [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild
 ### Northeast
 The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]]].
 
-Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common]]
+Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common (language)]]
 
 ### Northwest
 The northwest was a temperate forest, and is now a unique ashen ecosystem (see Morrowind?). This area is seperated from its neighbors by a large burn line in the east and the [[Deakred Range]] at its south. Currently, it is nearly entirely controlled by [[The Church of the White Flame]].
 
-Related articles include [[Great Fires]], [[Great Northern Forests]], [[High Common]]
+Related articles include [[Great Fires]], [[Great Northern Forests]], [[High Common (language)]]
 
 ### Southwest
 The southwest is a desert. This is the land that Tetrimoc made his home, although the people now rule these lands. He is a religious figure to most here, rather than a mortal dragon as he is. This area is seperated from its neighbors by the [[Deakred Range]] at its north and the [[Alavini River]] at its east.
 
-Related articles include; [[Tetrimoc]], [[The Outlands]], [[The Golden City]], [[Desertspeech]]
+Related articles include; [[Tetrimoc]], [[The Outlands]], [[The Golden City]], [[Desertspeech (language)]]
 
 ### Southeast
 The southeast is a series of wet and warm areas. This makes much of the land swampy and wet. Incredibly, this has created an abundance of food and livable area here, as the people who came to live here developed technologies that took great advantage of their surroundings.
 
 All of what is considered "the southeast" is controlled by members of [[The Democratic Combine of Peoples]]. Each member controls their own territory, and is encouraged to fight with their peers for the power they hold, but when the Combine is under threat, all quarrels are halted for the common good of the Peoples.
 
-Related articles include: [[The Democratic Combine of Peoples#Notable Factions]], [[Swampish]]
+Related articles include: [[The Democratic Combine of Peoples#Notable Factions]], [[Swampish (language)]]
 
 ### Coalition City
 In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds of Coalition]]. Members thereof are often regarded in authority, no matter their current location.
@@ -71,7 +71,7 @@ The most common working job is that of the Farmer. The second most common is tha
 
 The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
 
-The most common languages spoken - and therefore the common humanoid trade languages - are [[Desertspeech]], [[High Common]], [[King's Common]], and [[Swampish]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
+The most common languages spoken - and therefore the common humanoid trade languages - are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
 
 Most folks have interacted with medieval style technology
 

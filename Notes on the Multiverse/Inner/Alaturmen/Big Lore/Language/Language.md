@@ -5,13 +5,21 @@ aliases:
 
 # Language
 %% Begin Waypoint %%
-- **[[Language]]**
-	- [[Celestial (language)]]
-	- [[Desertspeech]]
-	- [[Draconic (language)]]
-	- [[High Common]]
-	- [[Infernal (language)]]
-	- [[King's Common]]
-	- [[Swampish]]
+- **[[Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language]]**
+	- **Ancestral Languages**
+		- **Age of Beginning**
+			- [[Ancient Human (language)]]
+		- **Time Before Time**
+			- [[Abyssal (language)]]
+			- [[Celestial (language)]]
+			- [[Draconic (language)]]
+			- [[Infernal (language)]]
+			- [[Primordial (language)]]
+			- [[Sylvan (language)]]
+	- **Modern Languages**
+		- [[Desertspeech (language)]]
+		- [[High Common (language)]]
+		- [[King's Common (language)]]
+		- [[Swampish (language)]]
 
 %% End Waypoint %%

@@ -23,17 +23,17 @@
     {
       "path": "/",
       "date": "2022-06-25",
-      "size": 555130
+      "size": 555315
     },
     {
       "path": "Notes on the Multiverse",
       "date": "2022-06-25",
-      "size": 377382
+      "size": 379204
     },
     {
       "path": "Game Notes",
       "date": "2022-06-25",
-      "size": 137977
+      "size": 138492
     }
   ],
   "activityHistory": [
@@ -370,7 +370,7 @@
         },
         {
           "date": "2022-06-25",
-          "value": 0
+          "value": 1391
         }
       ]
     },
@@ -479,7 +479,7 @@
         },
         {
           "date": "2022-06-25",
-          "value": 0
+          "value": 1822
         }
       ]
     },
@@ -588,7 +588,7 @@
         },
         {
           "date": "2022-06-25",
-          "value": 0
+          "value": 515
         }
       ]
     }

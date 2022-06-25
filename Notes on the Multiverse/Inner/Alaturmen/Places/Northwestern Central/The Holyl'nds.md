@@ -17,7 +17,7 @@ Many of the first Winter Elves made their homes here before the [[Great Fires]] 
 Since then, people of all kinds have flocked back into the Holyl'nds to worship [[Its Greatness]], but [[The Church of the White Flame]] has a clear preference for pure human or elf in regards to social status and upwards mobility.
 
 #### Language
-The people in this area speak a common language known as [[High Common]]. It claims roots from ancient elven and human languages.
+The people in this area speak a common language known as [[High Common (language)]]. It claims roots from ancient elven and human languages.
 
 #### Belief
 The people of the Holyl'nd revere [[Its Greatness]] for allowing itself to be contained and giving their peers power. 

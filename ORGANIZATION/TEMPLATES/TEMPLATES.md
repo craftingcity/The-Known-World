@@ -7,6 +7,7 @@
 	- [[Fronts]]
 	- [[Group]]
 	- [[Holdings]]
+	- [[Language]]
 	- [[Non-Canon]]
 	- [[NPCs]]
 	- [[Prenotes]]

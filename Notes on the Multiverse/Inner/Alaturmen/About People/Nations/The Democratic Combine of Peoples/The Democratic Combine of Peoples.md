@@ -31,7 +31,7 @@ When push comes to shove, the attitude of the Barons turn from competitor to def
 #### Heritage
 The People in the Democratic Combine of People are typically Goblin, Human, Triton, or any one else. While there are a lare percentage of these people here, anyone could be found in the Combine, as anyone could find use in the Combine.
 #### Language
-The Combine's national language is [[Swampish]], a blending of Triton and Human, with some syntax and grammar taken from Ancient Goblin and Elven.
+The Combine's national language is [[Swampish (language)]], a blending of Triton and Human, with some syntax and grammar taken from Ancient Goblin and Elven.
 
 #### Belief
 Anyone can do anything in the Combine. This leads most people to have a I-mind-my-business-you-mind-yours attitude, with a dash of hope or despair, depending on who their loyal to and how their doing. 

@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cdad9f856034c873",
+        "id": "4a523670434f9301",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sylvan (language).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2cb320d4a74961c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Abyssal (language).md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
             "mode": "source"
           }
         }
@@ -63,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abyssal (language).md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abyssal (language).md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abyssal (language).md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md"
               }
             }
           }
@@ -132,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "2cb320d4a74961c8",
+  "active": "4a523670434f9301",
   "lastOpenFiles": [
-    "Abyssal (language).md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Sylvan (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Infernal (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Celestial (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Draconic (language).md",
-    "Game Notes/Mechanics/How the Weave becomes Magic.md",
-    "Notes on the Multiverse/Outer/Hell/The Nine Hells of Baator.md",
-    "Notes on the Multiverse/Outer/Hell/Hell.md",
-    "Notes on the Multiverse/The Planes of Existence.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Desertspeech (language).md",
+    "ORGANIZATION/TEMPLATES/Language.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Abyssal (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/King's Common (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/High Common (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Infernal (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Draconic (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Swampish (language).md"
   ]
 }

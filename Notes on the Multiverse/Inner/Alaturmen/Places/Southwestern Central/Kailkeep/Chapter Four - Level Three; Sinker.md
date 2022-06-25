@@ -27,7 +27,7 @@ Four bowls rest on four pressure plates on their four platforms in the four corn
 ###### Markings
 On the floor and walls of this room there are many (at least 7) square indentations with [[Draconic (language)]] runes extended; "NO CHEAT". 
 
-On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common]];
+On the wall above the platform of the Kobold giving blood is a formatted marking in [[King's Common (language)]];
 > 026 - 07 - 14
 > 
 > They do not let us speak so plain;
