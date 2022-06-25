@@ -11,4 +11,4 @@ They were born in the [[The Holyl'nds]] in the year .
 
 One of their notable personal accolades is that they are the first person to return from the [[Wildlands]]. 
 
-They fought back the [[Invasion of Orcus]] with the rest of [[The Grey Ordeal]].
+They fought back the [[First Invasion of Orcus]] with the rest of [[The Grey Ordeal]].

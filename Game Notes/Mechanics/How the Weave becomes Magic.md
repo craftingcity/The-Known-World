@@ -7,6 +7,9 @@ The essence of the world is a hyper mutable material latent in all things, given
 In everything, there is the Weave.
 
 # Elemental
+When the first beings began to create, the Elements came before all else.
 # Fey
+The first inhabited planes know magic as the force of will of their superior fey.
 # Divine
+As the 
 # Arcane
