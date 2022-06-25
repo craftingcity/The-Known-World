@@ -10,7 +10,7 @@ This text is a list of all known associates to the King [[Arthur Simonson]] of [
 ## Known Relatives
 [[Amelia Simonson]] - mother, deceased, no known location, no threat level
 
-[[Trxyi Emorin]] - distant cousin, alive, located in [[Emorin Clan]] territory of the [[Blood Hobgoblin Clan Pact]].
+[[Trxyi Emorin]] - distant cousin, alive, located in [[Emorin Clan]] territory of the [[Blood-Hobgoblin Clan Pact]].
 
 ## Adventuring / War Associates
 [[Big Buster]] - deceased, buried in [[Yerba]], no threat level

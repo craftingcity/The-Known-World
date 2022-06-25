@@ -17,4 +17,7 @@ Goblins live for about thirty years. Traditionally, goblins are raised for "the 
 
 Hobgoblins are moderately sized. From a human perspective, "they are the most like us" in that hobgoblins remain calmer than their cousins.
 
-Bugbear are the largest subspecies of goblin and the most animalistic. Few live in "civilized" areas, but gather together to form clans and bands in the "wild".
+> ##### Blood-Hobgoblin Clans
+> A large population of the Hobgoblins on [[Alaturmen]] have betrayed their heritage-kin, the goblins and bugbear, and formed the [[Blood-Hobgoblin Clan Territories]]
+
+Bugbear are the largest subspecies of goblin and the most "animalistic". Few live in "civilized" areas, but gather together to form clans and bands in the "wild". Wild-bugbear use their long limbs and strong arms to defend themselves in the wild, and those bugbear that live in civilized spaces use those same .

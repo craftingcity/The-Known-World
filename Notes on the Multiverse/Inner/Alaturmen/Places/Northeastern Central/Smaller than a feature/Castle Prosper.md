@@ -7,7 +7,7 @@ aliases:
 Prosperity: Moderate 
 Population: Steady 
 Defenses: Garrison
-Other Tags: Need (iron, stone), Resource (food, supplies), Oath (all holdings in [[The Kingdom of Prosper]]), Trade ([[Yerba]], ), Enmity ([[Northeastern Hobgoblin Territories]]), Power ([[Communicae]])
+Other Tags: Need (iron, stone), Resource (food, supplies), Oath (all holdings in [[The Kingdom of Prosper]]), Trade ([[Yerba]], ), Enmity ([[Blood-Hobgoblin Clan Territories]]), Power ([[Communicae]])
 
 # Description
 This is the hometown and first holding of King [[Arthur Simonson]], who personally liberated the once village from the tyrannical rule of [[Edward Bodaim]]. After returning from his grand adventures, [[Arthur Simonson]] used his massive wealth to fund the construction of the Castle from which the holding gathers it's name. During the [[Unification]], the larger wall was built to protect and ease housing for those fleeing to Castle Prosper.

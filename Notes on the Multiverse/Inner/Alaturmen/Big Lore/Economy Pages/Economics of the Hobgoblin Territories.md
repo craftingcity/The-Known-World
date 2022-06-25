@@ -50,7 +50,7 @@ Smokebulb grows rarely in this region, and is a highly desired ritual medicine i
 The Clans of the Territories fight eachother for their land. If they can take land by force, a Mangugu would attempt to do so, for the prosperity of their clan. 
 
 ### Overhead
-Because there is no greater collective of the Clans, other than the [[Blood Hobgoblin Clan Pact]], taxes are always in the form of community service to the local Mangugu. Most folks live in these semi-nomadic clans, but well established clans often have more permanent structures if they believe that they can be defended. Production processes, if they can be permanent and defended, can be large, but otherwise, are generally small and personal.
+Because there is no greater collective of the Clans, other than the [[Blood-Hobgoblin Clan Pact]], taxes are always in the form of community service to the local Mangugu. Most folks live in these semi-nomadic clans, but well established clans often have more permanent structures if they believe that they can be defended. Production processes, if they can be permanent and defended, can be large, but otherwise, are generally small and personal.
 
 ### Cutting Corners
 When times are very tough, the people of the Territories know that they are not above eating the meat of their own fallen. Neither Humanoid or Goblinoid is an *acceptable* meat, but when there is no other alternative for you, your Clan, your Clan's goats, the people you just felled for their farmland are still fresh meat. Generally, this is unnecessary, the forests provide.

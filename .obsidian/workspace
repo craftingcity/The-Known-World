@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5085a04ed6ebfbc7",
+        "id": "ba0d6198554f808f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md"
+              }
             }
           }
         ],
@@ -114,17 +120,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "5085a04ed6ebfbc7",
+  "active": "ba0d6198554f808f",
   "lastOpenFiles": [
-    "MEDIA/SUPP/ANC-Main.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Aaracokra Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Infernal (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Goblin Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+    "README.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis(plane).md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
+    "MEDIA/SUPP/ANC-Main.pdf"
   ]
 }

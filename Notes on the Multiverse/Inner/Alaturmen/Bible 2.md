@@ -7,24 +7,22 @@ aliases:
 > \- [[Eladrithal Greystone]] to his parents
 
 ## The World is Young
-In the beginning, many things happened at once.
+In the Time before Time, many things happened at once and forever.
 
-The goblins have been, are, and always will be everywhere. They swam in the soup of Alaturmen before it was a glint in any power's eye.
+The Three Fates crafted the fabric of reality, known as the Weave, and from it many beings became; the [[Immortal Dragons]], the [[Jabbawok]], the [[All-Father Annam]], [[Asmodeus]], and [[Demogorgon]].
 
-The [[Immortal Dragons]] were there too, swimming alongside, creating and destroying as they wished. They became bored of their power. Among themselves, they agreed to become cursed with the one thing they could not control: time. They fell upon the planes and created mortality. Among them, the Yellow Dragon Tetrimoc fell to Alaturmen. 
+In the planes that were before time was, the [[Ceilie Courts]]' [[Eladrin Specifics|Eladrin]] made their progeny; ***onnonyamile***; *child of my parent*; the [[Elven Specifics|Elves]]. It was the Eladrin's claim that the Elves were the true heirs of Alaturmen, that it was made for *their* children, and this was what they told their children.
 
-In the planes that were before time was, the Feywild's Eladrin made their progeny; ***onnonyamile***; *child of my parent*; the elves. It was the Eladrin's claim that the Elves were the true heirs of Alaturmen, that it was made for *their* children, and this was what they told their children.
-
-Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning its Gods, and the people who came to be began to come together.
+Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its Gods, and the people who came to be came to be *together*.
 
 ## Geography
 
-At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breathes in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but that is another tale. 
+At the edge of the land, the common folk will tell you to venture no further. They are right to warn you. Some magic breathes in this world. The Weave grows and shrinks the world to its whims. When people go too far, they do not come back. Unless you speak of [[Eladrithal Greystone]], but his is another tale. 
 
 Related articles include; [[Central Alaturmen]], [[Wildlands]], [[Ranger's Guild]].
 
 ### Northeast
-The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Northeastern Hobgoblin Territories]]].
+The northeast is a temperate forest. This is the area that is least separated by its neighbors, and as such, has become a powerful area to control. Currently, it is contested by [[The Kingdom of Prosper]] and the [[Blood-Hobgoblin Clan Territories]]].
 
 Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common (language)]]
 
@@ -46,9 +44,10 @@ All of what is considered "the southeast" is controlled by members of [[The Demo
 Related articles include: [[The Democratic Combine of Peoples#Notable Factions]], [[Swampish (language)]]
 
 ### Coalition City
-In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds of Coalition]]. Members thereof are often regarded in authority, no matter their current location.
+In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds of Coalition]]. Members thereof are often regarded in authority, no matter their station.
 
 ### "Non-Nation Entities"
+#### Blood-Hobgoblin Clans
 #### Cenva Minyo
 The Winter Elf Remnants, [[Cenva Minyo]], gather and grow just south of the [[Actstow Hills]], waiting for their moment to enact revenge for their fallen in the [[Great Fires]]. The elves here maintain a path for any Elf to Walk beyond [[Alaturmen]] upon.
 
@@ -81,11 +80,11 @@ The most common languages spoken are [[Desertspeech (language)]], [[High Common 
 Most of [[Alaturmen]] has technology only barely more advanced than that which one would imagine a 1600s-peasant might have access to, and missing some key developments such as gunpowder or printing. Magic is a rarity, and a closely protected influence on the world of [[Alaturmen]].
 
 ## Power
-The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare; hard to create, harder to find. Few exist outside of hoards of dragons and mages.
+The quickest path to power is by the [[How the Weave becomes Magic|manipulation of the Weave]]. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare; hard to create, harder to find. Few exist outside of hoards of dragons and mages.
 
-Secondarily, many gain power by learning from their elders, peers, and the materials of the past. Three of four people develop the ability to read.
+Secondarily, many gain power by learning from their elders, peers, and the reading-materials of the past. Three of four people develop the ability to read.
 
-Finally, of course, many people gain power through some physical force; more weaponry, people, or strength.
+Tertiarily, of course, many people gain power through some physical force; more weaponry, people, or strength.
 
 Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God – or feeds a power of such a caliber.
 
