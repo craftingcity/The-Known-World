@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+            "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
+                "file": "Game Notes/Mechanics/How the Weave becomes Magic.md"
               }
             }
           }
@@ -122,6 +123,7 @@
   },
   "active": "3fea731b1941fcc7",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/NPCs/NPCs.md",
@@ -130,7 +132,6 @@
     "Paths through Power.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Timeline.md",
     "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md"
   ]
 }
