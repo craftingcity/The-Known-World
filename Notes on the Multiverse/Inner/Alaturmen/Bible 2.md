@@ -50,17 +50,22 @@ In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Dea
 
 ### "Non-Nation Entities"
 #### Cenva Minyo
-The Winter Elf Remnants, [[Cenva Minyo]], gather and grow just south of the Actstow Hills, waiting for their moment to enact revenge for their fallen in the [[Great Fires]].
+The Winter Elf Remnants, [[Cenva Minyo]], gather and grow just south of the [[Actstow Hills]], waiting for their moment to enact revenge for their fallen in the [[Great Fires]]. The elves here maintain a path for any Elf to Walk beyond [[Alaturmen]] upon.
 
 Related articles include: [[Elven Specifics#Winter Elves]]
 
 #### Dwarven Kingdom Actstow
-The [[Dwarven Kingdom Actstow]] is a beating heart of dwarven industrialism. The dwarves here are carved from hill stone, and they have shown grace and honor in the face of uncertainty.
+The [[Dwarven Kingdom Actstow]] is a beating heart of dwarven industrialism. The dwarves here are carved from hill stone, and they have shown grace and honor in the face of uncertainty. Dwarves of the [[Actstow Hills]] are cordial with most, but share a deep ancestral bond with the Winter Elves.
 
 Related articles include: [[Dwarven Specifics#Hill Dwarves]]
 
+#### Dwarven Kingdom Jammu
+The [[Dwarven Kingdom Jammu]] fares as well as its cousins, although it competes with other groups for land and resources in the eternal civil wars of the greater [[The Democratic Combine of Peoples|Combine]].
+
+Related articles include [[Dwarven Specifics#Hill Dwarves]]
+
 #### Dwarven Kingdom Suremantle
-The Mountain Hall is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarf's heart belongs to their family first, and they therefore remain minor xenophobes and isolationists.
+The massive [[Mountain Hall]] is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarf's heart belongs to their family first, and they remain minor xenophobes and isolationists to this day.
 
 Related articles include [[Dwarven Specifics#Mountain Dwarves]]
 
@@ -73,7 +78,7 @@ The people of the world have [[The Worldwide Calendar Systems|different names]] 
 
 The most common languages spoken are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
 
-Most of Alaturmen has technology only barely more advanced than that which one would imagine a medevil peasant would have access to
+Most of [[Alaturmen]] has technology only barely more advanced than that which one would imagine a 1600s-peasant might have access to, and missing some key developments such as gunpowder or printing. Magic is a rarity, and a closely protected influence on the world of [[Alaturmen]].
 
 ## Power
 The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare; hard to create, harder to find. Few exist outside of hoards of dragons and mages.

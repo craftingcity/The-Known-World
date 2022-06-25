@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md"
               }
             }
           }
@@ -133,6 +133,8 @@
   },
   "active": "4a523670434f9301",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
@@ -140,8 +142,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Desertspeech (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Swampish (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/King's Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/High Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md"
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/High Common (language).md"
   ]
 }
