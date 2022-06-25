@@ -2,6 +2,7 @@
 tags: race_specifics
 aliases:
 ---
+# Dragonborn
 ## Legends from the [[Immortal Dragons]]
 The legends of dragons first speak of the great immortal dragons, god-like beings who grew bored of their power elected to become mortal - True Dragon - as a challenge.
 
@@ -17,5 +18,5 @@ Generally, the child will gather more characteristics of their carrier than thei
 
 Dragonborn share their "bloodline" with their progenitor, meaning that their draconic powers, color, and other features align with those of their True Dragon or Dragonborn parent(s).
 
-## Naming Convention
+### Naming Convention
 A Dragonborn carries their Clutch name, their Given name, and their Title. When introducing oneself to a non-dragon, one would only give their Title. To another dragonkin, it is a sign of respect to introduce oneself fully: Clutch, Given, then Title.

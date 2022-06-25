@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26bdf7c49865c002",
+        "id": "5085a04ed6ebfbc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "caa003456895d251",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Infernal (language).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -79,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,17 +114,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "26bdf7c49865c002",
+  "active": "5085a04ed6ebfbc7",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
+    "MEDIA/SUPP/ANC-Main.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Dragonborn Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Heritages/Aaracokra Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Infernal (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
     "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis(plane).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Desertspeech (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Languages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md"
+    "Notes on the Multiverse/Outer/Mechanis/Mechanis(plane).md"
   ]
 }
