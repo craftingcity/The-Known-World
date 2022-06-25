@@ -14,6 +14,7 @@ aliases:
 			- [[Celestial (language)]]
 			- [[Draconic (language)]]
 			- [[Infernal (language)]]
+			- [[Mechanis(language)]]
 			- [[Primordial (language)]]
 			- [[Sylvan (language)]]
 	- **Modern Languages**
