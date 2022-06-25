@@ -62,7 +62,7 @@ Souls who pass beyond their material planes find themselves drawn to one of thes
 
 #### [[Mechanis]], the Land of Law
 
-#### [[The Abyss]], the Land of Chaos
+#### [[Abyss]], the Land of Chaos
 
 #### [[Elysium]], the Land of Good
 

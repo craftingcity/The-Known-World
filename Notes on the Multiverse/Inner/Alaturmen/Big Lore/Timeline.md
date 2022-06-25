@@ -25,7 +25,7 @@ date: 75000TBT
 title: The Titans form planes the outer planes.
 content: 
 
-[[Asmodeus]] builds [[The Nine Hells of Baator]] and births his devils with his blood.
+[[Asmodeus]] builds [[The Nine Hells of Baator]] below the [[Plane of Fire]] and births his devils there with his blood. The [[Demogorgon]] swims to the bottom of the [[Plane of Water]] and carves the [[Abyss]]
 
 date: 65000TBT
 title: 
