@@ -69,20 +69,20 @@ Most people use barter to trade for resources, as most people do not carry minte
 
 The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer. People of the realm keep an open mind for the most part. Most fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security.
 
-The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day week and a 52 week year.
+The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day-week, 4 week-month, and 12 month-year.
 
-The most common languages spoken - and therefore the common humanoid trade languages - are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
+The most common languages spoken are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
 
-Most folks have interacted with medieval style technology
+Most of Alaturmen has technology only barely more advanced than that which one would imagine a medevil peasant would have access to
 
 ## Power
 The quickest path to power is by the manipulation of the Weave. Mages are respected and often feared, as they have immense power. Items enchanted and spellbound are rare; hard to create, harder to find. Few exist outside of hoards of dragons and mages.
 
-Secondarily, many gain power by learning from their elders, peers, and the materials of the past. Two of three people develop the ability to read.
+Secondarily, many gain power by learning from their elders, peers, and the materials of the past. Three of four people develop the ability to read.
 
-Finally, of course, many people gain power from physical force; more weaponry, people, or strength.
+Finally, of course, many people gain power through some physical force; more weaponry, people, or strength.
 
-Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God - or a a power of such a caliber.
+Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God – or feeds a power of such a caliber.
 
 ## Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.

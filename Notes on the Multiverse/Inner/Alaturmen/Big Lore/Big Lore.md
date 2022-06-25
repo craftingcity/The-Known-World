@@ -7,7 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[Big Lore]]**
 	- **[[Economy Pages]]**
-	- **[[Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language]]**
+	- **[[Languages]]**
 	- **[[Texts]]**
 	- [[The Worldwide Calendar Systems]]
 	- [[Timeline]]

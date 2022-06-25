@@ -3,9 +3,9 @@ tags: folderfile
 aliases:
 ---
 
-# Language
+# Languages
 %% Begin Waypoint %%
-- **[[Language]]**
+- **[[Languages]]**
 	- **Ancestral Languages**
 		- **Age of Beginning**
 			- [[Ancient Human (language)]]
@@ -20,7 +20,7 @@ aliases:
 		- [[Desertspeech (language)]]
 		- [[High Common (language)]]
 		- [[King's Common (language)]]
-		- [[Modern Elven]]
+		- [[Modern Elven (language)]]
 		- [[Swampish (language)]]
 
 %% End Waypoint %%

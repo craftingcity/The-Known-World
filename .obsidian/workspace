@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Desertspeech (language).md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Desertspeech (language).md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md"
               }
             }
           }
@@ -133,15 +133,15 @@
   },
   "active": "4a523670434f9301",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Modern Elven.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Desertspeech (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/Swampish (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/King's Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Modern Languages/High Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Abyssal (language).md",
-    "ORGANIZATION/TEMPLATES/Language.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Language.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Language/Ancestral Languages/Time Before Time/Infernal (language).md"
+    "Notes on the Multiverse/Inner/Alaturmen/Bible 2.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Languages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Modern Elven (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Desertspeech (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/Swampish (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/King's Common (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Modern Languages/High Common (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md"
   ]
 }
