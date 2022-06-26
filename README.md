@@ -12,7 +12,7 @@ I present to you some central truths;
 2. The [[Grand Pantheon|gods are here]], we can see them walk among us. We form them with our Faith.
 3. This place changes. Someone always does something that makes it change. It changes alone too.
 4. The [[The Planes of Existence|Planes]] are leaking in. This means we get to make more, but it also means that people have to stop it leaking to far.
-5. People in this place simply become here. Sometimes they are born, sometimes they are carved. Everyone's story is different. This is good and cool.
+5. People in this place simply become here. Sometimes they are born, sometimes they are carved. Everyone's story is different. 
 6. We begin with peace; war happens anyways.
 7. Things happen despite your influence. This isn't just your story.
 
@@ -22,10 +22,40 @@ To build a character that fits into this world, I humbly request that you work w
 Much like in real life, the concept of "race" is false on Alaturmen, and the surrounding planes. The mechanical benefits that the **Player's Handbook** assigns explicitly to race sucks! I am following in the footsteps of "Ancestry and Culture; An Alternative to Race in 5e" produced by Arcanist Press and splitting those mechanical benefits between your character's heritage and their culture. 
 
 ### Heritage
-#### Sexually Reproducing
-##### And Multi-Drift Compatible!
-#### Asexually Reproducing
+#### Common to Alaturmen
+##### Goblin
+##### Human
+##### Elven
+##### Dragonborn
+##### Triton
+##### Gnoll
+##### Dwarven
+##### Goliath
+##### Halfling
+##### Kenku
+##### Kobold
+##### Orc
+#### Uncommon to Alaturmen
+##### Eladrin
+##### Satyr
+##### Gnome
+##### Aaracokra
+##### Giant
+##### Elemental
+##### Mecha
+##### Kuo-Toa
 ### Culture
+#### Nation-States of Coalition
+##### Kingdom of Prosper
+##### Church of the White Flame
+##### Golden Claws of Tetrimoc
+##### Democratic Combine of Peoples
+#### Non-Coalition Entities
+##### Dwarven Kingdoms
+##### Cenva Minyo
+##### Blood-Hobgoblin Clans
+##### Desert Thieves
+##### Desert Nomads
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
 
@@ -34,15 +64,6 @@ While your specific background is likely tied deeply to your character's Culture
 
 That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
 
-#### Personality
-##### Alignment
-##### Flaws
-##### Ideals
-##### Bonds
-#### Occupation
-There are two kinds of people in this world; NPCs and PCs. What differentiates a PC from an NPC is a blurry line in the fiction of our world, but most "adventurers" did something before they started taking quests from wealthy patrons or delving into ruins in seek of ancient power. So I put to you the player, what did your character do with their life before they began to walk to the tavern and met their adventuring party?
-
-#### Take my Questionnaire!
 ## Exploring Alaturmen
 ### Central Alaturmen's Features
 #### The World is Young
@@ -72,20 +93,11 @@ Secondarily, many gain power by learning from their elders, peers, and the readi
 
 Tertiarily, of course, many people gain power through some physical force; more weaponry, people, or strength.
 
-Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God – or feeds a power of such a caliber.
+##### About Faith
+Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
 
 #### About Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.
 
 Many cultures have unique forms of punishment and unique crimes. A culture's justification for punishment is also often unique, be it a contract, ideal, or some other broken bond.
-### Nation-States of Coalition
-#### Kingdom of Prosper
-#### Church of the White Flame
-#### Golden Claws of Tetrimoc
-#### Democratic Combine of Peoples
-### Non-Coalition Entities
-#### Dwarven Kingdoms
-#### Cenva Minyo
-#### Blood-Hobgoblin Clans
-#### Desert Thieves
-#### Desert Nomads
+
