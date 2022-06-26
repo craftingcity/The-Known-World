@@ -2,7 +2,7 @@
 connect to [[Game Notes]]
 %% Begin Waypoint %%
 - **[[Notes on the Multiverse]]**
-	- **[[Heritages]]**
+	- **[[Big Lore]]**
 	- **[[Inner]]**
 	- **[[Outer]]**
 	- [[The Planes of Existence]]

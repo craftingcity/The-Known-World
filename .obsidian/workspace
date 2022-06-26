@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
+                "file": "README.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "3f2b928a4ecede7d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Heritages/Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/World Wide Happenings/World Wide Happenings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Big Lore/Big Lore.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Game Notes/Game Notes.md",
     "README.md",
-    "Notes on the Multiverse/The Planes of Existence.md"
+    "Bible 2.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md"
   ]
 }
