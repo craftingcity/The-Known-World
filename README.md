@@ -35,7 +35,7 @@ Your character will inherit certain traits from their heritage, such as their si
 **Age.**
 **Size.**
 **Speed.**
-**Versatile Form.**
+**Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 ##### Bugbear
 **Age.**
 **Size.**
@@ -46,13 +46,19 @@ Your character will inherit certain traits from their heritage, such as their si
 **Age.**
 **Size.**
 **Speed.**
-**Versatile Form.**
+**Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 ##### Elven
 **Age.**
 **Size.**
 **Speed.**
-**Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. 
-**Keen Senses.** You have advantage on Wisdom (Perception) checks (anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
+**Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
+	- **Spring.** Your base walking speed increases to 35 feet. 
+	- **Summer.** 
+	- **Autumn.**
+	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+**Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
+**Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
+
 ##### Dragonborn
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
@@ -62,7 +68,13 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Draconic Ancestry.**
 
 ##### Triton
+**Age.**
+**Size.**
+**Speed.**
 ##### Gnoll
+**Age.**
+**Size.**
+**Speed.**
 ##### Dwarven
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
@@ -72,10 +84,25 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Darkvision.**
 **Resilience and Toughness.**
 ##### Goliath
+**Age.**
+**Size.**
+**Speed.**
 ##### Halfling
+**Age.**
+**Size.**
+**Speed.**
 ##### Kenku
+**Age.**
+**Size.**
+**Speed.**
 ##### Kobold
+**Age.**
+**Size.**
+**Speed.**
 ##### Orc
+**Age.**
+**Size.**
+**Speed.**
 #### Uncommon to Alaturmen
 ##### Eladrin
 ##### Satyr
@@ -89,7 +116,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
 ##### Church of the White Flame
-##### Golden Claws of Tetrimoc
+##### Tetrimoc's Desert
 ##### Democratic Combine of Peoples
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
@@ -123,7 +150,7 @@ The most common working job is that of the Farmer. The second most common is tha
 
 The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day-week, 4 week-month, and 12 month-year.
 
-The most common languages spoken are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragons, elves, goblin, and triton respectively.
+The most common languages spoken are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragonborn, elves, goblin, and triton respectively.
 
 Most of [[Alaturmen]] has technology only barely more advanced than that which one would imagine a 1600s-peasant might have access to, and missing some key developments such as gunpowder or printing. Magic is a rarity, and a closely protected influence on the world of [[Alaturmen]].
 

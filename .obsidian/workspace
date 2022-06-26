@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2b928a4ecede7d",
+        "id": "ee14508abaf0c3dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -121,9 +121,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "3f2b928a4ecede7d",
+  "active": "ee14508abaf0c3dd",
   "lastOpenFiles": [
     "README.md",
+    "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md",
     "MEDIA/SUPP/ANC-Main.pdf",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -131,7 +132,6 @@
     "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
     "Bible 2.md",
     "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
