@@ -26,11 +26,11 @@ Your character will inherit certain traits from their heritage, such as their si
 ### Heritages
 #### Common to Alaturmen
 ##### Goblin
-**Age.**
-**Size.**
-**Speed.**
-**Fury of the Small.**
-**Preternatural Agility.**
+**Age.** You are considered fully matured at age eight and live to be about thirty-five.
+**Size.** Mechanically, you are considered a small creature. You stand at about four feet tall, though your limbs are built for someone just an inch or two taller than yourself.
+**Speed.** Your speed is 30 feet.
+**Fury of the Small.** When you damage a creature of a size category larger than yours with an attack or a spell, you may cause the damage to be increased by an amount of extra untyped damage equal to your level. Once you activate this heritage ability, it cannot be activated again until you finish a short or long rest.
+**Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency
 ##### Hobgoblin
 **Age.**
 **Size.**
@@ -68,16 +68,11 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Draconic Ancestry.**
 
 ##### Triton
-**Age.**
+**Age.** Triton mature at 20 and live to 
 **Size.**
 **Speed.**
+**Amphibious.** You can breathe air and water.
 **Elemental Ancestry (Water).**
-##### Gnoll
-The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
-**Age.**
-**Size.**
-**Speed.**
-**Fiendish Ancestry.**
 ##### Dwarven
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
@@ -86,10 +81,27 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Speed.**
 **Darkvision.**
 **Elemental Ancestry (Earth).**
+
+#### Uncommon to Alaturmen
+##### Kobold
+Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
+**Age.**
+**Size.**
+**Speed.**
+**Blood of Dragon.**
+**Unarmored Defense.**
+##### Orc
+**Age.**
+**Size.**
+**Speed.**
+**Unrelenting Endurance.**
+##### Tabaxi
 ##### Goliath
 **Age.**
 **Size.**
 **Speed.**
+**Powerful Build.**
+
 ##### Halfling
 **Age.**
 **Size.**
@@ -98,16 +110,23 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Age.**
 **Size.**
 **Speed.**
-#### Uncommon to Alaturmen
-##### Aaracokra
+##### Gnoll
+The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
+**Age.**
+**Size.**
+**Speed.**
+**Fiendish Ancestry.**
+#### Rare to Alaturmen
 ##### Eladrin
 ##### Satyr
 ##### Gnome
-##### Giant
-##### Genasi
-##### Mecha
 ##### Duergar
 ##### Kuo-Toa
+##### Aaracokra
+##### Genasi
+##### Tiefling
+##### Mecha
+
 ### Culture
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
