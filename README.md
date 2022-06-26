@@ -17,16 +17,32 @@ I present to you some central truths;
 7. Things happen despite your influence. This isn't just your story.
 
 ## Building a Character
+To build a character that fits into this world, I humbly request that you work with me to merge the mechanical necessities with our story-telling wishes. A part of this for me is taking what **Wizards of the Coast** says about what is true and tweaking it. A lot.
+
+Much like in real life, the concept of "race" is false on Alaturmen, and the surrounding planes. The mechanical benefits that the **Player's Handbook** assigns explicitly to race sucks! I am following in the footsteps of "Ancestry and Culture; An Alternative to Race in 5e" produced by Arcanist Press and splitting those mechanical benefits between your character's heritage and their culture. 
+
 ### Heritage
+#### Sexually Reproducing
+##### And Multi-Drift Compatible!
+#### Asexually Reproducing
 ### Culture
-### Background
+### Ex-Occupation
+While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
+
+> Once, I was an adventurer like you, then I took an arrow to the knee. I was in the military before, during the Invasion of Orcus, and my training served me well in my days of glory. They only keep me on watch these days. Bum a cig?
+> \- A guard I just made up
+
+That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
+
 #### Personality
 ##### Alignment
 ##### Flaws
 ##### Ideals
 ##### Bonds
 #### Occupation
-#### Take my Questioner?
+There are two kinds of people in this world; NPCs and PCs. What differentiates a PC from an NPC is a blurry line in the fiction of our world, but most "adventurers" did something before they started taking quests from wealthy patrons or delving into ruins in seek of ancient power. So I put to you the player, what did your character do with their life before they began to walk to the tavern and met their adventuring party?
+
+#### Take my Questionnaire!
 ## Exploring Alaturmen
 ### Central Alaturmen's Features
 #### The World is Young

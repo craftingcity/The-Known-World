@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "664fbecf14d95535",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/ANC-Main.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -123,6 +133,7 @@
   "active": "3f2b928a4ecede7d",
   "lastOpenFiles": [
     "README.md",
+    "MEDIA/SUPP/ANC-Main.pdf",
     "Bible 2.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Big Lore/Big Lore.md",
@@ -130,7 +141,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
   ]
 }
