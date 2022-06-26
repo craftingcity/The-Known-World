@@ -28,6 +28,8 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 
 #### Common to Alaturmen
 ##### Goblin (s.)
+Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
+
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.
 **Size.** Mechanically, you are considered a small creature. You stand at about four feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.
 **Speed.** Your speed is 30 feet per round.
@@ -35,27 +37,36 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
 
 ##### Hobgoblin (s.)
+Hobgoblin are the middlest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
+
 **Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical. 
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 
 ##### Bugbear (s.)
+Bugbears are the largest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
+
 **Age.** You are considered fully mature at sixteen and live to about fifty. Bugbear mothers birth litters of about four children.
 **Size.** Mechanically, your size is medium. You stand at about seven and a half feet tall. You weigh about 300 pounds.
 **Speed.** Your speed is thirty-five feet.
 **Long-Limb'd.** Mechanically, your reach when making melee attacks is five feet longer than it "should" be. Your limbs are not five feet longer than the average seven foot human, but the gangled form of the Goblin presents itself as longer and more powerful limbs in their kin.
-**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
+
 ##### Human (s.)
-**Age.** You are considered fully mature at twenty-five and live till about ninety.
+The humans of Alaturmen have no creation myth of their own - the legends claim that the Goblin and the Elves and the Dragon-kin and the Triton found them as Time Began upon Alaturmen.
+
+**Age.** You are considered fully mature at twenty-five and live till about ninety. Human mothers typically birth only one child per conception, but it is possible that a human could birth quite large litters.
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 ##### Elven (s.)
-**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality.
-**Size.** Mechanically, your size is medium. You stand at about six feet tall.
+The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as 
+
+**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, the Walk from Alaturmen to travel beyond - whatever they may find.
+**Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred twenty-five pounds.
 **Speed.** Your speed is 30 feet per round.
-**Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
+**Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion. 
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
@@ -66,7 +77,7 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 ##### Dragonborn (s.)
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
-**Age.**
+**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. 
 **Size.**
 **Speed.**
 **Draconic Ancestry.**
