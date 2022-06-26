@@ -26,10 +26,33 @@ Your character will inherit certain traits from their heritage, such as their si
 ### Heritages
 #### Common to Alaturmen
 ##### Goblin
+**Age.**
+**Size.**
+**Speed.**
+**Fury of the Small.**
+**Preternatural Agility.**
 ##### Hobgoblin
+**Age.**
+**Size.**
+**Speed.**
+**Versatile Form.**
 ##### Bugbear
+**Age.**
+**Size.**
+**Speed.**
+**Long-Limbed.**
+**Powerful Build.**
 ##### Human
+**Age.**
+**Size.**
+**Speed.**
+**Versatile Form.**
 ##### Elven
+**Age.**
+**Size.**
+**Speed.**
+**Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. 
+**Keen Senses.** You have advantage on Wisdom (Perception) checks (anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
 ##### Dragonborn
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
@@ -47,7 +70,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Size.**
 **Speed.**
 **Darkvision.**
-**.**
+**Resilience and Toughness.**
 ##### Goliath
 ##### Halfling
 ##### Kenku
@@ -91,7 +114,7 @@ The Three Fates crafted the fabric of reality, known as the Weave, and from it m
 
 In the planes that were before time was, the [[Ceilie Courts]]' [[Eladrin Specifics|Eladrin]] made their progeny; ***onnonyamile***; *child of my parent*; the [[Elven Specifics|Elves]]. It was the Eladrin's claim that the Elves were the true heirs of Alaturmen, that it was made for *their* children, and this was what they told their children.
 
-Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its Gods, and the people who came to be came to be *together*.
+Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and the people who came to be came to be *together*.
 
 #### About Our People
 Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making theirs the dominant currency, but each of the "nations" of the world mint their own coin.
@@ -112,7 +135,7 @@ Secondarily, many gain power by learning from their elders, peers, and the readi
 Tertiarily, of course, many people gain power through some physical force; more weaponry, people, or strength.
 
 ##### About Faith
-Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a God – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
+Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a [[Grand Pantheon|God]] – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
 
 #### About Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.
