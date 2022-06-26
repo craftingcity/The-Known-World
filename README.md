@@ -52,9 +52,9 @@ Your character will inherit certain traits from their heritage, such as their si
 **Size.**
 **Speed.**
 **Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
-	- **Spring.** Your base walking speed increases to 35 feet. 
-	- **Summer.** 
-	- **Autumn.**
+	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion. 
+	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.
+	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
@@ -71,10 +71,13 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Age.**
 **Size.**
 **Speed.**
+**Elemental Ancestry (Water).**
 ##### Gnoll
+The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
 **Age.**
 **Size.**
 **Speed.**
+**Fiendish Ancestry.**
 ##### Dwarven
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
@@ -82,7 +85,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Size.**
 **Speed.**
 **Darkvision.**
-**Resilience and Toughness.**
+**Elemental Ancestry (Earth).**
 ##### Goliath
 **Age.**
 **Size.**
@@ -95,22 +98,15 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Age.**
 **Size.**
 **Speed.**
-##### Kobold
-**Age.**
-**Size.**
-**Speed.**
-##### Orc
-**Age.**
-**Size.**
-**Speed.**
 #### Uncommon to Alaturmen
+##### Aaracokra
 ##### Eladrin
 ##### Satyr
 ##### Gnome
-##### Aaracokra
 ##### Giant
-##### Elemental
+##### Genasi
 ##### Mecha
+##### Duergar
 ##### Kuo-Toa
 ### Culture
 #### Nation-States of Coalition
