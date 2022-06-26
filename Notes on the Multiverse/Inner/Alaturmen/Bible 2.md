@@ -27,12 +27,12 @@ The northeast is a temperate forest. This is the area that is least separated by
 Related articles include [[Great Fires]], [[Great Northern Forests]], [[King's Common (language)]]
 
 ### Northwest
-The northwest was a temperate forest, and is now a unique ashen ecosystem (see Morrowind?). This area is seperated from its neighbors by a large burn line in the east and the [[Deakred Range]] at its south. Currently, it is nearly entirely controlled by [[The Church of the White Flame]].
+The northwest was a temperate forest, and is now a unique ashen ecosystem (see Morrowind?). This area is separated from its neighbors by a large burn line in the east and the [[Deakred Range]] at its south. Currently, it is nearly entirely controlled by [[The Church of the White Flame]].
 
 Related articles include [[Great Fires]], [[Great Northern Forests]], [[High Common (language)]]
 
 ### Southwest
-The southwest is a desert. This is the land that Tetrimoc made his home, although the people now rule these lands. He is a religious figure to most here, rather than a mortal dragon as he is. This area is seperated from its neighbors by the [[Deakred Range]] at its north and the [[Alavini River]] at its east.
+The southwest is a desert. This is the land that Tetrimoc made his home, although the people now rule these lands. He is a religious figure to most here, rather than a mortal dragon as he is. This area is separated from its neighbors by the [[Deakred Range]] at its north and the [[Alavini River]] at its east.
 
 Related articles include; [[Tetrimoc]], [[The Outlands]], [[The Golden City]], [[Desertspeech (language)]]
 
@@ -47,7 +47,6 @@ Related articles include: [[The Democratic Combine of Peoples#Notable Factions]]
 In the direct center of [[Central Alaturmen]] and the large cup-end of the [[Deakred Range]] stands [[Coalition City]]. A testament to the ideal of community that is inherent in these people. It is controlled by the [[Guilds of Coalition]]. Members thereof are often regarded in authority, no matter their station.
 
 ### "Non-Nation Entities"
-#### Blood-Hobgoblin Clans
 #### Cenva Minyo
 The Winter Elf Remnants, [[Cenva Minyo]], gather and grow just south of the [[Actstow Hills]], waiting for their moment to enact revenge for their fallen in the [[Great Fires]]. The elves here maintain a path for any Elf to Walk beyond [[Alaturmen]] upon.
 
@@ -57,11 +56,6 @@ Related articles include: [[Elven Specifics#Winter Elves]]
 The [[Dwarven Kingdom Actstow]] is a beating heart of dwarven industrialism. The dwarves here are carved from hill stone, and they have shown grace and honor in the face of uncertainty. Dwarves of the [[Actstow Hills]] are cordial with most, but share a deep ancestral bond with the Winter Elves.
 
 Related articles include: [[Dwarven Specifics#Hill Dwarves]]
-
-#### Dwarven Kingdom Jammu
-The [[Dwarven Kingdom Jammu]] fares as well as its cousins, although it competes with other groups for land and resources in the eternal civil wars of the greater [[The Democratic Combine of Peoples|Combine]].
-
-Related articles include [[Dwarven Specifics#Hill Dwarves]]
 
 #### Dwarven Kingdom Suremantle
 The massive [[Mountain Hall]] is claimed by the [[Dwarven Kingdom Suremantle]] as the ancestral home of the Suremantle clan. The Suremantles gathered strength and secured alliances, but knew that a dwarf's heart belongs to their family first, and they remain minor xenophobes and isolationists to this day.
