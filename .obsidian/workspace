@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "5d15160d40aafd71",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/ANC-Main.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -123,11 +134,11 @@
   "active": "3f2b928a4ecede7d",
   "lastOpenFiles": [
     "README.md",
+    "MEDIA/SUPP/ANC-Main.pdf",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Big Lore/Big Lore.md",
     "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
-    "MEDIA/SUPP/ANC-Main.pdf",
     "Bible 2.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",

@@ -21,15 +21,33 @@ To build a character that fits into this world, I humbly request that you work w
 
 Much like in real life, the concept of "race" is false on Alaturmen, and the surrounding planes. The mechanical benefits that the **Player's Handbook** assigns explicitly to race sucks! I am following in the footsteps of "Ancestry and Culture; An Alternative to Race in 5e" produced by Arcanist Press and splitting those mechanical benefits between your character's heritage and their culture. 
 
-### Heritage
+Your character will inherit certain traits from their heritage, such as their size and speed, and will be affected by their culture by a cultural alignment and ideals (as the form of Ability Score Increases).
+
+### Heritages
 #### Common to Alaturmen
 ##### Goblin
+##### Hobgoblin
+##### Bugbear
 ##### Human
 ##### Elven
 ##### Dragonborn
+Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
+
+**Age.**
+**Size.**
+**Speed.**
+**Draconic Ancestry.**
+
 ##### Triton
 ##### Gnoll
 ##### Dwarven
+The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
+
+**Age.**
+**Size.**
+**Speed.**
+**Darkvision.**
+**.**
 ##### Goliath
 ##### Halfling
 ##### Kenku
