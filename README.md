@@ -24,30 +24,34 @@ Much like in real life, the concept of "race" is false on Alaturmen, and the sur
 Your character will inherit certain traits from their heritage, such as their size and speed, and will be affected by their culture by a cultural alignment and ideals (as the form of Ability Score Increases).
 
 ### Heritages
+Some heritages are marked with an (s.) or an (a.). This corresponds to the ability for this heritage to participate in sexual reproduction (s.) or not (a.). Those heritages that are capable of sexual reproduction are compatible for the purposes of conceiving a child; though this should not be a concern of yours, this simply informs you of some setting specific details of these fantasy people. I'm trying to be cool; this is meant to be much, much more "hey look at these cool aliens i thought up" than "these people are bad".
+
 #### Common to Alaturmen
-##### Goblin
-**Age.** You are considered fully matured at age eight and live to be about thirty-five.
-**Size.** Mechanically, you are considered a small creature. You stand at about four feet tall, though your limbs are built for someone just an inch or two taller than yourself.
-**Speed.** Your speed is 30 feet.
+##### Goblin (s.)
+**Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.
+**Size.** Mechanically, you are considered a small creature. You stand at about four feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.
+**Speed.** Your speed is 30 feet per round.
 **Fury of the Small.** When you damage a creature of a size category larger than yours with an attack or a spell, you may cause the damage to be increased by an amount of extra untyped damage equal to your level. Once you activate this heritage ability, it cannot be activated again until you finish a short or long rest.
-**Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency
-##### Hobgoblin
-**Age.**
-**Size.**
-**Speed.**
+**Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
+
+##### Hobgoblin (s.)
+**Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers 
+**Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
+**Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
-##### Bugbear
+
+##### Bugbear (s.)
 **Age.**
 **Size.**
 **Speed.**
 **Long-Limbed.**
 **Powerful Build.**
-##### Human
+##### Human (s.)
 **Age.**
 **Size.**
 **Speed.**
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
-##### Elven
+##### Elven (s.)
 **Age.**
 **Size.**
 **Speed.**
@@ -59,7 +63,7 @@ Your character will inherit certain traits from their heritage, such as their si
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 
-##### Dragonborn
+##### Dragonborn (s.)
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
 **Age.**
@@ -67,13 +71,13 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Speed.**
 **Draconic Ancestry.**
 
-##### Triton
+##### Triton (s.)
 **Age.** Triton mature at 20 and live to 
 **Size.**
 **Speed.**
 **Amphibious.** You can breathe air and water.
 **Elemental Ancestry (Water).**
-##### Dwarven
+##### Dwarven (a.)
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
 **Age.**
@@ -83,49 +87,49 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Elemental Ancestry (Earth).**
 
 #### Uncommon to Alaturmen
-##### Kobold
+##### Kobold (a.)
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
 **Age.**
 **Size.**
 **Speed.**
 **Blood of Dragon.**
 **Unarmored Defense.**
-##### Orc
+##### Orc (a.)
 **Age.**
 **Size.**
 **Speed.**
 **Unrelenting Endurance.**
-##### Tabaxi
-##### Goliath
+##### Tabaxi (s.)
+##### Goliath (s.)
 **Age.**
 **Size.**
 **Speed.**
 **Powerful Build.**
 
-##### Halfling
+##### Halfling (a.)
 **Age.**
 **Size.**
 **Speed.**
-##### Kenku
+##### Kenku (s.)
 **Age.**
 **Size.**
 **Speed.**
-##### Gnoll
+##### Gnoll (s.)
 The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
 **Age.**
 **Size.**
 **Speed.**
 **Fiendish Ancestry.**
 #### Rare to Alaturmen
-##### Eladrin
-##### Satyr
-##### Gnome
-##### Duergar
-##### Kuo-Toa
-##### Aaracokra
-##### Genasi
-##### Tiefling
-##### Mecha
+##### Eladrin (a.)
+##### Satyr (a.)
+##### Gnome (a.)
+##### Duergar (a.)
+##### Kuo-Toa (s.)
+##### Aaracokra (s.)
+##### Genasi (a.)
+##### Tiefling (s.)
+##### Mecha (a.)
 
 ### Culture
 #### Nation-States of Coalition

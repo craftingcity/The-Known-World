@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "878165d5b74b17de",
-        "type": "split",
-        "children": [
-          {
-            "id": "ee14508abaf0c3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "219de15e263b9b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Heritages/Goblin Specifics.md",
-                "mode": "source"
-              }
-            }
+        "id": "1e45e9f28469a42e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50204849243164
+    "width": 240.50204849243164,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -138,7 +121,7 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "ee14508abaf0c3dd",
+  "active": "1e45e9f28469a42e",
   "lastOpenFiles": [
     "README.md",
     "Notes on the Multiverse/Big Lore/Heritages/Goblin Specifics.md",
