@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bacda7e6f5549a",
+        "id": "40efc180e5ce97b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -120,9 +113,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "a2bacda7e6f5549a",
+  "active": "40efc180e5ce97b7",
   "lastOpenFiles": [
     "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md",
     "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
@@ -130,7 +124,6 @@
     "Notes on the Multiverse/Outer/Limbo/Places/Untitled.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "Notes on the Multiverse/Outer/Wildlands.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Astral Sea.md"
+    "Notes on the Multiverse/Outer/Outer.md"
   ]
 }
