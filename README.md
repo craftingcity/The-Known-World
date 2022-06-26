@@ -35,26 +35,26 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
 
 ##### Hobgoblin (s.)
-**Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers 
+**Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical. 
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 
 ##### Bugbear (s.)
-**Age.**
-**Size.**
-**Speed.**
-**Long-Limbed.**
-**Powerful Build.**
+**Age.** You are considered fully mature at sixteen and live to about fifty. Bugbear mothers birth litters of about four children.
+**Size.** Mechanically, your size is medium. You stand at about seven and a half feet tall. You weigh about 300 pounds.
+**Speed.** Your speed is thirty-five feet.
+**Long-Limb'd.** Mechanically, your reach when making melee attacks is five feet longer than it "should" be. Your limbs are not five feet longer than the average seven foot human, but the gangled form of the Goblin presents itself as longer and more powerful limbs in their kin.
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 ##### Human (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at twenty-five and live till about ninety.
+**Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
+**Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
 ##### Elven (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality.
+**Size.** Mechanically, your size is medium. You stand at about six feet tall.
+**Speed.** Your speed is 30 feet per round.
 **Fey Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion. 
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.
