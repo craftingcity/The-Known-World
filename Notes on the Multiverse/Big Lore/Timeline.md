@@ -6,6 +6,8 @@ tags: timeline-labeled, bookkeeping
 
 ## The Time Before Time
 - Beings of this period cannot be destroyed; only replaced, changed, or banished.
+- Though the Time Before Time is numerically logged and charted, I, the writer of this setting, am a being who experiences time; the beings of the Time Before Time don't. Like, they still don't. Never will.
+- 
 ```timeline-labeled
 date: 99999TBT
 title: Three Fates Weave
@@ -19,70 +21,26 @@ date: 85000TBT
 title: Annam rips, tears, sews - creates.
 content:
 
-Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. 
+Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. These planes birthed many beings, including the [[Immortal Dragons]].
 
-date: 75000TBT
-title: [[Asmodeus]] and [[Demogorgon]] build the [[Nine Hells of Baator]].
-content: 
+date: 03410TBT
+title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
+contnet:
 
-date: 65000TBT
-title: 
-content:
+As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private manner. Moments later, [[Jabbawok]] exiled the [[Queen of Swords]] from the [[Feywild]].
 
-date: 55000TBT
-title:
-content:
+The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his brother committed. The Queen requested [[Limbo]].
 
-date: 45000TBT
-title:
-content:
-
-date: 35000TBT
-title:
-content:
-
-date: 25000TBT
-title: 
-content:
-
-
-date: 20000TBT
-title: 
-content:
-
-
-date: 15000TBT
-title: 
-content:
-
-date: 10000TBT
-title:
-content:
-
-date: 05000TBT
-title:
-content:
-
-date: 02500TBT
-title: 
-content:
-
-date: 01500TBT
-title:
-content:
-
-date: 01000TBT
-title: 
-content:
 
 date: 00010TBT
 title: Eladrin birth the Elves.
 content:
 
 date: 000TBT~AF
-title: The Fall.
+title: [[All-Father Annam]] and [[Tetrimoc]] battle to the death.
 content:
-As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others in this new plane.
+
+The contention between the All-Father and his Immortal children become too much for his eldest son, [[Tetrimoc]], to bear. He met with his father above [[The Tower of Limbo]] and there, he battled him. As immovable object met unstoppable force, [[Tetrimoc]] fell into the All-Father's torso, and [[All-Father Annam]] transformed into the plane known as [[Alaturmen]].
 ```
 
 ## The Age of Beginning
