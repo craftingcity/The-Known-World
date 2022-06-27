@@ -69,7 +69,7 @@ The humans of Alaturmen have no creation myth of their own - the legends claim t
 ##### Elven (s.)
 The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the planes "rightful heir". As the Elves came to Alaturmen, it became clear that this was not the case, though some still hold that "right" to be a truth.
 
-**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
+**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
 **Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred twenty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
@@ -107,16 +107,16 @@ Silver | Cold
 ##### Triton (s.)
 The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
-**Age.** Triton mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.
+**Age.** You are considered fully mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 140 pounds.
 **Speed.** Your speed is 30 feet per round. You gain a swimming speed of 25 feet per round.
 **Amphibious.** You can breathe air and water.
-**Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know the cantrip *Shape Water*.
+**Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know one cantrip *shape water*.
 
 ##### Dwarven (a.)
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
-**Age.** You mature physically at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.
+**Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.
 **Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 210 pounds.
 **Speed.** Your speed is twenty-five feet per round.
 **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
@@ -125,17 +125,22 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 #### Uncommon to Alaturmen
 ##### Kobold (a.)
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
-**Age.** You reach adulthood at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.
-**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about fourty pounds.
+
+**Age.** You are considered fully mature at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.
+**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about forty pounds.
 **Speed.** Your speed is 30 feet per round. 
-**Pack Tactics.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
-**Blood of Dragon.**
-**Unarmored Defense.**
+**Pack Brain.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+**Blood of Dragon.** You have advantage on saving throws to avoid or end the frightened condition on yourself. You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).
+
 ##### Orc (a.)
-**Age.**
-**Size.**
+Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
+
+**Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with  imparting Woven life into the severed flesh of any number of Orc.
+**Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 240 pounds.
 **Speed.**
-**Unrelenting Endurance.**
+**Unrelenting Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 ##### Tabaxi (s.)
 ##### Goliath (s.)
 **Age.**
