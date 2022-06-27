@@ -161,11 +161,13 @@ The origins of Goliath are shrouded in myth, with some saying that their ancesto
 **Powerful Build.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ##### Halfling (a.)
-Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters.
+Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
 
-**Age.**
-**Size.**
-**Speed.**
+**Age.** Halfling are considered fully mature at twenty five, and live until about one-hundred sixty. Halfling are born of story and creativity, they can become at any point in their life full of history and connection. Many halfling are cousin, sibling, parent, and child to many other halflings, as most of these halflings begin to tell stories of their family, they become too.
+**Size.** Mechanically, your size is small. You stand at about three feet tall. You weigh about sixty pounds.
+**Speed.** Your speed is 25 feet per round.
+**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
+**.**
 
 ##### Kenku (s.)
 **Age.**
