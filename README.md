@@ -151,6 +151,14 @@ The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteou
 **Darkvision.** You can see in dim light within 45 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
 
+##### Kenku (s.)
+The Kenku have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
+
+**Age.** You are considered fully mature at twelve and you live until about sixty.
+**Size.** Mechanically, your size is Small. You stand at two and a half feet tall. You weigh about fifty pounds.
+**Speed.** Your speed is 30 feet per round. You gain a hovering speed of 5 feet per round.
+**Mimicry.** You can precisely mimic sounds, including voices, you have heard. A creature that hears the sounds you make can only tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
+
 ##### Goliath (s.)
 The origins of Goliath are shrouded in myth, with some saying that their ancestors were born of Ice Giants.
 
@@ -166,13 +174,8 @@ Halfling are born to the Weave itself, the conscious form of a story of someone 
 **Age.** Halfling are considered fully mature at twenty five, and live until about one-hundred sixty. Halfling are born of story and creativity, they can become at any point in their life full of history and connection. Many halfling are cousin, sibling, parent, and child to many other halflings, as most of these halflings begin to tell stories of their family, they become too.
 **Size.** Mechanically, your size is small. You stand at about three feet tall. You weigh about sixty pounds.
 **Speed.** Your speed is 25 feet per round.
-**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
-**.**
-
-##### Kenku (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
+**Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 
 ##### Gnoll (s.)
 The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
@@ -185,9 +188,13 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 
 #### Rare to Alaturmen
 ##### Eladrin (a.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
+**Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
+**Speed.** Your speed is 30 feet per round.
+**Ceilie-Fey Born.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain the following traits;
+- **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
+- **Fey-Step.** You may cast *misty step* as a bonus action. After using this feature, you cannot use it again unti you complete a short or long rest.
+**Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 
 ##### Satyr (a.)
 **Age.**
