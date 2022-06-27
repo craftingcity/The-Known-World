@@ -136,12 +136,20 @@ Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a 
 ##### Orc (a.)
 Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
 
-**Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with  imparting Woven life into the severed flesh of any number of Orc.
+**Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 240 pounds.
 **Speed.**
 **Unrelenting Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
 ##### Tabaxi (s.)
+**Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.
+**Size.** Mechanically, your size is Medium. You stand at about four and a half feet tall.
+**Speed.**
+**Darkvision.**
+**Feline Dexterity.**
+**Natural Claws.**
+
 ##### Goliath (s.)
 **Age.**
 **Size.**
@@ -152,27 +160,76 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 **Age.**
 **Size.**
 **Speed.**
+
 ##### Kenku (s.)
 **Age.**
 **Size.**
 **Speed.**
+
 ##### Gnoll (s.)
 The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
+
+**Age.** You are considered fully matured at eight and live to about forty.
+**Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 220 pounds.
+**Speed.** Your speed is thirty-five feet per round.
+**Natural Maw.** You are proficient with a *Bite* attack, which is a melee weapon attack that deals 1d6 piercing damage plus your Strength modifier. This *Bite* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
+**Fiendish Ancestry.** You are proficient in the Intimidation skill. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make up to one *Bite* attack.
+
+#### Rare to Alaturmen
+##### Eladrin (a.)
 **Age.**
 **Size.**
 **Speed.**
-**Fiendish Ancestry.**
-#### Rare to Alaturmen
-##### Eladrin (a.)
+
 ##### Satyr (a.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Gnome (a.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Duergar (a.)
+**Age.**
+**Size.**
+**Speed.**
+
+##### Kalix (s.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Kuo-Toa (s.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Aaracokra (s.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Genasi (a.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Tiefling (s.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Mecha (a.)
+**Age.**
+**Size.**
+**Speed.**
+
 ##### Aasimar (a.)
+**Age.**
+**Size.**
+**Speed.**
 
 ### Culture
 #### Nation-States of Coalition
