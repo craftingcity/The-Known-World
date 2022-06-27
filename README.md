@@ -119,7 +119,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.
 **Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 210 pounds.
 **Speed.** Your speed is twenty-five feet per round.
-**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 #### Uncommon to Alaturmen
@@ -144,11 +144,10 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 
 ##### Tabaxi (s.)
 **Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.
-**Size.** Mechanically, your size is Medium. You stand at about four and a half feet tall.
-**Speed.**
-**Darkvision.**
-**Feline Dexterity.**
-**Natural Claws.**
+**Size.** Mechanically, your size is Medium. You stand at about four and a half feet tall. You weigh about one-hundred pounds.
+**Speed.** Your speed is thirty-five feet per round.
+**Darkvision.** You can see in dim light within 45 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
 
 ##### Goliath (s.)
 **Age.**
