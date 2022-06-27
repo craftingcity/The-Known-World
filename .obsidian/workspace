@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 26 22.md"
+                "file": "Game Notes/Mechanics/Homebrew Alchemy System.md"
               }
             }
           }
@@ -134,6 +134,8 @@
   },
   "active": "e74b47c43b1f587e",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
     "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
@@ -141,8 +143,6 @@
     "Notes on the Multiverse/Big Lore/Heritages/Goblin Specifics.md",
     "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md",
     "MEDIA/SUPP/ANC-Main.pdf",
-    "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Big Lore/Big Lore.md"
+    "Game Notes/Game Notes.md"
   ]
 }
