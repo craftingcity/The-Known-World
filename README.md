@@ -105,17 +105,18 @@ Gold | Fire
 Silver | Cold
 
 ##### Triton (s.)
-The Triton of Alaturmen 
+The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
 **Age.** Triton mature at twenty and live to over two hundred.
-**Size.**
+**Size.** Mechanically, your size is Medium. You stand at about five feet tall.
 **Speed.** Your speed is 30 feet per round. You gain a swimming speed of 25 feet per round.
 **Amphibious.** You can breathe air and water.
-**Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
+**Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know the cantrip *Shape Water*.
+
 ##### Dwarven (a.)
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
-**Age.**
+**Age.** You mature physically at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. This gives dwarves no reason to participate in gender.
 **Size.**
 **Speed.**
 **Darkvision.**
