@@ -14,12 +14,29 @@ Giant's Toe is the Keep in the Redl'nds, the fiery eastern part of [[The Holyl'n
 ### Encounters
 ## Greater Map
 ### Ground Floor
-![[GiantsToe - Upper.png]]
+![[GiantsToe - Upper.pdf]]
 #### What Dwells Here?
 ##### Giants and Kin
 ##### Azir
 ##### Lerrin, False Prisoner
 #### Exploring this place...
+##### 1. Guard-Lock
+##### 2. Horde
+##### 3. Rec Room
+##### 4. 
+##### 5.
+##### 6.
+##### 7.
+##### 8.
+##### 9.
+##### 10.
+##### 11.
+##### 12.
+##### 13.
+##### 14. Mass Barrack
+##### 15. Entryway
+##### 16. Guard-Lock
+##### 17. Prison
 ### Lower Floor
 ![[GiantsToe- Lower.png]]
 #### What Dwells Here?
