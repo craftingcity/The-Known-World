@@ -78,10 +78,11 @@ The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the 
 ##### Dragonborn (s.)
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
-**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn parents pass their Draconic Ancestry on to their children.
-**Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 180 pounds.
+**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another. Dragonborn 
+**Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 220 pounds.
 **Speed.** Your speed is 30 feet per round.
-**Draconic Ancestry.**
+**Draconic Ancestry.** You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain.
+	- **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in your choice of a 15' cone or a 30' line. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest.
 
 ##### Triton (s.)
 The Triton of Alaturmen 
