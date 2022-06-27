@@ -36,7 +36,7 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
 
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.
-**Size.** Mechanically, you are considered a small creature. You stand at about four feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.
+**Size.** Mechanically, you are considered a small creature. You stand at about three and a half feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.
 **Speed.** Your speed is 30 feet per round.
 **Fury of the Small.** When you damage a creature of a size category larger than yours with an attack or a spell, you may cause the damage to be increased by an amount of extra untyped damage equal to your level. Once you activate this heritage ability, it cannot be activated again until you finish a short or long rest.
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
@@ -83,7 +83,7 @@ The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the 
 ##### Dragonborn (s.)
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
-**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another. 
+**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another. 
 **Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 220 pounds.
 **Speed.** Your speed is 30 feet per round.
 **Draconic Ancestry.** You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain.
@@ -107,8 +107,8 @@ Silver | Cold
 ##### Triton (s.)
 The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
-**Age.** Triton mature at twenty and live to over two hundred.
-**Size.** Mechanically, your size is Medium. You stand at about five feet tall.
+**Age.** Triton mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.
+**Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 140 pounds.
 **Speed.** Your speed is 30 feet per round. You gain a swimming speed of 25 feet per round.
 **Amphibious.** You can breathe air and water.
 **Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know the cantrip *Shape Water*.
@@ -116,18 +116,19 @@ The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are large
 ##### Dwarven (a.)
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
-**Age.** You mature physically at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. This gives dwarves no reason to participate in gender.
-**Size.**
-**Speed.**
-**Darkvision.**
-**Elemental Ancestry (Earth).**
+**Age.** You mature physically at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.
+**Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 210 pounds.
+**Speed.** Your speed is twenty-five feet per round.
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 #### Uncommon to Alaturmen
 ##### Kobold (a.)
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You reach adulthood at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.
+**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about fourty pounds.
+**Speed.** Your speed is 30 feet per round. 
+**Pack Tactics.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 **Blood of Dragon.**
 **Unarmored Defense.**
 ##### Orc (a.)
