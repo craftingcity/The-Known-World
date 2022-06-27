@@ -60,10 +60,11 @@ The humans of Alaturmen have no creation myth of their own - the legends claim t
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.
-##### Elven (s.)
-The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as 
 
-**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, the Walk from Alaturmen to travel beyond - whatever they may find.
+##### Elven (s.)
+The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the planes "rightful heir". As the Elves came to Alaturmen, it became clear that this was not the case, though some still hold that "right" to be a truth.
+
+**Age.** Although Elves reach physical maturity at about twenty five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
 **Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred twenty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
@@ -71,19 +72,21 @@ The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
-**Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the "take-ten" traditionally used for passive-style checks. Call it plus 4.).
+**Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the 10 traditionally used for passive-style checks. Call it plus 4.).
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 
 ##### Dragonborn (s.)
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
-**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. 
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn parents pass their Draconic Ancestry on to their children.
+**Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 180 pounds.
+**Speed.** Your speed is 30 feet per round.
 **Draconic Ancestry.**
 
 ##### Triton (s.)
-**Age.** Triton mature at 20 and live to 
+The Tritons of Alaturmen were exiled from the [[Plane of Water]], and they all arrived at the Fall of Tetrimoc.
+
+**Age.** Triton mature at 20 and live to over two hundred.
 **Size.**
 **Speed.**
 **Amphibious.** You can breathe air and water.
