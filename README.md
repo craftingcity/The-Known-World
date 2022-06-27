@@ -1,6 +1,10 @@
 # A Player's Guide to Alaturmen
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.
 > \- [[Eladrithal Greystone]] to his parents
+
+Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as my modern perspective.
+
+Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods.
 ## Using this Document.
 I built this doc as an ObsidianMD vault in the near-end of autumn of 2021. I have not finished this doc. Eventually this may turn into a campaign setting book dealio.
 
@@ -82,7 +86,22 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 220 pounds.
 **Speed.** Your speed is 30 feet per round.
 **Draconic Ancestry.** You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain.
-	- **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in your choice of a 15' cone or a 30' line. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest.
+- **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in your choice of a 15' cone or a 30' line. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest.
+- **Chromatic Warding.** Starting at 3rd level, as an action, you can channel your draconic energies to protect yourself. For 10 minutes, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can’t do so again until you finish a long rest.
+
+Progenitor Dragon Type | Damage Type
+--- | ---
+Black | Acid
+Blue | Lightning
+Green | Poison
+Red | Fire
+White | Cold
+Yellow | Fire
+Brass | Fire
+Bronze | Lightning
+Copper | Acid
+Gold | Fire
+Silver | Cold
 
 ##### Triton (s.)
 The Triton of Alaturmen 
