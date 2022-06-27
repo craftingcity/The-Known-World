@@ -31,9 +31,13 @@ In exchange for "a boon", the [[All-Father Annam]] build the [[Nine Hells of Baa
 
 Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the planes of Law and Good, and he built them high in the multiverse, so far that none of his family could reach - spare his parents. There, Souls collected and formed [[Mecha Specifics]] and [[Aasimar Specifics]].
 
+When the [[Immortal Dragons]] came to him and asked for a plane of their own, for they grow tired of sharing with the other Titans, he said, 'Of course, my friends', and he crafted for them [[Abyss]] and chuckled to himself.
 
+date: 65627TBT
+title: 
+content:
 
-date: 03410TBT
+date: 23410TBT
 title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
 contnet:
 
@@ -41,6 +45,9 @@ As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private m
 
 The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his brother committed. The Queen requested [[Limbo]].
 
+date: 12537TBT
+title: Demons fight Devils. The [[Blood Wards of Fiends]] begins.
+content:
 
 date: 00010TBT
 title: Eladrin birth the Elves.

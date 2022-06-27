@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
               }
             }
           }
@@ -139,10 +139,10 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "63628a5288ac7ac8",
+  "active": "0c0bc51ae06f7f47",
   "lastOpenFiles": [
-    "README.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
+    "README.md",
     "Notes on the Multiverse/Outer/Outer.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
