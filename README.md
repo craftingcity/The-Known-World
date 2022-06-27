@@ -144,6 +144,7 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 ##### Genasi (a.)
 ##### Tiefling (s.)
 ##### Mecha (a.)
+##### Aasimar (a.)
 
 ### Culture
 #### Nation-States of Coalition
