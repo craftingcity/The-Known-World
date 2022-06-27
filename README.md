@@ -1,8 +1,8 @@
 # A Player's Guide to Alaturmen
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.
-> \- [[Eladrithal Greystone]] to his parents
+> \- [[Eladrithal Greystone]] to his parents in the [[Feywild]]
 
-Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as my modern perspective.
+Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the full intention of juicing the racism and sexism out the window of the moving car that is modern table-top role-playing.
 
 Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. Saving the inter-party romance or sacrificing everyone and destroying a great evil? 
 
@@ -107,11 +107,11 @@ Silver | Cold
 ##### Triton (s.)
 The Triton of Alaturmen 
 
-**Age.** Triton mature at 20 and live to over two hundred.
+**Age.** Triton mature at twenty and live to over two hundred.
 **Size.**
-**Speed.**
+**Speed.** Your speed is 30 feet per round. You gain a swimming speed of 25 feet per round.
 **Amphibious.** You can breathe air and water.
-**Elemental Ancestry (Water).**
+**Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
 ##### Dwarven (a.)
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
