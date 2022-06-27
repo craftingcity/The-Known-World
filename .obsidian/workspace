@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1e45e9f28469a42e",
+        "id": "353493789e94fc78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1049a79b66dcf05c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
               }
             }
           }
@@ -132,8 +121,9 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "1049a79b66dcf05c",
+  "active": "353493789e94fc78",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
     "README.md",
     "Notes on the Multiverse/Big Lore/Heritages/Goblin Specifics.md",
     "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md",
@@ -142,7 +132,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Big Lore/Big Lore.md",
     "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
-    "Bible 2.md",
-    "Notes on the Multiverse/Inner/Inner.md"
+    "Bible 2.md"
   ]
 }
