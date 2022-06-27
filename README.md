@@ -84,7 +84,7 @@ Common wisdom tells us that the Dragonborn were quite literally born to a humano
 **Draconic Ancestry.**
 
 ##### Triton (s.)
-The Tritons of Alaturmen were exiled from the [[Plane of Water]], and they all arrived at the Fall of Tetrimoc.
+The Triton of Alaturmen 
 
 **Age.** Triton mature at 20 and live to over two hundred.
 **Size.**

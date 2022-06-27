@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "932b62adc3fffbb5",
+        "id": "63628a5288ac7ac8",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0c0bc51ae06f7f47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+            "mode": "source"
           }
         }
       }
@@ -51,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50204849243164,
-    "collapsed": true
+    "width": 240.50204849243164
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
               }
             }
           }
@@ -120,17 +131,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "932b62adc3fffbb5",
+  "active": "0c0bc51ae06f7f47",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Outer/Outer.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "README.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
-    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
-    "README.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Goblin Specifics.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md",
-    "MEDIA/SUPP/ANC-Main.pdf"
+    "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
   ]
 }

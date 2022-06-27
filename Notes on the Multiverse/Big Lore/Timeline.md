@@ -19,13 +19,11 @@ date: 85000TBT
 title: Annam rips, tears, sews - creates.
 content:
 
-Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material.
+Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. 
 
 date: 75000TBT
-title: The Titans form planes the outer planes.
+title: [[Asmodeus]] and [[Demogorgon]] build the [[Nine Hells of Baator]].
 content: 
-
-[[Asmodeus]] builds [[The Nine Hells of Baator]] below the [[Plane of Fire]] and births his devils there with his blood. The [[Demogorgon]] swims to the bottom of the [[Plane of Water]] and carves the [[Abyss]]
 
 date: 65000TBT
 title: 
@@ -44,16 +42,14 @@ title:
 content:
 
 date: 25000TBT
-title: Demons and Devils fail to concile. The [[Blood War]] begins.
+title: 
 content:
 
-The tension between the spawn of [[Asmodeus]] and the spawn of [[Demogorgon]] make war across the "lower planes" of [[The Nine Hells of Baator]]
 
 date: 20000TBT
-title: [[Demogorgon]]'s child bursts from [[Abyss]], through the [[Plane of Earth]].
+title: 
 content:
 
-Turruk, a demonic son of [[Demogorgon]], attempts to controll the power of the [[Plane of Earth]]. [[All-Father Annam]] curses him with madness, and banishes him from the [[Abyss]], capturing him in a plane: the [[Underdark]]. Turruk will spend the rest of his exsistence carving this plane in stone as punishment for his hubris. The denizens of this place call him the "[[Mad-King Turruk]]".
 
 date: 15000TBT
 title: 
@@ -68,7 +64,7 @@ title:
 content:
 
 date: 02500TBT
-title: Unseelie exodus into the [[Underdark]].
+title: 
 content:
 
 date: 01500TBT
