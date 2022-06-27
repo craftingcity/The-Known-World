@@ -142,7 +142,18 @@
     "minotaur",
     "ankheg",
     "wurm",
-    "gamifying"
+    "gamifying",
+    "dunamancy",
+    "Alaturmenian",
+    "goblinoid",
+    "cantrip",
+    "halflings"
   ],
-  "legacyEditor": true
+  "legacyEditor": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

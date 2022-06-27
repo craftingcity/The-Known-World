@@ -1,17 +1,15 @@
 ---
-tags: disambiguation, folderfile
+tags: folderfile, planes
 aliases:
 ---
+# Mechanis
+## The Outer Plane of Ideal Law
 
-# Mechanis Overview
+
+###### Table of Contents
 %% Begin Waypoint %%
-- **[[Notes on the Multiverse/Outer/Mechanis/Mechanis]]**
+- **[[Mechanis]]**
+	- **Places**
 
 %% End Waypoint %%
-*This page describes a #disambiguation.*
-
-Mechanis could describe...
-
-Mechanis, the [[Mechanis(plane)|plane]] of ideological law.
-Mechanis, the [[Mechanis(language)]] of the inhabitants of Mechanis the plane.
  

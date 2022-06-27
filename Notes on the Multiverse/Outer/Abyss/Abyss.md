@@ -1,19 +1,26 @@
 ---
-tags: stub
+tags: folderfile, planes
 aliases:
 ---
+# Abyss
+## The Outer Plane of Ideal Chaos
 
-*This page is a #stub . You can help by expanding it!*
+## The Demon Lords
+The five layers of the Abyss are each ruled by a demon lord. Demons and their lords pray for chaos more than anything (including Evil!).
 
-# Demon Lords and their Layers
-There are five layers to the Abyss, each ruled by a demon lord. Demons and their lords pray for chaos more than anything (including Evil).
+### [[Demogorgon]], Lord of All Demons, Prince of the Abyss
 
-## [[Demogorgon]], Lord of All Demons, Prince of the Abyss
+### [[Orcus]], Lord of Undead, Prince of [[Thanatos]]
 
-## [[Orcus]], Lord of Undead, Prince of [[Thanatos]]
+### [[Graz'zt]], Lord of Pleasure, Prince of [[Hydonga]]
 
-## [[Graz'zt]], Lord of Pleasure, Prince of [[Hydonga]]
+### [[Baphomet]], Lord of Beasts, Prince of [[Endless Maze]]
 
-## [[Baphomet]], Lord of Beasts, Prince of [[Endless Maze]]
+### [[Juiblex]], Lord of Ooze, Prince of [[Pandemonium|Nothing]]
 
-## [[Juiblex]], Lord of Ooze, Prince of Nothing
+###### Table of Contents
+%% Begin Waypoint %%
+- **[[Abyss]]**
+	- **Places**
+
+%% End Waypoint %%

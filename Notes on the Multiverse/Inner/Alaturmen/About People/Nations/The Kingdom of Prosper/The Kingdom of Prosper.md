@@ -11,7 +11,7 @@ Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]]
 ## History
 For much of the first century, "The Kingdom of Prosper", it was an idea in a young hobgoblin's head. 
 
-In the very beginning, people made homes and farms here, and quickly the [[Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Blood Hobgoblin Clan Pact]] and took land from the hobgoblins to make their own holdings larger. 
+In the very beginning, people made homes and farms here, and quickly the [[Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Blood-Hobgoblin Clan Pact]] and took land from the hobgoblins to make their own holdings larger. 
 
 In [[Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. In the end, it was a great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
 
@@ -28,7 +28,7 @@ The population pay taxes to maintain the cities and kingdom operations, but much
 The citizens of the Kingdom generally are of Human or Goblin descent, or both in a large number of cases, though the Kingdom turns away none who swear fealty to the [[Nobles of Prosper]] and [[Arthur Simonson|The Great Adventurer King]].
 
 #### Language
-The common language in Prosper is known as "the [[King's Common]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
+The common language in Prosper is known as "the [[King's Common (language)]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
 
 #### Beliefs
 Citizens of Prosper are culturally bonded by the [[Unification]] and their genuine love for the genuinely good [[Arthur Simonson|King Of Prosper]]. 

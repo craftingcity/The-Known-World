@@ -34,7 +34,7 @@ Many people in [[The Golden City]] tell tales of the cannibalistic nomads of the
 People of all heritage come to behold the city in the desert, but the first people that came here, to [[Tetrimoc]]'s lair, were Human. Gnoll and Goblin are not welcome in the Golden City, but they are here anyways.
 
 #### Language
-The language spoken in the City in Gold is a dialect of [[Desertspeech]] that heavily favors its [[Draconic]] roots.
+The language spoken in the City in Gold is a dialect of [[Desertspeech (language)]] that heavily favors its [[Draconic (language)]] roots.
 
 #### Beliefs
 The people of the City in Gold worship [[Tetrimoc]]. The [[Golden Claws]] have claimed to speak for [[Tetrimoc]] in his absence, and the people have believed them and accepted their harsh rule.

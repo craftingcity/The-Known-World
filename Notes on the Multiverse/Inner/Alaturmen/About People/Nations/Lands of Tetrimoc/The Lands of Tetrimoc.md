@@ -14,7 +14,7 @@ The Claws also patrol around the area claimed for [[Tetrimoc]] on their war wyve
 While the Thieves are often left to their own devices, [[The Golden City]] hosts [[Tetrimoc's Tournament of Glory]] for the most affluent class to spectate. Many Thieves come and fight for sport here, and a Thief that wins is given glorious treasure; this bounty is always enough to move the winners and their family many many classes above where they were before. This is supposedly sponsored by [[Tetrimoc]]'s horde.
 
 ### Population Distribution and Language
-The desert's common is largely based on the languages of Dragons and Gnolls; draconic and abyssal respectively. This language is called [[Desertspeech]].
+The desert's common is largely based on the languages of Dragons and Gnolls; draconic and abyssal respectively. This language is called [[Desertspeech (language)]].
 
 Population distribution is as follows; one may...
 - commonly find the "races of men", such as human, halflings, dwarves

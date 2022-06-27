@@ -61,11 +61,16 @@ The "outer" planes are at the lowest point in the waterfall-esq structure of the
 Souls who pass beyond their material planes find themselves drawn to one of these planes, where ostensibly they would spend the rest of eternity.
 
 #### [[Mechanis]], the Land of Law
+Task: maintain the structure of reality.
 
-#### [[The Abyss]], the Land of Chaos
+#### [[Abyss]], the Land of Chaos
+Task: maintain the novelty of reality.
 
 #### [[Elysium]], the Land of Good
+Task: maintain moral good and promote eternal happiness.
 
-#### [[Nine Hells]], the Land of Evil
+#### [[Hell]], the Land of Evil
+Task: maintain moral evil and promote eternal hatred.
 
 #### [[Limbo]], the Land of Neutrality
+Task: maintain neutrality throughout reality.

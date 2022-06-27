@@ -1,14 +1,27 @@
 ---
-tags:
+tags: bible
 aliases:
 ---
+# The Weave...
 
-The essence of the world is a hyper mutable material given the name Weave. This is because the great creation legend, that of the whole multiverse, states that it was a trio of Weavers who created the multiverse from their own essence.
+The essence of the world is a hyper mutable material latent in all things, given the name Weave. This name stems from the multiverse's great creation legend; the trio of Weavers who created the multiverse from their own essence, weaving together reality itself.
 
-In everything, there is the Weave. This is the basis of Arcane magic.
+In everything, there is the Weave.
 
-Wizards have learned the incantations (generally originating from [[Draconic]], [[Celestial]], [[Infernal]], [[Abyssal]], or [[Mechanis(language)]]) to manipulate the latent Weave in objects and terrain around them, this is true of Druids as well, although their learning is more commonly imparted by elders and spirits than teachers and tomes. 
+## Elemental ([[Primordial (language)]])
+When the first beings began to create, the Elements came before all else. The four elemental planes burst with energy, waiting for something to channel into. Those mortals that hold power granted by these forces are known as Druids and Rangers. Where the Druids have sworn themselves wholly and Faith-fully to an Element and form Circles with their peers, Rangers harness the power of *all* Elements through their Faith in Nature.
 
-Sorcerers, Warlocks, and Bards are all similar, yet different. Much of the time, a member of any will have the ability to cast and sometimes even control their magic with little to no assistance. This is because these members have more direct access to rawer Weave, by birth-rite, purchase (ie once their full deal is complete, the claimed Weave is the Warlock's, no longer their Patron's being loaned. most Patrons circumvent this by setting their price at indefinite servitude, or a portion of the soul, or some other massive pricetag), or creativity respectively.
+## Fey ([[Sylvan (language)]])
+The first inhabited planes know magic as the creative force of will of their superiors. This style of magic is creative, and some theories claim that it is how the Weave was fabricated in the first place. Those mortals that hold power granted by these forces are known as Bards or Trickster-Rouges.
 
-Clerics and Paladins are often closer to Warlocks than they would wish to admit, but they do gain their powers in exchange for Faith, the lifeblood of a God. Paladins need not make direct contact with a God, but the Oath that they swear, to themselves, to another, to a force, is edible as Faith to most any God, so most any God accepts Oaths that they enjoy even if they are not sworn to them. If a Paladin swears an Oath to the God of Peace, they may be inclined to genuinely deny the exchange, or, exchange this oath for something else from a God who more enjoy it more. Clerics deal directly with their deities (again, like a warlock does), and exchange their Faith for power in a manner that puts them in the role of a servant to their master, lest their power be taken from them.
+## Divine ([[Celestial (language)]])
+As the people of the multiverse came together, they produced Faith, and delivered it unto their own Gods, manipulating the Weave to form these new beings of Faith. Those mortals that hold power granted by these forces are known as Clerics, Warlocks, and Paladins. 
+
+Clerics bind themselves with their worship, and in doing so devote themselves entirely to one God, exchanging their now-amplified Faith for their God's divine interventions and magics. 
+
+Warlocks bind themselves with their purchase, exchanging something of value, such as a portion or whole of the Soul, the densest form of Faith. 
+
+Paladins bind themselves to their Oath. A paladin has the upmost Faith in their Oath, and to a God, this is nearly as dense a form of Faith as the Soul.
+
+## Arcane [[Draconic (language)]]
+The Weave Arcane is the method by which many mortals manually manipulate the Weave itself. These mortals are known as Mages, a title which itself could be subdivided further into those who have learned to master the methods of the Weave Arcane, known as Wizards, and those who somehow access the Weave Arcane by methods they do not fully understand, known as Sorcerers or Eldritch Knights.

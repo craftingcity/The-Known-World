@@ -23,6 +23,7 @@ aliases:
 			- [[Golden Claws]]
 			- [[Tetramocal Congregation]]
 		- **Local Lore**
+			- [[First Invasion of Orcus]]
 			- [[Tetrimoc's Journal]]
 			- [[Tetrimoc's Tournament of Glory]]
 			- [[The Code of Thieves]]

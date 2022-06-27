@@ -11,12 +11,12 @@ aliases:
 
 - Alergra's Cloak of Diversion
 	- > Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
-	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+	- Currently possessed by [[Alergra Barrowinch]]
 
 ## Wonderous Items
 - The Quick Time
-	- > A small hourglass that has major chronomantic power, crafted by [[The Grand Archmage Alergra Barrowinch]]
-	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+	- > A small hourglass that has major chronomantic power, crafted by [[Alergra Barrowinch]]
+	- Currently possessed by [[Alergra Barrowinch]]
 
 - Arthur's Ring of Regeneration
 	- > A simple golden ring that contains a very powerful incantation, granting the attuned regeneration from injury and immunity to age, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
@@ -35,7 +35,7 @@ aliases:
 
 - Alergra's Staff of Power
 	- > Alergra's own Staff of Power, created by her and enchanted with her most common spells.
-	- Currently possessed by [[The Grand Archmage Alergra Barrowinch]]
+	- Currently possessed by [[Alergra Barrowinch]]
 
 - The Tuber
 	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]

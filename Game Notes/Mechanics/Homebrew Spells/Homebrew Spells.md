@@ -4,8 +4,8 @@ aliases:
 ---
 
 # Homebrew Spells
+see [[Here lie my suppliments...]]
 %% Begin Waypoint %%
 - **[[Homebrew Spells]]**
-	- [[Spells from Collective]]
 
 %% End Waypoint %%

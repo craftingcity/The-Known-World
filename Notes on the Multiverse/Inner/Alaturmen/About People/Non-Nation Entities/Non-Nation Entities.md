@@ -7,10 +7,18 @@ aliases:
 %% Begin Waypoint %%
 - **[[Non-Nation Entities]]**
 	- **Blood Clans**
-		- [[Blood Hobgoblin Clan Pact]]
-		- [[Northeastern Hobgoblin Territories]]
+		- [[Blood-Hobgoblin Clan Pact]]
+		- [[Blood-Hobgoblin Clan Territories]]
+		- **Holdings**
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
+		- [[Communicae]]
+		- **[[Guilds of Coalition]]**
+			- [[Guild of Adventurers]]
+			- [[Guild of Crafters]]
+			- [[Guild of Merchants]]
+			- [[Guild of Wizards]]
+			- [[Ranger's Guild]]
 	- **Druids of the Idols**
 		- [[Druids of Animan]]
 		- [[Druids of Aquan]]
