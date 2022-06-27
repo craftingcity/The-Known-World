@@ -56,7 +56,7 @@ Bugbears are the largest of the goblinoid. All goblinoid share heritage rooted i
 **Size.** Mechanically, your size is medium. You stand at about seven and a half feet tall. You weigh about 300 pounds.
 **Speed.** Your speed is thirty-five feet.
 **Long-Limb'd.** Mechanically, your reach when making melee attacks is five feet longer than it "should" be. Your limbs are not five feet longer than the average seven foot human, but the gangled form of the Goblin presents itself as longer and more powerful limbs in their kin.
-**Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
+**Powerful Build.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ##### Human (s.)
 The humans of Alaturmen have no creation myth of their own - the legends claim that the Goblin and the Elves and the Dragon-kin and the Triton found them as Time Began upon Alaturmen.
@@ -70,7 +70,7 @@ The humans of Alaturmen have no creation myth of their own - the legends claim t
 The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the planes "rightful heir". As the Elves came to Alaturmen, it became clear that this was not the case, though some still hold that "right" to be a truth.
 
 **Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
-**Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred twenty-five pounds.
+**Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion. 
@@ -84,7 +84,7 @@ The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the 
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
 **Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another. 
-**Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 220 pounds.
+**Size.** Mechanically, you are considered Medium. You stand about six feet tall. You weigh about 240 pounds.
 **Speed.** Your speed is 30 feet per round.
 **Draconic Ancestry.** You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain.
 - **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in your choice of a 15' cone or a 30' line. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest.
@@ -108,7 +108,7 @@ Silver | Cold
 The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
 **Age.** You are considered fully mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.
-**Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 140 pounds.
+**Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 160 pounds.
 **Speed.** Your speed is 30 feet per round. You gain a swimming speed of 25 feet per round.
 **Amphibious.** You can breathe air and water.
 **Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know one cantrip *shape water*.
@@ -117,7 +117,7 @@ The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are large
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.
-**Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 210 pounds.
+**Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 230 pounds.
 **Speed.** Your speed is twenty-five feet per round.
 **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
@@ -127,7 +127,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
 
 **Age.** You are considered fully mature at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.
-**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about forty pounds.
+**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.
 **Speed.** Your speed is 30 feet per round. 
 **Pack Brain.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 **Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
@@ -137,12 +137,14 @@ Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a 
 Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.
-**Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 240 pounds.
+**Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 260 pounds.
 **Speed.**
 **Unrelenting Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 ##### Tabaxi (s.)
+The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
+
 **Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.
 **Size.** Mechanically, your size is Medium. You stand at about four and a half feet tall. You weigh about one-hundred pounds.
 **Speed.** Your speed is thirty-five feet per round.
@@ -150,12 +152,17 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 **Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
 
 ##### Goliath (s.)
-**Age.**
-**Size.**
-**Speed.**
-**Powerful Build.**
+The origins of Goliath are shrouded in myth, with some saying that their ancestors were born of Ice Giants.
+
+**Age.** You are considered fully matured at twenty and live until about one-hundred. Goliath mothers always birth children in identical twins. Goliath, though they do participate in sexual reproduction, have no reason to
+**Size.** Mechanically, your size is medium. You stand at about eight and a half feet tall. You weigh about 280 pounds.
+**Speed.** Your speed is 30 feet per round.
+**Enduring Flesh.** When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
+**Powerful Build.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ##### Halfling (a.)
+Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters.
+
 **Age.**
 **Size.**
 **Speed.**
