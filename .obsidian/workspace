@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Grand Notepad.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "cb83e68f6a5c2520",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.017922536728275387}"
+            },
+            {
+              "leaf": "cb83e68f6a5c2520",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0.018950437317784258}"
             },
             {
               "leaf": "cb83e68f6a5c2520",
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -183,9 +189,9 @@
   },
   "active": "cb83e68f6a5c2520",
   "lastOpenFiles": [
+    "README.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "README.md",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Outer/Outer.md",
