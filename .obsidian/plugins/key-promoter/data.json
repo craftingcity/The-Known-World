@@ -24,7 +24,7 @@
     "outgoing-links:open-for-current": 5,
     "editor:rename-heading": 80,
     "map-of-content:rebuild-map-of-content": 2,
-    "command-palette:open": 9,
+    "command-palette:open": 13,
     "map-of-content:show-map-of-content-pane": 2,
     "fantasy-calendar:open-big-fantasy-calendar": 2,
     "obsidian-git:clone-repo": 4,
@@ -170,9 +170,10 @@
     "editor:toggle-spellcheck": 1,
     "editor:context-menu": 1,
     "file-explorer:open": 1,
-    "switcher:open": 1,
+    "switcher:open": 2,
     "publish:view-changes": 1,
-    "obsidian-collapse-all-plugin:collapse-all-expand": 2
+    "obsidian-collapse-all-plugin:collapse-all-expand": 5,
+    "obsidian-collapse-all-plugin:collapse-all-collapse": 2
   },
   "keyboardStatistics": {
     "insert-template": 109,
