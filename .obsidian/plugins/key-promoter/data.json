@@ -13,9 +13,9 @@
     "app:delete-file": 117,
     "editor:delete-paragraph": 117,
     "graph:open": 18,
-    "workspace:undo-close-pane": 56,
-    "workspace:close": 56,
-    "workspace:close-others": 57,
+    "workspace:undo-close-pane": 58,
+    "workspace:close": 58,
+    "workspace:close-others": 59,
     "obsidian-dangling-links:show-dangling-links-view": 1,
     "backlink:open": 4,
     "backlink:open-backlinks": 26,
@@ -174,8 +174,9 @@
     "publish:view-changes": 1,
     "file-tree-alternative:open-file-tree-leaf": 1,
     "file-tree-alternative:reveal-active-file": 1,
-    "obsidian-collapse-all-plugin:collapse-all-expand": 1,
-    "smart-random-note:open-random-note-from-search": 1
+    "obsidian-collapse-all-plugin:collapse-all-expand": 6,
+    "smart-random-note:open-random-note-from-search": 7,
+    "obsidian-collapse-all-plugin:collapse-all-collapse": 2
   },
   "keyboardStatistics": {
     "insert-template": 109,

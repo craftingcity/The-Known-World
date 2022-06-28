@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "920a54f8afb325ff",
+        "id": "2672e3369ec7b080",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -17,13 +17,19 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "920a54f8afb325ff",
+              "leaf": "2672e3369ec7b080",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.014299642508937277}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01784871497833269}"
             },
             {
-              "leaf": "920a54f8afb325ff",
+              "leaf": "2672e3369ec7b080",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.8896952104499274}"
+            },
+            {
+              "leaf": "2672e3369ec7b080",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -89,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "1b311dcb260a3892",
@@ -105,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -172,14 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "920a54f8afb325ff",
+  "active": "2672e3369ec7b080",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Big Lore/Big Lore.md",
-    "Game Notes/NPCs/NPCs.md",
+    "README.md",
+    "A Grand Notepad.md",
     "Game Notes/Game Notes.md",
+    "Game Notes/Encounters/Encounters.md",
+    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Untitled mindmap.md",
-    "conflict-files-obsidian-git.md"
+    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
+    "Notes on the Multiverse/Big Lore/Heritages/Orc Specifics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
   ]
 }
