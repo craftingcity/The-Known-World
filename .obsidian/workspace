@@ -24,7 +24,7 @@
                   "leaf": "a97095832d963af5",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":5.54589350773738}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             }
@@ -200,6 +200,7 @@
   "active": "a97095832d963af5",
   "lastOpenFiles": [
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Outer/Outer.md",
@@ -207,7 +208,6 @@
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
-    "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md"
+    "Game Notes/Prenotes/'22/Prenotes June 26 22.md"
   ]
 }
