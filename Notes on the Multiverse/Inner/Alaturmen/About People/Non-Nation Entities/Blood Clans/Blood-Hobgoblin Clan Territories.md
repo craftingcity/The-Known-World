@@ -4,6 +4,8 @@ aliases:
 ---
 
 # Blood-Hobgoblin Clan Territories
+![[KingdomOfProsper-105AF.png]]
+*North-east Alaturmen circa 100AF.*
 ## History
 In the time before time, the goblinoid were united as one. Thirty-two years after [[Tetrimoc]] fell, and after thirty-two years of subjugation by the [[Bandit Lords]], the Hobgoblin of the Eastern half of the [[Great Northern Forests]] wrote and signed the [[Blood-Hobgoblin Clan Pact]] before making war against all others. After the fall of the [[Bandit Lords]] and many years, these Clans made peace with their newest neighbor; [[The Kingdom of Prosper]].
 
@@ -15,9 +17,12 @@ Each of the Clans is ruled by one Hobgoblin, the Mangugu, who answers to up to t
 Seven family names reside on the [[Blood-Hobgoblin Clan Pact]];
 
 #### [[Simonson Clan]]
+A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Amelia Simonson|last matron]] rules [[The Kingdom of Prosper]].
 #### [[Garqwak Clan]]
+
 #### [[Hurraquk Clan]]
 #### [[Emorin Clan]]
+A capitalist bureaucracy of permanent commnuinties that feed large merchant bands. 
 #### [[Scrivin Clan]]
 #### [[Bulgpim Clan]]
 #### [[Wheernat Clan]]

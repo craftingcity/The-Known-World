@@ -2,13 +2,15 @@
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.  
 > \- [[Eladrithal Greystone]] to his parents in the [[Feywild]]  
 
-Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the full intention of juicing the racism and sexism out the window of the moving car that is modern table-top role-playing to the best of my ability.
+Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. 
+
+What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the intention of juicing the racism, sexism, gendered bullshit, etc. out the window of the moving car that is modern table-top role-playing to the best of my ability as I write these stories.
 
 Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. 
 
 Save the inter-party romance or sacrifice everyone and destroying a great evil? Neither? Both?
 
-How? Why?
+What do you do? How? Why?
 
 ## Using this Document.
 I built this doc as an ObsidianMD vault in the near-end of autumn of 2021. I have not finished this doc. Eventually this may turn into a campaign setting book dealio.
