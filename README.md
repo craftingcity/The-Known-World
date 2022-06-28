@@ -319,22 +319,22 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ### Culture
-Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented 
+Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented by Ability Score Increases and Proficiencies and Language, or some other culturally endowed traits.
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
-**Ability Score Increase.** 
-**Languages.** 
-**Skills.**
+**Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.
+**Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].
+**Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.
 
 ##### Church of the White Flame
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
+**Ability Score Increase.** Your Charisma score increases by 2.
+**Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].
+**Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.
 
 ##### Tetrimoc's Desert
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
+**Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.
+**Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].
+**Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.
 
 ##### Democratic Combine of Peoples
 **Ability Score Increase.**

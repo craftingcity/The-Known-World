@@ -20,28 +20,7 @@
               "leaf": "3cd4fc2e4d01237e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":325,\"ch\":15},\"to\":{\"line\":325,\"ch\":15}},\"scroll\":318.51102350160244}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "5e7582b0029c14dc",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/ANC-Main.pdf"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "5e7582b0029c14dc",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/ANC-Main.pdf\"}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":326,\"ch\":49},\"to\":{\"line\":326,\"ch\":49}},\"scroll\":313.8964657815101}"
             }
           ]
         }
