@@ -151,7 +151,8 @@
     "Baator",
     "Tiefling",
     "Aasimar",
-    "Proficiencies"
+    "Proficiencies",
+    "proficiencies"
   ],
   "legacyEditor": true,
   "pdfExportSettings": {

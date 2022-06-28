@@ -354,26 +354,22 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ##### Cenva Minyo
-**Ability Score Increase.**
-**Languages.**
+**Ability Score Increase.** Your Intelligence score increases by 1, and your  
+**Languages.** You know at least these two languages; [[Modern Elven (language)]]
 **Skills.**
-**Lorekeepers.**
+**Elven Training.** You have proficiency in Intelligence (Arcana) and Intelligence (History). You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
 
 ##### Blood-Hobgoblin Clans
 **Ability Score Increase.**
 **Languages.**
 **Skills.**
-**.**
+**Hobgoblin Training.**
 
-##### Desert Thieves
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
-
-##### Desert Nomads
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
+##### Desert Outlanders
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.
+**Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].
+**Skills.** You are proficient in Wisdom (Survival), 
+**Fortune from the Many.** If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.
 
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
