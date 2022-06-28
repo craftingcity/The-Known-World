@@ -4,55 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "b42ccfde4e184bf0",
-        "type": "split",
-        "children": [
-          {
-            "id": "c6e4d80315b53dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "c6e4d80315b53dc7",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":300,\"ch\":39},\"to\":{\"line\":300,\"ch\":39}},\"scroll\":292.7274626796708}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "3cd4fc2e4d01237e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "3cd4fc2e4d01237e",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":57},\"to\":{\"line\":71,\"ch\":57}},\"scroll\":60.706150069988794}"
-                }
-              ]
-            }
+        "id": "3cd4fc2e4d01237e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3cd4fc2e4d01237e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":310,\"ch\":11},\"to\":{\"line\":310,\"ch\":11}},\"scroll\":0}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -197,7 +168,7 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "c6e4d80315b53dc7",
+  "active": "3cd4fc2e4d01237e",
   "lastOpenFiles": [
     "README.md",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
