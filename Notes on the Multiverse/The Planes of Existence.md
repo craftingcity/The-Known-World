@@ -69,7 +69,7 @@ Task: maintain the novelty of reality.
 #### [[Elysium]], the Land of Good
 Task: maintain moral good and promote eternal happiness.
 
-#### [[Hell]], the Land of Evil
+#### [[Nine Hells of Baator]], the Land of Evil
 Task: maintain moral evil and promote eternal hatred.
 
 #### [[Limbo]], the Land of Neutrality

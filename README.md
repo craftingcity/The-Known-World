@@ -273,7 +273,8 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 **Age.**
 **Size.**
 **Speed.**
-**Fiendish Ancestry.**
+**Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your apperance and a manifestation of your Fiendish Ancestry. In addition, you gain one of the following traits;
+- **.**
 
 ##### Mecha (a.)
 **Age.**

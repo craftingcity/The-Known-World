@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c294e06963d2081f",
+        "id": "39315ba985d729cc",
         "type": "split",
         "children": [
           {
-            "id": "28b9438a00057304",
+            "id": "c943c7896f03a83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,16 +21,22 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "28b9438a00057304",
+                  "leaf": "c943c7896f03a83c",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":192,\"ch\":9},\"to\":{\"line\":192,\"ch\":147}},\"scroll\":178.06395833333335}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01784871497833269}"
+                },
+                {
+                  "leaf": "c943c7896f03a83c",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
           },
           {
-            "id": "2fe2e97f2c5d60a8",
+            "id": "f79250a74d617c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,10 +49,10 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "2fe2e97f2c5d60a8",
+                  "leaf": "f79250a74d617c72",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":261,\"ch\":9},\"to\":{\"line\":261,\"ch\":9}},\"scroll\":246.88333333333333}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":151,\"ch\":117},\"to\":{\"line\":151,\"ch\":117}},\"scroll\":136.36641221374046}"
                 }
               ]
             }
@@ -195,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fe2e97f2c5d60a8",
+  "active": "c943c7896f03a83c",
   "lastOpenFiles": [
     "README.md",
+    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+    "Nine Hells.md",
+    "Notes on the Multiverse/The Planes of Existence.md",
+    "The Nine Hells of Baator.md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Infernal (language).md",
     "A Grand Notepad.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Encounters/Encounters.md",
-    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
-    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Orc Specifics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md"
   ]
 }
