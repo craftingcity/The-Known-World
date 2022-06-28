@@ -172,6 +172,7 @@ The origins of Goliath are shrouded in myth, with some saying that their ancesto
 **Speed.** Your speed is 30 feet per round.
 **Enduring Flesh.** When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
+**Twin-things.** If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.
 
 ##### Halfling (a.)
 Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
@@ -325,7 +326,7 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.
 **Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].
 **Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.
-**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons.
+**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.
 
 ##### Church of the White Flame
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.
@@ -333,23 +334,24 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.
 
-
 ##### Tetrimoc's Desert
 **Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].
 **Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.
+**Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.
 
 ##### Democratic Combine of Peoples
 **Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.
-**War for War's Sake.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
+**Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1. 
+**Languages.** You know at least these two languages; [[Dwarven (language]] and one "common" language of your choice.
+**Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.
+**Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ##### Cenva Minyo
 **Ability Score Increase.**
