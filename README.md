@@ -189,10 +189,10 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 #### Rare to Alaturmen
 ##### Eladrin (a.)
 **Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
-**Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
+**Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
-**Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain the following traits;
+**Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
 - **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
 - **Fey-Step.** You may cast *misty step* as a bonus action. After using this feature, you cannot use it again until you complete a short or long rest.
 - **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.
@@ -203,9 +203,18 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 - **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. Directly before or after you use your **Fey Step**, each creature of your choice that you can see within 5 feet of you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
 
 ##### Satyr (a.)
-**Age.**
-**Size.**
-**Speed.**
+Satyr are born of the [[Ceilie Courts]], with the life directive of creating 
+
+**Age.** 
+**Size.** Mechanically, your size is Medium
+**Speed.** Your speed is 30 feet per round. You stand at about five feet tall.
+**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
+**Magical Reveler.** You have advantage on saving throws against spells and other magical effects. You have proficiency in the Performance and Persuasion skills, and you have proficiency with one musical instrument of your choice.
+**Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
+**Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
+- **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
+- **Fey-Step.** You may cast *misty step* as a bonus action. After using this feature, you cannot use it again until you complete a short or long rest.
+- **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.
 
 ##### Gnome (a.)
 **Age.**
