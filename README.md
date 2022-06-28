@@ -330,7 +330,7 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Culture
-Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits.
+Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits.
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
@@ -354,7 +354,7 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.  
-**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+**War-ready.** When you score a critical hit with a weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 
 #### Non-Coalition Entities
