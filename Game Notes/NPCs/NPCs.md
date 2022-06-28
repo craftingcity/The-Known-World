@@ -5,6 +5,7 @@ aliases:
 
 
 # NPCs
+for the graph: [[Here lie my suppliments...]]
 %% Begin Waypoint %%
 - **[[NPCs]]**
 	- **ala Alaturmen**

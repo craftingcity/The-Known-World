@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "006d000346f16e54",
+        "id": "920a54f8afb325ff",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "920a54f8afb325ff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.014299642508937277}"
+            },
+            {
+              "leaf": "920a54f8afb325ff",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -28,6 +48,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -43,6 +67,22 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "86288cbc2a5b0dc4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -65,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,6 +114,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -81,9 +126,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -95,6 +145,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -102,7 +156,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -112,8 +172,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "006d000346f16e54",
+  "active": "920a54f8afb325ff",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/Big Lore/Heritages/Heritages.md",
+    "Notes on the Multiverse/Big Lore/Heritages/Untitled mindmap.md",
     "conflict-files-obsidian-git.md"
   ]
 }
