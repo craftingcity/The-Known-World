@@ -197,6 +197,8 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 #### Rare to Alaturmen
 ###### Feywild
 ##### Eladrin (a.)
+Eladrin are born of the [[Ceilie Courts]], making a large section of the courts' common people.
+
 **Age.** Although you are considered fully mature at about twenty-five, the traditional eladrin perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an eladrin reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Eladrin parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
 **Speed.** Your speed is 30 feet per round.  
@@ -235,6 +237,8 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 ###### Underdark
 ##### Duergar (a.)
+A distant cousin of the Dwarves, the Duergar come from the Deep Below, a plane of caves, tunnels, horror, and riches. Duergar evolved for the deepest and darkest reaches of this place.
+
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Duergar reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives duergar no reason to participate in gender, though they often have gender forced upon them in alien cultures.  
 **Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 230 pounds.  
 **Speed.** Your speed is twenty-five feet per round.  
@@ -242,6 +246,8 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 **Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
 
 ##### Kalix (s.)
+The Kalix evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They are evolved for the damp lush areas of this place.
+
 **Age.** You are considered fully matured at eight and live to about forty.  
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 220 pounds.  
 **Speed.** Your speed is 35 feet per round. You gain a swimming speed of 30.  
@@ -251,6 +257,8 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 
 ##### Kuo-Toa (s.)
+The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They evolved for live in the wettest places here.
+
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Kuo-Toa reproduce like traditional fish, fathers inseminate hundreds of a mother's eggs.  
 **Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.  
 **Speed.** Your speed is 25 feet per round. You gain a swimming speed of 30 feet per round.   
@@ -322,7 +330,7 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Culture
-Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented by Ability Score Increases and Proficiencies and Language, or some other culturally endowed traits.
+Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits.
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
@@ -336,17 +344,18 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.  
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
-##### Tetrimoc's Desert
+##### Golden City
 **Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
 **Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.  
 **Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ##### Democratic Combine of Peoples
-**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.  
+**My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.  
-**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.  
+**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
@@ -372,6 +381,14 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Animal Handling), and one set of tools of your choice.  
 **Fortune of the Many.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.  
+
+#### Deep Below
+##### Lolth-Drow
+##### Duergar Territories
+##### Kalix Caves
+##### Ootool
+
+#### 
 
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
