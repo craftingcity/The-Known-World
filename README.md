@@ -296,7 +296,14 @@ Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [
 **Age.** You are considered fully mature, and you do not age.
 **Size.** Mechanically, your size is Medium. You stand at five feet tall. You weigh four-hundred thirty five pounds, seven ounces precisely.
 **Speed.** Your speed is 30 feet per round.
-**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic (not the petty laws of man, but the laws of nature, of power). You have immunity against being poisoned and to poison damage. You are immune to disease. You don't need to sleep, and magic cannot put you to sleep. You don’t need to eat, drink, or breathe. 
+**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic (not the petty laws of man, but the laws of nature, of power). You gain the following benifits;
+- You have immunity against being poisoned and to poison damage. 
+- You are immune to disease. 
+- You don't need to sleep, and magic cannot put you to sleep. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal. 
+- You don’t need to eat, drink, or breathe. 
+- You can don only armor with which you have proficiency. 
+- To don armor, you must incorporate it into your body over the course of 1 hour, during which you must remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way. 
+- While you live, your armor can't be removed from your body against your will.
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one. 
 
 ##### Aasimar (a.)
@@ -305,21 +312,62 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Age.** You are considered fully mature, and you do not age.
 **Size.** Mechanically, your size is Medium. You stand at about seven feet tall. You weigh about four-hundred pounds.
 **Speed.** Your speed is 30 feet per round. You gain a hover speed of 5 feet per round.
-**Celestial Ancestry.** Your creature type is celestial. You ***cannot*** perform acts that the fates would consider evil. As a reaction, you may cast *protection from evil and good* on yourself or one creature within five feet of you. You cannot use this feature until you complete a long rest.
+**Celestial Ancestry.** Your creature type is celestial. You ***cannot*** perform acts that the fates would consider evil. You gain the following benefits; 
+- You have resistance to necrotic damage and radiant damage.
+- You know the *Light* cantrip. Once you reach 3rd level, you can cast the *Lesser Restoration* spell once using this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *Daylight* spell once with this trait as a 3rd level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+- As a reaction, you may cast *protection from evil and good* on yourself or one creature within five feet of you. You cannot use this feature until you complete a long rest.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ### Culture
+Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented 
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
+**Ability Score Increase.** 
+**Languages.** 
+**Skills.**
+
 ##### Church of the White Flame
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ##### Tetrimoc's Desert
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ##### Democratic Combine of Peoples
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ##### Cenva Minyo
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+**Lorekeepers.**
+
 ##### Blood-Hobgoblin Clans
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ##### Desert Thieves
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ##### Desert Nomads
+**Ability Score Increase.**
+**Languages.**
+**Skills.**
+
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
 

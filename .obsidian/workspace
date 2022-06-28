@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cb83e68f6a5c2520",
+        "id": "3cd4fc2e4d01237e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,21 +17,30 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "cb83e68f6a5c2520",
+              "leaf": "3cd4fc2e4d01237e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.017922536728275387}"
-            },
+              "eState": "{\"cursor\":{\"from\":{\"line\":325,\"ch\":15},\"to\":{\"line\":325,\"ch\":15}},\"scroll\":318.51102350160244}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5e7582b0029c14dc",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/ANC-Main.pdf"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "cb83e68f6a5c2520",
+              "leaf": "5e7582b0029c14dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.018950437317784258}"
-            },
-            {
-              "leaf": "cb83e68f6a5c2520",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/ANC-Main.pdf\"}}",
               "eState": "{}"
             }
           ]
@@ -47,7 +56,6 @@
       {
         "id": "81370ff04aeebe8d",
         "type": "tabs",
-        "dimension": 82.37463126843659,
         "children": [
           {
             "id": "075c81df386bf4a8",
@@ -79,14 +87,7 @@
               "pos": 0,
               "stack": []
             }
-          }
-        ]
-      },
-      {
-        "id": "c82f489b7d01ce32",
-        "type": "tabs",
-        "dimension": 17.62536873156342,
-        "children": [
+          },
           {
             "id": "4906e1f938d3df14",
             "type": "leaf",
@@ -103,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 240.50204849243164,
+    "collapsed": true
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -187,12 +189,12 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "cb83e68f6a5c2520",
+  "active": "3cd4fc2e4d01237e",
   "lastOpenFiles": [
     "README.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "MEDIA/SUPP/ANC-Main.pdf",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Outer/Outer.md",
     "Notes on the Multiverse/Inner/Inner.md",
