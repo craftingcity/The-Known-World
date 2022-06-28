@@ -43,7 +43,7 @@ Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted i
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
 
 ##### Hobgoblin (s.)
-Hobgoblin are the middlest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
+Hobgoblin are the middle-est of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
 
 **Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical. 
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.
@@ -70,7 +70,7 @@ The humans of Alaturmen have no creation myth of their own - the legends claim t
 ##### Elven (s.)
 The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the planes "rightful heir". As the Elves came to Alaturmen, it became clear that this was not the case, though some still hold that "right" to be a truth.
 
-**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
+**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
 **Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
@@ -139,7 +139,7 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 260 pounds.
-**Speed.**
+**Speed.** Your speed is thirty feet per round.
 **Unrelenting Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
@@ -190,7 +190,7 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 #### Rare to Alaturmen
 ###### Feywild
 ##### Eladrin (a.)
-**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
+**Age.** Although you are considered fully mature at about twenty-five, the traditional eladrin perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an eladrin reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Eladrin parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
 **Speed.** Your speed is 30 feet per round.
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
@@ -252,21 +252,28 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 ###### More Elementals
 ##### Aaracokra (s.)
-**Age.** You are considered fully mature at fourteen and live to be about seventy.
+**Age.** You are considered fully mature at six and live to be about sixty.
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred thirty pounds.
-**Speed.** Your speed is 30 feet per round. You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor.
+**Speed.** Your speed is 30 feet per round. 
 **Natural Talons.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
+**Elemental Ancestry (Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.
 
 ##### Genasi (a.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at about forty and live to about four-hundred years.
+**Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
+**Speed.** Your speed is 30 feet per round.
+**Elemental Ancestry.** You gain your choice of one of the following traits;
+- **(Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.
+- **(Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+- **(Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know one cantrip *shape water*.
+- **(Fire).** You may cast *hellish rebuke* as a reaction. Constitution is your spellcasting ability for this spell. After using this feature, you cannot use it again until you complete a short or long rest. You have resistance to fire damage. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red. 
 
 ###### Extraplanar
 ##### Tiefling (s.)
 **Age.**
 **Size.**
 **Speed.**
+**Fiendish Ancestry.**
 
 ##### Mecha (a.)
 **Age.**

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7eed995d6ea84122",
+        "id": "c294e06963d2081f",
         "type": "split",
         "children": [
           {
-            "id": "f6bf17be23630d46",
+            "id": "28b9438a00057304",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,16 +21,16 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "f6bf17be23630d46",
+                  "leaf": "28b9438a00057304",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":149,\"ch\":126},\"to\":{\"line\":149,\"ch\":126}},\"scroll\":137.695625}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":192,\"ch\":9},\"to\":{\"line\":192,\"ch\":147}},\"scroll\":178.06395833333335}"
                 }
               ]
             }
           },
           {
-            "id": "8c8adccd49ba5c65",
+            "id": "2fe2e97f2c5d60a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,10 +43,10 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "8c8adccd49ba5c65",
+                  "leaf": "2fe2e97f2c5d60a8",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":257,\"ch\":16},\"to\":{\"line\":257,\"ch\":16}},\"scroll\":242.661875}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":261,\"ch\":9},\"to\":{\"line\":261,\"ch\":9}},\"scroll\":246.88333333333333}"
                 }
               ]
             }
@@ -195,7 +195,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6bf17be23630d46",
+  "active": "2fe2e97f2c5d60a8",
   "lastOpenFiles": [
     "README.md",
     "A Grand Notepad.md",
