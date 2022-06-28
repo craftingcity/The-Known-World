@@ -8,32 +8,61 @@
         "type": "split",
         "children": [
           {
-            "id": "c943c7896f03a83c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "c943c7896f03a83c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01784871497833269}"
+            "id": "e29394167f5484d9",
+            "type": "split",
+            "children": [
+              {
+                "id": "8a82854e103406cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+                    "mode": "source"
+                  }
                 },
-                {
-                  "leaf": "c943c7896f03a83c",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "8a82854e103406cc",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md\",\"mode\":\"source\"}}",
+                      "eState": "{\"scroll\":0.02074074074074074}"
+                    }
+                  ]
                 }
-              ]
-            }
+              },
+              {
+                "id": "c943c7896f03a83c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "c943c7896f03a83c",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+                      "eState": "{\"scroll\":26.02525}"
+                    },
+                    {
+                      "leaf": "c943c7896f03a83c",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "f79250a74d617c72",
@@ -46,13 +75,19 @@
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "f79250a74d617c72",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.018867924528301886}"
+                },
+                {
+                  "leaf": "f79250a74d617c72",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":151,\"ch\":117},\"to\":{\"line\":151,\"ch\":117}},\"scroll\":136.36641221374046}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01784871497833269}"
                 }
               ]
             }
@@ -134,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
               }
             },
             "pane-relief:history-v1": {
@@ -201,10 +236,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c943c7896f03a83c",
+  "active": "8a82854e103406cc",
   "lastOpenFiles": [
-    "README.md",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+    "README.md",
     "Nine Hells.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "The Nine Hells of Baator.md",
