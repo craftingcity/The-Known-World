@@ -203,23 +203,26 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 - **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. Directly before or after you use your **Fey Step**, each creature of your choice that you can see within 5 feet of you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
 
 ##### Satyr (a.)
-Satyr are born of the [[Ceilie Courts]], with the life directive of creating 
+Satyr are born of the [[Ceilie Courts]], with the life directive of creating and telling the story of an event, person, or concept of the Court's choice.
 
-**Age.** 
-**Size.** Mechanically, your size is Medium
-**Speed.** Your speed is 30 feet per round. You stand at about five feet tall.
-**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
+**Age.** You are considered fully mature at twenty-five and live till about ninety. Satyr parent a single child at about seventy-five, whom they teach everything they know about their task.
+**Size.** Mechanically, your size is Medium. You stand at about five feet tall.
+**Speed.** Your speed is 30 feet per round. You have a climb speed of 5 feet per round; you *are* restricted by gravity as a humanoid.
+**Plot-Armor.** You have advantage on saving throws against being frightened. When you roll a 1 on an attack roll, ability check, or saving throw, you can re-roll the die. You must use the new result, even if it is another 1.
 **Magical Reveler.** You have advantage on saving throws against spells and other magical effects. You have proficiency in the Performance and Persuasion skills, and you have proficiency with one musical instrument of your choice.
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
-**Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
+**Minor Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
 - **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
-- **Fey-Step.** You may cast *misty step* as a bonus action. After using this feature, you cannot use it again until you complete a short or long rest.
-- **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.
 
 ##### Gnome (a.)
-**Age.**
-**Size.**
-**Speed.**
+When a great work of invention is created in the multiverse, a Gnome becomes. Most find themselves born into the Astral Sea, adrift and surviving with nothing but their intellect to protect them.
+
+**Age.** You are considered fully mature upon your becoming. You are a mortal, and while you would naturally die at about one-hundred twenty, many Gnomes extend their lifespans artificially; using magic or technology you could live to over five-hundred – or beyond, if you're willing to become something im-mortal. 
+**Size.** Mechanically, your size is Small. You stand at about two and a half feet tall. You weigh about forty pounds.
+**Speed.** Your speed is 25 feet per round.
+**Magical Tinkerer.**  You have advantage on all Intelligence, Wisdom, and Charisma saves against magic. Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
+**Minor Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
+- **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
 
 ##### Duergar (a.)
 **Age.**
