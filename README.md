@@ -291,16 +291,22 @@ Tiefling are the children of Devils and humanoids. Often, they are born of contr
 - **Nesus Ancestry.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
 
 ##### Mecha (a.)
-Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any 
+Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
 
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature, and you do not age.
+**Size.** Mechanically, your size is Medium. You stand at five feet tall. You weigh four-hundred thirty five pounds, seven ounces precisely.
+**Speed.** Your speed is 30 feet per round. You gain a hover speed of 5 feet per round.
+**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic. You have immunity against being poisoned and to poison damage. You are immune to disease. You don't need to sleep, and magic can't put you to sleep. You don’t need to eat, drink, or breathe. 
+**Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one. 
 
 ##### Aasimar (a.)
-**Age.**
-**Size.**
-**Speed.**
+Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [[Elysium]] becomes a Aasimar here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
+
+**Age.** You are considered fully mature, and you do not age.
+**Size.** Mechanically, your size is Medium. You stand at about seven feet tall. You weigh about four-hundred pounds.
+**Speed.** Your speed is 30 feet per round. You gain a hover speed of 5 feet per round.
+**Celestial Ancestry.** Your creature type is celestial. You ***cannot*** perform acts that the fates would consider evil. As a reaction, you may cast *protection from evil and good* on yourself or one creature within five feet of you. You cannot use this feature until you complete a long rest.
+**Powerful Build.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
 
 ### Culture
 #### Nation-States of Coalition
