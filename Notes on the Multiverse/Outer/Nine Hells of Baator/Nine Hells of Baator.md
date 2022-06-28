@@ -6,7 +6,7 @@ aliases:
 # Baator
 ## The Outer Plane of Ideal Evil
 ### Layered Structure
-####
+
 %% Begin Waypoint %%
 - **[[Nine Hells of Baator]]**
 
