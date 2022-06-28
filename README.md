@@ -2,7 +2,7 @@
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.  
 > \- [[Eladrithal Greystone]] to his parents in the [[Feywild]]  
 
-Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the full intention of juicing the racism and sexism out the window of the moving car that is modern table-top role-playing.
+Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the full intention of juicing the racism and sexism out the window of the moving car that is modern table-top role-playing to the best of my ability.
 
 Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. 
 
@@ -287,17 +287,17 @@ Tiefling are the children of Devils and humanoids. Often, they are born of contr
 - **Phelgetos Child.** You know the Friends cantrip. When you reach 3rd level, you can cast the Charm Person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
 - **Stygia Child.** You know the Ray of Frost cantrip. When you reach 3rd level, you can cast the Armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
 - **Malbolge Child.** You know the Minor Illusion cantrip. When you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.   
-- **Maladomini Child.** You know the Vicious Mockery cantrip. Once you reach 3rd level, you can cast the Charm Person spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Enthrall spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells. This trait replaces the Infernal Legacy trait  
-- **Cania Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Flame Blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
-- **Nesus Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
+- **Maladomini Child.** You know the Vicious Mockery cantrip. Once you reach 3rd level, you can cast the Charm Person spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Enthrall spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.   
+- **Cania Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Flame Blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Nesus Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
 
 ##### Mecha (a.)
 Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
 
-**Age.** You are considered fully mature, and you do not age.
-**Size.** Mechanically, your size is Medium. You stand at five feet tall. You weigh four-hundred thirty five pounds, seven ounces precisely.
-**Speed.** Your speed is 30 feet per round.
-**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic (not the petty laws of man, but the laws of nature, of power). You gain the following benifits;
+**Age.** You are considered fully mature, and you do not age.  
+**Size.** Mechanically, your size is Medium. You stand at five feet tall. You weigh four-hundred thirty five pounds, seven ounces precisely.  
+**Speed.** Your speed is 30 feet per round.  
+**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic (not the petty laws of man, but the laws of nature, of power). You gain the following benifits;  
 - You have immunity against being poisoned and to poison damage. 
 - You are immune to disease. 
 - You don't need to sleep, and magic cannot put you to sleep. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal. 
@@ -305,71 +305,71 @@ Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [
 - You can don only armor with which you have proficiency. 
 - To don armor, you must incorporate it into your body over the course of 1 hour, during which you must remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way. 
 - While you live, your armor can't be removed from your body against your will.
-**Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one. 
+**Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.   
 
 ##### Aasimar (a.)
-Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [[Elysium]] becomes a Aasimar here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
+Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [[Elysium]] becomes a Aasimar here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.  
 
-**Age.** You are considered fully mature, and you do not age.
-**Size.** Mechanically, your size is Medium. You stand at about seven feet tall. You weigh about four-hundred pounds.
-**Speed.** Your speed is 30 feet per round. You gain a hover speed of 5 feet per round.
-**Celestial Ancestry.** Your creature type is celestial. You ***cannot*** perform acts that the fates would consider evil. You gain the following benefits; 
+**Age.** You are considered fully mature, and you do not age.  
+**Size.** Mechanically, your size is Medium. You stand at about seven feet tall. You weigh about four-hundred pounds.  
+**Speed.** Your speed is 30 feet per round. You gain a hover speed of 5 feet per round.  
+**Celestial Ancestry.** Your creature type is celestial. You ***cannot*** perform acts that the fates would consider evil. You gain the following benefits;   
 - You have resistance to necrotic damage and radiant damage.
 - You know the *Light* cantrip. Once you reach 3rd level, you can cast the *Lesser Restoration* spell once using this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *Daylight* spell once with this trait as a 3rd level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 - As a reaction, you may cast *protection from evil and good* on yourself or one creature within five feet of you. You cannot use this feature until you complete a long rest.
-**Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
+**Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Culture
 Your culture bestows in you and your neighbors some traits and ideals that can be mechanically represented by Ability Score Increases and Proficiencies and Language, or some other culturally endowed traits.
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
-**Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.
-**Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].
-**Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.
-**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.
+**Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
+**Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].  
+**Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.  
+**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Church of the White Flame
-**Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.
-**Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].
-**Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.
-**Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
+**Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].  
+**Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.  
+**Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ##### Tetrimoc's Desert
-**Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.
-**Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].
-**Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.
-**Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.
+**Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.  
+**Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
+**Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.  
+**Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ##### Democratic Combine of Peoples
-**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.
-**Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].
-**Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.
-**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.  
+**Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
+**Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.  
+**War-bound.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.  
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
-**Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1. 
-**Languages.** You know at least these two languages; [[Dwarven (language]] and one "common" language of your choice.
-**Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.
-**Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+**Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
+**Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
+**Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
+**Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ##### Cenva Minyo
-**Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
-**Languages.** You know at least these two languages; [[Modern Elven (language)]]
-**Skills.** You have proficiency in Intelligence (Arcana) and Intelligence (History).
-**Elven Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
+**Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1.   
+**Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  
+**Skills.** You have proficiency in Intelligence (Arcana) and Intelligence (History).  
+**Elven Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.  
 
 ##### Blood-Hobgoblin Clans
-**Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.
-**Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].
-**Skills.** You have proficiency in Strength (Athletics), Wisdom (Perception), and one set of tools of your choice.
-**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.
+**Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
+**Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  
+**Skills.** You have proficiency in Strength (Athletics), Wisdom (Perception), and one set of tools of your choice.  
+**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Desert Outlanders
-**Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.
-**Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].
-**Skills.** You are proficient in Wisdom (Survival), Wisdom (Animal Handling), and one set of tools of your choice.
-**Fortune of the Many.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.  
+**Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
+**Skills.** You are proficient in Wisdom (Survival), Wisdom (Animal Handling), and one set of tools of your choice.  
+**Fortune of the Many.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.  
 
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
