@@ -9,6 +9,10 @@
       "path": "README.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Planes of Existence.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Notes on the Multiverse",

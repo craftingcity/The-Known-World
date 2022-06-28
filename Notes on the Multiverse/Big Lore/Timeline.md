@@ -46,7 +46,7 @@ As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private m
 The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his brother committed. The Queen requested [[Limbo]].
 
 date: 12537TBT
-title: Demons fight Devils. The [[Blood Wards of Fiends]] begins.
+title: Demons fight Devils. The [[Blood Wars of Fiends]] begins.
 content:
 
 date: 00010TBT
