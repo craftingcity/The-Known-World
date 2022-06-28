@@ -38,6 +38,7 @@ Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted i
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.
 **Size.** Mechanically, you are considered a small creature. You stand at about three and a half feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.
 **Speed.** Your speed is 30 feet per round.
+**Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 **Fury of the Small.** When you damage a creature of a size category larger than yours with an attack or a spell, you may cause the damage to be increased by an amount of extra untyped damage equal to your level. Once you activate this heritage ability, it cannot be activated again until you finish a short or long rest.
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).
 
@@ -148,7 +149,7 @@ The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteou
 **Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.
 **Size.** Mechanically, your size is Medium. You stand at about four and a half feet tall. You weigh about one-hundred pounds.
 **Speed.** Your speed is thirty-five feet per round.
-**Darkvision.** You can see in dim light within 45 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Lesser Darkvision.** You can see in dim light within 45 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
 
 ##### Kenku (s.)
@@ -187,6 +188,7 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 **Fiendish Ancestry.** You are proficient in the Intimidation skill. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make up to one *Bite* attack.
 
 #### Rare to Alaturmen
+###### Feywild
 ##### Eladrin (a.)
 **Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, the Walk from Alaturmen to travel beyond - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.
@@ -224,31 +226,43 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 **Minor Ceilie-Fey.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid. You also gain the following traits;
 - **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
 
+###### Underdark
 ##### Duergar (a.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Duergar reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives duergar no reason to participate in gender, though they often have gender forced upon them in alien cultures.
+**Size.** Mechanically, your size is Medium. You stand at four and a half feet tall. You weigh about 230 pounds.
+**Speed.** Your speed is twenty-five feet per round.
+**Superior Darkvision.** You can see in dim light within 120 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+**Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ##### Kalix (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully matured at eight and live to about forty.
+**Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 220 pounds.
+**Speed.** Your speed is 35 feet per round. You gain a swimming speed of 30.
+**Amphibious.** You can breathe air and water.
+**Enduring Flesh.** When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
+**Natural Claws & Maw.** You are proficient with a *Claw* or *Bite* attack, which is a melee weapon attack that deals 1d4 or 1d6, respectively, piercing damage plus your Dexterity modifier. This *Claw* or *Bite* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
+
 
 ##### Kuo-Toa (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at fourteen and live to be about seventy. Kuo-Toa reproduce like traditional fish, fathers inseminate hundreds of a mother's eggs.
+**Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.
+**Speed.** Your speed is 25 feet per round. You gain a swimming speed of 30 feet per round.
+**Amphibious.** You can breathe air and water.
+**Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 
+###### More Elementals
 ##### Aaracokra (s.)
-**Age.**
-**Size.**
-**Speed.**
+**Age.** You are considered fully mature at fourteen and live to be about seventy.
+**Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred thirty pounds.
+**Speed.** Your speed is 30 feet per round. You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor.
+**Natural Talons.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.
 
 ##### Genasi (a.)
 **Age.**
 **Size.**
 **Speed.**
 
+###### Extraplanar
 ##### Tiefling (s.)
 **Age.**
 **Size.**
