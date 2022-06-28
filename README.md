@@ -388,7 +388,7 @@ The Three Fates crafted the fabric of reality, known as the Weave, and from it m
 
 In the planes that were before time was, the [[Ceilie Courts]]' [[Eladrin Specifics|Eladrin]] made their progeny; ***onnonyamile***; *child of my parent*; the [[Elven Specifics|Elves]]. It was the Eladrin's claim that the Elves were the true heirs of Alaturmen, that it was made for *their* children, and this was what they told their children.
 
-Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and the people who came to be came to be *together*.
+Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and the people who came to be came to be together.
 
 #### About Our People
 Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making theirs the dominant currency, but each of the "nations" of the world mint their own coin.

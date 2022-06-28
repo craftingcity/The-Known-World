@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,8 @@
             {
               "leaf": "3cd4fc2e4d01237e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":326,\"ch\":49},\"to\":{\"line\":326,\"ch\":49}},\"scroll\":313.8964657815101}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":386.58178837549855}"
             }
           ]
         }
