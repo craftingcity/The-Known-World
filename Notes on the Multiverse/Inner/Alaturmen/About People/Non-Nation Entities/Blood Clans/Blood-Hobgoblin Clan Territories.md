@@ -19,10 +19,9 @@ Seven family names reside on the [[Blood-Hobgoblin Clan Pact]];
 #### [[Simonson Clan]]
 A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Amelia Simonson|last matron]] rules [[The Kingdom of Prosper]].
 #### [[Garqwak Clan]]
-
+One half of the [[Wakquk Twins]], [[Lily-Mae Garqwak]], now heads the western half of the Wakquk clan as their new matriarch. 
 #### [[Hurraquk Clan]]
-One half of the [[Wakquk Twins]] now heads the Hurraquk as their matriarch.
-
+One half of the [[Wakquk Twins]], [[Marley Hurraquk]], now heads the eastern half of the Wakquk clan as their new matriarch.
 #### [[Emorin Clan]]
 A bureaucracy based community of permanent communities that feed large merchant bands. 
 #### [[Scrivin Clan]]

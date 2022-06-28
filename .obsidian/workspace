@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "228a2b9136b38b72",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "228a2b9136b38b72",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":50},\"to\":{\"line\":28,\"ch\":50}},\"scroll\":12.730876213804247}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":126},\"to\":{\"line\":21,\"ch\":126}},\"scroll\":8.337485574041528}"
             },
             {
               "leaf": "228a2b9136b38b72",
@@ -139,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md"
               }
             },
             "pane-relief:history-v1": {
@@ -209,15 +215,15 @@
   },
   "active": "228a2b9136b38b72",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+    "Wakquk Twins.md",
+    "Gail Wakquk.md",
+    "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
     "World Villans.md",
-    "README.md",
-    "MEDIA/SUPP/ANC-Main.pdf",
-    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "conflict-files-obsidian-git.md"
+    "README.md"
   ]
 }

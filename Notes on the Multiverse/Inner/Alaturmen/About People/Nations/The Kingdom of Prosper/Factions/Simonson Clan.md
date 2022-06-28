@@ -1,12 +1,18 @@
 ---
-tags: stub
+tags: groups, 
 aliases:
 ---
 
-*This page is a #stub. You can help by expanding it!*
-
-Legally, the Simonson clan owns all of [[The Kingdom of Prosper]]
-
-[[Amelia Simonson]] was the matriarch before mating with a human and birthing [[Arthur Simonson]], who now heads the family eternally as he cannot age, and does not currently have children or competitors for the title.
-
-"[[Simonson Clan]] was a band of great warriors. Matron led, nothing but family stopped them from achieving their lofty goals."
+# Simonson Clan
+## History
+The Simonson clan was once a feared clan of [[Blood-Hobgoblin Clan Territories|blood-hobgoblin]] militants. [[Amelia Simonson]] birthed a son, [[Arthur Simonson|Artie]], and for a long time, he cared little for the politics of his home. As he returned from his days of adventuring, he found his home in ruin, his people deeply scarred. He knew it was only the fault of 
+## Governance
+See [[The Kingdom of Prosper#Governance]].
+## Culture
+#### Heritage
+#### Language
+#### Belief
+#### Economics
+### Symbolism
+## Technology
+### Magic
