@@ -20,7 +20,7 @@
               "leaf": "228a2b9136b38b72",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":6,\"ch\":22}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":50},\"to\":{\"line\":28,\"ch\":50}},\"scroll\":12.730876213804247}"
             },
             {
               "leaf": "228a2b9136b38b72",
@@ -210,6 +210,7 @@
   "active": "228a2b9136b38b72",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
     "World Villans.md",
@@ -217,7 +218,6 @@
     "MEDIA/SUPP/ANC-Main.pdf",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Outer/Outer.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

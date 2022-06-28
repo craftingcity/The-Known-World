@@ -8,7 +8,7 @@ aliases:
 ## Northeastern Companies
 ### [[Guild of Merchants]]
 ### [[Northstone Family Trading Company]]
-### [[Hobgoblin Carriage Fellowship]]
+### [[Emorin Carriage Fellowship]]
 ### [[Gormit's Carts]]
 ## Northwestern Companies
 ### [[Guild of Merchants]]

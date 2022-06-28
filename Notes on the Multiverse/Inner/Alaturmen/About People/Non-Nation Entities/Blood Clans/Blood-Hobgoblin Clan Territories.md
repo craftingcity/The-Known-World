@@ -21,11 +21,16 @@ A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Ame
 #### [[Garqwak Clan]]
 
 #### [[Hurraquk Clan]]
+One half of the [[Wakquk Twins]] now heads the Hurraquk as their matriarch.
+
 #### [[Emorin Clan]]
-A capitalist bureaucracy of permanent commnuinties that feed large merchant bands. 
+A bureaucracy based community of permanent communities that feed large merchant bands. 
 #### [[Scrivin Clan]]
+A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]]s make Soul-contracts for magical powers with powerful entities.
 #### [[Bulgpim Clan]]
+A caste clan of permanent farming communities. 
 #### [[Wheernat Clan]]
+A socialist clan of pseudo-nomadic hunter-gatherers. 
 
 ## Culture
 #### Heritage
