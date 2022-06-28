@@ -4,38 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "2672e3369ec7b080",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "2672e3369ec7b080",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01784871497833269}"
+        "id": "7eed995d6ea84122",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6bf17be23630d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source"
+              }
             },
-            {
-              "leaf": "2672e3369ec7b080",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.8896952104499274}"
-            },
-            {
-              "leaf": "2672e3369ec7b080",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f6bf17be23630d46",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":219,\"ch\":8},\"to\":{\"line\":219,\"ch\":8}},\"scroll\":214.28375}"
+                }
+              ]
             }
-          ]
-        }
+          },
+          {
+            "id": "8c8adccd49ba5c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "8c8adccd49ba5c65",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":31.910104166666667}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -178,7 +195,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2672e3369ec7b080",
+  "active": "f6bf17be23630d46",
   "lastOpenFiles": [
     "README.md",
     "A Grand Notepad.md",
