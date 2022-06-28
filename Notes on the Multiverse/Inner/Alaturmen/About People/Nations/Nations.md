@@ -38,7 +38,6 @@ aliases:
 				- [[Srioh]]
 				- [[Symbolism of the KiR]]
 			- [[Riphounds]]
-		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
 			- [[Noble House a'Haruuc]]

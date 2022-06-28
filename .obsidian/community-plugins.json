@@ -14,5 +14,20 @@
   "folder-note-plugin",
   "waypoint",
   "obsidian-sortable",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "table-editor-obsidian",
+  "obsidian-collapse-all-plugin",
+  "obsidian-pandoc",
+  "pane-relief",
+  "obsidian-tabs",
+  "smart-random-note",
+  "recent-files-obsidian",
+  "obsidian-reading-time",
+  "obsidian-style-settings",
+  "hotkey-helper",
+  "obsidian-annotator",
+  "cycle-through-panes",
+  "obsidian-dictionary-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "find-and-replace-in-selection"
 ]

@@ -5,6 +5,7 @@ aliases:
 
 
 # NPCs
+for the graph: [[Here lie my suppliments...]]
 %% Begin Waypoint %%
 - **[[NPCs]]**
 	- **ala Alaturmen**
@@ -32,7 +33,6 @@ aliases:
 				- **[[Kakurak's Chosen]]**
 			- **[[True Villian NPCs]]**
 		- **Mild Power**
-			- **Employees of Golden Claw**
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- **[[Tendered]]**
@@ -40,8 +40,6 @@ aliases:
 		- [[on Alaturmen]]
 		- **Weak Power**
 			- **[[Combine Citizens]]**
-			- **Desert Citizens**
-			- **G-City Citizens**
 			- **King's Tenants**
 				- [[Balthazar Wumfingle]]
 				- **[[Ex-Bandit Lords]]**
@@ -57,5 +55,8 @@ aliases:
 			- **[[Giant NPCs]]**
 	- **[[ala Underdark]]**
 	- [[List of Names]]
+	- **on Alaturmen**
+		- **High Power**
+			- **Leaders in Prosper**
 
 %% End Waypoint %%
