@@ -4,7 +4,11 @@
 
 Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the full intention of juicing the racism and sexism out the window of the moving car that is modern table-top role-playing.
 
-Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. Saving the inter-party romance or sacrificing everyone and destroying a great evil? 
+Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. 
+
+Save the inter-party romance or sacrifice everyone and destroying a great evil? Neither? Both?
+
+How? Why?
 
 ## Using this Document.
 I built this doc as an ObsidianMD vault in the near-end of autumn of 2021. I have not finished this doc. Eventually this may turn into a campaign setting book dealio.
@@ -270,9 +274,11 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 ###### Extraplanar
 ##### Tiefling (s.)
-**Age.**
-**Size.**
-**Speed.**
+Tiefling are the children of Devils and humanoids. Often, they are born of contract ("I give you my first born child"), but sometimes, a human falls in love with a devil they bear a tiefling together.
+
+**Age.** You are considered fully mature at twenty-five, and live until about one-hundred eighty. A tiefling is born in the union of a devil and a humanoid, and tieflings cannot themselves bear children. The humanoid parent always bears the teifling child to term, and very often, this is fatal.
+**Size.** Mechanically, your size is Medium. You stand at about five feet tall. You wiegh about one-hundred sixty pounds.
+**Speed.** Your speed is thirty feet per round.
 **Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your apperance and a manifestation of your Fiendish Ancestry. In addition, you gain one of the following traits;
 - **Avernus Ancestry.** You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Searing Smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Branding Smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 - **Dis Ancestry.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
@@ -285,6 +291,8 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 - **Nesus Ancestry.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
 
 ##### Mecha (a.)
+Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any 
+
 **Age.**
 **Size.**
 **Speed.**
