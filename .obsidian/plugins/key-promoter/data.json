@@ -142,7 +142,7 @@
     "editor:toggle-italics": 2,
     "editor:toggle-checklist-status": 2,
     "editor:insert-callout": 2,
-    "file-explorer:reveal-active-file": 2,
+    "file-explorer:reveal-active-file": 3,
     "global-search:open": 2,
     "insert-template": 2,
     "note-composer:extract-heading": 2,
