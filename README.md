@@ -325,11 +325,14 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.
 **Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].
 **Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.
+**Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons.
 
 ##### Church of the White Flame
-**Ability Score Increase.** Your Charisma score increases by 2.
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].
 **Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.
+**Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.
+
 
 ##### Tetrimoc's Desert
 **Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.
@@ -337,9 +340,10 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.
 
 ##### Democratic Combine of Peoples
-**Ability Score Increase.**
-**Languages.**
-**Skills.**
+**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.
+**Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].
+**Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.
+**War for War's Sake.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
@@ -357,6 +361,7 @@ Your culture bestows in you and your neighbors some traits and ideals that can b
 **Ability Score Increase.**
 **Languages.**
 **Skills.**
+**.**
 
 ##### Desert Thieves
 **Ability Score Increase.**
