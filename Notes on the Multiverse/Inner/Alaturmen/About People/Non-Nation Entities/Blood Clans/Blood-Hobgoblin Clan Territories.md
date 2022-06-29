@@ -25,7 +25,7 @@ One half of the [[Wakquk Twins]], [[Marley Hurraquk]], now heads the eastern hal
 #### [[Emorin Clan]]
 A bureaucracy based community of permanent communities that feed large merchant bands. 
 #### [[Scrivin Clan]]
-A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]]s make Soul-contracts for magical powers with powerful entities.
+A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make Soul-contracts for magical powers with powerful entities.
 #### [[Bulgpim Clan]]
 A caste clan of permanent farming communities. 
 #### [[Wheernat Clan]]
@@ -33,7 +33,11 @@ A socialist clan of pseudo-nomadic hunter-gatherers.
 
 ## Culture
 #### Heritage
+The Blood-Hobgoblin Clans are comprised mostly of, you guessed it, Hobgoblin. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the [[Bandit Lords]].
+
 #### Language
+Most people in these territories speak both [[Goblin (language)]] and [[King's Common (language)]].
+
 #### Belief
 #### Economics
 See [[Economics of the Hobgoblin Territories]]
