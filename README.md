@@ -345,7 +345,7 @@ The culture of Prosper is one of personal hardiness and community focus. It is a
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Church of the White Flame
-The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in  post-divine-immolation ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. The people of the Church understand that violence is necessary to do what It wills, and thus is virtuous, and are comfortable with the understanding that *some people simply are not worth as much as others*.
+The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].  
@@ -353,30 +353,38 @@ The culture of the Church, and by extension the greater Holyl'nds, is a caste-th
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ##### Golden City
-**Ability Score Increase.** Your Constitution score increases by 1, and your Intelligence score increases by 1.  
+Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all.
+
+**Ability Score Increase.** Your Charisma score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
 **Skills.** You are proficient in Intelligence (History), Charisma (Persuasion), and one set of tools of your choice.  
 **Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ##### Democratic Combine of Peoples
+The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves when the Combine as a whole is not under threat. These barons find use for **all** who live within their domain.
+
 **My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Insight), and one set of tools of your choice.  
-**War-ready.** When you score a critical hit with a weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+**War-born.** When you score a critical hit with a weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
+The Dwarven Kingdoms of Alaturmen are a proud group of independent communities that answer to their King. These communities all generally award Lawful Neutrality in their culture, especially so, for example, in the cases of the common evasion of the steep Actstow Property Taxes or the cultural isolationism of Mountain Hall.
+
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
 **Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
 **Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
 **Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ##### Cenva Minyo
-**Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1.   
+
+
+**Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
 **Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  
 **Skills.** You have proficiency in Intelligence (Arcana) and Intelligence (History).  
-**Elven Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.  
+**Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ##### Blood-Hobgoblin Clans
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
