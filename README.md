@@ -197,7 +197,7 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 #### Rare to Alaturmen
 ###### Feywild
 ##### Eladrin (a.)
-Eladrin are born of the [[Ceilie Courts]], making a large section of the courts' common people.
+Eladrin are born of the [[Ceilie Courts]], making a large section of the courts' common fey.
 
 **Age.** Although you are considered fully mature at about twenty-five, the traditional eladrin perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an eladrin reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Eladrin parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
@@ -267,6 +267,8 @@ The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and ri
 
 ###### More Elementals
 ##### Aaracokra (s.)
+Hollow boned humanoid-birdfolk native to the Elemental [[Plane of Air]].
+
 **Age.** You are considered fully mature at six and live to be about sixty.  
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred thirty pounds.  
 **Speed.** Your speed is 30 feet per round.   
@@ -274,6 +276,8 @@ The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and ri
 **Elemental Ancestry (Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.  
 
 ##### Genasi (a.)
+Humanoid elementals native to the [[Elemental Planes]]. 
+
 **Age.** You are considered fully mature at about forty and live to about four-hundred years.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
 **Speed.** Your speed is 30 feet per round.  
@@ -333,12 +337,16 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits.
 #### Nation-States of Coalition
 ##### Kingdom of Prosper
+The culture of Prosper is one of personal hardiness and community focus. It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and even their children are raised to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
+
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
 **Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].  
 **Skills.** You are proficient in Intelligence (Nature), Wisdom (Survival), and one set of tools of your choice.  
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Church of the White Flame
+The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in  post-divine-immolation ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. The people of the Church understand that violence is necessary to do what It wills, and thus is virtuous, and are comfortable with the understanding that *some people simply are not worth as much as others*.
+
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].  
 **Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.  
