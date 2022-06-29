@@ -4,8 +4,8 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity: Poor
-Population: Steady
+Prosperity: Moderate
+Population: Growing
 Defenses: Watch
 Other Tags:
 

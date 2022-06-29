@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Vitalities",
-      "path": "Vitalities.md"
-    },
-    {
-      "basename": "Arthur Simonson",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
-    },
-    {
-      "basename": "Moonlight",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md"
-    },
-    {
-      "basename": "Ardor",
-      "path": "Ardor.md"
+      "basename": "Holding Rules",
+      "path": "ORGANIZATION/Holding Rules.md"
     },
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
-      "basename": "Holding Rules",
-      "path": "ORGANIZATION/Holding Rules.md"
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
+    },
+    {
+      "basename": "Aurgurs",
+      "path": "Aurgurs.md"
+    },
+    {
+      "basename": "Esoteriques",
+      "path": "Esoteriques.md"
+    },
+    {
+      "basename": "Glamora",
+      "path": "Glamora.md"
+    },
+    {
+      "basename": "Ardor",
+      "path": "Ardor.md"
+    },
+    {
+      "basename": "Vitalities",
+      "path": "Vitalities.md"
+    },
+    {
+      "basename": "Moonlight",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md"
     },
     {
       "basename": "KingdomOfProsper-105AF",
@@ -187,18 +199,6 @@
     {
       "basename": "Heritages",
       "path": "Notes on the Multiverse/Big Lore/Heritages/Heritages.md"
-    },
-    {
-      "basename": "King Snure",
-      "path": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md"
-    },
-    {
-      "basename": "Orc Specifics",
-      "path": "Notes on the Multiverse/Big Lore/Heritages/Orc Specifics.md"
-    },
-    {
-      "basename": "Emergency Communicae c. 103AF",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
     }
   ],
   "omittedPaths": [],

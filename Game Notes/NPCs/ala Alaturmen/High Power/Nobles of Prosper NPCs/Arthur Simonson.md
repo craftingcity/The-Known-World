@@ -40,10 +40,10 @@ He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "[[Novum 
 		- Heartborn of the [[Diables]]
 		- Seedbearer of [[Vitalities]]
 	- Highest Roller in [[Gambleum]]
-		- Candle Keeper of [[Ardor]]
+		- Witcher General of [[Ardor]]
 		- Crowned Marvel in [[Glamora]]
 		- Commanding Officer of [[Esoteriques]]
 	- Grand Elder of [[Magius]]
-		- Witcher General of [[Aurgurs]]
+		- Candlekeeper of [[Aurgurs]]
 	- King of the Simonson Court
 	- Lord of [[Castle Prosper]]

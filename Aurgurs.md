@@ -4,10 +4,10 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity: Poor
+Prosperity: Moderate
 Population: Steady
-Defenses: Watch
-Other Tags:
+Defenses: Guard
+Other Tags: Arcane
 
 # Description
 Any sort of local lore...

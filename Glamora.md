@@ -4,9 +4,9 @@ aliases:
 ---
 
 # Holding Tags
-Prosperity: Poor
+Prosperity: Wealthy
 Population: Steady
-Defenses: Watch
+Defenses: Militia
 Other Tags:
 
 # Description

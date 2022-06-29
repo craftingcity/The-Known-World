@@ -4,117 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "16e726286e86243f",
+        "id": "af771bd16addb91d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/Holding Rules.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "16e726286e86243f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Holding Rules.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":43},\"to\":{\"line\":34,\"ch\":43}},\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "8460135bb4d020cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vitalities.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8460135bb4d020cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitalities.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8460135bb4d020cc",
+              "leaf": "af771bd16addb91d",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
         }
-      },
-      {
-        "id": "7f449e7f7dca20d0",
-        "type": "split",
-        "children": [
-          {
-            "id": "7f2a08367058bb61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "7f2a08367058bb61",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.56165778567944}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "7103e57e3db88905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "7103e57e3db88905",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":5.760506501852855}"
-                },
-                {
-                  "leaf": "7103e57e3db88905",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.27656676076017}"
-                },
-                {
-                  "leaf": "7103e57e3db88905",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -191,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitalities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vitalities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vitalities.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -258,17 +160,17 @@
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "8460135bb4d020cc",
+  "active": "af771bd16addb91d",
   "lastOpenFiles": [
-    "Vitalities.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md",
-    "Ardor.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "ORGANIZATION/Holding Rules.md",
-    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "ORGANIZATION/TEMPLATES/Holdings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Smaller than a city/Aeberu.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+    "Aurgurs.md",
+    "Esoteriques.md",
+    "Glamora.md",
+    "Ardor.md",
+    "Vitalities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md",
+    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
   ]
 }
