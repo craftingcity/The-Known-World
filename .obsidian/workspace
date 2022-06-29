@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "5ed90ef10bfe4fd7",
+    "id": "d4cab303fd90c4e8",
     "type": "split",
     "children": [
       {
-        "id": "c0aec5b93d8105ec",
+        "id": "609f38e9d4482611",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -14,7 +14,7 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c0aec5b93d8105ec",
+              "leaf": "609f38e9d4482611",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -26,15 +26,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fba8da5f7a93a851",
+    "id": "9434ec9d2ec8e1bc",
     "type": "split",
     "children": [
       {
-        "id": "81370ff04aeebe8d",
+        "id": "297db4ae714f3111",
         "type": "tabs",
         "children": [
           {
-            "id": "075c81df386bf4a8",
+            "id": "d457ef2a2709cd57",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e1f001ef83d9dba5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +58,7 @@
             }
           },
           {
-            "id": "5a6204feda992b25",
+            "id": "c481485eb0f691e7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,75 +75,33 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "4906e1f938d3df14",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.50204849243164
+    "width": 300
   },
   "right": {
-    "id": "98ea4b0506423d23",
+    "id": "19a40ea2f9578efa",
     "type": "split",
     "children": [
       {
-        "id": "5131a5564ffb795f",
+        "id": "ecd99c1ef1d16808",
         "type": "tabs",
         "children": [
           {
-            "id": "0b20614126517060",
+            "id": "52bb8636687fcb4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "f1e77546b77b05ef",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequencyReverse",
-                "useHierarchy": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "d2b2f67ea57b7f79",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             },
@@ -141,7 +111,37 @@
             }
           },
           {
-            "id": "b38d88444b36c7fc",
+            "id": "94fc68b2053d13df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "01037737db479b54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b8bf0068363ddf89",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -156,44 +156,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.6111450195312,
+    "width": 300,
     "collapsed": true
   },
-  "active": "c0aec5b93d8105ec",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "Mossburg Corporation.md",
-=======
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
->>>>>>> Stashed changes
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
-    "Mossburg Corporation.md",
-    "Victor Cannibi.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-<<<<<<< Updated upstream
-    "Mossburg Enforcers.md",
-    "Mossburg.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Centerlick Mossland.md",
-    "Slimknives.md"
-=======
-    "ORGANIZATION/Holding Rules.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Aurgurs.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Esoteriques.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Glamora.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Ardor.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Vitalities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md",
-    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
->>>>>>> Stashed changes
-=======
-    "Mossburg Enforcers.md"
->>>>>>> Stashed changes
-  ]
+  "active": "609f38e9d4482611",
+  "lastOpenFiles": []
 }
