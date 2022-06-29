@@ -353,7 +353,7 @@ The culture of the Church, and by extension the greater Holyl'nds, is a caste-th
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ##### Golden City
-Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all.
+Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all. The culture of the Golden City is one of True Neutrality, while there are laws here, they are enforced much more than they are respected, especially among the common folk of this City.
 
 **Ability Score Increase.** Your Charisma score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
@@ -361,7 +361,7 @@ Those who live in the Golden City are of two kinds; with power and without. Thes
 **Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ##### Democratic Combine of Peoples
-The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves when the Combine as a whole is not under threat. These barons find use for **all** who live within their domain.
+The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves when the Combine as a whole is not under threat. These barons find use for **all** who live within their domain. The culture of the DCP is one of Chaotic Good; their ideology can be summarized by the phrase "no-one hurts my sibling but me".
 
 **My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
@@ -371,7 +371,10 @@ The peoples of the DCP are ruled by their Barons, nearly all of whom fight among
 
 #### Non-Coalition Entities
 ##### Dwarven Kingdoms
-The Dwarven Kingdoms of Alaturmen are a proud group of independent communities that answer to their King. These communities all generally award Lawful Neutrality in their culture, especially so, for example, in the cases of the common evasion of the steep Actstow Property Taxes or the cultural isolationism of Mountain Hall.
+The Dwarven Kingdoms of Alaturmen are a proud group of independent communities that answer to their King. These communities share a culture of Lawful Neutrality.
+- The Suremantle clan rule [[Mountain Hall]]; a near isolationist group from the [[Deakred Range]]
+- The Actstow clan rule the [[Actstow Hills]] as a bastion of wealth and community dearly intertwined with [[#Cenva Minyo]]
+- The Jammu clan rule the [[Grumbling Hills]] and some of the surrounding area under [[The Democratic Combine of Peoples]]
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
 **Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
@@ -379,7 +382,7 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ##### Cenva Minyo
-
+[[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]]. The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame.
 
 **Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
 **Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  
@@ -393,6 +396,8 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Desert Outlanders
+Groups of cannibalistic nomads and honorable thieves stalk [[The Deserts of Tetrimoc]] in search of necessary supplies that are far too rare in the Outlands. The culture 
+
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Animal Handling), and one set of tools of your choice.  
