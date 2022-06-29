@@ -21,7 +21,7 @@ The most common meat is game by a large degree. Rabbit and Deer are the most com
 Goat's milk and cheese are the only true dairy produced in this region. Some clans press almonds and create a milk-like-substance in this manner. Eggs are harvested as forage from wild birds.
 
 #### Grain
-Barley grows in small wild patches in this region. Some clans process heart-nuts and almonds into a flour, and this makes a fine alternative when grain is necessary.
+Barley grows in small wild patches in this region. Some clans process heart-nuts and almonds into a flour, and this makes a fine alternative when grain is necessary. Others have access to fertile farmland unclaimed by other forces, and can grow barley here - so long as they can defend it.
 
 #### Fruit
 Apple, Pear, and Cherries grow in abundance in the dense forests of this region. Heart-nut and Almond trees also grow wild here. All of these fruit trees are cultivated into orchards by clans through years of manipulation.
