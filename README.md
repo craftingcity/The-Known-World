@@ -30,12 +30,12 @@ I present to you some central truths;
 ## Building a Character
 To build a character that fits into this world, I humbly request that you work with me to merge the mechanical necessities with our story-telling wishes. A part of this for me is taking what **Wizards of the Coast** says about what is true and tweaking it. A lot.
 
-Much like in real life, the concept of "race" is false on Alaturmen, and the surrounding planes. The mechanical benefits that the **Player's Handbook** assigns explicitly to race sucks! I am following in the footsteps of "Ancestry and Culture; An Alternative to Race in 5e" produced by Arcanist Press and splitting those mechanical benefits between your character's heritage and their culture. 
+Much like in real life, the concept of "race" is a false creation on Alaturmen and its surrounding planes. The mechanical benefits that the **Player's Handbook** explicitly assigns to race sucks! I am following in the footsteps of "Ancestry and Culture; An Alternative to Race in 5e" produced by Arcanist Press and splitting those mechanical benefits between your character's heritage and their culture. 
 
-Your character will inherit certain traits from their heritage, such as their size and speed, and will be affected by their culture by a cultural alignment and ideals (as the form of Ability Score Increases).
+Your character will inherit certain traits from their heritage, such as their size and speed, and will be affected by their culture by a cultural alignment and ideals (as the form of Ability Score Increases and the like).
 
 ### Heritages
-Some heritages are marked with an (s.) or an (a.). This corresponds to the ability for this heritage to participate in sexual reproduction (s.) or not (a.). Those heritages that are capable of sexual reproduction are compatible for the purposes of conceiving a child; though this should not be a concern of yours, this simply informs you of some setting specific details of these fantasy people. I'm trying to be cool; this is meant to be much, much more "hey look at these cool aliens i thought up" than "these people are bad".
+Some heritages are marked with an (s.) or an (a.). This corresponds to the ability for this heritage to participate in sexual reproduction (s.) or not (a.). Those heritages that are capable of sexual reproduction are compatible for the purposes of conceiving a child; though this should not be a concern of yours, this simply informs you of some setting specific details of these fantasy people. I'm trying to be cool; this is meant to be much, much more "hey look at these cool aliens i thought up" than "these people are bad and don't fuck" because let's be very clear – everyone fucks **and** that's cool.
 
 #### Common to Alaturmen
 ##### Goblin (s.)
@@ -396,20 +396,17 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ##### Desert Outlanders
-Groups of cannibalistic nomads and honorable thieves stalk [[The Deserts of Tetrimoc]] in search of necessary supplies that are far too rare in the Outlands. The culture 
+Groups of cannibalistic nomads and honorable thieves stalk [[The Deserts of Tetrimoc]] in search of necessary supplies that are far too rare in the Outlands. The culture of these people is one of True Neutrality, they are forced to do what they must to survive, although many find good and hope in community.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
 **Skills.** You are proficient in Wisdom (Survival), Wisdom (Animal Handling), and one set of tools of your choice.  
 **Fortune of the Many.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.  
 
-#### Deep Below
-##### Lolth-Drow
-##### Duergar Territories
-##### Kalix Caves
-##### Ootool
+#### Extraplanar
+You are from beyond Alaturmen, which is not all too uncommon in this realm, but nonetheless I cannot list all cultures in the multiverse. 
 
-#### 
+Add 1 to two Ability scores of your choice, learn two languages of your choice, and become proficient in two skills and one tool of your choice. If you'd like a special feature related to your culture, lets talk about it, but otherwise, please take a feat of your choice.
 
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
@@ -452,7 +449,7 @@ Tertiarily, of course, many people gain power through some physical force; more 
 Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a [[Grand Pantheon|God]] – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
 
 #### About Punishment
-Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklry, skulldugery or dissent.
+Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklery, skulldugery or dissent.
 
 Many cultures have unique forms of punishment and unique crimes. A culture's justification for punishment is also often unique, be it a contract, ideal, or some other broken bond.
 
