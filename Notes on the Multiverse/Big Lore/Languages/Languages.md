@@ -18,6 +18,7 @@ aliases:
 			- [[Primordial (language)]]
 			- [[Sylvan (language)]]
 	- **Modern Languages**
+		- [[Aquarian (language)]]
 		- [[Desertspeech (language)]]
 		- [[Dwarven (language)]]
 		- [[Goblin (language)]]
@@ -25,5 +26,6 @@ aliases:
 		- [[King's Common (language)]]
 		- [[Modern Elven (language)]]
 		- [[Swampish (language)]]
+		- [[Thieves Cant (language)]]
 
 %% End Waypoint %%
