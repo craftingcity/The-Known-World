@@ -5,6 +5,14 @@
       "path": "Baron Avory.md"
     },
     {
+      "basename": "Guild of Merchants",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
+    },
+    {
+      "basename": "Westlick Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md"
+    },
+    {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Encounters",
-      "path": "Game Notes/Encounters/Encounters.md"
     }
   ],
   "omittedPaths": [],
