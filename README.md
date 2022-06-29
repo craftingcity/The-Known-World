@@ -348,7 +348,7 @@ The culture of Prosper is one of personal hardiness and community focus. It is a
 The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
-**Languages.** You know at least two languages; [[High Common (language)]] and [[Elvish (language)]].  
+**Languages.** You know at least two languages; [[High Common (language)]] and [[Modern Elven (language)]].  
 **Skills.** You are proficient in Intelligence (Religion), Wisdom (Survival), and one set of tools of your choice.  
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
@@ -411,7 +411,7 @@ Add 1 to two Ability scores of your choice, learn two languages of your choice, 
 ### Ex-Occupation
 While your specific background is likely tied deeply to your character's Culture and Heritage, as well as our ideas about your charachter's story, what the **Player's Handbook** calls background I would like to call your character's ex-occupation. 
 
-> Once, I was an adventurer like you, then I took an arrow to the knee. I was in the military before, during the Invasion of Orcus, and my training served me well in my days of glory. They only keep me on watch these days. Bum a cig?
+> Once, I was an adventurer like you, then I took an arrow to the knee. I was in the military before, during the Invasion of Orcus, and my training served me well in my days of glory. They only keep me on watch these days. Mind if I bum a joint?
 > \- A guard I just made up
 
 That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
@@ -427,11 +427,15 @@ In the planes that were before time was, the [[Ceilie Courts]]' [[Eladrin Specif
 
 Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and the people who came to be came to be together.
 
-#### About Our People
-Most people use barter to trade for resources, as most people do not carry minted coin, but coin and merchant bar is acceptable currency nearly anywhere. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making theirs the dominant currency, but each of the "nations" of the world mint their own coin.
+#### About Trade
+Most people use barter to trade for resources, but coin and merchant bar is acceptable currency nearly anywhere, if not for their full value. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making theirs the dominant currency, but each of the "nations" of the world mint their own coin.
 
+See [[Currency of Alaturmen]] for more details.
+
+#### About Work
 The most common working job is that of the Farmer. The second most common is that of the Defender. The third, the Plunderer. People of the realm keep an open mind for the most part. Most fear the many dangerous monsters that plague the lands, and seek protection from those powers that be. They want peace and security.
 
+#### About Technology
 The people of the world have [[The Worldwide Calendar Systems|different names]] for the days of the week and months of the year, but they all use a 7 day-week, 4 week-month, and 12 month-year.
 
 The most common languages spoken are [[Desertspeech (language)]], [[High Common (language)]], [[King's Common (language)]], and [[Swampish (language)]]. They are all born of the languages of the humans mixed with great influence from the historical languages of the dragonborn, elves, goblin, and triton respectively.
@@ -448,8 +452,12 @@ Tertiarily, of course, many people gain power through some physical force; more 
 ##### About Faith
 Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a [[Grand Pantheon|God]] – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
 
-#### About Punishment
+##### About Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklery, skulldugery or dissent.
 
 Many cultures have unique forms of punishment and unique crimes. A culture's justification for punishment is also often unique, be it a contract, ideal, or some other broken bond.
 
+#### The Wildlands
+At the edges of civilization, the Wildlands extend beyond Alaturmen and into someplace more Ethereal. The landscape beyond changes and shifts, as does the line that separates Alaturmen from the lands beyond.
+
+Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond their home plane.
