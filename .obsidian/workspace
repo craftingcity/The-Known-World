@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.50204849243164,
-    "collapsed": true
+    "width": 348.50204849243164
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -208,6 +207,7 @@
   },
   "active": "434d013ad5ce863b",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Mossburg Corporation.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Victor Cannibi.md",
@@ -218,5 +218,17 @@
     "Mossburg.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Centerlick Mossland.md",
     "Slimknives.md"
+=======
+    "ORGANIZATION/Holding Rules.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Aurgurs.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Esoteriques.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Glamora.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Ardor.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Vitalities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md",
+    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+>>>>>>> Stashed changes
   ]
 }

@@ -6,6 +6,10 @@ aliases:
 # Northeastern Central
 %% Begin Waypoint %%
 - **[[Northeastern Central]]**
+	- [[Ardor]]
+	- [[Aurgurs]]
+	- [[Esoteriques]]
+	- [[Glamora]]
 	- [[NE Travel Table]]
 	- **Smaller than a city**
 		- [[Benders]]
@@ -25,5 +29,6 @@ aliases:
 		- [[Earlwynn's Fine Dining]]
 		- [[Sally's Seaside Spot]]
 		- [[Yawning Pillow]]
+	- [[Vitalities]]
 
 %% End Waypoint %%
