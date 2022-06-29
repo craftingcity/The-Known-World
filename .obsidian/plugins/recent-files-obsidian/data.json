@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Mossburg Corporation",
-      "path": "Mossburg Corporation.md"
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
+      "basename": "Merchant Companies and their Routes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
     },
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Guild of Merchants",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
+    },
+    {
+      "basename": "Mossburg Corporation",
+      "path": "Mossburg Corporation.md"
     },
     {
       "basename": "Economics of Combine",
@@ -51,10 +63,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Guild of Merchants",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
     },
     {
       "basename": "Beasts Righteous",
@@ -191,14 +199,6 @@
     {
       "basename": "Garqwak Clan",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Garqwak Clan.md"
-    },
-    {
-      "basename": "Simonson Clan",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md"
-    },
-    {
-      "basename": "Wakquk Twins",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md"
     }
   ],
   "omittedPaths": [],

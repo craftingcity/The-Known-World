@@ -30,8 +30,6 @@ aliases:
 #### Big Three Route
 The "big three" in this instance are [[Gambleum]], [[Janesland]], and [[Yerba]], but this route reaches more destinations than those.
 
-1. 
-
 #### Scenic Route
 ### Democratic Combine of Peoples
 ### Holyl'nds
