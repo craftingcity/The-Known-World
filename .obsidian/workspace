@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18a725a29c0fa1d0",
+        "id": "8afc77a51d94b780",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md",
+            "file": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md",
             "mode": "source"
           }
         },
@@ -17,13 +17,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "18a725a29c0fa1d0",
+              "leaf": "8afc77a51d94b780",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":97},\"to\":{\"line\":11,\"ch\":97}},\"scroll\":1.7533059635943649}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":73},\"to\":{\"line\":7,\"ch\":73}}}"
             },
             {
-              "leaf": "18a725a29c0fa1d0",
+              "leaf": "8afc77a51d94b780",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -32,12 +32,12 @@
         }
       },
       {
-        "id": "4a276efae52e0f04",
+        "id": "a4e1fb6febff6a21",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
+            "file": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Goblin (language).md",
             "mode": "source"
           }
         },
@@ -45,22 +45,32 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "4a276efae52e0f04",
+              "leaf": "a4e1fb6febff6a21",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.253305963594365}"
-            },
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Modern Languages/Goblin (language).md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":47},\"to\":{\"line\":9,\"ch\":47}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "47b475322c53ef6c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "4a276efae52e0f04",
+              "leaf": "47b475322c53ef6c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4a276efae52e0f04",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":47}}}"
             }
           ]
         }
@@ -123,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.50204849243164
+    "width": 348.50204849243164
   },
   "right": {
     "id": "98ea4b0506423d23",
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md",
+                "file": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md",
+                "file": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md"
+                "file": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md"
               }
             },
             "pane-relief:history-v1": {
@@ -199,25 +209,24 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 538.6111450195312,
     "collapsed": true
   },
-  "active": "18a725a29c0fa1d0",
+  "active": "8afc77a51d94b780",
   "lastOpenFiles": [
-    "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Cobalt.md",
+    "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Goblin (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+    "Desert Thieves.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md",
-    "Notes on the Multiverse/Big Lore/Languages/Modern Languages/King's Common (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "README.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Garqwak Clan.md",
-    "conflict-files-obsidian-git.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/SW Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
   ]
 }

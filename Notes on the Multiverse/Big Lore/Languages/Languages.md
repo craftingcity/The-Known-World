@@ -19,6 +19,8 @@ aliases:
 			- [[Sylvan (language)]]
 	- **Modern Languages**
 		- [[Desertspeech (language)]]
+		- [[Dwarven (language)]]
+		- [[Goblin (language)]]
 		- [[High Common (language)]]
 		- [[King's Common (language)]]
 		- [[Modern Elven (language)]]

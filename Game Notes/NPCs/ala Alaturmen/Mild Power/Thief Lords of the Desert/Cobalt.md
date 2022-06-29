@@ -18,5 +18,5 @@ Cobalt is the leader of a band of [[The Code of Thieves|honorable thieves]] that
 ### Current
 #### Character Goal
 - Maintain my hold on the south-west of [[The Deserts of Tetrimoc]].
-
+- Expand my hold in the Lephora trade.
 #### Location
