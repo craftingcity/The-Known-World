@@ -1,5 +1,5 @@
 ---
-tags: tetrimocal, text
+tags: text,
 ---
 I am a thief. This means that I will...
 Respect my fellows.

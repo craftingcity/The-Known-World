@@ -390,7 +390,7 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ##### Blood-Hobgoblin Clans
-The [[Blood-Hobgoblin Clan Territories]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures for 
+The [[Blood-Hobgoblin Clan Territories]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures though out the seasons, and always ready to defend themselves. The culture of these people is one of Lawful Neutrality, holding themselves and their clan-mates to their [[Blood-Hobgoblin Clan Pact|Blood Pact]].
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
 **Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  

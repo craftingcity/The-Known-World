@@ -39,6 +39,8 @@ The Blood-Hobgoblin Clans are comprised mostly of, you guessed it, Hobgoblin. Th
 Most people in these territories speak both [[Goblin (language)]] and [[King's Common (language)]].
 
 #### Belief
+The people who live in this place bind themselves and their clan mates to the [[Blood-Hobgoblin Clan Pact]].
+
 #### Economics
 See [[Economics of the Hobgoblin Territories]]
 ### Symbolism
