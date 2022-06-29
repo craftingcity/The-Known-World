@@ -4,23 +4,140 @@
     "type": "split",
     "children": [
       {
-        "id": "af771bd16addb91d",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "af771bd16addb91d",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+        "id": "c24ff53d1d3a3c40",
+        "type": "split",
+        "children": [
+          {
+            "id": "71ebe205eff8ae5a",
+            "type": "split",
+            "children": [
+              {
+                "id": "af771bd16addb91d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Baron Avory.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "1cc8cf9380278bab",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "af771bd16addb91d",
+                      "group": "1cc8cf9380278bab",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Baron Avory.md\",\"mode\":\"source\"}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "af771bd16addb91d",
+                      "group": "1cc8cf9380278bab",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Beasts Righteous.md\",\"mode\":\"source\"}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "af771bd16addb91d",
+                      "group": null,
+                      "state": "{\"type\":\"graph\",\"state\":{}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "af771bd16addb91d",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "24602c992898a8ff",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Baron Avory.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "1cc8cf9380278bab",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "24602c992898a8ff",
+                      "group": "1cc8cf9380278bab",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Baron Avory.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "24602c992898a8ff",
+                      "group": "1cc8cf9380278bab",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "24602c992898a8ff",
+                      "group": null,
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Beasts Righteous.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "09c18401cfc6170d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "09c18401cfc6170d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/List of Names.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
             }
-          ]
-        }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Baron Avory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Baron Avory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Baron Avory.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -162,15 +283,15 @@
   },
   "active": "af771bd16addb91d",
   "lastOpenFiles": [
+    "Baron Avory.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Beasts Righteous.md",
     "ORGANIZATION/Holding Rules.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Aurgurs.md",
     "Esoteriques.md",
-    "Glamora.md",
-    "Ardor.md",
-    "Vitalities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md",
-    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+    "Glamora.md"
   ]
 }
