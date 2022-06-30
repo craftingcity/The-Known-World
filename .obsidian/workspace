@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4521cb209603d871",
+        "id": "9b3bdafb56acbb37",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -14,7 +14,7 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "4521cb209603d871",
+              "leaf": "9b3bdafb56acbb37",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -76,7 +76,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,6 +160,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4521cb209603d871",
-  "lastOpenFiles": []
+  "active": "9b3bdafb56acbb37",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md"
+  ]
 }

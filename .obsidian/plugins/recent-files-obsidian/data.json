@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Giant's Toe",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Encounters",
+      "path": "Game Notes/Encounters/Encounters.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "alaturmen-100AF",
       "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "The Code of Thieves",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md"
-    },
-    {
-      "basename": "King's Common (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/King's Common (language).md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Blood-Hobgoblin Clan Territories",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md"
-    },
-    {
-      "basename": "Cenva Minyo",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
-    },
-    {
-      "basename": "Garqwak Clan",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Garqwak Clan.md"
     }
   ],
   "omittedPaths": [],
