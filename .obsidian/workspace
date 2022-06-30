@@ -7,6 +7,45 @@
         "id": "62c753f4c75028f8",
         "type": "leaf",
         "state": {
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/EasyDemographics.pdf"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "62c753f4c75028f8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alaturmen Population Data.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "62c753f4c75028f8",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/EasyDemographics.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62c753f4c75028f8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alaturmen Population Data.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "62c753f4c75028f8",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0ecc2c8b71c0c9a2",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
             "file": "Alaturmen Population Data.md",
@@ -17,16 +56,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "62c753f4c75028f8",
+              "leaf": "0ecc2c8b71c0c9a2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alaturmen Population Data.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":158},\"to\":{\"line\":20,\"ch\":158}},\"scroll\":0}"
-            },
-            {
-              "leaf": "62c753f4c75028f8",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -178,24 +211,37 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "b38a0bb5ae51a40b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 1094.5
+    "width": 281.5,
+    "collapsed": true
   },
-  "active": "62c753f4c75028f8",
+  "active": "0ecc2c8b71c0c9a2",
   "lastOpenFiles": [
     "Alaturmen Population Data.md",
+    "MEDIA/SUPP/EasyDemographics.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
-    "MEDIA/SUPP/EasyDemographics.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "README.md"
   ]
