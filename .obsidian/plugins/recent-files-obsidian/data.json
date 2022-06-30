@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "EasyDemographics",
+      "path": "MEDIA/SUPP/EasyDemographics.pdf"
+    },
+    {
       "basename": "Alaturmen Population Data",
       "path": "Alaturmen Population Data.md"
     },
     {
-      "basename": "EasyDemographics",
-      "path": "MEDIA/SUPP/EasyDemographics.pdf"
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -31,10 +35,6 @@
     {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
-    },
-    {
-      "basename": "alaturmen-100AF",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
     },
     {
       "basename": "README",
