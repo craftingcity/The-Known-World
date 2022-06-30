@@ -20,21 +20,3 @@ aliases:
 |           |               | Blood-Hobgoblin   |   | 0.12                         | 4,423.68      | 45.00           | 199,065.60   | 0.25                   |
 |           |               | Desert Outlanders |   | 0.11                         | 4,055.04      | 15.00           | 60,825.60    | 0.08                   |
 
-
-## Fifteen Most Heavily Populated Cities
-1. 38,181 - [[Coalition City]]
-2. 32,454 - [[The Golden City]]
-3. 27,586 - [[The Holy City of Kanielkiln]]
-4. 23,448 - [[Yerba]]
-5. 19,930 - [[Castle Prosper]]
-6. 16,941 - [[Darnt Hillkeep]]
-7. 14,400 - [[Mossburg]]
-8. 12,240 - [[Kohnstamm]]
-9. 10,404 - [[Odaya]]
-10. 8,843 - [[Gambleum]]
-11. 7,516 - [[Janesland]]
-12. 6,389 - [[Zalfari]]
-13. 5,430 - [[Goldfield]]
-14. 4,616 - [[Barkryn]]
-15. 3,923 - [[Lakeview]]
-
