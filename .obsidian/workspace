@@ -7,12 +7,21 @@
         "id": "62c753f4c75028f8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Alaturmen Population Data.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "62c753f4c75028f8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alaturmen Population Data.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":158},\"to\":{\"line\":20,\"ch\":158}},\"scroll\":0}"
+            },
             {
               "leaf": "62c753f4c75028f8",
               "group": null,
@@ -98,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alaturmen Population Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alaturmen Population Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Alaturmen Population Data.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -175,15 +188,15 @@
   },
   "active": "62c753f4c75028f8",
   "lastOpenFiles": [
+    "Alaturmen Population Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
-    "Alaturmen Population Data.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
     "MEDIA/SUPP/EasyDemographics.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "README.md",
-    "A Grand Notepad.md"
+    "README.md"
   ]
 }
