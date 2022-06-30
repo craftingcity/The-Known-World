@@ -4,31 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7a961dd9b5ccc000",
+        "id": "80e0853628d0a057",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "7a961dd9b5ccc000",
+              "leaf": "80e0853628d0a057",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-100AF.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "7a961dd9b5ccc000",
+              "leaf": "80e0853628d0a057",
               "group": null,
               "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/EasyDemographics.pdf\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "7a961dd9b5ccc000",
+              "leaf": "80e0853628d0a057",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+                "file": "Untitled.md"
               }
             },
             "pane-relief:history-v1": {
@@ -179,14 +180,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a961dd9b5ccc000",
+  "active": "80e0853628d0a057",
   "lastOpenFiles": [
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+    "Untitled.md",
     "MEDIA/SUPP/EasyDemographics.pdf",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "README.md",
     "A Grand Notepad.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
-    "Untitled.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "conflict-files-obsidian-git.md"
   ]
