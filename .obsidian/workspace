@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3bdafb56acbb37",
+        "id": "7a961dd9b5ccc000",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9b3bdafb56acbb37",
+              "leaf": "7a961dd9b5ccc000",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7a961dd9b5ccc000",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/EasyDemographics.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7a961dd9b5ccc000",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -77,11 +92,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9bbca964ea9ac762",
@@ -97,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -160,8 +180,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b3bdafb56acbb37",
+  "active": "7a961dd9b5ccc000",
   "lastOpenFiles": [
+    "README.md",
+    "MEDIA/SUPP/EasyDemographics.pdf",
+    "A Grand Notepad.md",
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
+    "Untitled.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "conflict-files-obsidian-git.md"
   ]
 }

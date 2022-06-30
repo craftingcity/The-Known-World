@@ -15,7 +15,6 @@ In the very beginning, people made homes and farms here, and quickly the [[Bandi
 
 In [[Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. In the end, it was a great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Nobles of Prosper|Noble House]] name.
 
-
 Related articles include [[Arthur's Journal]] and [[Unification]].
 
 ## Governance

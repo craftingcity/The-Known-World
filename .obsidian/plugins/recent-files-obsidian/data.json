@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Giant's Toe",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "EasyDemographics",
+      "path": "MEDIA/SUPP/EasyDemographics.pdf"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
     },
     {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Encounters",
-      "path": "Game Notes/Encounters/Encounters.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
       "basename": "alaturmen-100AF",
@@ -133,10 +129,6 @@
       "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
     },
     {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     },
@@ -199,6 +191,10 @@
     {
       "basename": "The Code of Thieves",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/The Code of Thieves.md"
+    },
+    {
+      "basename": "King's Common (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/King's Common (language).md"
     }
   ],
   "omittedPaths": [],
