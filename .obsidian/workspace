@@ -7,10 +7,9 @@
         "id": "7a961dd9b5ccc000",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
           }
         },
         "pane-relief:history-v1": {
@@ -19,7 +18,7 @@
             {
               "leaf": "7a961dd9b5ccc000",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-100AF.png\"}}",
               "eState": "{}"
             },
             {
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
               }
             },
             "pane-relief:history-v1": {
@@ -182,8 +181,9 @@
   },
   "active": "7a961dd9b5ccc000",
   "lastOpenFiles": [
-    "README.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/EasyDemographics.pdf",
+    "README.md",
     "A Grand Notepad.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Untitled.md",
