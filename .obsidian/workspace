@@ -153,14 +153,25 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "4227f1b27241c412",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 1094.5,
-    "collapsed": true
+    "width": 1094.5
   },
   "active": "62c753f4c75028f8",
   "lastOpenFiles": [
