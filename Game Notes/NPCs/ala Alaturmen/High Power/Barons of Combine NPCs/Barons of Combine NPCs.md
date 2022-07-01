@@ -2,6 +2,7 @@
 see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%
 - **[[Barons of Combine NPCs]]**
+	- [[Baron Avory]]
 	- [[Baron Filip]]
 	- [[Baron Glask]]
 	- [[Baron J'Tail]]

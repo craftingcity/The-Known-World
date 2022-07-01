@@ -32,12 +32,17 @@ aliases:
 		- [[The Outlands]]
 	- **[[The Democratic Combine of Peoples]]**
 		- **Factions**
+			- [[Beasts Righteous]]
 			- [[Grovetenders]]
 			- [[Hillkeep Loyalists]]
 			- **[[Knights in Red]]**
 				- [[Srioh]]
 				- [[Symbolism of the KiR]]
+			- [[Mossburg Corporation]]
+			- [[Mossburg Enforcers]]
 			- [[Riphounds]]
+			- [[Slimknives]]
+		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
 			- [[Noble House a'Haruuc]]
