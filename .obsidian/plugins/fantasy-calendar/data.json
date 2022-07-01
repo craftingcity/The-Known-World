@@ -1,0 +1,338 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "International Coalition Standard Clanendar",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Mok",
+            "id": "ID_f919a8288b49"
+          },
+          {
+            "type": "day",
+            "name": "Tuk",
+            "id": "ID_486b8bd809db"
+          },
+          {
+            "type": "day",
+            "name": "Lin",
+            "id": "ID_5b48ea6ac85a"
+          },
+          {
+            "type": "day",
+            "name": "Bouw",
+            "id": "ID_79d9d9b81b6b"
+          },
+          {
+            "type": "day",
+            "name": "Con",
+            "id": "ID_1a9a6b7be908"
+          },
+          {
+            "type": "day",
+            "name": "Lef",
+            "id": "ID_4a780bea890a"
+          },
+          {
+            "type": "day",
+            "name": "Graa",
+            "id": "ID_182ac8796aca"
+          }
+        ],
+        "months": [
+          {
+            "name": "Rebrirth",
+            "type": "month",
+            "length": 28,
+            "id": "ID_4ba8ba584a08"
+          },
+          {
+            "name": "Plowing",
+            "type": "month",
+            "length": 28,
+            "id": "ID_9bdb1a897809"
+          },
+          {
+            "name": "Resowing",
+            "type": "month",
+            "length": 28,
+            "id": "ID_7aaa08698b8a"
+          },
+          {
+            "name": "Weeding",
+            "type": "month",
+            "length": 28,
+            "id": "ID_88fbeb69f94a"
+          },
+          {
+            "name": "Replowing",
+            "type": "month",
+            "length": 28,
+            "id": "ID_aa98aa2bf9a9"
+          },
+          {
+            "name": "Producing",
+            "type": "month",
+            "length": 28,
+            "id": "ID_bb9b99891b8a"
+          },
+          {
+            "name": "Harvest",
+            "type": "month",
+            "length": 28,
+            "id": "ID_98fbda3bfa19"
+          },
+          {
+            "name": "Drying",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fb7938785af8"
+          },
+          {
+            "name": "Wind",
+            "type": "month",
+            "length": 28,
+            "id": "ID_7b8ac9dadada"
+          },
+          {
+            "name": "Slick",
+            "type": "month",
+            "length": 28,
+            "id": "ID_c8b8590b2bcb"
+          },
+          {
+            "name": "Slumber",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f9494b48e8f9"
+          },
+          {
+            "name": "Still",
+            "type": "month",
+            "length": 28,
+            "id": "ID_8958eae85ad8"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.5,
+            "offset": 10,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_79b9485bfa78"
+          }
+        ],
+        "leapDays": [],
+        "eras": [
+          {
+            "name": "Time Before Time",
+            "description": "",
+            "format": "Year {{era_year}} - {{era_name}}",
+            "start": {
+              "year": 105,
+              "month": 4,
+              "day": 4
+            }
+          },
+          {
+            "name": "After Fall",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 2022,
+              "month": 3,
+              "day": 28
+            }
+          }
+        ],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "year": 105,
+        "day": 4,
+        "month": 4
+      },
+      "events": [
+        {
+          "name": "Ar'Kraven's New Moon",
+          "id": "1226704",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": null
+        },
+        {
+          "name": "Sune's Waxing Gibbous",
+          "id": "1226705",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 2
+          },
+          "category": null
+        },
+        {
+          "name": "Tauruin's Waning Gibbous",
+          "id": "1226706",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 8
+          },
+          "category": null
+        },
+        {
+          "name": "Gromosh's Full Moon",
+          "id": "1226707",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 6
+          },
+          "category": null
+        },
+        {
+          "name": "Freric & Sophie's Waxing Cresent",
+          "id": "1226708",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 11
+          },
+          "category": null
+        },
+        {
+          "name": "Blemon's Last Quarter",
+          "id": "1226709",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 3
+          },
+          "category": null
+        },
+        {
+          "name": "Summer Communicae",
+          "id": "1226710",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": null,
+            "month": 4
+          },
+          "category": "guild-proceedings"
+        },
+        {
+          "name": "Winter Communicae",
+          "id": "1226711",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": null,
+            "month": 10
+          },
+          "category": "guild-proceedings"
+        },
+        {
+          "name": "Nala and Friends",
+          "id": "1226712",
+          "note": null,
+          "date": {
+            "day": 4,
+            "year": 105,
+            "month": 4
+          },
+          "category": "temploral-gate",
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 0,
+              "timespan": "days"
+            }
+          ]
+        },
+        {
+          "name": "Varis and Friends",
+          "id": "1226713",
+          "note": null,
+          "date": {
+            "day": 20,
+            "year": 103,
+            "month": 4
+          },
+          "category": "temploral-gate"
+        }
+      ],
+      "id": "ID_9bab0bebf84a",
+      "categories": [
+        {
+          "name": "Guild Holidays",
+          "id": "guild-holidays",
+          "color": "#4A148C"
+        },
+        {
+          "name": "Regional Holidays",
+          "id": "regional-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Guild Proceedings",
+          "id": "guild-proceedings",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Time Marches On...",
+          "id": "time-marches-on...",
+          "color": "#000000"
+        },
+        {
+          "name": "TEMPLORAL GATE",
+          "id": "temploral-gate",
+          "color": "#4A148C"
+        }
+      ],
+      "displayWeeks": false
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_9bab0bebf84a",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": false,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

@@ -8,7 +8,7 @@ A large city in the mountains that split the east and west stands in a circular 
 ### Government
 The city itself is governed by an elected body of [[Parlement]], formed from representatives of each Ward. In an effort to keep peace in the Known World, the City hosts [[Comminicaes]] in the Winter and the Summer where each of the surrounding entities (each of the four "nations") and the City itself come together to create a communicative and cooperative council. During the communicaes, representatives of smaller groups (such as a party, company, or otherwise) come to the council to air their concerns or comments.
 
-See [[The Guilds]].
+See [[Guilds of Coalition]].
 
 ## Important Symbolism
 [[The Official Guild Emblem]]
