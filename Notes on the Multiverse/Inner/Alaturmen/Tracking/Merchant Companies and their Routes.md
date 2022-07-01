@@ -5,6 +5,7 @@ aliases:
 
 
 # Merchant Companies
+While almost all general stores could be considered merchant companies, we will not be discussing the hundreds of unique merchants and their routes, only the most popular or powerful.
 ## Northeastern Companies
 ### [[Guild of Merchants]]
 ### [[Northstone Family Trading Company]]
@@ -28,8 +29,6 @@ aliases:
 ## Intranational Routes
 ### Kingdom of Prosper
 #### Big Three Route
-The "big three" in this instance are [[Gambleum]], [[Janesland]], and [[Yerba]], but this route reaches more destinations than those.
-
 #### Scenic Route
 ### Democratic Combine of Peoples
 ### Holyl'nds
