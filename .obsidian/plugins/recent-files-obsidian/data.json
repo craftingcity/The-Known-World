@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Blood-Hobgoblin Clan Territories",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md"
+    },
+    {
+      "basename": "EasyDemographics",
+      "path": "MEDIA/SUPP/EasyDemographics.pdf"
+    },
+    {
       "basename": "Alaturmen Population Data",
       "path": "Alaturmen Population Data.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Places",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "EasyDemographics",
-      "path": "MEDIA/SUPP/EasyDemographics.pdf"
     },
     {
       "basename": "Merchant Companies and their Routes",
@@ -55,10 +67,6 @@
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
       "basename": "Timeline",
@@ -191,14 +199,6 @@
     {
       "basename": "Dwarven (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
     }
   ],
   "omittedPaths": [],
