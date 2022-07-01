@@ -7,10 +7,9 @@
         "id": "93a38a4b66f144ad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-            "mode": "source"
+            "file": "MEDIA/SUPP/EasyDemographics.pdf"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +18,14 @@
             {
               "leaf": "93a38a4b66f144ad",
               "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/EasyDemographics.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "93a38a4b66f144ad",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":11.933063511830635}"
             },
             {
               "leaf": "93a38a4b66f144ad",
@@ -125,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "MEDIA/SUPP/EasyDemographics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "MEDIA/SUPP/EasyDemographics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+                "file": "MEDIA/SUPP/EasyDemographics.pdf"
               }
             },
             "pane-relief:history-v1": {
@@ -219,11 +224,11 @@
   },
   "active": "93a38a4b66f144ad",
   "lastOpenFiles": [
+    "MEDIA/SUPP/EasyDemographics.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md",
-    "MEDIA/SUPP/EasyDemographics.pdf",
     "Alaturmen Population Data.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
