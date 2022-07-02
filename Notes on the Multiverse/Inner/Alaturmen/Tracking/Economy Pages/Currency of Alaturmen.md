@@ -58,6 +58,8 @@ Sugar (1lb) | 1.0
 Wine (1 gal., average qual.) | 6.3
 Whiskey (1 gal., average qual.) | 19.5
 Honey (1lb) | 3.0
+Tea (1lb) |
+Guarana (1lb) | 
 Olive Oil (1 gal.) | 8.0
 Butter / Cheese (1lb) | 1.2-1.8
 --- | --- | --- 
@@ -81,16 +83,16 @@ War Horse / Camel (healthy) | 250.0-400.0
 Turkey (dressed-carcass) | 2.0-4.0
 Raccoon (dressed-carcass) | 0.8-1.8
 --- | --- | --- 
-Tobacco (1lb) | 1.2
-Cannabis (1lb) | 3.6
-Smokebulb (1lb) | 10.0
-Bulbkiss (1lb, powder) | 18.0
-Lephora Fruit (1lb) | 13.2
-Lephora Essance (1 gal) | 225.0
-Dareanamon (1lb, crystal) | 22.0
-Dareanamon (1 gal., syrup) | 28.0
-Isiopara (1lb, powder) | 63.0
-Nova (1lb, powder) | 2.4
+Tobacco (1lb) | 1.2 | stimulant / inhalant
+Cannabis (1lb) | 3.6 | euphoriant / inhalant
+Smokebulb (1lb) | 10.0 | hallucinogen / edible
+Bulbkiss (1lb, powder) | 18.0 | hallucinogen / inhalant
+Lephora Fruit (1lb) | 13.2 | hallucinogen / edible
+Lephora Essance (1 gal) | 225.0 | hallucinogen / inhalant
+Dareanamon (1lb, crystal) | 22.0 | euphoriant / inhalant
+Dareanamon (1 gal., syrup) | 28.0 | euphoriant / inhalant
+Isiopara (1lb, powder) | 63.0 | stimulant
+Nova (1lb, powder) | 2.4 | stimulant
 --- | --- | --- 
 Hemp fabric (1 sq. yard, soft) | 2.6
 Hemp fabric (1 sq. yard, strong) | 3.2
