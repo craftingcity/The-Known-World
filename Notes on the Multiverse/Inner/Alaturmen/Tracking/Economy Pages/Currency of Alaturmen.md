@@ -75,12 +75,18 @@ Durandurm (2 carat, cut) | 1750.0 / 7000.0
 Goat (healthy) | 5.0-15.0
 Chicken (healthy) | 0.5-0.6
 Rabbit (healthy) | 0.5-1.5
+Cattle (healthy) | 40.0-80.0
+Horse / Camel (healthy) | 100.0-160.0
+War Horse / Camel (healthy) | 250.0-400.0
+Turkey (dressed-carcass) | 2.0-4.0
+Raccoon (dressed-carcass) | 0.8-1.8
 --- | --- | --- 
 Tobacco (1lb) | 1.2
 Cannabis (1lb) | 3.6
 Smokebulb (1lb) | 10.0
 Bulbkiss (1lb, powder) | 18.0
 Lephora Fruit (1lb) | 13.2
+Lephora Essance (1 gal) | 225.0
 Dareanamon (1lb, crystal) | 22.0
 Dareanamon (1 gal., syrup) | 28.0
 Isiopara (1lb, powder) | 63.0

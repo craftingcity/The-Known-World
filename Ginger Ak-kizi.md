@@ -7,9 +7,10 @@ aliases:
 ### she / her
 #### VO EXAMPLE:
 
-> A woman stands above her fields of cactus and worker. She wears a outfit of fine flowing linens of brown and purple.
+> A woman stands above her fields of cactus and worker. She wears an outfit of fine flowing linens of brown and purple.
 
-A description of their function in the world.
+Ginger runs [[Ginger's Nopal & Agave Farm|a farm]] as well as almost all of the local drug trade in [[Kickoff]]. She stands on the [[Golden Claws#The Council of Eight]].
+
 ## History
 ### Conception
 #### Character Goal
