@@ -7,23 +7,22 @@ aliases: Durandurm City
 Prosperity: Moderate
 Population: Shrinking
 Defenses: Watch
-Other Tags: Exotic (durandurm), Need (workers, protection), Trade (local farms, thieves), Blight (raids), Power (arcane/durandurm)
+Other Tags: Exotic (Durandurm), Need (workers, protection), Trade (local farms, thieves), Blight (raids), Power (arcane/Durandurm)
 
 # Description
-Kickoff's main industry is mining and exporting durandurm crystal, a powerful magical component; beautiful clear crystal that is most commonly used in the focusing of raw elemental magic. 
+Kickoff's main industry is mining and exporting Durandurm crystal, a powerful magical component; beautiful clear crystal that is most commonly used in the focusing of raw elemental magic. 
 
-The way that the crystal resonates with the Weave creates a direct line into the elemental planes, and artificers have recently ([[Timeline#The Second Age The Age of Wonder]]) manufactured certain weapons that use this powerful leyline to fire small pellets and rocks over long distances.
+The way that the crystal resonates with the Weave creates a direct line into the elemental planes, and artificers have recently ([[Timeline#The Age of Beginning]]) manufactured certain weapons that use this powerful leyline to fire small pellets and rocks over long distances.
 
 The flux of prosperity has been halted short by the ongoing raids of [[The Outlands]] by its [[The Outlands#Nomad Tribes|Nomad Tribes]] and the [[The Outlands#Thieves|Thieves Guilds]].
 
 
 ## Physicality of the Holding
-The medium sized mining town is built of wood structures grouped closely together.
+The medium sized city built of adobe-sand masonry. The buildings are tightly grouped together and stacked atop each other.
 
 ## Defenses
-Kickoff is one of the few holdings in [[The Outlands]] that is not under [[The Outlands#Thieves|a team of thieves']] control. They use their own [[Durandurm Weaponry]] to defend themselves from threats of the outside world. Given that they are located in between [[Agrandica]]'s and [[Barthalamule]]'s area of control, they often make attempts to gain control of the town. They are never fully successful, as they are contended by the other of the two whenever they attempt.
-
+Kickoff is under the protection of the [[Golden Claws]], although they are far from [[The Golden City]]. Many people carry their own bladed weapons (or, in the case of the Durandurm-powered ranged weaponry.
 ## Notable Locations
-- the durandurm mine
+- [[Kickoff's Great Durandurm Mines]]
 - [[Ginger's Nopal & Agave Farm]]
 - [[Tybir's Camel Ranch]]

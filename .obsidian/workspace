@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ginger's Nopal & Agave Farm.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "078f941b668cc6e5",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":172},\"to\":{\"line\":23,\"ch\":172}},\"scroll\":12.619240416764363}"
+            },
+            {
+              "leaf": "078f941b668cc6e5",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ginger's Nopal & Agave Farm.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}},\"scroll\":0}"
             },
             {
               "leaf": "078f941b668cc6e5",
@@ -30,6 +36,40 @@
             },
             {
               "leaf": "078f941b668cc6e5",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9ed3ea62255e32f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9ed3ea62255e32f6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":33},\"to\":{\"line\":72,\"ch\":33}},\"scroll\":53.17717075559362}"
+            },
+            {
+              "leaf": "9ed3ea62255e32f6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kickoff's Great Durandurm Mines.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9ed3ea62255e32f6",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -113,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ginger's Nopal & Agave Farm.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ginger's Nopal & Agave Farm.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ginger's Nopal & Agave Farm.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
               }
             },
             "pane-relief:history-v1": {
@@ -180,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "078f941b668cc6e5",
+  "active": "9ed3ea62255e32f6",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
+    "Kickoff's Great Durandurm Mines.md",
     "Ginger's Nopal & Agave Farm.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md",
     "Game Notes/Game Notes.md",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/MAPS/DUNG/GiantsToe - Upper.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md",
-    "A Grand Notepad.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
