@@ -50,7 +50,7 @@ You *must know* that the levels presented here only explore the tip of this mass
 
 ### Kailkeep's Secrets
 #### Viewer's Favor
-Kailkeep's worst kept secret is that it is what it is; entertainment for a colony of Kobolds who harbor evils for fun. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
+Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
 
 #### Proving Grounds
 While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not win.
