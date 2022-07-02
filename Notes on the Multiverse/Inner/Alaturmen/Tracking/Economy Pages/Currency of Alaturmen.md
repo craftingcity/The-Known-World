@@ -18,14 +18,14 @@ Golden Fifth | Church | 2.0 | one-fifth of a gold whole
 Golden Whole | Church | 10.0 | a complete gold whole, five fifths
 --- | --- | --- | ---
 Lead Finger | Tetrimoc | 0.1 | dragonly finger of lead
-Lead Claw | Tetrimoc | 0.6
+Lead Claw | Tetrimoc | 0.6 | five fingers attatched at the base of a sixth
 Silver Puck | Tetrimoc | 0.8 | a half ounce of silver, minted
 Golden Puck | Tetrimoc | 8.0 | a half ounce of gold, minted
 Golden Finger | Tetrimoc | 26.0 | dragonly finger of gold
-Golden Claw | Tetrimoc | 156.0
+Golden Claw | Tetrimoc | 156.0 | five fingers attatched at the base of a sixth
 --- | --- | --- | ---
-Tin Bit | Actstow | 0.1
-Tin Bolt | Actstow | 1.0 | its ten bits attached
+Tin Bit | Actstow | 0.1 | a small triangular polygon of tin
+Tin Bolt | Actstow | 1.0 | its ten bits attached in a triangular bolt
 Elven Leaf | Cenva Minyo | 3.0 | 1/10th sq. yard of elven fiber
 Jade Bit | Actstow | 11.0 | 1 carat average jade, minted
 --- | --- | --- | ---
@@ -47,9 +47,6 @@ Merchant's Silver Pound | Guild | 10.0
 Merchant's Gold Pound | Guild | 100.0
 Merchant's Platinum Pound | Guild | 1000.0
 
-### Chart
-
-
 ## Goods
 Good | Value in sp | Notes
 --- | --- | --- 
@@ -58,8 +55,8 @@ Sugar (1lb) | 1.0
 Wine (1 gal., average qual.) | 6.3
 Whiskey (1 gal., average qual.) | 19.5
 Honey (1lb) | 3.0
-Tea (1lb) |
-Guarana (1lb) | 
+Tea (1lb, compressed) | 0.8 | stimulant / consumable
+Guarana (1lb, compressed) | 2.4 | stimulant / consumable
 Olive Oil (1 gal.) | 8.0
 Butter / Cheese (1lb) | 1.2-1.8
 --- | --- | --- 
@@ -90,15 +87,17 @@ Bulbkiss (1lb, powder) | 18.0 | hallucinogen / inhalant
 Lephora Fruit (1lb) | 13.2 | hallucinogen / edible
 Lephora Essance (1 gal) | 225.0 | hallucinogen / inhalant
 Dareanamon (1lb, crystal) | 22.0 | euphoriant / inhalant
-Dareanamon (1 gal., syrup) | 28.0 | euphoriant / inhalant
-Isiopara (1lb, powder) | 63.0 | stimulant
-Nova (1lb, powder) | 2.4 | stimulant
+Dareanamon (1lb, syrup) | 28.0 | euphoriant / inhalant
+Isiopara (1lb, powder) | 63.0 | stimulant / inhalant
+Nova (1lb, powder) | 12.0 | stimulant / inhalant
 --- | --- | --- 
 Hemp fabric (1 sq. yard, soft) | 2.6
 Hemp fabric (1 sq. yard, strong) | 3.2
 Linen fabric (1 sq. yard, farm) | 3.3
 Linen fabric (1 sq. yard, fine) | 4.0
 Silk fabric (1 sq. yard) | 42.5
+Anamabric (1 sq. yard) | 21.2
+Elven Fiber (1 sq. yard) | 30.0
 --- | --- | --- 
 Leather (1 sq. yard, cattle) | 6.0
 Leather (1 sq. yard, goat) | 7.0
