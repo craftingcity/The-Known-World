@@ -24,3 +24,19 @@ In the second century, contention begins to arise as the [[Blood-Hobgoblin Clan 
 Bag-head bandits.
 
 "For the Lands of Tetrimoc and the Empire of the [[Golden Claws]]!"
+
+# Kailkeep
+## L1; Hook
+Locations:
+Weapons Production
+- Weapon Export
+- Supplies Import
+Food Production
+Food Storage
+- Food Import
+- Ice Import
+Textile Production
+Barracks
+
+
+

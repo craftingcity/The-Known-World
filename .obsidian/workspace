@@ -14,8 +14,14 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "f8a69cebd0fe7529",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "f8a69cebd0fe7529",
               "group": null,
@@ -39,6 +45,28 @@
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "78735ab548253fd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Grand Notepad.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "78735ab548253fd2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":8},\"to\":{\"line\":38,\"ch\":8}},\"scroll\":20.440999826990552}"
             }
           ]
         }
@@ -189,6 +217,7 @@
   "active": "f8a69cebd0fe7529",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
     "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
     "Caris Avner.md",
@@ -196,7 +225,6 @@
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "Ginger's Nopal & Agave Farm.md",
     "Tybir's Camel Ranch.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
-    "Ginger Ak-kizi.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md"
   ]
 }
