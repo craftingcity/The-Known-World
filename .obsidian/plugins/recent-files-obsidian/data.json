@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Ginger's Nopal & Agave Farm",
+      "path": "Ginger's Nopal & Agave Farm.md"
+    },
+    {
       "basename": "Golden Claws",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
     {
       "basename": "Venclaw",
-      "path": "Venclaw.md"
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md"
     },
     {
       "basename": "Emergency Communicae c. 103AF",
@@ -14,7 +18,7 @@
     },
     {
       "basename": "Communicaes",
-      "path": "Communicaes.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
     },
     {
       "basename": "Game Notes",
@@ -195,10 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
     }
   ],
   "omittedPaths": [],

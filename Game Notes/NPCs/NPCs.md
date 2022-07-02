@@ -32,7 +32,9 @@ for the graph: [[Here lie my suppliments...]]
 				- **[[Grey Ordeal]]**
 				- **[[Kakurak's Chosen]]**
 			- **[[True Villian NPCs]]**
+			- [[Venclaw]]
 		- **Mild Power**
+			- **Employees of Golden Claw**
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- **[[Tendered]]**
@@ -40,6 +42,8 @@ for the graph: [[Here lie my suppliments...]]
 		- [[on Alaturmen]]
 		- **Weak Power**
 			- **[[Combine Citizens]]**
+			- **Desert Citizens**
+			- **G-City Citizens**
 			- **King's Tenants**
 				- [[Balthazar Wumfingle]]
 				- **[[Ex-Bandit Lords]]**
@@ -55,8 +59,5 @@ for the graph: [[Here lie my suppliments...]]
 			- **[[Giant NPCs]]**
 	- **[[ala Underdark]]**
 	- [[List of Names]]
-	- **on Alaturmen**
-		- **High Power**
-			- **Leaders in Prosper**
 
 %% End Waypoint %%

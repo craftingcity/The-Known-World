@@ -15,6 +15,7 @@ aliases:
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
 		- [[Communicae]]
+		- [[Communicaes]]
 		- **[[Guilds of Coalition]]**
 			- [[Guild of Adventurers]]
 			- [[Guild of Crafters]]
