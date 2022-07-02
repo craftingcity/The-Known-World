@@ -1,5 +1,4 @@
 ### Level One: Hook
-![[KKHell - 1_Hook.png]]
 #### What Dwells Here?
 ##### Injured or Retired Loyalists
 Groups of Goblin and Gaund live and work here producing weapons and ammunition, and staying out of the way of any newcomers that make there way here.
