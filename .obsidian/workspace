@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "078f941b668cc6e5",
+        "id": "05dc2e7e89bb7a04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+            "file": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
             "mode": "source"
           }
         },
@@ -17,49 +17,19 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "078f941b668cc6e5",
+              "leaf": "05dc2e7e89bb7a04",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":5.4503709412869865}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "078f941b668cc6e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tybir's Camel Ranch.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "078f941b668cc6e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.214727098999745}"
-            },
-            {
-              "leaf": "078f941b668cc6e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ginger's Nopal & Agave Farm.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":281},\"to\":{\"line\":7,\"ch\":281}},\"scroll\":0}"
-            },
-            {
-              "leaf": "078f941b668cc6e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":12.636189596317026}"
-            },
-            {
-              "leaf": "078f941b668cc6e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ginger's Nopal & Agave Farm.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":129},\"to\":{\"line\":7,\"ch\":129}},\"scroll\":0}"
-            },
-            {
-              "leaf": "078f941b668cc6e5",
+              "leaf": "05dc2e7e89bb7a04",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "078f941b668cc6e5",
+              "leaf": "05dc2e7e89bb7a04",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -143,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+                "file": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md"
               }
             },
             "pane-relief:history-v1": {
@@ -210,8 +180,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "078f941b668cc6e5",
+  "active": "05dc2e7e89bb7a04",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
+    "Caris Avner.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/GrainIntoGold.pdf",
     "Ginger's Nopal & Agave Farm.md",
@@ -219,8 +191,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
     "Ginger Ak-kizi.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md",
-    "Kickoff's Great Durandurm Mines.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md"
   ]
 }
