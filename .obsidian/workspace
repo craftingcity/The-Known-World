@@ -7,12 +7,21 @@
         "id": "f8a69cebd0fe7529",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "f8a69cebd0fe7529",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.586584500700802}"
+            },
             {
               "leaf": "f8a69cebd0fe7529",
               "group": null,
@@ -104,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -169,6 +182,7 @@
   },
   "active": "f8a69cebd0fe7529",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
     "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md",
     "Caris Avner.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
@@ -177,7 +191,6 @@
     "Tybir's Camel Ranch.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
     "Ginger Ak-kizi.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
   ]
 }

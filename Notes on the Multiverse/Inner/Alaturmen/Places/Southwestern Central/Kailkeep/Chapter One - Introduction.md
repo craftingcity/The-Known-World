@@ -141,7 +141,7 @@ In its lowest floors, the first three, it is a carefully crafted dungeon of fals
 ### The World's Biggest Entertainment Center
 Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. 
 
-The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
+The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be presented with the feeling of unease – prey being lured into a trap.
 
 A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
