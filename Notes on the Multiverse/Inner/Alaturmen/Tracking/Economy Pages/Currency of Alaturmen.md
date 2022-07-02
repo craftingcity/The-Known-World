@@ -65,8 +65,8 @@ Diamond (1 carat, cut) | 1000.0
 Diamond (2 carat, cut) | 3500.0
 Emerald / Ruby / Sapphire (1 carat, cut) | ~500.0
 Emerald / Ruby / Sapphire (2 carat, cut) | ~1750.0
-Amethyst (1 carat, cut) | 100.0
-Amethyst (2 carat, cut) | 350.0
+Amethyst (1 carat, cut) | 100.0 / 200.0
+Amethyst (2 carat, cut) | 350.0 / 700.0
 Glass (1 carat, colored, cut) | 0.1
 Glass (1 carat, clear, cut) | 0.3
 Durandurm (1 carat, cut) | 500.0 / 2000.0

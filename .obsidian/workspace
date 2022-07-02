@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
+            "file": "Ginger's Nopal & Agave Farm.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "078f941b668cc6e5",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ginger's Nopal & Agave Farm.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "078f941b668cc6e5",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":172},\"to\":{\"line\":23,\"ch\":172}},\"scroll\":12.619240416764363}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":12.636189596317026}"
             },
             {
               "leaf": "078f941b668cc6e5",
@@ -44,6 +50,40 @@
         }
       },
       {
+        "id": "47474234bafc99d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ginger Ak-kizi.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "47474234bafc99d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ginger Ak-kizi.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "47474234bafc99d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":46},\"to\":{\"line\":13,\"ch\":46}},\"scroll\":7.154739785305107}"
+            },
+            {
+              "leaf": "47474234bafc99d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":40},\"to\":{\"line\":20,\"ch\":40}},\"scroll\":12.32468813304216}"
+            }
+          ]
+        }
+      },
+      {
         "id": "9ed3ea62255e32f6",
         "type": "leaf",
         "state": {
@@ -60,7 +100,7 @@
               "leaf": "9ed3ea62255e32f6",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":33},\"to\":{\"line\":72,\"ch\":33}},\"scroll\":53.17717075559362}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":7},\"to\":{\"line\":82,\"ch\":7}},\"scroll\":52.61408675056741}"
             },
             {
               "leaf": "9ed3ea62255e32f6",
@@ -153,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Ginger Ak-kizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Ginger Ak-kizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+                "file": "Ginger Ak-kizi.md"
               }
             },
             "pane-relief:history-v1": {
@@ -220,17 +260,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ed3ea62255e32f6",
+  "active": "47474234bafc99d5",
   "lastOpenFiles": [
+    "Ginger Ak-kizi.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md",
+    "Ginger's Nopal & Agave Farm.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md",
     "Kickoff's Great Durandurm Mines.md",
-    "Ginger's Nopal & Agave Farm.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md",
-    "Game Notes/Game Notes.md",
-    "conflict-files-obsidian-git.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
   ]
 }

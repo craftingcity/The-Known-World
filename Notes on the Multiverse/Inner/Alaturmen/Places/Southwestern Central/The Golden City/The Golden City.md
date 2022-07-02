@@ -17,6 +17,8 @@ Other Tags:
 
 # Description
 Any sort of local lore...
+
+Ruled by [[Tetrimoc]] and the [[Golden Claws]].
 ## Physicality of the Holding
 
 ## Population Distribution
