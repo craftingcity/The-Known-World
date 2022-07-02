@@ -31,7 +31,7 @@ Locations:
 Weapons Production
 - Weapon Export
 - Supplies Import
-Food Production
+Kitchen
 Food Storage
 - Food Import
 - Ice Import

@@ -26,7 +26,7 @@
               "leaf": "f8a69cebd0fe7529",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":23},\"to\":{\"line\":11,\"ch\":23}},\"scroll\":0}"
             },
             {
               "leaf": "f8a69cebd0fe7529",
@@ -66,7 +66,7 @@
               "leaf": "78735ab548253fd2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":8},\"to\":{\"line\":38,\"ch\":8}},\"scroll\":20.440999826990552}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":20.440999826990552}"
             }
           ]
         }

@@ -8,6 +8,11 @@ Hall A <,W> Barracks
 Textile Production <,S> Weapons Production
 Textile Production <,N> Food Storage
 Textile Production <,W> Barracks
-Barracks <,>
-Weapons Production <,>
-Food Storage <,>
+Barracks >,S> L2: "Noble" Rooms
+Barracks <,NNE> Kitchen
+Weapons Production <,ES> Weapons Export
+Weapons Production <,EN> Supplies Import
+Food Storage <,S> Supplies Import
+Kitchen <,S> Food Storage
+Kitchen <,W> Barracks
+Kitchen >,E> L2: Leather-working Production
