@@ -345,11 +345,11 @@ Your culture bestows in you some traits and ideals that can be mechanically repr
 
 ## Nation-States of Coalition
 ### Kingdom of Prosper
-After the Fall of Tetrimoc, and the entrance of sentient life unto Alaturmen, a group of "Bandit Lords" ruled the Great Northern Forest
+After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they will fall in the West, but here in the East, they ruled for about forty-five years. 
 
-Prosper promotes personal hardiness and community focus. It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. 
+They sometimes literally but mostly metaphorically fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood-Hobgoblin Clan Territories]] at these borders.
 
-The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
+The state-mandated-education in Prosper teaches children to read and write, as well as promoting personal hardiness and community focus; It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
 **Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].  
