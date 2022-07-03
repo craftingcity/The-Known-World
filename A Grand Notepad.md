@@ -39,6 +39,8 @@ Textile Production
 Barracks
 
 ## L2; Line
+Locations:
+Armor Production
 ## L3; Sinker
 ## L4; 
 
