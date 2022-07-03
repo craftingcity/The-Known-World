@@ -20,7 +20,7 @@
               "leaf": "16e4d249d6f5f036",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":13},\"to\":{\"line\":41,\"ch\":13}},\"scroll\":21.81700162331184}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":14},\"to\":{\"line\":47,\"ch\":14}},\"scroll\":42.420049018827925}"
             },
             {
               "leaf": "16e4d249d6f5f036",
@@ -61,7 +61,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Five - Level Four; Four Corners.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
             "mode": "source"
           }
         },
@@ -71,8 +71,14 @@
             {
               "leaf": "71f289def02000cb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Five - Level Four; Four Corners.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "71f289def02000cb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Five - Level Four; Four Corners.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "71f289def02000cb",
@@ -142,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5020484924316,
-    "collapsed": true
+    "width": 531.5020484924316
   },
   "right": {
     "id": "19a40ea2f9578efa",
@@ -229,9 +234,9 @@
   "active": "16e4d249d6f5f036",
   "lastOpenFiles": [
     "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
     "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md",
     "README.md",
     "conflict-files-obsidian-git.md",

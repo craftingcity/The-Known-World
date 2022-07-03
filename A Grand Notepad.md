@@ -26,6 +26,9 @@ Bag-head bandits.
 "For the Lands of Tetrimoc and the Empire of the [[Golden Claws]]!"
 
 # Kailkeep
+Big Conclusion;
+These lower levels are a facade to lure adventurers higher
+
 ## L1; Hook
 Locations:
 Weapons Production
@@ -41,6 +44,19 @@ Barracks
 ## L2; Line
 Locations:
 Armor Production
+- Armor Export
+Leatherworking
+Above Textiles
+Noble Rooms
 ## L3; Sinker
-## L4; 
+Variations:
+Sand Table
+Grease, Spikes, and Fire
+Boulder Dash
+## L4; Four Corners
+## L5; Pick-Up Sticks
+## L6; Here Comes an Old Soldier
+## L7; Kadabbi
+## L8; The Floor is Ooze!
+## L9; A Final Test
 
