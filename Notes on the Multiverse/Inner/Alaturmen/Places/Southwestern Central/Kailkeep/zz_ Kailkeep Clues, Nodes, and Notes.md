@@ -22,7 +22,7 @@ Locations:
 Armor Production
 - Armor Export
 Leatherworking
-Above Textiles
+Balcony
 Noble Rooms
 ## L3; Sinker
 Variations:

@@ -10,6 +10,7 @@ x >,N> [[#Hall A]]
 [[#Textile Production]] <,S> [[#Weapons Production]]
 [[#Textile Production]] <,N> [[#Food Storage]]
 [[#Textile Production]] <,W> [[#Barracks]]
+[[#Textile Production]] >,W> [[b_ Chapter Three - Level Two; Line|L2: Balcony]]
 [[#Barracks]] >,S> [[b_ Chapter Three - Level Two; Line|L2: "Noble" Rooms]]
 [[#Barracks]] <,NNE> [[#Kitchen]]
 [[#Weapons Production]] <,ES> [[#Weapons Export]]
@@ -22,6 +23,8 @@ x >,N> [[#Hall A]]
 ### Detail
 #### Hall A
 #### Textile Production
+This room was clearly once some sort of gathering space to view speeches made from the [[b_ Chapter Three - Level Two; Line|Balcony]] above this space as evidenced by the many dozens of stools pushed and stacked into the corners of this room. In the center of this space, a huge 
+
 #### Barracks
 #### Weapons Production
 #### Food Storage

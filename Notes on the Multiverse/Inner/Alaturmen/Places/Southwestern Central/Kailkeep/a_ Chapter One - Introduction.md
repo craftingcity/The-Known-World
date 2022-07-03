@@ -147,7 +147,7 @@ The first three levels present very little challenge to even the greenest advent
 A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
 ### Entering Kailkeep
-Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious, if you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
+Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious entrances, no matter where you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
 
 The Kobolds keep service entrances from which they and their loyalists come and go, as well as the three first floors of the Hells of Kailkeep; The False Allure. The False Allure has many entrances around the base of the mountain.
 
