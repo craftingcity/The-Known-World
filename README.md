@@ -357,7 +357,9 @@ The state-mandated-education in Prosper teaches children to read and write, as w
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Church of the White Flame
-The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
+The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. 
+
+The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Modern Elven (language)]].  
