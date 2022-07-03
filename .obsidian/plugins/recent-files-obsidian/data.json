@@ -1,36 +1,61 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
+      "basename": "Chapter Ten - Level Nine; A Final Test",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Ten - Level Nine; A Final Test.md"
+    },
+    {
+      "basename": "Chapter Nine - Level Eight; The Floor Is Ooze!",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Nine - Level Eight; The Floor Is Ooze!.md"
+=======
       "basename": "EasyDemographics",
       "path": "MEDIA/SUPP/EasyDemographics.pdf"
+>>>>>>> parent of 94d098d (LAPTOP: 2022-07-01 00:22:22)
     },
     {
-      "basename": "Merchant Companies and their Routes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+      "basename": "Chapter Eight - Level Seven; Kadabbi",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eight - Level Seven; Kadabbi.md"
     },
     {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+      "basename": "Chapter Four - Level Three; Sinker",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Four - Level Three; Sinker.md"
     },
     {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+      "basename": "Chapter Five - Level Four; Four Corners",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Five - Level Four; Four Corners.md"
     },
     {
-      "basename": "Blood-Hobgoblin Clan Territories",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Territories.md"
+      "basename": "Chapter Six - Level Five; Pick-up Sticks",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Six - Level Five; Pick-up Sticks.md"
     },
     {
-      "basename": "Alaturmen Population Data",
-      "path": "Alaturmen Population Data.md"
+      "basename": "Chapter Seven - Level Six; Here Comes an Old Soldier",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Seven - Level Six; Here Comes an Old Soldier.md"
     },
     {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+      "basename": "Chapter Three - Level Two; Line",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Three - Level Two; Line.md"
     },
     {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+      "basename": "Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "Chapter One - Introduction",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "King Snure",
+      "path": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Giant NPCs/King Snure.md"
+    },
+    {
+      "basename": "Caris Avner",
+      "path": "Caris Avner.md"
     },
     {
       "basename": "alaturmen-100AF",
@@ -41,32 +66,80 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/GrainIntoGold.pdf"
     },
     {
-      "basename": "Balthazar Wumfingle",
-      "path": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Balthazar Wumfingle.md"
+      "basename": "Ginger's Nopal & Agave Farm",
+      "path": "Ginger's Nopal & Agave Farm.md"
     },
     {
-      "basename": "AMMS-WesternEuropeIII",
-      "path": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+      "basename": "Tybir's Camel Ranch",
+      "path": "Tybir's Camel Ranch.md"
     },
     {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
+      "basename": "Kickoff",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Kickoff.md"
     },
     {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+      "basename": "Ginger Ak-kizi",
+      "path": "Ginger Ak-kizi.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
+      "basename": "The Golden City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md"
+    },
+    {
+      "basename": "Kickoff's Great Durandurm Mines",
+      "path": "Kickoff's Great Durandurm Mines.md"
+    },
+    {
+      "basename": "Venclaw",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md"
+    },
+    {
+      "basename": "Emergency Communicae c. 103AF",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+    },
+    {
+      "basename": "Communicaes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "GiantsToe - Upper",
+      "path": "MEDIA/MAPS/DUNG/GiantsToe - Upper.pdf"
+    },
+    {
+      "basename": "Giant's Toe",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Giant's Toe.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Encounters",
+      "path": "Game Notes/Encounters/Encounters.md"
+    },
+    {
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
+      "basename": "Merchant Companies and their Routes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
     },
     {
       "basename": "Timeline",
@@ -78,7 +151,7 @@
     },
     {
       "basename": "Mossburg Corporation",
-      "path": "Mossburg Corporation.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md"
     },
     {
       "basename": "Economics of Combine",
@@ -94,11 +167,11 @@
     },
     {
       "basename": "Mossburg Enforcers",
-      "path": "Mossburg Enforcers.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Enforcers.md"
     },
     {
       "basename": "Mossburg",
-      "path": "Mossburg.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Mossburg.md"
     },
     {
       "basename": "Centerlick Mossland",
@@ -106,11 +179,11 @@
     },
     {
       "basename": "Slimknives",
-      "path": "Slimknives.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
     },
     {
       "basename": "Baron Avory",
-      "path": "Baron Avory.md"
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
     },
     {
       "basename": "Westlick Mossland",
@@ -126,7 +199,7 @@
     },
     {
       "basename": "Beasts Righteous",
-      "path": "Beasts Righteous.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Beasts Righteous.md"
     },
     {
       "basename": "Holding Rules",
@@ -135,70 +208,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Arthur Simonson",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
-    },
-    {
-      "basename": "Aurgurs",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Aurgurs.md"
-    },
-    {
-      "basename": "Esoteriques",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Esoteriques.md"
-    },
-    {
-      "basename": "Glamora",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Glamora.md"
-    },
-    {
-      "basename": "Ardor",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Ardor.md"
-    },
-    {
-      "basename": "Vitalities",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Vitalities.md"
-    },
-    {
-      "basename": "Moonlight",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Moonlight.md"
-    },
-    {
-      "basename": "KingdomOfProsper-105AF",
-      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
-    },
-    {
-      "basename": "Aeberu",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Smaller than a city/Aeberu.md"
-    },
-    {
-      "basename": "Darktower",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Darktower.md"
-    },
-    {
-      "basename": "Aquarian (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Aquarian (language).md"
-    },
-    {
-      "basename": "Abyssal (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Abyssal (language).md"
-    },
-    {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "Thieves Cant (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Thieves Cant (language).md"
-    },
-    {
-      "basename": "Goblin (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Goblin (language).md"
-    },
-    {
-      "basename": "Dwarven (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Modern Languages/Dwarven (language).md"
     }
   ],
   "omittedPaths": [],

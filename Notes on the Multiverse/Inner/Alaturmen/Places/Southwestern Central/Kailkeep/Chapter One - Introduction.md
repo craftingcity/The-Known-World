@@ -50,7 +50,7 @@ You *must know* that the levels presented here only explore the tip of this mass
 
 ### Kailkeep's Secrets
 #### Viewer's Favor
-Kailkeep's worst kept secret is that it is what it is; entertainment for a colony of Kobolds who harbor evils for fun. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
+Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
 
 #### Proving Grounds
 While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to keep doing this". Sometimes the winners say yes. Other times, they do not win.
@@ -141,7 +141,7 @@ In its lowest floors, the first three, it is a carefully crafted dungeon of fals
 ### The World's Biggest Entertainment Center
 Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. 
 
-The first three levels present very little challenge to even the greenest adventurers. Veterans should be presented with the feeling of unease, a prey standing too still – a hunter being hunted.
+The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be presented with the feeling of unease – prey being lured into a trap.
 
 A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
 
@@ -183,4 +183,4 @@ The Kobolds who view the Hells as entertainment have no need for light, except i
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ##### Scoreboard
-Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds and entertainment rating of the owner of the hand, given they are still alive.
+Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contender) and "entertainment rating" of the owner of the hand, given they are still alive.
