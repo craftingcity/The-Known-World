@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Kailkeep",
@@ -191,14 +199,6 @@
     {
       "basename": "Centerlick Mossland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Centerlick Mossland.md"
-    },
-    {
-      "basename": "Slimknives",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
-    },
-    {
-      "basename": "Baron Avory",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
     }
   ],
   "omittedPaths": [],

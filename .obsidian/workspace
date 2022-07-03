@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "78735ab548253fd2",
+        "id": "16e4d249d6f5f036",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Grand Notepad.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -17,52 +17,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "78735ab548253fd2",
+              "leaf": "16e4d249d6f5f036",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "16e4d249d6f5f036",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "78735ab548253fd2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":7},\"to\":{\"line\":42,\"ch\":7}},\"scroll\":30.399754325847542}"
             }
           ]
         }
@@ -126,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5020484924316
+    "width": 531.5020484924316,
+    "collapsed": true
   },
   "right": {
     "id": "19a40ea2f9578efa",
@@ -142,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -209,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78735ab548253fd2",
+  "active": "16e4d249d6f5f036",
   "lastOpenFiles": [
+    "README.md",
     "A Grand Notepad.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Ten - Level Nine; A Final Test.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md"
   ]
 }
