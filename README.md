@@ -68,7 +68,7 @@ Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Human (s.)
-The humans of Alaturmen have no creation myth of their own - the legends claim that the Goblin and the Elves and the Dragon-kin and the Triton found them as Time Began upon Alaturmen. Humans on Alaturmen are extremely similar to the Humans of Ancient Earth, much as you and I are.
+The humans of Alaturmen have no creation myth of their own - the legends claim that as Time Began upon Alaturmen, the Goblin, Elves, Dragon-kin, and Triton found them bare-naked in the fields. Humans on Alaturmen are extremely similar to the Humans of Ancient Earth, much as you and I are.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Human mothers typically birth only one child per conception, but it is possible that a human could birth quite large litters.  
 **Size.** Mechanically, your size is medium. You stand at about five and a half feet tall. You weigh about one-hundred seventy-five pounds.  
@@ -76,15 +76,15 @@ The humans of Alaturmen have no creation myth of their own - the legends claim t
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.  
 
 ### Elven (s.)
-The Elves of Alaturmen are descendants of the Eladrin, sent to Alaturmen as the planes "rightful heir". Elves are taller than humans, and generally thinner. Elves 
+Many of the visual features of an Elf is based on their seasonal ancestry, although they all share their above human-average height, sharp ears, and powerful eyes.
 
-**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
+**Age.** Although you are considered fully mature at about twenty-five, the traditional elven perception of "adulthood" is based on experience more than chronology. As a feature of one's coming-of-age, one would change their name from that given at birth by their parents to that name they believe they have earned. As an elf reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Elven parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
 **Size.** Mechanically, your size is medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
 **Speed.** Your speed is 30 feet per round.  
 **Trance.** You do not sleep. Instead you meditate deeply, remaining semi-conscious, for 4 hours a day. While meditating, you dream after a fashion; but such dreams are truly mental exercises you have developed and over time have become reflexive after your years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.  
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the 10 traditionally used for passive-style checks. Call it plus 4.).  
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;  
-	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion.   
+	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion.
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.  
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.  
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
