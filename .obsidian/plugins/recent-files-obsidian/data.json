@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md"
+    },
+    {
       "basename": "Chapter Ten - Level Nine; A Final Test",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Ten - Level Nine; A Final Test.md"
+    },
+    {
+      "basename": "Chapter One - Introduction",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md"
     },
     {
       "basename": "Chapter Nine - Level Eight; The Floor Is Ooze!",
@@ -31,18 +47,6 @@
     {
       "basename": "Chapter Three - Level Two; Line",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Three - Level Two; Line.md"
-    },
-    {
-      "basename": "Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md"
-    },
-    {
-      "basename": "Chapter One - Introduction",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "King Snure",
@@ -195,10 +199,6 @@
     {
       "basename": "Holding Rules",
       "path": "ORGANIZATION/Holding Rules.md"
-    },
-    {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     }
   ],
   "omittedPaths": [],
