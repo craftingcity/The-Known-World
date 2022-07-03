@@ -313,7 +313,7 @@ Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [
 **Age.** You are considered fully mature, and you do not age.  
 **Size.** Mechanically, your size is Medium. You stand at five feet tall. You weigh four-hundred thirty five pounds, seven ounces precisely.  
 **Speed.** Your speed is 30 feet per round.  
-**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic (not the petty laws of man, but the laws of nature, of power). You gain the following benifits;  
+**Constructed Form.** Your creature type is construct. You ***cannot*** perform acts that the fates would consider chaotic ("we care not the petty laws of man, but the laws of nature, of power"). You gain the following benefits;  
 - You have immunity against being poisoned and to poison damage. 
 - You are immune to disease. 
 - You don't need to sleep, and magic cannot put you to sleep. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal. 
@@ -335,11 +335,21 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 - As a reaction, you may cast *protection from evil and good* on yourself or one creature within five feet of you. You cannot use this feature until you complete a long rest.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
+> #### Wha! Wha! I wanna be an asshole at the table!
+> You may have noticed that there is no Chaotic or Evil counterparts to the *Mecha* or the *Aasimar*. This was a purposeful design choice; you do not get to play *Demons* or *Devils* at my table. 
+> Full stop, no exceptions. There are plenty enough ways to perform evil or induce chaos without having the inability to perform acts of good or lawfulness.
+> Try a human.
+
 # Culture
-Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits.
+Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits. I mention your culture's Alignment at the end of it's description, though I never use the word, and to be clear; This is not your assigned Alignment. You may take it if you so choose but *your* character's alignment need not reflect their culture's, but it should reflect their actions. If you decide that your character's alignment needs to shift to more accurately represent their actions, please do so, but if this is more like a character arc thing you should come talk to me.
+
 ## Nation-States of Coalition
 ### Kingdom of Prosper
-The culture of Prosper is one of personal hardiness and community focus. It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and even their children are raised to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
+After the Fall of Tetrimoc, and the entrance of sentient life unto Alaturmen, a group of "Bandit Lords" ruled the Great Northern Forest
+
+Prosper promotes personal hardiness and community focus. It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. 
+
+The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Intelligence score increases by 1.   
 **Languages.** You know at least these two languages; [[King's Common (language)]] and [[Goblin (language)]].  
