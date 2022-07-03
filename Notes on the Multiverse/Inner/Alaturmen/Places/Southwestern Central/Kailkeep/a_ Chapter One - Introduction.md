@@ -125,6 +125,7 @@ A species of earth elemental came with Terra, small price to pay for power. The 
 ###### Mad-walkers
 Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
 
+##### Mini-bosses
 ###### Yeeqzu'g, Mad-speaker
 ###### Bernet, Lodestone Golem
 ###### Luzikiemal, Risen

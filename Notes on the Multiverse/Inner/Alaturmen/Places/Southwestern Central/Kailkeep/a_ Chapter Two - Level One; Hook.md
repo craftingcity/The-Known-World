@@ -10,14 +10,14 @@ x >,N> [[#Hall A]]
 [[#Textile Production]] <,S> [[#Weapons Production]]
 [[#Textile Production]] <,N> [[#Food Storage]]
 [[#Textile Production]] <,W> [[#Barracks]]
-[[#Barracks]] >,S> [[Chapter Three - Level Two; Line|L2: "Noble" Rooms]]
+[[#Barracks]] >,S> [[b_ Chapter Three - Level Two; Line|L2: "Noble" Rooms]]
 [[#Barracks]] <,NNE> [[#Kitchen]]
 [[#Weapons Production]] <,ES> [[#Weapons Export]]
 [[#Weapons Production]] <,EN> [[#Supplies Import]]
 [[#Food Storage]] <,S> [[#Supplies Import]]
 [[#Kitchen]] <,S> [[#Food Storage]]
 [[#Kitchen]] <,W> [[#Barracks]]
-[[#Kitchen]] >,E> [[Chapter Three - Level Two; Line|L2: Leather-working Production]]
+[[#Kitchen]] >,E> [[b_ Chapter Three - Level Two; Line|L2: Leather-working Production]]
 
 ### Detail
 #### Hall A
