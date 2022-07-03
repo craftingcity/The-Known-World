@@ -2,6 +2,8 @@
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.  
 > \- [[Eladrithal Greystone]] to his parents in the [[Feywild]]  
 
+![[alaturmen-100AF.png]]
+
 Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. 
 
 What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the intention of juicing the racism, sexism, gendered bullshit, etc. out the window of the moving car that is modern table-top role-playing to the best of my ability as I write these stories.
@@ -22,7 +24,7 @@ I present to you some central truths;
 1. Alaturmen is young, [[Timeline|only a century and some change]].   
 2. The [[Grand Pantheon|gods are here]], we can see them walk among us. We form them with our Faith.  
 3. This place changes. Someone always does something that makes it change. It changes alone too.  
-4. The [[The Planes of Existence|Planes]] are leaking in. This means we get to make more, but it also means that people have to stop it leaking to far.  
+4. The [[The Planes of Existence|Planes]] are close. We can harness this, for our own power, but this truth poses a threat to us as well.  
 5. People in this place simply become here. Sometimes they are born, sometimes they are carved. Everyone's story is different.   
 6. We begin with peace; war happens anyways.   
 7. Things happen despite your influence. This isn't just your story.  
@@ -39,7 +41,7 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 
 #### Common to Alaturmen
 ##### Goblin (s.)
-Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
+Goblin of Alaturmen are small, gangly humanoid with sharp ears and large eyes. Goblin share portions of their origin myth with the Hobgoblin and Bugbear; the Titan [[Demogorgon]] created the Goblin without purpose, and the Goblin quickly escaped [[Demogorgon]]'s influence into the greater multiverse. 
 
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.  
 **Size.** Mechanically, you are considered a small creature. You stand at about three and a half feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.  
@@ -49,6 +51,8 @@ Goblins are the smallest of the goblinoid. All goblinoid share heritage rooted i
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).  
 
 ##### Hobgoblin (s.)
+Hobgoblin are very similar to 
+
 Hobgoblin are the middle-est of the goblinoid. All goblinoid share heritage rooted in the ancient Titans of the multiverse. It is gospel-legend that the goblinoid swam in the primordial soup of creation.
 
 **Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical.   
