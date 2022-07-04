@@ -14,6 +14,7 @@ aliases:
 	- **N.E.C Regions**
 		- [[Actstow Hills]]
 		- [[Arthur's Prairie]]
+		- [[Illburn Forest]]
 	- [[NE Travel Table]]
 	- **Smaller than a city**
 		- [[Benders]]

@@ -13,7 +13,8 @@ aliases:
 - **[[Northwestern Central]]**
 	- **N.W.C. Regions**
 		- [[Firelight Sea]]
-		- [[The Holyl'nds]]
+		- **[[The Holyl'nds]]**
+			- [[Lythienne Ash-marshes]]
 	- [[NW Travel Table]]
 	- **Smaller than a feature**
 		- [[Baskin]]
