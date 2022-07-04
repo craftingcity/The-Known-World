@@ -1,9 +1,14 @@
 ---
-tags: folderfile
+tags: folderfile, region
 aliases:
 ---
-
 # Northwestern Central
+#### A sub-region of [[Central Alaturmen]]
+## Boundaries
+## Contents
+### Potential Allies
+### Potential Threats
+###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
 	- [[NW Travel Table]]

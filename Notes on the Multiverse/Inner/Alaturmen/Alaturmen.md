@@ -22,7 +22,5 @@ Alaturmen is bound by the [[Wildlands]]. It forms a rough rectangle of "accessib
 ## Contents
 Alaturmen is some thirty-six thousand square miles. Here are the highlights;
 
-There are four large nations in the world who are all bound together in "Coalition", a federation of these four nations and a supported central governing body known as the [[Guilds of Coalition]]
+There are four large [[Nations]] in the world who are all bound together in "Coalition", a federation of these four nations and a supported central governing body known as the [[Guilds of Coalition]]. This central body holds the largest settlement in Alaturmen, on the east end of the [[Deakred Range]]; [[Coalition City]].
 
-### Potential Allies
-### Potential Threats

@@ -1,9 +1,14 @@
 ---
-tags: folderfile
+tags: folderfile, region
 aliases:
 ---
-
-# Southwestern Central
+# Title
+#### A sub-region of {Greater Region}
+## Boundaries
+## Contents
+### Potential Allies
+### Potential Threats
+###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southwestern Central]]**
 	- **[[Kailkeep]]**

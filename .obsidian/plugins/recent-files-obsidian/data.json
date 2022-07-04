@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Guilds of Coalition",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     },
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
-      "basename": "Region",
-      "path": "ORGANIZATION/TEMPLATES/Region.md"
+      "basename": "Guilds of Coalition",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     },
     {
       "basename": "a_ Chapter Two - Level One; Hook",
@@ -57,10 +85,6 @@
       "path": "ORGANIZATION/ORGANIZATION.md"
     },
     {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "a_ Chapter One - Introduction",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "j_ Chapter Twelve - Faction Deep Dive",
@@ -179,26 +199,6 @@
     {
       "basename": "Golden Claws",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "The Golden City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md"
-    },
-    {
-      "basename": "Kickoff's Great Durandurm Mines",
-      "path": "Kickoff's Great Durandurm Mines.md"
-    },
-    {
-      "basename": "Venclaw",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Venclaw.md"
-    },
-    {
-      "basename": "Emergency Communicae c. 103AF",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
-    },
-    {
-      "basename": "Communicaes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
     }
   ],
   "omittedPaths": [],
