@@ -1,6 +1,16 @@
 # Level One: Hook
 ## What Dwells Here?
-### Disabled Loyalists
+### Loyalists
+The sentient population of this level is entirely composed of Goblin and Guand who were born here or survived the Upper Levels of the Hells of Kailkeep.
+
+None of the Loyalists who dwell in this place are willing or capable to defend it; the acting invasion defense plan is as follows:
+
+1. Calmly move to the Armory
+2. Arm yourself
+3. Defend the Armory
+
+All the Loyalists in this area are willing to submit to invaders immediately, and are very happy to give them their materials in exchange for their lives (knowing that they would be rewarded for moving others further into Kailkeep), though they will defend themselves to the death under the threat of slaughter or other physical malice.
+
 ### Unusual Rats
 ## Exploring this Place
 ### Navigation
