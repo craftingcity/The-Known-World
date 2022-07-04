@@ -4,17 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa3e9d0a77d4379",
+        "id": "9cad541ef651e620",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2aa3e9d0a77d4379",
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blood-Hobgoblin Clans.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9cad541ef651e620",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -81,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "19a40ea2f9578efa",
@@ -98,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -162,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2aa3e9d0a77d4379",
+  "active": "9cad541ef651e620",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Blood-Hobgoblin Clans.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Ten - Level Nine; A Final Test.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Nine - Level Eight; The Floor Is Ooze!.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Eight - Level Seven; Kadabbi.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Chapter Four - Level Three; Sinker.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }

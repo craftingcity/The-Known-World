@@ -12,7 +12,6 @@ aliases:
 		- [[Wakquk Twins]]
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
-		- [[Communicae]]
 		- [[Communicaes]]
 		- **[[Guilds of Coalition]]**
 			- [[Guild of Adventurers]]
