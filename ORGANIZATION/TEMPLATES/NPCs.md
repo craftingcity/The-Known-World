@@ -10,9 +10,16 @@ aliases:
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
 A description of their function in the world.
-## History
-### Conception
-#### Character Goal
-### Current
-#### Character Goal
-#### Location
+## Roleplaying
+### Mannerism
+### Quote
+### Background
+#### Early Life
+## Important Knowledge
+## Stats
+. | . 
+--- | --- | ---
+STR | DEX | CON
+x | x | x
+INT | WIS | CHA
+x | x | x

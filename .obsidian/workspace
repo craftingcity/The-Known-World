@@ -26,7 +26,7 @@
               "leaf": "71f289def02000cb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":364},\"to\":{\"line\":25,\"ch\":364}},\"scroll\":13.69788293989878}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":364},\"to\":{\"line\":25,\"ch\":364}},\"scroll\":15.395765879797555}"
             },
             {
               "leaf": "71f289def02000cb",
@@ -39,40 +39,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md\",\"mode\":\"source\"}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "e9b0283e5215f6de",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/TEMPLATES/NPCs.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "e9b0283e5215f6de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/NPCs.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e9b0283e5215f6de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "e9b0283e5215f6de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":46.689868997303456}"
             }
           ]
         }
@@ -181,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/NPCs.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/NPCs.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,26 +199,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/NPCs.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "565e4663ad415663",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e9b0283e5215f6de",
+  "active": "71f289def02000cb",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "ORGANIZATION/TEMPLATES/NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "A Grand Notepad.md",
