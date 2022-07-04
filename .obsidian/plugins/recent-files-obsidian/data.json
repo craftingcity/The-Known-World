@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "NPCs",
+      "path": "ORGANIZATION/TEMPLATES/NPCs.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+      "basename": "z_ Appendix A; Stat Blocks",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
+    },
+    {
+      "basename": "a_ Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "a_ Chapter One - Introduction",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md"
+    },
+    {
+      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "j_ Chapter Twelve - Faction Deep Dive",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
+    },
+    {
+      "basename": "d_ Chapter Five - Level Four; Four Corners",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
+    },
+    {
+      "basename": "c_ Chapter Four - Level Three; Sinker",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
+    },
+    {
+      "basename": "on Alaturmen",
+      "path": "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Kailkeep",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "h_ Chapter Ten - Level Nine; A Final Test",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md"
+    },
+    {
+      "basename": "g_ Chapter Nine - Level Eight; The Floor Is Ooze!",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md"
+    },
+    {
+      "basename": "f_ Chapter Eight - Level Seven; Kadabbi",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md"
+    },
+    {
+      "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
+    },
+    {
+      "basename": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
+    },
+    {
+      "basename": "b_ Chapter Three - Level Two; Line",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/b_ Chapter Three - Level Two; Line.md"
     },
     {
       "basename": "King Snure",
@@ -101,6 +181,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Guild of Merchants",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
     },
@@ -115,50 +199,6 @@
     {
       "basename": "Economics of the Hobgoblin Territories",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Mossburg Enforcers",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Enforcers.md"
-    },
-    {
-      "basename": "Mossburg",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Mossburg.md"
-    },
-    {
-      "basename": "Centerlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Centerlick Mossland.md"
-    },
-    {
-      "basename": "Slimknives",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
-    },
-    {
-      "basename": "Baron Avory",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
-    },
-    {
-      "basename": "Westlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Westlick Mossland.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Southern Mossland.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Beasts Righteous",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Beasts Righteous.md"
-    },
-    {
-      "basename": "Holding Rules",
-      "path": "ORGANIZATION/Holding Rules.md"
     }
   ],
   "omittedPaths": [],
