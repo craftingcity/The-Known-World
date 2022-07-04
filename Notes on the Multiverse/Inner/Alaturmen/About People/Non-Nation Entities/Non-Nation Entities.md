@@ -6,7 +6,7 @@ aliases:
 # Non-Nation Entities
 %% Begin Waypoint %%
 - **[[Non-Nation Entities]]**
-	- **Blood Clans**
+	- **[[Blood Clans]]**
 		- [[Blood-Hobgoblin Clan Pact]]
 		- [[Garqwak Clan]]
 		- [[Wakquk Twins]]

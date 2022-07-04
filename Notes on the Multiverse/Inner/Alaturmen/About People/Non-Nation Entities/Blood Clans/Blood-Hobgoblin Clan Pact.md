@@ -3,7 +3,7 @@ tags: text
 aliases:
 ---
 # Blood-Hobgoblin Clan Pact
-The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood-Hobgoblin Clans]] functions. [[The Kingdom of Prosper]] is a lawful [[Blood-Hobgoblin Clans]], headed by [[Simonson Clan]], and as such, the rules and regulations described herein are followed. 
+The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood Clans]] functions. [[The Kingdom of Prosper]] is a lawful [[Blood Clans]], headed by [[Simonson Clan]], and as such, the rules and regulations described herein are followed. 
 
 > My knowledge is in my blade and my elder; where is yours when that precious library is burning? Does your journal truly contain the history of this world? No. Perhaps your blood knows something worthwhile
 
