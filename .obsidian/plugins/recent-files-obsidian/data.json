@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "on Alaturmen",
       "path": "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Places",

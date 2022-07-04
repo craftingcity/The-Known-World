@@ -433,7 +433,6 @@ While your specific background is likely tied deeply to your character's Culture
 That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
 
 # Exploring Alaturmen
-## Central Alaturmen's Features
 ### The World is Young
 In the Time before Time, many things happened at once and forever.
 
@@ -476,4 +475,4 @@ Many cultures have unique forms of punishment and unique crimes. A culture's jus
 ### The Wildlands
 At the edges of civilization, the Wildlands extend beyond Alaturmen and into someplace more Ethereal. The landscape beyond changes and shifts, as does the line that separates Alaturmen from the lands beyond.
 
-Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond their home plane.
+Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond [[Alaturmen]] into untoward horrors or new homes.
