@@ -14,7 +14,9 @@ aliases:
 	- **N.W.C. Regions**
 		- [[Firelight Sea]]
 		- **[[The Holyl'nds]]**
-			- [[Lythienne Ash-marshes]]
+			- [[North Littemotto]]
+			- [[Redl'nds]]
+			- [[South Littemotto]]
 	- [[NW Travel Table]]
 	- **Smaller than a feature**
 		- [[Baskin]]
