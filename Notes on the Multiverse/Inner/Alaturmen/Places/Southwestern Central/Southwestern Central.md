@@ -15,7 +15,6 @@ aliases:
 	- **[[Mountain Hall]]**
 	- **[[Outlands]]**
 	- **Smaller than a city**
-		- [[Ginger's Nopal & Agave Farm]]
 		- [[Kickoff]]
 		- [[New Quillbuck]]
 	- **Smaller than a feature**

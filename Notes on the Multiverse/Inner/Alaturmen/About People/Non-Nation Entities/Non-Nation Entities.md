@@ -6,15 +6,12 @@ aliases:
 # Non-Nation Entities
 %% Begin Waypoint %%
 - **[[Non-Nation Entities]]**
-	- **Blood Clans**
+	- **[[Blood Clans]]**
 		- [[Blood-Hobgoblin Clan Pact]]
-		- [[Blood-Hobgoblin Clans]]
 		- [[Garqwak Clan]]
-		- **Holdings**
 		- [[Wakquk Twins]]
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
-		- [[Communicae]]
 		- [[Communicaes]]
 		- **[[Guilds of Coalition]]**
 			- [[Guild of Adventurers]]

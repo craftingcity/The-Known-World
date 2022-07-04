@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "a_ Chapter Two - Level One; Hook",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
-    },
-    {
-      "basename": "Hexkey",
-      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
     }
   ],
   "omittedPaths": [],

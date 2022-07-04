@@ -15,7 +15,7 @@ aliases:
 			- [[The Assault of the Giant Decenters]]
 			- [[The Old]]
 		- [[The Church of the White Flame]]
-	- **Lands of Tetrimoc**
+	- **[[Lands of Tetrimoc]]**
 		- **Factions**
 			- [[Agrandica's Thieves]]
 			- [[Barthalmule's Thieves]]
@@ -28,7 +28,6 @@ aliases:
 			- [[Tetrimoc's Tournament of Glory]]
 			- [[The Code of Thieves]]
 		- [[The Deserts of Tetrimoc]]
-		- [[The Lands of Tetrimoc]]
 	- **[[The Democratic Combine of Peoples]]**
 		- **Factions**
 			- [[Beasts Righteous]]

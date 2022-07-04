@@ -3,7 +3,7 @@ tags: table
 aliases:
 ---
 # North East Central Alaturmen
-Much of the North East is civilized. The outskirts of this area are densely inhabited by hobgoblin, while the interior is densely populated by goblin, human, and others. These two groups (referring specifically to the [[The Kingdom of Prosper]] and the [[Blood-Hobgoblin Clans]]) are both governed, and do not openly war at this time.
+Much of the North East is civilized. The outskirts of this area are densely inhabited by hobgoblin, while the interior is densely populated by goblin, human, and others. These two groups (referring specifically to the [[The Kingdom of Prosper]] and the [[Blood Clans]]) are both governed, and do not openly war at this time.
 
 ### Tables
 #### General Encounter Table
@@ -22,7 +22,7 @@ How many? How big is it / are they? How badly do they need it? Why is that inter
 #### Hooks
 [[Dwarven Kingdom Actstow]]
 [[Cenva Minyo]]
-[[Blood-Hobgoblin Clans]]
+[[Blood Clans]]
 [[The Kingdom of Prosper]]
 [[Druids of Ventan]]
 #### Alchemical Ingredients

@@ -12,6 +12,6 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 [[The Kingdom of Prosper]]
 [[Dwarven Kingdom Actstow]]
 [[Cenva Minyo]]
-[[Blood-Hobgoblin Clans]] visiting from the north or east.
+[[Blood Clans]] visiting from the north or east.
 ### Potential Threats
-[[Blood-Hobgoblin Clans]] visiting from the north or east.
+[[Blood Clans]] visiting from the north or east.
