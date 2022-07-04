@@ -8,9 +8,7 @@ aliases:
 - **[[Non-Nation Entities]]**
 	- **Blood Clans**
 		- [[Blood-Hobgoblin Clan Pact]]
-		- [[Blood-Hobgoblin Clans]]
 		- [[Garqwak Clan]]
-		- **Holdings**
 		- [[Wakquk Twins]]
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**

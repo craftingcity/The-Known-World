@@ -23,6 +23,7 @@ aliases:
 			- [[Sinazel Ambona]]
 			- [[South Littemotto]]
 	- [[NW Travel Table]]
+	- **Smaller than a city**
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]
