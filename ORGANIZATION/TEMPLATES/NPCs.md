@@ -5,21 +5,26 @@ aliases:
 # Name
 ## Titles
 ### pronouns
-#### VO EXAMPLE:
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
+
 ## Roleplaying
 ### Mannerism
+
 ### Quote
+
 ### Background
 #### Early Life
+
 ## Important Knowledge
+
+
 ## Stats
 . | . 
---- | --- | ---
-STR | DEX | CON
-x | x | x
-INT | WIS | CHA
-x | x | x
+--- | --- | --- | ---
+STR | DEX | CON | HP
+x | x | x | x
+INT | WIS | CHA | AC
+x | x | x | x

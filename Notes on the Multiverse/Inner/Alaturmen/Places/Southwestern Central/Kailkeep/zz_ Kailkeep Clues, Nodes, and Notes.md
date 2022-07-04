@@ -3,6 +3,14 @@ Big Conclusion;
 
 These *lower levels* are a **facade** to **lure** adventurers higher up into the *Hells of Kailkeep*.
 
+> Lower levels are a facade
+- the dwarven art isnt dwarven
+- these stories dont really make sense
+- the monsters here are fucked up / dont want to fight
+> Facade is a lure
+- dwarves left behind gold and magic
+- evil kobolds live above now
+- a powerful entity has been trapped
 
 
 ## L1; Hook

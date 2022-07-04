@@ -23,7 +23,7 @@ x >,N> [[#Hall A]]
 ### Detail
 #### Hall A
 #### Textile Production
-This room was clearly once some sort of gathering space to view speeches made from the [[b_ Chapter Three - Level Two; Line|Balcony]] above this space as evidenced by the many dozens of stools pushed and stacked into the corners of this room. In the center of this space, a large multi-wheel loom is being slowly operated by six [[z_ Appendix A; Stat Blocks#L1 L2|]]
+This room was clearly once some sort of gathering space to view speeches made from the [[b_ Chapter Three - Level Two; Line|Balcony]] above this space as evidenced by the many dozens of stools pushed and stacked into the corners of this room. In the center of this space, a large multi-wheel loom made of iron is being slowly operated by six *[[z_ Appendix A; Stat Blocks#L1 L2|goblin]]*
 
 #### Barracks
 #### Weapons Production
