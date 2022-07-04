@@ -11,8 +11,8 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
+	- [[Firelight Sea]]
 	- [[NW Travel Table]]
-	- **Smaller than a city**
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]
