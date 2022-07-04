@@ -4,52 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "71f289def02000cb",
+        "id": "72417bf804f6ee7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "71f289def02000cb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "71f289def02000cb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":373},\"to\":{\"line\":25,\"ch\":373}},\"scroll\":15.395765879797555}"
-            },
-            {
-              "leaf": "71f289def02000cb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f289def02000cb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "fa61f8cc6b3fb0bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md",
+            "file": "ORGANIZATION/TEMPLATES/Region.md",
             "mode": "source"
           }
         },
@@ -57,19 +17,91 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "fa61f8cc6b3fb0bf",
+              "leaf": "72417bf804f6ee7e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Region.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":9,\"ch\":21}}}"
+            },
+            {
+              "leaf": "72417bf804f6ee7e",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "8e0c073c64697b52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8e0c073c64697b52",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":171},\"to\":{\"line\":24,\"ch\":171}},\"scroll\":13.301435481458029}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "eb9074918e2e1e32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "eb9074918e2e1e32",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}},\"scroll\":0}"
+            },
+            {
+              "leaf": "eb9074918e2e1e32",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "21bea980162b0e12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "21bea980162b0e12",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "fa61f8cc6b3fb0bf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "fa61f8cc6b3fb0bf",
+              "leaf": "21bea980162b0e12",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -153,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
               }
             },
             "pane-relief:history-v1": {
@@ -233,17 +265,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71f289def02000cb",
+  "active": "21bea980162b0e12",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-    "ORGANIZATION/TEMPLATES/NPCs.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep Fronts.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
+    "ORGANIZATION/TEMPLATES/Hexkey.md",
+    "ORGANIZATION/TEMPLATES/Statblock.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "ORGANIZATION/TEMPLATES/Non-Canon.md",
+    "ORGANIZATION/TEMPLATES/Group.md"
   ]
 }

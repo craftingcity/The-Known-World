@@ -11,7 +11,7 @@ aliases:
 A description of their function in the world.
 
 ## Roleplaying
-### Mannerism
+### Mannerism & Disposition
 
 ### Quote
 

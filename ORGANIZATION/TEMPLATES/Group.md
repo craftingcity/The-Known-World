@@ -9,7 +9,8 @@ aliases:
 ## Culture
 #### Heritage
 #### Language
-#### Belief
+#### Values
+#### Theology
 #### Economics
 ### Symbolism
 ## Technology

@@ -1,5 +1,5 @@
 ---
-tags: loreful
+tags:
 aliases:
 ---
 
