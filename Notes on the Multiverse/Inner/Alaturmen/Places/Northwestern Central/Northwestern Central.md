@@ -1,13 +1,28 @@
 ---
-tags: folderfile
+tags: folderfile, region
 aliases:
 ---
-
 # Northwestern Central
+#### A sub-region of [[Central Alaturmen]]
+## Boundaries
+## Contents
+### Potential Allies
+### Potential Threats
+###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
+	- **N.W.C. Regions**
+		- [[Firelight Sea]]
+		- **[[The Holyl'nds]]**
+			- [[Central Holyl'nd]]
+			- [[Enlitte Ambonas]]
+			- [[Litteortosta]]
+			- [[Littetavarse]]
+			- [[North Littemotto]]
+			- [[Redl'nds]]
+			- [[Sinazel Ambona]]
+			- [[South Littemotto]]
 	- [[NW Travel Table]]
-	- **Smaller than a city**
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]
@@ -15,6 +30,5 @@ aliases:
 		- [[Wychway]]
 	- **Smaller than a village**
 		- [[Kakurak's Lair]]
-	- [[The Holyl'nds]]
 
 %% End Waypoint %%

@@ -35,6 +35,7 @@ for the graph: [[Here lie my suppliments...]]
 			- [[Venclaw]]
 		- **Mild Power**
 			- **Employees of Golden Claw**
+				- [[Ginger Ak-kizi]]
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- **[[Tendered]]**

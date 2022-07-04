@@ -21,7 +21,7 @@ Some rumor that these elves who complete their Walk gather with their ancestors 
 Much like their progenitors, the elves of Alaturmen are sub-categorized by the seasons of the year.
 
 #### Spring Elves
-Spring elves, also known as the Wood Elves, first came to the northeast of [[Central Alaturmen]]. There, they were unwelcome - the [[Bandit Lords]] and the [[Blood-Hobgoblin Clan Territories]] both had no kindness for them. The Spring elves retreated into the forest for some time, but during the rise of [[Arthur Simonson]], the Spring Elves became an important ally for the resistance forces. After [[The Kingdom of Prosper]] destroyed the [[Bandit Lords]] and ceased hostility with [[Blood-Hobgoblin Clan Territories]], the Spring Elves migrated en-mass from the surrounding forests.
+Spring elves, also known as the Wood Elves, first came to the northeast of [[Central Alaturmen]]. There, they were unwelcome - the [[Bandit Lords]] and the [[Blood-Hobgoblin Clans]] both had no kindness for them. The Spring elves retreated into the forest for some time, but during the rise of [[Arthur Simonson]], the Spring Elves became an important ally for the resistance forces. After [[The Kingdom of Prosper]] destroyed the [[Bandit Lords]] and ceased hostility with [[Blood-Hobgoblin Clans]], the Spring Elves migrated en-mass from the surrounding forests.
 
 Traditional Spring Elf culture promotes community, kindness and enlightenment - most who think of "the good, helpful elf" would picture a spring elf.
 

@@ -347,7 +347,7 @@ Your culture bestows in you some traits and ideals that can be mechanically repr
 ### Kingdom of Prosper
 After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they will fall in the West, but here in the East, they ruled for about forty-five years. 
 
-They sometimes literally but mostly metaphorically fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood-Hobgoblin Clan Territories]] at these borders.
+They sometimes literally but mostly metaphorically fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood-Hobgoblin Clans]] at these borders.
 
 The state-mandated-education in Prosper teaches children to read and write, as well as promoting personal hardiness and community focus; It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
 
@@ -404,7 +404,7 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ### Blood-Hobgoblin Clans
-The [[Blood-Hobgoblin Clan Territories]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures though out the seasons, and always ready to defend themselves. The culture of these people is one of Lawful Neutrality, holding themselves and their clan-mates to their [[Blood-Hobgoblin Clan Pact|Blood Pact]].
+The [[Blood-Hobgoblin Clans]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures though out the seasons, and always ready to defend themselves. The culture of these people is one of Lawful Neutrality, holding themselves and their clan-mates to their [[Blood-Hobgoblin Clan Pact|Blood Pact]].
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
 **Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  
@@ -433,7 +433,6 @@ While your specific background is likely tied deeply to your character's Culture
 That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
 
 # Exploring Alaturmen
-## Central Alaturmen's Features
 ### The World is Young
 In the Time before Time, many things happened at once and forever.
 
@@ -476,4 +475,4 @@ Many cultures have unique forms of punishment and unique crimes. A culture's jus
 ### The Wildlands
 At the edges of civilization, the Wildlands extend beyond Alaturmen and into someplace more Ethereal. The landscape beyond changes and shifts, as does the line that separates Alaturmen from the lands beyond.
 
-Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond their home plane.
+Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond [[Alaturmen]] into untoward horrors or new homes.

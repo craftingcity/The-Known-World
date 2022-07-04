@@ -6,6 +6,7 @@ aliases:
 # Tendered
 %% Begin Waypoint %%
 - **[[Tendered]]**
+	- [[Caris Avner]]
 	- [[Enoch Ben]]
 	- [[Valerio Avishalom]]
 

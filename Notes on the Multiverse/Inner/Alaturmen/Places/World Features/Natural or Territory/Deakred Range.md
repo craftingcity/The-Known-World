@@ -1,10 +1,17 @@
 ---
-tags: 
+tags: region
 aliases:
 ---
+# Deakred Range
+#### A sub-region of [[Central Alaturmen]]
+## Boundaries
+The Deakred Range extends from the center of Alaturmen's known space to its western edge and further still into the [[Wildlands]].
 
-Deakred Range is the large mountain range in Alaturmen. 
+## Contents
+### Potential Allies
+The Dwarves of [[Mountain Hall]].
 
-On its eastern end, it houses [[Coalition City]]. 
-In its western end and the bowls deep inside, it houses [[Mountain Hall]], home of the [[Dwarven Kingdom Suremantle]] and [[Copperhammer Clan]]. 
-To its south, [[The Deserts of Tetrimoc]], and to its north, [[The Holyl'nds]].
+The Goliath Clans.
+### Potential Threats
+The Harpy Gangs
+The Loose Earth-Elementals

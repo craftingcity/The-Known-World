@@ -1,5 +1,5 @@
 # Northeastern Hobgoblin Territories NPCS
-see [[Blood-Hobgoblin Clan Territories]]
+see [[Blood-Hobgoblin Clans]]
 %% Begin Waypoint %%
 - **[[Blood Clan Leadership NPCs]]**
 	- [[Amelia Simonson]]

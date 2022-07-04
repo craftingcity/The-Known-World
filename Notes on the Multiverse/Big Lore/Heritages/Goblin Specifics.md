@@ -23,6 +23,6 @@ Bugbear are the largest subspecies of goblin and the most "animalistic". Few liv
 Hobgoblins are the middlest subspecies of goblin, and from the human perspective, the most like us. They have no preternatural strength or dexterity; apart from their natural sharp claws and teeth, the hobgoblin depend on the same technology to thrive as humanity do. 
 
 > ##### Blood-Hobgoblin Clans
-> A large population of the Hobgoblins on [[Alaturmen]] have betrayed their heritage-kin, the goblins and bugbear, and formed the [[Blood-Hobgoblin Clan Territories]]. 
+> A large population of the Hobgoblins on [[Alaturmen]] have betrayed their heritage-kin, the goblins and bugbear, and formed the [[Blood-Hobgoblin Clans]]. 
 > Because of the crimes of their cousins, those hobgoblin that do not live for the blood-clans are typically treated horribly by their band-mates.
 
