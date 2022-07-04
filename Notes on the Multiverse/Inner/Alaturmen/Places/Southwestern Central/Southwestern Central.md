@@ -14,10 +14,13 @@ aliases:
 	- **[[Kailkeep]]**
 	- **[[Mountain Hall]]**
 	- **Smaller than a city**
+		- [[Ginger's Nopal & Agave Farm]]
 		- [[Kickoff]]
 		- [[New Quillbuck]]
 	- **Smaller than a feature**
+		- [[Kickoff's Great Durandurm Mines]]
 	- **Smaller than a village**
+		- [[Tybir's Camel Ranch]]
 	- [[SW Travel Table]]
 	- **[[The Golden City]]**
 

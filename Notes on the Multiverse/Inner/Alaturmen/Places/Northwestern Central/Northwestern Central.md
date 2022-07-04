@@ -14,8 +14,13 @@ aliases:
 	- **N.W.C. Regions**
 		- [[Firelight Sea]]
 		- **[[The Holyl'nds]]**
+			- [[Central Holyl'nd]]
+			- [[Enlitte Ambonas]]
+			- [[Litteortosta]]
+			- [[Littetavarse]]
 			- [[North Littemotto]]
 			- [[Redl'nds]]
+			- [[Sinazel Ambona]]
 			- [[South Littemotto]]
 	- [[NW Travel Table]]
 	- **Smaller than a feature**
