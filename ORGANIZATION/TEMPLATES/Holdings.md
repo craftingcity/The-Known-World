@@ -3,4 +3,8 @@ tags: holding,
 aliases:
 ---
 # Name
-## Nicknames?
+#### Sub-names?
+## Holding of {Faction}
+### Located in {Region}
+
+

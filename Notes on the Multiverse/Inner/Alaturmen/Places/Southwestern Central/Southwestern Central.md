@@ -13,6 +13,7 @@ aliases:
 - **[[Southwestern Central]]**
 	- **[[Kailkeep]]**
 	- **[[Mountain Hall]]**
+	- **[[Outlands]]**
 	- **Smaller than a city**
 		- [[Ginger's Nopal & Agave Farm]]
 		- [[Kickoff]]

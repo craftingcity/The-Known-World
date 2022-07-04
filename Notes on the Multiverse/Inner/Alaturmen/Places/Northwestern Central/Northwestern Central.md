@@ -20,7 +20,7 @@ aliases:
 			- [[Littetavarse]]
 			- [[North Littemotto]]
 			- [[Redl'nds]]
-			- [[Sinazel Ambona]]
+			- [[Sinazel Ambonas]]
 			- [[South Littemotto]]
 	- [[NW Travel Table]]
 	- **Smaller than a feature**

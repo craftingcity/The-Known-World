@@ -29,7 +29,6 @@ aliases:
 			- [[The Code of Thieves]]
 		- [[The Deserts of Tetrimoc]]
 		- [[The Lands of Tetrimoc]]
-		- [[The Outlands]]
 	- **[[The Democratic Combine of Peoples]]**
 		- **Factions**
 			- [[Beasts Righteous]]

@@ -3,7 +3,7 @@ tags: folderfile
 aliases:
 ---
 
-# The Golden City
+###### Table of Contents
 %% Begin Waypoint %%
 - **[[The Golden City]]**
 

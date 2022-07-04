@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
+      "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+    },
+    {
+      "basename": "The Golden City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Golden City/The Golden City.md"
+    },
+    {
+      "basename": "Outlands",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Outlands/Outlands.md"
+    },
+    {
+      "basename": "z_ Appendix A; Stat Blocks",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
+    },
+    {
+      "basename": "Statblock",
+      "path": "ORGANIZATION/TEMPLATES/Statblock.md"
+    },
+    {
+      "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Mountain Hall",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Mountain Hall/Mountain Hall.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "North Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+    },
+    {
+      "basename": "Sinazel Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
+    },
+    {
       "basename": "Enlitte Ambonas",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
     },
@@ -11,14 +83,6 @@
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
-    },
-    {
-      "basename": "Sinazel Ambona",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambona.md"
     },
     {
       "basename": "Litteortosta",
@@ -49,18 +113,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
     },
     {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
       "basename": "Illburn Forest",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
     },
@@ -89,10 +141,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
     },
     {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
       "basename": "Great Southern Mossland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
     },
@@ -111,22 +159,6 @@
     {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
       "basename": "ORGANIZATION",
@@ -167,38 +199,6 @@
     {
       "basename": "Hexkey",
       "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
-    },
-    {
-      "basename": "Statblock",
-      "path": "ORGANIZATION/TEMPLATES/Statblock.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
-    },
-    {
-      "basename": "Non-Canon",
-      "path": "ORGANIZATION/TEMPLATES/Non-Canon.md"
-    },
-    {
-      "basename": "Group",
-      "path": "ORGANIZATION/TEMPLATES/Group.md"
-    },
-    {
-      "basename": "Fronts",
-      "path": "ORGANIZATION/TEMPLATES/Fronts.md"
-    },
-    {
-      "basename": "Adventure",
-      "path": "ORGANIZATION/TEMPLATES/Adventure.md"
-    },
-    {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     }
   ],
   "omittedPaths": [],

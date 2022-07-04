@@ -11,6 +11,6 @@ Gnolls reproduce sexually, and generally have children in litters. Their teeth a
 
 A Gnoll, no matter their place of birth or culture is born with a powerful internal hunger - most commonly this manifests as some form of substance abuse, but some are known to hunger for death or power or lust or other less than physical substances.
 
-The largest population of Gnolls live in [[The Outlands]] in nomadic tribes. 
+The largest population of Gnolls live in [[Outlands]] in nomadic tribes. 
 
 
