@@ -11,15 +11,19 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southeast Central]]**
-	- [[Centerlick Mossland]]
-	- [[Eastlick Mossland]]
-	- [[Gabrin Shrublands]]
-	- [[Great Quillbuck Jungle]]
-	- [[Great Southern Mossland]]
-	- [[Grumbling Hills]]
-	- [[Huntyr Swamp]]
-	- [[Northern Quillbuck Jungle]]
-	- [[Reugb Marshes]]
+	- **S.E.C. Regions**
+		- [[Gabrin Shrublands]]
+		- **[[Great Quillbuck Jungle]]**
+			- [[Northern Quillbuck Jungle]]
+			- [[Southern Quillbuck Jungle]]
+		- **[[Great Southern Mossland]]**
+			- [[Centerlick Mossland]]
+			- [[Eastlick Mossland]]
+			- [[Westlick Mossland]]
+		- [[Grumbling Hills]]
+		- [[Huntyr Swamp]]
+		- [[Reugb Marshes]]
+		- [[Wetfoot Greenland]]
 	- [[SE Travel Table]]
 	- **Smaller than a city**
 		- [[Aeberu]]
@@ -31,8 +35,7 @@ aliases:
 		- [[Darnt Hillkeep]]
 		- [[Mossburg]]
 		- [[Red Throne]]
-	- [[Southern Quillbuck Jungle]]
-	- [[Westlick Mossland]]
-	- [[Wetfoot Greenland]]
+	- **Smaller than a village**
+		- [[Stone of Desmoniur]]
 
 %% End Waypoint %%

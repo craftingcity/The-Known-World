@@ -11,7 +11,9 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
-	- [[Firelight Sea]]
+	- **N.W.C. Regions**
+		- [[Firelight Sea]]
+		- [[The Holyl'nds]]
 	- [[NW Travel Table]]
 	- **Smaller than a feature**
 		- [[Baskin]]
@@ -20,6 +22,5 @@ aliases:
 		- [[Wychway]]
 	- **Smaller than a village**
 		- [[Kakurak's Lair]]
-	- [[The Holyl'nds]]
 
 %% End Waypoint %%

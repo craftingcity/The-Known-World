@@ -10,7 +10,6 @@ aliases:
 		- [[Alavini River]]
 		- [[Deakred Range]]
 		- [[Great Northern Forests]]
-	- [[Stone of Desmoniur]]
 	- [[Three Nation Highways]]
 
 %% End Waypoint %%

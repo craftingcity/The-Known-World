@@ -11,7 +11,9 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northeastern Central]]**
-	- [[Actstow Hills]]
+	- **N.E.C Regions**
+		- [[Actstow Hills]]
+		- [[Arthur's Prairie]]
 	- [[NE Travel Table]]
 	- **Smaller than a city**
 		- [[Benders]]

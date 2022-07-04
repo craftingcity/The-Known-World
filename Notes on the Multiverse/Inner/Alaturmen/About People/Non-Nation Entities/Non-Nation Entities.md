@@ -8,7 +8,7 @@ aliases:
 - **[[Non-Nation Entities]]**
 	- **Blood Clans**
 		- [[Blood-Hobgoblin Clan Pact]]
-		- [[Blood-Hobgoblin Clan Territories]]
+		- [[Blood-Hobgoblin Clans]]
 		- [[Garqwak Clan]]
 		- **Holdings**
 		- [[Wakquk Twins]]
