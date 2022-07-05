@@ -369,7 +369,7 @@ The culture of the Church is one of Lawful Evil; violence is necessary to do wha
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ### Golden City
-When [[Tetrimoc]] fell to the world, and sentience was born unto Alaturmen, he made his lair in [[The Deserts of Tetrimoc]], boring deep into the desert. The people of these Deserts came to him here and built him, and themselves, a beautiful city of gold and sand. Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him – the city is made in his home after all. 
+When [[Tetrimoc]] fell to the world, and sentience was born unto Alaturmen, he made his lair in [[The Deserts of Tetrimoc]], boring deep into the desert. The people of these Deserts came to him here and built him, and themselves, a beautiful city of gold and sand. Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him – the city is made of his home after all. 
 
 For as long as people have been here, they have been protected by [[Tetrimoc]], and though the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor himself has not been seen for about a dozen years, the people of the Golden city take comfort in High Ambassador [[Venclaw]]'s claims that he is in constant communication with the Dragon of the Golden City. 
 
@@ -381,7 +381,11 @@ The culture of the Golden City is one of True Neutrality; while there are laws h
 **Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ### Democratic Combine of Peoples
-The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves when the Combine as a whole is not under threat. These barons find use for **all** who live within their domain. The culture of the DCP is one of Chaotic Good; their ideology can be summarized by the phrase "no-one hurts my sibling but me".
+When [[Tetrimoc]] fell, and sentient life became on Alaturmen, the People of the South-East found themselves in a bountiful wet land. People formed tribes, clans, monarchies, made war and trade, and as the Coalition was formed, the rules of combat between these Peoples was formalized in [[Coalition's Founding Document]], and [[The Democratic Combine of Peoples]] was formed.
+
+The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves while the Combine as a whole is not under threat. These barons find use for **all** who live within their domain, leading to an eclectic gathering of people in a Baron's Court.  
+
+The culture of the DCP is one of Neutral Good; the commoners are happy for the laws of the Coalition and the protection of their Baron. Chaos is rampant here – crime and war are the status-quo, and *everyone* has an angle. The seat of Baron is open – if you can take it.
 
 **My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
@@ -391,15 +395,14 @@ The peoples of the DCP are ruled by their Barons, nearly all of whom fight among
 
 ## Non-Coalition Entities
 ### Dwarven Kingdoms
-The Dwarven Kingdoms of Alaturmen are a proud group of independent communities that answer to their King. These communities share a culture of Lawful Neutrality.
-- The Suremantle clan rule [[Mountain Hall]]; a near isolationist group from the [[Deakred Range]]
-- The Actstow clan rule the [[Actstow Hills]] as a bastion of wealth and community dearly intertwined with [[#Cenva Minyo]]
-- The Jammu clan rule the [[Grumbling Hills]] and some of the surrounding area under [[The Democratic Combine of Peoples]]
+There are two Kingdoms of Dwarves on Alaturmen, the [[Dwarven Kingdom Actstow]] and the [[Dwarven Kingdom Suremantle]]. 
+
+The Dwarven Kingdom of Actstow is a small but deep monarchy of dwarven miners and artisans. They reside in the [[Actstow Hills]], and have a deep partnership with [[#Cenva Minyo]], who reside in the forests south of these hills. The Kingdom of Actstow also has a deep partnership with [[Deepburrow]], the 
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
 **Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
 **Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
-**Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
+**Dwarven-Artisan Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ### Cenva Minyo
 [[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]]. The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame.
