@@ -24,14 +24,15 @@ aliases:
 		- [[Huntyr Swamp]]
 		- [[Reugb Marshes]]
 		- [[Wetfoot Greenland]]
-	- [[SE Travel Table]]
 	- **Smaller than a city**
 		- [[Aeberu]]
 		- [[Asilar's Bounty]]
+		- [[Darktower]]
 		- [[Four Stone]]
 		- [[Neverwallow]]
 	- **Smaller than a feature**
 		- [[Darnt Hillkeep]]
+		- [[Mossburg]]
 		- [[Red Throne]]
 	- **Smaller than a village**
 		- [[Stone of Desmoniur]]

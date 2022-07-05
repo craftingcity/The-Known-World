@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Alaturmen Table of Hexes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
+      "basename": "Untitled",
+      "path": "Game Notes/Campaign Rosters/Untitled.md"
     },
     {
-      "basename": "Hexkey",
-      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
       "basename": "Places",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen Table of Hexes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Hexkey",
+      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
     },
     {
       "basename": "Tracking",
@@ -21,24 +57,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
       "basename": "Campaign Roster",
       "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
-    },
-    {
-      "basename": "ORGANIZATION",
-      "path": "ORGANIZATION/ORGANIZATION.md"
     },
     {
       "basename": "TEMPLATES",
@@ -145,10 +165,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/b_ Chapter Three - Level Two; Line.md"
     },
     {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
       "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
       "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
     },
@@ -169,18 +185,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Mountain Hall/Mountain Hall.md"
     },
     {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
       "basename": "North Littemotto",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Littetavarse",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
-    },
-    {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
     }
   ],
   "omittedPaths": [],
