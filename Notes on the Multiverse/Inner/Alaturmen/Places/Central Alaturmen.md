@@ -3,7 +3,7 @@ tags: region
 aliases:
 ---
 # Central Alaturmen
-#### A sub-region of {Greater Region}
+#### A sub-region of [[Alaturmen]]
 ## Boundaries
 This area is bound by the first [[Wildlands]] border, and I cannot find a way to describe it better than the thirty-six thousand square miles surrounding the east end of the [[Deakred Range]].
 

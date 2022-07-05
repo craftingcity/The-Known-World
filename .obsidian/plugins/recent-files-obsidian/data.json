@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "a_ Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+      "basename": "Alaturmen Table of Hexes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
+      "basename": "Hexkey",
+      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
     },
     {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
-      "basename": "Prenotes Unknown 00 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
     },
     {
-      "basename": "Prenotes Mar 27 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Campaign Roster",
+      "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
     },
     {
       "basename": "ORGANIZATION",
@@ -29,8 +45,60 @@
       "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
     },
     {
+      "basename": "Economy",
+      "path": "ORGANIZATION/TEMPLATES/Economy.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
+    },
+    {
+      "basename": "Waypoint",
+      "path": "ORGANIZATION/TEMPLATES/Waypoint.md"
+    },
+    {
       "basename": "Watches",
       "path": "ORGANIZATION/TEMPLATES/Watches.md"
+    },
+    {
+      "basename": "Tags and Aliases",
+      "path": "ORGANIZATION/TEMPLATES/Tags and Aliases.md"
+    },
+    {
+      "basename": "Table",
+      "path": "ORGANIZATION/TEMPLATES/Table.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Kailkeep",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
+    },
+    {
+      "basename": "Adventure",
+      "path": "ORGANIZATION/TEMPLATES/Adventure.md"
+    },
+    {
+      "basename": "a_ Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "Prenotes Unknown 00 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
+    },
+    {
+      "basename": "Prenotes Mar 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
     },
     {
       "basename": "README",
@@ -69,32 +137,12 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
     },
     {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
-    },
-    {
       "basename": "c_ Chapter Four - Level Three; Sinker",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
     },
     {
       "basename": "b_ Chapter Three - Level Two; Line",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/b_ Chapter Three - Level Two; Line.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
       "basename": "Southwestern Central",
@@ -113,16 +161,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Outlands/Outlands.md"
     },
     {
-      "basename": "Statblock",
-      "path": "ORGANIZATION/TEMPLATES/Statblock.md"
-    },
-    {
       "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
-    },
-    {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     },
     {
       "basename": "Mountain Hall",
@@ -159,42 +199,6 @@
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "Litteortosta",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md"
-    },
-    {
-      "basename": "Ginger Ak-kizi",
-      "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Employees of Golden Claw/Ginger Ak-kizi.md"
-    },
-    {
-      "basename": "Caris Avner",
-      "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Caris Avner.md"
-    },
-    {
-      "basename": "South Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/South Littemotto.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
-    },
-    {
-      "basename": "Illburn Forest",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
-    },
-    {
-      "basename": "Blood-Hobgoblin Clans",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md"
     }
   ],
   "omittedPaths": [],

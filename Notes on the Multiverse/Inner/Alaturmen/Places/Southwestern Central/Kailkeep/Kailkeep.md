@@ -11,6 +11,7 @@ aliases:
 	- [[b_ Chapter Three - Level Two; Line]]
 	- [[c_ Chapter Four - Level Three; Sinker]]
 	- [[d_ Chapter Five - Level Four; Four Corners]]
+	- [[d_ Chapter Six - Level Five; Pick-up Sticks]]
 	- [[e_ Chapter Seven - Level Six; Here Comes an Old Soldier]]
 	- [[f_ Chapter Eight - Level Seven; Kadabbi]]
 	- [[g_ Chapter Nine - Level Eight; The Floor Is Ooze!]]
