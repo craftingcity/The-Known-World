@@ -168,7 +168,7 @@ content:
 [[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of Orcus. After a long battle, Orcus was returned unto whatever plane from once he came. Nearly all of the Armies of Orcus were destroyed, but remants of the Gnolls survived and began to repopulate in the [[The Lands of Tetrimoc]].
 
 date: 092AF
-title: [[Grey Ordeal]] retires.
+title: Powers retire.
 content:
 
 [[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands.

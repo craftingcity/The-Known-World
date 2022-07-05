@@ -20,7 +20,7 @@
               "leaf": "7aa18cb3afdf3bb2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":361,\"ch\":385},\"to\":{\"line\":361,\"ch\":385}},\"scroll\":355.13852760168476}"
+              "eState": "{\"scroll\":365.9084196130547}"
             },
             {
               "leaf": "7aa18cb3afdf3bb2",
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "high ambass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,14 +190,14 @@
   "active": "7aa18cb3afdf3bb2",
   "lastOpenFiles": [
     "README.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
+    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Draconic NPCs/Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/b_ Chapter Three - Level Two; Line.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
   ]
 }

@@ -5,6 +5,18 @@
       "path": "README.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Emergency Communicae c. 103AF",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+    },
+    {
+      "basename": "Tetrimoc",
+      "path": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Draconic NPCs/Tetrimoc.md"
+    },
+    {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Stone of Desmoniur",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Smaller than a village/Stone of Desmoniur.md"
-    },
-    {
-      "basename": "Reugb Marshes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     }
   ],
   "omittedPaths": [],

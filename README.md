@@ -369,9 +369,11 @@ The culture of the Church is one of Lawful Evil; violence is necessary to do wha
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ### Golden City
-Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all. 
+When [[Tetrimoc]] fell to the world, and sentience was born unto Alaturmen, he made his lair in [[The Deserts of Tetrimoc]], boring deep into the desert. The people of these Deserts came to him here and built him, and themselves, a beautiful city of gold and sand. Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him – the city is made in his home after all. 
 
-The culture of the Golden City is one of True Neutrality, while there are laws here, they are enforced much more than they are respected, especially among the common folk of this City.
+For as long as people have been here, they have been protected by [[Tetrimoc]], and though the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor himself has not been seen for about a dozen years, the people of the Golden city take comfort in High Ambassador [[Venclaw]]'s claims that he is in constant communication with the Dragon of the Golden City. 
+
+The culture of the Golden City is one of True Neutrality; while there are laws here, they benefit those in power much more than those out of power, and they are enforced *much more* than they are respected. Crime is a necessary component of the City's economy, and day-to-day survival for many.
 
 **Ability Score Increase.** Your Charisma score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
