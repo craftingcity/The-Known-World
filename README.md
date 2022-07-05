@@ -395,13 +395,20 @@ The culture of the DCP is one of Neutral Good; the commoners are happy for the l
 
 ## Non-Coalition Entities
 ### Dwarven Kingdom Suremantle
+The Dwarven Kingdom of Suremantle is a monarchy supported by family clans of miner and farmers. These clans are as ancient as Alaturmen, and claim that their ancestors were carved from the stone here, a hundred or more years ago. 
+
+The Kingdom Suremantle claims all the reaches of [[Mountain Hall]]; a massive sub-surface structure that spans much of the [[Deakred Range]]. The culture of this place promotes pseudo-isolationism; interacting with people from other cultures is only acceptable under the circumstances of trade.
+
+The culture of Suremantle is one of Neutral Evil. The people here are ignorant and arrogant of other cultures, and they promote a family-before-self-before-other culture. 
+
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
 **Languages.** You know at least these two languages; [[Dwarven (language)]] and [[Desertspeech (language)]].
 **Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
+
 ### Dwarven Kingdom Actstow
 The Dwarven Kingdom of Actstow is a monarchy supported by family clans of miners and farmers. These clans are as ancient as Alaturmen, and claim that their ancestors were carved from the stone here, a hundred or more years ago. 
 
-Actstow is very condensed, there is very little available space, public or private. People from here bask in the luxury of privacy and cling close to their comrades. Many cultures interact with the Dwarven Kin
+Actstow is very condensed, there is very little available space, public or private. People from here bask in the luxury of privacy and cling close to their comrades. Many cultures interact with the Dwarven Kingdom Actstow on great terms, including [[#Cenva Minyo]] to their south, [[#Kingdom of Prosper]] to their east, and [[Deepburrow]] to their *below*.
 
 The culture of Actstow is one of Neutral Good. The people here are no stranger to evading the law, tax evasion is a specialty, and bodily harm or physical restrictions are never the correct answer when you or yours have been wronged.
 
@@ -411,7 +418,11 @@ The culture of Actstow is one of Neutral Good. The people here are no stranger t
 **Dwarven-Artisan Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ### Cenva Minyo
-[[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]]. The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame.
+[[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed, with great assistance from the [[#Dwarven Kingdom Actstow]] in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. 
+
+For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]] and recording the history of the world.
+
+The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame who felled our forebearers.
 
 **Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
 **Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  
@@ -419,11 +430,13 @@ The culture of Actstow is one of Neutral Good. The people here are no stranger t
 **Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ### Blood-Hobgoblin Clans
-The [[Blood Clans]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures though out the seasons, and always ready to defend themselves. The culture of these people is one of Lawful Neutrality, holding themselves and their clan-mates to their [[Blood-Hobgoblin Clan Pact|Blood Pact]].
+The Blood-Hobgoblin Clans were formed in retaliation to the horrible treatment Hobgoblin received under the [[Bandit Lords]]. After winning their independence from both the [[Bandit Lords]] and the new [[The Kingdom of Prosper|Kingdom of Prosper]], these clans turned inward, to fight with each other for power.
+
+The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alaturmen]]. Most people survive by working as hunters or gatherers under the leaders of these 
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
 **Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  
-**Skills.** You have proficiency in Strength (Athletics), Wisdom (Perception), and one set of tools of your choice.  
+**Skills.** You have proficiency in Intelligence (Nature), Wisdom (Perception), and one set of tools of your choice.  
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Desert Outlanders
