@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,32 @@
             {
               "leaf": "3f2f283ff7020ed6",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f2f283ff7020ed6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Encounters/Encounters.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3f2f283ff7020ed6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3f2f283ff7020ed6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "3f2f283ff7020ed6",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":46.97985384073639}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":60},\"to\":{\"line\":69,\"ch\":60}},\"scroll\":54.1245383475649}"
             },
             {
               "leaf": "3f2f283ff7020ed6",
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
               }
             },
             "pane-relief:history-v1": {
@@ -206,15 +230,15 @@
   },
   "active": "3f2f283ff7020ed6",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+    "Game Notes/Encounters/Encounters.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Game Notes/Game Notes.md",
     "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md",
     "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md",
     "ORGANIZATION/ORGANIZATION.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "ORGANIZATION/TEMPLATES/Watches.md",
-    "ORGANIZATION/TEMPLATES/Watch Worksheet.md",
-    "README.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md",
-    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Draconic NPCs/Tetrimoc.md"
+    "ORGANIZATION/TEMPLATES/Watch Worksheet.md"
   ]
 }

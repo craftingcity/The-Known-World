@@ -12,6 +12,8 @@ None of the Loyalists who dwell in this place are willing or capable to defend i
 All the Loyalists in this area are willing to submit to invaders immediately, and are very happy to give them their materials in exchange for their lives (knowing that they would be rewarded for moving others further into Kailkeep), though they will defend themselves to the death under the threat of slaughter or other physical malice.
 
 ### Unusual Rats
+A population of large rats are kept in this place as a source of food for Loyalists who dwell here, but recently some of these rats have gotten loose and taken residence
+
 ## Exploring this Place
 ### Navigation
 x >,N> [[#Hall A]]

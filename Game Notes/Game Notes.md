@@ -3,9 +3,9 @@ connect to [[Notes on the Multiverse]]
 
 %% Begin Waypoint %%
 - **[[Game Notes]]**
-	- **[[Encounters]]**
 	- **[[Mechanics]]**
 	- **[[NPCs]]**
 	- **[[Prenotes]]**
+	- **Untitled**
 
 %% End Waypoint %%
