@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
+    },
+    {
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Alavini River",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alavini River.md"
-    },
-    {
-      "basename": "Deakred Range",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
-    },
-    {
-      "basename": "Stone of Desmoniur",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Smaller than a village/Stone of Desmoniur.md"
     }
   ],
   "omittedPaths": [],
