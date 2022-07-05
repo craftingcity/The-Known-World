@@ -14,10 +14,10 @@ Save the inter-party romance or sacrifice everyone and destroy a great evil? Nei
 
 What do you do? How? Why?
 
-## Using this Document.
+## Using this Document
 I built this doc as an ObsidianMD vault in the near-end of autumn of 2021. I have not finished this doc. Eventually this may turn into a campaign setting book dealio.
 
-I these pages I describe a world that I lived in for some time; the hours I spent both at the table and at my desk are recorded here. It is a world of great magic and change. 
+In these pages I describe a world that I have lived in for some time; the hours I spent both at the table and at my desk are recorded here. It is a world of great magic and change. 
 
 I present to you some central truths:
 
@@ -41,6 +41,7 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 
 ## Common to Alaturmen
 ### Goblin (s.)
+![[goblinPair.png]]
 Goblin are small, gangly humanoid with sharp ears and large eyes. Goblin share their origin myth with the Hobgoblin and Bugbear; the Titan [[Demogorgon]] created the Goblin-oid without purpose, keeping them as pawns and pets. They escaped [[Demogorgon]]'s influence into the greater multiverse before many of the Planes of the Multiverse. 
 
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.  

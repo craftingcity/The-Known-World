@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Campaign Rosters/Untitled.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -19,7 +19,25 @@
             {
               "leaf": "a782e2666bcb1ec2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Untitled.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a782e2666bcb1ec2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a782e2666bcb1ec2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a782e2666bcb1ec2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
@@ -112,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Untitled.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Untitled.md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -194,15 +212,15 @@
   },
   "active": "a782e2666bcb1ec2",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/Untitled.md",
+    "README.md",
+    "A Grand Notepad.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
     "ORGANIZATION/ORGANIZATION.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
   ]
 }

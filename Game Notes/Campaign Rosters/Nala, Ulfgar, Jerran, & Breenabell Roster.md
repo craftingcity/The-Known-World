@@ -10,5 +10,7 @@ aliases:
 ### Mortal Adversaries
 - "Elder" & [[Scrivin Clan]]
 ### Faction Reputation
+- Kingdom of Prosper
+	- Yerba: **Good**
 ## Places
 ### Scenarios Changed
