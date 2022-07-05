@@ -345,9 +345,9 @@ Your culture bestows in you some traits and ideals that can be mechanically repr
 
 ## Nation-States of Coalition
 ### Kingdom of Prosper
-After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they will fall in the West, but here in the East, they ruled for about forty-five years. 
+After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they fall in the West, but here in the East, they ruled for another forty years. 
 
-They sometimes literally but mostly metaphorically fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood Clans]] at these borders.
+They fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, Prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood Clans]] at these borders.
 
 The state-mandated-education in Prosper teaches children to read and write, as well as promoting personal hardiness and community focus; It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
 
@@ -357,9 +357,11 @@ The state-mandated-education in Prosper teaches children to read and write, as w
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Church of the White Flame
-The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. 
+The Church of the White Flame rose from the ashes of the North-West – after the [[Great Fires]] immolated this place people flocked to their new deity. Quickly, a caste-theocracy formed around **[[Its Greatness|The Holy Flame]]** and **It**'s wishes. 
 
-The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
+The few who claim to have Spoken with [[Its Greatness]] claim the top of this system, and those who are fiercely loyal (and properly propagandized) become Firstchurch or Tendered. The common folk are given the name Patrons, and those below them – the slaves or those otherwise untouched by the [[Its Greatness|White Flame]] – are called Unseen or, in the case of an enemy, Undesirable.
+
+The culture of the Church is one of Lawful Evil; violence is necessary to do what **It** wills, and thus is virtuous, and people of this church are comfortable with the understanding that *some people simply are not worth as much as others*.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Modern Elven (language)]].  
@@ -367,7 +369,9 @@ The culture of the Church is one of Lawful Evil; violence is necessary to do wha
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ### Golden City
-Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all. The culture of the Golden City is one of True Neutrality, while there are laws here, they are enforced much more than they are respected, especially among the common folk of this City.
+Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all. 
+
+The culture of the Golden City is one of True Neutrality, while there are laws here, they are enforced much more than they are respected, especially among the common folk of this City.
 
 **Ability Score Increase.** Your Charisma score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  

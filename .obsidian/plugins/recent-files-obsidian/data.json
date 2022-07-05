@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
+    },
+    {
+      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
+    },
+    {
       "basename": "a_ Chapter Two - Level One; Hook",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "z_ Appendix A; Stat Blocks",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
-    },
-    {
-      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
     },
     {
       "basename": "Kailkeep",
@@ -187,18 +199,6 @@
     {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "ORGANIZATION",
-      "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "TEMPLATES",
-      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
