@@ -394,13 +394,19 @@ The culture of the DCP is one of Neutral Good; the commoners are happy for the l
 
 
 ## Non-Coalition Entities
-### Dwarven Kingdoms
-There are two Kingdoms of Dwarves on Alaturmen, the [[Dwarven Kingdom Actstow]] and the [[Dwarven Kingdom Suremantle]]. 
-
-The Dwarven Kingdom of Actstow is a small but deep monarchy of dwarven miners and artisans. They reside in the [[Actstow Hills]], and have a deep partnership with [[#Cenva Minyo]], who reside in the forests south of these hills. The Kingdom of Actstow also has a deep partnership with [[Deepburrow]], the 
-
+### Dwarven Kingdom Suremantle
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
-**Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
+**Languages.** You know at least these two languages; [[Dwarven (language)]] and [[Desertspeech (language)]].
+**Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
+### Dwarven Kingdom Actstow
+The Dwarven Kingdom of Actstow is a monarchy supported by family clans of miners and farmers. These clans are as ancient as Alaturmen, and claim that their ancestors were carved from the stone here, a hundred or more years ago. 
+
+Actstow is very condensed, there is very little available space, public or private. People from here bask in the luxury of privacy and cling close to their comrades. Many cultures interact with the Dwarven Kin
+
+The culture of Actstow is one of Neutral Good. The people here are no stranger to evading the law, tax evasion is a specialty, and bodily harm or physical restrictions are never the correct answer when you or yours have been wronged.
+
+**Ability Score Increase.** Your Intelligence score increases by 1, and your Charisma score increases by 1.   
+**Languages.** You know at least these two languages; [[Dwarven (language)]] and [[High Common (language)]]
 **Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
 **Dwarven-Artisan Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
