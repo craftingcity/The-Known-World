@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AMMS-WesternEuropeIII",
+      "path": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sinazel Ambonas",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
-    },
-    {
-      "basename": "Enlitte Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
     }
   ],
   "omittedPaths": [],
