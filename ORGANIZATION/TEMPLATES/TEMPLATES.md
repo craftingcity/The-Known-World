@@ -17,6 +17,7 @@
 	- [[Stub]]
 	- [[Table]]
 	- [[Tags and Aliases]]
+	- [[Watches]]
 	- [[Waypoint]]
 
 %% End Waypoint %%

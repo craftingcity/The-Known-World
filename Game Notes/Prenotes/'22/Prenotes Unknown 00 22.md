@@ -34,13 +34,13 @@ Match | Fighter One | Fighter Two | Betting | Rolling
 
 Fighter | Class | Heritage
 --- | --- | ---
-Bungaloo Twins | Cleric / Rogue | Halfling
-Hillkeep's Finest | Fighter / Fighter | Hill-Dwarven
+Bungaloo Twins | Cleric & Rogue | Halfling
+Hillkeep's Finest | Fighter & Fighter | Dwarven
 Kalipsum | Ranger | Autumn-Elven
 Frang | Fighter | Gnoll
 Cuzly | Wizard | Mindflaer
 Albre Cain | Barbarian | Human
-Condor Falcon | Rogue | Mimic-Kenku
+Condor Falcon | Rogue | Kenku
 Carrigen Mist | Warlock | Human
 Grand Taku | Barbarian / Monk | Summer-Elven 
 
@@ -57,3 +57,24 @@ Arriving at the [[Darnt Hillkeep]] is an interesting process. When you make it t
 Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldfield]], but possibly [[Aeberu]] or even [[Coalition City]] would take a day or less from Hillkeep proper.
 
 ### What happened?
+
+
+
+
+| In-game Date:      | 21st of Rebirth | Watch Type | Encounter? | Encounter Type |
+| ------------------ | ------------------ | ---------- | ---------- | -------------- |
+| Navigator          | W1 (0:00 – 4:00)   |            |            |                |
+|                    | W2 (4:00 – 8:00)   |            |            |                |
+| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
+|                    | W4 (12:00 – 16:00) |            |            |                |
+| Veer?              | W5 (16:00 – 20:00) |            |Yes||
+|                    | W6 (20:00 – 0:00)  |            |            |                |
+
+| In-game Date:      | 22nd of Rebirth | Watch Type | Encounter? | Encounter Type |
+| ------------------ | ------------------ | ---------- | ---------- | -------------- |
+| Navigator          | W1 (0:00 – 4:00)   |            |            |                |
+|                    | W2 (4:00 – 8:00)   |            |            |                |
+| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
+|                    | W4 (12:00 – 16:00) |            |            |                |
+| Veer?              | W5 (16:00 – 20:00) |            |            |                |
+|                    | W6 (20:00 – 0:00)  |            |            |                |
