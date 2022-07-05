@@ -20,33 +20,12 @@
               "leaf": "bf1450c2a5a1cf63",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":16},\"to\":{\"line\":33,\"ch\":16}},\"scroll\":21.961968164193365}"
+              "eState": "{\"scroll\":20.3436012491148}"
             },
             {
               "leaf": "bf1450c2a5a1cf63",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "4de40fe5a408629d",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "4de40fe5a408629d",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/AMMS-WesternEuropeIII.pdf\"}}",
               "eState": "{}"
             }
           ]
