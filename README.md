@@ -432,7 +432,9 @@ The culture of Cenva Minyo is one of True Neutrality - nothing is worth more tha
 ### Blood-Hobgoblin Clans
 The Blood-Hobgoblin Clans were formed in retaliation to the horrible treatment Hobgoblin received under the [[Bandit Lords]]. After winning their independence from both the [[Bandit Lords]] and the new [[The Kingdom of Prosper|Kingdom of Prosper]], these clans turned inward, to fight with each other for power.
 
-The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alaturmen]]. Most people survive by working as hunters or gatherers under the leaders of these 
+The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alaturmen]]. Most people survive by working as hunters or gatherers under the leaders of these clans, and moving with them between permanent structures as the food sources change throughout the year.
+
+The culture of the Blood-Hobgoblin Clans are one of Chaotic Neutrality. These clans have no issue turning on deals they make, and truly only wish for the prosperity of themselves and those they care for.
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
 **Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  
@@ -440,7 +442,11 @@ The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alat
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Desert Outlanders
-Groups of cannibalistic nomads and honorable thieves stalk [[The Deserts of Tetrimoc]] in search of necessary supplies that are far too rare in the Outlands. The culture of these people is one of True Neutrality, they are forced to do what they must to survive, although many find good and hope in community.
+After the [[#Golden City]] began to fill beyond its capacity, people were turned away from it's gates. Those who live in [[The Deserts of Tetrimoc]] but not the [[#Golden City]] are known as Outlanders. 
+
+These people are groups of nomadic cannibals, honor-bound thieves, and citizenry who swear fielty to [[Tetrimoc]] and the [[Golden Claws]] or these gangs of Thieves in exchange for protection. Most people would love to move or otherwise gain some control or power in their life, but rarely have the capability to do so.
+
+The culture of these people is one of True Neutrality. These people are forced by their environment to do what they **must** to survive, although many find hope and purpose in their communities.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
