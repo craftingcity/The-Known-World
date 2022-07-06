@@ -71,7 +71,7 @@ Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Human (s.)
-![[humanSpellslinger.png]]
+![[humanGuard.png]]
 The humans of Alaturmen have no creation myth of their own - the legends claim that as Time Began upon Alaturmen, the Goblin, Elves, Dragon-kin, and Triton found them bare-naked in the fields. Humans on Alaturmen are extremely similar to the Humans of Ancient Earth, much as you and I are.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Human mothers typically birth only one child per conception, but it is possible that a human could birth quite large litters.  
@@ -89,9 +89,13 @@ Many of the visual features of an Elf is based on their seasonal ancestry, altho
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the 10 traditionally used for passive-style checks. Call it plus 4.).  
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;  
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion.
+	![[elfSpringRanger.png]]
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.  
+	![[elfSummerNoble.png]]
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
+	![[elfAutumnRanger2.png]]
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+	![[elfWinterBust.png]]
 
 ### Dragonborn (s.)
 ![[dragonbornYellow.png]]
@@ -213,7 +217,6 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 ## Rare to Alaturmen
 #### Feywild
 ### Eladrin (a.)
-![[eladrinWinter.png]]
 Eladrin are born of the [[Ceilie Courts]], making a large section of the courts' common fey.
 
 **Age.** Although you are considered fully mature at about twenty-five, the traditional eladrin perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an eladrin reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Eladrin parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
@@ -226,9 +229,13 @@ Eladrin are born of the [[Ceilie Courts]], making a large section of the courts'
 - **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.  
 **Child of a Seasonal Monarch.** You gain a trait corresponding to your seasonal ancestry;  
 - **Spring.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. When you use your **Fey Step**, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
+![[eladrinSpring.png]]
 - **Summer.** You know one additional cantrip of your choice from the *evocation* school of the Wizard spell list. Intelligence is your spellcasting ability for it. Before or after you use your **Fey Step**, each creature of your choice within five feet of you takes fire damage equal to your proficiency bonus.  
+![[eladrinSummer.png]]
 - **Autumn.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. Directly before or after you use your **Fey Step**, you gain resistance to all damage until the end of your next turn. During this time, your physical form is ghostly and ethereal.  
+![[eladrinAutumn.png]]
 - **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. Directly before or after you use your **Fey Step**, each creature of your choice that you can see within 5 feet of you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.  
+![[eladrinWinter.png]]
 
 ### Satyr (a.)
 ![[satyr4.png]]
@@ -323,15 +330,15 @@ Tiefling are the children of Devils and humanoids. Often, they are born of contr
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You wiegh about one-hundred sixty pounds.  
 **Speed.** Your speed is thirty feet per round.  
 **Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your appearance and a manifestation of your Devilish Ancestry. In addition, you gain one of the following traits of your choice;  
-- **Avernus Child.** You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Searing Smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Branding Smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Dis Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Minaurus Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Tenser's Floating Disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the Arcane Lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Phelgetos Child.** You know the Friends cantrip. When you reach 3rd level, you can cast the Charm Person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Stygia Child.** You know the Ray of Frost cantrip. When you reach 3rd level, you can cast the Armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Malbolge Child.** You know the Minor Illusion cantrip. When you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.   
-- **Maladomini Child.** You know the Vicious Mockery cantrip. Once you reach 3rd level, you can cast the Charm Person spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Enthrall spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.   
-- **Cania Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Flame Blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Nesus Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
+- **Avernus Child.** You know the *Thaumaturgy* cantrip. When you reach 3rd level, you can cast the *Searing Smite* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Branding Smite* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Dis Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Disguise Self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Detect Thoughts* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Minaurus Child.** You know the *Mage Hand* cantrip. When you reach 3rd level, you can cast the *Tenser's Floating Disk* spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the *Arcane Lock* spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Phelgetos Child.** You know the *Friends* cantrip. When you reach 3rd level, you can cast the *Charm Person* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Suggestion* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Stygia Child.** You know the *Ray of Frost* cantrip. When you reach 3rd level, you can cast the *Armor of Agathys* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Malbolge Child.** You know the *Minor Illusion* cantrip. When you reach 3rd level, you can cast the *Disguise Self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Invisibility* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.   
+- **Maladomini Child.** You know the *Vicious Mockery* cantrip. Once you reach 3rd level, you can cast the *Charm Person* spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the *Enthrall* spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.   
+- **Cania Child.** You know the *Mage Hand* cantrip. When you reach 3rd level, you can cast the *Burning Hands* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Flame Blade* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Nesus Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Hellish Rebuke* spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the *Darkness* spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
 
 ### Mecha (a.)
 ![[mechaBrawler.png]]
@@ -364,8 +371,8 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 > #### Wha! Wha! I wanna be an asshole at the table!
-> You may have noticed that there is no Chaotic or Evil counterparts to the *Mecha* or the *Aasimar*. This was a purposeful design choice; you do not get to play *Demons* or *Devils* at my table. 
-> Full stop, no exceptions. There are plenty enough ways to perform evil or induce chaos without having the inability to perform acts of good or lawfulness.
+> You may have noticed that there is no Chaotic or Evil counterparts to the *Mecha* or the *Aasimar*. This was a purposeful design choice; you do not get to play *Demons* or *Devils* at my table. Full stop, no exceptions. 
+> There are plenty enough ways to perform evil or induce chaos without having the inability to perform acts of good or lawfulness.
 > Try a human.
 
 # Culture
@@ -460,7 +467,7 @@ The culture of Cenva Minyo is one of True Neutrality - nothing is worth more tha
 **Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ### Blood-Hobgoblin Clans
-The Blood-Hobgoblin Clans were formed in retaliation to the horrible treatment Hobgoblin received under the [[Bandit Lords]]. After winning their independence from both the [[Bandit Lords]] and the new [[The Kingdom of Prosper|Kingdom of Prosper]], these clans turned inward, to fight with each other for power.
+For years, Hobgoblin in the North East were treated as less than second class citizens under the rule of the so-called "[[Bandit Lords]]". Seventy years ago, these Hobgoblin wrote and ratified the [[Blood-Hobgoblin Clan Pact]], forming an ethno-state of Hobgoblin family clans.
 
 The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alaturmen]]. Most people survive by working as hunters or gatherers under the leaders of these clans, and moving with them between permanent structures as the food sources change throughout the year.
 
@@ -494,7 +501,7 @@ While your specific background is likely tied deeply to your character's Culture
 > Once, I was an adventurer like you, then I took an arrow to the knee. I was in the military before, during the Invasion of Orcus, and my training served me well in my days of glory. They only keep me on watch these days. Mind if I bum a joint?
 > \- A guard I just made up
 
-That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
+That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, thrusting them into a life of adventure ending in power or death.
 
 # Exploring Alaturmen
 ### The World is Young

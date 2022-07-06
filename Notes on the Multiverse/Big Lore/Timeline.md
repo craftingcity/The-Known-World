@@ -128,7 +128,7 @@ content:
 [[Arthur Simonson]] leads a party of adventurers and an army of home-grown warriors against the [[Bandit Lords]] that ruled in the northwest of [[Central Alaturmen]].
 
 date: 059AF
-title: The Bandit Lords are forced out.
+title: The Bandit Lords are defeated.
 content:
 
 [[Arthur Simonson]] completes his war's main goal - exterminate the [[Bandit Lords]]. Now he must hold this new territory from the Hobgoblins to the northeast.

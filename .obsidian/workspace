@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "aaae49610d8e0be9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":503,\"ch\":276},\"to\":{\"line\":503,\"ch\":276}},\"scroll\":492.96780572289055}"
+            },
+            {
+              "leaf": "aaae49610d8e0be9",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "aaae49610d8e0be9",
@@ -39,6 +45,28 @@
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7fce263730db7286",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7fce263730db7286",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":130,\"ch\":36},\"to\":{\"line\":130,\"ch\":36}},\"scroll\":100.36962009601548}"
             }
           ]
         }
@@ -119,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -201,6 +229,8 @@
   },
   "active": "aaae49610d8e0be9",
   "lastOpenFiles": [
+    "README.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
     "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md",
@@ -208,8 +238,6 @@
     "Millyr.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
     "Guraxlog.md",
-    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Demon Lords.md"
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md"
   ]
 }
