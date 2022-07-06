@@ -1,101 +1,64 @@
 {
   "main": {
-    "id": "d4cab303fd90c4e8",
+    "id": "90b37ad8ee5e800c",
     "type": "split",
     "children": [
       {
-        "id": "630ca8200ba700f3",
+        "id": "c08fcc8fae5eb7c2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-            "mode": "source"
+            "file": "MEDIA/MAPS/WORLD/combine-100AF.png"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.728929154755378}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/combine-100AF.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":12.606164383561644}"
+            },
+            {
+              "leaf": "c08fcc8fae5eb7c2",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/Holy-100AF.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":44},\"to\":{\"line\":18,\"ch\":44}}}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/combine-100AF.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "630ca8200ba700f3",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "630ca8200ba700f3",
+              "leaf": "c08fcc8fae5eb7c2",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -104,12 +67,87 @@
         }
       },
       {
-        "id": "c2ad0748ad77ce25",
+        "id": "ddeca75dff5be341",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ddeca75dff5be341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ddeca75dff5be341",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "f704e1f6dd607559",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f704e1f6dd607559",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f704e1f6dd607559",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a52779fc5bd02410",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a52779fc5bd02410",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a52779fc5bd02410",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ddd0044098121c34",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         },
@@ -117,25 +155,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c2ad0748ad77ce25",
+              "leaf": "ddd0044098121c34",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "c2ad0748ad77ce25",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":172.31750744506618}"
-            },
-            {
-              "leaf": "c2ad0748ad77ce25",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c2ad0748ad77ce25",
+              "leaf": "ddd0044098121c34",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -147,39 +173,31 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9434ec9d2ec8e1bc",
+    "id": "f200fe8a1a80900b",
     "type": "split",
     "children": [
       {
-        "id": "297db4ae714f3111",
+        "id": "1ee778f2eb66d012",
         "type": "tabs",
         "children": [
           {
-            "id": "d457ef2a2709cd57",
+            "id": "470822c6e780fecc",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "e1f001ef83d9dba5",
+            "id": "2dcd6b1d0d15f119",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "c481485eb0f691e7",
+            "id": "471fab77001b02ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -191,35 +209,30 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 531.5020484924316,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "19a40ea2f9578efa",
+    "id": "22b1fb456ad17b5a",
     "type": "split",
     "children": [
       {
-        "id": "ecd99c1ef1d16808",
+        "id": "345ad8dc0249f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "52bb8636687fcb4f",
+            "id": "214128aa17851074",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,30 +241,22 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "94fc68b2053d13df",
+            "id": "a784ad59b314c9b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "01037737db479b54",
+            "id": "60736712cabd0795",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -259,57 +264,31 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "b8bf0068363ddf89",
+            "id": "f44a3da8351e916d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+                "file": "conflict-files-obsidian-git.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "565e4663ad415663",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c2ad0748ad77ce25",
+  "active": "ddd0044098121c34",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/b_ Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    "conflict-files-obsidian-git.md",
+    "MEDIA/MAPS/WORLD/combine-100AF.png",
+    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
+    "A Grand Notepad.md",
+    "MEDIA/MAPS/WORLD/Holy-100AF.png"
   ]
 }
