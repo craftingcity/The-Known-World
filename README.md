@@ -306,7 +306,7 @@ Hollow boned humanoid-birdfolk native to the Elemental [[Plane of Air]].
 **Elemental Ancestry (Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.  
 
 ### Genasi (a.)
-Humanoid elementals native to the [[Elemental Planes]]. 
+Genasi are humanoid elementals native to the [[Elemental Planes]]. Those Genasi who find themselves on Alaturmen typically came of their own volition.
 
 **Age.** You are considered fully mature at about forty and live to about four-hundred years.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
@@ -455,11 +455,13 @@ The culture of Actstow is one of Neutral Good. The people here are no stranger t
 **Dwarven-Artisan Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ### Cenva Minyo
-[[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed, with great assistance from the [[#Dwarven Kingdom Actstow]] in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. 
+*For the hatred of fire, we are home here.*
 
-For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]] and recording the history of the world.
+Cenva Minyo is an ancient order of lore-keepers who's first members survived the [[Great Fires]]. This group is old and respected, and it's people bide their time studying a divine horror and weaving powerful fabrics and magic.
 
-The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame who felled our forebearers.
+From initiation, a member of Cenva Minyo understands that their duty is to history, to those that came before. The one true goal of this collective is the understanding and extinction of [[Its Greatness|The Great White Flame]].
+
+The culture of Cenva Minyo is one of True Neutrality. The goals of these people are the collection of history and the destruction of a divine enemy, and nothing will stand in the way of the completion of these goals; morality or politics be damned.
 
 **Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
 **Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  

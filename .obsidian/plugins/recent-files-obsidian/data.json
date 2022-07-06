@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "a_ Chapter One - Introduction",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md"
-    },
-    {
-      "basename": "z_ Appendix A; Stat Blocks",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/z_ Appendix A; Stat Blocks.md"
     }
   ],
   "omittedPaths": [],

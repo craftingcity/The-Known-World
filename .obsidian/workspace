@@ -20,7 +20,7 @@
               "leaf": "aaae49610d8e0be9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":503,\"ch\":276},\"to\":{\"line\":503,\"ch\":276}},\"scroll\":492.96780572289055}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":457,\"ch\":8},\"to\":{\"line\":457,\"ch\":12}},\"scroll\":449.8257052823455}"
             },
             {
               "leaf": "aaae49610d8e0be9",
@@ -50,12 +50,12 @@
         }
       },
       {
-        "id": "7fce263730db7286",
+        "id": "c654628b4335d5b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
             "mode": "source"
           }
         },
@@ -63,10 +63,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "7fce263730db7286",
+              "leaf": "c654628b4335d5b7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":130,\"ch\":36},\"to\":{\"line\":130,\"ch\":36}},\"scroll\":100.36962009601548}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -230,6 +230,7 @@
   "active": "aaae49610d8e0be9",
   "lastOpenFiles": [
     "README.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
@@ -237,7 +238,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Millyr.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
-    "Guraxlog.md",
-    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md"
+    "Guraxlog.md"
   ]
 }
