@@ -14,10 +14,10 @@ Save the inter-party romance or sacrifice everyone and destroy a great evil? Nei
 
 What do you do? How? Why?
 
-## Using this Document.
+## Using this Document
 I built this doc as an ObsidianMD vault in the near-end of autumn of 2021. I have not finished this doc. Eventually this may turn into a campaign setting book dealio.
 
-I these pages I describe a world that I lived in for some time; the hours I spent both at the table and at my desk are recorded here. It is a world of great magic and change. 
+In these pages I describe a world that I have lived in for some time; the hours I spent both at the table and at my desk are recorded here. It is a world of great magic and change. 
 
 I present to you some central truths:
 
@@ -41,7 +41,8 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 
 ## Common to Alaturmen
 ### Goblin (s.)
-Goblin are small, gangly humanoid with sharp ears and large eyes. Goblin share their origin myth with the Hobgoblin and Bugbear; the Titan [[Demogorgon]] created the Goblin-oid without purpose, keeping them as pawns and pets. They escaped [[Demogorgon]]'s influence into the greater multiverse before many of the Planes of the Multiverse. 
+![[goblinPair.png]]
+Goblin are small, gangly humanoid with sharp ears and quick wits. Goblin share their origin myth with the Hobgoblin and Bugbear; the Titan [[Demogorgon]] created the Goblin-oid without purpose, keeping them as pawns and pets. They escaped [[Demogorgon]]'s influence into the greater multiverse before many of the Planes of the Multiverse. 
 
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.  
 **Size.** Mechanically, you are considered a small creature. You stand at about three and a half feet tall, though your limbs are built for someone just an inch or two taller than yourself. You weigh about eighty pounds.  
@@ -51,6 +52,7 @@ Goblin are small, gangly humanoid with sharp ears and large eyes. Goblin share t
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).  
 
 ### Hobgoblin (s.)
+![[hobgoblinBarb.png]]
 Hobgoblin are extremely similar to humans, the largest difference between the two being that the Hobgoblin know the myth of their origins.
 
 **Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical.   
@@ -59,6 +61,7 @@ Hobgoblin are extremely similar to humans, the largest difference between the tw
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.  
 
 ### Bugbear (s.)
+![[bugbearAdventurer.png]]
 Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 
 **Age.** You are considered fully mature at sixteen and live to about fifty. Bugbear mothers birth litters of about four children.  
@@ -68,6 +71,7 @@ Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Human (s.)
+![[humanGuard.png]]
 The humans of Alaturmen have no creation myth of their own - the legends claim that as Time Began upon Alaturmen, the Goblin, Elves, Dragon-kin, and Triton found them bare-naked in the fields. Humans on Alaturmen are extremely similar to the Humans of Ancient Earth, much as you and I are.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Human mothers typically birth only one child per conception, but it is possible that a human could birth quite large litters.  
@@ -85,11 +89,16 @@ Many of the visual features of an Elf is based on their seasonal ancestry, altho
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the 10 traditionally used for passive-style checks. Call it plus 4.).  
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;  
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion.
+	![[elfSpringRanger.png]]
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.  
+	![[elfSummerNoble.png]]
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
+	![[elfAutumnRanger2.png]]
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+	![[elfWinterBust.png]]
 
 ### Dragonborn (s.)
+![[dragonbornYellow.png]]
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
 **Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another.   
@@ -114,6 +123,7 @@ Gold | Fire
 Silver | Cold
 
 ### Triton (s.)
+![[tritonFighter.png]]
 The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
 **Age.** You are considered fully mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.  
@@ -123,6 +133,7 @@ The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are large
 **Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know one cantrip *shape water*.  
 
 ### Dwarven (a.)
+![[dwarvenCamper.png]]
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.  
@@ -133,6 +144,7 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 
 ## Uncommon to Alaturmen
 ### Kobold (a.)
+![[koboldBlack.png]]
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
 
 **Age.** You are considered fully mature at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.  
@@ -143,6 +155,7 @@ Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a 
 **Blood of Dragon.** You have advantage on saving throws to avoid or end the frightened condition on yourself. You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).  
 
 ### Orc (a.)
+![[orcFather.png]]
 Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.  
@@ -152,6 +165,7 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.  
 
 ### Tabaxi (s.)
+![[tabaxiJungle.png]]
 The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
 
 **Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.  
@@ -161,6 +175,7 @@ The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteou
 **Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.  
 
 ### Kenku (s.)
+![[kenkuWalker.png]]
 The Kenku have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
 
 **Age.** You are considered fully mature at twelve and you live until about sixty.  
@@ -169,6 +184,7 @@ The Kenku have become on Alaturmen only recently, born to the [[Beasts Righteous
 **Mimicry.** You can precisely mimic sounds, including voices, you have heard. A creature that hears the sounds you make can only tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.  
 
 ### Goliath (s.)
+![[goliathWarrior.png]]
 The origins of Goliath are shrouded in myth, with some saying that their ancestors were born of Ice Giants.
 
 **Age.** You are considered fully matured at twenty and live until about one-hundred. Goliath mothers always birth children in identical twins.   
@@ -179,6 +195,7 @@ The origins of Goliath are shrouded in myth, with some saying that their ancesto
 **Twin-things.** If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.  
 
 ### Halfling (a.)
+![[halflingRanger.png]]
 Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
 
 **Age.** Halfling are considered fully mature at twenty five, and live until about one-hundred sixty. Halfling are born of story and creativity, they can become at any point in their life full of history and connection. Many halfling are cousin, sibling, parent, and child to many other halflings, as most of these halflings begin to tell stories of their family, they become too.  
@@ -188,6 +205,7 @@ Halfling are born to the Weave itself, the conscious form of a story of someone 
 **Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.  
 
 ### Gnoll (s.)
+![[gnollWarrior.png]]
 The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
 
 **Age.** You are considered fully matured at eight and live to about forty.  
@@ -211,11 +229,16 @@ Eladrin are born of the [[Ceilie Courts]], making a large section of the courts'
 - **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.  
 **Child of a Seasonal Monarch.** You gain a trait corresponding to your seasonal ancestry;  
 - **Spring.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. When you use your **Fey Step**, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
+![[eladrinSpring.png]]
 - **Summer.** You know one additional cantrip of your choice from the *evocation* school of the Wizard spell list. Intelligence is your spellcasting ability for it. Before or after you use your **Fey Step**, each creature of your choice within five feet of you takes fire damage equal to your proficiency bonus.  
+![[eladrinSummer.png]]
 - **Autumn.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. Directly before or after you use your **Fey Step**, you gain resistance to all damage until the end of your next turn. During this time, your physical form is ghostly and ethereal.  
+![[eladrinAutumn.png]]
 - **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. Directly before or after you use your **Fey Step**, each creature of your choice that you can see within 5 feet of you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.  
+![[eladrinWinter.png]]
 
 ### Satyr (a.)
+![[satyr4.png]]
 Satyr are born of the [[Ceilie Courts]], with the life directive of creating and telling the story of an event, person, or concept of the Court's choice.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Satyr parent a single child at about seventy-five, whom they teach everything they know about their task.  
@@ -228,6 +251,7 @@ Satyr are born of the [[Ceilie Courts]], with the life directive of creating and
 - **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.  
 
 ### Gnome (a.)
+![[gnomeSexy.png]]
 When a great work of invention is created in the multiverse, a Gnome becomes. Most find themselves born into the Astral Sea, adrift and surviving with nothing but their intellect to protect them.
 
 **Age.** You are considered fully mature upon your becoming. You are a mortal, and while you would naturally die at about one-hundred twenty, many Gnomes extend their lifespans artificially; using magic or technology you could live to over five-hundred – or beyond, if you're willing to become something im-mortal.   
@@ -239,6 +263,7 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 #### Underdark
 ### Duergar (a.)
+![[duergarMasc.png]]
 A distant cousin of the Dwarves, the Duergar come from the Deep Below, a plane of caves, tunnels, horror, and riches. Duergar evolved for the deepest and darkest reaches of this place.
 
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Duergar reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives duergar no reason to participate in gender, though they often have gender forced upon them in alien cultures.  
@@ -248,6 +273,7 @@ A distant cousin of the Dwarves, the Duergar come from the Deep Below, a plane o
 **Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
 
 ### Kalix (s.)
+![[kalixArt.png]]
 The Kalix evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They are evolved for the damp lush areas of this place.
 
 **Age.** You are considered fully matured at eight and live to about forty.  
@@ -259,6 +285,7 @@ The Kalix evolved in the Deep Below, a plane of caves, tunnels, horror, and rich
 
 
 ### Kuo-Toa (s.)
+![[kuo-toaWTF.png]]
 The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They evolved for live in the wettest places here.
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Kuo-Toa reproduce like traditional fish, fathers inseminate hundreds of a mother's eggs.  
@@ -269,6 +296,7 @@ The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and ri
 
 #### Elementals
 ### Aaracokra (s.)
+![[aaracokraTrue.png]]
 Hollow boned humanoid-birdfolk native to the Elemental [[Plane of Air]].
 
 **Age.** You are considered fully mature at six and live to be about sixty.  
@@ -278,36 +306,42 @@ Hollow boned humanoid-birdfolk native to the Elemental [[Plane of Air]].
 **Elemental Ancestry (Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.  
 
 ### Genasi (a.)
-Humanoid elementals native to the [[Elemental Planes]]. 
+Genasi are humanoid elementals native to the [[Elemental Planes]]. Those Genasi who find themselves on Alaturmen typically came of their own volition.
 
 **Age.** You are considered fully mature at about forty and live to about four-hundred years.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
 **Speed.** Your speed is 30 feet per round.  
 **Elemental Ancestry.** You gain your choice of one of the following traits;  
 - **(Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.  
+![[genasiAir.png]]
 - **(Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
+![[genasiEarth.png]]
 - **(Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know the cantrip *shape water*. Constitution is your spellcasting ability for this spell.  
+![[genasiWater.png]]
 - **(Fire).** You have resistance to fire damage. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red. You may cast *hellish rebuke* as a reaction. Constitution is your spellcasting ability for this spell. After using this feature, you cannot use it again until you complete a short or long rest. 
+![[genasiFire.png]]
 
 #### Extraplanar
 ### Tiefling (s.)
-Tiefling are the children of Devils and humanoids. Often, they are born of contract ("I give you my first born child"), but sometimes, a human falls in love with a devil they bear a tiefling together.  
+![[tieflingNoble.png]]
+Tiefling are the children of Devils and humanoids. Often, they are born of contract ("I give you my first born child, and in exchange..."), but other times, a human and a devil truly fall into what they consider love and bear a tiefling together.  
 
-**Age.** You are considered fully mature at twenty-five, and live until about one-hundred eighty. A tiefling is born in the union of a devil and a humanoid, and tieflings cannot themselves bear children. The humanoid parent always bears the teifling child to term, and very often, this is fatal.  
+**Age.** You are considered fully mature at twenty-five, and live until about one-hundred eighty. A tiefling is born in the union of a devil and a humanoid, and tieflings cannot themselves bear children. The humanoid parent always bears the teifling child to term, and to do so is very often fatal.  
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You wiegh about one-hundred sixty pounds.  
 **Speed.** Your speed is thirty feet per round.  
 **Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your appearance and a manifestation of your Devilish Ancestry. In addition, you gain one of the following traits of your choice;  
-- **Avernus Child.** You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Searing Smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Branding Smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Dis Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Minaurus Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Tenser's Floating Disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the Arcane Lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Phelgetos Child.** You know the Friends cantrip. When you reach 3rd level, you can cast the Charm Person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Stygia Child.** You know the Ray of Frost cantrip. When you reach 3rd level, you can cast the Armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Malbolge Child.** You know the Minor Illusion cantrip. When you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.   
-- **Maladomini Child.** You know the Vicious Mockery cantrip. Once you reach 3rd level, you can cast the Charm Person spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Enthrall spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.   
-- **Cania Child.** You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Flame Blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-- **Nesus Child.** You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
+- **Avernus Child.** You know the *Thaumaturgy* cantrip. When you reach 3rd level, you can cast the *Searing Smite* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Branding Smite* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Dis Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Disguise Self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Detect Thoughts* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Minaurus Child.** You know the *Mage Hand* cantrip. When you reach 3rd level, you can cast the *Tenser's Floating Disk* spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the *Arcane Lock* spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Phelgetos Child.** You know the *Friends* cantrip. When you reach 3rd level, you can cast the *Charm Person* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Suggestion* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Stygia Child.** You know the *Ray of Frost* cantrip. When you reach 3rd level, you can cast the *Armor of Agathys* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Malbolge Child.** You know the *Minor Illusion* cantrip. When you reach 3rd level, you can cast the *Disguise Self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Invisibility* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.   
+- **Maladomini Child.** You know the *Vicious Mockery* cantrip. Once you reach 3rd level, you can cast the *Charm Person* spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the *Enthrall* spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.   
+- **Cania Child.** You know the *Mage Hand* cantrip. When you reach 3rd level, you can cast the *Burning Hands* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Flame Blade* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
+- **Nesus Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Hellish Rebuke* spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the *Darkness* spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
 
 ### Mecha (a.)
+![[mechaBrawler.png]]
 Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
 
 **Age.** You are considered fully mature, and you do not age.  
@@ -324,6 +358,7 @@ Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.   
 
 ### Aasimar (a.)
+![[aasimarSexy.png]]
 Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [[Elysium]] becomes a Aasimar here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.  
 
 **Age.** You are considered fully mature, and you do not age.  
@@ -336,18 +371,20 @@ Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 > #### Wha! Wha! I wanna be an asshole at the table!
-> You may have noticed that there is no Chaotic or Evil counterparts to the *Mecha* or the *Aasimar*. This was a purposeful design choice; you do not get to play *Demons* or *Devils* at my table. 
-> Full stop, no exceptions. There are plenty enough ways to perform evil or induce chaos without having the inability to perform acts of good or lawfulness.
+> You may have noticed that there is no Chaotic or Evil counterparts to the *Mecha* or the *Aasimar*. This was a purposeful design choice; you do not get to play *Demons* or *Devils* at my table. Full stop, no exceptions. 
+> There are plenty enough ways to perform evil or induce chaos without having the inability to perform acts of good or lawfulness.
 > Try a human.
 
 # Culture
-Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits. I mention your culture's Alignment at the end of it's description, though I never use the word, and to be clear; This is not your assigned Alignment. You may take it if you so choose but *your* character's alignment need not reflect their culture's, but it should reflect their actions. If you decide that your character's alignment needs to shift to more accurately represent their actions, please do so, but if this is more like a character arc thing you should come talk to me.
+Your culture bestows in you some traits and ideals that can be mechanically represented by *Ability Score Increases*, *Skills*, and *Languages*, and/or some other culturally endowed traits. I mention your culture's Alignment at the end of it's description, though I never use the word, and to be clear; This is not your assigned Alignment. You may take it if you so choose but *your* character's alignment need not reflect their culture's, but it should reflect their actions. 
+
+If you decide that your character's alignment needs to shift to more accurately represent their actions, please do so, but if this is more like a character arc thing you should come talk to me.
 
 ## Nation-States of Coalition
 ### Kingdom of Prosper
-After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they will fall in the West, but here in the East, they ruled for about forty-five years. 
+After the [[Timeline#The Age of Beginning|Fall of Tetrimoc]], and the entrance of sentient life unto Alaturmen, a group of so-called "[[Bandit Lords]]" ruled the [[Great Northern Forests]]. Only six years later, they fall in the West, but here in the East, they ruled for another forty years. 
 
-They sometimes literally but mostly metaphorically fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood Clans]] at these borders.
+They fell to the Adventurer King Arthur Simonson, who now rules the Kingdom of Prosper. Since his reign, places such as [[Gambleum]], [[Janesland]], and [[Yerba]] have, as promised, Prospered, as well have the smaller settlements under his influence. He extends his reach far into the northwest, reaching into what's left of the [[Great Northern Forests]] at risk of angering the [[Blood Clans]] at these borders.
 
 The state-mandated-education in Prosper teaches children to read and write, as well as promoting personal hardiness and community focus; It is an honor to know your neighbor, and it is a pleasure to host them in your home. The people of Prosper have a history of near-virtuous violence, and they raise their children to defend themselves. The culture of Prosper is one of Lawful Goodness; their system of government is good and kind, and they are bound to their fellows through the experience of life.
 
@@ -357,9 +394,11 @@ The state-mandated-education in Prosper teaches children to read and write, as w
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Church of the White Flame
-The culture of the Church, and by extension the greater Holyl'nds, is a caste-theocracy in a post-divine-immolation ashen ecology. The White Flame is *the* God in this area, and It's influence is felt by all who call this place home. 
+The Church of the White Flame rose from the ashes of the North-West – after the [[Great Fires]] immolated this place people flocked to their new deity. Quickly, a caste-theocracy formed around **[[Its Greatness|The Holy Flame]]** and **It**'s wishes. 
 
-The culture of the Church is one of Lawful Evil; violence is necessary to do what It wills, and thus is virtuous, and its people are comfortable with the understanding that *some people simply are not worth as much as others*.
+The few who claim to have Spoken with [[Its Greatness]] claim the top of this system, and those who are fiercely loyal (and properly propagandized) become Firstchurch or Tendered. The common folk are given the name Patrons, and those below them – the slaves or those otherwise untouched by the [[Its Greatness|White Flame]] – are called Unseen or, in the case of an enemy, Undesirable.
+
+The culture of the Church is one of Lawful Evil; violence is necessary to do what **It** wills, and thus is virtuous, and people of this church are comfortable with the understanding that *some people simply are not worth as much as others*.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom increases by 1.  
 **Languages.** You know at least two languages; [[High Common (language)]] and [[Modern Elven (language)]].  
@@ -367,7 +406,11 @@ The culture of the Church is one of Lawful Evil; violence is necessary to do wha
 **Mental Discipline.** You have resistance to psychic damage. You have advantage on all Wisdom saving throws.  
 
 ### Golden City
-Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him - the city is made in his home after all. The culture of the Golden City is one of True Neutrality, while there are laws here, they are enforced much more than they are respected, especially among the common folk of this City.
+When [[Tetrimoc]] fell to the world, and sentience was born unto Alaturmen, he made his lair in [[The Deserts of Tetrimoc]], boring deep into the desert. The people of these Deserts came to him here and built him, and themselves, a beautiful city of gold and sand. Those who live in the Golden City are of two kinds; with power and without. These two groups fight to take what the other has every day in this place, through law *and* chaos. Many who live here revere [[Tetrimoc]], and those who don't at least respect him – the city is made of his home after all. 
+
+For as long as people have been here, they have been protected by [[Tetrimoc]], and though the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor himself has not been seen for about a dozen years, the people of the Golden city take comfort in High Ambassador [[Venclaw]]'s claims that he is in constant communication with the Dragon of the Golden City. 
+
+The culture of the Golden City is one of True Neutrality; while there are laws here, they benefit those in power much more than those out of power, and they are enforced *much more* than they are respected. Crime is a necessary component of the City's economy, and day-to-day survival for many.
 
 **Ability Score Increase.** Your Charisma score increases by 1, and your Intelligence score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and [[Draconic (language)]].  
@@ -375,7 +418,11 @@ Those who live in the Golden City are of two kinds; with power and without. Thes
 **Desert Proficiency.** You gain advantage on Dexterity (Initiative) and Dexterity (Stealth) checks while you are in a desert.  
 
 ### Democratic Combine of Peoples
-The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves when the Combine as a whole is not under threat. These barons find use for **all** who live within their domain. The culture of the DCP is one of Chaotic Good; their ideology can be summarized by the phrase "no-one hurts my sibling but me".
+When [[Tetrimoc]] fell, and sentient life became on Alaturmen, the People of the South-East found themselves in a bountiful wet land. People formed tribes, clans, monarchies, made war and trade, and as the Coalition was formed, the rules of combat between these Peoples was formalized in [[Coalition's Founding Document]], and [[The Democratic Combine of Peoples]] was formed.
+
+The peoples of the DCP are ruled by their Barons, nearly all of whom fight among themselves while the Combine as a whole is not under threat. These barons find use for **all** who live within their domain, leading to an eclectic gathering of people in a Baron's Court.  
+
+The culture of the DCP is one of Neutral Good; the commoners are happy for the laws of the Coalition and the protection of their Baron. Chaos is rampant here – crime and war are the status-quo, and *everyone* has an angle. The seat of Baron is open – if you can take it.
 
 **My Baron Can Beat Up Your Baron.** You gain either one feat of your choice or an Ability score of your choice increases by 2.
 **Languages.** You know at least these two languages; [[Swampish (language)]] and [[Aquarian (language)]].  
@@ -384,19 +431,37 @@ The peoples of the DCP are ruled by their Barons, nearly all of whom fight among
 
 
 ## Non-Coalition Entities
-### Dwarven Kingdoms
-The Dwarven Kingdoms of Alaturmen are a proud group of independent communities that answer to their King. These communities share a culture of Lawful Neutrality.
-- The Suremantle clan rule [[Mountain Hall]]; a near isolationist group from the [[Deakred Range]]
-- The Actstow clan rule the [[Actstow Hills]] as a bastion of wealth and community dearly intertwined with [[#Cenva Minyo]]
-- The Jammu clan rule the [[Grumbling Hills]] and some of the surrounding area under [[The Democratic Combine of Peoples]]
+### Dwarven Kingdom Suremantle
+The Dwarven Kingdom of Suremantle is a monarchy supported by family clans of miner and farmers. These clans are as ancient as Alaturmen, and claim that their ancestors were carved from the stone here, a hundred or more years ago. 
+
+The Kingdom Suremantle claims all the reaches of [[Mountain Hall]]; a massive sub-surface structure that spans much of the [[Deakred Range]]. The culture of this place promotes pseudo-isolationism; interacting with people from other cultures is only acceptable under the circumstances of trade.
+
+The culture of Suremantle is one of Neutral Evil. The people here are ignorant and arrogant of other cultures, and they promote a family-before-self-before-other culture. 
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Constitution score increases by 1.   
-**Languages.** You know at least these two languages; [[Dwarven (language)]] and one "common" language of your choice.  
+**Languages.** You know at least these two languages; [[Dwarven (language)]] and [[Desertspeech (language)]].
 **Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
-**Dwarven Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
+
+### Dwarven Kingdom Actstow
+The Dwarven Kingdom of Actstow is a monarchy supported by family clans of miners and farmers. These clans are as ancient as Alaturmen, and claim that their ancestors were carved from the stone here, a hundred or more years ago. 
+
+Actstow is very condensed, there is very little available space, public or private. People from here bask in the luxury of privacy and cling close to their comrades. Many cultures interact with the Dwarven Kingdom Actstow on great terms, including [[#Cenva Minyo]] to their south, [[#Kingdom of Prosper]] to their east, and [[Deepburrow]] to their *below*.
+
+The culture of Actstow is one of Neutral Good. The people here are no stranger to evading the law, tax evasion is a specialty, and bodily harm or physical restrictions are never the correct answer when you or yours have been wronged.
+
+**Ability Score Increase.** Your Intelligence score increases by 1, and your Charisma score increases by 1.   
+**Languages.** You know at least these two languages; [[Dwarven (language)]] and [[High Common (language)]]
+**Skills.** You are proficient in Intelligence (Investigation), Strength (Athletics), and one set of tools of your choice.  
+**Dwarven-Artisan Training.** You gain proficiency with two kinds of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.  
 
 ### Cenva Minyo
-[[Cenva Minyo]] is an elvish phrase that can be understood as "*for the hatred of fire, we are home here*". This group was formed in direct opposition to [[Its Greatness|The Great White Flame]] and the [[Great Fires]], and the commoner wishes for nothing more than to smite the [[Its Greatness|White Flame]] from reality. For now, these people bide their time making fabrics in the forest south of the [[Actstow Hills]]. The culture of Cenva Minyo is one of True Neutrality - nothing is worth more than an end to the Flame.
+*For the hatred of fire, we are home here.*
+
+Cenva Minyo is an ancient order of lore-keepers who's first members survived the [[Great Fires]]. This group is old and respected, and it's people bide their time studying a divine horror and weaving powerful fabrics and magic.
+
+From initiation, a member of Cenva Minyo understands that their duty is to history, to those that came before. The one true goal of this collective is the understanding and extinction of [[Its Greatness|The Great White Flame]].
+
+The culture of Cenva Minyo is one of True Neutrality. The goals of these people are the collection of history and the destruction of a divine enemy, and nothing will stand in the way of the completion of these goals; morality or politics be damned.
 
 **Ability Score Increase.** Your Intelligence score increases by 1, and your Wisdom score increases by 1. 
 **Languages.** You know at least these two languages; [[Modern Elven (language)]] and [[Dwarven (language)]].  
@@ -404,15 +469,23 @@ The Dwarven Kingdoms of Alaturmen are a proud group of independent communities t
 **Elven War-Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow, as well as with light and medium armor. You gain proficiency with one kind of artisan’s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen tool proficiency. 
 
 ### Blood-Hobgoblin Clans
-The [[Blood Clans]] are a region of [[Northeastern Central]] [[Alaturmen]]. The people who live here are psuedo-nomatic, often traveling between permanent structures though out the seasons, and always ready to defend themselves. The culture of these people is one of Lawful Neutrality, holding themselves and their clan-mates to their [[Blood-Hobgoblin Clan Pact|Blood Pact]].
+For years, Hobgoblin in the North East were treated as less than second class citizens under the rule of the so-called "[[Bandit Lords]]". Seventy years ago, these Hobgoblin wrote and ratified the [[Blood-Hobgoblin Clan Pact]], forming an ethno-state of Hobgoblin family clans.
+
+The Blood Clans occupy the [[Illburn Forest]] in [[Northeastern Central]] [[Alaturmen]]. Most people survive by working as hunters or gatherers under the leaders of these clans, and moving with them between permanent structures as the food sources change throughout the year.
+
+The culture of the Blood-Hobgoblin Clans are one of Chaotic Neutrality. These clans have no issue turning on deals they make, and truly only wish for the prosperity of themselves and those they care for.
 
 **Ability Score Increase.** Your Strength score increases by 1, and your Dexterity score increases by 1.  
 **Languages.** You know at least these two languages; [[Goblin (language)]] and [[King's Common (language)]].  
-**Skills.** You have proficiency in Strength (Athletics), Wisdom (Perception), and one set of tools of your choice.  
+**Skills.** You have proficiency in Intelligence (Nature), Wisdom (Perception), and one set of tools of your choice.  
 **Martial Discipline.** You are proficient with light and medium armors, as well as all basic and martial weapons. You have advantage on saving throws against being frightened.  
 
 ### Desert Outlanders
-Groups of cannibalistic nomads and honorable thieves stalk [[The Deserts of Tetrimoc]] in search of necessary supplies that are far too rare in the Outlands. The culture of these people is one of True Neutrality, they are forced to do what they must to survive, although many find good and hope in community.
+After the [[#Golden City]] began to fill beyond its capacity, people were turned away from it's gates. Those who live in [[The Deserts of Tetrimoc]] but not the [[#Golden City]] are known as Outlanders. 
+
+These people are groups of nomadic cannibals, honor-bound thieves, and citizenry who swear fielty to [[Tetrimoc]] and the [[Golden Claws]] or these gangs of Thieves in exchange for protection. Most people would love to move or otherwise gain some control or power in their life, but rarely have the capability to do so.
+
+The culture of these people is one of True Neutrality. These people are forced by their environment to do what they **must** to survive, although many find hope and purpose in their communities.
 
 **Ability Score Increase.** Your Dexterity score increases by 1, and your Constitution score increases by 1.  
 **Languages.** You know at least these two languages; [[Desertspeech (language)]] and your choice of [[Thieves Cant (language)]] or [[Infernal (language)]].  
@@ -430,7 +503,7 @@ While your specific background is likely tied deeply to your character's Culture
 > Once, I was an adventurer like you, then I took an arrow to the knee. I was in the military before, during the Invasion of Orcus, and my training served me well in my days of glory. They only keep me on watch these days. Mind if I bum a joint?
 > \- A guard I just made up
 
-That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, starting them into a life of adventure ending in power or death.
+That guard may have been an adventurer for some time, but they were never on the star-studded cast of a **Dungeons and Dragons** campaign, like your character will be. Something made your character switch paths, thrusting them into a life of adventure ending in power or death.
 
 # Exploring Alaturmen
 ### The World is Young
@@ -473,6 +546,5 @@ Exile or Execution are common punishments for serious crimes such as treason or 
 Many cultures have unique forms of punishment and unique crimes. A culture's justification for punishment is also often unique, be it a contract, ideal, or some other broken bond.
 
 ### The Wildlands
-At the edges of civilization, the Wildlands extend beyond Alaturmen and into someplace more Ethereal. The landscape beyond changes and shifts, as does the line that separates Alaturmen from the lands beyond.
+At the edges of civilization, the Wildlands extend into and beyond Alaturmen and some-place more *Ethereal*. This line shifts and changes with the terrain beyond; the Wildlands are unpredictable, impermanent, and extremely dangerous. Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond [[Alaturmen]] into untoward horrors or new homes.
 
-Those people who travel too far into the forest or the desert find themselves quickly lost and cast beyond [[Alaturmen]] into untoward horrors or new homes.

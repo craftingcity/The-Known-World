@@ -12,4 +12,7 @@ aliases:
 ## Greater Map
 ### Beginning
 #### What Dwells Here?
+##### Location & Number
+##### Schedule
+##### Security
 #### Exploring this place...

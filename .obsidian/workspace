@@ -1,153 +1,15 @@
 {
   "main": {
-    "id": "90b37ad8ee5e800c",
+    "id": "d4cab303fd90c4e8",
     "type": "split",
     "children": [
       {
-        "id": "c08fcc8fae5eb7c2",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "MEDIA/MAPS/WORLD/combine-100AF.png"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/combine-100AF.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":12.606164383561644}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/Holy-100AF.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/combine-100AF.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c08fcc8fae5eb7c2",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "ddeca75dff5be341",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "ddeca75dff5be341",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddeca75dff5be341",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "f704e1f6dd607559",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f704e1f6dd607559",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f704e1f6dd607559",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "a52779fc5bd02410",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "a52779fc5bd02410",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a52779fc5bd02410",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "ddd0044098121c34",
+        "id": "aaae49610d8e0be9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -155,16 +17,56 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "ddd0044098121c34",
+              "leaf": "aaae49610d8e0be9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":457,\"ch\":8},\"to\":{\"line\":457,\"ch\":12}},\"scroll\":449.8257052823455}"
             },
             {
-              "leaf": "ddd0044098121c34",
+              "leaf": "aaae49610d8e0be9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "aaae49610d8e0be9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.2143234936060727}"
+            },
+            {
+              "leaf": "aaae49610d8e0be9",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "aaae49610d8e0be9",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c654628b4335d5b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c654628b4335d5b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -173,66 +75,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f200fe8a1a80900b",
+    "id": "9434ec9d2ec8e1bc",
     "type": "split",
     "children": [
       {
-        "id": "1ee778f2eb66d012",
+        "id": "297db4ae714f3111",
         "type": "tabs",
         "children": [
           {
-            "id": "470822c6e780fecc",
+            "id": "d457ef2a2709cd57",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "2dcd6b1d0d15f119",
+            "id": "e1f001ef83d9dba5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "471fab77001b02ee",
+            "id": "c481485eb0f691e7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "high ambass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 531.5020484924316,
     "collapsed": true
   },
   "right": {
-    "id": "22b1fb456ad17b5a",
+    "id": "19a40ea2f9578efa",
     "type": "split",
     "children": [
       {
-        "id": "345ad8dc0249f6ff",
+        "id": "ecd99c1ef1d16808",
         "type": "tabs",
         "children": [
           {
-            "id": "214128aa17851074",
+            "id": "52bb8636687fcb4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,22 +156,30 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "a784ad59b314c9b4",
+            "id": "94fc68b2053d13df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "60736712cabd0795",
+            "id": "01037737db479b54",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -264,31 +187,57 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "f44a3da8351e916d",
+            "id": "b8bf0068363ddf89",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "565e4663ad415663",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ddd0044098121c34",
+  "active": "aaae49610d8e0be9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "MEDIA/MAPS/WORLD/combine-100AF.png",
-    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
-    "A Grand Notepad.md",
-    "MEDIA/MAPS/WORLD/Holy-100AF.png"
+    "README.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md",
+    "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Millyr.md",
+    "ORGANIZATION/TEMPLATES/Holdings.md",
+    "Guraxlog.md"
   ]
 }

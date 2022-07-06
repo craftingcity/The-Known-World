@@ -15,17 +15,21 @@ aliases:
 		- [[Actstow Hills]]
 		- [[Arthur's Prairie]]
 		- [[Illburn Forest]]
-	- [[NE Travel Table]]
 	- **Smaller than a city**
 		- [[Benders]]
 		- [[Giant's Toe]]
 		- [[Moonlight]]
 	- **Smaller than a feature**
+		- [[Ardor]]
+		- [[Aurgurs]]
 		- [[Castle Prosper]]
 		- [[Diables]]
+		- [[Esoteriques]]
 		- [[Gambleum]]
+		- [[Glamora]]
 		- [[Janesland]]
 		- [[Magius]]
+		- [[Vitalities]]
 		- [[Yerba]]
 	- **Smaller than a village**
 		- [[Archmage Barrowinch's Tower]]

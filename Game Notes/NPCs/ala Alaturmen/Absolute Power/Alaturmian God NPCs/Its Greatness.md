@@ -15,4 +15,6 @@ This is enough for them.
 
 ### For the Few
 
-It's Greatness is a [Patron](http://dnd5e.wikidot.com/warlock) for some few. Its magic is a great burning. It gives and it takes. Power, on loan, with interest. No questions asked. The people of [[The Church of the White Flame]] call these people Spoken on misconception. 
+It's Greatness is a [Patron](http://dnd5e.wikidot.com/warlock) for some few. Its magic is a great burning. It gives and it takes. Power, on loan, with interest. No questions asked. The people of [[The Church of the White Flame]] call these people Spoken because of misconception and tradition. 
+
+Those who know It's true goals know that It is the progenitor God of Human Righteousness.

@@ -3,7 +3,8 @@ connect to [[Notes on the Multiverse]]
 
 %% Begin Waypoint %%
 - **[[Game Notes]]**
-	- **[[Encounters]]**
+	- **Campaign Rosters**
+		- [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
 	- **[[Mechanics]]**
 	- **[[NPCs]]**
 	- **[[Prenotes]]**

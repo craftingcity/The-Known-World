@@ -1,24 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "combine-100AF",
-      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     },
     {
-      "basename": "KingdomOfProsper-105AF",
-      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "a_ Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "Kailkeep",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
+    },
+    {
+      "basename": "Prenotes Dec 11 21",
+      "path": "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Millyr",
+      "path": "Millyr.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Guraxlog",
+      "path": "Guraxlog.md"
+    },
+    {
+      "basename": "Baphomet",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Demon Lords",
+      "path": "Demon Lords.md"
+    },
+    {
+      "basename": "Nine Hells of Baator",
+      "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
+    },
+    {
+      "basename": "Demogorgon",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demogorgon.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Holy-100AF",
-      "path": "MEDIA/MAPS/WORLD/Holy-100AF.png"
+      "basename": "AMMS-WesternEuropeIII",
+      "path": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
+      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    },
+    {
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen Table of Hexes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Hexkey",
+      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Campaign Roster",
+      "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
+    },
+    {
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+    },
+    {
+      "basename": "Economy",
+      "path": "ORGANIZATION/TEMPLATES/Economy.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
+    },
+    {
+      "basename": "Waypoint",
+      "path": "ORGANIZATION/TEMPLATES/Waypoint.md"
+    },
+    {
+      "basename": "Watches",
+      "path": "ORGANIZATION/TEMPLATES/Watches.md"
+    },
+    {
+      "basename": "Tags and Aliases",
+      "path": "ORGANIZATION/TEMPLATES/Tags and Aliases.md"
+    },
+    {
+      "basename": "Table",
+      "path": "ORGANIZATION/TEMPLATES/Table.md"
+    },
+    {
+      "basename": "Adventure",
+      "path": "ORGANIZATION/TEMPLATES/Adventure.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "Prenotes Unknown 00 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
+    },
+    {
+      "basename": "Prenotes Mar 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
+    },
+    {
+      "basename": "Emergency Communicae c. 103AF",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+    },
+    {
+      "basename": "Tetrimoc",
+      "path": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Draconic NPCs/Tetrimoc.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
+    },
+    {
+      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
+    },
+    {
+      "basename": "a_ Chapter One - Introduction",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md"
     }
   ],
   "omittedPaths": [],

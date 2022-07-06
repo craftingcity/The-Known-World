@@ -1,17 +1,12 @@
 # Level One: Hook
 ## What Dwells Here?
-### Loyalists
-The sentient population of this level is entirely composed of Goblin and Guand who were born here or survived the Upper Levels of the Hells of Kailkeep.
+### Weak Loyalists
+Goblin and Guand who have survived the Hells of Kailkeep and have sworn fealty to the Kobolds are positioned in this level and the one above. It is their purpose to produce material goods for the Kobolds and move all who enter further into Kailkeep.
 
-None of the Loyalists who dwell in this place are willing or capable to defend it; the acting invasion defense plan is as follows:
+#### Locations
+#### Schedule
+#### Security
 
-1. Calmly move to the Armory
-2. Arm yourself
-3. Defend the Armory
-
-All the Loyalists in this area are willing to submit to invaders immediately, and are very happy to give them their materials in exchange for their lives (knowing that they would be rewarded for moving others further into Kailkeep), though they will defend themselves to the death under the threat of slaughter or other physical malice.
-
-### Unusual Rats
 ## Exploring this Place
 ### Navigation
 x >,N> [[#Hall A]]

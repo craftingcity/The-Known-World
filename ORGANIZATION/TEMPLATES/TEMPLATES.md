@@ -2,21 +2,19 @@
 %% Begin Waypoint %%
 - **[[TEMPLATES]]**
 	- [[Adventure]]
+	- [[Campaign Roster]]
 	- [[Disambiguation]]
 	- [[Economy]]
-	- [[Fronts]]
 	- [[Group]]
-	- [[Hexkey]]
+	- [[ORGANIZATION/TEMPLATES/Hexkey]]
 	- [[Holdings]]
-	- [[Language]]
-	- [[Non-Canon]]
 	- [[NPCs]]
 	- [[Prenotes]]
 	- [[Region]]
-	- [[Statblock]]
 	- [[Stub]]
 	- [[Table]]
 	- [[Tags and Aliases]]
+	- [[Watches]]
 	- [[Waypoint]]
 
 %% End Waypoint %%
