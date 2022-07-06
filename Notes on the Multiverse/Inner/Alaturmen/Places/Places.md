@@ -6,8 +6,8 @@ aliases:
 # Places
 %% Begin Waypoint %%
 - **[[Places]]**
-	- [[Alaturmen Table of Hexes]]
 	- [[Central Alaturmen]]
+	- **[[Hex Bag]]**
 	- **[[Northeastern Central]]**
 	- **[[Northwestern Central]]**
 	- **[[Southeast Central]]**
