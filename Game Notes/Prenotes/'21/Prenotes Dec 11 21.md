@@ -26,6 +26,6 @@ This one was mostly improv. Kakurak played no role; Marcus verbally led the part
 
 I think that Varis' role is to be a Vessel for [[Vhaeraun]], whom the Whitimore are attempting to bring into the world so that the house Whitimore can "win" the underdark (y'know bc they have a god on their side).
 
-I used the names [[Enoch Ben]] for the wood elf captain of the guard in [[Baskin]], [[Valerio Avishalom]] for the green dragonborn Grand Tendered of [[Baskin]], and [[Emuna Yanuv]] as an unraced tavernkeep who opened her doors to the public refugees.
+I used the names [[Enoch Ben]] for the wood elf captain of the guard in [[Baskin]], [[Valerio Avishalom]] for the green dragonborn Grand Tendered of [[Baskin]], and Emuna as an unraced tavernkeep who opened her doors to the public refugees.
 
 see [[Varis]] and [[Amashod]] for post game work.
