@@ -5,6 +5,6 @@ aliases:
 # Name
 #### Sub-names?
 ## Holding of {Faction}
-### Located in {Region}
+### Located in {Region}, X:Y
 
 

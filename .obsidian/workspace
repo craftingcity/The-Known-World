@@ -4,91 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1450c2a5a1cf63",
+        "id": "e582341c03047626",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "bf1450c2a5a1cf63",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.46722660188912346}"
-            },
-            {
-              "leaf": "bf1450c2a5a1cf63",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "bf1450c2a5a1cf63",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":258},\"to\":{\"line\":33,\"ch\":258}},\"scroll\":20.3436012491148}"
-            },
-            {
-              "leaf": "bf1450c2a5a1cf63",
+              "leaf": "e582341c03047626",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d4ed10638841f924",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Demon Lords.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d4ed10638841f924",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Demon Lords.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":10},\"to\":{\"line\":7,\"ch\":10}}}"
-            },
-            {
-              "leaf": "d4ed10638841f924",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d7dc3034bee7e2d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d7dc3034bee7e2d7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Abyss.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -169,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demon Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demon Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Demon Lords.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -249,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4ed10638841f924",
+  "active": "e582341c03047626",
   "lastOpenFiles": [
-    "Demon Lords.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Millyr.md",
+    "ORGANIZATION/TEMPLATES/Holdings.md",
+    "Guraxlog.md",
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Demon Lords.md",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demogorgon.md",
-    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md",
-    "A Grand Notepad.md",
-    "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf",
-    "README.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    "A Grand Notepad.md"
   ]
 }
