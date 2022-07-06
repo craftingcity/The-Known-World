@@ -1,108 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Deserts of Tetrimoc.md"
     },
     {
-      "basename": "Cenva Minyo",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+      "basename": "Great Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
     },
     {
-      "basename": "a_ Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+      "basename": "Lands of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
     },
     {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     },
     {
-      "basename": "Prenotes Dec 11 21",
-      "path": "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md"
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Outlands",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Outlands/Outlands.md"
+    },
+    {
+      "basename": "Southern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Northern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Reugb Marshes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
     {
-      "basename": "Millyr",
-      "path": "Millyr.md"
-    },
-    {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
-    },
-    {
-      "basename": "Guraxlog",
-      "path": "Guraxlog.md"
-    },
-    {
-      "basename": "Baphomet",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Demon Lords",
-      "path": "Demon Lords.md"
-    },
-    {
-      "basename": "Nine Hells of Baator",
-      "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
-    },
-    {
-      "basename": "Demogorgon",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demogorgon.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "AMMS-WesternEuropeIII",
-      "path": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
-      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
-    },
-    {
-      "basename": "ORGANIZATION",
-      "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Alaturmen Table of Hexes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Alaturmen Table of Hexes.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+      "basename": "Great Southern Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
     },
     {
       "basename": "Southeast Central",
@@ -113,92 +57,84 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
       "basename": "Northeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
     },
     {
-      "basename": "Hexkey",
-      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
+      "basename": "Yawning Pillow",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Yawning Pillow.md"
     },
     {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+      "basename": "Sally's Seaside Spot",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md"
     },
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+      "basename": "Earlwynn's Fine Dining",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Earlwynn's Fine Dining.md"
     },
     {
-      "basename": "Campaign Roster",
-      "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
+      "basename": "Dragon Blood Inn",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragon Blood Inn.md"
     },
     {
-      "basename": "TEMPLATES",
-      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+      "basename": "Brandle Wrench",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Brandle Wrench.md"
     },
     {
-      "basename": "Economy",
-      "path": "ORGANIZATION/TEMPLATES/Economy.md"
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
-      "basename": "Waypoint",
-      "path": "ORGANIZATION/TEMPLATES/Waypoint.md"
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
-      "basename": "Watches",
-      "path": "ORGANIZATION/TEMPLATES/Watches.md"
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
     },
     {
-      "basename": "Tags and Aliases",
-      "path": "ORGANIZATION/TEMPLATES/Tags and Aliases.md"
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
-      "basename": "Table",
-      "path": "ORGANIZATION/TEMPLATES/Table.md"
-    },
-    {
-      "basename": "Adventure",
-      "path": "ORGANIZATION/TEMPLATES/Adventure.md"
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
     },
     {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
     },
     {
-      "basename": "Prenotes Unknown 00 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
+      "basename": "ala Underdark",
+      "path": "Game Notes/NPCs/ala Underdark/ala Underdark.md"
     },
     {
-      "basename": "Prenotes Mar 27 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
+      "basename": "Guilded Adventurer NPCs",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Adventurer NPCs/Guilded Adventurer NPCs.md"
     },
     {
-      "basename": "Emergency Communicae c. 103AF",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
+      "basename": "combine-100AF",
+      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
     },
     {
-      "basename": "Tetrimoc",
-      "path": "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid/Draconic NPCs/Tetrimoc.md"
+      "basename": "KingdomOfProsper-105AF",
+      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
     },
     {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Its Greatness",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
-    },
-    {
-      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
-    },
-    {
-      "basename": "a_ Chapter One - Introduction",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/a_ Chapter One - Introduction.md"
+      "basename": "Holy-100AF",
+      "path": "MEDIA/MAPS/WORLD/Holy-100AF.png"
     }
   ],
   "omittedPaths": [],

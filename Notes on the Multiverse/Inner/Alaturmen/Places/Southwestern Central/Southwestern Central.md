@@ -1,13 +1,7 @@
 ---
-tags: folderfile, region
+tags: folderfile
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
-## Boundaries
-## Contents
-### Potential Allies
-### Potential Threats
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southwestern Central]]**
@@ -22,6 +16,7 @@ aliases:
 		- [[Kickoff's Great Durandurm Mines]]
 	- **Smaller than a village**
 		- [[Tybir's Camel Ranch]]
+	- [[The Deserts of Tetrimoc]]
 	- **[[The Golden City]]**
 
 %% End Waypoint %%

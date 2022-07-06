@@ -27,7 +27,6 @@ aliases:
 			- [[Tetrimoc's Journal]]
 			- [[Tetrimoc's Tournament of Glory]]
 			- [[The Code of Thieves]]
-		- [[The Deserts of Tetrimoc]]
 	- **[[The Democratic Combine of Peoples]]**
 		- **Factions**
 			- [[Beasts Righteous]]
@@ -40,7 +39,6 @@ aliases:
 			- [[Mossburg Enforcers]]
 			- [[Riphounds]]
 			- [[Slimknives]]
-		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
 			- [[Noble House a'Haruuc]]

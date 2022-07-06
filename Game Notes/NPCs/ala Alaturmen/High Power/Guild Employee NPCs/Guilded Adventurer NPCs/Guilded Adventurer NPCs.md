@@ -5,6 +5,6 @@ aliases:
 
 # Guild Adventurers
 %% Begin Waypoint %%
-- **[[Guild Adventurers]]**
+- **[[Guilded Adventurer NPCs]]**
 
 %% End Waypoint %%

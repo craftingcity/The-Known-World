@@ -5,6 +5,6 @@ aliases:
 
 # Guild Crafters
 %% Begin Waypoint %%
-- **[[Guild Crafters]]**
+- **[[Guilded Crafter NPCs]]**
 
 %% End Waypoint %%

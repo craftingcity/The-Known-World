@@ -1,8 +1,11 @@
 ---
-tags: stub
+tags: region
 aliases:
 ---
-
-*This page is a #stub . You can help by expanding it!*
-
-The Northern half of the [[Great Quillbuck Jungle]] is controlled by the [[Beasts Righteous]] and their leader, [[Baron Xuiop]]. This portion of the Jungle encompasses the holdings [[Trike Roof]], and [[Slyfront]].
+# Northern Quillbuck Jungle
+#### A sub-region of [[Great Quillbuck Jungle]]
+## Boundaries
+The northern section of the Quillbuck is bounded by the [[Great Southern Mossland]] to its east and west, as well as the [[Reugb Marshes]] to its north.
+## Contents
+### Potential Allies
+### Potential Threats
