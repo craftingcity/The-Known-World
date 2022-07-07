@@ -7,14 +7,33 @@
         "id": "65f1b44a9b213f89",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "65f1b44a9b213f89",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "65f1b44a9b213f89",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "65f1b44a9b213f89",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "65f1b44a9b213f89",
               "group": null,
@@ -116,24 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "65f1b44a9b213f89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65f1b44a9b213f89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65f1b44a9b213f89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
               }
             },
             "pane-relief:history-v1": {
@@ -282,15 +283,15 @@
   },
   "active": "65f1b44a9b213f89",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
     "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Westlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Central Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
   ]
 }
