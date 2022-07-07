@@ -150,6 +150,7 @@ Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a 
 **Age.** You are considered fully mature at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.  
 **Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.  
 **Speed.** Your speed is 30 feet per round.   
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Pack Brain.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.  
 **Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.  
 **Blood of Dragon.** You have advantage on saving throws to avoid or end the frightened condition on yourself. You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).  
@@ -279,6 +280,7 @@ The Kalix evolved in the Deep Below, a plane of caves, tunnels, horror, and rich
 **Age.** You are considered fully matured at eight and live to about forty.  
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 220 pounds.  
 **Speed.** Your speed is 35 feet per round. You gain a swimming speed of 30.  
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Amphibious.** You can breathe air and water.  
 **Enduring Flesh.** When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.  
 **Natural Claws & Maw.** You are proficient with a *Claw* or *Bite* attack, which is a melee weapon attack that deals 1d4 or 1d6, respectively, piercing damage plus your Dexterity modifier. This *Claw* or *Bite* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.  
@@ -291,6 +293,7 @@ The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and ri
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Kuo-Toa reproduce like traditional fish, fathers inseminate hundreds of a mother's eggs.  
 **Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.  
 **Speed.** Your speed is 25 feet per round. You gain a swimming speed of 30 feet per round.   
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Amphibious.** You can breathe air and water.  
 **Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.  
 
