@@ -5,6 +5,6 @@ aliases:
 
 # Guild Merchants
 %% Begin Waypoint %%
-- **[[Guild Merchants]]**
+- **[[Guilded Merchant NPCs]]**
 
 %% End Waypoint %%

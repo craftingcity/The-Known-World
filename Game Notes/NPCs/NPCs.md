@@ -13,15 +13,20 @@ for the graph: [[Here lie my suppliments...]]
 			- **[[Alaturmian God NPCs]]**
 			- [[All-Father Annam]]
 			- **[[Demon Lord NPCs]]**
+		- **Deceased**
+			- [[Guraxlog]]
 		- **High Power**
 			- **[[Barons of Combine NPCs]]**
 			- **[[Blood Clan Leadership NPCs]]**
+			- **Council of Eight NPCs**
+				- [[Ginger Ak-kizi]]
+				- [[Venclaw]]
 			- **Guild Employee NPCs**
 				- **[[Guild Admin]]**
-				- **[[Guild Adventurers]]**
-				- **[[Guild Crafters]]**
 				- [[Guild Leaders]]
-				- **[[Guild Merchants]]**
+				- **[[Guilded Adventurer NPCs]]**
+				- **[[Guilded Crafter NPCs]]**
+				- **[[Guilded Merchant NPCs]]**
 				- **[[Guilded Wizard NPCs]]**
 			- **[[High Holyl'nder NPCs]]**
 			- **[[Loose Wizard NPCs]]**
@@ -32,10 +37,8 @@ for the graph: [[Here lie my suppliments...]]
 				- **[[Grey Ordeal]]**
 				- **[[Kakurak's Chosen]]**
 			- **[[True Villian NPCs]]**
-			- [[Venclaw]]
 		- **Mild Power**
 			- **Employees of Golden Claw**
-				- [[Ginger Ak-kizi]]
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- **[[Tendered]]**
@@ -49,7 +52,7 @@ for the graph: [[Here lie my suppliments...]]
 				- [[Fraznky Bradley]]
 			- **[[Lower Holyl'nders]]**
 			- **[[Orcish Shamans]]**
-		- **zNon-Humanoid**
+		- **zNon-Humanoid NPCs**
 			- **Draconic NPCs**
 				- [[Blackacid]]
 				- [[Detraminx]]
@@ -58,8 +61,5 @@ for the graph: [[Here lie my suppliments...]]
 			- **[[Giant NPCs]]**
 	- **[[ala Underdark]]**
 	- [[List of Names]]
-	- **on Alaturmen**
-		- **High Power**
-			- **Leaders in Prosper**
 
 %% End Waypoint %%

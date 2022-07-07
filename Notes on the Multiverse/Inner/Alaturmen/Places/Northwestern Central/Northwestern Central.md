@@ -22,6 +22,7 @@ aliases:
 			- [[Redl'nds]]
 			- [[Sinazel Ambonas]]
 			- [[South Littemotto]]
+	- **Smaller than a city**
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]

@@ -17,7 +17,10 @@ aliases:
 			- [[Northern Quillbuck Jungle]]
 			- [[Southern Quillbuck Jungle]]
 		- **[[Great Southern Mossland]]**
-			- [[Centerlick Mossland]]
+			- **[[Centerlick Mossland]]**
+				- [[Central Third]]
+				- [[Northern Third]]
+				- [[Southern Third]]
 			- [[Eastlick Mossland]]
 			- [[Westlick Mossland]]
 		- [[Grumbling Hills]]
@@ -27,7 +30,6 @@ aliases:
 	- **Smaller than a city**
 		- [[Aeberu]]
 		- [[Asilar's Bounty]]
-		- [[Darktower]]
 		- [[Four Stone]]
 		- [[Neverwallow]]
 	- **Smaller than a feature**
@@ -35,6 +37,7 @@ aliases:
 		- [[Mossburg]]
 		- [[Red Throne]]
 	- **Smaller than a village**
+		- [[Darktower]]
 		- [[Stone of Desmoniur]]
 
 %% End Waypoint %%

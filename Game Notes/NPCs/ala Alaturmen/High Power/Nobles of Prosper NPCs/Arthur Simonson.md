@@ -3,7 +3,9 @@ tags: npc, leader, prosper, needs_work
 aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
 # Arthur "Artie" Simonson
-## The Great Liberator, the Adventurer King, (and so on)
+## The Great Liberator, 
+## The Adventurer King, 
+## (and so on)
 ### he/him
 
 > A tall well kept half-hobgoblin-human man with dark curly hair. He wears a set of leather armor underneath a large blue royal coat. Atop his head sits a platinum circlet spiked with gold.
@@ -25,25 +27,3 @@ Arthur lives in his holding, [[Castle Prosper]], with his lovers. Long ago, he l
 Arthur is, at base, a CR 9 ["Champion Warrior"](https://www.5esrd.com/gamemastering/monsters-foes/npc/champion-warrior/). His weapons is a *longsword +3*; "Magni Liberatoris Nostri Temporis". He wears a *belt of unnatural strength* that sets his Strength to 24, and a *ring of mind shielding* that houses no other soul and is kept invisible unless otherwise stated. His curse provides him with the mechanical effects of a *ring of regeneration*.
 
 He wears a signet ring that bares the [[Seal of Kingdom Prosper]]. His "[[Novum Caput Dei]]" is a circlet made of a band of platinum and gold and is politically invaluable, but could theoretically be sold for some 1,500 pp.
-
-## Titles
-- The Great Liberator
-- Adventurer King of Prosper
-- Firstborn of [[Amelia Simonson]]
-- Slayer of the horror Garanbik, the war-wizard [[Guraxlog]], the beast Yuzzminx, and the [[Witch of Ardor]]
-- Grand Poohba of the [[Simonson Clan]]
-- Living Titles in his holdings; the ...
-	- Favorite Son of [[Yerba]]
-		- Grand Sower of [[Moonlight]]
-	- Balancier in [[Janesland]]
-		- Honored in the Stones of [[Benders]]
-		- Heartborn of the [[Diables]]
-		- Seedbearer of [[Vitalities]]
-	- Highest Roller in [[Gambleum]]
-		- Witcher General of [[Ardor]]
-		- Crowned Marvel in [[Glamora]]
-		- Commanding Officer of [[Esoteriques]]
-	- Grand Elder of [[Magius]]
-		- Candlekeeper of [[Aurgurs]]
-	- King of the Simonson Court
-	- Lord of [[Castle Prosper]]

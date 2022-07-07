@@ -1,27 +1,21 @@
 ---
-tags: folderfile, region
+tags: folderfile
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
-## Boundaries
-## Contents
-### Potential Allies
-### Potential Threats
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southwestern Central]]**
-	- **[[Kailkeep]]**
-	- **[[Mountain Hall]]**
-	- **[[Outlands]]**
+	- **S.W.C. Regions**
+		- **[[Kailkeep]]**
+		- **[[Mountain Hall]]**
+		- **[[The Deserts of Tetrimoc]]**
 	- **Smaller than a city**
 		- [[Ginger's Nopal & Agave Farm]]
-		- [[Kickoff]]
-		- [[New Quillbuck]]
+		- [[Millyr]]
 	- **Smaller than a feature**
+		- [[Kickoff]]
 		- [[Kickoff's Great Durandurm Mines]]
 	- **Smaller than a village**
 		- [[Tybir's Camel Ranch]]
-	- **[[The Golden City]]**
 
 %% End Waypoint %%

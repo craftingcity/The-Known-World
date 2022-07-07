@@ -1,8 +1,12 @@
 ---
-tags: stub
+tags: region
 aliases:
 ---
+# Southern Quillbuck Jungle
+#### A sub-region of [[Great Quillbuck Jungle]]
+## Boundaries
+The southern half of the Quillbuck Jungle is bordered by the [[Great Southern Mossland]] to its east and the [[The Deserts of Tetrimoc]]
 
-*This page is a #stub . You can help by expanding it!*
-
-The Southern Quillbuck Jungle is the densest portion of the [[Great Quillbuck Jungle]], and it is controlled and exploited by the [[Harvord Trading Company]] and [[Baron Havord]]. They control one major holding, [[New Quillbuck]], but their operations span this southern section of jungle.
+## Contents
+### Potential Allies
+### Potential Threats
