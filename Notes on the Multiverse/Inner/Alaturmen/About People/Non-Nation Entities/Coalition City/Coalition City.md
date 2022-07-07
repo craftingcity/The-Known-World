@@ -11,9 +11,10 @@ Coalition City is a huge metropolis in the [[Deakred Range]] that is split into 
 ### Quote
 > "Where war comes to die, and peace comes to trade."
 ### General Public Disposition
-The common folk of Coalition City are 
+The common folk of Coalition City are personally focused, and do not make superfluous efforts to assist strangers. We are the capitol of the world, and visitors are too common.
 
 ### Background
+
 
 ## Important Places
 ### Wards

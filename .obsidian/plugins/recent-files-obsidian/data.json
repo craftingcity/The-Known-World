@@ -1,12 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+      "basename": "Centerlick Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland.md"
+    },
+    {
+      "basename": "Great Southern Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
+    },
+    {
+      "basename": "Great Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Southern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Northern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Wetfoot Greenland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Wetfoot Greenland.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Firelight Sea",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md"
+    },
+    {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
+      "basename": "Sinazel Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
+    },
+    {
+      "basename": "South Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/South Littemotto.md"
+    },
+    {
+      "basename": "Redl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
+    },
+    {
+      "basename": "North Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+    },
+    {
+      "basename": "Littetavarse",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
+    },
+    {
+      "basename": "Enlitte Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
+    },
+    {
+      "basename": "Central Holyl'nd",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
+      "basename": "Litteortosta",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Illburn Forest",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
+    },
+    {
+      "basename": "Actstow Hills",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Lands of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
     },
     {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     },
     {
       "basename": "NPCs",
@@ -29,10 +141,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Kailkeep/Kailkeep.md"
     },
@@ -49,52 +157,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/The Deserts of Tetrimoc.md"
     },
     {
-      "basename": "Great Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Southern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Northern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
-    },
-    {
       "basename": "Reugb Marshes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
     },
     {
       "basename": "Yawning Pillow",
@@ -125,10 +189,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
       "basename": "Inner",
       "path": "Notes on the Multiverse/Inner/Inner.md"
     },
@@ -139,34 +199,6 @@
     {
       "basename": "Big Lore",
       "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "ala Underdark",
-      "path": "Game Notes/NPCs/ala Underdark/ala Underdark.md"
-    },
-    {
-      "basename": "Guilded Adventurer NPCs",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Adventurer NPCs/Guilded Adventurer NPCs.md"
-    },
-    {
-      "basename": "combine-100AF",
-      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
-    },
-    {
-      "basename": "KingdomOfProsper-105AF",
-      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Holy-100AF",
-      "path": "MEDIA/MAPS/WORLD/Holy-100AF.png"
     }
   ],
   "omittedPaths": [],

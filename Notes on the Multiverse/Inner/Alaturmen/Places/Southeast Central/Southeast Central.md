@@ -17,6 +17,7 @@ aliases:
 			- [[Northern Quillbuck Jungle]]
 			- [[Southern Quillbuck Jungle]]
 		- **[[Great Southern Mossland]]**
+			- **Centerlick Mossland**
 			- [[Centerlick Mossland]]
 			- [[Eastlick Mossland]]
 			- [[Westlick Mossland]]
