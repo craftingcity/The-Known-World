@@ -25,6 +25,18 @@
             {
               "leaf": "65f1b44a9b213f89",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"033.023.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "65f1b44a9b213f89",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Hex Bag/Hex Bag.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+            },
+            {
+              "leaf": "65f1b44a9b213f89",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
@@ -123,18 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65f1b44a9b213f89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65f1b44a9b213f89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -284,8 +284,8 @@
   "active": "65f1b44a9b213f89",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Hex Bag/Hex Bag.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "033.023.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md",
