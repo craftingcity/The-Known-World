@@ -14,6 +14,7 @@ aliases:
 	- **N.E.C Regions**
 		- [[Actstow Hills]]
 		- [[Arthur's Prairie]]
+		- [[Greenhilles]]
 		- [[Illburn Forest]]
 	- **Smaller than a city**
 		- [[Giant's Toe]]
