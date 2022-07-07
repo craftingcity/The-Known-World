@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Demon Lords",
+      "path": "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
       "basename": "Northwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
+      "basename": "Millyr",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Millyr.md"
+    },
+    {
+      "basename": "Littetavarse",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
+    },
+    {
+      "basename": "North Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+    },
+    {
+      "basename": "Litteortosta",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md"
+    },
+    {
+      "basename": "Enlitte Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
     },
     {
       "basename": "Southeast Central",
@@ -97,22 +141,6 @@
       "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Thief Lords of the Desert.md"
     },
     {
-      "basename": "Hex Bag",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Hex Bag/Hex Bag.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
       "basename": "Mountain Hall",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md"
     },
@@ -157,24 +185,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
     },
     {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
-    },
-    {
-      "basename": "Littetavarse",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
-    },
-    {
-      "basename": "Enlitte Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
-    },
-    {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "Litteortosta",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md"
     },
     {
       "basename": "Illburn Forest",
@@ -183,22 +195,6 @@
     {
       "basename": "Actstow Hills",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     }
   ],
   "omittedPaths": [],

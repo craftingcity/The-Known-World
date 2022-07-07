@@ -13,6 +13,8 @@ for the graph: [[Here lie my suppliments...]]
 			- **[[Alaturmian God NPCs]]**
 			- [[All-Father Annam]]
 			- **[[Demon Lord NPCs]]**
+		- **Deceased**
+			- [[Guraxlog]]
 		- **High Power**
 			- **[[Barons of Combine NPCs]]**
 			- **[[Blood Clan Leadership NPCs]]**
