@@ -15,6 +15,10 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Flora
 ### Landmarks
 
-## Table
+## Tables
+### Encounter
 **Encounter Check:** 1 in 1d8
 **Border Encounters:** 1 in 1d10
+
+
+### Rumors
