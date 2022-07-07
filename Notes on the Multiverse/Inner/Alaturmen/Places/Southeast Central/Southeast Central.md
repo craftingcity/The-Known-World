@@ -17,8 +17,10 @@ aliases:
 			- [[Northern Quillbuck Jungle]]
 			- [[Southern Quillbuck Jungle]]
 		- **[[Great Southern Mossland]]**
-			- **Centerlick Mossland**
-			- [[Centerlick Mossland]]
+			- **[[Centerlick Mossland]]**
+				- [[Central Third]]
+				- [[Northern Third]]
+				- [[Southern Third]]
 			- [[Eastlick Mossland]]
 			- [[Westlick Mossland]]
 		- [[Grumbling Hills]]

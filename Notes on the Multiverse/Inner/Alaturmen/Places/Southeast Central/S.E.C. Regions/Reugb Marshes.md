@@ -1,8 +1,10 @@
 ---
-tags: stub
+tags: region
 aliases:
 ---
-
-*This page is a #stub. You can help by expanding it!*
-
-The Reugb Marshes are a large marshland to the north of the [[Great Quillbuck Jungle]]. It encompasses the holdings of [[Smoothpost]] and [[Boneborn]].
+# Title
+#### A sub-region of [[Southeast Central]]
+## Boundaries
+## Contents
+### Potential Allies
+### Potential Threats

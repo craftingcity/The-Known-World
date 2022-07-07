@@ -7,7 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[Places]]**
 	- [[Central Alaturmen]]
-	- **[[Hex Bag]]**
+	- **Hex Bag**
 	- **[[Northeastern Central]]**
 	- **[[Northwestern Central]]**
 	- **[[Southeast Central]]**
