@@ -20,7 +20,7 @@
               "leaf": "b993ffbbac9a1829",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":174,\"ch\":202},\"to\":{\"line\":174,\"ch\":202}},\"scroll\":168.08201856353347}"
+              "eState": "{\"scroll\":528.5706075703959}"
             },
             {
               "leaf": "b993ffbbac9a1829",
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "high ambass",
+                "query": "onya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +86,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 531.5020484924316,
-    "collapsed": true
+    "width": 531.5020484924316
   },
   "right": {
     "id": "19a40ea2f9578efa",
