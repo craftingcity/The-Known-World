@@ -509,10 +509,10 @@ Faith holds a special kind of power; that of the many, the bonded in ideal, the 
 | Diety                                       | Motifs                      | Alignment | Symbol                                                |
 |---------------------------------------------|-----------------------------|------|-------------------------------------------------------|
 | Ar’kraven, manifestation of Death           | grief, sadness, void        | TN   | overhead view of a flying vulture, wings outstretched |
-| Sune, manifestation of Love                 | life, beauty, ecstacy       | NG   | long curly haired figure laying                       |
+| Sune, manifestation of Love                 | life, beauty, ecstasy       | NG   | long curly haired figure laying                       |
 | Tauruin, manifestation of Pride             | fear, power, domain         | LE   | cracked crown                                         |
 | Gromosh, manifestation of Anger             | revenge, hunger, family     | CE   | splayed left hand missing it’s ring finger            |
-| Freruc & Sophie, manifestations of Mischief | suprise, longing, trickery  | CN   | scissors cutting the string of a yo-yo                |
+| Freruc & Sophie, manifestations of Mischief | surprise, longing, trickery  | CN   | scissors cutting the string of a yo-yo                |
 | Blemon, manifestation of Disease            | fatigue, healing, addiction | TN   | beak-nosed mask                                       |
 | Terran, Idol of Earth                       | green                       | NE   | square with dot in center                             |
 | Ventan, Idol of Air                         | white                       | NG   | triangle with dot in center                           |
