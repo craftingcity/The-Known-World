@@ -124,7 +124,7 @@ Silver | Cold
 
 ### Triton (s.)
 ![[tritonFighter.png]]
-The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
+The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how is largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
 **Age.** You are considered fully mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.  
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 160 pounds.  
@@ -157,7 +157,7 @@ Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a 
 
 ### Orc (a.)
 ![[orcFather.png]]
-Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
+Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Dissenters]].
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.  
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 260 pounds.  
@@ -197,7 +197,7 @@ The origins of Goliath are shrouded in myth, with some saying that their ancesto
 
 ### Halfling (a.)
 ![[halflingRanger.png]]
-Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
+Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, becoming into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
 
 **Age.** Halfling are considered fully mature at twenty five, and live until about one-hundred sixty. Halfling are born of story and creativity, they can become at any point in their life full of history and connection. Many halfling are cousin, sibling, parent, and child to many other halflings, as most of these halflings begin to tell stories of their family, they become too.  
 **Size.** Mechanically, your size is small. You stand at about three feet tall. You weigh about sixty pounds.  
@@ -326,7 +326,7 @@ Genasi are humanoid elementals native to the [[Elemental Planes]]. Those Genasi 
 
 #### Extraplanar
 ### Tiefling (s.)
-![[tieflingNoble.png]]
+![[tieflingPaladin.png]]
 Tiefling are the children of Devils and humanoids. Often, they are born of contract ("I give you my first born child, and in exchange..."), but other times, a human and a devil truly fall into what they consider love and bear a tiefling together.  
 
 **Age.** You are considered fully mature at twenty-five, and live until about one-hundred eighty. A tiefling is born in the union of a devil and a humanoid, and tieflings cannot themselves bear children. The humanoid parent always bears the teifling child to term, and to do so is very often fatal.  
@@ -543,6 +543,23 @@ Tertiarily, of course, many people gain power through some physical force; more 
 #### About Faith
 Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a [[Grand Pantheon|God]] – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
 
+| Diety                                       | Motifs                      | Alignment | Symbol                                                |
+|---------------------------------------------|-----------------------------|------|-------------------------------------------------------|
+| Ar’kraven, manifestation of Death           | grief, sadness, void        | TN   | overhead view of a flying vulture, wings outstretched |
+| Sune, manifestation of Love                 | life, beauty, ecstacy       | NG   | long curly haired figure laying                       |
+| Tauruin, manifestation of Pride             | fear, power, domain         | LE   | cracked crown                                         |
+| Gromosh, manifestation of Anger             | revenge, hunger, family     | CE   | splayed left hand missing it’s ring finger            |
+| Freruc & Sophie, manifestations of Mischief | suprise, longing, trickery  | CN   | scissors cutting the string of a yo-yo                |
+| Blemon, manifestation of Disease            | fatigue, healing, addiction | TN   | beak-nosed mask                                       |
+| Terran, Idol of Earth                       | green                       | NE   | square with dot in center                             |
+| Ventan, Idol of Air                         | white                       | NG   | triangle with dot in center                           |
+| Ignan, Idol of Fire                         | red                         | CN   | pentagon with dot in center                           |
+| Aquan, Idol of Water                        | blue                        | LN   | three horizontal lines with dot in center             |
+| Animan, Idol of Arcane                      | yellow                      | TN   | circle with dot in center                             |
+| Sama, Patron Saint of Rangers               | one mind                    | NG   | cloak with a five leafed clover                       |
+| Yamisch, Patron Saint of Cartographers      | true sight                  | LN   | four pointed star connected at the points             |
+| Certi’Alikor, Patron Saint of Gladiators    | quick death                 | NE   | sword through a heart                                 |
+| Burraw, Patron Saint of Farmers             | bountiful harvest           | TN   | pitchfork holding a square of lines                   |
 
 
 #### About Punishment

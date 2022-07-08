@@ -18,7 +18,7 @@ If the party waits for over a few days, the [[The Whitimores]]] may execute [[Ja
 In either case, [[The Whitimores]] have plans for these meddling adventurers; a strike team has caught wind of their plans to stop the giants and will follow the adventurers for over a day before attacking at the most opportune time. Given victory, [[The Whitimores]] hold and interrogate these adventurers.
 
 # Postnotes
-This one was mostly improv. Kakurak played no role; Marcus verbally led the party to the town of [[Baskin]], who was the most recent raided city from [[The Assault of the Giant Decenters]]. Their church was covered in ice from the attack and harbored a Remorhaz mating pair, which the party has slain.
+This one was mostly improv. Kakurak played no role; Marcus verbally led the party to the town of [[Baskin]], who was the most recent raided city from [[The Assault of the Giant Dissenters]]. Their church was covered in ice from the attack and harbored a Remorhaz mating pair, which the party has slain.
 
 [[The Whitimores]] were watching the party, and they saw their opportunity to strike. Bardaux was last to leave the city's church and was shot by a poisoned arrow from a [[The Varis Hit|Whitimore Assassin]], and quickly captured by the extraction team.
 

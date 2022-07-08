@@ -12,7 +12,7 @@ aliases:
 		- **Local Lore**
 			- [[Great Fires]]
 			- [[Marked By the Fire]]
-			- [[The Assault of the Giant Decenters]]
+			- [[The Assault of the Giant Dissenters]]
 			- [[The Old]]
 		- [[The Church of the White Flame]]
 	- **[[Lands of Tetrimoc]]**

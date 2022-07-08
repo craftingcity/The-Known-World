@@ -8,7 +8,7 @@ aliases:
 
 > A towering man, nearly 30 feet tall, made of flame and molten rock. He wears a large golden crown with many hundreds of fine jewels. At his side, he carries a large adamentine warhammer.
 
-King Snure leads both the Revolt against the Ordening and [[The Assault of the Giant Decenters]]. 
+King Snure leads both the Revolt against the Ordening and [[The Assault of the Giant Dissenters]]. 
 
 He wishes for power only slightly more than he loves wealth.
 
