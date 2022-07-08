@@ -11,9 +11,7 @@ aliases:
 		- **[[The Deserts of Tetrimoc]]**
 	- **Smaller than a city**
 		- [[Ginger's Nopal & Agave Farm]]
-		- [[Millyr]]
 	- **Smaller than a feature**
-		- [[Kickoff]]
 		- [[Kickoff's Great Durandurm Mines]]
 	- **Smaller than a village**
 		- [[Tybir's Camel Ranch]]

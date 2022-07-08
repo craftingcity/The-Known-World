@@ -21,9 +21,12 @@ aliases:
 		- [[Moonlight]]
 	- **Smaller than a feature**
 		- [[Castle Prosper]]
+		- [[Esoteriques]]
 		- [[Gambleum]]
+		- [[Glamora]]
 		- [[Janesland]]
 		- [[Magius]]
+		- [[Vitalities]]
 		- [[Yerba]]
 	- **Smaller than a village**
 		- [[Archmage Barrowinch's Tower]]

@@ -39,6 +39,7 @@ aliases:
 			- [[Mossburg Enforcers]]
 			- [[Riphounds]]
 			- [[Slimknives]]
+		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
 			- [[Noble House a'Haruuc]]

@@ -1,24 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
     },
     {
-      "basename": "Great Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     },
     {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
-      "basename": "Centerlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md"
+      "basename": "Prenotes Dec 11 21",
+      "path": "Game Notes/Prenotes/'21/Prenotes Dec 11 21.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Baphomet",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Baphomet.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Nine Hells of Baator",
+      "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
+    },
+    {
+      "basename": "Demogorgon",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demogorgon.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "AMMS-WesternEuropeIII",
+      "path": "MEDIA/SUPP/AMMS-WesternEuropeIII.pdf"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
+      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    },
+    {
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
       "basename": "Southwestern Central",
@@ -37,168 +97,76 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
     },
     {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+      "basename": "Hexkey",
+      "path": "ORGANIZATION/TEMPLATES/Hexkey.md"
     },
     {
       "basename": "Tracking",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
     },
     {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
+      "basename": "Campaign Roster",
+      "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
     },
     {
-      "basename": "Demon Lords",
-      "path": "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
     },
     {
-      "basename": "Millyr",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Millyr.md"
+      "basename": "Economy",
+      "path": "ORGANIZATION/TEMPLATES/Economy.md"
     },
     {
-      "basename": "Littetavarse",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
+      "basename": "Prenotes",
+      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
     },
     {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+      "basename": "Waypoint",
+      "path": "ORGANIZATION/TEMPLATES/Waypoint.md"
     },
     {
-      "basename": "Litteortosta",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md"
+      "basename": "Watches",
+      "path": "ORGANIZATION/TEMPLATES/Watches.md"
     },
     {
-      "basename": "Enlitte Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
+      "basename": "Tags and Aliases",
+      "path": "ORGANIZATION/TEMPLATES/Tags and Aliases.md"
     },
     {
-      "basename": "Tetrimoc-100AF",
-      "path": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
+      "basename": "Table",
+      "path": "ORGANIZATION/TEMPLATES/Table.md"
     },
     {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+      "basename": "Adventure",
+      "path": "ORGANIZATION/TEMPLATES/Adventure.md"
     },
     {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
     },
     {
-      "basename": "Westlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Westlick Mossland.md"
+      "basename": "Prenotes Unknown 00 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Unknown 00 22.md"
     },
     {
-      "basename": "Central Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Central Third.md"
+      "basename": "Prenotes Mar 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
     },
     {
-      "basename": "Northern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
+      "basename": "Emergency Communicae c. 103AF",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 103AF.md"
     },
     {
-      "basename": "Southern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
     {
-      "basename": "Eastlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md"
-    },
-    {
-      "basename": "Wetfoot Greenland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Wetfoot Greenland.md"
-    },
-    {
-      "basename": "Huntyr Swamp",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Huntyr Swamp.md"
-    },
-    {
-      "basename": "Reugb Marshes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "Blood Clans",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
-    },
-    {
-      "basename": "Blood-Hobgoblin Clans",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md"
-    },
-    {
-      "basename": "World Wide Happenings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
-    },
-    {
-      "basename": "Greenhilles",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Greenhilles.md"
-    },
-    {
-      "basename": "Thief Lords of the Desert",
-      "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Thief Lords of the Desert/Thief Lords of the Desert.md"
-    },
-    {
-      "basename": "Mountain Hall",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md"
-    },
-    {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Grumbling Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Grumbling Hills.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
-    },
-    {
-      "basename": "Southern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Northern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md"
-    },
-    {
-      "basename": "Sinazel Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
-    },
-    {
-      "basename": "South Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/South Littemotto.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "Illburn Forest",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
-    },
-    {
-      "basename": "Actstow Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md"
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
     }
   ],
   "omittedPaths": [],
