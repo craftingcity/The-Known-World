@@ -4,68 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf1db9c21b48f68",
+        "id": "a15803c3a26bf2a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/TEMPLATES/Region.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "ddf1db9c21b48f68",
+              "leaf": "a15803c3a26bf2a5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Region.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":23},\"to\":{\"line\":7,\"ch\":23}},\"scroll\":0}"
             },
             {
-              "leaf": "ddf1db9c21b48f68",
+              "leaf": "a15803c3a26bf2a5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":195},\"to\":{\"line\":7,\"ch\":195}}}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddf1db9c21b48f68",
+              "leaf": "a15803c3a26bf2a5",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -132,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Region.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Region.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Region.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
               }
             },
             "pane-relief:history-v1": {
@@ -215,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddf1db9c21b48f68",
+  "active": "a15803c3a26bf2a5",
   "lastOpenFiles": [
-    "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
   ]
 }

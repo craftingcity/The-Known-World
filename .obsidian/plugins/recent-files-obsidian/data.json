@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Region",
-      "path": "ORGANIZATION/TEMPLATES/Region.md"
-    },
-    {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Illburn Forest",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
+    },
+    {
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
     },
     {
       "basename": "Actstow Hills",
@@ -19,10 +39,6 @@
     {
       "basename": "Northeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
       "basename": "Southeast Central",
@@ -183,22 +199,6 @@
     {
       "basename": "Firelight Sea",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md"
-    },
-    {
-      "basename": "Sinazel Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
-    },
-    {
-      "basename": "South Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/South Littemotto.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
     }
   ],
   "omittedPaths": [],
