@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Central Holyl'nd",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
+    },
+    {
       "basename": "North Littemotto",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
     },
@@ -21,14 +33,6 @@
       "path": "Gumlpin.md"
     },
     {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
-    },
-    {
       "basename": "Illburn Forest",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Northwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Region",
-      "path": "ORGANIZATION/TEMPLATES/Region.md"
     },
     {
       "basename": "The Deserts of Tetrimoc",
@@ -195,10 +195,6 @@
     {
       "basename": "Grumbling Hills",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Grumbling Hills.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
     }
   ],
   "omittedPaths": [],

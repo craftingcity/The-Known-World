@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e2317a36e70a6816",
+        "id": "9bc172171dcc2954",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
             "mode": "source"
           }
         },
@@ -17,31 +17,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "e2317a36e70a6816",
+              "leaf": "9bc172171dcc2954",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e2317a36e70a6816",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e2317a36e70a6816",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e2317a36e70a6816",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e2317a36e70a6816",
+              "leaf": "9bc172171dcc2954",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -125,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
               }
             },
             "pane-relief:history-v1": {
@@ -192,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2317a36e70a6816",
+  "active": "9bc172171dcc2954",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
+    "ORGANIZATION/TEMPLATES/Hexkey.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md",
     "Gumlpin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md",
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
   ]
 }

@@ -6,7 +6,6 @@
 	- [[Disambiguation]]
 	- [[Economy]]
 	- [[Group]]
-	- [[Hexkey]]
 	- [[Holdings]]
 	- [[NPCs]]
 	- [[Prenotes]]
