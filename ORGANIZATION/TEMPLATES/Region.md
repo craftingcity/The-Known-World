@@ -5,6 +5,8 @@ aliases:
 # Title
 #### A sub-region of {Greater Region}
 ## Boundaries
+*Mechanical Size:* Alexandrian Hexcrawl rules state that a "hex" is 12 miles across. We didn't build the map that way, so we cant really do that, but adjusting for that scale should be fine; look at how big the region is
+
 ## Contents
 ### Flora
 ### Scenarios
