@@ -2,13 +2,11 @@
 > I live in a place of many Wonders. The lands shift before our eyes rather than behind our backs. I doubt you would believe it nearly as beautiful as our beach, but I believe this to be the truth. There are others here, the goblins as you said, but others too! It has been truly wonderful. I hope to return to you soon.  
 > \- [[Eladrithal Greystone]] to his parents in the [[Feywild]]  
 
-![[alaturmen-100AF.png]]
-
 Welcome to Alaturmen. This is a fantasy world that I wrote for the purposes of being a setting in the 5th Edition of **Dungeons and Dragons**. I am a white, non-binary author, and I have tried to incorporate the classic elements of fantasy role-playing as *I* see them, having grown up on younger (and noticeably shittier) editions of the game, as well as *my* modern perspective. 
 
 What this really means is; I'm trying to build this new fantasy setting, using **Dungeons and Dragons** as a huge mechanical and creative touchstone, with the intention of extracting the racism, sexism, gendered bullshit, etc. and dumping it out the window of the moving car that is modern table-top role-playing to the best of my ability as I write these stories.
 
-Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. 
+Alaturmen, as written, is a group of four nations, a community-centralizing, "federal"-esq government, and many other smaller nation-states, as well as many large swaths of countryside. When I play **D&D** I want to write the story of the adventurers who changed the world. Maybe no-one knows, and there is no fame or reward, or maybe they are heralded by children as house gods. This story usually starts small, and that *one* healing potion is the difference between life and death. As the story picks up, and your characters get larger, stronger, more influential, it becomes more about these *people*, who they are, what they do, why they do it *that way*. 
 
 Save the inter-party romance or sacrifice everyone and destroy a great evil? Neither? Both?
 
@@ -41,7 +39,6 @@ Some heritages are marked with an (s.) or an (a.). This corresponds to the abili
 
 ## Common to Alaturmen
 ### Goblin (s.)
-![[goblinPair.png]]
 Goblin are small, gangly humanoid with sharp ears and quick wits. Goblin share their origin myth with the Hobgoblin and Bugbear; the Titan [[Demogorgon]] created the Goblin-oid without purpose, keeping them as pawns and pets. They escaped [[Demogorgon]]'s influence into the greater multiverse before many of the Planes of the Multiverse. 
 
 **Age.** You are considered fully matured at age thirteen and live to be about thirty-five. Goblin mothers birth litters of about six children.  
@@ -52,7 +49,6 @@ Goblin are small, gangly humanoid with sharp ears and quick wits. Goblin share t
 **Preternatural Agility.** You may take the Disengage or Hide actions as a bonus action on your turn. You gain proficiency, or expertise if you already have proficiency, in both your Armor Class and Dexterity (Stealth).  
 
 ### Hobgoblin (s.)
-![[hobgoblinBarb.png]]
 Hobgoblin are extremely similar to humans, the largest difference between the two being that the Hobgoblin know the myth of their origins.
 
 **Age.** You are considered fully mature at twenty-five and live to about eighty-five. Hobgoblin mothers birth children in twins, though these children are never identical.   
@@ -61,7 +57,6 @@ Hobgoblin are extremely similar to humans, the largest difference between the tw
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.  
 
 ### Bugbear (s.)
-![[bugbearAdventurer.png]]
 Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 
 **Age.** You are considered fully mature at sixteen and live to about fifty. Bugbear mothers birth litters of about four children.  
@@ -71,7 +66,6 @@ Bugbear are large, gangly humanoid with sharp ears and heavy fur.
 **Powerful Form.** You have proficiency in the Athletics skill. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
 
 ### Human (s.)
-![[humanGuard.png]]
 The humans of Alaturmen have no creation myth of their own - the legends claim that as Time Began upon Alaturmen, the Goblin, Elves, Dragon-kin, and Triton found them bare-naked in the fields. Humans on Alaturmen are extremely similar to the Humans of Ancient Earth, much as you and I are.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Human mothers typically birth only one child per conception, but it is possible that a human could birth quite large litters.  
@@ -89,16 +83,11 @@ Many of the visual features of an Elf is based on their seasonal ancestry, altho
 **Keen Senses.** You have advantage on Wisdom (Perception) checks (The online dice service anydice.com tells me that this translates in to a mean increase of 3.82 over the 10 traditionally used for passive-style checks. Call it plus 4.).  
 **Fey-Ceilie Ancestry.** You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. You also gain another trait as corresponding to your seasonal ancestry;  
 	- **Spring.** Your base walking speed increases to 35 feet, and you have advantage on advantage on saving throws that apply Exhaustion.
-	![[elfSpringRanger.png]]
 	- **Summer.** You gain resistance to fire damage, experience extreme heat as only mild heat, and you have advantage on advantage on saving throws that apply Exhaustion.  
-	![[elfSummerNoble.png]]
 	- **Autumn.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. If you are not proficient in Dexterity (Stealth), you may make such a check as though you had proficiency, and if you do have proficiency, you may roll such a check with advantage.
-	![[elfAutumnRanger2.png]]
 	- **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know the *Dancing Lights* cantrip. When you reach 3rd level, you can cast the *Faerie Fire* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Darkness* spell once and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
-	![[elfWinterBust.png]]
 
 ### Dragonborn (s.)
-![[dragonbornYellow.png]]
 Common wisdom tells us that the Dragonborn were quite literally born to a humanoid and a dragon, inheriting the color of scale and affinity of element of their dragon ancestors.
 
 **Age.** You are considered fully mature at age twenty-five and live till about one-hundred thirty. Dragonborn mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters. Dragonborn parents pass their Draconic Ancestry on to their children. When two dragonborn parents are directly responsible for conceiving children, the children are near-randomly assigned one ancestry over another.   
@@ -123,8 +112,7 @@ Gold | Fire
 Silver | Cold
 
 ### Triton (s.)
-![[tritonFighter.png]]
-The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
+The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how is largely unknown, but it is the truth that they came to Alaturmen when the elves and humans did.
 
 **Age.** You are considered fully mature at twenty and live to over two hundred. Triton mothers typically birth only one child per conception, but it is possible that a mother could birth quite large litters.  
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You weigh about 160 pounds.  
@@ -133,7 +121,6 @@ The Triton swam from the [[Plane of Water]] into Alaturmen. Why or how are large
 **Elemental Ancestry (Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know one cantrip *shape water*.  
 
 ### Dwarven (a.)
-![[dwarvenCamper.png]]
 The origins of dwarves are shrouded in myth, with some saying that their ancestors were fashioned from the very stone itself. 
 
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Dwarves reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives dwarves no reason to participate in gender, though they often have gender forced upon them in alien cultures.  
@@ -144,19 +131,18 @@ The origins of dwarves are shrouded in myth, with some saying that their ancesto
 
 ## Uncommon to Alaturmen
 ### Kobold (a.)
-![[koboldBlack.png]]
 Kobolds are rumored to be formed from the blood of a true Dragon, and inherit a measure of that dragon's powers.
 
 **Age.** You are considered fully mature at age six and you can live up to one-hundred and twenty years. Kobold mothers birth litters of about six.  
 **Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.  
 **Speed.** Your speed is 30 feet per round.   
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Pack Brain.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.  
 **Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.  
 **Blood of Dragon.** You have advantage on saving throws to avoid or end the frightened condition on yourself. You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).  
 
 ### Orc (a.)
-![[orcFather.png]]
-Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Decenters]].
+Orcs have been the slave-race of the multiverse for as long as they have existed, the Titans created them for this purpose. Orcs on Alaturmen are young, descendants of those survivors of [[The Assault of the Giant Dissenters]].
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Orcs reproduce ritually, with a mage imparting Woven life into the severed flesh of any number of Orc.  
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 260 pounds.  
@@ -165,7 +151,6 @@ Orcs have been the slave-race of the multiverse for as long as they have existed
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.  
 
 ### Tabaxi (s.)
-![[tabaxiJungle.png]]
 The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
 
 **Age.** You are considered fully mature at about twenty-two and live to about ninety. Tabaxi mothers typically birth litters of about three children.  
@@ -175,7 +160,6 @@ The Tabaxi have become on Alaturmen only recently, born to the [[Beasts Righteou
 **Natural Claws.** You are proficient with a *Claw* attack, which is a melee weapon attack that deals 1d4 piercing damage plus your Dexterity modifier. This *Claw* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.  
 
 ### Kenku (s.)
-![[kenkuWalker.png]]
 The Kenku have become on Alaturmen only recently, born to the [[Beasts Righteous]] of the [[Great Quillbuck Jungle]]. 
 
 **Age.** You are considered fully mature at twelve and you live until about sixty.  
@@ -184,7 +168,6 @@ The Kenku have become on Alaturmen only recently, born to the [[Beasts Righteous
 **Mimicry.** You can precisely mimic sounds, including voices, you have heard. A creature that hears the sounds you make can only tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.  
 
 ### Goliath (s.)
-![[goliathWarrior.png]]
 The origins of Goliath are shrouded in myth, with some saying that their ancestors were born of Ice Giants.
 
 **Age.** You are considered fully matured at twenty and live until about one-hundred. Goliath mothers always birth children in identical twins.   
@@ -195,8 +178,7 @@ The origins of Goliath are shrouded in myth, with some saying that their ancesto
 **Twin-things.** If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.  
 
 ### Halfling (a.)
-![[halflingRanger.png]]
-Halfling are born to the Weave itself, the conscious form of a story of someone who does not yet exist, born into Alaturmen only moments after it's conception; thanks should be sent to the goblin joke-sters of this time.
+Halfling are born of the Weave itself, the conscious form of a story of someone who did not exist. As this story is told, a halfling will be created based partially on the features and traits described in the tale they are born from. A halfling does not often meet their "storyteller", unless some sort of connection is woven into the tale.
 
 **Age.** Halfling are considered fully mature at twenty five, and live until about one-hundred sixty. Halfling are born of story and creativity, they can become at any point in their life full of history and connection. Many halfling are cousin, sibling, parent, and child to many other halflings, as most of these halflings begin to tell stories of their family, they become too.  
 **Size.** Mechanically, your size is small. You stand at about three feet tall. You weigh about sixty pounds.  
@@ -205,7 +187,6 @@ Halfling are born to the Weave itself, the conscious form of a story of someone 
 **Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.  
 
 ### Gnoll (s.)
-![[gnollWarrior.png]]
 The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], the Demon Lord of the Undead, made to be his foot-soldiers against the humanoids of Alaturmen. 
 
 **Age.** You are considered fully matured at eight and live to about forty.  
@@ -217,7 +198,7 @@ The origin tale of the Gnoll are known; they owe their existence to [[Orcus]], t
 ## Rare to Alaturmen
 #### Feywild
 ### Eladrin (a.)
-Eladrin are born of the [[Ceilie Courts]], making a large section of the courts' common fey.
+Eladrin are born of the [[Ceilie Courts]], composing a large section of the courts' common fey.
 
 **Age.** Although you are considered fully mature at about twenty-five, the traditional eladrin perception of "adulthood" is based on worldly experience more than physicality. Additionally, one would change their name from that given at birth by their parents to that name they believe they have earned. As an eladrin reaches the end of their satisfied life, which generally happens sometime after three hundred years of life, they Walk beyond their home plane - whatever they may find. Eladrin parents must be integral in the full creation process of some artistic or creative work either directly before, during, or directly after the acts of conception.  
 **Size.** Mechanically, your size is Medium. You stand at about six feet tall. You weigh about one-hundred forty-five pounds.  
@@ -229,17 +210,12 @@ Eladrin are born of the [[Ceilie Courts]], making a large section of the courts'
 - **Trance Proficiencies.** Whenever you finish a long rest using your **Trance** trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the “Equipment” chapter of the Player’s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.  
 **Child of a Seasonal Monarch.** You gain a trait corresponding to your seasonal ancestry;  
 - **Spring.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. When you use your **Fey Step**, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
-![[eladrinSpring.png]]
 - **Summer.** You know one additional cantrip of your choice from the *evocation* school of the Wizard spell list. Intelligence is your spellcasting ability for it. Before or after you use your **Fey Step**, each creature of your choice within five feet of you takes fire damage equal to your proficiency bonus.  
-![[eladrinSummer.png]]
 - **Autumn.** You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it. Directly before or after you use your **Fey Step**, you gain resistance to all damage until the end of your next turn. During this time, your physical form is ghostly and ethereal.  
-![[eladrinAutumn.png]]
 - **Winter.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight. You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. Directly before or after you use your **Fey Step**, each creature of your choice that you can see within 5 feet of you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.  
-![[eladrinWinter.png]]
 
 ### Satyr (a.)
-![[satyr4.png]]
-Satyr are born of the [[Ceilie Courts]], with the life directive of creating and telling the story of an event, person, or concept of the Court's choice.
+Satyr are created by the [[Ceilie Courts]], with the **life directive** of writing and telling the story of an event, person, or concept of their Court's choice.
 
 **Age.** You are considered fully mature at twenty-five and live till about ninety. Satyr parent a single child at about seventy-five, whom they teach everything they know about their task.  
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall.  
@@ -251,7 +227,6 @@ Satyr are born of the [[Ceilie Courts]], with the life directive of creating and
 - **Cantrip.** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.  
 
 ### Gnome (a.)
-![[gnomeSexy.png]]
 When a great work of invention is created in the multiverse, a Gnome becomes. Most find themselves born into the Astral Sea, adrift and surviving with nothing but their intellect to protect them.
 
 **Age.** You are considered fully mature upon your becoming. You are a mortal, and while you would naturally die at about one-hundred twenty, many Gnomes extend their lifespans artificially; using magic or technology you could live to over five-hundred – or beyond, if you're willing to become something im-mortal.   
@@ -263,7 +238,6 @@ When a great work of invention is created in the multiverse, a Gnome becomes. Mo
 
 #### Underdark
 ### Duergar (a.)
-![[duergarMasc.png]]
 A distant cousin of the Dwarves, the Duergar come from the Deep Below, a plane of caves, tunnels, horror, and riches. Duergar evolved for the deepest and darkest reaches of this place.
 
 **Age.** You are considered fully mature at twenty-five, and live until about two-hundred twenty. Duergar reproduce ritually, in groups of two or more, and carve their children of stone, metal, and fine gem. Due to the process of carving a child, a parent will usually spend three months participating in this ritual, and will produce one child per participant. This gives duergar no reason to participate in gender, though they often have gender forced upon them in alien cultures.  
@@ -273,30 +247,29 @@ A distant cousin of the Dwarves, the Duergar come from the Deep Below, a plane o
 **Elemental Ancestry (Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
 
 ### Kalix (s.)
-![[kalixArt.png]]
 The Kalix evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They are evolved for the damp lush areas of this place.
 
 **Age.** You are considered fully matured at eight and live to about forty.  
 **Size.** Mechanically, your size is Medium. You stand at about six and a half feet tall. You weigh about 220 pounds.  
 **Speed.** Your speed is 35 feet per round. You gain a swimming speed of 30.  
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Amphibious.** You can breathe air and water.  
 **Enduring Flesh.** When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.  
 **Natural Claws & Maw.** You are proficient with a *Claw* or *Bite* attack, which is a melee weapon attack that deals 1d4 or 1d6, respectively, piercing damage plus your Dexterity modifier. This *Claw* or *Bite* attack can replace any number of your weapon attacks when performing a *Multiattack* action or an *Opportunity Attack* reaction.  
 
 
 ### Kuo-Toa (s.)
-![[kuo-toaWTF.png]]
 The Kuo-Toa evolved in the Deep Below, a plane of caves, tunnels, horror, and riches. They evolved for live in the wettest places here.
 
 **Age.** You are considered fully mature at fourteen and live to be about seventy. Kuo-Toa reproduce like traditional fish, fathers inseminate hundreds of a mother's eggs.  
 **Size.** Mechanically, your size is small. You stand at about two and a half feet tall. You weigh about sixty pounds.  
 **Speed.** Your speed is 25 feet per round. You gain a swimming speed of 30 feet per round.   
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, **and** in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Amphibious.** You can breathe air and water.  
 **Small Form.** You can move through the space of any creature that is of a size larger than yours. You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.  
 
 #### Elementals
 ### Aaracokra (s.)
-![[aaracokraTrue.png]]
 Hollow boned humanoid-birdfolk native to the Elemental [[Plane of Air]].
 
 **Age.** You are considered fully mature at six and live to be about sixty.  
@@ -313,23 +286,18 @@ Genasi are humanoid elementals native to the [[Elemental Planes]]. Those Genasi 
 **Speed.** Your speed is 30 feet per round.  
 **Elemental Ancestry.** You gain your choice of one of the following traits;  
 - **(Air).** You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. You can hold your breath indefinitely while you’re not incapacitated.  
-![[genasiAir.png]]
-- **(Earth).** You have advantage on saving throws against poison, and you have resistance against poison damage. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
-![[genasiEarth.png]]
+- **(Earth).** You have immunity against poison damage and the poisoned condition. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
 - **(Water).** Adapted to even the most extreme ocean depths, you have resistance to cold damage. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. You know the cantrip *shape water*. Constitution is your spellcasting ability for this spell.  
-![[genasiWater.png]]
 - **(Fire).** You have resistance to fire damage. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red. You may cast *hellish rebuke* as a reaction. Constitution is your spellcasting ability for this spell. After using this feature, you cannot use it again until you complete a short or long rest. 
-![[genasiFire.png]]
 
 #### Extraplanar
 ### Tiefling (s.)
-![[tieflingNoble.png]]
 Tiefling are the children of Devils and humanoids. Often, they are born of contract ("I give you my first born child, and in exchange..."), but other times, a human and a devil truly fall into what they consider love and bear a tiefling together.  
 
 **Age.** You are considered fully mature at twenty-five, and live until about one-hundred eighty. A tiefling is born in the union of a devil and a humanoid, and tieflings cannot themselves bear children. The humanoid parent always bears the teifling child to term, and to do so is very often fatal.  
 **Size.** Mechanically, your size is Medium. You stand at about five feet tall. You wiegh about one-hundred sixty pounds.  
 **Speed.** Your speed is thirty feet per round.  
-**Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your appearance and a manifestation of your Devilish Ancestry. In addition, you gain one of the following traits of your choice;  
+**Devilish Ancestry.** Choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; dark or vibrant colored skin; cast no shadow or reflection; exude a smell of brimstone. You gain these features as aspects of your appearance and a manifestation of your Devilish Ancestry. In addition, you gain your choice of one of the following traits;  
 - **Avernus Child.** You know the *Thaumaturgy* cantrip. When you reach 3rd level, you can cast the *Searing Smite* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Branding Smite* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
 - **Dis Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Disguise Self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *Detect Thoughts* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
 - **Minaurus Child.** You know the *Mage Hand* cantrip. When you reach 3rd level, you can cast the *Tenser's Floating Disk* spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the *Arcane Lock* spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.  
@@ -341,7 +309,6 @@ Tiefling are the children of Devils and humanoids. Often, they are born of contr
 - **Nesus Child.** You know the *Thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *Hellish Rebuke* spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the *Darkness* spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.  
 
 ### Mecha (a.)
-![[mechaBrawler.png]]
 Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [[Mechanis]] becomes a Mecha here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.
 
 **Age.** You are considered fully mature, and you do not age.  
@@ -358,7 +325,6 @@ Mecha are the lawful reformation of a Faith-full Soul. A soul that passes into [
 **Versatile Form.** You gain proficiency in a skill of your choice. You gain one feat of your choice. You may increase one ability score of your choice by one.   
 
 ### Aasimar (a.)
-![[aasimarSexy.png]]
 Aasimar are the good reformation of a Faith-full Soul. A soul that passes into [[Elysium]] becomes a Aasimar here, though they are stripped of any previous sense of self, they are allowed the memories of their soul's owner.  
 
 **Age.** You are considered fully mature, and you do not age.  
@@ -513,7 +479,7 @@ The Three Fates crafted the fabric of reality, known as the Weave, and from it m
 
 In the planes that were before time was, the [[Ceilie Courts]]' [[Eladrin Specifics|Eladrin]] made their progeny; ***onnonyamile***; *child of my parent*; the [[Elven Specifics|Elves]]. It was the Eladrin's claim that the Elves were the true heirs of Alaturmen, that it was made for *their* children, and this was what they told their children.
 
-Quickly, these claims had no power, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and the people who came to be came to be together.
+Quickly, these claims were clearly without base, for **mortality** would claim all in Alaturmen, pardoning only its [[Grand Pantheon|Gods]], and thus the people who came to be came to be *together*.
 
 ### About Trade
 Most people use barter to trade for resources, but coin and merchant bar is acceptable currency nearly anywhere, if not for their full value. The Kingdom of Prosper has a large treasury, and has spread coin around the world, making theirs the dominant currency, but each of the "nations" of the world mint their own coin.
@@ -539,6 +505,25 @@ Tertiarily, of course, many people gain power through some physical force; more 
 
 #### About Faith
 Faith holds a special kind of power; that of the many, the bonded in ideal, the togetherness that forms a [[Grand Pantheon|God]] – or feeds a power of such a caliber. People of the multiverse are all born into their world with a Soul, the densest form of Faith their is; Faith in Life.
+
+| Diety                                       | Motifs                      | Alignment | Symbol                                                |
+|---------------------------------------------|-----------------------------|------|-------------------------------------------------------|
+| Ar’kraven, manifestation of Death           | grief, sadness, void        | TN   | overhead view of a flying vulture, wings outstretched |
+| Sune, manifestation of Love                 | life, beauty, ecstasy       | NG   | long curly haired figure laying                       |
+| Tauruin, manifestation of Pride             | fear, power, domain         | LE   | cracked crown                                         |
+| Gromosh, manifestation of Anger             | revenge, hunger, family     | CE   | splayed left hand missing it’s ring finger            |
+| Freruc & Sophie, manifestations of Mischief | surprise, longing, trickery  | CN   | scissors cutting the string of a yo-yo                |
+| Blemon, manifestation of Disease            | fatigue, healing, addiction | TN   | beak-nosed mask                                       |
+| Terran, Idol of Earth                       | green                       | NE   | square with dot in center                             |
+| Ventan, Idol of Air                         | white                       | NG   | triangle with dot in center                           |
+| Ignan, Idol of Fire                         | red                         | CN   | pentagon with dot in center                           |
+| Aquan, Idol of Water                        | blue                        | LN   | three horizontal lines with dot in center             |
+| Animan, Idol of Arcane                      | yellow                      | TN   | circle with dot in center                             |
+| Sama, Patron Saint of Rangers               | one mind                    | NG   | cloak with a five leafed clover                       |
+| Yamisch, Patron Saint of Cartographers      | true sight                  | LN   | four pointed star connected at the points             |
+| Certi’Alikor, Patron Saint of Gladiators    | quick death                 | NE   | sword through a heart                                 |
+| Burraw, Patron Saint of Farmers             | bountiful harvest           | TN   | pitchfork holding a square of lines                   |
+
 
 #### About Punishment
 Exile or Execution are common punishments for serious crimes such as treason or murder. Fines or Imprisonment are common for minor crimes, such as swashbucklery, skulldugery or dissent.

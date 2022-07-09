@@ -18,7 +18,7 @@ When last we left our heroes, they were in the city of [[Ootool]], having remove
 With full bellies, an ally at your side, and the fate of the world you call home in your hands, I ***bequeath*** you! What do you do?
 
 ### What does the World Know?
-[[Jarl Grungar]] agreed to resend involvement in [[The Assault of the Giant Decenters]].
+[[Jarl Grungar]] agreed to resend involvement in [[The Assault of the Giant Dissenters]].
 
 [[Kakurak]] wishes to get in contact with the party to recall them at their earliest convenience to compare information. He can do this by harnessing some of the power of [[Its Greatness]], one of the few beings known to be intra-planar in nature and willing to Deal.
 

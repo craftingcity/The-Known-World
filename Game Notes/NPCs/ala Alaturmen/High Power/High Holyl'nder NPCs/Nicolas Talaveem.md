@@ -25,4 +25,4 @@ Nicolas has a home in the hamlet near [[Aeberu]].
 Nicolas keeps a lair, [[Darktower]], northwest of Aeberu.
 
 ## Statistics
-In the time around [[The Assault of the Giant Decenters]], Nicolas is about seventy, and has the magical power of a 14th level spellcaster.
+In the time around [[The Assault of the Giant Dissenters]], Nicolas is about seventy, and has the magical power of a 14th level spellcaster.

@@ -9,7 +9,7 @@ aliases:
 
 Amethyst Jammu is the Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]].
 
-As of [[The Assault of the Giant Decenters]] she has no true heir. One could only 
+As of [[The Assault of the Giant Dissenters]] she has no true heir. One could only 
 
 A politic of theirs that players would interact with.
 
