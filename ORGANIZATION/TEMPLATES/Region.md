@@ -6,5 +6,7 @@ aliases:
 #### A sub-region of {Greater Region}
 ## Boundaries
 ## Contents
-### Potential Allies
-### Potential Threats
+### Flora
+### Landmarks
+#### Settlements
+#### Lairs
