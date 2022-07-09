@@ -3,9 +3,9 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of [[The Holyl'nds]]
+#### A sub-region of [[Northeastern Central]]
 ## Boundaries
-*Mechanical Size:* 25 lh
+*Mechanical Size:* 20 lh
 
 ## Contents
 ### Flora

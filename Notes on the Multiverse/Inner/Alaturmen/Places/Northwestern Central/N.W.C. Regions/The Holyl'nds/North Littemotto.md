@@ -3,9 +3,26 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of [[The Holyl'nds]]
+#### A sub-region of {Greater Region}
 ## Boundaries
-Bounded by the solid [[Central Holyl'nd]] to its south, the [[Firelight Sea]] to its north-east, and the [[Littetavarse]] to it's north-west. The smaller [[Enlitte Ambonas]] borders North Littemotto's eastern edge.
+*Mechanical Size:* 32lh
 ## Contents
-### Potential Allies
-### Potential Threats
+### Flora
+### Scenarios
+#### Settlements
+#### Lairs
+
+## Tables
+### Encounter
+**Encounter Check:** 1 in 1d8
+**Border Encounters:** 1 in 1d10
+
+
+| 1d00 | Encounter                  | %Lair | %Tracks | Intent  | Desire      |
+|------|----------------------------|-------|---------|---------|-------------|
+| 1    | a     | a    | a         | a      | a      |
+
+### Rumors
+| 1d00 | Rumor | Loc. | Resolved? | Notes: |
+|------|-------|------|-----------|--------|
+| 1    | a     | a    | a         | a      |

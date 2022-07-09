@@ -8,7 +8,7 @@ aliases:
 Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest]] to its north and east, and the [[Great Southern Mossland]] to it's south. It neighbors the [[Deakred Range]] and [[Coalition City]] to the south-west. 
 
 ## Contents
-*Mechanical Size:* 130 lh
+*Mechanical Size:* 145 lh
 ### Flora
 ### Scenarios
 #### Settlements
