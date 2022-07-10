@@ -18,9 +18,9 @@ aliases:
 **Border Encounters:** 1 in 1d10
 
 
-| 1d00 | Encounter                  | %Lair | %Tracks | Intent  | Desire      |
-|------|----------------------------|-------|---------|---------|-------------|
-| 1    | a     | a    | a         | a      | a      |
+| 1d00 | # appearing | Encounter | %Lair | %Tracks | Intent | Desire |
+| ---- | ----------- | --------- | ----- | ------- | ------ | ------ |
+|      |             |           |       |         |        |        |
 
 ### Rumors
 | 1d00 | Rumor | Loc. | Resolved? | Notes: |

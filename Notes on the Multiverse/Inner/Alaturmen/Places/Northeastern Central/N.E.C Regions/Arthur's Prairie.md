@@ -11,12 +11,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Flora
 ### Scenarios
 - A21. Forest Hall of Death
-- I23. Dawnfluke
-	- Healing / Abjurative pixie
-- Q26. Rootlake Monster
-- V32.
-#### Settlements
-#### Lairs
+- I23. Dawnfluke Fey
+- Q26. Rootlake Monster (lair)
 
 ## Tables
 ### Encounter

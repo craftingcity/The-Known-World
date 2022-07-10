@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "84778f117da40e0b",
+        "id": "4e23b7b1f5081d74",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,22 +14,16 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "84778f117da40e0b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Region.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":28},\"to\":{\"line\":15,\"ch\":28}}}"
-            },
-            {
-              "leaf": "84778f117da40e0b",
+              "leaf": "4e23b7b1f5081d74",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":17.25373599003736}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "84778f117da40e0b",
+              "leaf": "4e23b7b1f5081d74",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -180,7 +174,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84778f117da40e0b",
+  "active": "4e23b7b1f5081d74",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
     "ORGANIZATION/TEMPLATES/Region.md",
