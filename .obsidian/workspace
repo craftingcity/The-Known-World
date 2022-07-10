@@ -25,6 +25,18 @@
             {
               "leaf": "4e23b7b1f5081d74",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lord's Folly.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4e23b7b1f5081d74",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":9},\"to\":{\"line\":10,\"ch\":9}}}"
+            },
+            {
+              "leaf": "4e23b7b1f5081d74",
+              "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
@@ -177,8 +189,8 @@
   "active": "4e23b7b1f5081d74",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "Lord's Folly.md",
     "ORGANIZATION/TEMPLATES/Region.md",
-    "Untitled.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
     "ORGANIZATION/TEMPLATES/Hexkey.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",

@@ -11,7 +11,11 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Flora
 ### Scenarios
 - A21. Forest Hall of Death
-- I23. Dawnfluke Fey
+	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
+- I23. Dawnfluke Fey (lair)
+	- A dawn-pixie lives here.
+- K22. Old Stickfinger's Cabin
+	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, just as the flys and maggots surround the rotting meat.
 - Q26. Rootlake Monster (lair)
 
 ## Tables
