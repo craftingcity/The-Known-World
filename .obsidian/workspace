@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc172171dcc2954",
+        "id": "84778f117da40e0b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,22 +14,22 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "9bc172171dcc2954",
+              "leaf": "84778f117da40e0b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Region.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":28},\"to\":{\"line\":15,\"ch\":28}}}"
+            },
+            {
+              "leaf": "84778f117da40e0b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":17.25373599003736}"
             },
             {
-              "leaf": "9bc172171dcc2954",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9bc172171dcc2954",
+              "leaf": "84778f117da40e0b",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -180,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bc172171dcc2954",
+  "active": "84778f117da40e0b",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "ORGANIZATION/TEMPLATES/Region.md",
+    "Untitled.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md",
     "ORGANIZATION/TEMPLATES/Hexkey.md",
-    "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md",
-    "Gumlpin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
+    "Gumlpin.md"
   ]
 }
