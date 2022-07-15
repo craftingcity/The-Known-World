@@ -12,6 +12,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Scenarios
 - A21. Forest Hall of Death
 	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
+- G20. Cenvan Lookouts
 - I23. Dawnfluke Fey
 	- A dawn-pixie lives here.
 - K22. Old Stickfinger's Cabin
