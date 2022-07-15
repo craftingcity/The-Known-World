@@ -9,7 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 - AO22. Putrid Elemental
-
+- AP13. Giant Slug
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
