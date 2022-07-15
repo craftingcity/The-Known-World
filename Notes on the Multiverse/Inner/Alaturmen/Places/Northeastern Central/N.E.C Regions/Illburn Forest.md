@@ -9,8 +9,10 @@ The Illburn Forest is all the living remains of the [[Great Northern Forests]] s
 ## Contents
 ### Flora
 ### Scenarios
-- C24. Rabid Wolverine Den
-- 
+- C24. Wolverine Den
+- D23. Rabid Mystics
+	- wildshape / druids
+- G32. Illburn Symbiote
 ## Tables
 ### Encounter
 **Encounter Check:** 1 in 1d8
