@@ -2,13 +2,13 @@
 tags: region
 aliases:
 ---
-# Lord's Folly
-#### A sub-region of [[The Deserts of Tetrimoc]]
+# North Dunes
+#### A sub-region of [[Southwestern Central]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-- AC2. Nyoser's Gore-House (lair)
+- S3. [[Kailkeep]]
 #### Settlements
 #### Lairs
 

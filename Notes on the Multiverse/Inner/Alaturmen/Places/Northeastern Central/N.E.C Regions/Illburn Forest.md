@@ -5,15 +5,12 @@ aliases:
 # Illburn Forest
 #### A sub-region of [[Northeastern Central]]
 ## Boundaries
-*Mechanical Size:* 67lh
-
 The Illburn Forest is all the living remains of the [[Great Northern Forests]] since the [[Great Fires]] burnt away the western half and [[The Kingdom of Prosper]]'s ascension has nibbled away it's eastern half.
 ## Contents
 ### Flora
 ### Scenarios
-#### Settlements
-#### Lairs
-
+- C24. Rabid Wolverine Den
+- 
 ## Tables
 ### Encounter
 **Encounter Check:** 1 in 1d8

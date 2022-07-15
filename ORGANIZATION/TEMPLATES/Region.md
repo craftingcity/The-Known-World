@@ -8,8 +8,6 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### Settlements
-#### Lairs
 
 ## Tables
 ### Encounter

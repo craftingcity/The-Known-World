@@ -15,18 +15,16 @@ aliases:
 		- [[Actstow Hills]]
 		- [[Arthur's Prairie]]
 		- [[Greenhilles]]
+		- [[Gumlpin]]
 		- [[Illburn Forest]]
 	- **Smaller than a city**
 		- [[Giant's Toe]]
 		- [[Moonlight]]
 	- **Smaller than a feature**
 		- [[Castle Prosper]]
-		- [[Esoteriques]]
 		- [[Gambleum]]
-		- [[Glamora]]
 		- [[Janesland]]
 		- [[Magius]]
-		- [[Vitalities]]
 		- [[Yerba]]
 	- **Smaller than a village**
 		- [[Archmage Barrowinch's Tower]]

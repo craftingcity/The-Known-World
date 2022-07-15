@@ -5,12 +5,10 @@ aliases:
 # Title
 #### A sub-region of {Greater Region}
 ## Boundaries
-*Mechanical Size:* 9lh
 ## Contents
 ### Flora
 ### Scenarios
-#### Settlements
-#### Lairs
+- C15. Frost Giant Haven
 
 ## Tables
 ### Encounter
