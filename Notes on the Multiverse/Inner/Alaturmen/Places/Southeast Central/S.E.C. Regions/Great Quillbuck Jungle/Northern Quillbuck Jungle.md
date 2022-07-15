@@ -2,10 +2,26 @@
 tags: region
 aliases:
 ---
-# Northern Quillbuck Jungle
-#### A sub-region of [[Great Quillbuck Jungle]]
+# Title
+#### A sub-region of {Greater Region}
 ## Boundaries
-The northern section of the Quillbuck is bounded by the [[Great Southern Mossland]] to its east and west, as well as the [[Reugb Marshes]] to its north.
 ## Contents
-### Potential Allies
-### Potential Threats
+### Flora
+### Scenarios
+- AJ24. Massive Mosquito
+
+## Tables
+### Encounter
+**Location Check:** 1 in 1d6
+**Encounter Check:** 1 in 1d8
+**Border Encounters:** 1 in 1d10
+
+
+| 1d00 | # appearing | Encounter | %Lair | %Tracks | Intent | Desire |
+| ---- | ----------- | --------- | ----- | ------- | ------ | ------ |
+|      |             |           |       |         |        |        |
+
+### Rumors
+| 1d00 | Rumor | Loc. | Resolved? | Notes: |
+|------|-------|------|-----------|--------|
+| 1    | a     | a    | a         | a      |

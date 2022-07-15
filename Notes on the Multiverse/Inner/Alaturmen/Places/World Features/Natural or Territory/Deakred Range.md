@@ -5,13 +5,24 @@ aliases:
 # Deakred Range
 #### A sub-region of [[Central Alaturmen]]
 ## Boundaries
-The Deakred Range extends from the center of Alaturmen's known space to its western edge and further still into the [[Wildlands]].
+The Deakred Range extends from the center point of [[Central Alaturmen]] to it's western-most reaches.
 
 ## Contents
-### Potential Allies
-The Dwarves of [[Mountain Hall]].
+### Flora
+### Scenarios
+- S15. Den of the [[Arstovich]]
+## Tables
+### Encounter
+**Location Check:** 1 in 1d6
+**Encounter Check:** 1 in 1d8
+**Border Encounters:** 1 in 1d10
 
-The Goliath Clans.
-### Potential Threats
-The Harpy Gangs
-The Loose Earth-Elementals
+
+| 1d00 | # appearing | Encounter | %Lair | %Tracks | Intent | Desire |
+| ---- | ----------- | --------- | ----- | ------- | ------ | ------ |
+|      |             |           |       |         |        |        |
+
+### Rumors
+| 1d00 | Rumor | Loc. | Resolved? | Notes: |
+|------|-------|------|-----------|--------|
+| 1    | a     | a    | a         | a      |
