@@ -8,6 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+- AO20. Elite Dragon Cult
 - AO22. Putrid Elemental
 - AP13. Giant Slug
 ## Tables
