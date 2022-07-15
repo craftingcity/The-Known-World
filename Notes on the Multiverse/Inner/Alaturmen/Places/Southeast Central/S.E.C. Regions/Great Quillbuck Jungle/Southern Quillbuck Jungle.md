@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- AO22. Putrid Poplar
+- AO22. Putrid Elemental
 
 ## Tables
 ### Encounter
