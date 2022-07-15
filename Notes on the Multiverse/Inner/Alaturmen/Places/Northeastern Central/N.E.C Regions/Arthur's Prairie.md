@@ -20,6 +20,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 - O27. Phase Spider Nest
 - Q26. Rootlake Monster
 	- Some terrible monster stalks this lake.
+- U23. Worthy Knight
 
 ## Tables
 ### Encounter

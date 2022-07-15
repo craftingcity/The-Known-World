@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Southern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
+      "basename": "North Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
+    },
+    {
+      "basename": "Gabrin Shrublands",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
     },
     {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Southern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
     },
     {
       "basename": "Firelight Sea",
@@ -71,10 +79,6 @@
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
     },
     {
       "basename": "Actstow Hills",
@@ -195,10 +199,6 @@
     {
       "basename": "Non-Nation Entities",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "Blood Clans",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     }
   ],
   "omittedPaths": [],
