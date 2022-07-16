@@ -8,9 +8,12 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- A2. a
-	- earthen formation
-	- site of Battle/Birth/Death/Injury
+- A2. Touchstone
+	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in elven - both ancient and modern.
+- C5. Bonesheet
+	- A sheet of petrified bone is covered in ash. On it's face a complex circular rune is embossed from this sheet in a deep red transparent substance. When a life is taken in the center of this rune, the petrified bone inside of the rune becomes insubstantial, revealing a 
+- D1. Palm of Tauruin
+	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
 
 ## Tables
 ### Encounter
