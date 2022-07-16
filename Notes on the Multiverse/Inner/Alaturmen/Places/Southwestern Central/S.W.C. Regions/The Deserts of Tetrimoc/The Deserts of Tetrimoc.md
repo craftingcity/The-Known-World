@@ -3,12 +3,15 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of {Greater Region}
+#### A sub-region of [[Southwestern Central]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-- AE11. 
+- Y10. [[Kickoff]]
+- AC8. Aphetto Runestone
+- AE8. Skyknight Training Fields
+- AE11. Slumbering Cyclops
 
 
 ## Tables

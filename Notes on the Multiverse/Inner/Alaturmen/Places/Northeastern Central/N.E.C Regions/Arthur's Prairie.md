@@ -10,18 +10,20 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ## Contents
 ### Flora
 ### Scenarios
-- A21. Forest Hall of Death
+- A21. Dwarf-Hobgoblin Battlefield
 	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
-- G20. Cenvan Lookouts
-- I23. Dawnfluke Fey
+- G20. Cenvan Lookout Towers
+- I23. Seelie Dawnfluke
 	- A dawn-pixie lives here.
 - K22. Old Stickfinger's Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, just as the flys and maggots surround the rotting meat.
+- L29. Unseelie Mush-pit
 - P19. Nature-growth Altar
 - O27. Phase Spider Nest
 - Q26. Rootlake Monster
 	- Some terrible monster stalks this lake.
 - U23. Worthy Knight
+	- A champion taxes and guards the road here
 
 ## Tables
 ### Encounter
