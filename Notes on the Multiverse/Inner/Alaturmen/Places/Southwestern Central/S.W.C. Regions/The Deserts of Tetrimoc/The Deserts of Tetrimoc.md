@@ -9,6 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 - Y10. [[Kickoff]]
+- AA5. Pit of Horror-kin
 - AC8. Aphetto Runestone
 - AE8. Skyknight Training Fields
 - AE11. Slumbering Cyclops

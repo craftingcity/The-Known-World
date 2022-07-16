@@ -12,6 +12,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Scenarios
 - A21. Dwarf-Hobgoblin Battlefield
 	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
+- C23. Raging Fog
 - G20. Cenvan Lookout Towers
 - I23. Seelie Dawnfluke
 	- A dawn-pixie lives here.
