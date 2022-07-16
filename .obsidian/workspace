@@ -20,7 +20,7 @@
               "leaf": "bfa066a76537c18a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}},\"scroll\":5.9400326154098195}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}},\"scroll\":5.506299281948323}"
             },
             {
               "leaf": "bfa066a76537c18a",
@@ -47,11 +47,8 @@
         "id": "107e8966302e7a20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
