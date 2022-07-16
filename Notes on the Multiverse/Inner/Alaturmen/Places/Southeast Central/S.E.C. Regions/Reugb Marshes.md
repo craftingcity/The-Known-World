@@ -3,12 +3,12 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of {Greater Region}
+#### A sub-region of [[Southeast Central]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-- AH25. 
+- AH25. Kenku Watchtower
 
 ## Tables
 ### Encounter
