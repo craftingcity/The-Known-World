@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
     },
     {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
+    },
+    {
       "basename": "Redl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Enlitte Ambonas",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
-    },
-    {
-      "basename": "Region",
-      "path": "ORGANIZATION/TEMPLATES/Region.md"
     },
     {
       "basename": "README",
