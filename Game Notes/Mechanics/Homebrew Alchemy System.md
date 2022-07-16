@@ -22,7 +22,7 @@ As a journeyman alchemist, you are expected to be a full-time alchemist. You may
 
 An expert alchemist is a full-time alchemist, capable of handling any task given to them. They have created their own original formulas, and have introduced many improvements upon the basic arts.
 
-A master alchemist is a full-time alchemist, capable of handling any task given to them, and is capable of creating any effect desired. A master alchemist is free to pursue any endeavor they wish, and is highly sought after for their skills. A master alchemist is an individual of great talent and power, respected by all who know them.
+A master alchemist is a ***full***-time alchemist, capable of handling *any* task given to them, and is capable of creating *any* effect desired. A master alchemist is free to pursue any endeavor they wish, and is highly sought after for their skills. A master alchemist is an individual of great talent and power, respected by all who know them.
 
 ### Schools
 It is true that most alchemists find success in creating their own formula, but many alchemists create formula that are only de-facto unique, and throughout these "common" formula, certain schools of thought begin to emerge. Three broad "schools" of Alchemy emerge from these patterns, using similar components, equipment, and processes.
@@ -77,7 +77,9 @@ x | Detail
 (+8, nonstacking) | Using a Philosopher's Stone
 (+4, nonstacking) | Using some Red Water
 (+2, nonstacking) | Using some Yellow Powder
-(+0-4, once) | Using an alchemically potent ingredient
+(+0-4, once per ingredient used) | Using an alchemically potent ingredient
+
+The quality of an alchemical product is important when considering available use time, potency, and specificity.
 
 #### Collection
 Collecting ingredients that are alchemically potent is a task that involves correctly identifying and harvesting such an ingredient. For the purposes of our game this will involve a Wisdom (Survival) check against the following table. Quantity must be considered as appropriate to in-game truths, such as time, weight, availability, etc.

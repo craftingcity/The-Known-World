@@ -25,7 +25,7 @@
                   "leaf": "e4c80a9993e4445e",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":135},\"to\":{\"line\":28,\"ch\":135}},\"scroll\":15.5946875}"
                 },
                 {
                   "leaf": "e4c80a9993e4445e",
@@ -315,15 +315,15 @@
   },
   "active": "e4c80a9993e4445e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md",
+    "MEDIA/SUPP/AlchemistsLab.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
     "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Litteortosta.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "conflict-files-obsidian-git.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
   ]
 }

@@ -16,16 +16,23 @@ aliases:
 		- 2278 "copper" pieces of various mints (Copper Seeds, Lead Fingers, Tin Bits, and Lead Plates)
 		- 1010 "silver" pieces of various mints (Silver Swords, Bronze Wholes, Iron Embers, Tin Bolts, Silver Plates, Merchant's Tin Pounds and Merchant's Copper Pounds)
 		- 78 "gold" pieces of various mints (Golden Crowns, Golden Wholes, Golden Plates, and Merchant's Silver Pounds)
-		- A one-carat red banded agate (appraised at 11sp)
-		- Two one-carat blue square quartz (appraised at 9sp each)
-		- A one-carat orange eye agate (appraised at 12sp)
-		- A large chunk of unprocessed malachite (appraised at 10sp)
-		- A medium shard of obsidian (appraised at 8sp)
-		- A one-carat turquoise bead (appraised at 9sp)
-		- A leather book-bag containing...
+		- A one-carat red banded agate (appraised at 110sp)
+		- Two one-carat blue square quartz (appraised at 90sp each)
+		- A one-carat orange eye agate (appraised at 120sp)
+		- A large chunk of unprocessed malachite (appraised at 100sp)
+		- A medium shard of obsidian (appraised at 80sp)
+		- A one-carat turquoise bead (appraised at 90sp)
+		- A large leather kit-bag containing...
 			- A scroll of *Detect Good and Evil* written in Draconic on Alchemical Paper
 			- A scroll of *Faerie Fire* written in Draconic on Alchemical Paper
-			- A small leather purse. This bag has the proporties o
+			- A small leather purse. This bag has the properties of a *bag of holding*.
+			- Three identical corked vials of viscus red liquid. These vials have the properties of a Journeyman's Potion of Healing (6d4 + 12 hp).
+			- A finely constructed wooden lute, stringed with copper, and engraved "Gilamore" on the handle (appraised at 35sp, weighing about 2lb).
+			- A set of common clothing made of linen.
+			- A set of fine clothing made of linen.
+		- A large 10' iron chain.
+		- A thick iron padlock.
+		- A thick iron key.
 - D1. Palm of Tauruin
 	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
 
