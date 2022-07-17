@@ -2,7 +2,7 @@
 tags: region
 aliases:
 ---
-# Title
+# The Deserts of Tetrimoc
 #### A sub-region of [[Southwestern Central]]
 ## Boundaries
 ## Contents
@@ -11,8 +11,8 @@ aliases:
 - Y10. [[Kickoff]]
 - AA5. Pit of Horror-kin
 - AC8. Aphetto Runestone
-- AE8. Skyknight Training Fields
-- AE11. Slumbering Cyclops
+- AE8. Wyvern Stables
+- AE11. Cyclops' Cave
 
 
 ## Tables
