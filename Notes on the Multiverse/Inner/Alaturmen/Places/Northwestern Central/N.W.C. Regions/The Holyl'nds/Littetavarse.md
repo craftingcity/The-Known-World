@@ -12,6 +12,8 @@ aliases:
 	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in elven - both ancient and modern.
 - A3. Watch Cave
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
+- A4. Iron Cave
+	- A natural cave has small veins of iron throughout.
 - C5. Bonesheet
 	- A sheet of petrified bone is covered in ash. On it's face a complex circular rune is embossed from this sheet in a deep red transparent substance. When a life is taken in the center of this rune, the petrified bone inside of the rune becomes insubstantial for an hour. The space below this circular section of the Bonesheet has been hollowed.
 	- **Treasure.** In the hollowed space behind the Bonesheet, an adventurer has hidden their horde. The contents include:
