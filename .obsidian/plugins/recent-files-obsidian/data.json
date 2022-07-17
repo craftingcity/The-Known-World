@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Deakred Range",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    },
+    {
       "basename": "Littetavarse",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Littetavarse.md"
+    },
+    {
+      "basename": "Whitimore's Last Hold",
+      "path": "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
     },
     {
       "basename": "The Deserts of Tetrimoc",
@@ -27,10 +39,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
     },
     {
       "basename": "Region",
@@ -63,10 +71,6 @@
     {
       "basename": "Central Third",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Central Third.md"
-    },
-    {
-      "basename": "Deakred Range",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
     },
     {
       "basename": "Northern Quillbuck Jungle",
@@ -195,10 +199,6 @@
     {
       "basename": "Demon Lords",
       "path": "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
-    },
-    {
-      "basename": "Millyr",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Smaller than a city/Millyr.md"
     }
   ],
   "omittedPaths": [],

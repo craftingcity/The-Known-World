@@ -11,6 +11,10 @@ The Deakred Range extends from the center point of [[Central Alaturmen]] to it's
 ### Flora
 ### Scenarios
 - S15. Den of the [[Arstovich]]
+- U14. Lake of Eternal Life
+	- This large lake is supposed to have magical powers that grant eternal life, though this is clearly not the case - the lake is completely mundane.
+
+
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
