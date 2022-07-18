@@ -60,12 +60,12 @@ Some of the best alcohols known to Alaturmen come from the Combine's distillerie
 As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
-Ownership of domain in the Combine is reserved for those who can back their claim by power. One resides on the domain of one's Baron, who takes one day of the month from each individual, and one day of the week from each business. This is nearly universal between individual Barons, a measure of uniformity to this anarchic place.
+Ownership of domain in the Combine is reserved for those who can back their claim by power. One resides on the domain of one's Baron, who one swears a fealty to for as long as they may reside in their domain - at least, they say they do.
 
 Most land is very wet and fertile in Combine, and can support much plant growth if properly cultivated.
 
 ### Overhead
-A Baron will tax an individual one 
+A Baron will tax one day of the month from each individual, and one day of the week from each business. This is nearly universal between individual Barons, a measure of uniformity to this anarchic place.
 
 Many citizens of Combine are quite strong, and their labor is highly valued in farms and transportation companies. Many people hire Goliath or Bugbear to do the labor that a typical work animal would perform.
 
