@@ -21,7 +21,7 @@ Fish is the most common meat in the combine. Crab, Shellfish, and Turtle are unc
 Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese. Some very power people husband cattle as well, but this is a difficult and expensive task here.
 
 #### Dairy
-Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
+Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or almond - are available, Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
 
 #### Grain
 Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety in luxury.
@@ -75,20 +75,22 @@ All of the buildings in this area are reinforced against water damage and many a
 How do people make ends meet? How do people value their luxuries?
 
 ### Middlemen
-What does trade look like around here? What about guilds? Markets?
-
 Many merchant companies rely on their ability to be mobile, following the demand of their supply as the needs and politics of the Baronies change. These bands often perform trade during travel, but gather in larger markets alongside more permanent stalls or stores. 
 
-The [[Guilds of Coalition]] are powerful in the Combine. One may imagine that the turmoil of this anarchic place would lead these secret-based job securities to become exposed, spread, and devalued, and yet this is not the case. The ability to keep secrets is a prized skill 
+The [[Guilds of Coalition]] are powerful in the Combine. One may imagine that the turmoil of this anarchic place would lead these secret-based job securities to become exposed, spread, and devalued, and yet this is not the case. Agents of the Guilds of Merchants and Adventurers create a kind of network of power below their Barons, and use their power to keep the interests of the [[Guilds of Coalition]] strong in Combine.
 
 ### Craftsmen
-How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
+The [[Guild of Crafters]] relies heavily on this underlying network to maintain their secrets and value, although their power declines quickly in correlation to the density of population. Few specialists find work outside of cities.
 
 ### Textiles
-What sort of fabrics / leathers are available and acceptable? What about dyes?
+The Peoples of Combine wear leathers or linens. Furs are much too warm, and hempen clothing is considered socially unacceptable, even for the poorest citizens. The people of means have taken to wearing armor of near-comfortably plated chitin or scales below their public facing garb.
+
+The fruits and bugs of the region make most colors of dye accessible to people in this region, and the availability of pure-alpha dye from the west leads to almost every dye being possible, if not accessible.
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+
+Meat is typically smoked or dried into pemmican. Cheese is a preserved delicacy here. Fruits are often dried on their own, or into pemmican, or preserved into a jelly, jam, or spirit.
 
 ### Containers
 Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers.

@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
     },
     {
+      "basename": "Economics of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
+    },
+    {
       "basename": "Reugb Marshes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Grumbling Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Grumbling Hills.md"
     }
   ],
   "omittedPaths": [],
