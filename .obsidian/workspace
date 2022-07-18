@@ -21,7 +21,7 @@
               "leaf": "cb4ff35d7f2e01c3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":0},\"to\":{\"line\":92,\"ch\":0}},\"scroll\":83.96320424607045}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":35},\"to\":{\"line\":67,\"ch\":35}},\"scroll\":69.0461196833635}"
             },
             {
               "leaf": "cb4ff35d7f2e01c3",
@@ -44,7 +44,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
             "mode": "source",
             "source": true
           }
@@ -55,8 +55,14 @@
             {
               "leaf": "f535b2199a67e1ee",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":87.56913591311725}"
+            },
+            {
+              "leaf": "f535b2199a67e1ee",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.015625}"
+              "eState": "{\"scroll\":99.887206820942}"
             },
             {
               "leaf": "f535b2199a67e1ee",
@@ -108,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,12 +128,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -210,7 +215,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f535b2199a67e1ee",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
