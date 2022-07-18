@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Elven Specifics",
+      "path": "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md"
+    },
+    {
       "basename": "Deakred Range",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
     },
@@ -125,10 +133,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Southwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Great Quillbuck Jungle",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md"
     }
   ],
   "omittedPaths": [],
