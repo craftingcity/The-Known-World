@@ -70,7 +70,7 @@ Prosper is positioned in the second best position for trade, lagging only slight
 Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. The people of would like things to stay the way they are instead of paying seemingly unnecessary fees for "transportation" or false "luxury".
 
 ### Craftsmen
-The Guilds of Coalition City have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the value of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
+The [[Guilds of Coalition]] have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the value of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.
 
 The Guild's representatives look for peers of the caliber required and bring them into the fold. The knowledge for the technology required to build certain objects such as specialized rods or legs have been hidden by the Guild to maintain control. While its theoretically possible that one could build such a thing themselves, the Guild's reach of resources and power also allows them to control how this technology spreads.
 

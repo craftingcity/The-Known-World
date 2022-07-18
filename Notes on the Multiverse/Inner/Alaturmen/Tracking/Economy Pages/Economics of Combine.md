@@ -21,7 +21,7 @@ Fish is the most common meat in the combine. Crab, Shellfish, and Turtle are unc
 Folks husband Goats and Pig in the wetlands of Combines, as well fowl such as Ducks and Geese. Some very power people husband cattle as well, but this is a difficult and expensive task here.
 
 #### Dairy
-Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or almond - are available Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
+Goats are prized possessions for the families of Combine, and the same is true of Cattle and the lords. While both true dairies and alternatives - such as walnut or almond - are available, Cow's milk is most desired, and alternatives to Goat are less desirable and expensive.
 
 #### Grain
 Rice is *the* grain of the Combines. No other grain is really desired or grown here, except perhaps for the sake of variety in luxury.
@@ -60,12 +60,12 @@ Some of the best alcohols known to Alaturmen come from the Combine's distillerie
 As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
-Ownership of a domain in the Combine is reserved for those who can back their claim by power. One resides on the domain of one's Baron, who takes one day of the month from each individual, and one day of the week from each business. This is nearly universal between individual Barons, a measure of uniformity to this anarchic place.
+Ownership of domain in the Combine is reserved for those who can back their claim by power. One resides on the domain of one's Baron, who one swears a fealty to for as long as they may reside in their domain - at least, they say they do.
 
 Most land is very wet and fertile in Combine, and can support much plant growth if properly cultivated.
 
 ### Overhead
-The citizens of Combine pay extreme taxes to their Current Baron. Many tax collectors attempt to take one of three under order of the Baron, but established Barons collect thinner fees, one of five or six. 
+A Baron will tax one day of the month from each individual, and one day of the week from each business. This is nearly universal between individual Barons, a measure of uniformity to this anarchic place.
 
 Many citizens of Combine are quite strong, and their labor is highly valued in farms and transportation companies. Many people hire Goliath or Bugbear to do the labor that a typical work animal would perform.
 
@@ -79,27 +79,41 @@ A Baron is rarely without work, and often without help. When necessary, one coul
 The Peoples of Combine value metal above nearly all else. It is a near-rarity here, due to high demand and low supply. Good meat and milk make wonderful dishes, but a fine sword gets me and mine to next week.
 
 ### Middlemen
-What does trade look like around here? What about guilds? Markets?
+Many merchant companies rely on their ability to be mobile, following the demand of their supply as the needs and politics of the Baronies change. These bands often perform trade during travel, but gather in larger markets alongside more permanent stalls or stores. 
+
+The [[Guilds of Coalition]] are powerful in the Combine. One may imagine that the turmoil of this anarchic place would lead these secret-based job securities to become exposed, spread, and devalued, and yet this is not the case. Agents of the Guilds of Merchants and Adventurers create a kind of network of power below their Barons, and use their power to keep the interests of the [[Guilds of Coalition]] strong in Combine.
 
 ### Craftsmen
-How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
+The [[Guild of Crafters]] relies heavily on this underlying network to maintain their secrets and value, although their power declines quickly in correlation to the density of population. Few specialists find work outside of cities.
 
 ### Textiles
-What sort of fabrics / leathers are available and acceptable? What about dyes?
+The Peoples of Combine wear leathers or linens. Furs are much too warm, and hempen clothing is considered socially unacceptable, even for the poorest citizens. The people of means have taken to wearing armor of near-comfortably plated chitin or scales below their public facing garb.
+
+The fruits and bugs of the region make most colors of dye accessible to people in this region, and the availability of pure-alpha dye from the west leads to almost every dye being possible, if not accessible.
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
+Meat is typically smoked or dried into pemmican. Cheese is a preserved delicacy here. Fruits are often dried on their own, or into pemmican, or preserved into a jelly, jam, or spirit. Vegetables are typically preserved in fruit vinegars, and while these flavors are quite vibrant and novel, they are not typically considered "tasty".
+
 ### Containers
-Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers.
+Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. Dark glasses are the most preferable container for liquids – clear glass is a sign of wealth or companionship – or ceramics, if glass is inaccessible or an improper material.
+
+The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers.
 
 ### Mining
-Copper and Tin can be mined in some large amounts in the area of the Combine, but what little other metal ores are present require specialized processing to separate from "nature", such as bog iron and by-product gold. This leads to little interest in purely-Combine produced weaponry, as imported metals are typically considered superior.
+Copper and Tin can be mined in some large amounts in the area of the Combine, but what little other metal ores are present require specialized processing to separate from "nature", such as bog iron and by-product gold. 
+
+There is little interest in purely-Combine produced metals, as imports are typically considered superior, as well as being usually very nearly equal in price.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
+This area has an unnatural fertility, plants grow very fruitfully here even when improperly tended. Some larger villages and most cities have access to waterways that power all the automation that the people can build, including mills, plumbing, and in rare cases even forms of public transportation. Often smaller villages or large villages without a waterway rely on large wind turbines for their mills and do not have those above benefits.
+
 ### Other Notes
+- 
+- 
 #### Specifics regarding Certain Baronies
 - 
 - 
