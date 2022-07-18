@@ -77,6 +77,10 @@ How do people make ends meet? How do people value their luxuries?
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
+Many merchant companies rely on their ability to be mobile, following the demand of their supply as the needs and politics of the Baronies change. These bands often perform trade during travel, but gather in larger markets alongside more permanent stalls or stores. 
+
+The [[Guilds of Coalition]] are powerful in the Combine. One may imagine that the turmoil of this anarchic place would lead these secret-based job securities to become exposed, spread, and devalued, and yet this is not the case. The ability to keep secrets is a prized skill 
+
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
