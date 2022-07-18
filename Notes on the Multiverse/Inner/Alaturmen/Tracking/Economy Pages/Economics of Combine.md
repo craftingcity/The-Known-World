@@ -60,9 +60,9 @@ Some of the best alcohols known to Alaturmen come from the Combine's distillerie
 As with all Alaturmen, the brothels here are under the protection of the [[Guild of Merchants#Yáramólë]].
 
 ### Land
-In a very similar manner to their neighbors in the North, citizens of Combine pay their local lord, who fights others for their lands and goods. When citizens purchase land from a lord, they become lords of that land, which lends itself quite well to rents and leases for those that would rather not play the game. When a contract of that nature is signed, it is with the Current and All Future Barons. This is respected, assuming that Future Baron doesn't want their citizens to buy them out, leave, or revolt.
+Ownership of a domain in the Combine is reserved for those who can back their claim by power. One resides on the domain of one's Baron, who takes one day of the month from each individual, and one day of the week from each business. This is nearly universal between individual Barons, a measure of uniformity to this anarchic place.
 
-Most land is very wet and fertile in Combine.
+Most land is very wet and fertile in Combine, and can support much plant growth if properly cultivated.
 
 ### Overhead
 The citizens of Combine pay extreme taxes to their Current Baron. Many tax collectors attempt to take one of three under order of the Baron, but established Barons collect thinner fees, one of five or six. 
@@ -87,10 +87,10 @@ What sort of fabrics / leathers are available and acceptable? What about dyes?
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
 ### Containers
-What do people put stuff in? Do we show it or is it hidden? Can they be reused?
+Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers.
 
 ### Mining
-What can be mined? How elaborate are the setups?
+Copper and Tin can be mined in some large amounts in the area of the Combine, but what little other metal ores are present require specialized processing to separate from "nature", such as bog iron and by-product gold. This leads to little interest in purely-Combine produced weaponry, as imported metals are typically considered superior.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
