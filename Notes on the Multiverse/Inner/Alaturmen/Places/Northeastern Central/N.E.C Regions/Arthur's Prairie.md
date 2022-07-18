@@ -16,8 +16,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- Maddening Red Fog stalks the edges of the [[Illburn Forest]].
 - G20. Cenvan Lookouts
 	- Winter elves watch across the river.
-- I23. Seelie Dawnfluke
-	- A dawn-pixie lives here.
+- I23. Dawnfluke Cabins
+	- A tribe of dawnfluke live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 - K22. Old Stickfinger's Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, and flys and maggots surround the rotting meat.
 - L29. Unseelie Mush-pit
