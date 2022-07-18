@@ -50,7 +50,7 @@ Olive and Almond oils are imported from the West bank of the [[Alavini River]] f
 Poorer oils such as Heart-nut are imported from the north, but the common folk have little choice but goat butter or lard for their oil.
 
 #### Delicacy
-Sweet rice cake are a wonderful treat, but the best dish a middle class family could ask for is sweet-and-sour beef with vegetable noodle and rice.
+Sweet rice cake are a wonderful treat, but the best dish an upper-middle class family could ask for is sweet-and-sour beef with vegetable, noodle, and rice.
 
 Nobles import white flour for some pastries and other fine dishes, but these are reserved for occasion to all but the richest of citizens.
 
@@ -73,6 +73,10 @@ All of the buildings in this area are reinforced against water damage and many a
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
+
+A Baron is rarely without work, and often without help. When necessary, one could reach an agreement with a Baron for extended lodging, feeding, or otherwise, in exchange for some service provided during this time. While this is not favorable, it is common, especially for those who have no "true" home, and dwell in-between lands.
+
+The Peoples of Combine value metal above nearly all else. It is a near-rarity here, due to high demand and low supply. Good meat and milk make wonderful dishes, but a fine sword gets me and mine to next week.
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
