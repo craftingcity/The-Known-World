@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "864cc02827aa6cd9",
+        "id": "10a47383746e8409",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -14,13 +14,7 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "864cc02827aa6cd9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breaking Ian's Shitty little document.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "864cc02827aa6cd9",
+              "leaf": "10a47383746e8409",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -87,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -167,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a09bf3a4e0bad9d",
+  "active": "10a47383746e8409",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "A Grand Notepad.md",
-    "Project Board.md",
-    "Breaking Ian's Shitty little document.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Sinazel Ambonas.md",
-    "README.md",
-    "Notes on the Multiverse/Big Lore/Heritages/Elven Specifics.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Cobalt's Cacti Field.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/South Dunes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Barthalamule's Shrubland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/White Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md"
   ]
 }
