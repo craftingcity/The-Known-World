@@ -17,7 +17,7 @@ First Mouth of the [[Knights in Red]].
 
 Second Hand of [[Baron Filip]].
 
-One of the greatest war-bards of our name.
+One of the greatest war-bards of our time.
 
 ## Location
 

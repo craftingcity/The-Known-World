@@ -33,7 +33,6 @@ aliases:
 			- [[Grovetenders]]
 			- [[Hillkeep Loyalists]]
 			- **[[Knights in Red]]**
-				- [[Srioh]]
 				- [[Symbolism of the KiR]]
 			- [[Mossburg Corporation]]
 			- [[Mossburg Enforcers]]
