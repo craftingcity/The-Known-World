@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Economics of Tetrimoc's Desert",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+    },
+    {
       "basename": "The Holyl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Southwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "Economics of Combine",
@@ -195,10 +199,6 @@
     {
       "basename": "Gabrin Shrublands",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md"
     }
   ],
   "omittedPaths": [],

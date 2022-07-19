@@ -16,6 +16,22 @@ AMMS - WE3 says small towns and up are 5+ miles apart, small cities and up are 2
 ### Hexes in need of a re-touch
 - hexes incomplete
 
+#### Methods of Organization;
+x | Econ | Exec | Jude | Legi
+--- | --- | --- | --- | ---
+Prosper | [[Economics of Prosper]] |  |  | 
+Church | [[Economics of The Holyl'nds]]  |  |  | 
+Tetrimoc | [[Economics of Tetrimoc's Desert]] |  |  | 
+Combine | [[Economics of Combine]] |  |  | 
+Blood-clan | [[Economics of the Hobgoblin Territories]] |  |  | 
+Actstow | [[Economics of Actstow]] |  |  | 
+Cenva | [[Economics of Cenva Minyo]] |  |  | 
+Mountain Hall | [[Economics of Mountain Hall]] |  |  | 
+Thieves | [[Economics of Tetrimoc's Desert]] |  |  | 
+Nomads | [[Economics of Tetrimoc's Desert]] |  |  | 
+
+
+
 #### Stealing
 x | x
 --- | ---

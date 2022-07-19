@@ -7,12 +7,22 @@
         "id": "10a47383746e8409",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A Grand Notepad.md",
+            "mode": "source",
+            "source": true
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "10a47383746e8409",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":37},\"to\":{\"line\":21,\"ch\":37}}}"
+            },
             {
               "leaf": "10a47383746e8409",
               "group": null,
@@ -81,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -97,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A Grand Notepad.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -162,6 +177,8 @@
   },
   "active": "10a47383746e8409",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Cobalt's Cacti Field.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/South Dunes.md",
@@ -169,8 +186,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Barthalamule's Shrubland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/White Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Mountain Hall/Mountain Hall.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
   ]
 }
