@@ -19,7 +19,7 @@ Each of the Clans is ruled by one Hobgoblin, the Mangugu, who answers to up to t
 Six family names reside on the [[Blood-Hobgoblin Clan Pact]];
 
 #### [[Simonson Clan]]
-A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Amelia Simonson|last matron]] rules [[The Kingdom of Prosper]], and this clan has become all but defunct .
+A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Amelia Simonson|last matron]] rules [[The Kingdom of Prosper]], and this clan has become all but defunct in the politics of the "true" Blood-Clans.
 
 #### Wakquk Clan
 The [[Wakquk Twins]] have split their mother's claim into two; the [[Hurraquk Clan]] and the [[Garqwak Clan]]. Many consider this to be a petty disagreement between siblings gone too far - though those without their rule are happy to see disruption in their structures of power. 
@@ -34,7 +34,7 @@ A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make 
 A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of Goblin to eachother. Few high-caste members of this clan speak a common language (usually [[King's Common (language)]]) for the purposes of facilitating trade and festivity.
 
 #### [[Wheernat Clan]]
-A socialist clan of pseudo-nomadic hunter-gatherers. 
+A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat clan are taught to move with swiftness and grace, as well as to maintain a focus on your immediate community before the community of the others. It is a rarity to meet with a member of the clan who does not wish to be speaking with you, specifically. 
 
 ## Culture
 #### Heritage
