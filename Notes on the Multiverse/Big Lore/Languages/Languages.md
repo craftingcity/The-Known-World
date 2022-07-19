@@ -8,19 +8,20 @@ aliases:
 - **[[Languages]]**
 	- **Ancestral Languages**
 		- **Age of Beginning**
+			- [[Ancient Elvish (language)]]
 			- [[Ancient Human (language)]]
 		- **Time Before Time**
 			- [[Abyssal (language)]]
+			- [[Aquarian (language)]]
 			- [[Celestial (language)]]
 			- [[Draconic (language)]]
+			- [[Dwarven (language)]]
 			- [[Infernal (language)]]
 			- [[Mechanis(language)]]
 			- [[Primordial (language)]]
 			- [[Sylvan (language)]]
 	- **Modern Languages**
-		- [[Aquarian (language)]]
 		- [[Desertspeech (language)]]
-		- [[Dwarven (language)]]
 		- [[Goblin (language)]]
 		- [[High Common (language)]]
 		- [[King's Common (language)]]

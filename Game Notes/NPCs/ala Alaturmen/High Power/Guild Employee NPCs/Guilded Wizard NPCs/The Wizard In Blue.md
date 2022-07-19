@@ -8,7 +8,8 @@ aliases: that wizard in the blue cloak
 
 > An old human man is sitting at the table of a bar. He has a beautiful navy-blue robe, hooded, but not atop his wild grey hair.
 
-The Wizard In Blue appears when they are needed. They hold a unimaginable wealth of knowledge. 
+The Wizard In Blue appears when they are needed. They hold a unimaginable wealth of knowledge. They are on the [[Guild of Wizards#Council of Mages]]
+as the Blue Mage. It is their responsibility to monitor the use of magic throughout Alaturmen.
 
 ## History
 The Wizard in Blue has always been around, some #goblinoid tales even describe him as a legend.

@@ -10,7 +10,7 @@ aliases:
 
 > A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.
 
-The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy. Seat on the Guild of Mages, titled the Purple Mage.
+The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy. Seat on the Guild of Mages, titled the Purple Mage. It is her responsibility to deepen the knowledge of magic within the guild.
 
 People who know her as the most powerful mage and arcanist they have ever met, including her peers, though they may not be speaking their truth to that rumor. In addition to this, they would describe her as hard working, and tough to work with.
 

@@ -6,7 +6,6 @@ aliases:
 # Big Lore
 %% Begin Waypoint %%
 - **[[Big Lore]]**
-	- **[[Heritages]]**
 	- **[[Languages]]**
 	- [[Timeline]]
 
