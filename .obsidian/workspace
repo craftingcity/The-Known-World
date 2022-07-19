@@ -16,6 +16,12 @@
             {
               "leaf": "864cc02827aa6cd9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breaking Ian's Shitty little document.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "864cc02827aa6cd9",
+              "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
@@ -161,12 +167,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "864cc02827aa6cd9",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "A Grand Notepad.md",
     "Project Board.md",
-    "Untitled.md",
+    "Breaking Ian's Shitty little document.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md",
