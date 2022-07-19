@@ -19,9 +19,10 @@ AMMS - WE3 says small towns and up are 5+ miles apart, small cities and up are 2
 #### Methods of Organization;
 x | Econ | Exec | Jude | Legi
 --- | --- | --- | --- | ---
-Prosper | [[Economics of Prosper]] |  |  | 
-Church | [[Economics of The Holyl'nds]]  |  |  | 
-Tetrimoc | [[Economics of Tetrimoc's Desert]] |  |  | 
+Coalition | [[Economics of Coalition City]] | [[Guilds of Coalition]] | [[Guilds of Coalition]] | [[Communicaes]] as Civil Code
+Prosper | [[Economics of Prosper]] | [[Arthur's Knights]] | [[Prosperous Truth-bearers]] | [[Nobles of Prosper]] as Civil Code
+Church | [[Economics of The Holyl'nds]] | [[The Church of the White Flame#Castes]] | [[The Church of the White Flame#Castes]] | [[The Church of the White Flame#Castes]] as Canonical Code 
+Tetrimoc | [[Economics of Tetrimoc's Desert]] | [[Golden Claws]] | [[Golden Claws]] | [[Golden Claws#The Council of Eight]]
 Combine | [[Economics of Combine]] |  |  | 
 Blood-clan | [[Economics of the Hobgoblin Territories]] |  |  | 
 Actstow | [[Economics of Actstow]] |  |  | 

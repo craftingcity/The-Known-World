@@ -5,6 +5,18 @@
       "path": "A Grand Notepad.md"
     },
     {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
       "basename": "Economics of Tetrimoc's Desert",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Southern Quillbuck Jungle",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Illburn Forest",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Illburn Forest.md"
-    },
-    {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Gabrin Shrublands.md"
     }
   ],
   "omittedPaths": [],
