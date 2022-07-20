@@ -4,31 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "a179f6c85adb9c77",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "a179f6c85adb9c77",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
-              "eState": "{}"
+        "id": "32f0b60ac729db17",
+        "type": "split",
+        "children": [
+          {
+            "id": "f12759a7b4ff6557",
+            "type": "leaf",
+            "dimension": 66.07538802660754,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+              }
             },
-            {
-              "leaf": "a179f6c85adb9c77",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f12759a7b4ff6557",
+                  "group": null,
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
+          },
+          {
+            "id": "88c8c83c05266b12",
+            "type": "leaf",
+            "dimension": 33.92461197339246,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faction Turn.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "88c8c83c05266b12",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88c8c83c05266b12",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,11 +86,18 @@
             }
           },
           {
-            "id": "2dcd6b1d0d15f119",
+            "id": "471fab77001b02ee",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -66,18 +105,11 @@
             }
           },
           {
-            "id": "471fab77001b02ee",
+            "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "five pike",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "file-explorer",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -173,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a179f6c85adb9c77",
+  "active": "f12759a7b4ff6557",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Faction Turn.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Reugb Marshes.md",
-    "Game Notes/NPCs/ala Alaturmen/on Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
-    "Lord's Folly.md",
-    "ORGANIZATION/TEMPLATES/Region.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
   ]
 }
