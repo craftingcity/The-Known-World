@@ -13,12 +13,28 @@ See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
 		- 6x Envoy / -120g
 	- Hardwork (0): 1d4=2 power lost > 3d4=10 guilders gained
 	- Communicate:
-		- Send envoy to Prosper
-		- Send envoy to Church
-		- Send envoy to Claws
-		- Send envoy to Hillkeep
-		- Send envoy to Mossburg
+		- Send envoy to Prosper (GRE)
+		- Send envoy to Church (GRE)
+		- Send envoy to Claws (MID)
+		- Send envoy to Hillkeep (GRE)
+		- Send envoy to Mossburg (GRE)
+		- Send envoy to Knights in Red (MID)
+- Kingdom of Prosper
+	- Purchases:
+		- 3x Alarm Devices / -180g
+		- Improved DV (heavy) / -120g
+		- Improved RD (masterful) / -100g
+		- Strikeforce (masterful) / -80g
+		- Improved WD (Masterful) / -90g
+		- 6x Envoy / -120g
+	- Hardwork (0): 1d6=4 > 3d6=11 guilders gained
+	- Communication:
+		- Send envoy to Emorin
+		- Send envoy to Wheernat
+		- Send envoy to Five Pike
 		- Send envoy to Knights in Red
+		- 
+		- Send envoy to Claws
 ## Full & Bonus Actions / Main
 ## Reactions / Post-Main
 ## Results / Cleanup
