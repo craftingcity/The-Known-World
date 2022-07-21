@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Loadouts.md",
+            "file": "Faction Loadouts.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,8 @@
             {
               "leaf": "e4fae54729f56edc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loadouts.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":18},\"to\":{\"line\":8,\"ch\":18}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Loadouts.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "e4fae54729f56edc",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loadouts.md",
+                "file": "Faction Loadouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loadouts.md",
+                "file": "Faction Loadouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loadouts.md"
+                "file": "Faction Loadouts.md"
               }
             },
             "pane-relief:history-v1": {
@@ -220,7 +220,7 @@
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Loadouts.md",
+    "Faction Loadouts.md",
     "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
