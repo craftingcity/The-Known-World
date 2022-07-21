@@ -46,6 +46,10 @@ Purchases:
 	- 5x Envoy / -100g
 Hardwork (0): 1d4=2 > 3d4=9
 Communication:
+	- Send envoy to Mossburg Enforcers
+	- Send envoy to Emorin
+	- Send envoy to Suremantle
+	- Send envoy to Lost Wanderers
 
 ## Full & Bonus Actions / Main
 ## Reactions / Post-Main
