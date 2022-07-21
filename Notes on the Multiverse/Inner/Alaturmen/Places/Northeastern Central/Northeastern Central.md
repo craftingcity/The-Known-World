@@ -18,13 +18,17 @@ aliases:
 		- [[Gumlpin]]
 		- [[Illburn Forest]]
 	- **Smaller than a city**
-		- [[Giant's Toe]]
-		- [[Moonlight]]
+		- [[Dhug Kahldur]]
+		- [[Geghloch]]
+		- [[Hameer]]
+		- [[Helvuagh]]
+		- [[Khoghull]]
 	- **Smaller than a feature**
 		- [[Castle Prosper]]
 		- [[Gambleum]]
 		- [[Janesland]]
 		- [[Magius]]
+		- [[Moonlight]]
 		- [[Yerba]]
 	- **Smaller than a village**
 		- [[Archmage Barrowinch's Tower]]

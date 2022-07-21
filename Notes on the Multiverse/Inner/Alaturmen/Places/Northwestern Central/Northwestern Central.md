@@ -23,6 +23,7 @@ aliases:
 			- [[Sinazel Ambonas]]
 			- [[South Littemotto]]
 	- **Smaller than a city**
+		- [[Giant's Toe]]
 	- **Smaller than a feature**
 		- [[Baskin]]
 		- [[Kohnstamm]]
