@@ -48,7 +48,7 @@
                   "leaf": "88c8c83c05266b12",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "leaf": "88c8c83c05266b12",
