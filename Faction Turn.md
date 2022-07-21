@@ -39,7 +39,6 @@ Communication:
 ### Church of the White Flame
 Purchases:
 	- 3x Alarm Devices / -180g
-	- Defense Focus / -40g
 	- Improved DV (light) / -40g
 	- Improved WD (master) / -90g
 	- Strikeforce (master) / -80g
