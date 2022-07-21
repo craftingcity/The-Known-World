@@ -13,6 +13,8 @@ Bag-head bandits.
 
 AMMS - WE3 says small towns and up are 5+ miles apart, small cities and up are 20+ miles apart. Want population density of urban regions and rural regions, again, AMMS claims 8% is average, and above is wealthy and good traders. Sounds like Alaturmen to me. 
 
+Loadout pages / entries?
+
 ### Hexes in need of a re-touch
 - hexes incomplete
 
