@@ -50,6 +50,7 @@ Communication:
 	- Send envoy to Emorin
 	- Send envoy to Suremantle
 	- Send envoy to Lost Wanderers
+	- Send envoy to Actstow
 
 ## Full & Bonus Actions / Main
 ## Reactions / Post-Main

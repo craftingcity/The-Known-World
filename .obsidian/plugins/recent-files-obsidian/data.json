@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
+      "basename": "Loadouts",
+      "path": "Loadouts.md"
+    },
+    {
+      "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
+      "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
     },
     {
       "basename": "Faction Turn",
       "path": "Faction Turn.md"
     },
     {
-      "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
-      "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
     },
     {
       "basename": "Blood Clans",
@@ -195,10 +199,6 @@
     {
       "basename": "The Holyl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
-      "basename": "Cobalt's Cacti Field",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
     }
   ],
   "omittedPaths": [],

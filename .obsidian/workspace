@@ -4,87 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "32f0b60ac729db17",
-        "type": "split",
-        "children": [
-          {
-            "id": "f12759a7b4ff6557",
-            "type": "leaf",
-            "dimension": 66.07538802660754,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "f12759a7b4ff6557",
-                  "group": null,
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "88c8c83c05266b12",
-            "type": "leaf",
-            "dimension": 16.96230598669623,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faction Turn.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "88c8c83c05266b12",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"scroll\":36.86}"
-                },
-                {
-                  "leaf": "88c8c83c05266b12",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "b8ca05ff5cf3b1a8",
-            "type": "leaf",
-            "dimension": 16.96230598669623,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "b8ca05ff5cf3b1a8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            }
+        "id": "e4fae54729f56edc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Loadouts.md",
+            "mode": "source",
+            "source": true
           }
-        ],
-        "direction": "horizontal"
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e4fae54729f56edc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Loadouts.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e4fae54729f56edc",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -162,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Loadouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Loadouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Loadouts.md"
               }
             },
             "pane-relief:history-v1": {
@@ -229,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8ca05ff5cf3b1a8",
+  "active": "e4fae54729f56edc",
   "lastOpenFiles": [
-    "Faction Turn.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
+    "Faction Turn.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
   ]
 }
