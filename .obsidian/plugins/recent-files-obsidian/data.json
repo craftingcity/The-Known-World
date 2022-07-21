@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Faction Loadouts",
       "path": "Faction Loadouts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Golden Claws",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "Economics of Tetrimoc's Desert",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
     }
   ],
   "omittedPaths": [],
