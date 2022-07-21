@@ -18,7 +18,7 @@ In [[Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that
 Related articles include [[Arthur's Journal]] and [[Unification]].
 
 ## Governance
-The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army, known as Arthur's Knights. Arthur's Knights work with the [[Nobles of Prosper]] to defend their estates and the borders of the greater Kingdom.
+The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], and enforced by his standing army, known as [[Arthur's Knights]]. Arthur's Knights work with the [[Nobles of Prosper]] to defend their estates and the borders of the greater Kingdom.
 
 The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur hires a guild of accountants that work together with the [[Guild of Merchants]], [[Guild of Crafters]], and [[Nobles of Prosper]] to budget food, water, medicine, coin, and other supplies and works for the whole of the kingdom.
 

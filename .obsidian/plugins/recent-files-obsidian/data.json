@@ -5,6 +5,22 @@
       "path": "Loadouts.md"
     },
     {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "KingdomOfProsper-105AF",
+      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+    },
+    {
+      "basename": "Blood-Hobgoblin Clan Pact",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md"
+    },
+    {
       "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
       "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Barons of Combine NPCs",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md"
-    },
-    {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
       "basename": "Dwarven Kingdom Jammu",
@@ -109,10 +121,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md"
     },
     {
-      "basename": "Blood-Hobgoblin Clan Pact",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md"
-    },
-    {
       "basename": "Wakquk Twins",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md"
     },
@@ -189,16 +197,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
     {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
       "basename": "Economics of Tetrimoc's Desert",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],

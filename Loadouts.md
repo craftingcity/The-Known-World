@@ -1,57 +1,80 @@
-Guilds of Coalition
+# Guilds of Coalition
 
-Kingdom of Prosper
+# Kingdom of Prosper
+## Legal
+- Common Militia
+- Trained Guard
+- Private Militia
+- Noble Guard
+- Arthur's Knights
+- Arthur's Knights, a'Haruuc
+- King's Alman
 
-Church of the White Flame
+## Illegal
+- Common Bandit
+- Common Burglar
+- Underground Wrestler
+- Illegal Mage
+- Street Duelist
 
-Golden Claws
+# Church of the White Flame
+- Spoken Caster
+- Spoken Spell-blade
+- Spoken Bruiser
+- Firstchuch Caster
+- Tendered Healer
+- Tendered Captain
+- Patron Guard
+- Patron Militia
 
-Knights in Red
+# Golden Claws
 
-Dampguard
+# Knights in Red
 
-Riphounds
+# Dampguard
 
-Slimknives
+# Riphounds
 
-Harvord Trading Co.
+# Slimknives
 
-Beasts Righteous
+# Harvord Trading Co.
 
-Grovetenders
+# Beasts Righteous
 
-Hillkeep Loyalists
+# Grovetenders
 
-Five Pike
+# Hillkeep Loyalists
 
-Mossburg Enforcers
+# Five Pike
 
-Hurraquk
+# Mossburg Enforcers
 
-Garqwak
+# Hurraquk
 
-Emorin
+# Garqwak
 
-Scrivin
+# Emorin
 
-Bulgpim
+# Scrivin
 
-Wheernat
+# Bulgpim
 
-Agrandica's Thieves
+# Wheernat
 
-Barthalamule's Thieves
+# Agrandica's Thieves
 
-Cobalt's Thieves
+# Barthalamule's Thieves
 
-Orcus Loyalists
+# Cobalt's Thieves
 
-Sanguine Feast
+# Orcus Loyalists
 
-Lost Wanderers
+# Sanguine Feast
 
-Actstow
+# Lost Wanderers
 
-Suremantle
+# Actstow
 
-Cenva Minyo
+# Suremantle
+
+# Cenva Minyo
