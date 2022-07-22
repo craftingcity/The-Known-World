@@ -1,3 +1,4 @@
+Declare New Goals?:
 Purchases:
 	- a
 	- b

@@ -1,7 +1,10 @@
 See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
-# Turn One - Winter 104
+# Turn One - Winter 104Faction Turn
 ## Free Actions / Upkeep
 ### Guilds of Coalition
+Declare New Goals:
+	Long Term: Peace
+	Short Term: Cooperative Value
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Defensive Focus / -40g
@@ -27,6 +30,8 @@ Ancient Wisdom: 1 point towards Guilds for Metallurgy
 Forbidden Lore: -
 
 ### Kingdom of Prosper
+Declare New Goals:
+	Long Term: 
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Improved DV (heavy) / -120g
@@ -307,9 +312,12 @@ Communication: -
 	Roll: 1d20+3d6 (3x Inspiring Speech)+20+6 (3 (prof) + 1 (atr) + 2 (bonus)) = 47
 **Bonus Action:** Crafting
 	Goal: Traps (47/50g)
-	Roll: 1d20+4 (3 (prof) + 1(atr))
+	Roll: 1d20+4 (3 (prof) + 1 (atr)) = 13
 
 ### Kingdom of Prosper
+**Full Action:** 
+**Bonus Action:**
+
 ### Church of the White Flame
 ### Golden Claws
 ### Knights in Red
@@ -341,4 +349,36 @@ Communication: -
 
 ## Reactions / Post-Main
 ## Results / Cleanup
+### Guilds of Coalition
+> The guilds have been hard at work preparing secure border-posts throughout Alaturmen, and with the assistance of others, their goal was quickly completed. The Ranger's Guild is standing tall, refortified after the largest breach of the Wildland Border that any on Alaturmen had seen.
+
+### Kingdom of Prosper
+### Church of the White Flame
+### Golden Claws
+### Knights in Red
+### Dampguard
+### Riphounds
+### Slimknives
+### Harvord Trading Co.
+### Beasts Righteous
+### Grovetenders
+### Hillkeep Loyalists
+### Five Pike
+### Mossburg Enforcers
+### Hurraquk
+### Garqwak
+### Emorin
+### Scrivin
+### Bulgpim
+### Wheernat
+### Agrandica's Thieves
+### Barthalamule's Thieves
+### Cobalt's Thieves
+### Orcus Loyalists
+### Sanguine Feast
+### Lost Wanderers
+### Actstow
+### Suremantle
+### Cenva Minyo
+
 ## Regeneration / End

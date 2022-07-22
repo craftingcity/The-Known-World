@@ -9,6 +9,14 @@
       "path": "MEDIA/SUPP/factionTurnEquipment.png"
     },
     {
+      "basename": "FT Full Bonus Main Phase",
+      "path": "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md"
+    },
+    {
+      "basename": "FT Free Actions",
+      "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
+    },
+    {
       "basename": "FT Faction List at H3",
       "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "alaturmen-100AF",
       "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
-    },
-    {
-      "basename": "FT Free Actions",
-      "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
     },
     {
       "basename": "Slimknives",
@@ -195,10 +199,6 @@
     {
       "basename": "Druids of Aquan",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
-    },
-    {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     }
   ],
   "omittedPaths": [],
