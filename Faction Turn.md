@@ -20,6 +20,7 @@ Communicate:
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
 Inspiring Speech: Prosper
+Ways of Wisdom: -
 
 ### Kingdom of Prosper
 Purchases:
@@ -38,6 +39,7 @@ Communication:
 	- Send envoy to Dampguard (GRE)
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Claws (PER)
+Inspiring Speech: Guilds
 ### Church of the White Flame
 Purchases:
 	- 3x Alarm Devices / -180g
@@ -53,6 +55,9 @@ Communication:
 	- Send envoy to Suremantle (GRE)
 	- Send envoy to Lost Wanderers (BAD)
 	- Send envoy to Actstow (GRE)
+Inspiring Speech: Guilds
+Healing Hands: - 
+Divine Assistance: -
 
 ### Golden Claws
 Purchases:
@@ -63,6 +68,8 @@ Purchases:
 	- Improved WD (strong) / -60g
 Hardwork (0): 1d6=4 power lost > 3d6=12 guilders gained
 Communication: -
+Way of Wisdom: ?
+Inspiring Speech: Guilds
 
 ### Knights In Red
 Purchases:
@@ -71,8 +78,19 @@ Purchases:
 	- Strikeforce (master) / -80g
 Hardwork (0): 1d8=8 power lost > 3d8=12 guilders gained
 Communication: -
+Inspiring Speech: ?
 
 ### Dampguard
+Purchases:
+	- Alarm Devices / -60g
+	- Defensive Focus / -40g
+	- Skill Equip (master, crime) / -60g
+	- Trade Goods (30g) / -30g
+	- 2x Envoy / -40g
+Hardwork (0): 1d4=1 power lost > 3d4=9 guilders gained
+Communication:
+	- Send envoy to Hillkeep Loyalists (GRE)
+	- Send envoy to Mossburg Enforcers (GRE)
 
 
 ## Full & Bonus Actions / Main
