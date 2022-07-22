@@ -254,10 +254,9 @@ Communication:
 
 ### Orcus Loyalists
 Purchases:
-	- a
-	- b
-	- c
-Hardwork (x): 1d4=4 power lost > 3d4=10 guilders gained
+	- Improved DV (heavy) / -120g
+	- 
+Hardwork (0): 1d4=4 power lost > 3d4=10 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
