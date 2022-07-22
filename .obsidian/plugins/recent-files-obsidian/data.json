@@ -5,6 +5,10 @@
       "path": "Faction Turn.md"
     },
     {
+      "basename": "FT Free Actions",
+      "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
+    },
+    {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Northstone Family Trading Company",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md"
-    },
-    {
-      "basename": "Srioh",
-      "path": "Game Notes/NPCs/ala Alaturmen/Weak Power/Combine Citizens/Srioh.md"
     }
   ],
   "omittedPaths": [],

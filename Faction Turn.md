@@ -155,12 +155,26 @@ Arcane Assistance: -
 
 ### Mossburg Enforcers
 Purchases:
-	- a
+	- Improved DV (heavy) / -120g
+	- Strikeforce (master) / -80g
+	- Trade Goods (15g) / -15g
+	- 3x Envoy / -60g
 Hardwork (0): 1d8=3 power lost > 3d8=15 guilders gained
-Comminucation:
-Inspiring Speech: 
+Communication:
+	- Send envoy to Five Pike (MID)
+	- Send envoy to Hillkeep Loyalists (MID)
+	- Send envoy to Dampguard (MIS)
+Inspiring Speech: Guilds
 
 ### Hurraquk
+Purchases:
+	- Improved DV (heavy) / -120g
+	- 
+Hardwork (0): 1d8=7 power lost > 3d8=12 guilders gained
+Communication:
+	- Good standing Envoys are required for fluid & cooperative communication operations
+Other Free Actions?:
+
 ### Garqwak
 ### Emorin
 ### Scrivin

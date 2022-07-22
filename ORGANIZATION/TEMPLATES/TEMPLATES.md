@@ -5,6 +5,7 @@
 	- [[Campaign Roster]]
 	- [[Disambiguation]]
 	- [[Economy]]
+	- [[FT Free Actions]]
 	- [[Group]]
 	- [[Holdings]]
 	- [[NPCs]]
