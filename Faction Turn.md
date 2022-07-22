@@ -169,14 +169,28 @@ Inspiring Speech: Guilds
 ### Hurraquk
 Purchases:
 	- Improved DV (heavy) / -120g
-	- 
+	- Envoy / -20g
 Hardwork (0): 1d8=7 power lost > 3d8=12 guilders gained
+Communication:
+	- Send envoy to Emorin (BAD)
+
+### Garqwak
+Purchases:
+	- Skill Equip (strong, crime) / -60g
+	- Improved WD (strong) / -60g
+	- Trade Good (15g) / -15g
+Hardwork (0): 1d6=6 power lost > 3d6=9 guilders gained
+Communication: -
+
+### Emorin
+Purchases:
+	- aD
+	- Improved DV
+	- c
+Hardwork (0): 1d4=2 power lost > 3d4=7 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
-
-### Garqwak
-### Emorin
 ### Scrivin
 ### Bulgpim
 ### Wheernat
