@@ -140,7 +140,7 @@ Inspiring Speech: Mossburg Enforcers
 ### Harvord Trading Co.
 Declare New Goals:
 	Long Term: Build Alliances
-	Short Term: Steadfast our Borders
+	Short Term: War
 Purchases:
 	- Improved DV (light) / -40g
 	- Improved RD (strong) / -80g
@@ -173,8 +173,8 @@ Communication: -
 
 ### Hillkeep Loyalists
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Steadfast our Borders
+	Short Term: Produce Value
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Improved RD (master) / -100g
@@ -198,8 +198,8 @@ Arcane Assistance: 3sp at Five Pike for Arcane
 
 ### Mossburg Enforcers
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Steadfast our Borders
+	Short Term: War
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Strikeforce (master) / -80g
@@ -214,8 +214,8 @@ Inspiring Speech: Guilds
 
 ### Hurraquk
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Steadfast our Borders
+	Short Term: War
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Envoy / -20g
@@ -225,8 +225,8 @@ Communication:
 
 ### Garqwak
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Steadfast our Borders
+	Short Term: War
 Purchases:
 	- Skill Equip (strong, crime) / -60g
 	- Improved WD (strong) / -60g
@@ -236,8 +236,8 @@ Communication: -
 
 ### Emorin
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Build Alliances
+	Short Term: Produce Value
 Purchases:
 	- Defense Focus / -40g
 	- 3x Defense Upgrade (OtU) / -45g
@@ -248,8 +248,8 @@ Communication: -
 
 ### Scrivin
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Expand Territory
+	Short Term: War
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Improved WD (master) / -90g
@@ -260,8 +260,8 @@ Communication: -
 
 ### Bulgpim
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Peace
+	Short Term: Steadfast our Borders
 Purchases:
 	- Defense Focus / -40g
 	- Improved RD (strong) / -80g
@@ -280,8 +280,8 @@ Communication: -
 
 ### Agrandica's Thieves
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Disruption
+	Short Term: Build Alliances
 Purchases:
 	- Improved DV (med.) / -80g
 	- Improved RD (strong) / -80g
@@ -291,8 +291,8 @@ Communication: -
 
 ### Barthalamule's Thieves
 Declare New Goals:
-	Long Term: 
-	Short Term: Build Alliances
+	Long Term: Build Alliances
+	Short Term: Produce Value
 Purchases:
 	- Skill Equip (basic, crime) / -30g
 	- Strikeforce (strong) / -40g
@@ -309,7 +309,7 @@ Communication:
 
 ### Cobalt's Theives
 Declare New Goals:
-	Long Term: 
+	Long Term: Disruption
 	Short Term: Build Alliances
 Purchases:
 	- Defense Focus / -40g
@@ -327,8 +327,8 @@ Communication:
 
 ### Orcus Loyalists
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Expand Territory
+	Short Term: Build Alliances
 Purchases:
 	- Alarm Devices / -60g
 	- Improved WD (strong) / -60g
@@ -337,8 +337,8 @@ Communication: -
 
 ### Sanguine Feast
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: War
+	Short Term: Expand Territory
 Purchases:
 	- Improved RD (strong) / -80g
 	- Advanced Tool (Fine-Carving) / -50g
@@ -347,8 +347,8 @@ Communication: -
 
 ### Lost Wanders
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Build Alliances
+	Short Term: Disruption
 Purchases:
 	- Defensive Focus / -40g
 Hardwork (0): 1d8=2 power lost > 3d8=20 guilders gained
@@ -356,8 +356,8 @@ Communication: -
 
 ### Actstow
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Produce Value
+	Short Term: Steadfast our Borders 
 Purchases:
 	- Improved DV (med.) / -80g
 	- Improved WD (strong) / -60g
@@ -367,8 +367,8 @@ Communication: -
 
 ### Suremantle
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: War
+	Short Term: Produce Value
 Purchases:
 	- Improved RD (master) / -100g
 	- Advanced Tools (Metallurgy) / -50g
@@ -378,8 +378,8 @@ Communication: -
 
 ### Cenva Minyo
 Declare New Goals:
-	Long Term: 
-	Short Term:
+	Long Term: Disruption
+	Short Term: Steadfast our Borders
 Purchases:
 	- Advanced Tool (Weaving & Binding) / -50g
 	- Defensive Focus / -40g
@@ -394,11 +394,13 @@ Communication: -
 	Roll: 1d20+3d6 (3x Inspiring Speech)+20+6 (3 (prof) + 1 (atr) + 2 (bonus)) = 47
 **Bonus Action:** Crafting
 	Goal: Traps (47/50g)
-	Roll: 1d20+4 (3 (prof) + 1 (atr)) = 13
+	Roll: 1d20+4=13
 
 ### Kingdom of Prosper
-**Full Action:** 
-**Bonus Action:**
+**Full Action:** Skill Use (Arcane)
+	Goal: Prototype Special-Object (Offensive Upgrade Recycler / "The Spell-gem/Spell-knight Revolution")
+	Roll: 1d20+4=23
+**Bonus Action:** Gather Forces
 
 ### Church of the White Flame
 ### Golden Claws
@@ -435,6 +437,7 @@ Communication: -
 > The guilds have been hard at work preparing secure border-posts throughout Alaturmen, and with the assistance of others, their goal was quickly completed. The Ranger's Guild is standing tall, refortified after the largest breach of the Wildland Border that any on Alaturmen had seen.
 
 ### Kingdom of Prosper
+
 ### Church of the White Flame
 ### Golden Claws
 ### Knights in Red
