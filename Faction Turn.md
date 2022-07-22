@@ -19,6 +19,8 @@ Communicate:
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
+Inspiring Speech: Prosper
+
 ### Kingdom of Prosper
 Purchases:
 	- 3x Alarm Devices / -180g
@@ -27,7 +29,7 @@ Purchases:
 	- Strikeforce (masterful) / -80g
 	- Improved WD (Masterful) / -90g
 	- 6x Envoy / -120g
-Hardwork (0): 1d6=4 > 3d6=11 guilders gained
+Hardwork (0): 1d6=4 power lost > 3d6=11 guilders gained
 Communication:
 	- Send envoy to Emorin (GRE)
 	- Send envoy to Wheernat (MID)
@@ -44,13 +46,34 @@ Purchases:
 	- Strikeforce (master) / -80g
 	- Skill Equip (master: Religion) / -80g
 	- 5x Envoy / -100g
-Hardwork (0): 1d4=2 > 3d4=9
+Hardwork (0): 1d4=2 power lost > 3d4=9
 Communication:
-	- Send envoy to Mossburg Enforcers
-	- Send envoy to Emorin
-	- Send envoy to Suremantle
-	- Send envoy to Lost Wanderers
-	- Send envoy to Actstow
+	- Send envoy to Mossburg Enforcers (GRE)
+	- Send envoy to Emorin (GRE)
+	- Send envoy to Suremantle (GRE)
+	- Send envoy to Lost Wanderers (BAD)
+	- Send envoy to Actstow (GRE)
+
+### Golden Claws
+Purchases:
+	- 3x Alarm Devices / -180g
+	- Improved DV (heavy) / -120g
+	- Improved RD (master) / -100g
+	- Strikeforce (master) / -80g
+	- Improved WD (strong) / -60g
+Hardwork (0): 1d6=4 power lost > 3d6=12 guilders gained
+Communication: -
+
+### Knights In Red
+Purchases:
+	- Improved DV (heavy) / -120g
+	- Defense Focus / -40g
+	- Strikeforce (master) / -80g
+Hardwork (0): 1d8=8 power lost > 3d8=12 guilders gained
+Communication: -
+
+### Dampguard
+
 
 ## Full & Bonus Actions / Main
 ## Reactions / Post-Main
