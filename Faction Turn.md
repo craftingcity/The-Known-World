@@ -136,7 +136,8 @@ Communication:
 
 ### Hillkeep Loyalists
 Purchases:
-	- 
+Hardwork (0): 1d6=6 power lost > 3d6=6 guilders gained
+Communications:
 
 ### Five Pike
 ### Mossburg Enforcers
