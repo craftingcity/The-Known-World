@@ -611,8 +611,13 @@ Communication: -
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Dampguard
-**Full Action:** 
-**Bonus Action:**
+**Full Action:** Criminal Plot (Crime v Dexterity Save)
+
+	Roll: 1d20+7=10 v 1d20+1=18 > (FAIL)
+
+**Bonus Action:** Earn Guilders (Crime)
+
+	Roll: 1d20+7=10 > 25 guilders earned
 
 ### Riphounds
 ### Slimknives
