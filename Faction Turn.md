@@ -396,6 +396,8 @@ Communication: -
 	Goal: Traps (47/50g)
 	Roll: 1d20+4=13
 
+- [ x ] Traps Complete > +55g, +
+
 ### Kingdom of Prosper
 **Full Action:** Skill Use (Arcane)
 	Goal: Prototype Special-Object (Offensive Upgrade Recycler / "The Spell-gem/Spell-knight Revolution", X/5)
@@ -403,8 +405,13 @@ Communication: -
 **Bonus Action:** Gather Forces
 
 ### Church of the White Flame
-**Full Action:** 
-**Bonus Action:**
+**Full Action:** Subterfuge (Charisma (Religion) v Intelligence Save)
+	Target: Suremantle
+	Roll: 1d20+5 v 1d20+1 > Suremantle +2 M. Dam.
+**Bonus Action:** Earn Guilder (Survival, Nature's Bounty)
+	Roll A: 1d20+3=6 > 0 guilder earned
+	Roll B: 6d6=20 guilder earned
+	Roll C: 3d4=2 power lost (SUCC)
 ### Golden Claws
 ### Knights in Red
 ### Dampguard
