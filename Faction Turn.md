@@ -19,8 +19,12 @@ Communicate:
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
-Inspiring Speech: -
+Inspiring Speech: Barthalamule's Theives
 Ways of Wisdom: -
+Know thy Enemy: -
+Selling Secrets: -
+Ancient Wisdom: 1 point towards Barthalamule's for ???
+Forbidden Lore: -
 
 ### Kingdom of Prosper
 Purchases:
@@ -68,7 +72,7 @@ Purchases:
 	- Improved WD (strong) / -60g
 Hardwork (0): 1d6=4 power lost > 3d6=12 guilders gained
 Communication: -
-Way of Wisdom: ?
+Way of Wisdom: -
 Inspiring Speech: Prosper
 
 ### Knights In Red
@@ -298,6 +302,9 @@ Communication: -
 
 ## Full & Bonus Actions / Main
 ### Guilds of Coalition
+**Full Action:** Create
+	Goal: Traps (50g)
+	Roll: 1d20+3d6+20
 
 ### Kingdom of Prosper
 ### Church of the White Flame
