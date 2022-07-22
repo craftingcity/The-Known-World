@@ -5,12 +5,16 @@
       "path": "Faction Turn.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "factionTurnEquipment",
       "path": "MEDIA/SUPP/factionTurnEquipment.png"
+    },
+    {
+      "basename": "FT Faction List at H3",
+      "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
@@ -195,10 +199,6 @@
     {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "Nicolas Talaveem",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
     }
   ],
   "omittedPaths": [],

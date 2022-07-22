@@ -5,6 +5,7 @@
 	- [[Campaign Roster]]
 	- [[Disambiguation]]
 	- [[Economy]]
+	- [[FT Faction List at H3]]
 	- [[FT Free Actions]]
 	- [[Group]]
 	- [[Holdings]]
