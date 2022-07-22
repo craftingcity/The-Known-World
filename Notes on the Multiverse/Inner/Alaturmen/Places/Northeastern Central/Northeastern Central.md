@@ -23,6 +23,8 @@ aliases:
 		- [[Hameer]]
 		- [[Helvuagh]]
 		- [[Khoghull]]
+		- [[Unyalian]]
+		- [[Yahlin]]
 	- **Smaller than a feature**
 		- [[Castle Prosper]]
 		- [[Gambleum]]
