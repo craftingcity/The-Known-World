@@ -597,11 +597,12 @@ Communication: -
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Knights in Red
-**Full Action:**
+**Full Action:** Weapon Attack (d20+5 v DV17)
 
-	A
+	Target: Scrivin
+	Roll: 1d20+ 5 > (SUCC) > 1d6+3=9 power lost
 
-**Bonus Action:**
+**Bonus Action:** Earn Guilders (Strength (Muscle))
 
 	A
 
