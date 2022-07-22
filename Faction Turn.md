@@ -239,15 +239,29 @@ Communication:
 
 ### Cobalt's Theives
 Purchases:
+	- Defense Focus / -40g
+	- Improved RD (average) / -60g
+	- 6x Envoy / -120g
+	- Trade Goods (15g) / -15g
+Hardwork (0): 1d4=1 power lost > 3d4=7 guilders gained
+Communication:
+	- Send envoy to Barthalamule's (GRE)
+	- Send envoy to Agrandiaca's (MID)
+	- Send envoy to Claws (BAD)
+	- Send envoy to Grovetenders (BAD)
+	- Send envoy to Guilds (MID)
+	- Send envoy to Lost Wanders (MID)
+
+### Orcus Loyalists
+Purchases:
 	- a
 	- b
-	- 6x Envoy / -120g
-Hardwork (x): 1d4=# power lost > 3dX=# guilders gained
+	- c
+Hardwork (x): 1d4=4 power lost > 3d4=10 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
 
-### Orcus Loyalists
 ### Sanguine Feast
 ### Lost Wanders
 ### Actstow
