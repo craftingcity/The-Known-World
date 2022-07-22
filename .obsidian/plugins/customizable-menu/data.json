@@ -37,21 +37,7 @@
           "key": "ArrowRight"
         }
       ]
-    },
-    {
-      "id": "editor:attach-file",
-      "name": "Insert attachment",
-      "icon": "image-glyph"
-    },
-    {
-      "id": "insert-template",
-      "name": "Templates: Insert template",
-      "icon": "duplicate-glyph"
-    },
-    {
-      "name": "Markdown prettifier: Run with Hashtag janitor",
-      "id": "markdown-prettifier:markdown-prettifier-update-fields",
-      "icon": "lines-of-text"
     }
-  ]
+  ],
+  "hideTitles": []
 }

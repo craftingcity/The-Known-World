@@ -285,7 +285,7 @@ Purchases:
 	- a
 	- b
 	- c
-Hardwork (x): 1d4=# power lost > 3dX=# guilders gained
+Hardwork (x): 1d4=1 power lost > 3d4=11 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
