@@ -613,14 +613,38 @@ Communication: -
 ### Dampguard
 **Full Action:** Criminal Plot (Crime v Dexterity Save)
 
+	Target: Guilds of Coalition
 	Roll: 1d20+7=10 v 1d20+1=18 > (FAIL)
 
 **Bonus Action:** Earn Guilders (Crime)
 
 	Roll: 1d20+7=10 > 25 guilders earned
 
+- [x] **Progress:** (FAIL) > +25xp, +25g
+
 ### Riphounds
+**Full Action:** Weapon Attack (d20+5 v DV19)
+
+	Target: Beasts Righteous
+	Roll: 1d20+5=18 > (FAIL)
+
+**Bonus Action:** Earn Guilder (Muscle)
+
+	Roll: 1d20+5=10 > 25 guilders earned
+
+- [x] **Progress:** (FAIL) > +25xp, +25g
+
 ### Slimknives
+**Full Action:** Criminal Plot (Crime v Dexterity Save)
+
+	Target: Guilds of Coalition
+	Roll: 1d20+7=13 v 1d20+1=6 > 5 power damage, 3 guilder stolen
+
+**Bonus Action:**
+
+- [x] **Progress:** (SUCC) > +50xp, +3g
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Harvord Trading Co.
 ### Beasts Righteous
 ### Grovetenders
