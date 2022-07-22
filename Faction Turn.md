@@ -7,7 +7,7 @@ Purchases:
 	- Defensive Focus / -40g
 	- Improved DV (Medium) / -80g
 	- Improved RD (Master) / -100g
-	- Improved WA (Skilled) / -40g
+	- Improved WD (Skilled) / -40g
 	- Basic Tools (Metallurgy, Carpentry, Masonry) / -90g
 	- Strikeforce (Masterful) / -80g
 	- 6x Envoy / -120g
@@ -91,6 +91,24 @@ Hardwork (0): 1d4=1 power lost > 3d4=9 guilders gained
 Communication:
 	- Send envoy to Hillkeep Loyalists (GRE)
 	- Send envoy to Mossburg Enforcers (GRE)
+
+### Riphounds
+Purchases:
+	- Improved DV (heavy) / -120g
+	- Improved RD (master) / -100g
+	- Improved WD (master) / -90
+	- Offensive Upgrade (OtU) / -15g
+Hardwork (0): 1d8=5 power lost > 3d8=9 guilders gained
+Communication: -
+
+### Slimknives
+Purchases:
+	- Alarm Devices / -60g
+	- Defensive Focus / -40g
+	- Skill Equip (master, crime) / -60g
+Hardwork (0): 1d4=2 power lost > 3d4=8 guilders gained
+Communication:
+Inspiring Speech: ?
 
 
 ## Full & Bonus Actions / Main
