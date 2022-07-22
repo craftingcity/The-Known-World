@@ -202,16 +202,26 @@ Communication: -
 
 ### Bulgpim
 Purchases:
-	- 2x Alarm Devices / -120g
 	- Defense Focus / -40g
-	- Improved RD / -
+	- Improved RD (strong) / -80g
 Hardwork (x): 1d6=3 power lost > 3d6=14 guilders gained
-Communication:
-	- Good standing Envoys are required for fluid & cooperative communication operations
-Other Free Actions?:
+Communication: -
 
 ### Wheernat
+Purchases:
+	- Defense Focus / -40g
+	- Improved DV (med.) / -80g
+Hardwork (x): 1d4=4 power lost > 3d4=6 guilders gained
+Communication: -
+
 ### Agrandica's Thieves
+Purchases:
+	- Improved DV (med.) / -80g
+	- Improved RD (strong) / -80g
+	- Skill Equip. (master, deception) / -60g
+Hardwork (0): 1d4=2 power lost > 3dX=8 guilders gained
+Communication: -
+
 ### Barthalamule's Thieves
 ### Cobalt's Theives
 ### Orcus Loyalists
