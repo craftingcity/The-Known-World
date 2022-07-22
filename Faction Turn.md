@@ -26,6 +26,7 @@ Communicate:
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
+		- Offer War Job > (ACC) > 30g >+> 30g 
 
 Inspiring Speech: Barthalamule's Theives
 Ways of Wisdom: -
@@ -588,7 +589,7 @@ Communication: -
 **Full Action:** Weapon Attack (d20+5 v DV15)
 
 	Target: Cobalt Theives
-	Roll: 1d20+5 > (SUCC) > 1d10+2=10 power lost
+	Roll: 1d20+5 > (SUCC) > 1d10+4=12 power lost
 	
 **Bonus Action:** Gather Forces
 > - [x] !
@@ -600,11 +601,14 @@ Communication: -
 **Full Action:** Weapon Attack (d20+5 v DV17)
 
 	Target: Scrivin
-	Roll: 1d20+ 5 > (SUCC) > 1d6+3=9 power lost
+	Roll: 1d20+ 5 > (SUCC) > 1d6+5=11 power lost
 
-**Bonus Action:** Earn Guilders (Strength (Muscle))
+**Bonus Action:** Earn Guilders (Muscle)
 
-	A
+	Roll: 1d20+5 > 25 guilder earned
+
+- [x] **Progress:** (SUCC) > +50xp, + 25g
+- [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Dampguard
 ### Riphounds
