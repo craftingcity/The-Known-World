@@ -1,5 +1,5 @@
 See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
-# Turn One - Summer 105
+# Turn One - Winter 104
 ## Free Actions / Upkeep
 ### Guilds of Coalition
 Purchases:
@@ -119,8 +119,25 @@ Communication: -
 Silver Might: Fists for Hire / -30g > Beasts Righteous (SUCC)
 
 ### Beasts Righteous
+Purchases:
+	- 2x Alarm Devices / -120g
+	- Improved DV (heavy) / -120g
+	- Improved AD (master) / -90g
+Hardwork (0): 1d4=1 power lost > 3d4=10 guilders gained
+Communication: -
+Elemental Magic: 1d6=2 power lost > 3d6= +1, +2, +3
+
 ### Grovetenders
+Purchases:
+	- Alarm Devices / -60g
+	- Defense Focus / -40g
+Hardwork (0): 1d4=1 power lost > 3d4=6 guilders gained
+Communication:
+
 ### Hillkeep Loyalists
+Purchases:
+	- 
+
 ### Five Pike
 ### Mossburg Enforcers
 ### Hurraquk
