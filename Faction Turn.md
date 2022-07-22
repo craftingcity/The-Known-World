@@ -78,7 +78,7 @@ Purchases:
 	- Strikeforce (master) / -80g
 Hardwork (0): 1d8=8 power lost > 3d8=12 guilders gained
 Communication: -
-Inspiring Speech: ?
+Inspiring Speech: Guilds
 
 ### Dampguard
 Purchases:
@@ -103,12 +103,41 @@ Communication: -
 
 ### Slimknives
 Purchases:
-	- Alarm Devices / -60g
 	- Defensive Focus / -40g
 	- Skill Equip (master, crime) / -60g
 Hardwork (0): 1d4=2 power lost > 3d4=8 guilders gained
 Communication:
-Inspiring Speech: ?
+Inspiring Speech: Mossburg Enforcers
+
+### Harvord Trading Co.
+Purchases:
+	- Improved DV (light) / -40g
+	- Improved RD (strong) / -80g
+	- 4x Defense Upgrade / -60g
+Hardwork (0): 1d8=8 power lost > 3d8=17 guilders gained
+Communication: -
+Silver Might: Fists for Hire / -30g > Beasts Righteous (SUCC)
+
+### Beasts Righteous
+### Grovetenders
+### Hillkeep Loyalists
+### Five Pike
+### Mossburg Enforcers
+### Hurraquk
+### Garqwak
+### Emorin
+### Scrivin
+### Bulgpim
+### Wheernat
+### Agrandica's Thieves
+### Barthalamule's Thieves
+### Cobalt's Theives
+### Orcus Loyalists
+### Sanguine Feast
+### Lost Wanders
+### Actstow
+### Suremantle
+### Cenva Minyo
 
 
 ## Full & Bonus Actions / Main

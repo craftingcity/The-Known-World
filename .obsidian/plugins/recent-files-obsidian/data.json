@@ -5,6 +5,18 @@
       "path": "Faction Turn.md"
     },
     {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Slimknives",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
+    },
+    {
+      "basename": "combine-100AF",
+      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
+    },
+    {
       "basename": "Yahlin",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md"
     },
@@ -97,10 +109,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     },
     {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
       "basename": "Barons of Combine NPCs",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Srioh",
       "path": "Game Notes/NPCs/ala Alaturmen/Weak Power/Combine Citizens/Srioh.md"
-    },
-    {
-      "basename": "Tetramocal Congregation",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Tetramocal Congregation.md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     }
   ],
   "omittedPaths": [],
