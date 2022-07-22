@@ -231,18 +231,18 @@ Hardwork (0): 1d6=5 power lost > 3d6=8 guilders gained
 Communication:
 	- Send envoy to Agrandica's (BAD)
 	- Send envoy to Cobalt's (MIS)
-	- Send envoy to Guilds ()
-	- Send envoy to Suremantle
-	- Send envoy to Dampguard
-	- Send envoy to Harvord Trading Co.
-	- Send envoy to Grovetenders
+	- Send envoy to Guilds (GRE)
+	- Send envoy to Suremantle (MID)
+	- Send envoy to Dampguard (GRE)
+	- Send envoy to Harvord Trading Co. (MID)
+	- Send envoy to Grovetenders (GRE)
 
 ### Cobalt's Theives
 Purchases:
 	- a
 	- b
-	- c
-Hardwork (x): 1dX=# power lost > 3dX=# guilders gained
+	- 6x Envoy / -120g
+Hardwork (x): 1d4=# power lost > 3dX=# guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
