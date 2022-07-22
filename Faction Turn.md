@@ -254,14 +254,21 @@ Communication:
 
 ### Orcus Loyalists
 Purchases:
-	- Improved DV (heavy) / -120g
-	- 
+	- Alarm Devices / -60g
+	- Improved WD (strong) / -60g
 Hardwork (0): 1d4=4 power lost > 3d4=10 guilders gained
+Communication: - 
+
+### Sanguine Feast
+Purchases:
+	- a
+	- b
+	- c
+Hardwork (x): 1d8=6 power lost > 3d8=18 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
 
-### Sanguine Feast
 ### Lost Wanders
 ### Actstow
 ### Suremantle
