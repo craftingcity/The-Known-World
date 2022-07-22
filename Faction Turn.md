@@ -184,15 +184,32 @@ Communication: -
 
 ### Emorin
 Purchases:
-	- aD
-	- Improved DV
-	- c
+	- Defense Focus / -40g
+	- 3x Defense Upgrade (OtU) / -45g
+	- Improved DV (light) / -40g
+	- Trade Goods (45g) / -45g
 Hardwork (0): 1d4=2 power lost > 3d4=7 guilders gained
+Communication: -
+
+### Scrivin
+Purchases:
+	- Improved DV (heavy) / -120g
+	- Improved WD (master) / -90g
+	- Defense Upgrade (OtU) / -15g
+	- Offense Upgrade (OtU) / -15g
+Hardwork (0): 1d4=1 power lost > 3d4=10 guilders gained
+Communication: -
+
+### Bulgpim
+Purchases:
+	- 2x Alarm Devices / -120g
+	- Defense Focus / -40g
+	- Improved RD / -
+Hardwork (x): 1d6=3 power lost > 3d6=14 guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
-### Scrivin
-### Bulgpim
+
 ### Wheernat
 ### Agrandica's Thieves
 ### Barthalamule's Thieves
