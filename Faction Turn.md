@@ -548,12 +548,13 @@ Communication: -
 
 	Goal: Traps (50g)
 	Roll: 1d20+3d6 (3x Inspiring Speech)+20+6 (3 (prof) + 1 (atr) + 2 (bonus)) = 47
+	
 **Bonus Action:** Crafting
 
 	Goal: Traps (47/50g)
 	Roll: 1d20+4=13
 
-- [x]  Craft Complete > +55g, +50xp
+- [x]  **Progress:** 55/50 > +55g, +50xp
 - [x]  Short-Term Goal Complete > +50xp
 
 ### Kingdom of Prosper
@@ -565,13 +566,13 @@ Communication: -
 **Bonus Action:** Gather Forces
 > - [x] !
 
-- [ ] **Progress:** Special-Object (O.U. Recycler 1/5)
+- [ ] **Progress:** 23/20 > Special-Object (O.U. Recycler 1/5)
 
 ### Church of the White Flame
 **Full Action:** Subterfuge (Charisma (Religion) v Intelligence Save)
 
 	Target: Suremantle
-	Roll: 1d20+5 v 1d20+1 > Suremantle +2 M. Dam.
+	Roll: 1d20+5 v 1d20+1 > (SUCC) > Suremantle +2 M. Dam.
 	
 **Bonus Action:** Earn Guilder (Survival, Nature's Bounty)
 
@@ -579,13 +580,17 @@ Communication: -
 	Roll B: 6d6=20 guilder earned
 	Roll C: 3d4=2 power lost (SUCC)
 
-- [x] **Progress:** +20g, -2p
+- [x] **Progress:** (SUCC) > +50xp +20g, -2p
 ### Golden Claws
 **Full Action:** Weapon Attack (d20+5 v DV15)
-	Target
-	Roll:
-**Bonus Action:**
 
+	Target: Cobalt Theives
+	Roll: 1d20+5 > (SUCC) > 1d10+2=10 power lost
+	
+**Bonus Action:** Gather Forces
+> - [x] !
+
+- [x] **Progress:** (SUCC) > +50xp
 ### Knights in Red
 ### Dampguard
 ### Riphounds
@@ -622,7 +627,10 @@ Communication: -
 > By order of the King, his court wizard heads a project to more easily distribute magic among his people. As one does, she replied that it could be done. With a flash of inspiration, she began to have an inkling of a beginning of a practical concept.
 
 ### Church of the White Flame
+> A large caravan of Suremantle Traders was waylaid with religious posterization and completely failed to make sales due to what the locals called a "titherraf", some combination of religious conviction and governmental decree. In any case, this caravan returned home with all they left with other than their rations, time, and dignity.
+
 ### Golden Claws
+> Throughout the southern regions of the Deserts of Tetrimoc, small groups of Cobalt's Thieves have been k
 ### Knights in Red
 ### Dampguard
 ### Riphounds
