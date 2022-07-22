@@ -23,7 +23,7 @@ Inspiring Speech: Barthalamule's Theives
 Ways of Wisdom: -
 Know thy Enemy: -
 Selling Secrets: -
-Ancient Wisdom: 1 point towards Barthalamule's for ???
+Ancient Wisdom: 1 point towards Guilds for Metallurgy
 Forbidden Lore: -
 
 ### Kingdom of Prosper
@@ -155,7 +155,7 @@ Purchases:
 Hardwork (0): 1d4=2 power lost > 3d4=8 guilders gained
 Communications: -
 Divination Magic: -
-Arcane Assistance: -
+Arcane Assistance: 3sp at Five Pike for Arcane
 
 ### Mossburg Enforcers
 Purchases:
@@ -304,7 +304,10 @@ Communication: -
 ### Guilds of Coalition
 **Full Action:** Create
 	Goal: Traps (50g)
-	Roll: 1d20+3d6+20
+	Roll: 1d20+3d6 (3x Inspiring Speech)+20+6 (3 (prof) + 1 (atr) + 2 (bonus)) = 47
+**Bonus Action:** Crafting
+	Goal: Traps (47/50g)
+	Roll: 1d20+4 (3 (prof) + 1(atr))
 
 ### Kingdom of Prosper
 ### Church of the White Flame
