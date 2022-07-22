@@ -611,6 +611,9 @@ Communication: -
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Dampguard
+**Full Action:** 
+**Bonus Action:**
+
 ### Riphounds
 ### Slimknives
 ### Harvord Trading Co.
