@@ -5,6 +5,14 @@
       "path": "Faction Turn.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "factionTurnEquipment",
+      "path": "MEDIA/SUPP/factionTurnEquipment.png"
+    },
+    {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nicolas Talaveem",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
-    },
-    {
-      "basename": "Blood-Hobgoblin Clans",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md"
-    },
-    {
-      "basename": "Wakquk Twins",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md"
     }
   ],
   "omittedPaths": [],

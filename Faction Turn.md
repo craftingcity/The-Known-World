@@ -282,16 +282,19 @@ Communication: -
 
 ### Suremantle
 Purchases:
-	- a
-	- b
-	- c
-Hardwork (x): 1d4=1 power lost > 3d4=11 guilders gained
-Communication:
-	- Good standing Envoys are required for fluid & cooperative communication operations
-Other Free Actions?:
+	- Improved RD (master) / -100g
+	- Advanced Tools (Metallurgy) / -50g
+	- Improved WD (master) / -90g
+Hardwork (0): 1d4=1 power lost > 3d4=11 guilders gained
+Communication: -
 
 ### Cenva Minyo
-
+Purchases:
+	- Advanced Tool (Weaving & Binding) / -50g
+	- Defensive Focus / -40g
+	- Trade Goods (20g) / -20g 
+Hardwork (x): 1d6=4 power lost > 3d6=6 guilders gained
+Communication: -
 
 ## Full & Bonus Actions / Main
 ## Reactions / Post-Main

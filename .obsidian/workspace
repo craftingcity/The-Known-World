@@ -4,135 +4,175 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c1310a70b7f2b0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Faction Turn.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":231.70089285714286}"
+        "id": "227772d473e48764",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5c1310a70b7f2b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":276.9359375}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":11},\"to\":{\"line\":14,\"ch\":11}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Helvuagh.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":52},\"to\":{\"line\":9,\"ch\":52}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Hameer.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Geghloch.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Khoghull.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Dhug Kahldur.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "e5c1310a70b7f2b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Loadouts.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
             },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":11},\"to\":{\"line\":14,\"ch\":11}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Helvuagh.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":52},\"to\":{\"line\":9,\"ch\":52}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Hameer.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Geghloch.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Khoghull.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Dhug Kahldur.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "e5c1310a70b7f2b0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Loadouts.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faction Turn.md",
+                "mode": "source",
+                "source": true
+              }
             }
-          ]
-        }
+          },
+          {
+            "id": "5bad66d7367c8ddf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "5bad66d7367c8ddf",
+                  "group": null,
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/factionTurnEquipment.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "5bad66d7367c8ddf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/factionTurnEquipment.png"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -148,18 +188,22 @@
           {
             "id": "470822c6e780fecc",
             "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
             "id": "471fab77001b02ee",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -170,22 +214,18 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
             }
           }
         ],
@@ -207,6 +247,10 @@
           {
             "id": "214128aa17851074",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -219,15 +263,15 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "a784ad59b314c9b4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -235,39 +279,35 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "60736712cabd0795",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "f44a3da8351e916d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
                 "file": "Faction Turn.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
@@ -277,17 +317,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "470822c6e780fecc",
+  "active": "e5c1310a70b7f2b0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "README.md",
     "Faction Turn.md",
+    "MEDIA/SUPP/factionTurnEquipment.png",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "ORGANIZATION/TEMPLATES/FT Free Actions.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "MEDIA/MAPS/WORLD/combine-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Helvuagh.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Hameer.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md"
   ]
 }
