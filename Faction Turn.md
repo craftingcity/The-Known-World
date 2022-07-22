@@ -3,8 +3,8 @@ See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
 ## Free Actions / Upkeep
 ### Guilds of Coalition
 Declare New Goals:
-	Long Term: Peace
-	Short Term: Cooperative Value
+	Long Term: Examine the Wildlands
+	Short Term: Build Alliances
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Defensive Focus / -40g
@@ -31,7 +31,8 @@ Forbidden Lore: -
 
 ### Kingdom of Prosper
 Declare New Goals:
-	Long Term: 
+	Long Term: Steadfast our Borders
+	Short Term: Build Alliances
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Improved DV (heavy) / -120g
@@ -50,6 +51,9 @@ Communication:
 	- Send envoy to Claws (PER)
 Inspiring Speech: Guilds
 ### Church of the White Flame
+Declare New Goals:
+	Long Term: Expand Territory
+	Short Term: Build Alliances
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Improved DV (light) / -40g
@@ -69,6 +73,9 @@ Healing Hands: -
 Divine Assistance: -
 
 ### Golden Claws
+Declare New Goals:
+	Long Term: Exterminate Vermin
+	Short Term: Steadfast our Borders
 Purchases:
 	- 3x Alarm Devices / -180g
 	- Improved DV (heavy) / -120g
@@ -81,6 +88,9 @@ Way of Wisdom: -
 Inspiring Speech: Prosper
 
 ### Knights In Red
+Declare New Goals:
+	Long Term: Steadfast our Borders
+	Short Term: Build Alliances
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Defense Focus / -40g
@@ -90,6 +100,9 @@ Communication: -
 Inspiring Speech: Dampguard
 
 ### Dampguard
+Declare New Goals:
+	Long Term: Steadfast our Borders
+	Short Term: Build Alliances
 Purchases:
 	- Alarm Devices / -60g
 	- Defensive Focus / -40g
@@ -102,6 +115,9 @@ Communication:
 	- Send envoy to Mossburg Enforcers (GRE)
 
 ### Riphounds
+Declare New Goals:
+	Long Term: Expand Territory
+	Short Term: War
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Improved RD (master) / -100g
@@ -111,6 +127,9 @@ Hardwork (0): 1d8=5 power lost > 3d8=9 guilders gained
 Communication: -
 
 ### Slimknives
+Declare New Goals:
+	Long Term: Expand Territory
+	Short Term: Disruption
 Purchases:
 	- Defensive Focus / -40g
 	- Skill Equip (master, crime) / -60g
@@ -119,6 +138,9 @@ Communication:
 Inspiring Speech: Mossburg Enforcers
 
 ### Harvord Trading Co.
+Declare New Goals:
+	Long Term: Build Alliances
+	Short Term: Steadfast our Borders
 Purchases:
 	- Improved DV (light) / -40g
 	- Improved RD (strong) / -80g
@@ -128,6 +150,9 @@ Communication: -
 Silver Might: Fists for Hire / -30g > Beasts Righteous (SUCC)
 
 ### Beasts Righteous
+Declare New Goals:
+	Long Term: Build Alliances
+	Short Term: War
 Purchases:
 	- 2x Alarm Devices / -120g
 	- Improved DV (heavy) / -120g
@@ -137,6 +162,9 @@ Communication: -
 Elemental Magic: 1d6=2 power lost > 3d6= +1, +2, +3
 
 ### Grovetenders
+Declare New Goals:
+	Long Term: Produce Value
+	Short Term: Steadfast our Borders
 Purchases:
 	- Alarm Devices / -60g
 	- Defense Focus / -40g
@@ -144,6 +172,9 @@ Hardwork (0): 1d4=1 power lost > 3d4=6 guilders gained
 Communication: - 
 
 ### Hillkeep Loyalists
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Improved RD (master) / -100g
@@ -153,6 +184,9 @@ Hardwork (0): 1d6=6 power lost > 3d6=6 guilders gained
 Communications: - 
 
 ### Five Pike
+Declare New Goals:
+	Long Term: Build Alliances
+	Short Term: Peace
 Purchases:
 	- Improved DV (light) / -40g
 	- Improved RD (average) / -60g
@@ -163,6 +197,9 @@ Divination Magic: -
 Arcane Assistance: 3sp at Five Pike for Arcane
 
 ### Mossburg Enforcers
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Strikeforce (master) / -80g
@@ -176,6 +213,9 @@ Communication:
 Inspiring Speech: Guilds
 
 ### Hurraquk
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Envoy / -20g
@@ -184,6 +224,9 @@ Communication:
 	- Send envoy to Emorin (BAD)
 
 ### Garqwak
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Skill Equip (strong, crime) / -60g
 	- Improved WD (strong) / -60g
@@ -192,6 +235,9 @@ Hardwork (0): 1d6=6 power lost > 3d6=9 guilders gained
 Communication: -
 
 ### Emorin
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Defense Focus / -40g
 	- 3x Defense Upgrade (OtU) / -45g
@@ -201,6 +247,9 @@ Hardwork (0): 1d4=2 power lost > 3d4=7 guilders gained
 Communication: -
 
 ### Scrivin
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (heavy) / -120g
 	- Improved WD (master) / -90g
@@ -210,6 +259,9 @@ Hardwork (0): 1d4=1 power lost > 3d4=10 guilders gained
 Communication: -
 
 ### Bulgpim
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Defense Focus / -40g
 	- Improved RD (strong) / -80g
@@ -217,6 +269,9 @@ Hardwork (x): 1d6=3 power lost > 3d6=14 guilders gained
 Communication: -
 
 ### Wheernat
+Declare New Goals:
+	Long Term: Surveillance
+	Short Term: Build Alliances
 Purchases:
 	- Defense Focus / -40g
 	- Improved DV (med.) / -80g
@@ -224,6 +279,9 @@ Hardwork (x): 1d4=4 power lost > 3d4=6 guilders gained
 Communication: -
 
 ### Agrandica's Thieves
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (med.) / -80g
 	- Improved RD (strong) / -80g
@@ -232,6 +290,9 @@ Hardwork (0): 1d4=2 power lost > 3dX=8 guilders gained
 Communication: -
 
 ### Barthalamule's Thieves
+Declare New Goals:
+	Long Term: 
+	Short Term: Build Alliances
 Purchases:
 	- Skill Equip (basic, crime) / -30g
 	- Strikeforce (strong) / -40g
@@ -247,6 +308,9 @@ Communication:
 	- Send envoy to Grovetenders (GRE)
 
 ### Cobalt's Theives
+Declare New Goals:
+	Long Term: 
+	Short Term: Build Alliances
 Purchases:
 	- Defense Focus / -40g
 	- Improved RD (average) / -60g
@@ -262,6 +326,9 @@ Communication:
 	- Send envoy to Lost Wanders (MID)
 
 ### Orcus Loyalists
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Alarm Devices / -60g
 	- Improved WD (strong) / -60g
@@ -269,6 +336,9 @@ Hardwork (0): 1d4=4 power lost > 3d4=10 guilders gained
 Communication: - 
 
 ### Sanguine Feast
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved RD (strong) / -80g
 	- Advanced Tool (Fine-Carving) / -50g
@@ -276,12 +346,18 @@ Hardwork (0): 1d8=6 power lost > 3d8=18 guilders gained
 Communication: -
 
 ### Lost Wanders
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Defensive Focus / -40g
 Hardwork (0): 1d8=2 power lost > 3d8=20 guilders gained
 Communication: - 
 
 ### Actstow
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved DV (med.) / -80g
 	- Improved WD (strong) / -60g
@@ -290,6 +366,9 @@ Hardwork (x): 1d4=1 power lost > 3d4=8 guilders gained
 Communication: -
 
 ### Suremantle
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Improved RD (master) / -100g
 	- Advanced Tools (Metallurgy) / -50g
@@ -298,6 +377,9 @@ Hardwork (0): 1d4=1 power lost > 3d4=11 guilders gained
 Communication: -
 
 ### Cenva Minyo
+Declare New Goals:
+	Long Term: 
+	Short Term:
 Purchases:
 	- Advanced Tool (Weaving & Binding) / -50g
 	- Defensive Focus / -40g
