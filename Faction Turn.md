@@ -659,6 +659,18 @@ Communication: -
 - [x] **Progress:** *(TRAINING)* > +100xp 
 
 ### Beasts Righteous
+**Full Action:** Weapon Attack (Beastmasters; d20+6+6 v DV19)
+
+	Target: Riphounds
+	Roll: 1d20+12=23 > (SUCC) > 1d12+3=7 power damage
+
+**Bonus Action:** Earn Guilders (Muscle)
+
+	Roll: 1d20+6=20 > 35 guilders earned
+
+- [x] **Progress:** (SUCC) > +50xp, + 35g
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Grovetenders
 ### Hillkeep Loyalists
 ### Five Pike
