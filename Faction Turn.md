@@ -554,8 +554,8 @@ Communication: -
 	Goal: Traps (47/50g)
 	Roll: 1d20+4=13
 
-- [x]  **Progress:** 55/50 > +55g, +50xp
-- [x]  Short-Term Goal Complete > +50xp
+- [x]  **Progress:** 55/50 > +55g, +25xp
+- [x]  **Goal (STG): Complete** > +50xp
 
 ### Kingdom of Prosper
 **Full Action:** Skill Use (Arcane)
@@ -566,7 +566,8 @@ Communication: -
 **Bonus Action:** Gather Forces
 > - [x] !
 
-- [ ] **Progress:** 23/20 > Special-Object (O.U. Recycler 1/5)
+- [ ] **Progress:** 23/20 > Special-Object (O.U. Recycler 1/5), +25xp
+- [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Church of the White Flame
 **Full Action:** Subterfuge (Charisma (Religion) v Intelligence Save)
@@ -581,6 +582,8 @@ Communication: -
 	Roll C: 3d4=2 power lost (SUCC)
 
 - [x] **Progress:** (SUCC) > +50xp +20g, -2p
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Golden Claws
 **Full Action:** Weapon Attack (d20+5 v DV15)
 
@@ -591,7 +594,17 @@ Communication: -
 > - [x] !
 
 - [x] **Progress:** (SUCC) > +50xp
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Knights in Red
+**Full Action:**
+
+	A
+
+**Bonus Action:**
+
+	A
+
 ### Dampguard
 ### Riphounds
 ### Slimknives
@@ -630,7 +643,7 @@ Communication: -
 > A large caravan of Suremantle Traders was waylaid with religious posterization and completely failed to make sales due to what the locals called a "titherraf", some combination of religious conviction and governmental decree. In any case, this caravan returned home with all they left with other than their rations, time, and dignity.
 
 ### Golden Claws
-> Throughout the southern regions of the Deserts of Tetrimoc, small groups of Cobalt's Thieves have been k
+> Throughout the southern regions of the Deserts of Tetrimoc, small groups of Cobalt's Thieves have been killed, a foul-play of wyvern and steel. It makes one wonder who possibly could have done such a thing...
 ### Knights in Red
 ### Dampguard
 ### Riphounds
