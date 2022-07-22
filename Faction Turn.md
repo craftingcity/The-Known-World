@@ -19,7 +19,7 @@ Communicate:
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
-Inspiring Speech: Prosper
+Inspiring Speech: -
 Ways of Wisdom: -
 
 ### Kingdom of Prosper
@@ -69,7 +69,7 @@ Purchases:
 Hardwork (0): 1d6=4 power lost > 3d6=12 guilders gained
 Communication: -
 Way of Wisdom: ?
-Inspiring Speech: Guilds
+Inspiring Speech: Prosper
 
 ### Knights In Red
 Purchases:
@@ -78,7 +78,7 @@ Purchases:
 	- Strikeforce (master) / -80g
 Hardwork (0): 1d8=8 power lost > 3d8=12 guilders gained
 Communication: -
-Inspiring Speech: Guilds
+Inspiring Speech: Dampguard
 
 ### Dampguard
 Purchases:
@@ -132,15 +132,34 @@ Purchases:
 	- Alarm Devices / -60g
 	- Defense Focus / -40g
 Hardwork (0): 1d4=1 power lost > 3d4=6 guilders gained
-Communication:
+Communication: - 
 
 ### Hillkeep Loyalists
 Purchases:
+	- Improved DV (heavy) / -120g
+	- Improved RD (master) / -100g
+	- Strikeforce (master) / -80g
+	- Improved AD (strong) / -60g
 Hardwork (0): 1d6=6 power lost > 3d6=6 guilders gained
-Communications:
+Communications: - 
 
 ### Five Pike
+Purchases:
+	- Improved DV (light) / -40g
+	- Improved RD (average) / -60g
+	- Trade Good (50g) / -50g
+Hardwork (0): 1d4=2 power lost > 3d4=8 guilders gained
+Communications: -
+Divination Magic: -
+Arcane Assistance: -
+
 ### Mossburg Enforcers
+Purchases:
+	- a
+Hardwork (0): 1d8=3 power lost > 3d8=15 guilders gained
+Comminucation:
+Inspiring Speech: 
+
 ### Hurraquk
 ### Garqwak
 ### Emorin
