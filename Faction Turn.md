@@ -398,11 +398,13 @@ Communication: -
 
 ### Kingdom of Prosper
 **Full Action:** Skill Use (Arcane)
-	Goal: Prototype Special-Object (Offensive Upgrade Recycler / "The Spell-gem/Spell-knight Revolution")
+	Goal: Prototype Special-Object (Offensive Upgrade Recycler / "The Spell-gem/Spell-knight Revolution", X/5)
 	Roll: 1d20+4=23
 **Bonus Action:** Gather Forces
 
 ### Church of the White Flame
+**Full Action:** 
+**Bonus Action:**
 ### Golden Claws
 ### Knights in Red
 ### Dampguard
@@ -437,6 +439,7 @@ Communication: -
 > The guilds have been hard at work preparing secure border-posts throughout Alaturmen, and with the assistance of others, their goal was quickly completed. The Ranger's Guild is standing tall, refortified after the largest breach of the Wildland Border that any on Alaturmen had seen.
 
 ### Kingdom of Prosper
+> By order of the King, his court wizard heads a project to more easily distribute magic among his people. As one does, she replied that it could be done. With a flash of inspiration, she began to have an inkling of a beginning of a practical concept.
 
 ### Church of the White Flame
 ### Golden Claws
