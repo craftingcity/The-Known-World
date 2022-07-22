@@ -4,27 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "367edd4da58fbebc",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "367edd4da58fbebc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+        "id": "3c50ccb62201d06f",
+        "type": "split",
+        "children": [
+          {
+            "id": "367edd4da58fbebc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "367edd4da58fbebc",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"scroll\":610.0947666195191}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faction Turn.md",
+                "mode": "source",
+                "source": true
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Faction Turn.md",
-            "mode": "source",
-            "source": true
+          },
+          {
+            "id": "b320b04f88fb3be6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b320b04f88fb3be6",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faction Turn.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -169,8 +199,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "367edd4da58fbebc",
+  "active": "b320b04f88fb3be6",
   "lastOpenFiles": [
+    "fac.md",
     "Faction Turn.md",
     "MEDIA/SUPP/factionTurnEquipment.png",
     "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
@@ -179,7 +210,6 @@
     "README.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
-    "MEDIA/MAPS/WORLD/combine-100AF.png"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
   ]
 }

@@ -547,15 +547,15 @@ Communication: -
 ### Guilds of Coalition
 **Full Action:** Create
 
-	Goal: Traps (50g)
-	Roll: 1d20+3d6 (3x Inspiring Speech)+20+6 (3 (prof) + 1 (atr) + 2 (bonus)) = 47
+	Goal: Traps (0/50g)
+	Roll: 1d20+3d6+20+6=47
 	
 **Bonus Action:** Crafting
 
 	Goal: Traps (47/50g)
 	Roll: 1d20+4=13
 
-- [x]  **Progress:** 55/50 > +55g, +25xp
+- [x]  **Progress:** 55/50 > +25xp, +55g
 - [x]  **Goal (STG): Complete** > +50xp
 
 ### Kingdom of Prosper
@@ -640,12 +640,24 @@ Communication: -
 	Target: Guilds of Coalition
 	Roll: 1d20+7=13 v 1d20+1=6 > 5 power damage, 3 guilder stolen
 
-**Bonus Action:**
+**Bonus Action:** Earn Guilders (Crime)
 
-- [x] **Progress:** (SUCC) > +50xp, +3g
+	Roll: 1d20+7=25 > 35 guilders earned
+
+- [x] **Progress:** (SUCC) > +50xp, +38g
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Harvord Trading Co.
+**Full Action:** Create
+
+	Goal: Trade Goods (0/30g)
+	Roll: 1d20+20+1=32
+
+**Bonus Action:** Training
+
+- [x] **Progress:** 32/30 > (1d20+5=13 > 100%) > +25xp +31g
+- [x] **Progress:** *(TRAINING)* > +100xp 
+
 ### Beasts Righteous
 ### Grovetenders
 ### Hillkeep Loyalists
