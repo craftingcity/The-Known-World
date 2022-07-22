@@ -261,17 +261,35 @@ Communication: -
 
 ### Sanguine Feast
 Purchases:
+	- Improved RD (strong) / -80g
+	- Advanced Tool (Fine-Carving) / -50g
+Hardwork (0): 1d8=6 power lost > 3d8=18 guilders gained
+Communication: -
+
+### Lost Wanders
+Purchases:
+	- Defensive Focus / -40g
+Hardwork (0): 1d8=2 power lost > 3d8=20 guilders gained
+Communication: - 
+
+### Actstow
+Purchases:
+	- Improved DV (med.) / -80g
+	- Improved WD (strong) / -60g
+	- Trade Goods (20g) / -20g
+Hardwork (x): 1d4=1 power lost > 3d4=8 guilders gained
+Communication: -
+
+### Suremantle
+Purchases:
 	- a
 	- b
 	- c
-Hardwork (x): 1d8=6 power lost > 3d8=18 guilders gained
+Hardwork (x): 1d4=# power lost > 3dX=# guilders gained
 Communication:
 	- Good standing Envoys are required for fluid & cooperative communication operations
 Other Free Actions?:
 
-### Lost Wanders
-### Actstow
-### Suremantle
 ### Cenva Minyo
 
 
