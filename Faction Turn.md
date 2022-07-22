@@ -223,7 +223,30 @@ Hardwork (0): 1d4=2 power lost > 3dX=8 guilders gained
 Communication: -
 
 ### Barthalamule's Thieves
+Purchases:
+	- Skill Equip (basic, crime) / -30g
+	- Strikeforce (strong) / -40g
+	- 7x Envoy / -140g
+Hardwork (0): 1d6=5 power lost > 3d6=8 guilders gained
+Communication:
+	- Send envoy to Agrandica's (BAD)
+	- Send envoy to Cobalt's (MIS)
+	- Send envoy to Guilds ()
+	- Send envoy to Suremantle
+	- Send envoy to Dampguard
+	- Send envoy to Harvord Trading Co.
+	- Send envoy to Grovetenders
+
 ### Cobalt's Theives
+Purchases:
+	- a
+	- b
+	- c
+Hardwork (x): 1dX=# power lost > 3dX=# guilders gained
+Communication:
+	- Good standing Envoys are required for fluid & cooperative communication operations
+Other Free Actions?:
+
 ### Orcus Loyalists
 ### Sanguine Feast
 ### Lost Wanders
