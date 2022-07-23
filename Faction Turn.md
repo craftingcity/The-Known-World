@@ -672,6 +672,9 @@ Communication: -
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Grovetenders
+**Full Action:**
+**Bonus Action:**
+
 ### Hillkeep Loyalists
 ### Five Pike
 ### Mossburg Enforcers
