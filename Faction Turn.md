@@ -683,7 +683,11 @@ Communication: -
 
 - [x] **Progress:** (SUCC) > +50xp, +25g
 - [x] Goal (LTG(1/5)): (SUCC) > +50xp
+
 ### Hillkeep Loyalists
+**Full Action:**
+**Bonus Action:**
+
 ### Five Pike
 ### Mossburg Enforcers
 ### Hurraquk
