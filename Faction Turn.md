@@ -681,7 +681,8 @@ Communication: -
 
 	Roll: 1d20+3=13 > 25 guilders earned
 
-- [x] 
+- [x] **Progress:** (SUCC) > +50xp, +25g
+- [x] Goal (LTG(1/5)): (SUCC) > +50xp
 ### Hillkeep Loyalists
 ### Five Pike
 ### Mossburg Enforcers
