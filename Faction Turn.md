@@ -608,7 +608,7 @@ Communication: -
 	Roll: 1d20+5 > 25 guilder earned
 
 - [x] **Progress:** (SUCC) > +50xp, + 25g
-- [x]  **Goal (RTG(1)): Complete** > +25xp
+- [x] **Goal (RTG(1)): Complete** > +25xp
 
 ### Dampguard
 **Full Action:** Criminal Plot (Crime v Dexterity Save)
@@ -672,7 +672,11 @@ Communication: -
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Grovetenders
-**Full Action:**
+**Full Action:** Arcane Attack (d20+3 v DV15)
+
+	Target: Cobalt's Theives
+	Roll: 1d20+3=15 > (TIE>SUCC) > 1d12+1
+
 **Bonus Action:**
 
 ### Hillkeep Loyalists
