@@ -1,5 +1,5 @@
 See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
-# Turn One - Winter 104Faction Turn
+# Turn One - Winter 104
 ## Free Actions / Upkeep
 ### Guilds of Coalition
 Declare New Goals:
@@ -677,8 +677,11 @@ Communication: -
 	Target: Cobalt's Theives
 	Roll: 1d20+3=15 > (TIE>SUCC) > 1d12+1
 
-**Bonus Action:**
+**Bonus Action:** Earn Guilders (Arcane)
 
+	Roll: 1d20+3=13 > 25 guilders earned
+
+- [x] 
 ### Hillkeep Loyalists
 ### Five Pike
 ### Mossburg Enforcers
