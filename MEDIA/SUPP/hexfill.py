@@ -28,7 +28,7 @@ def item_natural(num):
     if num == 7:
         answer = "pit, quicksand, or sinkhole"
     if num == 8:
-        double_trouble = item_natural(random.randint(1, 7)) + " " + item_natural(random.randint(1, 7))
+        double_trouble = item_natural(random.randint(1, 7)) + " & " + item_natural(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -48,9 +48,9 @@ def item_fabricated(num):
     if num == 6:
         answer = "statue"
     if num == 7:
-        answer = item_natural(random.randint(1, 7)) + " and " + item_fabricated(random.randint(1, 6))
+        answer = item_natural(random.randint(1, 7)) + " & " + item_fabricated(random.randint(1, 6))
     if num == 8:
-        double_trouble = item_natural(random.randint(1, 7)) + " " + item_natural(random.randint(1, 7))
+        double_trouble = item_natural(random.randint(1, 7)) + " & " + item_natural(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -68,7 +68,7 @@ def item_special(num):
     if num == 5:
         answer = "teleportation actived by " + activation_special(random.randint(1, 6))
     if num == 6:
-        double_trouble = item_special(random.randint(1, 5)) + " " + item_special(random.randint(1, 5))
+        double_trouble = item_special(random.randint(1, 5)) + " & " + item_special(random.randint(1, 5))
         return double_trouble
     else:
         return answer
@@ -106,7 +106,7 @@ def reason_A(num):
     if num == 7:
         answer = "battle, birth, death, or injury"
     if num == 8:
-        double_trouble = reason_A(random.randint(1, 7)) + " " + reason_A(random.randint(1, 7))
+        double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -128,7 +128,7 @@ def reason_B(num):
     if num == 7:
         answer = "battle, birth, death, or injury"
     if num == 8:
-        double_trouble = reason_A(random.randint(1, 7)) + " " + reason_A(random.randint(1, 7))
+        double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -150,7 +150,7 @@ def material(num):
     if num == 7:
         answer = "unidentified / other"
     if num == 8:
-        double_trouble = material(random.randint(1, 7)) + "& " + material(random.randint(1, 7))
+        double_trouble = material(random.randint(1, 7)) + " & " + material(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -219,16 +219,16 @@ def main():
     if bag_o_dice[0] > 1:
         final_answer += "natural "
         final_answer += item_natural(bag_o_dice[1])
-        final_answer += ". The reason this place is significat is because it is/has "
+        final_answer += ". The reason this place is significant is because it is/has "
         final_answer += reason_A(bag_o_dice[2])
         final_answer += ". This place is "
         final_answer += age(bag_o_dice[5])
-        final_answer += "and "
+        final_answer += " and "
         final_answer += disposition(bag_o_dice[6]) + "."
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
-        final_answer += ". The reason this place is significat is because it is/has "
+        final_answer += ". The reason this place is significant is because it is/has "
         final_answer += reason_B(bag_o_dice[2])
         final_answer += ". It is made of some type of " + material(bag_o_dice[3])
         final_answer += " and it is constructed for some " + use_case(bag_o_dice[4])
