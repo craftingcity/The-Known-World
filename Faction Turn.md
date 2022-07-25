@@ -685,10 +685,22 @@ Communication: -
 - [x] Goal (LTG(1/5)): (SUCC) > +50xp
 
 ### Hillkeep Loyalists
-**Full Action:**
-**Bonus Action:**
+**Full Action:** Create
+
+	Goal: Basic Skill Equipment (30g)
+	Roll: 1d20+5+20=33
+
+**Bonus Action:** Earn Guilders
+
+	Roll: 1d20+5=14 > 25 guilders earned
+
+- [x] **Progress:** 33/30 > +25xp, +31g
+- [x] Goal (STG): (SUCC) > +50xp 
 
 ### Five Pike
+**Full Action:** Tool Use (Arcane)
+**Bonus Action:** Healing
+
 ### Mossburg Enforcers
 ### Hurraquk
 ### Garqwak
