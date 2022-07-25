@@ -699,12 +699,60 @@ Communication: -
 
 ### Five Pike
 **Full Action:** Tool Use (Arcane)
-**Bonus Action:** Healing
+
+	Roll: 1d20+4=21 > 35 guilders earned
+	
+**Bonus Action:** Earn Guilders (Medicine)
+
+	Roll: 1d20+5=21 > 35 guilders earned
+
+- [x] **Progress:** (SUCC) > +75xp, + 70g
 
 ### Mossburg Enforcers
+**Full Action:** People's Fury (d20+5 v DV19)
+
+	Target: Riphounds
+	Roll A: 1d20+5=16
+	Roll B: 1d20+5=8 > (FAIL)
+	
+**Bonus Action:** Gather Forces
+- [x] !
+
+- [x] **Progress:** (FAIL) > +25xp
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Hurraquk
+**Full Action:** Weapon Attack > Intimidating Strike (d20+5 v DV17)
+
+	Target: Garqwak
+	Roll: 1d20+5=14 > (FAIL)
+
+**Bonus Action:** Improved Logistics - Weapon Attack
+
+	Target: Garqwak
+	Roll: 1d20+5=18 > (SUCC) > 1d6=1 power damage
+
+- [x] **Progress:** (FAIL) > +25xp
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Garqwak
+**Full Action:** Weapon Attack > Intimidating Strike (d20+5 v DV18)
+
+	Target: Hurraquk
+	Roll: 1d20+5=13 > (FAIL)
+
+**Bonus Action:** Improved Logistics - Weapon Attack
+
+	Target: Hurraquk
+	Roll: 1d20+5=15 > (FAIL)
+
+- [x] **Progress:** (FAIL) > +25xp
+- [x]  **Goal (RTG(1)): Complete** > +25xp
+
 ### Emorin
+**Full Action:** Create
+**Bonus Action:**
+
 ### Scrivin
 ### Bulgpim
 ### Wheernat
