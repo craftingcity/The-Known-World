@@ -50,7 +50,7 @@ def item_fabricated(num):
     if num == 7:
         answer = item_natural(random.randint(1, 7)) + " & " + item_fabricated(random.randint(1, 6))
     if num == 8:
-        double_trouble = item_natural(random.randint(1, 7)) + " & " + item_natural(random.randint(1, 7))
+        double_trouble = item_fabricated(random.randint(1, 7)) + " & " + item_fabricated(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -94,17 +94,17 @@ def reason_A(num):
     if num == 1:
         answer = "easy to spot"
     if num == 2:
-        answer = "local legend"
+        answer = "a local legend"
     if num == 3:
-        answer = "local superstition"
+        answer = "a local superstition"
     if num == 4:
-        answer = "misinterpreted purpose"
+        answer = "a misinterpreted purpose"
     if num == 5:
-        answer = "oddity or resource"
+        answer = "oddities or resources"
     if num == 6:
-        answer = "simple curiosity"
+        answer = "a simple curiosity"
     if num == 7:
-        answer = "battle, birth, death, or injury"
+        answer = "the site of a battle, birth, death, or \"injury\""
     if num == 8:
         double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
         return double_trouble
@@ -116,9 +116,9 @@ def reason_B(num):
     if num == 1:
         answer = "easy to spot"
     if num == 2:
-        answer = "local legend"
+        answer = "a local legend"
     if num == 3:
-        answer = "local superstition"
+        answer = "a local superstition"
     if num == 4:
         answer = "humanoid-esq"
     if num == 5:
@@ -126,9 +126,9 @@ def reason_B(num):
     if num == 6:
         answer = item_special(random.randint(1, 6))
     if num == 7:
-        answer = "battle, birth, death, or injury"
+        answer = "the site of a battle, birth, death, or \"injury\""
     if num == 8:
-        double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
+        double_trouble = reason_B(random.randint(1, 7)) + " & " + reason_B(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -172,7 +172,7 @@ def use_case(num):
     if num == 7:
         answer = item_special(random.randint(1, 6))
     if num == 8:
-        double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
+        double_trouble = use_case(random.randint(1, 7)) + " & " + use_case(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -196,7 +196,7 @@ def disposition(num):
     if num == 2:
         answer = "loved"
     if num == 3:
-        answer = "rarely known"
+        answer = "hidden"
     if num == 4:
         answer = "worshipped"
     return answer
@@ -213,7 +213,7 @@ def erosion(num):
         answer = "pristine or well maintained"
     return answer
 
-def main():
+def hexfill():
     bag_o_dice = reroll()
     final_answer = "This hex is occupied by a "
     if bag_o_dice[0] > 1:
@@ -223,8 +223,8 @@ def main():
         final_answer += reason_A(bag_o_dice[2])
         final_answer += ". This place is "
         final_answer += age(bag_o_dice[5])
-        final_answer += " and "
-        final_answer += disposition(bag_o_dice[6]) + "."
+        final_answer += "in age and "
+        final_answer += disposition(bag_o_dice[6]) + "by those who know of it."
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
@@ -234,14 +234,24 @@ def main():
         final_answer += " and it is constructed for some " + use_case(bag_o_dice[4])
         final_answer += " purpose. This place is "
         final_answer += age(bag_o_dice[5])
-        final_answer += " and "
-        final_answer += disposition(bag_o_dice[6]) + "."
-    print(final_answer)
-    grab = input()
-    if grab == "r":
+        final_answer += "in age and "
+        final_answer += disposition(bag_o_dice[6]) + "by those who know of it."
+    return final_answer
+    
+def vitalityfill():
+    pass
+
+def main():
+    input_var = input("R.eroll, add V.itality, Q.uit")
+    if input_var is ("r" or "R"):
+        print(hexfill())
+        main()
+    if input_var is ("v" or "V"):
+        print(vitalityfill())
         main()
     else:
-        return
+        pass
+
 
 if __name__ == "__main__":
     main()
