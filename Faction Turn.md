@@ -733,6 +733,7 @@ Communication: -
 	Roll: 1d20+5=18 > (SUCC) > 1d6=1 power damage
 
 - [x] **Progress:** (FAIL) > +25xp
+- [x] **Progres::** (SUCC) > +50xp
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Garqwak
@@ -746,7 +747,7 @@ Communication: -
 	Target: Hurraquk
 	Roll: 1d20+5=15 > (FAIL)
 
-- [x] **Progress:** (FAIL) > +25xp
+- [x] **Progress:** (FAIL) x2 > +50xp
 - [x]  **Goal (RTG(1)): Complete** > +25xp
 
 ### Emorin
