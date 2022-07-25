@@ -10,6 +10,7 @@ def reroll():
     rolls.append(random.randint(1, 4))
     rolls.append(random.randint(1, 4))
     rolls.append(random.randint(1, 4))
+    rolls.append(random.randint(1, 4))
     return rolls
 
 def item_natural(num):
@@ -107,7 +108,7 @@ def reason_A(num):
     if num == 7:
         answer = "the site of a battle, birth, death, or \"injury\""
     if num == 8:
-        double_trouble = reason_A(random.randint(1, 7)) + " & " + reason_A(random.randint(1, 7))
+        double_trouble = reason_A(random.randint(1, 7)) + " & is/has " + reason_A(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -129,7 +130,7 @@ def reason_B(num):
     if num == 7:
         answer = "the site of a battle, birth, death, or \"injury\""
     if num == 8:
-        double_trouble = reason_B(random.randint(1, 7)) + " & " + reason_B(random.randint(1, 7))
+        double_trouble = reason_B(random.randint(1, 7)) + " & is/has " + reason_B(random.randint(1, 7))
         return double_trouble
     else:
         return answer
@@ -193,13 +194,13 @@ def age(num):
 def disposition(num):
     answer = ""
     if num == 1:
-        answer = "feared"
+        answer = "feared or deeply respected"
     if num == 2:
-        answer = "loved"
+        answer = "higly desired or loved"
     if num == 3:
-        answer = "hidden"
+        answer = "kept secret or hidden"
     if num == 4:
-        answer = "worshipped"
+        answer = "reveared or worshipped"
     return answer
 
 def erosion(num):
@@ -214,6 +215,18 @@ def erosion(num):
         answer = "in pristine condition or otherwise very well maintained"
     return answer
 
+def size(num):
+    answer = ""
+    if num == 1:
+        answer = "small"
+    if num == 2:
+        answer = "medium"
+    if num == 3:
+        answer = "large"
+    if num == 4:
+        answer = "massive"
+    return answer
+
 def hexfill():
     bag_o_dice = reroll()
     final_answer = "This hex is occupied by a "
@@ -226,7 +239,7 @@ def hexfill():
         final_answer += age(bag_o_dice[5])
         final_answer += " in age and "
         final_answer += disposition(bag_o_dice[6]) + " by those who know of it."
-        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + "."
+        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + " and " + size(bag_o_dice[8]) + "."
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
@@ -238,7 +251,7 @@ def hexfill():
         final_answer += age(bag_o_dice[5])
         final_answer += " in age and "
         final_answer += disposition(bag_o_dice[6]) + " by those who know of it."
-        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + "."
+        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + " and " + size(bag_o_dice[8]) + "."
     return final_answer
     
 def vitalityfill():
