@@ -198,7 +198,7 @@ def disposition(num):
     if num == 2:
         answer = "higly desired or loved"
     if num == 3:
-        answer = "kept secret or hidden"
+        answer = "inexplanable or hidden"
     if num == 4:
         answer = "reveared or worshipped"
     return answer
