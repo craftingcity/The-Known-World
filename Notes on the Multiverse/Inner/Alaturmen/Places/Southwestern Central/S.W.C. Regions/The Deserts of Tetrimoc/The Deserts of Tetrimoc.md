@@ -11,6 +11,8 @@ aliases:
 - Y10. [[Kickoff]] (visible)
 - AA5. Pit of Horror-kin
 	- A large pit in the desert hosts many shadow-flesh monkey-lizards, who breed quickly in this horrible place.
+- AA11. Statue of Taurin
+	- A statue of a faceless monarch on a throne is set into the sand here. Across the throne in many locations, the yellow-grey material is stained with red. Upon closer inspection, it would become clear that this entire statue is made of one massive petrified bone, and carved down into it's current form. Sand and wind has.
 - AC8. Aphetto Runestone (visible)
 	- A collection of marked stones form a circle with a diameter of about thirteen feet. The runes on the stones are written in [[Draconic (language)]]; they are words of power that instill a *bless*ing upon any who spend a minute or more in their presence.
 - AC14. Impossible Hole

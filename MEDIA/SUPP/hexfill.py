@@ -9,6 +9,7 @@ def reroll():
     rolls.append(random.randint(1, 8))
     rolls.append(random.randint(1, 4))
     rolls.append(random.randint(1, 4))
+    rolls.append(random.randint(1, 4))
     return rolls
 
 def item_natural(num):
@@ -38,7 +39,7 @@ def item_fabricated(num):
     if num == 1:
         answer = "alter, shrine, or temple"
     if num == 2:
-        answer = "building ro structure"
+        answer = "building or structure"
     if num == 3:
         answer = "carving or relief"
     if num == 4:
@@ -148,7 +149,7 @@ def material(num):
     if num == 6:
         answer = "fancy stones"
     if num == 7:
-        answer = "unidentified / other"
+        answer = "unidentified / other material"
     if num == 8:
         double_trouble = material(random.randint(1, 7)) + " & " + material(random.randint(1, 7))
         return double_trouble
@@ -164,7 +165,7 @@ def use_case(num):
     if num == 3:
         answer = "cultural"
     if num == 4:
-        answer = "decree or punishment"
+        answer = "executive, legal or judicial"
     if num == 5:
         answer = "historic"
     if num == 6:
@@ -206,11 +207,11 @@ def erosion(num):
     if num == 1:
         answer = "ruined, defaced, or otherwise unrecognizable"
     if num == 2:
-        answer = "weathered or overgrown"
+        answer = "weathered or overgrown, though still recognizable."
     if num == 3:
-        answer = "fair, restored, or otherwise maintained"
+        answer = "of fair condition, restored, or otherwise maintained"
     if num == 4:
-        answer = "pristine or well maintained"
+        answer = "in pristine condition or otherwise very well maintained"
     return answer
 
 def hexfill():
@@ -219,30 +220,32 @@ def hexfill():
     if bag_o_dice[0] > 1:
         final_answer += "natural "
         final_answer += item_natural(bag_o_dice[1])
-        final_answer += ". The reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it is/has "
         final_answer += reason_A(bag_o_dice[2])
-        final_answer += ". This place is "
+        final_answer += ". \nThis place is considered "
         final_answer += age(bag_o_dice[5])
-        final_answer += "in age and "
-        final_answer += disposition(bag_o_dice[6]) + "by those who know of it."
+        final_answer += " in age and "
+        final_answer += disposition(bag_o_dice[6]) + " by those who know of it."
+        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + "."
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
-        final_answer += ". The reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it is/has "
         final_answer += reason_B(bag_o_dice[2])
-        final_answer += ". It is made of some type of " + material(bag_o_dice[3])
-        final_answer += " and it is constructed for some " + use_case(bag_o_dice[4])
-        final_answer += " purpose. This place is "
+        final_answer += ". \nIt is made of some type of " + material(bag_o_dice[3])
+        final_answer += " and it is constructed for a " + use_case(bag_o_dice[4])
+        final_answer += " purpose. \nThis place is considered "
         final_answer += age(bag_o_dice[5])
-        final_answer += "in age and "
-        final_answer += disposition(bag_o_dice[6]) + "by those who know of it."
+        final_answer += " in age and "
+        final_answer += disposition(bag_o_dice[6]) + " by those who know of it."
+        final_answer += "\nIt is " + erosion(bag_o_dice[7]) + "."
     return final_answer
     
 def vitalityfill():
     pass
 
 def main():
-    input_var = input("R.eroll, add V.itality, Q.uit")
+    input_var = input()
     if input_var is ("r" or "R"):
         print(hexfill())
         main()
