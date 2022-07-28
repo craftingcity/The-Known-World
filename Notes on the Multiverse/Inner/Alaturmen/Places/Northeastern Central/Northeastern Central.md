@@ -18,6 +18,13 @@ aliases:
 		- [[Gumlpin]]
 		- [[Illburn Forest]]
 	- **Smaller than a city**
+		- [[Dhug Kahldur]]
+		- [[Geghloch]]
+		- [[Hameer]]
+		- [[Helvuagh]]
+		- [[Khoghull]]
+		- [[Unyalian]]
+		- [[Yahlin]]
 	- **Smaller than a feature**
 		- [[Castle Prosper]]
 		- [[Gambleum]]
@@ -28,7 +35,7 @@ aliases:
 	- **Smaller than a village**
 		- [[Archmage Barrowinch's Tower]]
 		- [[Brandle Wrench]]
-		- [[Dragon Blood Inn]]
+		- [[Dragons Blood Inn]]
 		- [[Earlwynn's Fine Dining]]
 		- [[Sally's Seaside Spot]]
 		- [[Yawning Pillow]]

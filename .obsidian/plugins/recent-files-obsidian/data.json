@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     },
     {
+      "basename": "Dragons Blood Inn",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md"
+    },
+    {
       "basename": "Faction Turn",
       "path": "Faction Turn.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Druids of Terran",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md"
-    },
-    {
-      "basename": "Druids of Ignan",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
     }
   ],
   "omittedPaths": [],

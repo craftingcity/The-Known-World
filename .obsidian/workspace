@@ -13,7 +13,19 @@
               "leaf": "cc04e82bec1449ad",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.813197420287629}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cc04e82bec1449ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "cc04e82bec1449ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":378},\"to\":{\"line\":14,\"ch\":378}},\"scroll\":6.693937116529765}"
             },
             {
               "leaf": "cc04e82bec1449ad",
@@ -177,6 +189,8 @@
   },
   "active": "cc04e82bec1449ad",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md",
+    "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
     "Faction Turn.md",
     "Massive Pricelist.md",
     "Faction Loadouts.md",
@@ -184,8 +198,6 @@
     "MEDIA/SUPP/factionTurnEquipment.png",
     "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
     "ORGANIZATION/TEMPLATES/FT Free Actions.md",
-    "ORGANIZATION/TEMPLATES/FT Faction List at H3.md",
-    "README.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
   ]
 }

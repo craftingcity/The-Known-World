@@ -24,7 +24,7 @@ If it differs from the nation's...
 
 [[Alisinder Rancarlo]]'s Glass Company makes much of the glassware and windows in Yerba.
 
-[[Dragon Blood Inn]]'s is a mid level tavern, but the heading of the Kingdom of Prosper's Underground Fighting Collective. Many other inns, taverns, and boutiques participate in the greater UFC.
+[[Dragons Blood Inn]]'s is a mid level tavern, but the heading of the Kingdom of Prosper's Underground Fighting Collective. Many other inns, taverns, and boutiques participate in the greater UFC.
 
 [[Kirin's Stables]] is the largest stable on the south east side of the city.
 

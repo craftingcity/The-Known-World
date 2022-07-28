@@ -12,7 +12,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-When we last left our heroes, after must shenanaganary, they had made their way into the town of Yerba. In its outskirts, Nala was disguised as a Red Dragonborn in an attempt to cover tracks before they are sought after and Jerren met with an old friend in Kirin of Kirin's Stables and procured a number of horses. Breenabelle led the party deeper into the city, to the [[Dragon Blood Inn]] to stay for the night. There the party met with the (orcish) patron of the establishment Nico Bennett, procured room and board for the night, and learned of a secret underground fighting collective that gathers in the basement of this very Inn.
+When we last left our heroes, after must shenanaganary, they had made their way into the town of Yerba. In its outskirts, Nala was disguised as a Red Dragonborn in an attempt to cover tracks before they are sought after and Jerren met with an old friend in Kirin of Kirin's Stables and procured a number of horses. Breenabelle led the party deeper into the city, to the [[Dragons Blood Inn]] to stay for the night. There the party met with the (orcish) patron of the establishment Nico Bennett, procured room and board for the night, and learned of a secret underground fighting collective that gathers in the basement of this very Inn.
 
 ### What does the World Know?
 The in-game date is the 20th of Regrowth, 105AF; 20:30.
