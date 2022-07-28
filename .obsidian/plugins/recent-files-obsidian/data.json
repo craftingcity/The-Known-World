@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Weapon Mechanics",
+      "path": "Game Notes/Mechanics/Custom Weapon Mechanics.md"
+    },
+    {
       "basename": "Prenotes July 27 22",
       "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Druids of Ventan",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md"
-    },
-    {
-      "basename": "Druids of Terran",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md"
     }
   ],
   "omittedPaths": [],

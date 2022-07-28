@@ -6,6 +6,7 @@ aliases:
 # Mechanics
 %% Begin Waypoint %%
 - **[[Mechanics]]**
+	- [[Custom Weapon Mechanics]]
 	- [[Homebrew Alchemy System]]
 	- **[[Homebrew Spells]]**
 	- [[How the Weave becomes Magic]]
