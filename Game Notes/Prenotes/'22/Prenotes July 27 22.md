@@ -63,10 +63,10 @@ Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldf
 
 | In-game Date:      | 21st of Rebirth | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
-| Navigator          | W1 (0:00 – 4:00)   |            |            |                |
-|                    | W2 (4:00 – 8:00)   |            |            |                |
+| Navigator          | W1 (0:00 – 4:00)   |            |YES|SCRIVIN RAID|
+|                    | W2 (4:00 – 8:00)   |            |YES|UNKNOWN|
 | Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
-|                    | W4 (12:00 – 16:00) |            |            |                |
+|                    | W4 (12:00 – 16:00) |            |YES|BODAIM RAID|
 | Veer?              | W5 (16:00 – 20:00) |            |            |                |
 |                    | W6 (20:00 – 0:00)  |            |            |                |
 
