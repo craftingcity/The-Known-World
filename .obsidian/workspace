@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "877210b94c398506",
+        "id": "cc04e82bec1449ad",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "877210b94c398506",
+              "leaf": "cc04e82bec1449ad",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.813197420287629}"
+            },
+            {
+              "leaf": "cc04e82bec1449ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":676.5766824501533}"
             }
           ]
         },
@@ -169,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "877210b94c398506",
+  "active": "cc04e82bec1449ad",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
-    "Game Notes/Prenotes/'22/Prenotes June 26 22.md",
-    "Prenotes July 27th.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Huntyr Swamp.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Faction Turn.md",
     "Massive Pricelist.md",
-    "Faction Loadouts.md"
+    "Faction Loadouts.md",
+    "fac.md",
+    "MEDIA/SUPP/factionTurnEquipment.png",
+    "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
+    "ORGANIZATION/TEMPLATES/FT Free Actions.md",
+    "ORGANIZATION/TEMPLATES/FT Faction List at H3.md",
+    "README.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
   ]
 }

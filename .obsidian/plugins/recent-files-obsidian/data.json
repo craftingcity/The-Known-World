@@ -5,34 +5,6 @@
       "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     },
     {
-      "basename": "Prenotes June 14 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes June 14 22.md"
-    },
-    {
-      "basename": "Prenotes June 26 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes June 26 22.md"
-    },
-    {
-      "basename": "Prenotes July 27th",
-      "path": "Prenotes July 27th.md"
-    },
-    {
-      "basename": "Huntyr Swamp",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Huntyr Swamp.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
-    },
-    {
       "basename": "Faction Turn",
       "path": "Faction Turn.md"
     },
@@ -199,6 +171,34 @@
     {
       "basename": "Ranger's Guild",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Ranger's Guild.md"
+    },
+    {
+      "basename": "Guilds of Coalition",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+    },
+    {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
+      "basename": "Communicaes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
+    },
+    {
+      "basename": "Druids of Animan",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
+    },
+    {
+      "basename": "Druids of Ventan",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md"
+    },
+    {
+      "basename": "Druids of Terran",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md"
+    },
+    {
+      "basename": "Druids of Ignan",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
     }
   ],
   "omittedPaths": [],
