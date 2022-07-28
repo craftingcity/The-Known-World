@@ -102,22 +102,24 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 ### Amputate
 Please see the [[#Targeting Table]] below.
 
-In replacement of a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. Make a weapon attack versus the target's AC plus your selection's DC 
+As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's 
 
 ### Sweep
 ### Cross-Lock Grab
 
-As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, the attacker is grappled and you take no damage from the attack that triggered this reaction.
+As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, you take no damage from the triggering attack, and the attacker is grappled. While you maintain this grapple, you cannot use your weapon to make attacks, and you gain an effective +4 to your Athletics.
 
 ### Wrap
 
-In replacement of a weapon attack, one can make a 
+As you perform a weapon attack, you may attempt to restrain your target.  
 
 ### Return
 ### Pointtack
+
+As you perform a weapon attack, you may attempt to precisely target your weapon. 
 ### Scatter
 
-In replacement of a weapon attack, you may perform a 
+In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful pellets. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
 
 ## Targeting Table
 DC Increase | Part | Condition
