@@ -82,8 +82,19 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 ### Pummel
 ### En-Route
 ### Pin
+
+In replacement of a weapon attack, one can attempt to pin a target to an abject using this weapon. Make this attempt as if it were a normal weapon attack, your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains in the target's armor/clothing. 
+
+An effected target can make a contested athletics check as an action on their turn in an attempt to remove the weapon from this pinning position.
+
 ### Charge
+
+When you make a weapon attack with this weapon, if you have moved 10 or more feet from your starting position this turn, you may gain a +2 bonus to the attack roll and, if you hit, the damage roll.
+
 ### Sunder
+
+When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may
+
 ### Amputate
 ### Sweep
 ### Cross-Lock Grab
