@@ -19,10 +19,20 @@ aliases:
 			- spellsword
 			- blast-mage
 		- Scrivin Hobgoblin
-			- 
+			- archer
+			- soldier/sword&boarder
+			- spellsword
 		- Scrivin Orc
+			- soldier/sword&boarder
+			- tank
+			- shaman
 		- Scrivin Warg
-		- Bodaim's Bandits
+		- [[Barret Bodaim]]'s Bandits
+			- Skinny Pete
+			- Jimmy No-Bugs
+			- Penny Big-Time
+			- Wanda Gonna'Gettcha
+			- Fern Doesnt-want-a-nickname
 	- [ ] intro / recap?
 
 ### Intro
