@@ -23,13 +23,39 @@ When you hit with an attack that would deal slashing damage, you may choose to r
 
 # Weapon Tags Changes
 ### Heavy
+
+A small creature makes attacks with this weapon with disadvantage.
+
 ### Light
+
+This weapon can be thrown for it's full weapon damage within 15' and half it's full damage within 30'. When one attempts such an attack with this weapon, they make the attack roll with disadvantage - while this weapon can be thrown, this weapon is not solely purposed to do so.
+
+A wielder of this weapon may use their Dex modifier in place of their Str when making weapon attacks with this weapon, if they wish to do so.
+
 ### Quick
+
+A wielder of a quick weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
+
 ### Versatile
+
+This weapon can be held in two hands. The first item in the Weapon Die column shows the damage when wielded with only one hand, while the second displays the damage done while the weapon is wielded in both hands. Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
+
 ### Unwieldy
+
+This weapon is difficult to fight with during a close-quarters combat. When making an attack against a target within five feet of the wielder, they make the attack with a -2 bonus to the attack roll.
+
 ### Long
+
+This weapon has a reach of roughly 10 feet, though exactly that much when performing combat calculations.
+
 ### Flexible
+
+This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
+
 ### Thrown
+
+This weapon is designed to be thrown. 
+
 ### Ranged
 ### Siege
 ### Wind-Susceptible
