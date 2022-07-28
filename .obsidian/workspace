@@ -13,7 +13,7 @@
               "leaf": "cc04e82bec1449ad",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+              "eState": "{\"scroll\":93.5631039108759}"
             },
             {
               "leaf": "cc04e82bec1449ad",
@@ -186,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

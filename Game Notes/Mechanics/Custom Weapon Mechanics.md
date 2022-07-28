@@ -93,9 +93,18 @@ When you make a weapon attack with this weapon, if you have moved 10 or more fee
 
 ### Sunder
 
-When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may
+When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply a stack of Sunder.
+
+> Sunder reduces the effected creature's effective AC by 1 per stack.
+> Sunder targets the creature's armor, not their natural ability to dodge or withstand damage.
+> Creatures' armor class cannot be reduced below 10 + their Dex modifier, and magic or natural armors are immune to this affect.
 
 ### Amputate
+
+When you hit with an attack with this weapon, if you beat your target's AC by eight or more, you may amputate a portion of your target's body and apply a corresponding and representative condition **permanently**.
+
+Please see the [[#Targeting Table]] below.
+
 ### Sweep
 ### Cross-Lock Grab
 
@@ -108,3 +117,13 @@ In replacement of a weapon attack, one can make a
 ### Return
 ### Pointtack
 ### Scatter
+
+## Targeting Table
+Part | Condition
+--- | --- | --- | ---
+Sense Organ | Blinded or Deafe
+2 | A2 | B2 | C2 
+3 | A3 | B3 | C3 
+4 | A4 | B4 | C4 
+5 | A5 | B5 | C5 
+6 | A6 | B6 | C6 
