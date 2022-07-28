@@ -83,9 +83,9 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 ### En-Route
 ### Pin
 
-In replacement of a weapon attack, one can attempt to pin a target to an abject using this weapon. Make this attempt as if it were a normal weapon attack, your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains in the target's armor/clothing. 
+In replacement of a weapon attack, you can attempt to pin a target to an abject using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains in the target's armor/clothing.
 
-An effected target can make a contested athletics check as an action on their turn in an attempt to remove the weapon from this pinning position.
+An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from your pinning position. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the pin.
 
 ### Charge
 
@@ -100,10 +100,9 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 > Creatures' armor class cannot be reduced below 10 + their Dex modifier, and magic or natural armors are immune to this affect.
 
 ### Amputate
-
-When you hit with an attack with this weapon, if you beat your target's AC by eight or more, you may amputate a portion of your target's body and apply a corresponding and representative condition **permanently**.
-
 Please see the [[#Targeting Table]] below.
+
+In replacement of a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. Make a weapon attack versus the target's AC plus your selection's DC 
 
 ### Sweep
 ### Cross-Lock Grab
@@ -118,12 +117,13 @@ In replacement of a weapon attack, one can make a
 ### Pointtack
 ### Scatter
 
+In replacement of a weapon attack, you may perform a 
+
 ## Targeting Table
-Part | Condition
+DC Increase | Part | Condition
 --- | --- | --- | ---
-Sense Organ | Blinded or Deafe
-2 | A2 | B2 | C2 
-3 | A3 | B3 | C3 
-4 | A4 | B4 | C4 
-5 | A5 | B5 | C5 
-6 | A6 | B6 | C6 
+1 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
+2 | Arm | Poisoned / Incapacitated
+2 | Leg | Slowed / Prone
+4 | Head | Stunned / Unconscious
+6 | Vital Organ | Unconscious / Dead
