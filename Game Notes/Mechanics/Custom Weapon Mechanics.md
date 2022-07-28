@@ -63,7 +63,7 @@ This weapon is designed to fire some type of ammunition. The first item in the r
 
 ### Siege
 
-This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks.
+This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks. It must be re-prepared after moving.
 
 ### Wind-Susceptible
 
@@ -71,7 +71,7 @@ This area of affect can be effectively dispersed by a medium wind or a sustained
 
 ### Ignitable
 
-This area of affect can be ignited by a spark or open flame. If such a thing were to occur, any occupents of the area would immediately take 6d4 fire damage, and the area of affect becomes dispersed and/or innert.
+This area of affect can be ignited by a spark or open flame. If such a thing were to occur, any occupants of the area would immediately take 6d4 fire damage, and the area of affect becomes dispersed and/or innert.
 
 ### Metal-Attunement
 
@@ -87,7 +87,13 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 ### Amputate
 ### Sweep
 ### Cross-Lock Grab
+
+As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, the attacker is grappled and you take no damage from the attack that triggered this reaction.
+
 ### Wrap
+
+In replacement of a weapon attack, one can make a 
+
 ### Return
 ### Pointtack
 ### Scatter
