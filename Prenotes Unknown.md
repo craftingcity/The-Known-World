@@ -28,11 +28,12 @@ aliases:
 			- shaman
 		- Scrivin Warg
 		- [[Barret Bodaim]]'s Bandits
-			- Skinny Pete
-			- Jimmy No-Bugs
-			- Penny Big-Time
-			- Wanda Gonna'Gettcha
-			- Fern Doesnt-want-a-nickname
+			- Barret "the Brains" Bodaim
+			- Skinny Pete Yuuwbin
+			- Jimmy "No-Bugs" Cammir
+			- Penny "Big-Time" San-Tymiq
+			- Wanda "Gonna'Gettcha" Bund
+			- Fern "Doesnt-want-a-nickname" Cinnamon
 	- [ ] intro / recap?
 
 ### Intro
@@ -47,12 +48,16 @@ We left a few minutes after the beginning of the raid on Yerba by (ostensibly) t
 	- The sqaure has a fountain in the center.
 	- [[Yerba#Notable Locations|Alvalini's Glasshouse]] is in the middle of the two forces.
 
+It's likely that the party will attempt to continue their work for [[Alergra Barrowinch]], and travel to the [[Darnt Hillkeep]] & further to [[The Golden City]] to do so, if they are able to do so.
+
+We have encounters prepped, and tables & hexes for otherwise. 
+
 ### What happened?
 
 | In-game Date:      | 21st of Rebirth | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
 | Navigator          | W1 (0:00 – 4:00)   |            |YES|SCRIVIN RAID|
-|                    | W2 (4:00 – 8:00)   |            |YES|SCRIVIN CHASE|
+|                    | W2 (4:00 – 8:00)   |            |YES|UNKNOWN / SCRIVIN CHASE|
 | Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
 |                    | W4 (12:00 – 16:00) |            |YES|BODAIM RAID|
 | Veer?              | W5 (16:00 – 20:00) |            |            |                |

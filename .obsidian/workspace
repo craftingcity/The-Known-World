@@ -7,7 +7,7 @@
         "id": "cc04e82bec1449ad",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "cc04e82bec1449ad",
@@ -19,7 +19,7 @@
               "leaf": "cc04e82bec1449ad",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Unknown.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":6},\"to\":{\"line\":29,\"ch\":19}},\"scroll\":21.008619956816702}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":6},\"to\":{\"line\":29,\"ch\":19}},\"scroll\":13.594156725256832}"
             },
             {
               "leaf": "cc04e82bec1449ad",
@@ -56,7 +56,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
+            "file": "Prenotes Unknown.md",
             "mode": "source",
             "source": true
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
+                "file": "Prenotes Unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
+                "file": "Prenotes Unknown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md"
+                "file": "Prenotes Unknown.md"
               }
             }
           }
@@ -237,6 +237,7 @@
   },
   "active": "cc04e82bec1449ad",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
     "Prenotes Unknown.md",
     "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
     "Prenotes July 27th.md",
@@ -245,7 +246,6 @@
     "Faction Turn.md",
     "Massive Pricelist.md",
     "Faction Loadouts.md",
-    "fac.md",
-    "MEDIA/SUPP/factionTurnEquipment.png"
+    "fac.md"
   ]
 }
