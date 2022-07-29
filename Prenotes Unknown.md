@@ -56,7 +56,7 @@ It's likely that the party will attempt to continue their work for [[Alergra Bar
 
 ### The Golden City
 
-
+[[Doctor Gunagido]] is currently deep within the City, in a [[Golden Claws]]' laboratory. He has left his personal laboratory in statis-quo 
 
 ### De-railed
 We have encounters prepped, and tables & hexes for otherwise. 
