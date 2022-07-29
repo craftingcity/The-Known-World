@@ -105,28 +105,34 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 ### Amputate
 Please see the [[#Targeting Table]] below.
 
-As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's 
+As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
 
 ### Sweep
+
+In replacement of a weapon attack, you may swing your weapon in a large arc.
+
 ### Cross-Lock Grab
 
 As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, you take no damage from the triggering attack, and the attacker is grappled. While you maintain this grapple, you cannot use your weapon to make attacks, and you gain an effective +4 to your Athletics.
 
 ### Wrap
 
-As you perform a weapon attack, you may attempt to restrain your target.  
+In replacement of a weapon attack, you may attempt to wrap a target using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains wrapped around your target.
+
+An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from around them. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the restraint from the target.
 
 ### Return
 
-When you miss with an attack with this weapon, it returns to you in an arc. Y
+When you miss with an attack with this weapon, it returns to you in an arc. You may recollect this weapon as a part of the weapon attack if you succeed on a DC12 Sleight of Hand check. If you fail this check, the weapon harmlessly lands within 5ft of you.
 
 ### Pointtack
+Please see the [[#Targeting Table]] below.
 
-As you perform a weapon attack, you may attempt to precisely target your weapon. 
+As you perform a weapon attack, you may attempt to precisely target a part of your target. If your attack beats the target's AC + your selection's DC, the part is severely harmed and the corresponding effect is applied. 
 
 ### Scatter
 
-In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful pellets. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
+In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful shot. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
 
 ## Targeting Table
 DC Increase | Part | Condition
