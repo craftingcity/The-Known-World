@@ -50,6 +50,15 @@ We left a few minutes after the beginning of the raid on Yerba by (ostensibly) t
 
 It's likely that the party will attempt to continue their work for [[Alergra Barrowinch]], and travel to the [[Darnt Hillkeep]] & further to [[The Golden City]] to do so, if they are able to do so.
 
+### Darnt Hillkeep
+
+[[Baron Jammu]] is awaiting the arrival of the misfits, and will collect a day of rest from them if they stay the night in her territory.
+
+### The Golden City
+
+
+
+### De-railed
 We have encounters prepped, and tables & hexes for otherwise. 
 
 ### What happened?

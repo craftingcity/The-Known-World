@@ -19,7 +19,7 @@
               "leaf": "cc04e82bec1449ad",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Unknown.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":6},\"to\":{\"line\":29,\"ch\":19}},\"scroll\":13.594156725256832}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":50.22303118441973}"
             },
             {
               "leaf": "cc04e82bec1449ad",
@@ -63,6 +63,52 @@
         }
       },
       {
+        "id": "40406b8740235b73",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "40406b8740235b73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":8.391880895746114}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "936b772f6d02aeb9",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "936b772f6d02aeb9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":13},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":1.0247452603619682}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ORGANIZATION/TEMPLATES/NPCs.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "2bf9c106a9908389",
         "type": "leaf",
         "pane-relief:history-v1": {
@@ -72,7 +118,7 @@
               "leaf": "2bf9c106a9908389",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":61.768396100125166}"
+              "eState": "{\"scroll\":54.55490873113376}"
             },
             {
               "leaf": "2bf9c106a9908389",
@@ -171,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Unknown.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Unknown.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Unknown.md"
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md"
               }
             }
           }
@@ -235,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc04e82bec1449ad",
+  "active": "40406b8740235b73",
   "lastOpenFiles": [
-    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
+    "ORGANIZATION/TEMPLATES/NPCs.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
     "Prenotes Unknown.md",
     "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
+    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
     "Prenotes July 27th.md",
     "Game Notes/Mechanics/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md",
     "Faction Turn.md",
-    "Massive Pricelist.md",
-    "Faction Loadouts.md",
-    "fac.md"
+    "Massive Pricelist.md"
   ]
 }

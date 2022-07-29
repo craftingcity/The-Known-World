@@ -7,17 +7,25 @@ aliases:
 ### she/her
 > Amethyst stands stout on her throne and strokes her 6-inch beard as she looks at you thoughtfully. On her body, she wears a dark blue cloak and a comfortable and fine set of leather-protected clothing. She wears an amulet of amethyst emblem around her neck, which, when it catches the light just perfectly, you can see is embossed with the Hillkeep emblem.
 
-Amethyst Jammu is the Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]].
+## Roleplaying
+### Quote
 
-As of [[The Assault of the Giant Dissenters]] she has no true heir. One could only 
+### Mannerism & Disposition
 
-A politic of theirs that players would interact with.
+### Background
+#### Early Life
+As a young dwarf, Amethyst Jammu was the groomed heir to the throne of the [[Dwarven Kingdom Jammu]]
+#### New Baron Jammu
 
-## History
-A general history of the character, from their conception to their current state
+Amethyst Jammu is the current Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]].
 
-## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+## Important Knowledge
 
-## Statistics
-Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
+
+## Stats
+. | . 
+--- | --- | --- | ---
+STR | DEX | CON | HP
+x | x | x | x
+INT | WIS | CHA | AC
+x | x | x | x
