@@ -79,6 +79,9 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 
 # Weapon Specials
 ### Bash
+
+In replacement of a weapon attack, you can attempt to perform a powerful bash.
+
 ### Pummel
 ### En-Route
 
@@ -109,7 +112,7 @@ As you perform a weapon attack, you may attempt to amputate an exposed organ or 
 
 ### Sweep
 
-In replacement of a weapon attack, you may swing your weapon in a large arc.
+In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures in range up to your proficiency bonus, then make a weapon attack against each of them. Each creature takes 1/2 of the damage of the weapon's attack.
 
 ### Cross-Lock Grab
 
