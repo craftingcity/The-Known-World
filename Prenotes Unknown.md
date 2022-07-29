@@ -8,10 +8,10 @@ aliases:
 - [ ] Notepaper
 - [ ] Prep
 	- [ ] maps?
-		- [ ] Yerba Town Square
-		- [ ] Yerba Outskirts
+		- [x] Yerba Town Square
+		- [x] Yerba Outskirts
 		- [ ] Roadside Clearing
-		- [ ] Hilly Path
+		- [x] Hilly Path
 	- [ ] encounters / monsters?
 		- Scrivin Goblin
 			- slingger
@@ -28,12 +28,15 @@ aliases:
 			- shaman
 		- Scrivin Warg
 		- [[Barret Bodaim]]'s Bandits
-			- Barret "the Brains" Bodaim
-			- Skinny Pete Yuuwbin
-			- Jimmy "No-Bugs" Cammir
-			- Penny "Big-Time" San-Tymiq
-			- Wanda "Gonna'Gettcha" Bund
-			- Fern "Doesnt-want-a-nickname" Cinnamon
+			- Barret "the Brains" Bodaim / CR 5 Legendary Soldier
+				- melee weapon attack (1)
+				- ally attack (1)
+				- melee slow + 1/2 damage attack
+			- "Skinny" Pete Yuuwbin / CR 3 Skirmisher
+			- Jimmy "No-Bugs" Cammir / CR 3 Artillery
+			- Penny "Big-Time" San-Tymiq / CR 3 Brute
+			- Wanda "Gonna'Gettcha" Bund / CR 3 Soldier
+			- Fern "Doesnt-want-a-nickname" Cinnamon / CR 4 Controller
 	- [ ] intro / recap?
 
 ### Intro
