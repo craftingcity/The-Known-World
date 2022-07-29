@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0214bd03aa89a6c7",
+        "id": "21281bd854c5ab25",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0214bd03aa89a6c7",
+              "leaf": "21281bd854c5ab25",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Unknown.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
+            "file": "Prenotes Unknown.md",
             "mode": "source",
             "source": true
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
+                "file": "Prenotes Unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
+                "file": "Prenotes Unknown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md"
+                "file": "Prenotes Unknown.md"
               }
             }
           }
@@ -170,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0214bd03aa89a6c7",
+  "active": "21281bd854c5ab25",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
@@ -180,7 +181,6 @@
     "Prenotes Unknown.md",
     "Golden Ward.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
-    "ORGANIZATION/TEMPLATES/NPCs.md",
-    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md"
+    "ORGANIZATION/TEMPLATES/NPCs.md"
   ]
 }
