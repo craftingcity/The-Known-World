@@ -11,8 +11,6 @@ On the turn of the half-century - after both the death of the patriarch, the Wit
 
 The first of her kind.
 
-She once had a name, but it has been lost to time. She is now known only by the family name. [[Arstovich]]. It still strikes fear into many a Yerban's heart.
+She once had a name, but it has been lost to time. She is now known only by the family's name. [[Arstovich]] - It's utterance still strikes fear into many a Yerbanian's heart.
 
-> Rumor speaks of this woman-beast surviving her curse, wounded, but safe. 
-> She has sealed herself away somewhere, guarded by her ancestor's creations. 
-> With assistance, or a ***long*** rest, she would thrive again. It is only because she has been harmed that we are safe today.
+Rumor speaks of this woman-beast surviving her curse, wounded, but safe. She has sealed herself away somewhere, guarded by her ancestor's creations. With assistance, or a ***long*** rest, she would thrive again. It is only because she has been harmed that we are safe today.

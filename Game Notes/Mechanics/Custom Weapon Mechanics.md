@@ -81,6 +81,9 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 ### Bash
 ### Pummel
 ### En-Route
+
+During a weapon attack on your turn, if you have moved more than five feet this turn, you may attack an additional time. 
+
 ### Pin
 
 In replacement of a weapon attack, you can attempt to pin a target to an abject using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains in the target's armor/clothing.
@@ -114,9 +117,13 @@ As a reaction, when you are attacked by a creature within 5 feet, you may perfor
 As you perform a weapon attack, you may attempt to restrain your target.  
 
 ### Return
+
+When you miss with an attack with this weapon, it returns to you in an arc. Y
+
 ### Pointtack
 
 As you perform a weapon attack, you may attempt to precisely target your weapon. 
+
 ### Scatter
 
 In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful pellets. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.

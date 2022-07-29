@@ -12,40 +12,15 @@
             {
               "leaf": "0214bd03aa89a6c7",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "9127c6e4823fbe15",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "9127c6e4823fbe15",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":32},\"to\":{\"line\":5,\"ch\":32}},\"scroll\":0}"
-            },
-            {
-              "leaf": "9127c6e4823fbe15",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":24},\"to\":{\"line\":11,\"ch\":24}},\"scroll\":4.823548269461929}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+            "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
             "mode": "source",
             "source": true
           }
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
+                "file": "Game Notes/Mechanics/Custom Weapon Mechanics.md"
               }
             }
           }
@@ -195,10 +170,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9127c6e4823fbe15",
+  "active": "0214bd03aa89a6c7",
   "lastOpenFiles": [
-    "Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
     "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
