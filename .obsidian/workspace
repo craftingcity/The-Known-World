@@ -72,7 +72,7 @@
               "leaf": "40406b8740235b73",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":8.391880895746114}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":100},\"to\":{\"line\":16,\"ch\":100}},\"scroll\":4.469628575897813}"
             }
           ]
         },
@@ -80,29 +80,6 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "936b772f6d02aeb9",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "936b772f6d02aeb9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":13},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":1.0247452603619682}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/TEMPLATES/NPCs.md",
             "mode": "source",
             "source": true
           }
