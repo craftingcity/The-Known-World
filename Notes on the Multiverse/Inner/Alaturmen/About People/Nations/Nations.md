@@ -22,6 +22,8 @@ aliases:
 			- [[Cobalt's Thieves]]
 			- [[Golden Claws]]
 			- [[Tetramocal Congregation]]
+			- [[Orcus Loyalists]]
+			- [[Lost Wanderers]]
 		- **Local Lore**
 			- [[First Invasion of Orcus]]
 			- [[Tetrimoc's Journal]]

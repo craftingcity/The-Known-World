@@ -4,90 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "cc04e82bec1449ad",
+        "id": "0214bd03aa89a6c7",
         "type": "leaf",
-        "dimension": 50,
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Unknown.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":50.22303118441973}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":349},\"to\":{\"line\":109,\"ch\":349}},\"scroll\":104.75869779940807}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":378},\"to\":{\"line\":14,\"ch\":378}},\"scroll\":6.693937116529765}"
-            },
-            {
-              "leaf": "cc04e82bec1449ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":676.5766824501533}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Prenotes Unknown.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "2bf9c106a9908389",
-        "type": "leaf",
-        "dimension": 50,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2bf9c106a9908389",
+              "leaf": "0214bd03aa89a6c7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":54.55490873113376}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "9127c6e4823fbe15",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "9127c6e4823fbe15",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":32},\"to\":{\"line\":5,\"ch\":32}},\"scroll\":0}"
             },
             {
-              "leaf": "2bf9c106a9908389",
+              "leaf": "9127c6e4823fbe15",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July 27th.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":12.098334526995798}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":24},\"to\":{\"line\":11,\"ch\":24}},\"scroll\":4.823548269461929}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
             "mode": "source",
             "source": true
           }
@@ -173,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Unknown.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Unknown.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Unknown.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
               }
             }
           }
@@ -237,17 +195,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc04e82bec1449ad",
+  "active": "9127c6e4823fbe15",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Prenotes Unknown.md",
+    "Golden Ward.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Jammu.md",
     "ORGANIZATION/TEMPLATES/NPCs.md",
-    "Prenotes Unknown.md",
-    "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
-    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
-    "Prenotes July 27th.md",
-    "Game Notes/Mechanics/Custom Weapon Mechanics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md",
-    "Faction Turn.md",
-    "Massive Pricelist.md"
+    "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md"
   ]
 }
