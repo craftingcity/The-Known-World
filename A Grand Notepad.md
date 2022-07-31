@@ -37,8 +37,3 @@ Nomads | [[Economics of Tetrimoc's Desert]] | Common-Power Code | Common-Power C
 x | x
 --- | ---
 Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/thought-of-the-day-disarming-magical-traps
-
-## [[Axioms of the Weave Arcane]]
-
-continual flow
-exponential density
