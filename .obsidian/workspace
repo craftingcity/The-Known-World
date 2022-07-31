@@ -13,7 +13,7 @@
               "leaf": "6ecf379d517a7477",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":4.406739204437069}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":149},\"to\":{\"line\":25,\"ch\":24}},\"scroll\":18.184258563778553}"
             },
             {
               "leaf": "6ecf379d517a7477",
@@ -34,6 +34,29 @@
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0660176ac5daa665",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0660176ac5daa665",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":119.3912927099021}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -196,15 +219,15 @@
   },
   "active": "6ecf379d517a7477",
   "lastOpenFiles": [
-    "Dimble Turring.md",
+    "The Druidic Texts.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Dimble Turring.md",
     "A Grand Notepad.md",
     "grand no.md",
     "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
+    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
   ]
 }

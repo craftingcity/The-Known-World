@@ -5,6 +5,14 @@
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
     },
     {
+      "basename": "The Druidic Texts",
+      "path": "The Druidic Texts.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Dimble Turring",
       "path": "Dimble Turring.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
-      "basename": "KingdomOfProsper-105AF",
-      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
     }
   ],
   "omittedPaths": [],
