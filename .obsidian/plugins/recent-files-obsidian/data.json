@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "How the Weave becomes Magic",
+      "path": "Game Notes/Mechanics/How the Weave becomes Magic.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Prenotes Unknown",
-      "path": "Prenotes Unknown.md"
+      "path": "Game Notes/Prenotes/Prenotes Unknown.md"
     },
     {
       "basename": "Custom Weapon Mechanics",
@@ -30,7 +46,7 @@
     },
     {
       "basename": "Golden Ward",
-      "path": "Golden Ward.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Golden Ward.md"
     },
     {
       "basename": "Baron Jammu",
@@ -50,11 +66,7 @@
     },
     {
       "basename": "Faction Turn",
-      "path": "Faction Turn.md"
-    },
-    {
-      "basename": "Massive Pricelist",
-      "path": "Massive Pricelist.md"
+      "path": "ORGANIZATION/Faction Turn.md"
     },
     {
       "basename": "factionTurnEquipment",
@@ -187,18 +199,6 @@
     {
       "basename": "Dwarven Kingdom Jammu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Actstow",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Suremantle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
-    },
-    {
-      "basename": "Cenva Minyo",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     }
   ],
   "omittedPaths": [],
