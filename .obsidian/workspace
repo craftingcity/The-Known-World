@@ -103,7 +103,7 @@
               "leaf": "6ecf379d517a7477",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":29.795649779140813}"
+              "eState": "{\"scroll\":20.03951702267404}"
             },
             {
               "leaf": "6ecf379d517a7477",
@@ -123,6 +123,29 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "256c8d83a9b1eb28",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "256c8d83a9b1eb28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes Unknown.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/Prenotes Unknown.md",
             "mode": "source",
             "source": true
           }
@@ -254,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+                "file": "Game Notes/Prenotes/Prenotes Unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+                "file": "Game Notes/Prenotes/Prenotes Unknown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+                "file": "Game Notes/Prenotes/Prenotes Unknown.md"
               }
             }
           },
@@ -330,10 +353,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ecf379d517a7477",
+  "active": "256c8d83a9b1eb28",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Natural Wonders of a Woven Reality.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
