@@ -7,13 +7,103 @@
         "id": "6ecf379d517a7477",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 15,
           "stack": [
             {
               "leaf": "6ecf379d517a7477",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Big Lore.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0.010350962463962634}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0.007055451520637614}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.007055451520637614}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":149},\"to\":{\"line\":25,\"ch\":24}},\"scroll\":18.184258563778553}"
+              "eState": "{\"scroll\":29.795649779140813}"
             },
             {
               "leaf": "6ecf379d517a7477",
@@ -33,6 +123,29 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "873ba79c6172e3bf",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "873ba79c6172e3bf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Alchemy System.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":259},\"to\":{\"line\":44,\"ch\":259}},\"scroll\":44.01250748654563}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Alchemy System.md",
             "mode": "source",
             "source": true
           }
@@ -116,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,15 +332,15 @@
   },
   "active": "6ecf379d517a7477",
   "lastOpenFiles": [
-    "The Druidic Texts.md",
+    "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Dimble Turring.md",
-    "A Grand Notepad.md",
-    "grand no.md",
-    "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
+    "Natural Wonders of a Woven Reality.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
   ]
 }
