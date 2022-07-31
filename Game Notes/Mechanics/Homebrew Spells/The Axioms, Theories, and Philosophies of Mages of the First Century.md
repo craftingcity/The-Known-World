@@ -25,7 +25,7 @@ The Theory of Faith explains the existence of the Gods on Alaturmen and comes fr
 
 1. Faith is a manifestation of a consciousness. 
 2. Faith is deeply personal and inciting.
-3. Faith forms powerful entities when collected.
+3. Faith knots the Weave.
 
 ## The Theory of Focus
 ## The Theory of Enchantment
