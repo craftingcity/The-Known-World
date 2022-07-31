@@ -14,7 +14,19 @@
 	- Known as the Axiom of Density, this axiom holds that there is no theoretical limit on the density of a Knot in the Weave, only the practical ability to apply the force necessary to maintain the Knot as it becomes denser.
 
 # Prevalent Theories of Arcana
-## 
+## The Theory of the True Name
+## The Theory of Focus
+## The Theory of Enchantment
+## The Theory of Alchemy
+### Turring-Turring Theory
+To understand Alchemy at all, one must first understand **Continua Fluxus**. After that, we can begin to speak about the Basics of Alchemy, or, more properly named, the Turring-Turring Theory. 
+
+The Turring-Turring Theory was first published in "Natural Wonders of a Woven Reality", a thin booklet written by [[Waywalket Turring]] and [[Dimble Turring]] that postulates the following:
+
+As the
+
+### Gunagido-Barrowinch Theory
+
 
 # Philosophies of Mages
 ## Traditionalist

@@ -13,7 +13,7 @@
               "leaf": "6ecf379d517a7477",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":9.438209764008215}"
+              "eState": "{\"scroll\":4.406739204437069}"
             },
             {
               "leaf": "6ecf379d517a7477",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prevalent",
+                "query": "wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,15 +196,15 @@
   },
   "active": "6ecf379d517a7477",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
+    "Dimble Turring.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "A Grand Notepad.md",
     "grand no.md",
     "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
-    "ORGANIZATION/ORGANIZATION.md"
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
   ]
 }

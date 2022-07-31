@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
     },
     {
+      "basename": "Dimble Turring",
+      "path": "Dimble Turring.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "KingdomOfProsper-105AF",
       "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
-    },
-    {
-      "basename": "Blood-Hobgoblin Clan Pact",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md"
     }
   ],
   "omittedPaths": [],
