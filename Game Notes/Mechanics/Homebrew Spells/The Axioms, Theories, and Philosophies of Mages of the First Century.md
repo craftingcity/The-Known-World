@@ -16,7 +16,9 @@
 
 # Prevalent Theories of Arcana
 ## The Theory of the True Name
-The Theory of the True Name is 
+The Theory of the True Name comes from fey myth & the texts of the Elves & Eladrin. It is said that something's name holds a power over that something. These two things are intrinsically linked, but a name is much easier to manipulate than anything generic, if you can access it. 
+
+Ancient names are often hidden and well protected, but some fools give their names, often without meaning to, but this is enough to establish a complete control. This theory also posits the power of a False Name
 
 ## The Theory of Faith
 ## The Theory of Focus
@@ -34,14 +36,14 @@ The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven 
 > Not only are the specifics of the Axioms a mess of contradiction, but the concept of invocation being a non-natural is provably false. The recipes following this chapter will describe to you the processes by which an arcane invocation of the Weave can be created. While it is clear that some effects could be enhanced with more specialized equipment, we suggest only four pieces in this book that we believe to be integral to an expanding toolkit of this practice, and we have also included one recipe that requires no specialized tools at all, though the effect when produced in this manner is quite minor.
 
 ### Gunagido-Barrowinch Theory
-The Gunagido-Barrowinch Theory, also known as the the Motifs of Alchemy, describes twenty-nine "motifs" that are connected, mutable, and present in most if not all alchemically potent ingredients that one would encounter in . 
+The Gunagido-Barrowinch Theory, also known as the the Motifs of Alchemy, describes twenty-nine "motifs" that are connected, mutable, and present in most if not all alchemically potent ingredients that one would encounter in [[Central Alaturmen]]. 
 
-While this theory has yet to be popularized (or, in cannon, written down in one place), those few who have become Experts in this field almost unanimously agree that a dual categorization of alchemical ingredients is "efficient" or even "correct".
+While this theory has yet to be popularized (or, in cannon, written down in one place; ~teehee), those few who have become Experts in this field almost unanimously agree that a dual categorization - one such as the Gunagido-Barrowinch Theory suggests - of alchemical ingredients is "efficient" or even "correct".
 
 # Philosophies of Mages
 ## Traditionalist
-One School
+A Traditionalist focuses their toolkit in a singular school or tradition of magic. Be you an Invoker, Diviner, Necromancer, or otherwise, those of you who focus your studies down the one path you have followed for your entire life; you are a Traditionalist.
 ## Specialist
-One Task
+A Specialist focuses their toolkit for a specific task they perform. Enchanters, Alchemists, Artificers, Seductors - all specialists.
 ## Generalist
-Many Tasks / Many Schools
+A generalist does not fall into either of the above categories. They focus their toolkit in what they have for what they must do, in most cases - simply to survive.
