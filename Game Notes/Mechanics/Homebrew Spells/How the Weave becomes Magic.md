@@ -21,9 +21,12 @@ As the *people* of the multiverse came together, they produced Faith, and delive
 
 **Clerics** bind themselves by their worship, and in doing so devote themselves entirely to one God, exchanging their attuned Faith for their God's divine interventions and magics. 
 
-**Warlocks** bind themselves by their purchase, exchanging *something* of value in exchange for some magical ability or alignment. It is very typical for this *something* to be a whole or portion of the **Warlock**'s Soul upon their demise. The beings who deal in this manner typically understand this style of deal as an investment; "I'll sell you this gun, but you'll get more on your own now that you have this one. When you die I get them all." and the like.
+**Warlocks** bind themselves by their Purchase, exchanging *something* of value in exchange for some magical ability or alignment. It is very typical for this *something* to be a whole or portion of the **Warlock**'s Soul upon their demise. 
 
-**Paladins** bind themselves with their Oath. A **Paladin** has the upmost Faith in their Oath, and to a God, this is nearly as dense a form of Faith as the Soul. Much like W
+**Paladins** bind themselves with their Oath. A **Paladin** has the upmost Faith in their Oath, and to a God, this is nearly as dense a form of Faith as the Soul. 
+
+Unlike a **Cleric**'s consistent delivery of Faith, a **Warlock**'s Purchase and a **Paladin**'s Oath is a *stock* of Faith - a set amount that could be traded in exchange for some other boon. Rarely is this done, an Oath or a Soul are only slightly less satisfying than Faith drip-fed, and this is most commonly when an Entity cannot bear such a stock, for preference, station, or otherwise.
 
 ## Arcane [[Draconic (language)]]
-The Weave Arcane is the method by which many mortals manually manipulate the Weave itself. These mortals are known as Mages, a title which itself could be subdivided further into those who have learned to master the methods of the Weave Arcane, known as Wizards, and those who somehow access the Weave Arcane by methods they do not fully understand, known as Sorcerers or Eldritch Knights.
+The Weave Arcane is the method by which mortals manually manipulate the Weave itself. These mortals are known as Mages, a title which itself could be subdivided further into those who have learned to master the [[Axioms of the Weave Arcane]], known as **Wizards**, **Artificers** or *Eldritch Knights*, and those who somehow access or invoke the Weave Arcane by methods they could not fully understand, known as **Sorcerers**.
+
