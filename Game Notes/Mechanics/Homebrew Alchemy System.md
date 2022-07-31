@@ -5,7 +5,7 @@ aliases:
 
 # Alchemy!
 ## Introducing Alchemy
-Alchemy is the act of harnessing the latent magical energy in all things known as "Weave Potentia". When this energy is harnessed, it will affect the world around it, or sometimes produce an effect known as "Weave Arcane", an invoked and (ideally) purposed manifestation of this energy. This involves some chemical processes, some magical processes, and a very cryptic and loose set of hard laws; the [[Axioms of the Weave Arcane]].
+Alchemy is the act of harnessing the latent magical energy in all things known as "Weave Potentia". When this energy is harnessed, it will affect the world around it, or sometimes produce an effect known as "Weave Arcane", an invoked and (ideally) purposed manifestation of this energy. This involves some chemical processes, some magical processes, and a very cryptic and loose set of hard laws; the [[The Axioms, Theories, and Philosophies of Mages of the First Century]].
 
 The key to successful alchemy is understanding and controlling the Weave Potentia. This energy is present in all things, and can be harnessed to produce a variety of effects. It is important to note that the Weave is not a fixed or static thing - it can be influenced and controlled, but never fully understood. This makes alchemy a difficult, but potentially very rewarding, art. It is also important to remember that alchemy is not without risk. The results of alchemy can be unpredictable, and sometimes dangerous. It is essential to have the necessary skills and knowledge before attempting any alchemical process.
 
