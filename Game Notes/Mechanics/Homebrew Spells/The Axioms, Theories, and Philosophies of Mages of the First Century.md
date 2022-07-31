@@ -16,11 +16,17 @@
 
 # Prevalent Theories of Arcana
 ## The Theory of the True Name
-The Theory of the True Name comes from fey myth & the texts of the Elves & Eladrin. It is said that something's name holds a power over that something. These two things are intrinsically linked, but a name is much easier to manipulate than anything generic, if you can access it. 
+The Theory of the True Name comes from the fey, but copies of texts written by Eladrin mages that speak of and explain this theory are kept in [[Cenva Minyo]]. It is said that something's name holds a power over that something. These two things are intrinsically linked, but a name is much easier to manipulate than anything generic, if you can access it. 
 
-Ancient names are often hidden and well protected, but some fools give their names, often without meaning to, but this is enough to establish a complete control. This theory also posits the power of a False Name
+Ancient names are often hidden and well protected, but some fools give their names, often without meaning to, but this is enough to establish a complete control. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
 
 ## The Theory of Faith
+The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
+
+1. Faith is a manifestation of a consciousness. 
+2. Faith is deeply personal and inciting.
+3. Faith forms powerful entities when collected.
+
 ## The Theory of Focus
 ## The Theory of Enchantment
 ## The Theory of Alchemy
