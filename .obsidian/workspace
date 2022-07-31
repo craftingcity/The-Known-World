@@ -4,6 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "6ecf379d517a7477",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6ecf379d517a7477",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"grand no.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Grand Notepad.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "c5e6be55d73e7845",
         "type": "leaf",
         "pane-relief:history-v1": {
@@ -13,7 +42,7 @@
               "leaf": "c5e6be55d73e7845",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}},\"scroll\":0}"
             },
             {
               "leaf": "c5e6be55d73e7845",
@@ -202,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,29 +283,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md"
+                "file": "A Grand Notepad.md"
               }
+            }
+          },
+          {
+            "id": "2a71230f24d753dd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c5e6be55d73e7845",
+  "active": "6ecf379d517a7477",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md",
+    "A Grand Notepad.md",
+    "grand no.md",
     "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
-    "Game Notes/Mechanics/Homebrew Spells/Axioms of the Weave Arcane.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "Massive Pricelist.md",
-    "Game Notes/Prenotes/Prenotes Unknown.md"
+    "ORGANIZATION/ORGANIZATION.md"
   ]
 }
