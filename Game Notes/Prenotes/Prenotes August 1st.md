@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for Next Session with Nala & Co.
+# Prenotes for August 1st 2022
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
