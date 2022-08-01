@@ -138,7 +138,7 @@
               "leaf": "256c8d83a9b1eb28",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes August 1st.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":490},\"to\":{\"line\":61,\"ch\":490}},\"scroll\":61.058191632836014}"
+              "eState": "{\"scroll\":13.461113730507295}"
             }
           ]
         },
@@ -146,6 +146,29 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Prenotes/Prenotes August 1st.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "90d90bcd4fdcde08",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "90d90bcd4fdcde08",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
             "mode": "source",
             "source": true
           }
@@ -277,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes August 1st.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes August 1st.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes August 1st.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
               }
             }
           },
@@ -353,8 +376,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "256c8d83a9b1eb28",
+  "active": "90d90bcd4fdcde08",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/Prenotes August 1st.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Natural Wonders of a Woven Reality.md",
@@ -363,7 +387,6 @@
     "Notes on the Multiverse/Big Lore/Big Lore.md",
     "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
   ]
 }
