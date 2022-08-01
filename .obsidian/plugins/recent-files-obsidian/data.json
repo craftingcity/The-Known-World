@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Sally's Seaside Spot",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md"
+    },
+    {
+      "basename": "Sally Seashell",
+      "path": "Sally Seashell.md"
+    },
+    {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Homebrew Alchemy System",
@@ -177,10 +189,6 @@
       "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "alaturmen-100AF",
       "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "combine-100AF",
       "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
-    },
-    {
-      "basename": "Yahlin",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md"
-    },
-    {
-      "basename": "Unyalian",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md"
     }
   ],
   "omittedPaths": [],
