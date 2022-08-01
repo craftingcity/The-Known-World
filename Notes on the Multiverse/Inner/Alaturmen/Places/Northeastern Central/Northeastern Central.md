@@ -37,7 +37,7 @@ aliases:
 		- [[Brandle Wrench]]
 		- [[Dragons Blood Inn]]
 		- [[Earlwynn's Fine Dining]]
-		- [[Sally's Seaside Spot]]
+		- [[Sally's Alley]]
 		- [[Yawning Pillow]]
 
 %% End Waypoint %%

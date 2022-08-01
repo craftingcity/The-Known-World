@@ -103,7 +103,7 @@
               "leaf": "6ecf379d517a7477",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":31.97703357158137}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":34.218988449649004}"
             },
             {
               "leaf": "6ecf379d517a7477",
@@ -129,52 +129,6 @@
         }
       },
       {
-        "id": "b45d5dedd63e851d",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b45d5dedd63e851d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sally Seashell.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":98},\"to\":{\"line\":10,\"ch\":98}},\"scroll\":6.636157499834521}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sally Seashell.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "5c911d24f11502c1",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "5c911d24f11502c1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "0660176ac5daa665",
         "type": "leaf",
         "pane-relief:history-v1": {
@@ -184,7 +138,7 @@
               "leaf": "0660176ac5daa665",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":119.3912927099021}"
+              "eState": "{\"scroll\":111.62081137048193}"
             }
           ]
         },
@@ -277,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Seaside Spot.md"
+                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
               }
             }
           },
@@ -353,17 +307,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c911d24f11502c1",
+  "active": "6ecf379d517a7477",
   "lastOpenFiles": [
+    "Quosetteng.md",
     "Sally Seashell.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Alley.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "README.md",
     "Game Notes/Mechanics/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Prenotes/Prenotes August 1st.md",
-    "Natural Wonders of a Woven Reality.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Big Lore/Big Lore.md"
+    "Natural Wonders of a Woven Reality.md"
   ]
 }
