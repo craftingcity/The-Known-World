@@ -652,7 +652,7 @@ Communication: -
 ### Harvord Trading Co.
 **Full Action:** Create
 
-	Goal: Trade Goods (0/30g)
+	Goal: Trade Goods (30g)
 	Roll: 1d20+20+1=32
 
 **Bonus Action:** Training
@@ -756,11 +756,18 @@ Communication: -
 **Full Action:** Create
 
 	Goal: Basic Skill Equipment (30g)
-	Roll: 1d20+4=
+	Roll: 1d20+4+20=38 > (SUCC)
 
-**Bonus Action:** 
+**Bonus Action:** Training
+
+- [x] **Progress:** 38/30 > +25xp +34g
+- [x] **Progress:** *(TRAINING)* > +100xp 
+- [x] Goal (STG): (SUCC) > +50xp
 
 ### Scrivin
+**Full Action:** Arcane Attack
+**Bonus Action:** 
+
 ### Bulgpim
 ### Wheernat
 ### Agrandica's Thieves
