@@ -775,7 +775,11 @@ Communication: -
 
 - [x] **Progress:** (SUCC) > +75xp, +25g
 - [x] **Goal (RTG(1)):** (SUCC) > +25xp
+
 ### Bulgpim
+**Full Action:** 
+**Bonus Action:**
+
 ### Wheernat
 ### Agrandica's Thieves
 ### Barthalamule's Thieves
