@@ -11,6 +11,8 @@
 	- Known as the Axiom of Meaning, this axiom holds that one can manipulate the Strands described by Fila Texere and "sew new meaning" or create purposed effects from these Strands. 
 5. **Nodum Inuocationem**
 	- Known as the Axiom of Knots, this axiom holds that the Weave invokes "super-natural", "naturally disruptive", or "magical" effects when a Knot is created *or* released in the Weave.
+	- This axiom is partly contested by the [[#Turring-Turring Theory Theory of Potential]], which proves that the Druidic claim that the Knots of the Weave are explicitly "super-natural" or "naturally disruptive" is false. 
+	- Otherwise, the Axiom of Knots explains the basic concept of Weave Arcane, spellcasting, and reality.
 6. **Density Exponentialibus**
 	- Known as the Axiom of Density, this axiom holds that there is no theoretical limit on the density of a Knot in the Weave, only the practical ability to apply the force necessary to maintain the Knot as it becomes denser.
 
@@ -27,10 +29,12 @@ The Theory of Faith explains the existence of the Gods on Alaturmen and comes fr
 2. Faith is deeply personal and inciting.
 3. Faith knots the Weave.
 
-[[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. 
+[[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. Ostensibly, the personal manifestation of Knots creates these entities, and they grow in power by establishing more connections to or consumption of Faith.
 
-## The Theory of Focus
-The Theory of Focus 
+## The Theory of Focus & Material
+The Theory of Focus & Material too comes from [[The Texts Druidic]] and explains the use of a Focus and other Materials in the manipulation of the Weave Arcane.
+
+
 
 ## The Theory of Enchantment
 
@@ -43,7 +47,7 @@ The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven 
 
 > Given the Axiom of Conservation and the Axiom of Continuity, one *must* wonder, if the Weave flows through all things, and can only ever be changed, doesn't this suggest that all things have the Weave flowing through them? As Axiom of Strands seems to directly state this, we could then further theorize that our observable reality *is* some type of Knot, as described in the Axiom of Knots, yet the Axiom of Knots excludes the possibility of the participation of the natural world in this "magic"; only the "naturally-disruptive" effects are the work of a Knot. 
 > 
-> One could then suggest that our observable reality is perhaps the work of a Knot unmade, but this suggestion *requires* the parallel suggestion that some force failed to maintain a Knot of such a Density that **Alaturmen** was formed. A Tetrimocal view of the world agrees with this suggestion; 'twas the work of Tetrimoc's fall, but this cannot be proven with any known works, including the *Diary of Tetrimoc*. 
+> One could then suggest that our observable reality is perhaps the work of a Knot unmade, but this suggestion *requires* the parallel suggestion that some force failed to maintain a Knot of such a Density that **Alaturmen** was formed. A Tetrimocal view of the world agrees with this suggestion; 'twas the work of Tetrimoc's fall, but this cannot be proven by citing any known works, including the *Diary of Tetrimoc*. 
 > 
 > Not only are the specifics of the Axioms a mess of contradiction, but the concept of invocation being a non-natural is provably false. The recipes following this chapter will describe to you the processes by which an arcane invocation of the Weave can be created. While it is clear that some effects could be enhanced with more specialized equipment, we suggest only four pieces in this book that we believe to be integral to an expanding toolkit of this practice, and we have also included one recipe that requires no specialized tools at all, though the effect when produced in this manner is quite minor.
 
