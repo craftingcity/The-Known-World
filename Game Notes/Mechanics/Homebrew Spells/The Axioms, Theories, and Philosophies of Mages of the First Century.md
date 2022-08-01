@@ -15,10 +15,10 @@
 	- Known as the Axiom of Density, this axiom holds that there is no theoretical limit on the density of a Knot in the Weave, only the practical ability to apply the force necessary to maintain the Knot as it becomes denser.
 
 # Prevalent Theories of Arcana
-## The Theory of the True Name
-The Theory of the True Name comes from the fey, but copies of texts written by Eladrin mages that speak of and explain this theory are kept in [[Cenva Minyo]]. It is said that something's name holds a power over that something. These two things are intrinsically linked, but a name is much easier to manipulate than anything generic, if you can access it. 
+## The Theory of a True Name
+The Theory of a True Name comes from the Fey, but copies of texts written by Eladrin mages that speak of and explain this theory are kept in [[Cenva Minyo]]. It is claimed that something's name holds a complete power over that something. These two things are intrinsically & inversely linked, but a name is much easier to manipulate than anything generic, so long as you can access it. 
 
-Ancient names are often hidden and well protected, but some fools give their names, often without meaning to, but this is enough to establish a complete control. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
+Ancient names are often hidden and well protected, but some fools give their names freely, often without meaning to do so but still this is enough to establish a complete control over them. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
 
 ## The Theory of Faith
 The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
@@ -27,8 +27,14 @@ The Theory of Faith explains the existence of the Gods on Alaturmen and comes fr
 2. Faith is deeply personal and inciting.
 3. Faith knots the Weave.
 
+[[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. 
+
 ## The Theory of Focus
+The Theory of Focus 
+
 ## The Theory of Enchantment
+
+
 ## The Theory of Alchemy
 To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Turring-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
 
