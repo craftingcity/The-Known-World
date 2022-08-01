@@ -762,17 +762,19 @@ Communication: -
 
 - [x] **Progress:** 38/30 > +25xp +34g
 - [x] **Progress:** *(TRAINING)* > +100xp 
-- [x] Goal (STG): (SUCC) > +50xp
+- [x] **Goal (STG):** (SUCC) > +50xp
 
 ### Scrivin
 **Full Action:** Weapon Attack (d20+5 v DV18)
 
-	Roll: 1d20+5=18 > (SUCC) > 1d12+3=15
+	Roll: 1d20+5=18 > (SUCC) > 1d12+3=15 power damage
 
 **Bonus Action:** Earn Guilders (Muscle)
 
 	Roll: 1d20+5=13 > 25g earned
 
+- [x] **Progress:** (SUCC) > +75xp, +25g
+- [x] **Goal (RTG(1)):** (SUCC) > +25xp
 ### Bulgpim
 ### Wheernat
 ### Agrandica's Thieves

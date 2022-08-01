@@ -13,7 +13,7 @@
               "leaf": "1f5ef6e1d0c0ac1b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":346,\"ch\":16},\"to\":{\"line\":346,\"ch\":16}},\"scroll\":335.88484782482385}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -181,46 +181,6 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
-  },
-  "floating": {
-    "id": "6722365ce58e6422",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0918228d69cf634f",
-        "type": "window",
-        "children": [
-          {
-            "id": "5a812fdd12563d6e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "5a812fdd12563d6e",
-                  "group": null,
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 95,
-        "y": 68,
-        "width": 1517,
-        "height": 776,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
   },
   "active": "1f5ef6e1d0c0ac1b",
   "lastOpenFiles": [
