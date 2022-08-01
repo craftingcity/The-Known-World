@@ -38,9 +38,10 @@ The Theory of Component too comes from [[The Texts Druidic]] and explains the ne
 > 
 > 1. An attuned material focus one uses to gather *fila*.
 > 2. An auditory focus one uses to harmonize *fila*.
-> 3. A physical pattern one uses to 
+> 3. A physical pattern one uses to bind *fila* against itself.
+> 4. A will that one uses to manipulate *fila* into *significatio* as *nodum*.
 
-Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. 
+Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. Individually, popular parlance calls each of the four Components Material, Verbal
 
 ## The Theory of Enchantment
 
