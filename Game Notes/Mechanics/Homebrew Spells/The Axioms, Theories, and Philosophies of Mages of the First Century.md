@@ -44,7 +44,7 @@ The Theory of Component too comes from [[The Texts Druidic]] and explains the ne
 Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. Individually, popular parlance names each of the four as Material, Verbal, Somatic, and Ability respectively.
 
 ## The Theory of Enchantment
-
+The Theory of Enchantment explains the ability for a practitioner to store a permanent or repetitive effect of Weave Arcane in a material manifestation. This process is technical, expensive, and incredibly exhausting as it involves the creation of a system of Knots that both produces the desired effect of the user, and after doing so, maintains or regains the ability to produce the desired effect. The first task is relatively easy, while the second is much more difficult.
 
 ## The Theory of Alchemy
 To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Turring-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
@@ -65,7 +65,7 @@ While this theory has yet to be popularized (or, in cannon, written down in one 
 
 # Philosophies of Mages
 ## Traditionalist
-A Traditionalist focuses their toolkit in a singular school or tradition of magic. Be you an Invoker, Diviner, Necromancer, or otherwise, those of you who focus your studies down the one path you have followed for your entire life; you are a Traditionalist.
+A Traditionalist focuses their toolkit in a singular school or tradition of magic. Invokers, Diviners, Necromancers, or otherwise, those who focus their studies down one path you have followed for your entire life; you are a Traditionalist.
 ## Specialist
 A Specialist focuses their toolkit for a specific task they perform. Enchanters, Alchemists, Artificers, Seductors - all specialists.
 ## Generalist
