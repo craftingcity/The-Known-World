@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Faction Turn",
+      "path": "ORGANIZATION/Faction Turn.md"
+    },
+    {
+      "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
+      "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Sally's Alley",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Alley.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "README",
@@ -173,10 +181,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md"
     },
     {
-      "basename": "Faction Turn",
-      "path": "ORGANIZATION/Faction Turn.md"
-    },
-    {
       "basename": "factionTurnEquipment",
       "path": "MEDIA/SUPP/factionTurnEquipment.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "alaturmen-100AF",
       "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
-    },
-    {
-      "basename": "Slimknives",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
     }
   ],
   "omittedPaths": [],

@@ -344,6 +344,8 @@ Hardwork (0): 1d4=2 power lost > 3d4=7 guilders gained
 
 Communication: -
 
+Silver Might: - 
+
 ### Scrivin
 Declare New Goals:
 
@@ -752,7 +754,11 @@ Communication: -
 
 ### Emorin
 **Full Action:** Create
-**Bonus Action:**
+
+	Goal: Basic Skill Equipment (30g)
+	Roll: 1d20+4=
+
+**Bonus Action:** 
 
 ### Scrivin
 ### Bulgpim

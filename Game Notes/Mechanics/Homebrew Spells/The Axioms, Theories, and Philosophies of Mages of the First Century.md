@@ -44,7 +44,9 @@ The Theory of Component too comes from [[The Texts Druidic]] and explains the ne
 Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. Individually, popular parlance names each of the four as Material, Verbal, Somatic, and Ability respectively.
 
 ## The Theory of Enchantment
-The Theory of Enchantment explains the ability for a practitioner to store a permanent or repetitive effect of Weave Arcane in a material manifestation. This process is technical, expensive, and incredibly exhausting as it involves the creation of a system of Knots that both produces the desired effect of the user, and after doing so, maintains or regains the ability to produce the desired effect. The first task is relatively easy, while the second is much more difficult.
+The Theory of Enchantment originates in [[Sally Seashell]]'s "Calculating *Nodum Iterum*". In this book, she explains the ability for a practitioner to store a permanent or repetitive effect of Weave Arcane in a material manifestation. 
+
+This process is technical, expensive, and incredibly exhausting as it involves the creation of a system of Knots that both produces the desired effect of the user, and after doing so, maintains or regains the ability to produce the desired effect. The first task is relatively easy, while the second is much more difficult.
 
 ## The Theory of Alchemy
 To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Turring-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
