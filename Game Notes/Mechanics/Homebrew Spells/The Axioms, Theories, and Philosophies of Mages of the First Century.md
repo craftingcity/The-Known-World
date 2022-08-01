@@ -36,9 +36,11 @@ The Theory of Component too comes from [[The Texts Druidic]] and explains the ne
 
 > In the creation of an effect of Weave Arcane, there are only so many things a mortal can perform.
 > 
-> The first is a properly attuned Focus by which one 
+> 1. An attuned material focus one uses to gather *fila*.
+> 2. An auditory focus one uses to harmonize *fila*.
+> 3. A physical pattern one uses to 
 
-Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains it's name. 
+Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. 
 
 ## The Theory of Enchantment
 
