@@ -777,10 +777,20 @@ Communication: -
 - [x] **Goal (RTG(1)):** (SUCC) > +25xp
 
 ### Bulgpim
-**Full Action:** 
-**Bonus Action:**
+**Full Action:** Skill Use (Religion)
+
+	Roll: 1d20+4=12 > (FAIL)
+	
+**Bonus Action:** Earn Guilders (Religion)
+
+	Roll: 1d20+4=24 > 35 guilders earned
+
+- [x] **Progress:** (FAIL) > +50xp, +35g
 
 ### Wheernat
+**Full Action:** Sabotage
+**Bonus Action:** 
+
 ### Agrandica's Thieves
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
