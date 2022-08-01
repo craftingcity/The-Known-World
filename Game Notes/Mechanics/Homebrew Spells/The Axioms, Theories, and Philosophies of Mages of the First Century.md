@@ -31,10 +31,14 @@ The Theory of Faith explains the existence of the Gods on Alaturmen and comes fr
 
 [[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. Ostensibly, the personal manifestation of Knots creates these entities, and they grow in power by establishing more connections to or consumption of Faith.
 
-## The Theory of Focus & Material
-The Theory of Focus & Material too comes from [[The Texts Druidic]] and explains the use of a Focus and other Materials in the manipulation of the Weave Arcane.
+## The Theory of Component
+The Theory of Component too comes from [[The Texts Druidic]] and explains the near-necessity of Components in the manipulation of the Weave Arcane;
 
+> In the creation of an effect of Weave Arcane, there are only so many things a mortal can perform.
+> 
+> The first is a properly attuned Focus by which one 
 
+Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains it's name. 
 
 ## The Theory of Enchantment
 
