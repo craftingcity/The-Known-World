@@ -765,8 +765,13 @@ Communication: -
 - [x] Goal (STG): (SUCC) > +50xp
 
 ### Scrivin
-**Full Action:** Arcane Attack
-**Bonus Action:** 
+**Full Action:** Arcane Attack (d20+5 v DV18)
+
+	Roll: 1d20+5=18 > (SUCC) > 
+
+**Bonus Action:** Earn Guilders (Muscle)
+
+	Roll: 1d20+
 
 ### Bulgpim
 ### Wheernat
