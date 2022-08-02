@@ -12,15 +12,33 @@
             {
               "leaf": "1f5ef6e1d0c0ac1b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes August 1st.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f5ef6e1d0c0ac1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1f5ef6e1d0c0ac1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":16.8109621797872}"
+            },
+            {
+              "leaf": "1f5ef6e1d0c0ac1b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":23},\"to\":{\"line\":0,\"ch\":40}}}"
+              "eState": "{\"scroll\":789.974840690768}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/Faction Turn.md",
+            "file": "Game Notes/Prenotes/Prenotes August 1st.md",
             "mode": "source",
             "source": true
           }
@@ -106,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Prenotes/Prenotes August 1st.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Prenotes/Prenotes August 1st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md"
+                "file": "Game Notes/Prenotes/Prenotes August 1st.md"
               }
             }
           },
@@ -182,57 +200,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "aa334877c8cac408",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aeefa89c70943d41",
-        "type": "window",
-        "children": [
-          {
-            "id": "1030e62502eb6f84",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "1030e62502eb6f84",
-                  "group": null,
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 95,
-        "y": 68,
-        "width": 1517,
-        "height": 776,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1f5ef6e1d0c0ac1b",
   "lastOpenFiles": [
-    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
+    "Game Notes/NPCs/List of Names.md",
     "ORGANIZATION/Faction Turn.md",
+    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Quosetteng.md",
     "Sally Seashell.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Alley.md",
-    "README.md",
-    "Game Notes/Mechanics/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Alley.md"
   ]
 }

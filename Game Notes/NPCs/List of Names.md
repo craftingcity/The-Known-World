@@ -7,7 +7,7 @@ Masc | Femme | Neutral
 --------|--------|--------
   Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
 Theo Anderson  | Paige Saunders | Glen Stone
-  Weulleachan Martin | Freya Harris | Glen Berry
+  Weulleachan Martin | Freya Harris | x
 River Mcdonald  | Alaya Mccarthy | Val Harris
 Leighton Mitchell  | Lily-Mae Fisher | Val Stevens
 Mark Ross  | Lyla Bradley | Franky Bradley

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes August 1st",
+      "path": "Game Notes/Prenotes/Prenotes August 1st.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "Yerba",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
       "basename": "Faction Turn",
       "path": "ORGANIZATION/Faction Turn.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Custom Weapon Mechanics",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
-    },
-    {
-      "basename": "Prenotes August 1st",
-      "path": "Game Notes/Prenotes/Prenotes August 1st.md"
     },
     {
       "basename": "Natural Wonders of a Woven Reality",
@@ -187,18 +199,6 @@
     {
       "basename": "FT Full Bonus Main Phase",
       "path": "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md"
-    },
-    {
-      "basename": "FT Free Actions",
-      "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
-    },
-    {
-      "basename": "FT Faction List at H3",
-      "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
-    },
-    {
-      "basename": "alaturmen-100AF",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
     }
   ],
   "omittedPaths": [],
