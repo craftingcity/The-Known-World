@@ -788,8 +788,16 @@ Communication: -
 - [x] **Progress:** (FAIL) > +50xp, +35g
 
 ### Wheernat
-**Full Action:** Sabotage
-**Bonus Action:** 
+**Full Action:** Sabotage (Beastcraft v Constitution)
+
+	Target: Emorin, Power
+	Roll: 1d20+4=18 v 1d20+2=17 > (SUCC) > 
+
+**Bonus Action:** Earn Guilders (Survival, Nature's Bounty)
+
+	Roll A: 1d20+3=15 > 30 guilder earned
+	Roll B: 6d6=10 guilder earned
+	Roll C: 3d4=4 > (SUCC) > 2 power lost
 
 ### Agrandica's Thieves
 ### Barthalamule's Thieves
