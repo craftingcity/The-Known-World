@@ -791,7 +791,7 @@ Communication: -
 **Full Action:** Sabotage (Beastcraft v Constitution)
 
 	Target: Emorin, Power
-	Roll: 1d20+4=18 v 1d20+2=17 > (SUCC) > 
+	Roll: 1d20+4=18 v 1d20+2=17 > (SUCC) > 1d4+1=4 power damage
 
 **Bonus Action:** Earn Guilders (Survival, Nature's Bounty)
 
