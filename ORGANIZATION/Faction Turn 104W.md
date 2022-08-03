@@ -806,7 +806,7 @@ Communication: -
 
 **Bonus Action:** Earn Guilder (Crime)
 
-	Roll: 1d20+5=
+	Roll: 1d20+5=14 > 25 guilders earned
 
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
