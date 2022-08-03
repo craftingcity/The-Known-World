@@ -7,8 +7,20 @@
         "id": "8d912509c5de38ea",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
+            {
+              "leaf": "8d912509c5de38ea",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bonus Actions for Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d912509c5de38ea",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reactions for Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "8d912509c5de38ea",
               "group": null,
@@ -237,14 +249,14 @@
   "active": "8d912509c5de38ea",
   "lastOpenFiles": [
     "Free Actions Choices for Faction Turn.md",
+    "Full Actions Choices for Faction Turn.md",
+    "Reactions for Faction Turn.md",
+    "Bonus Actions for Faction Turn.md",
     "ORGANIZATION/Faction Turn 104W.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Natural Wonders of a Woven Reality.md",
     "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid NPCs/Draconic NPCs/Quosetteng.md",
     "paws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
-    "Game Notes/Prenotes/Prenotes August 1st.md",
-    "Game Notes/Prenotes/Prenotes.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
   ]
 }

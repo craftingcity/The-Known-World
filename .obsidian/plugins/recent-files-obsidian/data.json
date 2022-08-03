@@ -9,6 +9,14 @@
       "path": "Free Actions Choices for Faction Turn.md"
     },
     {
+      "basename": "Reactions for Faction Turn",
+      "path": "Reactions for Faction Turn.md"
+    },
+    {
+      "basename": "Bonus Actions for Faction Turn",
+      "path": "Bonus Actions for Faction Turn.md"
+    },
+    {
       "basename": "Faction Turn 104W",
       "path": "ORGANIZATION/Faction Turn 104W.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "NPCs",
       "path": "ORGANIZATION/TEMPLATES/NPCs.md"
-    },
-    {
-      "basename": "Barret Bodaim",
-      "path": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md"
-    },
-    {
-      "basename": "Dragons Blood Inn",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Dragons Blood Inn.md"
     }
   ],
   "omittedPaths": [],
