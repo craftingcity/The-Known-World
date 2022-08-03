@@ -799,6 +799,13 @@ Communication: -
 	Roll C: 3d4=4 > (SUCC) > 2 power lost
 
 ### Agrandica's Thieves
+**Full Action:** Criminal Plot
+
+	Target:
+	Roll:
+
+**Bonus Action:**
+
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
 ### Orcus Loyalists
