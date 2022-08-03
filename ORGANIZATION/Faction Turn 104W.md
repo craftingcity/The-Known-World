@@ -819,7 +819,24 @@ Communication: -
 	Roll: 1d20+4=21 > 35 guilders earned
 
 ### Cobalt's Thieves
+**Full Action:** Criminal Plot
+
+	Target: Golden Claws
+	Roll: 1d20+6=25 v 1d20-1=16 > (SUCC) > 4 power damage, 6 guilder stolen
+
+**Bonus Action:** Earn Guilders (Crime)
+
+	Roll: 1d20+6=20 > 35 guilder earned
+
 ### Orcus Loyalists
+**Full Action:**
+
+
+
+**Bonus Action:**
+
+
+
 ### Sanguine Feast
 ### Lost Wanderers
 ### Actstow
