@@ -256,11 +256,12 @@ def hexfill():
     
 def vitalityfill():
     bag_o_dice = reroll()
-    final_answer = "This hex is occupied by "
-    if bag_o_dice[0] == 1:
-    if bag_o_dice[0] == 2:
+    final_answer = "This hex is staged for an encounter with "
+    if bag_o_dice[0] > 1:
+        final_answer += str(bag_o_dice[1]) 
+        final_answer += " human"
     else:
-
+        final_answer += "LOW"
     return final_answer
 
 def main():
