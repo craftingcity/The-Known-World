@@ -4,7 +4,8 @@
 Declare New Goals:
 
 	Long Term: Examine the Wildlands
-	Short Term: Build Alliances
+	Short Term: Produce Value
+
 Purchases:
 
 	- 3x Alarm Devices / -180g
@@ -25,7 +26,7 @@ Communicate:
 	- Send envoy to Hillkeep (GRE)
 	- Send envoy to Mossburg (GRE)
 	- Send envoy to Knights in Red (MID)
-		- Offer War Job > (ACC) > 30g >+> 30g 
+		- Offer War Job > (ACC) > 30g >-/+> 30g 
 
 Inspiring Speech: Barthalamule's Theives
 Ways of Wisdom: -
@@ -829,9 +830,9 @@ Communication: -
 	Roll: 1d20+6=20 > 35 guilder earned
 
 ### Orcus Loyalists
-**Full Action:**
+**Full Action:** Skill Use (Survival)
 
-
+	Roll: 1d20+5=11 > (SUCC)
 
 **Bonus Action:**
 
@@ -877,6 +878,7 @@ Communication: -
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
 ### Orcus Loyalists
+> Across the Desert, hundreds of nomads desert their 
 ### Sanguine Feast
 ### Lost Wanderers
 ### Actstow
