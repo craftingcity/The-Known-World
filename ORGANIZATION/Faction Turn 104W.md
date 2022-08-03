@@ -859,13 +859,20 @@ Communication: -
 	Roll B: 6d6=12 guilder earned
 	Roll C: 3d4=7 > (SUCC) > 3 power lost
 
+- [x] **Progress:** (SUCC) > +50xp, +42g, -3p
+- [x] **Goal (STG):** (SUCC) > +50xp
+
 ### Lost Wanderers
 **Full Action:** Weapon Attack (d20+4 v 18)
 
 	Target: Orcus Loyalists
-	Roll: 1d20+4=19 > (SUCC) > power damage
+	Roll: 1d20+4=19 > (SUCC) > 5 power damage
 
-**Bonus Action:**
+**Bonus Action:** Earn Guilders (Muscle)
+
+	Roll: 1d20+4=21 > 35 guilders gained
+
+- [x] **Progress:** +50xp, +35g
 
 ### Actstow
 ### Suremantle

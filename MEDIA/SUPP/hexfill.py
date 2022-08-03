@@ -255,7 +255,13 @@ def hexfill():
     return final_answer
     
 def vitalityfill():
-    pass
+    bag_o_dice = reroll()
+    final_answer = "This hex is occupied by "
+    if bag_o_dice[0] == 1:
+    if bag_o_dice[0] == 2:
+    else:
+
+    return final_answer
 
 def main():
     input_var = input()
