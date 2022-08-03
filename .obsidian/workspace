@@ -24,8 +24,8 @@
             {
               "leaf": "8d912509c5de38ea",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Full Actions Choices for Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "8d912509c5de38ea",
@@ -45,7 +45,7 @@
           "type": "markdown",
           "state": {
             "file": "Full Actions Choices for Faction Turn.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
