@@ -809,6 +809,8 @@ Communication: -
 
 	Roll: 1d20+5=14 > 25 guilders earned
 
+
+
 ### Barthalamule's Thieves
 **Full Action:** Criminal Plot
 
@@ -818,6 +820,8 @@ Communication: -
 **Bonus Action:** Earn Guilders (Crime)
 
 	Roll: 1d20+4=21 > 35 guilders earned
+
+- [x] **Progress:** (SUCC) > +50xp, +43g
 
 ### Cobalt's Thieves
 **Full Action:** Criminal Plot
@@ -829,14 +833,18 @@ Communication: -
 
 	Roll: 1d20+6=20 > 35 guilder earned
 
+- [x] **Progress:** (SUCC) > +50xp, +41g
+
 ### Orcus Loyalists
 **Full Action:** Skill Use (Survival)
 
 	Roll: 1d20+5=11 > (SUCC)
 
-**Bonus Action:**
+**Bonus Action:** Training
 
-
+- [x] **Progress:** (SUCC) > +50xp
+- [x] **Progress:** *(TRAINING)* > +100xp 
+- [x] **Goal (LTG(1)):** (SUCC) > +25xp
 
 ### Sanguine Feast
 ### Lost Wanderers
@@ -848,16 +856,17 @@ Communication: -
 ## Reactions / Post-Main
 ## Results / Cleanup
 ### Guilds of Coalition
-> The guilds have been hard at work preparing secure border-posts throughout Alaturmen, and with the assistance of others, their goal was quickly completed. The Ranger's Guild is standing tall, refortified after the largest breach of the Wildland Border that any on Alaturmen had seen.
+> The guilds have been hard at work preparing secure border-posts throughout Alaturmen, and with the assistance of others, their goal was quickly completed. The Ranger's Guild is standing tall, refortified after [[The Assault of the Giant Dissenters|the largest breach of the Wildland Border that any on Alaturmen had seen]].
 
 ### Kingdom of Prosper
-> By order of the King, his court wizard heads a project to more easily distribute magic among his people. As one does, she replied that it could be done. With a flash of inspiration, she began to have an inkling of a beginning of a practical concept.
+> The King of the great Kingdom of Prosper councils his court Wizard about a project. She presents to him a possibility. He orders her to chase it, at any cost. She returns to her work.
 
 ### Church of the White Flame
-> A large caravan of Suremantle Traders was waylaid with religious posterization and completely failed to make sales due to what the locals called a "titherraf", some combination of religious conviction and governmental decree. In any case, this caravan returned home with all they left with other than their rations, time, and dignity.
+> A large caravan of Suremantle Traders was waylaid with religious posterization and completely failed to make sales due to what the locals called a "tithe-erraf", some combination of religious conviction and governmental decree. In any case, this caravan returned home with all they left with other than their rations, time, and dignity.
 
 ### Golden Claws
 > Throughout the southern regions of the Deserts of Tetrimoc, small groups of Cobalt's Thieves have been killed, a foul-play of wyvern and steel. It makes one wonder who possibly could have done such a thing...
+
 ### Knights in Red
 ### Dampguard
 ### Riphounds
@@ -878,7 +887,8 @@ Communication: -
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
 ### Orcus Loyalists
-> Across the Desert, hundreds of nomads desert their 
+> Across the Desert, hundreds of nomads desert their clans, compelled for plans yet unrealized. They gather in the south, out of range of the indignant Claws of the Golden Repository of Greed, and overbearing to Cobalt opposition. For what purpose, the world doth yet unknow. Yet.
+
 ### Sanguine Feast
 ### Lost Wanderers
 ### Actstow
