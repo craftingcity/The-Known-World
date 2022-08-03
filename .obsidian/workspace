@@ -7,13 +7,19 @@
         "id": "0d454f4ac0a947ca",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "0d454f4ac0a947ca",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"paws.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "0d454f4ac0a947ca",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":31},\"to\":{\"line\":13,\"ch\":31}},\"scroll\":798.976225529552}"
             }
           ]
         },
@@ -182,17 +188,57 @@
     "width": 300,
     "collapsed": true
   },
+  "floating": {
+    "id": "a1658b6bfc8e96d7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "46235736a1f21f64",
+        "type": "window",
+        "children": [
+          {
+            "id": "4e22bb2354a2f42f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "4e22bb2354a2f42f",
+                  "group": null,
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 95,
+        "y": 68,
+        "width": 1517,
+        "height": 776,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "0d454f4ac0a947ca",
   "lastOpenFiles": [
+    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
+    "ORGANIZATION/Faction Turn 104W.md",
+    "paws.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
     "Game Notes/Prenotes/Prenotes August 1st.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/NPCs/List of Names.md",
-    "ORGANIZATION/Faction Turn 104W.md",
-    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "Quosetteng.md"
+    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
   ]
 }

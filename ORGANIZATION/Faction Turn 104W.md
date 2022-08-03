@@ -676,13 +676,13 @@ Communication: -
 **Full Action:** Arcane Attack (d20+3 v DV15)
 
 	Target: Cobalt's Theives
-	Roll: 1d20+3=15 > (TIE>SUCC) > 1d12+1
+	Roll: 1d20+3=15 > (FAIL)
 
 **Bonus Action:** Earn Guilders (Arcane)
 
 	Roll: 1d20+3=13 > 25 guilders earned
 
-- [x] **Progress:** (SUCC) > +50xp, +25g
+- [x] **Progress:** (FAIL) > +25xp, +25g
 - [x] Goal (LTG(1/5)): (SUCC) > +50xp
 
 ### Hillkeep Loyalists
@@ -801,10 +801,12 @@ Communication: -
 ### Agrandica's Thieves
 **Full Action:** Criminal Plot
 
-	Target:
-	Roll:
+	Target: Suremantle
+	Roll: 1d20+5=18 v 1d20-1=3 > (SUCC) > 5 power damage, 8 guilder stolen
 
-**Bonus Action:**
+**Bonus Action:** Earn Guilder (Crime)
+
+	Roll: 1d20+5=
 
 ### Barthalamule's Thieves
 ### Cobalt's Thieves
