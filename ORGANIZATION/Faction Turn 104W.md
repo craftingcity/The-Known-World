@@ -804,11 +804,20 @@ Communication: -
 	Target: Suremantle
 	Roll: 1d20+5=18 v 1d20-1=3 > (SUCC) > 5 power damage, 8 guilder stolen
 
-**Bonus Action:** Earn Guilder (Crime)
+**Bonus Action:** Earn Guilders (Crime)
 
 	Roll: 1d20+5=14 > 25 guilders earned
 
 ### Barthalamule's Thieves
+**Full Action:** Criminal Plot
+
+	Target: Guilds
+	Roll: 1d20+4=22 v 1d20+1=8 > (SUCC) > 5 power damage, 8 guilder stolen
+
+**Bonus Action:** Earn Guilders (Crime)
+
+	Roll: 1d20+4=21 > 35 guilders earned
+
 ### Cobalt's Thieves
 ### Orcus Loyalists
 ### Sanguine Feast
