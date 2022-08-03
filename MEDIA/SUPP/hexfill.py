@@ -254,14 +254,74 @@ def hexfill():
         final_answer += "\nIt is " + erosion(bag_o_dice[7]) + " and " + size(bag_o_dice[8]) + "."
     return final_answer
     
+def heritage(num):
+    if num == 1:
+        answer = " local antagonist militants"
+    if num == 2:
+        answer = " local antagonist civilians"
+    if num == 3:
+        answer = " local faction militants"
+    if num == 4:
+        answer = " local faction civilians"
+    if num == 5:
+        answer = " local allied militants"
+    if num == 6:
+        answer = " local allied civilians"
+    if num == 7:
+        answer = " foriegn militants"
+    if num == 8:
+        answer = heritage(random.randint(1, 7)) + " and" + heritage(random.randint(1, 7))
+    return answer
+
+def monster(num):
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    if num == 1:
+        answer = 
+    return answer
+
+def humanoid_needs(num):
+    if num == 1:
+        answer = " they are currently desperately lost, and this place was the closest shelter as night fell"
+    if num == 2:
+        answer = " they are collecting water to take back to their camp"
+    if num == 3:
+        answer = " they are collecting food to take back to their camp"
+    if num == 4:
+        answer = " they are collecting material to take back to their camp"
+    if num == 1:
+        answer = " they are setting up a camp in this place"
+    if num == 1:
+        answer = " they are investigating this place"
+    if num == 1:
+        answer = " they are somehow manipulating this place for their own goals"
+    if num == 1:
+        answer = " they are waiting here for something or guarding this place"
+    return answer
+
 def vitalityfill():
     bag_o_dice = reroll()
-    final_answer = "This hex is staged for an encounter with "
+    final_answer = "This hex is staged for an encounter with"
     if bag_o_dice[0] > 1:
         final_answer += str(bag_o_dice[1]) 
-        final_answer += " human"
+        final_answer += heritage(bag_o_dice[2]) + ".\n"
+        final_answer += "They are here because"
+        final_answer += humanoid_needs(bag_o_dice[3]) + ".\n"
     else:
-        final_answer += "LOW"
+        final_answer += str(bag_o_dice[1])
+        final_answer += monster(bag_o_dice[2]) + ".\n"
     return final_answer
 
 def main():

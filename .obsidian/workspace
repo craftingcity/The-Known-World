@@ -19,7 +19,7 @@
               "leaf": "207b896755403a55",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{}"
             },
             {
               "leaf": "207b896755403a55",
@@ -231,9 +231,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 95,
+        "x": 94,
         "y": 68,
-        "width": 1517,
+        "width": 1522,
         "height": 776,
         "maximize": false,
         "zoom": 0
@@ -291,10 +291,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 95,
-        "y": 53,
-        "width": 1517,
-        "height": 805,
+        "x": 94,
+        "y": 52,
+        "width": 1522,
+        "height": 810,
         "maximize": false,
         "zoom": 0
       }
