@@ -1,5 +1,4 @@
-See [[Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf]].
-# Turn One - Winter 104
+# Winter 104
 ## Free Actions / Upkeep
 ### Guilds of Coalition
 Declare New Goals:

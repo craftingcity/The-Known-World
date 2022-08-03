@@ -4,53 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5ef6e1d0c0ac1b",
+        "id": "0d454f4ac0a947ca",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "1f5ef6e1d0c0ac1b",
+              "leaf": "0d454f4ac0a947ca",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "1f5ef6e1d0c0ac1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":6.374899258878187}"
-            },
-            {
-              "leaf": "1f5ef6e1d0c0ac1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes August 1st.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":61.315607736419715}"
-            },
-            {
-              "leaf": "1f5ef6e1d0c0ac1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "1f5ef6e1d0c0ac1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":16.8109621797872}"
-            },
-            {
-              "leaf": "1f5ef6e1d0c0ac1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":789.974840690768}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+            "file": "ORGANIZATION/Faction Turn 104W.md",
             "mode": "source",
             "source": true
           }
@@ -136,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "file": "ORGANIZATION/Faction Turn 104W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "file": "ORGANIZATION/Faction Turn 104W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+                "file": "ORGANIZATION/Faction Turn 104W.md"
               }
             }
           },
@@ -212,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f5ef6e1d0c0ac1b",
+  "active": "0d454f4ac0a947ca",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md",
     "Game Notes/Prenotes/Prenotes August 1st.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/NPCs/List of Names.md",
-    "ORGANIZATION/Faction Turn.md",
+    "ORGANIZATION/Faction Turn 104W.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "Quosetteng.md",
-    "Sally Seashell.md"
+    "Quosetteng.md"
   ]
 }

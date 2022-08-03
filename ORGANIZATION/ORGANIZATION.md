@@ -1,7 +1,7 @@
 # ORGANIZATION Overview
 %% Begin Waypoint %%
 - **[[ORGANIZATION]]**
-	- [[Faction Turn]]
+	- [[Faction Turn 104W]]
 	- [[Holding Rules]]
 	- [[Notes From Grain Into Gold]]
 	- [[Organizational Notions]]
