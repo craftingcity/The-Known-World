@@ -799,6 +799,8 @@ Communication: -
 	Roll B: 6d6=10 guilder earned
 	Roll C: 3d4=4 > (SUCC) > 2 power lost
 
+- [x] **Progress:** (SUCC) > +50xp, +40g
+
 ### Agrandica's Thieves
 **Full Action:** Criminal Plot
 
@@ -809,7 +811,7 @@ Communication: -
 
 	Roll: 1d20+5=14 > 25 guilders earned
 
-
+- [x] **Progress:** (SUCC) > +50xp, +33g
 
 ### Barthalamule's Thieves
 **Full Action:** Criminal Plot
@@ -847,7 +849,24 @@ Communication: -
 - [x] **Goal (LTG(1)):** (SUCC) > +25xp
 
 ### Sanguine Feast
+**Full Action:** Skill Use (Survival)
+
+	Roll: 1d20+5=13 > (SUCC)
+
+**Bonus Action:** Earn Guilders (Survival, Into the Wilds)
+
+	Roll A: 1d20+2=18 > 30 guilder earned
+	Roll B: 6d6=12 guilder earned
+	Roll C: 3d4=7 > (SUCC) > 3 power lost
+
 ### Lost Wanderers
+**Full Action:** Weapon Attack (d20+4 v 18)
+
+	Target: Orcus Loyalists
+	Roll: 1d20+4=19 > (SUCC) > power damage
+
+**Bonus Action:**
+
 ### Actstow
 ### Suremantle
 ### Cenva Minyo

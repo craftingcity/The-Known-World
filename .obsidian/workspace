@@ -7,7 +7,7 @@
         "id": "207b896755403a55",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 1,
           "stack": [
             {
               "leaf": "207b896755403a55",
@@ -25,7 +25,7 @@
               "leaf": "207b896755403a55",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bonus Actions for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "207b896755403a55",
@@ -38,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bonus Actions for Faction Turn.md",
+            "file": "Full Actions Choices for Faction Turn.md",
             "mode": "preview",
             "source": true
           }
@@ -276,7 +276,7 @@
                   "leaf": "8d912509c5de38ea",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":836,\"ch\":18},\"to\":{\"line\":836,\"ch\":18}},\"scroll\":827.1275636426917}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":862,\"ch\":17},\"to\":{\"line\":862,\"ch\":17}},\"scroll\":851.6378387495597}"
                 }
               ]
             },
@@ -302,11 +302,11 @@
   },
   "active": "8d912509c5de38ea",
   "lastOpenFiles": [
-    "Bonus Actions for Faction Turn.md",
     "Full Actions Choices for Faction Turn.md",
     "ORGANIZATION/Faction Turn 104W.md",
-    "Free Actions Choices for Faction Turn.md",
+    "Bonus Actions for Faction Turn.md",
     "Reactions for Faction Turn.md",
+    "Free Actions Choices for Faction Turn.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Natural Wonders of a Woven Reality.md",
     "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid NPCs/Draconic NPCs/Quosetteng.md",
