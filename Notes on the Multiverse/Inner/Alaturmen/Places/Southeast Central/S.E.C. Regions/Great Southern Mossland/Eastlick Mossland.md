@@ -18,7 +18,7 @@ aliases:
 		- 2148 cp of varying mint
 		- 613 sp of varying mint
 		- 78 gp of varying mint
-		- a four and a half carat (azurite appraised at 11gp)
+		- a large chunk of unprocessed azurite (appraised at 115sp)
 		- 
 
 ## Tables
