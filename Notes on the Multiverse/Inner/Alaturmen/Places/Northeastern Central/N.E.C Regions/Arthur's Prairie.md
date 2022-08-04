@@ -21,7 +21,9 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 - K22. Old Stickfinger's Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, flies and maggots surround the rotting meat.
 - K26. Chapter-House Constantia of [[Arthur's Knights]] (visible)
-	- A two-story building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the large plains here. The stone building is 
+	- A two-story stone building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the grasslands. The building's construction is imposing, but soft; not as delicacy, but invitation.
+	- This Chapter-House holds a sacred artifact from the [[Unification]]; a relief, made of gold, depicting the victory against the [[Bandit Lords]] who ruled this place before [[Arthur Simonson|The Great Adventurer King]]. 
+	- This relief is highly respected and valued. Seven of Arthur's Knights from the Constania Chapter guard this place at all times.
 - L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom
 - O27. Phase Spider Nests

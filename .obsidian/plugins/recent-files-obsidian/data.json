@@ -6,7 +6,23 @@
     },
     {
       "basename": "Arthur's Knights",
-      "path": "Arthur's Knights.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "Ex-Bandit Lords",
+      "path": "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md"
+    },
+    {
+      "basename": "Bandit Lords",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
+    },
+    {
+      "basename": "The Legend of the Bandit Lords",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md"
+    },
+    {
+      "basename": "ORGANIZATION",
+      "path": "ORGANIZATION/ORGANIZATION.md"
     },
     {
       "basename": "Red Hills",
@@ -34,27 +50,27 @@
     },
     {
       "basename": "Full Actions Choices for Faction Turn",
-      "path": "Full Actions Choices for Faction Turn.md"
+      "path": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
     },
     {
       "basename": "Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions",
       "path": "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
     },
     {
-      "basename": "Faction Turn 104W",
-      "path": "ORGANIZATION/Faction Turn 104W.md"
+      "basename": "z_Faction Turn 104W",
+      "path": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
     },
     {
       "basename": "Bonus Actions for Faction Turn",
-      "path": "Bonus Actions for Faction Turn.md"
+      "path": "ORGANIZATION/FACTION TURN/Bonus Actions for Faction Turn.md"
     },
     {
       "basename": "Reactions for Faction Turn",
-      "path": "Reactions for Faction Turn.md"
+      "path": "ORGANIZATION/FACTION TURN/Reactions for Faction Turn.md"
     },
     {
       "basename": "Free Actions Choices for Faction Turn",
-      "path": "Free Actions Choices for Faction Turn.md"
+      "path": "ORGANIZATION/FACTION TURN/Free Actions Choices for Faction Turn.md"
     },
     {
       "basename": "Natural Wonders of a Woven Reality",
@@ -157,16 +173,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
-      "basename": "The Legend of the Bandit Lords",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md"
-    },
-    {
       "basename": "Unification",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
-    },
-    {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
     },
     {
       "basename": "The Druidic Texts",
@@ -191,14 +199,6 @@
     {
       "basename": "Mechanics",
       "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
-      "basename": "Homebrew Spells",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
     }
   ],
   "omittedPaths": [],

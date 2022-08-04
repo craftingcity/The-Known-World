@@ -6,6 +6,8 @@ aliases:
 # Group Name
 ## History
 ## Governance
+### Chapters
+- Constantia
 ## Culture
 #### Heritage
 #### Language
@@ -13,5 +15,6 @@ aliases:
 #### Theology
 #### Economics
 ### Symbolism
+- sword, shield, and crown
 ## Technology
 ### Magic

@@ -39,6 +39,7 @@ aliases:
 		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
+			- [[Arthur's Knights]]
 			- [[Noble House a'Haruuc]]
 			- [[Noble House a'LeQuinn]]
 			- [[Northstone Family Trading Company]]

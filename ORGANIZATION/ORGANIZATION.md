@@ -1,7 +1,12 @@
 # ORGANIZATION Overview
 %% Begin Waypoint %%
 - **[[ORGANIZATION]]**
-	- [[Faction Turn 104W]]
+	- **FACTION TURN**
+		- [[Bonus Actions for Faction Turn]]
+		- [[Free Actions Choices for Faction Turn]]
+		- [[Full Actions Choices for Faction Turn]]
+		- [[Reactions for Faction Turn]]
+		- [[z_Faction Turn 104W]]
 	- [[Holding Rules]]
 	- [[Notes From Grain Into Gold]]
 	- [[Organizational Notions]]
