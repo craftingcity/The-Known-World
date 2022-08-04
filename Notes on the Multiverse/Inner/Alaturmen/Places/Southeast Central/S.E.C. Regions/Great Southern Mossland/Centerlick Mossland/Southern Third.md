@@ -9,7 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 - AK19. Sune's Floral Fountain
-	- Five priests of Sune gather at this colorful floral growth at the edge of the jungle. These priests hold rituals of pleasure in this place on the first full moon of the month. They are well attended.
+	- Five priests of Sune gather at this colorful floral growth at the edge of the jungle. These priests hold rituals of pleasure in this place on the first full moon of the month. They are well attended by masked followers.
 
 ## Tables
 ### Encounter
