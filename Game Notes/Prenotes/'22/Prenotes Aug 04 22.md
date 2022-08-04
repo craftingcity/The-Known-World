@@ -12,7 +12,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-When we last left our heroes, they had completed their meeting with their Draconic Patron, [[Kakurak]], and had elected to assault the forward operating base of their arch-enemies; [[Giant's Toe]].
+When we last left our heroes, they had completed their meeting with their Draconic Patron, [[Kakurak]], and had elected to assault the forward operating base of their arch-enemies; [[Giant's Toe]]. We rejoin them at the edge of the [[Redl'nds]].
 
 
 ### What does the World Know?
