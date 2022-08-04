@@ -10,7 +10,7 @@ aliases:
 ### Scenarios
 - U10: Small Anti-Isolationism Party Cave
 	- A small natural cave is being retrofitted with elven amenities to house some dozen or so humanoids. 
-	- Three elves are working here, all of whom are being supported by Anti-Isolationism Party Mountain Hall Merchants.
+	- Three elves are working here, all of whom are being supported by the Mountain Hall Merchants Anti-Isolationism Party.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6

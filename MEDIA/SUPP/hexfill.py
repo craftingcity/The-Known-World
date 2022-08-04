@@ -68,7 +68,7 @@ def item_special(num):
     if num == 4:
         answer = "magical curse actived by " + activation_special(random.randint(1, 6))
     if num == 5:
-        answer = "teleportation actived by " + activation_special(random.randint(1, 6))
+        answer = "teleportation effect actived by " + activation_special(random.randint(1, 6))
     if num == 6:
         double_trouble = item_special(random.randint(1, 5)) + " & " + item_special(random.randint(1, 5))
         return double_trouble
@@ -116,19 +116,19 @@ def reason_A(num):
 def reason_B(num):
     answer = ""
     if num == 1:
-        answer = "easy to spot"
+        answer = "is easy to spot"
     if num == 2:
-        answer = "a local legend"
+        answer = "has a local legend"
     if num == 3:
-        answer = "a local superstition"
+        answer = "has a local superstition"
     if num == 4:
-        answer = "humanoid-esq"
+        answer = "is humanoid-esq"
     if num == 5:
-        answer = "oddities or resources"
+        answer = "has oddities or resources"
     if num == 6:
-        answer = item_special(random.randint(1, 6))
+        answer = "has a " + item_special(random.randint(1, 6))
     if num == 7:
-        answer = "the site of a battle, birth, death, or \"injury\""
+        answer = "is the site of a battle, birth, death, or \"injury\""
     if num == 8:
         double_trouble = reason_B(random.randint(1, 7)) + " & is/has " + reason_B(random.randint(1, 7))
         return double_trouble
@@ -208,7 +208,7 @@ def erosion(num):
     if num == 1:
         answer = "ruined, defaced, or otherwise unrecognizable"
     if num == 2:
-        answer = "weathered or overgrown, though still recognizable."
+        answer = "weathered or overgrown, though still recognizable"
     if num == 3:
         answer = "of fair condition, restored, or otherwise maintained"
     if num == 4:
@@ -218,11 +218,11 @@ def erosion(num):
 def size(num):
     answer = ""
     if num == 1:
-        answer = "small"
+        answer = "quite small"
     if num == 2:
-        answer = "medium"
+        answer = "medium sized"
     if num == 3:
-        answer = "large"
+        answer = "quite large"
     if num == 4:
         answer = "massive"
     return answer
@@ -233,7 +233,7 @@ def hexfill():
     if bag_o_dice[0] > 1:
         final_answer += "natural "
         final_answer += item_natural(bag_o_dice[1])
-        final_answer += ". \nThe reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it "
         final_answer += reason_A(bag_o_dice[2])
         final_answer += ". \nThis place is considered "
         final_answer += age(bag_o_dice[5])
@@ -243,7 +243,7 @@ def hexfill():
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
-        final_answer += ". \nThe reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it "
         final_answer += reason_B(bag_o_dice[2])
         final_answer += ". \nIt is made of some type of " + material(bag_o_dice[3])
         final_answer += " and it is constructed for a " + use_case(bag_o_dice[4])

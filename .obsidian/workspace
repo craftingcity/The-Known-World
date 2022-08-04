@@ -12,6 +12,12 @@
             {
               "leaf": "d3f0aa9d6b4eac2e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-100AF.png\"}}",
               "eState": "{}"
             },
@@ -84,9 +90,11 @@
           ]
         },
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -149,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -169,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
               }
             }
           },
@@ -247,6 +256,7 @@
   },
   "active": "d3f0aa9d6b4eac2e",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/Pasted image 20220721221234.png",
     "MEDIA/Pasted image 20220721220018.png",
     "MEDIA/Pasted image 20220720235525.png",
@@ -255,7 +265,6 @@
     "Notes on the Multiverse/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
     "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
-    "Full Actions Choices for Faction Turn.md",
-    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
+    "Full Actions Choices for Faction Turn.md"
   ]
 }
