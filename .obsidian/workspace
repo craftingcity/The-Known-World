@@ -7,13 +7,25 @@
         "id": "d3f0aa9d6b4eac2e",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "d3f0aa9d6b4eac2e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Arthur's Knights.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":55},\"to\":{\"line\":22,\"ch\":55}},\"scroll\":13.031317444122099}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":6},\"to\":{\"line\":10,\"ch\":6}},\"scroll\":1.0247452603619682}"
             },
             {
               "leaf": "d3f0aa9d6b4eac2e",
@@ -92,7 +104,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
             "mode": "source",
             "source": true
           }
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
               }
             }
           },
@@ -256,15 +268,15 @@
   },
   "active": "d3f0aa9d6b4eac2e",
   "lastOpenFiles": [
+    "Arthur's Knights.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/Pasted image 20220721221234.png",
     "MEDIA/Pasted image 20220721220018.png",
     "MEDIA/Pasted image 20220720235525.png",
     "MEDIA/MEDIA.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
     "Notes on the Multiverse/Inner/Feywild/Feywild.md",
-    "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
-    "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
-    "Full Actions Choices for Faction Turn.md"
+    "Notes on the Multiverse/Inner/Feywild/Jabbawok.md"
   ]
 }

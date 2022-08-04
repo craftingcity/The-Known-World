@@ -12,14 +12,16 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 ### Scenarios
 - A21. Dwarf-Hobgoblin Battlefield
 	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
-- C23. Raging Fog
+- C23. Raging Fog (visible)
 	- Maddening Red Fog stalks the edges of the [[Illburn Forest]].
-- G20. Cenvan Lookouts
+- G20. Cenvan Lookouts (visible)
 	- Winter elves watch across the river.
 - I23. Dawnfluke Cabins
-	- A tribe of dawnfluke live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
+	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 - K22. Old Stickfinger's Cabin
-	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, and flys and maggots surround the rotting meat.
+	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, flies and maggots surround the rotting meat.
+- K26. Chapter-House Constantia of [[Arthur's Knights]] (visible)
+	- A two-story building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the large plains here. The stone building is 
 - L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom
 - O27. Phase Spider Nests
