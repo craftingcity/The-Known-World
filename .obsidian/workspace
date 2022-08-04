@@ -4,25 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6e72bf212aa968",
+        "id": "d3f0aa9d6b4eac2e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2f6e72bf212aa968",
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-100AF.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721221234.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721220018.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220720235525.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721220018.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721221234.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721220018.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220720235525.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721220018.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/Pasted image 20220721221234.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MEDIA/MEDIA.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d3f0aa9d6b4eac2e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
-            "mode": "source",
-            "source": true
+            "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
           }
         }
       }
@@ -81,12 +145,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -106,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
               }
             }
           },
@@ -182,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f6e72bf212aa968",
+  "active": "d3f0aa9d6b4eac2e",
   "lastOpenFiles": [
+    "MEDIA/Pasted image 20220721221234.png",
+    "MEDIA/Pasted image 20220721220018.png",
+    "MEDIA/Pasted image 20220720235525.png",
+    "MEDIA/MEDIA.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
     "Notes on the Multiverse/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
     "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
     "Full Actions Choices for Faction Turn.md",
-    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
-    "ORGANIZATION/Faction Turn 104W.md",
-    "Bonus Actions for Faction Turn.md",
-    "Reactions for Faction Turn.md",
-    "Free Actions Choices for Faction Turn.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Natural Wonders of a Woven Reality.md"
+    "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf"
   ]
 }

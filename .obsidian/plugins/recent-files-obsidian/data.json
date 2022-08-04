@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
       "basename": "Red Hills",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
     },
@@ -183,22 +191,6 @@
     {
       "basename": "Spells from Collective",
       "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "ORGANIZATION",
-      "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "The Arstoviches",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
-    },
-    {
-      "basename": "Arstovich",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/True Villian NPCs/Arstovich.md"
-    },
-    {
-      "basename": "Prenotes July 27 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     }
   ],
   "omittedPaths": [],
