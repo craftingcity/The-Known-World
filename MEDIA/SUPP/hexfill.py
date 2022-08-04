@@ -389,7 +389,7 @@ def vitalityfill():
 
 def main():
     input_var = input()
-    print("\033c", end="")
+    print("\n" * 4)
     if input_var is ("r" or "R"):
         print(hexfill())
         main()
