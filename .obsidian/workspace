@@ -12,14 +12,24 @@
             {
               "leaf": "93663f07c180374c",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}},\"scroll\":0.010350962463962634}"
+            },
+            {
+              "leaf": "93663f07c180374c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":16.412581523545416}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -102,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
+              }
             }
           },
           {
@@ -174,17 +188,59 @@
     "width": 300,
     "collapsed": true
   },
+  "floating": {
+    "id": "0325fc260d77f343",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c666ddbd38d3dbf2",
+        "type": "window",
+        "children": [
+          {
+            "id": "fd732975fc6f8c15",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "fd732975fc6f8c15",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":5},\"to\":{\"line\":20,\"ch\":12}},\"scroll\":10.70322409003416}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 484,
+        "y": 68,
+        "width": 738,
+        "height": 776,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "93663f07c180374c",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/combine-100AF.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Game Notes/NPCs/ala Alaturmen/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",
     "ORGANIZATION/ORGANIZATION.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md",
-    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
-    "MEDIA/Pasted image 20220721221234.png",
-    "MEDIA/Pasted image 20220721220018.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
   ]
 }
