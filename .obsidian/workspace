@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "207b896755403a55",
+        "id": "d86f7930aadf5ef8",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "207b896755403a55",
+              "leaf": "d86f7930aadf5ef8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "207b896755403a55",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "207b896755403a55",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bonus Actions for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "207b896755403a55",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reactions for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Feywild/Feywild.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":7.020540045404915}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
-            "mode": "preview",
+            "file": "Notes on the Multiverse/Inner/Feywild/Feywild.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -124,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
+                "file": "Notes on the Multiverse/Inner/Feywild/Feywild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
+                "file": "Notes on the Multiverse/Inner/Feywild/Feywild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md"
+                "file": "Notes on the Multiverse/Inner/Feywild/Feywild.md"
               }
             }
           },
@@ -200,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "471fab77001b02ee",
+  "active": "d86f7930aadf5ef8",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
+    "Notes on the Multiverse/Inner/Feywild/Feywild.md",
+    "Notes on the Multiverse/Inner/Feywild/Ceilie Courts.md",
     "Full Actions Choices for Faction Turn.md",
     "MEDIA/SUPP/Pawns_in_a_Greater_Game_The_2nd_Book_of_Factions.pdf",
     "ORGANIZATION/Faction Turn 104W.md",
     "Bonus Actions for Faction Turn.md",
     "Reactions for Faction Turn.md",
     "Free Actions Choices for Faction Turn.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Natural Wonders of a Woven Reality.md",
-    "Game Notes/NPCs/ala Alaturmen/zNon-Humanoid NPCs/Draconic NPCs/Quosetteng.md",
-    "paws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Natural Wonders of a Woven Reality.md"
   ]
 }
