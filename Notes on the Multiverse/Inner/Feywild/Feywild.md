@@ -16,6 +16,32 @@ The [[Jabbawok]] is both a entity and a title, but first, foremost, and most imp
 ## Culture
 #### Heritage
 ##### Four Seasons of the Feywild
+In order of relative power;
+
+- Monarch
+	- These are fey so powerful they control massive numbers of others and maintain claim over massive swaths of materials & power
+- Arch/Noble Eladrin
+	- These fey are the most powerful members of the "Higher Court", sans their Monarchs, of course
+- Verdant Princes
+	- These fey are the least powerful members of the "Higher Court"
+- Hags & Fiddlers
+	- These fey are the most powerful members of the "Lower Court"
+- Feystag
+	- These fey are the keeper of the Courts' magical arsenals, and often the most trusted members of the "Lower Court"
+- Hamadryad & Satyr
+	- These two are tasked directly by members of the "Higher Court" with tasks, though they are still considered to be of the "Lower Court"
+- Hoary Hunters, Shadovig, Virago, Nymph, & Centaur
+	- These are common military / power-trap members of the "Lower Courts"
+- Eladrin, Thorn, Korred, Halfling, & Blink Dogs
+	- These are common citizenry of the "Lower Courts"
+- Dryad & Sprite
+	- These are nearly always stationary military members for areas claimed by the courts
+- Leprechaun, Pixie, Brownie, & Killmovlis
+	- These fey are generally considered nuisances to Seasonal Society, even in the "Lower Courts", but they sometimes have their places, "**when well behaved**"
+
+##### Non-Seasonal Fey
+In order of R
+
 ### Spring
 ### Summer
 ### Fall
