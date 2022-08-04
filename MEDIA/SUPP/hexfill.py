@@ -256,72 +256,135 @@ def hexfill():
     
 def heritage(num):
     if num == 1:
-        answer = " local antagonist militants"
+        answer = "local antagonist militants"
     if num == 2:
-        answer = " local antagonist civilians"
+        answer = "local antagonist civilians"
     if num == 3:
-        answer = " local faction militants"
+        answer = "local faction militants"
     if num == 4:
-        answer = " local faction civilians"
+        answer = "local faction civilians"
     if num == 5:
-        answer = " local allied militants"
+        answer = "local allied militants"
     if num == 6:
-        answer = " local allied civilians"
+        answer = "local allied civilians"
     if num == 7:
-        answer = " foriegn militants"
+        answer = "foriegn militants"
     if num == 8:
-        answer = heritage(random.randint(1, 7)) + " and" + heritage(random.randint(1, 7))
-    return answer
-
-def monster(num):
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
-    if num == 1:
-        answer = 
+        answer = heritage(random.randint(1, 7)) + " and " + heritage(random.randint(1, 7))
     return answer
 
 def humanoid_needs(num):
     if num == 1:
-        answer = " they are currently desperately lost, and this place was the closest shelter as night fell"
+        answer = "desperately lost, and this place was the closest shelter as night fell"
     if num == 2:
-        answer = " they are collecting water to take back to their camp"
+        answer = "collecting water to take back to their camp"
     if num == 3:
-        answer = " they are collecting food to take back to their camp"
+        answer = "collecting food to take back to their camp"
     if num == 4:
-        answer = " they are collecting material to take back to their camp"
+        answer = "collecting material to take back to their camp"
+    if num == 5:
+        answer = "setting up a camp in this place"
+    if num == 6:
+        answer = "investigating this place"
+    if num == 7:
+        answer = "somehow manipulating this place for their own goals"
+    if num == 8:
+        answer = "waiting here for something or guarding this place"
+    return answer
+
+def humanoid_unique(num):
     if num == 1:
-        answer = " they are setting up a camp in this place"
+        answer = "bear a noble's symboligy"
+    if num == 2:
+        answer = "bear a god's symboligy"
+    if num == 3:
+        answer = "are poorly equipped, informed, or prepared"
+    if num == 4:
+        answer = "are incredibly well equipped, informed, or prepared"
+    if num == 5:
+        answer = "wear material intended to inspire fear in enimies"
+    if num == 6:
+        answer = "wear material intended to inspire glory in allies"
+    if num == 7:
+        answer = "are on the path to a great power"
+    if num == 8:
+        answer = humanoid_unique(random.randint(1, 7)) + " and " + humanoid_unique(random.randint(1, 7))
+    return answer
+
+def monster(num):
     if num == 1:
-        answer = " they are investigating this place"
+        answer = "incredibly dangerous monsters"
+    if num == 2:
+        answer = "local infesting or swarming monsters"
+    if num == 3:
+        answer = "local common monsters"
+    if num == 4:
+        answer = "local rare monsters"
+    if num == 5:
+        answer = "foriegn common monsters"
+    if num == 6:
+        answer = "foriegn rare monsters"
+    if num == 7:
+        answer = "incredibly rare monsters"
+    if num == 8:
+        answer = monster(random.randint(1, 7)) + " and " + monster(random.randint(1, 7))
+    return answer
+
+def monster_needs(num):
     if num == 1:
-        answer = " they are somehow manipulating this place for their own goals"
+        answer = "seeking shelter in this place"
+    if num == 2:
+        answer = "seeking food or water in this place"
+    if num == 3:
+        answer = "forming their lair here"
+    if num == 4:
+        answer = "defending their lair here"
+    if num == 5:
+        answer = "enjoying themselves in the space"
+    if num == 6:
+        answer = "hunting for sport"
+    if num == 7:
+        answer = "drawn to this place by some means"
+    if num == 8:
+        answer = "lying in wait for something specific"
+    return answer
+
+def monster_unique(num):
     if num == 1:
-        answer = " they are waiting here for something or guarding this place"
+        answer = "bolstered by their connections to local factions"
+    if num == 2:
+        answer = "bolstered by their subjugated minions"
+    if num == 3:
+        answer = "marked by a local faction's symboligy"
+    if num == 4:
+        answer = "a variant monster; they are obvious differences from their kin"
+    if num == 5:
+        answer = "only the first of many"
+    if num == 6:
+        answer = "incredibly well equipped, informed, or prepared"
+    if num == 7:
+        answer = "magically enhanced in some way"
+    if num == 8:
+        answer = monster_unique(random.randint(1, 7)) + " and " + monster_unique(random.randint(1, 7))
     return answer
 
 def vitalityfill():
     bag_o_dice = reroll()
-    final_answer = "This hex is staged for an encounter with"
+    final_answer = "This hex is staged for an encounter with "
     if bag_o_dice[0] > 1:
         final_answer += str(bag_o_dice[1]) 
         final_answer += heritage(bag_o_dice[2]) + ".\n"
-        final_answer += "They are here because"
+        final_answer += "They are here because they are "
         final_answer += humanoid_needs(bag_o_dice[3]) + ".\n"
+        final_answer += "There is something interesting about this particular group. They are "
+        final_answer += humanoid_unique(bag_o_dice[4]) + ".\n"
     else:
         final_answer += str(bag_o_dice[1])
         final_answer += monster(bag_o_dice[2]) + ".\n"
+        final_answer += "They are here because they are "
+        final_answer += monster_needs(bag_o_dice[3]) + ".\n"
+        final_answer += "There is something interesting about this particular group. They "
+        final_answer += monster_unique(bag_o_dice[4]) + ".\n"
     return final_answer
 
 def main():
