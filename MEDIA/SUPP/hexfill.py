@@ -294,19 +294,19 @@ def humanoid_needs(num):
 
 def humanoid_unique(num):
     if num == 1:
-        answer = "bear a noble's symboligy"
+        answer = "bearing a noble's symboligy"
     if num == 2:
-        answer = "bear a god's symboligy"
+        answer = "bearing a god's symboligy"
     if num == 3:
-        answer = "are poorly equipped, informed, or prepared"
+        answer = "poorly equipped, informed, or prepared"
     if num == 4:
-        answer = "are incredibly well equipped, informed, or prepared"
+        answer = "incredibly well equipped, informed, or prepared"
     if num == 5:
-        answer = "wear material intended to inspire fear in enimies"
+        answer = "wearing material intended to inspire fear in enimies"
     if num == 6:
-        answer = "wear material intended to inspire glory in allies"
+        answer = "wearing material intended to inspire glory in allies"
     if num == 7:
-        answer = "are on the path to a great power"
+        answer = "on the path to a great power"
     if num == 8:
         answer = humanoid_unique(random.randint(1, 7)) + " and " + humanoid_unique(random.randint(1, 7))
     return answer
@@ -373,17 +373,17 @@ def vitalityfill():
     final_answer = "This hex is staged for an encounter with "
     if bag_o_dice[0] > 1:
         final_answer += str(bag_o_dice[1]) 
-        final_answer += heritage(bag_o_dice[2]) + ".\n"
+        final_answer += " " + heritage(bag_o_dice[2]) + ".\n"
         final_answer += "They are here because they are "
         final_answer += humanoid_needs(bag_o_dice[3]) + ".\n"
         final_answer += "There is something interesting about this particular group. They are "
         final_answer += humanoid_unique(bag_o_dice[4]) + ".\n"
     else:
         final_answer += str(bag_o_dice[1])
-        final_answer += monster(bag_o_dice[2]) + ".\n"
+        final_answer += " " + monster(bag_o_dice[2]) + ".\n"
         final_answer += "They are here because they are "
         final_answer += monster_needs(bag_o_dice[3]) + ".\n"
-        final_answer += "There is something interesting about this particular group. They "
+        final_answer += "There is something interesting about this particular group. They are "
         final_answer += monster_unique(bag_o_dice[4]) + ".\n"
     return final_answer
 
@@ -395,8 +395,12 @@ def main():
     if input_var is ("v" or "V"):
         print(vitalityfill())
         main()
+    if input_var is ("b" or "B"):
+        print(vitalityfill())
+        print(hexfill())
+        main()
     else:
-        pass
+        main()
 
 
 if __name__ == "__main__":
