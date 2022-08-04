@@ -19,7 +19,7 @@ aliases:
 		- 613 sp of varying mint
 		- 78 gp of varying mint
 		- a large chunk of unprocessed azurite (appraised at 115sp)
-		- 
+		- a leather vest tooled with draconic scales (25 gp), a rosewood bowl engraved with arcane runes (25 gp), a stoneware bowl embossed with elven script (25 gp), a flask of silver dust (25 gp, 5 lb), an ingot of iron (3 gp, 30 lb)
 
 ## Tables
 ### Encounter
