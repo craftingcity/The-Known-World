@@ -36,7 +36,8 @@ Rapier | 5ft | 1d8 | piercing | light | pointtack
 Long Sword | 5ft | 1d8 | versatile (1d10) | sweep
 Claymore | 5ft | heavy, two-handed
 Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
-Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
+Heavy Mace | 5ft | 1d10 | bludgeoning | heavy, two-handed | bash
+War-Hammer | 5ft | 1d
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long | pin
 
 # Specialized Weapons

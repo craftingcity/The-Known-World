@@ -38,7 +38,7 @@ This weapon can be held in two hands. The dice displayed in the parantheses dire
 
 Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
 
-Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding 
+Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding this weapon with one hand.
 ### Two-Handed
 This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
 
