@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mechanics of Plane-walking",
+      "path": "Mechanics of Plane-walking.md"
+    },
+    {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     }
   ],
   "omittedPaths": [],

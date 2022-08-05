@@ -13,7 +13,7 @@
               "leaf": "9b3ccf15fe8b7a38",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":12.3274072265625}"
             },
             {
               "leaf": "9b3ccf15fe8b7a38",
@@ -39,6 +39,29 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6140fa3d88663d61",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6140fa3d88663d61",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mechanics of Plane-walking.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics of Plane-walking.md",
             "mode": "source",
             "source": true
           }
@@ -216,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Mechanics of Plane-walking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Mechanics of Plane-walking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Mechanics of Plane-walking.md"
               }
             }
           },
@@ -310,7 +333,7 @@
                   "leaf": "9961d1086e98310e",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":12},\"to\":{\"line\":88,\"ch\":12}},\"scroll\":133.359059793938}"
+                  "eState": "{}"
                 }
               ]
             },
@@ -325,19 +348,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 852,
+        "x": 853,
         "y": 0,
-        "width": 858,
+        "width": 854,
         "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "9b3ccf15fe8b7a38",
+  "active": "6140fa3d88663d61",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Combat Mechanics.md",
     "Skills of Alaturmen.md",
     "Armours of Alaturmen.md",

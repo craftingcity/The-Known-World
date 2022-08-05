@@ -2,7 +2,7 @@
 The following weapons can be used competently by all.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
---- | ---
+--- | --- | --- | --- | --- | ---
 Fist | 5ft | 1 | bludgeoning | | 
 Claw | 5ft | 1d4 | piercing | |
 Bite | 5ft | 1d6 | piercing | |
@@ -16,8 +16,6 @@ Handaxe | 5ft | 1d4 | slashing | light | dismember
 Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismember 
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 10ft | 1d4 | bludgeoning | light, versatile (2d4), long | C.L. grab
-
-
 
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
