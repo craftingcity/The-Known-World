@@ -39,10 +39,16 @@ Claymore | 5ft | 2d6 | heavy, two-handed | dismember
 Battle Axe | 5ft | 1d8 | slashing | versatile (1d10) | sunder
 Greataxe | 5ft | 3d6 | slashing | very heavy, two-handed | sweep, sunder, or dismember
 War Club / Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+Flail | 5ft | 1d8 | | bash
 Morning Star / Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
 War Pick | 5ft | 1d8 | piercing | heavy | bash
 War Hammer | 5ft | 1d12 | bludgeoning | heavy, two-handed | sunder
+Great Maul | 5ft | 2d10 | bludgeoning | very heavy, two-handed | bash or sunder
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long | pin
+Military Fork | 10ft | 1d8 | piercing | two-handed, long, unwieldy | pointtack
+Lance / Pike | 10ft | 1d10 | piercing | heavy, two-handed, long, unwieldy | pin
+Polearm / Sword-Staff / War-Scythe | 1d8 | slashing | two-handed, long, unwieldy | sweep
+Halberd | 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
 
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
