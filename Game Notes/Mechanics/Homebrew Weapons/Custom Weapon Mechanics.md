@@ -47,7 +47,7 @@ This weapon is difficult to fight with during a close-quarters combat. When maki
 
 ### Long
 
-This weapon has a reach of roughly 10 feet, though exactly that much when performing combat calculations.
+This weapon has a "reach" of roughly 10 feet, though exactly that much when performing combat calculations.
 
 ### Flexible
 
@@ -55,7 +55,7 @@ This weapon can be stored in such a matter that it requires no slots of your car
 
 ### Thrown
 
-This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon, though making such a distanced attack puts the attack roll at disadvantage.
 
 ### Ranged
 
@@ -79,14 +79,16 @@ This weapon is specifically attuned, somehow, to metal, and solely metal. This w
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
-### Bash
 
+### Bash
 In replacement of a weapon attack, you can attempt to perform a powerful bash. Your target must succeed on a 
 
 ### Pummel
+As a bonus action on your turn, you may make two weapon attacks.
+
 ### En-Route
 
-During a weapon attack on your turn, if you have moved more than five feet this turn, you may attack an additional time. 
+If you have moved more than five feet this turn, you may make attack an with your weapon action against a target you pass or will pass by the end of your turn. 
 
 ### Pin
 
@@ -106,7 +108,7 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 > Sunder targets the creature's armor, not their natural ability to dodge or withstand damage.
 > Creatures' armor class cannot be reduced below 10 + their Dex modifier, and magic or natural armors are immune to this affect.
 
-### Amputate
+### Dismember
 Please see the [[#Targeting Table]] below.
 
 As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
