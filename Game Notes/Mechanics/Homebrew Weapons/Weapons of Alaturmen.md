@@ -9,8 +9,6 @@ Bite | 5ft | 1d6 | piercing | |
 Short-knife | 5ft | 1d4 | piercing | light, quick | pin
 Light Club | 5ft | 1d4 | bludgeoning | versatile (1d6), quick | C.L. grab
 Heavy Club | 5ft | 1d6 | bludgeoning | versatile (1d8) | bash 
-Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
-Heavy Mace | 5ft | 1d8 | bludgeoning | two-handed
 Handaxe
 Felling Axe
 Sickle
@@ -22,6 +20,8 @@ Spear
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | ---
 x | x | x | x | x | x
+Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed
 
 # Specialized Weapons
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special

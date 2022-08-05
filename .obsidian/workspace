@@ -13,7 +13,7 @@
               "leaf": "9b3ccf15fe8b7a38",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":50},\"to\":{\"line\":23,\"ch\":50}},\"scroll\":4.479284657345337}"
             },
             {
               "leaf": "9b3ccf15fe8b7a38",
@@ -45,6 +45,52 @@
         }
       },
       {
+        "id": "1d8fcadef229ff3c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1d8fcadef229ff3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Armours of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Armours of Alaturmen.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f1b0ad45127a8cf3",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f1b0ad45127a8cf3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Custom Armor Mechanics.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "9961d1086e98310e",
         "type": "leaf",
         "pane-relief:history-v1": {
@@ -54,7 +100,7 @@
               "leaf": "9961d1086e98310e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":288},\"to\":{\"line\":18,\"ch\":288}},\"scroll\":24.762485814610805}"
+              "eState": "{\"scroll\":41.499109767134286}"
             }
           ]
         },
@@ -77,7 +123,7 @@
               "leaf": "32c57e9f118d8d68",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Combat Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":121},\"to\":{\"line\":32,\"ch\":121}},\"scroll\":25.203586351839842}"
+              "eState": "{\"scroll\":24.202250321220667}"
             }
           ]
         },
@@ -170,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Combat Mechanics.md"
               }
             }
           },
@@ -246,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b3ccf15fe8b7a38",
+  "active": "32c57e9f118d8d68",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Combat Mechanics.md",
+    "Armours of Alaturmen.md",
+    "Custom Armor Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Combat Mechanics.md",
     "README.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
-    "The Texts Druidic.md",
-    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
   ]
 }
