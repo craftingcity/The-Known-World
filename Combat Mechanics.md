@@ -60,10 +60,16 @@ When a character dies, their soul is immediately disconnected from their body, a
 This essence of being, this soul, can be recovered and restored to a body, either in whole or part by many magics of this realm, including those that would typically perform such an act in og5e, with some caveats.
 
 ### The Fading Spirit
-###### as inspired by Matthew Mercer and Critical Role
+###### as inspired/ripped by/from Matthew Mercer and Critical Role
 If a character is dead, their spirit is already beginning to erode in the Etherial and Astral planes, and once it has moved into it's Final Plane, it is very difficult to recover.
 
-When attempting a ressurection
+#### Attempting Ressurection
+When attempting a resurrection by any means other than by a *True Ressurrection*, *Wish*, or a one-action-casting-time spell, a **Resurrection Challenge** is initiated. The base DC for this challenge is 10. It is modulated by up to three **Resurrection Challenge Contributions** and the number of times this soul has been brought back from *True Death*. 
 
+When attempting a resurrection by means of a one-action-casting-time spell, a **Rapid Resurrection Challenge** is initiated. The base DC for this challenge is 10. It is modulated by the caster's spellcasting ability modifier and the number of times this soul has been brought back from *True Death*. 
 
+#### Contributions
+Any characters who wish to **Contribute** to a **Resurrection Challenge** may do so, in nearly any manner they see fit. Your DM will set the DC and type of the check determining the success of your character's actions; for example, a cleric of Ar'Kraven may beseech their God to allow this mortal to continue their time on this plane, which I would interpret as an easy to medium Charisma (Religion) check, or a godless barbarian may simply demand that their comrade rise if they wish not to be forever haunted by the barbarian after their death, which I would interpret as a hard to neigh-impossible Charisma (Intimidation) check.
 
+#### Finally...
+After all contributions are completed, and the DC of the challenge is calculated and presented, the caster rolls the final check of the Resurrection challenge in front of their screen.
