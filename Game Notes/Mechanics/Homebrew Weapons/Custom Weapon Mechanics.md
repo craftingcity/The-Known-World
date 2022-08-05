@@ -33,9 +33,16 @@ A wielder of this weapon may use their Dex modifier in place of their Str modifi
 ### Quick
 A wielder of a quick weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
 
-### Versatile
-This weapon can be held in two hands. The first item in the Weapon Die column shows the damage when wielded with only one hand, while the second displays the damage done while the weapon is wielded in both hands. Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
+### Versatile (dX)
+This weapon can be held in two hands. The dice displayed in the parantheses directly after this tag display the Damage Dice when this weapon is wielded in two hands.
 
+Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
+
+Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding 
+### Two-Handed
+This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
+
+Characters of size categories Large or higher may ignore this restriction.
 ### Unwieldy
 This weapon is difficult to fight with during a close-quarters combat. When making an attack against a target within five feet of the you, you make the attack with a -2 bonus to the attack roll.
 
@@ -80,7 +87,7 @@ In replacement of a melee weapon attack, you can attempt to perform a powerful b
 As a bonus action on your turn, you may make two melee weapon attacks. You make these attacks with disadvantage.
 
 ### En-Route
-If you have moved more than five feet this turn, you may make attack an with your weapon action against a target you pass or will pass by the end of your turn. 
+If you have moved more than five feet this turn, you may make an attack with your weapon against a target you pass or will pass by the end of your turn as a Bonus Action. 
 
 ### Pin
 In replacement of a weapon attack, you can attempt to Pin a target to an adjacent object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
@@ -127,8 +134,6 @@ In replacement of a weapon attack, you may create a 10' cone of small, quick, an
 ## Targeting Table
 DC Increase | Part | Condition
 --- | --- | --- | ---
-1 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
-2 | Arm | Poisoned / Incapacitated
-2 | Leg | Slowed / Prone
-4 | Head | Stunned / Unconscious
-6 | Vital Organ | Unconscious / Dead
+2 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
+4 | Arm | Poisoned / Incapacitated
+4 | Leg | Slowed / Prone
