@@ -16,7 +16,10 @@ Handaxe | 5ft | 1d4 | slashing | light | dismember
 Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismember 
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 10ft | 1d4 | bludgeoning | light, versatile (2d4), long | C.L. grab
-
+Light Crossbow | 1d6 | piercing | ammunition (1), 
+Throwing Dart
+Shortbow
+Sling
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 

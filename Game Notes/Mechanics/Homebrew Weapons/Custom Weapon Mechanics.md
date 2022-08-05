@@ -59,7 +59,13 @@ This weapon is designed to be thrown. The first item in the range column is the 
 
 ### Ranged
 
-This weapon is designed to fire some type of ammunition. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+
+
+### Ammunition (X)
+
+This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload bonus action.
+
+The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Siege
 

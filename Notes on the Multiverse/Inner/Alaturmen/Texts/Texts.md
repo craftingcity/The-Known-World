@@ -20,5 +20,6 @@ aliases:
 	- [[The Ballad of Grey Ordeal]]
 	- [[The Code of Thieves]]
 	- [[The Druidic Texts]]
+	- [[The Texts Druidic]]
 
 %% End Waypoint %%

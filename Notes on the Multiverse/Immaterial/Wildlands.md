@@ -1,6 +1,6 @@
 ---
 tags: planes
-aliases:
+aliases: Ethereal Plane, 
 ---
 
 *This page is a #stub. You can help by expanding it!*
