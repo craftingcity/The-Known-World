@@ -78,9 +78,10 @@ This area of affect can be ignited by a spark or open flame. If such a thing wer
 This weapon is specifically attuned, somehow, to metal, and solely metal. This weapon has no effect against items that are not metal and creatures that are not holding, wearing, or otherwise touching the targeted metal.
 
 # Weapon Specials
+Each of the following "Specials" may only be used once between rests.
 ### Bash
 
-In replacement of a weapon attack, you can attempt to perform a powerful bash.
+In replacement of a weapon attack, you can attempt to perform a powerful bash. Your target must succeed on a 
 
 ### Pummel
 ### En-Route
