@@ -5,12 +5,12 @@ Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Spe
 Fist | 5ft | 1 | bludgeoning | | 
 Claw | 5ft | 1d4 | piercing | |
 Bite | 5ft | 1d6 | piercing | |
-"Improvised" | 5ft or (15/30)ft | 1d3 | bludgeoning | light |
-Short-knife | 5ft or (20/60)ft | 1d4 | piercing | light, quick | pin
+"Improvised" | 5ft | 1d3 | bludgeoning | light |
+Short-knife | 5ft | 1d4 | piercing | light, quick | pin
 Light Club | 5ft | 1d4 | bludgeoning | versatile (1d6), quick | C.L. grab
 Heavy Club | 5ft | 1d6 | bludgeoning | versatile (1d8) | bash 
-Light Mace
-Heavy Mace
+Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+Heavy Mace | 5ft | 1d8 | bludgeoning | two-handed
 Handaxe
 Felling Axe
 Sickle

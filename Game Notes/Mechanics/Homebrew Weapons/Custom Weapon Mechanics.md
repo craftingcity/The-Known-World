@@ -16,7 +16,7 @@ When you make an attack with a weapon that deals piercing damage, if you have ad
 
 ### Slashing
 
-When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d4 to apply a stack of Bleed.
+When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d4 to attempt to apply a stack of Bleed. The creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total.
 
 > Bleed deals 1d3 (aka 1d6/2, round up) damage per stack at the beginning of the effected creature's turn.
 > Bleed, once applied, can only be removed by way of magical healing (such as a spell or potion of healing) or by spending an action and succeeding on a DC 12 Medicine check 

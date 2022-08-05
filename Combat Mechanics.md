@@ -26,8 +26,19 @@ Imagine if any of us had a positive CON mod.
 Or a **negative** one...
 
 # Mortal Wounds
-A character can endure a number of mortal wounds equal to their constitution modifier. When a character takes "damage" that would push them below 0 vitality, they immediately take a Mortal Wound. 
+A character can endure a number of mortal wounds equal to their constitution modifier. 
 
-If a character reaches exactly 0 Vitality, god-damn that's sick.
+When a character takes "damage" that would push them below 0 vitality, they immediately take a Mortal Wound. 
 
-After a character has been exposed to a mortal wound, 
+> If a character reaches exactly 0 Vitality, god-damn that's sick. They will now take one MW per Attack they are hit with
+
+After a character has been exposed to a mortal wound, they may immediately spend a number of hit die equal to their constitution modifier. 
+
+> If their modifier is 0, or negative, it sure sucks to suck don't it, seems to me, you should have stayed in the fucking *library*, not the battlefield! ***Pwned~***!
+
+## Death Call
+When a character has endured as many mortal wounds as they can, at the beginning of their turn, they make a Death Call. Roll a d20. Add nothing, other than your prayers to the Fates and Ar'Kraven. 
+
+If the roll is a ten or higher, you succeed, and you live for the next six seconds. Otherwise, you fail, and take one point of exhaustion.
+
+If a character takes a mortal wound, and they can endure no more, they immediately die, no Death Call required.
