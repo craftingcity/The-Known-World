@@ -65,8 +65,10 @@ This weapon is designed to fire some type of ammunition. The number displayed in
 
 The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
-### Siege (X)
-This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks. It must be re-prepared after moving.
+### Siege
+This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks or moved. 
+
+> For clarity, one must use an action in the armory to prepare the siege equipment for movement, then move with it to where they wish to fire, and then there use another action to prepare the equipment for use, and then finally they may begin to attack. Once they wish to move again, this process repeats.
 
 If this weapon is designed to fire some type of ammunition, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
 

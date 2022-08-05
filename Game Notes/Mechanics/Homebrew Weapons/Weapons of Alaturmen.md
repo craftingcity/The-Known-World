@@ -3,11 +3,12 @@ The following weapons can be used competently by all.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
+***Melee Weaponry*** |
 Fist | 5ft | 1 | bludgeoning | | pummel
 Claw | 5ft | 1d4 | piercing | | pin
 Bite | 5ft | 1d6 | piercing | | pointtack
 "Improvised" | 5ft | 1d3 | bludgeoning | light | pummel
-Short-knife | 5ft | 1d4 | piercing | light, quick | pointtack
+Short-knife | 5ft, 20/60ft | 1d4 | piercing | light, quick, thrown | pointtack
 Long-knife | 5ft | 1d6 | slashing | light | sweep
 Light Club | 5ft | 1d4 | bludgeoning | versatile (1d6), quick | C.L. grab
 Heavy Club | 5ft | 1d6 | bludgeoning | versatile (1d8) | bash 
@@ -19,6 +20,7 @@ Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismembe
 Mining Pick | 5ft | 1d6 | piercing | heavy, two-handed | sweep
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 5ft | 1d4 | bludgeoning | light, versatile (2d4) | C.L. grab
+***Ranged Weaponry*** |
 Light Crossbow | 80/320ft | 1d6 | piercing | ammunition (1), two-handed | bash
 Throwing Dart | 20/60ft | 1d4 | piercing | thrown | pummel
 Shortbow | 80/320ft | 1d6 piercing | two-handed | C.L. grab
@@ -30,6 +32,7 @@ The following weapons can be used competently by those who are proficient in the
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
+***Melee Weaponry*** |
 Shortsword | 5ft | 1d6 | slashing | | charge
 Scimitar | 5ft | 1d6 | slashing | | en-route
 Rapier | 5ft | 1d8 | piercing | light | pointtack
@@ -38,7 +41,7 @@ Long Sword | 5ft | 1d8 | slashing | versatile (1d10) | sweep
 Claymore | 5ft | 2d6 | heavy, two-handed | dismember
 Battle Axe | 5ft | 1d8 | slashing | versatile (1d10) | sunder
 Greataxe | 5ft | 3d6 | slashing | very heavy, two-handed | sweep, sunder, or dismember
-War Club / Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+War Club / Light Mace / Jitte | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
 Flail | 5ft | 1d8 | | bash
 Morning Star / Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
 War Pick | 5ft | 1d8 | piercing | heavy | bash
@@ -49,10 +52,37 @@ Military Fork | 10ft | 1d8 | piercing | two-handed, long, unwieldy | pointtack
 Lance / Pike | 10ft | 1d10 | piercing | heavy, two-handed, long, unwieldy | pin
 Polearm / Sword-Staff / War-Scythe | 1d8 | slashing | two-handed, long, unwieldy | sweep
 Halberd | 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
-
+***Ranged Weaponry*** |
+Chakram |
+Kunai |
+Shuriken |
+Pilum |
+Tomahawk |
+Plumbata |
+Longbow |
+Recurve Bow |
+Crossbow |
+Heavy Crossbow |
+Pellet Crossbow |
+Reloading Crossbow |
+Magazine Pellet Crossbow |
+Blowgun |
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
---- | ---
+--- | --- | --- | --- | --- | ---
+***Melee Weaponry*** |
+Lasso |
+Bullwhip |
+Chainwhip |
+Cat-o'-Nine Whip |
+Bladewhip |
+Rope-Dart |
+Meteor Hammer |
+
+# Siege Weapons
+The following weapons all have the *siege* tag, and require preparation to both move and fire.
+Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
+--- | --- | --- | --- | --- | ---
 x | x | x | x | x | x
