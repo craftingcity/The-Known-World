@@ -27,6 +27,8 @@ When you hit with an attack that would deal slashing damage, you may choose to r
 
 A small creature makes attacks with this weapon with disadvantage.
 
+If this weapon also has the Ammunition (X) tag, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
+
 ### Light
 
 This weapon can be thrown for it's full weapon damage within 15' and half it's full damage within 30'. When one attempts such an attack with this weapon, they make the attack roll with disadvantage - while this weapon can be thrown, this weapon is not necessarily solely purposed to do so.
@@ -57,29 +59,30 @@ This weapon can be stored in such a matter that it requires no slots of your car
 
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon, though making such a distanced attack puts the attack roll at disadvantage.
 
-### Ranged
-
-
-
 ### Ammunition (X)
 
-This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload bonus action.
+This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action.
 
 The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
-### Siege
+### Siege (X)
 
 This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks. It must be re-prepared after moving.
 
-### Wind-Susceptible
+If this weapon is designed to fire some type of ammunition, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
+
+The first item in the range column is the default range of the weapon. The second item in the range column, if it exists, is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+
+### Unique (~X~)
+#### Wind-Susceptible
 
 This area of affect can be effectively dispersed by a medium wind or a sustained (1 minute) light wind.
 
-### Ignitable
+#### Ignitable
 
 This area of affect can be ignited by a spark or open flame. If such a thing were to occur, any occupants of the area would immediately take 6d4 fire damage, and the area of affect becomes dispersed and/or innert.
 
-### Metal-Attunement
+#### Metal-Attunement
 
 This weapon is specifically attuned, somehow, to metal, and solely metal. This weapon has no effect against items that are not metal and creatures that are not holding, wearing, or otherwise touching the targeted metal.
 
@@ -90,7 +93,7 @@ Each of the following "Specials" may only be used once between rests.
 In replacement of a weapon attack, you can attempt to perform a powerful bash. Your target must succeed on a 
 
 ### Pummel
-As a bonus action on your turn, you may make two weapon attacks.
+As a bonus action on your turn, you may make two weapon attacks. You make these attacks with disadvantage.
 
 ### En-Route
 
@@ -98,13 +101,13 @@ If you have moved more than five feet this turn, you may make attack an with you
 
 ### Pin
 
-In replacement of a weapon attack, you can attempt to pin a target to an abject using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains in the target's armor/clothing.
+In replacement of a weapon attack, you can attempt to Pin a target to an object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
 
-An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from your pinning position. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the pin.
+You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the Pin. An effected target can make a Skill Contest (Athletics) versus you as a Full Action on their turn in an attempt to un-Pin themselves.
 
 ### Charge
 
-When you make a weapon attack with this weapon, if you have moved 10 or more feet from your starting position this turn, you may gain a +2 bonus to the attack roll and, if you hit, the damage roll.
+When you make a weapon attack with this weapon, if you have moved 10 or more feet from your originating position during this turn, you gain a +2 bonus to the attack roll and, if you hit, the damage roll.
 
 ### Sunder
 
@@ -117,7 +120,7 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 ### Dismember
 Please see the [[#Targeting Table]] below.
 
-As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
+As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your atta ack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
 
 ### Sweep
 
