@@ -25,9 +25,9 @@ Ancient names are often hidden and well protected, but some fools give their nam
 ## The Theory of Faith
 The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
 
-1. Faith is a manifestation of a consciousness. 
-2. Faith is deeply personal and inciting.
-3. Faith knots the Weave.
+> 1. Faith is a manifestation of a consciousness. 
+> 2. Faith is deeply personal and inciting.
+> 3. Faith knots the Weave.
 
 [[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. Ostensibly, the personal manifestation of Knots creates these entities, and they grow in power by establishing more connections to or consumption of Faith.
 
