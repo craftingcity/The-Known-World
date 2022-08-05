@@ -21,7 +21,12 @@ When you hit with an attack that would deal slashing damage, you may choose to r
 
 # Weapon Tags Changes
 ### Heavy
-A small creature makes attacks with this weapon with disadvantage.
+A small creature makes attacks with this weapon at disadvantage.
+
+If this weapon also has the Ammunition (X) tag, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
+
+### Very Heavy
+A medium creature makes attacks with this weapon at disadvantage.
 
 If this weapon also has the Ammunition (X) tag, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
 
@@ -107,7 +112,7 @@ When you hit with an attack with this weapon, if you beat your target's AC by fi
 ### Dismember
 Please see the [[#Targeting Table]] below.
 
-As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your atta ack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
+As you perform a weapon attack, you may attempt to amputate an exposed organ or limb of a creature. Select a row of the [[#Targeting Table]]. If your atta ack beats the target's AC + your selection's DC, the part is "removed" and the corresponding effect is applied. 
 
 ### Sweep
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures  up to your proficiency bonus that are in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 

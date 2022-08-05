@@ -30,14 +30,18 @@ The following weapons can be used competently by those who are proficient in the
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
-Shortsword | 5ft | 1d6 | slashing | | sweep
+Shortsword | 5ft | 1d6 | slashing | | charge
 Scimitar | 5ft | 1d6 | slashing | | en-route
 Rapier | 5ft | 1d8 | piercing | light | pointtack
-Long Sword | 5ft | 1d8 | versatile (1d10) | sweep
-Claymore | 5ft | heavy, two-handed
-Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
-Heavy Mace | 5ft | 1d10 | bludgeoning | heavy, two-handed | bash
-War-Hammer | 5ft | 1d
+Machete | 5ft | 1d8 | slashing | | dismember
+Long Sword | 5ft | 1d8 | slashing | versatile (1d10) | sweep
+Claymore | 5ft | 2d6 | heavy, two-handed | dismember
+Battle Axe | 5ft | 1d8 | slashing | versatile (1d10) | sunder
+Greataxe | 5ft | 3d6 | slashing | very heavy, two-handed | sweep, sunder, or dismember
+War Club / Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+Morning Star / Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
+War Pick | 5ft | 1d8 | piercing | heavy | bash
+War Hammer | 5ft | 1d12 | bludgeoning | heavy, two-handed | sunder
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long | pin
 
 # Specialized Weapons
