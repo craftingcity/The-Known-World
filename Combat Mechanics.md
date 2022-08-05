@@ -1,5 +1,5 @@
 # Roll Hie. Or Die.
-It is my intention to hack the current 5e system of HP, Hit Die, AC, and Death Saves as a complete representation of a character's "health" into something akin to VtM's "superficial wounds" & "mortal wounds", that also maybe lets me play with higher damages for my "normal" weapons
+It is my intention to hack the current 5e system of HP, Hit Die, AC, and Death Saves as a complete representation of a character's "health" into something akin to VtM's "superficial wounds" & "mortal wounds" or Darkes Dungeon's Death's Door, that also maybe lets me play with higher damages for my "normal" weapons.
 
 ## Vitality
 A character's ability to "tank", dodge, parry, block, evade, or otherwise *not fully ef'n die from* (because remember, ***that's the goal*** when you swing a sword at someone or shoot a fire bolt at their dome) is known as their Vitality. 
@@ -43,7 +43,7 @@ After a character has been exposed to a mortal wound, they may immediately spend
 > ***Pwned~!***
 > 
 > In all seriousness, this isnt meant to be about punishing your players and their characters.
-> This hack of the og5e 
+> This hack of the og5e mechanics is meant to be about changing how death, dying, and getting there feels. 
 
 ## Death Call
 When a character has endured more than as many Mortal Wounds as they can, at the beginning of their turn or when they gain a new Mortal Wound, they make a Death Call. 
@@ -51,3 +51,19 @@ When a character has endured more than as many Mortal Wounds as they can, at the
 Roll a d20. Add nothing, other than your prayers to the Fates and Ar'Kraven. 
 
 If the roll is a ten or higher, you succeed, and you maintain yourself during these next six seconds. Otherwise, you fail to do so, and take one point of Exhaustion.
+
+## Healing & Death
+Most mechanics act as og5e; those spells that would heal HP heal Vitality, those spells that cure ailments, even those considered lesser, cure Mortal Wounds, and sometimes Exhaustion (as well as their usual restorative powers, of course).
+
+When a character dies, their soul is immediately disconnected from their body, and this essence of being is transported, albeit slowly, to the plane where it will spend the rest of its existence. 
+
+This essence of being, this soul, can be recovered and restored to a body, either in whole or part by many magics of this realm, including those that would typically perform such an act in og5e, with some caveats.
+
+### The Fading Spirit
+###### as inspired by Matthew Mercer and Critical Role
+If a character is dead, their spirit is already beginning to erode in the Etherial and Astral planes, and once it has moved into it's Final Plane, it is very difficult to recover.
+
+When attempting a ressurection
+
+
+
