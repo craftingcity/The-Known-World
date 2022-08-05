@@ -1,4 +1,5 @@
 # Simple Weapons
+The following weapons can be used competently by all.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | ---
@@ -17,6 +18,8 @@ Staff | 10ft | 1d4 | bludgeoning | light, versatile (2d4), long | C.L. grab
 
 
 # Martial Weapons
+The following weapons can be used competently by those who are proficient in them.
+
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | ---
 x | x | x | x | x | x
@@ -25,6 +28,8 @@ Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long
 Javelin | 30/90ft | 1d6 | piercing | thrown | 
 # Specialized Weapons
+The following weapons can only be used by those who are proficient in them.
+
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | ---
 x | x | x | x | x | x
