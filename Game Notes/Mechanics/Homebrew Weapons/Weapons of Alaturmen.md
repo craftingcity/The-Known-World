@@ -3,32 +3,38 @@ The following weapons can be used competently by all.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
-Fist | 5ft | 1 | bludgeoning | | 
-Claw | 5ft | 1d4 | piercing | |
-Bite | 5ft | 1d6 | piercing | |
-"Improvised" | 5ft | 1d3 | bludgeoning | light |
+Fist | 5ft | 1 | bludgeoning | | pummel
+Claw | 5ft | 1d4 | piercing | | pin
+Bite | 5ft | 1d6 | piercing | | pointtack
+"Improvised" | 5ft | 1d3 | bludgeoning | light | pummel
 Short-knife | 5ft | 1d4 | piercing | light, quick | pointtack
-Long-knife | 5ft | 1d6 | piercing | light | pin
+Long-knife | 5ft | 1d6 | slashing | light | sweep
 Light Club | 5ft | 1d4 | bludgeoning | versatile (1d6), quick | C.L. grab
 Heavy Club | 5ft | 1d6 | bludgeoning | versatile (1d8) | bash 
 Tool Hammer | 5ft | 1d4 | bludgeoning | light | pummel
 Steel Knuckles | 5ft | 1d3 | bludgeoning | light, stashable | pummel
 Handaxe | 5ft | 1d4 | slashing | light | dismember
-Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismember 
+Handpick | 5ft | 1d4 | piercing | light | pointtack
+Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismember
+Mining Pick | 5ft | 1d6 | piercing | heavy, two-handed | sweep
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 10ft | 1d4 | bludgeoning | light, versatile (2d4), long | C.L. grab
-Light Crossbow | 80/320ft | 1d6 | piercing | ammunition (1), two-handed |
+Light Crossbow | 80/320ft | 1d6 | piercing | ammunition (1), two-handed | bash
 Throwing Dart | 20/60ft | 1d4 | piercing | thrown | pummel
 Shortbow | 80/320ft | 1d6 piercing | two-handed | C.L. grab
 Sling | 5ft, 80/320ft | 1d4 | bludgeoning | ammunition (1) | pummel
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
-Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1) | C.L. grab
+Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | ---
 x | x | x | x | x | x
+Tantō |
+Scimitar |
+Rapier | 
+Falchion (Long & Curved Sword) |
 Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
 Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long | pin

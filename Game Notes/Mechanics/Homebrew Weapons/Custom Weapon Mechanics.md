@@ -5,17 +5,14 @@ aliases:
 
 # Weapon Damage Rules Changes
 ### Bludgeoning
-
-When you miss with an attack that would deal bludgeoning damage, if the attack missed by two or less, you may deal half damage of the attack anyways.
+When you miss with an attack that would deal bludgeoning damage, if the attack missed by two or less, you may deal half damage of the attack anyway.
 
 > This is intended to *simulate* the idea that even when I cannot pierce your armor, a bludgeoning weapon does not necessarily have to.
 
 ### Piercing
-
-When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll and you hit with the attack, the attack deals an extra 1d4 damage.
+When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an extra 1d4 damage.
 
 ### Slashing
-
 When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d4 to attempt to apply a stack of Bleed. The creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total.
 
 > Bleed deals 1d3 (aka 1d6/2, round up) damage per stack at the beginning of the effected creature's turn.
@@ -24,49 +21,39 @@ When you hit with an attack that would deal slashing damage, you may choose to r
 
 # Weapon Tags Changes
 ### Heavy
-
 A small creature makes attacks with this weapon with disadvantage.
 
 If this weapon also has the Ammunition (X) tag, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
 
 ### Light
-
-This weapon can be thrown for it's full weapon damage within 15' and half it's full damage within 30'. When one attempts such an attack with this weapon, they make the attack roll with disadvantage - while this weapon can be thrown, this weapon is not necessarily solely purposed to do so.
+This weapon can be thrown for it's full weapon damage within 15' and half its full damage within 30'. When one attempts such an attack with this weapon, they make the attack roll with disadvantage - while this weapon can be thrown, this weapon is not necessarily solely purposed to do so.
 
 A wielder of this weapon may use their Dex modifier in place of their Str modifier when making weapon attacks with this weapon, if they wish to do so.
 
 ### Quick
-
 A wielder of a quick weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
 
 ### Versatile
-
 This weapon can be held in two hands. The first item in the Weapon Die column shows the damage when wielded with only one hand, while the second displays the damage done while the weapon is wielded in both hands. Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
 
 ### Unwieldy
-
 This weapon is difficult to fight with during a close-quarters combat. When making an attack against a target within five feet of the you, you make the attack with a -2 bonus to the attack roll.
 
 ### Long
-
 This weapon has a "reach" of roughly 10 feet, though exactly that much when performing combat calculations.
 
 ### Stashable
-
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
 ### Thrown
-
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon, though making such a distanced attack puts the attack roll at disadvantage.
 
 ### Ammunition (X)
-
 This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action.
 
 The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Siege (X)
-
 This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks. It must be re-prepared after moving.
 
 If this weapon is designed to fire some type of ammunition, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
@@ -75,22 +62,19 @@ The first item in the range column is the default range of the weapon. The secon
 
 ### Unique (~X~)
 #### Wind-Susceptible
-
 This area of affect can be effectively dispersed by a medium wind or a sustained (1 minute) light wind.
 
 #### Ignitable
-
 This area of affect can be ignited by a spark or open flame. If such a thing were to occur, any occupants of the area would immediately take 6d4 fire damage, and the area of affect becomes dispersed and/or innert.
 
 #### Metal-Attunement
-
 This weapon is specifically attuned, somehow, to metal, and solely metal. This weapon has no effect against items that are not metal and creatures that are not holding, wearing, or otherwise touching the targeted metal.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
 
 ### Bash
-In replacement of a weapon attack, you can attempt to perform a powerful bash. Your target must succeed on a 
+In replacement of a melee weapon attack, you can attempt to perform a powerful bash. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, 
 
 ### Pummel
 As a bonus action on your turn, you may make two melee weapon attacks. You make these attacks with disadvantage.
@@ -99,7 +83,7 @@ As a bonus action on your turn, you may make two melee weapon attacks. You make 
 If you have moved more than five feet this turn, you may make attack an with your weapon action against a target you pass or will pass by the end of your turn. 
 
 ### Pin
-In replacement of a weapon attack, you can attempt to Pin a target to an object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
+In replacement of a weapon attack, you can attempt to Pin a target to an adjacent object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
 
 You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the Pin. An effected target can make a Skill Contest (Athletics) versus you as a Full Action on their turn in an attempt to un-Pin themselves.
 
@@ -110,8 +94,8 @@ When you make a weapon attack with this weapon, if you have moved 10 or more fee
 When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply a stack of Sunder.
 
 > Sunder reduces the effected creature's effective AC by 1 per stack.
-> Sunder targets the creature's armor, not their natural ability to dodge or withstand damage.
-> Creatures' armor class cannot be reduced below 10 + their Dex modifier, and magic or natural armors are immune to this affect.
+> Sunder targets the creature's armor, hide, chiton, or otherwise protective material; not their natural ability to dodge or withstand damage.
+> Creatures' armor class cannot be reduced below 10 + their Dex modifier this way, and magical armors are immune to this effect.
 
 ### Dismember
 Please see the [[#Targeting Table]] below.
@@ -122,17 +106,14 @@ As you perform a weapon attack, you may attempt to amputate an exposed organ or 
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures  up to your proficiency bonus that are in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Cross-Lock Grab
-
 As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, you take no damage from the triggering attack, and the attacker is grappled. While you maintain this grapple, you cannot use your weapon to make attacks, and you gain an effective +4 to your Athletics.
 
 ### Wrap
-
 In replacement of a weapon attack, you may attempt to wrap a target using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains wrapped around your target.
 
 An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from around them. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the restraint from the target.
 
 ### Return
-
 When you miss with an attack with this weapon, it returns to you in an arc. You may recollect this weapon as a part of the weapon attack if you succeed on a DC12 Sleight of Hand check. If you fail this check, the weapon harmlessly lands within 5ft of you.
 
 ### Pointtack
@@ -141,7 +122,6 @@ Please see the [[#Targeting Table]] below.
 As you perform a weapon attack, you may attempt to precisely target a part of your target. If your attack beats the target's AC + your selection's DC, the part is severely harmed and the corresponding effect is applied. 
 
 ### Scatter
-
 In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful shot. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
 
 ## Targeting Table
