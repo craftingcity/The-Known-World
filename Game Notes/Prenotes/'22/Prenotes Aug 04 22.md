@@ -19,3 +19,4 @@ When we last left our heroes, they had completed their meeting with their Dracon
 [[Giant's Toe]].
 
 ### What happened?
+The party entered [[Giant's Toe]] from the large entrance at the south of the keep. From here, they traveled north-east, slaughtering all opposition in their way. They saved five civilians, and one who decided to join them fell upon third contact with the Whitimore Matron, whom they too slaughtered. 

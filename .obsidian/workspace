@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "79516d130abb2bca",
+        "id": "9b3ccf15fe8b7a38",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "79516d130abb2bca",
+              "leaf": "9b3ccf15fe8b7a38",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 04 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":18,\"ch\":8}},\"scroll\":14.134109634678758}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3392f784f55140bc",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3392f784f55140bc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -104,12 +77,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -129,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +150,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,12 +173,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3392f784f55140bc",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
     "The Texts Druidic.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md",
