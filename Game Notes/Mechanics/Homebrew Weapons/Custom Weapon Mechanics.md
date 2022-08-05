@@ -51,7 +51,7 @@ This weapon is difficult to fight with during a close-quarters combat. When maki
 
 This weapon has a "reach" of roughly 10 feet, though exactly that much when performing combat calculations.
 
-### Flexible
+### Stashable
 
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
@@ -93,24 +93,20 @@ Each of the following "Specials" may only be used once between rests.
 In replacement of a weapon attack, you can attempt to perform a powerful bash. Your target must succeed on a 
 
 ### Pummel
-As a bonus action on your turn, you may make two weapon attacks. You make these attacks with disadvantage.
+As a bonus action on your turn, you may make two melee weapon attacks. You make these attacks with disadvantage.
 
 ### En-Route
-
 If you have moved more than five feet this turn, you may make attack an with your weapon action against a target you pass or will pass by the end of your turn. 
 
 ### Pin
-
 In replacement of a weapon attack, you can attempt to Pin a target to an object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
 
 You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the Pin. An effected target can make a Skill Contest (Athletics) versus you as a Full Action on their turn in an attempt to un-Pin themselves.
 
 ### Charge
-
 When you make a weapon attack with this weapon, if you have moved 10 or more feet from your originating position during this turn, you gain a +2 bonus to the attack roll and, if you hit, the damage roll.
 
 ### Sunder
-
 When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply a stack of Sunder.
 
 > Sunder reduces the effected creature's effective AC by 1 per stack.
@@ -123,8 +119,7 @@ Please see the [[#Targeting Table]] below.
 As you perform a weapon attack, you may attempt to amputate an exposed organ or part of a creature. Select a row of the [[#Targeting Table]]. If your atta ack beats the target's AC + your selection's DC, the part is removed and the corresponding effect is applied. 
 
 ### Sweep
-
-In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures in range up to your proficiency bonus, then make a weapon attack against each of them. Each creature takes 1/2 of the damage of the weapon's attack.
+In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures  up to your proficiency bonus that are in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Cross-Lock Grab
 

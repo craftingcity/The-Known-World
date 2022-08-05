@@ -11,17 +11,18 @@ Short-knife | 5ft | 1d4 | piercing | light, quick | pointtack
 Long-knife | 5ft | 1d6 | piercing | light | pin
 Light Club | 5ft | 1d4 | bludgeoning | versatile (1d6), quick | C.L. grab
 Heavy Club | 5ft | 1d6 | bludgeoning | versatile (1d8) | bash 
-Hammer | 5ft | 1d4 | bludgeoning | light | pummel
+Tool Hammer | 5ft | 1d4 | bludgeoning | light | pummel
+Steel Knuckles | 5ft | 1d3 | bludgeoning | light, stashable | pummel
 Handaxe | 5ft | 1d4 | slashing | light | dismember
 Felling Axe | 5ft | 1d6 | slashing | heavy, versatile (1d8), unwieldy | dismember 
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 10ft | 1d4 | bludgeoning | light, versatile (2d4), long | C.L. grab
-Light Crossbow | 1d6 | piercing | ammunition (1), 
-Throwing Dart
-Shortbow
-Sling
+Light Crossbow | 80/320ft | 1d6 | piercing | ammunition (1), two-handed |
+Throwing Dart | 20/60ft | 1d4 | piercing | thrown | pummel
+Shortbow | 80/320ft | 1d6 piercing | two-handed | C.L. grab
+Sling | 5ft, 80/320ft | 1d4 | bludgeoning | ammunition (1) | pummel
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
-Ahtlatl | 60/180ft | 1d
+Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1) | C.L. grab
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 
