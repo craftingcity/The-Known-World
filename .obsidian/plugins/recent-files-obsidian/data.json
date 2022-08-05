@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Custom Weapon Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Prenotes Aug 04 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
     },
@@ -157,16 +177,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a village/Sally's Alley.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Custom Weapon Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
     },
     {
       "basename": "Notes on the Multiverse",
@@ -187,18 +199,6 @@
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Texts",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     }
   ],
   "omittedPaths": [],

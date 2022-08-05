@@ -10,5 +10,6 @@ aliases:
 	- **[[Homebrew Spells]]**
 	- **Homebrew Weapons**
 		- [[Custom Weapon Mechanics]]
+		- [[Weapons of Alaturmen]]
 
 %% End Waypoint %%
