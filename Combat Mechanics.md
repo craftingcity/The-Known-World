@@ -8,7 +8,7 @@ A character's ability to "tank", dodge, parry, block, evade, or otherwise *not f
 
 This is equal to a character's maximum roll on a single Hit Die (we're keeping this system, I *really* like it, but it should actually matter outside the one og5e short rest you take before you sleep - interrupting long rests are a fine way to go, but its... Bad? To do this or have this done on either side of the table. Especially poorly.) plus their constitution modifier, times their level.
 
-> ``V = 1HD+CON*LVL``
+> ``V = (1HD+CON)*LVL``
 
 For example, my party is composed of 4 characters who all have a Con mod of 0; a Barbarian, Jessup, a Ranger, Folyian, a Cleric, Meshueicyn, and a Wizard, Barrug. We are level five, so we each have five hit die; we also know that our maximum vitality is a multiple of five, because we are fifth level and all have a +0 CON.
 
@@ -72,4 +72,8 @@ When attempting a resurrection by means of a one-action-casting-time spell, a **
 Any characters who wish to **Contribute** to a **Resurrection Challenge** may do so, in nearly any manner they see fit. Your DM will set the DC and type of the check determining the success of your character's actions; for example, a cleric of Ar'Kraven may beseech their God to allow this mortal to continue their time on this plane, which I would interpret as an easy to medium Charisma (Religion) check, or a godless barbarian may simply demand that their comrade rise if they wish not to be forever haunted by the barbarian after their death, which I would interpret as a hard to neigh-impossible Charisma (Intimidation) check.
 
 #### Finally...
-After all contributions are completed, and the DC of the challenge is calculated and presented, the caster rolls the final check of the Resurrection challenge in front of their screen.
+After all contributions are completed, and the DC of the challenge is calculated and presented, the caster rolls the final check of the **Resurrection Challenge** publicly.
+
+If the number rolled on the die is greater than or equal to the DC of the **Resurrection Challenge**, and the character's spirit is willing and able, they return to the Material Plane, as per the specifics of the spell used.
+
+If the **Resurrection Challenge** was **Rapid**, another, more powerful & dedicated **Resurrection Challenge** may be attempted, though it is only a matter of time before thier spirit is lost to the Outer Planes.
