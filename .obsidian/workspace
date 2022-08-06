@@ -12,14 +12,18 @@
             {
               "leaf": "4e99c16305ddb1a3",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
+              }
             }
           },
           {
