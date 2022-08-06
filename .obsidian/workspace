@@ -4,29 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "4e99c16305ddb1a3",
+        "id": "375d4ad19417c919",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "4e99c16305ddb1a3",
+              "leaf": "375d4ad19417c919",
               "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/GrainIntoGold.pdf\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "375d4ad19417c919",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "4e99c16305ddb1a3",
+              "leaf": "375d4ad19417c919",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "4f9d212580be5aae",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "4f9d212580be5aae",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4f9d212580be5aae",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":8},\"to\":{\"line\":7,\"ch\":8}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6095342f56b4c2e6",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 2,
+          "stack": [
+            {
+              "leaf": "6095342f56b4c2e6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6095342f56b4c2e6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6095342f56b4c2e6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+            "file": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -110,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
               }
             }
           },
@@ -186,17 +312,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e99c16305ddb1a3",
+  "active": "6095342f56b4c2e6",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
     "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
-    "Game Notes/Mechanics/Mechanics.md"
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md",
+    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
   ]
 }
