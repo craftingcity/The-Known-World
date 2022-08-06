@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
       "basename": "Skills of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Yerba",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Yerba.md"
     }
   ],
   "omittedPaths": [],
