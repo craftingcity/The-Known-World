@@ -4,94 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9d212580be5aae",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "4f9d212580be5aae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "4f9d212580be5aae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":8},\"to\":{\"line\":7,\"ch\":8}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6095342f56b4c2e6",
+        "id": "47a49509305a5e2a",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}},\"scroll\":0}"
+              "leaf": "47a49509305a5e2a",
+              "group": "c29ff098d3f62ca0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Abyss.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.250156986331919}"
             },
             {
-              "leaf": "6095342f56b4c2e6",
+              "leaf": "47a49509305a5e2a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":97},\"to\":{\"line\":18,\"ch\":97}},\"scroll\":10.763595005067106}"
-            },
-            {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.421293730843757}"
-            },
-            {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6095342f56b4c2e6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Orcus.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "6095342f56b4c2e6",
+              "leaf": "47a49509305a5e2a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":6},\"to\":{\"line\":12,\"ch\":6}}}"
+            },
+            {
+              "leaf": "47a49509305a5e2a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Demon Lords.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+            "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
             "mode": "source",
             "source": true
           }
@@ -177,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
               }
             }
           },
@@ -253,17 +200,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6095342f56b4c2e6",
+  "active": "47a49509305a5e2a",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Orcus.md",
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md",
+    "Thanatos.md",
+    "Notes on the Multiverse/Outer/Abyss/Demon Lords.md",
+    "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
-    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
   ]
 }
