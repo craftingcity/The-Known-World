@@ -2,7 +2,7 @@
 ### Archery Mastery
 - You gain a +2 bonus to attack rolls you make with ranged weapons.
 ### Blind Fighting Mastery
-- You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+- You have blindsight of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 ### One-Hand Style
 - When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to attack rolls with that weapon.
 - If you are wielding no Auxiliary Armor, you gain a +1 to your AC.
@@ -14,6 +14,7 @@
 - Your unarmed strikes may deal 1d6 + STR bludgeoning damage on a hit, or 1d8 + STR if you are wielding no Weapons or Auxiliary Armor.
 - At the beginning of each of your turns, you may deal 1d4 bludgeoning damage to a creature you are currently Grappling. 
 ### Shield Mastery
+- You must be wielding a piece of Auxiliary Armor to gain the benefits of this Fighting Style.
 - As a reaction, when a creature you can see within 5ft of you is targeted by an attack, you may impose Disadvantage on the roll.
 - If the attack that triggered this reaction hits, you may expend and roll any number of Hit Die and subtract the total from the Attack's Damage.
 ### Thrown Weapon Mastery

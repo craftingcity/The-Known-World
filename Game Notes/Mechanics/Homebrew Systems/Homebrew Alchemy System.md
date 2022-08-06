@@ -9,8 +9,6 @@ Alchemy is the act of harnessing the latent magical energy in all things known a
 
 The key to successful alchemy is understanding and controlling the Weave Potentia. This energy is present in all things, and can be harnessed to produce a variety of effects. It is important to note that the Weave is not a fixed or static thing - it can be influenced and controlled, but never fully understood. This makes alchemy a difficult, but potentially very rewarding, art. It is also important to remember that alchemy is not without risk. The results of alchemy can be unpredictable, and sometimes dangerous. It is essential to have the necessary skills and knowledge before attempting any alchemical process.
 
-  
-
 ### Grades
 The grades of alchemist, as presented lowest to highest, are apprentice, novice, journeyman, expert, and master. Each grade is determined by the level of experience and expertise an individual has.
 
