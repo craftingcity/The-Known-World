@@ -44,6 +44,7 @@ This weapon can be held in two hands. The dice displayed in the parantheses dire
 Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
 
 Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding this weapon with one hand.
+
 ### Two-Handed
 This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
 
@@ -99,7 +100,7 @@ If you have moved more than five feet this turn, you may make an attack with you
 ### Pin
 In replacement of a weapon attack, you can attempt to Pin a target to an adjacent object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
 
-You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the Pin. An effected target can make a Skill Contest (Athletics) versus you as a Full Action on their turn in an attempt to un-Pin themselves.
+You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the Pin, unless the weapon has the *Ammunition* tag. An effected target can make a Skill Contest (Athletics) versus you as a Full Action on their turn in an attempt to un-Pin themselves.
 
 ### Charge
 When you make a weapon attack with this weapon, if you have moved 10 or more feet from your originating position during this turn, you gain a +2 bonus to the attack roll and, if you hit, the damage roll.

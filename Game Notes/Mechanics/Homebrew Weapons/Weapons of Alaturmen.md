@@ -21,10 +21,10 @@ Mining Pick | 5ft | 1d6 | piercing | heavy, two-handed | sweep
 Sickle | 5ft | 1d4 | slashing | light | dismember
 Staff | 5ft | 1d4 | bludgeoning | light, versatile (2d4) | C.L. grab
 ***Ranged Weaponry*** |
-Light Crossbow | 80/320ft | 1d6 | piercing | ammunition (1), two-handed | bash
-Throwing Dart | 20/60ft | 1d4 | piercing | thrown | pummel
-Shortbow | 80/320ft | 1d6 piercing | two-handed | C.L. grab
-Sling | 5ft, 80/320ft | 1d4 | bludgeoning | ammunition (1) | pummel
+Light Crossbow | 80/320ft | 1d6 | piercing | light, two-handed, ammunition (1) | bash
+Throwing Dart | 20/60ft | 1d4 | piercing | light, thrown | pummel
+Shortbow | 80/320ft | 1d6 piercing | light, two-handed | C.L. grab
+Sling / Hand Crossbow | 5ft, 80/320ft | 1d4 | bludgeoning | light, ammunition (1) | pummel
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
 Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
 # Martial Weapons
@@ -53,18 +53,17 @@ Lance / Pike | 10ft | 1d10 | piercing | heavy, two-handed, long, unwieldy | pin
 Polearm / Sword-Staff / War-Scythe | 1d8 | slashing | two-handed, long, unwieldy | sweep
 Halberd | 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
 ***Ranged Weaponry*** |
-Chakram |
-Kunai |
-Shuriken |
-Pilum |
-Tomahawk |
-Plumbata |
+Chakram | 30/90ft | 2d4 | slashing | thrown | sweep
+Boomerang | 45/135ft | 1d6 | bludgeoning | light, thrown | return
+Kunai | 25/75ft | 1d4 | piercing | light, thrown, special (hitch) | pin
+Shuriken | 45/135ft | 1d4 | slashing | light, thrown | pin
+Tomahawk | 25/75ft | 1d6 | slashing | light, thrown | pin
+Plumbata / War Dart | 20/60 | 1d6 | piercing | thrown | pin
 Longbow | 150/600ft | 1d8 | piercing | two-handed, ammunition | C.L. grab
 Recurve Bow | 80/320ft | 2d6 | piercing | two-handed, ammunition | C.L. grab
-Crossbow |
-Heavy Crossbow |
-Pellet Crossbow |
-Reloading Crossbow |
+Heavy Crossbow | 100/400ft | 1d10 | piercing | heavy, two-handed, ammunition (1) | bash or pin
+Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (1) | bash
+Reloading Crossbow | 80/320ft | 1d8 | piercing | heavy, two-handed, ammunition (5) | pin
 Magazine Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (10) | pointtack
 Blowgun | 25/100ft | 1d4 | piercing | light, ammunition (1) | pointtack
 # Specialized Weapons
@@ -73,7 +72,7 @@ The following weapons can only be used by those who are proficient in them.
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
 ***Melee Weaponry*** |
-Lasso |
+Lasso | 25ft | x | Special | stashable, special (lasso)
 Bullwhip |
 Chainwhip |
 Cat-o'-Nine Whip |
