@@ -10,6 +10,7 @@ see [[Here lie my suppliments...]]
 	- [[How the Weave becomes Magic]]
 	- [[Spell Building Mechanics]]
 	- [[Spells from Collective]]
+	- [[Spells from Spike's Brain]]
 	- [[The Axioms, Theories, and Philosophies of Mages of the First Century]]
 
 %% End Waypoint %%

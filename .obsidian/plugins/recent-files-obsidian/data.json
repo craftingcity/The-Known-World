@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Spell Building Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
+      "basename": "Mechanics of Plane-walking",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md"
+    },
+    {
+      "basename": "Spells from Spike's Brain",
+      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
+    },
+    {
+      "basename": "Spells from Collective",
+      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
     },
     {
       "basename": "Homebrew Spells",
@@ -13,16 +21,16 @@
       "path": "Game Notes/Mechanics/Mechanics.md"
     },
     {
+      "basename": "Spell Building Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
+    },
+    {
       "basename": "Custom Armor Mechanics",
       "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
     },
     {
       "basename": "How the Weave becomes Magic",
       "path": "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "Mechanics of Plane-walking",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md"
     },
     {
       "basename": "Skills of Alaturmen",
@@ -43,10 +51,6 @@
     {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
     },
     {
       "basename": "Armors of Alaturmen",
@@ -195,10 +199,6 @@
     {
       "basename": "Bonus Actions for Faction Turn",
       "path": "ORGANIZATION/FACTION TURN/Bonus Actions for Faction Turn.md"
-    },
-    {
-      "basename": "Reactions for Faction Turn",
-      "path": "ORGANIZATION/FACTION TURN/Reactions for Faction Turn.md"
     }
   ],
   "omittedPaths": [],

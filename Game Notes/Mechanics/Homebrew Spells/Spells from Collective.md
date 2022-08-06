@@ -34,20 +34,8 @@
 [Palpitate](https://www.dandwiki.com/wiki/Palpitate_(5e_Spell))
 [Scan](https://www.dandwiki.com/wiki/Scan_(5e_Spell))
 [Skull Goblet](https://www.dandwiki.com/wiki/Skull_Goblet_(5e_Spell))
-# 2nd Level
-
-# 3rd Level
-
-# 4th Level
-
-# 5th Level
-
-# 6th Level
-
 # 7th Level
 [Bind Lesser Being](https://www.dandwiki.com/wiki/Bind_Lesser_Being_(5e_Spell))
-# 8th Level
-
 # 9th Level
 [Bond With Reality](https://www.dandwiki.com/wiki/Bond_with_Reality_(5e_Spell))
 [Duplicate](https://www.dandwiki.com/wiki/Duplicate_(5e_Spell))
