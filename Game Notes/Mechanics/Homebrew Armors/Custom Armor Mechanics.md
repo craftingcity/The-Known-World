@@ -1,4 +1,7 @@
 # Armor Tag Changes
-
-# Armor Specials
-## Bash
+## Strength Requirement (X)
+## Stealth Disadvantage
+## Stealth Bonus (X)
+## Heavy Gauntlets
+## Damage Reduction (X)
+## Movement Reduction
