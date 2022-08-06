@@ -7,7 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[Mechanics]]**
 	- **Homebrew Armors**
-		- [[Armours of Alaturmen]]
+		- [[Armors of Alaturmen]]
 		- [[Custom Armor Mechanics]]
 	- **[[Homebrew Spells]]**
 	- **Homebrew Systems**
