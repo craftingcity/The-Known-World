@@ -2,6 +2,9 @@
 ## Strength Requirement (X)
 ## Stealth Disadvantage
 ## Stealth Bonus (X)
-## Heavy Gauntlets
 ## Damage Reduction (X)
 ## Movement Reduction
+# Specials
+## Spike
+## Bump
+## Bash
