@@ -59,14 +59,14 @@ Shuriken |
 Pilum |
 Tomahawk |
 Plumbata |
-Longbow |
-Recurve Bow |
+Longbow | 150/600ft | 1d8 | piercing | two-handed, ammunition | C.L. grab
+Recurve Bow | 80/320ft | 2d6 | piercing | two-handed, ammunition | C.L. grab
 Crossbow |
 Heavy Crossbow |
 Pellet Crossbow |
 Reloading Crossbow |
-Magazine Pellet Crossbow |
-Blowgun |
+Magazine Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (10) | pointtack
+Blowgun | 25/100ft | 1d4 | piercing | light, ammunition (1) | pointtack
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
 
@@ -80,9 +80,23 @@ Cat-o'-Nine Whip |
 Bladewhip |
 Rope-Dart |
 Meteor Hammer |
+Kurasi-gama |
+***Ranged Weaponry*** |
+Bolas |
+Boomerang |
+Alchemical Flamethrower |
+Divine Incinerator |
 
 # Siege Weapons
-The following weapons all have the *siege* tag, and require preparation to both move and fire.
+The following weapons all have the *siege* tag, and require preparation to both move and fire. Please note that this does not include many integral peices of siege equipment, such as scaling ladders or battle towers.
+
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
-x | x | x | x | x | x
+***Melee Weaponry*** |
+Personal Battering Ram |
+Team Battering Ram |
+***Ranged Weaponry*** |
+Catapult |
+Trebuchet |
+Ballista |
+Polybius |
