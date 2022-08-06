@@ -4,22 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a1220175f3b16b39",
+        "id": "9832d653f77d62f0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a1220175f3b16b39",
+              "leaf": "9832d653f77d62f0",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -81,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +156,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
+              }
             }
           },
           {
@@ -174,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1220175f3b16b39",
+  "active": "9832d653f77d62f0",
   "lastOpenFiles": [
-    "Custom Fighting Styles.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
-    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md",
-    "weapon mec.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armours of Alaturmen.md"
+    "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
   ]
 }

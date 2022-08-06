@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Combat Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Custom Fighting Styles",
-      "path": "Custom Fighting Styles.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -23,10 +35,6 @@
     {
       "basename": "Custom Armor Mechanics",
       "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
-    },
-    {
-      "basename": "Combat Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -59,14 +67,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     },
     {
       "basename": "Prenotes Aug 04 22",

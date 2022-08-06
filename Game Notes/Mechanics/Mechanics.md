@@ -12,6 +12,7 @@ aliases:
 	- **[[Homebrew Spells]]**
 	- **Homebrew Systems**
 		- [[Combat Mechanics]]
+		- [[Custom Fighting Styles]]
 		- [[Homebrew Alchemy System]]
 		- [[Mechanics of Plane-walking]]
 		- [[Skills of Alaturmen]]
