@@ -53,6 +53,7 @@ Lance / Pike | 10ft | 1d10 | piercing | heavy, two-handed, long, unwieldy | pin
 Polearm / Sword-Staff / War-Scythe | 1d8 | slashing | two-handed, long, unwieldy | sweep
 Halberd | 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
 ***Ranged Weaponry*** |
+Bolas | 15/45ft | 2d4 | budgeoning | thrown | wrap
 Chakram | 30/90ft | 2d4 | slashing | thrown | sweep
 Boomerang | 45/135ft | 1d6 | bludgeoning | light, thrown | return
 Kunai | 25/75ft | 1d4 | piercing | light, thrown, special (hitch) | pin
@@ -72,19 +73,19 @@ The following weapons can only be used by those who are proficient in them.
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
 ***Melee Weaponry*** |
-Lasso | 25ft | x | Special | stashable, special (lasso)
-Bullwhip |
-Chainwhip |
-Cat-o'-Nine Whip |
-Bladewhip |
-Rope-Dart |
-Meteor Hammer |
-Kurasi-gama |
+Lasso | 20ft | | special | stashable, special (lasso) | lasso
+Bullwhip | 15ft | 1d4 | bludgeoning | very long | wrap
+Chainwhip | 10ft | 1d6 | bludgeoning | long | wrap
+Cat-o'-Nine Whip | 5ft | 2d4 | slashing | |
+Bladewhip | 5ft | 2d6 | slashing | unwieldy | wrap
+Rope-Dart | 10ft | 1d6 | bludgeoning | light, two-handed, long | wrap
+Meteor Hammer | 10ft | 2d8 | bludgeoning | heavy, two-handed, long | wrap
+Kurasi-gama | 10ft | 1d6 | special | two-handed, long, special (kurasi-gama) | bash
 ***Ranged Weaponry*** |
-Bolas |
-Boomerang |
-Alchemical Flamethrower |
-Divine Incinerator |
+Net (rope) | 5/15ft | | special | light, special (net, rope)
+Net (wire) | 5/10ft | | special | special (net, wire)
+Alchemical Flamethrower | 15/30ft | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
+Divine Incinerator | 15/30ft | 2d8 + 2d8 | fire/radiant | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 
 # Siege Weapons
 The following weapons all have the *siege* tag, and require preparation to both move and fire. Please note that this does not include many integral peices of siege equipment, such as scaling ladders or battle towers.
