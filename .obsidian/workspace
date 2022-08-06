@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "408fb04f60b6051e",
+        "id": "aff3527eed4c0983",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "408fb04f60b6051e",
+              "leaf": "aff3527eed4c0983",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+            "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
             "mode": "source",
             "source": true
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
               }
             }
           },
@@ -182,8 +182,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "408fb04f60b6051e",
+  "active": "aff3527eed4c0983",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/UrbanDevelopments.pdf",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Orcus.md",
@@ -192,7 +193,6 @@
     "Notes on the Multiverse/Outer/Abyss/Demon Lords.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md"
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
   ]
 }
