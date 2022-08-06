@@ -4,26 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc5eae523cafdad",
+        "id": "a1220175f3b16b39",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "fcc5eae523cafdad",
+              "leaf": "a1220175f3b16b39",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Fighting Styles.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Custom Fighting Styles.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Fighting Styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Fighting Styles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +151,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Custom Fighting Styles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,70 +174,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "ca8a8850900c2898",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe1e226a35665a66",
-        "type": "window",
-        "children": [
-          {
-            "id": "9b3ccf15fe8b7a38",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "9b3ccf15fe8b7a38",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"scroll\":86.42934879117155}"
-                },
-                {
-                  "leaf": "9b3ccf15fe8b7a38",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":146,\"ch\":36},\"to\":{\"line\":146,\"ch\":36}},\"scroll\":138.15639635199622}"
-                },
-                {
-                  "leaf": "9b3ccf15fe8b7a38",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "9b3ccf15fe8b7a38",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 853,
-        "y": 0,
-        "width": 854,
-        "height": 912,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fcc5eae523cafdad",
+  "active": "a1220175f3b16b39",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Custom Fighting Styles.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "A Grand Notepad.md",
