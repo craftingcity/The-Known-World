@@ -75,15 +75,15 @@ If this weapon is designed to fire some type of ammunition, the number displayed
 
 The first item in the range column is the default range of the weapon. The second item in the range column, if it exists, is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
-### Unique (~X~)
-#### Wind-Susceptible
-This area of affect can be effectively dispersed by a medium wind or a sustained (1 minute) light wind.
+### Special Tags
+#### Hitch
+This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, after doing so, one 
 
-#### Ignitable
-This area of affect can be ignited by a spark or open flame. If such a thing were to occur, any occupants of the area would immediately take 6d4 fire damage, and the area of affect becomes dispersed and/or innert.
-
-#### Metal-Attunement
-This weapon is specifically attuned, somehow, to metal, and solely metal. This weapon has no effect against items that are not metal and creatures that are not holding, wearing, or otherwise touching the targeted metal.
+#### Lasso
+#### Kurasi-Gama
+#### Net, Rope
+#### Net, Wire
+#### Flamethrower
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.

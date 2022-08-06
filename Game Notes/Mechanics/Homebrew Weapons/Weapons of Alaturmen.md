@@ -93,10 +93,10 @@ The following weapons all have the *siege* tag, and require preparation to both 
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
 ***Melee Weaponry*** |
-Personal Battering Ram |
-Team Battering Ram |
+Personal Battering Ram | 5ft | 2d6 | bludgeoning | heavy, two-handed | bash
+Team Battering Ram | 15ft | 6d6 | bludgeoning | siege | 
 ***Ranged Weaponry*** |
-Catapult |
-Trebuchet |
-Ballista |
-Polybius |
+Catapult | enough | 4d6 | bludgeoning | ammunition (1), siege | 
+Trebuchet | enough, but more than the others | 3d8 | bludgeoning | ammunition (1), siege |
+Ballista | enough, but less than the others | 2d10 | bludgeoning | ammunition (1), siege |
+Polybius | 50ft/300ft | 1d10 | piercing | ammunition (10), siege | pointtack
