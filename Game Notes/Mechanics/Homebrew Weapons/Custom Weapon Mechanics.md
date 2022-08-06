@@ -77,13 +77,40 @@ The first item in the range column is the default range of the weapon. The secon
 
 ### Special Tags
 #### Hitch
-This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, after doing so, one 
+This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, after doing so, one could use the weapon as a piton.
 
 #### Lasso
+This weapon is designed with the sole intention of ensnaring and restraining creatures. 
+
+When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
+
+As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 13.
+
+If this weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
+
 #### Kurasi-Gama
+
+
 #### Net, Rope
+This weapon is designed with the sole intention of ensnaring and restraining creatures. 
+
+When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
+
+As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 14.
+
+If this weapon is vulnerable to slashing damage, has an AC of 13, and a Vitality of 15. It can endure no Wounds.
+
 #### Net, Wire
+This weapon is designed with the sole intention of ensnaring and restraining creatures. 
+
+When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
+
+As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 16.
+
+If this weapon is vulnerable to slashing damage, has an AC of 14, and a Vitality of 20. It can endure no Wounds.
+
 #### Flamethrower
+
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.

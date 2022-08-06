@@ -73,7 +73,7 @@ The following weapons can only be used by those who are proficient in them.
 Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
 --- | --- | --- | --- | --- | ---
 ***Melee Weaponry*** |
-Lasso | 20ft | | special | stashable, special (lasso) | lasso
+Lasso | 20ft | | special | light, stashable, special (lasso) | lasso
 Bullwhip | 15ft | 1d4 | bludgeoning | very long | wrap
 Chainwhip | 10ft | 1d6 | bludgeoning | long | wrap
 Cat-o'-Nine Whip | 5ft | 2d4 | slashing | |
