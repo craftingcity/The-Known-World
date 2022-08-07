@@ -6,6 +6,12 @@ Changing | Unchanged
 Damaging Spells | Flavor Spells
 Healing Spells | Utility Spells
 
+## Bastion Spells
+The following spells I consider beacons of balance for their role, and will be basing the spell-building system on their (tweaked for new vitality) balance.
+
+### Fire Bolt / Eldritch Blast
+Fire Bolt is what I want in a 
+
 # Spell Skeleton Tags
 The following Tags are worth a number of "spell points" that will determine the Slot Level of the final spell crafted; a spell's slot level is it's value in "s.p." divided in half, rounded down. 
 
