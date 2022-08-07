@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0c47b3b275e7a2cd",
+        "id": "e01c139b1500fe6e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0c47b3b275e7a2cd",
+              "leaf": "e01c139b1500fe6e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0c47b3b275e7a2cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+            "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
             "mode": "source",
             "source": true
           }
@@ -112,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
               }
             }
           },
@@ -188,8 +182,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c47b3b275e7a2cd",
+  "active": "e01c139b1500fe6e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
     "MEDIA/MAPS/DUNG/GiantsToe - Upper.png",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
@@ -198,7 +193,6 @@
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Orcus.md",
     "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md",
-    "Thanatos.md",
-    "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
+    "Thanatos.md"
   ]
 }
