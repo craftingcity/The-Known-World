@@ -6,9 +6,7 @@ Changing | Unchanged
 Damaging Spells | Flavor Spells
 Healing Spells | Utility Spells
 
-## "Bastion" Spells
-The following spells I consider either beacons of balance or imbalance for their role, and will be basing the spell-building system on their (tweaked for new vitality) balance, or, spells that I believe fulfill an archetype that I wish to represent well in my hack.
-
+## Cantrips
 ### Damaging Cantrips
 #### Fire Bolt / Eldritch Blast
 Fire Bolt is what I want in a damage-role cantrip when I cant have Eldritch Blast & it's Invocations.
@@ -38,6 +36,13 @@ Players often want to use this to assist their allies, so I wanna bake that in s
 #### Produce Flame
 #### Spare the Dying
 #### Virtue (UA)
+
+## First Level Spells
+### Damage
+### Buffing
+### Utility
+### Healing
+### Hexing
 
 # Spell Skeleton Tags
 The following Tags are worth a number of "spell points" that will determine the Slot Level of the final spell crafted; a spell's slot level is it's value in "s.p." divided in half, rounded down. 
