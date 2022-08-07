@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Giant's Toe",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
+    },
+    {
+      "basename": "Tubric Millstone Wrinsmith",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md"
+    },
+    {
+      "basename": "GiantsToe - Upper",
+      "path": "MEDIA/MAPS/DUNG/GiantsToe - Upper.png"
+    },
+    {
       "basename": "Spells from Spike's Brain",
       "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
     },
@@ -129,10 +141,6 @@
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
     },
     {
-      "basename": "Giant's Toe",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
-    },
-    {
       "basename": "The Texts Druidic",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Texts Druidic.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Red Hills",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Deakred Foothills/Red Hills.md"
-    },
-    {
-      "basename": "alaturmen-100AF",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
     }
   ],
   "omittedPaths": [],

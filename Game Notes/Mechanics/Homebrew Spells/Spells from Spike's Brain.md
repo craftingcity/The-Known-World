@@ -39,6 +39,14 @@ Players often want to use this to assist their allies, so I wanna bake that in s
 
 ## First Level Spells
 ### Damage
+#### Burning Hands
+#### Chaos Bolt / Chromatic Orb / Witch Bolt
+#### Dissonant Whispers
+#### Divine Favor
+#### Hunter's Mark
+#### Hellish Rebuke
+#### Magic Missile
+#### X Smite / Zephyr Strike
 ### Buffing
 ### Utility
 ### Healing
