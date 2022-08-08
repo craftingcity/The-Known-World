@@ -28,11 +28,11 @@ Sling / Hand Crossbow | 5ft, 80/320ft | 1d4 | bludgeoning | light, ammunition (1
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
 Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
 ***Consumable-Thrown Weaponry*** |
-Improvised Explosive
-Improvised Claymore
-Hand-Bomb
-Fire-Bomb
-Smoke-Bomb
+Improvised Explosive | 10ft radius | 1d8 | bludgeoning |
+Improvised Claymore | 10ft cone | 2d4 | slashing |
+Hand-Bomb | 10ft sphere | 2d6 | bludgeoning |
+Fire-Bomb | 10ft sphere | 1d6 | fire |
+Smoke-Bomb | 10ft sphere | | special |
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 
@@ -47,7 +47,7 @@ Long Sword | 5ft | 1d8 | slashing | versatile (1d10) | sweep
 Claymore | 5ft | 2d6 | heavy, two-handed | dismember
 Battle Axe | 5ft | 1d8 | slashing | versatile (1d10) | sunder
 Greataxe | 5ft | 3d6 | slashing | very heavy, two-handed | sweep, sunder, or dismember
-War Club / Light Mace / Jitte | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
+War Club / Light Mace | 5ft | 1d6 | bludgeoning | light, versatile (1d8) | C.L. grab
 Flail | 5ft | 1d8 | | bash
 Morning Star / Heavy Mace | 5ft | 1d10 | bludgeoning | two-handed | bash
 War Pick | 5ft | 1d8 | piercing | heavy | bash
@@ -73,17 +73,17 @@ Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (1)
 Reloading Crossbow | 80/320ft | 1d8 | piercing | heavy, two-handed, ammunition (5) | pin
 Magazine Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (10) | pointtack
 Blowgun | 25/100ft | 1d4 | piercing | light, ammunition (1) | pointtack
-Alchemical Flamethrower | 15/30ft | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
+Alchemical Flamethrower | 10ft line | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 ***Consumable-Thrown Weaponry*** |
-Anti-Personnel Grenade, Alchemical
-Fire Grenade, Alchemical
-Anti-Armor Grenade, Alchemical
-Stink Grenade, Alchemical
-Stun Grenade, Alchemical
-Smoke Grenade, Alchemical
-Shadow Grenade, Alchemical
-Mining Explosive
-Miner's Savior
+Anti-Personnel Grenade, Alchemical | 10ft sphere | 3d6 | slashing
+Fire Grenade, Alchemical | 20ft sphere | 2d6 fire
+Anti-Armor Grenade, Alchemical | 5ft sphere | 6d4 bludgeoning
+Stink Grenade, Alchemical | 15ft sphere | | special
+Stun Grenade, Alchemical | 10ft sphere | | special
+Smoke Grenade, Alchemical | 15ft sphere | | special
+Shadow Grenade, Alchemical | 10ft sphere | | special
+Mining Explosive | 50ft sphere | 2d12 | bludgeoning
+Miner's Savior | 5ft cylinder | 12d12 | special
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
 
@@ -101,7 +101,7 @@ Kurasi-gama | 10ft | 1d6 | special | two-handed, long, special (kurasi-gama) | b
 ***Ranged Weaponry*** |
 Net (rope) | 5/15ft | | special | light, special (net, rope)
 Net (wire) | 5/10ft | | special | special (net, wire)
-Divine Incinerator | 15/30ft | 2d8 + 2d8 | fire/radiant | heavy, two-handed, ammunition (3), special (flamethrower) | bash
+Divine Incinerator | 15/30ft, 5ft sphere | 2d8 + 2d8 | fire/radiant | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 
 # Siege Weapons
 The following weapons all have the *siege* tag, and require preparation to both move and fire. Please note that this does not include many integral peices of siege equipment, such as scaling ladders or battle towers.
