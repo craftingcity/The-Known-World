@@ -12,4 +12,6 @@ aliases:
 ### General Public Disposition
 
 ### Background
-## Important Places & Sy
+## Important Places & Symbolism
+
+
