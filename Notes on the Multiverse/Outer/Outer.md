@@ -9,5 +9,6 @@ The Outer planes are the planes beyond the Elemental. These can be divided into
 	- **[[Mechanis]]**
 	- **[[Nine Hells of Baator]]**
 	- [[River Styx]]
+	- [[Thanatos]]
 
 %% End Waypoint %%
