@@ -27,6 +27,12 @@ Shortbow | 80/320ft | 1d6 piercing | light, two-handed | C.L. grab
 Sling / Hand Crossbow | 5ft, 80/320ft | 1d4 | bludgeoning | light, ammunition (1) | pummel
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
 Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
+***Consumable-Thrown Weaponry*** |
+Improvised Explosive
+Improvised Claymore
+Hand-Bomb
+Fire-Bomb
+Smoke-Bomb
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 
@@ -67,6 +73,17 @@ Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (1)
 Reloading Crossbow | 80/320ft | 1d8 | piercing | heavy, two-handed, ammunition (5) | pin
 Magazine Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammunition (10) | pointtack
 Blowgun | 25/100ft | 1d4 | piercing | light, ammunition (1) | pointtack
+Alchemical Flamethrower | 15/30ft | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
+***Consumable-Thrown Weaponry*** |
+Anti-Personnel Grenade, Alchemical
+Fire Grenade, Alchemical
+Anti-Armor Grenade, Alchemical
+Stink Grenade, Alchemical
+Stun Grenade, Alchemical
+Smoke Grenade, Alchemical
+Shadow Grenade, Alchemical
+Mining Explosive
+Miner's Savior
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
 
@@ -84,7 +101,6 @@ Kurasi-gama | 10ft | 1d6 | special | two-handed, long, special (kurasi-gama) | b
 ***Ranged Weaponry*** |
 Net (rope) | 5/15ft | | special | light, special (net, rope)
 Net (wire) | 5/10ft | | special | special (net, wire)
-Alchemical Flamethrower | 15/30ft | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 Divine Incinerator | 15/30ft | 2d8 + 2d8 | fire/radiant | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 
 # Siege Weapons
