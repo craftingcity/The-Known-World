@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "The Chronicles of the Denevilles",
-      "path": "The Chronicles of the Denevilles.md"
+      "basename": "Prenotes July 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     },
     {
-      "basename": "Anren Ungrith",
-      "path": "Anren Ungrith.md"
+      "basename": "Prenotes June 14 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes June 14 22.md"
     },
     {
-      "basename": "Castle Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a feature/Castle Prosper.md"
+      "basename": "Huntyr Swamp",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Huntyr Swamp.md"
+    },
+    {
+      "basename": "Redl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
+    },
+    {
+      "basename": "factionTurnEquipment",
+      "path": "MEDIA/SUPP/factionTurnEquipment.png"
+    },
+    {
+      "basename": "FT Full Bonus Main Phase",
+      "path": "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md"
+    },
+    {
+      "basename": "FT Free Actions",
+      "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
+    },
+    {
+      "basename": "FT Faction List at H3",
+      "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
+      "basename": "Slimknives",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
+    },
+    {
+      "basename": "combine-100AF",
+      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
     },
     {
       "basename": "Yahlin",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md"
-    },
-    {
-      "basename": "Khoghull",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Khoghull.md"
     },
     {
       "basename": "Unyalian",
@@ -33,16 +77,32 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Hameer.md"
     },
     {
-      "basename": "Dhug Kahldur",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Dhug Kahldur.md"
-    },
-    {
       "basename": "Geghloch",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Geghloch.md"
     },
     {
+      "basename": "Khoghull",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Khoghull.md"
+    },
+    {
+      "basename": "Dhug Kahldur",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Dhug Kahldur.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
       "basename": "Northeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
       "basename": "Places",
@@ -61,144 +121,64 @@
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
-      "basename": "Thanatos",
-      "path": "Notes on the Multiverse/Outer/Thanatos.md"
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
-      "basename": "Custom Weapon Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+      "basename": "KingdomOfProsper-105AF",
+      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
     },
     {
-      "basename": "Skills of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
-    },
-    {
-      "basename": "Giant's Toe",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
-    },
-    {
-      "basename": "Tubric Millstone Wrinsmith",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md"
-    },
-    {
-      "basename": "GiantsToe - Upper",
-      "path": "MEDIA/MAPS/DUNG/GiantsToe - Upper.png"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "Armors of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
-    },
-    {
-      "basename": "UrbanDevelopments",
-      "path": "MEDIA/SUPP/DOCS/UrbanDevelopments.pdf"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Orcus",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Orcus.md"
-    },
-    {
-      "basename": "Demon Lord NPCs",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md"
-    },
-    {
-      "basename": "Demon Lords",
-      "path": "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
-    },
-    {
-      "basename": "Custom Armor Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
-    },
-    {
-      "basename": "Mechanics of Plane-walking",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "Homebrew Spells",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
-      "basename": "Spell Building Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
-    },
-    {
-      "basename": "How the Weave becomes Magic",
-      "path": "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Custom Fighting Styles",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md"
-    },
-    {
-      "basename": "Combat Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
-    },
-    {
-      "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
-      "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "Blood-Hobgoblin Clan Pact",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/ala Alaturmen/Absolute Power/Alaturmian God NPCs/Grand Pantheon.md"
+      "basename": "Blood Clans",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     },
     {
-      "basename": "Wildlands",
-      "path": "Notes on the Multiverse/Immaterial/Wildlands.md"
+      "basename": "Barons of Combine NPCs",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md"
     },
     {
-      "basename": "Outer",
-      "path": "Notes on the Multiverse/Outer/Outer.md"
+      "basename": "Dwarven Kingdom Jammu",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Dwarven Kingdom Actstow",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md"
     },
     {
-      "basename": "Prenotes Aug 04 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
+      "basename": "Dwarven Kingdom Suremantle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     },
     {
-      "basename": "The Texts Druidic",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Texts Druidic.md"
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
+      "basename": "Non-Nation Entities",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
+    },
+    {
+      "basename": "World Wide Happenings",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
+    },
+    {
+      "basename": "The Grey Ordeal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    },
+    {
+      "basename": "Ranger's Guild",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Ranger's Guild.md"
     }
   ],
   "omittedPaths": [],
