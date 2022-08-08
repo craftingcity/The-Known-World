@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Chronicles of the Denevilles",
+      "path": "The Chronicles of the Denevilles.md"
+    },
+    {
       "basename": "Anren Ungrith",
       "path": "Anren Ungrith.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     }
   ],
   "omittedPaths": [],
