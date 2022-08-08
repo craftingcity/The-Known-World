@@ -20,6 +20,9 @@ aliases:
 	- A massive forty foot diameter pit lies in the sand here. This pit reaches a depth of about three miles before entering the ever shifting bowels of the [[Underdark]]. Legends tell us that some sort of horror came from this pit some number of years ago.
 - AE8. Wyvern Stables (visible)
 - AE11. Cyclops' Cave (visible)
+- AH4. Worm-rock Castle (visible)
+	- A massive mound of sand and stone towers above all who view it.
+	- This massive rock pike has been internally gobbled by purple wurm.
 
 
 ## Tables

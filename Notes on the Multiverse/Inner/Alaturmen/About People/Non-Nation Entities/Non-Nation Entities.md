@@ -6,7 +6,7 @@ aliases:
 # Non-Nation Entities
 %% Begin Waypoint %%
 - **[[Non-Nation Entities]]**
-	- **Blood Clans**
+	- **[[Blood Clans]]**
 		- [[Blood-Hobgoblin Clan Pact]]
 		- [[Blood-Hobgoblin Clans]]
 		- [[Garqwak Clan]]
@@ -15,6 +15,7 @@ aliases:
 	- [[Cenva Minyo]]
 	- **[[Coalition City]]**
 		- [[Communicaes]]
+		- [[Golden Ward]]
 		- **[[Guilds of Coalition]]**
 			- [[Guild of Adventurers]]
 			- [[Guild of Crafters]]

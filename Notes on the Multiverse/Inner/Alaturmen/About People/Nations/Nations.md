@@ -24,9 +24,7 @@ aliases:
 			- [[Tetramocal Congregation]]
 		- **Local Lore**
 			- [[First Invasion of Orcus]]
-			- [[Tetrimoc's Journal]]
 			- [[Tetrimoc's Tournament of Glory]]
-			- [[The Code of Thieves]]
 	- **[[The Democratic Combine of Peoples]]**
 		- **Factions**
 			- [[Beasts Righteous]]
@@ -41,13 +39,13 @@ aliases:
 		- **Local Lore**
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
+			- [[Arthur's Knights]]
 			- [[Noble House a'Haruuc]]
 			- [[Noble House a'LeQuinn]]
 			- [[Northstone Family Trading Company]]
 			- [[Simonson Clan]]
 			- [[The Arstoviches]]
 		- **Local Lore**
-			- [[Arthur's Journal]]
 			- [[Bandit Lords]]
 			- [[Nobles of Prosper]]
 			- [[The Legend of the Bandit Lords]]

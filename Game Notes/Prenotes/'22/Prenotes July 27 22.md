@@ -12,7 +12,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-When we last left our heroes, after must shenanaganary, they had made their way into the town of Yerba. In its outskirts, Nala was disguised as a Red Dragonborn in an attempt to cover tracks before they are sought after and Jerren met with an old friend in Kirin of Kirin's Stables and procured a number of horses. Breenabelle led the party deeper into the city, to the [[Dragon Blood Inn]] to stay for the night. There the party met with the (orcish) patron of the establishment Nico Bennett, procured room and board for the night, and learned of a secret underground fighting collective that gathers in the basement of this very Inn.
+When we last left our heroes, after must shenanaganary, they had made their way into the town of Yerba. In its outskirts, Nala was disguised as a Red Dragonborn in an attempt to cover tracks before they are sought after and Jerren met with an old friend in Kirin of Kirin's Stables and procured a number of horses. Breenabelle led the party deeper into the city, to the [[Dragons Blood Inn]] to stay for the night. There the party met with the (orcish) patron of the establishment Nico Bennett, procured room and board for the night, and learned of a secret underground fighting collective that gathers in the basement of this very Inn.
 
 ### What does the World Know?
 The in-game date is the 20th of Regrowth, 105AF; 20:30.
@@ -58,23 +58,12 @@ Traveling from the [[Darnt Hillkeep]] to one of the shore cities, likely [[Goldf
 
 ### What happened?
 
+They won some gold, and had a good time.
 
+We left a few minutes after the beginning of the raid on Yerba by (ostensibly) the Scrivin Clan;
+	- Goblin, Orc, and Hobgoblin together ride Wargs into the market square.
+	- Many others follow behind them, on foot.
+	- The party entered the square from the opposite side of the square.
+	- The sqaure has a fountain in the center.
+	- [[Yerba#Notable Locations|Alvalini's Glasshouse]] is in the middle of the two forces.
 
-
-| In-game Date:      | 21st of Rebirth | Watch Type | Encounter? | Encounter Type |
-| ------------------ | ------------------ | ---------- | ---------- | -------------- |
-| Navigator          | W1 (0:00 – 4:00)   |            |            |                |
-|                    | W2 (4:00 – 8:00)   |            |            |                |
-| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
-|                    | W4 (12:00 – 16:00) |            |            |                |
-| Veer?              | W5 (16:00 – 20:00) |            |            |                |
-|                    | W6 (20:00 – 0:00)  |            |            |                |
-
-| In-game Date:      | 22nd of Rebirth | Watch Type | Encounter? | Encounter Type |
-| ------------------ | ------------------ | ---------- | ---------- | -------------- |
-| Navigator          | W1 (0:00 – 4:00)   |            |            |                |
-|                    | W2 (4:00 – 8:00)   |            |            |                |
-| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
-|                    | W4 (12:00 – 16:00) |            |            |                |
-| Veer?              | W5 (16:00 – 20:00) |            |            |                |
-|                    | W6 (20:00 – 0:00)  |            |            |                |

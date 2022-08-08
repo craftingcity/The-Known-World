@@ -20,6 +20,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 
 #### Gromosh
 - anger/rage, hatred, battle and war; an old orc who simply refuses to die without a fight
+##### Gish, Wife of Gromosh
+- battle and war, magic, destructive evocation; and old orc who smiles with arcane intent
+- some claim Gish to be simply an interpretation of Gromosh, and others claim her to be her own entity
 
 #### Freric and Sophie
 - surprise, mischief, childishness, longing; a pair of young twins with nothing to lose but each other

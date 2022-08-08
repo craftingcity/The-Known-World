@@ -3,7 +3,7 @@ tags: npc
 aliases:
 ---
 # Arstovich
-##### True name "lost" to time or curse
+##### True name "lost" to time & curse
 ## Accursed Mother of Vampire Kin
 ### she/her
 #### VO EXAMPLE:

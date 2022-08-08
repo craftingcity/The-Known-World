@@ -6,9 +6,18 @@ aliases:
 # Mechanics
 %% Begin Waypoint %%
 - **[[Mechanics]]**
-	- [[Homebrew Alchemy System]]
+	- **Homebrew Armors**
+		- [[Armors of Alaturmen]]
+		- [[Custom Armor Mechanics]]
 	- **[[Homebrew Spells]]**
-	- [[How the Weave becomes Magic]]
-	- [[Spells from Collective]]
+	- **Homebrew Systems**
+		- [[Combat Mechanics]]
+		- [[Custom Fighting Styles]]
+		- [[Homebrew Alchemy System]]
+		- [[Mechanics of Plane-walking]]
+		- [[Skills of Alaturmen]]
+	- **Homebrew Weapons**
+		- [[Custom Weapon Mechanics]]
+		- [[Weapons of Alaturmen]]
 
 %% End Waypoint %%

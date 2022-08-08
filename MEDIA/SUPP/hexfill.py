@@ -68,7 +68,7 @@ def item_special(num):
     if num == 4:
         answer = "magical curse actived by " + activation_special(random.randint(1, 6))
     if num == 5:
-        answer = "teleportation actived by " + activation_special(random.randint(1, 6))
+        answer = "teleportation effect actived by " + activation_special(random.randint(1, 6))
     if num == 6:
         double_trouble = item_special(random.randint(1, 5)) + " & " + item_special(random.randint(1, 5))
         return double_trouble
@@ -116,19 +116,19 @@ def reason_A(num):
 def reason_B(num):
     answer = ""
     if num == 1:
-        answer = "easy to spot"
+        answer = "is easy to spot"
     if num == 2:
-        answer = "a local legend"
+        answer = "has a local legend"
     if num == 3:
-        answer = "a local superstition"
+        answer = "has a local superstition"
     if num == 4:
-        answer = "humanoid-esq"
+        answer = "is humanoid-esq"
     if num == 5:
-        answer = "oddities or resources"
+        answer = "has oddities or resources"
     if num == 6:
-        answer = item_special(random.randint(1, 6))
+        answer = "has a " + item_special(random.randint(1, 6))
     if num == 7:
-        answer = "the site of a battle, birth, death, or \"injury\""
+        answer = "is the site of a battle, birth, death, or \"injury\""
     if num == 8:
         double_trouble = reason_B(random.randint(1, 7)) + " & is/has " + reason_B(random.randint(1, 7))
         return double_trouble
@@ -208,7 +208,7 @@ def erosion(num):
     if num == 1:
         answer = "ruined, defaced, or otherwise unrecognizable"
     if num == 2:
-        answer = "weathered or overgrown, though still recognizable."
+        answer = "weathered or overgrown, though still recognizable"
     if num == 3:
         answer = "of fair condition, restored, or otherwise maintained"
     if num == 4:
@@ -218,11 +218,11 @@ def erosion(num):
 def size(num):
     answer = ""
     if num == 1:
-        answer = "small"
+        answer = "quite small"
     if num == 2:
-        answer = "medium"
+        answer = "medium sized"
     if num == 3:
-        answer = "large"
+        answer = "quite large"
     if num == 4:
         answer = "massive"
     return answer
@@ -233,7 +233,7 @@ def hexfill():
     if bag_o_dice[0] > 1:
         final_answer += "natural "
         final_answer += item_natural(bag_o_dice[1])
-        final_answer += ". \nThe reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it "
         final_answer += reason_A(bag_o_dice[2])
         final_answer += ". \nThis place is considered "
         final_answer += age(bag_o_dice[5])
@@ -243,7 +243,7 @@ def hexfill():
     else:
         final_answer += "fabricated "
         final_answer += item_fabricated(bag_o_dice[1])
-        final_answer += ". \nThe reason this place is significant is because it is/has "
+        final_answer += ". \nThe reason this place is significant is because it "
         final_answer += reason_B(bag_o_dice[2])
         final_answer += ". \nIt is made of some type of " + material(bag_o_dice[3])
         final_answer += " and it is constructed for a " + use_case(bag_o_dice[4])
@@ -254,19 +254,154 @@ def hexfill():
         final_answer += "\nIt is " + erosion(bag_o_dice[7]) + " and " + size(bag_o_dice[8]) + "."
     return final_answer
     
+def heritage(num):
+    if num == 1:
+        answer = "local antagonist militants"
+    if num == 2:
+        answer = "local antagonist civilians"
+    if num == 3:
+        answer = "local faction militants"
+    if num == 4:
+        answer = "local faction civilians"
+    if num == 5:
+        answer = "local allied militants"
+    if num == 6:
+        answer = "local allied civilians"
+    if num == 7:
+        answer = "foriegn militants"
+    if num == 8:
+        answer = heritage(random.randint(1, 7)) + " and " + heritage(random.randint(1, 7))
+    return answer
+
+def humanoid_needs(num):
+    if num == 1:
+        answer = "desperately lost, and this place was the closest shelter as night fell"
+    if num == 2:
+        answer = "collecting water to take back to their camp"
+    if num == 3:
+        answer = "collecting food to take back to their camp"
+    if num == 4:
+        answer = "collecting material to take back to their camp"
+    if num == 5:
+        answer = "setting up a camp in this place"
+    if num == 6:
+        answer = "investigating this place"
+    if num == 7:
+        answer = "somehow manipulating this place for their own goals"
+    if num == 8:
+        answer = "waiting here for something or guarding this place"
+    return answer
+
+def humanoid_unique(num):
+    if num == 1:
+        answer = "bearing a noble's symboligy"
+    if num == 2:
+        answer = "bearing a god's symboligy"
+    if num == 3:
+        answer = "poorly equipped, informed, or prepared"
+    if num == 4:
+        answer = "incredibly well equipped, informed, or prepared"
+    if num == 5:
+        answer = "wearing material intended to inspire fear in enimies"
+    if num == 6:
+        answer = "wearing material intended to inspire glory in allies"
+    if num == 7:
+        answer = "on the path to a great power"
+    if num == 8:
+        answer = humanoid_unique(random.randint(1, 7)) + " and " + humanoid_unique(random.randint(1, 7))
+    return answer
+
+def monster(num):
+    if num == 1:
+        answer = "incredibly dangerous monsters"
+    if num == 2:
+        answer = "local infesting or swarming monsters"
+    if num == 3:
+        answer = "local common monsters"
+    if num == 4:
+        answer = "local rare monsters"
+    if num == 5:
+        answer = "foriegn common monsters"
+    if num == 6:
+        answer = "foriegn rare monsters"
+    if num == 7:
+        answer = "incredibly rare monsters"
+    if num == 8:
+        answer = monster(random.randint(1, 7)) + " and " + monster(random.randint(1, 7))
+    return answer
+
+def monster_needs(num):
+    if num == 1:
+        answer = "seeking shelter in this place"
+    if num == 2:
+        answer = "seeking food or water in this place"
+    if num == 3:
+        answer = "forming their lair here"
+    if num == 4:
+        answer = "defending their lair here"
+    if num == 5:
+        answer = "enjoying themselves in the space"
+    if num == 6:
+        answer = "hunting for sport"
+    if num == 7:
+        answer = "drawn to this place by some means"
+    if num == 8:
+        answer = "lying in wait for something specific"
+    return answer
+
+def monster_unique(num):
+    if num == 1:
+        answer = "bolstered by their connections to local factions"
+    if num == 2:
+        answer = "bolstered by their subjugated minions"
+    if num == 3:
+        answer = "marked by a local faction's symboligy"
+    if num == 4:
+        answer = "a variant monster; they are obvious differences from their kin"
+    if num == 5:
+        answer = "only the first of many"
+    if num == 6:
+        answer = "incredibly well equipped, informed, or prepared"
+    if num == 7:
+        answer = "magically enhanced in some way"
+    if num == 8:
+        answer = monster_unique(random.randint(1, 7)) + " and " + monster_unique(random.randint(1, 7))
+    return answer
+
 def vitalityfill():
-    pass
+    bag_o_dice = reroll()
+    final_answer = "This hex is staged for an encounter with "
+    if bag_o_dice[0] > 1:
+        final_answer += str(bag_o_dice[1]) 
+        final_answer += " " + heritage(bag_o_dice[2]) + ".\n"
+        final_answer += "They are here because they are "
+        final_answer += humanoid_needs(bag_o_dice[3]) + ".\n"
+        final_answer += "There is something interesting about this particular group. They are "
+        final_answer += humanoid_unique(bag_o_dice[4]) + ".\n"
+    else:
+        final_answer += str(bag_o_dice[1])
+        final_answer += " " + monster(bag_o_dice[2]) + ".\n"
+        final_answer += "They are here because they are "
+        final_answer += monster_needs(bag_o_dice[3]) + ".\n"
+        final_answer += "There is something interesting about this particular group. They are "
+        final_answer += monster_unique(bag_o_dice[4]) + ".\n"
+    return final_answer
 
 def main():
     input_var = input()
+    print("\n" * 4)
     if input_var is ("r" or "R"):
         print(hexfill())
         main()
     if input_var is ("v" or "V"):
         print(vitalityfill())
         main()
+    if input_var is ("b" or "B"):
+        print(vitalityfill())
+        print(hexfill())
+        main()
     else:
-        pass
+        main()
 
 
 if __name__ == "__main__":
