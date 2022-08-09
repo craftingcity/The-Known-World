@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- Q5. Way-Spirit Clearing
+- O5. Way-Spirit Clearing
 
 ## Tables
 ### Encounter

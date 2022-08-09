@@ -11,6 +11,8 @@ aliases:
 - Y29. Defaced & Trapped Boulder
 	- This small boulder has been defaced again and again for as long as it has existed by those who wish to carve something into stone.
 	- The area around the boulder is trapped with multiple simple long snare traps. A group of five gnoll come by to check for fresh catches every other day.
+- AF28. Flower Maze
+	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 - AF32. Ground Swell
 - AG29. 
 	- In a small cave, nearly inaccessible due to ruinous cave-ins, two black pudding fester over the corpses of a now-long dead party of adventurers.

@@ -8,8 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- AF28. Flower Maze
-	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
+
 
 ## Tables
 ### Encounter

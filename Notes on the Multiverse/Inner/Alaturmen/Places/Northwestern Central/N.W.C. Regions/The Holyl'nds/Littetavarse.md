@@ -40,7 +40,7 @@ aliases:
 - D1. Palm of Tauruin
 	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
 - D3. White Rose Tree
-	- A small group of white roses grow along and out of the husk of a tree.
+	- A small group of white roses grow along and out of the husk of a burnt out tree.
 
 ## Tables
 ### Encounter
