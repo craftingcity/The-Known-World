@@ -11,14 +11,14 @@
 	- studded leather armor
 	- (a) a scholar's pack or (b) an explorer's pack
 ## Psionics
-As a psion, you have mastered the ability to invoke the weave with nothing but the power of your mind.
+As a psion, you have mastered the ability to invoke the weave using nothing but your mind and will.
 ### Psionic Ability 
 Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores. This is your "psionic ability score", and, using the typical modifer calculations, your Psionic Ability Modifier is determined by this score.
 
 ### Using Psionics
-To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort equal to your proficiency bonus plus your Psionic Ability Modifier. 
+To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort equal to your proficiency bonus plus your Psionic Ability Modifier. Some Disciplines require more time than others, but they all have some Action cost, as written in the Discipline.
 
-At first level, you know three Disciplines of your choice that you meet the prerequisites for. After first level, you will gain one Discipline of your choice per level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
+At first level, you know two Disciplines of your choice that you meet the prerequisites for. After first level, you will gain one Discipline of your choice per level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
 
 ## Psionic Tradition
 At third level, you choose a Psionic Tradition, shaping your mind to one purpose as you continue to practice psionics.
@@ -40,7 +40,26 @@ By spending 24 hours at Rest, you may change the Disciplines you selected for th
 At 20th level, select three additional Disciplines for this feature.
 
 # Psionic Disciplines
-## Auto-hypnosis
-## Auto-ketosis
+## Auto-Hypnosis
+### FREE (2)
+By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. 
+## Auto-Ketosis
+By invoking A
 ## Force of Will
-## 
+## Augment Sense
+## Augment Reality
+## Detect Mind
+## Detect Matter
+## Assail, Minor
+## Assail, Major
+## Assail, Area
+## Drain, Minor
+## Drain, Major
+## Drain, Area
+## Supplant
+## Daze
+## Disconnect
+## Kinetics
+## Precognition
+## Postcognition
+## Implicate
