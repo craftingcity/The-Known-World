@@ -25,6 +25,7 @@ aliases:
 			- Penny "Big-Time" San-Tymiq / CR 3 Brute
 			- Wanda "Gonna'Gettcha" Bund / CR 3 Soldier
 			- Fern "Doesnt-want-a-nickname" Cinnamon / CR 4 Controller
+			- Jak / CR 1/8 Child
 
 It's likely that the party will attempt to continue their work for [[Alergra Barrowinch]], and travel to the [[Darnt Hillkeep]] & further to [[The Golden City]] to do so, if they are able to do so.
 
