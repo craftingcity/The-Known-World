@@ -13,7 +13,7 @@
               "leaf": "64051e49fde891d1",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":193},\"to\":{\"line\":94,\"ch\":193}},\"scroll\":0}"
             },
             {
               "leaf": "64051e49fde891d1",
@@ -54,7 +54,7 @@
               "leaf": "c0e1e758b7ef7ce4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":36},\"to\":{\"line\":99,\"ch\":36}},\"scroll\":91.95063141992709}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":36},\"to\":{\"line\":99,\"ch\":36}},\"scroll\":11.914304427524824}"
             }
           ]
         },
@@ -77,7 +77,7 @@
               "leaf": "3692828f8cbd7cde",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":41},\"to\":{\"line\":6,\"ch\":41}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
@@ -129,7 +129,7 @@
               "leaf": "cd711f559acbeb75",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
@@ -287,15 +287,15 @@
   },
   "active": "cd711f559acbeb75",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
-    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Custom Class - Psion.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    "conflict-files-obsidian-git.md"
   ]
 }
