@@ -23,7 +23,7 @@ Staff | 5ft | 1d4 | bludgeoning | light, versatile (2d4) | C.L. grab
 ***Ranged Weaponry*** |
 Light Crossbow | 80/320ft | 1d6 | piercing | light, two-handed, ammunition (1) | bash
 Throwing Dart | 20/60ft | 1d4 | piercing | light, thrown | pummel
-Shortbow | 80/320ft | 1d6 piercing | light, two-handed | C.L. grab
+Shortbow | 80/320ft | 1d6 | piercing | light, two-handed | C.L. grab
 Sling / Hand Crossbow | 5ft, 80/320ft | 1d4 | bludgeoning | light, ammunition (1) | pummel
 Javelin | 30/90ft | 1d6 | piercing | thrown | pin
 Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
@@ -56,8 +56,8 @@ Great Maul | 5ft | 2d10 | bludgeoning | very heavy, two-handed | bash or sunder
 Spear | 10ft | 1d6 | piercing | versatile (2d6), long | pin
 Military Fork | 10ft | 1d8 | piercing | two-handed, long, unwieldy | pointtack
 Lance / Pike | 10ft | 1d10 | piercing | heavy, two-handed, long, unwieldy | pin
-Polearm / Sword-Staff / War-Scythe | 1d8 | slashing | two-handed, long, unwieldy | sweep
-Halberd | 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
+Polearm / Sword-Staff / War-Scythe | 10ft | 1d8 | slashing | two-handed, long, unwieldy | sweep
+Halberd | 10ft| 1d10 | slashing | heavy, two-handed, long, unwieldy | charge or sweep
 ***Ranged Weaponry*** |
 Bolas | 15/45ft | 2d4 | budgeoning | thrown | wrap
 Chakram | 30/90ft | 2d4 | slashing | thrown | sweep
@@ -112,7 +112,7 @@ Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Spe
 Personal Battering Ram | 5ft | 2d6 | bludgeoning | heavy, two-handed | bash
 Team Battering Ram | 15ft | 6d6 | bludgeoning | siege | 
 ***Ranged Weaponry*** |
-Catapult | enough | 4d6 | bludgeoning | ammunition (1), siege | 
-Trebuchet | enough, but more than the others | 3d8 | bludgeoning | ammunition (1), siege |
-Ballista | enough, but less than the others | 2d10 | bludgeoning | ammunition (1), siege |
+Catapult | enough | 6d6 | bludgeoning | ammunition (1), siege | 
+Trebuchet | enough, but more than the others | 6d8 | bludgeoning | ammunition (1), siege |
+Ballista | enough, but less than the others | 4d10 | bludgeoning | ammunition (1), siege |
 Polybius | 50ft/300ft | 1d10 | piercing | ammunition (10), siege | pointtack

@@ -41,7 +41,7 @@ The Theory of Component too comes from [[The Texts Druidic]] and explains the ne
 > 3. A physical pattern one uses to bind *fila* against itself.
 > 4. A will that one uses to manipulate *fila* into *significatio* as *nodum*.
 
-Though the text itself does not mention any "component", popular parlance refers to these three "things a mortal can perform" as Components, and thus the theory gains its name. Individually, popular parlance names each of the four as Material, Verbal, Somatic, and Ability respectively.
+Though the text itself does not mention any "component", popular parlance refers to these four "things a mortal can perform" as Components, and thus the theory gains its name. Individually, popular parlance names each of the four as Material, Verbal, Somatic, and Ability respectively.
 
 ## The Theory of Enchantment
 The Theory of Enchantment originates in [[Sally Seashell]]'s "Calculating *Nodum Iterum*". In this book, she explains the ability for a practitioner to store a permanent or repetitive effect of Weave Arcane in a material manifestation. 
@@ -49,10 +49,10 @@ The Theory of Enchantment originates in [[Sally Seashell]]'s "Calculating *Nodum
 This process is technical, expensive, and incredibly exhausting as it involves the creation of a system of Knots that both produces the desired effect of the user, and after doing so, maintains or regains the ability to produce the desired effect. The first task is relatively easy, while the second is much more difficult.
 
 ## The Theory of Alchemy
-To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Turring-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
+To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Scree'up-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
 
-### Turring-Turring Theory / Theory of Potential
-The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven Reality]]", a thin booklet written in 062AF by [[Waywalket Turring]] and [[Dimble Turring]]. This theory builds on the [[#Axioms of the Weave Arcane]] presented and proven in [[The Texts Druidic]], and postulates the following;
+### Scree'up-Turring Theory / Theory of Potential
+The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven Reality]]", a thin booklet written in 062AF by [[Scree'up]] and [[Dimble Turring]]. This theory builds on the [[#Axioms of the Weave Arcane]] presented and proven in [[The Texts Druidic]], and postulates the following;
 
 > Given the Axiom of Conservation and the Axiom of Continuity, one *must* wonder, if the Weave flows through all things, and can only ever be changed, doesn't this suggest that all things have the Weave flowing through them? As Axiom of Strands seems to directly state this, we could then further theorize that our observable reality *is* some type of Knot, as described in the Axiom of Knots, yet the Axiom of Knots excludes the possibility of the participation of the natural world in this "magic"; only the "naturally-disruptive" effects are the work of a Knot. 
 > 

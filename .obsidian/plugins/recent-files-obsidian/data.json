@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FT Faction List at H3",
       "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
