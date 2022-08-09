@@ -16,16 +16,52 @@ As a psion, you have mastered the ability to invoke the weave using nothing but 
 Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores. This is your "psionic ability score", and, using the typical modifer calculations, your Psionic Ability Modifier is determined by this score.
 
 ### Using Psionics
-To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. All Disciplines require some amount of time, meaning they all have some Action cost, as written in the Discipline.
+To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
 At first level, you know a Disciplines of your choice that you meet the prerequisites for. After first level, you will gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
 
 ## Psionic Tradition
-At third level, you choose a Psionic Tradition, shaping your mind to one purpose as you continue to practice psionics.
+At second level, you will choose a Psionic Tradition, shaping your mind to one purpose as you continue to practice psionics.
 
 ### Martial
+#### Psionic Soldier
+At second level, after hitting with a weapon attack, you may spend a Bonus Action to invoke a Psychokinesis Discipline you know, even if that Discipline usually costs a Full Action.
+
+#### Battle-Born Metabolism
+At sixth level, after you invoke a Psychometabolism Discipline you you know, you may immediately invoke a second Phycometabolism Discipline without paying it's Action cost.
+
+#### Extra Attack
+At tenth level, when you make the Full Action: Attack on your turn, you may make an additional weapon attack as a Free Action.
+
+#### Disciplined Warrior
+At fourteenth level, when you make the Full Action: Attack on your turn, you may spend three Effort to gain advantage on all attacks until the end of your turn.
+
 ### Mental
+#### Psionic Trickster
+At second level, when you invoke a Telepathy Discipline on your turn as a Full Action, you may invoke a second Telepathy Discipline as a Bonus Action this turn.
+
+#### Near Perfect Clarity
+At sixth level, when you invoke a Clairsentience Discipline on your turn, 
+
+####
+At tenth level,
+
+####
+At fourteenth level, 
+
 ### Material
+####
+When you choose this tradition at second level
+
+####
+At sixth level, 
+
+####
+At tenth level,
+
+####
+At fourteenth level, 
+
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Or like, get a feat or whatev.
@@ -42,11 +78,11 @@ At 20th level, select three additional Disciplines for this feature.
 # Psionic Disciplines
 #### Psychometabolism
 ## Auto-Hypnosis
-### FREE (2)
+### BONUS (2)
 ### WIS: 15
 By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. Choose one of the following effects;
 ## Auto-Ketosis
-### FREE (0)
+### BONUS (0)
 ### INT: 13
 By invoking Auto-Ketosis, your mind transfers the flow of caloric energy from throughout your body towards your mind, allowing you to spend more Psionic Effort at the cost of your Vitality.
 
