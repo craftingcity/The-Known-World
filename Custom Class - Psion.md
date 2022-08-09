@@ -42,24 +42,65 @@ At 20th level, select three additional Disciplines for this feature.
 # Psionic Disciplines
 ## Auto-Hypnosis
 ### FREE (2)
-By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. 
+### WIS: 15
+By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. Choose one of the following effects;
 ## Auto-Ketosis
-By invoking A
+### FREE (0)
+### INT: 13
+By invoking Auto-Ketosis, your mind transfers the flow of caloric energy from throughout your body towards your mind, allowing you to spend more Psionic Effort at the cost of your Vitality.
+
+Expend and roll a Hit Die. You regain 1/2 the value rolled as Effort. You may, in addition, take Vitality damage equal to twice the value rolled on the die to gain another 1/2 the value on the die as Effort.
 ## Force of Will
+### REACTION (1)
+### CHA: 13
 ## Augment Sense
+### FULL (1)
+### CHA: 13
 ## Augment Reality
+### FULL (3)
+### CHA: 15
 ## Detect Mind
+### FULL (2)
+### WIS: 13
 ## Detect Matter
+### FULL (2)
+### INT: 13
 ## Assail, Minor
+### BONUS (2)
 ## Assail, Major
+### FULL (5)
+### CHA: 17, INT: 13
 ## Assail, Area
+### FULL (6)
+### INT: 17, CHA: 15
 ## Drain, Minor
+### BONUS (1)
 ## Drain, Major
+### FULL (3)
+### CHA: 17, WIS: 13
 ## Drain, Area
+### FULL (4)
+### WIS: 17, CHA: 15
+## Charm
 ## Supplant
+### FULL (6)
+### WIS: 19, CHA: 13
 ## Daze
+### FULL (2)
+### INT: 13
 ## Disconnect
+### FULL (3)
+### INT: 15
 ## Kinetics
+### BONUS (1)
+### INT: 11
 ## Precognition
+### REACTION (3)
+### WIS: 15, INT: 13
 ## Postcognition
+### FREE (1)
+### INT: 15, WIS: 13
+## Clairvoyance
 ## Implicate
+### BONUS (5)
+### INT: 13, WIS: 13, CHA: 15
