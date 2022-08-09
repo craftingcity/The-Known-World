@@ -13,11 +13,11 @@ When you miss with an attack that would deal bludgeoning damage, if the attack m
 When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an additional 1d4 damage.
 
 ### Slashing
-When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d6 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total, or take one stack of Bleed.
+When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d6 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply one stack of Bleed.
 
-> Bleed deals 1d3 (aka 1d6/2, round up) damage per stack at the beginning of the effected creature's turn.
-> Bleed, once applied, can only be removed by way of magical healing (such as a spell or potion of healing) or by spending an action and succeeding on a DC 12 Medicine check 
-> This is an explicit clause that either of these two options could be preformed by an ally.
+At the beginning of a Bleeding creatures turn, they take 1d3 untyped damage per stack of Bleed they have.
+
+A creature may remove all stacks of Bleed from itself by receiving some kind of magical Wound healing ability or spell, or spending a Full Action on their turn to attempt a Profession (Doctor) check, the DC of which is equal to 10 + two times the number of stacks of Bleed the creature has.
 
 # Weapon Tags Changes
 ### Heavy
@@ -49,6 +49,7 @@ Characters of size categories Large or higher may always use the higher Damage D
 This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
 
 Characters of size categories Large or higher may ignore this restriction.
+
 ### Unwieldy
 This weapon is difficult to fight with during a close-quarters combat. When making an attack against a target within five feet of the you, you make the attack with a -2 bonus to the attack roll.
 
@@ -59,7 +60,7 @@ This weapon has a "reach" of roughly 10 feet, though exactly that much when perf
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
 ### Thrown
-This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon, though making such a distanced attack puts the attack roll at disadvantage.
+This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Ammunition (X)
 This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action.
@@ -77,7 +78,7 @@ The first item in the range column is the default range of the weapon. The secon
 
 ### Special Tags
 #### Hitch
-This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, after doing so, one could use the weapon as a piton.
+This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, one could use the weapon as a piton or something else of the sort.
 
 #### Lasso
 This weapon is designed with the sole intention of ensnaring and restraining creatures. 
@@ -89,7 +90,9 @@ As an action, a creature under this effect may attempt to free themselves, and e
 If this weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
 
 #### Kurasi-Gama
+This weapon is designed with the intention that it could be used at close or medium range.
 
+When you make an attack with this weapon against a creature within 5ft of you, the attack deals slashing damage. When you make an attack with this weapon against a creature *without* 5ft of you, the attack deals bludgeoning damage.
 
 #### Net, Rope
 This weapon is designed with the sole intention of ensnaring and restraining creatures. 

@@ -97,7 +97,7 @@ Cat-o'-Nine Whip | 5ft | 2d4 | slashing | |
 Bladewhip | 5ft | 2d6 | slashing | unwieldy | dismember
 Rope-Dart | 10ft | 1d6 | bludgeoning | light, two-handed, long | wrap
 Meteor Hammer | 10ft | 2d8 | bludgeoning | heavy, two-handed, long | wrap
-Kurasi-gama | 5/10ft | 1d6 | slashing or bludgeoning | two-handed, long, special (kurasi-gama) | bash
+Kurasi-gama | 5/10ft | 1d6 | special | two-handed, special (kurasi-gama) | bash
 ***Ranged Weaponry*** |
 Net (rope) | 5/15ft | | special | light, special (net, rope)
 Net (wire) | 5/10ft | | special | special (net, wire)
