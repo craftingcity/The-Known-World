@@ -136,6 +136,7 @@ When you make a weapon attack with this weapon, if you have moved 10 or more fee
 When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply a stack of Sunder.
 
 > Sunder reduces the effected creature's effective AC by 1 per stack.
+> 	Stack on turn?
 > Sunder targets the creature's armor, hide, chiton, or otherwise protective material; not their natural ability to dodge or withstand damage.
 > Creatures' armor class cannot be reduced below 10 + their Dex modifier this way, and magical armors are immune to this effect.
 
@@ -151,7 +152,7 @@ In replacement of a weapon attack, you may swing your weapon in a large arc. Cho
 As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, you take no damage from the triggering attack, and the attacker is grappled. While you maintain this grapple, you cannot use your weapon to make attacks, and you gain an effective +4 to your Athletics.
 
 ### Wrap
-In replacement of a weapon attack, you may attempt to wrap a target using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes restrained for as long as the weapon remains wrapped around your target.
+In replacement of a weapon attack, you may attempt to wrap a target using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as the weapon remains Wrapped around your target.
 
 An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from around them. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the restraint from the target.
 
