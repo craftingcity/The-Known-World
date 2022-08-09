@@ -81,11 +81,14 @@ By invoking Auto-Adjustment, you use Effort to control the process of healing wi
 ## Drain, Area
 ### FULL (4)
 ### WIS: 17, CHA: 15
+## Kinetics
 #### Telepathy
 ## Correspond
 ## Charm
 ## Fear
-## Supplant
+## Demoralize
+## Falsify Internal Information
+## Supplant / Dominate
 ### FULL (6)
 ### WIS: 19, CHA: 13
 ## Implicate
@@ -113,6 +116,7 @@ By invoking Auto-Adjustment, you use Effort to control the process of healing wi
 ## Augment Reality
 ### FULL (3)
 ### CHA: 15
+## Disrupt Reality
 ## Impartial Teleportation
 ### FULL (5)
 ### CHA: 17, INT: 15 
