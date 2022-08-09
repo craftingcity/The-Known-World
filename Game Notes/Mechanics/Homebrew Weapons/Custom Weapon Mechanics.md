@@ -10,7 +10,7 @@ When you miss with an attack that would deal bludgeoning damage, if the attack m
 > This is intended to *simulate* the idea that even when I cannot pierce your armor, a bludgeoning weapon does not necessarily have to.
 
 ### Piercing
-When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an extra 1d4 damage.
+When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an additional 1d4 damage.
 
 ### Slashing
 When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d6 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total, or take one stack of Bleed.
@@ -109,8 +109,10 @@ As an action, a creature under this effect may attempt to free themselves, and e
 
 If this weapon is vulnerable to slashing damage, has an AC of 14, and a Vitality of 20. It can endure no Wounds.
 
-#### Flamethrower
+#### Burning
+This weapon shoots some liquid or gas that quickly ignites. When you hit a target with an attack from this weapon, in addition to the normal attack damage, your target(s) make a Dexterity Saving Throw. If they fail, you apply a stack of Burning.
 
+At the beginning of a Burning creature's turn, you deal an amount of damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
@@ -164,7 +166,9 @@ Please see the [[#Targeting Table]] below.
 As you perform a weapon attack, you may attempt to precisely target a part of your target. If your attack beats the target's AC + your selection's DC, the part is severely harmed and the corresponding effect is applied. 
 
 ### Scatter
-In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful shot. Roll your weapon's normal damage. Any creatures in the zone take an equal division of the damage. Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
+In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful shot. Roll your weapon's normal damage. Any creatures in the zone make a Dexterity Saving Throw, taking an equal division of the damage on a failure or half that value on a success. 
+
+Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
 
 ## Targeting Table
 DC Increase | Part | Condition
@@ -172,5 +176,5 @@ DC Increase | Part | Condition
 3 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
 4 | Arm | Poisoned / Incapacitated
 4 | Leg | Slowed / Prone
-6 | Internal Organ (Pointtack Only) | 
+7 | Internal Organ (Pointtack Only) | Unconscious
 10 | Head (Dismember Only) | Death

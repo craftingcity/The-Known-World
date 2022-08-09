@@ -30,9 +30,9 @@ Ahtlatl | 60/180ft | 1d6 | piercing | ammunition (1), two-handed | C.L. grab
 ***Consumable-Thrown Weaponry*** |
 Improvised Explosive | 10ft radius | 1d8 | bludgeoning |
 Improvised Claymore | 10ft cone | 2d4 | slashing |
-Hand-Bomb | 10ft sphere | 2d6 | bludgeoning |
-Fire-Bomb | 10ft sphere | 1d6 | fire |
-Smoke-Bomb | 10ft sphere | | special |
+Hand-Bomb | 10ft sphere | 2d6 | bludgeoning | thrown
+Fire-Bomb | 10ft sphere | 1d6 | fire | thrown, special(burning)
+Smoke-Bomb | 10ft sphere | | special | thrown
 # Martial Weapons
 The following weapons can be used competently by those who are proficient in them.
 
@@ -75,15 +75,15 @@ Magazine Pellet Crossbow | 150/600ft | 1d4 | piercing | heavy, two-handed, ammun
 Blowgun | 25/100ft | 1d4 | piercing | light, ammunition (1) | pointtack
 Alchemical Flamethrower | 10ft line | 3d6 | fire | heavy, two-handed, ammunition (3), special (flamethrower) | bash
 ***Consumable-Thrown Weaponry*** |
-Anti-Personnel Grenade, Alchemical | 10ft sphere | 3d6 | slashing
-Fire Grenade, Alchemical | 20ft sphere | 2d6 fire
-Anti-Armor Grenade, Alchemical | 5ft sphere | 6d4 bludgeoning
+Anti-Personnel Grenade, Alchemical | 10ft sphere | 3d6 | slashing | thrown
+Fire Grenade, Alchemical | 20ft sphere | 2d6 | fire | thrown, special(burning)
+Anti-Armor Grenade, Alchemical | 5ft sphere | 6d4 | bludgeoning | thrown
 Stink Grenade, Alchemical | 15ft sphere | | special
 Stun Grenade, Alchemical | 10ft sphere | | special
 Smoke Grenade, Alchemical | 15ft sphere | | special
 Shadow Grenade, Alchemical | 10ft sphere | | special
-Mining Explosive | 50ft sphere | 2d12 | bludgeoning
-Miner's Savior | 5ft cylinder | 12d12 | special
+Mining Explosive | 50ft sphere | 2d12 | bludgeoning | siege
+Miner's Savior | 5ft cylinder | 12d12 | special | thrown
 # Specialized Weapons
 The following weapons can only be used by those who are proficient in them.
 
@@ -94,10 +94,10 @@ Lasso | 20ft | | special | light, stashable, special (lasso) | lasso
 Bullwhip | 15ft | 1d4 | bludgeoning | very long | wrap
 Chainwhip | 10ft | 1d6 | bludgeoning | long | wrap
 Cat-o'-Nine Whip | 5ft | 2d4 | slashing | |
-Bladewhip | 5ft | 2d6 | slashing | unwieldy | wrap
+Bladewhip | 5ft | 2d6 | slashing | unwieldy | dismember
 Rope-Dart | 10ft | 1d6 | bludgeoning | light, two-handed, long | wrap
 Meteor Hammer | 10ft | 2d8 | bludgeoning | heavy, two-handed, long | wrap
-Kurasi-gama | 10ft | 1d6 | special | two-handed, long, special (kurasi-gama) | bash
+Kurasi-gama | 5/10ft | 1d6 | slashing or bludgeoning | two-handed, long, special (kurasi-gama) | bash
 ***Ranged Weaponry*** |
 Net (rope) | 5/15ft | | special | light, special (net, rope)
 Net (wire) | 5/10ft | | special | special (net, wire)
