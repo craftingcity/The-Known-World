@@ -77,7 +77,7 @@
               "leaf": "3692828f8cbd7cde",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":41},\"to\":{\"line\":6,\"ch\":41}},\"scroll\":0}"
             }
           ]
         },
@@ -85,6 +85,29 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "db003be31994fa67",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "db003be31994fa67",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Custom Class - Psion.md",
             "mode": "source",
             "source": true
           }
@@ -114,29 +137,6 @@
           "type": "markdown",
           "state": {
             "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cd711f559acbeb75",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "cd711f559acbeb75",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Custom Class - Psion.md",
             "mode": "source",
             "source": true
           }
@@ -285,13 +285,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd711f559acbeb75",
+  "active": "db003be31994fa67",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Custom Class - Psion.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+    "Custom Class - Psion.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
