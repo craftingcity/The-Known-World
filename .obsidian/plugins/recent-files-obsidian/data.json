@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
+      "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    },
+    {
+      "basename": "Custom Armor Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "combine-100AF",
       "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
-    },
-    {
-      "basename": "Yahlin",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Yahlin.md"
-    },
-    {
-      "basename": "Unyalian",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Unyalian.md"
-    },
-    {
-      "basename": "Helvuagh",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Helvuagh.md"
     }
   ],
   "omittedPaths": [],

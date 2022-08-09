@@ -4,7 +4,7 @@
 | Padded           | 10+DEX             | DR (1)                  |          |
 | Leather          | 11+DEX             | SB (2)                  |          |
 | Studded Leather  | 12+DEX             | DR (1)                  |          |
-| Bone | 13+DEX | SD | 
+| Bone             | 13+DEX             | SD                      |          |
 | *Medium*         |                    |                         |          |
 | Hide             | 12+DEX (MAX 2)     | DR (1), SB (1)          |          |
 | Plated Leather   | 13+DEX (MAX 2)     |                         |          |
@@ -23,7 +23,7 @@
 | Full Plate       | 18                 | SR (17), SD, MR         | Bash     |
 | Wurm Chitin Mail | 16+DEX (MAX **3**) | SR (17), SD, SB (1)     |          |
 | Dragonscale Mail | 19                 | SR (19), SD, DR (1), MR | Bash     |
-| *Auxiliary*        |                    |                         |          |
-| Buckler          | 1                  |                         |          |
+| *Auxiliary*      |                    |                         |          |
+| Buckler          | 1                  |                         | Bump     |
 | Shield           | 2                  | SR (11)                 | Bump     |
 | Scutum           | 3                  | SR (15), SD, MR         |          |
