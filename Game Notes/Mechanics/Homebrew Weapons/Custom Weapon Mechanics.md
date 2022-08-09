@@ -116,13 +116,13 @@ If this weapon is vulnerable to slashing damage, has an AC of 14, and a Vitality
 Each of the following "Specials" may only be used once between rests.
 
 ### Bash
-In replacement of a melee weapon attack, you can attempt to perform a powerful bash. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, 
+In replacement of a melee weapon attack, you can attempt to perform a powerful bash. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, you roll three times as many damage dice as you normally would.
 
 ### Pummel
 As a bonus action on your turn, you may make two melee weapon attacks. You make these attacks with disadvantage.
 
 ### En-Route
-If you have moved more than five feet this turn, you may make an attack with your weapon against a target you pass or will pass by the end of your turn as a Bonus Action. 
+If you have moved more than fifteen feet this turn, you may make an attack with your weapon against a target you pass or will pass by the end of your turn as a Bonus Action. 
 
 ### Pin
 In replacement of a weapon attack, you can attempt to Pin a target to an adjacent object using this weapon. Make a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as you maintain the Pin. 
@@ -133,26 +133,25 @@ You cannot use this weapon to perform weapon attacks during this time without vo
 When you make a weapon attack with this weapon, if you have moved 10 or more feet from your originating position during this turn, you gain a +2 bonus to the attack roll and, if you hit, the damage roll.
 
 ### Sunder
-When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply a stack of Sunder.
+When you hit with an attack with this weapon, if you beat your target's AC by five or more, you may choose to reduce the damage of your attack by 1d8 and apply Sunder.
 
-> Sunder reduces the effected creature's effective AC by 1 per stack.
-> 	Stack on turn?
-> Sunder targets the creature's armor, hide, chiton, or otherwise protective material; not their natural ability to dodge or withstand damage.
-> Creatures' armor class cannot be reduced below 10 + their Dex modifier this way, and magical armors are immune to this effect.
+While a creature is effected by Sunder, at the beginning of their turn, their Armor Class is reduced by 1. A creature's Armor Class cannot be reduced below 10+DEX this way.
+
+A creature who would be reasonably immune to this effect, likely because they have a Natural Armor or something of the sort, is not effected by Sunder.
 
 ### Dismember
 Please see the [[#Targeting Table]] below.
 
-As you perform a weapon attack, you may attempt to amputate an exposed organ or limb of a creature. Select a row of the [[#Targeting Table]]. If your atta ack beats the target's AC + your selection's DC, the part is "removed" and the corresponding effect is applied. 
+As you perform a weapon attack, you may attempt to amputate an exposed organ or limb of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's DC, the part is "removed" and the corresponding effect is applied. 
 
 ### Sweep
-In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures  up to your proficiency bonus that are in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
+In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures up to your proficiency bonus that in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Cross-Lock Grab
-As a reaction, when you are attacked by a creature within 5 feet, you may perform a contested Athletics check against your attacker. If you succeed, you take no damage from the triggering attack, and the attacker is grappled. While you maintain this grapple, you cannot use your weapon to make attacks, and you gain an effective +4 to your Athletics.
+As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics.
 
 ### Wrap
-In replacement of a weapon attack, you may attempt to wrap a target using this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Restrained for as long as the weapon remains Wrapped around your target.
+In replacement of a weapon attack, you may attempt to Wrap a target in this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Incapacitated for as long as the weapon remains Wrapped around your target.
 
 An effected target can make a contested Athletics check versus you as an action on their turn in an attempt to remove the weapon from around them. You cannot use this weapon to perform weapon attacks during this time without voluntarily removing the restraint from the target.
 
@@ -170,6 +169,8 @@ In replacement of a weapon attack, you may create a 10' cone of small, quick, an
 ## Targeting Table
 DC Increase | Part | Condition
 --- | --- | --- | ---
-2 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
+3 | Sense Organ | Blinded or Deafened upon 80% or more of all corresponding organs harmed.
 4 | Arm | Poisoned / Incapacitated
 4 | Leg | Slowed / Prone
+6 | Internal Organ (Pointtack Only) | 
+10 | Head (Dismember Only) | Death
