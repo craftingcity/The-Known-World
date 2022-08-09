@@ -12,14 +12,58 @@
             {
               "leaf": "b75c60340b0b59f5",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Psionics.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Pandect_5.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Pandect_4.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Pandect_3.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Pandect_2.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Pandect_1.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b75c60340b0b59f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MEDIA/MEDIA.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf"
+          }
         }
       }
     ],
@@ -55,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scenarios",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +196,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf"
+              }
             }
           }
         ]
@@ -162,15 +210,15 @@
   },
   "active": "b75c60340b0b59f5",
   "lastOpenFiles": [
+    "MEDIA/SUPP/DOCS/Psionics.pdf",
+    "MEDIA/SUPP/DOCS/Pandect_5.pdf",
+    "MEDIA/SUPP/DOCS/Pandect_4.pdf",
+    "MEDIA/SUPP/DOCS/Pandect_3.pdf",
+    "MEDIA/SUPP/DOCS/Pandect_2.pdf",
+    "MEDIA/SUPP/DOCS/Pandect_1.pdf",
+    "MEDIA/MEDIA.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 01 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Dhug Kahldur.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Hameer.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Geghloch.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/North Dunes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Eastlick Mossland.md"
+    "Game Notes/Prenotes/'22/Prenotes Aug 01 22.md"
   ]
 }
