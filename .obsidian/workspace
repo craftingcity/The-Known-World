@@ -12,8 +12,14 @@
             {
               "leaf": "a32506d289cfc884",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/AlchemicalComponentMotifs.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a32506d289cfc884",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":60.46190203717537}"
             },
             {
               "leaf": "a32506d289cfc884",
@@ -36,11 +42,9 @@
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-            "mode": "source",
-            "source": true
+            "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
           }
         }
       }
@@ -124,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
               }
             }
           }
@@ -189,6 +193,7 @@
   },
   "active": "a32506d289cfc884",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
@@ -197,7 +202,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
-    "MEDIA/SUPP/DOCS/Psionics.pdf",
-    "MEDIA/SUPP/DOCS/Pandect_5.pdf"
+    "MEDIA/SUPP/DOCS/Psionics.pdf"
   ]
 }

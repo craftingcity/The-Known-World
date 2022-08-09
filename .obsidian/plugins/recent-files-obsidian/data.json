@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Slimknives",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
-    },
-    {
-      "basename": "combine-100AF",
-      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
     }
   ],
   "omittedPaths": [],
