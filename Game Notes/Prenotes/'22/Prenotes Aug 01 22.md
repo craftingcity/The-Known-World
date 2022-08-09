@@ -55,7 +55,7 @@ It's likely that the party will attempt to continue their work for [[Alergra Bar
 
 ### Darnt Hillkeep
 
-[[Baron Jammu]] is awaiting the arrival of the misfits, and will collect a day of rest from them if they stay the night in her territory.
+[[Baron Jammu]] is awaiting the arrival of the misfits, and will collect a day of rent from them if they stay the night in her territory.
 
 ### The Golden City
 
