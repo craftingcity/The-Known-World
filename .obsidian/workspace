@@ -12,6 +12,12 @@
             {
               "leaf": "a32506d289cfc884",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.4265727355594926}"
+            },
+            {
+              "leaf": "a32506d289cfc884",
+              "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/AlchemicalComponentMotifs.png\"}}",
               "eState": "{}"
             },
@@ -42,9 +48,34 @@
           ]
         },
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "69f9b835c58f0bc1",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "69f9b835c58f0bc1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":0},\"to\":{\"line\":119,\"ch\":0}},\"scroll\":112.1311838780794}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -128,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           }
@@ -193,15 +224,15 @@
   },
   "active": "a32506d289cfc884",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/Pandect_7.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
-    "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
-    "MEDIA/SUPP/DOCS/Psionics.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md"
   ]
 }
