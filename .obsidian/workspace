@@ -4,32 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c8ce4c1a2f2726",
+        "id": "a32506d289cfc884",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d9c8ce4c1a2f2726",
+              "leaf": "a32506d289cfc884",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "d9c8ce4c1a2f2726",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -112,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +151,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9c8ce4c1a2f2726",
+  "active": "a32506d289cfc884",
   "lastOpenFiles": [
+    "MEDIA/SUPP/DOCS/Pandect_7.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/Kailkeep/a_ Chapter One - Introduction.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
     "MEDIA/SUPP/DOCS/Psionics.pdf",
     "MEDIA/SUPP/DOCS/Pandect_5.pdf",
     "MEDIA/SUPP/DOCS/Pandect_4.pdf",
     "MEDIA/SUPP/DOCS/Pandect_3.pdf",
-    "MEDIA/SUPP/DOCS/Pandect_2.pdf",
-    "MEDIA/SUPP/DOCS/Pandect_1.pdf",
-    "MEDIA/MEDIA.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md"
+    "MEDIA/SUPP/DOCS/Pandect_2.pdf"
   ]
 }

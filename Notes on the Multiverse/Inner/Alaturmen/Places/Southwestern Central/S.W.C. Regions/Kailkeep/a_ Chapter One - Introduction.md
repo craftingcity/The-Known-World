@@ -116,7 +116,7 @@ Because of their stagnant nature, the Ooze of Kailkeep are often considered fixt
 The density of Woven material in the area of Kailkeep has done *something* to the rodents here. Many are larger, more ferocious, and more difficult to deal with. Some create a massive amount of children and husband extremely well. Some can fucking fly. Shits crazy.
 
 #### Genoid
-A species of earth elemental came with Terra, small price to pay for her power. The Kobolds host these small rock creatures as honored guests, much as a deist would honor an Angel of their God. Those Genoid that walk the Hells are revieared
+A species of earth elemental came with Terra, small price to pay for her power. The Kobolds host these small rock creatures as honored guests, much as a deist would honor an Angel of their God. Those Genoid that walk the Hells are revered by Loyalists and hunted as prized kills by the other factions.
 
 #### Mad-walkers
 Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
@@ -131,7 +131,7 @@ Those who survive Kailkeep for too long lose their sanity. One can only take so 
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 
 #### False Allure
-In its lowest floors, the first three, it is a carefully crafted dungeon of false allure – stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Heroe's favor before...
+In its lowest floors, the first three, it is a carefully crafted dungeon of "false allure" – stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Hero's favor before...
 
 
 ## The Hells of Kailkeep
@@ -140,14 +140,14 @@ Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds 
 
 The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be presented with the feeling of unease – prey being lured into a trap.
 
-A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped.
+A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped, as Operators shape, reshape, and shape again.
 
 ### Entering Kailkeep
 Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious entrances, no matter where you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
 
 The Kobolds keep service entrances from which they and their loyalists come and go, as well as the three first floors of the Hells of Kailkeep; The False Allure. The False Allure has many entrances around the base of the mountain.
 
-Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep.
+Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep under heavy enhanced guard.
 
 ### Hells Architecture
 The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is flat black marble and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
@@ -155,7 +155,7 @@ The fourth level presents a drastic change of theme. Where once there was red co
 Those who enter Kailkeep would be thinking *wish*fully to believe that they can escape the grasp of the Hells. The only way *out* is ***through***.
 
 ##### Ceilings
-The ceilings of Kailkeep's Hells are crafted to fit large creatures, the distance from ceiling to floor is typically eighteen feet.
+The ceilings of Kailkeep's Hells are crafted to fit at most Large creatures' height, the distance from ceiling to floor is typically eighteen feet.
 
 ##### Veiwings and Tunnels
 In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells.
@@ -174,10 +174,10 @@ Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an O
 > No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone to work in peace.
 
 ##### Illumination
-The Kobolds who view the Hells as entertainment have no need for light, except in the larger rooms of the Hells, in which case the # bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
+The Kobolds who view the Hells as entertainment typically have no need for light, except in the larger rooms of the Hells, in which case the bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
 
 ##### Formatted Markings
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ##### Scoreboard
-Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The intend, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contender) and "entertainment rating" of the owner of the hand, given they are still alive.
+Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive.
