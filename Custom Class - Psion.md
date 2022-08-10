@@ -185,15 +185,15 @@ Choose an object within 30ft of you that weighs no more than 10 lbs. You may eit
 In the latter case, make a Psionic Attack versus your target's AC. If you hit, they take 1d6 + your Psionic Ability Modifier damage.
 
 #### Telepathy
-## Correspond
+## Correspond with Sentience
 ### FREE (0)
 ### WIS:13
-You may invoke Correspond at will, establishing a mental connection between you and another creature within 30ft. You may communicate this way silently and clearly, even of you do not share a language. The target is under no compulsion to allow you to maintain this connection, and may spend a Free Action on their turn to force you out of their mind.
+You may invoke Correspond with Sentience at will, establishing a mental connection between you and another creature within 30ft. You may communicate this way silently and clearly, even of you do not share a language. The target is under no compulsion to allow you to maintain this connection, and may spend a Free Action on their turn to force you out of their mind.
 
-## Charm
+## Charm Sentience
 ### FULL (2)
 ### CHA: 15
-By invoking Charm, you attempt to use Effort to adjust your target's mind in favor of your wishes.
+By invoking Charm Sentience, you attempt to use Effort to adjust your target's mind in favor of your wishes.
 
 A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they become your choice of Charmed or Frightened by you.
 
@@ -204,16 +204,21 @@ By invoking Falsify Internal Information, you attempt to use Effort to falsify s
 
 A creature targeted by this Discipline must make a Constitution Saving Throw against your Psionic Save DC. If they fail, they become your choice of Incapacitated until the end of your next turn.
 
-## Supplant / Dominate
+## Supplant Sentience
 ### FULL (6, CON)
 ### WIS: 19, CHA: 13
-By invoking Supplant, you attempt to use Effort to adjust your target's mind in favor of your direct control.
+By invoking Supplant Sentience, you attempt to use Effort to adjust your target's mind in favor of your direct control.
 
 A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they become Dominated by you. For as long as you maintain Concentration on this Discipline, you may spend a Full Action on your turn to directly command the Dominated creature, who will follow it to the best of their ability. If they have no current directions, they will stand in place and defend themselves from anyone hostile to them to the best of their ability.
 
 ## Implicate
 ### BONUS (5)
 ### INT: 13, WIS: 13, CHA: 15
+By invoking Implicate, you attempt to use Effort to adjust your target's memories.
+
+A creature targeted by this Discipline must make a Intelligence Saving Throw against your Psionic Save DC. If they fail, you may choose one of the following effects;
+	- You de-solidify the target creature's short-term memory, disrupting the process of creating long-term memories. The previous five minutes and the next five minutes will become blurred in the creature's memory and impossible to accurately recall.
+	- You 
 
 ## Daze
 ### FULL (2)
@@ -226,21 +231,34 @@ A creature targeted by this Discipline must make a Charisma Saving Throw against
 ## Precognition
 ### REACTION (3)
 ### WIS: 15, INT: 13
+
 ## Postcognition
 ### FREE (1)
 ### INT: 15, WIS: 13
+
 ## Clairvoyance
+
+
 ## Detect Mind
 ### FULL (2)
 ### WIS: 13
+
 ## Detect Matter
 ### FULL (2)
 ### INT: 13
+
 #### Psychocreativity
 ## Augment Reality
 ### FULL (3)
 ### CHA: 15
+
 ## Disrupt Reality
+
+
 ## Impartial Teleportation
 ### FULL (5)
 ### CHA: 17, INT: 15 
+
+## Partial Teleportation
+### FULL (8)
+### CHA: 17, INT: 17
