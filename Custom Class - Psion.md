@@ -180,17 +180,35 @@ Choose a number of creatures within range equal to your proficiency bonus. A cre
 ### INT: 13, CHA 13
 By invoking Kinetics, you use Effort to move an object at potentially dangerous speeds.
 
-Choose an object within 30ft of you that weighs no more than 10 lbs. You may either move that object anywhere within 30ft of you at a safe speed, or you may attempt to
+Choose an object within 30ft of you that weighs no more than 10 lbs. You may either move that object anywhere within 30ft of you at a safe speed, or you may attempt to throw the object at a creature as an Attack.
+
+In the latter case, make a Psionic Attack versus your target's AC. If you hit, they take 1d6 + your Psionic Ability Modifier damage.
 
 #### Telepathy
 ## Correspond
+### FREE (0)
+### WIS:13
+You may invoke Correspond at will, establishing a mental connection between you and another creature within 30ft. You may communicate this way silently and clearly, even of you do not share a language. The target is under no compulsion to allow you to maintain this connection, and may spend a Free Action on their turn to force you out of their mind.
+
 ## Charm
-## Fear
-## Demoralize
+### FULL (2)
+### CHA: 15
+By invoking Charm, you attempt to use Effort to adjust your target's mind in favor of your wishes.
+
+A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they become your choice of Charmed or Frightened by you.
 ## Falsify Internal Information
+### FULL (4)
+### INT: 15 CHA: 13
+By invoking Falsify Internal Information, you attempt to use Effort to falsify signals in your target's mind that control vital internal functions of their body, such as their lungs or heart.
+
+A creature targeted by this Discipline must make a Constitution Saving Throw against your Psionic Save DC. If they fail, they become your choice of Incapacitated until the end of your next turn.
 ## Supplant / Dominate
-### FULL (6)
+### FULL (6, CON)
 ### WIS: 19, CHA: 13
+By invoking Supplant, you attempt to use Effort to adjust your target's mind in favor of your direct control.
+
+A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they become Dominated by you. For as long as you maintain Concentration on this Discipline, you may spend a Full Action on your turn to directly command the Dominated creature, who will follow it to the best of their ability. If they have no current directions, they will stand in place and defend themselves from anyone hostile to them to the best of their ability.
+
 ## Implicate
 ### BONUS (5)
 ### INT: 13, WIS: 13, CHA: 15
