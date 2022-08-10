@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Factions:
 - [[The Church of the White Flame]]
-- 
+- [[Hektor's Bandits]]
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
