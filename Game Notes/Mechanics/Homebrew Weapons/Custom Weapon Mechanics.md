@@ -36,10 +36,10 @@ This weapon can be thrown for it's full weapon damage within 15' and half its fu
 A wielder of this weapon may use their Dex modifier in place of their Str modifier when making weapon attacks with this weapon, if they wish to do so.
 
 ### Quick
-A wielder of a quick weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
+A wielder of this weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
 
 ### Versatile (dX)
-This weapon can be held in two hands. The dice displayed in the parantheses directly after this tag display the Damage Dice when this weapon is wielded in two hands.
+This weapon can be held in two hands. The dice displayed in the parentheses directly after this tag display the Damage Dice when this weapon is wielded in two hands.
 
 Switching your blade-holding stance can be done as a free action on your turn so long as you have a free hand.
 
@@ -87,7 +87,7 @@ When you make an attack with this weapon, roll a weapon attack as normal. Your t
 
 As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 13.
 
-If this weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
+This weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
 
 #### Kurasi-Gama
 This weapon is designed with the intention that it could be used at close or medium range.
