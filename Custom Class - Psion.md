@@ -15,6 +15,8 @@ As a psion, you have mastered the ability to invoke the weave using nothing but 
 ### Psionic Ability 
 Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores. This is your "psionic ability score", and, using the typical modifer calculations, your Psionic Ability Modifier is determined by this score.
 
+Your Psionic Save DC is equal to 8 plus your 
+
 ### Using Psionics
 To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
@@ -43,10 +45,10 @@ At second level, when you invoke a Telepathy Discipline on your turn as a Full A
 #### Near Perfect Clarity
 At sixth level, when you invoke a Clairsentience Discipline on your turn, 
 
-####
-At tenth level,
+#### Warded Mind
+At tenth level, you gain resistance to psychic damage and advantage on Saving Throws versus psionic effects.
 
-####
+#### Three-Eyed Mystic
 At fourteenth level, 
 
 ### Material
@@ -81,23 +83,47 @@ At 20th level, select three additional Disciplines for this feature.
 ### BONUS (2)
 ### WIS: 15
 By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. Choose one of the following effects;
+	- You gain proficiency in a tool or skill of your choice for the next 24 hours.
+	- You gain advantage on the next Skill Check or Saving Throw you make.
+
 ## Auto-Ketosis
 ### BONUS (0)
 ### INT: 13
 By invoking Auto-Ketosis, your mind transfers the flow of caloric energy from throughout your body towards your mind, allowing you to spend more Psionic Effort at the cost of your Vitality.
 
 Expend and roll a Hit Die. You regain 1/2 the value rolled as Effort. You may, in addition, take Vitality damage equal to twice the value rolled on the die to gain another 1/2 the value on the die as Effort.
+
 ## Auto-Adjustment
+### BONUS (2)
+### WIS: 13
 By invoking Auto-Adjustment, you use Effort to control the process of healing within your own body.
+
+Expend and roll a Hit Die. You may either regain the value of the dice plus your Psionic Ability Modifier in Vitality or you may heal one Wound.
+
 ## Auto-Adaptation
-### FULL (1)
+### FULL (2, CON)
 ### INT: 13, WIS: 13
+By invoking Auto-Adaption, you use Effort to temporarily shift vital internal organs in such a manner that you are less effected by your enviroment.
+
+For as long as you maintain Concentration on this Discipline, you gain advantage on Saving Throws versus effects that apply Exhaustion, and you gain Resistance to all-non-magical damage.
+
 ## Force of Will
 ### REACTION (1)
 ### CHA: 13
+By invoking Force of Will, you use Effort in an attempt to prevent an opponent from hitting you or your allies with an attack.
+
+When you or an ally are targeted by an attacker within 30ft of you, and you invoke this Discipline, the attacker makes a Wisdom Saving Throw against your Psionic Save DC. If they fail, they have disadvantage on the attack that triggered this reaction.
+
 ## Augment Sense
 ### FULL (1)
 ### CHA: 13
+By invoking Augment Sense, you use Effort to shape the senses of you or a creature you can see within 30ft of you.
+
+A creature targeted by this Dicipline must make a Charisma Saving Throw versus your Psionic Save DC, which they may volunarilly fail, or suffer one of the following effcects;
+	- Deafened
+	- Blinded
+	- 
+
 ## Brace
 ## Incorperate
 #### Psychokinesis
