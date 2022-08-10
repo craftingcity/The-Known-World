@@ -46,10 +46,13 @@ We have encounters prepped, and tables & hexes for otherwise.
 | ------------------ | ------------------ | ---------- | ---------- | ----------------------- |
 | Navigator          | W1 (0:00 – 4:00)   | REST       | YES        | SCRIVIN RAID            |
 | NALA               | W2 (4:00 – 8:00)   | REST       | YES        | UNKNOWN / SCRIVIN CHASE |
-| Intended Direction | W3 (8:00 – 12:00)  | TRAVEL     |            |                         | - Ulfgar gave names to a'LeQuinn Guard in N18
-| South              | W4 (12:00 – 16:00) |            | YES        | BODAIM RAID             |
+| Intended Direction | W3 (8:00 – 12:00)  | TRAVEL     |            |                         |
+| South              | W4 (12:00 – 16:00) | TRAVEL     | YES        | BODAIM RAID             |
 | Veer?              | W5 (16:00 – 20:00) |            |            |                         |
 | No                 | W6 (20:00 – 0:00)  |            |            |                         |
+
+- Ulfgar gave names to a'LeQuinn Guard in N18
+- Ulfgar has a'LeQuinn Guard's Sending Stone
 
 | In-game Date:      | 22nd of Rebirth | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
