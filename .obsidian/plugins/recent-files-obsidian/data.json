@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Armor Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
+    },
+    {
       "basename": "Westlick Mossland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Westlick Mossland.md"
+    },
+    {
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     },
     {
       "basename": "Beacon",
@@ -83,10 +91,6 @@
     {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
       "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
-    },
-    {
-      "basename": "Custom Armor Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
     },
     {
       "basename": "AlchemicalComponentMotifs",
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Jan 15 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Jan 15 22.md"
-    },
-    {
-      "basename": "Prenotes Feb 12 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Feb 12 22.md"
     }
   ],
   "omittedPaths": [],
