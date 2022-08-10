@@ -11,9 +11,9 @@
           "stack": [
             {
               "leaf": "8a503d6e149f3151",
-              "group": null,
+              "group": "089de38f707aa1ef",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":65.90210597280539}"
             }
           ]
         },
@@ -24,7 +24,8 @@
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "089de38f707aa1ef"
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,41 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a503d6e149f3151",
+  "floating": {
+    "id": "aea3f29020a21465",
+    "type": "floating",
+    "children": [
+      {
+        "id": "20129c9e9509bdfb",
+        "type": "window",
+        "children": [
+          {
+            "id": "739f42d9f987d395",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Notes/Mechanics/Custom Class - Psion.md"
+              }
+            },
+            "group": "089de38f707aa1ef"
+          }
+        ],
+        "direction": "vertical",
+        "x": 853,
+        "y": 0,
+        "width": 854,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "739f42d9f987d395",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
