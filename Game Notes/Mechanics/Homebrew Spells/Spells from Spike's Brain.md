@@ -9,16 +9,9 @@ Healing Spells | Utility Spells
 ## Cantrips
 ### Damaging Cantrips
 #### Fire Bolt / Eldritch Blast
-Fire Bolt is what I want in a damage-role cantrip when I cant have Eldritch Blast & it's Invocations.
-
 #### Frostbite / Mind Sliver / Vicious Mockery
-Frostbite is a perfect example of what I want my damage-debuff-role cantrips to look like.
-
 #### Sword Burst / Word of Radiance
-I think that AOE on a cantrip is quite powerful, but if I don't adjust the damage dice at all, these look much more acceptable to me.
-
 #### Thorn Whip / Lightning Lure
-Players often want to use this to assist their allies, so I wanna bake that in somehow, even if its just an explicit clause in the description of the spell regarding using this on allies. Otherwise, these are fun combat tools.
 
 ### Buffing Cantrips
 #### Blade Ward

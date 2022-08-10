@@ -39,3 +39,12 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 # The Hack
 ## To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
+- Sources & Delins
+	- Elemental
+	- D: Spirit
+	- Fey
+	- D: Fabrim
+	- Divine
+	- D: Necrot
+	- Arcane
+	- D: Dunam
