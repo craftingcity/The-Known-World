@@ -27,13 +27,13 @@ At second level, you will choose a Psionic Tradition, shaping your mind to one p
 
 ### Martial
 #### Psionic Soldier
-At second level, after hitting with a weapon attack, you may spend a Bonus Action to invoke a Psychokinesis Discipline you know, even if that Discipline usually costs a Full Action.
+At second level, after hitting with a weapon attack, you may spend a Bonus Action to invoke a Full Action Psychokinesis Discipline you know, or a Free Action to invoke a Bonus Action Psychokinesis Discipline you know.
 
 #### Battle-Born Metabolism
-At sixth level, after you invoke a Psychometabolism Discipline you you know, you may immediately invoke a second Phycometabolism Discipline without paying it's Action cost.
+At sixth level, after you invoke a Psychometabolism Discipline you you know, you may immediately invoke a second Psychometabolism Discipline without paying its Action cost.
 
 #### Extra Attack
-At tenth level, when you make the Full Action: Attack on your turn, you may make an additional weapon attack as a Free Action.
+At tenth level, when you make the Full Action: Attack on your turn, you may make an additional weapon attack using a Free Action this turn.
 
 #### Disciplined Warrior
 At fourteenth level, when you make the Full Action: Attack on your turn, you may spend three Effort to gain advantage on all attacks until the end of your turn.
@@ -43,10 +43,10 @@ At fourteenth level, when you make the Full Action: Attack on your turn, you may
 At second level, when you invoke a Telepathy Discipline on your turn as a Full Action, you may invoke a second Telepathy Discipline as a Bonus Action this turn.
 
 #### Near Perfect Clarity
-At sixth level, when you invoke a Clairsentience Discipline on your turn, 
+At sixth level, when you invoke a Clairsentience Discipline on your turn, you may expend one additional Effort to ignore the Concentration requirements of a Discipline.
 
 #### Warded Mind
-At tenth level, you gain resistance to psychic damage and advantage on Saving Throws versus psionic effects.
+At tenth level, you gain resistance to psychic damage and advantage on Saving Throws versus psionic or mind-effecting spell effects.
 
 #### Six-Eyed Mystic
 At fourteenth level, when you target a creature with a Discipline, you may target any number of additional creatures by expending two additional Effort for every additional target.
@@ -71,7 +71,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ## Psionic Mastery
 At 18th level, you have achieved such mastery over certain Disciplines that you can invoke them at will. 
 
-Choose two Psionics of your choice that you know that have a Effort Cost of two or less. You may invoke these Disciplines without spending any Effort once each in between Rests. If you wish to invoke these Disciplines again, you may spend the normal Effort Cost to do so.
+Choose two Psionics of your choice that you know that have an Effort Cost of two or less. You may invoke these Disciplines without spending any Effort once each in between Rests. If you wish to invoke these Disciplines again, you may spend the normal Effort Cost to do so.
 
 By spending 24 hours at Rest, you may change the Disciplines you selected for this feature.
 
@@ -148,6 +148,7 @@ A creature targeted by this Dicipline must make a Wisdom Saving Throw versus you
 By invoking Assail, you assault a creature of your choice within 30ft of you with psionic Effort, potentially overloading their ability to perform under pressure.
 
 A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 4d8 psychic damage, or half damage if they save.
+
 ## Assail, Area
 ### FULL (6)
 ### INT: 17, CHA: 15
@@ -242,16 +243,19 @@ A creature targeted by this Discipline must make a Charisma Saving Throw against
 When you are targeted with a harmful effect you wish to avoid, you may invoke Precognition, and expend Effort to call forward visible evidence of possible futures to your mind's eye. You gain your choice of a +2 bonus to your AC or to any Saving Throw you make to avoid the triggering effect until such point that you have succeeded or failed in doing so. 
 
 ## Postcognition
-### FREE (1)
+### BONUS (1)
 ### INT: 15, WIS: 13
-As you touch an object or creature, you may invoke Postcognition, and view the physical and or mental history
+As you touch an object or creature, you may invoke Postcognition, and view the physical and or mental history of the object or creature you touch. When you do so, you gain up to an hour of visual or auditory information from the past month as if you were present as the creature or object during the events you choose to view.
+
+An unwilling creature may make a Sleight of Hand Skill Contest versus you, and if they succeed, they avoid your grasp. You still expend Effort in the attempt.
 
 ## Clairvoyance
-
+### FULL (2)
+### WIS: 13
 
 ## Detect Mind
 ### FULL (2)
-### WIS: 13
+### CHA: 13
 
 ## Detect Matter
 ### FULL (2)
