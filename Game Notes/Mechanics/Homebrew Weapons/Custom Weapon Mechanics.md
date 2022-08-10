@@ -7,7 +7,7 @@ aliases:
 ### Bludgeoning
 When you miss with an attack that would deal bludgeoning damage, if the attack missed by two or less, you may deal half damage of the attack anyway.
 
-> This is intended to *simulate* the idea that even when I cannot pierce your armor, a bludgeoning weapon does not necessarily have to.
+> This is intended to *simulate* the idea that even when I cannot pierce your armor, a bludgeoning weapon does not necessarily have to to still hurt like fuck.
 
 ### Piercing
 When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an additional 1d4 damage.
