@@ -12,7 +12,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
+When last we left our heroes, they had survived a raid on Yerba by the Scrivin clan, and retrieved their first of three special packages for the [[Alergra Barrowinch|Grand Archmage of Magius, Alergra Barrowinch]]. They experienced minor losses, Ulfgar going unconcious, but escaped just as the waves of the House a'LeQuinn guard turned the tide of the Battle for the Square. We return to them now, only an hour or less since our last session, resting in the [[Dragons Blood Inn]]. What does that look like?
 
 ### What does the World Know?
 - [[Barret Bodaim]]'s Bandits
@@ -42,14 +42,14 @@ We have encounters prepped, and tables & hexes for otherwise.
 
 ### What happened?
 
-| In-game Date:      | 21st of Rebirth | Watch Type | Encounter? | Encounter Type |
-| ------------------ | ------------------ | ---------- | ---------- | -------------- |
-| Navigator          | W1 (0:00 – 4:00)   |            |YES|SCRIVIN RAID|
-|                    | W2 (4:00 – 8:00)   |            |YES|UNKNOWN / SCRIVIN CHASE|
-| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
-|                    | W4 (12:00 – 16:00) |            |YES|BODAIM RAID|
-| Veer?              | W5 (16:00 – 20:00) |            |            |                |
-|                    | W6 (20:00 – 0:00)  |            |            |                |
+| In-game Date:      | 21st of Rebirth    | Watch Type | Encounter? | Encounter Type          |
+| ------------------ | ------------------ | ---------- | ---------- | ----------------------- |
+| Navigator          | W1 (0:00 – 4:00)   | REST       | YES        | SCRIVIN RAID            |
+|                    | W2 (4:00 – 8:00)   |            | YES        | UNKNOWN / SCRIVIN CHASE |
+| Intended Direction | W3 (8:00 – 12:00)  |            |            |                         |
+|                    | W4 (12:00 – 16:00) |            | YES        | BODAIM RAID             |
+| Veer?              | W5 (16:00 – 20:00) |            |            |                         |
+|                    | W6 (20:00 – 0:00)  |            |            |                         |
 
 | In-game Date:      | 22nd of Rebirth | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
