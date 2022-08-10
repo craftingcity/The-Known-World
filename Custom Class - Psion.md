@@ -15,7 +15,7 @@ As a psion, you have mastered the ability to invoke the weave using nothing but 
 ### Psionic Ability 
 Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores. This is your "psionic ability score", and, using the typical modifer calculations, your Psionic Ability Modifier is determined by this score.
 
-Your Psionic Save DC is equal to 8 plus your 
+Your Psionic Save DC is equal to 8 plus your Proficiency Bonus and your Psionic Ability Modifer.
 
 ### Using Psionics
 To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
@@ -80,8 +80,8 @@ At 20th level, select three additional Disciplines for this feature.
 # Psionic Disciplines
 #### Psychometabolism
 ## Auto-Hypnosis
-### BONUS (2)
-### WIS: 15
+### BONUS (1)
+### WIS: 13
 By invoking Auto-Hypnosis, you convince yourself to believe certain truths for a time. Choose one of the following effects;
 	- You gain proficiency in a tool or skill of your choice for the next 24 hours.
 	- You gain advantage on the next Skill Check or Saving Throw you make.
@@ -95,7 +95,7 @@ Expend and roll a Hit Die. You regain 1/2 the value rolled as Effort. You may, i
 
 ## Auto-Adjustment
 ### BONUS (2)
-### WIS: 13
+### WIS: 15
 By invoking Auto-Adjustment, you use Effort to control the process of healing within your own body.
 
 Expend and roll a Hit Die. You may either regain the value of the dice plus your Psionic Ability Modifier in Vitality or you may heal one Wound.
@@ -119,31 +119,69 @@ When you or an ally are targeted by an attacker within 30ft of you, and you invo
 ### CHA: 13
 By invoking Augment Sense, you use Effort to shape the senses of you or a creature you can see within 30ft of you.
 
-A creature targeted by this Dicipline must make a Charisma Saving Throw versus your Psionic Save DC, which they may volunarilly fail, or suffer one of the following effcects;
-	- Deafened
-	- Blinded
-	- 
+A creature targeted by this Dicipline must make a Charisma Saving Throw versus your Psionic Save DC, which they may volunarilly fail, or incur your choice of one of the following effects;
+	- Enhanced: The sense of your choice is amplified greatly, granting the creature Advantage on Spot, Listen, or Survival checks that rely on that sense.
+	- Dehanced: The sense of your choice is diminished greatly, granting the creature Disadvantage on Attacks and Spot, Listen, or Survival checks that rely on that sense.
 
 ## Brace
+### REACTION (2)
+### CHA: 15
+By invoking Brace, you use Effort to reduce the amount of damage you would take from a Weapon Attack or fall.
+
+When you take damage from a non-magical source, you may reduce the damage that triggered this reaction by a number equal to twice your current Effort.
+
 ## Incorperate
+### FULL (1)
+### CHA: 13
+By invoking Incorperate, you use Effort to adjust the visibility of your material form. You are now Invisible, as per *invisibility*.
+
 #### Psychokinesis
 ## Assail, Minor
 ### BONUS (2)
+By invoking Assail, you assault a creature of your choice within 30ft of you with psionic Effort, potentially overloading their ability to perform under pressure.
+
+A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 2d6 psychic damage.
+
 ## Assail, Major
 ### FULL (5)
 ### CHA: 17, INT: 13
+By invoking Assail, you assault a creature of your choice within 30ft of you with psionic Effort, potentially overloading their ability to perform under pressure.
+
+A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 4d8 psychic damage, or half damage if they save.
 ## Assail, Area
 ### FULL (6)
 ### INT: 17, CHA: 15
+By invoking Assail, you assault a number of creatures of your choice within 30ft of you with psionic Effort, potentially overloading their ability to perform under pressure.
+
+Choose a number of creatures within range equal to your proficiency bonus. A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 4d6 psychic damage, or half damage if they succeed.
+
 ## Drain, Minor
 ### BONUS (1)
+By invoking Drain, you assault a creature of your choice within 30ft of you with psionic Effort, attempting to siphon their mental capabilities for your own benefit.
+
+A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 1d6 psychic damage and you gain Effort equal to half the damage done.
+
 ## Drain, Major
-### FULL (3)
+### FULL (4)
 ### CHA: 17, WIS: 13
+By invoking Drain, you assault a creature of your choice within 30ft of you with psionic Effort, attempting to siphon their mental capabilities for your own benefit.
+
+A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 2d10 psychic damage and you gain Effort equal to half the damage done.
+
 ## Drain, Area
 ### FULL (4)
 ### WIS: 17, CHA: 15
+By invoking Drain, you assault a number of creature of your choice within 30ft of you with psionic Effort, attempting to siphon their mental capabilities for your own benefit.
+
+Choose a number of creatures within range equal to your proficiency bonus. A creature targeted by this Dicipline must make a Wisdom Saving Throw versus your Psionic Save DC. If they fail, they take 2d4 psychic damage, or half damage if they succeed and you gain Effort equal to half the damage done.
+
 ## Kinetics
+### FULL (1)
+### INT: 13, CHA 13
+By invoking Kinetics, you use Effort to move an object at potentially dangerous speeds.
+
+Choose an object within 30ft of you that weighs no more than 10 lbs. You may either move that object anywhere within 30ft of you at a safe speed, or you may attempt to
+
 #### Telepathy
 ## Correspond
 ## Charm
