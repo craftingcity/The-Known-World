@@ -48,8 +48,8 @@ At sixth level, when you invoke a Clairsentience Discipline on your turn,
 #### Warded Mind
 At tenth level, you gain resistance to psychic damage and advantage on Saving Throws versus psionic effects.
 
-#### Three-Eyed Mystic
-At fourteenth level, 
+#### Six-Eyed Mystic
+At fourteenth level, when you target a creature with a Discipline, you may target any number of additional creatures by expending two additional Effort for every additional target.
 
 ### Material
 ####
@@ -59,7 +59,7 @@ When you choose this tradition at second level
 At sixth level, 
 
 ####
-At tenth level,
+At tenth level, 
 
 ####
 At fourteenth level, 
@@ -218,16 +218,22 @@ By invoking Implicate, you attempt to use Effort to adjust your target's memorie
 
 A creature targeted by this Discipline must make a Intelligence Saving Throw against your Psionic Save DC. If they fail, you may choose one of the following effects;
 	- You de-solidify the target creature's short-term memory, disrupting the process of creating long-term memories. The previous five minutes and the next five minutes will become blurred in the creature's memory and impossible to accurately recall.
-	- You 
+	- You de-solidify one minute of the target creature's long term memory, making this minute of memory blurred and impossible to accurately recall.
+	- You de-solidify, adjust, and reform one minute of the target creature's short term memory, temporarily changing their current allegiance, goal, or personal thoughts.
 
 ## Daze
 ### FULL (2)
 ### INT: 13
+By invoking Daze, you attempt to overload your target's mind with Effort, preventing coherent thought, but causing no permanent damage.
+
+A creature targeted by this Discipline must make a Constitution Saving Throw against your Psionic Save DC. If they fail, they are under the Dazed condition. A creature may repeat this saving throw at the end of each of its turns.
 
 ## Stow
+### FULL (4)
+### INT: 15 CHA: 15
+By invoking Stow, you attempt t
 
 #### Clairsentience
-
 ## Precognition
 ### REACTION (3)
 ### WIS: 15, INT: 13
@@ -247,7 +253,7 @@ A creature targeted by this Discipline must make a Intelligence Saving Throw aga
 ### FULL (2)
 ### INT: 13
 
-#### Psychocreativity
+#### Psychosolidics
 ## Augment Reality
 ### FULL (3)
 ### CHA: 15
