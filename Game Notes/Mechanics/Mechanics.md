@@ -6,6 +6,7 @@ aliases:
 # Mechanics
 %% Begin Waypoint %%
 - **[[Mechanics]]**
+	- [[Custom Class - Psion]]
 	- **Homebrew Armors**
 		- [[Armors of Alaturmen]]
 		- [[Custom Armor Mechanics]]

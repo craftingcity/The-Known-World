@@ -53,11 +53,13 @@ At fourteenth level, when you target a creature with a Discipline, you may targe
 
 ### Material
 ####
-When you choose this tradition at second level
+At second level, when you invoke a Psychosolidic Discipline on your turn, it costs you one less Effort to invoke than it normally would.
 
-####
-At sixth level, 
-
+#### Ectoplasm
+At sixth level, you may access a number of you may invoke at the cost of a number of Effort and your Reaction;
+	- For one Effort, you form a phantasmal shard of ectoplasm in your hand. This weapon deals 2d4 psychic damage, and is magical. It has the *light*, *quick*, and *thrown* tags, a melee range of 5ft and a *thrown* range of 20/40 feet. 
+	- For one Effort, you form a small ectoplasmic multitool in your hand. This ectoplasmic-multitool can be used as a set of Tinker's Tools or Thieves Tools.
+	- For two Effort, you 
 ####
 At tenth level, 
 
@@ -263,11 +265,12 @@ An unwilling creature may make a Sleight of Hand Skill Contest versus you, and i
 
 #### Psychosolidics
 ## Augment Reality
-### FULL (3)
-### CHA: 15
+### FULL (2)
+### CHA: 13
 
 ## Disrupt Reality
-
+### FULL (3)
+### CHA: 15
 
 ## Impartial Teleportation
 ### FULL (5)
