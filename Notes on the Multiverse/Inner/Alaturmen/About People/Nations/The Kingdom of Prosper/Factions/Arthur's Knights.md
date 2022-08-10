@@ -7,7 +7,13 @@ aliases:
 ## History
 ## Governance
 ### Chapters
-- Constantia
+- Constantia (K26)
+	- auxilurry support for [[Castle Prosper]], [[Magius]], & surrounding villages
+	- holding major [[Unification]] relic
+- Delectus (N18)
+	- main chapter in defense of [[Yerba]]
+		- recruit from the local & a'LeQuinn guards
+	- spike & skull motifs for armor, southern america for architecture
 ## Culture
 #### Heritage
 #### Language

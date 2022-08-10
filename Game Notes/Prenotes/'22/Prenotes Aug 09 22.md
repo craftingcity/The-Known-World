@@ -54,6 +54,8 @@ We have encounters prepped, and tables & hexes for otherwise.
 W3
 - Ulfgar gave names to a'LeQuinn Guard in N18
 - Ulfgar has a'LeQuinn Guard's Sending Stone
+W4
+- Nala spotted statue of "A Religious Man" at Q16
 
 W5
 - Beginning rest, no one ate yet, Nala on first watch

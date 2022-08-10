@@ -26,16 +26,18 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- This relief is highly respected and valued. Seven of Arthur's Knights from the Constania Chapter guard this place at all times.
 - L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom
+- N18. Chapter-House Delectus of [[Arthur's Knights]]
+	- 
 - O27. Phase Spider Nests
 	- Clinging to the limbs of the forest trees, whispy cyan strands form nests.
 - P19. Nature-growth Altar
 	- Emerging from the grasses, an ornate green altar stands alone here.
+- Q16. Statue of A Religious Man
+	- A large statue made of a marbled silver depicts a Human man with long hair in thick plate mail. He holds a greatsword by the hilt, pointing it's end into the base of the statue. On this circular base, a relief displays the words "A Religious Man" in High Common.
 - Q26. Rootlake Monster
 	- Some terrible monster stalks this lake.
 - U23. Worthy Knight
 	- A champion taxes and guards the road here.
-
-N18 Guarded Chapel of House a'LeQuinn
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
