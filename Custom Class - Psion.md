@@ -229,18 +229,22 @@ By invoking Daze, you attempt to overload your target's mind with Effort, preven
 A creature targeted by this Discipline must make a Constitution Saving Throw against your Psionic Save DC. If they fail, they are under the Dazed condition. A creature may repeat this saving throw at the end of each of its turns.
 
 ## Stow
-### FULL (4)
+### FULL (4, CON)
 ### INT: 15 CHA: 15
-By invoking Stow, you attempt t
+By invoking Stow, you attempt to forcibly push your target's consciousness to the deepest recesses of it's mind.
+
+A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they are under the Incapacitated condition for as long as you maintain concentration on the Dicipline. If you maintain this Dicipline on the same creature for 24 hours, you *permanently* Stow that creature's consciousness and apply Incapacitated to them.
 
 #### Clairsentience
 ## Precognition
 ### REACTION (3)
 ### WIS: 15, INT: 13
+When you are targeted with a harmful effect you wish to avoid, you may invoke Precognition, and expend Effort to call forward visible evidence of possible futures to your mind's eye. You gain your choice of a +2 bonus to your AC or to any Saving Throw you make to avoid the triggering effect until such point that you have succeeded or failed in doing so. 
 
 ## Postcognition
 ### FREE (1)
 ### INT: 15, WIS: 13
+As you touch an object or creature, you may invoke Postcognition, and view the physical and or mental history
 
 ## Clairvoyance
 
