@@ -6,8 +6,9 @@ aliases:
 #### A sub-region of [[Central Alaturmen]]
 ## Boundaries
 ## Contents
-### Potential Allies
-### Potential Threats
+### Factions:
+- [[The Church of the White Flame]]
+- 
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
