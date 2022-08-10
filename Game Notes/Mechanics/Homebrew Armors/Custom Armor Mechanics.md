@@ -6,7 +6,7 @@ While wearing this armor, you have disadvantage on Stealth checks.
 ## Stealth Bonus (X)
 While you are wearing this armor, you have a bonus to any Stealth checks equal to the number displayed in parentheses directly after this tag.
 ## Damage Reduction (X)
-While you are wearing this armor, you reduce  equal to the number displayed in parentheses directly after this tag.
+While you are wearing this armor, you reduce equal to the number displayed in parentheses directly after this tag.
 ## Movement Reduction
 While you are wearing this armor, your walking speed is reduced by 5ft.
 # Specials
