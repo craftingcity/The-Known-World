@@ -51,6 +51,7 @@ We have encounters prepped, and tables & hexes for otherwise.
 | Veer?              | W5 (16:00 – 20:00) |            |            |                         |
 | No                 | W6 (20:00 – 0:00)  |            |            |                         |
 
+W3
 - Ulfgar gave names to a'LeQuinn Guard in N18
 - Ulfgar has a'LeQuinn Guard's Sending Stone
 
