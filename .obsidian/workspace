@@ -12,15 +12,27 @@
             {
               "leaf": "d373ee3d9d9a1009",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d373ee3d9d9a1009",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d373ee3d9d9a1009",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":22},\"to\":{\"line\":48,\"ch\":22}},\"scroll\":46.50248004679619}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":233,\"ch\":18},\"to\":{\"line\":233,\"ch\":18}},\"scroll\":226.24975313848645}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Class - Psion.md",
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
             "mode": "source",
             "source": true
           }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Class - Psion.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Class - Psion.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Class - Psion.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           }
@@ -171,15 +183,15 @@
   },
   "active": "d373ee3d9d9a1009",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md",
+    "Custom Class - Psion.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Custom Class - Psion.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
-    "conflict-files-obsidian-git.md"
+    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md"
   ]
 }

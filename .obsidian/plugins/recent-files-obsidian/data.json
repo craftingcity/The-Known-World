@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "How the Weave becomes Magic",
+      "path": "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md"
+    },
+    {
       "basename": "Custom Class - Psion",
       "path": "Custom Class - Psion.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Skills of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
@@ -195,10 +199,6 @@
     {
       "basename": "FT Free Actions",
       "path": "ORGANIZATION/TEMPLATES/FT Free Actions.md"
-    },
-    {
-      "basename": "FT Faction List at H3",
-      "path": "ORGANIZATION/TEMPLATES/FT Faction List at H3.md"
     }
   ],
   "omittedPaths": [],

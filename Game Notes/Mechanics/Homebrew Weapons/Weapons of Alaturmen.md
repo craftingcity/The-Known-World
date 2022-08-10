@@ -116,3 +116,8 @@ Catapult | enough | 6d6 | bludgeoning | ammunition (1), siege |
 Trebuchet | enough, but more than the others | 6d8 | bludgeoning | ammunition (1), siege |
 Ballista | enough, but less than the others | 4d10 | bludgeoning | ammunition (1), siege |
 Polybius | 50ft/300ft | 1d10 | piercing | ammunition (10), siege | pointtack
+
+# Ammunition
+The following entries are ammunition, designed for a specific use-case of a specific weapon.
+Weapon Name | Weapon Range | Damage Die | Damage Type | Weapon Tags | Weapon Special
+--- | --- | --- | --- | --- | ---
