@@ -45,7 +45,7 @@ We have encounters prepped, and tables & hexes for otherwise.
 | In-game Date:      | 21st of Rebirth    | Watch Type | Encounter? | Encounter Type          |
 | ------------------ | ------------------ | ---------- | ---------- | ----------------------- |
 | Navigator          | W1 (0:00 – 4:00)   | REST       | YES        | SCRIVIN RAID            |
-|                    | W2 (4:00 – 8:00)   |            | YES        | UNKNOWN / SCRIVIN CHASE |
+|                    | W2 (4:00 – 8:00)   | REST       | YES        | UNKNOWN / SCRIVIN CHASE |
 | Intended Direction | W3 (8:00 – 12:00)  |            |            |                         |
 |                    | W4 (12:00 – 16:00) |            | YES        | BODAIM RAID             |
 | Veer?              | W5 (16:00 – 20:00) |            |            |                         |

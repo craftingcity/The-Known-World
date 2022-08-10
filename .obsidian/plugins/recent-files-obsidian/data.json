@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Class - Psion",
-      "path": "Custom Class - Psion.md"
-    },
-    {
       "basename": "Prenotes Aug 09 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "Custom Class - Psion",
+      "path": "Custom Class - Psion.md"
     },
     {
       "basename": "Alergra Barrowinch",
@@ -195,10 +199,6 @@
     {
       "basename": "factionTurnEquipment",
       "path": "MEDIA/SUPP/factionTurnEquipment.png"
-    },
-    {
-      "basename": "FT Full Bonus Main Phase",
-      "path": "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md"
     }
   ],
   "omittedPaths": [],

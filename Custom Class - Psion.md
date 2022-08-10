@@ -196,12 +196,14 @@ You may invoke Correspond at will, establishing a mental connection between you 
 By invoking Charm, you attempt to use Effort to adjust your target's mind in favor of your wishes.
 
 A creature targeted by this Discipline must make a Charisma Saving Throw against your Psionic Save DC. If they fail, they become your choice of Charmed or Frightened by you.
+
 ## Falsify Internal Information
 ### FULL (4)
 ### INT: 15 CHA: 13
 By invoking Falsify Internal Information, you attempt to use Effort to falsify signals in your target's mind that control vital internal functions of their body, such as their lungs or heart.
 
 A creature targeted by this Discipline must make a Constitution Saving Throw against your Psionic Save DC. If they fail, they become your choice of Incapacitated until the end of your next turn.
+
 ## Supplant / Dominate
 ### FULL (6, CON)
 ### WIS: 19, CHA: 13
@@ -212,11 +214,15 @@ A creature targeted by this Discipline must make a Charisma Saving Throw against
 ## Implicate
 ### BONUS (5)
 ### INT: 13, WIS: 13, CHA: 15
+
 ## Daze
 ### FULL (2)
 ### INT: 13
+
 ## Stow
+
 #### Clairsentience
+
 ## Precognition
 ### REACTION (3)
 ### WIS: 15, INT: 13
