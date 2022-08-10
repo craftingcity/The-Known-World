@@ -9,6 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 - AJ24. Massive Mosquito
+- AK22. 
 
 ## Tables
 ### Encounter

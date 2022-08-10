@@ -94,7 +94,7 @@ def activation_special(num):
 def reason_A(num):
     answer = ""
     if num == 1:
-        answer = "easy to spot"
+        answer = "is easy to spot"
     if num == 2:
         answer = "a local legend"
     if num == 3:
@@ -102,7 +102,7 @@ def reason_A(num):
     if num == 4:
         answer = "a misinterpreted purpose"
     if num == 5:
-        answer = "oddities or resources"
+        answer = "has oddities or resources"
     if num == 6:
         answer = "a simple curiosity"
     if num == 7:
