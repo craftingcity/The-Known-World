@@ -35,7 +35,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 - U23. Worthy Knight
 	- A champion taxes and guards the road here.
 
-N18 Guarded Chapel of House a'LeQuin
+N18 Guarded Chapel of House a'LeQuinn
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
