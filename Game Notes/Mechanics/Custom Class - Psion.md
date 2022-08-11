@@ -17,8 +17,9 @@ Your psionic ability is a representation of the entirety of your mind's ability.
 
 Your Psionic Save DC is equal to 8 plus your Proficiency Bonus and your Psionic Ability Modifer.
 
-### Using Psionics
-To invoke any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You may not invoke more than one Discipline per round. You may not invoke a Concentration Discipline while you are already Concentrating, but dropping Concentration is always a Free Action, so no biggie, and no doubles either.
+### Using Disciplines
+#### aka how to cast ur special psion spells
+To invoke any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You may not invoke more than one Discipline per round. You may not invoke a Concentration Discipline while you are already Concentrating, but dropping Concentration is always a Free Action, so no biggie, but no doubles either.
 
 You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
@@ -85,7 +86,7 @@ At 18th level, you have achieved such mastery over certain Disciplines that you 
 
 Choose two Psionics of your choice that you know that have an Effort Cost of two or less. You may invoke these Disciplines without spending any Effort once each in between Rests. If you wish to invoke these Disciplines again, you may spend the normal Effort Cost to do so.
 
-By spending 24 hours at Rest, you may change the Disciplines you selected for this feature.
+By spending 24 hours at Rest, you may change the Disciplines you selected for this feature, provided you meet the new Discipline's requirements.
 
 At 20th level, select three additional Disciplines for this feature.
 
@@ -269,19 +270,24 @@ For as long as you maintain Concentration on this Discipline, you may mark a num
 ## Detect Mind
 ### FULL (2, CON)
 ### CHA: 13
+For as long as you maintain Concentration on this Discipline, you know if there is a conscious humanoid mind within 30ft of you that is not behind Full Cover.
 
 ## Detect Matter
 ### FULL (2, CON)
 ### INT: 13
+For as long as you maintain Concentration on this Discipline, you may mark a number of objects you can touch equal to your Psychic Ability Modifier and know their location precisely within 30ft of you, and vaguely within 3000ft of you.
 
 #### Psychosolidics
 ## Augment Reality
-### FULL (2)
-### CHA: 13
+### FULL (2, CON)
+### CHA: 15
+For as long as you maintain Concentration on this Discipline, you may create an illusion in the mind of a number of creatures within 30ft of you equal to your Psychic Ability Modifier plus 1/2 your Proficiency Bonus
 
 ## Disrupt Reality
 ### FULL (3)
-### CHA: 15
+### CHA: 17
+By invoking Disrupt Reality, you expend Effort in an attempt to change the truth of reality within a space. Choose one of the following effects;
+	-
 
 ## Impartial Teleportation
 ### FULL (5)
@@ -289,4 +295,4 @@ For as long as you maintain Concentration on this Discipline, you may mark a num
 
 ## Partial Teleportation
 ### FULL (8)
-### CHA: 17, INT: 17
+### CHA: 17, INT: 17, WIS: 15
