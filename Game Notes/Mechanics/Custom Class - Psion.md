@@ -281,13 +281,14 @@ For as long as you maintain Concentration on this Discipline, you may mark a num
 ## Augment Reality
 ### FULL (2, CON)
 ### CHA: 15
-For as long as you maintain Concentration on this Discipline, you may create an illusion in the mind of a number of creatures within 30ft of you equal to your Psychic Ability Modifier plus 1/2 your Proficiency Bonus
+For as long as you maintain Concentration on this Discipline, you may create an illusion, which is no larger than 15 feet cubed within 30ft of you, in the mind of a number of creatures within 30ft of you equal to your Psychic Ability Modifier plus 1/2 your Proficiency Bonus. Each of the selected creatures makes a Charisma Saving Throw versus your Psionic Save DC, and those creatures who fail believe the illusion to be a part of their reality as if it always has been.
 
 ## Disrupt Reality
-### FULL (3)
+### FULL (6)
 ### CHA: 17
-By invoking Disrupt Reality, you expend Effort in an attempt to change the truth of reality within a space. Choose one of the following effects;
-	-
+By invoking Disrupt Reality, you expend Effort in an attempt to change the truth of reality within a space for just an instant. Choose one of the following effects;
+	- In a 5ft cube within 30ft of you, you adjust the mechanisms of gravity, and pull all objects and creatures within the cube to one point within the cube, dealing 8d6 bludgeoning damage divided equally among each object or creature affected.
+	- 
 
 ## Impartial Teleportation
 ### FULL (5)
