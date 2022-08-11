@@ -16,7 +16,9 @@ When we last left our heroes, they were in the process of raiding a keep of some
 
 We return to our heroes now, in this keep, in the final resting place of the Whitimores. 
 
-The room is drab, the walls noticeably bare other than the shelves, which too now lay bare, which are pushed against the wall. A large four-post bed stands alone on the other side of the room, bearing the only colors in the room on the mixed mass of pillows and blankets overflowing from the bed onto the floor. I will remind Amashod that Varis' *cone of cold* revealed a thin slit in the southern wall, about 8 feet or so away from the bookshelf.
+The room is drab, the walls noticeably bare other than the shelves, which too now lay bare, which are pushed against the wall. A large four-post bed stands alone on the other side of the room, bearing the only colors in the room on the mixed mass of pillows and blankets overflowing from the bed onto the floor. 
+
+I will remind Amashod that Varis' *cone of cold* revealed a thin slit in the southern wall, about 8 feet or so away from the bookshelf.
 
 ### What does the World Know?
 
