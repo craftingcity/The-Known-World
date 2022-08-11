@@ -11,9 +11,9 @@
           "stack": [
             {
               "leaf": "8a503d6e149f3151",
-              "group": "089de38f707aa1ef",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":19},\"to\":{\"line\":71,\"ch\":19}},\"scroll\":65.5372054708604}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -24,8 +24,7 @@
             "mode": "source",
             "source": true
           }
-        },
-        "group": "089de38f707aa1ef"
+        }
       }
     ],
     "direction": "vertical"
@@ -169,61 +168,6 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
-  },
-  "floating": {
-    "id": "aea3f29020a21465",
-    "type": "floating",
-    "children": [
-      {
-        "id": "20129c9e9509bdfb",
-        "type": "window",
-        "children": [
-          {
-            "id": "739f42d9f987d395",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Game Notes/Mechanics/Custom Class - Psion.md"
-              }
-            },
-            "group": "089de38f707aa1ef"
-          },
-          {
-            "id": "4e4f88981dfddcb6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "4e4f88981dfddcb6",
-                  "group": null,
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Psionics.pdf\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/Psionics.pdf"
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 853,
-        "y": 0,
-        "width": 854,
-        "height": 912,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "8a503d6e149f3151",
   "lastOpenFiles": [
