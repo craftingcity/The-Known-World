@@ -5,6 +5,10 @@
       "path": "Prenotes Aug 11 22.md"
     },
     {
+      "basename": "GiantsToe - Upper",
+      "path": "MEDIA/MAPS/DUNG/GiantsToe - Upper.png"
+    },
+    {
       "basename": "Prenotes Aug 04 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "North Dunes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/North Dunes.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Redl'nds.md"
     }
   ],
   "omittedPaths": [],
