@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Enlitte Ambonas",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/Enlitte Ambonas.md"
-    },
-    {
-      "basename": "North Dunes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/North Dunes.md"
     }
   ],
   "omittedPaths": [],

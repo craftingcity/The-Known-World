@@ -29,7 +29,7 @@ content:
 
 In exchange for "a boon", the [[All-Father Annam]] build the [[Nine Hells of Baator]] for [[Asmodeus]]. He was quick to realize his mistake, though he could not take it back - [[Asmodeus]] would not accept going back on a contract, and [[Asmodeus]] was feeding on the Faith-strength of the Souls he attracted to his [[Nine Hells of Baator|Hells]].
 
-Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the planes of Law and Good, and he built them high in the multiverse, so far that none of his family could reach - spare his parents. There, Souls collected and formed [[Mecha Specifics]] and [[Aasimar Specifics]].
+Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the planes of Law and Good, and he built them high in the multiverse, so far that none of his family could reach - spare his parents. There, Souls collected and formed as Angels and Lictus, bastions-near-immortal of Good and Law.
 
 When the [[Immortal Dragons]] came to him and asked for a plane of their own, for they grow tired of sharing with the other Titans, he said, 'Of course, my friends', and he crafted for them [[Abyss]] and chuckled to himself.
 
@@ -43,7 +43,7 @@ contnet:
 
 As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private manner. Moments later, [[Jabbawok]] exiled the [[Queen of Swords]] from the [[Feywild]].
 
-The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his brother committed. The Queen requested [[Limbo]].
+The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his sibling had committed. The Queen requested [[Limbo]], and when Annam accepted, he did not see the glint deep beneath the Queen's dark eyes.
 
 date: 12537TBT
 title: Demons fight Devils. The [[Blood Wars of Fiends]] begins.
@@ -57,7 +57,13 @@ date: 000TBT~AF
 title: [[All-Father Annam]] and [[Tetrimoc]] battle to the death.
 content:
 
-The contention between the All-Father and his Immortal children become too much for his eldest son, [[Tetrimoc]], to bear. He met with his father above [[The Tower of Limbo]] and there, he battled him. As immovable object met unstoppable force, [[Tetrimoc]] fell into the All-Father's torso, and [[All-Father Annam]] transformed into the plane known as [[Alaturmen]].
+The contention between the All-Father and the Immortal Dragons became too much. War broke, and throughout the Planes, the Immortal Dragons flocked to [[The Tower of Limbo]], above which, they challanged [[All-Father Annam]] to a seiries of duels. 
+
+After years of battle, as immovable objects met unstoppable force, all the Immortal Dragons but [[Tetrimoc]] fell to the [[All-Father Annam]]. As the final Immortal Dragon took his battle stance, the greatest Titan of the multiverse stumbled. 
+
+Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, rendering his flesh and organs disconnected from his form. In a brilliant death, the [[All-Father Annam]] grasped [[Tetrimoc]] and shoved him into his now-destroyed torso, and expelled all his effort and energy, and died.
+
+In his place, [[Alaturmen]]
 ```
 
 ## The Age of Beginning

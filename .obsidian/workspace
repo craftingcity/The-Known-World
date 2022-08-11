@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7249e947fe99d0",
+        "id": "4978697343b90dc2",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8b7249e947fe99d0",
+              "leaf": "4978697343b90dc2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":259},\"to\":{\"line\":31,\"ch\":259}},\"scroll\":29.674503059462005}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
             "mode": "source",
             "source": true
           }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "angel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
               }
             }
           }
@@ -169,14 +168,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b7249e947fe99d0",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "MEDIA/MAPS/DUNG/GiantsToe - Upper.png",
     "Prenotes Aug 11 22.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Custom Class - Psion.md",
     "MEDIA/SUPP/DOCS/Psionics.pdf",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
