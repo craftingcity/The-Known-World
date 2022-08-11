@@ -13,7 +13,7 @@
               "leaf": "8a503d6e149f3151",
               "group": "089de38f707aa1ef",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":65.90210597280539}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":19},\"to\":{\"line\":71,\"ch\":19}},\"scroll\":65.5372054708604}"
             }
           ]
         },
@@ -192,6 +192,27 @@
               }
             },
             "group": "089de38f707aa1ef"
+          },
+          {
+            "id": "4e4f88981dfddcb6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "4e4f88981dfddcb6",
+                  "group": null,
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Psionics.pdf\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/Psionics.pdf"
+              }
+            }
           }
         ],
         "direction": "vertical",
@@ -204,13 +225,13 @@
       }
     ]
   },
-  "active": "739f42d9f987d395",
+  "active": "8a503d6e149f3151",
   "lastOpenFiles": [
+    "MEDIA/SUPP/DOCS/Psionics.pdf",
+    "Game Notes/Mechanics/Custom Class - Psion.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "A Grand Notepad.md",
-    "Game Notes/Mechanics/Custom Class - Psion.md",
-    "MEDIA/SUPP/DOCS/Psionics.pdf",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Westlick Mossland.md",

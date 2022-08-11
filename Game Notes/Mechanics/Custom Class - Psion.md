@@ -59,7 +59,7 @@ At second level, when you invoke a Psychosolidic Discipline on your turn, it cos
 At sixth level, you may access a number of Effort fueled ectoplasmic Reactions, listed as follows by ascending Effort cost;
 	- For one Effort, you form a phantasmal shard of ectoplasm in your hand. This weapon deals 2d4 psychic damage, and is magical. It has the *light*, *quick*, and *thrown* tags, a melee range of 5ft and a *thrown* range of 20/40 feet. 
 	- For one Effort, you form a small ectoplasmic multitool in your hand. This ectoplasmic-multitool can be used as a set of Tinker's Tools or Thieves Tools.
-	- For two Effort, you may form a protective field of ectoplasm around you that grants you advantage on the next Saving Throw you make.
+	- For two Effort, you form a protective field of ectoplasm around you that grants you advantage on the next Saving Throw you make.
 	- For three Effort, when you or an ally within 30ft of you is the target of an attack, you form an ectoplasmic distraction or blockade, imposing disadvantage on the Attack.
 
 #### The Lies of Reality
@@ -69,7 +69,9 @@ At tenth level, when you invoke a Psychosolidics, Pschychometalbomism, or Telepa
 At fourteenth level, your ability to invoke Psychometabolism Disciplines has become nearly innate. When you invoke a Psychometabolism Discipline on your turn, it costs you one less Effort to invoke than it normally would.
 
 In addition, you gain access to additional ectoplasmic Reactions, listed as follows by ascending Effort cost;
-	-
+	- For one Effort, you form a small ectoplasmic sheet that you, for as long as you maintain Concentration on this ability, may manipulate at will within 30ft of you. The sheet can apply 5lbs of pressure at most, and can carry a Small slot of items.
+	- In addition to the two Effort you expend forming your ectoplasmic field, you may expend an additional two Effort to form a weapon of ectoplasm at the same time. This weapon does 1d10 damage, and can be wielded in one hand. It ceases to corpo
+	- For five Effort,
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Or like, get a feat or whatev.
