@@ -18,7 +18,9 @@ Your psionic ability is a representation of the entirety of your mind's ability.
 Your Psionic Save DC is equal to 8 plus your Proficiency Bonus and your Psionic Ability Modifer.
 
 ### Using Psionics
-To use any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
+To invoke any psionic Disciplines, you must spend an amount of Effort equal to the Discipline's Effort Cost. You may not invoke more than one Discipline per round. You may not invoke a Concentration Discipline while you are already Concentrating, but dropping Concentration is always a Free Action, so no biggie, and no doubles either.
+
+You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
 At first level, you know a Disciplines of your choice that you meet the prerequisites for. After first level, you will gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
 
@@ -52,7 +54,7 @@ At tenth level, you gain resistance to psychic damage and advantage on Saving Th
 At fourteenth level, when you target a creature with a Discipline, you may target any number of additional creatures by expending two additional Effort for every additional target.
 
 ### Material
-####
+#### Psionic Shaper
 At second level, when you invoke a Psychosolidic Discipline on your turn, it costs you one less Effort to invoke than it normally would.
 
 #### Ectoplasm
@@ -63,15 +65,17 @@ At sixth level, you may access a number of Effort fueled ectoplasmic Reactions, 
 	- For three Effort, when you or an ally within 30ft of you is the target of an attack, you form an ectoplasmic distraction or blockade, imposing disadvantage on the Attack.
 
 #### The Lies of Reality
-At tenth level, when you invoke a Psychosolidics, Pschychometalbomism, or Telepathy Discipline, you may invoke one Discipline you know of the either of the other two Discipline types. 
+At tenth level, when you invoke a Psychosolidics, Pschychometalbomism, or Telepathy Discipline, you may invoke one Discipline you know of the either of the other two Discipline types, as a Bonus Action. 
 
 #### Mind as Body, Body as Mind
 At fourteenth level, your ability to invoke Psychometabolism Disciplines has become nearly innate. When you invoke a Psychometabolism Discipline on your turn, it costs you one less Effort to invoke than it normally would.
 
 In addition, you gain access to additional ectoplasmic Reactions, listed as follows by ascending Effort cost;
 	- For one Effort, you form a small ectoplasmic sheet that you, for as long as you maintain Concentration on this ability, may manipulate at will within 30ft of you. The sheet can apply 5lbs of pressure at most, and can carry a Small slot of items.
-	- In addition to the two Effort you expend forming your ectoplasmic field, you may expend an additional two Effort to form a weapon of ectoplasm at the same time. This weapon does 1d10 damage, and can be wielded in one hand. It ceases to corpo
-	- For five Effort,
+	- In addition to the two Effort you expend forming your ectoplasmic field, you may expend an additional two Effort to form a weapon of ectoplasm at the same time. This weapon does 1d10 damage, and can be wielded in one hand. It ceases to corporealize as your armor does, when you use the advantage it grants you on any Saving Throw.
+	- For five Effort, you form a large and crude object of ectoplasm. This object appears as you wish it to, so long as it takes up no more than 10 feet cubed, within 30ft of you at a point you choose. 
+		- While this ectoplasmic object is corporeal, it blocks movement much the same any other large object of it's shape would.
+		- The object ceases to be corporeal if it moves at the minimum speed necessary to deal damage.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Or like, get a feat or whatev.
@@ -258,15 +262,16 @@ As you touch an object or creature, you may invoke Postcognition, and view the p
 An unwilling creature may make a Sleight of Hand Skill Contest versus you, and if they succeed, they avoid your grasp. You still expend Effort in the attempt.
 
 ## Clairvoyance
-### FULL (2)
+### FULL (2, CON)
 ### WIS: 13
+For as long as you maintain Concentration on this Discipline, you may mark a number of points in space you can touch equal to your Psychic Ability Modifier and may transfer one of your senses to any of these point as an action, sensing as you would if you were sensing from that point.
 
 ## Detect Mind
-### FULL (2)
+### FULL (2, CON)
 ### CHA: 13
 
 ## Detect Matter
-### FULL (2)
+### FULL (2, CON)
 ### INT: 13
 
 #### Psychosolidics
