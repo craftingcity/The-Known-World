@@ -33,13 +33,9 @@ Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the
 
 When the [[Immortal Dragons]] came to him and asked for a plane of their own, for they grow tired of sharing with the other Titans, he said, 'Of course, my friends', and he crafted for them [[Abyss]] and chuckled to himself.
 
-date: 65627TBT
-title: 
-content:
-
 date: 23410TBT
 title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
-contnet:
+content:
 
 As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private manner. Moments later, [[Jabbawok]] exiled the [[Queen of Swords]] from the [[Feywild]].
 
@@ -52,6 +48,9 @@ content:
 date: 00010TBT
 title: Eladrin birth the Elves.
 content:
+Down the chain of command in the [[Ceilie Courts]], the opportunity came forth to participate in a task decreed essential by [[Jabbawok]].
+
+Many Eladrin jumped upon the opportunity, and formed a new kind, the Elves. For ten years they raised them, and promised them a new land.
 
 date: 000TBT~AF
 title: [[All-Father Annam]] and [[Tetrimoc]] battle to the death.
@@ -63,7 +62,7 @@ After years of battle, as immovable objects met unstoppable force, all the Immor
 
 Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, rendering his flesh and organs disconnected from his form. In a brilliant death, the [[All-Father Annam]] grasped [[Tetrimoc]] and shoved him into his now-destroyed torso, and expelled all his effort and energy, and died.
 
-In his place, [[Alaturmen]]
+At the center of the multiverse, [[Alaturmen]] formed.
 ```
 
 ## The Age of Beginning
@@ -77,7 +76,9 @@ As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and b
 date: 003AF
 title: Druids invoke Weave Arcane.
 content:
-The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, this circle of druids enscribed the first scrolls. From them, the came to understand workings of the Idol's domains, as well as their peer's. 
+The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, enscribed the first scrolls. From them, and the further teachings of her magnificence, Animan, they came to understand workings of the Idol's domains, as well as her sister's. 
+
+See [[The Druidic Texts]]
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword.
@@ -190,10 +191,13 @@ The grand adventurer dragon [[Kakurak]] uses his past and current resources to h
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 
-Soon after...
+With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak.
 
 date: 105AF
-title: The beginning of a Tale...
+title: [[A Dark Hum...]]
 content:
-Somewhere, a bard strums their lute.
+
+Throughout the material planes, a dark hum permiates the Weave.
+
+A casket unsealed. An idea revived. A doom begins to loom.
 ```
