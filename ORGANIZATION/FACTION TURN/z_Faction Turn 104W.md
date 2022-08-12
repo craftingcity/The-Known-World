@@ -872,17 +872,19 @@ Communication: -
 
 	Roll: 1d20+4=21 > 35 guilders gained
 
-- [x] **Progress:** +50xp, +35g
+- [x] **Progress:** (SUCC) > +50xp, +35g
 
 ### Actstow
 **Full Action:** Create
 
-	Goal: 
-	Roll:
+	Goal: Defense Focus (40g)
+	Roll: 1d20+5+25=40 > (40/40) > 40 guilders gained
 
-**Bonus Action:**
+**Bonus Action:** Training
 
-	Roll:
+- [x] **Progress:** (SUCC) > +50xp, +35g
+- [x] **Progress:** *TRAINING* > +100xp
+- [x] Goal (LTG(1/5)): (SUCC) > +50xp
 
 ### Suremantle
 ### Cenva Minyo

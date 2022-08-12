@@ -19,7 +19,7 @@
               "leaf": "2eb4418ad44b3315",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":879,\"ch\":7},\"to\":{\"line\":879,\"ch\":7}},\"scroll\":864.7874581013978}"
+              "eState": "{\"scroll\":864.7874581013978}"
             },
             {
               "leaf": "2eb4418ad44b3315",
@@ -47,7 +47,7 @@
             {
               "leaf": "6844c7f0f475c49d",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/factionTurnEquipment.PNG\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/factionTurnEquipment.png\"}}",
               "eState": "{}"
             }
           ]
@@ -55,7 +55,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "MEDIA/SUPP/factionTurnEquipment.PNG"
+            "file": "MEDIA/SUPP/factionTurnEquipment.png"
           }
         }
       },
@@ -68,6 +68,12 @@
             {
               "leaf": "3545f48a78ea06b4",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3545f48a78ea06b4",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             }
@@ -76,7 +82,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+            "file": "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
             "mode": "preview",
             "source": true
           }
@@ -162,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
               }
             }
           }
@@ -225,13 +231,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3545f48a78ea06b4",
+  "active": "2eb4418ad44b3315",
   "lastOpenFiles": [
-    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
-    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
-    "MEDIA/SUPP/factionTurnEquipment.PNG",
-    "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
     "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
+    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+    "MEDIA/SUPP/factionTurnEquipment.png",
+    "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
