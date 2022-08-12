@@ -153,7 +153,7 @@ As you perform a weapon attack, you may attempt to amputate an exposed organ or 
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures up to your proficiency bonus that in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Cross-Lock Grab
-As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics.
+As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics for the purposes of maintaining the Grapple.
 
 ### Wrap
 In replacement of a weapon attack, you may attempt to Wrap a target in this weapon. Make this attempt as if it were a normal weapon attack; your attack bonus versus your target's AC. If you hit with this attack, the attack deals no damage and the target becomes Incapacitated for as long as the weapon remains Wrapped around your target.
