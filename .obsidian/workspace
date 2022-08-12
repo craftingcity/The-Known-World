@@ -12,6 +12,12 @@
             {
               "leaf": "22cf315e20170ad6",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "22cf315e20170ad6",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
@@ -38,7 +44,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
             "mode": "preview",
             "source": true
           }
@@ -124,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           }
@@ -189,6 +195,7 @@
   },
   "active": "22cf315e20170ad6",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md",
@@ -197,7 +204,6 @@
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "MEDIA/MAPS/DUNG/GiantsToe - Upper.png",
     "Prenotes Aug 11 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
-    "Game Notes/Prenotes/'22/'22.md"
+    "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
   ]
 }
