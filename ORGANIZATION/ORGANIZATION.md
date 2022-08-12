@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[ORGANIZATION]]**
 	- **FACTION TURN**
-		- [[Bonus Actions for Faction Turn]]
+		- [[Bonus Action Choices for Faction Turn]]
 		- [[Free Actions Choices for Faction Turn]]
 		- [[Full Actions Choices for Faction Turn]]
 		- [[Reactions for Faction Turn]]

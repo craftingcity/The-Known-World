@@ -4,82 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "22cf315e20170ad6",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":119.63679332605852}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":15.540614132534776}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":10.198650402529205}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":3.1978361669242656}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "22cf315e20170ad6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "2eb4418ad44b3315",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "2eb4418ad44b3315",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "2eb4418ad44b3315",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6973667015205997}"
+            },
             {
               "leaf": "2eb4418ad44b3315",
               "group": null,
@@ -91,8 +32,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-            "mode": "preview",
+            "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -177,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
               }
             }
           }
@@ -240,8 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22cf315e20170ad6",
+  "active": "2eb4418ad44b3315",
   "lastOpenFiles": [
+    "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
+    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
@@ -249,8 +192,6 @@
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md",
-    "Game Notes/Mechanics/Custom Class - Psion.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "MEDIA/MAPS/DUNG/GiantsToe - Upper.png"
+    "Game Notes/Mechanics/Custom Class - Psion.md"
   ]
 }
