@@ -18,6 +18,18 @@
             {
               "leaf": "22cf315e20170ad6",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":10.198650402529205}"
+            },
+            {
+              "leaf": "22cf315e20170ad6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.1978361669242656}"
+            },
+            {
+              "leaf": "22cf315e20170ad6",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
@@ -195,15 +207,15 @@
   },
   "active": "22cf315e20170ad6",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Game Notes/Mechanics/Custom Class - Psion.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "MEDIA/MAPS/DUNG/GiantsToe - Upper.png",
-    "Prenotes Aug 11 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
+    "Prenotes Aug 11 22.md"
   ]
 }
