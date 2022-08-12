@@ -12,8 +12,14 @@
             {
               "leaf": "22cf315e20170ad6",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "22cf315e20170ad6",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "22cf315e20170ad6",
@@ -32,8 +38,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
-            "mode": "source",
+            "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -118,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
               }
             }
           }
@@ -183,6 +189,7 @@
   },
   "active": "22cf315e20170ad6",
   "lastOpenFiles": [
+    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Game Notes/Mechanics/Custom Class - Psion.md",
@@ -191,7 +198,6 @@
     "MEDIA/MAPS/DUNG/GiantsToe - Upper.png",
     "Prenotes Aug 11 22.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md",
-    "Game Notes/Prenotes/'22/'22.md",
-    "Game Notes/Prenotes/Prenotes.md"
+    "Game Notes/Prenotes/'22/'22.md"
   ]
 }
