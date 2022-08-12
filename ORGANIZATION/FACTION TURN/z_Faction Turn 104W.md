@@ -875,6 +875,15 @@ Communication: -
 - [x] **Progress:** +50xp, +35g
 
 ### Actstow
+**Full Action:** Create
+
+	Goal: 
+	Roll:
+
+**Bonus Action:**
+
+	Roll:
+
 ### Suremantle
 ### Cenva Minyo
 

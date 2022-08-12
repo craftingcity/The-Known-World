@@ -5,6 +5,18 @@
       "path": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
     },
     {
+      "basename": "Full Actions Choices for Faction Turn",
+      "path": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
+    },
+    {
+      "basename": "factionTurnEquipment",
+      "path": "MEDIA/SUPP/factionTurnEquipment.PNG"
+    },
+    {
+      "basename": "FT Full Bonus Main Phase",
+      "path": "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md"
+    },
+    {
       "basename": "Bonus Action Choices for Faction Turn",
       "path": "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pandect_2",
       "path": "MEDIA/SUPP/DOCS/Pandect_2.pdf"
-    },
-    {
-      "basename": "Pandect_1",
-      "path": "MEDIA/SUPP/DOCS/Pandect_1.pdf"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "Actstow Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Actstow Hills.md"
     }
   ],
   "omittedPaths": [],

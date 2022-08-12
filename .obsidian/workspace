@@ -19,7 +19,7 @@
               "leaf": "2eb4418ad44b3315",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6973667015205997}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":879,\"ch\":7},\"to\":{\"line\":879,\"ch\":7}},\"scroll\":864.7874581013978}"
             },
             {
               "leaf": "2eb4418ad44b3315",
@@ -34,6 +34,50 @@
           "state": {
             "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6844c7f0f475c49d",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6844c7f0f475c49d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/factionTurnEquipment.PNG\"}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "MEDIA/SUPP/factionTurnEquipment.PNG"
+          }
+        }
+      },
+      {
+        "id": "3545f48a78ea06b4",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3545f48a78ea06b4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -118,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
+                "file": "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
               }
             }
           }
@@ -181,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2eb4418ad44b3315",
+  "active": "3545f48a78ea06b4",
   "lastOpenFiles": [
-    "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
     "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+    "MEDIA/SUPP/factionTurnEquipment.PNG",
+    "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
+    "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md",
-    "Game Notes/Mechanics/Custom Class - Psion.md"
+    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
   ]
 }
