@@ -13,7 +13,7 @@
               "leaf": "370088d44946f856",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 13 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":135},\"to\":{\"line\":20,\"ch\":135}},\"scroll\":14.61602630671338}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":135},\"to\":{\"line\":23,\"ch\":25}},\"scroll\":18.52668662055909}"
             },
             {
               "leaf": "370088d44946f856",
@@ -48,7 +48,7 @@
               "leaf": "ae47093ffeeca7e3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5619047709873746}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.610366847830715}"
             }
           ]
         },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Prenotes Aug 13 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+                "file": "Prenotes Aug 13 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md"
+                "file": "Prenotes Aug 13 22.md"
               }
             }
           }
@@ -212,10 +212,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae47093ffeeca7e3",
+  "active": "370088d44946f856",
   "lastOpenFiles": [
-    "Prenotes Aug 13 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+    "Prenotes Aug 13 22.md",
     "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
     "MEDIA/SUPP/factionTurnEquipment.png",
     "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",

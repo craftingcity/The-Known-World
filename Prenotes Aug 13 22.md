@@ -24,3 +24,4 @@ I will remind Amashod that Varis' *cone of cold* revealed a thin slit in the sou
 We're still in [[Giant's Toe]].
 
 ### What happened?
+Party rested for 4 hours. after finding Bardaux. They used Planeshift to teleport him back to Kakurak's Lair. Afterwords, they moved to attempt to continue clearing the keep, but to their surprise, the giant's had repopulated what they had cleared 4 hours before, grod and gudliva rushed into the workshop, beginning combat: see notebook.
