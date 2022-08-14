@@ -1,6 +1,4 @@
 {
-  "baseFontSize": 26,
-  "translucency": false,
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 24
 }

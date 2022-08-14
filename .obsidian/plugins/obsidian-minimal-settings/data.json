@@ -13,7 +13,7 @@
   "maxWidth": 95,
   "trimCols": false,
   "maxColWidth": "18em",
-  "textNormal": 26,
+  "textNormal": 24,
   "textSmall": 16,
   "imgGrid": false,
   "imgWidth": "img-default-width",

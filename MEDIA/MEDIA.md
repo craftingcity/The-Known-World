@@ -6,6 +6,8 @@
 	- **CHAR**
 		- **HERITAGE**
 
+		- **MONSTER**
+
 	- **MAPS**
 		- **DUNG**
 
