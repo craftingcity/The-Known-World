@@ -81,6 +81,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bfee912aeb3106b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
