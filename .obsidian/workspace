@@ -1,89 +1,33 @@
 {
   "main": {
-    "id": "90b37ad8ee5e800c",
+    "id": "8e2e7850fb027a07",
     "type": "split",
     "children": [
       {
-        "id": "2eb4418ad44b3315",
+        "id": "5ed9bd2cc8f8c19a",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "2eb4418ad44b3315",
+              "leaf": "5ed9bd2cc8f8c19a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2eb4418ad44b3315",
+              "leaf": "5ed9bd2cc8f8c19a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2eb4418ad44b3315",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":17},\"to\":{\"line\":5,\"ch\":17}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+            "file": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
             "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6844c7f0f475c49d",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "6844c7f0f475c49d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/factionTurnEquipment.png\"}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "MEDIA/SUPP/factionTurnEquipment.png"
-          }
-        }
-      },
-      {
-        "id": "3545f48a78ea06b4",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3545f48a78ea06b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3545f48a78ea06b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
-            "mode": "preview",
             "source": true
           }
         }
@@ -92,15 +36,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f200fe8a1a80900b",
+    "id": "f93871b7cada45df",
     "type": "split",
     "children": [
       {
-        "id": "1ee778f2eb66d012",
+        "id": "5b7d0fdda2d3152f",
         "type": "tabs",
         "children": [
           {
-            "id": "470822c6e780fecc",
+            "id": "095d584507c10b18",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -112,7 +56,15 @@
             }
           },
           {
-            "id": "471fab77001b02ee",
+            "id": "37473087cc2cc33a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c07b7245f8c189fe",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -121,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angel",
+                "query": "evil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,46 +81,30 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8a09bf3a4e0bad9d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "22b1fb456ad17b5a",
+    "id": "822a9b7086b36d09",
     "type": "split",
     "children": [
       {
-        "id": "345ad8dc0249f6ff",
+        "id": "2a6d564791491f05",
         "type": "tabs",
         "children": [
           {
-            "id": "214128aa17851074",
+            "id": "2d68df51ea86c306",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,28 +116,20 @@
             }
           },
           {
-            "id": "a784ad59b314c9b4",
+            "id": "654215b95157f2ca",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60736712cabd0795",
+            "id": "e819d7b0a2117a30",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -211,16 +139,12 @@
             }
           },
           {
-            "id": "f44a3da8351e916d",
+            "id": "d468d6b131ec5f24",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md"
+                "file": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
               }
             }
           }
@@ -231,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2eb4418ad44b3315",
+  "active": "c07b7245f8c189fe",
   "lastOpenFiles": [
-    "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
-    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
-    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
-    "MEDIA/SUPP/factionTurnEquipment.png",
-    "ORGANIZATION/TEMPLATES/FT Full Bonus Main Phase.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+    "Wizards.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
   ]
 }

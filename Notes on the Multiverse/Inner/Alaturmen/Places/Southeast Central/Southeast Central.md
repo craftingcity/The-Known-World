@@ -3,7 +3,7 @@ tags: folderfile, region
 aliases:
 ---
 # Title
-#### A sub-region of {Greater Region}
+#### A sub-region of [[Central Alaturmen]]
 ## Boundaries
 ## Contents
 ### Potential Allies

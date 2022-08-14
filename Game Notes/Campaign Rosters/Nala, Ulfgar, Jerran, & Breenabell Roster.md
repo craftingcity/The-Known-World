@@ -8,9 +8,14 @@ aliases:
 - [[Alergra Barrowinch]]
 	- Patron for this one delivery
 ### Mortal Adversaries
+- 
 - "Elder" & [[Scrivin Clan]]
 ### Faction Reputation
 - Kingdom of Prosper
-	- Yerba: **Good**
+	- Janesland: **Bad**
+	- Gamblem: *Not Good*
+	- Magius: **Bad**
+	- Yerba: **Bad**
+- 
 ## Places
 ### Scenarios Changed
