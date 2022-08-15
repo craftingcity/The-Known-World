@@ -1,0 +1,29 @@
+---
+tags: region
+aliases:
+---
+# Title
+#### A sub-region of {Greater Region}
+## Boundaries
+## Contents
+### Flora
+### Scenarios
+- AI10. Statue of a Fallen Thief
+	- A small statue of bronze stands on a platform in the sand. The statue depicts two figures shaking hands; the first is wearing the garb of a Guardsman of the [[Golden Claws]]. The second is wearing a simple pair of shorts and a shirt.
+	- On the platform, a plaque reads; "By the deals made in the years of the 33rd and the  past, the "
+
+## Tables
+### Encounter
+**Location Check:** 1 in 1d6
+**Encounter Check:** 1 in 1d8
+**Border Encounters:** 1 in 1d10
+
+
+| 1d00 | # appearing | Encounter | %Lair | %Tracks | Intent | Desire |
+| ---- | ----------- | --------- | ----- | ------- | ------ | ------ |
+|      |             |           |       |         |        |        |
+
+### Rumors
+| 1d00 | Rumor | Loc. | Resolved? | Notes: |
+|------|-------|------|-----------|--------|
+| 1    | a     | a    | a         | a      |

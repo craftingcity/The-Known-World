@@ -8,6 +8,10 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+- AO14. Cave of Qillark & Vienze
+	- Qillark the Blue & Vienze the White are a mating pair of Adult Dragons.
+	- They command a cult of mixed blood Kobolds that hunt for food & fealty to the Dragons.
+	- The cave is massive, housing both the dragons and their cult underground. The few who know of the cave know to stay away.
 - AP1. World's End Stones
 	- A collection of five tall stones are emerging from the sand in this place. Local superstition is that all who pass beyond this marker are doomed to never return.
 
