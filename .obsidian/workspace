@@ -1,18 +1,30 @@
 {
   "main": {
-    "id": "8e2e7850fb027a07",
+    "id": "90b37ad8ee5e800c",
     "type": "split",
     "children": [
       {
-        "id": "161ba0be64e3ee61",
+        "id": "a2736abfb7e04354",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "161ba0be64e3ee61",
+              "leaf": "a2736abfb7e04354",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a2736abfb7e04354",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":3.7936505503665456}"
+            },
+            {
+              "leaf": "a2736abfb7e04354",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -20,7 +32,49 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "227735230285b7eb",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "227735230285b7eb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "289464331f553a68",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "289464331f553a68",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": true
           }
@@ -30,15 +84,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f93871b7cada45df",
+    "id": "f200fe8a1a80900b",
     "type": "split",
     "children": [
       {
-        "id": "5b7d0fdda2d3152f",
+        "id": "1ee778f2eb66d012",
         "type": "tabs",
         "children": [
           {
-            "id": "095d584507c10b18",
+            "id": "470822c6e780fecc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -50,15 +104,7 @@
             }
           },
           {
-            "id": "37473087cc2cc33a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c07b7245f8c189fe",
+            "id": "471fab77001b02ee",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil",
+                "query": "n18",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +123,19 @@
             }
           },
           {
-            "id": "bfee912aeb3106b2",
+            "id": "8a09bf3a4e0bad9d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9c6df654ceb5f29",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,28 +143,32 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 410.5,
     "collapsed": true
   },
   "right": {
-    "id": "822a9b7086b36d09",
+    "id": "22b1fb456ad17b5a",
     "type": "split",
     "children": [
       {
-        "id": "2a6d564791491f05",
+        "id": "345ad8dc0249f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "2d68df51ea86c306",
+            "id": "214128aa17851074",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,20 +180,28 @@
             }
           },
           {
-            "id": "654215b95157f2ca",
+            "id": "a784ad59b314c9b4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e819d7b0a2117a30",
+            "id": "60736712cabd0795",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -141,12 +211,16 @@
             }
           },
           {
-            "id": "d468d6b131ec5f24",
+            "id": "f44a3da8351e916d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "161ba0be64e3ee61",
+  "active": "289464331f553a68",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/S.W.C. Regions/The Deserts of Tetrimoc/South Dunes.md",
-    "A Grand Notepad.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Wizards.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Great Southern Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md"
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Smaller than a city/Giant's Toe.md",
+    "Prenotes Aug 13 22.md",
+    "ORGANIZATION/FACTION TURN/Bonus Action Choices for Faction Turn.md",
+    "MEDIA/SUPP/factionTurnEquipment.png",
+    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
   ]
 }

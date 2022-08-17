@@ -9,6 +9,8 @@ aliases:
 ### Flora
 ### Scenarios
 - F9. Druid's Wight
+- G5. The Goblin's Boulder
+	- Beneath a four-foot diameter boulder, the skeleton of a goblin is pinned by its right leg. A group of [[Macht's Orcs]] keep a camp here. They are well equipped with magical equipment.
 
 ## Tables
 ### Encounter
