@@ -13,7 +13,7 @@
               "leaf": "bfbf13df04d9bda2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
             },
             {
               "leaf": "bfbf13df04d9bda2",
@@ -42,7 +42,7 @@
               "leaf": "6e5047ee487248b7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":144.2160356347439}"
+              "eState": "{\"scroll\":153.0117621433239}"
             }
           ]
         },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
               }
             }
           }
@@ -209,17 +209,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e5047ee487248b7",
+  "active": "bfbf13df04d9bda2",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/The Ballad of Grey Ordeal.md",
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "grey.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
     "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md"
   ]
 }
