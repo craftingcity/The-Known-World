@@ -13,7 +13,7 @@
               "leaf": "bfbf13df04d9bda2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":244},\"to\":{\"line\":11,\"ch\":244}}}"
             },
             {
               "leaf": "bfbf13df04d9bda2",
@@ -211,15 +211,15 @@
   },
   "active": "bfbf13df04d9bda2",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Ballad of Grey Ordeal.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "grey.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md"
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
   ]
 }
