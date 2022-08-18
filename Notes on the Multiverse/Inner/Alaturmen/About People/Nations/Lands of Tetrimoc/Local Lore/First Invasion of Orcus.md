@@ -5,6 +5,7 @@ aliases:
 # The Invasion of Orcus
 ## Written by [[Poppy Bumbleheart]]
 
+# Chapter One - Nicolas, the Yellow Mage
 In the eve of the first day of Still, in the 87th year after Tetrimoc had Fallen, a hum broke the sky. And all Orcus could do was smile.
 
 Over the course of the following month, many dozens of magicians and scientists formed hypotheses about what this event was or meant, but only the Grey Ordeal knew, as the Old Man had warned only them. They traveled to the Deserts of Tetrimoc, only a half-week's ride by horseback from their Keep in Arthur's Prairie, meeting the Yellow Mage of the Guild of Wizards, in a dark and damp cave many miles north of the Golden City. His distain for his surroundings was visibly apparent in his posture and facial expression. The Yellow Mage huffed in greeting. 
@@ -35,4 +36,8 @@ Phnipper takes a moment to consider Tubrics words, then nods. "Thank you for you
 
 Tubric returns Phnipper's nod.
 
-Eladrithal speaks, his voice tender and bassy, ""
+Eladrithal speaks, his voice tender and bassy, "What's next then? I wouldn't mind visiting the Golden City, but that wouldn't be the best idea given our reputation with the Claws", pausing to shoot a knowing look at Tubric, "So maybe we head north-west. We'd make Agrandica's less than an hour before nightfall." 
+
+The rest of the Grey Ordeal agreed, and together they exited the cave, mounted their horses, and began their navigations.
+
+# Chapter Two - Agrandica, the Northwestern Thief Lord
