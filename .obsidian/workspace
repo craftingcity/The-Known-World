@@ -4,45 +4,132 @@
     "type": "split",
     "children": [
       {
-        "id": "505322ee387603aa",
+        "id": "9bb05def9489937e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "505322ee387603aa",
+              "leaf": "9bb05def9489937e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 13 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "505322ee387603aa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wizards.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "505322ee387603aa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Hektor Salar.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "505322ee387603aa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Anren Ungrith.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md",
+            "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
             "mode": "source",
             "source": true
           }
         }
+      },
+      {
+        "id": "f3c3e7884ae6ce1e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f3c3e7884ae6ce1e",
+              "group": "6d1ecb09a3fec852",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f3c3e7884ae6ce1e",
+              "group": "6d1ecb09a3fec852",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f3c3e7884ae6ce1e",
+              "group": "6d1ecb09a3fec852",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":104},\"to\":{\"line\":9,\"ch\":104}}}"
+            },
+            {
+              "leaf": "f3c3e7884ae6ce1e",
+              "group": "6d1ecb09a3fec852",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":17},\"to\":{\"line\":5,\"ch\":17}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "6d1ecb09a3fec852"
+      },
+      {
+        "id": "dfee0788a53df571",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "dfee0788a53df571",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":170,\"ch\":11},\"to\":{\"line\":170,\"ch\":11}},\"scroll\":159.07572383073497}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "2eec937e1db43d62",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": []
+        },
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "6d1ecb09a3fec852"
       }
     ],
     "direction": "vertical"
@@ -77,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
               }
             }
           }
@@ -198,17 +285,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a09bf3a4e0bad9d",
+  "active": "f3c3e7884ae6ce1e",
   "lastOpenFiles": [
-    "Wizards.md",
-    "Game Notes/NPCs/ala Alaturmen/Mild Power/Hektor Salar.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Smaller than a city/Anren Ungrith.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/The Holyl'nds/North Littemotto.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/N.E.C Regions/Arthur's Prairie.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md",
+    "ORGANIZATION/TEMPLATES/Campaign Roster.md",
+    "a.md"
   ]
 }
