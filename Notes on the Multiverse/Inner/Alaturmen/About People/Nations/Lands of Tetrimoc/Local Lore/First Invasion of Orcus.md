@@ -19,14 +19,20 @@ Tubric spoke confidently. "And yet you bring the book to us".
 
 She smiled, and quickly retorted "Got it! Is this *tome* gonna freak out when I do a magic about it?" and her smile grew cheshire in size as the Yellow Mage frowned. "I'm so glad we get to work together. Good seeing you Nicolas!"
 
-The Yellow Mage turned from her and began to walk out of the cave before pausing to address the group.
+The Yellow Mage turned from her and began to walk out of the cave before pausing, addressing the group.
 
 "Do not fail your Patron." He states, before beginning to walk away again.
 
-The smile faded from Phnipper's face, as she looked between her companions. "He said 'would' lead me to inquire. Does he really not know?"
+As the click of the Mage's boots began to fade, so too did the smile from Phnipper's face. She looked between her companions. "He said 'would' lead me to inquire. Does he really not know?"
 
-"Aye. The Old Man was explicit, no one-" Millstone begins, before being cut off by Phnipper.
+"Aye. The Old Man was explicit, no one-" Tubric begins, before being cut off by Phnipper.
 
-"-Needs to know until eveyone needs to know, I know, I remember. I just wish he didn't feel like he needs to keep so many secrets."
+"-Needs to know until everyone needs to know, I know, I remember. I just wish he didn't feel like he needs to keep so many secrets."
 
-"Phnipper. We are not being tasked with keeping a secret. We are tasked with investigating the Hum. We are now one step closer, simply by holding that book within your hands. "
+Tubric paused a moment, before calmly replying, "Phnipper. We are not being tasked with keeping a secret. We are tasked with investigating the Hum. We are now one step closer, simply by holding that book within your hands. The Guilds are tasked with the well being of our united Coalition, enough work for the computers and councils, *this* is what we are here to be doing. The Wizards need not know until they need to know. And let us hope that they do not."
+
+Phnipper takes a moment to consider Tubrics words, then nods. "Thank you for your wisdom Tubric. I understand, but I do not agree with it. We are using the resources of our allies without their truly informed consent."
+
+Tubric returns Phnipper's nod.
+
+Eladrithal speaks, his voice tender and bassy, ""
