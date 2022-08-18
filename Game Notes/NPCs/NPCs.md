@@ -41,6 +41,7 @@ for the graph: [[Here lie my suppliments...]]
 			- **Employees of Golden Claw**
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
+			- [[Hektor Salar]]
 			- **[[Tendered]]**
 			- **[[Thief Lords of the Desert]]**
 		- [[on Alaturmen]]
