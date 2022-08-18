@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "The Grey Ordeal",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
-    },
-    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
+      "basename": "First Invasion of Orcus",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
+    },
+    {
+      "basename": "The Assault of the Giant Dissenters",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md"
+    },
+    {
+      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
+      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    },
+    {
+      "basename": "Coalition's Founding Document",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md"
+    },
+    {
+      "basename": "Eladrithal Greystone",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md"
+    },
+    {
       "basename": "Waywalket Turring",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md"
+    },
+    {
+      "basename": "Tubric Millstone Wrinsmith",
+      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
+      "basename": "The Grey Ordeal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
     },
     {
       "basename": "Guild of Wizards",
@@ -19,10 +47,6 @@
     {
       "basename": "Qiell Tilemundon",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
-    },
-    {
-      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
-      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
     },
     {
       "basename": "z_Faction Turn 104W",
@@ -175,30 +199,6 @@
     {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "Watches",
-      "path": "ORGANIZATION/TEMPLATES/Watches.md"
-    },
-    {
-      "basename": "Prenotes Aug 09 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md"
-    },
-    {
-      "basename": "Alergra Barrowinch",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
-    },
-    {
-      "basename": "How the Weave becomes Magic",
-      "path": "Game Notes/Mechanics/Homebrew Spells/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
-      "path": "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
-    },
-    {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,6 @@
 ---
-tags: writeup, loreful
+tags: writeup
+aliases:
 ---
 In the year of 102AF, a group of Giants gathered together with a simple plan. Travel the planes, make space in the [[The Planes of Existence|Planes]] via assaulting and enslaving the inhabitants of the Marked Plane, [[Alaturmen]], and live there free of The Ordening. [[King Snure]] brought this plan to two other Giant leaders, The [[Jarl Grungar]] and The Chief What's-His-Name, and plans to spread the word of "the great migration". Stone giant groups heard, but few became interested. Cloud and Storm giant groups outright disavowed the plan. The other Frost and Hill giants looked to their peers.
 
