@@ -13,7 +13,7 @@
               "leaf": "bfbf13df04d9bda2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":244},\"to\":{\"line\":11,\"ch\":244}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":227},\"to\":{\"line\":19,\"ch\":227}}}"
             },
             {
               "leaf": "bfbf13df04d9bda2",
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nicolas tal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +209,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfbf13df04d9bda2",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
