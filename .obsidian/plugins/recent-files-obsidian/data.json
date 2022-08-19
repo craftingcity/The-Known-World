@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Skills of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Northwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/N.W.C. Regions/Firelight Sea.md"
     }
   ],
   "omittedPaths": [],
