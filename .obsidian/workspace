@@ -12,14 +12,39 @@
             {
               "leaf": "2cecd5413ee13dc9",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "90e2133619b9d76e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "90e2133619b9d76e",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf\"}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf"
+          }
         }
       }
     ],
@@ -114,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +190,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf"
+              }
             }
           }
         ]
@@ -173,8 +202,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2cecd5413ee13dc9",
+  "active": "90e2133619b9d76e",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "README.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -183,7 +213,6 @@
     "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Ballad of Grey Ordeal.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "grey.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md"
+    "grey.md"
   ]
 }
