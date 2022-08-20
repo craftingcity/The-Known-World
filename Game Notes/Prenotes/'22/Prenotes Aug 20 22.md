@@ -21,7 +21,6 @@ Not a ton. We'll begin in [[Coalition City]], in a Silver Unicorn of the [[Iron 
 
 We're beginning a new campaign. The party roster is here: [[Suk-uk, Seven, & Setella Roster]].
 The following jobs are listed on the board;
-- 
 
 In addition, each character knows two rumors; one is false, the other is true - dont tell them that though;
 - Suk-uk (True); a Dragonborn by the name of [[Valerio Avishalom|Avishalom]] knows the champions of the Great Adventure Dragon [[Kakurak]]

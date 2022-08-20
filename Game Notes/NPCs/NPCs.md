@@ -38,7 +38,6 @@ for the graph: [[Here lie my suppliments...]]
 				- **[[Kakurak's Chosen]]**
 			- **[[True Villian NPCs]]**
 		- **Mild Power**
-			- **Employees of Golden Claw**
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- [[Hektor Salar]]
@@ -47,7 +46,8 @@ for the graph: [[Here lie my suppliments...]]
 		- [[on Alaturmen]]
 		- **Weak Power**
 			- **[[Combine Citizens]]**
-			- **Folk of No Means**
+			- **Desert Citizens**
+			- **G-City Citizens**
 			- **King's Tenants**
 				- [[Balthazar Wumfingle]]
 				- **[[Ex-Bandit Lords]]**
