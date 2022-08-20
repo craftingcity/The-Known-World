@@ -12,15 +12,21 @@
             {
               "leaf": "2cecd5413ee13dc9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cecd5413ee13dc9",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":179},\"to\":{\"line\":19,\"ch\":179}},\"scroll\":0}"
+              "eState": "{\"scroll\":163.35193798449612}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+            "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
             "mode": "source",
             "source": true
           }
@@ -118,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+                "file": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
               }
             }
           }
@@ -183,8 +189,8 @@
   },
   "active": "2cecd5413ee13dc9",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "README.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
