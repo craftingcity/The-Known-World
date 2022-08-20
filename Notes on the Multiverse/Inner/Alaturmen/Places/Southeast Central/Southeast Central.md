@@ -21,7 +21,6 @@ aliases:
 				- [[Central Third]]
 				- [[Northern Third]]
 				- [[Southern Third]]
-			- [[Centerlick Mossland]]
 			- [[Eastlick Mossland]]
 			- [[Westlick Mossland]]
 		- [[Grumbling Hills]]
@@ -31,14 +30,15 @@ aliases:
 	- **Smaller than a city**
 		- [[Aeberu]]
 		- [[Asilar's Bounty]]
-		- [[Darktower]]
 		- [[Four Stone]]
 		- [[Neverwallow]]
 	- **Smaller than a feature**
+		- [[Beacon]]
 		- [[Darnt Hillkeep]]
 		- [[Mossburg]]
 		- [[Red Throne]]
 	- **Smaller than a village**
+		- [[Darktower]]
 		- [[Stone of Desmoniur]]
 
 %% End Waypoint %%

@@ -38,6 +38,7 @@ aliases:
 			- [[Slimknives]]
 	- **[[The Kingdom of Prosper]]**
 		- **Factions**
+			- [[Arthur's Knights]]
 			- [[Noble House a'Haruuc]]
 			- [[Noble House a'LeQuinn]]
 			- [[Northstone Family Trading Company]]
@@ -45,6 +46,7 @@ aliases:
 			- [[The Arstoviches]]
 		- **Local Lore**
 			- [[Bandit Lords]]
+			- [[Carta Prosperitatis]]
 			- [[Nobles of Prosper]]
 			- [[The Legend of the Bandit Lords]]
 			- [[Unification]]

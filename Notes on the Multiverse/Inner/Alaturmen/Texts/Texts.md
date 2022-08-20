@@ -18,6 +18,7 @@ aliases:
 	- [[Natural Wonders of a Woven Reality]]
 	- [[Tetrimoc's Journal]]
 	- [[The Ballad of Grey Ordeal]]
+	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Druidic Texts]]
 	- [[The Texts Druidic]]

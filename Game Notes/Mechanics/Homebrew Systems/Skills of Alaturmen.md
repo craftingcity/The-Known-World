@@ -16,7 +16,7 @@
 | Religion        | Percussion Instruments   | Blacksmith       | Furniture Crafter    | Rug Weaver        | Wheelwright       |
 |                 | String Instruments       | Book-binder      | Furrier              | Saddler           | Whittler          |
 |                 | Wind Instruments         | Bowyer           | Glass Blower         | Sage              | Woodcarver        |
-|                 |                          | Brewer           | Goldsmith            | Sailor            |                   |
+|                 | Regality                 | Brewer           | Goldsmith            | Sailor            |                   |
 |                 |                          | Brick Maker      | Instrument Crafter   | Scribe            |                   |
 |                 |                          | Buckle Maker     | Jeweler              | Sculpter          |                   |
 |                 |                          | Captain          | Locksmith            | Sentry            |                   |

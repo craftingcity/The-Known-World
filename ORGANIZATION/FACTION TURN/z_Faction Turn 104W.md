@@ -887,6 +887,17 @@ Communication: -
 - [x] Goal (LTG(1/5)): (SUCC) > +50xp
 
 ### Suremantle
+**Full Action:**
+
+	Roll:
+
+**Bonus Action:**
+
+	Roll:
+
+- [x] **Progress:**
+
+
 ### Cenva Minyo
 
 

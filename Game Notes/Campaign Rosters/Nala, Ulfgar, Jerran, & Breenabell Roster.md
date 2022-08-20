@@ -12,10 +12,7 @@ aliases:
 - "Elder" & [[Scrivin Clan]]
 ### Faction Reputation
 - Kingdom of Prosper
-	- Janesland: **Bad**
-	- Gamblem: *Not Good*
-	- Magius: **Bad**
-	- Yerba: **Bad**
+	- House a'LeQuinn: Mixed, Bounty (Alive, 450sp, Nala Alive, 3000sp)
 - 
 ## Places
 ### Scenarios Changed

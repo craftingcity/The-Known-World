@@ -33,6 +33,10 @@ Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the
 
 When the [[Immortal Dragons]] came to him and asked for a plane of their own, for they grow tired of sharing with the other Titans, he said, 'Of course, my friends', and he crafted for them [[Abyss]] and chuckled to himself.
 
+date: 55303TBT
+title: [[Immortal Dragons]] make a fool of the [[All-Father Annam]]
+content:
+
 date: 23410TBT
 title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
 content:

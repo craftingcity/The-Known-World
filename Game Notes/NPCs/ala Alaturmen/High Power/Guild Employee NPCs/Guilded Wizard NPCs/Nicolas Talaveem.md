@@ -16,7 +16,7 @@ As a child, Nicolas witnessed a horrible holy act, the [[Great Fires]]. He was [
 
 Under the sponsorship and watch of the Cassindil family, Nicolas began to learn the sport of wand-weaving. His adoptive parents were quite surprised to find him quickly becoming a formidable opponent. 
 
-As Nicolas began to reach adulthood, he was at the top of his skills in the sport of wand-evokation. He felt that no opponent could match him. He used his connections to the Cassindil family to begin to collect a personal collection of arcane texts of various sources. He was soon approached by [[The Wizard In Blue]], and was convinced to join the [[Guild of Wizards]]. Nicolas hides knowledge from his peers as he can - especially of [[Its Greatness]] - wherever he can.
+As Nicolas began to reach adulthood, he was at the top of his skills in the sport of wand-evokation. He felt that no opponent could match him. He used his connections to the Cassindil family to begin to collect a personal collection of arcane texts of various sources. He was soon approached by [[The Wizard In Blue]], and was convinced to join the [[Guild of Wizards]]. Nicolas hides what knowledge he can from his peers - especially of any investigation into [[Its Greatness]].
 
 Nicolas used the principles he used in wand-weaving to being to craft his own magics, creating personal spells and wards. 
 

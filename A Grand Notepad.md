@@ -20,8 +20,8 @@ AMMS - WE3 says small towns and up are 5+ miles apart, small cities and up are 2
 x | Econ | Exec | Jude | Legi
 --- | --- | --- | --- | ---
 Coalition | [[Economics of Coalition City]] | [[Guilds of Coalition]] | [[Guilds of Coalition]] | [[Coalition's Founding Document]] & [[Communicaes]] as Civil-Common Code
-Prosper | [[Economics of Prosper]] | [[Arthur's Knights]] | [[Prosperous Truth-bearers]] | [[Nobles of Prosper]] as Civil Code
-Church | [[Economics of The Holyl'nds]] | [[The Church of the White Flame#Castes]] | [[The Church of the White Flame#Castes]] | [[The Church of the White Flame#Castes]] as Canonical Code 
+Prosper | [[Economics of Prosper]] | [[Arthur's Knights]] | [[Prosperous Truth-bearers]] | [[Carta Prosperitatis]] as Civil Code
+Church | [[Economics of The Holyl'nds]] | [[The Church of the White Flame#Castes]] | [[The Church of the White Flame#Castes]] | [[The Tome of Gannon]] as Canonical Code 
 Tetrimoc | [[Economics of Tetrimoc's Desert]] | [[Golden Claws]] | [[Golden Claws]] | [[Golden Claws#The Council of Eight]] as Common Code
 Combine | [[Economics of Combine]] | [[The Democratic Combine of Peoples]] | [[The Democratic Combine of Peoples]] | [[Coalition's Founding Document]] as Civil-Social Code
 Blood-clan | [[Economics of the Hobgoblin Territories]] | [[Blood-Hobgoblin Clan Pact]] | [[Blood-Hobgoblin Clan Pact]] | [[Blood-Hobgoblin Clan Pact]] as Civil Code 
@@ -48,3 +48,34 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 	- D: Necrot
 	- Arcane
 	- D: Dunam
+
+3b traveling
+timekeeping
+travel watch
+activities during watches
+i'm lost
+3c adventuring
+equipment
+needs
+social interaction
+downtime
+gaining levels
+3d combat
+initiative
+your turn
+	f ac
+	m ac
+	m ac
+	r
+attacking
+vitality and wounds
+spellcasting d comb
+environment
+positioning
+conditoins
+3e magic
+sources and delineations
+preparing and casting
+creativity
+alchemy
+magical items

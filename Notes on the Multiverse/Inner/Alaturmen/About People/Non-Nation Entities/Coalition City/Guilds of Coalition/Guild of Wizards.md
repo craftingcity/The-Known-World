@@ -7,7 +7,7 @@ aliases:
 ## History
 The Guild of Wizards is responsible for the responsible use of Weave Arcane by the citizens of Alaturmen, as well as recording the history of our world and (in)validating legends or other creative works. 
 
-For a list of High Power Wizards (including those not on the Council of Mages) see [[Wizards]].
+For a list of High Power Wizards (including those not on the Council of Mages) see [[Loose Wizard NPCs]].
 
 ## Governance
 ### Council of Mages

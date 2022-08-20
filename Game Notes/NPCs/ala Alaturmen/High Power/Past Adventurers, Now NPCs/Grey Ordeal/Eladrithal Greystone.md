@@ -1,14 +1,30 @@
 ---
-tags: npc, loreful, greyordeal, elven
+tags: npc
+aliases:
 ---
-# Eledrithal Greystone
+# Eladrithal Greystone
+## Party Ranger of the [[Grey Ordeal]]
+### pronouns
 
-Eledrithal is a High Elven Ranger. 
+> Boxtext for an action, outfit, and a physical trait.
 
-They were a member of the [[The Grey Ordeal]], a legendary party of adventurers. 
+A description of their function in the world.
 
-They were born in the [[The Holyl'nds]] in the year . 
+## Roleplaying
+### Quote
 
-One of their notable personal accolades is that they are the first person to return from the [[Wildlands]]. 
+### Mannerism & Disposition
 
-They fought back the [[First Invasion of Orcus]] with the rest of [[The Grey Ordeal]].
+### Background
+#### Early Life
+He is one of the few mortals to walk back into [[Alaturmen]] from the [[Wildlands]].
+## Important Knowledge
+
+
+## Stats
+. | . 
+--- | --- | --- | ---
+STR | DEX | CON | HP
+x | x | x | x
+INT | WIS | CHA | AC
+x | x | x | x

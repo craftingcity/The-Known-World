@@ -1,5 +1,5 @@
 # The Ballad of Grey Ordeal
-### Retold as Oraphic; [[Paulo San Tymiq]]
+### Original Oration by [[Paulo San Tymiq]]
 #### Written by [[Poppy Bumbleheart]]
 
 ## They were all young when they met. 
