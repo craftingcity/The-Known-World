@@ -1,3 +1,8 @@
+---
+tags: text
+aliases:
+---
+
 # Axioms of the Weave Arcane
 1. **Conservationem Potentiale**
 	- Known as the Axiom of Conservation, this axiom holds that Weave, in all forms, cannot be destroyed or created, only ever changed.
