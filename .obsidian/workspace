@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2cecd5413ee13dc9",
+        "id": "12be02467c2a6d25",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "2cecd5413ee13dc9",
+              "leaf": "12be02467c2a6d25",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":342},\"to\":{\"line\":57,\"ch\":342}},\"scroll\":52.38813953488372}"
-            },
-            {
-              "leaf": "2cecd5413ee13dc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Carta Prosperitatis.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "2cecd5413ee13dc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "2cecd5413ee13dc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "2cecd5413ee13dc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":163.35193798449612}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Carta Prosperitatis.md",
+            "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
             "mode": "source",
             "source": true
           }
@@ -117,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carta Prosperitatis.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carta Prosperitatis.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carta Prosperitatis.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
               }
             }
           }
@@ -205,10 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2cecd5413ee13dc9",
+  "active": "12be02467c2a6d25",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Carta Prosperitatis.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
