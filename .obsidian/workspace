@@ -13,7 +13,61 @@
               "leaf": "12be02467c2a6d25",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":16},\"to\":{\"line\":26,\"ch\":16}},\"scroll\":8.216806722689075}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Valerio Avishalom.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Enoch Ben.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Caris Avner.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Tendered.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Weak Power/Lower Holyl'nders/Lower Holyl'nders.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/ORGANIZATION.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "12be02467c2a6d25",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":8.216806722689075}"
             }
           ]
         },
@@ -97,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -183,15 +236,15 @@
   },
   "active": "12be02467c2a6d25",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Valerio Avishalom.md",
+    "Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Enoch Ben.md",
+    "Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Caris Avner.md",
+    "Game Notes/NPCs/ala Alaturmen/Mild Power/Tendered/Tendered.md",
+    "Game Notes/NPCs/ala Alaturmen/Weak Power/Lower Holyl'nders/Lower Holyl'nders.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "ORGANIZATION/ORGANIZATION.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
-    "Suk-uk, Seven, & Setella Roster.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "A Grand Notepad.md",
-    "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
   ]
 }

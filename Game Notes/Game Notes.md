@@ -5,6 +5,7 @@ connect to [[Notes on the Multiverse]]
 - **[[Game Notes]]**
 	- **Campaign Rosters**
 		- [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
+		- [[Suk-uk, Seven, & Setella Roster]]
 	- **[[Mechanics]]**
 	- **[[NPCs]]**
 	- **[[Prenotes]]**

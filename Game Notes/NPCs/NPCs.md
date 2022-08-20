@@ -47,6 +47,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[on Alaturmen]]
 		- **Weak Power**
 			- **[[Combine Citizens]]**
+			- **Folk of No Means**
 			- **King's Tenants**
 				- [[Balthazar Wumfingle]]
 				- **[[Ex-Bandit Lords]]**

@@ -24,12 +24,12 @@ The following jobs are listed on the board;
 - 
 
 In addition, each character knows two rumors; one is false, the other is true - dont tell them that though;
-- Suk-uk (True); an Orc by the name of [[]]
+- Suk-uk (True); a Dragonborn by the name of [[Valerio Avishalom|Avishalom]] knows the champions of the Great Adventure Dragon [[Kakurak]]
 - Suk-uk (False); 
 - Seven (True); 
 - Seven (False); the dwarves of [[Mountain Hall]] have a shoot-on-sight policy for outsiders - be wary traveling the [[Deakred Range]]
 - Setella (True); the [[Actstow Hills]] holds a wealth of knowledge, history even from before the [[Great Fires]]
-- Setella (False); 
+- Setella (False); the Library of [[The Golden City]] is grander than any you could imagine
 ### What happened?
 
 #### Watches
