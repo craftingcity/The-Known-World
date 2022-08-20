@@ -48,3 +48,34 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 	- D: Necrot
 	- Arcane
 	- D: Dunam
+
+3b traveling
+timekeeping
+travel watch
+activities during watches
+i'm lost
+3c adventuring
+equipment
+needs
+social interaction
+downtime
+gaining levels
+3d combat
+initiative
+your turn
+	f ac
+	m ac
+	m ac
+	r
+attacking
+vitality and wounds
+spellcasting d comb
+environment
+positioning
+conditoins
+3e magic
+sources and delineations
+preparing and casting
+creativity
+alchemy
+magical items
