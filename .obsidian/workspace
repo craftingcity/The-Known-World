@@ -13,7 +13,7 @@
               "leaf": "12be02467c2a6d25",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":16},\"to\":{\"line\":26,\"ch\":16}},\"scroll\":8.216806722689075}"
             }
           ]
         },
@@ -183,15 +183,15 @@
   },
   "active": "12be02467c2a6d25",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
+    "Suk-uk, Seven, & Setella Roster.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Game Notes/Mechanics/Homebrew Spells/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
-    "README.md",
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md"
+    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf"
   ]
 }

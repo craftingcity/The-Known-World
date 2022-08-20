@@ -5,6 +5,14 @@
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
     },
     {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
+      "basename": "Suk-uk, Seven, & Setella Roster",
+      "path": "Suk-uk, Seven, & Setella Roster.md"
+    },
+    {
       "basename": "Carta Prosperitatis",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "Psionics",
-      "path": "MEDIA/SUPP/DOCS/Psionics.pdf"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
     }
   ],
   "omittedPaths": [],
