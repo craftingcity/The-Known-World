@@ -12,7 +12,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
+Our story begins in a tavern, as all good stories do. We see a mass of people, and a one-eyed bartender deftly slinging drink and feed, but three figures in particular stand out to us in this moment. They are staring at a cork board on the wall, from which many parchments, ribbons, leathers, and other markings hang - the Silver Unicorn's Message Board.
 
 ### What does the World Know?
 
