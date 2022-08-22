@@ -22,11 +22,20 @@ Goat is the only true dairy produced in Cenva Minyo. Peanut milk is a cheap but 
 Potato is the "grain" of Cenva Minyo; it's flour makes a fluffy white bread that the people of Cenva Minyo treat as a honorable and common delicacy. Rarely, Cenvans gain access to Rye or Peanut flours, but neither is culturally acceptable for humanoid consumption.
 
 #### Fruit
-The fruit that grows in this place is bitter. Two fruits, Maupio and Yarpio, are the two most widely cultivated fruits of the area. They are both bitter and dark. Maupio takes the form of a etaerio, multiple sacs of juice and seed, while Yarpio takes the form of a berry, roughly the size and shape of a grap
+Two fruits, Maupio and Yarpio, are the two most widely cultivated fruits of the area. They are both bitter and dark. Maupio takes the form of a etaerio, multiple sacs of juice and seed, while Yarpio takes the form of a berry, roughly the size and shape of a grape. 
+
+Both these fruits grow on a spikey moss-vine hybrid that, after years of growing, flowering, and repeating, will eventually supplant the roots of it's host and completely take over it's form. After the host body is no longer suitable, the body and the fruit will die - but not before spreading it's seeded fruits as far as it can to begin the process again.
 
 #### Vegetable
+Gardens of Lettuce, Cabbage, Radishes, and Carrots add material and textural variety as well as necessary nutrients to a Cenvan's diet.
+
 #### Spice and Oil
+Root spices, such as Ginger, Onion, and Garlic, as well as Parsley are cultivated in these "spice of life" gardens. Beet Sugar and Rock Salt are imported from the north too, both of which are used as preservative and flavoring.
+
+Goat's butter is the "oil" of choice for most Cenvans. The dreaded Peanut Oil makes for a cheap but poor replacement, but whenever possible, a "true" Oil imported from the City in Gold and used instead.
+
 #### Delicacy
+Beef and Cow's dairy are highly prized, and so too are good oils. 
 
 ### Vices
 What do people do for *fun*?

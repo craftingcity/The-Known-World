@@ -12,8 +12,6 @@ The area of the Hobgoblin Territories is largely forested. It is cold and rainy 
 The people of the Territories most commonly consume a combination of powdered fruits, meats, and fats. This paste-like dish keeps for long periods of time and can be created with simple ingredients.
 
 ### Food
-Most clans in the Territories participate in nomadic hunter-gather behavior, and prefer to cultivate crops and livestock through manipulation rather than "traditional" farming.
-
 #### Meat
 The most common meat is game by a large degree. Rabbit and Deer are the most common of the common. Cattle is hard to manage in the denser parts of the forest, so Goats are a much more common farm animal.
 
@@ -36,7 +34,7 @@ Mint and Parsley grow well in the shade, as well as the common roots of Garlic a
 
 Beets grow wild in the deeper parts of the forest, and are almost always used as a sweetener either as whole or in sugar. Honey is as rare as beets, and just as about as hard to correctly harvest for its sweet juices.
 
-Nut oils and milks are made, but considered poor replacements for goat or cow's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
+Nut oils are made, but considered poor replacements for goat or cow's butter. Rarely, "true" Oils from the City in Gold make their way into the territories and are highly valued.
 
 #### Delicacy
 Beef and Cow's dairy are highly prized, along with White flour products. Good oils and spices are hard to come by in this area.
