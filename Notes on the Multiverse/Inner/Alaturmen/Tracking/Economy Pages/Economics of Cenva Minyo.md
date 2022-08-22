@@ -43,10 +43,14 @@ Culturally, it is unacceptable to be less than fully lucid. This does not mean t
 Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are for bargain if you know who and where to ask.
 
 ### Land
-As there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. As of now, there is no manner other than conquer to acquire a land of your own, and even then, your neighbor needs as you do. 
+While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. As of now, there is no manner other than "conquer and hold" land of your own, and even then, your neighbor needs as you do, and it is your duty as living kin to provide. 
+
+Cenvans live above the floor of the forest, preferring to farm the soils below, and live in the branches above.
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
+
+The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privitize
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
@@ -58,9 +62,7 @@ What does trade look like around here? What about guilds? Markets?
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
 ### Textiles
-What sort of fabrics / leathers are available and acceptable? What about dyes?
-
-Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile.
+Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile. Leather and fur are also acceptable, but non-elvenfiber plant material textiles are unacceptable. Cenvans rarely dye their clothing, much rather preferring to wear the greens and browns that keep them well hidden within their forests.
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
