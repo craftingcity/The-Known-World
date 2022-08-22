@@ -55,10 +55,9 @@ Where other cultures use powerful people or animals, Cenvans once again subvert 
 Cenvans live above the floor of the forest, preferring to farm the soils below, and live in the branches above. These form collections of well hidden hanging buildings connected by all manner of stair, bridge, rope, and otherwise. When necessary, large production buildings are built on the surface and hidden in thickets of barbed bushes.
 
 ### Cutting Corners
-How do people make ends meet? How do people value their luxuries?
-
 If possible, Cenvans in need are supported by their kin. If not, it is an honor to take leave of the homelands and fight against the Fates or the Fire in attempts to survive without your kin. It is a rarity to see a disparity of wealth between Cenvans - it would be culturally unacceptable, near *criminal*, for the wealthier not support the poorer.
 
+The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable for being meaningless. Privacy is desired, and thankfully, commonly available.
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
