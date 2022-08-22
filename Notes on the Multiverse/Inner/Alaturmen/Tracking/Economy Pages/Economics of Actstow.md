@@ -13,7 +13,9 @@ Potatoes grow well in the conditions of Acstow's greenhouses, and grow plentiful
 
 ### Food
 #### Meat
-Foul make up the large majority of an Acstownian's meat supplies. Chevron takes a far second. No game is available in Actstow, as it is neither produced nor imported here.
+Foul make up the large majority of an Acstownian's meat supplies. Home-Grown Chevron takes a far second, but Imported Chevron more common, and even Beef is available, though, both are expensive. 
+
+No game is available in Actstow, as it is neither produced nor imported here.
 
 #### Dairy
 Goat is the only available true dairy in Actstow. Peanut and Almond milks are acceptable substitutes in most cases - peanut being the local commodity, it is less expensive, almond being the desired commodity, it is imported quickly from neighboring states.

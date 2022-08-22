@@ -6,13 +6,15 @@ aliases:
 # The Economy of Cenva Minyo
 ## As suggested by Grains into Gold
 ### Prelim
-Cenva Minyo is a small permanent colony of Winter Elves that live to the South of the [[Actstow Hills]].
-
-### "Bread"
-What is *the* food?
+To the South of the [[Actstow Hills]], a thick pine forest is home to poor soil and [[Cenva Minyo]].
 
 ### Potato Bread
+On the floor of the forest, potatoes are cultivated by the farmers of Cenva Minyo. The soil here is poor, but not infertile, and the potatoes are hardy starch. Potato flour makes a wonderful white bread to boot.
+
+### Food
 #### Meat
+
+
 #### Dairy
 #### Grain
 #### Fruit
