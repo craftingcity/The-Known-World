@@ -46,7 +46,7 @@ A local delicacy of the children of Actstow is a frozen dairy cream, sweetened w
 Actstow is a fairly rich place, although not very well positioned for massive trade, meaning most delicacy is imported or outlawed.
 
 ### Vices
-Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere (or secretly home-grown) and are much more culturally acceptable.
+Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere (or secretly home-grown) and are much more culturally acceptable - all three are quite common.
 
 Some brothels crop up in Actstow, but these too are considered culturally unacceptable. They are generally run savagely in addition, as they must publicly exist to be assisted by the [[Guild of Merchants]].
 
