@@ -43,19 +43,22 @@ Culturally, it is unacceptable to be less than fully lucid. This does not mean t
 Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are for bargain if you know who and where to ask.
 
 ### Land
-While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. As of now, there is no manner other than "conquer and hold" land of your own, and even then, your neighbor needs as you do, and it is your duty as living kin to provide. 
+While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. 
 
-Cenvans live above the floor of the forest, preferring to farm the soils below, and live in the branches above.
+As of now, there is no manner other than "conquer and hold" land of your own, and even then, your neighbor needs as you do, and it is your duty as living kin to provide. 
 
 ### Overhead
-What about taxes? Work animals? Buildings? Productions?
-
 The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privatized wealth.
 
-Where other cultures use powerful people or animals, Cenvans once again subvert the norm and rely on their alliances; Cenvan farms and construction use Dwarven Artifice to perform these necessary super-humanoid feats.
+Where other cultures use powerful people or animals, Cenvans once again subvert the norm and rely on their alliances; Cenvan farms and construction use Artifice to perform these necessary super-humanoid feats. Often, this is of Dwarven in heritage, but Elven Artifice is equally present & productive.
+
+Cenvans live above the floor of the forest, preferring to farm the soils below, and live in the branches above. These form collections of well hidden hanging buildings connected by all manner of stair, bridge, rope, and otherwise. When necessary, large production buildings are built on the surface and hidden in thickets of barbed bushes.
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
+
+If possible, Cenvans in need are supported by their kin. If not, it is an honor to take leave of the homelands and fight against the Fates or the Fire in attempts to survive without your kin. It is a rarity to see a disparity of wealth between Cenvans - it would be culturally unacceptable, near *criminal*, for the wealthier not support the poorer.
+
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
