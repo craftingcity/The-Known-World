@@ -50,7 +50,9 @@ Cenvans live above the floor of the forest, preferring to farm the soils below, 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
 
-The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privitize
+The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privatized wealth.
+
+Where other cultures use powerful people or animals, Cenvans once again subvert the norm and rely on their alliances; Cenvan farms and construction use Dwarven Artifice to perform these necessary super-humanoid feats.
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
