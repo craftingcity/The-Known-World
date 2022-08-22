@@ -13,10 +13,14 @@ On the floor of the forest, potatoes are cultivated by the farmers of Cenva Miny
 
 ### Food
 #### Meat
-
+Game is the most accessible meat to any Cenvan. Small family ranches herd goats and pig. Rarely, Fowl is imported from the north, or Beef from the south.
 
 #### Dairy
+Goat is the only true dairy produced in Cenva Minyo. Peanut milk is a cheap but poor substitute imported from the north. Milk Cheese is highly desired, and is imported as often as possible.
+
 #### Grain
+Potato is the "grain" of Cenva Minyo; it's flour makes a fluffy white bread that the people of Cenva Minyo 
+
 #### Fruit
 #### Vegetable
 #### Spice and Oil
