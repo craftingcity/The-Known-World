@@ -15,7 +15,7 @@ Potatoes grow well in the conditions of Acstow's greenhouses, and grow plentiful
 #### Meat
 Fowl make up the large majority of an Acstownian's meat supplies. Some folk keep goats, for both their Chevon and Milk, but imported meat such as Beef or Pork are available as well. 
 
-No game is available in Actstow, as it is neither produced nor imported here.
+Game is uncommon and undesired, and is considered the worst meat available.
 
 #### Dairy
 Goat is the only available true dairy produced in Actstow. Peanut and Almond milks are acceptable substitutes in most cases - peanut being the local commodity, it is less expensive, almond being the desired commodity, it is imported quickly from neighboring states. Milk Cheese makes appearances in Actstow at drastic prices.

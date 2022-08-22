@@ -19,9 +19,11 @@ Game is the most accessible meat to any Cenvan. Small family ranches herd goats 
 Goat is the only true dairy produced in Cenva Minyo. Peanut milk is a cheap but poor substitute imported from the north. Milk Cheese is highly desired, and is imported as often as possible.
 
 #### Grain
-Potato is the "grain" of Cenva Minyo; it's flour makes a fluffy white bread that the people of Cenva Minyo 
+Potato is the "grain" of Cenva Minyo; it's flour makes a fluffy white bread that the people of Cenva Minyo treat as a honorable and common delicacy. Rarely, Cenvans gain access to Rye or Peanut flours, but neither is culturally acceptable for humanoid consumption.
 
 #### Fruit
+The fruit that grows in this place is bitter. Two fruits, Maupio and Yarpio, are the two most widely cultivated fruits of the area. They are both bitter and dark. Maupio takes the form of a etaerio, multiple sacs of juice and seed, while Yarpio takes the form of a berry, roughly the size and shape of a grap
+
 #### Vegetable
 #### Spice and Oil
 #### Delicacy
