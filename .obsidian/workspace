@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
               }
             }
           }
@@ -228,7 +228,7 @@
                   "leaf": "f3451871718c5bb3",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":64},\"to\":{\"line\":42,\"ch\":64}},\"scroll\":27.143720930232558}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":246},\"to\":{\"line\":45,\"ch\":246}},\"scroll\":27.143720930232558}"
                 }
               ]
             },
@@ -540,10 +540,10 @@
       }
     ]
   },
-  "active": "f3451871718c5bb3",
+  "active": "a84bb41aac15c1b7",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",

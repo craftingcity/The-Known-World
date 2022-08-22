@@ -40,10 +40,10 @@ Beef and Cow's dairy are highly prized, and so too are good oils.
 ### Vices
 Culturally, it is unacceptable to be less than fully lucid. This does not mean there is not a large market for Vice in Cenva Minyo;
 
-Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes
+Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are for bargain if you know who and where to ask.
 
 ### Land
-Think about how people get their land, from who, and what features would there be?
+As there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. As of now, there is no manner other than conquer to acquire a land of your own, and even then, your neighbor needs as you do. 
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
