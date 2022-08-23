@@ -82,11 +82,10 @@ Bread, Vegtables, Fruit, and Meat all can be preserved by elvenfiber by a simple
 Winter is a harsh season for Cenvans, and many cities must resort to sending some of it's members to return another time. Some do. Some do not.
 
 ### Containers
-What do people put stuff in? Do we show it or is it hidden? Can they be reused?
-
 When containing large quantities of edibles or other goods, wood is the prefered storage material; be it barrels crates, chests, etc. Typically, Cenvans prefer the natural re-usable container.
+
 ### Mining
-What can be mined? How elaborate are the setups?
+Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow]], all the metals used in Cenva Minyo come from the Hills to the north.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
