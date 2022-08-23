@@ -62,7 +62,7 @@ The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
-
+What little trade does happen between Cenva Minyo and another faction is exclusively a mutually beneficial relationship, Cenvans. 
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
