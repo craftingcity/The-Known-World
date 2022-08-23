@@ -66,7 +66,7 @@ What does trade look like around here? What about guilds? Markets?
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
 
 ### Textiles
-Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile. Leather and fur are also acceptable, but non-elvenfiber plant material textiles are unacceptable. Cenvans rarely dye their clothing, much rather preferring to wear the greens and browns that keep them well hidden within their forests.
+Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile. Leather and fur are also acceptable, but non-elvenfiber plant material textiles are unacceptable. Cenvans rarely dye their clothing, much rather preferring to wear the greens and browns that keep them well hidden within their forests, but those dyes that are used are typically imported from the south or east.
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
