@@ -79,12 +79,12 @@ Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, 
 ### Preservation
 Bread, Vegtables, Fruit, and Meat all can be preserved by elvenfiber by a simple, but complete, wrap. Typically, this is all that is necessary to preserve, but pickled vegetables, fruit preserve, and jerkied or dried meat are also made. In some cases, magically frigid or even frozen rooms or cases keep fresh foods. 
 
-Winter is a harsh season for Cenvans, and many cities must resort to sending some of it's members to return another time.
+Winter is a harsh season for Cenvans, and many cities must resort to sending some of it's members to return another time. Some do. Some do not.
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
 
-
+When containing large quantities of edibles or other goods, wood is the prefered storage material; be it barrels crates, chests, etc. Typically, Cenvans prefer the natural re-usable container.
 ### Mining
 What can be mined? How elaborate are the setups?
 
