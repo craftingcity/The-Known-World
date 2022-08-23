@@ -38,9 +38,9 @@ Goat's butter is the "oil" of choice for most Cenvans. The dreaded Peanut Oil ma
 Beef and Cow's dairy are highly prized, and so too are good oils from the south. When baked with a Pio paste and chopped carrots and radishes, a the products of Cattle or Goat make a dish liable to cause mutiny in your taste buds.
 
 ### Vices
-Culturally, it is unacceptable to be less than fully lucid. This does not mean there is not a large market for Vice in Cenva Minyo;
+Culturally, it is unacceptable to be less than fully lucid - ever watching for our enemy the White Flame, but this does not mean there is not a large market for Vice in Cenva Minyo;
 
-Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are for bargain if you know who and where to ask.
+Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are available for bargain if you know who and where to ask.
 
 ### Land
 While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. 
@@ -57,10 +57,12 @@ Cenvans live above the floor of the forest, preferring to farm the soils below, 
 ### Cutting Corners
 If possible, Cenvans in need are supported by their kin. If not, it is an honor to take leave of the homelands and fight against the Fates or the Fire in attempts to survive without your kin. It is a rarity to see a disparity of wealth between Cenvans - it would be culturally unacceptable, near *criminal*, for the wealthier not support the poorer.
 
-The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable for being meaningless. Privacy is desired, and thankfully, commonly available.
+The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable for being meaningless. Privacy is desired, and thankfully, commonly available - with it, comes the desire for Community, which thankfully too is common.
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
+
+
 
 ### Craftsmen
 How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
