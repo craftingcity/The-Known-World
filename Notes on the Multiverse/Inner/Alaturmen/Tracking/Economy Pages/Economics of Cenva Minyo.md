@@ -62,10 +62,16 @@ The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
-What little trade does happen between Cenva Minyo and another faction is exclusively a mutually beneficial relationship, Cenvans. 
+What little trade does happen between Cenva Minyo and another faction is exclusively a mutually beneficial relationship - whats the long term, why us, why you, how, etc. Between Cenvan themselves, "trade" is cuturally necessary.
+
+Those folk who craft specialty items share their knowledge freely to all who wish to learn and can prove themselves worthy to hold the power that the knowledge they keep wields.
+
+"Markets" are much more festivals or deliveries. Both involve the Cenvans of most ill-repute, honestly mostly as a time to enjoy themselves without the pressure of their society.
 
 ### Craftsmen
-How are the craftsmen organized? Guild? How are they monitored / maintain their monopoly on knowledge? Who's in charge? How do they charge?
+> Those folk who craft specialty items share their knowledge freely to all who wish to learn and can prove themselves worthy to hold the power that the knowledge they keep wields.
+
+Each crafter keeps their own requirements for apprenticeship. They are an honored class, who are granted their secrets in exchange for their products.
 
 ### Textiles
 Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile. Leather and fur are also acceptable, but non-elvenfiber plant material textiles are unacceptable. Cenvans rarely dye their clothing, much rather preferring to wear the greens and browns that keep them well hidden within their forests, but those dyes that are used are typically imported from the south or east.
@@ -73,7 +79,7 @@ Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
-
+Bread, Vegtables, Fruit, and Meat all can be preserved by elvenfiber by a simple, but complete, wrap. Typically, this is all that is necessary to preserve, as 
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
