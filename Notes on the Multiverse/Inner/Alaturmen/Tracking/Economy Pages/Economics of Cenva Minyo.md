@@ -27,7 +27,7 @@ Two fruits, Maupio and Yarpio, are the two most widely cultivated fruits of the 
 Both these fruits grow on a spikey moss-vine hybrid that, after years of growing, flowering, and repeating, will eventually supplant the roots of it's host and completely take over it's form. After the host body is no longer suitable, the body and the fruit will die - but not before spreading it's seeded fruits as far as it can to begin the process again.
 
 #### Vegetable
-Gardens of Lettuce, Cabbage, Radishes, and Carrots add material and textural variety as well as necessary nutrients to a Cenvan's diet.
+Gardens of Lettuce, Cabbage, Radishes, and Carrots add material and textural variety as well as necessary nutrients to a Cenvan's diet. Squahes and Pumpkin grow well, but are not considered a culturally acceptable food.
 
 #### Spice and Oil
 Root spices, such as Ginger, Onion, and Garlic, as well as Parsley are cultivated in these "spice of life" gardens. Beet Sugar and Rock Salt are imported from the north too, both of which are used as preservative and flavoring.
@@ -35,7 +35,7 @@ Root spices, such as Ginger, Onion, and Garlic, as well as Parsley are cultivate
 Goat's butter is the "oil" of choice for most Cenvans. The dreaded Peanut Oil makes for a cheap but poor replacement, but whenever possible, a "true" Oil imported from the City in Gold and used instead.
 
 #### Delicacy
-Beef and Cow's dairy are highly prized, and so too are good oils. 
+Beef and Cow's dairy are highly prized, and so too are good oils from the south. When baked with a Pio paste and chopped carrots and radishes, a the products of Cattle or Goat make a dish liable to cause mutiny in your taste buds.
 
 ### Vices
 Culturally, it is unacceptable to be less than fully lucid. This does not mean there is not a large market for Vice in Cenva Minyo;
@@ -70,6 +70,8 @@ Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, 
 
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+
+
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?

@@ -9,16 +9,15 @@ aliases:
 The Kingdom of Prosper controls what was the [[Bandit Lords]]' territory, which is majorly farmland, and otherwise fairly forested. While it is not itself rich in resources, Prosper's relationship with Actstow allows for them to be rich in metals and other precious materials. Magic does not impact the everyday life of a citizen of Prosper. The Kingdom is a medium, less-than temperate region. It experiences mild rains.
 
 ### Bread
-Rye is the common bread.
+Rye is the common bread. Hearty. Strong. Like us.
 
 White flour is better served making other foods than bread, such as cakes and muffins and jelly pastries and the like - a mild delicacy, one might say.
 
 ### Food
-What lives here?
 #### Meat
 Cattle are kept on large ranches in cities and villages, but herding and keeping cattle farther from civilization quickly becomes impossible, leading these people to use goats instead. Rabbit are also a commonly kept farm animal in this region.
 
-The forests of Prosper are populated by deer, turkey, goose, pig and smaller animals like rabbits, raccoon, and rodents. Most game is considered commoner's meat, because it's cheap, available, and not great! Fowl and Chevron reside a step above game, but Pork and Beef are leagues of their own.
+Game is a fairly common meat, and given the access people have to the higher quality Beef and Pork, it is considered an economic choice.
 
 #### Dairy
 Both goat and cow milk and cheese are available, but cows are both harder to maintain and more desirable, so they generally cost more than the goat alternative.
