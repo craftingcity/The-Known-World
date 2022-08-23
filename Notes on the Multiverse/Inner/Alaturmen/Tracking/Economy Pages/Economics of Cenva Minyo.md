@@ -77,12 +77,13 @@ Each crafter keeps their own requirements for apprenticeship. They are an honore
 Cenva Minyo exports much of Alaturmen's elvenfiber, second only to the Combine, and it is Cenva Minyo's most acceptable textile. Leather and fur are also acceptable, but non-elvenfiber plant material textiles are unacceptable. Cenvans rarely dye their clothing, much rather preferring to wear the greens and browns that keep them well hidden within their forests, but those dyes that are used are typically imported from the south or east.
 
 ### Preservation
-What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
+Bread, Vegtables, Fruit, and Meat all can be preserved by elvenfiber by a simple, but complete, wrap. Typically, this is all that is necessary to preserve, but pickled vegetables, fruit preserve, and jerkied or dried meat are also made. In some cases, magically frigid or even frozen rooms or cases keep fresh foods. 
 
-Bread, Vegtables, Fruit, and Meat all can be preserved by elvenfiber by a simple, but complete, wrap. Typically, this is all that is necessary to preserve, as 
+Winter is a harsh season for Cenvans, and many cities must resort to sending some of it's members to return another time.
 
 ### Containers
 What do people put stuff in? Do we show it or is it hidden? Can they be reused?
+
 
 ### Mining
 What can be mined? How elaborate are the setups?
