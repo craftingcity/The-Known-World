@@ -45,7 +45,7 @@ Jasmine, Water-Pepper, Wasabi, Basil, and Sage all grow well in the warmer wette
 
 Lemongrass often appears as a garnish and a tea in the Combine.
 
-Olive and Almond oils are imported from the West bank of the [[Alavini River]] for relatively cheap, and most middle class families could access them for their everyday meals.
+Olive and Almond oils are imported from the West bank of the [[Alvalini River]] for relatively cheap, and most middle class families could access them for their everyday meals.
 
 Poorer oils such as Heart-nut are imported from the north, but the common folk have little choice but goat butter or lard for their oil.
 

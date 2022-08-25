@@ -36,7 +36,7 @@
               "leaf": "2975e011d09535a8",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 26 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":46},\"to\":{\"line\":38,\"ch\":46}},\"scroll\":10.744537815126051}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":61},\"to\":{\"line\":65,\"ch\":61}},\"scroll\":11.201680672268907}"
             }
           ]
         },
@@ -59,7 +59,7 @@
               "leaf": "ea2eed00355634f7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 09 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":29.131627906976743}"
+              "eState": "{\"scroll\":14.216744186046512}"
             }
           ]
         },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
               }
             }
           }
@@ -226,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea2eed00355634f7",
+  "active": "c5571062f9b78ee5",
   "lastOpenFiles": [
     "Prenotes Aug 26 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
+    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
     "Game Notes/Campaign Rosters/Suk-uk, Seven, & Setella Roster.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md"
   ]
 }

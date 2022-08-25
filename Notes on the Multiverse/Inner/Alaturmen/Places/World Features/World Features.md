@@ -7,7 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[World Features]]**
 	- **Natural or Territory**
-		- [[Alavini River]]
+		- [[Alvalini River]]
 		- [[Deakred Range]]
 		- [[Great Northern Forests]]
 	- [[Three Nation Highways]]
