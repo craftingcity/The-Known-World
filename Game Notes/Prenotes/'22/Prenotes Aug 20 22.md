@@ -21,29 +21,33 @@ Not a ton. We'll begin in [[Coalition City]], in a Silver Unicorn of the [[Iron 
 
 We're beginning a new campaign. The party roster is here: [[Suk-uk, Seven, & Setella Roster]].
 The following jobs are listed on the board;
-
-In addition, each character knows two rumors; one is false, the other is true - dont tell them that though;
-- Suk-uk (True); a Dragonborn by the name of [[Valerio Avishalom|Avishalom]] knows the champions of the Great Adventure Dragon [[Kakurak]]
-- Suk-uk (False); 
-- Seven (True); 
-- Seven (False); the dwarves of [[Mountain Hall]] have a shoot-on-sight policy for outsiders - be wary traveling the [[Deakred Range]]
-- Setella (True); the [[Actstow Hills]] holds a wealth of knowledge, history even from before the [[Great Fires]]
-- Setella (False); the Library of [[The Golden City]] is grander than any you could imagine
 ### What happened?
+
+4 Wanted Posters
+	- Villanela, elven woman, 9000sp, tax evasion
+		- last seen fleeing home in [[Aeberu]]
+	- Henry Ford, human man, 1000sp, arson
+		- last seen at scene in [[Beacon]]
+Smattering of "Odd Jobs"
+	- Red Leather Strip; HELP WANTED: KAILKEEP
+
+The party met Mary and Steve, a pair of Guardians of the Iron Ward; [[Mary Gullim]] is a fresh faced human fighter who instantly became infatuated with Setella, and [[Steve Wrainyr]] is a Too Cool ranger tactician who will back his girl no matter what, in that more experienced buddy-cop kinda way.
+
+
 
 #### Watches
 | In-game Date:      |                    | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
-| Navigator          | W1 (0:00 – 4:00)   | -          |            |                |
-|                    | W2 (4:00 – 8:00)   | -          |            |                |
+| Navigator          | W1 (0:00 – 4:00)   | REST       |            |                |
+|                    | W2 (4:00 – 8:00)   | REST       |            |                |
 | Intended Direction | W3 (8:00 – 12:00)  | -          |            |                |
-|                    | W4 (12:00 – 16:00) | ACTIVE     |            |                |
-| Veer?              | W5 (16:00 – 20:00) | ACTIVE     | YES        | STORY BEAT     | 
+|                    | W4 (12:00 – 16:00) | TRAVEL     |            |                |
+| Veer?              | W5 (16:00 – 20:00) | ACTIVE     | YES        | STORY BEAT     |
 |                    | W6 (20:00 – 0:00)  |            |            |                |
 #### Notes
 W1:
 W2:
 W3:
 W4:
-W5:
+W5: 5 strikes of lightning crackle down into the center of [[Aeberu]]
 W6:
