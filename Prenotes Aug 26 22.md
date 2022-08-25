@@ -11,8 +11,19 @@ aliases:
 	- [ ] encounters / monsters?
 	- [ ] intro / recap?
 
+
+# PREGAME RULES ANNOUNCEMENT
+watch types
+
+active v rest v travel
+
 ### Intro
 
+When last we left our heroes, they had just set camp in the foothills of the [[Deakred Range]], a Watch's travel to the [[Iron Ward]] of [[Coalition City]]. The yellow sun of the day is beginning to set to a bright orange, and it will not be long until the orange turns dim, and the dusk of the moon supplants the day's sky.
+
+I have a few questoions; 
+	- What does camp look like?
+	- Who's doing what?
 
 ### What does the World Know?
 
@@ -68,6 +79,8 @@ With a stammer, Mary states; "Holy shit... What... The fuck?"
 What do you do?
 
 ### What does the World Know?
+
+We need to push [[Suk-uk]]'s Inherited Scale, [[Seven]]'s alien waterness, and [[Setella]]'s Elven Heritage
 
 #### Watches
 | In-game Date:      | 21st of Rebirth    | Watch Type | Encounter? | Encounter Type |

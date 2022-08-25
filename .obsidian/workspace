@@ -13,7 +13,7 @@
               "leaf": "2975e011d09535a8",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 26 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":3},\"to\":{\"line\":5,\"ch\":66}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":156},\"to\":{\"line\":15,\"ch\":156}},\"scroll\":0}"
             }
           ]
         },
@@ -27,39 +27,16 @@
         }
       },
       {
-        "id": "de3d92d16f39b3c8",
+        "id": "c0c4674d268a5689",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "de3d92d16f39b3c8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":54,\"ch\":3}},\"scroll\":32.51348837209302}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "ea2eed00355634f7",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "ea2eed00355634f7",
+              "leaf": "c0c4674d268a5689",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 09 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":12.247441860465116}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30.76372093023256}"
             }
           ]
         },
@@ -228,12 +205,12 @@
   },
   "active": "2975e011d09535a8",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
+    "Prenotes Aug 26 22.md",
+    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
     "Glot Maxim.md",
     "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Prenotes Aug 26 22.md",
     "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
     "Game Notes/Campaign Rosters/Suk-uk, Seven, & Setella Roster.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
