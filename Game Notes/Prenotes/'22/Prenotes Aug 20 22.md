@@ -17,6 +17,8 @@ Our story begins in a tavern, as all good stories do. We see a mass of people, a
 What does the camera see as we watch the figures each react to a job posting?
 
 ### What does the World Know?
+ingame date: 21st of Rebirth 105AF
+
 Not a ton. We'll begin in [[Coalition City]], in a Silver Unicorn of the [[Iron Ward]].
 
 We're beginning a new campaign. The party roster is here: [[Suk-uk, Seven, & Setella Roster]].
@@ -36,7 +38,7 @@ The party met Mary and Steve, a pair of Guardians of the Iron Ward; [[Mary Gulli
 
 
 #### Watches
-| In-game Date:      |                    | Watch Type | Encounter? | Encounter Type |
+| In-game Date:      | 21st of Rebirth    | Watch Type | Encounter? | Encounter Type |
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
 | Navigator          | W1 (0:00 – 4:00)   | REST       |            |                |
 |                    | W2 (4:00 – 8:00)   | REST       |            |                |

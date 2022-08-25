@@ -4,29 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c5571062f9b78ee5",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c5571062f9b78ee5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":16.43906976744186}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "2975e011d09535a8",
         "type": "leaf",
         "pane-relief:history-v1": {
@@ -36,7 +13,7 @@
               "leaf": "2975e011d09535a8",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 26 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":61},\"to\":{\"line\":65,\"ch\":61}},\"scroll\":11.201680672268907}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":3},\"to\":{\"line\":5,\"ch\":66}},\"scroll\":0}"
             }
           ]
         },
@@ -44,6 +21,29 @@
           "type": "markdown",
           "state": {
             "file": "Prenotes Aug 26 22.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "de3d92d16f39b3c8",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "de3d92d16f39b3c8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 20 22.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":54,\"ch\":3}},\"scroll\":32.51348837209302}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
             "mode": "source",
             "source": true
           }
@@ -59,7 +59,7 @@
               "leaf": "ea2eed00355634f7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Aug 09 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":14.216744186046512}"
+              "eState": "{\"scroll\":12.247441860465116}"
             }
           ]
         },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
+                "file": "Prenotes Aug 26 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
+                "file": "Prenotes Aug 26 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
+                "file": "Prenotes Aug 26 22.md"
               }
             }
           }
@@ -226,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5571062f9b78ee5",
+  "active": "2975e011d09535a8",
   "lastOpenFiles": [
+    "Glot Maxim.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
     "Prenotes Aug 26 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
+    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
     "Game Notes/Campaign Rosters/Suk-uk, Seven, & Setella Roster.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
   ]
 }

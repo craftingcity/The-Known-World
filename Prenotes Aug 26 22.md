@@ -38,14 +38,14 @@ W6:
 | ------------------ | ------------------ | ---------- | ---------- | -------------- |
 | Navigator          | W1 (0:00 – 4:00)   |            |            |                |
 |                    | W2 (4:00 – 8:00)   |            |            |                |
-| Intended Direction | W3 (8:00 – 12:00)  |            |            |                |
+| Intended Direction | W3 (8:00 – 12:00)  |            | YES        | STORY BEAT     | 
 |                    | W4 (12:00 – 16:00) |            |            |                |
 | Veer?              | W5 (16:00 – 20:00) |            |            |                |
 |                    | W6 (20:00 – 0:00)  |            |            |                |
 #### Notes
 W1:
 W2:
-W3:
+W3: A failed attempt at necromancy by [[Qiell Tilemundon]]
 W4:
 W5:
 W6:
@@ -68,6 +68,23 @@ With a stammer, Mary states; "Holy shit... What... The fuck?"
 What do you do?
 
 ### What does the World Know?
+
+#### Watches
+| In-game Date:      | 21st of Rebirth    | Watch Type | Encounter? | Encounter Type |
+| ------------------ | ------------------ | ---------- | ---------- | -------------- |
+| Navigator          | W1 (0:00 – 4:00)   | REST       |            |                |
+|                    | W2 (4:00 – 8:00)   | REST       |            |                |
+| Intended Direction | W3 (8:00 – 12:00)  | -          |            |                |
+|                    | W4 (12:00 – 16:00) | TRAVEL     |            |                |
+| Veer?              | W5 (16:00 – 20:00) | ACTIVE     | YES        | STORY BEAT     |
+|                    | W6 (20:00 – 0:00)  |            |            |                |
+#### Notes
+W1:
+W2:
+W3: flubbering about in [[Coalition City]]
+W4: merchant boat
+W5: 5 strikes of lightning crackle down into the center of [[Aeberu]]
+W6:
 
 #### Watches
 | In-game Date:      | 22nd of Rebirth    | Watch Type | Encounter? | Encounter Type |

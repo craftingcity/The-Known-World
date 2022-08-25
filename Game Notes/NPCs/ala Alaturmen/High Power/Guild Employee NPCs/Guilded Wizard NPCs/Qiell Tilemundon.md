@@ -16,4 +16,6 @@ Qiell is the Black Mage on the [[Guild of Wizards]]. It is his responsibility to
 #### Character Goal
 ### Current
 #### Character Goal
+Bind Orcus, and force him to grant me the secrets of Lichdom and Undeath, then banish him. 
+
 #### Location
