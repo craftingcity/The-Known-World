@@ -60,4 +60,16 @@ W4:
 W5:
 W6:
 
+## Rumors
+1. The Council of Wizards has been silent regarding the "Second Hum"
+2. The Guild of Rangers is in need of brave souls to explore the Wildlands
+3. Gnolls are hungrier than they should be
+4. A prophet of Ar'Kraven has been born in Beacon
+5. The Baron Jammu has declared a war with the Scrivin Blood Clan
+6. Supply lines south of the Coalition City have been righteously defended from raiders by the Guild of Adventurers
+7. The foothills of Mountain Hall have been raided by Humans
+8. Wyverns have been awnry and disobedient to their Riders
+9. The Airstrip in the Golden Ward has been finished
+10. 
+
 ### What happened?
