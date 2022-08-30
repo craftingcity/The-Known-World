@@ -8,26 +8,7 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": [
-            {
-              "leaf": "b897e2c95ea5ba44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 29 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":23},\"to\":{\"line\":71,\"ch\":23}},\"scroll\":44.892857142857146}"
-            },
-            {
-              "leaf": "b897e2c95ea5ba44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 26 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "b897e2c95ea5ba44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Glot Maxim.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
+          "stack": []
         },
         "state": {
           "type": "markdown",
@@ -64,10 +45,6 @@
           {
             "id": "471fab77001b02ee",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -83,10 +60,6 @@
           {
             "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -95,10 +68,6 @@
           {
             "id": "c9c6df654ceb5f29",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -122,10 +91,6 @@
           {
             "id": "214128aa17851074",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
@@ -143,10 +108,6 @@
           {
             "id": "a784ad59b314c9b4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -159,10 +120,6 @@
           {
             "id": "60736712cabd0795",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -174,10 +131,6 @@
           {
             "id": "f44a3da8351e916d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
@@ -192,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b897e2c95ea5ba44",
+  "active": "470822c6e780fecc",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Aug 29 22.md",
