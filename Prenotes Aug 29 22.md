@@ -70,6 +70,6 @@ W6:
 7. The foothills of Mountain Hall have been raided by Humans
 8. Wyverns have been awnry and disobedient to their Riders
 9. The Airstrip in the Golden Ward has been finished
-10. 
+10. Orcus Cultists have been appearing in the south
 
 ### What happened?

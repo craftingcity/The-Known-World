@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b897e2c95ea5ba44",
+        "id": "766de8577b5a529c",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "b897e2c95ea5ba44",
+              "leaf": "766de8577b5a529c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 29 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":23},\"to\":{\"line\":71,\"ch\":23}},\"scroll\":44.892857142857146}"
-            },
-            {
-              "leaf": "b897e2c95ea5ba44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 26 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "b897e2c95ea5ba44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Glot Maxim.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Prenotes Aug 29 22.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -129,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 29 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 29 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +162,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Aug 29 22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,10 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b897e2c95ea5ba44",
+  "active": "766de8577b5a529c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Aug 29 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Aug 26 22.md",
     "Glot Maxim.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
