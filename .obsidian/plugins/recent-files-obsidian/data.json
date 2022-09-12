@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Guild Representitives",
+      "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
       "basename": "Prenotes Aug 29 22",
-      "path": "Prenotes Aug 29 22.md"
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md"
     },
     {
       "basename": "Coalition City",
@@ -10,11 +34,11 @@
     },
     {
       "basename": "Prenotes Aug 26 22",
-      "path": "Prenotes Aug 26 22.md"
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 26 22.md"
     },
     {
       "basename": "Glot Maxim",
-      "path": "Glot Maxim.md"
+      "path": "Game Notes/NPCs/ala Alaturmen/Mild Power/Midboss/Glot Maxim.md"
     },
     {
       "basename": "Prenotes Aug 09 22",
@@ -173,32 +197,8 @@
       "path": "Game Notes/Prenotes/'22/'22.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
       "basename": "Psionics",
       "path": "MEDIA/SUPP/DOCS/Psionics.pdf"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Custom Armor Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
-    },
-    {
-      "basename": "Westlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/S.E.C. Regions/Great Southern Mossland/Westlick Mossland.md"
-    },
-    {
-      "basename": "Cenva Minyo",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
     }
   ],
   "omittedPaths": [],

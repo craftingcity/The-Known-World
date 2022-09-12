@@ -41,13 +41,13 @@ for the graph: [[Here lie my suppliments...]]
 			- **[[Folk of Business]]**
 			- **[[Guild Representitives]]**
 			- [[Hektor Salar]]
+			- **Midboss**
+				- [[Glot Maxim]]
 			- **[[Tendered]]**
 			- **[[Thief Lords of the Desert]]**
 		- [[on Alaturmen]]
 		- **Weak Power**
 			- **[[Combine Citizens]]**
-			- **Desert Citizens**
-			- **G-City Citizens**
 			- **King's Tenants**
 				- [[Balthazar Wumfingle]]
 				- **[[Ex-Bandit Lords]]**
