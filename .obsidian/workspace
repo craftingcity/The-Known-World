@@ -8,15 +8,18 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "b897e2c95ea5ba44",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Prenotes Aug 29 22.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -94,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 29 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 29 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Aug 29 22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "470822c6e780fecc",
+  "active": "b897e2c95ea5ba44",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Aug 29 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Aug 26 22.md",
     "Glot Maxim.md",
     "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
