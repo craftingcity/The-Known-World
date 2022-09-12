@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "766de8577b5a529c",
+        "id": "7c2751cc1c42ab29",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "766de8577b5a529c",
+              "leaf": "7c2751cc1c42ab29",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -172,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "766de8577b5a529c",
+  "active": "7c2751cc1c42ab29",
   "lastOpenFiles": [
-    "Prenotes Aug 29 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Prenotes Aug 26 22.md",
-    "Glot Maxim.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Game Notes/NPCs/ala Alaturmen/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
-    "Game Notes/Campaign Rosters/Suk-uk, Seven, & Setella Roster.md"
+    "ORGANIZATION/ORGANIZATION.md",
+    "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
+    "conflict-files-obsidian-git.md",
+    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
+    "ORGANIZATION/TEMPLATES/Faction Turn Insert.md",
+    "Game Notes/NPCs/ala Alaturmen/Mild Power/Glot Maxim.md",
+    "Spike's Characters/Spike's Characters.md",
+    "ORGANIZATION/FACTION TURN/z_Faction Turn 104W.md",
+    "ORGANIZATION/FACTION TURN/Reactions for Faction Turn.md",
+    "ORGANIZATION/FACTION TURN/Full Actions Choices for Faction Turn.md"
   ]
 }
