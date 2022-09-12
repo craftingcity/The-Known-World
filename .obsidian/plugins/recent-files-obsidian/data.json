@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
+      "basename": "KingdomOfProsper-105AF",
+      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+    },
+    {
+      "basename": "combine-100AF",
+      "path": "MEDIA/MAPS/WORLD/combine-100AF.png"
+    },
+    {
+      "basename": "alaturmen-100AF",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-100AF.png"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -19,10 +59,6 @@
     {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
       "basename": "Prenotes Aug 29 22",
@@ -63,10 +99,6 @@
     {
       "basename": "Suk-uk, Seven, & Setella Roster",
       "path": "Game Notes/Campaign Rosters/Suk-uk, Seven, & Setella Roster.md"
-    },
-    {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -167,38 +199,6 @@
     {
       "basename": "Baron Avory",
       "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Avory.md"
-    },
-    {
-      "basename": "Slimknives",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
-    },
-    {
-      "basename": "Baron Shimmer",
-      "path": "Game Notes/NPCs/ala Alaturmen/High Power/Barons of Combine NPCs/Baron Shimmer.md"
-    },
-    {
-      "basename": "Custom Class - Psion",
-      "path": "Game Notes/Mechanics/Custom Class - Psion.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "GiantsToe - Upper",
-      "path": "MEDIA/MAPS/DUNG/GiantsToe - Upper.png"
-    },
-    {
-      "basename": "Prenotes Aug 04 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 04 22.md"
-    },
-    {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
-    },
-    {
-      "basename": "Psionics",
-      "path": "MEDIA/SUPP/DOCS/Psionics.pdf"
     }
   ],
   "omittedPaths": [],

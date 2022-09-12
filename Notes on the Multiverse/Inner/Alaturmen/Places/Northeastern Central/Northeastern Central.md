@@ -20,9 +20,11 @@ aliases:
 	- **Smaller than a city**
 		- [[Anren Ungrith]]
 		- [[Dhug Kahldur]]
+		- **Forests of Actsow**
 		- [[Geghloch]]
 		- [[Hameer]]
 		- [[Helvuagh]]
+		- **Hills of Actsow**
 		- [[Khoghull]]
 		- [[Unyalian]]
 		- [[Yahlin]]

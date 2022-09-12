@@ -4,55 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "fbede65e00a68e26",
+        "id": "a53b2ddaf0ee1ff5",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "fbede65e00a68e26",
+              "leaf": "a53b2ddaf0ee1ff5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "fbede65e00a68e26",
+              "leaf": "a53b2ddaf0ee1ff5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fbede65e00a68e26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "fbede65e00a68e26",
+              "leaf": "a53b2ddaf0ee1ff5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/ala Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "fbede65e00a68e26",
+              "leaf": "a53b2ddaf0ee1ff5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "fbede65e00a68e26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "fbede65e00a68e26",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "fbede65e00a68e26",
+              "leaf": "a53b2ddaf0ee1ff5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
@@ -62,7 +44,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
             "mode": "source",
             "source": true
           }
@@ -159,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
               }
             }
           }
@@ -222,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbede65e00a68e26",
+  "active": "a53b2ddaf0ee1ff5",
   "lastOpenFiles": [
-    "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/NPCs/ala Alaturmen/Mild Power/Guild Representitives/Guild Representitives.md",
-    "Game Notes/Prenotes/Prenotes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 26 22.md",
-    "Game Notes/NPCs/ala Alaturmen/Mild Power/Midboss/Glot Maxim.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 09 22.md"
+    "MEDIA/MEDIA.md",
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png",
+    "MEDIA/MAPS/WORLD/combine-100AF.png",
+    "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
+    "README.md"
   ]
 }
