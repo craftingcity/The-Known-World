@@ -11,29 +11,91 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northeastern Central]]**
-	- **N.E.C Regions**
-		- [[Actstow Hills]]
-		- [[Arthur's Prairie]]
-		- [[Greenhilles]]
-		- [[Gumlpin]]
-		- [[Illburn Forest]]
-	- **Smaller than a city**
-		- [[Anren Ungrith]]
-		- [[Dhug Kahldur]]
-		- [[Geghloch]]
-		- [[Hameer]]
-		- [[Helvuagh]]
-		- [[Khoghull]]
-		- [[Unyalian]]
-		- [[Yahlin]]
-	- **Smaller than a feature**
+	- **Greater Villages & Cities**
 		- [[Castle Prosper]]
 		- [[Gambleum]]
 		- [[Janesland]]
 		- [[Magius]]
 		- [[Moonlight]]
 		- [[Yerba]]
-	- **Smaller than a village**
+	- **Lower Villages**
+		- **By Castle Prosper**
+			- [[Amirisson]]
+			- [[Freedrick]]
+			- [[Oezand]]
+			- [[Qak-Dakon]]
+			- [[Tegri]]
+			- [[Terinjhof]]
+			- [[Warevik]]
+			- [[Woahbee]]
+		- **By Gambleum**
+			- [[Adjga]]
+			- [[Herring]]
+			- [[Lamzere]]
+			- [[Neunwald]]
+			- [[Omdurber]]
+		- **By Janesland**
+			- [[Conring]]
+			- [[Dornbeck]]
+			- [[Lendvien]]
+			- [[Melsaneas]]
+			- [[Osa Allangar]]
+			- [[Selataesi]]
+		- **By Magius**
+			- [[Asyha]]
+			- [[Gafmelle]]
+			- [[Infa]]
+			- [[Thyfir]]
+		- **By Moonlight**
+			- [[Altho]]
+			- [[Beldare]]
+			- [[Boizen]]
+			- [[Grand Central]]
+			- [[Hoogberg]]
+			- [[Wickderry]]
+		- **By Yerba**
+			- [[Anchansheen]]
+			- [[Bandeer]]
+			- [[Buqyr]]
+			- [[Craydon]]
+			- [[Merran]]
+			- [[Path]]
+			- [[Vilrode]]
+			- [[Wolftrenk]]
+		- **In Forests of Actsow**
+			- [[Anren Ungrith]]
+			- [[Mafal]]
+			- [[Onehana]]
+			- [[Unyalian]]
+			- [[Yahlin]]
+		- **In Hills of Actsow**
+			- [[Dhug Kahldur]]
+			- [[Geghloch]]
+			- [[Hameer]]
+			- [[Helvuagh]]
+			- [[Khig Kuldon]]
+			- [[Khoghull]]
+			- [[Nolrhia]]
+		- **In Illburn Forest**
+			- [[Arbrogh Hillkeep]]
+			- [[Bulgpim's Plots]]
+			- [[Emorin's Plots]]
+			- [[Forest-City of Garqwuk]]
+			- [[Gidiz's Plots]]
+			- [[Hurraquk Hillkeep]]
+			- [[Liothraia's Plots]]
+			- [[Mendowab Hillkeep]]
+			- [[Modgron Hillkeep]]
+			- [[Scrivin's Plots]]
+			- [[Tolecant Hillkeep]]
+			- [[Wheernat Hillkeep]]
+	- **Regions of NEC**
+		- [[Actstow Hills]]
+		- [[Arthur's Prairie]]
+		- [[Greenhilles]]
+		- [[Gumlpin]]
+		- [[Illburn Forest]]
+	- **Specific Places**
 		- [[Archmage Barrowinch's Tower]]
 		- [[Brandle Wrench]]
 		- [[Dragons Blood Inn]]
