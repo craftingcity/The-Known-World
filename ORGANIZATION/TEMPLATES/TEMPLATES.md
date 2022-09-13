@@ -1,13 +1,10 @@
 # TEMPLATES Overview
 %% Begin Waypoint %%
 - **[[TEMPLATES]]**
-	- [[Adventure]]
 	- [[Campaign Roster]]
-	- [[Disambiguation]]
 	- [[Economy]]
-	- [[FT Faction List at H3]]
-	- [[FT Free Actions]]
-	- [[FT Full Bonus Main Phase]]
+	- [[Faction Turn Insert]]
+	- [[Faction Turn Page]]
 	- [[Group]]
 	- [[Holdings]]
 	- [[NPCs]]

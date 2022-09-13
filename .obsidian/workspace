@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2751cc1c42ab29",
+        "id": "108135819cff0032",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "7c2751cc1c42ab29",
+              "leaf": "108135819cff0032",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -172,7 +172,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c2751cc1c42ab29",
+  "active": "108135819cff0032",
   "lastOpenFiles": [
     "ORGANIZATION/ORGANIZATION.md",
     "ORGANIZATION/TEMPLATES/Faction Turn Page.md",

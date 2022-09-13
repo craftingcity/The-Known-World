@@ -1,0 +1,5 @@
+- [ ] Gain 1/2 Wealth as Treasure
+- [ ] Asset Upkeep
+- [ ] Special Abilities
+- [ ] Main Action
+- [ ] Assess Goal
