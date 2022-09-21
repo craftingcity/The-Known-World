@@ -16,7 +16,7 @@ aliases:
 	- Known as the Axiom of Meaning, this axiom holds that one can manipulate the Strands described by Fila Texere and "sew new meaning" or create purposed effects from these Strands. 
 5. **Nodum Inuocationem**
 	- Known as the Axiom of Knots, this axiom holds that the Weave invokes "super-natural", "naturally disruptive", or "magical" effects when a Knot is created *or* released in the Weave.
-	- This axiom is partly contested by the [[#Turring-Turring Theory Theory of Potential]], which proves that the Druidic claim that the Knots of the Weave are explicitly "super-natural" or "naturally disruptive" is false. 
+	- This axiom is partly contested by the [[#Scree'up-Turring Theory Theory of Potential]], which proves that the Druidic claim that the Knots of the Weave are explicitly "super-natural" or "naturally disruptive" is false. 
 	- Otherwise, the Axiom of Knots explains the basic concept of Weave Arcane, spellcasting, and reality.
 6. **Density Exponentialibus**
 	- Known as the Axiom of Density, this axiom holds that there is no theoretical limit on the density of a Knot in the Weave, only the practical ability to apply the force necessary to maintain the Knot as it becomes denser.
