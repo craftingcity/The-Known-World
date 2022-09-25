@@ -1,4 +1,5 @@
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -9,13 +10,20 @@
 
 # Guilds
 ### HQ
+#### Legendary Personas
+#### Battle-Wizard
+### TROOPS
 ### ELITES
+#### War-Mages
+#### Far-Pikers 
+#### Hard-Plate Suits
 ### FAST
 ### HEAVY
 ### SUPPORT
 ### TRANSPORT
 # White Flames
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -23,6 +31,7 @@
 ### TRANSPORT
 # DCP
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -30,6 +39,7 @@
 ### TRANSPORT
 # Blood Clans
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -37,6 +47,7 @@
 ### TRANSPORT
 # Druidic Circles
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -44,6 +55,7 @@
 ### TRANSPORT
 # Emotional Circles
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -51,13 +63,15 @@
 ### TRANSPORT
 # Desert Theives
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
 ### SUPPORT
 ### TRANSPORT
-# Dwarven Leages
+# Dwarven Leagues
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -65,6 +79,7 @@
 ### TRANSPORT
 # Elven Leagues
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -72,6 +87,7 @@
 ### TRANSPORT
 # Orcish Leagues
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
@@ -79,6 +95,7 @@
 ### TRANSPORT
 # Bandit Leagues
 ### HQ
+### TROOPS
 ### ELITES
 ### FAST
 ### HEAVY
