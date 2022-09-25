@@ -12,13 +12,25 @@
 ### HQ
 #### Legendary Personas
 #### Battle-Wizard
+#### Battle Commander
 ### TROOPS
+#### Conscripts Corps
+#### Infantry Corps
+#### Archer Corps
 ### ELITES
-#### War-Mages
-#### Far-Pikers 
-#### Hard-Plate Suits
+#### Veteran Corps
+#### War-Mage
+#### Far-Piker 
+#### Hard-Plate Officer
+#### Special Weapons Corps
+#### Bulk Corps
 ### FAST
+#### Joust Corps
+#### Assault Cart
 ### HEAVY
+#### Cannon Battery
+#### Trebuchet Battery
+#### "Manticore" Battery
 ### SUPPORT
 ### TRANSPORT
 # White Flames
