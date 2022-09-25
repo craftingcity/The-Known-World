@@ -19,20 +19,22 @@
 #### Archer Corps
 ### ELITES
 #### Veteran Corps
+#### Engineering Corps
 #### War-Mage
-#### Far-Piker 
-#### Hard-Plate Officer
 #### Special Weapons Corps
-#### Bulk Corps
+#### Companion Corps
 ### FAST
 #### Joust Corps
 #### Assault Cart
 ### HEAVY
-#### Cannon Battery
+#### Heavy Bolt Battery
 #### Trebuchet Battery
 #### "Manticore" Battery
 ### SUPPORT
+#### Light Bolt Battery
+#### Anti-Air Bolt Battery
 ### TRANSPORT
+#### 
 # White Flames
 ### HQ
 ### TROOPS
