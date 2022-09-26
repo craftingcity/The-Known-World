@@ -11,7 +11,7 @@
 # Guilds
 ### HQ
 #### Legendary Personas
-#### Battle-Wizard
+#### War Mage
 #### Battle Commander
 ### TROOPS
 #### Conscripts Corps
@@ -20,9 +20,9 @@
 ### ELITES
 #### Veteran Corps
 #### Engineering Corps
-#### War-Mage
 #### Special Weapons Corps
 #### Companion Corps
+#### Caster Corps
 ### FAST
 #### Joust Corps
 #### Assault Cart
@@ -34,15 +34,30 @@
 #### Light Bolt Battery
 #### Anti-Air Bolt Battery
 ### TRANSPORT
-#### 
+#### Light Transport Cart
+#### Heavy Transport Cart
 # White Flames
 ### HQ
+#### Spoken
+#### Paladin of It's Greatness
 ### TROOPS
+#### Patron Conscripts
+#### Tendered Warriors
 ### ELITES
+#### Battle-Hardened Tendered
+#### Caster Corps
+#### Purified Wasters
 ### FAST
+#### Waste-Zephyr
+#### Assault Cart
 ### HEAVY
+#### Holy Intervention
+#### White-Oil Caster
+#### Castigator
 ### SUPPORT
 ### TRANSPORT
+#### Light Transport Cart
+#### Heavy Transport Cart
 # DCP
 ### HQ
 ### TROOPS
@@ -67,7 +82,7 @@
 ### HEAVY
 ### SUPPORT
 ### TRANSPORT
-# Emotional Circles
+# Emotional Churches
 ### HQ
 ### TROOPS
 ### ELITES
@@ -75,7 +90,7 @@
 ### HEAVY
 ### SUPPORT
 ### TRANSPORT
-# Desert Theives
+# Desert Thieves
 ### HQ
 ### TROOPS
 ### ELITES
