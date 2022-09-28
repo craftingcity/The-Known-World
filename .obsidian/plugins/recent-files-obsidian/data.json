@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Alaturmen Population Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Alaturmen Population Data.md"
+    },
+    {
+      "basename": "Economy Pages",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
       "basename": "Faction Units",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "Faction Turn Insert",
       "path": "ORGANIZATION/TEMPLATES/Faction Turn Insert.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
     },
     {
       "basename": "Tracking",
@@ -179,26 +199,6 @@
     {
       "basename": "Herring",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Herring.md"
-    },
-    {
-      "basename": "Neunwald",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Neunwald.md"
-    },
-    {
-      "basename": "Omdurber",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Omdurber.md"
-    },
-    {
-      "basename": "Lamzere",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Lamzere.md"
-    },
-    {
-      "basename": "Adjga",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Adjga.md"
-    },
-    {
-      "basename": "Osa Allangar",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md"
     }
   ],
   "omittedPaths": [],

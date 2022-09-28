@@ -46,7 +46,8 @@
 ### ELITES
 #### Battle-Hardened Tendered
 #### Caster Corps
-#### Purified Wasters
+#### Conscripts
+#### Heavy Conscripts
 ### FAST
 #### Waste-Zephyr
 #### Assault Cart
@@ -76,6 +77,7 @@
 ### TRANSPORT
 # Druidic Circles
 ### HQ
+#### Avatar Of Idol
 ### TROOPS
 ### ELITES
 ### FAST
