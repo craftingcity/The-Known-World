@@ -12,7 +12,14 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
-	- **N.W.C. Regions**
+	- **Greater Villages & Cities**
+		- [[Baskin]]
+		- [[Kohnstamm]]
+		- [[The Holy City of Kanielkiln]]
+		- [[Wychway]]
+	- **Lower Villages**
+		- [[Giant's Toe]]
+	- **Regions of NWC**
 		- [[Firelight Sea]]
 		- **[[The Holyl'nds]]**
 			- [[Central Holyl'nd]]
@@ -23,14 +30,7 @@ aliases:
 			- [[Redl'nds]]
 			- [[Sinazel Ambonas]]
 			- [[South Littemotto]]
-	- **Smaller than a city**
-		- [[Giant's Toe]]
-	- **Smaller than a feature**
-		- [[Baskin]]
-		- [[Kohnstamm]]
-		- [[The Holy City of Kanielkiln]]
-		- [[Wychway]]
-	- **Smaller than a village**
+	- **Specific Places**
 		- [[Kakurak's Lair]]
 
 %% End Waypoint %%

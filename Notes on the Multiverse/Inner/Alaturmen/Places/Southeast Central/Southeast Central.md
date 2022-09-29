@@ -11,7 +11,17 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southeast Central]]**
-	- **S.E.C. Regions**
+	- **Greater Villages & Cities**
+		- [[Beacon]]
+		- [[Darnt Hillkeep]]
+		- [[Mossburg]]
+		- [[Red Throne]]
+	- **Lower Villages**
+		- [[Aeberu]]
+		- [[Asilar's Bounty]]
+		- [[Four Stone]]
+		- [[Neverwallow]]
+	- **Regions of SEC**
 		- [[Gabrin Shrublands]]
 		- **[[Great Quillbuck Jungle]]**
 			- [[Northern Quillbuck Jungle]]
@@ -27,17 +37,7 @@ aliases:
 		- [[Huntyr Swamp]]
 		- [[Reugb Marshes]]
 		- [[Wetfoot Greenland]]
-	- **Smaller than a city**
-		- [[Aeberu]]
-		- [[Asilar's Bounty]]
-		- [[Four Stone]]
-		- [[Neverwallow]]
-	- **Smaller than a feature**
-		- [[Beacon]]
-		- [[Darnt Hillkeep]]
-		- [[Mossburg]]
-		- [[Red Throne]]
-	- **Smaller than a village**
+	- **Specific Places**
 		- [[Darktower]]
 		- [[Stone of Desmoniur]]
 

@@ -75,7 +75,7 @@ aliases:
 			- [[Helvuagh]]
 			- [[Khig Kuldon]]
 			- [[Khoghull]]
-			- [[Nolrhia]]
+			- [[Nelrhia]]
 		- **In Illburn Forest**
 			- [[Arbrogh Hillkeep]]
 			- [[Bulgpim's Plots]]

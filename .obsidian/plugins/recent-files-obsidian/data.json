@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Nelrhia",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Nelrhia.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+    },
+    {
       "basename": "Alaturmen Population Data",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Alaturmen Population Data.md"
     },
     {
       "basename": "Economy Pages",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
       "basename": "About People",
@@ -43,10 +75,6 @@
     {
       "basename": "Faction Turn Insert",
       "path": "ORGANIZATION/TEMPLATES/Faction Turn Insert.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
     },
     {
       "basename": "Inner",
@@ -117,10 +145,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Texts Druidic.md"
     },
     {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Grand Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Grand Central.md"
-    },
-    {
-      "basename": "Altho",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Altho.md"
-    },
-    {
-      "basename": "Beldare",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Beldare.md"
-    },
-    {
-      "basename": "Boizen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Boizen.md"
-    },
-    {
-      "basename": "Hoogberg",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Hoogberg.md"
-    },
-    {
-      "basename": "Wickderry",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Wickderry.md"
-    },
-    {
-      "basename": "Herring",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Herring.md"
     }
   ],
   "omittedPaths": [],
