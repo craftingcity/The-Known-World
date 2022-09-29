@@ -2,32 +2,36 @@
 tags: holding,
 aliases:
 ---
+# Yerba
+#### The Tearoom of Arthur's Kingdom
+## Holding of [[Noble House a'LeQuinn]]
+### Located in {Region}, X:Y
+## Description
+### Quote
 
-# Holding Tags
-Prosperity: Wealthy
-Population: Steady
-Defenses: Guard
-Other Tags: Market
+### General Public Disposition
 
-# Description
-Yerba is an old city, founded in the time of the [[Bandit Lords]], the effects of [[The Arstoviches]] are still remembered. Today, the city swears fealty to [[Noble House a'LeQuinn]] and [[The Kingdom of Prosper]].
+### Background
+## Important Places & Symbolism
 
-## Physicality of the Holding
-A grand city, the Kingdom's largest in-fact, with beautiful gardens and cobbled streets.
-## Population Distribution
-If it differs from the nation's...
-
-## Defenses
-
-## Notable Locations
-[[Sally Seashell]] runs [[Sally's Alley]] in the alley between [[Brandle Wrench]], [[Earlwynn's Fine Dining]], and the [[Yawning Pillow]] Inn.
-
-[[Alisinder Rancarlo]]'s Glass Company makes much of the glassware and windows in Yerba.
-
-[[Dragons Blood Inn]]'s is a mid level tavern, but the heading of the Kingdom of Prosper's Underground Fighting Collective. Many other inns, taverns, and boutiques participate in the greater UFC.
-
-[[Kirin's Stables]] is the largest stable on the south east side of the city.
-
-[[Northstone Family Trading Company]] is a family of merchants based in Yerba and operating throughout the north east.
-
-[[Mateus Tree]] gardens.
+## Economics
+|                  | # of Traders |                |     |                 |     |     |
+| ---------------- | ------------ | -------------- | --- | --------------- | --- | --- |
+| Bakers           | 37           | Furriers       | 56  | Roofers         | 17  |     |
+| Barbers          | 66           | Glovemakers    | 11  | Ropemakers      | 14  |     | 
+| Bathers          | 11           | Harness-makers | 15  | Rugmakers       | 8   |     |
+| Beer-sellers     | 7            | Hatmakers      | 14  | Saddlers        | 9   |     |
+| Blacksmiths      | 11           | Hay Merchants  | 6   | Scabbardmakers  | 36  |     |
+| Bleachers        | 8            | Illuminators   | 2   | Sculptors       | 12  |     |
+| Bookbinders      | 9            | Inns           | 12  | Shoemakers      | 172 |     |
+| Booksellers      | 1            | Jewelers       | 23  | Spice Merchants | 19  |     |
+| Buckle Makers    | 14           | Locksmiths     | 6   | Tailors         | 40  |     |
+| Butchers         | 23           | Magic Shops    | 7   | Tanners         | 14  |     |
+| Carpenters       | 44           | Maidservants   | 72  | Taverns         | 58  |     |
+| Chandlers        | 28           | Masons         | 39  | Watercarriers   | 20  |     |
+| Chicken Butchers | 31           | Mercers        | 12  | Weavers         | 36  |     |
+| Coopers          | 22           | Old Clothes    | 22  | Wine-sellers    | 32  |     |
+| Copyists         | 5            | Painters       | 17  | Woodcarvers     | 12  |     |
+| Cutlers          | 5            | Pastrycooks    | 19  | Woodsellers     | 4   |     |
+| Doctors          | 19           | Plasterers     | 19  |                 |     |     |
+| Fishmongers      | 11           | Pursemakers    | 24  |                 |     |     |

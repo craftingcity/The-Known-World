@@ -2,23 +2,19 @@
 tags: holding,
 aliases:
 ---
+# Magius
+#### Omnium Arcana
+## Holding of [[Noble House a'Valim]]
+### Located in {Region}, X:Y
+## Description
+### Quote
 
-# Holding Tags
-Prosperity: Rich
-Population: Shrinking
-Defenses: Guard
-Other Tags: Need (Food), Arcane, Personage ([[Alergra Barrowinch]]), Blight (Arcane Experiments)
+### General Public Disposition
 
-![[Magius-100AF.png]]
-# Description
-Any sort of local lore...
-## Physicality of the Holding
+### Background
+## Important Places & Symbolism
 
-## Population Distribution
-If it differs from the nation's...
-
-## Defenses
-
-## Notable Locations
-### Magius University
-### Archmage's Tower
+## Economics
+|     | # of Traders |
+| --- | ------------ |
+|     |              |

@@ -14,4 +14,7 @@ aliases:
 ### Background
 ## Important Places & Symbolism
 
-
+## Economics
+|     | # of Traders |
+| --- | ------------ |
+|     |              |
