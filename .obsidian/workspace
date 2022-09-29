@@ -12,14 +12,41 @@
             {
               "leaf": "9249cb817d3ed2af",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c17b65389114089b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c17b65389114089b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -93,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -113,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +192,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
+              }
             }
           }
         ]
@@ -174,6 +206,8 @@
   },
   "active": "9249cb817d3ed2af",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md",
@@ -181,8 +215,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Lakeview/Millnyr.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Lakeview/Lundyson.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Lakeview/Shyla Belanore.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Kamarios.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Lakeview/Lundyson.md"
   ]
 }
