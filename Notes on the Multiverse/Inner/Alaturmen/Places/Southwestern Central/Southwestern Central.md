@@ -7,10 +7,36 @@ aliases:
 - **[[Southwestern Central]]**
 	- **Greater Villages & Cities**
 		- [[Kickoff]]
-		- [[Kickoff's Great Durandurm Mines]]
+		- [[The Golden City]]
 	- **Lower Villages**
-		- [[Ginger's Nopal & Agave Farm]]
-		- [[Millyr]]
+		- **Near Agrandica's Savanna**
+			- [[Ahaustin]]
+			- [[Graciyl]]
+			- [[Mozolica]]
+			- [[Pilima]]
+		- **Near Barthalamule's Shrubland**
+			- [[Abricadabrin]]
+			- [[Falaj Dawheer]]
+			- [[Masham]]
+			- [[Thurm]]
+		- **Near Cobalt's Cacti Field**
+			- [[Djante]]
+			- [[Farisaria]]
+			- [[Tjebtekken]]
+			- [[Wabys]]
+		- **Near Kickoff**
+			- [[Bordbalt]]
+			- [[Cagaou]]
+			- [[Ixtalee]]
+			- [[Yares]]
+		- **Near Lord's Folly**
+			- [[Cetaka]]
+			- [[Raezumar]]
+		- **Near Tetrimoc's Blessings**
+			- [[Athenion]]
+			- [[Kamarios]]
+			- [[Mocaea]]
+			- [[Motonnos]]
 	- **Regions of SWC**
 		- **Deakred Foothills**
 			- [[Red Hills]]
@@ -25,6 +51,8 @@ aliases:
 			- [[South Dunes]]
 			- [[Tetrimoc's Blessings]]
 	- **Specific Places**
+		- [[Ginger's Nopal & Agave Farm]]
+		- [[Kickoff's Great Durandurm Mines]]
 		- [[Tybir's Camel Ranch]]
 
 %% End Waypoint %%

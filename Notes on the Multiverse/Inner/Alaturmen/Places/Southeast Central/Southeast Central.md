@@ -22,14 +22,13 @@ aliases:
 		- [[Red Throne]]
 		- [[Zalfari]]
 	- **Lower Villages**
-		- [[Aeberu]]
-		- [[Asilar's Bounty]]
 		- **Near Barkryn**
 			- [[Asilar's Bounty]]
 		- **Near Beacon**
 			- [[Amourain]]
+			- [[Farrow Watch]]
 			- [[Klear Hold]]
-			- [[Untitled]]
+			- [[Larfstone]]
 		- **Near Boneborn**
 			- [[Bannerburn]]
 			- [[Black Egal]]
@@ -44,7 +43,16 @@ aliases:
 			- [[Pittens]]
 			- [[Renshaw]]
 		- **Near Goldfield**
+			- [[Adem Tanniqu]]
+			- [[Aeberu]]
+			- [[Ain Faihu]]
+			- [[Ibrun]]
+			- [[Pitpoert]]
+			- [[Thingrass]]
 		- **Near Lakeview**
+			- [[Lundyson]]
+			- [[Millnyr]]
+			- [[Shyla Belanore]]
 		- **Near Mossburg**
 			- [[Crullfeld]]
 			- [[Fourstone]]
@@ -55,7 +63,10 @@ aliases:
 			- [[Falseguard]]
 			- [[Millnyr]]
 		- **Near Zalfari**
-		- [[Neverwallow]]
+			- [[Chishran]]
+			- [[Hitharu]]
+			- [[Karalwana]]
+			- [[Slyfront]]
 	- **Regions of SEC**
 		- [[Gabrin Shrublands]]
 		- **[[Great Quillbuck Jungle]]**
