@@ -26,7 +26,7 @@ aliases:
 | Bookbinders      | 9            | Inns           | 12  | Shoemakers      | 172 |     |
 | Booksellers      | 1            | Jewelers       | 23  | Spice Merchants | 19  |     |
 | Buckle Makers    | 14           | Locksmiths     | 6   | Tailors         | 40  |     |
-| Butchers         | 23           | Magic Shops    | 7   | Tanners         | 14  |     |
+| Butchers         | 23           | Magic Shops    | 1   | Tanners         | 14  |     |
 | Carpenters       | 44           | Maidservants   | 72  | Taverns         | 58  |     |
 | Chandlers        | 28           | Masons         | 39  | Watercarriers   | 20  |     |
 | Chicken Butchers | 31           | Mercers        | 12  | Weavers         | 36  |     |
