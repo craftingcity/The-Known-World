@@ -13,12 +13,40 @@ aliases:
 %% Begin Waypoint %%
 - **[[Northwestern Central]]**
 	- **Greater Villages & Cities**
-		- [[Baskin]]
 		- [[Kohnstamm]]
+		- [[Odaya]]
 		- [[The Holy City of Kanielkiln]]
 		- [[Wychway]]
+		- [[Yagil]]
 	- **Lower Villages**
+		- [[Baskin]]
 		- [[Giant's Toe]]
+		- **Near Kanielkiln**
+			- [[Gamamein]]
+			- [[Lavas]]
+			- [[Momiyach]]
+			- [[Tanniweh]]
+			- [[Tanusik]]
+		- **Near Kohnstamm**
+			- [[Bashar]]
+			- [[Gushteeppey]]
+			- [[Kosh A'afi]]
+			- [[Runaraa]]
+		- **Near Odaya**
+			- [[Andonath]]
+			- [[Halastir]]
+			- [[Omnid]]
+			- [[Warzus]]
+		- **Near Wychway**
+			- [[Jeryan Shahiri]]
+			- [[Musca]]
+			- [[Narrow]]
+			- [[Nor Butcher]]
+		- **Near Yagil**
+			- [[Hackrevistan]]
+			- [[Leenta]]
+			- [[Neih Aqaue]]
+			- [[Surabous]]
 	- **Regions of NWC**
 		- [[Firelight Sea]]
 		- **[[The Holyl'nds]]**

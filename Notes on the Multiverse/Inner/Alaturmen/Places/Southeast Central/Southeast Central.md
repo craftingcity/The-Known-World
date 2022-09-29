@@ -12,14 +12,49 @@ aliases:
 %% Begin Waypoint %%
 - **[[Southeast Central]]**
 	- **Greater Villages & Cities**
+		- [[Barkryn]]
 		- [[Beacon]]
+		- [[Boneborn]]
 		- [[Darnt Hillkeep]]
+		- [[Goldfield]]
+		- [[Lakeview]]
 		- [[Mossburg]]
 		- [[Red Throne]]
+		- [[Zalfari]]
 	- **Lower Villages**
 		- [[Aeberu]]
 		- [[Asilar's Bounty]]
-		- [[Four Stone]]
+		- **Near Barkryn**
+			- [[Asilar's Bounty]]
+		- **Near Beacon**
+			- [[Amourain]]
+			- [[Klear Hold]]
+			- [[Untitled]]
+		- **Near Boneborn**
+			- [[Bannerburn]]
+			- [[Black Egal]]
+			- [[Hyrwinch]]
+			- [[Smoothpost]]
+			- [[Trike Reef]]
+		- **Near Darnt Hillkeep**
+			- [[Caerfyrddin]]
+			- [[Glenarm]]
+			- [[Keld]]
+			- [[Naker Narnclae]]
+			- [[Pittens]]
+			- [[Renshaw]]
+		- **Near Goldfield**
+		- **Near Lakeview**
+		- **Near Mossburg**
+			- [[Crullfeld]]
+			- [[Fourstone]]
+			- [[Hyacynthyia]]
+			- [[Veritas Garigill]]
+		- **Near Red Throne**
+			- [[Bilemuck]]
+			- [[Falseguard]]
+			- [[Millnyr]]
+		- **Near Zalfari**
 		- [[Neverwallow]]
 	- **Regions of SEC**
 		- [[Gabrin Shrublands]]
