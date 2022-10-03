@@ -27,7 +27,7 @@ I don't really know who Villanella is yet, but I'm fairly certain she works for 
 1. Villanella works for [[Cenva Minyo]] as an accountant.
 	- ledgers in locked drawer of desk name [[Cenva Minyo]] as a repeat customer of "Consumer Goods" from the Aeberu Institution of Export.
 	- note in clothing reads "Molca~marale~malo, maita~massa~ ~mandya onnamma. Cenva Minyo. / *YOUR WORK IS APPRECIATED COMRADE, BREAD AND BUTTER FEEDS OUR CHILDREN. FOR THE HATRED OF FLAME. WE LIVE HERE.* "
-	- 
+	- the rug of her bedroom has the Cenvan Triangle overtly dyed
 2. Villanella left in a hurry.
 	- a bag of clothing lies strewn across the bed
 	- a candle is burnt out at the endtable of the bed
@@ -35,6 +35,6 @@ I don't really know who Villanella is yet, but I'm fairly certain she works for 
 3. Villanella's bounty is more than a simple catch and cash.
 	- painted across her door; "COME SWIM ELF"
 	- a letter reads; "Dearest Villanella, It has come to the attention of the Guild of Merchants, in particular my desk, that there are discrepancies in the accounting figures you have submitted with regard to your expenses, revenues and the calculated profits and in particular the *taxes* you owe as the *single* owner of the Aeberu Institution of Export. The dogs smell the burn of paper. Go home. We will not lose ground. You will find reassignment after this fire dies. *Alalintie* comrade. - K.R.S."
-	- 
+	- a squad of [[Hillkeep Loyalists]] are attempting to use the confusion of the attack to sack Villanella's house.
 
 ### What happened?
