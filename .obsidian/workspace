@@ -13,7 +13,7 @@
               "leaf": "5b60008405fbb61f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Oct 02 22.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":3},\"to\":{\"line\":29,\"ch\":3}},\"scroll\":24.89609274366681}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "5b60008405fbb61f",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -258,7 +259,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "471fab77001b02ee",
+  "active": "5b60008405fbb61f",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
