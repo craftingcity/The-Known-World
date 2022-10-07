@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "His Greater Plan",
+      "path": "His Greater Plan.md"
+    },
+    {
       "basename": "Castle Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
+    },
+    {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
       "basename": "Castle Prosper OLD",
@@ -105,10 +113,6 @@
       "path": "Yerba OLD.md"
     },
     {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Farisaria",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Cobalt's Cacti Field/Farisaria.md"
-    },
-    {
-      "basename": "Wabys",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Cobalt's Cacti Field/Wabys.md"
     }
   ],
   "omittedPaths": [],
