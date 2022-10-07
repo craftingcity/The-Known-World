@@ -13,7 +13,7 @@
               "leaf": "37ddf94d9db90420",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":373},\"to\":{\"line\":22,\"ch\":373}},\"scroll\":13.658980582524272}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":230},\"to\":{\"line\":22,\"ch\":230}},\"scroll\":11.759466019417475}"
             },
             {
               "leaf": "37ddf94d9db90420",
@@ -81,29 +81,6 @@
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b72f3bd451bb3737",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b72f3bd451bb3737",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"His Greater Plan.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "His Greater Plan.md",
             "mode": "source",
             "source": true
           }
@@ -176,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Greater Plan.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Greater Plan.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Greater Plan.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
               }
             }
           }
@@ -267,42 +244,6 @@
     "id": "a39a5fceb260a4c7",
     "type": "floating",
     "children": [
-      {
-        "id": "2f3d83cbb766972a",
-        "type": "window",
-        "children": [
-          {
-            "id": "833ba33420d9fbb4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "833ba33420d9fbb4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Castle Prosper OLD.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":63},\"to\":{\"line\":15,\"ch\":63}},\"scroll\":4.019902912621359}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Castle Prosper OLD.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      },
       {
         "id": "de3ae7e2017f19ec",
         "type": "window",
@@ -341,17 +282,17 @@
       }
     ]
   },
-  "active": "471fab77001b02ee",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Castle Prosper OLD.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
+    "His Greater Plan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
   ]
 }
