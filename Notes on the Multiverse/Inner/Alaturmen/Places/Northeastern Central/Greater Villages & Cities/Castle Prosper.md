@@ -7,7 +7,7 @@ aliases:
 ## Holding of [[Arthur's Knights]] & [[Simonson Clan]]
 ### Located in [[Arthur's Prairie]], H-M24
 ## Description
-### Quote
+### "The stone heart of his Empire. A hard-stuck nail in soft wood."
 
 ### General Public Disposition
 

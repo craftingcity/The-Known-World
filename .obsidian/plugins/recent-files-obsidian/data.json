@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Castle Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Castle Prosper OLD",
+      "path": "Castle Prosper OLD.md"
+    },
+    {
+      "basename": "Economy Pages",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
+    },
+    {
+      "basename": "Population Center Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
+    },
+    {
+      "basename": "Population Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
+    },
+    {
+      "basename": "Faction Units",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    },
+    {
+      "basename": "Magic Item Authors",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Merchant Companies and their Routes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
       "basename": "Aeberu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
     },
     {
       "basename": "Prenotes Oct 02 22",
-      "path": "Prenotes Oct 02 22.md"
+      "path": "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md"
     },
     {
       "basename": "Goldfield",
@@ -33,10 +77,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
       "basename": "Yerba",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
     },
@@ -57,14 +97,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md"
     },
     {
-      "basename": "Castle Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
-    },
-    {
-      "basename": "Population Center Demographics",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Demographics.md"
-    },
-    {
       "basename": "Yerba OLD",
       "path": "Yerba OLD.md"
     },
@@ -78,7 +110,7 @@
     },
     {
       "basename": "Noble House a'Valim",
-      "path": "Noble House a'Valim.md"
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md"
     },
     {
       "basename": "Game Notes",
@@ -87,14 +119,6 @@
     {
       "basename": "Tracking",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Castle Prosper OLD",
-      "path": "Castle Prosper OLD.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
     },
     {
       "basename": "Places",
@@ -175,30 +199,6 @@
     {
       "basename": "Abricadabrin",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md"
-    },
-    {
-      "basename": "Masham",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md"
-    },
-    {
-      "basename": "Falaj Dawheer",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md"
-    },
-    {
-      "basename": "Thurm",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Thurm.md"
-    },
-    {
-      "basename": "Graciyl",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Graciyl.md"
-    },
-    {
-      "basename": "Ahaustin",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Ahaustin.md"
-    },
-    {
-      "basename": "Mozolica",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Mozolica.md"
     }
   ],
   "omittedPaths": [],

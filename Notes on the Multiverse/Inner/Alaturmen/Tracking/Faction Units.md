@@ -10,55 +10,55 @@
 
 # Guilds
 ### HQ
-#### Legendary Personas
-#### War Mage
-#### Battle Commander
+###### Legendary Personas
+###### War Mage
+###### Battle Commander
 ### TROOPS
-#### Conscripts Corps
-#### Infantry Corps
-#### Archer Corps
+###### Conscripts Corps
+###### Infantry Corps
+###### Archer Corps
 ### ELITES
-#### Veteran Corps
-#### Engineering Corps
-#### Special Weapons Corps
-#### Companion Corps
-#### Caster Corps
+###### Veteran Corps
+###### Engineering Corps
+###### Special Weapons Corps
+###### Companion Corps
+###### Caster Corps
 ### FAST
-#### Joust Corps
-#### Assault Cart
+###### Joust Corps
+###### Assault Cart
 ### HEAVY
-#### Heavy Bolt Battery
-#### Trebuchet Battery
-#### "Manticore" Battery
+###### Heavy Bolt Battery
+###### Trebuchet Battery
+###### "Manticore" Battery
 ### SUPPORT
-#### Light Bolt Battery
-#### Anti-Air Bolt Battery
+###### Light Bolt Battery
+###### Anti-Air Bolt Battery
 ### TRANSPORT
-#### Light Transport Cart
-#### Heavy Transport Cart
+###### Light Transport Cart
+###### Heavy Transport Cart
 # White Flames
 ### HQ
-#### Spoken
-#### Paladin of It's Greatness
+###### Spoken
+###### Paladin of It's Greatness
 ### TROOPS
-#### Patron Conscripts
-#### Tendered Warriors
+###### Patron Conscripts
+###### Tendered Warriors
 ### ELITES
-#### Battle-Hardened Tendered
-#### Caster Corps
-#### Conscripts
-#### Heavy Conscripts
+###### Battle-Hardened Tendered
+###### Caster Corps
+###### Conscripts
+###### Heavy Conscripts
 ### FAST
-#### Waste-Zephyr
-#### Assault Cart
+###### Waste-Zephyr
+###### Assault Cart
 ### HEAVY
-#### Holy Intervention
-#### White-Oil Caster
-#### Castigator
+###### Holy Intervention
+###### White-Oil Caster
+###### Castigator
 ### SUPPORT
 ### TRANSPORT
-#### Light Transport Cart
-#### Heavy Transport Cart
+###### Light Transport Cart
+###### Heavy Transport Cart
 # DCP
 ### HQ
 ### TROOPS

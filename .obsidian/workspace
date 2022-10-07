@@ -4,15 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3cb7fc35c18e0e",
+        "id": "37ddf94d9db90420",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2f3cb7fc35c18e0e",
+              "leaf": "37ddf94d9db90420",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Castle Prosper OLD.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":5.336440431109817}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "37ddf94d9db90420",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -20,7 +80,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+            "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
             "mode": "source",
             "source": true
           }
@@ -117,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
               }
             }
           }
@@ -180,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f3cb7fc35c18e0e",
+  "active": "37ddf94d9db90420",
   "lastOpenFiles": [
-    "Prenotes Oct 02 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Grumbling Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Gabrin Shrublands.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Ain Faihu.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+    "Castle Prosper OLD.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
   ]
 }

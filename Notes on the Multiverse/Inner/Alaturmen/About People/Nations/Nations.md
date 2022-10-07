@@ -41,6 +41,7 @@ aliases:
 			- [[Arthur's Knights]]
 			- [[Noble House a'Haruuc]]
 			- [[Noble House a'LeQuinn]]
+			- [[Noble House a'Valim]]
 			- [[Northstone Family Trading Company]]
 			- [[Simonson Clan]]
 			- [[The Arstoviches]]
