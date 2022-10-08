@@ -11,8 +11,8 @@ aliases:
 
 ## Tables
 ### Encounter
-**Location Check:** 1 in 1d6
 **Encounter Check:** 1 in 1d8
+**Scenario Check:** 1 in 1d6
 **Border Encounters:** 1 in 1d10
 
 

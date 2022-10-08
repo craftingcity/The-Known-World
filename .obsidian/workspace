@@ -4,99 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37ddf94d9db90420",
+        "id": "a4b7679dc653ef16",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "37ddf94d9db90420",
+              "leaf": "a4b7679dc653ef16",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":9,\"ch\":16}},\"scroll\":5.303398058252427}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/YOINKAGE/DOA01-Below_Wyrmsmir.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Castle Prosper OLD.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":5.336440431109817}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "37ddf94d9db90420",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -264,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37ddf94d9db90420",
+  "active": "a4b7679dc653ef16",
   "lastOpenFiles": [
-    "Noble House a'Fen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "ORGANIZATION/TEMPLATES/Region.md",
+    "Noble House a'Fen.md",
     "MEDIA/SUPP/YOINKAGE/DOA01-Below_Wyrmsmir.png",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
     "Castle Prosper OLD.md",
     "His Greater Plan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
   ]
 }

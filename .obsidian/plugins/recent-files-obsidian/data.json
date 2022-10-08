@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
+    },
+    {
       "basename": "Noble House a'Fen",
       "path": "Noble House a'Fen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Djante",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Cobalt's Cacti Field/Djante.md"
-    },
-    {
-      "basename": "Tjebtekken",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Cobalt's Cacti Field/Tjebtekken.md"
     }
   ],
   "omittedPaths": [],
