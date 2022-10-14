@@ -77,14 +77,14 @@ date: 000TBT~AF
 title: The Fall.
 content: 
 
-[[Tetrimoc]] falls, battered and bloodied. 
+[[Tetrimoc]] falls, battered and bloodied. Time comes to Alaturmen.
 
 date: 003AF
 title: Druids invoke Weave Arcane.
 content:
 The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, enscribed the first scrolls. From them, and the further teachings of her magnificence, Animan, they came to understand workings of the Idol's domains, as well as her sister's. 
 
-See [[The Druidic Texts]]
+See [[The Druidic Texts]].
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword.
@@ -96,25 +96,25 @@ date: 017AF
 title: Bandits rule the [[Great Northern Forests]].
 content:
 
-The young people of Alaturmen quickly find violence against one another to be a profitable venture. [[Bandit Lords]] come to rule city-states in the northern half of [[Central Alaturmen]]. Some of their members travel south too, never forgoing an opportunity to expand their influence.
+The young people of Alaturmen quickly find violence against one another to be a profitable venture. [[Bandit Lords]] come to rule city-states in the northern half of [[Central Alaturmen]]. Some of their members travel south too, never for-going an opportunity to expand their influence.
 
 date: 023AF
 title: The [[Great Fires]] begin.
 content:
 
-From the sky, a droplet of White Fire spreads amegeddon in the [[Great Northern Forests]]
+From the sky, a droplet of White Fire spreads amegeddon in the [[Great Northern Forests]]. Years of fire begin to burn, allowing only children of humans or elves yet to become five years of age to escape it's immolations.
 
 date: 028AF
 title: Minyostalma Falls.
 content:
 
-In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy, therefore it was immolated. It stands now as [[The Old]], and as the only surviving structures from the time before the Flame.
+In the eyes of [[Its Greatness]], [[The Old|the elven city of Minyostalma]] was unworthy, therefore it was to be exterminated. It stands now as [[The Old]], and as the only surviving structures from the time before the White Flame.
 
 date: 032AF
 title: Hobgoblins form the Blood Clans.
 content:
 
-After years of subjugation from the [[Bandit Lords]], the hobgoblin of the  [[Great Northern Forests]] form the [[Blood Hobgoblin Clan Pact]] and begin to make war against foes and kin alike.
+After years of subjugation from the [[Bandit Lords]], the hobgoblin of the [[Great Northern Forests]] form the [[Blood Hobgoblin Clan Pact]] and begin to make war against foes and kin alike.
 
 date: 040AF
 title: Southern [[Bandit Lords]] shatter.
