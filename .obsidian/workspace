@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aba953f84ddcc825",
+        "id": "da3e2b6558a7b118",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "aba953f84ddcc825",
+              "leaf": "da3e2b6558a7b118",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Languages.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":29},\"to\":{\"line\":14,\"ch\":29}},\"scroll\":8.153883495145632}"
             }
           ]
         },
@@ -21,29 +21,6 @@
           "type": "markdown",
           "state": {
             "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "a5855ea14cd3c17d",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "a5855ea14cd3c17d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
             "mode": "source",
             "source": true
           }
@@ -116,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aba953f84ddcc825",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Dwarven (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Goblin (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Go.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md",
-    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Celestial (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Mechanis (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Celestial (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "ORGANIZATION/TEMPLATES/Region.md",
-    "Noble House a'Fen.md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
   ]
 }

@@ -5,16 +5,20 @@
       "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
     {
-      "basename": "Ancient Human (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md"
+      "basename": "Dwarven (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Dwarven (language).md"
     },
     {
-      "basename": "Mechanis(language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md"
+      "basename": "Goblin (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Goblin (language).md"
+    },
+    {
+      "basename": "Mechanis (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Mechanis (language).md"
     },
     {
       "basename": "Celestial (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Celestial (language).md"
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Celestial (language).md"
     },
     {
       "basename": "Golden Claws",
@@ -191,14 +195,6 @@
     {
       "basename": "Motonnos",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Motonnos.md"
-    },
-    {
-      "basename": "Mocaea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Mocaea.md"
-    },
-    {
-      "basename": "Athenion",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Athenion.md"
     }
   ],
   "omittedPaths": [],
