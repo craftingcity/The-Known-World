@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "How the Weave becomes Magic",
+      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
+    },
+    {
       "basename": "Languages",
       "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Kamarios",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Kamarios.md"
-    },
-    {
-      "basename": "Motonnos",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Motonnos.md"
     }
   ],
   "omittedPaths": [],

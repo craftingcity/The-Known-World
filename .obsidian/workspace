@@ -12,15 +12,27 @@
             {
               "leaf": "da3e2b6558a7b118",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "da3e2b6558a7b118",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.842718446601942}"
+            },
+            {
+              "leaf": "da3e2b6558a7b118",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Languages.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":29},\"to\":{\"line\":14,\"ch\":29}},\"scroll\":8.153883495145632}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":25},\"to\":{\"line\":13,\"ch\":25}},\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+            "file": "Notes on the Multiverse/Big Lore/Timeline.md",
             "mode": "source",
             "source": true
           }
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
               }
             }
           }
@@ -180,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a09bf3a4e0bad9d",
+  "active": "da3e2b6558a7b118",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Dwarven (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Goblin (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Go.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Mechanis (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Celestial (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md"
   ]
 }

@@ -11,7 +11,7 @@ Before and forever after this event, however, the Titans of the Time Before Time
 > Explicitly; Abyssal, Celestial, Draconic, Goblin, Infernal, Mechanis, Primordial, and Sylvan all are children languages of [[Titan(language)]].
 
 ## Age of Beginning
-### Transfered Languages
+### Transferred Languages
 #### Draconic
 #### Goblin
 ### Post-Primordial Languages
@@ -22,6 +22,7 @@ Before and forever after this event, however, the Titans of the Time Before Time
 #### Elven
 #### Human
 ##### Ancient Human
+###### Thieves Cant
 ##### Post-Contact
 ###### Desertspeech
 ###### High Common

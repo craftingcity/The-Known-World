@@ -9,7 +9,7 @@ tags: timeline-labeled, bookkeeping
 - Though the Time Before Time is numerically logged and charted, I, the writer of this setting, am a being who experiences time; the beings of the Time Before Time don't. Like, they still don't. Never will.
 - 
 ```timeline-labeled
-date: 99999TBT
+date: 99xxxTBT
 title: Three Fates Weave
 content:
 
@@ -17,13 +17,13 @@ Three beings beyond undestanding create the Weave, the fabric of reality.
 
 To begin the tapestry of time, these beings created Titans; they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants cobbled themselves together into the [[Demogorgon]].
 
-date: 85000TBT
+date: 85xxxTBT
 title: Annam rips, tears, sews - creates.
 content:
 
 Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. These planes birthed many beings, including the [[Immortal Dragons]].
 
-date: 76399TBT
+date: 76xxxTBT
 title: [[All-Father Annam]] and [[Asmodeus]] strike a deal.
 content:
 
@@ -33,11 +33,11 @@ Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the
 
 When the [[Immortal Dragons]] came to him and asked for a plane of their own, for they grow tired of sharing with the other Titans, he said, 'Of course, my friends', and he crafted for them [[Abyss]] and chuckled to himself.
 
-date: 55303TBT
+date: 55xxxTBT
 title: [[Immortal Dragons]] make a fool of the [[All-Father Annam]]
 content:
 
-date: 23410TBT
+date: 23xxxTBT
 title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
 content:
 
@@ -45,9 +45,11 @@ As it's consigliere, the [[Queen of Swords]] advised [[Jabbawok]] in a private m
 
 The [[All-Father Annam]] saw this as a disgrace. He spoke with the [[Queen of Swords]] and asked if there was anything that could be done to right the wrong his sibling had committed. The Queen requested [[Limbo]], and when Annam accepted, he did not see the glint deep beneath the Queen's dark eyes.
 
-date: 12537TBT
+date: 12xxxTBT
 title: Demons fight Devils. The [[Blood Wars of Fiends]] begins.
 content:
+
+Evil and Chaos boil and bubble against one another in the "lower" Planes, and blood feuds soon turn to all out war. Matched equally and eternally, this conflict rages beyond a mortal concept of time.
 
 date: 00010TBT
 title: Eladrin birth the Elves.
@@ -56,7 +58,7 @@ Down the chain of command in the [[Ceilie Courts]], the opportunity came forth t
 
 Many Eladrin jumped upon the opportunity, and formed a new kind, the Elves. For ten years they raised them, and promised them a new land.
 
-date: 000TBT~AF
+date: 00000TBT~AF
 title: [[All-Father Annam]] and [[Tetrimoc]] battle to the death.
 content:
 
@@ -75,7 +77,7 @@ date: 000TBT~AF
 title: The Fall.
 content: 
 
-As [[Tetrimoc]] falls, Alaturmen is formed. Beings flock to this new plane and bear others in this new plane.
+[[Tetrimoc]] falls, battered and bloodied. 
 
 date: 003AF
 title: Druids invoke Weave Arcane.
