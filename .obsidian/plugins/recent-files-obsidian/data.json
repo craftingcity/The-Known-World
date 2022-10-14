@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Ancient Human (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Age of Beginning/Ancient Human (language).md"
+    },
+    {
+      "basename": "Mechanis(language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Mechanis(language).md"
+    },
+    {
+      "basename": "Celestial (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Ancestral Languages/Time Before Time/Celestial (language).md"
+    },
+    {
       "basename": "Golden Claws",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Athenion",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Athenion.md"
-    },
-    {
-      "basename": "Cetaka",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md"
-    },
-    {
-      "basename": "Raezumar",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md"
-    },
-    {
-      "basename": "Cagaou",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Kickoff/Cagaou.md"
-    },
-    {
-      "basename": "Ixtalee",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Kickoff/Ixtalee.md"
     }
   ],
   "omittedPaths": [],
