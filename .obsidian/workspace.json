@@ -4,72 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdd73e829da1ec0",
+        "id": "0e715c4da2730eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "095a2d12384dab17",
+            "id": "08a82e295530999c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "095a2d12384dab17",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Oct 14 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":411},\"to\":{\"line\":14,\"ch\":411}}}"
-                },
-                {
-                  "leaf": "095a2d12384dab17",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/'22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "095a2d12384dab17",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "095a2d12384dab17",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "095a2d12384dab17",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Oct 14 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "546a30f65c98f4cc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,10 +31,6 @@
           {
             "id": "470822c6e780fecc",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "recent-files",
               "state": {}
@@ -97,14 +39,10 @@
           {
             "id": "471fab77001b02ee",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
-                "query": "aeberu export",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,10 +54,6 @@
           {
             "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -130,21 +64,17 @@
           {
             "id": "c9c6df654ceb5f29",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -157,14 +87,9 @@
           {
             "id": "214128aa17851074",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,14 +103,9 @@
           {
             "id": "a784ad59b314c9b4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +114,6 @@
           {
             "id": "60736712cabd0795",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -209,15 +125,9 @@
           {
             "id": "f44a3da8351e916d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -230,12 +140,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "546a30f65c98f4cc",
+  "active": "08a82e295530999c",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/'22.md",
-    "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
+    "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md",
+    "Game Notes/Prenotes/'22/'22.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
