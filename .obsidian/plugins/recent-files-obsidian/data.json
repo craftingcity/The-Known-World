@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
       "basename": "Prenotes Aug 13 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Ain Faihu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Ain Faihu.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     }
   ],
   "omittedPaths": [],
