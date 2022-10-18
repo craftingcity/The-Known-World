@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "Prenotes Aug 13 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
+      "basename": "Prenotes Aug 20 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
+    },
+    {
+      "basename": "Prenotes Aug 26 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 26 22.md"
+    },
+    {
+      "basename": "Prenotes Aug 29 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md"
     },
     {
       "basename": "Prenotes Oct 14 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md"
     },
     {
+      "basename": "Prenotes Oct 02 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md"
+    },
+    {
+      "basename": "Prenotes May 30 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes May 30 22.md"
+    },
+    {
+      "basename": "Prenotes Mar 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
+    },
+    {
+      "basename": "'21",
+      "path": "Game Notes/Prenotes/'21/'21.md"
+    },
+    {
       "basename": "'22",
       "path": "Game Notes/Prenotes/'22/'22.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Hektor Salar",
+      "path": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md"
+    },
+    {
+      "basename": "Glot Maxim",
+      "path": "Game Notes/NPCs/Mild Power/Midboss/Glot Maxim.md"
+    },
+    {
+      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
+      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "His Greater Plan",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/His Greater Plan.md"
+    },
+    {
+      "basename": "Noble House a'Fen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
     },
     {
       "basename": "Timeline",
@@ -65,10 +121,6 @@
       "path": "ORGANIZATION/TEMPLATES/Region.md"
     },
     {
-      "basename": "Noble House a'Fen",
-      "path": "Noble House a'Fen.md"
-    },
-    {
       "basename": "DOA01-Below_Wyrmsmir",
       "path": "MEDIA/SUPP/YOINKAGE/DOA01-Below_Wyrmsmir.png"
     },
@@ -83,10 +135,6 @@
     {
       "basename": "Castle Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
-    },
-    {
-      "basename": "His Greater Plan",
-      "path": "His Greater Plan.md"
     },
     {
       "basename": "The Kingdom of Prosper",
@@ -129,10 +177,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
     },
     {
-      "basename": "Prenotes Oct 02 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md"
-    },
-    {
       "basename": "Goldfield",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Northwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Yerba",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
-    },
-    {
-      "basename": "Moonlight",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md"
-    },
-    {
-      "basename": "Magius",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md"
-    },
-    {
-      "basename": "Janesland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Janesland.md"
-    },
-    {
-      "basename": "Gambleum",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md"
-    },
-    {
-      "basename": "Yerba OLD",
-      "path": "Yerba OLD.md"
-    },
-    {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
-    },
-    {
-      "basename": "Noble House a'Valim",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Millnyr",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Lakeview/Millnyr.md"
     }
   ],
   "omittedPaths": [],
