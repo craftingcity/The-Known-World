@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Custom Class - Psion",
+      "path": "Game Notes/Mechanics/Custom Class - Psion.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "'22",
+      "path": "Game Notes/Prenotes/'22/'22.md"
+    },
+    {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
     },
@@ -45,14 +97,6 @@
       "path": "Game Notes/Prenotes/'21/'21.md"
     },
     {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
     },
@@ -87,10 +131,6 @@
     {
       "basename": "How the Weave becomes Magic",
       "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
     {
       "basename": "Dwarven (language)",
@@ -159,46 +199,6 @@
     {
       "basename": "Population Data",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
-    },
-    {
-      "basename": "Faction Units",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
-    },
-    {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "Merchant Companies and their Routes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
-      "basename": "Aeberu",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
-    },
-    {
-      "basename": "Goldfield",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md"
-    },
-    {
-      "basename": "Grumbling Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Grumbling Hills.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Gabrin Shrublands.md"
-    },
-    {
-      "basename": "Ain Faihu",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Ain Faihu.md"
     }
   ],
   "omittedPaths": [],
