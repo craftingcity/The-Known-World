@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
       "basename": "Custom Backgrounds",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Backgrounds.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
     },
     {
       "basename": "Custom Heritages",
@@ -27,6 +35,10 @@
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
       "basename": "About People",
@@ -181,24 +193,12 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
     },
     {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
       "basename": "Castle Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
     },
     {
       "basename": "The Kingdom of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
-      "basename": "Economy Pages",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
-    },
-    {
-      "basename": "Population Center Data",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
     }
   ],
   "omittedPaths": [],
