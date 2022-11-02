@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
       "basename": "Custom Backgrounds",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Backgrounds.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
       "basename": "Northeastern Central",
@@ -35,14 +63,6 @@
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
     },
     {
       "basename": "Notes on the Multiverse",
@@ -179,26 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Region",
-      "path": "ORGANIZATION/TEMPLATES/Region.md"
-    },
-    {
-      "basename": "DOA01-Below_Wyrmsmir",
-      "path": "MEDIA/SUPP/YOINKAGE/DOA01-Below_Wyrmsmir.png"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Castle Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     }
   ],
   "omittedPaths": [],
