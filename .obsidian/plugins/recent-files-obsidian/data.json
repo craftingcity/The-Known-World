@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Backgrounds",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Backgrounds.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Population Center Data",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
-    },
-    {
-      "basename": "Population Data",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
     }
   ],
   "omittedPaths": [],
