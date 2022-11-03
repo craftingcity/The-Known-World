@@ -6,7 +6,7 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 - You may live up to 60 years.
 - You may weigh anywhere from 40 to 350 pounds.
-- You may be anywhere from 3 to 8 feet tall. Your size is Medium.
+- You may be anywhere from 4 to 8 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of one of the following;
 	- You have a darkvision of 30 feet.
@@ -25,9 +25,19 @@ People with a heavy Human heritage find themselves in possession of very mundane
 - You gain a feat of your choice for which you meet the prerequisites.
 
 ## Dwarven
+
+People with heavy Dwarven heritage find themselves in possession of shorter, stockier, and hardier bodies. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+
+- You may live up to 180 years.
+- You may weigh anywhere from 100 to 200 pounds.
+- You may be anywhere from 3 to 5 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- You have advantage on saving throws to resist poison damage effects.
+- You may add your proficiency bonus to your hit point maximum.
+
 ## Elven
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people are largely common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of your kin.
 
 - You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
@@ -41,13 +51,17 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
 	- Childer of the Court of Spring gain the following;
-		- You have advantage on Perception checks involving sight.
+		- You have advantage on Perception checks that rely on sight.
 		- You have a walking speed of 35 feet per round.
 	- Childer of the Court of Summer gain the following;
+		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
+		- When you succeed on a death saving throw, you may regain a number of hit points equal to your proficiency modifier. You regain the use of this feature after a long rest.
 	- Childer of the Court of Fall gain the following;
+		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
 	- Childer of the Court of Winter gain the following;
 		- You have a darkvision of 60 feet.
-		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell once each. You regain the use of this feature after a long rest. At 11th level, you may use this feature twice
+		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each regarding the spells. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
+		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
 
 ## Triton
 ## Orcish
