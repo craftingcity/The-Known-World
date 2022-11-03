@@ -65,7 +65,7 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 ## Triton
 
-People of Triton heritage find themselves in possession of many preternatual abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim from the [[Plane of Water]] against the current of the [[Alvalini River]] before they could settle  
+People of Triton heritage find themselves in possession of many preternatual abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
 
 ## Orcish
 ## Dragonborn
