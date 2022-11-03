@@ -35,15 +35,18 @@ Before and forever after this event, however, the Titans of the Time Before Time
 # Languages
 %% Begin Waypoint %%
 - **Age of Beginning**
+	- [[Actcenvan (language)]]
 	- [[Arthurian (language)]]
 	- [[Desertspeech (language)]]
 	- [[Fanyaquestan (language)]]
 	- [[Golopak (language)]]
+	- [[Montal (language)]]
 - **Time Before Time**
 	- [[Abyssal (language)]]
 	- [[Astral Goblin (language)]]
 	- [[Celestial (language)]]
 	- [[Draconic (language)]]
+	- [[Giant (language)]]
 	- [[Infernal (language)]]
 	- [[Liambon (language)]]
 	- [[Mechanis (language)]]

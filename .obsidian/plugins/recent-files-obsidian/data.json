@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Primordial (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md"
+    },
+    {
+      "basename": "Giant (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Giant (language).md"
+    },
+    {
+      "basename": "Actcenvan (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Montal (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Montal (language).md"
+    },
+    {
+      "basename": "Astral Goblin (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md"
+    },
+    {
+      "basename": "Abyssal (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Abyssal (language).md"
+    },
+    {
       "basename": "Golopak (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md"
     },
@@ -21,20 +61,12 @@
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Titan (language).md"
     },
     {
-      "basename": "Primordial (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md"
-    },
-    {
       "basename": "Liambon (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Liambon (language).md"
     },
     {
       "basename": "Infernal (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
-    },
-    {
-      "basename": "Astral Goblin (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md"
     },
     {
       "basename": "Timeline",
@@ -47,14 +79,6 @@
     {
       "basename": "Languages",
       "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
       "basename": "Big Lore",
@@ -121,10 +145,6 @@
       "path": "Game Notes/Mechanics/Custom Class - Psion.md"
     },
     {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Hektor Salar",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md"
-    },
-    {
-      "basename": "Glot Maxim",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Glot Maxim.md"
-    },
-    {
-      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
-      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     }
   ],
   "omittedPaths": [],
