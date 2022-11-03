@@ -6,10 +6,11 @@ Presented in order of commonality.
 ## Elven
 ## Triton
 ## Orcish
-## Kobold
+## Dragonborn
 ## Goliath
 ## Tabaxi
 ## Kenku
 ## Satyr
 ## Gnomish
+## Kobold
 ## Genasi

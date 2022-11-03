@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
@@ -9,16 +13,32 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
     },
     {
       "basename": "Nations",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     },
     {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+      "basename": "Lands of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
     {
       "basename": "MEDIA",
@@ -43,22 +63,6 @@
     {
       "basename": "Northeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
       "basename": "Notes on the Multiverse",
