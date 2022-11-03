@@ -2,7 +2,7 @@ Presented in order of commonality. For the purposes of presentablity, please con
 
 ## Goblin
 
-People with a heavy Goblin heritage find themselves in possession of odd preternatural abilities. The origins of Goblins in general are shrouded in mystery, but those who live now on Alaturmen have made claims that Goblins have been "surviving in the soup of the multiverse since before it began".
+People with a heavy Goblin heritage find themselves in possession of odd preternatural abilities. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
 
 - You may live up to 60 years.
 - You may weigh anywhere from 40 to 350 pounds.
@@ -76,7 +76,7 @@ People of Triton heritage find themselves in possession of many biological abili
 
 ## Orcish
 
-People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. 
+People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. The origins of Orcish people on Alaturmen 
 
 ## Dragonborn
 ## Goliath
