@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes May 30 22",
       "path": "Game Notes/Prenotes/'22/Prenotes May 30 22.md"
-    },
-    {
-      "basename": "Prenotes Mar 27 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
     }
   ],
   "omittedPaths": [],

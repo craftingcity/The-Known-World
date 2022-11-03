@@ -260,17 +260,63 @@
     "width": 300,
     "collapsed": true
   },
+  "floating": {
+    "id": "037c927c4b670443",
+    "type": "floating",
+    "children": [
+      {
+        "id": "75543044da2cbe17",
+        "type": "window",
+        "children": [
+          {
+            "id": "68854ede6f7b3060",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb6abc5289db9a3f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APGtAv1.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "dc55df919989fc12",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "APGtAv1.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Giant (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md"
+    "Game Notes/Game Notes.md"
   ]
 }

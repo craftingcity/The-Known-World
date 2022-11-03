@@ -26,13 +26,13 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ## Dwarven
 
-People with heavy Dwarven heritage find themselves in possession of shorter, stockier, and hardier bodies. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+People with heavy Dwarven heritage find themselves in possession of dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
 
 - You may live up to 180 years.
 - You may weigh anywhere from 100 to 200 pounds.
 - You may be anywhere from 3 to 5 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
-- You have advantage on saving throws to resist poison damage effects.
+- You have advantage on saving throws against effects that charm, paralyze, or deal poison damage.
 - You may add your proficiency bonus to your hit point maximum.
 
 ## Elven
@@ -64,6 +64,9 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
 
 ## Triton
+
+People of Triton heritage find themselves in possession of many preternatual abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim from the [[Plane of Water]] against the current of the [[Alvalini River]] before they could settle  
+
 ## Orcish
 ## Dragonborn
 ## Goliath
