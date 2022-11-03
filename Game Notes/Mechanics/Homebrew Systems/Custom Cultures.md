@@ -26,7 +26,7 @@ In addition, due to the necessities of politic, you are owed a favor by a member
 # North Western
 ## Kingdom of Prosper
 
-You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. Your claim is not uncommon, and not untrue. You spoke with him about honor, history, honesty, and the moral right to a happy life.
+You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. Your claim is not uncommon, and not untrue. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
 
 You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History, Insight, and Persuasion Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 	- [[Fanyaquestan (language)]]
@@ -47,7 +47,9 @@ In addition,
 
 ## Actstow / Cenva Minyo
 
-You spent your life before adventure in the Actstow Hills. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. 
+You spent your life before adventure in the Actstow Hills. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing inbetween these two vastly different locales.
+
+You gain a +2 to your Charisma Score and a +1 to your Dexterity Score. You are proficient with the Perception and Persuasion
 
 # North Eastern
 ## Church of the White Flame
