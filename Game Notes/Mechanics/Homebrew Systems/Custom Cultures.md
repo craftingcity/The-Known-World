@@ -33,7 +33,9 @@ You gain +2 to your Constitution Score and +1 to your Charisma Score. You are pr
 	- [[Kantine (language)]]
 	- [[Golopak (language)]]
 
-Due to
+In addition, you have received advanced training in armors and weapons;
+	- While you are wearing armor, you have +2 to Dexterity Saving Throws.
+	- While you are wielding at least one weapon, you have +2 to Strength Saving Throws.
 
 ## Blood Clans
 
