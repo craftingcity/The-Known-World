@@ -9,7 +9,7 @@ You gain +2 to your Wisdom Score and +1 to your Constitution Score. You are prof
 	- [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
 	- [[Golopak (language)]] and [[Primordial (language)#Aquin]]
 
-In addition, due to your time spent with the Druids, you have learned a small magical effect. You know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
+In addition, you know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
 
 ## Guildmember
 
@@ -43,7 +43,12 @@ You spent your life before adventure with one of the Blood Clans of the Illburn 
 
 You gain a +2 to your Constitution Score and a +1 to your Wisdom Score. You are proficient with the Nature and Survival Skills. You know [[Kantine (language)]] and [[Arthurian (language)]].
 
+In addition, 
+
 ## Actstow / Cenva Minyo
+
+You spent your life before adventure in the Actstow Hills. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. 
+
 # North Eastern
 ## Church of the White Flame
 ## Waster Nomad
