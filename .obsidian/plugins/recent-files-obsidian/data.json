@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
+    },
+    {
       "basename": "Languages",
       "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
@@ -161,10 +169,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
       "basename": "How the Weave becomes Magic",
       "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     }
   ],
   "omittedPaths": [],
