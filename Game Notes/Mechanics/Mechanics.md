@@ -12,7 +12,6 @@ aliases:
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
 	- [[Combat Mechanics]]
-	- [[Custom Backgrounds]]
 	- [[Custom Cultures]]
 	- [[Custom Fighting Styles]]
 	- [[Custom Heritages]]
