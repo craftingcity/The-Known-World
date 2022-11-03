@@ -76,7 +76,7 @@ People of Triton heritage find themselves in possession of many biological abili
 
 ## Orcish
 
-People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. The origins of Orcish people on Alaturmen 
+People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. The origins of Orcish people on Alaturmen are directly tied to [[The Assault of the Giant Dissenters]]
 
 ## Dragonborn
 ## Goliath
