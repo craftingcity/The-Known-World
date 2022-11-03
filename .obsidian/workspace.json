@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           }
@@ -261,10 +260,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3da51614e7d1cfbb",
+  "active": "dc55df919989fc12",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md",

@@ -49,8 +49,12 @@ In addition,
 
 You spent your life before adventure in the Actstow Hills. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing inbetween these two vastly different locales.
 
-You gain a +2 to your Charisma Score and a +1 to your Dexterity Score. You are proficient with the Perception and Persuasion
+You gain a +2 to your Charisma Score and a +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
+	- [[Fanyaquestan (language)]]
+	- [[Kantine (language)]]
+	- [[Arthurian (language)]]
 
+In addition,
 # North Eastern
 ## Church of the White Flame
 ## Waster Nomad
