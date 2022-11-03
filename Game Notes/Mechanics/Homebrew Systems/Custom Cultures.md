@@ -9,20 +9,38 @@ You gain +2 to your Wisdom Score and +1 to your Constitution Score. You are prof
 	- [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
 	- [[Golopak (language)]] and [[Primordial (language)#Aquin]]
 
+In addition, due to your time spent with the Druids, you have learned a small magical effect. You know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
+
 ## Guildmember
 
 You spent your life before adventure with the Guilds of Alaturmen. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who to trust.
 
-You gain +2 in your Wisdom Score and +1 in your Intelligence Score. You are proficient in the Deception and Insight skills.
+You gain +2 in your Wisdom Score and +1 in your Intelligence Score. You are proficient in the Deception and Insight skills. You know two of your choice of the following;
+	- [[Desertspeech (language)]]
+	- [[Fanyaquestan (language)]]
+	- [[Arthurian (language)]]
+	- [[Golopak (language)]]
+
+In addition, due to the necessities of politic, you are owed a favor by a member of high station within the Guilds of Alaturmen. You may speak with me and decide before we begin play, or wait and decide in the moment the truth of this favor.
 
 # North Western
 ## Kingdom of Prosper
 
-You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. Your claim is not uncommon, and not untrue. You spoke about honor, history, personal sacrifice, and the moral right to a happy life.
+You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. Your claim is not uncommon, and not untrue. You spoke with him about honor, history, honesty, and the moral right to a happy life.
 
-You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History and Persuasion Skills.
+You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History, Insight, and Persuasion Skills. You know [[Arthurian (language)]] and your choice of one of the following;
+	- [[Fanyaquestan (language)]]
+	- [[Kantine (language)]]
+	- [[Golopak (language)]]
+
+Due to
 
 ## Blood Clans
+
+You spent your life before adventure with one of the Blood Clans of the Illburn Forest. You knew that if you were not found useful, you would be found dead. You have been spilling blood, sweat, and tears since long before your adventure began.
+
+You gain a +2 to your Constitution Score and a +1 to your Wisdom Score. You are proficient with the Nature and Survival Skills. You know [[Kantine (language)]] and [[Arthurian (language)]].
+
 ## Actstow / Cenva Minyo
 # North Eastern
 ## Church of the White Flame

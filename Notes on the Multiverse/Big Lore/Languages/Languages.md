@@ -41,6 +41,7 @@ Before and forever after this event, however, the Titans of the Time Before Time
 	- [[Druidic (language)]]
 	- [[Fanyaquestan (language)]]
 	- [[Golopak (language)]]
+	- [[Kantine (language)]]
 	- [[Montal (language)]]
 - **Time Before Time**
 	- [[Abyssal (language)]]

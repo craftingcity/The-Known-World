@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
+      "basename": "Kantine (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Mar 27 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Mar 27 22.md"
-    },
-    {
-      "basename": "'21",
-      "path": "Game Notes/Prenotes/'21/'21.md"
     }
   ],
   "omittedPaths": [],
