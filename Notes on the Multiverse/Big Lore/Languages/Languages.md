@@ -38,6 +38,7 @@ Before and forever after this event, however, the Titans of the Time Before Time
 	- [[Actcenvan (language)]]
 	- [[Arthurian (language)]]
 	- [[Desertspeech (language)]]
+	- [[Druidic (language)]]
 	- [[Fanyaquestan (language)]]
 	- [[Golopak (language)]]
 	- [[Montal (language)]]

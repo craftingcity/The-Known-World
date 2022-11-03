@@ -5,6 +5,14 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Druidic (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md"
+    },
+    {
       "basename": "Primordial (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Infernal (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Prenotes",
@@ -195,10 +199,6 @@
     {
       "basename": "'21",
       "path": "Game Notes/Prenotes/'21/'21.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
     }
   ],
   "omittedPaths": [],
