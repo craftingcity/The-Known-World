@@ -31,7 +31,7 @@ A bureaucracy based community of permanent communities that feed large merchant 
 A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make Soul-contracts for magical powers with powerful entities. Other Blood-Clans unite against the Clan Scrivin often, as it is in everyone's best interest that they stay in a position of low power.
 
 #### [[Bulgpim Clan]]
-A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of Goblin to eachother. Few high-caste members of this clan speak a common language (usually [[King's Common (language)]]) for the purposes of facilitating trade and festivity.
+A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of Goblin to eachother. Few high-caste members of this clan speak a common language (usually [[Arthurian (language)]]) for the purposes of facilitating trade and festivity.
 
 #### [[Wheernat Clan]]
 A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat clan are taught to move with swiftness and grace, as well as to maintain a focus on your immediate community before the community of the others. It is a rarity to meet with a member of the clan who does not wish to be speaking with you, specifically. 
@@ -41,7 +41,7 @@ A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat 
 The Blood-Hobgoblin Clans are composed mostly of, you guessed it, Hobgoblin. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the [[Bandit Lords]].
 
 #### Language
-Most people in these territories speak both [[Goblin (language)]] and [[King's Common (language)]].
+Most people in these territories speak both [[Astral Goblin (language)]] and [[Arthurian (language)]].
 
 #### Belief
 The people who live in this place bind themselves and their clan mates to the [[Blood-Hobgoblin Clan Pact]]. Each of the clans have a unique perspective and interpretation of this document, which presents itself as a fairly unique spread of cultures.

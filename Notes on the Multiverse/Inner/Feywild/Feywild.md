@@ -50,7 +50,7 @@ In order of relative power;
 - Boggle & Kelpie
 
 #### Language
-The majority of the inhabitants who can speak or understand language know [[Sylvan (language)]]. Certain entities also speak another language such as [[Ancient Elvish (language)]], [[Primordial (language)]], or a culture-coded language, such as [[Goblin (language)]].
+The majority of the inhabitants who can speak or understand language know [[Sylvan (language)]]. Certain entities also speak another language such as [[Ancient Elvish (language)]], [[Primordial (language)]], or a culture-coded language, such as [[Astral Goblin (language)]].
 
 #### Values
 #### Theology

@@ -34,24 +34,21 @@ Before and forever after this event, however, the Titans of the Time Before Time
 
 # Languages
 %% Begin Waypoint %%
-- **[[Languages]]**
-	- **Age of Beginning**
-		- [[Aquarian (language)]]
-		- [[Desertspeech (language)]]
-		- [[Dwarven (language)]]
-		- [[High Common (language)]]
-		- [[King's Common (language)]]
-		- [[Modern Elven (language)]]
-		- [[Swampish (language)]]
-		- [[Thieves Cant (language)]]
-	- **Time Before Time**
-		- [[Abyssal (language)]]
-		- [[Celestial (language)]]
-		- [[Draconic (language)]]
-		- [[Goblin (language)]]
-		- [[Infernal (language)]]
-		- [[Mechanis (language)]]
-		- [[Primordial (language)]]
-		- [[Sylvan (language)]]
+- **Age of Beginning**
+	- [[Arthurian (language)]]
+	- [[Desertspeech (language)]]
+	- [[Fanyaquestan (language)]]
+	- [[Golopak (language)]]
+- **Time Before Time**
+	- [[Abyssal (language)]]
+	- [[Astral Goblin (language)]]
+	- [[Celestial (language)]]
+	- [[Draconic (language)]]
+	- [[Infernal (language)]]
+	- [[Liambon (language)]]
+	- [[Mechanis (language)]]
+	- [[Primordial (language)]]
+	- [[Sylvan (language)]]
+	- [[Titan (language)]]
 
 %% End Waypoint %%

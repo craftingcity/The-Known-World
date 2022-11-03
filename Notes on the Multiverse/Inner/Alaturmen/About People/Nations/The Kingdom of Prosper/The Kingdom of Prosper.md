@@ -27,7 +27,7 @@ The population pay taxes to maintain the cities and kingdom operations, but much
 The citizens of the Kingdom generally are of Human or Goblin descent, or both in a large number of cases, though the Kingdom turns away none who swear fealty to the [[Nobles of Prosper]] and [[Arthur Simonson|The Great Adventurer King]].
 
 #### Language
-The common language in Prosper is known as "the [[King's Common (language)]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
+The common language in Prosper is known as "the [[Arthurian (language)]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
 
 #### Beliefs
 Citizens of Prosper are culturally bonded by the [[Unification]] and their genuine love for the genuinely good [[Arthur Simonson|King Of Prosper]]. 

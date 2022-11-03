@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Timeline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":192.41702127659573}"
+                },
+                {
                   "title": "Prenotes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
@@ -82,10 +88,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "f009fda46b84cdee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Liambon (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Time Before Time/Liambon (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":54},\"to\":{\"line\":5,\"ch\":54}}}"
+                },
+                {
+                  "title": "Infernal (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":54},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Liambon (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Time Before Time/Liambon (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a483ea5b00f8a047",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Golopak (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":4},\"to\":{\"line\":7,\"ch\":4}}}"
+                },
+                {
+                  "title": "Desertspeech (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Desertspeech (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arthurian (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Arthurian (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":28},\"to\":{\"line\":7,\"ch\":28}}}"
+                },
+                {
+                  "title": "Fanyaquestan (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Fanyaquestan (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":154},\"to\":{\"line\":7,\"ch\":154}}}"
+                },
+                {
+                  "title": "Titan (language)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Time Before Time/Titan (language).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":54},\"to\":{\"line\":5,\"ch\":54}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -142,7 +234,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +355,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +380,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,9 +419,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -341,17 +430,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "259ee28d159c3115",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Notes on the Multiverse/Big Lore/Big Lore.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Desertspeech (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Arthurian (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Fanyaquestan (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Dwarven (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Titan (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Aquarian (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Liambon (language).md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
   ]
 }
