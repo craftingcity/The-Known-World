@@ -62,6 +62,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "bbbd2b6523c15689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edaaa0835fe2321b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -299,7 +327,7 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
+        "width": 782,
         "height": 1400,
         "maximize": false,
         "zoom": 0

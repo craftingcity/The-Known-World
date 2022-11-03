@@ -65,9 +65,19 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 ## Triton
 
-People of Triton heritage find themselves in possession of many preternatual abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
+People of Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
+
+- You may live for up to 120 years.
+- You weigh anywhere from 80 to 160 pounds.
+- You may be anywhere from 4 to 6 feet tall. Your size is medium.
+- Your base walking speed is 30 feet per round.
+- You have a swimming speed equal to your walking speed.
+- You can breathe air and water.
 
 ## Orcish
+
+People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. 
+
 ## Dragonborn
 ## Goliath
 ## Tabaxi
