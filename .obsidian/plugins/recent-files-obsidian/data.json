@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Nine Hells of Baator",
+      "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
+    },
+    {
+      "basename": "Demogorgon",
+      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demogorgon.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
@@ -13,16 +29,8 @@
       "path": "APGtAv1.md"
     },
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
       "basename": "Kantine (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Druidic (language)",
@@ -187,18 +195,6 @@
     {
       "basename": "Prenotes Aug 29 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md"
-    },
-    {
-      "basename": "Prenotes Oct 14 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md"
-    },
-    {
-      "basename": "Prenotes Oct 02 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md"
-    },
-    {
-      "basename": "Prenotes May 30 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes May 30 22.md"
     }
   ],
   "omittedPaths": [],
