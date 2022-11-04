@@ -1,28 +1,27 @@
 # MEDIA Overview
 %% Begin Waypoint %%
-- **[[MEDIA]]**
-	- **AUDIO**
+- **AUDIO**
 
-	- **CHAR**
-		- **HERITAGE**
+- **CHAR**
 
-		- **MONSTER**
+- **HERITAGES**
 
-	- **MAPS**
-		- **DUNG**
+- **MAPS**
+	- **DUNG**
 
-		- **URBAN**
-		- **WORLD**
+	- **URBAN**
 
-	- **SUPP**
-		- **DOCS**
+	- **WORLD**
 
-		- [[Here lie my suppliments...]]
-		- **HEXHAND**
+- **SUPP**
+	- **DOCS**
 
-		- **SPREADS**
+	- [[Here lie my suppliments...]]
+	- **HEXHAND**
 
-		- **YOINKAGE**
+	- **SPREADS**
+
+	- **YOINKAGE**
 
 
 %% End Waypoint %%

@@ -2,7 +2,9 @@ Presented in order of commonality. For the purposes of presentablity, please con
 
 ## Goblin
 
-People with a heavy Goblin heritage find themselves in possession of odd preternatural abilities. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
+![[goblin.png]]
+
+People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
 
 - You may live up to 60 years.
 - You may weigh anywhere from 40 to 350 pounds.
@@ -16,6 +18,8 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 ## Human
 
+![[human.png]]
+
 People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared".
 
 - You may live up to 90 years.
@@ -26,7 +30,9 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ## Dwarven
 
-People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+![[dwarf.png]]
+
+People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowl information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
 
 - You may live up to 180 years.
 - You may weigh anywhere from 100 to 200 pounds.
@@ -103,8 +109,13 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ## Gnoll
 
-People with a heavy Gnoll heritage find themselves in possession of a very beastly biology. The origins of Gnoll people on Alaturmen is tied directly to the 
+People with a heavy Gnoll heritage find themselves in possession of a very beastly biology and an insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
+- You may live up to 75 years.
+- You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 35 feet per round.
+- When you hit with an unarmed melee attack, you may add an additional 1d6 slashing damage to the normal damage of the attack.
 ## Halfling
 ## Goliath
 ## Tabaxi

@@ -11,8 +11,14 @@
             "id": "dc55df919989fc12",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "MEDIA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MEDIA/MEDIA.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":20},\"to\":{\"line\":1,\"ch\":20}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -179,12 +185,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -336,15 +341,15 @@
   },
   "active": "dc55df919989fc12",
   "lastOpenFiles": [
-    "APGtAv1.md",
+    "MEDIA/MEDIA.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "APGtAv1.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md",
     "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Giant (language).md",
-    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md",
-    "Game Notes/Game Notes.md"
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md"
   ]
 }
