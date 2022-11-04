@@ -135,8 +135,13 @@ People with a heavy Halfling heritage find themselves in possession of miniaturi
 - You may weigh anywhere from 40 to 80 pounds.
 - You may be anywhere from 2 to 3 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
+- You may move through the space of any creature that is of a size larger than yours.
+- Whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
 
 ## Goliath
+
+People with a heavy Goliath heritage
+
 ## Tabaxi
 ## Kenku
 ## Satyr
