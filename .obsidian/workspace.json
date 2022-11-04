@@ -16,56 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Timeline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":48.84008097165992}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "31a3a8750ca45f5b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ed350f9c409ddd9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demogorgon.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -161,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
               }
             }
           }
@@ -271,15 +235,15 @@
   },
   "active": "442b4faa580e4e16",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demogorgon.md",
     "Asmodeus.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "MEDIA/MEDIA.md",
     "APGtAv1.md",
-    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
-    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md"
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md"
   ]
 }

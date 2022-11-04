@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Nine Hells of Baator",
       "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
     },
     {
       "basename": "Demogorgon",
@@ -191,10 +199,6 @@
     {
       "basename": "Prenotes Aug 26 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 26 22.md"
-    },
-    {
-      "basename": "Prenotes Aug 29 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md"
     }
   ],
   "omittedPaths": [],
