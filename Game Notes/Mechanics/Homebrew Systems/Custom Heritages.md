@@ -26,7 +26,7 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ## Dwarven
 
-People with a heavy Dwarven heritage find themselves in possession of dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
 
 - You may live up to 180 years.
 - You may weigh anywhere from 100 to 200 pounds.
@@ -102,6 +102,9 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 	- After using your breath weapon, you cannot use it again until you complete a short or long rest.
 
 ## Gnoll
+
+People with a heavy Gnoll heritage find themselves in possession of a very beastly biology. The origins of Gnoll people on Alaturmen is tied directly to the 
+
 ## Halfling
 ## Goliath
 ## Tabaxi
