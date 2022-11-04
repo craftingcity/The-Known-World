@@ -26,7 +26,7 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ## Dwarven
 
-People with heavy Dwarven heritage find themselves in possession of dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+People with a heavy Dwarven heritage find themselves in possession of dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly public information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
 
 - You may live up to 180 years.
 - You may weigh anywhere from 100 to 200 pounds.
@@ -65,7 +65,7 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 ## Triton
 
-People of Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
+People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
 
 - You may live for up to 120 years.
 - You weigh anywhere from 80 to 160 pounds.
@@ -76,15 +76,19 @@ People of Triton heritage find themselves in possession of many biological abili
 
 ## Orcish
 
-People of Orcish heritage find themselves in possession of a biology that provides extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
+People with a heavy Orcish heritage find themselves in possession of a biology that provides extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
 
 - You may live up to 80 years.
 - You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
-- 
+- When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
 
 ## Dragonborn
+
+People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are 
+
+## Gnoll
 ## Halfling
 ## Goliath
 ## Tabaxi
