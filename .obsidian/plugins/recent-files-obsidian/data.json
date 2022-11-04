@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
+      "basename": "Herring",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Herring.md"
+    },
+    {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
@@ -25,16 +37,8 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
       "basename": "MEDIA",
       "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "APGtAv1",
-      "path": "APGtAv1.md"
     },
     {
       "basename": "Kantine (language)",
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Aug 20 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
-    },
-    {
-      "basename": "Prenotes Aug 26 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 26 22.md"
     }
   ],
   "omittedPaths": [],
