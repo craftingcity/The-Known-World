@@ -32,7 +32,7 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ![[dwarf.png]]
 
-People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowl information, but some know that certain groups of Elven settlers created Dwarves nearly immediately after their arrival by request of their sire.
+People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment.
 
 - You may live up to 180 years.
 - You may weigh anywhere from 100 to 200 pounds.
@@ -42,6 +42,8 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 - You may add your proficiency bonus to your hit point maximum.
 
 ## Elven
+
+![[elf.png]]
 
 People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of your kin.
 
@@ -71,6 +73,8 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 ## Triton
 
+![[triton.png]]
+
 People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
 
 - You may live for up to 120 years.
@@ -82,6 +86,8 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 
 ## Orcish
 
+![[orc.png]]
+
 People with a heavy Orcish heritage find themselves in possession of a biology that provides extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
 
 - You may live up to 80 years.
@@ -92,6 +98,8 @@ People with a heavy Orcish heritage find themselves in possession of a biology t
 - You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 ## Dragonborn
+
+![[dragonborn.png]]
 
 People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen.
 
@@ -109,13 +117,15 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ## Gnoll
 
+![[gnol.png]]
+
 People with a heavy Gnoll heritage find themselves in possession of a very beastly biology and an insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
 - You may live up to 75 years.
 - You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
-- When you hit with an unarmed melee attack, you may add an additional 1d6 slashing damage to the normal damage of the attack.
+- When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
 ## Halfling
 ## Goliath
 ## Tabaxi
