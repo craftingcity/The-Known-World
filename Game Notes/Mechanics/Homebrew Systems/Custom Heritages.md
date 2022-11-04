@@ -83,10 +83,23 @@ People with a heavy Orcish heritage find themselves in possession of a biology t
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
+- You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 ## Dragonborn
 
-People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are 
+People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen.
+
+- You may live for up to 120 years.
+- You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- You can use your action to exhale destructive energy, known a breath weapon. 
+	- Your breath weapon deals damage of a type determined by your ancestry, in your choice of a 15' cone or a 30' line. 
+	- When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. 
+		- The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. 
+		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. 
+			- The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
+	- After using your breath weapon, you cannot use it again until you complete a short or long rest.
 
 ## Gnoll
 ## Halfling
