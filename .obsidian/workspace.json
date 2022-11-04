@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APGtAv1.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APGtAv1.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APGtAv1.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           }
@@ -334,10 +334,10 @@
       }
     ]
   },
-  "active": "cb6abc5289db9a3f",
+  "active": "edaaa0835fe2321b",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "APGtAv1.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Big Lore/Timeline.md",

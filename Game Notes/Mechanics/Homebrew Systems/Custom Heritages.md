@@ -55,12 +55,12 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 		- You have a walking speed of 35 feet per round.
 	- Childer of the Court of Summer gain the following;
 		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
-		- When you succeed on a death saving throw, you may regain a number of hit points equal to your proficiency modifier. You regain the use of this feature after a long rest.
+		- You have a darkvision of 30 feet.
 	- Childer of the Court of Fall gain the following;
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
 	- Childer of the Court of Winter gain the following;
 		- You have a darkvision of 60 feet.
-		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each regarding the spells. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
+		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
 
 ## Triton
@@ -76,9 +76,16 @@ People of Triton heritage find themselves in possession of many biological abili
 
 ## Orcish
 
-People of Orcish heritage find themselves in possession of a preternatural self-sustaining biology. The origins of Orcish people on Alaturmen are directly tied to [[The Assault of the Giant Dissenters]]
+People of Orcish heritage find themselves in possession of a biology that provides extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
+
+- You may live up to 80 years.
+- You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- 
 
 ## Dragonborn
+## Halfling
 ## Goliath
 ## Tabaxi
 ## Kenku
