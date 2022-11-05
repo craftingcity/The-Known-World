@@ -14,9 +14,9 @@ The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands
 - [[Sivir Bagwell]]; Gang Leader / Durandurm Control
 - [[Ginger Ak-kizi]]; Agave Farmer / Drug Control
 - [[Boris Farrinik]]; Guard Captain / Military Control
-- a ; A / Fuel Control
-- a ; A / Metal Control
-- a ; A / Wyvern Control
+- a ; High Ecologist / Fuel Control
+- a ; Mine Baron / Metal Control
+- a ; Wyvern Keeper / Wyvern Control
 - a ; District Manager / Wealth Control
 ## Culture
 #### Heritage
