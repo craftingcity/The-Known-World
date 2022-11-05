@@ -23,7 +23,7 @@ The Outer Ring is a place of refuge and wallow. Very few of the buildings in thi
 - Lantern Market
 - Cobalt's Warehouse
 - Agrandica's Bar & Kitchen
-- Barthalamule's 
+- Barthalamule's Water Dispensary
 
 
 ### Inner Ring

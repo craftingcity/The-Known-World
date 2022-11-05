@@ -11,7 +11,13 @@ The public government begins with the Golden Claw Enforces; the boots on the gro
 ### The Council of Eight
 The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands of Tetrimoc]]. They are an oligarchy of eight people;
 - [[Venclaw]]; High Ambassador / Public Face
-- [[Ginger Ak-kizi]]; Agave Farmer / Drug Lord
+- [[Sivir Bagwell]]; Gang Leader / Durandurm Control
+- [[Ginger Ak-kizi]]; Agave Farmer / Drug Control
+- [[Boris Farrinik]]; Guard Captain / Military Control
+- a ; A / Fuel Control
+- a ; A / Metal Control
+- a ; A / Wyvern Control
+- a ; District Manager / Wealth Control
 ## Culture
 #### Heritage
 #### Language
