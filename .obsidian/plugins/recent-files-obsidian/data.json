@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Weapon Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
@@ -59,14 +71,6 @@
     {
       "basename": "Actcenvan (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
     },
     {
       "basename": "Montal (language)",
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Aug 13 22",
       "path": "Game Notes/Prenotes/'22/Prenotes Aug 13 22.md"
-    },
-    {
-      "basename": "Prenotes Aug 20 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Aug 20 22.md"
     }
   ],
   "omittedPaths": [],
