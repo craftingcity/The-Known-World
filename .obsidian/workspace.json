@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "339381ccccd28c58",
+        "id": "96c1c59e8a188d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4cac0d9001993f",
+            "id": "e502226f7942718f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,32 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Game Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'22/'22.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f486c7c9c8e775ad",
+            "id": "f2b4628a3f93a35d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,12 +37,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Nov 7 22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Nov 7 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":45},\"to\":{\"line\":21,\"ch\":45}},\"scroll\":10.172981878088962}"
                 }
               ]
             },
@@ -66,55 +48,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "65e42e99971f26d8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Venclaw",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":41},\"to\":{\"line\":11,\"ch\":41}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fdef00500d6f1df8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -234,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
               }
             }
           }
@@ -313,17 +249,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65e42e99971f26d8",
+  "active": "e502226f7942718f",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
+    "gold.md",
+    "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
     "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
     "Game Notes/Prenotes/'22/'22.md",
+    "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
-    "APGtAv1.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    "APGtAv1.md"
   ]
 }
