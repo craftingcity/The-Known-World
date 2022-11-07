@@ -26,3 +26,4 @@ Kickoff is under the protection of the [[Golden Claws]], although they are far f
 - [[Kickoff's Great Durandurm Mines]]
 - [[Ginger's Nopal & Agave Farm]]
 - [[Tybir's Camel Ranch]]
+- Sivir's Dwarf-gang Bar

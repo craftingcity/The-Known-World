@@ -58,13 +58,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Kickoff",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":24},\"to\":{\"line\":28,\"ch\":24}},\"scroll\":14.193840579710145}"
+                },
+                {
+                  "title": "The Golden City",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":34},\"to\":{\"line\":34,\"ch\":34}},\"scroll\":16.994043186895013}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "mode": "source",
                 "source": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
               }
             }
           }
@@ -273,15 +285,15 @@
   },
   "active": "f2b4628a3f93a35d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
     "gold.md",
     "MEDIA/MAPS/WORLD/Tetrimoc-100AF.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Game Notes.md"
+    "Game Notes/Prenotes/Prenotes.md"
   ]
 }

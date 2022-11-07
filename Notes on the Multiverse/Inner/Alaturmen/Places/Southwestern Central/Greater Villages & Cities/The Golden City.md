@@ -25,21 +25,29 @@ The Outer Ring is a place of refuge and wallow. Very few of the buildings in thi
 - Agrandica's Bar & Kitchen (south of temple)
 - Barthalamule's Water Dispensary (south anchor)
 - Old Man's Tent (east of BWD)
+- Waste Burn-Pits
 
 
 ### Inner Ring
 
-- Dr. Gunagido's Lab
-- Heretical Subjugation Depot
-- Under-trade Alleyways
-- Malik's Grand Emporium
-- Gems by Starlight
-- Claw and Anvil
-- Agave Bar
+- Western Depot (coming from the north)
+- Eastern Depot (coming from the south)
+- Dr. Gunagido's Lab (east of HSC)
+- Heretical Subjugation Chambers (south of WD)
+- Under-trade Alleyways (east of Agave Bar)
+- Malik's Grand Emporium (north of WD)
+- Gems by Starlight (south of ED)
+- Claw and Anvil (west of Agave Bar)
+- Agave Bar (north of ED)
+- Scaling Hospital
+- Borish Beatdown
 
 ### Core-Spire
 
 - Chambers of the High Ambassador
 - Grandchurch of The Planebearer
+- Drangiarang Koloi
+- Golden Citadel
+- The Golden Orb
 
 
