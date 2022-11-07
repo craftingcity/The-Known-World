@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
               }
             }
           }
@@ -271,8 +271,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "974b232af359d7af",
+  "active": "f2b4628a3f93a35d",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
     "gold.md",
@@ -281,7 +282,6 @@
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Game Notes.md",
-    "APGtAv1.md"
+    "Game Notes/Game Notes.md"
   ]
 }

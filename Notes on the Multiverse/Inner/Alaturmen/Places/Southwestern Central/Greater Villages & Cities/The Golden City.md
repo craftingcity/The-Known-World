@@ -28,6 +28,18 @@ The Outer Ring is a place of refuge and wallow. Very few of the buildings in thi
 
 
 ### Inner Ring
+
+- Dr. Gunagido's Lab
+- Heretical Subjugation Depot
+- Under-trade Alleyways
+- Malik's Grand Emporium
+- Gems by Starlight
+- Claw and Anvil
+- Agave Bar
+
 ### Core-Spire
+
+- Chambers of the High Ambassador
+- Grandchurch of The Planebearer
 
 
