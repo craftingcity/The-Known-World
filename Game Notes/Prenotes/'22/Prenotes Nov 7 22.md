@@ -17,8 +17,11 @@ When last we left our heroes, they had finally arrived at [[The Golden City]]. W
 
 With a clang and a groan, the metal capsule shakes and begins to move. Through dirty glass windows, you can see your companions as they begin to descend into the massive central cored chasm.
 
+Everyone roll a d20, and add yours with your partner's. Whoever gets the higher total plays their game first.
+
 	((SPLIT PARTY NOW))
 	
+	((FOR NALA & BRENA))
 
 	((FOR ULFGAR & JERRAN))
 
