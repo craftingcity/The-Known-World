@@ -31,7 +31,10 @@ In any case, we should district out the city.
 - I've heard my mother. She has been dead for years.
 
 ##### Rumors in the Inner
-- New drugs have arrived from the North
-- Many of the Spice Traders are to return before the Festival of Blessings 
+- New drugs have arrived from the North.
+- Many of the Spice Traders are to return before the Festival of Blessings.
+- The Claws are failing to keep away the Outlanders
+- The Noble Thieves are hidden among us. Watch your purse.
+- 
 
 ### What happened?
