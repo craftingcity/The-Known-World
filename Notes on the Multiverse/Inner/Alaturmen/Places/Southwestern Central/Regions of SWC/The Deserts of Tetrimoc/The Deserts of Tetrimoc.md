@@ -20,6 +20,10 @@ aliases:
 	- A massive forty foot diameter pit lies in the sand here. This pit reaches a depth of about three miles before entering the ever shifting bowels of the [[Underdark]]. Legends tell us that some sort of horror came from this pit some number of years ago.
 - AE8. Wyvern Stables (visible)
 - AE11. Cyclops' Cave (visible)
+- AG9. Petrified Bone Spire (visible)
+	- A tall curved spire of what can only be petrified bone is risen from the sand. It is covered in loose sand blown on from the winds of the Desert. 
+	- Often, the loser of a dispute in the Blessings will find themselves tied by ch
+	- Two Triton wearing large Gnoll Skulls and heavy armor are examining the spire and chains.
 - AH4. Worm-rock Castle (visible)
 	- A massive mound of sand and stone towers above all who view it.
 	- This massive rock pike has been internally gobbled by purple wurm.
