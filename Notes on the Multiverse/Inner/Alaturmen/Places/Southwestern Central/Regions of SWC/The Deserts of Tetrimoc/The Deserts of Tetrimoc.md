@@ -22,11 +22,22 @@ aliases:
 - AE11. Cyclops' Cave (visible)
 - AG9. Petrified Bone Spire (visible)
 	- A tall curved spire of what can only be petrified bone is risen from the sand. It is covered in loose sand blown on from the winds of the Desert. 
-	- Often, the loser of a dispute in the Blessings will find themselves tied by ch
-	- Two Triton wearing large Gnoll Skulls and heavy armor are examining the spire and chains.
+	- This spire is significant as an executionary post for citizens in [[Tetrimoc's Blessings]]. A revered execution will find the to be executed bound by chain to this spire, marked with a claw burn-scar. Their fate is left to Tetrimoc.
+	- Two Triton wearing large Gnoll Skulls and heavy armor are examining the spire and chains - they require materials to take back to camp, and may find the chains suitable.
 - AH4. Worm-rock Castle (visible)
 	- A massive mound of sand and stone towers above all who view it.
 	- This massive rock pike has been internally gobbled by purple wurm.
+- AM9. Temple of the Golemancer
+	> This hex is staged for an encounter with 5 incredibly dangerous monsters.
+	> They are here because they are forming their lair here.
+	> There is something interesting about this particular group. They are incredibly well equipped, informed, or prepared.
+
+	> This hex is occupied by a fabricated alter, shrine, or temple.
+	> The reason this place is significant is because it has a magical curse actived by those connected & magical boon actived by some event, maybe timed.
+	> It is made of some type of unidentified / other material and it is constructed for a executive, legal or judicial purpose.
+	> This place is considered old in age and inexplanable or hidden by those who know of it.
+	> It is in pristine condition or otherwise very well maintained and quite large.
+
 
 
 ## Tables
