@@ -5,12 +5,76 @@
       "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
     },
     {
-      "basename": "Kickoff",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md"
+      "basename": "South Dunes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md"
+    },
+    {
+      "basename": "North Dunes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/North Dunes.md"
+    },
+    {
+      "basename": "Lord's Folly",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
+    },
+    {
+      "basename": "Agrandica's Savanna",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Agrandica's Savanna.md"
+    },
+    {
+      "basename": "Barthalamule's Shrubland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
+    },
+    {
+      "basename": "Cobalt's Cacti Field",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
+    },
+    {
+      "basename": "Tetrimoc's Blessings",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "'22",
+      "path": "Game Notes/Prenotes/'22/'22.md"
     },
     {
       "basename": "The Golden City",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
+    },
+    {
+      "basename": "Kickoff",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -25,20 +89,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
     {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
-    },
-    {
       "basename": "Venclaw",
       "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Venclaw.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     },
     {
       "basename": "APGtAv1",
@@ -147,58 +199,6 @@
     {
       "basename": "Prenotes",
       "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
     }
   ],
   "omittedPaths": [],
