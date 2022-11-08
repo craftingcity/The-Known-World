@@ -35,6 +35,6 @@ In any case, we should district out the city.
 - Many of the Spice Traders are to return before the Festival of Blessings.
 - The Claws are failing to keep away the Outlanders
 - The Noble Thieves are hidden among us. Watch your purse.
-- 
+- An artefact is for sale at Malik's - bid high, or the Collectors will.
 
 ### What happened?
