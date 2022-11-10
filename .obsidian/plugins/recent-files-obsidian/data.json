@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
+      "basename": "Baron Filip",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
+    },
+    {
       "basename": "Knights in Red",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Astral Goblin (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md"
-    },
-    {
-      "basename": "Abyssal (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Abyssal (language).md"
     }
   ],
   "omittedPaths": [],

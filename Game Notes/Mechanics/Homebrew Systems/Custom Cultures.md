@@ -130,7 +130,7 @@ In addition,
 # South Eastern
 ## Knight in Red
 
-You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. 
+You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]].  
 
 You gain
 
