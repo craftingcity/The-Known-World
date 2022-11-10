@@ -132,7 +132,10 @@ In addition,
 
 You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]].  
 
-You gain
+You gain +2 to your Strength Score and +1 to your Charisma Score. You know [[Golopak (language)]] and your choice of one of the following;
+	- [[Arthurian (language)]]
+	- [[Kantine (language)]]
+	- [[Montal (language)]]
 
 In addition,
 
