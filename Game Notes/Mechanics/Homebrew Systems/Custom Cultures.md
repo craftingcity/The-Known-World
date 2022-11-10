@@ -85,7 +85,7 @@ In addition,
 # South Western
 ## Golden Citizen
 
-You have 
+You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely
 
 You gain
 
