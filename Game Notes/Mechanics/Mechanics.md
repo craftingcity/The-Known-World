@@ -15,6 +15,7 @@ aliases:
 	- [[Combat Mechanics]]
 	- [[Custom Cultures]]
 	- [[Custom Heritages]]
+	- [[Custom Languages]]
 	- [[Homebrew Alchemy System]]
 	- [[Mechanics of Plane-walking]]
 	- [[Skills of Alaturmen]]

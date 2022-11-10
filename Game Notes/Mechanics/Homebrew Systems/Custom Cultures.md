@@ -90,7 +90,7 @@ You have spent your life before adventure in the cool and relatively safe underg
 You gain +2 to your Intelligence Score and a +1 to your Charisma Score. You are proficient in the Persuasion and Insight Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 	- [[Draconic (language)]]
 	- [[Golopak (language)]]
-	- 
+	- [[Montal (language)]]
 
 In addition,
 
