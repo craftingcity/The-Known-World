@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
+      "basename": "Knights in Red",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Abyssal (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Abyssal (language).md"
-    },
-    {
-      "basename": "Golopak (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md"
     }
   ],
   "omittedPaths": [],

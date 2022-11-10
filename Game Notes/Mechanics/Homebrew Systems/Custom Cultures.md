@@ -97,7 +97,7 @@ In addition,
 
 ## Tetrimocal Congregation
 
-You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship. 
+You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation. 
 
 You gain +2 to your Constitution Score and +1 to your Intelligence Score. You are proficient in the Survival and Athletics Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 	- [[Golopak (language)]]
@@ -108,7 +108,7 @@ In addition,
 
 ## Outlander Nomad
 
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You have been spilling blood, sweat, and tears since long before your adventure began.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. All meat is meat. You have been spilling blood, sweat, and tears since long before your adventure began.
 
 You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Perception and Insight Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 
@@ -117,7 +117,7 @@ In addition,
 
 ## Noble Thief
 
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from rich water merchants and travelers alongside bands of like-minded fighters.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from rich water merchants and travelers alongside bands of like-minded fighters. You do what you must for your kin to survive.
 
 You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are proficient in the Stealth and Survival Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
 	- [[Golopak (language)]]
@@ -130,7 +130,7 @@ In addition,
 # South Eastern
 ## Knight in Red
 
-You have
+You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. 
 
 You gain
 
