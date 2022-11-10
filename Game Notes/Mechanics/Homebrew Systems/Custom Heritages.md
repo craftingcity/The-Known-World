@@ -119,13 +119,14 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very beastly biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
 - You may live up to 75 years.
 - You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
+- When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
 ## Halfling
 
@@ -151,17 +152,24 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you take damage, you may use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage taken by that total. You regain the use of this feature after a short rest.
+- If your twin is alive, and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.
 
 ## Tabaxi
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+![[tabaxi.png]]
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[beas.
+
+- You may live up to 90 years.
+- You may weigh anywhere from 80 to 140 pounds.
+- You may be anywhere from 4 to 6 feet tall. Your size is Medium.
+- Your base walking speed is 35 feet per round.
+- When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
+- You have a darkvision of 45 feet.
 
 ## Kenku
+
+![[kenku.png]]
 
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
@@ -172,6 +180,8 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 
 ## Satyr
 
+![[satyr.png]]
+
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
 - You may live up to XX years.
@@ -180,6 +190,8 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 - Your base walking speed is XX feet per round.
 
 ## Gnomish
+
+![[gnome.png]]
 
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
@@ -190,6 +202,8 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 
 ## Kobold
 
+![[kobold.png]]
+
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
 - You may live up to XX years.
@@ -198,6 +212,8 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 - Your base walking speed is XX feet per round.
 
 ## Genasi
+
+![[genasi.png]]
 
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
