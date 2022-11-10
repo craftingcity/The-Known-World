@@ -64,21 +64,136 @@ In addition,
 
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served it's wishes, and the wishes of it's champions, and you were granted a decent life.
 
-You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and 
+You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and Intimidation Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
+	- [[Montal (language)]]
+	- [[Actcenvan (language)]]
+	- [[Arthurian (language)]]
+
+In addition,
 
 ## Waster Nomad
+
+You have spent your life before adventure without [[The Church of the White Flame]]. You were hunted. By the flame. [[Its Greatness|Its]] servants made
+
+You gain
+
+In addition,
+
 # South Western
 ## Golden Citizen
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Tetrimocal Congregation
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Outlander Nomad
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Noble Thief
+
+You have
+
+You gain
+
+In addition,
+
+
 # South Eastern
 ## Knight in Red
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Dampguard
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Riphound
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Slimknife
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Righteous Beast
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Hillkeep Loyalist
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Grovetender
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Five-Pike
+
+You have
+
+You gain
+
+In addition,
+
+
 ## Mossburgian
+
+You have
+
+You gain
+
+In addition,
+
