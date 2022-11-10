@@ -99,7 +99,7 @@ In addition,
 
 You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship. 
 
-You gain +2 to your Constitution Score and +1 to your Strength Score. You are proficient in the Survival and Athletics Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
+You gain +2 to your Constitution Score and +1 to your Intelligence Score. You are proficient in the Survival and Athletics Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 	- [[Golopak (language)]]
 	- [[Montal (language)]]
 
@@ -108,9 +108,9 @@ In addition,
 
 ## Outlander Nomad
 
-You have
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You have been spilling blood, sweat, and tears since long before your adventure began.
 
-You gain
+You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Perception and Insight Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 
 In addition,
 
