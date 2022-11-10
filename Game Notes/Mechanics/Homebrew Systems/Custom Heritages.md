@@ -54,7 +54,7 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 - You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
-- You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
 - You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
 	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
@@ -210,26 +210,45 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 - You may be anywhere from 2 to 4 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
 - You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
-- You have advantage on all Intelligence, Wisdom, and Charisma saves against magic. Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
+- You have advantage on all Intelligence, Wisdom, and Charisma Saving Throws against spells and magical effects. 
+- Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. 
+- Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
 
 ## Kobold
 
 ![[kobold.png]]
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon.
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+- You may live up to 40 years.
+- You may weigh anywhere from 40 to 80 pounds.
+- You may be anywhere from 2 to 3 feet tall. Your size is Small.
+- Your base walking speed is 25 feet per round.
+- You have a darkvision of 30 feet.
+- You have advantage on saving throws to avoid or end the frightened condition on yourself.
+- You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).
 
 ## Genasi
 
 ![[genasi.png]]
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+- You may live up to 200 years.
+- You may weigh anywhere from 120 to 220 pounds.
+- You may be anywhere from 4 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- You gain your choice of the following, corresponding with the major Elemental Plane from which you or your ancestors hail;
+	- Those hailing from the Plane of Air gain the following;
+		- You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. 
+		- You can hold your breath indefinitely while you’re not incapacitated.
+	- Those hailing from the Plane of Fire gain the following;
+		- You have resistance to fire damage.
+		- You have a darkvision of 60 feet.
+		- You may cast *hellish rebuke* as a reaction without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
+	- Those hailing from the Plane of Water gain the following;
+		- You have resistance to cold damage.
+		- You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
+	- Those hailing from the Plane of Earth gain the following;
+		- You have immunity against poison damage and the poisoned condition.
+		- Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.

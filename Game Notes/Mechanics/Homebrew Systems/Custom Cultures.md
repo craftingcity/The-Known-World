@@ -13,9 +13,9 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 ## Guildmember
 
-You spent your life before adventure with the Guilds of Alaturmen. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who to trust.
+You spent your life before adventure with the Guilds of Alaturmen. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who you can truly trust.
 
-You gain +2 in your Wisdom Score and +1 in your Intelligence Score. You are proficient in the Deception and Insight skills. You know two of your choice of the following;
+You gain +2 in your Wisdom Score and +1 in your Intelligence Score. You are proficient in the Deception and Insight skills. You know your choice of two of the following;
 	- [[Desertspeech (language)]]
 	- [[Fanyaquestan (language)]]
 	- [[Arthurian (language)]]
@@ -26,7 +26,7 @@ In addition, due to the necessities of politic, you are owed a favor by a member
 # North Western
 ## Kingdom of Prosper
 
-You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. Your claim is not uncommon, and not untrue. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
+You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
 
 You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History, Insight, and Persuasion Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 	- [[Fanyaquestan (language)]]
