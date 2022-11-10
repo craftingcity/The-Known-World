@@ -113,22 +113,23 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 		- The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. 
 		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. 
 			- The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
-	- After using your breath weapon, you cannot use it again until you complete a short or long rest.
+	- You regain the use of this feature after a short rest.
 
 ## Gnoll
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very beastly biology and an insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very beastly biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
 - You may live up to 75 years.
 - You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
-- 
 
 ## Halfling
+
+![[halfling.png]]
 
 People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
 
@@ -141,11 +142,66 @@ People with a heavy Halfling heritage find themselves in possession of what seem
 
 ## Goliath
 
-People with a heavy Goliath heritage
+![[goliath.png]]
+
+People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him. 
+
+- You may live up to 80 years.
+- You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- When you take damage, you may use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage taken by that total. You regain the use of this feature after a short rest.
 
 ## Tabaxi
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.
+
 ## Kenku
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.
+
 ## Satyr
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.
+
 ## Gnomish
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.
+
 ## Kobold
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.
+
 ## Genasi
+
+People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+
+- You may live up to XX years.
+- You may weigh anywhere from XXX to XXX pounds.
+- You may be anywhere from X to X feet tall. Your size is Medium.
+- Your base walking speed is XX feet per round.

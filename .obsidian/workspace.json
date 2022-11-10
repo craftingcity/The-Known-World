@@ -135,6 +135,54 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "36a8bca3b736ecad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8022061beac8d00f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cbfec781e4b3d9e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APGtAv1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -333,17 +382,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b443c3d2ef086e35",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
+    "APGtAv1.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Fighting Styles.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Game Notes.md"
+    "Game Notes/Mechanics/Mechanics.md"
   ]
 }
