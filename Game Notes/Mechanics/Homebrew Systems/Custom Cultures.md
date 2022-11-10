@@ -117,9 +117,12 @@ In addition,
 
 ## Noble Thief
 
-You have
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from rich water merchants and travelers alongside bands of like-minded fighters.
 
-You gain
+You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are proficient in the Stealth and Survival Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
+	- [[Golopak (language)]]
+	- [[Montal (language)]]
+	- [[Infernal (language)]]
 
 In addition,
 
