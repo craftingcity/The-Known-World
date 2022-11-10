@@ -1,4 +1,4 @@
-Presented in order of commonality. For the purposes of presentablity, please consider all people to become adults at about 1/4th their maximum age and consider all height and weight statements to be guidelines, not rules.
+Presented in order of commonality. Please consider all people to become adults at about 1/4th their maximum age, and consider all height and weight statements to be guidelines, not rules.
 
 ## Goblin
 
@@ -88,7 +88,7 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 
 ![[orc.png]]
 
-People with a heavy Orcish heritage find themselves in possession of a biology that provides extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
+People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
 
 - You may live up to 80 years.
 - You may weigh anywhere from 140 to 240 pounds.
@@ -126,10 +126,11 @@ People with a heavy Gnoll heritage find themselves in possession of a very beast
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
+- 
 
 ## Halfling
 
-People with a heavy Halfling heritage find themselves in possession of miniaturized yet seemingly mundane biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family...
+People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
 
 - You may live for up to 120 years.
 - You may weigh anywhere from 40 to 80 pounds.
