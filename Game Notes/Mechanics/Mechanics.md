@@ -11,9 +11,9 @@ aliases:
 	- [[Custom Armor Mechanics]]
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
+	- [[Alchemy Products]]
 	- [[Combat Mechanics]]
 	- [[Custom Cultures]]
-	- [[Custom Fighting Styles]]
 	- [[Custom Heritages]]
 	- [[Homebrew Alchemy System]]
 	- [[Mechanics of Plane-walking]]

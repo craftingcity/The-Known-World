@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Combat Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+    },
+    {
+      "basename": "Mechanics of Plane-walking",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md"
+    },
+    {
+      "basename": "Skills of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
+    },
+    {
+      "basename": "Alchemy Products",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
+      "basename": "Prenotes Nov 7 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
+    },
+    {
+      "basename": "The Golden City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
     {
       "basename": "South Dunes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md"
-    },
-    {
-      "basename": "Prenotes Nov 7 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
     },
     {
       "basename": "North Dunes",
@@ -53,14 +109,6 @@
       "path": "Notes on the Multiverse/Inner/Inner.md"
     },
     {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
       "basename": "Prenotes",
       "path": "Game Notes/Prenotes/Prenotes.md"
     },
@@ -69,16 +117,8 @@
       "path": "Game Notes/Prenotes/'22/'22.md"
     },
     {
-      "basename": "The Golden City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
-    },
-    {
       "basename": "Kickoff",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Tetrimoc-100AF",
@@ -95,14 +135,6 @@
     {
       "basename": "APGtAv1",
       "path": "APGtAv1.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
     },
     {
       "basename": "Custom Weapon Mechanics",
@@ -127,14 +159,6 @@
     {
       "basename": "Demogorgon",
       "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demogorgon.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
     },
     {
       "basename": "Kantine (language)",
@@ -171,34 +195,6 @@
     {
       "basename": "Golopak (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md"
-    },
-    {
-      "basename": "Desertspeech (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Desertspeech (language).md"
-    },
-    {
-      "basename": "Arthurian (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Arthurian (language).md"
-    },
-    {
-      "basename": "Fanyaquestan (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Fanyaquestan (language).md"
-    },
-    {
-      "basename": "Titan (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Titan (language).md"
-    },
-    {
-      "basename": "Liambon (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Liambon (language).md"
-    },
-    {
-      "basename": "Infernal (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
     }
   ],
   "omittedPaths": [],
