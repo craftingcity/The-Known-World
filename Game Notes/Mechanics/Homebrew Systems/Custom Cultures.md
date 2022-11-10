@@ -73,16 +73,19 @@ In addition,
 
 ## Waster Nomad
 
-You have spent your life before adventure without [[The Church of the White Flame]]. You were hunted. By the flame. [[Its Greatness|Its]] servants made
+You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] would hunt you if you would make your way to close to civilization. If you were lucky, you joined a band of like minds, and lived in the squalor of the safety of numbers.
 
-You gain
+You gain +2 to your Dexterity score and +1 to your Constitution Score. You are proficient in the Survival and Perception Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
+	- [[Montal (language)]]
+	- [[Actcenvan (language)]]
+	- [[Arthurian (language)]]
 
 In addition,
 
 # South Western
 ## Golden Citizen
 
-You have
+You have 
 
 You gain
 
