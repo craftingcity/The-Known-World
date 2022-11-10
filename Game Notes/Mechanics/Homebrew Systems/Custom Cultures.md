@@ -85,9 +85,9 @@ In addition,
 # South Western
 ## Golden Citizen
 
-You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely
+You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator - permanently.
 
-You gain
+You gain +2 to your Intelligence Score and a +1 to your Charisma Score.
 
 In addition,
 
