@@ -13,9 +13,9 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 ## Guildmember
 
-You spent your life before adventure with the Guilds of Alaturmen. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who you can truly trust.
+You spent your life before adventure with the [[Guilds of Coalition]]. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who you can truly trust.
 
-You gain +2 in your Wisdom Score and +1 in your Intelligence Score. You are proficient in the Deception and Insight skills. You know your choice of two of the following;
+You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are proficient in the Deception and Insight skills. You know your choice of two of the following;
 	- [[Desertspeech (language)]]
 	- [[Fanyaquestan (language)]]
 	- [[Arthurian (language)]]
@@ -26,7 +26,7 @@ In addition, due to the necessities of politic, you are owed a favor by a member
 # North Western
 ## Kingdom of Prosper
 
-You spent your life before adventure in the Kingdom of Prosper. You have personally met with the King. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
+You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
 
 You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History, Insight, and Persuasion Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 	- [[Fanyaquestan (language)]]
@@ -39,24 +39,33 @@ In addition, you have received advanced training in armors and weapons;
 
 ## Blood Clans
 
-You spent your life before adventure with one of the Blood Clans of the Illburn Forest. You knew that if you were not found useful, you would be found dead. You have been spilling blood, sweat, and tears since long before your adventure began.
+You spent your life before adventure with one of the [[Blood Clans]] of the [[Illburn Forest]]. You knew that if you were not found useful, you would be found dead. You have been spilling blood, sweat, and tears since long before your adventure began.
 
-You gain a +2 to your Constitution Score and a +1 to your Wisdom Score. You are proficient with the Nature and Survival Skills. You know [[Kantine (language)]] and [[Arthurian (language)]].
+You gain +2 to your Constitution Score and +1 to your Wisdom Score. You are proficient with the Nature and Survival Skills. You know [[Kantine (language)]] and your choice of one of the following;
+- [[Arthurian (language)]]
+- [[Golopak (language)]]
+- [[Actcenvan (language)]]
 
 In addition, 
 
 ## Actstow / Cenva Minyo
 
-You spent your life before adventure in the Actstow Hills. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing inbetween these two vastly different locales.
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing in-between these two vastly different locales.
 
-You gain a +2 to your Charisma Score and a +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
+You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 	- [[Fanyaquestan (language)]]
 	- [[Kantine (language)]]
 	- [[Arthurian (language)]]
 
 In addition,
+
 # North Eastern
 ## Church of the White Flame
+
+You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served it's wishes, and the wishes of it's champions, and you were granted a decent life.
+
+You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and 
+
 ## Waster Nomad
 # South Western
 ## Golden Citizen
