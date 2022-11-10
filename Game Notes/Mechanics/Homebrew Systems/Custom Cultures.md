@@ -97,7 +97,7 @@ In addition,
 
 ## Tetrimocal Congregation
 
-You have spent your life in a [[The Deserts of Tetrimoc|desert]] settlement, paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow D
+You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship. 
 
 You gain
 
