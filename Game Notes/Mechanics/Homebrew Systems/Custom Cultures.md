@@ -92,12 +92,12 @@ You gain +2 to your Intelligence Score and a +1 to your Charisma Score. You are 
 	- [[Golopak (language)]]
 	- [[Montal (language)]]
 
-In addition,
+In addition, 
 
 
 ## Tetrimocal Congregation
 
-You have
+You have spent your life in a [[The Deserts of Tetrimoc|desert]] settlement, paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow D
 
 You gain
 
