@@ -28,7 +28,7 @@ In addition, due to the necessities of politic, you are owed a favor by a member
 
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
 
-You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History, Insight, and Persuasion Skills. You know [[Arthurian (language)]] and your choice of one of the following;
+You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History and Insight Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 	- [[Fanyaquestan (language)]]
 	- [[Kantine (language)]]
 	- [[Golopak (language)]]
@@ -87,7 +87,10 @@ In addition,
 
 You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator - permanently.
 
-You gain +2 to your Intelligence Score and a +1 to your Charisma Score.
+You gain +2 to your Intelligence Score and a +1 to your Charisma Score. You are proficient in the Persuasion and Insight Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
+	- [[Draconic (language)]]
+	- [[Golopak (language)]]
+	- 
 
 In addition,
 
