@@ -45,7 +45,7 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of your kin.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
 
 - You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
@@ -158,7 +158,7 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 
 ![[tabaxi.png]]
 
-People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[beas.
+People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
 
 - You may live up to 90 years.
 - You may weigh anywhere from 80 to 140 pounds.
@@ -171,23 +171,30 @@ People with a heavy Tabaxi heritage find themselves in possession of a very feli
 
 ![[kenku.png]]
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+- You may live up to 75 years.
+- You may weigh anywhere from 60 to 120 pounds.
+- You may be anywhere from 2 to 3 feet tall. Your size is Small.
+- Your base walking speed is 25 feet per round.
+- You have a hovering speed of 15 feet per round. You cannot use this hovering speed while you are wearing medium or heavy armor.
+- You can precisely mimic sounds, including voices, you have heard more than once. A creature that hears the sounds you make can only tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
 
 ## Satyr
 
 ![[satyr.png]]
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+People with a heavy Satyr heritage find themselves in possession of a very bovine biology. The origins of Satyr people on Alaturmen are common information, they came with the Elves, having been given the duty of record for the Ceelie Courts. Sadly, the Great Fires destroyed many of the records of this time, and even sadder, the standing contract from the Ceelie Courts.
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+- You do not age as mortals should. 
+	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
+	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
+	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
+- You may weigh anywhere from 100 to 200 pounds.
+- You may be anywhere from 4 to 6 feet tall. Your size is Medium.
+- Your base walking speed is 35 feet per round.
+- You have advantage on saving throws against spells and other magical effects. 
+- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
 
 ## Gnomish
 
@@ -195,10 +202,15 @@ People with a heavy ### heritage find themselves in possession of a ###. The ori
 
 People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
 
-- You may live up to XX years.
-- You may weigh anywhere from XXX to XXX pounds.
-- You may be anywhere from X to X feet tall. Your size is Medium.
-- Your base walking speed is XX feet per round.
+- You do not age as mortals should. 
+	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
+	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
+	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
+- You may weigh anywhere from 50 to 120 pounds.
+- You may be anywhere from 2 to 4 feet tall. Your size is Small.
+- Your base walking speed is 25 feet per round.
+- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
+- You have advantage on all Intelligence, Wisdom, and Charisma saves against magic. Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
 
 ## Kobold
 
