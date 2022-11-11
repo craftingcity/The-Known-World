@@ -130,7 +130,7 @@ In addition,
 # South Eastern
 ## Knight in Red
 
-You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. If you were able, you spent much of your time was spent defending and improving the territories he claims. Elsewise, Issac found work more suited to your tastes.
+You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. If you were able, you spent much of your time was spent defending and improving the territories he claims. Your work was invaluable, but **you** were replaceable.
 
 You gain +2 to your Strength Score and +1 to your Charisma Score. You know [[Golopak (language)]] and your choice of one of the following;
 	- [[Arthurian (language)]]
@@ -142,7 +142,7 @@ In addition,
 
 ## Dampguard
 
-You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. 
 
 You gain
 
