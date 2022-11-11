@@ -108,7 +108,7 @@ In addition,
 
 ## Outlander Nomad
 
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. All meat is meat. You have been spilling blood, sweat, and tears since long before your adventure began.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You understand that all meat is meat. You have been spilling blood, sweat, and tears since long before your adventure began.
 
 You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Perception and Insight Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 
@@ -130,7 +130,7 @@ In addition,
 # South Eastern
 ## Knight in Red
 
-You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]].  
+You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. If you were able, you spent much of your time was spent defending and improving the territories he claims. Elsewise, Issac found work more suited to your tastes.
 
 You gain +2 to your Strength Score and +1 to your Charisma Score. You know [[Golopak (language)]] and your choice of one of the following;
 	- [[Arthurian (language)]]
@@ -142,7 +142,7 @@ In addition,
 
 ## Dampguard
 
-You have
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]
 
 You gain
 
