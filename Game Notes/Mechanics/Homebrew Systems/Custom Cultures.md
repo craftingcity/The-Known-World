@@ -70,7 +70,7 @@ You gain +2 to your Charisma score and +1 to your Constitution Score. You are pr
 - [[Actcenvan (language)]]
 - [[Arthurian (language)]]
 
-In addition, you have resistance to psychic damage.
+In addition, while you are conscious and within 15 feet of a mote of [[Its Greatness|White Flame]], you regain 1d4 hitpoints at the beginning of your turn.
 
 ## Waster Nomad
 
@@ -104,7 +104,7 @@ You gain +2 to your Constitution Score and +1 to your Intelligence Score. You ar
 - [[Golopak (language)]]
 - [[Montal (language)]]
 
-In addition, 
+In addition, beginning at 3rd level, you may seek the aid of [[Tetrimoc]] as if you had the Cleric's Divine Intervention feature. Your "cleric level" for the purposes of this feature is always 1.
 
 
 ## Outlander Nomad
@@ -125,7 +125,7 @@ You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are profi
 - [[Montal (language)]]
 - [[Infernal (language)]]
 
-In addition, 
+In addition, you gain Expertise in your choice of Stealth or Survival.
 
 
 # South Eastern
@@ -143,7 +143,7 @@ In addition,
 
 ## Dampguard
 
-You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. 
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were either a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a . 
 
 You gain
 
