@@ -4,10 +4,10 @@
 You spent your life before adventure with one of the many Druidic Circles of Alaturmen. You had little contact with the outside world during your time with the Druids. They taught you their values, trained you in their way, and sent you on your way when they began to see your potential to blossom.
 
 You gain +2 to your Wisdom Score and +1 to your Constitution Score. You are proficient in the Nature and Survival skills. You know [[Druidic (language)]] and your choice of one of the following pairs;
-	- [[Desertspeech (language)]] and [[Primordial (language)#Terrin]]
-	- [[Fanyaquestan (language)]] and [[Primordial (language)#Ignin]]
-	- [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
-	- [[Golopak (language)]] and [[Primordial (language)#Aquin]]
+- [[Desertspeech (language)]] and [[Primordial (language)#Terrin]]
+- [[Fanyaquestan (language)]] and [[Primordial (language)#Ignin]]
+- [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
+- [[Golopak (language)]] and [[Primordial (language)#Aquin]]
 
 In addition, you know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
 
@@ -16,10 +16,10 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 You spent your life before adventure with the [[Guilds of Coalition]]. Your days were full of bureaucracy, transportation, and political conflict. You learned when to keep information to yourself and how to tell who you can truly trust.
 
 You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are proficient in the Deception and Insight skills. You know your choice of two of the following;
-	- [[Desertspeech (language)]]
-	- [[Fanyaquestan (language)]]
-	- [[Arthurian (language)]]
-	- [[Golopak (language)]]
+- [[Desertspeech (language)]]
+- [[Fanyaquestan (language)]]
+- [[Arthurian (language)]]
+- [[Golopak (language)]]
 
 In addition, due to the necessities of politic, you are owed a favor by a member of high station within the Guilds of Alaturmen. You may speak with me and decide before we begin play, or wait and decide in the moment the truth of this favor.
 
@@ -29,13 +29,13 @@ In addition, due to the necessities of politic, you are owed a favor by a member
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
 
 You gain +2 to your Constitution Score and +1 to your Charisma Score. You are proficient in the History and Insight Skills. You know [[Arthurian (language)]] and your choice of one of the following;
-	- [[Fanyaquestan (language)]]
-	- [[Kantine (language)]]
-	- [[Golopak (language)]]
+- [[Fanyaquestan (language)]]
+- [[Kantine (language)]]
+- [[Golopak (language)]]
 
 In addition, you have received advanced training in armors and weapons;
-	- While you are wearing armor, you have +2 to Dexterity Saving Throws.
-	- While you are wielding at least one weapon, you have +2 to Strength Saving Throws.
+- While you are wearing armor, you have +2 to Dexterity Saving Throws.
+- While you are wielding at least one weapon, you have +2 to Strength Saving Throws.
 
 ## Blood Clans
 
@@ -53,9 +53,9 @@ In addition,
 You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing in-between these two vastly different locales.
 
 You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
-	- [[Fanyaquestan (language)]]
-	- [[Kantine (language)]]
-	- [[Arthurian (language)]]
+- [[Fanyaquestan (language)]]
+- [[Kantine (language)]]
+- [[Arthurian (language)]]
 
 In addition,
 
@@ -65,20 +65,20 @@ In addition,
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served it's wishes, and the wishes of it's champions, and you were granted a decent life.
 
 You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and Intimidation Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
-	- [[Montal (language)]]
-	- [[Actcenvan (language)]]
-	- [[Arthurian (language)]]
+- [[Montal (language)]]
+- [[Actcenvan (language)]]
+- [[Arthurian (language)]]
 
 In addition,
 
 ## Waster Nomad
 
-You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] would hunt you if you would make your way to close to civilization. If you were lucky, you joined a band of like minds, and lived in the squalor of the safety of numbers.
+You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] would hunt you if you would make your way too close to civilization. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers.
 
 You gain +2 to your Dexterity score and +1 to your Constitution Score. You are proficient in the Survival and Perception Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
-	- [[Montal (language)]]
-	- [[Actcenvan (language)]]
-	- [[Arthurian (language)]]
+- [[Montal (language)]]
+- [[Actcenvan (language)]]
+- [[Arthurian (language)]]
 
 In addition,
 
@@ -88,9 +88,9 @@ In addition,
 You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator - permanently.
 
 You gain +2 to your Intelligence Score and a +1 to your Charisma Score. You are proficient in the Persuasion and Insight Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
-	- [[Draconic (language)]]
-	- [[Golopak (language)]]
-	- [[Montal (language)]]
+- [[Draconic (language)]]
+- [[Golopak (language)]]
+- [[Montal (language)]]
 
 In addition, 
 
@@ -100,8 +100,8 @@ In addition,
 You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation. 
 
 You gain +2 to your Constitution Score and +1 to your Intelligence Score. You are proficient in the Survival and Athletics Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
-	- [[Golopak (language)]]
-	- [[Montal (language)]]
+- [[Golopak (language)]]
+- [[Montal (language)]]
 
 In addition,
 
@@ -120,9 +120,9 @@ In addition,
 You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from rich water merchants and travelers alongside bands of like-minded fighters. You do what you must for your kin to survive.
 
 You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are proficient in the Stealth and Survival Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
-	- [[Golopak (language)]]
-	- [[Montal (language)]]
-	- [[Infernal (language)]]
+- [[Golopak (language)]]
+- [[Montal (language)]]
+- [[Infernal (language)]]
 
 In addition,
 
@@ -130,14 +130,14 @@ In addition,
 # South Eastern
 ## Knight in Red
 
-You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. If you were able, you spent much of your time was spent defending and improving the territories he claims. Your work was invaluable, but **you** were replaceable.
+You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. Trained as a Squire and perhaps even Knighted yourself, you learned the complexities of honorable combat before departing from your Baron's immediate service.
 
 You gain +2 to your Strength Score and +1 to your Charisma Score. You know [[Golopak (language)]] and your choice of one of the following;
-	- [[Arthurian (language)]]
-	- [[Kantine (language)]]
-	- [[Montal (language)]]
+- [[Arthurian (language)]]
+- [[Kantine (language)]]
+- [[Montal (language)]]
 
-In addition,
+In addition, 
 
 
 ## Dampguard
