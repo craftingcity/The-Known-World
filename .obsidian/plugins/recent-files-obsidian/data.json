@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
       "basename": "Baron Filip",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "APGtAv1",
-      "path": "APGtAv1.md"
     },
     {
       "basename": "Combat Mechanics",

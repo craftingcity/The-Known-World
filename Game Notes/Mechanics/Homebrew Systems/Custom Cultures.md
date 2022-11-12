@@ -21,7 +21,8 @@ You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are prof
 - [[Arthurian (language)]]
 - [[Golopak (language)]]
 
-In addition, due to the necessities of politic, you are owed a favor by a member of high station within the Guilds of Alaturmen. You may speak with me and decide before we begin play, or wait and decide in the moment the truth of this favor.
+In addition, you gain the Observant feat.
+
 
 # North Western
 ## Kingdom of Prosper
@@ -33,7 +34,7 @@ You gain +2 to your Constitution Score and +1 to your Charisma Score. You are pr
 - [[Kantine (language)]]
 - [[Golopak (language)]]
 
-In addition, you have received advanced training in armors and weapons;
+In addition;
 - While you are wearing armor, you have +2 to Dexterity Saving Throws.
 - While you are wielding at least one weapon, you have +2 to Strength Saving Throws.
 
@@ -46,7 +47,7 @@ You gain +2 to your Constitution Score and +1 to your Wisdom Score. You are prof
 - [[Golopak (language)]]
 - [[Actcenvan (language)]]
 
-In addition, 
+In addition, you gain the Alert feat.
 
 ## Actstow / Cenva Minyo
 
@@ -57,19 +58,19 @@ You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are profi
 - [[Kantine (language)]]
 - [[Arthurian (language)]]
 
-In addition,
+In addition, you gain the Historian (UA) feat.
 
 # North Eastern
 ## Church of the White Flame
 
-You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served it's wishes, and the wishes of it's champions, and you were granted a decent life.
+You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and you were granted a decent life.
 
 You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and Intimidation Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
 - [[Actcenvan (language)]]
 - [[Arthurian (language)]]
 
-In addition,
+In addition, you have resistance to psychic damage.
 
 ## Waster Nomad
 
@@ -80,7 +81,7 @@ You gain +2 to your Dexterity score and +1 to your Constitution Score. You are p
 - [[Actcenvan (language)]]
 - [[Arthurian (language)]]
 
-In addition,
+In addition, 
 
 # South Western
 ## Golden Citizen
