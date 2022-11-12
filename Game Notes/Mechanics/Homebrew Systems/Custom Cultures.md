@@ -81,19 +81,19 @@ You gain +2 to your Dexterity score and +1 to your Constitution Score. You are p
 - [[Actcenvan (language)]]
 - [[Arthurian (language)]]
 
-In addition, 
+In addition, when you Forage as a Watch Action, you make the Survival check with Advantage.
 
 # South Western
 ## Golden Citizen
 
-You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator - permanently.
+You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator permanently - unless you lived in gang territory, that is.
 
 You gain +2 to your Intelligence Score and a +1 to your Charisma Score. You are proficient in the Persuasion and Insight Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 - [[Draconic (language)]]
 - [[Golopak (language)]]
 - [[Montal (language)]]
 
-In addition, 
+In addition, you have Advantage on Investigation or Insight checks in attempts to appraise the value of an item or service.
 
 
 ## Tetrimocal Congregation
@@ -104,28 +104,28 @@ You gain +2 to your Constitution Score and +1 to your Intelligence Score. You ar
 - [[Golopak (language)]]
 - [[Montal (language)]]
 
-In addition,
+In addition, 
 
 
 ## Outlander Nomad
 
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You understand that all meat is meat. You have been spilling blood, sweat, and tears since long before your adventure began.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You understand that all meat is meat, and all creatures must eat. 
 
 You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Perception and Insight Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 
-In addition,
+In addition, you gain the benefits of the Ranger's Natural Explorer feature while you are traveling in a desert.
 
 
 ## Noble Thief
 
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from rich water merchants and travelers alongside bands of like-minded fighters. You do what you must for your kin to survive.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from water-merchants and travelers who can afford it alongside bands of like-minds. You do what you must for your kin to survive.
 
 You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are proficient in the Stealth and Survival Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
 - [[Golopak (language)]]
 - [[Montal (language)]]
 - [[Infernal (language)]]
 
-In addition,
+In addition, 
 
 
 # South Eastern
