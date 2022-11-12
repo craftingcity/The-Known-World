@@ -133,7 +133,7 @@ In addition, you gain Expertise in your choice of Stealth or Survival.
 
 You have spent your life before adventure in the [[Huntyr Swamp]] working under the [[Baron Filip]]. Trained as a Squire and perhaps even Knighted yourself, you learned the complexities of honorable combat before departing from your Baron's immediate service.
 
-You gain +2 to your Strength Score and +1 to your Charisma Score. You know [[Golopak (language)]] and your choice of one of the following;
+You gain +2 to your Strength Score and +1 to your Charisma Score. You are proficient in the Athletics and Religion Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
 - [[Kantine (language)]]
 - [[Montal (language)]]
@@ -143,18 +143,18 @@ In addition,
 
 ## Dampguard
 
-You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were either a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a . 
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a feared shadow in the mind of those who would refuse the Baron's taxation.
 
-You gain
+You gain +2 to your Dexterity Score and +1 to your Strength Score. You are proficient in the... You know ...
 
 In addition,
 
 
 ## Riphound
 
-You have
+You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings. Your life has been brutal and deadly. And so it shall continue to be.
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -163,7 +163,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -172,7 +172,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -181,7 +181,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -190,7 +190,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -199,7 +199,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
@@ -208,7 +208,7 @@ In addition,
 
 You have
 
-You gain
+You gain... You are proficient in the... You know ...
 
 In addition,
 
