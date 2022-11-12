@@ -152,7 +152,7 @@ In addition,
 
 ## Riphound
 
-You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings. Your life has been brutal and deadly. And so it shall continue to be.
+You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings. Your life has been brutal, deadly, and exciting. And so it shall continue to be.
 
 You gain... You are proficient in the... You know ...
 
@@ -161,7 +161,7 @@ In addition,
 
 ## Slimknife
 
-You have
+You have spent your life before adventure as an agent of [[Baron Avory]]. 
 
 You gain... You are proficient in the... You know ...
 
@@ -212,3 +212,10 @@ You gain... You are proficient in the... You know ...
 
 In addition,
 
+## Baronless
+
+You have
+
+You gain... You are proficient in the... You know ...
+
+In addition,
