@@ -23,8 +23,9 @@ You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are prof
 
 In addition, you have legal identification - whatever that may be - of your membership to your Guild. Your membership, and your ability to call upon the full weight of the [[Guilds of Coalition]] will - if used properly - grant you nearly any request you could speak.
 - [[Guild of Adventurers]]
-	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in world
+	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed. 
 - [[Guild of Merchants]]
+	- The Guild of Merchants is a major infrastructure and logistics syndicate and one of the few reasons Alaturmen remains in peaceful Coalition. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
 - [[Ranger's Guild]]
 - [[Guild of Crafters]]
 - [[Guild of Wizards]]
