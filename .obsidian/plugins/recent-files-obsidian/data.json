@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+      "basename": "Faction Units",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    },
+    {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "On Peoples Involved with Arthur Simonson",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md"
+    },
+    {
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
     },
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
       "basename": "APGtAv1",
@@ -183,22 +199,6 @@
     {
       "basename": "Primordial (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Primordial (language).md"
-    },
-    {
-      "basename": "Giant (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Giant (language).md"
-    },
-    {
-      "basename": "Actcenvan (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Actcenvan (language).md"
-    },
-    {
-      "basename": "Montal (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Montal (language).md"
-    },
-    {
-      "basename": "Astral Goblin (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md"
     }
   ],
   "omittedPaths": [],
