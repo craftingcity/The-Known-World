@@ -21,7 +21,13 @@ You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are prof
 - [[Arthurian (language)]]
 - [[Golopak (language)]]
 
-In addition, you gain the Observant feat.
+In addition, you have legal identification - whatever that may be - of your membership to your Guild. Your membership, and your ability to call upon the full weight of the [[Guilds of Coalition]] will - if used properly - grant you nearly any request you could speak.
+- [[Guild of Adventurers]]
+	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in world
+- [[Guild of Merchants]]
+- [[Ranger's Guild]]
+- [[Guild of Crafters]]
+- [[Guild of Wizards]]
 
 
 # North Western
@@ -170,7 +176,7 @@ In addition,
 
 ## Righteous Beast
 
-You have
+You have spent your life before adventure paying fealty to the [[Beasts Righteous]] of [[Northern Quillbuck Jungle]].
 
 You gain... You are proficient in the... You know ...
 
