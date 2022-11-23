@@ -152,7 +152,10 @@ In addition,
 
 You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a feared shadow in the mind of those who would refuse the Baron's taxation.
 
-You gain +2 to your Dexterity Score and +1 to your Strength Score. You are proficient in the... You know ...
+You gain +2 to your Dexterity Score and +1 to your Strength Score. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
+- [[Desertspeech (language)]]
+- [[Arthurian (language)]]
+- [[Montal (language)]]
 
 In addition,
 
@@ -161,16 +164,16 @@ In addition,
 
 You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings. Your life has been brutal, deadly, and exciting. And so it shall continue to be.
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
 In addition,
 
 
 ## Slimknife
 
-You have spent your life before adventure as an agent of [[Baron Avory]]. 
+You have spent your life before adventure as an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, and copied documents you didn't understand. 
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient in the Acrobatics and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
 In addition,
 
@@ -179,7 +182,7 @@ In addition,
 
 You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle and its influences had no such issues.
 
-You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Acrobatics and Survival Skills. You know 
+You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
 In addition,
 
