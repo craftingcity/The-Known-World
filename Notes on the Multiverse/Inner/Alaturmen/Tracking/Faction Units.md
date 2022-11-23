@@ -17,8 +17,22 @@
 ### SUPPORT
 
 # Church of the White Flame
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
 
 # Democratic Combine of Peoples
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
 
 # Kingdom of Prosper
 ### HQ
@@ -53,8 +67,47 @@
 #### Communications Lieutenant
 #### Logistics Lieutenant
 
-# Blood Clans 
+# Blood Clans
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
+
 # Druidic Circles 
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
+
 # Emotional Churches 
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
+
 # Major Minor Factions 
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT
+
 # Antisocial Gangs
+### HQ
+### TROOPS
+### ELITES
+### FAST
+### HEAVY
+### TRANSPORT
+### SUPPORT

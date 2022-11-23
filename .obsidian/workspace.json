@@ -261,8 +261,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c8c8d3ea35c49c0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -383,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +472,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
               }
             }
           }
@@ -462,10 +484,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6bb90d21febd9dc",
+  "active": "c8c8d3ea35c49c0d",
   "lastOpenFiles": [
-    "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",

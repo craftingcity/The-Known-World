@@ -177,9 +177,9 @@ In addition,
 
 ## Righteous Beast
 
-You have spent your life before adventure paying fealty to the [[Beasts Righteous]] of [[Northern Quillbuck Jungle]].
+You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle and its influences had no such issues.
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Acrobatics and Survival Skills. You know 
 
 In addition,
 
@@ -221,7 +221,7 @@ In addition,
 
 ## Baronless
 
-You have
+You have spent your life before adventure wandering the Combine; never able to establish a stable relationship with a Baron, you were never safe. First victim of any racket, first removed from a state of housing, first blamed for mishaps unexplained.
 
 You gain... You are proficient in the... You know ...
 
