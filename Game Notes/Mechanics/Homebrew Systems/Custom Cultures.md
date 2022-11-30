@@ -27,8 +27,11 @@ In addition, you have legal identification - whatever that may be - of your memb
 - [[Guild of Merchants]]
 	- The Guild of Merchants is a major infrastructure and logistics syndicate and one of the few reasons Alaturmen remains in peaceful Coalition. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
 - [[Ranger's Guild]]
+	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering to far and threats from wandering too close.
 - [[Guild of Crafters]]
+	- The Guild of Crafters 
 - [[Guild of Wizards]]
+	- The Guild of Wizards maintains the largest known collections of knowledge and is the collective body responsible for the major decisions made by each of the guilds. In addition to this, the Guild of Wizards works to verify-and-list or remove any and all spellcasters and their knowledge or materials.
 
 
 # North Western
@@ -180,7 +183,7 @@ In addition,
 
 ## Righteous Beast
 
-You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle and its influences had no such issues.
+You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle's influences had no such issues.
 
 You gain +2 to your Wisdom Score and +1 to your Strength Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
