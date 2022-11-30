@@ -21,13 +21,13 @@ date: 85xxxTBT
 title: Annam rips, tears, sews - creates.
 content:
 
-Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality, physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. These planes birthed many beings, including the [[Immortal Dragons]].
+Using his own form, [[All-Father Annam]] began to create more than consiousness. More than reality; physicaility. Earth, Fire, Air, Water. In a ring, Annam creates the [[Elemental Planes]]. Around it forms the [[Astral Sea]]; consiousness made material. These planes birthed many beings, including the [[Immortal Dragons]].
 
 date: 76xxxTBT
 title: [[All-Father Annam]] and [[Asmodeus]] strike a deal.
 content:
 
-In exchange for "a boon", the [[All-Father Annam]] build the [[Nine Hells of Baator]] for [[Asmodeus]]. He was quick to realize his mistake, though he could not take it back - [[Asmodeus]] would not accept going back on a contract, and [[Asmodeus]] was feeding on the Faith-strength of the Souls he attracted to his [[Nine Hells of Baator|Hells]].
+The [[All-Father Annam]] builds the [[Nine Hells of Baator]] for [[Asmodeus]]. He was quick to realize his mistake, though he could not take it back - [[Asmodeus]] would not accept going back on a contract, and was feeding on the Faith-strength of the Souls he attracted to his [[Nine Hells of Baator|Hells]].
 
 Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the planes of Law and Good, and he built them high in the multiverse, so far that none of his family could reach - spare his parents. There, Souls collected and formed as Angels and Lictus, bastions-near-immortal of Good and Law.
 

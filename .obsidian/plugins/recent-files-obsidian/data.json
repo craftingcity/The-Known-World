@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
@@ -177,10 +185,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Gambleum/Herring.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
       "basename": "Nine Hells of Baator",
       "path": "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Demogorgon",
       "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demogorgon.md"
-    },
-    {
-      "basename": "Kantine (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md"
-    },
-    {
-      "basename": "Druidic (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Druidic (language).md"
     }
   ],
   "omittedPaths": [],
