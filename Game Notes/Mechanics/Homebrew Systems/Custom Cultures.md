@@ -25,11 +25,11 @@ In addition, you have legal identification - whatever that may be - of your memb
 - [[Guild of Adventurers]]
 	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed. 
 - [[Guild of Merchants]]
-	- The Guild of Merchants is a major infrastructure and logistics syndicate and one of the few reasons Alaturmen remains in peaceful Coalition. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
+	- The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
 - [[Ranger's Guild]]
 	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering to far and threats from wandering too close.
 - [[Guild of Crafters]]
-	- The Guild of Crafters 
+	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information.
 - [[Guild of Wizards]]
 	- The Guild of Wizards maintains the largest known collections of knowledge and is the collective body responsible for the major decisions made by each of the guilds. In addition to this, the Guild of Wizards works to verify-and-list or remove any and all spellcasters and their knowledge or materials.
 
