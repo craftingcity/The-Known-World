@@ -27,7 +27,7 @@ In addition, you have legal identification - whatever that may be - of your memb
 - [[Guild of Merchants]]
 	- The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
 - [[Ranger's Guild]]
-	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering to far and threats from wandering too close.
+	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
 - [[Guild of Crafters]]
 	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information.
 - [[Guild of Wizards]]
