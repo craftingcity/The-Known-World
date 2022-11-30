@@ -173,7 +173,7 @@ In addition,
 
 You have spent your life before adventure as an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. 
 
-You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient in the Deception and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
+You gain +2 to your Dexterity Score and +1 to your Intelligence Score. You are proficient in the Deception and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
 In addition,
 
@@ -182,7 +182,7 @@ In addition,
 
 You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle and its influences had no such issues.
 
-You gain +2 to your Constitution Score and +1 to your Dexterity Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
+You gain +2 to your Wisdom Score and +1 to your Strength Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
 In addition,
 
