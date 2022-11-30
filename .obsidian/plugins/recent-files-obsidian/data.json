@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Faction Turn Page",
@@ -23,6 +15,18 @@
     {
       "basename": "Faction Units",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
     },
     {
       "basename": "Arthur's Knights",
@@ -49,16 +53,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
     },
     {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
       "basename": "Custom Languages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     },
     {
       "basename": "Combat Mechanics",
@@ -198,5 +194,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

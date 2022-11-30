@@ -200,7 +200,7 @@ People with a heavy Satyr heritage find themselves in possession of a very bovin
 
 ![[gnome.png]]
 
-People with a heavy ### heritage find themselves in possession of a ###. The origins of ### people on Alaturmen are ###.
+People with a heavy Gnomish heritage find themselves in possession of an intellectial. The origins of ### people on Alaturmen are ###.
 
 - You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
