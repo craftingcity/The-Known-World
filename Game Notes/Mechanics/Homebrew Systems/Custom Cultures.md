@@ -45,8 +45,8 @@ You gain +2 to your Constitution Score and +1 to your Charisma Score. You are pr
 - [[Golopak (language)]]
 
 In addition;
-- While you are wearing armor, you have +2 to Dexterity Saving Throws.
-- While you are wielding at least one weapon, you have +2 to Strength Saving Throws.
+- While you are wearing armor, you have +1 to Dexterity Saving Throws.
+- While you are wielding at least one weapon, you have +1 to Strength Saving Throws.
 
 ## Blood Clans
 
@@ -61,14 +61,15 @@ In addition, you gain the Alert feat.
 
 ## Actstow / Cenva Minyo
 
-You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing in-between these two vastly different locales.
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing in-between these two vastly different and yet deeply entangled societies.
 
 You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
 - [[Kantine (language)]]
 - [[Arthurian (language)]]
 
-In addition, you gain the Historian (UA) feat.
+In addition;
+- You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 
 # North Eastern
 ## Church of the White Flame
@@ -114,7 +115,7 @@ You gain +2 to your Constitution Score and +1 to your Intelligence Score. You ar
 - [[Golopak (language)]]
 - [[Montal (language)]]
 
-In addition, beginning at 3rd level, you may seek the aid of [[Tetrimoc]] as if you had the Cleric's Divine Intervention feature. Your "cleric level" for the purposes of this feature is always 1.
+In addition, beginning at 3rd level, you may seek the aid of [[Tetrimoc]] as if you had the Cleric's Divine Intervention feature. Your "Cleric Level" for the purposes of this feature is always 1.
 
 
 ## Outlander Nomad
@@ -160,7 +161,7 @@ You gain +2 to your Dexterity Score and +1 to your Strength Score. You are profi
 - [[Arthurian (language)]]
 - [[Montal (language)]]
 
-In addition,
+In addition, you have advantage on Stealth checks made while traveling through
 
 
 ## Riphound
