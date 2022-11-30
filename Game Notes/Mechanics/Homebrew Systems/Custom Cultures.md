@@ -178,7 +178,7 @@ You have spent your life before adventure as an agent of [[Baron Avory]]. You pl
 
 You gain +2 to your Dexterity Score and +1 to your Intelligence Score. You are proficient in the Deception and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
-In addition,
+In addition, once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a *finesse* or a *ranged* weapon.
 
 
 ## Righteous Beast
@@ -187,7 +187,7 @@ You have spent your life before adventure in the [[Northern Quillbuck Jungle]] u
 
 You gain +2 to your Wisdom Score and +1 to your Strength Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
-In addition,
+In addition, once per seven days, you may spend an action. If you do so, make a Charisma check. Each beast or plant creature within makes a Wisdom saving throw that check. If the creature fails it's saving throw, it is charmed by you for 1 minute.
 
 
 ## Hillkeep Loyalist
@@ -196,7 +196,7 @@ You have spent your life before adventure in the [[Grumbling Hills]] working the
 
 You gain... You are proficient in the... You know ...
 
-In addition,
+In addition, once per round, when you deal damage with a weapon attack, you may spend a bonus action. If you do so, the creature you damaged has disadvantage on any attack roll that isn't against you until the beginning of your next turn.
 
 
 ## Grovetender
