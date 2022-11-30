@@ -171,9 +171,9 @@ In addition,
 
 ## Slimknife
 
-You have spent your life before adventure as an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, and copied documents you didn't understand. 
+You have spent your life before adventure as an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. 
 
-You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient in the Acrobatics and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
+You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient in the Deception and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
 In addition,
 
@@ -189,7 +189,7 @@ In addition,
 
 ## Hillkeep Loyalist
 
-You have
+You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands of the [[Baron Jammu]].
 
 You gain... You are proficient in the... You know ...
 
@@ -226,6 +226,9 @@ In addition,
 
 You have spent your life before adventure wandering the Combine; never able to establish a stable relationship with a Baron, you were never safe. First victim of any racket, first removed from a state of housing, first blamed for mishaps unexplained.
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Intelligence Score and +1 to your Wisdom Score. You are proficient in the Sleight of Hand and Performance Skills. You know [[Golopak (language)]] and your choice of one of the following;
+- [[Arthurian (language)]]
+- [[Montal (language)]]
+- [[Kantine (language)]]
 
 In addition,
