@@ -57,19 +57,18 @@ You gain +2 to your Constitution Score and +1 to your Wisdom Score. You are prof
 - [[Golopak (language)]]
 - [[Actcenvan (language)]]
 
-In addition, you gain the Alert feat.
+In addition, you can’t be surprised while you are conscious.
 
 ## Actstow / Cenva Minyo
 
-You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village or in the tunnels in the hills themselves. You learned to navigate the social complexities of co-existing in-between these two vastly different and yet deeply entangled societies.
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village, or in the tunnels in the hills themselves. You have learned to navigate the social complexities of co-existing in-between these two vastly different and yet deeply entangled societies.
 
 You gain +2 to your Charisma Score and +1 to your Dexterity Score. You are proficient with the Perception and Persuasion Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
 - [[Kantine (language)]]
 - [[Arthurian (language)]]
 
-In addition;
-- You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+In addition, when you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
 # North Eastern
 ## Church of the White Flame
@@ -149,7 +148,7 @@ You gain +2 to your Strength Score and +1 to your Charisma Score. You are profic
 - [[Kantine (language)]]
 - [[Montal (language)]]
 
-In addition, 
+In addition, you learn one Fighting Style option of your choice from the Fighter's Fighting Style options. If you already have a style, the one you choose must be different.
 
 
 ## Dampguard
@@ -161,7 +160,7 @@ You gain +2 to your Dexterity Score and +1 to your Strength Score. You are profi
 - [[Arthurian (language)]]
 - [[Montal (language)]]
 
-In addition, you have advantage on Stealth checks made while traveling through
+In addition, you have advantage on Stealth checks made while traveling through water.
 
 
 ## Riphound
@@ -170,7 +169,7 @@ You have spent your life before adventure working under the [[Baron Glask]]. The
 
 You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
-In addition,
+In addition, once per round, when you deal damage with a weapon attack, you may re-roll one of the damage dice. You must take the second result.
 
 
 ## Slimknife
