@@ -63,19 +63,29 @@ gaining levels
 3d combat
 initiative
 your turn
-	f ac
-	m ac
-	m ac
-	r
-attacking
+	full action
+	move action
+	minor action
+	counter action
+	OR
+	some type of action point system, perhaps tied to current vitality
+
 vitality and wounds
-spellcasting d comb
+attacking
+spellcasting during combat
 environment
 positioning
-conditoins
+conditions
 3e magic
 sources and delineations
 preparing and casting
 creativity
 alchemy
 magical items
+
+# Open Projects
+- [[Custom Cultures]]
+- Population Centers (ods)
+- [[Merchant Companies and their Routes]]
+- [[Economy Pages]]
+- [[Magical Items of Note]]

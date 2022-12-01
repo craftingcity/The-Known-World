@@ -19,9 +19,13 @@ aliases:
 	- Currently possessed by [[Alergra Barrowinch]]
 
 - Arthur's Ring of Regeneration
-	- > A simple golden ring that contains a very powerful incantation, granting the attuned regeneration from injury and immunity to age, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- > A simple golden ring that contains a very powerful incantation, granting the attuned regeneration from injury and immunity to age, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]].
 	- >> This ring is cursed. Once attuned, it cannot be removed. It provides a minor effect of lethargy during regeneration. Every one hundred years it applies a permanent level of exhaustion.
 	- Currently possessed by [[Arthur Simonson]]
+
+- The Fireheart Ruby
+	- > A beautiful fist sized ruby cut precisely into a geometric heart. Upon close inspection, a dim orange glow can be seen to flicker at the center of the gem.
+	- Currently possessed by [[Amashod]]
 
 ## Weapons
 - Magni Liberatoris Nostri Temporis
