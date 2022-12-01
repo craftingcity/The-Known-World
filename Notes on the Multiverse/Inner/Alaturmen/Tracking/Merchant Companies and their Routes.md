@@ -25,11 +25,8 @@ While almost all general stores could be considered merchant companies, we will 
 ### [[Golden Merchant's Company]]
 # Merchant Routes
 ## International Routes
-### Three-Nation Route
 ## Intranational Routes
 ### Kingdom of Prosper
-#### Big Three Route
-#### Scenic Route
 ### Democratic Combine of Peoples
 ### Holyl'nds
 ### Tetrimoc's Desert

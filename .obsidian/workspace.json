@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eadb087feff4a0c8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e9f604a701f9cad0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -54,7 +33,7 @@
             }
           },
           {
-            "id": "d8b0b50b168a9208",
+            "id": "b317232f1ff6aae0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e81e403ad8d90f20",
+            "id": "14455efce1e257da",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -89,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1462bb10f9fbc55c",
+            "id": "b930ee0c73a31d77",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -110,14 +89,182 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "794e0ba7a467c3c0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "07afb0e5aa4ff3fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a2a8091ebe3c1260",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "80d1a12e99d35372",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b93bbd660925107f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "adfe1657789e6ad9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7786738653fb0028",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "547fb6a8368a211f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -238,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +452,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
               }
             }
           }
@@ -317,17 +464,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8b0b50b168a9208",
+  "active": "b93bbd660925107f",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "A Grand Notepad.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
   ]
 }
