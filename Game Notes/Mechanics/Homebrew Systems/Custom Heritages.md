@@ -6,8 +6,8 @@ Presented in order of commonality. Please consider all people to become adults a
 
 People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
 
-- You may live up to 60 years.
-- You may weigh anywhere from 40 to 350 pounds.
+- *Age* You may live up to 60 years.
+- *Weight* You may weigh anywhere from 40 to 350 pounds.
 - You may be anywhere from 4 to 8 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of one of the following;
@@ -22,8 +22,8 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared".
 
-- You may live up to 90 years.
-- You may weigh anywhere from 100 to 200 pounds.
+- *Age* You may live up to 90 years.
+- *Weight* You may weigh anywhere from 100 to 200 pounds.
 - You may be anywhere from 4 to 6 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain a feat of your choice for which you meet the prerequisites.
@@ -34,8 +34,8 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment.
 
-- You may live up to 180 years.
-- You may weigh anywhere from 100 to 200 pounds.
+- *Age* You may live up to 180 years.
+- *Weight* You may weigh anywhere from 100 to 200 pounds.
 - You may be anywhere from 3 to 5 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You have advantage on saving throws against effects that charm, paralyze, or deal poison damage.
@@ -47,11 +47,11 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 
 People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
 
-- You do not age as mortals should. 
+- *Age* You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
 	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
 	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
-- You may weigh anywhere from 80 to 180 pounds.
+- *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
@@ -77,8 +77,8 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
 
-- You may live for up to 120 years.
-- You weigh anywhere from 80 to 160 pounds.
+- *Age* You may live for up to 120 years.
+- *Weight* You weigh anywhere from 80 to 160 pounds.
 - You may be anywhere from 4 to 6 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You have a swimming speed equal to your walking speed.
@@ -90,8 +90,8 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 
 People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
 
-- You may live up to 80 years.
-- You may weigh anywhere from 140 to 240 pounds.
+- *Age* You may live up to 80 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
@@ -103,8 +103,8 @@ People with a heavy Orcish heritage find themselves in possession of a powerfull
 
 People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen.
 
-- You may live for up to 120 years.
-- You may weigh anywhere from 140 to 240 pounds.
+- *Age* You may live for up to 120 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You can use your action to exhale destructive energy, known a breath weapon. 
@@ -121,8 +121,8 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
-- You may live up to 75 years.
-- You may weigh anywhere from 140 to 240 pounds.
+- *Age* You may live up to 75 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
@@ -134,8 +134,8 @@ People with a heavy Gnoll heritage find themselves in possession of a very canai
 
 People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
 
-- You may live for up to 120 years.
-- You may weigh anywhere from 40 to 80 pounds.
+- *Age* You may live for up to 120 years.
+- *Weight* You may weigh anywhere from 40 to 80 pounds.
 - You may be anywhere from 2 to 3 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
 - You may move through the space of any creature that is of a size larger than yours.
@@ -147,8 +147,8 @@ People with a heavy Halfling heritage find themselves in possession of what seem
 
 People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him. 
 
-- You may live up to 80 years.
-- You may weigh anywhere from 140 to 240 pounds.
+- *Age* You may live up to 80 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you take damage, you may use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage taken by that total. You regain the use of this feature after a short rest.
@@ -160,8 +160,8 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 
 People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
 
-- You may live up to 90 years.
-- You may weigh anywhere from 80 to 140 pounds.
+- *Age* You may live up to 90 years.
+- *Weight* You may weigh anywhere from 80 to 140 pounds.
 - You may be anywhere from 4 to 6 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
@@ -173,8 +173,8 @@ People with a heavy Tabaxi heritage find themselves in possession of a very feli
 
 People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
 
-- You may live up to 75 years.
-- You may weigh anywhere from 60 to 120 pounds.
+- *Age* You may live up to 75 years.
+- *Weight* You may weigh anywhere from 60 to 120 pounds.
 - You may be anywhere from 2 to 3 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
 - You have a hovering speed of 15 feet per round. You cannot use this hovering speed while you are wearing medium or heavy armor.
@@ -186,11 +186,11 @@ People with a heavy Kenku heritage find themselves in possession of an availian 
 
 People with a heavy Satyr heritage find themselves in possession of a very bovine biology. The origins of Satyr people on Alaturmen are common information, they came with the Elves, having been given the duty of record for the Ceelie Courts. Sadly, the Great Fires destroyed many of the records of this time, and even sadder, the standing contract from the Ceelie Courts.
 
-- You do not age as mortals should. 
+- *Age* You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
 	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
 	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
-- You may weigh anywhere from 100 to 200 pounds.
+- *Weight* You may weigh anywhere from 100 to 200 pounds.
 - You may be anywhere from 4 to 6 feet tall. Your size is Medium.
 - Your base walking speed is 35 feet per round.
 - You have advantage on saving throws against spells and other magical effects. 
@@ -202,11 +202,11 @@ People with a heavy Satyr heritage find themselves in possession of a very bovin
 
 People with a heavy Gnomish heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Gnomish people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task their Gnomish servants with the investigation and recovery of any and all technology.
 
-- You do not age as mortals should. 
+- *Age* You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
 	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
 	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
-- You may weigh anywhere from 50 to 120 pounds.
+- *Weight* You may weigh anywhere from 50 to 120 pounds.
 - You may be anywhere from 2 to 4 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
 - You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
@@ -220,8 +220,8 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 
 People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon.
 
-- You may live up to 40 years.
-- You may weigh anywhere from 40 to 80 pounds.
+- *Age* You may live up to 40 years.
+- *Weight* You may weigh anywhere from 40 to 80 pounds.
 - You may be anywhere from 2 to 3 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
 - You have a darkvision of 30 feet.
@@ -234,8 +234,8 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 
 People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
 
-- You may live up to 200 years.
-- You may weigh anywhere from 120 to 220 pounds.
+- *Age* You may live up to 200 years.
+- *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of the following, corresponding with the major Elemental Plane from which you or your ancestors hail;

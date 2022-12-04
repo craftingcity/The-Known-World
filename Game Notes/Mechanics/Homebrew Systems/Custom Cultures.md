@@ -138,6 +138,17 @@ You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are profi
 In addition, you gain Expertise in your choice of Stealth or Survival.
 
 
+## Hallborn
+
+You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining, crafting, and laughing at the misfortune of xenos scum.
+
+You gain +2 to your Consitution Score and +1 to your Strength Score. You are proficient in the Athletics and Medicine Skills. You know [[Montal (language)]], and your choice of one of the following;
+- [[Fanyaquestan (language)]]
+- [[Desertspeech (language)]]
+
+In addition,
+
+
 # South Eastern
 ## Knight in Red
 
@@ -194,7 +205,7 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands of the [[Baron Jammu]].
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Strength Score and +1 to your Wisdom Score. You are proficient in the... You know ...
 
 In addition, once per round, when you deal damage with a weapon attack, you may spend a bonus action. If you do so, the creature you damaged has disadvantage on any attack roll that isn't against you until the beginning of your next turn.
 
@@ -203,7 +214,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 
 You have
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the... You know ...
 
 In addition,
 
@@ -212,7 +223,7 @@ In addition,
 
 You have
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the... You know ...
 
 In addition,
 
@@ -221,7 +232,7 @@ In addition,
 
 You have
 
-You gain... You are proficient in the... You know ...
+You gain +2 to your Intelligence Score and +1 to your Strength Score. You are proficient in the... You know ...
 
 In addition,
 
