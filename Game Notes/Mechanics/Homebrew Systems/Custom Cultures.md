@@ -206,7 +206,7 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands of the [[Baron Jammu]].
 
-You gain +2 to your Strength Score and +1 to your Wisdom Score. You are proficient in the... You know ...
+You gain +2 to your Strength Score and +1 to your Wisdom Score. You are proficient in the Athletics and Sleight of Hand Skills. You know ...
 
 In addition, once per round, when you deal damage with a weapon attack, you may spend a bonus action. If you do so, the creature you damaged has disadvantage on any attack roll that isn't against you until the beginning of your next turn.
 
@@ -215,7 +215,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 
 You have spent your life before adventure 
 
-You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the... You know ...
+You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the Nature and Religion Skills. You know ...
 
 In addition,
 
@@ -224,7 +224,7 @@ In addition,
 
 You have
 
-You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the... You know ...
+You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the Arcana and History Skills. You know ...
 
 In addition,
 
@@ -233,7 +233,7 @@ In addition,
 
 You have
 
-You gain +2 to your Intelligence Score and +1 to your Strength Score. You are proficient in the... You know ...
+You gain +2 to your Intelligence Score and +1 to your Strength Score. You are proficient in the History and Persuasion Skills. You know ...
 
 In addition,
 
