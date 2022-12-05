@@ -1,6 +1,6 @@
 ---
 tags: npc
-aliases:
+aliases: Amethyst Jammu
 ---
 # Amethyst Jammu
 ## Baron Queen of [[Darnt Hillkeep]]

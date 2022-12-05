@@ -9,7 +9,7 @@ You gain +2 to your Wisdom Score and +1 to your Constitution Score. You are prof
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]
 
-In addition, you know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
+In addition, when you take fire, cold, 
 
 ## Guildmember
 
@@ -204,25 +204,29 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 
 ## Hillkeep Loyalist
 
-You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands of the [[Baron Jammu]].
+You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands controlled by your Baron, [[Baron Jammu|Amethyst Jammu]]. When it has been necessary, you have defended these hills and plains from those who would take them. This was not a joyful affair.
 
-You gain +2 to your Strength Score and +1 to your Wisdom Score. You are proficient in the Athletics and Sleight of Hand Skills. You know ...
+You gain +2 to your Strength Score and +1 to your Wisdom Score. You are proficient in the Athletics and Sleight of Hand Skills. You know [[Golopak (language)]] and your choice of one of the following;
+- [[Arthurian (language)]]
+- [[Desertspeech (language)]]
 
 In addition, once per round, when you deal damage with a weapon attack, you may spend a bonus action. If you do so, the creature you damaged has disadvantage on any attack roll that isn't against you until the beginning of your next turn.
 
 
 ## Grovetender
 
-You have spent your life before adventure 
+You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Yassir Cassindil]].
 
-You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the Nature and Religion Skills. You know ...
+You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the Nature and Religion Skills. You know [[Golopak (language)]] and your choice of one of the following;
+- [[Druidic (language)]]
+- [[Desertspeech (language)]]
 
-In addition,
+In addition, you know the Druidcraft cantrip, and may cast it as though you had the Druid's Spellcasting feature.
 
 
 ## Five-Pike
 
-You have
+You have 
 
 You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the Arcana and History Skills. You know ...
 
