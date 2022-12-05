@@ -9,7 +9,7 @@ You gain +2 to your Wisdom Score and +1 to your Constitution Score. You are prof
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]
 
-In addition, when you take fire, cold, 
+In addition, when you take fire, cold, or lightning damage you may spend and roll one of your hit die and gain the result as temporary hit points.
 
 ## Guildmember
 
@@ -21,7 +21,7 @@ You gain +2 to your Wisdom Score and +1 to your Intelligence Score. You are prof
 - [[Arthurian (language)]]
 - [[Golopak (language)]]
 
-In addition, you have legal identification - whatever that may be - of your membership to your Guild. Your membership, and your ability to call upon the full weight of the [[Guilds of Coalition]] will - if used properly - grant you nearly any request you could speak.
+In addition, you have legal identification - whatever that may be - of your membership to your Guild. Your membership and your ability to call upon the full weight of the [[Guilds of Coalition]] will - if used properly - grant you nearly any request you could speak.
 - [[Guild of Adventurers]]
 	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed. 
 - [[Guild of Merchants]]
