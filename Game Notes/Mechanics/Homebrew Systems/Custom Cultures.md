@@ -26,10 +26,11 @@ In addition, you have legal identification - whatever that may be - of your memb
 	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed. 
 - [[Guild of Merchants]]
 	- The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
+	- The [[Guild of Merchants#Thieves Guild|Thieves Guild]] is a silent subdivision of the [[Guild of Merchants]] that specializes in the less-than-publicly-acceptable efforts of monopolizing peace, such as burglary, murder, espionage, and threat enforcement or denial.
 - [[Ranger's Guild]]
 	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
 - [[Guild of Crafters]]
-	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information.
+	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information. Many of the Plane's most common technologies are kept well secret by these specialized Craftsfolk.
 - [[Guild of Wizards]]
 	- The Guild of Wizards maintains the largest known collections of knowledge and is the collective body responsible for the major decisions made by each of the guilds. In addition to this, the Guild of Wizards works to verify-and-list or remove any and all spellcasters and their knowledge or materials.
 
@@ -140,13 +141,13 @@ In addition, you gain Expertise in your choice of Stealth or Survival.
 
 ## Hallborn
 
-You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining, crafting, and laughing at the misfortune of xenos scum.
+You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining for resources and defending the [[Deakred Range]] under one of many familial-esq clans.
 
 You gain +2 to your Consitution Score and +1 to your Strength Score. You are proficient in the Athletics and Medicine Skills. You know [[Montal (language)]], and your choice of one of the following;
 - [[Fanyaquestan (language)]]
 - [[Desertspeech (language)]]
 
-In addition,
+In addition, when you make an Intelligence (Medicine) Check to stabilize a creature and succeed, you may have that creature regain 1 hit point and become conscious.
 
 
 # South Eastern
@@ -164,7 +165,7 @@ In addition, you learn one Fighting Style option of your choice from the Fighter
 
 ## Dampguard
 
-You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a feared shadow in the mind of those who would refuse the Baron's taxation.
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
 
 You gain +2 to your Dexterity Score and +1 to your Strength Score. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Desertspeech (language)]]
@@ -176,7 +177,7 @@ In addition, you have advantage on Stealth checks made while traveling through w
 
 ## Riphound
 
-You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings. Your life has been brutal, deadly, and exciting. And so it shall continue to be.
+You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings (metaphorically, unless...). Your life has been brutal, deadly, and exciting. And so it shall continue to be.
 
 You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
@@ -212,7 +213,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 
 ## Grovetender
 
-You have
+You have spent your life before adventure 
 
 You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the... You know ...
 
@@ -245,4 +246,4 @@ You gain +2 to your Intelligence Score and +1 to your Wisdom Score. You are prof
 - [[Montal (language)]]
 - [[Kantine (language)]]
 
-In addition,
+In addition, when you are not in combat, you (and any companions you lead) can travel in any city twice as fast as your speed would normally allow.

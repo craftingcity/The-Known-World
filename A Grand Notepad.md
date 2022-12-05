@@ -62,11 +62,9 @@ magical items
 
 # Open Projects
 - [[Custom Cultures]]
-	- [ ] Hallborn Special
 	- [ ] Grovetender FULL
 	- [ ] Five-Pike FULL
 	- [ ] Mossburgian FULL
-	- [ ] Baronless Special
 - Population Centers (ods)
 - [[Merchant Companies and their Routes]]
 - [[Economy Pages]]

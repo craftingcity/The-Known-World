@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Baron Yassir Cassindil",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md"
+    },
+    {
+      "basename": "Southern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+    },
+    {
+      "basename": "Centerlick Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md"
+    },
+    {
+      "basename": "Grovetenders",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md"
+    },
+    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "South Dunes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md"
-    },
-    {
-      "basename": "North Dunes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/North Dunes.md"
-    },
-    {
-      "basename": "Lord's Folly",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
-    },
-    {
-      "basename": "Agrandica's Savanna",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Agrandica's Savanna.md"
-    },
-    {
-      "basename": "Barthalamule's Shrubland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
-    },
-    {
-      "basename": "Cobalt's Cacti Field",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
     }
   ],
   "omittedPaths": [],

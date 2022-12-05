@@ -23,10 +23,10 @@ When push comes to shove, the attitude of the Barons turn from competitor to def
 - [[Baron Avory]] and the [[Slimknives]] control the [[Westlick Mossland]] from behind mask and shadow.
 - [[Baron Havord]] founded [[Harvord Trading Company]] in 092AF. He, and the employees and board members of the [[Harvord Trading Company]], "control" - in the loosest and most capitalist sense of the word – the [[Southern Quillbuck Jungle]], and have their base of operations, the distatefully named [[New Quillbuck]], deep in the center of the jungle.
 - [[Baron Xuiop]] and their [[Beasts Righteous]] control the [[Northern Quillbuck Jungle]] and the [[Reugb Marshes]] by the rule of power.
-- [[Baron Yassir Cassindil]] oversees the [[Grovetenders]] and their safekeeping of the [[Centerlick Mossland#Southern Third]].
-- [[Baron Jammu]] and the [[Hillkeep Loyalists]] keep the [[Grumbling Hills]] and the [[Centerlick Mossland#Northern Third]].
+- [[Baron Yassir Cassindil]] oversees the [[Grovetenders]] and their safekeeping of the [[Southern Third]].
+- [[Baron Jammu]] and the [[Hillkeep Loyalists]] keep the [[Grumbling Hills]] and the [[Northern Third]].
 - [[Five Pike]] is a group of dedicated healer-guardians of the [[Wetfoot Greenland]]. They are under the political rule of [[Baron J'Tail]], but they are the true force of power in the Wetfoots.
-- The [[Centerlick Mossland#Central Third]] is controlled by the [[Baron Vannis]] and his [[Mossburg Enforcers]]. While they are praised in [[Mossburg]], the other holdings of [[Baron Vannis]] are much less pleased with the [[Mossburg Enforcers]]' work.
+- The [[Central Third]] is controlled by the [[Baron Vannis]] and his [[Mossburg Enforcers]]. While they are praised in [[Mossburg]], the other holdings of [[Baron Vannis]] are much less pleased with the [[Mossburg Enforcers]]' work.
 ## Culture
 #### Heritage
 The People in the Democratic Combine of People are typically Goblin, Human, Triton, or any one else. While there are a lare percentage of these people here, anyone could be found in the Combine, as anyone could find use in the Combine.
