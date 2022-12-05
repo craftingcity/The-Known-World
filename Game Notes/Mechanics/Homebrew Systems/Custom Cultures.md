@@ -139,7 +139,7 @@ You gain +2 to your Dexterity Score and +1 to your Charisma Score. You are profi
 In addition, you gain Expertise in your choice of Stealth or Survival.
 
 
-## Hallborn
+## Mountain Halls
 
 You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining for resources and defending the [[Deakred Range]] under one of many familial-esq clans.
 
@@ -147,7 +147,7 @@ You gain +2 to your Consitution Score and +1 to your Strength Score. You are pro
 - [[Fanyaquestan (language)]]
 - [[Desertspeech (language)]]
 
-In addition, when you make an Intelligence (Medicine) Check to stabilize a creature and succeed, you may have that creature regain 1 hit point and become conscious.
+In addition, you gain the benefits of the Ranger's Natural Explorer feature while you are traveling in a mountain range.
 
 
 # South Eastern
@@ -181,7 +181,7 @@ You have spent your life before adventure working under the [[Baron Glask]]. The
 
 You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
-In addition, once per round, when you deal damage with a weapon attack, you may re-roll one of the damage dice. You must take the second result.
+In addition, once per long rest, when you deal damage with a weapon attack, you may re-roll one of the damage dice. You must take the second result.
 
 
 ## Slimknife
@@ -199,7 +199,7 @@ You have spent your life before adventure in the [[Northern Quillbuck Jungle]] u
 
 You gain +2 to your Wisdom Score and +1 to your Strength Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
-In addition, once per seven days, you may spend an action. If you do so, make a Charisma check. Each beast or plant creature within makes a Wisdom saving throw that check. If the creature fails it's saving throw, it is charmed by you for 1 minute.
+In addition, once per seven days, you may spend an action. If you do so, make a Charisma check. Each beast or plant creature within makes a Wisdom saving throw that check. If the creature fails it's saving throw, it is charmed by you for 10 minutes.
 
 
 ## Hillkeep Loyalist
@@ -226,11 +226,11 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 ## Five-Pike
 
-You have 
+You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and austensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. 
 
-You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the Arcana and History Skills. You know ...
+You gain +2 to your Wisdom Score and +1 to your Dexterity Score. You are proficient in the Arcana and History Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
-In addition,
+In addition, when you make an Intelligence (Medicine) Check to stabilize a creature and succeed, you may have that creature regain 1 hit point and become conscious.
 
 
 ## Mossburgian
