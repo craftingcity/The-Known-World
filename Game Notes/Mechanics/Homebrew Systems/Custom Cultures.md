@@ -235,11 +235,11 @@ In addition, when you make an Intelligence (Medicine) Check to stabilize a creat
 
 ## Mossburgian
 
-You have
+You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] Proper with a kind smile, but you know the truth. He is as tryannical as they come.
 
-You gain +2 to your Intelligence Score and +1 to your Strength Score. You are proficient in the History and Persuasion Skills. You know ...
+You gain +2 to your Intelligence Score and +1 to your Strength Score. You are proficient in the History and Persuasion Skills. You know [[Golopak (language)]].
 
-In addition,
+In addition, you have advantage on Wisdom (Insight) checks against those in positions of authority over you.
 
 ## Baronless
 
