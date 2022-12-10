@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
@@ -15,6 +23,22 @@
     {
       "basename": "Baron Jammu",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Cathouse Game",
+      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
+    },
+    {
+      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
+      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
+    },
+    {
+      "basename": "Granparents Game",
+      "path": "Game Notes/Campaign Rosters/Granparents Game.md"
     },
     {
       "basename": "Baron Yassir Cassindil",
@@ -33,16 +57,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md"
     },
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
       "basename": "Grand Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Grand Central.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "APGtAv1",
@@ -183,22 +199,6 @@
     {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-    },
-    {
-      "basename": "Prenotes Nov 7 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
-    },
-    {
-      "basename": "The Golden City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     }
   ],
   "omittedPaths": [],
