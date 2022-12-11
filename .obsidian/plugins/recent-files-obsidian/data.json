@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "kailkeep_real",
+      "path": "MEDIA/MAPS/kailkeep_real.PNG"
+    },
+    {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
@@ -195,10 +199,6 @@
     {
       "basename": "MEDIA",
       "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     }
   ],
   "omittedPaths": [],

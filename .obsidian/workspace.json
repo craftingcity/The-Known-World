@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "245d84bc5ae796a1",
+        "id": "a84d36f1aaeb0dec",
         "type": "tabs",
         "children": [
           {
-            "id": "dd09755e26c39ff1",
+            "id": "720124f09d1496be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "kailkeep_real",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/kailkeep_real.PNG\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+                "file": "A Grand Notepad.md"
               }
             }
           }
@@ -224,10 +231,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "dd09755e26c39ff1",
+  "active": "720124f09d1496be",
   "lastOpenFiles": [
+    "MEDIA/MAPS/kailkeep_real.PNG",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "A Grand Notepad.md",
@@ -235,8 +245,6 @@
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Game Notes/Campaign Rosters/Granparents Game.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md"
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
   ]
 }
