@@ -78,6 +78,9 @@ There are two large categories of creatures that Inhabit Kailkeep, those with an
 #### Kobolds of Kailkeep
 The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair.
 
+###### Rammik's Gang
+Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay.
+
 #### Goblin Loyalists
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
 
