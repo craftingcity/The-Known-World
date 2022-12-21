@@ -38,7 +38,7 @@ But not your players. Again, this should be a dark, stormy night of fun.
 ## Running Kailkeep
 For the purposes of running this module "from the book"; No matter where the players ascend from, they enter somewhere on the next level presented here – some intervention by the fates, perhaps. 
 
-You *must* understand that the levels presented here only explore a small portion of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – you'll have to replace it before anyone goes there). I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
+You should understand that the levels presented here only explore a small portion of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – you'll have to replace it before anyone goes there). I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
 
 ### About the Kobolds
 The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.

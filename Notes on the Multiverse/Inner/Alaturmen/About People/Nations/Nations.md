@@ -49,6 +49,7 @@ aliases:
 		- [[Bandit Lords]]
 		- [[Carta Prosperitatis]]
 		- [[Nobles of Prosper]]
+		- [[Simonson's Adventuring Party]]
 		- [[The Legend of the Bandit Lords]]
 		- [[Unification]]
 

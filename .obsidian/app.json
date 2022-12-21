@@ -161,8 +161,8 @@
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "1",
-    "downscalePercent": 100
+    "margin": "0",
+    "downscalePercent": 40
   },
   "livePreview": false,
   "communityPluginSortOrder": "download"
