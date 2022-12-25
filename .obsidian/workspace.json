@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f13ff0cedee651ee",
+        "id": "d4c2ba32ac5e4034",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6179e28888199b",
+            "id": "2891736d16ce2f4a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,33 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b4eef15e18199e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -143,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
