@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "Deakred Range",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
+    },
+    {
+      "basename": "Economics of The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md"
+    },
+    {
+      "basename": "Economics of the Hobgoblin Territories",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
+    },
+    {
+      "basename": "Economics of Tetrimoc's Desert",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+    },
+    {
+      "basename": "Economics of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
+    },
+    {
+      "basename": "Economics of Mountain Hall",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md"
+    },
+    {
+      "basename": "Economics of Combine",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
+    },
+    {
+      "basename": "Economics of Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md"
+    },
+    {
+      "basename": "Economics of Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "Economy Pages",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+    },
+    {
+      "basename": "Economics of Actstow",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md"
+    },
+    {
+      "basename": "Carta Prosperitatis",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Coalition City",
@@ -21,16 +73,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
     {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
       "basename": "MEDIA",
       "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "Economy Pages",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
     },
     {
       "basename": "Tracking",
@@ -75,10 +119,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
       "basename": "On Peoples Involved with Arthur Simonson",
@@ -159,46 +199,6 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Baron Jammu",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Cathouse Game",
-      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
-    },
-    {
-      "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
-      "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
-    },
-    {
-      "basename": "Granparents Game",
-      "path": "Game Notes/Campaign Rosters/Granparents Game.md"
-    },
-    {
-      "basename": "Baron Yassir Cassindil",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md"
-    },
-    {
-      "basename": "Southern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
     }
   ],
   "omittedPaths": [],

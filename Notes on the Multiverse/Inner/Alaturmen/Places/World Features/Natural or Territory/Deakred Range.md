@@ -21,7 +21,7 @@ The Deakred Range extends from the center point of [[Central Alaturmen]] to it's
 #### T1.
 #### U14. Lake of Eternal Life (visible)
 	- This large lake is supposed to have magical powers that grant eternal life, though this is clearly not the case - the lake is completely mundane.
-#### V1.
+#### V15. [[Coalition City]] (visible)
 #### W1.
 #### X1.
 #### Y1.
