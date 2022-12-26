@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c2ba32ac5e4034",
+        "id": "92ab239b1077f482",
         "type": "tabs",
         "children": [
           {
-            "id": "2891736d16ce2f4a",
+            "id": "9d7f471b84bda231",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -144,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -235,8 +231,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "470822c6e780fecc",
+  "active": "9d7f471b84bda231",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
@@ -245,7 +242,6 @@
     "MEDIA/MEDIA.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
