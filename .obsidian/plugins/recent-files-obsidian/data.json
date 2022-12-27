@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
       "basename": "Deakred Range",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "Economics of The Holyl'nds",
@@ -195,10 +195,6 @@
     {
       "basename": "kailkeep_real",
       "path": "MEDIA/MAPS/kailkeep_real.PNG"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     }
   ],
   "omittedPaths": [],

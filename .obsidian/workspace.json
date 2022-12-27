@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7810b53bb97dcdec",
+        "id": "84ac843dcc6c46d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8f23acb42f6b43aa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Deakred Range",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":8},\"to\":{\"line\":24,\"ch\":8}},\"scroll\":14.90084095161502}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "205037a094160400",
+            "id": "e261b2ed2f5a3a73",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -150,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -176,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -267,9 +231,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f23acb42f6b43aa",
+  "active": "e261b2ed2f5a3a73",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
+    "Untitled.canvas",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
@@ -277,7 +242,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md"
   ]
 }
