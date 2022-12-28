@@ -5,6 +5,18 @@
       "path": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
     },
     {
+      "basename": "Prenotes",
+      "path": "Game Notes/Prenotes/Prenotes.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Millnyr",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Red Throne/Millnyr.md"
+    },
+    {
       "basename": "Yerba",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
     },
@@ -17,16 +29,8 @@
       "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "Deakred Range",
@@ -191,14 +195,6 @@
     {
       "basename": "a_ Chapter Two - Level One; Hook",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
-    },
-    {
-      "basename": "a_ Chapter One - Introduction",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md"
-    },
-    {
-      "basename": "d_ Chapter Five - Level Four; Four Corners",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
     }
   ],
   "omittedPaths": [],

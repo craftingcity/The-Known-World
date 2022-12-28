@@ -55,7 +55,7 @@ Our heroes are the main characters of this story, but not it's setting.
 5. Artifact hunters tell rumor of great riches in the south-western deserts.
 6. [[Irenaus]] of the [[Monastery of Saint Mary]] has returned from his meditations with grave news.
 7. [[Arthur Simonson|Artie]] is looking for mercs to contract for privateering endeavors.
-8. a
+8. [[Scrivin Clan]] halting raids on Kingdom terri
 9. a
 10. a
 
