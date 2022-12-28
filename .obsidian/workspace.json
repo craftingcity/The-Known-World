@@ -11,24 +11,24 @@
             "id": "247c597d5be45a3a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Earlwynn's Fine Dining",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Dec 27 22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Dec 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":269},\"to\":{\"line\":26,\"ch\":269}},\"scroll\":23.0598045797909}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
                 "mode": "source",
                 "source": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md"
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
               }
             }
           }
@@ -248,6 +248,7 @@
   },
   "active": "247c597d5be45a3a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
     "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Untitled.canvas",
@@ -256,7 +257,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Dragons Blood Inn.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
+    "Game Notes/NPCs/List of Names.md"
   ]
 }
