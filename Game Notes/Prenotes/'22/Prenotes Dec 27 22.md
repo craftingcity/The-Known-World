@@ -21,16 +21,31 @@ Only moments more come to pass before the screams of the crowd dispersing are dr
 
 ### What does the World Know?
 
-Todays in-game date is 1st of Plowing, 105AF
+Todays in-game date is 1st of Plowing, 105AF.
 
 #### Encountering the Guard
 [[Sir Harris Bly]] of the [[Noble House a'LeQuinn]] is the highest ranking member of the guard on scene, and he is gonna do his damndest to get justice for the fallen here today. He has a dozen trained guard at his disposal, but violence is not the answer to violence. 
 
 #### The Scene of the Crime
 
+7 Gnoll, all genuinely unrelated, succumbed to the same "black blood curse" at the same time.
+1. The Gnoll are all unrelated.
+	1. Different Tattoos
+	2. Different Religions
+	3. Different Weapons
+2. The Gnoll all fell to the same issue.
+	1. They all have black blood
+	2. They all have blood pouring from their orifices
+	3. They all could have used their weapons, but didn't.
+3. The Gnoll started killing people because of the issue.
+	1. This blood is on the fallen civies
+	2. Toor, of Killskull 
+	3. 
+
 #### Other Activity in the City
 Our heroes are the main characters of this story, but not it's setting.
 
-1. The Guild of Wizards has yet to issue a decree on the "Great Hum" of the last week.
+1. The Guild of Wizards has yet to issue a decree on the "Great Hum" from 2 weeks ago, being slow is normal, but we'd like to know what happened.
+2. 
 
 ### What happened?
