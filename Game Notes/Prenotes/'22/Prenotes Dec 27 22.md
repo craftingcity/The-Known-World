@@ -55,8 +55,8 @@ Our heroes are the main characters of this story, but not it's setting.
 5. Artifact hunters tell rumor of great riches in the south-western deserts.
 6. [[Irenaus]] of the [[Monastery of Saint Mary]] has returned from his meditations with grave news.
 7. [[Arthur Simonson|Artie]] is looking for mercs to contract for privateering endeavors.
-8. [[Scrivin Clan]] halting raids on Kingdom terri
-9. a
-10. a
+8. [[Scrivin Clan]] halting raids on Kingdom territories, alliance brewing?
+9. [[Garqwak Clan]] and [[Hurraquk Clan]] battles have been affecting the northeastern villages in the Kingdom
+10. Alexius Joan has been spewing anti-kingdom propaganda and has been marked for death
 
 ### What happened?
