@@ -43,8 +43,6 @@ Todays in-game date is 1st of Plowing, 105AF.
 	2. Toor, of Killskull survived the issue.
 	3. One of the gnoll would not do this (ala Ar'Kraven?)
 
-
-
 #### Other Activity in the City
 Our heroes are the main characters of this story, but not it's setting.
 
