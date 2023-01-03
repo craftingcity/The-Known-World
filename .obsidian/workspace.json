@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f13ff0cedee651ee",
+        "id": "6d167fdacc2ba28e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6179e28888199b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Places",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":15},\"to\":{\"line\":8,\"ch\":15}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8179fccf13236471",
+            "id": "9c2349dd499de9d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,47 +20,11 @@
               ]
             },
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "6b4eef15e18199e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Coalition City",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":26},\"to\":{\"line\":6,\"ch\":26}}}"
-                },
-                {
-                  "title": "Deakred Range",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -298,17 +231,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8179fccf13236471",
+  "active": "9c2349dd499de9d2",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MEDIA.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
   ]
 }
