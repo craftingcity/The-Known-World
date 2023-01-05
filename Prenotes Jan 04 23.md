@@ -26,3 +26,4 @@ collected blood sample
 more occurances happening to gnolls south-west, other bad unexplained shit happening south-east
 
 ### What happened?
+
