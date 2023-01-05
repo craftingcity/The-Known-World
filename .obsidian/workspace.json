@@ -4,11 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "6d167fdacc2ba28e",
+        "id": "1a2dc65b11b52001",
         "type": "tabs",
         "children": [
           {
-            "id": "9c2349dd499de9d2",
+            "id": "247c597d5be45a3a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Earlwynn's Fine Dining",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":109},\"to\":{\"line\":7,\"ch\":109}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f24e50fce489a74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8185668dd4add9b5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +53,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 04 23.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -119,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -144,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Jan 04 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Jan 04 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +248,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Jan 04 23.md"
+              }
             }
           }
         ],
@@ -221,27 +263,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c2349dd499de9d2",
+  "active": "8185668dd4add9b5",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "MEDIA/MEDIA.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Untitled.canvas",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Red Throne/Millnyr.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Dragons Blood Inn.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/NPCs/List of Names.md"
   ]
 }
