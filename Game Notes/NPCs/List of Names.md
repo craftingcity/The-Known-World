@@ -5,20 +5,20 @@ aliases:
 # List of Names
 Masc | Femme | Neutral
 --------|--------|--------
-  Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
-Theo Anderson  | Paige Saunders | Glen Stone
-  Weulleachan Martin | Freya Harris | x
-River Mcdonald  | Alaya Mccarthy | Val Harris
+Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
+Theo Anderson | Paige Saunders | Glen Stone
+Weulleachan Martin | Freya Harris | x
+River Mcdonald  | x | Val Harris
 Leighton Mitchell  | Lily-Mae Fisher | Val Stevens
-Mark Ross  | Lyla Bradley | Franky Bradley
-Zak Williamson | Elsa Grifiths | Skye Johnbill
-Tomas Francis  | Frankie Davis | Gail Thomas
-Louis Stewart  | Lois Rogers | Vic Willis
+Mark Ross | Lyla Bradley | Franky Bradley
+Zak Williamson | Elsa Grifiths | x
+Tomas Francis | Frankie Davis | Gail Thomas
+Louis Stewart | Lois Rogers | Vic Willis
 Doirin Pheiderin | Kia Pearce | Marley Richardson
 
 x | x | x | x
 ----|----
-Vetericus | Anouk | Uraias | Emelia
+x | Uraias | Emelia
 Fridigern | Amalda | Ammius | Malasintha
 Totila | Eraric | Elja | Theodemer 
 Narin | Inna | Amala | Veduco
