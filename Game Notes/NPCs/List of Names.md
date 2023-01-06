@@ -7,7 +7,7 @@ Masc | Femme | Neutral
 --------|--------|--------
 Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
 Theo Anderson | Paige Saunders | Glen Stone
-Weulleachan Martin | Freya Harris | x
+Weulleachan Martin | Freya Harris | Abraham Y
 River Mcdonald  | x | Val Harris
 Leighton Mitchell  | Lily-Mae Fisher | Val Stevens
 Mark Ross | Lyla Bradley | Franky Bradley
