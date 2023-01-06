@@ -27,7 +27,7 @@ aliases:
 - AH4. Worm-rock Castle (visible)
 	- A massive mound of sand and stone towers above all who view it.
 	- This massive rock pike has been internally gobbled by purple wurm.
-- AM9. Temple of the Golemancer
+- AM9. Temple of the Golomancer
 	> This hex is staged for an encounter with 5 incredibly dangerous monsters.
 	> They are here because they are forming their lair here.
 	> There is something interesting about this particular group. They are incredibly well equipped, informed, or prepared.
