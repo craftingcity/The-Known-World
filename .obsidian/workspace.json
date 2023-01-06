@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4b9dd6d5ccf56317",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 05 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Prenotes Jan 05 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Prenotes Jan 05 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md"
+                "file": "Prenotes Jan 05 23.md"
               }
             }
           }
@@ -240,10 +262,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d00ff48e71261ffb",
+  "active": "4b9dd6d5ccf56317",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
     "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
     "Prenotes Jan 04 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
     "Game Notes/Prenotes/Prenotes.md",
