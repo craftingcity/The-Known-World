@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
     {
+      "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
+      "path": "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    },
+    {
       "basename": "alaturmen-hexmap-105",
       "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Southwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
     }
   ],
   "omittedPaths": [],
