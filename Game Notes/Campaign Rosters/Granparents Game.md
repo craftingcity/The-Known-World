@@ -8,4 +8,5 @@ aliases:
 ### Mortal Adversaries
 ### Faction Reputation
 ## Places
+[[Kailkeep]]
 ### Scenarios Changed

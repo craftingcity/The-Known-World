@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "581fa6c8cd86f1ea",
+        "id": "f4475f3fe0612169",
         "type": "tabs",
         "children": [
           {
-            "id": "d00ff48e71261ffb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b9dd6d5ccf56317",
+            "id": "10d7337880e0583a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,76 +18,95 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "The Deserts of Tetrimoc",
+                  "title": "Granparents Game",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":31},\"to\":{\"line\":20,\"ch\":31}},\"scroll\":15.421760678248171}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Granparents Game.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}}}"
                 },
                 {
-                  "title": "Prenotes Jan 05 23",
+                  "title": "Cathouse Game",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Jan 05 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0.8391187402396225}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 05 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "917e523afe2857a5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29c724cbd464336d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Cathouse Game.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}}}"
                 },
                 {
-                  "title": "The Deserts of Tetrimoc",
+                  "title": "Granparents Game",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Granparents Game.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "'21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'21/'21.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/'22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/'22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'21/'21.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/'22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "'23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -229,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 05 23.md",
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 05 23.md",
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Jan 05 23.md"
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
               }
             }
           }
@@ -310,27 +307,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b9dd6d5ccf56317",
+  "active": "10d7337880e0583a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Prenotes Jan 05 23.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
-    "Prenotes Jan 04 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md",
+    "Game Notes/Campaign Rosters/Granparents Game.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Untitled.canvas"
+    "Game Notes/Prenotes/'21/'21.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'22/'22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
   ]
 }

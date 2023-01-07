@@ -7,16 +7,16 @@ aliases:
 # Adventures of ...
 ## People
 Dae Shim
-Ryan Groot
+Ryan Groot (rip)
 Vix
-Mercy From Overwatch
-Moses
-Shu
-The Barbarian Gnome
+Daelith
+Moses (mia)
+Shu (mia?)
+Inec
 
 ### Trusted Allies
 ### Mortal Adversaries
 ### Faction Reputation
 ## Places
-Yerba!
+[[Yerba]]
 ### Scenarios Changed
