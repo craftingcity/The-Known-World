@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+      "basename": "Prenotes Jan 11 23",
+      "path": "Prenotes Jan 11 23.md"
+    },
+    {
+      "basename": "Prenotes Dec 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
+    },
+    {
+      "basename": "Prenotes",
+      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
     },
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
       "basename": "alaturmen-hexmap-105",
@@ -23,10 +35,6 @@
     {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "Prenotes Dec 27 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
     },
     {
       "basename": "Earlwynn's Fine Dining",
@@ -191,14 +199,6 @@
     {
       "basename": "Unification",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
-    },
-    {
-      "basename": "Faction Units",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     }
   ],
   "omittedPaths": [],

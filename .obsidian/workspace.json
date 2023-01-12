@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "291d6cd1a90aae30",
+        "id": "56d7cd7b222c152b",
         "type": "tabs",
         "children": [
           {
-            "id": "19de34f8733618f3",
+            "id": "fb5d801f5c2bbe7b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f65e227110bb427a",
+            "id": "9970b94bbdbd7f31",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Prenotes Jan 11 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Prenotes Jan 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Prenotes Jan 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+                "file": "Prenotes Jan 11 23.md"
               }
             }
           }
@@ -261,8 +268,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19de34f8733618f3",
+  "active": "9970b94bbdbd7f31",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
@@ -270,8 +279,6 @@
     "Game Notes/NPCs/List of Names.md",
     "Prenotes Jan 05 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
-    "Prenotes Jan 04 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Earlwynn's Fine Dining.md"
+    "Prenotes Jan 04 23.md"
   ]
 }
