@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56d7cd7b222c152b",
+        "id": "0e2dda8f1cb3212e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb5d801f5c2bbe7b",
+            "id": "4b7fa7b95b92bcf3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,97 +18,43 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Prenotes Dec 27 22",
+                  "title": "Noble House a'LeQuinn",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Dec 27 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":100},\"to\":{\"line\":53,\"ch\":100}},\"scroll\":17.040522456948274}"
-                },
-                {
-                  "title": "Prenotes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-              }
-            }
-          },
-          {
-            "id": "e76a65043d050df3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Yerba",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0.2613648543237423}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 11 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "97498bca41100e9c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":29},\"to\":{\"line\":6,\"ch\":29}},\"scroll\":0.4333154349350148}"
+                },
                 {
-                  "state": "{}",
+                  "title": "Politics of Coalition c. 078AF - 092AF",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":87},\"to\":{\"line\":6,\"ch\":87}}}"
+                },
+                {
+                  "title": "Texts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":31},\"to\":{\"line\":15,\"ch\":31}},\"scroll\":1.2921615201900236}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "091955f6a222f41e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,9 +239,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Jan 11 23.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -320,17 +262,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e76a65043d050df3",
+  "active": "4b7fa7b95b92bcf3",
   "lastOpenFiles": [
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Prenotes Jan 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
-    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Sir Harris Bly.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Untitled.md",
-    "ORGANIZATION/TEMPLATES/Prenotes.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
+    "Mountain Hall.md"
   ]
 }
