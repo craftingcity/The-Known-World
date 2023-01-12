@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Dec 27 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Dec 27 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":100},\"to\":{\"line\":53,\"ch\":100}},\"scroll\":17.040522456948274}"
+                },
+                {
                   "title": "Prenotes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
@@ -26,9 +32,34 @@
               ]
             },
             "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+              }
+            }
+          },
+          {
+            "id": "e76a65043d050df3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Yerba",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0.2613648543237423}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+                "file": "Prenotes Jan 11 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -197,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
               }
             }
           }
@@ -290,15 +321,15 @@
   },
   "active": "fb5d801f5c2bbe7b",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
-    "Sir Harris Bly.md",
     "Prenotes Jan 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+    "Sir Harris Bly.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Untitled.md",
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    "ORGANIZATION/TEMPLATES/Prenotes.md"
   ]
 }

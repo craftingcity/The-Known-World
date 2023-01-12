@@ -19,3 +19,5 @@ When last we left our heroes, they were somewhere in [[Yerba]] - i honestly dont
 
 
 ### What happened?
+
+they robbed the stables for horses, heading south
