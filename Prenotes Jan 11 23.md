@@ -20,4 +20,6 @@ When last we left our heroes, they were somewhere in [[Yerba]] - i honestly dont
 
 ### What happened?
 
-they robbed the stables for horses, heading south
+they robbed the stables for horses, heading south towards coalition city to learn more about bards and the hum
+
++50 xp

@@ -107,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Prenotes Jan 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Prenotes Jan 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+                "file": "Prenotes Jan 11 23.md"
               }
             }
           }
@@ -319,11 +320,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb5d801f5c2bbe7b",
+  "active": "e76a65043d050df3",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Prenotes Jan 11 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
     "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
     "Sir Harris Bly.md",
