@@ -38,7 +38,6 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[True Villian NPCs]]**
 - [[List of Names]]
 - **Mild Power**
-	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
 	- **Knights & Nobles**
@@ -50,7 +49,6 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**

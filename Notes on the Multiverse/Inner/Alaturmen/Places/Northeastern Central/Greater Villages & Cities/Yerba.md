@@ -8,6 +8,9 @@ aliases:
 ### Located in {Region}, X:Y
 ## Description
 ### Quote
+"The world began in Yerba, and it continues to revolve around it."
+
+Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built of wood & thatch, this city provides a classical feeling of wonder to those who wander through it.
 
 ### General Public Disposition
 
