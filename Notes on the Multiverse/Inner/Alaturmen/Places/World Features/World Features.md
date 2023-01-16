@@ -5,11 +5,11 @@ aliases:
 
 # World Features
 %% Begin Waypoint %%
-- **[[World Features]]**
-	- **Natural or Territory**
-		- [[Alvalini River]]
-		- [[Deakred Range]]
-		- [[Great Northern Forests]]
-	- [[Three Nation Highways]]
+- **Natural or Territory**
+	- [[Alvalini River]]
+	- [[Deakred Range]]
+	- [[Great Northern Forests]]
+	- [[Mountain Hall]]
+- [[Three Nation Highways]]
 
 %% End Waypoint %%

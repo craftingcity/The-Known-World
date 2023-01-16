@@ -41,6 +41,8 @@ for the graph: [[Here lie my suppliments...]]
 	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
+	- **Knights & Nobles**
+		- [[Sir Harris Bly]]
 	- **Midboss**
 		- [[Glot Maxim]]
 		- [[Hektor Salar]]
