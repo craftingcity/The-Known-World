@@ -3,7 +3,7 @@ tags: groups,
 aliases:
 ---
 
-# Group Name
+# Clan Suremantle
 ## History
 ## Governance
 ## Culture
@@ -15,3 +15,4 @@ aliases:
 ### Symbolism
 ## Technology
 ### Magic
+## Relationships with other Clans
