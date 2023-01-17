@@ -26,3 +26,5 @@ A band of nomads has been slaughtered by a magic explosion.
 
 
 ### What happened?
+
+attacked by wurms, gribgrub died alongside two water merchants

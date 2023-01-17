@@ -110,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Prenotes Jan 16 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Prenotes Jan 16 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+                "file": "Prenotes Jan 16 23.md"
               }
             }
           }
@@ -323,11 +322,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5657f642620b229",
+  "active": "4b7fa7b95b92bcf3",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Prenotes Jan 16 23.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Monastery of Saint Susan.md",
     "Irenaus.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
