@@ -51,7 +51,7 @@ Our heroes are the main characters of this story, but not it's setting.
 3. Demon Cults are deffo not real guys dont worry :) ([[Demon Lords]])
 4. Druids of Terra hold major power, but we don't know where they are, other than somewhere around here. Maybe the Hills? (yeah, the hills)
 5. Artifact hunters tell rumor of great riches in the south-western deserts.
-6. [[Irenaus]] of the [[Monastery of Saint Mary]] has returned from his meditations with grave news.
+6. [[Irenaus]] of the [[Monastery of Saint Susan]] has returned from his meditations with grave news.
 7. [[Arthur Simonson|Artie]] is looking for mercs to contract for privateering endeavors.
 8. [[Scrivin Clan]] halting raids on Kingdom territories, alliance brewing?
 9. [[Garqwak Clan]] and [[Hurraquk Clan]] battles have been affecting the northeastern villages in the Kingdom

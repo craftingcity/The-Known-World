@@ -19,5 +19,10 @@ When we last left our heroes, they had traveled a short distance east from [[The
 
 ### What does the World Know?
 
+The caravan is being tracked by members of [[Agrandica's Thieves]].
+
+A band of nomads has been slaughtered by a magic explosion.
+
+
 
 ### What happened?
