@@ -71,6 +71,27 @@
             }
           },
           {
+            "id": "ca649fba7d64658f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d32674831a11aaf7",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -213,7 +234,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -334,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 16 23.md",
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +382,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 16 23.md",
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -401,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Jan 16 23.md"
+                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
               }
             }
           }
@@ -425,8 +447,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b7fa7b95b92bcf3",
+  "active": "ca649fba7d64658f",
   "lastOpenFiles": [
+    "Prenotes Jan 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
@@ -434,7 +457,6 @@
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Prenotes Jan 16 23.md",
     "Monastery of Saint Susan.md",
     "Irenaus.md"
   ]
