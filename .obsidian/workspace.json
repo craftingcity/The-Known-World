@@ -4,74 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2dda8f1cb3212e",
+        "id": "de363538927a4c45",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7fa7b95b92bcf3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Yerba",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Noble House a'LeQuinn",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Yerba",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":29},\"to\":{\"line\":6,\"ch\":29}},\"scroll\":0.4333154349350148}"
-                },
-                {
-                  "title": "Politics of Coalition c. 078AF - 092AF",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":87},\"to\":{\"line\":6,\"ch\":87}}}"
-                },
-                {
-                  "title": "Texts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":31},\"to\":{\"line\":15,\"ch\":31}},\"scroll\":1.2921615201900236}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 16 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ca649fba7d64658f",
+            "id": "ca9c1fd0d0596790",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -83,159 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d32674831a11aaf7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b5657f642620b229",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-              }
-            }
-          },
-          {
-            "id": "cbc0a31bc371bd4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "222d511fcf4c1871",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "251ffd3fba153347",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a50787cc1482262b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "3419ddba35167d6b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -447,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca649fba7d64658f",
+  "active": "ca9c1fd0d0596790",
   "lastOpenFiles": [
-    "Prenotes Jan 16 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/NPCs/List of Names.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Monastery of Saint Susan.md",
-    "Irenaus.md"
+    "Prenotes Jan 16 23.md",
+    "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
