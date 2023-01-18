@@ -29,6 +29,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 - N18. Chapter-House Delectus of [[Arthur's Knights]] (visible)
 	- A two-story wooden chapel bears no symbology, standing on a small hill in the Prairie. The interior evokes a feeling of holiness, but not dedication to a specific Deity. At the head of the main chamber, a stone relief depicts the [[Arthur Simonson|The Great Adventurer King]] knighting a skull-masked figure who is bent forward on one knee.
 	- At all times, two LeQuinn guard of the Delectus Chapter guard the chapel's entrance.
+- O17. Pig's Burial
 - O27. Phase Spider Nests
 	- Clinging to the limbs of the forest trees, whispy cyan strands form nests indicate the presence of Phase Spiders, infectious blemishes of the Wildlands broken forward past the borders.
 - P19. Nature-growth Altar
