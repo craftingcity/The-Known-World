@@ -96,6 +96,44 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "43a91843ad5f9d08",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              }
+            }
+          },
+          {
+            "id": "6da58e2cd0fca444",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -193,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -311,15 +350,15 @@
   },
   "active": "de3ddce0032cb2f4",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
     "Prenotes Jan 17 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Prenotes Jan 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Game Notes/NPCs/List of Names.md"
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
   ]
 }
