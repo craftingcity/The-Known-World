@@ -147,8 +147,10 @@ content:
 [[Arthur Simonson]] completes his war's main goal - exterminate the [[Bandit Lords]]. Now he must hold this new territory from the Hobgoblins to the northeast.
 
 date: 065AF
-title: 
+title: Darwine births new forms.
 content:
+
+[[Darwine]] of the [[Beasts Righteous]] creates humanoid-sentient life from the fauna of the [[Great Quillbuck Jungle]] - most notably the Tabaxi and Kenku - in an attempt to raise a defensive army.
 
 date: 072AF
 title: Simonson make Peace.

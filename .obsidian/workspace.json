@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de363538927a4c45",
+        "id": "511f80ea4a96aeab",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b9074bd59ba121",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 17 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3b06ed9b15f65e84",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57d511c14963d0ad",
+            "id": "dd8dc71fd8cbfad6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,9 +18,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "alaturmen-hexmap-105",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png\"}}",
+                  "title": "Custom Heritages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":160,\"ch\":196},\"to\":{\"line\":160,\"ch\":196}},\"scroll\":158.60396983617926}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -70,14 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
+                "file": "Darwine's Expulsion.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "de3ddce0032cb2f4",
+            "id": "0d1d8d932d05602e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,52 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "43a91843ad5f9d08",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "6da58e2cd0fca444",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,11 +153,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
+    "width": 320.5,
     "collapsed": true
   },
   "right": {
@@ -257,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
               }
             }
           }
@@ -338,27 +264,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6da58e2cd0fca444",
+  "active": "0d1d8d932d05602e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
-    "Prenotes Jan 17 23.md",
+    "Darwine's Expulsion.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Prenotes Jan 16 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    "Game Notes/Prenotes/'22/'22.md",
+    "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
   ]
 }
