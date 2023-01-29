@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Aeberu",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
+    },
+    {
+      "basename": "Baron Shimmer",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
+    },
+    {
       "basename": "Currency of Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
     },
     {
       "basename": "Goldfield",
@@ -11,14 +23,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-    },
-    {
-      "basename": "Baron Shimmer",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
     },
     {
       "basename": "Dampguard",
@@ -195,10 +199,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Economics of The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],
