@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
+                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
               }
             }
           }
@@ -396,12 +396,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e4f6562e3a12ab8",
+  "active": "d151b895000448ba",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Dampguard.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Gabrin Shrublands.md",
