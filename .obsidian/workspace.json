@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "064553230eabd403",
+        "id": "ff804be58c769593",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9af8644c319f68",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Jan 28 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Jan 28 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":395},\"to\":{\"line\":15,\"ch\":395}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c47ec03b9213fb12",
+            "id": "016a538cd86af9f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -56,204 +29,7 @@
             }
           },
           {
-            "id": "fa6196c0b4197faf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "0bbb6e0daa8cb84f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Timeline.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":191.11822205363745}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/The Patron Saints of Kakurak.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "63b6679792158712",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "alaturmen-hexmap-105",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d6905a940148c3d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 16 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d381b593056d0965",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 28 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1fd5779561477ebf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-              }
-            }
-          },
-          {
-            "id": "77a3e9581644de58",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a63748a9c2329cc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Pitpoert.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "09b2534f88e3b5e5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7d835918c238cf7b",
+            "id": "ffacc8b6c733f747",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -274,7 +50,7 @@
             }
           },
           {
-            "id": "8c8d920d48bae6eb",
+            "id": "6ab6fde8d10e20c1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -288,14 +64,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Dampguard.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b2f2f55af7ee8d28",
+            "id": "2e4f6562e3a12ab8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -303,41 +79,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0492e51e8425de23",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "The Democratic Combine of Peoples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":40},\"to\":{\"line\":20,\"ch\":40}},\"scroll\":16.252451728372012}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -427,13 +188,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -458,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Thingrass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -484,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Thingrass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -525,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Thingrass.md"
               }
             }
           }
@@ -549,17 +308,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77a3e9581644de58",
+  "active": "ffacc8b6c733f747",
   "lastOpenFiles": [
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/NPCs/List of Names.md",
+    "Dampguard.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Thingrass.md",
-    "Prenotes Jan 28 23.md",
-    "Prenotes Jan 16 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Pitpoert.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
 }
