@@ -5,7 +5,7 @@ aliases:
 # Qiell Tilemundon
 ## the Black Mage
 ### he/him
-#### VO EXAMPLE:
+#### VO EXAMPLE: 
 
 > A human man wearing a dark gray robe holds a large wicked branch in his hands, bearing it towards you with intent to eradicate.
 
@@ -14,8 +14,9 @@ Qiell is the Black Mage on the [[Guild of Wizards]]. It is his responsibility to
 ## History
 ### Conception
 #### Character Goal
+Bind Orcus, and force him to grant me the secrets of Lichdom and Undeath, then banish him. 
 ### Current
 #### Character Goal
-Bind Orcus, and force him to grant me the secrets of Lichdom and Undeath, then banish him. 
+Seek information regarding the casting of Speak with Dead and Zone of Truth with the intent of extracting information from 
 
 #### Location

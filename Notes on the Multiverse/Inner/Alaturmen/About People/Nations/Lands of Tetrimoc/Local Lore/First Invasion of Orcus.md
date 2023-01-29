@@ -16,7 +16,7 @@ Tubric spoke confidently. "And yet you bring the book to us".
 
 "And yet I do". One of the leathered hands of the mage reaches into his robe, and produces a thin book, hardbound in thick black leather, and locked by an adamantine hinge and clasp. He walks forward, and places the book into Eladrithal's grasp, who immediately passes it to Phnipper.
 
-"Wait! Do not manage this tome lightly. The information contained herein is not to be replicated by anyone and not remembered by anyone other than yourselves." He turned to Phnipper. "Anyone."
+"Do not manage this tome lightly. The information contained herein is not to be replicated by anyone and not remembered by anyone other than yourselves." He turned to Phnipper. "Anyone."
 
 She smiled, and quickly retorted "Got it! Is this *tome* gonna freak out when I do a magic about it?" and her smile grew cheshire in size as the Yellow Mage frowned. "I'm so glad we get to work together. Good seeing you Nicolas!"
 
@@ -34,7 +34,7 @@ Tubric paused a moment, before calmly replying, "Phnipper. We are not being task
 
 Phnipper takes a moment to consider Tubrics words, then nods. "Thank you for your wisdom Tubric. I understand, but I do not agree with it. We are using the resources of our allies without their truly informed consent."
 
-Tubric returns Phnipper's nod.
+Tubric returns Phnipper's nod - an unspoken agreement to disagree and continue.
 
 Eladrithal speaks, his voice tender and bassy, "What's next then? I wouldn't mind visiting the Golden City, but that wouldn't be the best idea given our reputation with the Claws", pausing to shoot a knowing look at Tubric, "So maybe we head north-west. We'd make Agrandica's less than an hour before nightfall." 
 
