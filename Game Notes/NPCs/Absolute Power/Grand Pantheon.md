@@ -39,6 +39,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Duty:
 - Tenants:
 - anger/rage, hatred, battle and war; an old orc who simply refuses to die without a fight
+
 ##### Gish, Wife of Gromosh
 - Icon:
 - Domain:
