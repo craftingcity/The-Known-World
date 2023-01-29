@@ -138,6 +138,27 @@
             }
           },
           {
+            "id": "a1c19b7b0d6d1d34",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "6ab6fde8d10e20c1",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -186,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           }
@@ -396,11 +417,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d151b895000448ba",
+  "active": "a1c19b7b0d6d1d34",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Dampguard.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
