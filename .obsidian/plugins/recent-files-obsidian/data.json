@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+    },
+    {
+      "basename": "Prenotes Jan 28 23",
+      "path": "Prenotes Jan 28 23.md"
+    },
+    {
       "basename": "Aeberu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Dampguard",
       "path": "Dampguard.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
     },
     {
       "basename": "How the Weave becomes Magic",
@@ -79,10 +87,6 @@
     {
       "basename": "Prenotes Jan 16 23",
       "path": "Prenotes Jan 16 23.md"
-    },
-    {
-      "basename": "Prenotes Jan 28 23",
-      "path": "Prenotes Jan 28 23.md"
     },
     {
       "basename": "Timeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Cathouse Game",
       "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     }
   ],
   "omittedPaths": [],

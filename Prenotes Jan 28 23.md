@@ -20,3 +20,4 @@ When we last left our heroes, they had travelled alongside water merchants towar
 theodmere the ferriemen
 
 ### What happened?
+traveled across the [[Alvalini River]], into the [[Gabrin Shrublands]]. 

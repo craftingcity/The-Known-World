@@ -236,20 +236,51 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Aeberu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":21.62075187334048}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+                "file": "Prenotes Jan 28 23.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "709da31ee7025371",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Homebrew Alchemy System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":24},\"to\":{\"line\":37,\"ch\":24}},\"scroll\":36.977063061965545}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -368,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -394,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +466,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
               }
             }
           }
@@ -459,17 +490,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e36a4f28b6c8e96",
+  "active": "709da31ee7025371",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Prenotes Jan 28 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Goldfield.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Dampguard.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Gabrin Shrublands.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Thingrass.md"
+    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
   ]
 }
