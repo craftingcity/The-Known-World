@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de363538927a4c45",
+        "id": "064553230eabd403",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b9074bd59ba121",
+            "id": "ff9af8644c319f68",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,79 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 17 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3b06ed9b15f65e84",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65ae5531fcc2b23b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-              }
-            }
-          },
-          {
-            "id": "57d511c14963d0ad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "alaturmen-hexmap-105",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -216,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 17 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 17 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Jan 17 23.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -307,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2b9074bd59ba121",
+  "active": "ff9af8644c319f68",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Darwine's Expulsion.md",
+    "Prenotes Jan 17 23.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/List of Names.md",
-    "Prenotes Jan 17 23.md",
     "Prenotes Jan 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
   ]
 }

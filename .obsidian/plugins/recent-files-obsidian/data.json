@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Prenotes Jan 17 23",
-      "path": "Prenotes Jan 17 23.md"
-    },
-    {
       "basename": "Bandeer",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Darwine's Expulsion",
+      "path": "Darwine's Expulsion.md"
+    },
+    {
+      "basename": "Prenotes Jan 17 23",
+      "path": "Prenotes Jan 17 23.md"
     },
     {
       "basename": "GrainIntoGold",
@@ -195,10 +199,6 @@
     {
       "basename": "About People",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "The Worldwide Calendar Systems",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/The Worldwide Calendar Systems.md"
     }
   ],
   "omittedPaths": [],
