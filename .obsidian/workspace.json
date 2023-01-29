@@ -20,8 +20,60 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 28 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63b6679792158712",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "alaturmen-hexmap-105",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d6905a940148c3d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 16 23.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -145,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Jan 28 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Jan 28 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +263,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Jan 28 23.md"
+              }
             }
           }
         ],
@@ -234,15 +290,15 @@
   },
   "active": "ff9af8644c319f68",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Prenotes Jan 28 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Jan 11 23.md",
+    "Prenotes Jan 16 23.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Darwine's Expulsion.md",
-    "Prenotes Jan 17 23.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/NPCs/List of Names.md",
-    "Prenotes Jan 16 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+    "Prenotes Jan 17 23.md"
   ]
 }
