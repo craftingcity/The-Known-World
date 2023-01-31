@@ -20,4 +20,8 @@ When we last left our heroes, they had travelled alongside water merchants towar
 theodmere the ferriemen
 
 ### What happened?
-traveled across the [[Alvalini River]], into the [[Gabrin Shrublands]]; resting in a tavern (unnamed) in [[Aeberu]]. they fought off the pirates at z16 before arriving.
+spoke with Qiell;
+
+named skull as Gail Thomas "interrupted by [[The Grey Ordeal]] before able to contact extraplanar entity", ie Orcus, but I really haven't dropped hints that its actually Orcus yet.
+
+traveled across the [[Alvalini River]], into the [[Gabrin Shrublands]]; resting in a tavern (unnamed) in [[Aeberu]]. they fought off the pirates at z16 before arriving, killing 3/5.

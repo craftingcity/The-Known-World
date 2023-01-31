@@ -8,6 +8,6 @@ connect to [[Notes on the Multiverse]]
 	- [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Prenotes]]**
+- **[[Game Notes/Prenotes/Prenotes]]**
 
 %% End Waypoint %%
