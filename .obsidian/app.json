@@ -162,7 +162,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 40
+    "downscalePercent": 100
   },
   "livePreview": false,
   "communityPluginSortOrder": "download"

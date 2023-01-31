@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +213,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+              }
             }
           }
         ],
