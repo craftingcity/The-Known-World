@@ -43,4 +43,14 @@ The rest of the Grey Ordeal agreed, and together they exited the cave, mounted t
 
 # Chapter Two - Agrandica, the Northwestern Thief Lord
 
-His assessment was correct, as it seemed always to be, and the party reached their destination before nightfall, passing huts and teepees before reaching the larger 
+His assessment was correct, as it seemed always to be. The party reached their destination before nightfall, passing huts and teepees of wood and leather - the large leaved trees of the savanna providing a much desired barrier to the beating heat of the sun - before reaching the larger and more permanent structures in the center of Ahaustin. 
+
+"I really don't want to see her again," Phnipper continued, "She never apologized for last time. I don't even think she's really sorry."
+
+"She leads a gang nation at war with the world. Her apology would come with her own head on a pike." Eladrithal explained simply. "We work with assholes."
+
+They continued in silence through the town, Eladrithal's statement driving the mood of the party towards a less casual posture. It wasn't long before they were halted by a few of Agrandica's soldiers. They didn't introduce themselves, but their fair clothing and many symbolic tattoos revealed their allegiance to the Red Madam.
+
+Their horses were taken from them, and the party was led to a back-alley and down a set of rotting stairs. The stench of mildew and age flooded Eladrithal's senses causing him to cough as he and his companions are flung forward towards a table and chairs.
+
+From the other side of the room, a voice rang "Pardon the smell."
