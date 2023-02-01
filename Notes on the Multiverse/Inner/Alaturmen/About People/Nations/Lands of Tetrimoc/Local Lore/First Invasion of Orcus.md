@@ -51,6 +51,16 @@ His assessment was correct, as it seemed always to be. The party reached their d
 
 They continued in silence through the town, Eladrithal's statement driving the mood of the party towards a less casual posture. It wasn't long before they were halted by a few of Agrandica's soldiers. They didn't introduce themselves, but their fair clothing and many symbolic tattoos revealed their allegiance to the Red Madam.
 
-Their horses were taken from them, and the party was led to a back-alley and down a set of rotting stairs. The stench of mildew and age flooded Eladrithal's senses causing him to cough as he and his companions are flung forward towards a table and chairs.
+Their horses and weapons were taken from them, and the party was led to a back-alley and down a set of rotting stairs. The stench of mildew and age flooded Eladrithal's senses causing him to cough as he and his companions are flung forward towards a table and chairs.
 
-From the other side of the room, a voice rang "Pardon the smell."
+From the other side of the room, Agrandica moved to meet them there, pausing only for a moment as her chair is emplaced for her. 
+
+"Greetings, my comrades, unfair as they may be." Her voice was kind, soft, and entirely hollow of genuine emotion. "I am under the assumption that you would not be so bold to come to me without purpose?"
+
+Her smile filled her face, hollow as it was, betraying the only feeling she could truthfully claim to know - superiority.
+
+Tubric returned her smile before reaching into his pack and producing a fist sized package, wrapped carefully in a dark grey-green fabric and placing it upon the table.
+
+Agrandica's smile only widened at this sight.
+
+Tubric continued, unwrapping the fabric and displaying the content of the package to be a stone. White in appearance, similar in transparency to a fine 
