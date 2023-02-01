@@ -148,7 +148,7 @@ content:
 
 [[Arthur Simonson]] completes his war's main goal - exterminate the [[Bandit Lords]]. Now he must hold this new territory from the Hobgoblins to the northeast.
 
-date: 065AF
+date: 067AF
 title: Darwine births new forms.
 content:
 
@@ -204,7 +204,7 @@ After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeti
 With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak.
 
 date: 105AF
-title: [[A Dark Hum...]]
+title: The [[Second Invasion of Orcus]]...
 content:
 
 Throughout the material planes, a dark hum permiates the Weave.

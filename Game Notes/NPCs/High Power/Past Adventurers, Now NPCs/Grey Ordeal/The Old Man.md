@@ -1,8 +1,11 @@
 ---
-tags: npc, leader, loreful, greyordeal
+tags: npc
+aliases:
 ---
-# The Old Man
+# Otuom
+## The Old Man
+### he/they/it
 
-The mentor of [The Grey Ordeal](simplenote://note/c8aef6fb-83f5-4786-aa5f-23efde8d6693).
+> Boxtext for an action, outfit, and a physical trait.
 
-A legendarily powerful spellcaster.
+Adventure begins somewhere. This is the human who it chose. The fates bless this creature as a form divine - incarnate in their wishes - whose will is one and the same with reality.

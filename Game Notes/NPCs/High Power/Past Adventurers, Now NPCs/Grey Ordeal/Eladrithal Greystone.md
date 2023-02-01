@@ -4,7 +4,7 @@ aliases:
 ---
 # Eladrithal Greystone
 ## Party Ranger of the [[Grey Ordeal]]
-### pronouns
+### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 
