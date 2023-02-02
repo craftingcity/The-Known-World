@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
               }
             }
           }
@@ -289,11 +288,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8351512730222d8f",
+  "active": "f74b34efbcd7dfcc",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Bodaim's Bandits.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Edward Bodaim.md",
     "Game Notes/NPCs/List of Names.md",
