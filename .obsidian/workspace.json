@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Feb 01 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Feb 01 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":40},\"to\":{\"line\":23,\"ch\":40}},\"scroll\":15.367157082152522}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+                "file": "Game Notes/NPCs/List of Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+                "file": "Game Notes/NPCs/List of Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
+                "file": "Game Notes/NPCs/List of Names.md"
               }
             }
           }
@@ -330,17 +337,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f74b34efbcd7dfcc",
+  "active": "e9b33d7bca3bb4f7",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Bodaim's Bandits.md",
-    "Elsa Grifiths San-Tymiq.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+    "Elsa Grifiths San-Tymiq.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Edward Bodaim.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-    "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md",
-    "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md"
+    "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md"
   ]
 }
