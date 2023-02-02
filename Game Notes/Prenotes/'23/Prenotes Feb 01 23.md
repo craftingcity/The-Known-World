@@ -23,9 +23,9 @@ I want to give them the Map, because they had asked for one and I said no, like 
 
 They are probably headed into [[Coalition City]] from the north, so they are coming through the "true" entrance to the city, the [[Iron Ward]]. They can find rumors here from many travellers, and likely can encounter any number of bands or bards.
 
-Should they find this information lacking, they can be reminded about the information of the [[Guild of Adventurers]], found throughout Coalition City, their reception will be fairly static - "you are unregistered, we dont know you... if you scratch our back first, harder, we can get you information about this"
+Should they find this information lacking, they can be reminded about the information of the [[Guild of Adventurers]], found throughout Coalition City, their reception will be fairly static - "you are unregistered, we don't know you... if you scratch our back first, harder, we can get you information about this".
 
-> Why isn't the [[Guild of Adventurers]] already persuing the issues of the Second Hum?
+> Why isn't the [[Guild of Adventurers]] already pursuing the issues of the Second Hum?
 > They are, but they can't say that to these shmucks. The [[Guild of Wizards]] has approved covert investigation regarding "demon cults", the "black-blood curse" and the names "Hades", "Pluto", and "Dis Pater" - the truer name; "[[Orcus]]" has yet to be re-exposed, and it's true name is still well hidden.
 
 ### What happened?

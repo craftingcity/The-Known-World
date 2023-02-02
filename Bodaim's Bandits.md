@@ -14,8 +14,10 @@ The gang run by [[Barret Bodaim]], son of [[Edward Bodaim]] and [[Griss'eltel Bo
 - ally aoe rally (2)
 - melee slow + 1/2 damage attack (2)
 ##### "Skinny" Pete Yuuwbin (pronounced;yew-ben)
+encountered nice adventureres who robbed them
 ##### Jimmy "No-Bugs" Cammir
 ##### Penny "Big-Time" San-Tymiq
+encountered nice adventureres who robbed them
 ##### Wanda "Gonna Get'cha" Bund
 ##### Fern "Nickname" Cinnamon
 ##### Jak Bodaim
