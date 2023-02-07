@@ -63,4 +63,6 @@ Tubric returned her smile before reaching into his pack and producing a fist siz
 
 Agrandica's smile only widened at this sight.
 
-Tubric continued, unwrapping the fabric and displaying the content of the package to be a stone. White in appearance, similar in transparency to a fine 
+Tubric continued, unwrapping the fabric and displaying the content of the package to be a stone. White in appearance, similar in transparency to a fine quartz, but upon peering inside, the interior looks to be infinitely fractal.
+
+""

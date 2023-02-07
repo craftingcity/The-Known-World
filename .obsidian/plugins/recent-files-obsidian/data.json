@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "First Invasion of Orcus",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Faction Units",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     }
   ],
   "omittedPaths": [],
