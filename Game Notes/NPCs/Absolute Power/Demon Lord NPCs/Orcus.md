@@ -3,6 +3,7 @@ tags: npc, demon
 aliases:
 ---
 # Orcus
+### "Hades", "Pluto", "Dis Pater"
 ## Lord of the Undead
 ## Demon Prince of [[Thanatos]]
 ### he/him/it/its
