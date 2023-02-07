@@ -24,6 +24,8 @@ DEMON CULTS!!!
 
 wanna do a fight today
 
-- 
+try my best to bring in the Heartfire Ruby as an artifact
+- see demon cults
+
 
 ### What happened?
