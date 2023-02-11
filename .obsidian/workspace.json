@@ -16,13 +16,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "GrainIntoGold",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/GrainIntoGold.pdf\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -147,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
               }
             }
           }
@@ -240,15 +248,15 @@
   },
   "active": "40b95a11a1320155",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Jan 17 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Wheernat Clan.md",
     "Elsa Grifiths San-Tymiq.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Arrek Bozkin.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
-    "Bodaim's Bandits.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Edward Bodaim.md"
+    "Bodaim's Bandits.md"
   ]
 }
