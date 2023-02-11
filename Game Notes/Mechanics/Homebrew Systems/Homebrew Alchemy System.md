@@ -23,10 +23,10 @@ An expert alchemist is a full-time alchemist, capable of handling any task given
 A master alchemist is a ***full***-time alchemist, capable of handling *any* task given to them, and is capable of creating *any* effect desired. A master alchemist is free to pursue any endeavor they wish, and is highly sought after for their skills. A master alchemist is an individual of great talent and power, respected by all who know them.
 
 ### Schools
-It is true that most alchemists find success in creating their own formula, but many alchemists create formula that are only de-facto unique, and throughout these "common" formula, certain schools of thought begin to emerge. Three broad "schools" of Alchemy emerge from these patterns, where-in each practitioner is using similar components, equipment, and processes.
+It is true that most alchemists find success in creating their own formula, but many alchemists create formula that are only de-facto unique, and throughout these "common" formula, certain schools of thought begin to emerge. Three more specialized "schools" of Alchemy emerge from these patterns, where-in each practitioner is using similar components, equipment, and processes.
 
 #### Elemental
-Durandurm's ability to invoke elemental power has led to its use in many formula and labratory across Alaturmen. By harnessing the powers of the most basic Elements, one could manipulate the Weave to their will.
+Durandurm's ability to invoke elemental power has led to its use in many formula and laboratory across Alaturmen. By harnessing the powers of the most basic Elements, one could manipulate the Weave to their will.
 
 #### Draconic
 A rare school of alchemy that is generally only practiced by the dragon-kin themselves that involves using physical aspects of the body of a dragon-kin as potent components in alchemy.
