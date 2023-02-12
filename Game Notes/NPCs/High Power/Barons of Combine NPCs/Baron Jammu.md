@@ -5,6 +5,7 @@ aliases: Amethyst Jammu
 # Amethyst Jammu
 ## Baron Queen of [[Darnt Hillkeep]]
 ### she/her
+
 > Amethyst stands stout on her throne and strokes her 6-inch beard as she looks at you thoughtfully. On her body, she wears a dark blue cloak and a comfortable and fine set of leather-protected clothing. She wears an amulet of amethyst emblem around her neck, which, when it catches the light just perfectly, you can see is embossed with the Hillkeep emblem.
 
 ## Roleplaying
@@ -23,7 +24,7 @@ For as long as she has been alive, she has been groomed to be the ruler of the [
 
 #### New Baron Jammu
 
-Amethyst Jammu is the current Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]]. She is currently in attempts to maintain her newfound control over her domain, especially in the [[Northern Third]]'s less-than-Loyalist holdings.
+Amethyst Jammu is the current Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]]. She is currently attempting to maintain her newfound control over her domain, especially in the [[Northern Third]]'s less-than-Loyalist holdings.
 
 ## Important Knowledge
 
