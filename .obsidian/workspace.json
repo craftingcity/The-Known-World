@@ -59,8 +59,14 @@
             "id": "4659a6883bf4ad55",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prenotes June 11 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes June 11 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":86},\"to\":{\"line\":13,\"ch\":86}},\"scroll\":5.075231480152846}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -96,8 +102,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -145,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "archma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,15 +324,15 @@
   },
   "active": "4659a6883bf4ad55",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Prenotes Feb 11 23.md",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
-    "Prenotes Feb 11 23.md",
     "Game Notes/Prenotes/'23/Prenotes Jan 17 23.md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Wheernat Clan.md",
-    "Elsa Grifiths San-Tymiq.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    "Elsa Grifiths San-Tymiq.md"
   ]
 }
