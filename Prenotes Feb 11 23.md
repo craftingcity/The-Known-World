@@ -25,3 +25,6 @@ we can go for the pirates as wights
 ### What happened?
 
 they beat the Pirates Reborn, who dropped names "Hades", "Dis Pater"
+
+made it into Darnt Hillkeep
+
