@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "15c3a92bac299213",
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Feb 11 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Feb 11 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Feb 11 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
               }
             }
           }
@@ -322,12 +322,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4659a6883bf4ad55",
+  "active": "40b95a11a1320155",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Prenotes Feb 11 23.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
+    "Prenotes Feb 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
     "Game Notes/Prenotes/'23/Prenotes Jan 17 23.md",
     "conflict-files-obsidian-git.md",
