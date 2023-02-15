@@ -30,5 +30,5 @@ made it into [[Darnt Hillkeep]]
 
 Encountered "[[Barkeep, Free-Fey]]" in the Silver Unicorn 
 
-headed to Hillkeep 
+headed to Hillkeep proper
 
