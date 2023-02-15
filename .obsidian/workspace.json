@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22fd2788cec5a998",
+        "id": "567d0175fd9b6ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "ef9b89f0a267a2c4",
+            "id": "77b78d4ae890f5d6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "litt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
               }
             }
           }
@@ -239,17 +240,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ef9b89f0a267a2c4",
+  "active": "77b78d4ae890f5d6",
   "lastOpenFiles": [
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
     "Prenotes Feb 07 23.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'22/Prenotes Feb 12 22.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
