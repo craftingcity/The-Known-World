@@ -26,7 +26,9 @@ we can go for the pirates as wights
 
 they beat the Pirates Reborn, who dropped names "Hades", "Dis Pater"
 
-made it into Darnt Hillkeep
+made it into [[Darnt Hillkeep]]
 
 Encountered "[[Barkeep, Free-Fey]]" in the Silver Unicorn 
+
+headed to Hillkeep 
 
