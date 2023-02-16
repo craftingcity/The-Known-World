@@ -35,6 +35,6 @@ The marble and gems make this place gaudy, though the gold helps to mend the gro
 
 Amethyst is amicable, and does infact have this package ready for Alergra. "Interesting that she did not wish me to have it transported as we have done in the past - but nevertheless..."
 
-Amethyst also will likely angle for a day's taxes, offering her wonder
+Amethyst also will likely angle for a day's taxes, offering her wonderful accommodations in exchange for a favor in the morning - which will be to go take out a group of insurrectionists operating out of [[Renshaw]].
 
 ### What happened?

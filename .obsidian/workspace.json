@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9c5058b66b01b1",
+        "id": "eafe8c373a0edd9f",
         "type": "tabs",
         "children": [
           {
-            "id": "8f46fc5c3b335df9",
+            "id": "28198984efe7f8cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,81 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 15 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ee9614acc95c398f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8442151cdd43fc8d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes June 11 22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes June 11 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":124},\"to\":{\"line\":56,\"ch\":124}},\"scroll\":9.053476001645283}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes June 04 22.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "71b3d8c77de2020e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 11 23.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -142,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barrowinch",
+                "query": "\" specifics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Feb 15 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Feb 15 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Feb 15 23.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -309,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f46fc5c3b335df9",
+  "active": "28198984efe7f8cb",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
-    "Prenotes Feb 15 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md",
     "Game Notes/Prenotes/'22/Prenotes June 04 22.md",
-    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Prenotes Feb 11 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+    "Cult of Reborn Glory.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
+    "APGtAv1.md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md",
+    "Notes on the Multiverse/Outer/Nine Hells of Baator/Nine Hells of Baator.md"
   ]
 }

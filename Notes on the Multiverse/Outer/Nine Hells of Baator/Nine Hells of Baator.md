@@ -7,7 +7,7 @@ aliases:
 ## The Outer Plane of Ideal Evil
 ### Layered Structure
 #### Avernus, First Layer of Hell
-The first circle, is Baator's largest beachhead, it has been ravaged by the [[Blood Wars of Fiends]]. Legions of [[Devil Specifics]] marched to repel the hordes of [[Demon Specifics]]
+The first circle is Baator's largest beachhead, it has been ravaged by the [[Blood Wars of Fiends]]. Legions of [[Devils]] marched to repel the hordes of [[Demons]] from their home, and have been at an ever-roiling-stalemate since.
 
 #### Dis, Second Layer of Hell
 The second layer is composed of nearly all harshly chopped mountain, but it plays host to a large city of the same name. As far as most visitors are concerned, the city and the layer are one and the same.
