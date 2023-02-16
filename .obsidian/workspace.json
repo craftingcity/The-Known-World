@@ -11,8 +11,14 @@
             "id": "b04e73d5f2347025",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -263,8 +269,8 @@
   },
   "active": "b04e73d5f2347025",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Darnt Hillkeep.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Darnt Hillkeep.md",
     "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md",
