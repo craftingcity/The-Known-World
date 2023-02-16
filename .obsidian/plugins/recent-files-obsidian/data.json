@@ -5,6 +5,18 @@
       "path": "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md"
     },
     {
+      "basename": "Grey Ordeal",
+      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md"
+    },
+    {
+      "basename": "Orcus",
+      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md"
+    },
+    {
+      "basename": "First Invasion of Orcus",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
+    },
+    {
       "basename": "Prenotes Jan 28 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Prenotes Feb 07 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md"
-    },
-    {
-      "basename": "First Invasion of Orcus",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
     },
     {
       "basename": "Prenotes Feb 15 23",
@@ -145,10 +153,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     },
     {
-      "basename": "Orcus",
-      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md"
-    },
-    {
       "basename": "Prenotes Jan 16 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Jan 16 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aeberu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Aeberu.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Gabrin Shrublands.md"
     }
   ],
   "omittedPaths": [],
