@@ -36,3 +36,5 @@ Amethyst is amicable, and does infact have this package ready for Alergra. "Inte
 Amethyst also will likely angle for a day's taxes, offering her wonderful accommodations in exchange for a favor in the morning - which will be to go take out a group of insurrectionists operating out of [[Renshaw]].
 
 ### What happened?
+
+bertrand, the attendant

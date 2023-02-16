@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
       "basename": "Prenotes Feb 15 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md"
     },
     {
       "basename": "Darnt Hillkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Darnt Hillkeep.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
+      "basename": "Northern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
     },
     {
       "basename": "Faction Turn Page",
@@ -53,20 +65,12 @@
       "path": "Patrica Borig.md"
     },
     {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-    },
-    {
       "basename": "Prenotes June 11 22",
       "path": "Game Notes/Prenotes/'22/Prenotes June 11 22.md"
     },
     {
       "basename": "Dwarven Kingdom Jammu",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -195,10 +199,6 @@
     {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Pitpoert",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Goldfield/Pitpoert.md"
     }
   ],
   "omittedPaths": [],
