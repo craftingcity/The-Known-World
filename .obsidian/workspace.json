@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "ee9614acc95c398f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8442151cdd43fc8d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -290,11 +311,11 @@
   },
   "active": "8f46fc5c3b335df9",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+    "Prenotes Feb 15 23.md",
     "Game Notes/Prenotes/'22/Prenotes June 04 22.md",
     "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
-    "Prenotes Feb 15 23.md",
     "Prenotes Feb 11 23.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
