@@ -85,4 +85,3 @@ Collecting ingredients that are alchemically potent is a task that involves corr
 25  | 2 | 4 
 20 | 2 | 3
 10 | 1 | 3
-5 | 1 | 2
