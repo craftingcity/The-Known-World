@@ -15,7 +15,7 @@ aliases:
 
 When we last left our heroes, they were on a grand journey across Alaturmen to gather and deliver three important packages for one [[Alergra Barrowinch]] - Archmage of [[Magius]] and Red Mage on the [[Guild of Wizards#Council of Mages]] - but they have since found intrigue of their own. 
 
-[[Qiell Tilemundon]], Black Mage upon that same Council of Mages, recently paid the party a mysterious visit where he exchanged a small amount of information (see [[Prenotes Feb 11 23]]) before agreeing with the group's confusion regarding their connection and then departing.
+[[Qiell Tilemundon]], Black Mage upon that same Council of Mages, recently paid the party a mysterious visit where he exchanged a small amount of information (see [[Prenotes Feb 11 23]]) before agreeing with the group's confusion regarding their connection and then departing. 
 
 Mysterious dreams, magical hums, and interactions with wizards have led the party to where they are now - on the main thoroughfare of the [[Darnt Hillkeep]] headed towards the opulent stone palace that rests at its head in attempts to speak with one [[Baron Jammu|Amethyst Jammu]], Queen of [[Darnt Hillkeep]] and Baron of the Grumbling Hills - who supposedly has a package to be delivered.
 
@@ -25,10 +25,8 @@ An agent of the palace - Lokhagos Imperi Borrich Graidy, first of their name, ki
 
 They want to know what business these outsiders have heading deeper into the city, and if they can prove their claim. If they cannot, they will be brought to an interrogation center in the eastern warehouse district, where they will be subjected to a Zone of Truth (as scroll), or physical harm if they resist.
 
-"WE ARE ALWAYS AT WAR - THE OUTSIDER IS THE ENEMY - WE MUST BE ON GUARD, FOR OUR PEOPLE, FOR OUR BARON"
+> "WE ARE ALWAYS AT WAR - THE OUTSIDER IS THE ENEMY - WE MUST BE ON GUARD, FOR OUR PEOPLE, FOR OUR BARON"
 
-
-if chill;
 Borrich will follow the party to the Palace, stealthily behind, but allow them entrance and the like.
 
 The marble and gems make this place gaudy, though the gold helps to mend the gross mistake of a palette this baron has chosen in her home. After greetings and blessing from the front guards, the interior of the palace is somewhat homely, soft music and light coming from deeper within. Walking along purple carpet and admiring many paintings and sculptures, the party will likely find their way into [[Baron Jammu]]'s throne room, where they will discuss.
