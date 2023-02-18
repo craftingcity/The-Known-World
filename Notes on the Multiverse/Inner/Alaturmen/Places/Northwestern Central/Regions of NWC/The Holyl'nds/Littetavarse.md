@@ -2,7 +2,8 @@
 tags: region
 aliases:
 ---
-# Title
+# Littetavarse
+## The Far Burnt Forest
 #### A sub-region of [[The Holyl'nds]]
 ## Boundaries
 ## Contents
@@ -10,11 +11,13 @@ aliases:
 ### Scenarios
 #### A2. Touchstone
 	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in elven - both ancient and modern.
-- A3. Watch Cave
+#### A3. Watch Cave
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
-- A4. Iron Cave
+#### A4. Iron Cave
 	- A deep natural cave has small veins of iron throughout.
-- C5. Bonesheet
+#### A5.
+#### A5.
+#### C5. Bonesheet
 	- A sheet of petrified bone is covered in ash. On it's face a complex circular rune is embossed from this sheet in a deep red transparent substance. When a life is taken in the center of this rune, the petrified bone inside of the rune becomes insubstantial for an hour. The space below this circular section of the Bonesheet has been hollowed.
 	- **Treasure.** In the hollowed space behind the Bonesheet, an adventurer has hidden their horde. The contents include:
 		- 2278 "copper" pieces of various mints (Copper Seeds, Lead Fingers, Tin Bits, and Lead Plates)
@@ -37,9 +40,9 @@ aliases:
 		- A large 10' iron chain.
 		- A thick iron padlock.
 		- A thick iron key.
-- D1. Palm of Tauruin
+#### D1. Palm of Tauruin
 	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
-- D3. White Rose Tree
+#### D3. White Rose Tree
 	- A small group of white roses grow along and out of the husk of a burnt out tree.
 
 ## Tables

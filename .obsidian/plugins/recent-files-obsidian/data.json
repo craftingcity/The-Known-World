@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Littetavarse",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
+    },
+    {
+      "basename": "Southern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Northern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Centerlick Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md"
+    },
+    {
+      "basename": "Southern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+    },
+    {
+      "basename": "Northern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
+    },
+    {
+      "basename": "Central Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
+    },
+    {
+      "basename": "Great Southern Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Great Southern Mossland.md"
+    },
+    {
+      "basename": "Great Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
+    },
+    {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Southeast Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "Littetavarse",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
+      "basename": "Deakred Range",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
     },
     {
       "basename": "Firelight Sea",
@@ -15,10 +83,6 @@
     {
       "basename": "Table",
       "path": "ORGANIZATION/TEMPLATES/Table.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
       "basename": "alaturmen-hexmap-105",
@@ -117,20 +181,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Mountain Hall.md"
     },
     {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "World Features",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
       "basename": "Inner",
       "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
       "basename": "Ex-Bandit Lords",
@@ -147,58 +199,6 @@
     {
       "basename": "Nala, Ulfgar, Jerran, & Breenabell Roster",
       "path": "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md"
-    },
-    {
-      "basename": "Granparents Game",
-      "path": "Game Notes/Campaign Rosters/Granparents Game.md"
-    },
-    {
-      "basename": "'21",
-      "path": "Game Notes/Prenotes/'21/'21.md"
-    },
-    {
-      "basename": "Deakred Range",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "Economy Pages",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Texts",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "The Worldwide Calendar Systems",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/The Worldwide Calendar Systems.md"
-    },
-    {
-      "basename": "World Wide Happenings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
     }
   ],
   "omittedPaths": [],
