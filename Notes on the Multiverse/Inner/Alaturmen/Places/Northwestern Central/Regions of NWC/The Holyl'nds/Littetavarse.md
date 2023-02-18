@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- A2. Touchstone
+#### A2. Touchstone
 	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in elven - both ancient and modern.
 - A3. Watch Cave
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
