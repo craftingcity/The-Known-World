@@ -16,7 +16,16 @@ aliases:
 #### A4. Iron Cave
 	- A deep natural cave has small veins of iron throughout.
 #### A5.
-#### A5.
+#### A6.
+#### B1.
+#### B2.
+#### B3.
+#### B4.
+#### B5.
+#### C1.
+#### C2.
+#### C3.
+#### C4.
 #### C5. Bonesheet
 	- A sheet of petrified bone is covered in ash. On it's face a complex circular rune is embossed from this sheet in a deep red transparent substance. When a life is taken in the center of this rune, the petrified bone inside of the rune becomes insubstantial for an hour. The space below this circular section of the Bonesheet has been hollowed.
 	- **Treasure.** In the hollowed space behind the Bonesheet, an adventurer has hidden their horde. The contents include:
@@ -42,8 +51,12 @@ aliases:
 		- A thick iron key.
 #### D1. Palm of Tauruin
 	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
+#### D2.
 #### D3. White Rose Tree
 	- A small group of white roses grow along and out of the husk of a burnt out tree.
+#### D4.
+#### E2.
+#### E3.
 
 ## Tables
 ### Encounter
