@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Nicolas Talaveem",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
-    },
-    {
       "basename": "Pirre Tald",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
     },
     {
-      "basename": "Qiell Tilemundon",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
-    },
-    {
-      "basename": "The Wizard In Blue",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
+      "basename": "Eladrithal Greystone",
+      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md"
     },
     {
       "basename": "Alergra Barrowinch",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
     },
     {
+      "basename": "Qiell Tilemundon",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
+    },
+    {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Nicolas Talaveem",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
+    },
+    {
+      "basename": "The Wizard In Blue",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
     },
     {
       "basename": "Prenotes Feb 22 23",
@@ -195,10 +199,6 @@
     {
       "basename": "APGtAv1",
       "path": "APGtAv1.md"
-    },
-    {
-      "basename": "Infernal (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
     }
   ],
   "omittedPaths": [],
