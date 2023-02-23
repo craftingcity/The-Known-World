@@ -40,3 +40,7 @@ What do you do?
 made way to council of mages, interviewed them, learned about Orcus in general, how he rules Tartarus of the [[Abyss]], and is connected to the first and second hums as well as the blood curse
 
 overall, they've thought that the wizards have done a shit job containing and responding to the black blood curse
+
+the party has requested that they get kitted out, which follows;
+- they need to sign papers with the [[Guild of Adventurers]]
+- so that they can get gear "of the highest caliber"
