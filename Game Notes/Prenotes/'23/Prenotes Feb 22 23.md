@@ -36,3 +36,7 @@ What do you do?
 10. The Cults of Blemon and Ar'Kraven are holding a passing funeral, known as the [[Day of Remembrance]] in the evening today.
 
 ### What happened?
+
+made way to council of mages, interviewed them, learned about Orcus in general, how he rules Tartarus of the [[Abyss]], and is connected to the first and second hums as well as the blood curse
+
+overall, they've thought that the wizards have done a shit job containing and responding to the black blood curse
