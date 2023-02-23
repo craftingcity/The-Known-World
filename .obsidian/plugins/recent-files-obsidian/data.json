@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Baron Shimmer",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
-    },
-    {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     }
   ],
   "omittedPaths": [],

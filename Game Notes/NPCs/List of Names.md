@@ -11,8 +11,8 @@ Weulleachan Kork | Freya Harris | Abraham Yorrik
 River Borns | Hallis Winters | Val Harris
 Leighton Mitchell | Lily-Mae Fisher | Val Stevens
 Mark Ross | Lyla Bradley | Franky Bradley
-Zak Williamson | x | Bellan Cork
-Tomas Francis | Frankie Davis | Gail Thomas
+Zak Williamson | Orren Bearich | Bellan Cork
+Tomas Francis | Frankie Davis | Thomas Grin
 Louis Stewart | Lois Rogers | Vic Willis
 Doirin Pheiderin | Kia Pearce | Marley Richardson
 

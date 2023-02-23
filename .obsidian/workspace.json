@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe3fe3bd9e19951",
+        "id": "37deb8290120507f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ed66831aa83453",
+            "id": "c07fbe9914e720ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
+    "width": 501.5,
     "collapsed": true
   },
   "right": {
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +215,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
+              }
             }
           }
         ],
@@ -222,27 +230,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e2ed66831aa83453",
+  "active": "c07fbe9914e720ef",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md",
-    "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Jan 17 23.md"
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
   ]
 }

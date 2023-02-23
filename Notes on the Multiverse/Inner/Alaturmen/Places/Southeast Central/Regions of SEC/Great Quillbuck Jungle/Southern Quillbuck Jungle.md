@@ -8,9 +8,12 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- AO20. Elite Dragon Cult
-- AO22. Putrid Elemental
-- AP13. Giant Slug
+#### AO20. Elite Dragon Cult
+#### AO22. Putrid Elemental
+#### AO24. Ancient Temple
+	- 6 creatures guard this place, and have done so for as long as it has been, or so they say.
+	- predators of the [[Beasts Righteous]] bring gifts to these beasts here in trade before passing into the westlick - or returning from it
+#### AP13. Giant Slug
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
