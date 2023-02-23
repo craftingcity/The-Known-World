@@ -29,3 +29,10 @@ Should they find this information lacking, they can be reminded about the inform
 > They are, but they can't say that to these shmucks. The [[Guild of Wizards]] has approved covert investigation regarding "demon cults", the "black-blood curse" and the names "Hades", "Pluto", and "Dis Pater" - the truer name; "[[Orcus]]" has yet to be re-exposed, and it's true name is still well hidden.
 
 ### What happened?
+
+[[Gringold, Bard of Poor Renown]] joined the party from the Silver Unicorn
+	- genuine gold plated teeth
+	- good performer
+	- maybe neutral good, maybe neutral neutral, 
+		- 20 silver in 7 days, paid by Daelith or earned during the travel
+
