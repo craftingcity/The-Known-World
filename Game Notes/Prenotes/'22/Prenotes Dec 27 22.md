@@ -40,7 +40,7 @@ Todays in-game date is 1st of Plowing, 105AF.
 	3. They all could have used their weapons, but didn't.
 3. The Gnoll started killing people because of the issue.
 	1. This blood is on the fallen civies.
-	2. Toor, of Killskull survived the issue.
+	2. [[Toor, of Killskull]] survived the issue.
 	3. One of the gnoll would not do this (ala Ar'Kraven?)
 
 #### Other Activity in the City

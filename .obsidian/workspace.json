@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37deb8290120507f",
+        "id": "8fb801f59cdee94f",
         "type": "tabs",
         "children": [
           {
-            "id": "c07fbe9914e720ef",
+            "id": "6ed0c0a05f83867e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,83 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes July 27 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":18},\"to\":{\"line\":39,\"ch\":18}},\"scroll\":23.09902026606541}"
+                },
+                {
+                  "title": "Prenotes Dec 27 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Dec 27 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":29},\"to\":{\"line\":42,\"ch\":29}},\"scroll\":23.43627421061198}"
+                },
+                {
+                  "title": "Prenotes Feb 22 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 22 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":219},\"to\":{\"line\":15,\"ch\":219}},\"scroll\":3.268408551068884}"
+                },
+                {
+                  "title": "Prenotes Jan 04 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Jan 04 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":29},\"to\":{\"line\":25,\"ch\":29}},\"scroll\":15.236152125339881}"
+                },
+                {
+                  "title": "Prenotes July 27 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes July 27 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":18},\"to\":{\"line\":39,\"ch\":18}},\"scroll\":23.09902026606541}"
+                },
+                {
+                  "title": "Prenotes Feb 22 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 22 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Prenotes Feb 22 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "460ba6d5dc8b6d11",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,10 +137,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gail",
+                "query": "gnoll",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -123,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -149,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
+                "file": "Game Notes/Prenotes/'23/'23.md"
               }
             }
           }
@@ -230,27 +293,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c07fbe9914e720ef",
+  "active": "460ba6d5dc8b6d11",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
+    "Game Notes/Prenotes/Prenotes.md",
+    "Prenotes Feb 22 23.md",
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Game Notes/Prenotes/'22/Prenotes July 27 22.md",
+    "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+    "Game Notes/Prenotes/'23/Prenotes Jan 04 23.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md"
   ]
 }
