@@ -24,12 +24,13 @@ What do you do?
 ### What does the World Know?
 
 1. The Black Blood Curse has been affecting everyone, and today (the {5}th of Plowing), the Council of Mages will be releasing a briefing to the Guilds en General.
-2. [[Irenaus]] has grave news for the members of the [[Monastery of Saint Susan]]
-3. A small celebration is being held in the [[Wheel Ward]] at the Tavern of Many Secrets for an adventuring party - legally documented - returning from the south-east, more specifically, the [[Eastlick Mossland]], and their victories there. (im thinking like, keep on the hill type shit, they just wrecked shop)
+2. The Heartfire Ruby has gone missing from the Research Vaults in Coalition City, much to the chagrin of the White Mage, [[Pirre Tald]].
+3. [[Irenaus]] has grave news for the members of the [[Monastery of Saint Susan]]
+4. A small celebration is being held in the [[Wheel Ward]] at the Tavern of Many Secrets for an adventuring party - legally documented - returning from the south-east, more specifically, the [[Eastlick Mossland]], and their victories there. (im thinking like, keep on the hill type shit, they just wrecked shop)
 	1. South-South-West of [[Barkryn]] and East of the middle point of [[Black Egal]] and [[Klear Hold]].
-4. Demon/Devil cults are being really fucking annoying, especially in the south-east and -west. ([[Cult of Reborn Glory]])
-5. Bandits have been annoying merchants on the border of the DCP and the Kingdom of Prosper.
-6. A group of Detainers from [[The Church of the White Flame|The Church]] have arrived in the Iron Ward looking for a group of renegades supporting the Atheocracy.
-7. The Cults of Blemon and ArKraven are holding a passing funeral, known as the [[Day of Rememberance]] in the evening today.
+5. Demon/Devil cults are being really fucking annoying, especially in the south-east and -west. ([[Cult of Reborn Glory]])
+6. Bandits have been annoying merchants on the border of the DCP and the Kingdom of Prosper.
+7. A group of Detainers from [[The Church of the White Flame|The Church]] have arrived in the Iron Ward looking for a group of renegades supporting the Atheocracy.
+8. The Cults of Blemon and ArKraven are holding a passing funeral, known as the [[Day of Remembrance]] in the evening today.
 
 ### What happened?

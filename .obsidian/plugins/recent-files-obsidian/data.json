@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md"
     },
     {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
       "basename": "Eastlick Mossland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     }
   ],
   "omittedPaths": [],
