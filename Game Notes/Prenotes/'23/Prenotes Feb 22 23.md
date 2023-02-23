@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for Febuary22nd
+# Prenotes for February 22nd
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -33,6 +33,6 @@ What do you do?
 7. Demon/Devil cults are being really fucking annoying, especially in the south-east and -west. ([[Cult of Reborn Glory]])
 8. Bandits have been annoying merchants on the border of the DCP and the Kingdom of Prosper.
 9. A group of Detainers from [[The Church of the White Flame|The Church]] have arrived in the Iron Ward looking for a group of renegades supporting the Atheocracy.
-10. The Cults of Blemon and ArKraven are holding a passing funeral, known as the [[Day of Remembrance]] in the evening today.
+10. The Cults of Blemon and Ar'Kraven are holding a passing funeral, known as the [[Day of Remembrance]] in the evening today.
 
 ### What happened?
