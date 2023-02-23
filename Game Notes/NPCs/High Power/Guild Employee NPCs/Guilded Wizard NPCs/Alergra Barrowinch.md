@@ -8,7 +8,7 @@ aliases:
 ## the Red Mage
 ### she/her
 
-> A beautiful woman with short light dark hair. She wears a silken purple robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.
+> A beautiful hobgoblin woman with short light dark hair. She wears a silken red robe and a big floppy hat of the same material. She carries her staff of power with her at all times. On her face, she wears a stern look and furrowed brow.
 
 The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the Magius Academy. Seat on the Guild of Mages, titled the Purple Mage. It is her responsibility to deepen the knowledge of magic within the guild.
 
