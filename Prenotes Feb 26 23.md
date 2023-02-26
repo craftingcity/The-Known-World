@@ -28,3 +28,5 @@ Lily-Mae Fisher as cult leader & host
 Abraham Yorrik as inside man
 
 8 cultists, attempting to summon a number of demons who can assist in battle and summoning more demons
+
+short rest, bodies in basement, breenabelle cooks
