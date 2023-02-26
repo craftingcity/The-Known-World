@@ -38,3 +38,8 @@ Amethyst also will likely angle for a day's taxes, offering her wonderful accomm
 ### What happened?
 
 bertrand, the attendant
+
+
+Lily-Mae Fisher as cult leader & host
+
+Abraham Yorrik as inside man
