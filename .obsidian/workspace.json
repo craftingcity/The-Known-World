@@ -16,13 +16,55 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes June 11 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes June 11 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":41},\"to\":{\"line\":28,\"ch\":41}},\"scroll\":24.182189193426392}"
+                },
+                {
+                  "title": "Nobles of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":199},\"to\":{\"line\":10,\"ch\":199}},\"scroll\":5.855392156862745}"
+                },
+                {
+                  "title": "Magius",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":13},\"to\":{\"line\":15,\"ch\":13}}}"
+                },
+                {
+                  "title": "Saker Narnclae",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Saker Narnclae.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":27},\"to\":{\"line\":10,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prenotes Feb 26 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 26 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":29},\"to\":{\"line\":17,\"ch\":29}},\"scroll\":12.30392126943551}"
+                },
+                {
+                  "title": "Prenotes Feb 22 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Feb 22 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":52},\"to\":{\"line\":45,\"ch\":52}},\"scroll\":35.51213889401987}"
+                },
+                {
+                  "title": "Prenotes Feb 15 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Feb 15 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":23},\"to\":{\"line\":39,\"ch\":23}},\"scroll\":31.466258279638353}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md",
+                "file": "Prenotes Feb 26 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -53,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Feb 26 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Feb 26 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Prenotes Feb 26 23.md"
               }
             }
           }
@@ -266,17 +307,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f02e31f0358ab71c",
+  "active": "6d9a67dda10b80b4",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'22/Prenotes June 11 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Amirisson.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Saker Narnclae.md",
+    "Prenotes Feb 26 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Prenotes Feb 26 23.md",
-    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Infernal (language).md"
   ]
 }
