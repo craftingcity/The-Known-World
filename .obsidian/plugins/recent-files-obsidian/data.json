@@ -1,168 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Faction Turn Page",
-      "path": "ORGANIZATION/TEMPLATES/Faction Turn Page.md"
+      "basename": "Prenotes Feb 26 23",
+      "path": "Prenotes Feb 26 23.md"
     },
     {
-      "basename": "Lord's Folly",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Southern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
-    },
-    {
-      "basename": "Littetavarse",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
-    },
-    {
-      "basename": "Northern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Centerlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md"
-    },
-    {
-      "basename": "Southern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
-    },
-    {
-      "basename": "Northern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
-    },
-    {
-      "basename": "Central Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Great Southern Mossland.md"
-    },
-    {
-      "basename": "Great Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Southeast Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Southeast Central.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "World Features",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Deakred Range",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md"
-    },
-    {
-      "basename": "Table",
-      "path": "ORGANIZATION/TEMPLATES/Table.md"
-    },
-    {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Prenotes Feb 01 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "First Invasion of Orcus",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
-    },
-    {
-      "basename": "Prenotes Feb 12 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Feb 12 22.md"
+      "basename": "Prenotes Feb 15 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Feb 15 23.md"
     },
     {
       "basename": "Eladrithal Greystone",
       "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md"
     },
     {
-      "basename": "The Grey Ordeal",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+      "basename": "Alergra Barrowinch",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
     },
     {
-      "basename": "The Old Man",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md"
+      "basename": "Nicolas Talaveem",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
     },
     {
-      "basename": "Waywalket Turring",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md"
+      "basename": "Pirre Tald",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
     },
     {
-      "basename": "Coalition's Founding Document",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Coalition's Founding Document.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Whitimore's Last Hold",
-      "path": "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
+      "basename": "The Wizard In Blue",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
     },
     {
       "basename": "Qiell Tilemundon",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
     },
     {
+      "basename": "Prenotes Feb 22 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md"
+    },
+    {
+      "basename": "Devililith",
+      "path": "Devililith.md"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Prenotes Feb 01 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md"
+    },
+    {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
+      "basename": "Grey Ordeal",
+      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Eastlick Mossland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Elsa Grifiths San-Tymiq",
+      "path": "Elsa Grifiths San-Tymiq.md"
+    },
+    {
+      "basename": "Irenaus",
+      "path": "Irenaus.md"
+    },
+    {
       "basename": "Darwine's Expulsion",
       "path": "Darwine's Expulsion.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+      "basename": "Cult of Reborn Glory",
+      "path": "Cult of Reborn Glory.md"
+    },
+    {
+      "basename": "Dampguard",
+      "path": "Dampguard.md"
+    },
+    {
+      "basename": "Bodaim's Bandits",
+      "path": "Bodaim's Bandits.md"
+    },
+    {
+      "basename": "Arrek Bozkin",
+      "path": "Arrek Bozkin.md"
+    },
+    {
+      "basename": "Patrica Borig",
+      "path": "Patrica Borig.md"
+    },
+    {
+      "basename": "Iron Ward",
+      "path": "Iron Ward.md"
+    },
+    {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
+      "basename": "Macht's Orcs",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Orcs.md"
+    },
+    {
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
     },
     {
       "basename": "'23",
@@ -173,32 +129,76 @@
       "path": "Game Notes/Prenotes/Prenotes.md"
     },
     {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
+      "basename": "Prenotes July 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes July 27 22.md"
     },
     {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+      "basename": "Prenotes Dec 27 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md"
     },
     {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
+      "basename": "Prenotes Jan 04 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Jan 04 23.md"
     },
     {
-      "basename": "Prenotes Nov 7 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
-      "basename": "Mountain Hall",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Mountain Hall.md"
+      "basename": "Renshaw",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md"
     },
     {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
+      "basename": "Prenotes Feb 11 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md"
     },
     {
-      "basename": "Ex-Bandit Lords",
-      "path": "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md"
+      "basename": "Orcus",
+      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md"
+    },
+    {
+      "basename": "First Invasion of Orcus",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "Prenotes Jan 28 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md"
+    },
+    {
+      "basename": "Prenotes Jan 17 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Jan 17 23.md"
+    },
+    {
+      "basename": "Prenotes Feb 07 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "Darnt Hillkeep",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Greater Villages & Cities/Darnt Hillkeep.md"
+    },
+    {
+      "basename": "Northern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
+    },
+    {
+      "basename": "Faction Turn Page",
+      "path": "ORGANIZATION/TEMPLATES/Faction Turn Page.md"
+    },
+    {
+      "basename": "Prenotes June 04 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes June 04 22.md"
     }
   ],
   "omittedPaths": [],
