@@ -81,7 +81,7 @@ Collecting ingredients that are alchemically potent is a task that involves corr
 
 ~ | P. Min | P. Max
 --- | --- | ---
-30 | 3 | 4 
+30 | 3 | 5 
 25  | 2 | 4 
 20 | 2 | 3
-10 | 1 | 3
+10 | 1 | 2
