@@ -22,3 +22,8 @@ When we last left our heroes, they had gathered the third of their three package
 
 we left town, headed towards [[Renshaw]]
 
+
+Lily-Mae Fisher as cult leader & host
+
+Abraham Yorrik as inside man
+
