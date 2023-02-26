@@ -34,3 +34,11 @@ short rest, bodies in basement, breenabelle cooks
 blood boiled, cultists killed, gold collected, we leave town
 
 forest outside [[Amirisson]], M22
+
+tell [[Alergra Barrowinch]]
+	- The Hum
+	- The Scrivin Clan
+	- The Banshee
+	- The Revenants
+	- The Black Mage
+	- The Boomsticks
