@@ -10,16 +10,25 @@ The signing of this contract under false pretenses or identities of any kind is 
 
 ----
 
-**1a.** Each adventurer has a vote in affairs which will have a direct affect upon the adventuring party or at least half of the adventurers of the company, including when this contract calls for a vote or when an adventurer calls for a point of order to be voted upon. All such votes are failed or passed by one half or more of the adventurers, unless otherwise specified.
+- Each adventurer has a vote in affairs which will have a direct affect upon the adventuring party or at least half of the adventurers of the company, including when this contract calls for a vote or when an adventurer calls for a point of order to be voted upon. All such votes are failed or passed by one half or more of the adventurers, unless otherwise specified.
 
-**1b.** All attempts must be made to include all adventurers in a vote within reason. In the case that nay adventurer is not present for a vote, the vote may continue so long as there is no major, direct, and obvious recourse to the missing adventurers.
+- All attempts must be made to include all adventurers in a vote within reason. In the case that nay adventurer is not present for a vote, the vote may continue so long as there is no major, direct, and obvious recourse to the missing adventurers.
 
-**1c.** Moments wherein a decision must be made immediately, given some major threat or constraint, are exempt from 1b.
+- Moments wherein a decision must be made immediately, given some major threat or constraint, are exempt from the above.
 
-**2a.** All properties acquired during the course of the adventure is to be evenly among each adventurer who claims a share.
+- All properties acquired during the course of the adventure is to be evenly among each adventurer who claims a share.
 
-**2b.** Any items shall be awarded to the adventurer who may have the greatest use for it or who may have the greatest claim to it, both of which are to be determined by vote.
+- Any items shall be awarded to the adventurer who may have the greatest use for it or who may have the greatest claim to it, both of which are to be determined by vote.
 
-**3a.** Any contract must be voted upon before the party accepts said contract. Those adventurers who wish no part in a contract may elect to take no part in responsibility or reward regarding the contract.
+- Any contract must be voted upon before the party accepts said contract. Those adventurers who wish no part in a contract may elect to take no part in responsibility or reward regarding the contract.
 
-**3b.** An adventurer may propose a mission of conscience to the party so long as it does no harm to any current contracts or obligations. Said mission is 
+- An adventurer may propose a mission of conscience to the party, so long as it does no harm to any current contracts or obligations. Said mission is to be treated as a contracted mission by that adventurer to that adventurer's party.
+
+- All adventurers within the party shall provide its best efforts in all tasks for the party, above all, defending the lives and properties of the other adventurers of the party. An adventurer ill-suited to the task shall nevertheless aid those who are.
+
+- An adventurer who falls within the line of duty shall be accorded the following considerations; immediate aid to any and all injuries if possible, last rites of the proper cultural practice, and a transference of any and all personal wealth to the adventurer's next of kin.
+
+- No adventurer may actively seek to harm another party or members of their own party.
+
+- 
+
