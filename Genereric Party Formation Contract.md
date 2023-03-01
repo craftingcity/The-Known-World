@@ -1,8 +1,6 @@
 ----
 
-This is a contractual agreement between all signed parties. The aforementioned signatories, the being(s) and creature(s) these signatories have dominion over - alive or otherwise, and any property they own will be hereafter referred to in aggregate in this contract as the adventurer(s).
-
-The party or adventuring party is taken to mean the aggregate of the adventurers.
+This is a contractual agreement between all signed parties. The aforementioned signatories, the being(s) and creature(s) these signatories have dominion over - alive or otherwise, and any property they own will be hereafter referred to in aggregate in this contract as the adventurer(s). The "party" or "adventuring party" is taken to mean the aggregate of the adventurers.
 
 An adventure is taken to mean any gathering of adventurers in which a verbal or written agreement is struck with the intent to pursue a goal. Any actions taken between the time of the agreement and the completion or abandonment of the original goal which are done to progress the completion of the goal are conceded to be a portion of the adventure, regardless of the presence of more than one member of the party.
 
@@ -38,6 +36,8 @@ The signing of this contract under false pretenses or identities of any kind is 
 
 14. All votes regarding an adventurer is to be held without the adventurer's knowledge to the best of the party's ability.
 
-15. All changes, amendments, notices, applications, and anything else of noteworthy information must be shown to all adventurers as soon as reasonably possible but no later than a week unless impossible. It is an adventurer's responsibility to share this information with the party or knowledge of these information as immediately as possible.
+15. All changes, amendments, notices, applications, and anything else of noteworthy information must be shown to all adventurers as soon as reasonably possible but no later than a week unless impossible. It is an adventurer's responsibility to share this information with the party or knowledge of these informations as immediately as possible.
 
 16. This contract may be amended by vote. All sections which call for unanimous vote may only be changed by a unanimous vote.
+
+Witnessed and signed by,
