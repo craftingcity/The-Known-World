@@ -14,4 +14,12 @@ The signing of this contract under false pretenses or identities of any kind is 
 
 **1b.** All attempts must be made to include all adventurers in a vote within reason. In the case that nay adventurer is not present for a vote, the vote may continue so long as there is no major, direct, and obvious recourse to the missing adventurers.
 
-**1c.** Moments wherein a decision must be made immediately, given some major threat or constraint, are exempt from 
+**1c.** Moments wherein a decision must be made immediately, given some major threat or constraint, are exempt from 1b.
+
+**2a.** All properties acquired during the course of the adventure is to be evenly among each adventurer who claims a share.
+
+**2b.** Any items shall be awarded to the adventurer who may have the greatest use for it or who may have the greatest claim to it, both of which are to be determined by vote.
+
+**3a.** Any contract must be voted upon before the party accepts said contract. Those adventurers who wish no part in a contract may elect to take no part in responsibility or reward regarding the contract.
+
+**3b.** An adventurer may propose a mission of conscience to the party so long as it does no harm to any current contracts or obligations. Said mission is 
