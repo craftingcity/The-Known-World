@@ -8,6 +8,7 @@ aliases:
 ## People
 Dae Shim
 Ryan Groot (rip)
+Dot
 Vix
 Daelith
 Moses (mia)

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Cathouse Game",
-      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
+      "basename": "Genereric Adventuring Contract",
+      "path": "Genereric Adventuring Contract.md"
     },
     {
       "basename": "Prenotes Mar 08 23",
       "path": "Prenotes Mar 08 23.md"
+    },
+    {
+      "basename": "Guild Associates Agreement",
+      "path": "Guild Associates Agreement.md"
+    },
+    {
+      "basename": "Texts",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+    },
+    {
+      "basename": "Cathouse Game",
+      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
     },
     {
       "basename": "Guild of Wizards",
@@ -187,18 +199,6 @@
     {
       "basename": "Prenotes",
       "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
-    },
-    {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
-    },
-    {
-      "basename": "Prenotes Nov 7 22",
-      "path": "Game Notes/Prenotes/'22/Prenotes Nov 7 22.md"
     }
   ],
   "omittedPaths": [],

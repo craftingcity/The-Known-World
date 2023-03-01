@@ -27,7 +27,12 @@ If they agree - which they likely should - they will be granted the following eq
 # EVERYONE GETS...
 
 # YOU GET...
-## 
+## UNARMED MARTIALIST (DAE SHIM)
+## GREAT MARTIALIST (DOT)
+## TRADITIONAL MARTIALIST (VIX)
+## DIVINE CASTER (DAELITH)
+## DIVINE MARTIALIST (SHU AMEA)
+## MIXED MARTIALIST (INEC)
 
 ```
 

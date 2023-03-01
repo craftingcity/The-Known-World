@@ -4,65 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ebb4e6a61c3308",
-        "type": "split",
+        "id": "d409e6733315894c",
+        "type": "tabs",
         "children": [
           {
-            "id": "d409e6733315894c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "300fa03fd51291fb",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Mar 08 23.md",
-                    "mode": "source",
-                    "source": true
-                  }
+            "id": "300fa03fd51291fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 08 23.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "46954a28acce50fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ee10428ba239963a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
-                    "mode": "source",
-                    "source": true
-                  }
+            "id": "27ec7277016b84e5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genereric Adventuring Contract.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
+          },
+          {
+            "id": "c9ea1fec1a5d88cf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guild Associates Agreement.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
+                "file": "Genereric Adventuring Contract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
+                "file": "Genereric Adventuring Contract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md"
+                "file": "Genereric Adventuring Contract.md"
               }
             }
           }
@@ -274,9 +283,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee10428ba239963a",
+  "active": "27ec7277016b84e5",
   "lastOpenFiles": [
     "Prenotes Mar 08 23.md",
+    "Genereric Adventuring Contract.md",
+    "Guild Associates Agreement.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
