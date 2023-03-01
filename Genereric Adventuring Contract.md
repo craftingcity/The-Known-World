@@ -34,5 +34,10 @@ The signing of this contract under false pretenses or identities of any kind is 
 
 12. Any adventurer within a party may be removed by the other adventurers of the party and be unbound by the clauses of this contract upon a unanimous vote and formal notice to the adventurer and the witnesses foresigned.
 
-13. An adventurer found by unanimous
+13. An adventurer found by unanimous vote to be willfully harming, or allowing the party or it's properties to come to harm shall be expelled from the company and forfeit all rewards gained through adventures with this party. Upon a second unanimous vote, their lives too shall be forfeit. If this vote is a failure, they are to be surrendered to the authorities of the Guilds.
 
+14. All votes regarding an adventurer is to be held without the adventurer's knowledge to the best of the party's ability.
+
+15. All changes, amendments, notices, applications, and anything else of noteworthy information must be shown to all adventurers as soon as reasonably possible but no later than a week unless impossible. It is an adventurer's responsibility to share this information with the party or knowledge of these information as immediately as possible.
+
+16. This contract may be amended by vote. All sections which call for unanimous vote may only be changed by a unanimous vote.
