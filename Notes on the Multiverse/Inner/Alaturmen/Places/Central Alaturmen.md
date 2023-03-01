@@ -1,5 +1,5 @@
 ---
-tags: Segion
+tags: region
 aliases:
 ---
 # Central Alaturmen
