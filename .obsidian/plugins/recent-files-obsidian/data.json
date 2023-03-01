@@ -5,6 +5,10 @@
       "path": "Prenotes Mar 08 23.md"
     },
     {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mountain Hall",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Mountain Hall.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],
