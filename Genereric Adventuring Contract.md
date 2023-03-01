@@ -1,9 +1,8 @@
-<"DESCRIPTION OF QUEST">
+----
 
-Upon the quest that this contract pertains, the following is true;
+This is a contractual agreement between all signed parties. The aforementioned signatories, the being(s) and creature(s) these signatories have dominion over - alive or otherwise, and any property they own will be hereafter referred to in aggregate in this contract as adventurer(s).
 
-1. Every signatory to this agreement is entitled to one full share, unless a) the party, by majority vote, allows up to one extra full share for a being or beings who provide the party with information or services vital to the completion of their mission, or b) a signatory agrees to receive but a half-share in exchange for the protection or resuscitation from a major physical or magical harm provided by another signatory, to which the other half-share is awarded.
+This contract wi
 
-Signed hereby,
+----
 
-<"signatories">
