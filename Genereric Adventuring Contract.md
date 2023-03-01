@@ -30,5 +30,9 @@ The signing of this contract under false pretenses or identities of any kind is 
 
 - No adventurer may actively seek to harm another party or members of their own party.
 
+- Any adventurer within a party may leave the party and be unbound by the clauses of this contract upon formal notice of all other adventurers within the party and the witnesses foresigned.
+
+- Any adventurer within a party may be removed by the other adventurers of the party and be unbound by the clauses of this contract upon a unanimous vote and formal notice to the adventurer and the witnesses foresigned.
+
 - 
 
