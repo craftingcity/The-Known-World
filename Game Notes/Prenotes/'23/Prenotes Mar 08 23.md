@@ -27,8 +27,15 @@ If they agree - which they likely should - they will be granted the following eq
 # GRADE THREE PARTY PACKAGE
 	> MULTIPLIED FOR A PARTY OF SIX, AS REQUESTED
 ## PERSONAL PROTECTION EQUIPMENT
+### GENERIC
 	- SIX (6) DARK STEEL DAGGERS
-		- This dagger is simple, and sharp. The blade, guard, and pommel are made of a dark gray metal. The grip is 
+		- This dagger is simple, and sharp. The blade, guard, and pommel are made of a dark gray metal. The grip is a material unlike any metal or leather you have felt before - it is *perfectly* smooth. 
+		- Mechanically, this is a **+2 dagger**.
+	- SIX (6) COPPERHAMMER ADJUSTABLE PROTECTIVE VESTS
+		- This vest is made of a thin bronze scale-mail. While the "adjustable" in it's name seems misleading, the largest among you and the smallest find this vest comfortably conforms to you and your form. 
+		- Mechanically, this is a +2 
+	- SIX (6) EVERLIGHT CANDLES
+	- SIX (6) 
 
 
 ```
