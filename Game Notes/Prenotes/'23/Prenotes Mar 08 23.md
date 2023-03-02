@@ -24,7 +24,11 @@ As you leave the room to follow, the receptionist you met before - he who was mi
 If they agree - which they likely should - they will be granted the following equipment upon the marrow;
 
 ```
-
+# GRADE THREE PARTY PACKAGE
+	> MULTIPLIED FOR A PARTY OF SIX, AS REQUESTED
+## PERSONAL PROTECTION EQUIPMENT
+	- SIX (6) DARK STEEL DAGGERS
+		- This dagger is simple, and sharp. The blade, guard, and pommel are made of a dark gray metal. The grip is 
 
 
 ```
