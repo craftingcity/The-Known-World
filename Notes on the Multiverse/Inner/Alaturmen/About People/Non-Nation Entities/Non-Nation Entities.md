@@ -5,32 +5,32 @@ aliases:
 
 # Non-Nation Entities
 %% Begin Waypoint %%
-- **[[Non-Nation Entities]]**
-	- **[[Blood Clans]]**
-		- [[Blood-Hobgoblin Clan Pact]]
-		- [[Blood-Hobgoblin Clans]]
-		- [[Garqwak Clan]]
-		- **Holdings**
-		- [[Wakquk Twins]]
-	- [[Cenva Minyo]]
-	- **[[Coalition City]]**
-		- [[Communicaes]]
-		- [[Golden Ward]]
-		- **[[Guilds of Coalition]]**
-			- [[Guild of Adventurers]]
-			- [[Guild of Crafters]]
-			- [[Guild of Merchants]]
-			- [[Guild of Wizards]]
-			- [[Ranger's Guild]]
-	- **Druids of the Idols**
-		- [[Druids of Animan]]
-		- [[Druids of Aquan]]
-		- [[Druids of Ignan]]
-		- [[Druids of Terran]]
-		- [[Druids of Ventan]]
-	- **Dwarven Kingdoms**
-		- [[Dwarven Kingdom Actstow]]
-		- [[Dwarven Kingdom Jammu]]
-		- [[Dwarven Kingdom Suremantle]]
+- **[[Blood Clans]]**
+	- [[Blood-Hobgoblin Clan Pact]]
+	- [[Blood-Hobgoblin Clans]]
+	- [[Garqwak Clan]]
+	- [[Wakquk Twins]]
+	- [[Wheernat Clan]]
+- [[Bodaim's Bandits]]
+- [[Cenva Minyo]]
+- **[[Coalition City]]**
+	- [[Communicaes]]
+	- **[[Guilds of Coalition]]**
+		- [[Guild of Adventurers]]
+		- [[Guild of Crafters]]
+		- [[Guild of Merchants]]
+		- [[Guild of Wizards]]
+		- [[Ranger's Guild]]
+- [[Cult of Reborn Glory]]
+- **Druids of the Idols**
+	- [[Druids of Animan]]
+	- [[Druids of Aquan]]
+	- [[Druids of Ignan]]
+	- [[Druids of Terran]]
+	- [[Druids of Ventan]]
+- **Dwarven Kingdoms**
+	- [[Dwarven Kingdom Actstow]]
+	- [[Dwarven Kingdom Jammu]]
+	- [[Dwarven Kingdom Suremantle]]
 
 %% End Waypoint %%

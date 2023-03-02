@@ -12,8 +12,11 @@ for the graph: [[Here lie my suppliments...]]
 	- [[All-Father Annam]]
 	- **[[Demon Lord NPCs]]**
 	- [[Grand Pantheon]]
+- [[Arrek Bozkin]]
 - **Deceased**
 	- [[Guraxlog]]
+- [[Devililith]]
+- [[Elsa Grifiths San-Tymiq]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -36,8 +39,10 @@ for the graph: [[Here lie my suppliments...]]
 		- **[[Grey Ordeal]]**
 		- **[[Kakurak's Chosen]]**
 	- **[[True Villian NPCs]]**
+- [[Irenaus]]
 - [[List of Names]]
 - **Mild Power**
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
 	- **Knights & Nobles**
@@ -47,8 +52,10 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Hektor Salar]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
+- [[Patrica Borig]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**

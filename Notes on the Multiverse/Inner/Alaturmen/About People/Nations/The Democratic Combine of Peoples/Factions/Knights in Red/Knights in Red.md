@@ -11,4 +11,4 @@ The Knights in Red are a group of mercenaries sworn to [[Baron Filip]] of [[The 
 The Knights in Red were formed after [[Baron Filip]] took the head of the black dragon [[Detraminx]]
 
 ### Symbolism
-[[Symbolism of the KiR]]
+A round shield of red leather banded in iron. A longsword is imposed behind it, the pommel of which is a horned dragon skull.

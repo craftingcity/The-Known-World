@@ -27,14 +27,16 @@ aliases:
 - **[[The Democratic Combine of Peoples]]**
 	- **Factions**
 		- [[Beasts Righteous]]
+		- [[Dampguard]]
 		- [[Grovetenders]]
 		- [[Hillkeep Loyalists]]
 		- **[[Knights in Red]]**
-			- [[Symbolism of the KiR]]
 		- [[Mossburg Corporation]]
 		- [[Mossburg Enforcers]]
 		- [[Riphounds]]
 		- [[Slimknives]]
+	- **Local Lore**
+		- [[Darwine's Expulsion]]
 - **[[The Kingdom of Prosper]]**
 	- **Factions**
 		- [[Arthur's Knights]]
