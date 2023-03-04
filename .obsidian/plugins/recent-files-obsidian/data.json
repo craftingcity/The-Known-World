@@ -5,6 +5,14 @@
       "path": "On the Hum Arcani; Guild Position.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Grey Ordeal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    },
+    {
       "basename": "On The Text of Tetrimoc; Guild Position",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Politics of Coalition c. 078AF - 092AF",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Renshaw",
@@ -195,10 +199,6 @@
     {
       "basename": "Great Quillbuck Jungle",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],
