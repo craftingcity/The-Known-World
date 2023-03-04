@@ -27,7 +27,6 @@ aliases:
 - **[[The Democratic Combine of Peoples]]**
 	- **Factions**
 		- [[Beasts Righteous]]
-		- [[Dampguard]]
 		- [[Grovetenders]]
 		- [[Hillkeep Loyalists]]
 		- **[[Knights in Red]]**

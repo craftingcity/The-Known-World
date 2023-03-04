@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb908e1898cf4dfb",
+        "id": "df6b33788041d12a",
         "type": "tabs",
         "children": [
           {
-            "id": "d967c0da8b40b9c5",
+            "id": "c8e195e60a6bc050",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -29,49 +29,7 @@
             }
           },
           {
-            "id": "8bf148583e52e241",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d63bd5d4563883e7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "69d871a34d2d9634",
+            "id": "af4ca62ea0560216",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -86,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -303,12 +261,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d967c0da8b40b9c5",
+  "active": "c8e195e60a6bc050",
   "lastOpenFiles": [
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "On the Hum Arcani; Guild Position.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",

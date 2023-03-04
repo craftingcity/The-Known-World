@@ -10,8 +10,6 @@ aliases:
 	- [[Blood-Hobgoblin Clans]]
 	- [[Garqwak Clan]]
 	- [[Wakquk Twins]]
-	- [[Wheernat Clan]]
-- [[Bodaim's Bandits]]
 - [[Cenva Minyo]]
 - **[[Coalition City]]**
 	- [[Communicaes]]
@@ -21,7 +19,6 @@ aliases:
 		- [[Guild of Merchants]]
 		- [[Guild of Wizards]]
 		- [[Ranger's Guild]]
-- [[Cult of Reborn Glory]]
 - **Druids of the Idols**
 	- [[Druids of Animan]]
 	- [[Druids of Aquan]]
