@@ -41,3 +41,5 @@ Other than the reactions of the world around them, it really is up to what the p
 ### What happened?
 
 traveled north, ran into old stickyfingers, nearly killed it, but they ran away before they finished the job (bc me no telegraph)
+
+told alergra we saw orcus and we have the cultists book
