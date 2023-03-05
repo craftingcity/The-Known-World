@@ -4,8 +4,8 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Arthur's Knights]]
+### Located in [[Arthur's Prairie]], M23
 ## Description
 ### Quote
 

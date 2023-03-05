@@ -15,7 +15,7 @@ aliases:
 
 When last we left our heroes, they had finally returned to the one and only [[Alergra Barrowinch]] of [[Magius]] and delivered unto her the deliveries she had requested. Quickly after exchanging goods and services, she teleported away to other business. Left with the knowledge that she will make attempts on your reputation, and that a further conversation awaits upon your return to her, or hers to you, at her tower-academy [[Magius University]].
 
-Alone in the forest outside Amirisson, with a sack of silver in hand, what do you do?
+Alone in the forest outside [[Amirisson]], with a sack of silver in hand, what do you do?
 
 ### What does the World Know?
 
@@ -30,7 +30,7 @@ We're on the south-east edge of M22, and [[Alergra Barrowinch]] is learning kind
 			- i want to talk to the girls about this because i do NOT know wat that is
 		- The Black Mage
 			- FUCk queill, this guy is an asshole and he's so creepy
-			- i feel like he doesnt actually have boundries
+			- i feel like he doesnt actually have boundaries
 		- The Boomsticks
 			- again, i knew about this, but it's not something thats super on my radar right now considering the worldwide crisis we just dealt with and we're now dealing with
 - in conclusion, i'm really interested in speaking with [[The Wizard In Blue]] and [[Pirre Tald]] more about like, what we just did and why we did it and what we're gonna do next
