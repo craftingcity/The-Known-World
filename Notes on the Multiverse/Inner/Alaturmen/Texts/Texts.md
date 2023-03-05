@@ -6,7 +6,7 @@ aliases:
 # Texts
 %% Begin Waypoint %%
 - **Guild Texts**
-	- **Bueracracy**
+	- **Bureaucracy**
 		- [[Genereric Party Formation Contract]]
 		- [[Guild Associates Agreement]]
 		- [[Guild Equipment Requisition Form]]
