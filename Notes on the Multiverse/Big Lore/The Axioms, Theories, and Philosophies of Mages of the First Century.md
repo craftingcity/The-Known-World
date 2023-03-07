@@ -7,10 +7,10 @@ aliases:
 1. **Conservationem Potentiale**
 	- Known as the Axiom of Conservation, this axiom holds that Weave, in all forms, cannot be destroyed or created, only ever changed.
 2. **Continua Fluxus**
-	- Known as the Axiom of Continuity, this axiom holds that the Weave is in constant motion, flowing through all reality. 
+	- Known as the Axiom of Continuity, this axiom holds that the Weave is in constant motion. 
 	- Mortals experience this axiom as the passage of time!
 3. **Fila Texere**
-	- Known as the Axiom of Strands, this axiom holds that the Weave becomes shredded to strands against itself, which we perceive as observable reality as it flows through reality. 
+	- Known as the Axiom of Strands, this axiom holds that the Weave becomes shredded to strands against itself, which we perceive as observable reality as it flows through time. 
 	- The concept of "Weave Potentia", as described in many alchemical texts, is derived from this axiom.
 4. **Sutura Novum Significatio**
 	- Known as the Axiom of Meaning, this axiom holds that one can manipulate the Strands described by Fila Texere and "sew new meaning" or create purposed effects from these Strands. 
@@ -25,7 +25,7 @@ aliases:
 ## The Theory of a True Name
 The Theory of a True Name comes from the Fey, but copies of texts written by Eladrin mages that speak of and explain this theory are kept in [[Cenva Minyo]]. It is claimed that something's name holds a complete power over that something. These two things are intrinsically & inversely linked, but a name is much easier to manipulate than anything generic, so long as you can access it. 
 
-Ancient names are often hidden and well protected, but some fools give their names freely, often without meaning to do so but still this is enough to establish a complete control over them. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
+Ancient names are often hidden and well protected, but some fools give their names freely, often without meaning to do so, but still, this is enough to establish a complete control over them. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
 
 ## The Theory of Faith
 The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
@@ -66,6 +66,7 @@ The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven 
 > Not only are the specifics of the Axioms a mess of contradiction, but the concept of invocation being a non-natural is provably false. The recipes following this chapter will describe to you the processes by which an arcane invocation of the Weave can be created. While it is clear that some effects could be enhanced with more specialized equipment, we suggest only four pieces in this book that we believe to be integral to an expanding toolkit of this practice, and we have also included one recipe that requires no specialized tools at all, though the effect when produced in this manner is quite minor.
 
 ### Gunagido-Barrowinch Theory
+#### The Motifs of Alchemy
 The Gunagido-Barrowinch Theory, also known as the the Motifs of Alchemy, describes twenty-nine "motifs" that are connected, mutable, and present in most if not all alchemically potent ingredients that one would encounter in [[Central Alaturmen]]. 
 
 While this theory has yet to be popularized (or, in cannon, written down in one place; ~teehee), those few who have become Experts in this field almost unanimously agree that a dual categorization - one such as the Gunagido-Barrowinch Theory suggests - of alchemical ingredients is "efficient" or even "correct".

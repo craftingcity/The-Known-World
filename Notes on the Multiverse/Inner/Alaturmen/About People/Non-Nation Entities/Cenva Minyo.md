@@ -17,5 +17,16 @@ After the burning, those that learned to survive began to regroup in the [[Actst
 
 Cenva Minyo has a longstanding treaty with the [[Dwarven Kingdom Actstow]].
 
+## Governance
+## Culture
+#### Heritage
+#### Language
+#### Values
+#### Theology
+#### Economics
+
 ### Symbolism
 A triangle - representing the first tents Cenva Minyo stayed in after the flames. Inside, at its base, stands a simply represented city - [[The Old|Minyostalma]] - above which the "sky" (upper portion of the triangle) is filled with a vertically symmetrical flame - representing their hatred for what [[Its Greatness]] has done.
+
+## Technology
+### Magic

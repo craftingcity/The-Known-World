@@ -5,6 +5,22 @@
       "path": "On the Hum Arcani; Guild Position.md"
     },
     {
+      "basename": "The Axioms, Theories, and Philosophies of Mages of the First Century",
+      "path": "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md"
+    },
+    {
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+    },
+    {
+      "basename": "The Library of True Names",
+      "path": "The Library of True Names.md"
+    },
+    {
+      "basename": "How the Weave becomes Magic",
+      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
+    },
+    {
       "basename": "Nicolas Talaveem",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Southern Third",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
-    },
-    {
-      "basename": "Northern Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
-    },
-    {
-      "basename": "Central Third",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
-    },
-    {
-      "basename": "Great Southern Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Southern Mossland/Great Southern Mossland.md"
-    },
-    {
-      "basename": "Great Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
     }
   ],
   "omittedPaths": [],
