@@ -29,4 +29,11 @@ I have vowed the same.
 
 ### Testimony of a Paladin
 
-In my time speaking with the forces of our plane that manifest themselves of faith alone, I have foun
+In my time speaking with the forces of our plane that manifest themselves of faith alone, I have found them as illuminating as the Warlord's tales. In the following statements, I will describe to you in as much detail as I can provide myself for the recording upon this manuscript.
+
+I first encountered **Tauruin**. This is the briefest of my testimonies only because I have only had the one encounter; those seeking more detail should refer to [[#A1. Testimony of a Knight]]; he came to me when I was underground. Stuck with the short sneak and the fish woman, the night before we came upon the others - Grod, of Blackacid, the elfs, and the orc. I saw the sneak from my bed as he was keeping watch. He was speaking with a figure, I could not see well for we had no light. I knew we were not in danger, but I knew as well that this was not a good thing for me. I have since learned that the crowned 
+
+## Appendix
+### A1. Testimony of a Knight
+
+((yknow the knioght wandering in that one SE hex, i survived and interviewed him about Tauriun and his beliefs and stuff))

@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d967c0da8b40b9c5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On the Hum Arcani; Guild Position.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "2889382d37041d5a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -50,27 +29,6 @@
             }
           },
           {
-            "id": "19d3261a47031d02",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "6abff4fe14666a23",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -86,6 +44,54 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1078317d56baa470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b69931b880d4be3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "19d3261a47031d02",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "mode": "source",
                 "source": true
               }
@@ -306,9 +312,10 @@
   },
   "active": "2889382d37041d5a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Wargods without War.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
     "On the Hum Arcani; Guild Position.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
@@ -316,7 +323,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
