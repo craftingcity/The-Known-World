@@ -31,9 +31,19 @@ I have vowed the same.
 
 In my time speaking with the forces of our plane that manifest themselves of faith alone, I have found them as illuminating as the Warlord's tales. In the following statements, I will describe to you in as much detail as I can provide myself for the recording upon this manuscript.
 
-I first encountered **Tauruin**. This is the briefest of my testimonies only because I have only had the one encounter; those seeking more detail should refer to [[#A1. Testimony of a Knight]]; he came to me when I was underground. Stuck with the short sneak and the fish woman, the night before we came upon the others - Grod, of Blackacid, the elfs, and the orc. I saw the sneak from my bed as he was keeping watch. He was speaking with a figure, I could not see well for we had no light. I knew we were not in danger, but I knew as well that this was not a good thing for me. I have since learned that the crowned 
+I first encountered **Tauruin**. This is the briefest of my testimonies only because I have only had the one encounter; those seeking more detail should refer to [[#A1. Testimony of a Knight]]; he came to me when I was underground. Stuck with the short sneak and the fish woman, the night before we came upon the others - Grod, of Blackacid, the elfs, and the orc. I saw the sneak from my bed as he was keeping watch. He was speaking with a figure, I could not see well for we had no light. I knew we were not in danger, but I knew as well that this was not a good thing for me. I have since learned that the crowned head, bleeding as it was, and the seemingly uncountable number of followers and bootlickers upon his bare feet.
+
+The sneak said "I wish I was bold", and the figure was gone.
+
+The night after, the sneak made a decision that cost him his life, and one that I had attempted to persuade him against. He made a move for the blonde one's purse in the night. I awoke, and so did my one remaining companion, to the sight of lightning and fire. The sneak was not here anymore, only the ash of his material remained.
+
+I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two.
+
+### 
 
 ## Appendix
 ### A1. Testimony of a Knight
 
 ((yknow the knioght wandering in that one SE hex, i survived and interviewed him about Tauriun and his beliefs and stuff))
+
+### A2. Which Witch?
