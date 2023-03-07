@@ -8,4 +8,6 @@ Those of us who know the tales of [[The Grey Ordeal]] can speak upon the distrau
 
 Rangers were able to save many settlements, but many of your homes did fall - to warbands or insurrectionists alike. Our Wizards and our Adventurers, most notably and namely [[The Grey Ordeal]], were able to quell the most major threat, but not without loss. Again, those who know the story can corroborate that [[Eladrithal Greystone]] and [[Waywalket Turring]] would go on to become major icons in our Guilds and honor their fallen comrade in doing so.
 
-My use of quell is specific and intentional. This major threat is not gone, and in fact stands at the door to our home once again. The Guilds need you. I spoke with the Yellow Mage, [[Nicolas Talaveem]], and he said the following; ""
+My use of quell is specific and intentional. This major threat is not gone, and in fact stands at the door to our home once again. The Guilds need you. I spoke with the Yellow Mage, [[Nicolas Talaveem]], and I asked what he would say to the common citizen. He said the following; 
+
+"I would request that we do not falter. That we stay strong, that our Coalition stays strong. Know that the Council of Mages is working diligently with the Guild of Adventurers to maneuver our defenses towards our great enemy. You may see more Rangers or Adventurers passing through or seeking refuge within your holdings. Know that these actors are here for your safety, and please, perform any task they ask of you within the best of your abilities. We have been silent in our contemplation, but we "
