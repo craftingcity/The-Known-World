@@ -138,7 +138,7 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 - feels like warm blood and cold steel
 - smells of sweat, gunpowder
 - Certi'alkior appears to their followers in battle before their final stand, though seeing her is not considered a holy sentence to death
-	- ask the Paladin Wyruq the Grave Presence
+	- ask the Paladin [[Wyruq the Grave Presence]]
 - Certi'alkior greatly desires vengeance in any form, including peaceable resolution
 
 #### Burraw

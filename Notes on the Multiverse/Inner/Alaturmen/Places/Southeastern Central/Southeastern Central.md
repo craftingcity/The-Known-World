@@ -2,12 +2,14 @@
 tags: folderfile, region
 aliases:
 ---
-# Title
+# Southeastern Central
 #### A sub-region of [[Central Alaturmen]]
 ## Boundaries
 ## Contents
-### Potential Allies
-### Potential Threats
+### Factions
+- [[The Democratic Combine of Peoples]]
+	- [[]]
+
 ###### Table of Contents
 %% Begin Waypoint %%
 - **Greater Villages & Cities**

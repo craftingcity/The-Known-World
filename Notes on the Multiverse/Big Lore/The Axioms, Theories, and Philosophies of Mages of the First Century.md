@@ -72,6 +72,7 @@ The Gunagido-Barrowinch Theory, also known as the the Motifs of Alchemy, describ
 While this theory has yet to be popularized (or, in cannon, written down in one place; ~teehee), those few who have become Experts in this field almost unanimously agree that a dual categorization - one such as the Gunagido-Barrowinch Theory suggests - of alchemical ingredients is "efficient" or even "correct".
 
 # Philosophies of Mages
+(See [[How the Weave becomes Magic]])
 ## Traditionalist
 A Traditionalist focuses their toolkit in a singular school or tradition of magic. Invokers, Diviners, Necromancers, or otherwise, those who focus their studies down one path you have followed for your entire life; you are a Traditionalist.
 ## Specialist

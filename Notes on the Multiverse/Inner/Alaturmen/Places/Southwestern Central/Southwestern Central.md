@@ -1,7 +1,19 @@
 ---
-tags: folderfile
+tags: folderfile, region
 aliases:
 ---
+# Southwestern Central
+#### A sub-region of [[Central Alaturmen]]
+## Boundaries
+## Contents
+### Factions
+- [[Golden Claws]] & [[Tetramocal Congregation]]
+- [[Agrandica's Thieves]]
+- [[Barthalmule's Thieves]]
+- [[Cobalt's Thieves]]
+- Nomad Bands
+
+
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Southwestern Central]]**

@@ -2,12 +2,23 @@
 tags: folderfile, region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# Northeastern Central
+#### A sub-region of [[Central Alaturmen]]
 ## Boundaries
 ## Contents
-### Potential Allies
-### Potential Threats
+### Factions
+- [[The Kingdom of Prosper]]
+	- We're all british over here, but like, not posh, like, yknow, the *poors* of the british isles
+	- [[Arthur's Knights]]
+	- [[Nobles of Prosper]]
+- [[Blood Clans]]
+	- [[Emorin Clan]]
+	- [[Scrivin Clan]]
+	- [[Wheernat Clan]]
+	- [[Bulgpim Clan]]
+	- [[Hurraquk Clan]]
+	- [[Garqwak Clan]]
+
 ###### Table of Contents
 %% Begin Waypoint %%
 - **[[Northeastern Central]]**

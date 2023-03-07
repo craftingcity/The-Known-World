@@ -9,9 +9,10 @@ aliases:
 - **Coalition Wards**
 	- [[Golden Ward]]
 	- [[Iron Ward]]
+- [[Monastery of Saint Susan]]
 - **[[Northeastern Central]]**
 - **[[Northwestern Central]]**
-- **[[Southeast Central]]**
+- **[[Southeastern Central]]**
 - **[[Southwestern Central]]**
 - **[[World Features]]**
 
