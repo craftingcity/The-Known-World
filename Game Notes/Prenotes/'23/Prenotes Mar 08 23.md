@@ -64,3 +64,5 @@ If they agree - which they likely should - they will be granted the following eq
 ### What happened?
 
 the party got their shit, and named themselves "koshachiy domik"
+
+everyone sang in the silver unicorn
