@@ -72,3 +72,13 @@ grandey, the purple eyed human scrawny bard, wants good stories to sing, really,
 the planeswalk will take 56 days
 
 1 
+
+11
+11
+21
+22
+10
+
+2
+
+

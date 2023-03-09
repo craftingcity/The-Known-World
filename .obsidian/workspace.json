@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md"
               }
             }
           }
@@ -267,10 +268,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c19737d15ab033ec",
+  "active": "5938ad6130a43bd3",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Notes on the Multiverse/The Planes of Existence.md",
+    "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "On the Hum Arcani; Guild Position.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
