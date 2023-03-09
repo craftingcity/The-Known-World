@@ -66,3 +66,5 @@ If they agree - which they likely should - they will be granted the following eq
 the party got their shit, and named themselves "koshachiy domik"
 
 everyone sang in the silver unicorn
+
+graandey, the purple eyed human scrawny bard, wants good stories to sing, really, really excited and clumsy, legal minor at 17

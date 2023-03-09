@@ -11,24 +11,24 @@
             "id": "c19737d15ab033ec",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Cathouse Game",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Cathouse Game.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Mar 08 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Mar 08 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":126},\"to\":{\"line\":69,\"ch\":126}},\"scroll\":53.309238978794646}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On the Hum Arcani; Guild Position.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On the Hum Arcani; Guild Position.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On the Hum Arcani; Guild Position.md"
+                "file": "Notes on the Multiverse/The Planes of Existence.md"
               }
             }
           }
@@ -331,12 +330,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1dade7fb957bcc3",
+  "active": "c19737d15ab033ec",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
+    "On the Hum Arcani; Guild Position.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -359,7 +359,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Shyla Belanore.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Millnyr.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Goldfield/Thingrass.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
