@@ -81,4 +81,9 @@ the planeswalk will take 56 days
 
 2
 
+19
+9
+17
+13
+18
 
