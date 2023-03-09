@@ -37,17 +37,25 @@ If they agree - which they likely should - they will be granted the following eq
 			- Mechanically, this is a **+2 dagger**.
 		- SIX (6) COPPERHAMMER ADJUSTABLE PROTECTIVE VESTS
 			- This vest is made of a thin bronze scale-mail. While the "adjustable" in it's name seems misleading, the largest among you and the smallest find this vest comfortably conforms to you and your form. 
-			- Mechanically, this is a **+1 vest of protection**, and does not qualify as armor.
+			- Mechanically, this is a **+1 ring of protection**, and does not qualify as armor.
 		- SIX (6) EVERLIGHT CANDLES
+			- This candle is tall and thin, and made of a green-yellow wax that reminds you of nasal excretion. You may light them as normal, and it will burn the wax at an imperceptible rate, while also projecting a minor abjurative effect around the flame itself. This candle could effectivly stay lit forever - even against fair winds or great times.
 		- SIX (6) COPPERHAMMER ADJUSTABLE CHAIN-LENGTHS
+			- This length of simple iron chain has two spheres at either end. As you pull and push upon them, you find that the chain enters and exits these two spheres as if they contained it. You could adjust this chain length to nearly any size you could imagine, within reason.
 		- SIX (6) DARKSTEEL BREAKERBARS
+			- This length of darksteel is pointed upon both ends to provide a flat surface on both sides. One of the heads is curved, allowing you to apply great leverage with this device.
 		- SIX (6) LASTING FLASKS (OF WATER)
+			- This dark leather sack is full of water. It does not cease to be full of water, even as you empty it.
 		- SIX (6) LASTING FLASKS (OF OIL)
+			- This dark leather sack is full of oil. It does not cease to be full of oil, even as you empty it.
 		- SIX (6) S.S.S. PERSONAL SHELTERS
+		- EIGHTTEEN (18) JOURNEYMEN GRADE POTIONS OF THE 'HEALING' EFFECT
 		- ONE (1) PUGALIST'S RING
-		- ONE (1) THE AXE OF GROD, OF BLACKACID
+		- ONE (1) THE AXE OF GROD, OF BLACKACID, BERSERK
 		- ONE (1) COPPERHAMMER BLADE
-		- 
+		- ONE (1) S.S.S. SPELLKITE SHEILD
+		- ONE (1) THE BOW OF AMASHOD DENEVILLE, FLAMETOUNGE
+		- ONE (1) THE BOLT-BOX OF KURSK, GOLDEN-EYE
 ```
 
 ### What does the World Know?
