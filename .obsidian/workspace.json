@@ -54,8 +54,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ec0d2ef26a24cc77",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
               }
             }
           }
@@ -267,10 +289,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c19737d15ab033ec",
+  "active": "ec0d2ef26a24cc77",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
