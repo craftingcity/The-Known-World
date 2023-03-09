@@ -67,4 +67,8 @@ the party got their shit, and named themselves "koshachiy domik"
 
 everyone sang in the silver unicorn
 
-graandey, the purple eyed human scrawny bard, wants good stories to sing, really, really excited and clumsy, legal minor at 17
+grandey, the purple eyed human scrawny bard, wants good stories to sing, really, really excited and clumsy, legal minor at 17, 5'3"
+
+the planeswalk will take 56 days
+
+1 
