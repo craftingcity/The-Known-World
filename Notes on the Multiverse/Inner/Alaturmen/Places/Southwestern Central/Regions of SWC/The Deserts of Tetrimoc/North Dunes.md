@@ -9,6 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 #### S3. [[Kailkeep]]
+#### Y10. [[Kickoff]] (visible)
 #### Settlements
 #### Lairs
 
