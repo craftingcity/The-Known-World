@@ -8,9 +8,9 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- H4. Broken Markings of [[Sylas, Winter Monarch]]
+#### H4. Broken Markings of [[Sylas, Winter Monarch]]
 	- A large in-earth marking has been ruined. The remaining stones are carved with script ([[Sylvan (language)]]) that impresses a religious use, but little detail can be gleaned. The wear of the script on the stones also suggests that this marking is old; these stones were considered worn long before they were broken.  
-- I2. Reality Acid
+#### I2. Reality Acid
 
 ## Tables
 ### Encounter
