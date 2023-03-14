@@ -37,7 +37,9 @@ The sneak said "I wish I was bold", and the figure was gone.
 
 The night after, the sneak made a decision that cost him his life, and one that I had attempted to persuade him against. He made a move for the blonde one's purse in the night. I awoke, and so did my one remaining companion, to the sight of lightning and fire. The sneak was not here anymore, only the ash of his material remained.
 
-I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two.
+I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. I do not doubt they fought **Lolth** for my attention. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two. They fought each other more often than anything else, but time with them learned me how to fight with my words as much as my sword.
+
+
 
 ## Appendix
 ### A1. Testimony of a Knight

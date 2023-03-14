@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- C15. Frost Giant Haven
+#### C15. Frost Giant Haven
 
 ## Tables
 ### Encounter
