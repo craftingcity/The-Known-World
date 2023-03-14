@@ -39,8 +39,6 @@ The night after, the sneak made a decision that cost him his life, and one that 
 
 I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two.
 
-### 
-
 ## Appendix
 ### A1. Testimony of a Knight
 
