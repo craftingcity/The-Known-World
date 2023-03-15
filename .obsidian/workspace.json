@@ -69,7 +69,13 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9122f03bbad220a8",
+        "type": "tabs",
+        "children": [
           {
             "id": "db0b97e4f2dc9602",
             "type": "leaf",
@@ -91,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "file": "Prenotes Mar 15 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "file": "Prenotes Mar 15 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md"
+                "file": "Prenotes Mar 15 23.md"
               }
             }
           }
@@ -304,15 +309,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe133c9593bb2ab3",
+  "active": "5a9ce1a0c6cc2640",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Thanatos.md",
-    "Prenotes Mar 15 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+    "Prenotes Mar 15 23.md",
+    "Grandey, Young Bard.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Outer/Thanatos.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
@@ -331,7 +337,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore",
