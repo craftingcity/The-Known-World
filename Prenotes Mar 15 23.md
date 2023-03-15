@@ -25,6 +25,7 @@ When we last left our heroes, it had been a full 48 hours since they had crossed
 - there will be very little roleplay from the opposition, so, meet [[Grandey, Young Bard]]
 	- i need information regarding each of you for my stories
 	- this place is fucking terrifying
-	- 
+	- i need to grow the fuck up, i can help when shit gets bad
+- rolling a natural 1 or a total of less than 5 will shunt a homie to the astral plane, 
 
 ### What happened?
