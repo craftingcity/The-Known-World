@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Thanatos",
+      "path": "Notes on the Multiverse/Outer/Thanatos.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Prenotes Mar 15 23",
+      "path": "Prenotes Mar 15 23.md"
+    },
+    {
+      "basename": "Prenotes Mar 08 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Northern Third",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
     },
     {
-      "basename": "Huntyr Swamp",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md"
-    },
-    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Huntyr Swamp",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md"
     },
     {
       "basename": "Actstow Hills",
@@ -91,10 +111,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Politics of Coalition c. 078AF - 092AF",
@@ -183,22 +199,6 @@
     {
       "basename": "Magic Item Authors",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
-    },
-    {
-      "basename": "Prenotes Mar 08 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
     }
   ],
   "omittedPaths": [],
