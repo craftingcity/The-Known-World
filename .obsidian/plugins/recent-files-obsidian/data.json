@@ -5,6 +5,10 @@
       "path": "Prenotes Mar 15 23.md"
     },
     {
+      "basename": "Grandey, Young Bard",
+      "path": "Grandey, Young Bard.md"
+    },
+    {
       "basename": "Thanatos",
       "path": "Notes on the Multiverse/Outer/Thanatos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],

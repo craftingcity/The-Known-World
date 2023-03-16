@@ -31,3 +31,5 @@ Ren. It has been over a week since you've been lost. Too far into the desert has
 - rolling a natural 1 or a total of less than 5 will shunt a homie to the astral plane, 
 
 ### What happened?
+
+[[The Temple of the Moon]] for Ren
