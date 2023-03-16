@@ -7,6 +7,11 @@ aliases:
 #### A sub-region of the [[Abyss]]
 ## Boundaries
 ## Contents
+
+Souls of all the capitalists
+
+dense housing, terrible working conditions, and a reagen-omics style Faith economy
+
 ### Flora
 ### Scenarios
 
