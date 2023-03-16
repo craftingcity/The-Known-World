@@ -9,8 +9,13 @@ aliases:
 ## Contents
 
 Souls of all the capitalists
+	- "SOUL mines", get it
 
 dense housing, terrible working conditions, and a reagen-omics style Faith economy
+	- each soul gets fed to a demon, that demon gets fed to a demon, that demon goes to Orcus
+	- sometimes we eat the mortals that come here for fun, and then their soul too
+
+in the wild, between "demon-cities" and "soul mines", things like evil rivers, evil towers, evil cults, slave-bands, and wandering scavengers
 
 ### Flora
 ### Scenarios
