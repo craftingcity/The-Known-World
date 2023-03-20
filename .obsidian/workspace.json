@@ -16,12 +16,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Abyss",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Abyss.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":47},\"to\":{\"line\":14,\"ch\":47}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -145,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Thanatos.md"
+              }
             }
           }
         ],
@@ -234,9 +248,9 @@
   },
   "active": "7dc3319fa40d1f95",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Prenotes Mar 15 23.md",
     "Grandey, Young Bard.md",
     "conflict-files-obsidian-git.md",
