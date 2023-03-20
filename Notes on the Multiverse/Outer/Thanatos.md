@@ -6,7 +6,13 @@ aliases:
 ## Garden of the Glutton
 #### A sub-region of the [[Abyss]]
 ## Boundaries
+
+At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing.
+
 ## Contents
+![[Thanatos-Player.png]]
+From left to right, top to bottom;
+- [[]]
 
 Souls of all the capitalists
 	- "SOUL mines", get it
