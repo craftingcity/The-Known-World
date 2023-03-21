@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Outer/Thanatos.md"
     },
     {
+      "basename": "Thanatos-Player",
+      "path": "MEDIA/MAPS/WORLD/Thanatos-Player.png"
+    },
+    {
       "basename": "Abyss",
       "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "Guild Associates Agreement",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Guild Associates Agreement.md"
     }
   ],
   "omittedPaths": [],

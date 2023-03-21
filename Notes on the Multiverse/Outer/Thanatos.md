@@ -12,15 +12,6 @@ At the edges of Thanatos, the plane spills over. Below, if one is brave enough t
 ## Contents
 ![[Thanatos-Player.png]]
 
-x | 000 | 001 | 002 | 003 | 004 | 005
---- | --- | --- | --- | --- | ---
-000 | A1 | B1 | C1 | B1 | C1 
-001 | A2 | B1 | C1 | B1 | C1 
-002 | A3 | B3 | C1 | B1 | C1 
-003 | A4 | B1 | C1 | B1 | C1  
-004 | A5 | B5 | C5 | B1 | C1 
-005 | A6 | B6 | C6 | B1 | C1 
-
 Souls of all the capitalists
 	- "SOUL mines", get it
 
@@ -32,6 +23,15 @@ in the wild, between "demon-cities" and "soul mines", things like evil rivers, e
 
 ### Flora
 ### Scenarios
+
+x | 000 | 001 | 002 | 003 | 004 | 005
+--- | --- | --- | --- | --- | ---
+000 | Jester's Joke | Kuta'a, the City of Miners | a | a | a | a
+001 | A2 | B1 | C1 | B1 | a | a 
+002 | A3 | B3 | C1 | Neranteen, the City of the Fishers | C1 | a
+003 | A4 | B1 | Cheat's Game | Road Bandits | Thin Swamps | a
+004 | A5 | Kalariel's Tower | Wicked Tree | Seat of the Dead | Killer's Rest | a 
+005 | Deathrider Troop | Horrid Gas | Kal's Trash-heap | Thieves' Reprieve | Downspout of the Styx | Cliffs of Unclaimed
 
 ## Tables
 ### Encounter
