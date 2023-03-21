@@ -7,12 +7,19 @@ aliases:
 #### A sub-region of the [[Abyss]]
 ## Boundaries
 
-At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing.
+At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing. If one is brave - or stuipid - enough to traverse beyond, into this void, they descend "deeper" into the [[Abyss]].
 
 ## Contents
 ![[Thanatos-Player.png]]
-From left to right, top to bottom;
-- [[]]
+
+x | 000 | 001 | 002 | 003 | 004 | 005
+--- | --- | --- | --- | --- | ---
+000 | A1 | B1 | C1 | B1 | C1 
+001 | A2 | B1 | C1 | B1 | C1 
+002 | A3 | B3 | C1 | B1 | C1 
+003 | A4 | B1 | C1 | B1 | C1  
+004 | A5 | B5 | C5 | B1 | C1 
+005 | A6 | B6 | C6 | B1 | C1 
 
 Souls of all the capitalists
 	- "SOUL mines", get it
