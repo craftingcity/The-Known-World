@@ -26,7 +26,7 @@ in the wild, between "demon-cities" and "soul mines", things like evil rivers, e
 
 x | 000 | 001 | 002 | 003 | 004 | 005
 --- | --- | --- | --- | --- | ---
-000 | Jester's Joke | [[Kuta'a, the City of Miners]] | Hangman's Noose | a | a | a
+000 | Jester's Joke | [[Kuta'a, the City of Miners]] | Hangman's Noose | Bruiser's Bend | a | a
 001 | A2 | x | Hills of the Cursed | Hills of the Forgotten | Grant's Lone Mountain | Grey Swamps
 002 | A3 | x | Hills of the Damned | Hills of the Infamed | [[Neranteen, the City of the Fishers]] | Wet Swamps
 003 | A4 | B1 | Cheat's Game | Road Bandits | Thin Swamps | Thick Swamps
