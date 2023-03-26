@@ -4,11 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4444acba818758",
+        "id": "d0c96bdf4fb1ed54",
         "type": "tabs",
         "children": [
           {
-            "id": "8b77eb1f294496ac",
+            "id": "22f01b452ba48dc5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 26 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f3cfc57e0f8cc08e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +39,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Grandey, Young Bard",
+                  "title": "Prenotes Feb 26 23",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Grandey, Young Bard.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":22},\"to\":{\"line\":25,\"ch\":22}},\"scroll\":11.625490076401654}"
-                },
-                {
-                  "title": "Prenotes Mar 15 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Mar 15 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":80},\"to\":{\"line\":26,\"ch\":80}},\"scroll\":15.596650117363026}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Feb 26 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":18.27156784955193}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Mar 15 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -161,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 15 23.md",
+                "file": "Prenotes Mar 26 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 15 23.md",
+                "file": "Prenotes Mar 26 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 15 23.md"
+                "file": "Prenotes Mar 26 23.md"
               }
             }
           }
@@ -252,14 +267,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b77eb1f294496ac",
+  "active": "22f01b452ba48dc5",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
+    "Prenotes Mar 26 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 26 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
+    "Prenotes Mar 15 23.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Grandey, Young Bard.md",
-    "Prenotes Mar 15 23.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "Notes on the Multiverse/Outer/Abyss/Demon Lords.md",
     "On the Hum Arcani; Guild Position.md",
@@ -279,8 +297,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari/Hitharu.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari/Chishran.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne/Millnyr.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne/Falseguard.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne/Bilemuck.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
