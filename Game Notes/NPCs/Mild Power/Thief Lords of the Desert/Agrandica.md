@@ -4,6 +4,7 @@ aliases:
 ---
 # Agrandica
 ## Thief Lord of the South
+## The Red Madam
 ### she/her
 #### VO EXAMPLE:
 

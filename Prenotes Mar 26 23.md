@@ -25,3 +25,4 @@ nala and jerran utilized the labs in the university to purchase ingredients and 
 
 traveled for 15 days to [[Kickoff]], buying and gathering supplies on the way
 
+traveled for another 4 days to the south-west edge of the [[Agrandica's Savanna]], by avoiding town
