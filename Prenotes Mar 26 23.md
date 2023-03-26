@@ -20,3 +20,4 @@ When last we left our heroes, they had spoken with [[Alergra Barrowinch]] about 
 i really wish i preped more for this one - we're probably gonna travel, search for the temple, and maybe get into it?
 
 ### What happened?
+

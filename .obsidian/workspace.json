@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 26 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 26 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 26 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md"
               }
             }
           }
@@ -267,10 +268,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "22f01b452ba48dc5",
+  "active": "f3cfc57e0f8cc08e",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
     "Prenotes Mar 26 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 26 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Prenotes Mar 15 23.md",
