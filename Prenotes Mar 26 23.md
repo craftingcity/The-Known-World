@@ -21,3 +21,5 @@ i really wish i preped more for this one - we're probably gonna travel, search f
 
 ### What happened?
 
+nala and jerran utilized the labs in the university to purchase ingredients and make more healing potions
+
