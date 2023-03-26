@@ -5,6 +5,10 @@
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
       "basename": "Prenotes Mar 26 23",
       "path": "Prenotes Mar 26 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cenva Minyo",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
-    },
-    {
-      "basename": "The Library of True Names",
-      "path": "The Library of True Names.md"
     }
   ],
   "omittedPaths": [],

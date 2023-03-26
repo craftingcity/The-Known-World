@@ -109,6 +109,27 @@
                 "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
+          },
+          {
+            "id": "b21a49b1c4b6d9e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -325,7 +346,9 @@
   },
   "active": "4decdc1d895d862b",
   "lastOpenFiles": [
+    "Game Notes/NPCs/List of Names.md",
     "Prenotes Mar 26 23.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
     "On the Hum Arcani; Guild Position.md",
     "Wargods without War.md",
@@ -346,13 +369,10 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "The Library of True Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Centerlick Mossland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari/Karalwana.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
