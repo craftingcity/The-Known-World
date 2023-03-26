@@ -109,23 +109,6 @@
                 "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
-          },
-          {
-            "id": "bfe90237b444b617",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
