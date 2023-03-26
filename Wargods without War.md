@@ -39,7 +39,7 @@ The night after, the sneak made a decision that cost him his life, and one that 
 
 I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. I do not doubt they fought **Lolth** for my attention. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two. They fought each other more often than anything else, but time with them learned me how to fight with my words as much as my sword.
 
-
+Their war was unending - personal. I take it that this is the reason they are in love as much as they a
 
 ## Appendix
 ### A1. Testimony of a Knight
