@@ -19,3 +19,7 @@ When last we left our heroes, they had traveled beyond Alaturmen, the world as w
 
 
 ### What happened?
+
+vix
+fiend
+shu
