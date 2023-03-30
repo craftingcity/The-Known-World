@@ -21,7 +21,7 @@ When last we left our heroes, they had traveled beyond Alaturmen, the world as w
 ### What happened?
 
 vix
-fiend (6/9/18/30/)
+fiend (6/9/18/30/44/)
 shu
 ren
 daelith
