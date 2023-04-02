@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "612031dc6087ddd8",
+        "id": "021b23545abd134d",
         "type": "tabs",
         "children": [
           {
-            "id": "fafec1f87020ea3b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes April 02 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes April 02 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":8.311942402289526}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "664c21013df12e32",
+            "id": "ad22a9bbc6aa2e09",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Prenotes April 02 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -150,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 501.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -175,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Prenotes April 02 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Prenotes April 02 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+                "file": "Prenotes April 02 23.md"
               }
             }
           }
@@ -266,10 +240,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fafec1f87020ea3b",
+  "active": "ad22a9bbc6aa2e09",
   "lastOpenFiles": [
-    "Prenotes April 02 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
+    "Prenotes April 02 23.md",
     "Grandey, Young Bard.md",
     "Prenotes Mar 29 23.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -294,8 +270,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
