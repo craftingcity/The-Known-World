@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "664c21013df12e32",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lephora",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes April 02 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes April 02 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes April 02 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
               }
             }
           }
@@ -240,9 +262,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fafec1f87020ea3b",
+  "active": "664c21013df12e32",
   "lastOpenFiles": [
     "Prenotes April 02 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
     "Grandey, Young Bard.md",
     "Prenotes Mar 29 23.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -269,7 +292,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "The Library of True Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
