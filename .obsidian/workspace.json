@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5db7e3fe1f3cde",
+        "id": "612031dc6087ddd8",
         "type": "tabs",
         "children": [
           {
-            "id": "66cbecf19dd1f292",
+            "id": "fafec1f87020ea3b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,28 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Mar 29 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4efa426d3e989862",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grandey, Young Bard.md",
+                "file": "Prenotes April 02 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 29 23.md",
+                "file": "Prenotes April 02 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 29 23.md",
+                "file": "Prenotes April 02 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 29 23.md"
+                "file": "Prenotes April 02 23.md"
               }
             }
           }
@@ -261,8 +240,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66cbecf19dd1f292",
+  "active": "fafec1f87020ea3b",
   "lastOpenFiles": [
+    "Prenotes April 02 23.md",
     "Grandey, Young Bard.md",
     "Prenotes Mar 29 23.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -290,7 +270,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "The Library of True Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
