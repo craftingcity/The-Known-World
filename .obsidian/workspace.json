@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "021b23545abd134d",
+        "id": "b73ffcd8a2416fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "ad22a9bbc6aa2e09",
+            "id": "95e6da57e82878c1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,27 +23,6 @@
               "type": "markdown",
               "state": {
                 "file": "Prenotes April 02 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6c1eef6937589ac",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
                 "mode": "source",
                 "source": true
               }
@@ -261,7 +240,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ad22a9bbc6aa2e09",
+  "active": "95e6da57e82878c1",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
     "Prenotes April 02 23.md",
