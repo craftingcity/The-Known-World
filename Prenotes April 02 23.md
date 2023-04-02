@@ -26,3 +26,6 @@ then we go to the temple, which might be it's own encounter, as they explore we 
 
 we'll see!
 
+they killed some wurms
+
+
