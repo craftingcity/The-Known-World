@@ -5,6 +5,10 @@
       "path": "Prenotes April 02 23.md"
     },
     {
+      "basename": "Raezumar",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md"
+    },
+    {
       "basename": "Lord's Folly",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Blood Clans",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
-    },
-    {
-      "basename": "On The Text of Tetrimoc; Guild Position",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On The Text of Tetrimoc; Guild Position.md"
     }
   ],
   "omittedPaths": [],
