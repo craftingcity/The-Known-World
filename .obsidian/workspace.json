@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Apr 05 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Apr 05 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
                 "mode": "source",
                 "source": true
               }
@@ -149,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Notes on the Multiverse/Outer/Thanatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Apr 05 23.md"
+                "file": "Notes on the Multiverse/Outer/Thanatos.md"
               }
             }
           },
