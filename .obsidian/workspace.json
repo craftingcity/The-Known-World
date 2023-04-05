@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Apr 05 23.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Apr 05 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Apr 05 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +215,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Apr 05 23.md"
+              }
             }
           },
           {
@@ -251,6 +259,7 @@
   },
   "active": "e829172bee25803e",
   "lastOpenFiles": [
+    "Prenotes Apr 05 23.md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Prenotes Mar 29 23.md",
