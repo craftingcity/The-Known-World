@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c96bdf4fb1ed54",
+        "id": "604cd971913a7d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "bd848a75fcd58ee5",
+            "id": "83b6c67694bf64e3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,35 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 26 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4decdc1d895d862b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "Prenotes Mar 05 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Mar 05 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Mar 08 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Mar 08 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Mar 15 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Mar 15 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "Thanatos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Thanatos.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Thanatos-Player",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/Thanatos-Player.png\"}}",
                   "eState": "{}"
                 }
               ]
@@ -44,48 +53,6 @@
               "type": "pdf",
               "state": {
                 "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "b21a49b1c4b6d9e3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "032f17f64ad1c7d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
@@ -134,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bounty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 26 23.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 26 23.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,12 +244,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 26 23.md"
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
+            }
+          },
+          {
+            "id": "017b0162b76e109a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -291,55 +275,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd848a75fcd58ee5",
+  "active": "83b6c67694bf64e3",
   "lastOpenFiles": [
-    "On the Hum Arcani; Guild Position.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
-    "Wargods without War.md",
-    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/NPCs/List of Names.md",
-    "Prenotes Mar 26 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 26 23.md",
+    "Prenotes Mar 26 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Prenotes Mar 15 23.md",
-    "MEDIA/MAPS/WORLD/Thanatos-Player.png",
-    "Grandey, Young Bard.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
+    "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Grandey, Young Bard.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Planes of Existence.md",
-    "Notes on the Multiverse/Outer/Abyss/Demon Lords.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy/Genereric Party Formation Contract.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Waywalket Turring.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "The Library of True Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Goldfield",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/North Dunes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy"
   ]
 }
