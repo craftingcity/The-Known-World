@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Texts",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
-    },
-    {
-      "basename": "Renshaw",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md"
     }
   ],
   "omittedPaths": [],
