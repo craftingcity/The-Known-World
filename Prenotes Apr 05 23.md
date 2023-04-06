@@ -31,7 +31,7 @@ Shu Ameda took the hide of the Barbed Demon
 Ren ran off, 6 & 16 stealth and 15 surv from Vix and Daelith
 
 17 - Ren
-15 - demon hulk ()
+15 - demon hulk (16)
 13 - Daelith
 13 - ghosts
 10 - Vix
