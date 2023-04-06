@@ -25,3 +25,14 @@ Given that the Zo'paak are gnolls, we should push the Blood Curse stuff here too
 
 
 ### What happened?
+
+Shu Ameda took the hide of the Barbed Demon
+
+Ren ran off, 6 & 16 stealth and 15 surv from Vix and Daelith
+
+17 - Ren
+15 - demon hulk ()
+13 - Daelith
+13 - ghosts
+10 - Vix
+
