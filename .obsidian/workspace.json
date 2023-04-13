@@ -66,30 +66,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "287b5a1e0ab2d72d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ancoris Templum.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancoris Templum.md",
+                "file": "Neranteen, the City of the Fishers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ancoris Templum.md",
+                "file": "Neranteen, the City of the Fishers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ancoris Templum.md"
+                "file": "Neranteen, the City of the Fishers.md"
               }
             }
           },
@@ -318,10 +297,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "287b5a1e0ab2d72d",
+  "active": "4bd1864f4df3ed7c",
   "lastOpenFiles": [
-    "Neranteen, the City of the Fishers.md",
     "Ancoris Templum.md",
+    "Neranteen, the City of the Fishers.md",
     "Dis Pater, Orcus Avatar.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Notes on the Multiverse/Outer/Thanatos.md",

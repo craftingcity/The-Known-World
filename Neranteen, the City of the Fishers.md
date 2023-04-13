@@ -11,7 +11,9 @@ aliases:
 
 The "city" for lack of a better term is a large collection of apartment housings and office workplaces. Neither of these are necessary, but they are both often occupied. The main street has an offshoot to the "east-south-east" that leads to the "fishing communities" where these ghosts hunt for deformed soul matter in the murk to appease the servants of [[Orcus]].
 
-For the "nobility", as much as the demonkin could be called that, this place is important only as the seat of power for [[Dis Pater, Orcus Avatar]]. Those who he rules support a project in the center of the city, far from the [[Ancoris Templum]]
+For the "nobility", as much as the demonkin could be called that, this place is important only as the seat of power for [[Dis Pater, Orcus Avatar]]. Those who he rules support a project in the center of the city, far from the [[Ancoris Templum]] inwhich Dis Pater is currently bound to reside. 
+
+The upgrades to the [[Ancoris Templum]] could be some time away, but the project in the center of the city is near completion. If it is finished, this city's demonkin will have direct access to the material plane by way of planar teleportation.
 
 ### General Public Disposition
 
