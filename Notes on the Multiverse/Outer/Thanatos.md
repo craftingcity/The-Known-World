@@ -7,7 +7,7 @@ aliases:
 #### A sub-region of the [[Abyss]]
 ## Boundaries
 
-At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing. If one is brave - or stuipid - enough to traverse beyond, into this void, they descend "deeper" into the [[Abyss]].
+At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing. If one is brave - or stupid - enough to traverse beyond, into this void, they descend "deeper" into the [[Abyss]].
 
 ## Contents
 ![[Thanatos-Player.png]]
@@ -32,6 +32,12 @@ x | 000 | 001 | 002 | 003 | 004 | 005
 003 | A4 | B1 | Cheat's Game | Road Bandits | Thin Swamps | Thick Swamps
 004 | A5 | [[Kalariel's Tower]] | Wicked Tree | [[Seat of the Dead]] | Killer's Rest | a 
 005 | Deathrider Troop | Horrid Gas | Kal's Trash-heap | Thieves' Reprieve | Downspout of the Styx | Cliffs of Unclaimed
+
+MAJOR AS RELISTED:
+	- [[Kuta'a, the City of Miners]]
+	- [[Neranteen, the City of the Fishers]]
+	- [[Kalariel's Tower]]
+	- [[Seat of the Dead]]
 
 ## Tables
 ### Encounter
