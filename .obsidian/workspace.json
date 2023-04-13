@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "70aefc2d345183ba",
+        "id": "b849f0e3b113e057",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3fa5b4a2a2bca6",
+            "id": "e829172bee25803e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Neranteen, the City of the Fishers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neranteen, the City of the Fishers.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":13},\"to\":{\"line\":28,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Thanatos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Thanatos.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":26},\"to\":{\"line\":37,\"ch\":26}},\"scroll\":12.806315185835633}"
+                },
+                {
+                  "title": "Prenotes Apr 05 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Apr 05 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dis Pater, Orcus Avatar.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4bd1864f4df3ed7c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,20 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Neranteen, the City of the Fishers.md",
                 "mode": "source",
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "63b862d48d9cde5a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ad57f9b3e25a1c5e",
+            "id": "287b5a1e0ab2d72d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,13 +82,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "file": "Ancoris Templum.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ae2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Ancoris Templum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Apr 05 23.md",
+                "file": "Ancoris Templum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,12 +277,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Apr 05 23.md"
+                "file": "Ancoris Templum.md"
               }
+            }
+          },
+          {
+            "id": "017b0162b76e109a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -257,54 +308,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c3fa5b4a2a2bca6",
+  "active": "287b5a1e0ab2d72d",
   "lastOpenFiles": [
+    "Neranteen, the City of the Fishers.md",
+    "Ancoris Templum.md",
+    "Dis Pater, Orcus Avatar.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Prenotes Apr 05 23.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Prenotes April 02 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Grandey, Young Bard.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Prenotes Mar 29 23.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Prenotes Mar 26 23.md",
-    "On the Hum Arcani; Guild Position.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
-    "Wargods without War.md",
-    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
-    "Game Notes/NPCs/List of Names.md",
+    "Prenotes April 02 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 05 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 26 23.md",
+    "Prenotes Mar 26 23.md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Prenotes Mar 15 23.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Grandey, Young Bard.md",
     "Notes on the Multiverse/The Planes of Existence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Red Throne",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Goldfield",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon",
-    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy"
   ]
 }
