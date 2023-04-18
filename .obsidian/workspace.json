@@ -27,6 +27,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d1e2cab75f09377b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party of Grandparents House.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -242,11 +263,11 @@
   },
   "active": "8090e9f511d0c833",
   "lastOpenFiles": [
-    "Prenotes 04 18 23.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Prenotes 04 18 23.md",
     "Party of Grandparents House.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Prenotes Apr 12 23.md",
