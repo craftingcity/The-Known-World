@@ -27,4 +27,3 @@ Camadra
 Corvid
 Thistle
 White Guards
-Civies
