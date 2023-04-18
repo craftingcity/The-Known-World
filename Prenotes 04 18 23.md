@@ -21,8 +21,8 @@ Interior, a Silver Unicorn in Coalition City. A great smash appears from outside
 
 ### What happened?
 
+Pink Guards 3
 Flibber Ti Gibbet
-Pink Guards
 Camadra
 Corvid
 Thistle
