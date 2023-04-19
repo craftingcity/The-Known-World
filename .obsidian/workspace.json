@@ -16,13 +16,85 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Golden Merchant's Company",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Golden Merchant's Company.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prenotes 04 18 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes 04 18 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":7},\"to\":{\"line\":28,\"ch\":7}},\"scroll\":13.71629754110601}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes 04 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a55fc68399d3144b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Guilds of Coalition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":20},\"to\":{\"line\":17,\"ch\":20}},\"scroll\":12.326960744421466}"
+                },
+                {
+                  "title": "Guild of Merchants",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.531372668696385}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae1fdee7f70762b6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Currency of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":29},\"to\":{\"line\":34,\"ch\":29}},\"scroll\":7.193498055291772}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes 04 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes 04 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes 04 18 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
               }
             }
           }
@@ -261,11 +334,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8090e9f511d0c833",
+  "active": "ae1fdee7f70762b6",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Golden Merchant's Company.md",
+    "Prenotes 04 18 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Prenotes 04 18 23.md",
     "Party of Grandparents House.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
@@ -285,11 +363,6 @@
     "Prenotes Mar 29 23.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Prenotes Mar 26 23.md",
-    "On the Hum Arcani; Guild Position.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 078AF - 092AF.md",
-    "Wargods without War.md",
-    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
-    "Game Notes/NPCs/List of Names.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
