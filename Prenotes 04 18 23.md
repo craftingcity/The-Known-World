@@ -19,11 +19,21 @@ Interior, a Silver Unicorn in Coalition City. A great smash appears from outside
 
 ### What does the World Know?
 
+[[Todd Shnider Bonnovich]] - criminal contact in coalition city
+
+
 ### What happened?
 
-Pink Guards 3
+Pink Guards 16
 Flibber Ti Gibbet
 Camadra
 Corvid
 Thistle
 White Guards
+
+shipping manifest
+scroll of mass healing word
+scroll of greater restoration
+bag of gold
+tracker jacker jar
+
