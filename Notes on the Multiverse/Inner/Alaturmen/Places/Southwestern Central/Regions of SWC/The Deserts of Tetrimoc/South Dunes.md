@@ -9,17 +9,8 @@ aliases:
 ### Flora
 ### Scenarios
 #### AL3. Southern Geyser Fields
-This hex is staged for an encounter with 7 local faction militants.
-They are here because they are waiting here for something or guarding this place.
-There is something interesting about this particular group. They are incredibly well equipped, informed, or prepared.
-
-This hex is occupied by a natural geyser, pond, or spring.
-The reason this place is significant is because it a simple curiosity & is/has the site of a battle, birth, death, or "injury".
-This place is considered prehistoric in age and feared or deeply respected by those who know of it.
-It is in pristine condition or otherwise very well maintained and massive.
-
-	- A massive "forest" of water geysers is being guarded and held by 7 well prepared members of Cobalt's Noble Theives.
-	- A compound of si
+	- A massive "forest" of hot water geysers. This place was once fought over by Cobalt's Theives, Golden Claws, and a passing nomad tribe.
+	- A compound of old wood buildings holds 7 well equipped Noble Theives loyal to Cobalt, all of whom are willing to defend this necessary resource with their lives.
 #### AM9. Temple of the Golomancer
 	- Grean Orthan, Master Golomancer keeps his home here in this large stone-brick temple. This building is pristine in condition, and it's construction is acultural.
 	- Orthan holds control over 4 massive flesh golems, all of whom are clad in chiton platemail and holding fierce weapons.
