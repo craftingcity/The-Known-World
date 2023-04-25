@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34fff31d8fadaa75",
+        "id": "991be3b167d4ca9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7aea927c62c0dca2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "62a1fba7599fc4f9",
+            "id": "790cd36219082aa5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,14 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
               }
             }
           },
@@ -275,8 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62a1fba7599fc4f9",
+  "active": "790cd36219082aa5",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "conflict-files-obsidian-git.md",
     "Prenotes 04 18 23.md",
     "Party of Grandparents House.md",
@@ -299,12 +283,10 @@
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Grandey, Young Bard.md",
     "Notes on the Multiverse/The Planes of Existence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore",
