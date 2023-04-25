@@ -226,7 +226,7 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 - Your base walking speed is 25 feet per round.
 - You have a darkvision of 30 feet.
 - You have advantage on saving throws to avoid or end the frightened condition on yourself.
-- You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).
+- You know one cantrip of your choice from the sorcerer spell list (Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip).
 
 ## Genasi
 
