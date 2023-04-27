@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "39e7d77676d50023",
+        "id": "9c9f9bfdcfc00160",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc0dd993412cc55",
+            "id": "3bc084f7e2694216",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "Holdings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Holdings.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":13},\"to\":{\"line\":21,\"ch\":13}},\"scroll\":0.7909725953788286}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -22,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes April 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "mode": "source",
                 "source": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes April 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes April 18 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes April 18 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
               }
             }
           }
@@ -240,16 +252,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6cc0dd993412cc55",
+  "active": "3bc084f7e2694216",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Holdings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Prenotes April 18 23.md",
     "Party of Grandparents House.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
     "Golden Merchant's Company.md",
-    "Prenotes April 18 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
@@ -268,7 +281,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Grandey, Young Bard.md",
     "Prenotes Mar 29 23.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",

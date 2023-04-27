@@ -7,7 +7,7 @@ aliases:
 ## Holding of {Faction}
 ### Located in {Region}, X:Y
 ## Description
-### Quote
+### "Quote"
 
 ### General Public Disposition
 
@@ -18,3 +18,5 @@ aliases:
 |     | # of Traders |
 | --- | ------------ |
 |     |              |
+
+## Governance
