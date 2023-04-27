@@ -15,21 +15,19 @@ The common folk of Coalition City are personally focused, and do not make superf
 The richer "nobles" and governmental figures are also quite busy, but many travelers come to the city to visit these powerful peoples, making their disposition more unique to themselves.
 
 ### Background
-This city is the largest city in [[Central Alaturmen]], attracting the majority of trade in the known world.
+This city is the largest city in [[Central Alaturmen]], attracting the majority of trade in the known world. It is placed in the direct center of the known world, in the eastern half of the [[Deakred Range]], in fact carved into 
 
 Individuals, like wanders or merchants, as well as the major [[Merchant Companies and their Routes|Merchant Companies]] come from around the world with the intention to stay for weeks or months at a time - this city is built in segments, each with their own feel and use.
 
 ## Important Places
 ### Wards
-Starting from the north, and continuing clockwise, the wards are located in a ring around the [[Wheel Ward]] as follows...
+Starting from the north, and continuing clockwise, the wards are located in a ring around the [[Wheel Ward]] as follows. The walls of the city are all, unless otherwise described, are a grey recomposite stone brick that forms 40-foot walls - not that they are much protection from anyone more than 1000 yards away, upon the natural cliffside.
 
 #### The Wheel Ward
-In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. It's walls form a circular space, again formed into a torus by the central *building*.
+In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. Its walls form a circular space, again formed into a torus by the central *building*.
 
 #### The Iron Ward
-In the North, the largest and most prominent gate stands tall as the [[Iron Ward]]. 
-
-The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word.
+The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this 
 
 #### The Ivory Ward
 The [[Ivory Ward]] holds the craftsfolk and their opulent structures and gaudy architecture. 
