@@ -37,3 +37,4 @@ scroll of greater restoration
 bag of gold
 tracker jacker jar
 
+Koren's cousin Amelio is a contact in [[Beacon]] regarding getting "demon blood" to heal "Mmmm", which ~i guess is gonna work~
