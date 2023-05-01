@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Outer",
+      "path": "Notes on the Multiverse/Outer/Outer.md"
+    },
+    {
+      "basename": "Grandey, Young Bard",
+      "path": "Game Notes/NPCs/Grandey, Young Bard.md"
+    },
+    {
+      "basename": "Golden Merchant's Company",
+      "path": "Golden Merchant's Company.md"
+    },
+    {
       "basename": "Ancoris Templum",
-      "path": "Ancoris Templum.md"
+      "path": "Notes on the Multiverse/Big Lore/Ancoris Templum.md"
     },
     {
       "basename": "Prenotes Mar 29 23",
@@ -30,7 +58,7 @@
     },
     {
       "basename": "Kallo Vought",
-      "path": "Kallo Vought.md"
+      "path": "Game Notes/NPCs/Mild Power/Kallo Vought.md"
     },
     {
       "basename": "Monastery of Saint Susan",
@@ -85,10 +113,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
     },
     {
-      "basename": "Golden Merchant's Company",
-      "path": "Golden Merchant's Company.md"
-    },
-    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
@@ -114,11 +138,11 @@
     },
     {
       "basename": "Neranteen, the City of the Fishers",
-      "path": "Neranteen, the City of the Fishers.md"
+      "path": "Notes on the Multiverse/Outer/Abyss/Neranteen, the City of the Fishers.md"
     },
     {
       "basename": "Dis Pater, Orcus Avatar",
-      "path": "Dis Pater, Orcus Avatar.md"
+      "path": "Game Notes/NPCs/High Power/Dis Pater, Orcus Avatar.md"
     },
     {
       "basename": "Cathouse Game",
@@ -149,10 +173,6 @@
       "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
     },
     {
-      "basename": "Grandey, Young Bard",
-      "path": "Grandey, Young Bard.md"
-    },
-    {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Planes of Existence.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Wetfoot Greenland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
-    },
-    {
-      "basename": "Tetrimoc's Blessings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
-    },
-    {
-      "basename": "Lord's Folly",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
-    },
-    {
-      "basename": "South Dunes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md"
-    },
-    {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "White Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md"
     }
   ],
   "omittedPaths": [],

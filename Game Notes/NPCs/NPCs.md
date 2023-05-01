@@ -17,12 +17,14 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Guraxlog]]
 - [[Devililith]]
 - [[Elsa Grifiths San-Tymiq]]
+- [[Grandey, Young Bard]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
 	- **Council of Eight NPCs**
 		- [[Ginger Ak-kizi]]
 		- [[Venclaw]]
+	- [[Dis Pater, Orcus Avatar]]
 	- **Guild Employee NPCs**
 		- **[[Guild Admin]]**
 		- [[Guild Leaders]]
@@ -44,6 +46,7 @@ for the graph: [[Here lie my suppliments...]]
 - **Mild Power**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
+	- [[Kallo Vought]]
 	- **Knights & Nobles**
 		- [[Sir Harris Bly]]
 	- **Midboss**
