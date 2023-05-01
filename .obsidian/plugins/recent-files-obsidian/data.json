@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Order of Arthurian Saints",
+      "path": "Order of Arthurian Saints.md"
+    },
+    {
+      "basename": "Monastery of Saint Susan",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
       "basename": "Coalition City",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Central Alaturmen",
@@ -137,10 +153,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md"
     },
     {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
-    },
-    {
       "basename": "Wetfoot Greenland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Illburn Forest",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
-    },
-    {
-      "basename": "Enlitte Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md"
-    },
-    {
-      "basename": "Redl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md"
     }
   ],
   "omittedPaths": [],

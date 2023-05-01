@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9f9bfdcfc00160",
+        "id": "d55a4382ca8f924f",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc084f7e2694216",
+            "id": "605c1a1c554636e4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Holdings",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Holdings.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
+                  "title": "Monastery of Saint Susan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":48},\"to\":{\"line\":5,\"ch\":48}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Order of Arthurian Saints.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ae2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Order of Arthurian Saints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Order of Arthurian Saints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+                "file": "Order of Arthurian Saints.md"
               }
             }
           }
@@ -252,10 +246,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3bc084f7e2694216",
+  "active": "605c1a1c554636e4",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md",
+    "Order of Arthurian Saints.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "A Grand Notepad.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
     "Prenotes April 18 23.md",
     "Party of Grandparents House.md",
@@ -266,7 +265,6 @@
     "Golden Merchant's Company.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Prenotes Apr 12 23.md",
@@ -277,10 +275,6 @@
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Prenotes April 02 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Grandey, Young Bard.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
