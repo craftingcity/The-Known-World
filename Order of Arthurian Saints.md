@@ -12,5 +12,6 @@ Generally, when people do not become a member of a chapter of [[Arthur's Knights
 The following is a list of inducted Saints in chronological order...
 
 #### Saint [[Mateus Fyrren]] of [[Yerba]]
+#### Saint [[Susan Arraine]] of [[Tegri]]
 
 

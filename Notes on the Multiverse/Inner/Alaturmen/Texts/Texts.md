@@ -6,7 +6,7 @@ aliases:
 # Texts
 %% Begin Waypoint %%
 - **Guild Texts**
-	- **Bureaucracy**
+	- **Bueracracy**
 		- [[Genereric Party Formation Contract]]
 		- [[Guild Associates Agreement]]
 		- [[Guild Equipment Requisition Form]]
@@ -26,5 +26,6 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Texts Druidic]]
 - [[The Code of Thieves]]
+- [[Wargods without War]]
 
 %% End Waypoint %%

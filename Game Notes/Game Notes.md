@@ -6,8 +6,9 @@ connect to [[Notes on the Multiverse]]
 	- [[Cathouse Game]]
 	- [[Granparents Game]]
 	- [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
+	- [[Party of Grandparents House]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 
 %% End Waypoint %%

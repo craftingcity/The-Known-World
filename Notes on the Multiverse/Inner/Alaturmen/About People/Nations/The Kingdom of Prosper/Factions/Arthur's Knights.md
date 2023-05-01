@@ -8,7 +8,7 @@ aliases:
 ## Governance
 ### Chapters
 - Constantia (K26)
-	- auxilurry support for [[Castle Prosper]], [[Magius]], & surrounding villages
+	- auxiliary support for [[Castle Prosper]], [[Magius]], & surrounding villages
 	- holding major [[Unification]] relic
 - Delectus (N18)
 	- main chapter in defense of [[Yerba]]
