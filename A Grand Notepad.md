@@ -13,6 +13,8 @@ Bag-head bandits.
 
 AMMS - WE3 says small towns and up are 5+ miles apart, small cities and up are 20+ miles apart. Want population density of urban regions and rural regions, again, AMMS claims 8% is average, and above is wealthy and good traders. Sounds like Alaturmen to me. 
 
+a cavernous meteiorite
+
 # The Hack
 ## To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
@@ -92,4 +94,3 @@ Nomads | [[Economics of Tetrimoc's Desert]] | Common-Power Code | Common-Power C
 x | x
 --- | ---
 Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/thought-of-the-day-disarming-magical-traps
-

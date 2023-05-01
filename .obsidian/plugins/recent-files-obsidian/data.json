@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     },
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
     }
   ],
   "omittedPaths": [],
