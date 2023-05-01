@@ -33,8 +33,90 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a0bf5163b8ab72df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Kallo Vought",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kallo Vought.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43266658bc0fd470",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "On Peoples Involved with Arthur Simonson",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":5},\"to\":{\"line\":20,\"ch\":5}},\"scroll\":2.0522565320665085}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kallo Vought.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9d4f71286531c0c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "On Peoples Involved with Arthur Simonson",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order of Arthurian Saints.md",
+                "file": "Kallo Vought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Order of Arthurian Saints.md",
+                "file": "Kallo Vought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Order of Arthurian Saints.md"
+                "file": "Kallo Vought.md"
               }
             }
           }
@@ -246,10 +328,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "605c1a1c554636e4",
+  "active": "43266658bc0fd470",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/On Peoples Involved with Arthur Simonson.md",
+    "Kallo Vought.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Order of Arthurian Saints.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
@@ -271,10 +356,7 @@
     "Prenotes Apr 05 23.md",
     "Neranteen, the City of the Fishers.md",
     "Dis Pater, Orcus Avatar.md",
-    "Ancoris Templum.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari",
