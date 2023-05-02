@@ -9,7 +9,7 @@ aliases:
 #### VO EXAMPLE
 ![[Baron Shimmer VOX.webm]]
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> Wearing a brilliantly jeweled aqualater, 
 
 A description of their function in the world.
 
