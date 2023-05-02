@@ -14,7 +14,7 @@ aliases:
 
 Killrick is the Baron of the "Middle" Eastlick
 
-While the Baron puts on a kind demeanor, Killrick Emm Glask has earned his name. She has no trouble removing pieces from the gameboard – personally - and no trouble moving morality to suit his needs – or whoevers' paying her.
+While the Baron puts on a kind demeanor, Killrick Emm Glask has earned his name. She has no trouble removing pieces from the gameboard – personally - and no trouble moving morality to suit his needs – or whoever's paying her.
 
 ## Goals
 The Baron Glask wishes to expand the territory of the [[Riphounds]].

@@ -3,10 +3,10 @@ tags: npc
 aliases:
 ---
 # Bonj Harvord
-## Baron of New 
+## Baron of the [[Southern Quillbuck Jungle]]
 ### he/him
 
-> Boxtext for an action, outfit, and a physical trait.
+> A simple and dour man with coke-bottle glasses shrivels against his off-white suit. Looking at him, you would not think it, but this man has murdered more than a dozen people personally.
 
 A description of their function in the world.
 
