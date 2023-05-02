@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad19b34689ff22cf",
+            "id": "c5ab1352a3df28fe",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,6 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Democratic Combine of Peoples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":8},\"to\":{\"line\":23,\"ch\":8}},\"scroll\":13.181740143719841}"
                 },
                 {
                   "title": "Barons of Combine NPCs",
@@ -28,28 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e15c11f6e22fb49f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md",
+                "file": "Baron Havord.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,27 +101,6 @@
             }
           },
           {
-            "id": "6543e1cf1a5b5857",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "595d0fa258f68181",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -178,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+                "file": "Baron Havord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+                "file": "Baron Havord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
+                "file": "Baron Havord.md"
               }
             }
           }
@@ -391,14 +354,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e521a9577649cbb",
+  "active": "c5ab1352a3df28fe",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Baron Havord.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md",
+    "Baron Vannis.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
@@ -416,9 +382,6 @@
     "Game Notes/Mechanics/Mechanics.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Big Lore/Big Lore.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Game Notes/NPCs/Grandey, Young Bard.md",
-    "Golden Merchant's Company.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",
