@@ -9,7 +9,7 @@ aliases:
 #### VO EXAMPLE
 ![[Baron Shimmer VOX.webm]]
 
-> Wearing a brilliantly jeweled aqualater, 
+> Wearing a brilliantly jeweled aqualator, the Grand Admiral Shimmer is visually a stunning triton, with stunning fashion to boot - quite befitting her station.
 
 A description of their function in the world.
 
