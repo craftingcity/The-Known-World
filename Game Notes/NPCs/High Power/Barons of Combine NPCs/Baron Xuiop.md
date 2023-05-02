@@ -6,7 +6,7 @@ aliases:
 ## Baron
 ### they/them
 
-> A lumbering set of six limbs enters the room. They are furred in brown and end in a grip of razors. At this beasts center, a dull red glow eminates underneath its fur. With a deep bassy growl; "Greetings." 
+> A lumbering set of six limbs enters the room. They are furred in brown and end in a grip of razors. At this beasts center, a dull red glow emanates underneath its fur. With a deep bassy growl, the scaled head bellows greetings. 
 
 A description of their function in the world.
 

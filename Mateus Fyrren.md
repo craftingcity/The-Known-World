@@ -3,11 +3,11 @@ tags: npc
 aliases:
 ---
 # Mateus Fyrren
-## Simonson Party Cleric
+## Cleric of Taruin
 ## Second Saint in [[Order of Arthurian Saints|Arthur's Order]]
 ### they/them
 
-> A 
+> A triton form, standing some five feet tall, wearing plate-mail and a mace at their side. Their eyes glow a dull gold, completely devoid of traditional "read-ability".
 
 A description of their function in the world.
 

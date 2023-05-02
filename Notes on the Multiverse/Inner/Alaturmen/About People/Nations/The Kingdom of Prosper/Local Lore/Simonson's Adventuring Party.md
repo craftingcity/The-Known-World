@@ -1,3 +1,3 @@
 - [[Guraxlog]], War-Wizard
-- [[Big Buster]], Big Badass, 
-- [[Mateus Fyrren]]
+- [[Big Buster]], Big Badass
+- [[Mateus Fyrren]], Cleric of Taruin
