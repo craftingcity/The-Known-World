@@ -49,8 +49,8 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 
 - *Age* You do not age as mortals should. 
 	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
-	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
-	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
+	- You will, after many many years - though how many is quite uncertain - feel the urge, nay, the *need* to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
+	- A deep homesickness will beset you, and you **will** give in to this need, and you **will** travel North, beyond the Wildlands, and it is quite likely that **you will never be seen by a mortal again**.
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.

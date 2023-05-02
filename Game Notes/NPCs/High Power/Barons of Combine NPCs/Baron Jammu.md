@@ -18,7 +18,7 @@ aliases: Amethyst Jammu
 
 As a young dwarf, Amethyst Jammu was solely purposed with becoming a suitable heir to the throne of the [[Dwarven Kingdom Jammu]]. This was a position she molded into comfortably, though she still holds some resentment for her older mentors for expunging certain aspects of her younger personality.
 
-Amethyst's father was King of the [[Dwarven Kingdom Jammu]] and Baron of the [[Grumbling Hills]] for nearly a full century before he was assassinated by a xenophobic group of human militants who apposed the integration of the southern [[Castle Darnt]] into the Kingdom. After his assassination, the remnants of his cabinet regrouped, demolished the xenophobic militants, and installed Amethyst as the new Baron. 
+Amethyst's father, [[Arroit Jammu]] was King of the [[Dwarven Kingdom Jammu]] and Baron of the [[Grumbling Hills]] for nearly a full century before he was assassinated by a xenophobic group of human militants who apposed the integration of the southern [[Castle Darnt]] into the Kingdom. After his assassination, the remnants of his cabinet regrouped, demolished the xenophobic militants, and installed Amethyst as the new Baron. 
 
 For as long as she has been alive, she has been groomed to be the ruler of the [[Dwarven Kingdom Jammu]] after her father's death, and an advisor to a Human Baron, if such an occurrence comes to pass.
 

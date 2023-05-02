@@ -7,7 +7,7 @@ tags: timeline-labeled, bookkeeping
 ## The Time Before Time
 - Beings of this period cannot be destroyed; only replaced, changed, or banished.
 - Though the Time Before Time is numerically logged and charted, I, the writer of this setting, am a being who experiences time; the beings of the Time Before Time don't. Like, they still don't. Never will.
-- 
+
 ```timeline-labeled
 date: 99xxxTBT
 title: Three Fates Weave

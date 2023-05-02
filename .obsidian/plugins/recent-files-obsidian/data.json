@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Baron Jammu",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
+    },
+    {
       "basename": "Baron Yassir Cassindil",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Yassir Cassindil.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Nicolas Talaveem",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Southern Third",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
     },
     {
       "basename": "Barons of Combine NPCs",
@@ -165,10 +185,6 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Prenotes Apr 05 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Apr 05 23.md"
-    },
-    {
-      "basename": "Neranteen, the City of the Fishers",
-      "path": "Notes on the Multiverse/Outer/Abyss/Neranteen, the City of the Fishers.md"
-    },
-    {
-      "basename": "Dis Pater, Orcus Avatar",
-      "path": "Game Notes/NPCs/High Power/Dis Pater, Orcus Avatar.md"
-    },
-    {
-      "basename": "Cathouse Game",
-      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     }
   ],
   "omittedPaths": [],
