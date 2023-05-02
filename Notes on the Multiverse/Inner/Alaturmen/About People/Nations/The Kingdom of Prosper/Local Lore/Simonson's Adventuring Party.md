@@ -1,3 +1,3 @@
-	- [[Guraxlog]]
-	- [[Big Buster]]
-	- [[Mateus Fyrren]]
+- [[Guraxlog]], War-Wizard
+- [[Big Buster]], Big Badass, 
+- [[Mateus Fyrren]]

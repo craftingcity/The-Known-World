@@ -8,7 +8,7 @@ aliases:
 ### Located in [[Arthur's Prairie]], H-M24
 ## Description
 #### Population: 29,608
-### "The stone-walled heart of his Empire. A hard-stuck nail in soft wood. Only this nail-heart is filled with gold."
+### "The stone-walled heart of his Empire. A hard-stuck nail in soft wood. Only this nail-heart is made with gold."
 
 The village of Prosper has been around for as long as time has been, or, at least nearly so. The Castle Prosper became only after the liberation from [[Edward Bodaim]] and the beginning of the [[Unification]], and the resulting entity took the village's name; [[The Kingdom of Prosper]].
 
