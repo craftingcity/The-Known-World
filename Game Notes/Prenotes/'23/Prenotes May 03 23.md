@@ -32,10 +32,12 @@ we're gonna fight a bunch of minor deomns bird-people-things
 
 moses 22
 black
+4
 shu 17
 vix 16
 daelith 14
 orange
 dae shim 13
 inec 12
+black captain
 dot 3+
