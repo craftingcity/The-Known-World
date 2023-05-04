@@ -30,7 +30,9 @@ Emmela Glask was born somewhere in the south-east, some stories claim Beacon, ot
 Where the stories first agree is [[Asilar's Bounty]]; now known only as the gangster Killrick Emm Glask, he led a forceful takeover of the city, and she and his gang - the [[Riphounds]] - came to control all the major businesses and factions in the city. 
 
 ### The Bandit Baron
-With [[Asilar's Bounty]] as a forward operating post, Killrick continued to expand, and soon enough, she became the de-facto ruler of [[Barkryn]] and then eventually moved his seat of power into the larger city.
+With [[Asilar's Bounty]] as a forward operating post, Killrick continued to expand, and soon enough, she became the de-facto ruler of [[Barkryn]] and then eventually moved his seat of power into the larger city. 
+
+She has continued to push south as time has continued, and most recently - in the 98th year after [[Tetrimoc]]'s fall - conquered [[Beacon]], although he was unable to actually locate [[Baron Avory]] within the city.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
