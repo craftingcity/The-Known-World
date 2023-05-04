@@ -30,7 +30,7 @@ I can throw demons and devils at them, although canonically they are all Demons 
 
 we're gonna fight a bunch of minor deomns bird-people-things
 
-moses 22 (2)
+moses 22
 black
 4
 shu 17
@@ -40,3 +40,5 @@ orange
 dae shim 13
 inec 12
 dot 3+
+
+they won, they are still at the battlefield with the corpses of the birdthings, 
