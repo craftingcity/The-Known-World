@@ -14,7 +14,9 @@ aliases:
 ### Intro
 When last we left our heroes, they were in a less than ideal position. In a land they don't know, with rules they do not understand, the party has quested beyond the material plane of [[Alaturmen]] seeking the deity known as [[Orcus]]. 
 
-Since their arrival, they have created a small camp in the mountainside of the space they appeared into, fought two great beasts of hatred, slaying one and surviving the other. With little forward progress made, exploration seems to be the most pertinent course of action.
+Since their arrival, they have created a small camp in the mountainside of the space they appeared into, fought two great beasts of hatred, slaying one and surviving the other. After Moses communed with a dark smokey figure, the party moved to explore furthur into the city - with the knowledge that they may encounter more of these creatures - and they were in fact encountered by a vulture-esq humanoid species flying on patrol.
+
+Roll Initiative.
 
 ### What does the World Know?
 
@@ -28,3 +30,12 @@ I can throw demons and devils at them, although canonically they are all Demons 
 
 we're gonna fight a bunch of minor deomns bird-people-things
 
+moses 22
+black
+shu 17
+vix 16
+daelith 14
+orange
+dae shim 13
+inec 12
+dot 3+
