@@ -21,8 +21,8 @@ Since their arrival, they have created a small camp in the mountainside of the s
 
 I can pull on Moses because of his [[Marked By the Fire]] connection to [[Dis Pater, Orcus Avatar]].
 
-[[Neranteen, the City of the Fishers]] and [[Kuta'a, the City of Miners]] are holding two avatars, the third of which is being hosted in [[Kalariel's Tower]]. Orcus proper, the actual Faith-born manifestation, sits in the [[Seat of the Dead]]
+[[Neranteen, the City of the Fishers]] and [[Kuta'a, the City of Miners]] are holding two avatars, the third of which is being hosted in [[Kalariel's Tower]]. Orcus proper, the actual Faith-born manifestation, sits in the [[Seat of the Dead]], gorging himself on the souls of the chaotic.
 
-I can throw demons and devils at them, although canonically they are all Demons of Chaos rather than Devils of Evil, but the more interesting fauna would be the ghosts (who are now either miners or fishers or like, experiment fuel or just juice for Orcus in the [[Seat of the Dead]])
+I can throw demons and devils at them, although canonically they are all Demons of Chaos rather than Devils of Evil, but the more interesting fauna would be the ghosts (who are now either miners or fishers or like, experiment fuel or just juice for Orcus in the [[Seat of the Dead]]). 
 
 ### What happened?

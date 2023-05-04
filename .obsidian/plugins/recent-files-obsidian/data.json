@@ -5,6 +5,10 @@
       "path": "Prenotes May 03 23.md"
     },
     {
+      "basename": "Thanatos",
+      "path": "Notes on the Multiverse/Outer/Thanatos.md"
+    },
+    {
       "basename": "Neranteen, the City of the Fishers",
       "path": "Notes on the Multiverse/Outer/Abyss/Neranteen, the City of the Fishers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Northeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Kallo Vought",
-      "path": "Game Notes/NPCs/Mild Power/Kallo Vought.md"
     }
   ],
   "omittedPaths": [],

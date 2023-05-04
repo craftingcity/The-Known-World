@@ -39,6 +39,8 @@ MAJOR AS RELISTED:
 	- [[Kalariel's Tower]]
 	- [[Seat of the Dead]]
 
+The ghosts in this land, the civilians of transparent blue faith, are in most part easily controlled and manipulated by the Demons in this place. If they are not a slave to their work and their master, they are likely to be processed by their master, or their master's masters.
+
 ## Tables
 ### Encounter
 **Encounter Check:** 1 in 1d4
