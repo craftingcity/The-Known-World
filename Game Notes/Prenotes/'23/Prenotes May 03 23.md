@@ -30,9 +30,8 @@ I can throw demons and devils at them, although canonically they are all Demons 
 
 we're gonna fight a bunch of minor deomns bird-people-things
 
-moses 22
+moses 22 (1)
 black
-4
 shu 17
 vix 16
 daelith 14
