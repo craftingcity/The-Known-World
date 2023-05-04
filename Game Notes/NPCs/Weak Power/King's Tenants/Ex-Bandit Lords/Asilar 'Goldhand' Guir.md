@@ -11,7 +11,7 @@ A description of their function in the world.
 A politic of theirs that players would interact with.
 
 ## History
-Ex-[[Bandit Lords]] member turned famous thief and [[Notes on the Multiverse/Inner/Alaturmen/Places/Southeast Central/Lower Villages/Asilar's Bounty|settler]].
+Ex-[[Bandit Lords]] member turned famous thief and [[Asilar's Bounty]].
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.

@@ -24,7 +24,13 @@ Killrick wishes to hunt [[Baron Xuiop]] for his pelt; he thinks it would make a 
 How that goal could resolve when it is achieved (or failed, if this is considered a genuine possibility).
 
 ## History
-A general history of the character, from their conception to their current state
+### Early Life
+Emmela Glask was born somewhere in the south-east, some stories claim Beacon, others Barkryn, others Boneborn. Her parents are also an unknown in their story, and again many stories claim different heritages, but for what most people care - Emmela was a human. 
+
+Where the stories first agree is [[Asilar's Bounty]]; now known only as the gangster Killrick Emm Glask, he led a forceful takeover of the city, and she and his gang - the [[Riphounds]] - came to control all the major businesses and factions in the city. 
+
+### The Bandit Baron
+With [[Asilar's Bounty]] as a forward operating post, Killrick continued to expand, and soon enough, she became the de-facto ruler of [[Barkryn]] and then eventually moved his seat of power into the larger city.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
