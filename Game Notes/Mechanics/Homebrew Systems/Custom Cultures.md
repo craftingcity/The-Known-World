@@ -215,7 +215,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 
 ## Grovetender
 
-You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Yassir Cassindil]].
+You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Cassindil]].
 
 You gain +2 to your Wisdom Score and +1 to your Charisma Score. You are proficient in the Nature and Religion Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Druidic (language)]]

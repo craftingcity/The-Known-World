@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2acbd0c161c444a3",
+        "id": "4ffc7335ad2963a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f7eb863670b875",
+            "id": "6e7c1ac42a978804",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes May 03 23.md",
+                "file": "Baron Vannis.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "60b1238775b87f40",
+            "id": "000a5e42fd780060",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,13 +43,264 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a689693413bd21d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64bfc484037edc51",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0fb73121d6ba317",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3619f218c9f93e86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baron Havord.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5457e44efca37a1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "223df6c37846f1e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cd927fc547e64a03",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6891f1cb3583f6be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d5b6b2684c19d52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "8bb43cf331673485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b364b7270f40c2af",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Baron Havord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Baron Havord.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Barons of Combine NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":32},\"to\":{\"line\":1,\"ch\":32}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "595d0fa258f68181",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,14 +389,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "406546ae0673f073",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -178,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes May 03 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +447,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes May 03 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +488,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes May 03 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md"
               }
             }
           }
@@ -269,17 +512,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5f7eb863670b875",
+  "active": "5d5b6b2684c19d52",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
+    "Baron Havord.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md",
+    "Baron Vannis.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/The Legend of the Bandit Lords.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Prenotes/'23/Prenotes May 03 23.md",
     "Game Notes/Prenotes/'23/Prenotes Apr 12 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Westlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
@@ -288,15 +540,6 @@
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Notes on the Multiverse/Outer/Abyss/Neranteen, the City of the Fishers.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Game Notes/Prenotes/'23/Prenotes April 02 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Prenotes May 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
-    "Game Notes/Prenotes/'23/'23.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 11 23.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
-    "Baron Havord.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",

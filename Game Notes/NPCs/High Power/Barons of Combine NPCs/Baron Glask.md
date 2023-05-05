@@ -9,7 +9,6 @@ aliases:
 
 ![[Baron Glask VOX.webm]]
 
-
 > A beautifully crafted muscular form emerges from behind the styled door. Her dark pony-tailed hair flows long behind him. Her every muscle flexes as he walks calmly over. She is dressed past the nines and beyond the tens. He is beautiful. She is gradient. You behold the Baron Killrick Emm Glask.
 
 Killrick is the Baron of the "Middle" Eastlick

@@ -20,5 +20,6 @@ I need a Baron for the Westlick
 - Maintain control over the [[Westlick Mossland]]
 - Maintain control over the [[Slimknives]] leadership
 	- Leverage ties to the [[Guild of Merchants#Thieves Guild]] to poach talent
+- Reclaim [[Beacon]]
 #### Location
 [[Amourain#Benkaei Smoke-shop & Lounge]], her smoke-shop and lounge.

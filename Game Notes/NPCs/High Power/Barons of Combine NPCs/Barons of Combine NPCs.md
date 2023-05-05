@@ -1,14 +1,13 @@
 # Combine Rulers
 see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%
-- **[[Barons of Combine NPCs]]**
-	- [[Baron Avory]]
-	- [[Baron Filip]]
-	- [[Baron Glask]]
-	- [[Baron J'Tail]]
-	- [[Baron Jammu]]
-	- [[Baron Shimmer]]
-	- [[Baron Xuiop]]
-	- [[Baron Yassir Cassindil]]
+- [[Baron Avory]]
+- [[Baron Cassindil]]
+- [[Baron Filip]]
+- [[Baron Glask]]
+- [[Baron J'Tail]]
+- [[Baron Jammu]]
+- [[Baron Shimmer]]
+- [[Baron Xuiop]]
 
 %% End Waypoint %%
