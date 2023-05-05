@@ -218,7 +218,7 @@
             }
           },
           {
-            "id": "5d5b6b2684c19d52",
+            "id": "bb3dd4d7765e06a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -232,14 +232,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "8bb43cf331673485",
@@ -421,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -447,7 +447,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -488,7 +488,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md"
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
               }
             }
           }
@@ -512,10 +512,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d5b6b2684c19d52",
+  "active": "6891f1cb3583f6be",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Baron Havord.md",
@@ -538,8 +540,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Farrow Watch.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Asilar 'Goldhand' Guir.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
-    "Notes on the Multiverse/Outer/Abyss/Neranteen, the City of the Fishers.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland",

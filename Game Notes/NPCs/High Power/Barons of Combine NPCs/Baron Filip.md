@@ -19,7 +19,9 @@ Leader of the [[Knights in Red]], and Baron of [[Huntyr Swamp]].
 ### Background
 #### Early Life
 
-Issac Filip was born and raised in the [[Huntyr Swamp]] in the early 040s to a family of rebel-profiteers. His parents instilled in him the mindset of a power-player, and the privileges he was afforded due to his family's economic position allowed him to earn an education in the north. Upon his return to the Swamps, he was distraught to learn that his homeland had become 
+Issac Filip was born and raised in the [[Huntyr Swamp]] in the early 040s to a family of rebel-profiteers. His parents instilled in him the mindset of a power-player, and the privileges he was afforded due to his family's economic position allowed him to earn an education in the north. Upon his return to the Swamps, he was distraught to learn that his homeland had become home to the horrible [[Detraminx]].
+
+#### Liberating Red Throne
 
 
 

@@ -3,7 +3,7 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of [[South]]
+#### A sub-region of [[Southeastern Central]]
 ## Boundaries
 ## Contents
 ### Flora
