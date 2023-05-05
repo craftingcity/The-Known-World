@@ -41,4 +41,4 @@ dae shim 13
 inec 12
 dot 3+
 
-they won, they are still at the battlefield with the corpses of the birdthings, 
+they won, they are still at the battlefield with the corpses of the birdthings, they have some kind of missive from the city
