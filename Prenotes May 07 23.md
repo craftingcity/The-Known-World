@@ -19,5 +19,8 @@ As the sun rises in the east, alighting the globe atop the Golden City barely vi
 
 ### What does the World Know?
 
+We are entering [[Lord's Folly#AE2. Temple to Hades]]. We have a few different teams in the mix for this dungeon; 
+
+First, the 6 noble thieves. 4 from Cobalt's group () and 2 from Agrandica's - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area.
 
 ### What happened?
