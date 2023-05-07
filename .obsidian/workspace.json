@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14786ff0fb83c374",
+        "id": "64d3b783cfa7b882",
         "type": "tabs",
         "children": [
           {
-            "id": "002468f65dfcb62e",
+            "id": "c891b29679da144b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Lord's Folly",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -29,27 +23,6 @@
               "type": "markdown",
               "state": {
                 "file": "Prenotes May 07 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a2ca063b9671e4e8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,6 +115,14 @@
             },
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "52f1f57a72d7de6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -284,14 +265,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "002468f65dfcb62e",
+  "active": "c891b29679da144b",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Prenotes May 07 23.md",
-    "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md",
     "The Tales of Big Buster Badass.md",
+    "Prenotes May 07 23.md",
     "Order of Arthurian Saints.md",
     "Notes on the Multiverse/Big Lore/Ancoris Templum.md",
     "Mateus Fyrren.md",
@@ -312,6 +292,7 @@
     "Baron Havord.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
+    "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
