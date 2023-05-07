@@ -21,6 +21,8 @@ As the sun rises in the east, alighting the globe atop the Golden City barely vi
 
 We are entering [[Lord's Folly#AE2. Temple to Hades]]. We have a few different teams in the mix for this dungeon; 
 
-First, the 6 noble thieves. 4 from Cobalt's group () and 2 from Agrandica's - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area.
+First, the 6 noble thieves. 4 from Cobalt's group (Batii the Calm, Heaver the Dreader, Mol the Restless, Vander the Strong) and 2 from Agrandica's (Gyan the Wracked and Vlal the Honorable) - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area at the behest of the Guilds and their immediate superiors. They are currently keeping quiet in the bottom of the crypts room, and all of them have some manner of exhaustions. If necessary they will fight or work with the party, whatever will get everyone out as alive as possible (everyone on my team at least)
+
+Second, the fanatics and undeadsiz. We can spread the undead on both the upper floors and some in the lowest, but the ratio of fanatics to undead should increase in favor of fanatics (some) as we keep going lower.
 
 ### What happened?
