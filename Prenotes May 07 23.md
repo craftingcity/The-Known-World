@@ -30,7 +30,7 @@ Second, the fanatics and undeadsiz. We can spread the undead on both the upper f
 they are exploring the temple, the reliefs generally support the timeline that the cult has been around for a couple dozen years
 
 
-
+skeletons in the pools
 
 jerran 22
 ulfgar 13
