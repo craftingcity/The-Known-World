@@ -28,3 +28,12 @@ Second, the fanatics and undeadsiz. We can spread the undead on both the upper f
 ### What happened?
 
 they are exploring the temple, the reliefs generally support the timeline that the cult has been around for a couple dozen years
+
+
+
+
+jerran 22
+ulfgar 13
+skeletons 10
+nala 6
+breenabell 5
