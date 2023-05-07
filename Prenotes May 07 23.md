@@ -26,3 +26,5 @@ First, the 6 noble thieves. 4 from Cobalt's group (Batii the Calm, Heaver the Dr
 Second, the fanatics and undeadsiz. We can spread the undead on both the upper floors and some in the lowest, but the ratio of fanatics to undead should increase in favor of fanatics (some) as we keep going lower.
 
 ### What happened?
+
+they are exploring the temple, the reliefs generally support the timeline that the cult has been around for a couple dozen years

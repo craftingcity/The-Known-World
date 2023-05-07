@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Prenotes May 07 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "file": "Prenotes May 07 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
+                "file": "Prenotes May 07 23.md"
               }
             }
           },
@@ -314,8 +313,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2ef525f56664968",
+  "active": "c891b29679da144b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Prenotes May 07 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
@@ -341,7 +341,6 @@
     "Big Buster.md",
     "Baron Vannis.md",
     "Baron Havord.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
