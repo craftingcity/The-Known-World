@@ -41,4 +41,4 @@ Beginning in [[Emorin's Plots]], travel North into [[Magius]] against the curren
 ### Democratic Combine of Peoples
 ### Holyl'nds
 ### Tetrimoc's Desert
-#### Three Thieves Ways
+#### Civilized Round
