@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5e1dd7356d4632",
+        "id": "90a5f9b9f4da9e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "776e498a67cb50d4",
+            "id": "80a073b1cde6d5d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,6 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Who has a Horde",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":111},\"to\":{\"line\":16,\"ch\":111}}}"
                 },
                 {
                   "title": "Graph view",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:bookkeeping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
               }
             }
           },
@@ -271,8 +277,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "776e498a67cb50d4",
+  "active": "80a073b1cde6d5d7",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Prenotes May 07 23.md",
@@ -297,8 +305,6 @@
     "Game Notes/NPCs/Grandey, Young Bard.md",
     "Game Notes/Campaign Rosters/Party of Grandparents House.md",
     "Big Buster.md",
-    "Baron Vannis.md",
-    "Baron Havord.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
