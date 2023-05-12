@@ -40,7 +40,7 @@ Beef and Cow's dairy are highly prized, and so too are good oils from the south.
 ### Vices
 Culturally, it is unacceptable to be less than fully lucid - ever watching for our enemy the White Flame, but this does not mean there is not a large market for Vice in Cenva Minyo;
 
-Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are available for bargain if you know who and where to ask.
+Smokebulb, Bulbkiss, Cannabis, Tabacco, Alcohol, Lephora Essence, Dareanamon, Nova, Sex, and any number of fetishes are available for bargain if you know who and where to ask.
 
 ### Land
 While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. 
@@ -48,7 +48,7 @@ While there is no *official* civil structure of Cenva Minyo, a council of elders
 As of now, there is no manner other than "conquer and hold" land of your own, and even then, your neighbor needs as you do, and it is your duty as living kin to provide. 
 
 ### Overhead
-The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privatized wealth.
+The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to mass privatized wealth.
 
 Where other cultures use powerful people or animals, Cenvans once again subvert the norm and rely on their alliances; Cenvan farms and construction use Artifice to perform these necessary super-humanoid feats. Often, this is of Dwarven in heritage, but Elven Artifice is equally present & productive.
 
