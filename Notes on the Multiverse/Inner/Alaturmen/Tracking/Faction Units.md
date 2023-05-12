@@ -9,10 +9,19 @@
 ----
 # Guilds of Coalition
 ### HQ
-#### 
+#### Guildcaptain
+#### Commander On Battle
+#### Field Command Squad
+#### Field Wizard
 ### TROOPS
+#### Levies
+#### Veterans
 ### ELITES
+#### Engineering Crew
+#### Divine Enforcers
+#### Kitted Adventures
 ### FAST
+#### 
 ### HEAVY
 ### TRANSPORT
 ### SUPPORT
