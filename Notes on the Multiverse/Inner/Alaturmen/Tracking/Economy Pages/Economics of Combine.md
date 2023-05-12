@@ -8,10 +8,10 @@ aliases:
 ### Prelim
 While each state of Combines varies in their favors and productions, this page paints the broad strokes of the Combine's economy.
 
-Combine is a warm and wet place, magically infused with ancient elven and druidic magics.
+Combine is a warm and wet place, magically infused with ancient druidic magics that make the flora in the area of a spectacular quality.
 
 ### Rice
-Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many dishes!
+Rice! Gods bless Rice! On its own, sauced, in risotto, sushi, pudding, so many dishes! White rice grows in large swath
 
 ### Food
 What lives here?

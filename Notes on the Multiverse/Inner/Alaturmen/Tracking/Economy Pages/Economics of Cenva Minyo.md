@@ -62,7 +62,7 @@ The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
-What little trade does happen between Cenva Minyo and another faction is exclusively a mutually beneficial relationship - whats the long term, why us, why you, how, etc. Between Cenvan themselves, "trade" is cuturally necessary.
+What little trade does happen between Cenva Minyo and any other faction is exclusively a mutually beneficial relationship; whats the long term, why us, why you, how do we make this work for both of us, etc. Between Cenvan themselves, "trade" is cultural necessary.
 
 Those folk who craft specialty items share their knowledge freely to all who wish to learn and can prove themselves worthy to hold the power that the knowledge they keep wields.
 
@@ -85,10 +85,12 @@ Winter is a harsh season for Cenvans, and many cities must resort to sending som
 When containing large quantities of edibles or other goods, wood is the prefered storage material; be it barrels crates, chests, etc. Typically, Cenvans prefer the natural re-usable container.
 
 ### Mining
-Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow]], all the metals used in Cenva Minyo come from the Hills to the north.
+Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow]], all the metals used in Cenva Minyo come from the Hills to the north or is locally harvested in one of their Clan's mines.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
+
+Many of the people of Cenva mInyo are minor Artificers by trade; either in the creation of elvenfiber, the use of automata in otherwise mundane work, or the production and creation of these  tools. In addition, many people learn a style of magic specifically developed and used to fight against the [[Its Greatness|White Flame]].
 
 ### Other Notes
 - 
