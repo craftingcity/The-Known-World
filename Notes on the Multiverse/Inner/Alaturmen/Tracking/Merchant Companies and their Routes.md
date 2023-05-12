@@ -28,10 +28,16 @@ While almost all general stores could be considered merchant companies, we will 
 
 # Merchant Routes
 ## International Routes
-#### Dorrik's Loop (Extended)
-Beginning in [[Coalition City]], travel North along *Spineroad* until you arrive at [[Yerba]]. Continue North along *Spineroad* into [[Gambleum]]. Travel East-South-East along the *Biteride Trail* into [[Janesland]]. 
+
+
 ## Intranational Routes
 ### Kingdom of Prosper
+#### Dorrik's Loop (Extended)
+Beginning in [[Coalition City]], travel North along *Spineroad* until you arrive at [[Yerba]] and the *Broken Rib Road*. Continue North along *Spineroad* into [[Gambleum]]. Travel East-South-East along the *Biteride Trail* into [[Janesland]]. Travel South into [[Magius]] and [[Castle Prosper]], following the *Ribbed Lane* until you again reach *Broken Rib Road*. Continue South past the hills of the [[Deakred Range]] into [[The Democratic Combine of Peoples]] before returning North to [[Coalition City]].
+
+#### Crouching River Hidden Profits
+Beginning in [[Emorin's Plots]], travel North into 
+
 ### Democratic Combine of Peoples
 ### Holyl'nds
 ### Tetrimoc's Desert
