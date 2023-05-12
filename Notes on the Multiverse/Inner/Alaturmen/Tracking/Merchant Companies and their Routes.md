@@ -36,8 +36,9 @@ While almost all general stores could be considered merchant companies, we will 
 Beginning in [[Coalition City]], travel North along *Spineroad* until you arrive at [[Yerba]] and the *Broken Rib Road*. Continue North along *Spineroad* into [[Gambleum]]. Travel East-South-East along the *Biteride Trail* into [[Janesland]]. Travel South into [[Magius]] and [[Castle Prosper]], following the *Ribbed Lane* until you again reach *Broken Rib Road*. Continue South past the hills of the [[Deakred Range]] into [[The Democratic Combine of Peoples]] before returning North to [[Coalition City]].
 
 #### Crouching River Hidden Profits
-Beginning in [[Emorin's Plots]], travel North into 
+Beginning in [[Emorin's Plots]], travel North into [[Magius]] against the current of the *Rootlake's Feed*. Continue against the current West into [[Moonlight]]. Charter the vessel with a skeleton crew into [[Coalition City]] along *Rootlake's Feed* and then *Lakelanes*. Travel South into [[Yerba]] along *Spineroad*, and continue into [[Coalition City]]. Reclaim your vessel and crew, and return to [[Emorin's Plots]].
 
 ### Democratic Combine of Peoples
 ### Holyl'nds
 ### Tetrimoc's Desert
+#### Three Thieves Ways
