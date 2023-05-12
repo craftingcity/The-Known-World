@@ -14,6 +14,7 @@ aliases:
 	- [[Emergency Communicae c. 103AF]]
 	- [[Laws of Adventuring]]
 	- [[On Peoples Involved with Arthur Simonson]]
+	- [[On the Hum Arcani; Guild Position]]
 	- [[On The Text of Tetrimoc; Guild Position]]
 	- [[Politics of Coalition c. 078AF - 092AF]]
 - [[His Greater Plan]]
@@ -26,6 +27,7 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Texts Druidic]]
 - [[The Code of Thieves]]
+- [[The Tales of Big Buster Badass]]
 - [[Wargods without War]]
 
 %% End Waypoint %%
