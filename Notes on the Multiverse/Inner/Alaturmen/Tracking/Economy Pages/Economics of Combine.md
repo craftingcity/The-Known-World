@@ -96,7 +96,7 @@ The fruits and bugs of the region make most colors of dye accessible to people i
 ### Preservation
 What is being preserved, how, with what, in where? Are these methods suitable for the climate? How good is it? How do people get through winter? 
 
-Meat is typically smoked or dried with some fruit into a pemmican. Cheese is a delicacy here. Fruits are often dried on their own, or into pemmican, or preserved into a jelly, jam, or spirit. Vegetables are typically preserved in fruit vinegars, and while these flavors are quite vibrant and novel, they are not typically considered "tasty", leading to a .
+Meat is typically smoked or dried with some fruit into a pemmican. Cheese is a delicacy here. Fruits are often dried on their own, or into pemmican, or preserved into a jelly, jam, or spirit. Vegetables are typically preserved in fruit vinegars, and while these flavors are quite vibrant and novel, they are not typically considered "tasty", leading to a cultural disapproval of this method.
 
 ### Containers
 Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. Dark glasses are the most preferable container for liquids – clear glass is a sign of wealth or companionship – or ceramics, if glass is inaccessible or an improper material.
