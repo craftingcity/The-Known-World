@@ -99,9 +99,7 @@ What is being preserved, how, with what, in where? Are these methods suitable fo
 Meat is typically smoked or dried with some fruit into a pemmican. Cheese is a delicacy here. Fruits are often dried on their own, or into pemmican, or preserved into a jelly, jam, or spirit. Vegetables are typically preserved in fruit vinegars, and while these flavors are quite vibrant and novel, they are not typically considered "tasty", leading to a cultural disapproval of this method.
 
 ### Containers
-Most people in the combine use bags of hemp and leather to store loose goods, and stow items in wooden boxes or chests when they are not in use. Dark glasses are the most preferable container for liquids – clear glass is a sign of wealth or companionship – or ceramics, if glass is inaccessible or an improper material.
-
-The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers.
+The Peoples of Combine are typically reserved to display what they may or may not have, as one can never be too sure that an enemy isn't about. This paranoia incidentally leads to the use of opaque, reusable containers such as bags of hemp or leather to store loose goods, wooden boxes or chests to store larger or complete items. Dark glass is the most preferable container for liquids – clear glass is a sign of wealth – or ceramics, if glass is inaccessible or an otherwise improper material.
 
 ### Mining
 Copper and Tin can be mined in some large amounts in the area of the Combine, but what little other metal ores are present require specialized processing to separate from "nature", such as bog iron and by-product gold. 
@@ -111,7 +109,9 @@ There is little interest in purely-Combine produced metals, as imports are typic
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
-This area has an unnatural fertility, plants grow very fruitfully here even when improperly tended. Some larger villages and most cities have access to waterways that power all the automation that the people can build, including mills, plumbing, and in rare cases even forms of public transportation. Often smaller villages or large villages without a waterway rely on large wind turbines for their mills and do not have those above benefits.
+This area has an unnatural fertility, plants grow very fruitfully here even when improperly tended. Some larger villages and most cities have access to waterways that power all the automation that the people can build, including mills, plumbing, and in rare cases even forms of public transportation. 
+
+Often smaller villages or large villages without a waterway rely on large wind turbines for their mills and do not have those above benefits.
 
 ### Other Notes
 - 

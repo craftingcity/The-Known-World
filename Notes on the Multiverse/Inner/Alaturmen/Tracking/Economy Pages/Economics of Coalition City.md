@@ -9,7 +9,7 @@ aliases:
 [[Coalition City]] is a metropolis set into a massive mountain range. In general, most items are imported rather than produced. Those foods that are actually produced here are not a part of  industrialized processes.
 
 ### "Bread"
-Bread plays it's role in Coalition City, and given it's importance to trade in the area, Coalition City has access to most other culture's staples. For most folks in the city, from the lower to middle classes, Rye is the flour of choice.
+Bread plays it's role in Coalition City, and given it's importance to trade in the area, Coalition City has access to most other culture's staples. For most folks in the city - the lower to middle classes - Rye is the flour of choice.
 
 ### Food
 What lives here?
