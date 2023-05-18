@@ -27,3 +27,4 @@ they headed deeper into the city
 
 > Giant gorilla eating ghost people, used spell to get through, go around or dont go. Wizards are corrupt, fuck this place, we are leaving, ttyl
 
+they head beyond the city after sending Grande's message in search of the 
