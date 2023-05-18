@@ -30,3 +30,11 @@ they headed deeper into the city
 they head beyond the city after sending Grande's message in search of the "bridge that will take us beyond here" - they are pretty pissed at the Wizards for sending them here without like, any information. 
 
 the only thing that we'll need from the party is a set of coins each for [[Karenos, River's Keeper]] to transport them back home.
+
+Alpha
+Daelith
+Beta
+Omega
+Vix
+Inec
+Moses
