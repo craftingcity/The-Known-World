@@ -24,3 +24,6 @@ moses has a mark and pull towards [[Dis Pater, Orcus Avatar]]
 ### What happened?
 
 they headed deeper into the city
+
+> Giant gorilla eating ghost people, used spell to get through, go around or dont go. Wizards are corrupt, fuck this place, we are leaving, ttyl
+
