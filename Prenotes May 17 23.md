@@ -1,0 +1,24 @@
+---
+tags: notes
+aliases:
+---
+
+# Prenotes for May 17th
+- [ ] DM Screen
+- [ ] Notepaper
+- [ ] Prep
+	- [ ] maps?
+	- [ ] encounters / monsters?
+	- [ ] intro / recap?
+
+### Intro
+
+When last we left our heroes, they had survived an attack by a patrol of vulture-esq creatures on their way into the one city they know of in this area. For one reason or another, the group has decided to split into two groups of 4 - yourselves, grouping together. Moses - your communion with the entity you have discovered within yourself has given you the knowledge that you would make progress by continuing into the city ahead. I ask you now, with your companions behind you, what do you do?
+
+### What does the World Know?
+
+jack shit
+
+moses has a mark and pull towards [[Dis Pater, Orcus Avatar]]
+
+### What happened?
