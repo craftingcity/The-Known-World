@@ -33,7 +33,7 @@ the only thing that we'll need from the party is a set of coins each for [[Karen
 
 Alpha 7 13
 Daelith
-Beta (oiled) 9
+Beta (oiled) 9 16 24 29
 Omega 4 9
 Vix (prot good evil)
 Inec
