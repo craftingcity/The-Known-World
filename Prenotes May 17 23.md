@@ -31,9 +31,9 @@ they head beyond the city after sending Grande's message in search of the "bridg
 
 the only thing that we'll need from the party is a set of coins each for [[Karenos, River's Keeper]] to transport them back home.
 
-Alpha 7
+Alpha 7 13
 Daelith
-Beta (oiled)
+Beta (oiled) 9
 Omega 4 9
 Vix (prot good evil)
 Inec
