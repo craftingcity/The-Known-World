@@ -33,8 +33,8 @@ the only thing that we'll need from the party is a set of coins each for [[Karen
 
 Alpha
 Daelith
-Beta
-Omega
+Beta (oiled)
+Omega 4 9
 Vix
 Inec
 Moses
