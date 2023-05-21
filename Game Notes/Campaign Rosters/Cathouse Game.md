@@ -7,15 +7,16 @@ aliases:
 ## People
 Dae Shim
 Dot
-Vix
-Daelith
-Moses (mia)
 Shu
+Ren
+Vix
+Daelith (kia)
+Moses
 Inec
 
 ### Trusted Allies
 ### Mortal Adversaries
 ### Faction Reputation
 ## Places
-[[Yerba]]
+[[Yerba]], [[Thanatos]]
 ### Scenarios Changed
