@@ -4,11 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "414f4167ff2f28b9",
+        "id": "0b37f18fdc6cbed5",
         "type": "tabs",
         "children": [
           {
-            "id": "7246576e13c7d1aa",
+            "id": "d140ea6422c3beaf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bbb7892d8a090c8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,13 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -265,8 +283,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7246576e13c7d1aa",
+  "active": "9bbb7892d8a090c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Eladrithal Greystone.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
     "Prenotes May 07 23.md",
     "Game Notes/NPCs/List of Names.md",
@@ -291,8 +311,6 @@
     "Big Buster.md",
     "Baron Vannis.md",
     "Baron Havord.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
