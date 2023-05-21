@@ -2,11 +2,9 @@
 tags: region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# Actstow Hills
+#### A sub-region of [[Northeastern Central]]
 ## Boundaries
-*Mechanical Size:* 18lh
-
 ## Contents
 ### Flora
 ### Scenarios

@@ -40,7 +40,7 @@ Beef and Cow's dairy are highly prized, and so too are good oils from the south.
 ### Vices
 Culturally, it is unacceptable to be less than fully lucid - ever watching for our enemy the White Flame, but this does not mean there is not a large market for Vice in Cenva Minyo;
 
-Smokebulb, it's daughter - Bulbkiss, Cannabis, Tabaco, Alcohol, Lephora Essance, Dareanamon, Nova, Sex, and any number of fetishes are available for bargain if you know who and where to ask.
+Smokebulb, Bulbkiss, Cannabis, Tabacco, Alcohol, Lephora Essence, Dareanamon, Nova, Sex, and any number of fetishes are available for bargain if you know who and where to ask.
 
 ### Land
 While there is no *official* civil structure of Cenva Minyo, a council of elders holds a massive force of power, so much so that if they *were* to assign lands, they could. 
@@ -48,7 +48,7 @@ While there is no *official* civil structure of Cenva Minyo, a council of elders
 As of now, there is no manner other than "conquer and hold" land of your own, and even then, your neighbor needs as you do, and it is your duty as living kin to provide. 
 
 ### Overhead
-The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to privatized wealth.
+The lack of a civil structure further lacks a formalized tax structure, but the culture of Cenva Minyo promotes community service and kinship so much so that this lack of tax structure does not lead to mass privatized wealth.
 
 Where other cultures use powerful people or animals, Cenvans once again subvert the norm and rely on their alliances; Cenvan farms and construction use Artifice to perform these necessary super-humanoid feats. Often, this is of Dwarven in heritage, but Elven Artifice is equally present & productive.
 
@@ -62,7 +62,7 @@ The luxuries of Cenva Minyo are small and meaningful, or culturally unacceptable
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
-What little trade does happen between Cenva Minyo and another faction is exclusively a mutually beneficial relationship - whats the long term, why us, why you, how, etc. Between Cenvan themselves, "trade" is cuturally necessary.
+What little trade does happen between Cenva Minyo and any other faction is exclusively a mutually beneficial relationship; whats the long term, why us, why you, how do we make this work for both of us, etc. Between Cenvan themselves, "trade" is cultural necessary.
 
 Those folk who craft specialty items share their knowledge freely to all who wish to learn and can prove themselves worthy to hold the power that the knowledge they keep wields.
 
@@ -85,10 +85,12 @@ Winter is a harsh season for Cenvans, and many cities must resort to sending som
 When containing large quantities of edibles or other goods, wood is the prefered storage material; be it barrels crates, chests, etc. Typically, Cenvans prefer the natural re-usable container.
 
 ### Mining
-Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow]], all the metals used in Cenva Minyo come from the Hills to the north.
+Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow]], all the metals used in Cenva Minyo come from the Hills to the north or is locally harvested in one of their Clan's mines.
 
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
+
+Many of the people of Cenva mInyo are minor Artificers by trade; either in the creation of elvenfiber, the use of automata in otherwise mundane work, or the production and creation of these  tools. In addition, many people learn a style of magic specifically developed and used to fight against the [[Its Greatness|White Flame]].
 
 ### Other Notes
 - 

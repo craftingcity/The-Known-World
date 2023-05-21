@@ -28,13 +28,13 @@ Small amounts of true grains could be found for use in delicacy, but not in larg
 #### Fruit
 While soil and temperature can be controlled, space is an issue for growing Fruit in Actstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
 
-Emerging avocado make for efficient and desirable fruits, and peanuts and oranges are also locally grown fruits. Pears, Apples, Grapes, Cherries and Berries are imported from many neighboring states. Almonds are imported from the east, and are as expensive as they should be for their demand and distance from their sources.
+Emerging avocado make for efficient and desirable fruits, and peanuts and oranges are also locally grown. Pears, Apples, Grapes, Cherries and Berries are imported from many neighboring states. Almonds are imported from the east, and are as expensive as they should be for their demand and distance from their sources.
 
 #### Vegetable
-Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Actstow. Dense leafy greens like Cabbage and Lettuce grow well under these conditions as well. Special case is extended to Mushrooms and Squash who can handle Actstow's rough raw soil.
+Roots – such as Carrots, Turnips, Radishes – and Tubers – such as Potatoes, Yams, Taro – grow well in the limited space of Actstow. Dense leafy greens like Cabbage and Lettuce grow well under these conditions as well. Special case is extended to Mushrooms and Squash who can handle Actstow's rough raw soil and either make for a fine "off-season" crop.
 
 #### Spice and Oil
-Locally grown Beets make Sugar. This sugar and rock salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods, and expensive Oils are imported from the south. 
+Locally grown Beets make Sugar. This sugar and the locally mined rock salt are the two most common spices and preservatives in Actstow. Avocado and Peanuts make fine oils when processed by the hill dwarves' enhanced methods, and expensive Oils are imported from the south. 
 
 Ginger and Parsley are native to the region and grow well in the limits of Actstow's greenhouses. Garlic and Onion does not taste desirable when grown under any reasonable conditions in Actstow, but they are imported from the east cheaply alongside Mint and Cinnamon. Peppercorn, Lemongrass, and Lavender are all low supply commodities imported from the west. The even more expensive Southern spices (wow, many demand), such as Nutmeg, Cumin, Paprika, Sage, Jasmine, Wasabi, and Basil are rarer, but still accessible to those with the right connections.
 
@@ -102,7 +102,7 @@ Much of the hills in this place are dense in ore and mineral. The separation of 
 ### Magic / Technology
 Oh, ho-ho! Let me tell you about the magic of the Dwarven Kingdom of Actstow. The pots that the farmers grow their foods in are enchanted by their creators. The tools are too, as are the rooms – climate control, remember – and many of the complex mechanisms that move the dwarves and supplies around the Hills.
 
-Speaking of those mechanisms, systems of elevators, large pneumatic delivery systems, minor automatons of gear and gem. The poor of Actstow are very poor, but a large middle class lives a comfortable life under the rule of the Clans serving the King.
+Speaking of those mechanisms, systems of elevators, large pneumatic delivery systems, minor automatons of gear and gem. The poor of Actstow are very poor, but a large middle class lives a comfortable auto-capitalist life under the rule of the Clans serving the King.
 
 ### Other Notes
 - 

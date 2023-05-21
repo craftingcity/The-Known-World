@@ -14,22 +14,24 @@ The Bluecap mushrooms cultivated in Mountain Hall make a thick musky flour. Most
 ### Food
 What lives here?
 #### Meat
-Goats, Chicken, and Wurm are husbanded in Mountain Hall. They are fed moss, insects, squash rinds, and other wastes. Beef is imported from the north.
+Goats, Chicken, and Wurm are husbanded in Mountain Hall. They are fed moss, insects, squash rinds, and other wastes. Beef, when imported from the north, is a considerably expensive choice.
 
 #### Dairy
-Goat's milk and cheese are the locally produced dairy. Eggs are produced en mass by chicken.
+Goat's milk and cheese are the locally produced dairy. Eggs, while less potent, are produced on mass by the large chicken farms the Clans own.
 
 #### Grain
-Bluecap Mushroom creates a crumbly musky flour. Other grains are imported, but they are expensive compared to Bluecap. Some people of means can consistently eat non-bluecap grains for some time, but this is unsustainable.
+Bluecap Mushroom creates a crumbly musky flour. Other grains are imported, but they are considerably expensive compared to Bluecap. Some people of means can consistently eat non-bluecap grains for some time, but this is nearly always unsustainable.
 
 #### Fruit
-Avocados and Almonds are grown in massive orchards, but these are the only fruit that grow in this region. Many fruits are imported from the south and the east, but these are quite expensive because of the King's tariffs.
+Avocados and Almonds are grown in massive orchards, but these are the only fruit that grow in this region. Many fruits are imported from the south and the east, but these are made expensive by the King's tariffs.
 
 #### Vegetable
-Many types of Mushroom are grown in Mountain Hall. Squash and Cabbage are also grown here. Beans are a rotation crop and are considered acceptable as food for the people. Some vegetables are imported, but there is little demand for non-local vegetables.
+Many types of edible Mushroom are grown in Mountain Hall. Squash and Cabbage too are grown here. Beans act as a rotation crop and are considered acceptable as food for the people. Sometimes other vegetables are imported, but there is little demand for these non-local vegetables.
 
 #### Spice and Oil
-Locally, the only available spices and oils are rock salt and avocado oil. Rock salt is mined from Mountain Hall's depths. Avocados are pressed into oil as an industry in this region. Many Oils and Spices are imported from the south. These are not as heavily tarriffed as fruit.
+Locally, the only available spices and oils are rock salt and avocado oil. Rock salt is mined from Mountain Hall's depths. Avocados are pressed into oil as an industry in this region. 
+
+Otherwise, many Oils and Spices are imported from the south. These are not as heavily tarriffed as fruit, leading to these three items appearing similar in value to the common people.
 
 #### Delicacy
 The prime delicacy of Mountain Hall is the chevron-bluecap kabasa. It is often served with beans, squash, and some types of mushroom and is traditionally spiced with salt, pepper, paprika, lavander, and nutmeg.
@@ -44,7 +46,7 @@ Brothels in Mountain Hall are well maintained, even without the assistance of th
 ### Land
 Think about how people get their land, from who, and what features would there be?
 
-The King of [[Mountain Hall]] owns all the land in the [[Dwarven Kingdom Suremantle]] - mountain dwarves of this region dig into the mountains of the [[Deakred Range]]. Citizens often craft their homes and those of their neighbors. 
+The King of [[Mountain Hall]] owns all the land in the [[Dwarven Kingdom Suremantle]] and leases portions of it to each of the Clans. Citizens will often craft their homes and those of their neighbors. 
 
 ### Overhead
 What about taxes? Work animals? Buildings? Productions?
@@ -55,6 +57,8 @@ Domesticated Wurm are the most common work animal, and are common companions of 
 
 ### Cutting Corners
 How do people make ends meet? How do people value their luxuries?
+
+In many instances, the poorest citizens of Mountain Hall suffer from scurvy, leading to a spiral that ends in their death. If one wishes to, say, not die of scurvy, the army of your local Clan is an honest if not safe option that solves many of the issues present in a privatized life in Mountain Hall.
 
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?

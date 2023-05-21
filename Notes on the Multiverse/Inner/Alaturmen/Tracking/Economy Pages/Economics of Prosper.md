@@ -61,12 +61,12 @@ Often, in addition to the "average", farms in Prosper have dairy working sheds, 
 The king's tax is one-twelfth to the army, one-eleventh to the poor, and one-thirteenth to the nobility. To enforce this law, the king hires tax-collectors capable of detecting lies with certainty and striking with power – ie with magical means. These tax collectors are respected more than feared to the honest folk of Prosper.
 
 ### Cutting Corners
-The people of Prosper are practical, they eat cheap grains and meats in cheap dishes. Most people make their own clothes and grow their own spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another – they "do as the King would do".
+The people of Prosper are practical, they eat cheap grains and meats in cheap dishes. Most people make their own clothes and grow their own spices, or can get them in trade with a neighbor on the cheap. Few people are unwilling to help another – they "do as the King would do". Altogether, this means that the lower and middle classes generally have a lower wealth disparity than the richer nobles and merchants.
 
 ### Middlemen
-Prosper is positioned in the second best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner can buy a small collection of novel spices for a season alongside their staples at festival markets.
+Prosper is positioned in the second-best position for trade, lagging only slightly behind the prime real estate that is Coalition City, and it has established trade roads, meaning that cities have huge marketplaces of products from around Alaturmen. Often, a commoner can buy a small collection of novel spices for a season alongside their staples at festival markets.
 
-Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other regions. The people of would like things to stay the way they are instead of paying seemingly unnecessary fees for "transportation" or false "luxury".
+Merchants are generally considered leeches, and people of Prosper prefer to buy from the source or as close to it as possible. The Guild of Merchants has some power here, but considerably less than it does in other, less stable regions. The people of would like things to stay the way they are instead of paying seemingly unnecessary fees for "transportation" or false "luxury".
 
 ### Craftsmen
 The [[Guilds of Coalition]] have their fingers in many pies, and are well represented in Prosper. While there are some non-members all over Alaturmen, the Guilds have good control over the value of crafts in Prosper. Most goods and services can be found in cities, and some specialists can find enough work in the larger villages of the region.

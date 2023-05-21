@@ -20,6 +20,7 @@ aliases:
 		- [[Barthalmule's Thieves]]
 		- [[Cobalt's Thieves]]
 		- [[Golden Claws]]
+		- [[Golden Merchant's Company]]
 		- [[Tetramocal Congregation]]
 	- **Local Lore**
 		- [[First Invasion of Orcus]]
@@ -27,6 +28,7 @@ aliases:
 - **[[The Democratic Combine of Peoples]]**
 	- **Factions**
 		- [[Beasts Righteous]]
+		- [[Dampguard]]
 		- [[Grovetenders]]
 		- [[Hillkeep Loyalists]]
 		- **[[Knights in Red]]**
@@ -50,6 +52,7 @@ aliases:
 		- [[Bandit Lords]]
 		- [[Carta Prosperitatis]]
 		- [[Nobles of Prosper]]
+		- [[Order of Arthurian Saints]]
 		- [[Simonson's Adventuring Party]]
 		- [[The Legend of the Bandit Lords]]
 		- [[Unification]]
