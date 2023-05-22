@@ -27,8 +27,7 @@ Second, the fanatics and undeadsiz. We can spread the undead on both the upper f
 
 ### What happened?
 
-they are exploring the temple, the reliefs generally support the timeline that the cult has been around for a couple dozen years
-
+they are exploring the temple, the reliefs generally support the timeline that the cult has been around for a couple dozen years, with specific mentions of 4 main cultists and one Kalariel (who I am thinking maybe was [[Gail Thomas]] retitled?)
 
 skeletons in the pools
 

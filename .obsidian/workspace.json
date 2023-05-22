@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c703ed9482279c06",
+        "id": "dd92709f225fded0",
         "type": "tabs",
         "children": [
           {
-            "id": "3f796349e7d36293",
+            "id": "d92e11189b24d251",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,33 +23,6 @@
               "type": "markdown",
               "state": {
                 "file": "Game Notes/Prenotes/'23/Prenotes May 07 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dd92709f225fded0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "147f03921882c513",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
@@ -309,9 +282,9 @@
   "active": "d5bd8d9af7c18ea4",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/Prenotes May 07 23.md",
-    "Game Notes/Prenotes/'23/'23.md",
     "Prenotes May 22 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Game Notes/Prenotes/'23/'23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",

@@ -23,4 +23,8 @@ Much of the description of the Noble Theives in this place are in the [[Prenotes
 
 We're gonna push everyone down to the second floor, where we will be encountering the first of the living fanatics, more undeadzies, and the gang of Noble Thieves.
 
+> First, the 6 noble thieves. 4 from Cobalt's group (Batii the Calm, Heaver the Dreader, Mol the Restless, Vander the Strong) and 2 from Agrandica's (Gyan the Wracked and Vlal the Honorable) - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area at the behest of the Guilds and their immediate superiors. They are currently keeping quiet in the bottom of the crypts room, and all of them have some manner of exhaustions. If necessary they will fight or work with the party, whatever will get everyone out as alive as possible (everyone on my team at least).
+
+
 ### What happened?
+
