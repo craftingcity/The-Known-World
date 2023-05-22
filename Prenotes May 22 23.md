@@ -21,6 +21,6 @@ Though this exploration, the party encountered a group of animated skeletons as 
 
 Much of the description of the Noble Theives in this place are in the [[Prenotes May 07 23]] notes.
 
-We're gonna push everyone down to the second floor, where we will be encountering the first of the living fanatics, more undeadzies, and the gang of Noble Theives
+We're gonna push everyone down to the second floor, where we will be encountering the first of the living fanatics, more undeadzies, and the gang of Noble Thieves.
 
 ### What happened?
