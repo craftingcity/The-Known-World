@@ -46,6 +46,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[Irenaus]]
 - [[List of Names]]
 - **Mild Power**
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
 	- [[Kallo Vought]]
@@ -59,6 +60,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[Patrica Borig]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**

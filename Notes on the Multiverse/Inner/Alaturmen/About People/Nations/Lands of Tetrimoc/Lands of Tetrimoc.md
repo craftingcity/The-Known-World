@@ -1,7 +1,7 @@
 ---
 tags: nation_page, tetrimocal
 ---
-## The Deserts of Tetrimoc
+## [[The Deserts of Tetrimoc]]
 
 ### Government of [[The Golden City]]
 While many in the Golden City claim that all of the desert is ruled by [[Tetrimoc]], he has grown complacent (or simply bored), and leaves the [[Outlands|Outlanders]] to themselves. Tetrimoc apparently controls the immediate area around the Golden City, and the [[Outlands|Outlanders]] control the rest of the Desert, given that it has been [[Timeline|a few years]] since Tetrimoc has been seen in the city.

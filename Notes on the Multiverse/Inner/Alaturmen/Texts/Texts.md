@@ -25,8 +25,8 @@ aliases:
 	- [[Tetrimoc's Journal]]
 	- [[The Ballad of Grey Ordeal]]
 	- [[The Chronicles of the Denevilles]]
+	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
-- [[The Code of Thieves]]
 - [[The Tales of Big Buster Badass]]
 - [[Wargods without War]]
 
