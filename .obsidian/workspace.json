@@ -4,6 +4,33 @@
     "type": "split",
     "children": [
       {
+        "id": "c703ed9482279c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f796349e7d36293",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes May 07 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "dd92709f225fded0",
         "type": "tabs",
         "children": [
@@ -27,8 +54,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5bd8d9af7c18ea4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 22 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Prenotes May 22 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Prenotes May 22 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+                "file": "Prenotes May 22 23.md"
               }
             }
           },
@@ -257,10 +306,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "147f03921882c513",
+  "active": "d5bd8d9af7c18ea4",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Game Notes/Prenotes/'23/Prenotes May 07 23.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Prenotes May 22 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
@@ -282,9 +334,6 @@
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Mechanics of Plane-walking.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
