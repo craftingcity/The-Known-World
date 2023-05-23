@@ -11,9 +11,16 @@ aliases:
 #### A7.
 #### A8.
 #### A9.
+#### D5.
+#### E4.
+#### E5.
+#### F3.
+#### F4.
+#### F5.
 - F9. Druid's Wight
-- G5. The Goblin's Boulder
+#### G5. The Goblin's Boulder
 	- Beneath a four-foot diameter boulder, the skeleton of a goblin is pinned by its right leg. A group of [[Macht's Orcs]] keep a camp here. They are well equipped with magical equipment.
+
 
 ## Tables
 ### Encounter
