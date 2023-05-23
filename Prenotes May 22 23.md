@@ -51,4 +51,4 @@ Ulfgar
 ~~A5 4 13 21 ~~
 Nala
 
-they assaulted Gorrik 
+they learned a little more about how the cult plans to bring Orcus about - The Iron Chain 
