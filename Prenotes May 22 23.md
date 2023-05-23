@@ -38,15 +38,15 @@ Jerran
 Nala
 Cultist
 
-Jerran
+Jerran 
 Breenabell
-C1 (2)
-C2
-C3 (2)
-A1
-A2
-~~A3 18~~
-A4
-A5 4 13
-Nala
 Ulfgar
+C1 (2) 6
+C2 (1) 6
+C3 (2)
+A1 
+A2 8 15
+~~A3 18~~
+~~A4 15 27~~
+~~A5 4 13 21 ~~
+Nala
