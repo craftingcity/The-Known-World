@@ -37,3 +37,16 @@ Ulfgar
 Jerran
 Nala
 Cultist
+
+Jerran
+Breenabell
+C1 (2)
+C2
+C3 (2)
+A1
+A2
+~~A3 18~~
+A4
+A5 4 13
+Nala
+Ulfgar
