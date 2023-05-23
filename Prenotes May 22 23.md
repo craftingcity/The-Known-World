@@ -25,5 +25,7 @@ We're gonna push everyone down to the second floor, where we will be encounterin
 
 > First, the 6 noble thieves. 4 from Cobalt's group (Batii the Calm, Heaver the Dreader, Mol the Restless, Vander the Strong) and 2 from Agrandica's (Gyan the Wracked and Vlal the Honorable) - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area at the behest of the Guilds and their immediate superiors. They are currently keeping quiet in the bottom of the crypts room, and all of them have some manner of exhaustions. If necessary, they will fight or work with the party, whatever will get everyone out as alive as possible (everyone on my team at least).
 
+The party is likely to loot the crypt to the best of their ability which may be better than the Thieves; There is a total of 
+
 ### What happened?
 
