@@ -29,3 +29,11 @@ The party is likely to loot the crypt to the best of their ability which may be 
 
 ### What happened?
 
+they found cultist makkin it with a zed in the hallway
+
+Zombie
+Breenabell
+Ulfgar
+Jerran
+Nala
+Cultist
