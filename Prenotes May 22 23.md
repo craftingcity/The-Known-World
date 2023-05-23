@@ -50,3 +50,5 @@ Ulfgar
 ~~A4 15 27~~
 ~~A5 4 13 21 ~~
 Nala
+
+they assaulted Gorrik 
