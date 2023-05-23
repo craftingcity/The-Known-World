@@ -11,9 +11,11 @@ aliases:
 #### AC2. Nyoser's Gore-House (lair)
 #### AD1.
 #### AE2. Temple to Hades
-	- This place is legendary. It has involvement with [[The Grey Ordeal]] and their exploits in the [[Timeline#The Age of Beginning]] - the [[First Invasion of Orcus]] - though the origins of the temple itself are genuinely unknown.
-		- The temple itself has many levels, and is built of red sandstone into the western hills, before beginning to descend into a (now cut-stone) temple intended for mass cult meetings.
-		- Many of the "demonic" or "devilish" statues or reliefs here have been defaced or are missing. Markings of many hundred styles and meanings mark the walls of this place.
+	- This place is legendary. It has involvement with [[The Grey Ordeal]] and their exploits in the [[Timeline#The Age of Beginning]] - specifically the [[First Invasion of Orcus]] - though the origins of the temple itself are genuinely unknown.
+		- The temple has 3 levels, and is built of red sandstone into the western hills, before beginning to descend into a (now cut-stone) temple intended for mass cult meetings.
+		- Markings of many hundred styles and meanings mark the walls of this place - as if teens would come here to hang.
+		- Many of the "demonic" or "devilish" statues or reliefs here have been defaced or are missing, but still a pattern of information can be gleamed:
+			- There were 
 		- [[Tubric Millstone Wrinsmith]] died in this place during the raging combat to reach [[Gail Thomas]] as they contacted [[Orcus]].
 		- Although it has never been activated to completion, at the deepest chamber of this temple, a chain of black iron hangs from three of six horn-shaped-outdents carved out of the wall.
 			- (It could perhaps be activated "by some sacrifice"? - I've already established in lore how these chains kinda work.)
