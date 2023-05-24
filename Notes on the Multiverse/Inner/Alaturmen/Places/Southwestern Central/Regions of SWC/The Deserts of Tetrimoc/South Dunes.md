@@ -8,17 +8,56 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+#### AG3.
+#### AG16.
 #### AH2.
+#### AH3.
+#### AH14.
+#### AH15.
+#### AH16.
 #### AI2.
+#### AI3.
+#### AI4.
+#### AI14.
+#### AI15.
+#### AI16.
 #### AJ1.
 #### AJ2.
+#### AJ3.
+#### AJ4.
+#### AJ5.
+#### AJ6.
+#### AJ7.
+#### AJ14.
+#### AJ15.
+#### AJ16.
 #### AK2.
+#### AK3.
+#### AK4.
+#### AK5.
+#### AK6.
+#### AK7.
+#### AK8.
+#### AK9.
+#### AK10.
+#### AK11.
+#### AK12.
+#### AK14.
 #### AL1.
 #### AL2.
 #### AL3. Southern Geyser Fields
 	- A massive "forest" of hot water geysers. This place was once fought over by Cobalt's Theives, Golden Claws, and a passing nomad tribe.
 	- A compound of old wood buildings holds 7 well equipped Noble Theives loyal to Cobalt, all of whom are willing to defend this necessary resource with their lives.
+#### AL4.
+#### AL5.
+#### AL6.
+#### AL7.
+#### AL8.
 #### AM2.
+#### AM4.
+#### AM5.
+#### AM7.
+#### AM8.
 #### AM9. Temple of the Golomancer
 	- Grean Orthan, Master Golomancer keeps his home here in this large stone-brick temple. This building is pristine in condition, and it's construction is acultural.
 	- Orthan holds control over 4 massive flesh golems, all of whom are clad in chiton platemail and holding fierce weapons.
@@ -26,7 +65,14 @@ aliases:
 	- Creatures who spend a day or more here will become of pristine health.
 #### AN1.
 #### AN2.
+#### AN7.
+#### AN8.
 #### AO2.
+#### AO3.
+#### AO4.
+#### AO5.
+#### AO7.
+#### AO8.
 #### AO14. Cave of Qillark & Vienze
 	- Qillark the Blue & Vienze the White are a mating pair of Adult Dragons.
 	- They command a cult of mixed blood Kobolds that hunt for food & fealty to the Dragons.
