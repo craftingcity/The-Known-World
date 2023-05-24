@@ -25,7 +25,8 @@ aliases:
 			- Four masked cultists were responsible for rebirthing a bald-headed man by the name or title Kalariel
 			- Orcus (or Hades, Jupiter, or Dis Pater, as he may be known) is a big pig-boar-man with a skull-on-a-spine for a wand/staff and is genericaly big and scary. 
 		- It is known that [[Tubric Millstone Wrinsmith]] of [[The Grey Ordeal]] died in this place during the raging combat to reach [[Gail Thomas]] as they contacted [[Orcus]].
-		- Although it has never been activated to completion, at the deepest chamber of this temple, a chain of black iron hangs from three of six horn-shaped-outdents carved out of the wall. (It could perhaps be activated "by some sacrifice"? - I've already established in lore how these chains kinda work.)
+			- What is unknown - and yet still true - is that [[The Grey Ordeal]] did not ever encounter [[Orcus]], and neither did [[Gail Thomas]]. Kalariel sacrificed Gail and the Grand Four 
+		- At the deepest chamber of this temple, a chain of black iron hangs from three of six horn-shaped-outdents carved out of the wall.
 	- Currently, a total of 6 Noble Theives from both [[Cobalt]] and [[Agrandica]]'s gangs are combined in force against the native dangers of this place.
 		- They are here to investigate recent disappearances in this area, including the most recent [[Ranger's Guild]] teams.
 		- They were not prepared for the dangers inside, with information nor equipment.
