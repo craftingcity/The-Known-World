@@ -40,21 +40,38 @@ The Deakred Range extends from the center point of [[Central Alaturmen]] to it's
 #### R9.
 #### R10.
 #### R11.
+#### R12.
 #### S9.
 #### S10.
 #### S11.
+#### S12.
+#### S13.
+#### S14.
 #### S15. Den of the [[Arstovich]]
 #### T10.
 #### T11.
+#### T12.
+#### T13.
+#### T14.
+#### T15.
 #### U11.
+#### U12.
+#### U13.
 #### U14. [[Lake of Eternal Life]] (visible)
 	- This large lake is supposed to have magical powers that grant eternal life, though this is clearly not the case - the lake is completely mundane.
+#### U15.
 #### V9.
 #### V10.
 #### V11.
+#### V12.
+#### V13.
+#### V14.
 #### V15. [[Coalition City]] (visible)
-#### W1.
-#### X1.
+#### W13.
+#### W14.
+#### W15.
+#### X14.
+#### X15.
 #### Y1.
 
 
