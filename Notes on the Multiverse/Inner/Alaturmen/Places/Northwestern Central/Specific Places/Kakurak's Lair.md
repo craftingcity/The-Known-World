@@ -23,23 +23,23 @@ Attached to Marcus' room, a kitchenette and a storage room for food.
 
 4. Artifact Hall
 
-The door to this room is a thick lead, and has two locks (of DC 25).
+The door to this room is a thick lead, and has two locks (both of DC 25).
 
-In this large rectangular hall, lead plates cover the carved space here. Dark steel pedistals stand around the room. Three have items upon them. 
+In this large rectangular hall, lead plates cover the carved space here. Dark steel pedestals stand around the room. Three have items upon them. 
 
 - An *indestructability generator*. This small circular plate looks to be made of iron and is the size of a small coin. It bares no features. When held to something and its command word spoken, the plate attatches to the item and creates a thin field of dense Weave, bestowing the following affects; the item's AC is raised by 10 or set to 20, whichever is higher. If attatched to a set of armor, the armor gains a +4 bonus in addition to any other enchantments.
 - A *necklace of compulsion*. A silver chain adorns a small locket. The locket has no latch, and cannot be forced open until the item is innert. The images inside are of many thousand small horrible faces. Anyone who wears the necklace becomes attatched to whomsoever speaks the command word of the necklace and would follow their will as if it was their own. Once attuned, there is no saving throw.
 - A *ring of false wishes*. This golden ring grants its wearer three wishes. Once the three charges have been expended the ring falls off its wearer's hand and cannot be worn by them again. Those wishes are then turned upon their wisher, generally resulting in horrible mayhem. 
- 
+
+Hanging from two set of two hooks extending from the furthest wall from the door is a looped iron chain about 25 feet in length. This is the Worldbinding to the [[Plane of Fire]].
+
  5. Treasure Room / Kakurak's Lair
 
-Kakurak keeps this room well sorted, with each type of item having its own space. In the center of the room Kakurak sleeps on a large pile of coins and gems and loose jewelry.
+Kakurak keeps this room well sorted, with each type of item having its own space.
 
-All of the items in this room are of overwhelming value.
+In the center of the room Kakurak sleeps on a large pile of coins, gems, and loose jewelry.
 
-Many magical scrolls and magical gems are stuffed and sorted in shelves and racks that line the northern wall of this room. Weapons and armor of beautiful craft are placed on racks in the east and west.
-
-Among the rest, an *alchemy jug*, an *amulet of the planes*, a *plate mail of invulnerability*, a *hide armor of cold resistance*, a *belt of dwarven-kind*, a *belt of frost giant strength*, a pair of *boots of elven-kind*, a pair of *boots of striding and springing*, a *cape of the mountebank*, a *dragon-slayer shortsword*, an *elven chain shirt*, a pair of *gauntlets of ogre power*, a *hammer of thunderbolts*, a *helm of teleportation*, a *mace of smiting*, a *mantle of spell resistance*, a *+2 spell focus*.
+Many magical scrolls and gems are sorted in shelves and racks that line the northern wall of this room. Weapons and armor of beautiful craft are placed on racks in the east and west.
 
 6. Kakurak's Study
 

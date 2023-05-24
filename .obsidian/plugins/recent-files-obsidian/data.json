@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+      "basename": "Kakurak's Lair",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
+    },
+    {
+      "basename": "Whitimore's Last Hold",
+      "path": "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md"
+    },
+    {
+      "basename": "Prenotes Nov 27 21",
+      "path": "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md"
+    },
+    {
+      "basename": "Kakurak",
+      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md"
+    },
+    {
+      "basename": "Prenotes May 22 23",
+      "path": "Prenotes May 22 23.md"
+    },
+    {
+      "basename": "Prenotes June 07 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes June 07 22.md"
     },
     {
       "basename": "Lord's Folly",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
     },
     {
-      "basename": "North Dunes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/North Dunes.md"
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "Deakred Range",
@@ -39,10 +59,6 @@
     {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Planes of Existence.md"
-    },
-    {
-      "basename": "Prenotes May 22 23",
-      "path": "Prenotes May 22 23.md"
     },
     {
       "basename": "Baator",
@@ -183,22 +199,6 @@
     {
       "basename": "Spells from Spike's Brain",
       "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "Spell Building Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
-    },
-    {
-      "basename": "Homebrew Spells",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
-    },
-    {
-      "basename": "Custom Armor Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
     }
   ],
   "omittedPaths": [],
