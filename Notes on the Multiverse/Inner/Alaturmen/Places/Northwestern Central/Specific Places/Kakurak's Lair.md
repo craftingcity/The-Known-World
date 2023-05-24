@@ -31,7 +31,7 @@ In this large rectangular hall, lead plates cover the carved space here. Dark st
 - A *necklace of compulsion*. A silver chain adorns a small locket. The locket has no latch, and cannot be forced open until the item is innert. The images inside are of many thousand small horrible faces. Anyone who wears the necklace becomes attatched to whomsoever speaks the command word of the necklace and would follow their will as if it was their own. Once attuned, there is no saving throw.
 - A *ring of false wishes*. This golden ring grants its wearer three wishes. Once the three charges have been expended the ring falls off its wearer's hand and cannot be worn by them again. Those wishes are then turned upon their wisher, generally resulting in horrible mayhem. 
 
-Hanging from two set of two hooks extending from the furthest wall from the door is a looped iron chain about 25 feet in length. This is the Worldbinding to the [[Plane of Fire]].
+Hanging from two sets of two hooks extending from the furthest wall from the door are two identical looped iron chains, each about 25 feet in length. Both are Worldbindings; the first to a point in the [[Plane of Fire]] known as "Old King Snure's Keep", and the second to the point between the [[Plane of Air]] and the [[Plane of Water]], known as "Great Grungar's Glacier".
 
  5. Treasure Room / Kakurak's Lair
 

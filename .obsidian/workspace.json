@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Kakurak's Lair",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":374},\"to\":{\"line\":33,\"ch\":374}},\"scroll\":29.886531801405223}"
+                },
+                {
                   "title": "Whitimore's Last Hold",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md\",\"mode\":\"source\",\"source\":true}}",
@@ -58,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chain",
+                "query": "jarl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
               }
             }
           },
@@ -294,9 +300,10 @@
   },
   "active": "d48b1fa82688ae89",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+    "Notes on the Multiverse/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
     "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
     "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
     "Prenotes May 22 23.md",
     "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
@@ -319,7 +326,6 @@
     "Game Notes/Prenotes/'23/'23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
