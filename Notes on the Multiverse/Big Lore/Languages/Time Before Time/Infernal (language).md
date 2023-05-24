@@ -5,6 +5,6 @@ aliases:
 
 *This page is a #stub . You can help by expanding it!*
 
-Infernal is the language of the[[Devils]] who live within the [[Nine Hells of Baator]] or cultists and scholars who live without.
+Infernal is the language of the[[Devils]] who live within the [[Baator]] or cultists and scholars who live without.
 
 Infernal sounds like the rigorous thrashing of metal. It is built to be spoken by beings with a forked tongue, and is quite exhausting to speak without such a long verbal musculature.

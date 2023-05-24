@@ -37,6 +37,6 @@ The layer was a featureless plain with jagged edges that extend 2,500 miles fr
 
 ###### Table of Contents
 %% Begin Waypoint %%
-- **[[Nine Hells of Baator]]**
+
 
 %% End Waypoint %%

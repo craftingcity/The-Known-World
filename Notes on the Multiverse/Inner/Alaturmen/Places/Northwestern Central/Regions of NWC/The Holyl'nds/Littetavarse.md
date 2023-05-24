@@ -6,7 +6,11 @@ aliases:
 ## The Far Burnt Forest
 #### A sub-region of [[The Holyl'nds]]
 ## Boundaries
+Bound by the [[Wildlands]] to it's North and West, as well as by the [[Redl'nds]] to it's South and [[North Littemotto]] to it's East-South-East.
+
 ## Contents
+The region of Littetavarse is a 
+
 ### Flora
 ### Scenarios
 #### A2. Touchstone
@@ -22,7 +26,6 @@ aliases:
 #### B3.
 #### B4.
 #### B5.
-#### C1.
 #### C2.
 #### C3.
 #### C4.

@@ -50,6 +50,11 @@ aliases:
 
 # Divine Creation
 ## Artifacts
+- Worldbinding 
+	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate into one of the 9 major-non-material planes.
+	- The Worldbinding to the [[Plane of Fire]] is held in [[Kakurak]]'s [[Who has a Horde|horde]].
+	- The Worldbinding to the [[Abyss]] is held within the depths of the [[Lord's Folly#AE2. Temple to Hades]].
+
 ## Armor
 ## Weapons
 ## Wonderous Items
