@@ -43,6 +43,8 @@ aliases:
 #### AK11.
 #### AK12.
 #### AK14.
+#### AK15.
+#### AK16.
 #### AL1.
 #### AL2.
 #### AL3. Southern Geyser Fields
@@ -53,6 +55,14 @@ aliases:
 #### AL6.
 #### AL7.
 #### AL8.
+#### AL9.
+#### AL10.
+#### AL11.
+#### AL12.
+#### AL13.
+#### AL14.
+#### AL15.
+#### AL16.
 #### AM2.
 #### AM4.
 #### AM5.
@@ -63,16 +73,34 @@ aliases:
 	- Orthan holds control over 4 massive flesh golems, all of whom are clad in chiton platemail and holding fierce weapons.
 	- Those creatures who die here will become puddles of living flesh. When the temple itself is in danger, these otherwise unconnected fleshes gather together to defend their home.
 	- Creatures who spend a day or more here will become of pristine health.
+#### AM10.
+#### AM11.
+#### AM12.
+#### AM13.
+#### AM14.
+#### AM15.
+#### AM16.
 #### AN1.
 #### AN2.
 #### AN7.
 #### AN8.
+#### AN9.
+#### AN10.
+#### AN11.
+#### AN12.
+#### AN13.
+#### AN14.
+#### AN15.
 #### AO2.
 #### AO3.
 #### AO4.
 #### AO5.
 #### AO7.
 #### AO8.
+#### AO9.
+#### AO10.
+#### AO11.
+#### AO12.
 #### AO14. Cave of Qillark & Vienze
 	- Qillark the Blue & Vienze the White are a mating pair of Adult Dragons.
 	- They command a cult of mixed blood Kobolds that hunt for food & fealty to the Dragons.
@@ -104,5 +132,6 @@ aliases:
 
 ### Rumors
 | 1d00 | Rumor | Loc. | Resolved? | Notes: |
-|------|-------|------|-----------|--------|
-| 1    | a     | a    | a         | a      |
+| ---- | ----- | ---- | --------- | ------ |
+| 01    | a     | a    | a         | a      |
+|      |       |      |           |        |
