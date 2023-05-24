@@ -11,12 +11,28 @@ The Deakred Range extends from the center point of [[Central Alaturmen]] to it's
 ### Flora
 ### Scenarios
 #### N1.
-#### M1.
-#### O1.
-#### P8. [[Groundiki]], Cave of Wonder, Hall of Silver & Lead (visible)
+#### O2.
+#### O3.
+#### O6.
+#### O8.
+#### P1.
+#### P2.
+#### P3.
+#### P4.
+#### P5.
+#### P6.
+#### P7.
+#### P8. Groundikki, Cave of Wonder, Hall of Silver & Lead (visible)
 	- A large natural cave of silver and lead veins has been mined, carved, and supported by stone columns adorned in beautiful geometric fractal carvings. This place supports many thousands of buildings, each of which support more than a half dozen people.
-#### Q1.
-#### R1.
+#### Q4.
+#### Q5.
+#### Q6.
+#### Q7.
+#### Q8.
+#### R5.
+#### R6.
+#### R7.
+#### R8.
 #### S15. Den of the [[Arstovich]]
 #### T1.
 #### U14. [[Lake of Eternal Life]] (visible)

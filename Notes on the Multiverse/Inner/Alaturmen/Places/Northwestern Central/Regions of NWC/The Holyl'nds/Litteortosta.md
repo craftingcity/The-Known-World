@@ -41,7 +41,9 @@ aliases:
 #### N6.
 #### N7.
 #### N8.
+#### O4.
 #### O5. Way-Spirit Clearing
+#### O7.
 
 ## Tables
 ### Encounter
