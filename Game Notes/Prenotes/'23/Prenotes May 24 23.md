@@ -29,3 +29,16 @@ try not to kill anyone this time :)
 
 ### What happened?
 
+Shu - S10, 15
+Dae - S9, 22
+Ren - S12, 22
+Dot - S4, 14
+
+Dae
+Ren
+D1
+D2
+Shu
+Dot
+D3
+D4
