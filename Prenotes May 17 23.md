@@ -39,3 +39,4 @@ Vix (prot good evil)
 Inec
 Moses
 
+we killed Daelith
