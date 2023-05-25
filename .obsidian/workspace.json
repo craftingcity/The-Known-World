@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f1f7a2e8eca930a",
+        "id": "50486573ed29bf0b",
         "type": "tabs",
         "children": [
           {
-            "id": "cfafc18ac1be6b47",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a8f2f06028a003f",
+            "id": "0d1cb89d9a6783f1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -44,30 +27,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "763c9af2a10d5d6a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 17 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AF28",
+                "query": "jarl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +119,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -188,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 17 23.md",
+                "file": "Prenotes May 24 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 17 23.md",
+                "file": "Prenotes May 24 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 17 23.md"
+                "file": "Prenotes May 24 23.md"
               }
             }
           },
@@ -296,15 +256,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "763c9af2a10d5d6a",
+  "active": "0d1cb89d9a6783f1",
   "lastOpenFiles": [
-    "Prenotes May 24 23.md",
-    "Prenotes May 17 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/South Dunes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/North Dunes.md",
+    "Prenotes May 24 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+    "Notes on the Multiverse/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Whitimore's Last Hold.md",
+    "Game Notes/Prenotes/'21/Prenotes Nov 27 21.md",
+    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+    "Prenotes May 22 23.md",
+    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Deakred Range.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
@@ -312,7 +275,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Planes of Existence.md",
-    "Prenotes May 22 23.md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Outer/Outer.md",
@@ -322,8 +284,6 @@
     "Game Notes/Prenotes/'23/Prenotes May 07 23.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
