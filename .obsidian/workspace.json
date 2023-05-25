@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jarl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,7 +256,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d1cb89d9a6783f1",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
     "Prenotes May 24 23.md",

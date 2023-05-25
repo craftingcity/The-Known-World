@@ -25,4 +25,6 @@ A number of hours into travel, the party at large will see a vison of Grande, wh
 
 Elsewise, we're running [[Thanatos]] as hexcrawl, they are south of the mountain range and north of [[Neranteen, the City of the Fishers]].
 
+try not to kill anyone this time :)
+
 ### What happened?
