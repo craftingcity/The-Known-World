@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+      "basename": "Thanatos",
+      "path": "Notes on the Multiverse/Outer/Thanatos.md"
+    },
+    {
+      "basename": "Prenotes May 24 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes May 24 23.md"
     },
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Archmage Barrowinch's Tower",
@@ -51,10 +59,6 @@
     {
       "basename": "Lake of Eternal Life",
       "path": "Lake of Eternal Life.md"
-    },
-    {
-      "basename": "Prenotes May 24 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes May 24 23.md"
     },
     {
       "basename": "Lord's Folly",
@@ -195,10 +199,6 @@
     {
       "basename": "Agrandica's Thieves",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     }
   ],
   "omittedPaths": [],
