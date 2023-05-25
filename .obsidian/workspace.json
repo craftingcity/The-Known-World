@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Thanatos.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes May 24 23.md"
               }
             }
           },
@@ -296,10 +295,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c8e645334295672",
+  "active": "c97482c206dec2ae",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
+    "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
