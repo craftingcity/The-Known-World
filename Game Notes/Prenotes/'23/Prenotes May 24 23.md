@@ -32,7 +32,7 @@ try not to kill anyone this time :)
 Shu - S10, 15
 Dae - S9, 22
 Ren - S12, 22
-Dot - S4, 14
+Dot - S11, 14
 
 Dae
 Ren
@@ -41,4 +41,4 @@ D2
 Shu
 Dot
 D3
-D4
+D4 11 18 
