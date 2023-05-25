@@ -20,7 +20,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Death begins a new path through life for all that bear its fruits.
 
 #### Sune
-- Icon:
+- Icon: A wa
 - Domain:
 - Duty:
 - Tenants:

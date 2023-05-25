@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Languages",
       "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
     }
   ],
   "omittedPaths": [],
