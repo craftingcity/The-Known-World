@@ -91,12 +91,13 @@ Born from the corpse of [[All-Father Annam]], these idols of the elements rule p
 #### Ignan 
 - Icon: Three waving vertical parrallel lines
 - Domain: Fire
-- Duty:
+- Duty: Destruction, Rebirth 
 - Tenants:
-- fire
+	- Warmth brings life. Heat brings survival. Fire brings love.
+	- In the end, all things burn. You will too. Things are always impermanent.
 
 #### Aquan 
-- Icon:
+- Icon: Three waving horizontal parrallel lines
 - Domain: Water
 - Duty:
 - Tenants:
@@ -111,14 +112,12 @@ Born from the corpse of [[All-Father Annam]], these idols of the elements rule p
 - Animan was the Idol that bore arcane magic into the minds of the fresh noids of Alaturmen.
 
 ### Patrons of Need
-Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. These are the most common household gods.
+Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. If a personal's call of Faith is powerful enough, this will form a new deity or form that someone into a Patron themselves.
+
+These are the most common household gods.
 
 #### Sama
 ##### Patron Saint of Rangers
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
 - the god of One Mindedness.
 - feels like sitting in a rainy forest
 - smells of wet moss, fresh dirt
@@ -127,10 +126,6 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 
 #### Yamisch
 ##### Patron Saint of Cartographers
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
 - the god of true vision
 - feels like the best trip you've ever had
 - smells of blueberry, honey
@@ -138,10 +133,6 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 
 #### Certi'alkior
 ##### Patron Saint of Gladiators
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
 - the god of a quick death
 - feels like warm blood and cold steel
 - smells of sweat, gunpowder
@@ -151,20 +142,12 @@ Often, someone needs a god's help, and noone can pick up the divine phone. When 
 
 #### Burraw
 ##### Patron Saint of Farmers
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
 - the god of fat harvests
 - feels like warm bread, sand between your toes
 - smells of baked good, spice
 
 #### [[Paulo San Tymiq]]
 ##### Patron Saint of Bards
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
 - the god of true report
 - feels like a charming song
 - smells of lavender, blueberry, worked sweat
@@ -176,40 +159,15 @@ Some beings are so powerful that while they are not technically gods, as they ar
 #### Demogorgon, the Demon King of the Abyss
 [[Demogorgon]] is the most powerful demon in the [[Abyss]].
 
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
-
 #### Asmodeus, the Grand Arch-Devil of Nessus and All Baator
-[[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of the Hells.
-
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
+[[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of [[Baator]].
 
 #### The Queen of Swords
 The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
 
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
-
 ## Inner Planar Rulers
 #### Jabbawok and the Ceilie Courts
-The [[Feywild]] is ruled by a powerful fey who holds the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey to control the general population of the Feywild.
-
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
+The [[Feywild]] is ruled by a powerful fey who holds the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey to control the general population of the [[Feywild]].
 
 #### Lolth
 The [[Underdark]] is culturally and theocratically ruled by the viscous misandrist [[Lolth]].
-
-- Icon:
-- Domain:
-- Duty:
-- Tenants:
