@@ -16,50 +16,56 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Domain: Sadness, Grief
 - Duty: Death
 - Tenants:
-	- There is no greater sin than the disruption of the natural paths of life and death.
-	- Death begins a new path through life for all that bear its fruits.
+	- There is no greater sin than the disruption of the natural paths of life and death
+	- Death begins a new path through life in every instance
 
 #### Sune
-- Icon:
-- Domain:
-- Duty:
+- Icon: A six pointed star with wavy rays
+- Domain: Ecstasy, Love
+- Duty: Artistry
 - Tenants:
-- love, ecstasy, beauty, artistry; a middle aged redhead with a knack for painting
+	- There is no greater gift than kindness in the face of hate
+	- Nothing is beyond the reach of true love
 
 #### Tauruin
-- Icon:
-- Domain:
-- Duty:
+- Icon: A clenched fist around a large mace
+- Domain: Pride, Oppresion
+- Duty: Power
 - Tenants:
-- fear, power, suppression, dominance, pride; a lone king with subjects grovelling at their feet
+	- Those who can eat those who cannot
+	- Prove that you are worthy of what you have or you will lose it
 
 #### Gromosh
-- Icon:
-- Domain:
-- Duty:
+- Icon: A screaming bloody face
+- Domain: Victory, Honor
+- Duty: War
 - Tenants:
-- anger/rage, hatred, battle and war; an old orc who simply refuses to die without a fight
+	- There is no honorable war without communication
+	- To dishonor youself is to dishonor all you know or claim
 
 ##### Gish, Wife of Gromosh
-- Icon:
-- Domain:
-- Duty:
+- Icon: A screaming bloody face burning
+- Domain: War-magic, Good Favor
+- Duty: War
 - Tenants:
-- battle and war, magic, destructive evocation; and old orc who smiles with arcane intent
+	- There is no honor in being unprepared
+	- A great warrior knows itself before it's enemy
 - some claim Gish to be simply an interpretation of Gromosh, and others claim her to be her own entity
 
 #### Freric and Sophie
-- Icon:
-- Domain:
-- Duty:
+- Icon: Two hands clasped / twin coiled springs
+- Domain: Suprise, Desire/Longing
+- Duty: mischief
 - Tenants:
-- surprise, mischief, childishness, longing; a pair of young twins with nothing to lose but each other
+	- Your joy and the joy of yours is the only true meaning in life
+	- Even the smallest things can become the most important
 
 #### Blemon
-- Icon:
-- Domain:
-- Duty:
+- Icon: A half mask / a rotten wooden staff
+- Domain: Disgust, Loathing
+- Duty: Disease
 - Tenants:
+	- Your goals are to be reached, and your obsticles removed.
 - loathing, disgust, disease; a green half masked figure in a dark robe holding a rotting wooden staff
 
 
