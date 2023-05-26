@@ -65,44 +65,46 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Domain: Disgust, Loathing
 - Duty: Disease
 - Tenants:
-	- Your goals are to be reached, and your obsticles removed.
-- loathing, disgust, disease; a green half masked figure in a dark robe holding a rotting wooden staff
+	- Your goals are to be reached, and your obstacles removed with permanance
+	- Time is the greatest ally you may know
 
 
 ### Physical Idols
-Born from the corpse of [[All-Father Annam]], these idols of the elements rule physicality on [[Alaturmen]].
+Born from the corpse of [[All-Father Annam]], these idols of the elements rule physicality on [[Alaturmen]], and too are worshipped as Gods able to grant favor.
 
 #### Terran
-- Icon:
-- Domain:
-- Duty:
+- Icon: A circle or sphere unbroken, but cracked
+- Domain: Earth
+- Duty: Strength, Stoicism
 - Tenants:
-- earth
+	- Like the ground you walk upon, your actions are the foundation of your life
+	- The strength of one boulder is weaker than that of many pebbles
 
 #### Ventan
-- Icon:
-- Domain:
-- Duty:
+- Icon: Three horizontal parrallel lines that spiral together at one end
+- Domain: Air
+- Duty: Speed, Acceptance
 - Tenants:
-- wind
+	- Information runs the world, and swiftness is it's greatest ally
+	- A quick recoverable maneuver is better than a lack of decision in nearly every case
 
 #### Ignan 
-- Icon:
-- Domain:
+- Icon: Three waving vertical parrallel lines
+- Domain: Fire
 - Duty:
 - Tenants:
 - fire
 
 #### Aquan 
 - Icon:
-- Domain:
+- Domain: Water
 - Duty:
 - Tenants:
 - water
 
 #### Animan
 - Icon:
-- Domain:
+- Domain: Weave
 - Duty:
 - Tenants:
 - magic, weave
