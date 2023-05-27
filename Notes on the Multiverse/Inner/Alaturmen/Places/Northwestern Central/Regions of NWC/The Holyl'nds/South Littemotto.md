@@ -9,11 +9,15 @@ aliases:
 ### Flora
 ### Scenarios
 #### I7.
+#### I8.
 #### J5.
 #### J6. Dark-Steel Relic
 	- elven, pre-[[Great Fires]]
 #### J7.
+#### J8.
 #### K7.
+#### K8.
+#### L8.
 
 ## Tables
 ### Encounter

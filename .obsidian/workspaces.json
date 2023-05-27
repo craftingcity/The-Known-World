@@ -983,7 +983,388 @@
         }
       },
       "active": "6891f1cb3583f6be"
+    },
+    "mapping": {
+      "main": {
+        "id": "90b37ad8ee5e800c",
+        "type": "split",
+        "children": [
+          {
+            "id": "50486573ed29bf0b",
+            "type": "tabs",
+            "dimension": 66.97138314785374,
+            "children": [
+              {
+                "id": "0d1cb89d9a6783f1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "King Snure",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/King Snure.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":61},\"to\":{\"line\":19,\"ch\":61}},\"scroll\":5.814163283716734}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "c28c2f8df1e45916",
+            "type": "tabs",
+            "dimension": 33.028616852146264,
+            "children": [
+              {
+                "id": "8aee6b767d172851",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "5d4d67052a8fcf0d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "4870ed866a2126e9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "73b0bc36732cb8f1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "4b45c44085300300",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f200fe8a1a80900b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ee778f2eb66d012",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "470822c6e780fecc",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "471fab77001b02ee",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "jarl",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8a09bf3a4e0bad9d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a28b40f20a51ecec",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "22b1fb456ad17b5a",
+        "type": "split",
+        "children": [
+          {
+            "id": "345ad8dc0249f6ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "214128aa17851074",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a784ad59b314c9b4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "60736712cabd0795",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f44a3da8351e916d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+                  }
+                }
+              },
+              {
+                "id": "017b0162b76e109a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "0d1cb89d9a6783f1"
     }
   },
-  "active": "Econ Work"
+  "active": "mapping"
 }

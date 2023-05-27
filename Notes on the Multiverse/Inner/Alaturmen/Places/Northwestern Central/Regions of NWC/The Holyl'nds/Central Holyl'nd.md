@@ -10,9 +10,11 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 ### Flora
 ### Scenarios
 #### G7.
+#### G8.
 #### H5.
 #### H6.
 #### H7.
+#### H8.
 #### H16. [[The Old]] (visible)
 	- Great buildings and statues of fine stone have been ruined with age and damage. This was once a great elven city, but has since fallen beyond disrepair into ruin, for none have dwelled in this place for many dozens of years.
 #### I6.

@@ -9,8 +9,10 @@ aliases:
 ### Flora
 ### Scenarios
 #### S7.
+#### S8.
 #### T6.
 #### T7.
+#### T8.
 #### U7.
 #### U10. Small Anti-Isolationism Party Cave
 	- A small natural cave is being retrofitted with elven amenities to house some dozen or so humanoids. 
