@@ -2,15 +2,22 @@
 tags: region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# South Littemotto
+#### A sub-region of [[The Holyl'nds]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-- J6. Dark-Steel Relic
+#### I7.
+#### I8.
+#### J5.
+#### J6. Dark-Steel Relic
 	- elven, pre-[[Great Fires]]
-- 
+#### J7.
+#### J8.
+#### K7.
+#### K8.
+#### L8.
 
 ## Tables
 ### Encounter
