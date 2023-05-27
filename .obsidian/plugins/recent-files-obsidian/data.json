@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Cobalt's Cacti Field",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
+      "basename": "Central Holyl'nd",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+      "basename": "South Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
+    },
+    {
+      "basename": "Cobalt's Cacti Field",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
     },
     {
       "basename": "Agrandica's Savanna",
@@ -191,14 +199,6 @@
     {
       "basename": "Custom Languages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "Combat Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
     }
   ],
   "omittedPaths": [],

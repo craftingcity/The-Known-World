@@ -8,9 +8,9 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-- J6. Dark-Steel Relic
+#### J5.
+#### J6. Dark-Steel Relic
 	- elven, pre-[[Great Fires]]
-- 
 
 ## Tables
 ### Encounter
