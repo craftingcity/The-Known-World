@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da46a49f6da0984a",
+        "id": "35aba30cbf20175f",
         "type": "tabs",
         "children": [
           {
-            "id": "32eda9d90c5a5a81",
+            "id": "8b487f47f9c545f3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,12 +248,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32eda9d90c5a5a81",
+  "active": "8b487f47f9c545f3",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Thanatos.md",
     "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Brandle Wrench.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Dragons Blood Inn.md",
