@@ -5,6 +5,30 @@
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
+      "basename": "Tetrimoc's Blessings",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+    },
+    {
+      "basename": "Red Hills",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md"
+    },
+    {
+      "basename": "South Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
+    },
+    {
+      "basename": "Central Holyl'nd",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
       "basename": "Thanatos",
       "path": "Notes on the Multiverse/Outer/Thanatos.md"
     },
@@ -51,10 +75,6 @@
     {
       "basename": "World Features",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "Lake of Eternal Life",
@@ -179,26 +199,6 @@
     {
       "basename": "Tetrimoc's Tournament of Glory",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "Cobalt's Thieves",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
-    },
-    {
-      "basename": "Barthalmule's Thieves",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md"
-    },
-    {
-      "basename": "Agrandica's Thieves",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
     }
   ],
   "omittedPaths": [],
