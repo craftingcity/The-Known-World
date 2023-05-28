@@ -15,9 +15,14 @@ aliases:
 	- elven, pre-[[Great Fires]]
 #### J7.
 #### J8.
+#### J9.
 #### K7.
 #### K8.
+#### K9.
 #### L8.
+#### L9.
+#### M9.
+#### N9.
 
 ## Tables
 ### Encounter

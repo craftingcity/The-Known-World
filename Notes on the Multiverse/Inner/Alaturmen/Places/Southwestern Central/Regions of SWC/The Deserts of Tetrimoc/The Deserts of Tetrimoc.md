@@ -14,13 +14,15 @@ aliases:
 	- A large pit in the desert hosts many shadow-flesh monkey-lizards, who breed quickly in this horrible place.
 #### AA6.
 #### AA7.
+#### AA8.
 #### AA11. Cult Statue of Taurin
 	- A statue of a faceless monarch on a throne is set into the sand here. Across the throne in many locations, as well as in what looks like repeated pressings of hands upon the blank-face, the yellow-grey material of the statue is stained with red. 
 	- Upon closer inspection, it would become clear that this entire statue is made of one massive petrified bone, and carved down into it's current form. Sand and wind has begun to dull the sharp edges of the construction. On these sharp edges, the face of the figure, and in smears and drops across the throne, copper-red stains can be identified as blood. 
 #### AB4. 
 #### AB5. 
 #### AB6. 
-#### AB7. 
+#### AB7.
+#### AB8.
 #### AC4.
 #### AC5.
 #### AC6.
@@ -34,6 +36,7 @@ aliases:
 #### AD5.
 #### AD6.
 #### AD7.
+#### AD8.
 #### AE4.
 #### AE5.
 #### AE6.
@@ -44,10 +47,12 @@ aliases:
 #### AF5.
 #### AF6.
 #### AF7.
+#### AF8.
 #### AG4.
 #### AG5.
 #### AG6.
 #### AG7.
+#### AG8.
 #### AG9. Petrified Bone Spire (visible)
 	- A tall curved spire of what can only be petrified bone is risen from the sand. It is covered in loose sand blown on from the winds of the Desert. 
 	- This spire is significant as an executionary post for citizens in [[Tetrimoc's Blessings]]. A revered execution will find the to be executed bound by chain to this spire, marked with a claw burn-scar. Their fate is left to Tetrimoc.
