@@ -109,7 +109,8 @@ Born from the corpse of [[All-Father Annam]], these idols of the elements rule p
 - Domain: Magic
 - Duty: Continuity, Power
 - Tenants:
-	- 
+	- With great power comes great responsibility.
+	- With great responsibility comes great community.
 
 ### Patrons of Need
 Often, someone needs a god's help, and no-one can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. If a personal's call of Faith is powerful enough, this will form a new deity or form that someone into a Patron themselves.
