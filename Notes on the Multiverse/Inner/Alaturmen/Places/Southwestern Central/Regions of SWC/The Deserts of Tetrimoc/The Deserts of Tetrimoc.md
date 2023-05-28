@@ -23,12 +23,14 @@ aliases:
 #### AB6. 
 #### AB7.
 #### AB8.
+#### AB9.
 #### AC4.
 #### AC5.
 #### AC6.
 #### AC7.
 #### AC8. [[Aphetto Runestones]] (visible)
 	- A collection of marked stones form a circle with a diameter of about thirteen feet. The runes on the stones are written in [[Draconic (language)]]; they are words of power that instill a *bless*ing upon any who spend a minute or more in their presence.
+#### AC9.
 #### AC14. Impossible Hole
 	- A massive forty foot diameter pit lies in the sand here. This pit reaches a depth of about three miles before entering the ever shifting bowels of the [[Underdark]]. Legends tell us that some sort of horror came from this pit some number of years ago.
 #### AD3.
@@ -37,17 +39,20 @@ aliases:
 #### AD6.
 #### AD7.
 #### AD8.
+#### AD9.
 #### AE4.
 #### AE5.
 #### AE6.
 #### AE7.
 #### AE8. Wyvern Stables (visible)
+#### AE9.
 #### AE11. Cyclops' Cave (visible)
 #### AF4.
 #### AF5.
 #### AF6.
 #### AF7.
 #### AF8.
+#### AF9.
 #### AG4.
 #### AG5.
 #### AG6.

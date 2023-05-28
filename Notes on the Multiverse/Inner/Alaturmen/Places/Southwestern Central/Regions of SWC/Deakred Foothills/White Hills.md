@@ -2,12 +2,14 @@
 tags: region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# White Hills
+#### A sub-region of [[The Deserts of Tetrimoc]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
+
+#### X9.
 
 ## Tables
 ### Encounter

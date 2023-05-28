@@ -13,7 +13,9 @@ aliases:
 #### T6.
 #### T7.
 #### T8.
+#### T9.
 #### U7.
+#### U9.
 #### U10. Small Anti-Isolationism Party Cave
 	- A small natural cave is being retrofitted with elven amenities to house some dozen or so humanoids. 
 	- Three elves are working here, all of whom are being supported by the Mountain Hall Merchants Anti-Isolationism Party.
