@@ -81,38 +81,39 @@ Born from the corpse of [[All-Father Annam]], these idols of the elements rule p
 	- The strength of one boulder is weaker than that of many pebbles
 
 #### Ventan
-- Icon: Three horizontal parrallel lines that spiral together at one end
+- Icon: Three horizontal parallel lines that spiral together at one end
 - Domain: Air
-- Duty: Speed, Acceptance
+- Duty: Speed, Longevity
 - Tenants:
-	- Information runs the world, and swiftness is it's greatest ally
+	- Information runs the world, and swiftness is its greatest ally
 	- A quick recoverable maneuver is better than a lack of decision in nearly every case
 
 #### Ignan 
-- Icon: Three waving vertical parrallel lines
+- Icon: Three waving vertical lines angled to meet at the tip
 - Domain: Fire
 - Duty: Destruction, Rebirth 
 - Tenants:
 	- Warmth brings life. Heat brings survival. Fire brings love.
-	- In the end, all things burn. You will too. Things are always impermanent.
+	- In the end, all things burn. You will too. Everything is impermanent.
 
 #### Aquan 
 - Icon: Three waving horizontal parrallel lines
 - Domain: Water
-- Duty:
-- Tenants:
-- water
+- Duty: Acceptance, Repose
+- Tenants: 
+	- Water can flow or it can crash. Be like water.
+	- The things most vital are often the most rare; cherish what you have and give what you can.
 
 #### Animan
-- Icon:
-- Domain: Weave
-- Duty:
+- Icon: A complete circle spiraling into itself
+- Domain: Magic
+- Duty: Continuity, Power
 - Tenants:
-- magic, weave
-- Animan was the Idol that bore arcane magic into the minds of the fresh noids of Alaturmen.
+	- With great power comes great responsibility.
+	- With great responsibility comes great community.
 
 ### Patrons of Need
-Often, someone needs a god's help, and noone can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. If a personal's call of Faith is powerful enough, this will form a new deity or form that someone into a Patron themselves.
+Often, someone needs a god's help, and no-one can pick up the divine phone. When this happens, a patron of need will step in and answer the call to the best of their ability. If a personal's call of Faith is powerful enough, this will form a new deity or form that someone into a Patron themselves.
 
 These are the most common household gods.
 

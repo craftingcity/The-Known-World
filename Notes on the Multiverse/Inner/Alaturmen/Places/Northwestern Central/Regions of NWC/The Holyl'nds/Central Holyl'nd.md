@@ -15,11 +15,19 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 #### H6.
 #### H7.
 #### H8.
+#### H9.
+#### H10.
+#### H11.
 #### H16. [[The Old]] (visible)
 	- Great buildings and statues of fine stone have been ruined with age and damage. This was once a great elven city, but has since fallen beyond disrepair into ruin, for none have dwelled in this place for many dozens of years.
 #### I6.
+#### I9.
+#### I10.
+#### I11.
 #### I16. Silent Clearing
 	- A torn white sheet flaps in the wind, pierced upon a steel spike planted in the ground.
+#### J10.
+#### J11.
 
 
 ## Tables
