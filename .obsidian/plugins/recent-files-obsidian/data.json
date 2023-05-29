@@ -17,8 +17,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md"
     },
     {
-      "basename": "Red Hills",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md"
+      "basename": "Sinazel Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md"
     },
     {
       "basename": "South Littemotto",
@@ -27,6 +27,14 @@
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
+      "basename": "Firelight Sea",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
+    },
+    {
+      "basename": "Red Hills",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -165,10 +173,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Wargods without War.md"
     },
     {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
-    },
-    {
       "basename": "Prenotes May 07 23",
       "path": "Game Notes/Prenotes/'23/Prenotes May 07 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tetramocal Congregation",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Tetramocal Congregation.md"
-    },
-    {
-      "basename": "First Invasion of Orcus",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
     }
   ],
   "omittedPaths": [],
