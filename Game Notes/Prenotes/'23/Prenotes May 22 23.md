@@ -25,7 +25,7 @@ We're gonna push everyone down to the second floor, where we will be encounterin
 
 > First, the 6 noble thieves. 4 from Cobalt's group (Batii the Calm, Heaver the Dreader, Mol the Restless, Vander the Strong) and 2 from Agrandica's (Gyan the Wracked and Vlal the Honorable) - they are working together for the time being in search of any signs of [[Ranger's Guild]] patrols in the area at the behest of the Guilds and their immediate superiors. They are currently keeping quiet in the bottom of the crypts room, and all of them have some manner of exhaustions. If necessary, they will fight or work with the party, whatever will get everyone out as alive as possible (everyone on my team at least).
 
-The party is likely to loot the crypt to the best of their ability which may be better than the Thieves; There is 8400 cp, 2500 sp, 70 gp, black onyx (150 gp), 3 x diamond (100 gp), amber (100 gp), amethyst (100 gp), garnet (100 gp), tourmaline (100 gp), Potion of Resistance (thunder) (uncommon, dmg 188), Driftglobe (uncommon, dmg 166), Potion of Hill Giant Strength (uncommon, dmg 187), Wand of Magic Detection (uncommon, dmg 211), twenty vials of perfume in a pouch (100 gp, 2 lb), a barrel of perry (12 gp, 320 lb)
+The party is likely to loot the crypt to the best of their ability which may be better than the Thieves; There is 840 cp, 250 sp, 70 gp, black onyx (150 gp), 3 x diamond (100 gp), amber (100 gp), amethyst (100 gp), garnet (100 gp), tourmaline (100 gp), Potion of Resistance (thunder) (uncommon, dmg 188), Driftglobe (uncommon, dmg 166), Potion of Hill Giant Strength (uncommon, dmg 187), Wand of Magic Detection (uncommon, dmg 211), twenty vials of perfume in a pouch (100 gp, 2 lb), a barrel of perry (12 gp, 320 lb)
 
 ### What happened?
 
