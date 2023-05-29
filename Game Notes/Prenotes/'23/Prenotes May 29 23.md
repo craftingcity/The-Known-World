@@ -19,6 +19,6 @@ We return to them standing at the edge of the "Soul Sludge" pool, which now cont
 
 ### What does the World Know?
 
-We're still in the [[Lord's Folly#AE2. Temple to Hades]]. We know that they are going to want to search for the chain, so, where is it?
+We're still in the [[Lord's Folly#AE2. Temple to Hades]]. We know that they are going to want to search for the chain, so, they will continue to explore until they find it. One of the last few fanatics is trying to unlock one of the doors further into the lowest level of the Temple.
 
 ### What happened?
