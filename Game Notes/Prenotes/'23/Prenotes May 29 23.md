@@ -22,3 +22,15 @@ We return to them standing at the edge of the "Soul Sludge" pool, which now cont
 We're still in the [[Lord's Folly#AE2. Temple to Hades]]. We know that they are going to want to search for the chain, so, they will continue to explore until they find it. One of the last few fanatics is trying to unlock one of the doors further into the lowest level of the Temple.
 
 ### What happened?
+
+fight 
+
+Jerran
+C1
+C2
+Breenabell
+Nala
+Ulfgar
+A1
+A2
+A3
