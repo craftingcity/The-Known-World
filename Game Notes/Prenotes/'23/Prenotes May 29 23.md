@@ -26,11 +26,11 @@ We're still in the [[Lord's Folly#AE2. Temple to Hades]]. We know that they are 
 fight 
 
 Jerran
-C1 8 12 20
-C2 8 15 20 31
+~~C1 8 12 20 25 ~~
+~~C2 8 15 20 31 ~~
 Breenabell
 Nala
 Ulfgar
-A1 8
+~~A1 8 16 26~~
 ~~A2 11 27~~
-A3 8
+~~A3 8 19 ~~
