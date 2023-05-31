@@ -24,10 +24,13 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 #### I9.
 #### I10.
 #### I11.
+#### I12.
 #### I16. Silent Clearing
 	- A torn white sheet flaps in the wind, pierced upon a steel spike planted in the ground.
 #### J10.
 #### J11.
+#### J12.
+#### K12.
 
 
 ## Tables
