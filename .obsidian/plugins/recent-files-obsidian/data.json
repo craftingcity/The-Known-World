@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Prenotes May 31 23",
-      "path": "Prenotes May 31 23.md"
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "Illburn Forest",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
     },
     {
       "basename": "Prenotes May 17 23",
       "path": "Game Notes/Prenotes/'23/Prenotes May 17 23.md"
     },
     {
-      "basename": "Tetrimoc's Blessings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
+      "basename": "Prenotes May 31 23",
+      "path": "Prenotes May 31 23.md"
     },
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+      "basename": "Seat of the Dead",
+      "path": "Seat of the Dead.md"
+    },
+    {
+      "basename": "Thanatos",
+      "path": "Notes on the Multiverse/Outer/Thanatos.md"
+    },
+    {
+      "basename": "Tetrimoc's Blessings",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
     },
     {
       "basename": "The Deserts of Tetrimoc",
@@ -47,10 +59,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Thanatos",
-      "path": "Notes on the Multiverse/Outer/Thanatos.md"
     },
     {
       "basename": "Prenotes May 24 23",
@@ -191,14 +199,6 @@
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Knights in Red",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8228c3938acc13f8",
+        "id": "1fb3e8c07442731a",
         "type": "tabs",
+        "dimension": 67.48807631160572,
         "children": [
           {
-            "id": "8a9c04adba864199",
+            "id": "a25f8b94e7b1d45c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +23,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes May 31 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "90b1ee4447d1cd59",
+        "type": "tabs",
+        "dimension": 32.511923688394276,
+        "children": [
           {
-            "id": "0408d0e788e182c4",
+            "id": "cd3e166bd8ffbf1a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes May 17 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jarl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 31 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 31 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 31 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
               }
             }
           },
@@ -278,12 +286,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a9c04adba864199",
+  "active": "a25f8b94e7b1d45c",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Game Notes/Prenotes/'23/Prenotes May 17 23.md",
     "Prenotes May 31 23.md",
+    "Seat of the Dead.md",
+    "Notes on the Multiverse/Outer/Thanatos.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md",
@@ -292,7 +303,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/Red Hills.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Outer/Thanatos.md",
     "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
@@ -304,8 +314,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Monastery of Saint Susan.md",
-    "Lake of Eternal Life.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
