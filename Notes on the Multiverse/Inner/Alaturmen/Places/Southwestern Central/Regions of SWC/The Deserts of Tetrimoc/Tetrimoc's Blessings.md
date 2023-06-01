@@ -23,10 +23,15 @@ aliases:
 	- On the platform, a plaque reads; "By the words spoken and sancitified in the years of the 33rd and the 34th, the communities of this region have the Blessing of the Great Planeblood Tetrimoc. Every year, on the day of His fall, your please and tithe shall be delivered to him by delegate, and a great festival will be held in his honor."
 	- The statue and the plaque are in nearly pristine condition.
 #### AI11.
+#### AI12.
+#### AI13.
 #### AJ8.
 #### AJ9.
 #### AJ10.
 #### AJ11.
+#### AJ12.
+#### AJ13.
+#### AK13.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
