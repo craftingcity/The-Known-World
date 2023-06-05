@@ -15,11 +15,11 @@ for the graph: [[Here lie my suppliments...]]
 - [[Arrek Bozkin]]
 - **Deceased**
 	- [[Big Buster]]
+	- [[Grandey, Young Bard]]
 	- [[Guraxlog]]
 	- [[Mateus Fyrren]]
 - [[Devililith]]
 - [[Elsa Grifiths San-Tymiq]]
-- [[Grandey, Young Bard]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -46,11 +46,10 @@ for the graph: [[Here lie my suppliments...]]
 - [[Irenaus]]
 - [[List of Names]]
 - **Mild Power**
-	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **[[Guild Representitives]]**
-	- [[Kallo Vought]]
 	- **Knights & Nobles**
+		- [[Kallo Vought]]
 		- [[Sir Harris Bly]]
 	- **Midboss**
 		- [[Glot Maxim]]
@@ -60,7 +59,6 @@ for the graph: [[Here lie my suppliments...]]
 - [[Patrica Borig]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**
