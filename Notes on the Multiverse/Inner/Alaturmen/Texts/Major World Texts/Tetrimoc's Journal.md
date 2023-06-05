@@ -15,9 +15,12 @@ I have landed here. I am injured. My tome has manifested with me as I fell. I sh
 My lair is carved. I will expand it later, as it suits my current needs. I will sleep for a long time.
 
 #### Year 23
-The stars tell me I have been sleeping for over 20 cycles. I will survey the lands as my body heals in full.
+The stars tell me I have been sleeping for over 20 cycles. I will survey the lands as my body heals in full. The air smells of [[Cierind]], though I know he is not close.
 
 #### Year 25
-My body is healed, and my lair is crafted. I have seen some bipedal creatures since in my travels, and upon my return to my lair they found me and we spoke. 
+My body is healed, and my lair is crafted. I have some bipedal creatures since in my travels, and upon my return to my lair they found me and we spoke. 
 
-I have made 
+I have made myself their rightful owner. It seems that they are glad for it.
+
+#### Year 27
+The bipedal things, 
