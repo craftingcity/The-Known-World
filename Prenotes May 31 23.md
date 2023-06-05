@@ -35,3 +35,6 @@ We might be heading back home to [[Alaturmen]] this session; if we do so, hopefu
 
 ### What happened?
 
+lol, jk, we fucking killed everyone but moses
+
+so what now?
