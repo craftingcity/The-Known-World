@@ -18,6 +18,120 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Population Center Data",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Population Data",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Faction Units",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":12}},\"scroll\":14.081361108896683}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Nation Entities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "World Wide Happenings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Places",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Texts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tracking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elemental Planes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ordening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Elemental Planes/Ordening.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":112},\"to\":{\"line\":9,\"ch\":112}}}"
+                },
+                {
+                  "title": "Elemental Planes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Feywild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Feywild/Feywild.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Underdark",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Underdark/Underdark.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Abyss",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Abyss.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.142267581096142}"
+                },
+                {
+                  "title": "River Styx",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/River Styx.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":38},\"to\":{\"line\":2,\"ch\":38}},\"scroll\":0}"
+                },
+                {
                   "title": "Inner",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
@@ -76,7 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "mode": "source",
                 "source": true
               }
@@ -177,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -202,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
               }
             }
           },
@@ -312,6 +427,23 @@
   },
   "active": "608d33af9b5baaad",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
+    "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md",
+    "Notes on the Multiverse/Inner/Elemental Planes/Ordening.md",
+    "Notes on the Multiverse/Inner/Feywild/Feywild.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Notes on the Multiverse/Outer/River Styx.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Outer/Outer.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -322,23 +454,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Game Notes/Prenotes/'23/Prenotes May 22 23.md",
-    "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
-    "Game Notes/Prenotes/'23/Prenotes May 29 23.md",
-    "Game Notes/Prenotes/'23/'23.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Game Notes.md",
-    "Tetrimoc's Journal (Propaganda).md",
-    "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Alaturmian God NPCs.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Kallo Vought.md",
-    "Game Notes/NPCs/Patrica Borig.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Irenaus.md",
-    "Game Notes/NPCs/Arrek Bozkin.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Mechanics/Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

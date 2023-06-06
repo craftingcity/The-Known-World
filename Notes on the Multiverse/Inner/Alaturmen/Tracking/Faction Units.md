@@ -25,6 +25,7 @@
 #### Ranger Scouts
 #### Light Cavalry
 ### HEAVY
+#### Warmage
 ### TRANSPORT
 ### SUPPORT
 

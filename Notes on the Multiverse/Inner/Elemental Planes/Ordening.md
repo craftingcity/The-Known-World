@@ -7,4 +7,4 @@ aliases:
 
 The laws of power that describe the hierarchy that applies to all giant-kin.
 
-This is most commonly enforced in the [[Elemental Planes]]
+This was most commonly enforced in the [[Elemental Planes]] during the time when [[All-Father Annam]] was alive.

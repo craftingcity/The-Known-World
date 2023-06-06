@@ -39,6 +39,8 @@ Beginning in [[Coalition City]], travel North along *Spineroad* until you arrive
 Beginning in [[Emorin's Plots]], travel North into [[Magius]] against the current of the *Rootlake's Feed*. Continue against the current West into [[Moonlight]]. Charter the vessel with a skeleton crew into [[Coalition City]] along *Rootlake's Feed* and then *Lakelanes*. Travel South into [[Yerba]] along *Spineroad*, and continue into [[Coalition City]]. Reclaim your vessel and crew, and return to [[Emorin's Plots]].
 
 ### Democratic Combine of Peoples
+#### 
+
 ### Holyl'nds
 ### Tetrimoc's Desert
 #### Civilized Round

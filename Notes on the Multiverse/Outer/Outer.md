@@ -8,6 +8,5 @@ The Outer planes are the planes beyond the Elemental. These can be divided into
 - **[[Limbo]]**
 - **[[Mechanis]]**
 - [[River Styx]]
-- [[Thanatos]]
 
 %% End Waypoint %%

@@ -5,38 +5,37 @@ aliases: The Deep Below, Deep Below
 
 # Underdark
 %% Begin Waypoint %%
-- **[[Underdark]]**
-	- **General**
-		- [[Lolth]]
-		- [[Underdark Air]]
-		- [[Underdark Climate]]
-		- [[Underdark Ecology]]
-		- [[Underdark Flora]]
-		- [[Underdark Hazards]]
-		- [[Underdark Light]]
-		- [[Underdark Rock Formation]]
-		- [[Underdark Threats]]
-	- **Groups**
-		- [[House Thoulca]]
-		- [[The Whitimores]]
-		- [[Ungaethram Drow Houses]]
+- **General**
+	- [[Lolth]]
+	- [[Underdark Air]]
+	- [[Underdark Climate]]
+	- [[Underdark Ecology]]
+	- [[Underdark Flora]]
+	- [[Underdark Hazards]]
+	- [[Underdark Light]]
+	- [[Underdark Rock Formation]]
+	- [[Underdark Threats]]
+- **Groups**
+	- [[House Thoulca]]
 	- [[Kalix]]
-	- **Locations & Holdings**
-		- [[Blurkfraggir]]
-		- [[Deepburrow]]
-		- [[Great Abadon Lake]]
-		- [[Growth Heart]]
-		- [[Heilich-Muwwoq]]
-		- [[Mulutumi]]
-		- [[Ootool]]
-		- [[Ungaethram]]
-		- [[Upper Northwestern Underdark]]
-		- [[Whitimore's Last Hold]]
-	- **Tables**
-		- [[Underdark Encounters]]
-		- [[Underdark Travel Table]]
-	- **Texts**
-		- [[Alylay's Journal]]
+	- [[The Whitimores]]
+	- [[Ungaethram Drow Houses]]
+- **Locations & Holdings**
+	- [[Blurkfraggir]]
+	- [[Deepburrow]]
+	- [[Great Abadon Lake]]
+	- [[Growth Heart]]
+	- [[Heilich-Muwwoq]]
+	- [[Mulutumi]]
+	- [[Ootool]]
+	- [[Ungaethram]]
+	- [[Upper Northwestern Underdark]]
+	- [[Whitimore's Last Hold]]
+- **Tables**
+	- [[Underdark Encounters]]
+	- [[Underdark Travel Table]]
+- **Texts**
+	- [[Alylay's Journal]]
 
 %% End Waypoint %%
 

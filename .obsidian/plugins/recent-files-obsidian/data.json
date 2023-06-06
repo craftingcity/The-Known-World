@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Merchant Companies and their Routes",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+    },
+    {
+      "basename": "Population Center Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
+    },
+    {
+      "basename": "Population Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
+    },
+    {
+      "basename": "Faction Units",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "Non-Nation Entities",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
+    },
+    {
+      "basename": "World Wide Happenings",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Texts",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
+    },
+    {
+      "basename": "Elemental Planes",
+      "path": "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md"
+    },
+    {
+      "basename": "Ordening",
+      "path": "Notes on the Multiverse/Inner/Elemental Planes/Ordening.md"
+    },
+    {
+      "basename": "Feywild",
+      "path": "Notes on the Multiverse/Inner/Feywild/Feywild.md"
+    },
+    {
+      "basename": "Underdark",
+      "path": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "River Styx",
+      "path": "Notes on the Multiverse/Outer/River Styx.md"
+    },
+    {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
@@ -121,14 +189,6 @@
       "path": "Lake of Eternal Life.md"
     },
     {
-      "basename": "Texts",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
       "basename": "Economy Pages",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "The Ballad of Grey Ordeal",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Ballad of Grey Ordeal.md"
-    },
-    {
-      "basename": "The Chronicles of the Denevilles",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Chronicles of the Denevilles.md"
-    },
-    {
-      "basename": "The Code of Thieves",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Code of Thieves.md"
-    },
-    {
-      "basename": "The Texts Druidic",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
-    },
-    {
-      "basename": "Natural Wonders of a Woven Reality",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/Natural Wonders of a Woven Reality.md"
-    },
-    {
-      "basename": "Arthur's Journal",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/Arthur's Journal.md"
-    },
-    {
-      "basename": "An Account of Our Fallen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/An Account of Our Fallen.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "How the Weave becomes Magic",
-      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "Ancoris Templum",
-      "path": "Notes on the Multiverse/Big Lore/Ancoris Templum.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
-      "basename": "Lord's Folly",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
-    },
-    {
-      "basename": "Economics of Tetrimoc's Desert",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
-    },
-    {
-      "basename": "Alergra Barrowinch",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
-    },
-    {
-      "basename": "Orcus",
-      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Orcus.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
     }
   ],
   "omittedPaths": [],
