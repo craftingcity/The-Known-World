@@ -17,7 +17,9 @@ When last we left our heroes, they were many moments deep beneath a grand temple
 
 ### What does the World Know?
 
+### What happened?
+
 dispelled arcane lock
 collected sample of demon ichor
-
-### What happened?
+got da chain
+left da temple

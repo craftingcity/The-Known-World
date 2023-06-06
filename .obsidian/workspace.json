@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Magical Items of Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":8},\"to\":{\"line\":6,\"ch\":8}},\"scroll\":0}"
+                },
+                {
                   "title": "Grand Pantheon",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Absolute Power/Grand Pantheon.md\",\"mode\":\"source\",\"source\":true}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Prenotes June 5 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Prenotes June 5 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Prenotes June 5 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+                "file": "Prenotes June 5 23.md"
               }
             }
           },
@@ -264,8 +270,8 @@
   },
   "active": "608d33af9b5baaad",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Prenotes June 5 23.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
