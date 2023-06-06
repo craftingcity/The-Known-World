@@ -40,7 +40,7 @@ Beginning in [[Emorin's Plots]], travel North into [[Magius]] against the curren
 
 ### Democratic Combine of Peoples
 #### 
-Beginning in [[Coalition City]], travel South into [[Goldfield]] along the current of the [[Alvalini River]]. Charter the vessel with a skeleton crew into [[Zalfari]] along the [[Alvalini River]]
+Beginning in [[Coalition City]], travel South into [[Goldfield]] along the current of the [[Alvalini River]]. Charter the vessel with a skeleton crew into [[Zalfari]] along the [[Alvalini River]], were the crew will harbor until your return.
 
 ### Holyl'nds
 ### Tetrimoc's Desert
