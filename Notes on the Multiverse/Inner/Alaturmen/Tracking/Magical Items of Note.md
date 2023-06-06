@@ -43,7 +43,7 @@ aliases:
 
 - The Tuber
 	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
-	- Currently location unknown
+	- Currently located with [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
 
 
 
