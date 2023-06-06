@@ -17,6 +17,7 @@ When last we left our heroes, they were many moments deep beneath a grand temple
 
 ### What does the World Know?
 
-
+dispel
+collected sample of demon ichor
 
 ### What happened?
