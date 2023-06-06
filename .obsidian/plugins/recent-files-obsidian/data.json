@@ -5,6 +5,10 @@
       "path": "Prenotes June 5 23.md"
     },
     {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
       "basename": "Prenotes May 22 23",
       "path": "Game Notes/Prenotes/'23/Prenotes May 22 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thanatos",
       "path": "Notes on the Multiverse/Outer/Thanatos.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     }
   ],
   "omittedPaths": [],
