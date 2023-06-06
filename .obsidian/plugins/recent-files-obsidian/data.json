@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Outer",
+      "path": "Notes on the Multiverse/Outer/Outer.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
       "basename": "Prenotes June 5 23",
-      "path": "Prenotes June 5 23.md"
+      "path": "Game Notes/Prenotes/'23/Prenotes June 5 23.md"
+    },
+    {
+      "basename": "Prenotes May 31 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes May 31 23.md"
+    },
+    {
+      "basename": "Prenotes June 14 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes June 14 23.md"
     },
     {
       "basename": "Magical Items of Note",
@@ -31,14 +55,6 @@
     {
       "basename": "Prenotes May 29 23",
       "path": "Game Notes/Prenotes/'23/Prenotes May 29 23.md"
-    },
-    {
-      "basename": "Prenotes May 31 23",
-      "path": "Prenotes May 31 23.md"
-    },
-    {
-      "basename": "Prenotes June 14 23",
-      "path": "Prenotes June 14 23.md"
     },
     {
       "basename": "'23",
@@ -103,18 +119,6 @@
     {
       "basename": "Lake of Eternal Life",
       "path": "Lake of Eternal Life.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
       "basename": "Texts",
@@ -195,10 +199,6 @@
     {
       "basename": "Abyss",
       "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Prenotes May 17 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes May 17 23.md"
     }
   ],
   "omittedPaths": [],

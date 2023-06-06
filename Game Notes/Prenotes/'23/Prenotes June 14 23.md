@@ -29,6 +29,6 @@ It's time for a fucking DUNGEON CRAWL!!!!
 
 [[Kalariel's Tower]] holds a wealth of knowledge about the [[Abyss]], the [[The Planes of Existence|Planes]] at large, and [[Orcus]]. Oh, and yknow, Kalariel himself, who is a powerful necromancer and tactician. Ideally, he will be put or put himself into a position to (somehow) return these ghosts to a corporeal form in their home plane (and his, but). 
 
-fake bodies, reinhabit to leave
+fake bodies, reinhabit to leave?
 
 ### What happened?
