@@ -18,7 +18,6 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Grandey, Young Bard]]
 	- [[Guraxlog]]
 	- [[Mateus Fyrren]]
-- [[Devililith]]
 - [[Elsa Grifiths San-Tymiq]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
@@ -40,10 +39,11 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Nobles of Prosper NPCs]]**
 	- **Past Adventurers, Now NPCs**
 		- [[Adventuring Parties]]
+		- [[Devililith]]
 		- **[[Grey Ordeal]]**
+		- [[Irenaus]]
 		- **[[Kakurak's Chosen]]**
 	- **[[True Villian NPCs]]**
-- [[Irenaus]]
 - [[List of Names]]
 - **Mild Power**
 	- **[[Folk of Business]]**
