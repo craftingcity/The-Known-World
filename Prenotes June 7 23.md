@@ -13,7 +13,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had just encountered and attempted to hide from a wandering troupe of the dark-spindly-spiney demons on their path to a shining purple light. We return to them now as they continue this combat.
+When last we left our heroes, they had just encountered and attempted to hide from a small wandering troupe of the dark-spindly-spiney demons on their path to a shining purple light. We return to them now as they continue this combat.
 
 ### What does the World Know?
 
