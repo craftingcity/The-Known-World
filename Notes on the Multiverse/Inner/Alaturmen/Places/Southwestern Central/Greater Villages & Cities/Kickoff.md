@@ -22,8 +22,10 @@ The medium-sized city built of adobe-sand masonry. The buildings are tightly gro
 
 ## Defenses
 Kickoff is under the protection of the [[Golden Claws]], although they are far from [[The Golden City]]. Many people carry their own bladed weapons and / or Durandurm weaponry, as these people are quite close to the source.
+
 ## Notable Locations
 - [[Kickoff's Great Durandurm Mines]]
 - [[Ginger's Nopal & Agave Farm]]
 - [[Tybir's Camel Ranch]]
-- Sivir's Dwarf-gang Bar
+- [[Sivir's Dwarf-Gang Bar]]
+
