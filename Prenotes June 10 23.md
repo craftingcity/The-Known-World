@@ -23,13 +23,13 @@ Jerran
 Breenabell
 Ulfgar
 Demons 
-	D1 
-	D2
+	D1 7
+	D2 22
 Wurms 
-	R1 
-	R2 
-	R3 
-	R4 
+	~~R1 18 35~~
+	~~R2 8 25~~
+	~~R3 7 ~~
+	~~R4* 4 7 13~~
 	R5 
 Nala
 
