@@ -35,5 +35,9 @@ Wurms
 	~~R5 18~~
 Nala
 
-they killed the demon monkeys
+they killed the demon monkeys, rested, and ate
 
+5 ypoly
+5 goodb
+
+discussing experiments using the demon icor/blood, the 100 infernal glasses, etc.

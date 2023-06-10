@@ -26,7 +26,9 @@ aliases:
 #### AA12.
 #### AB4. 
 #### AB5. 
-#### AB6. 
+#### AB6. Jerran's Valley Oasis
+	- An incredible source of water and food in the desert, this Oasis is a common place for local wildlife to eat and drink.
+	- This also makes it common hunting grounds for non-wild locals.
 #### AB7.
 #### AB8.
 #### AB9.
