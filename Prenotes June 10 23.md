@@ -17,5 +17,20 @@ When last we left our heroes, they had escaped the bowels of the [[Lord's Folly#
 
 ### What does the World Know?
 
+after departnig, they went Wurm fishing and encountered some of the horror-kin too
+
+Jerran
+Breenabell
+Ulfgar
+Demons 
+	D1 
+	D2
+Wurms 
+	R1 
+	R2 
+	R3 
+	R4 
+	R5 
+Nala
 
 ### What happened?

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes June 10 23",
+      "path": "Prenotes June 10 23.md"
+    },
+    {
       "basename": "Lord's Folly",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
     },
@@ -13,12 +17,12 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md"
     },
     {
-      "basename": "Prenotes June 10 23",
-      "path": "Prenotes June 10 23.md"
-    },
-    {
       "basename": "Prenotes June 14 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 14 23.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
     {
       "basename": "Prenotes June 7 23",
@@ -195,10 +199,6 @@
     {
       "basename": "Irenaus",
       "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Irenaus.md"
-    },
-    {
-      "basename": "Arrek Bozkin",
-      "path": "Game Notes/NPCs/Arrek Bozkin.md"
     }
   ],
   "omittedPaths": [],

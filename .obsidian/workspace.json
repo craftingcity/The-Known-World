@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4dc485d7cacdbb",
+        "id": "caa530f7109ab1f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e2b0e29c56827c3c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes June 7 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes June 7 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5974597644328434}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 14 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "13e817940d8a1b7c",
+            "id": "cd177402e2afff7d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -54,72 +27,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ef747e0716cf4b01",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "32ba5f46504ca1ae",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0f12e006aeb56e8f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Prenotes June 10 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
+                "file": "Prenotes June 10 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
+                "file": "Prenotes June 10 23.md"
               }
             }
           },
@@ -348,12 +257,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f12e006aeb56e8f",
+  "active": "cd177402e2afff7d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
-    "Prenotes June 10 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 14 23.md",
+    "Prenotes June 10 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Prenotes June 7 23.md",
     "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
@@ -375,8 +286,6 @@
     "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md",
     "Notes on the Multiverse/Inner/Elemental Planes/Ordening.md",
     "Notes on the Multiverse/Inner/Feywild/Feywild.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping",
