@@ -49,11 +49,14 @@ tubric's plate
 tubric's hammer
 tubric's bag
 the dense spear
+
+
 the worldbinding (abyss)
+
 potions;
 	- lighting and clouds
 	- brown and thick, giant's toe
-ingrediants;
+ingredients;
 	- wurm fang
 	- dragon tounge
 	- glowshroom

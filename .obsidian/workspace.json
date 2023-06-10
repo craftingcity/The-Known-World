@@ -69,69 +69,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7988ed6f685ce1e0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8029da1c12e30600",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29914dfa45aab87b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -365,10 +302,11 @@
   "active": "cd177402e2afff7d",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Prenotes June 10 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
@@ -390,7 +328,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping",

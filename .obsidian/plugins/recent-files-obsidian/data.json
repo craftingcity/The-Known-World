@@ -9,16 +9,20 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+      "basename": "Magic Item Authors",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
     },
     {
       "basename": "The Old Man",
       "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md"
     },
     {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md"
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
     },
     {
       "basename": "Central Alaturmen",
@@ -195,10 +199,6 @@
     {
       "basename": "Demon Lord NPCs",
       "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Demon Lord NPCs.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     }
   ],
   "omittedPaths": [],
