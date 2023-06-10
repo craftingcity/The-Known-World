@@ -5,6 +5,10 @@
       "path": "Prenotes June 10 23.md"
     },
     {
+      "basename": "Economics of Tetrimoc's Desert",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+    },
+    {
       "basename": "Lord's Folly",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Lord's Folly.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Irenaus",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Irenaus.md"
     }
   ],
   "omittedPaths": [],
