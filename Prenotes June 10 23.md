@@ -61,6 +61,10 @@ ingredients;
 	- glowshroom (x)
 	- lephora fruit (x)
 
+and then they bought guns from [[Ginger Ak-kizi]]
 
+40p 5g
+
+named themselves "The Hat"
 
 
