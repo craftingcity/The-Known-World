@@ -63,8 +63,8 @@ ingredients;
 
 and then they bought guns from [[Ginger Ak-kizi]]
 
-40p 5g
+40p 5g > 37p flat
 
-named themselves "The Hat"
+named themselves "The Hatdroppers"
 
 
