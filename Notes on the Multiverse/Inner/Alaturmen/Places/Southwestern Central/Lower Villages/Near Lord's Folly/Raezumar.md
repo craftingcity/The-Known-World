@@ -2,7 +2,7 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Raezumar
 #### Sub-names?
 ## Holding of {Faction}
 ### Located in {Region}, X:Y

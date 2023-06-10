@@ -24,7 +24,7 @@ aliases:
 			- The texts here are in Infernal, and all display rythmic ryhming schemes. The content of these texts are generally about prosperity in destruction, the ability to gain power as you take it from others, and the infinite capacity for power that each individual has.
 			- Four masked cultists were responsible for rebirthing a bald-headed man by the name or title Kalariel
 			- Orcus (or Hades, Jupiter, or Dis Pater, as he may be known) is a big pig-boar-man with a skull-on-a-spine for a wand/staff and is genericaly big and scary. 
-		- At the deepest chamber of this temple, locked behind Arcane means, a chain of black iron hangs from three of six horn-shaped-outdents carved out of the wall.
+		- At the deepest chamber of this temple, locked behind Arcane means (see Stoneshape), a chain of black iron hangs from three of six horn-shaped-outdents carved out of the wall.
 		- It is known that [[Tubric Millstone Wrinsmith]] of [[The Grey Ordeal]] died in this place during the raging combat to reach [[Gail Thomas]] as they contacted [[Orcus]].
 			- What is unknown - and yet still true - is that [[The Grey Ordeal]] did not ever encounter [[Orcus]], and neither did [[Gail Thomas]]. Kalariel sacrificed Gail and the Grand Four in a ritual that created a Worldbinding to the [[Abyss]], specifically [[Thanatos]]. This explains how Gail's corpse has been recovered by the Guilds.
 			- Kalariel excaped into [[Thanatos]], [[Tubric Millstone Wrinsmith]] broke the chain's connection, and [[Waywalket Turring]] bound the area by magic.
