@@ -41,3 +41,20 @@ they killed the demon monkeys, rested, and ate
 5 goodb
 
 discussing experiments using the demon icor/blood, the 100 infernal glasses, etc.
+
+identifying:;
+
+tubric's amulet
+tubric's plate
+tubric's hammer
+tubric's bag
+the dense spear
+the worldbinding (abyss)
+potions;
+	- lighting and clouds
+	- brown and thick, giant's toe
+ingrediants;
+	- wurm fang
+	- dragon tounge
+	- glowshroom
+	- lephora fruit
