@@ -102,6 +102,11 @@ Kurasi-gama | 5/10ft | 1d6 | special | two-handed, special (kurasi-gama) | bash
 Net (rope) | 5/15ft | | special | light, special (net, rope)
 Net (wire) | 5/10ft | | special | special (net, wire)
 Divine Incinerator | 15/30ft, 5ft sphere | 2d8 + 2d8 | fire/radiant | heavy, two-handed, ammunition (3), special (flamethrower) | bash
+Durandurm Carbine | 
+Durandurm Scatterblaster | 
+Durandurm Handcannon | 
+Durandurm Rotary Cannon | 
+
 
 # Siege Weapons
 The following weapons all have the *siege* tag, and require preparation to both move and fire. Please note that this does not include many integral peices of siege equipment, such as scaling ladders or battle towers.
