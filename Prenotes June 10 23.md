@@ -44,20 +44,23 @@ discussing experiments using the demon icor/blood, the 100 infernal glasses, etc
 
 identifying:;
 
-tubric's amulet
-tubric's plate
-tubric's hammer
-tubric's bag
-the dense spear
+tubric's amulet (x)
+tubric's plate (x)
+tubric's hammer (x)
+tubric's bag (x)
+the dense spear (x)
 
-
-the worldbinding (abyss)
+the worldbinding (abyss) (x)
 
 potions;
-	- lighting and clouds
-	- brown and thick, giant's toe
+	- lighting and clouds (x)
+	- brown and thick, giant's toe (x)
 ingredients;
-	- wurm fang
-	- dragon tounge
-	- glowshroom
-	- lephora fruit
+	- wurm fang (x)
+	- dragon tounge (x)
+	- glowshroom (x)
+	- lephora fruit (x)
+
+
+
+

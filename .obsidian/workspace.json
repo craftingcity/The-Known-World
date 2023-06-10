@@ -27,48 +27,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d6e33444fef3729f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ebb8ed75dfa8148b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
