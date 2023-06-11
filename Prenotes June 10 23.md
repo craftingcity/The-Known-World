@@ -64,6 +64,11 @@ ingredients;
 and then they bought guns from [[Ginger Ak-kizi]]
 
 	40p 5g > 37p flat
+	- 2x handguns, (Durandurm Handblaster; +DEX&PROF; 1d6+DEX)
+	- 2x carbine, (Durandurm Longblaster; +DEX&PROF; 3d6+DEX)
+	- 1x gatling, (Durandurm Gatling Blaster; 3x(+DEX&PROF; 1d6+DEX))
+	- 1x optic, (magnification, mostly aestetic; used as spyglass or other)
+	- ?x ammo, various (Durandurm Cores; (Choice of damage based on elements, Earth, Water, Wind, Fire; Thunder, Cold, Force, Fire))
 
 named themselves "The Hatdroppers"
 
