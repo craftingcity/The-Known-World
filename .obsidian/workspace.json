@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes June 10 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes June 10 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes June 10 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes June 10 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes June 10 23.md"
               }
             }
           },
@@ -269,12 +268,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae459ebc4785446f",
+  "active": "8a09bf3a4e0bad9d",
   "lastOpenFiles": [
     "Spike's Characters/Unnamed Gamer.md",
     "Spike's Characters/Spike's Characters.md",
     "Game Notes/Game Notes.md",
-    "Prenotes June 10 23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
@@ -294,7 +293,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Raezumar.md",
     "Game Notes/Prenotes/'23/Prenotes June 14 23.md",
-    "Prenotes June 7 23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 7 23.md",
     "Game Notes/Prenotes/'23/Prenotes May 24 23.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "Kalariel's Tower.md",
