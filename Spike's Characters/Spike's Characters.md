@@ -1,9 +1,9 @@
 # Spike's Characters Overview
 %% Begin Waypoint %%
-- **[[Spike's Characters]]**
-	- [[Amelia Hawkford, the Red]]
-	- [[Eliza 'Elliot' O'Brien]]
-	- [[Grekk]]
+- [[Amelia Hawkford, the Red]]
+- [[Eliza 'Elliot' O'Brien]]
+- [[Grekk]]
+- [[Unnamed Gamer]]
 
 %% End Waypoint %%
 
