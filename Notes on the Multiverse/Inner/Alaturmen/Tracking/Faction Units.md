@@ -34,6 +34,7 @@
 #### Arcane Mortar Battery
 #### Arcane Cannon-Cart
 ### TRANSPORT
+#### 
 ### SUPPORT
 #### Luh'turingole Courier
 #### Veteran Merchants
@@ -57,6 +58,7 @@
 ### HEAVY
 #### Holyl'nd Infantry Detatchment
 ### TRANSPORT
+#### Ashpacker
 ### SUPPORT
 #### Slave Gang
 
@@ -95,6 +97,7 @@
 #### Arrow Battery
 ### TRANSPORT
 #### Light Transport Wagon
+#### Heavy Transport Wagon
 ### SUPPORT
 #### Entrenched Weaponry
 #### Communications Lieutenant
