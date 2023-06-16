@@ -6,6 +6,7 @@
       {
         "id": "2d4665f97d6c7d05",
         "type": "tabs",
+        "dimension": 80.6164383561644,
         "children": [
           {
             "id": "62e82e155d3edd6b",
@@ -16,6 +17,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Erin 'Fox' Bathal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spike's Characters/Erin 'Fox' Bathal.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Grekk",
@@ -52,11 +59,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "d16b6073d3d7c794"
+          }
+        ]
+      },
+      {
+        "id": "d754077f479b270e",
+        "type": "tabs",
+        "dimension": 19.383561643835616,
+        "children": [
+          {
+            "id": "cd53d8d37f13f102",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+              }
+            },
+            "group": "d16b6073d3d7c794"
           }
         ]
       }
@@ -178,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
               }
             }
           },
@@ -286,8 +321,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62e82e155d3edd6b",
+  "active": "cd53d8d37f13f102",
   "lastOpenFiles": [
+    "Spike's Characters/Erin 'Fox' Bathal.md",
     "Spike's Characters/Grekk.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -298,7 +334,6 @@
     "Notes on the Multiverse/Big Lore/Ancoris Templum.md",
     "Notes on the Multiverse/Big Lore/Big Lore.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Spike's Characters/Erin 'Fox' Bathal.md",
     "Spike's Characters/Spike's Characters.md",
     "Kalariel's Tower.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Tetramocal Congregation.md",

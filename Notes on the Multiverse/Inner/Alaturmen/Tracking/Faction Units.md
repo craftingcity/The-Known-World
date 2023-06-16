@@ -1,3 +1,4 @@
+# Template
 ### HQ
 ### TROOPS
 ### ELITES
@@ -11,21 +12,23 @@
 ### HQ
 #### Guildcaptain
 #### High-Commander On Battle
+### TROOPS
+#### Local Levies
+#### Veteran Guard
+#### Mercenary Band
+#### Banner Band
+### ELITES
 #### Field Command Squad
 #### Field Wizard
-### TROOPS
-#### Levies
-#### Veterans
-#### Mercenaries
-### ELITES
-#### Engineering Crew
+#### Guild Engineering Crew
 #### Divine Enforcers
 #### Kitted Adventures
 ### FAST
 #### Ranger Scouts
 #### Light Cavalry
 ### HEAVY
-#### Warmage
+#### Brute Squad
+##
 ### TRANSPORT
 ### SUPPORT
 
@@ -49,23 +52,21 @@
 
 # Kingdom of Prosper
 ### HQ
-#### King Arthur
 #### Chapter Captain
-#### Chapter Marshal
 #### War Mage
 #### Chapter Mage
 ### TROOPS
-#### Volunteers
-#### Guard Squad
+#### Volunteer Militia
+#### Veteran Guard
 #### Arthur's Knights
 ### ELITES
-#### Archer Squad
+#### Chapter Marshal
 #### Veteran Guard
 #### Shield-Dancer
 #### Special Weapons Unit
-#### Casting Soldier
 ### FAST
 #### Arthur's Cavalry
+#### Archer Squad
 #### Scout Squad
 #### Light Assault Wagon
 ### HEAVY
