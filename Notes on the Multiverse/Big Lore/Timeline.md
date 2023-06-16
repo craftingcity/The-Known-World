@@ -207,7 +207,10 @@ date: 105AF
 title: The [[Second Invasion of Orcus]]...
 content:
 
-Throughout the material planes, a dark hum permiates the Weave.
+Throughout the material planes, a dark hum permiates the Weave. A casket unsealed. An idea revived. A doom begins to loom. [[Qiell Tilemundon]] gains access to the Worldbinding of the Abyss.
 
-A casket unsealed. An idea revived. A doom begins to loom.
+date: 106AF
+title:
+content:
+
 ```

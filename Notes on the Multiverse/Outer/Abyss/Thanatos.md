@@ -4,10 +4,10 @@ aliases:
 ---
 # Thanatos
 ## Garden of the Glutton
-#### A sub-region of the [[Abyss]]
+#### The First Hell of the [[Abyss]]
 ## Boundaries
 
-At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing. If one is brave - or stupid - enough to traverse beyond, into this void, they descend "deeper" into the [[Abyss]].
+At the edges of Thanatos, the plane spills over. Below, if one is brave enough to peak, is unending nothing. If one is brave - or stupid - enough to traverse beyond, into this void, they descend "deeper" into the [[Abyss]] - into [[Hydonga]].
 
 ## Contents
 ![[Thanatos-Player.png]]

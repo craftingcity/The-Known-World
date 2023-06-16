@@ -5,6 +5,46 @@
       "path": "Spike's Characters/Erin 'Fox' Bathal.md"
     },
     {
+      "basename": "Grekk",
+      "path": "Spike's Characters/Grekk.md"
+    },
+    {
+      "basename": "How the Weave becomes Magic",
+      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Outer",
+      "path": "Notes on the Multiverse/Outer/Outer.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Thanatos",
+      "path": "Notes on the Multiverse/Outer/Abyss/Thanatos.md"
+    },
+    {
+      "basename": "Demon Lords",
+      "path": "Notes on the Multiverse/Outer/Abyss/Demon Lords.md"
+    },
+    {
+      "basename": "Ancoris Templum",
+      "path": "Notes on the Multiverse/Big Lore/Ancoris Templum.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
       "basename": "Spike's Characters",
       "path": "Spike's Characters/Spike's Characters.md"
     },
@@ -27,10 +67,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -163,42 +199,6 @@
     {
       "basename": "Places",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Texts",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Elemental Planes",
-      "path": "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md"
-    },
-    {
-      "basename": "Ordening",
-      "path": "Notes on the Multiverse/Inner/Elemental Planes/Ordening.md"
-    },
-    {
-      "basename": "Feywild",
-      "path": "Notes on the Multiverse/Inner/Feywild/Feywild.md"
-    },
-    {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "River Styx",
-      "path": "Notes on the Multiverse/Outer/River Styx.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     }
   ],
   "omittedPaths": [],
