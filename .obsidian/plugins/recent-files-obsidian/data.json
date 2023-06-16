@@ -5,6 +5,22 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
     },
     {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Guild Admin",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md"
+    },
+    {
+      "basename": "Guild of Merchants",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
       "basename": "Erin 'Fox' Bathal",
       "path": "Spike's Characters/Erin 'Fox' Bathal.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "About People",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "World Wide Happenings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     }
   ],
   "omittedPaths": [],

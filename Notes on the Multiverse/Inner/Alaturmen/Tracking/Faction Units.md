@@ -21,25 +21,44 @@
 #### Field Command Squad
 #### Field Wizard
 #### Guild Engineering Crew
-#### Divine Enforcers
+#### Guild Assassin
 #### Kitted Adventures
+#### Brute Squad
+#### Divine Enforcers
 ### FAST
+#### Archer Squad
 #### Ranger Scouts
 #### Light Cavalry
 ### HEAVY
-#### Brute Squad
-##
+#### Heavy Cavalry
+#### Arcane Mortar Battery
+#### Arcane Cannon-Cart
 ### TRANSPORT
 ### SUPPORT
+#### Luh'turingole Courier
+#### Veteran Merchants
 
 # Church of the White Flame
 ### HQ
+#### Spoken on Battle
+#### Tendered on Battle
 ### TROOPS
+#### Local Levies
+#### Evangelical Volunteers
+#### Veteran Guard
 ### ELITES
+#### Hoplite Squad
+#### Battle Tendered
+#### Tendered Engineer
 ### FAST
+#### Archer Squad
+#### Evangelical Raiders
+#### Light Cavalry
 ### HEAVY
+#### Holyl'nd Infantry Detatchment
 ### TRANSPORT
 ### SUPPORT
+#### Slave Gang
 
 # Democratic Combine of Peoples
 ### HQ

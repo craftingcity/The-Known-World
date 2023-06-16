@@ -6,7 +6,6 @@
       {
         "id": "2d4665f97d6c7d05",
         "type": "tabs",
-        "dimension": 80.6164383561644,
         "children": [
           {
             "id": "62e82e155d3edd6b",
@@ -63,18 +62,10 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "d16b6073d3d7c794"
-          }
-        ]
-      },
-      {
-        "id": "d754077f479b270e",
-        "type": "tabs",
-        "dimension": 19.383561643835616,
-        "children": [
+            }
+          },
           {
-            "id": "cd53d8d37f13f102",
+            "id": "e7f6ab76364f73aa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -82,16 +73,35 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Guild Admin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Guild of Merchants",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Church of the White Flame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.853093748895407}"
                 }
               ]
             },
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                "mode": "source",
+                "source": true
               }
-            },
-            "group": "d16b6073d3d7c794"
+            }
           }
         ]
       }
@@ -321,8 +331,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd53d8d37f13f102",
+  "active": "62e82e155d3edd6b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
     "Spike's Characters/Grekk.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
@@ -344,12 +359,7 @@
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
-    "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/The Old Man.md",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts",
