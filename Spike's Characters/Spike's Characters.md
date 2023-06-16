@@ -2,8 +2,8 @@
 %% Begin Waypoint %%
 - [[Amelia Hawkford, the Red]]
 - [[Eliza 'Elliot' O'Brien]]
+- [[Erin 'Fox' Bathal]]
 - [[Grekk]]
-- [[Unnamed Gamer]]
 
 %% End Waypoint %%
 
