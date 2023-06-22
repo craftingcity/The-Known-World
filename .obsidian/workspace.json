@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes June 21 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes June 21 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":23},\"to\":{\"line\":25,\"ch\":23}},\"scroll\":7.560332284797345}"
+                },
+                {
                   "title": "Kalariel's Tower",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kalariel's Tower.md\",\"mode\":\"source\",\"source\":true}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes June 21 23.md",
+                "file": "Kalariel's Tower.md",
                 "mode": "source",
                 "source": true
               }
@@ -187,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes June 21 23.md",
+                "file": "Kalariel's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes June 21 23.md",
+                "file": "Kalariel's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes June 21 23.md"
+                "file": "Kalariel's Tower.md"
               }
             }
           },
@@ -297,8 +303,8 @@
   },
   "active": "dd6e374d47a8e1a1",
   "lastOpenFiles": [
-    "Kalariel's Tower.md",
     "Prenotes June 21 23.md",
+    "Kalariel's Tower.md",
     "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 7 23.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos.md",
