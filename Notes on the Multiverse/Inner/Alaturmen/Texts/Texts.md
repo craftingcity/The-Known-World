@@ -30,6 +30,7 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
+- [[Tetrimoc's Journal (Propaganda)]]
 - [[The Tales of Big Buster Badass]]
 
 %% End Waypoint %%

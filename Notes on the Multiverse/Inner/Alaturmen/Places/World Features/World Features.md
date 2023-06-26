@@ -5,6 +5,7 @@ aliases:
 
 # World Features
 %% Begin Waypoint %%
+- [[Lake of Eternal Life]]
 - **Natural or Territory**
 	- [[Alvalini River]]
 	- [[Deakred Range]]
