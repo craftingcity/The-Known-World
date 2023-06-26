@@ -3,14 +3,12 @@ tags: npc
 aliases:
 ---
 # Name
-## Keeper of Hektor's Keep
-### he/him
+## Standing Watcher of the [[Wheernat Clan]]
+### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-
-Hektor runs a gang out of the north-western regions of [[The Holyl'nds]]
 
 ## Roleplaying
 ### Quote

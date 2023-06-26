@@ -19,9 +19,9 @@ We return to them now; with the trample of hooves being accompanied by an off-ke
 
 ### What does the World Know?
 
-[[Alergra Barrowinch]] wants to keep and hide the WB, as well as the group at large ([[Kakurak]] may be a good option, but something like Dimensional Condension might be a better one)
-[[Qiell Tilemundon]] wants to take the WB eventually, but is more into the general information
-[[Nicolas Talaveem]] / [[Baron Cassindil]] are the few notable people who may know about the return of Moses the Brave
+[[Alergra Barrowinch]] wants to keep and hide the WB, as well as the group at large ([[Kakurak]] may be a good option, but something like Dimensional Reduction might be a better one)
+[[Qiell Tilemundon]] wants to take the WB eventually, but is more into the general information. genuinely confused as to why the party is important, so has been tracking them ("why yall hanging out in the desert so much?? then travelling right back to magius?????")
+[[Jorrin Bearscarred]] / [[Nicolas Talaveem]] / [[Baron Cassindil]] are the few notable people who may know about the return of Moses the Brave (which is fucking WORLD NEWS) ()
 
 
 ### What happened?

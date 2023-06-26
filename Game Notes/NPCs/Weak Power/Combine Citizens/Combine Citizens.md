@@ -6,7 +6,7 @@ aliases:
 # Combine Citizens
 see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%
-- **[[Combine Citizens]]**
-	- [[Srioh]]
+- [[Patrica Borig]]
+- [[Srioh]]
 
 %% End Waypoint %%

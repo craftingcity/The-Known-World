@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe29007a4e7096e0",
+        "id": "afe5aefea07bded9",
         "type": "tabs",
         "children": [
           {
-            "id": "8651961a42c5b60f",
+            "id": "e0d6874318b48027",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Prenotes June 5 23",
+                  "title": "Hektor Salar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 5 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.942942285420939}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":72},\"to\":{\"line\":12,\"ch\":72}}}"
                 },
                 {
-                  "title": "Prenotes June 28 23",
+                  "title": "Blood Clan Leadership NPCs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 28 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Prenotes June 5 23",
+                  "title": "Barons of Combine NPCs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 5 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.5843869637411103}"
-                },
-                {
-                  "title": "Prenotes June 7 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 7 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
+                "file": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
                 "mode": "source",
                 "source": true
               }
@@ -172,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
+                "file": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
+                "file": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 26 23.md"
+                "file": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md"
               }
             }
           },
@@ -280,35 +274,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8651961a42c5b60f",
+  "active": "e0d6874318b48027",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
+    "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",
+    "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Arrek Bozkin.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+    "Game Notes/NPCs/Weak Power/Elsa Grifiths San-Tymiq.md",
+    "Game Notes/NPCs/Weak Power/Combine Citizens/Patrica Borig.md",
+    "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/Natural Wonders of a Woven Reality.md",
+    "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Code of Thieves.md",
+    "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/The Tales of Big Buster Badass.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Tetrimoc's Journal (Propaganda).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/An Account of Our Fallen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/Arthur's Journal.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/Tetrimoc's Journal.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Ballad of Grey Ordeal.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Chronicles of the Denevilles.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Prenotes/'23/Prenotes June 5 23.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
-    "Spike's Characters/Spike's Characters.md",
-    "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 21 23.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 7 23.md",
-    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Spike's Characters/Erin 'Fox' Bathal.md",
-    "Spike's Characters/Grekk.md",
-    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

@@ -31,6 +31,7 @@ aliases:
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
 - [[Tetrimoc's Journal (Propaganda)]]
+- [[The Return of Moses the Brave]]
 - [[The Tales of Big Buster Badass]]
 
 %% End Waypoint %%

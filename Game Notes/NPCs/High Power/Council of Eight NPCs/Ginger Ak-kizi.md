@@ -11,6 +11,8 @@ aliases:
 
 Ginger runs [[Ginger's Nopal & Agave Farm|a farm]] as well as almost all of the local drug trade in [[Kickoff]]. She stands on the [[Golden Claws#The Council of Eight]].
 
+While she is mo
+
 ## History
 ### Conception
 #### Character Goal

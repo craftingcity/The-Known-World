@@ -12,13 +12,6 @@ for the graph: [[Here lie my suppliments...]]
 	- [[All-Father Annam]]
 	- **[[Demon Lord NPCs]]**
 	- [[Grand Pantheon]]
-- [[Arrek Bozkin]]
-- **Deceased**
-	- [[Big Buster]]
-	- [[Grandey, Young Bard]]
-	- [[Guraxlog]]
-	- [[Mateus Fyrren]]
-- [[Elsa Grifiths San-Tymiq]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -56,15 +49,20 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Hektor Salar]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
-- [[Patrica Borig]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- [[Elsa Grifiths San-Tymiq]]
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**
 		- [[Fraznky Bradley]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
+- **zDeceased**
+	- [[Big Buster]]
+	- [[Grandey, Young Bard]]
+	- [[Guraxlog]]
+	- [[Mateus Fyrren]]
 - **zNon-Humanoid NPCs**
 	- **Draconic NPCs**
 		- [[Blackacid]]
