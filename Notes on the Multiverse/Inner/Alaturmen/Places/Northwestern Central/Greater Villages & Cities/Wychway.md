@@ -10,7 +10,7 @@ Defenses:
 Other Tags:
 
 # Description
-Wychway is a small town, notable only because of its proximity to the northern exitway of [[Coalition City]].
+Wychway is a small town, notable only because of its proximity to the northern exitway of [[Coalition City]]. It is run by the matriarch of the Bearscarred family, who typically has been primarily Goliath.
 
 ## Physicality of the Holding
 
