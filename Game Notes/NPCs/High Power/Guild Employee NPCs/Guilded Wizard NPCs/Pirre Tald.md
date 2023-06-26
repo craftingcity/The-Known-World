@@ -17,3 +17,5 @@ Pirre is the White Mage on the [[Guild of Wizards#Council of Mages]]. It is thei
 ### Current
 #### Character Goal
 #### Location
+
+In the time around [[The Assault of the Giant Dissenters]], Pirre Tald is chronologically about fourty, and has the magical power of a 12th level spellcaster.

@@ -11,7 +11,7 @@ aliases:
 
 Ginger runs [[Ginger's Nopal & Agave Farm|a farm]] as well as almost all of the local drug trade in [[Kickoff]]. She stands on the [[Golden Claws#The Council of Eight]].
 
-While she is mo
+She is in direct competition for the other local blackmarket shares with a dwarven man by the name of Sivir, who runs a bar in town from which he runs guns and booze.
 
 ## History
 ### Conception

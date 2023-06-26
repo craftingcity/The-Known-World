@@ -5,6 +5,6 @@ aliases:
 
 # Guild Merchants
 %% Begin Waypoint %%
-- **[[Guilded Merchant NPCs]]**
+- [[Jasper Vwem]]
 
 %% End Waypoint %%

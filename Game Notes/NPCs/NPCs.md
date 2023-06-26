@@ -33,6 +33,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **Past Adventurers, Now NPCs**
 		- [[Adventuring Parties]]
 		- [[Devililith]]
+		- [[Dimble Turring]]
 		- **[[Grey Ordeal]]**
 		- [[Irenaus]]
 		- **[[Kakurak's Chosen]]**
@@ -40,7 +41,6 @@ for the graph: [[Here lie my suppliments...]]
 - [[List of Names]]
 - **Mild Power**
 	- **[[Folk of Business]]**
-	- **[[Guild Representitives]]**
 	- **Knights & Nobles**
 		- [[Kallo Vought]]
 		- [[Sir Harris Bly]]
@@ -51,7 +51,6 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- [[Elsa Grifiths San-Tymiq]]
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**
@@ -60,6 +59,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Orcish Shamans]]**
 - **zDeceased**
 	- [[Big Buster]]
+	- [[Elsa Grifiths San-Tymiq]]
 	- [[Grandey, Young Bard]]
 	- [[Guraxlog]]
 	- [[Mateus Fyrren]]

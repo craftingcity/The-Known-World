@@ -29,3 +29,5 @@ His invasion has been rocky, but successful overall. He has established a forwar
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
+
+# DEAD

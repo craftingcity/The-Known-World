@@ -3,7 +3,7 @@ tags: npc
 aliases:
 ---
 # Alegra Barrowinch
-## The Grand Archmage of Magius Academy
+## The Grand Archmage of [[Magius]] Academy
 ## High Mage of the Court of [[Arthur Simonson]]
 ## the Red Mage
 ### she/her
@@ -43,3 +43,5 @@ Alergra's Staff of Power
 Alergra's Cloak of Diversion
 Alergra's Invisible Bag of Holding
 The Quick Time
+
+In the time around [[The Assault of the Giant Dissenters]], Alergra is chronologically about twenty-five, and has the magical power of a 16th level spellcaster.

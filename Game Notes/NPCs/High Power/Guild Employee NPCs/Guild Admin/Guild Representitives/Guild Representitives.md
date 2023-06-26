@@ -6,9 +6,7 @@ aliases:
 # Guild Representitives
 see [[Guilds of Coalition]]
 %% Begin Waypoint %%
-- **[[Guild Representitives]]**
-	- [[Filip Grundle]]
-	- [[Jasper Vwem]]
-	- [[Yyu Clipwin]]
+- [[Filip Grundle]]
+- [[Yyu Clipwin]]
 
 %% End Waypoint %%
