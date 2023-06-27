@@ -13,9 +13,11 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had achieved a feat of great historical note; they performed a heist dozens of years in the making for a planar gate. While they gained a large swath of other items of personal importance, this so-called "Worldbinding" was the quarry of their current patron.
+When last we left our heroes, they had achieved a feat of great historical note; they performed a heist dozens of years in the making for a planar gate. While they gained a large swath of other items of personal importance, this so-called "Worldbinding" was the quarry of their current patron, and likely many other forces, each I could name in order of nefariousity, but alas...
 
-We return to them now; with the trample of hooves being accompanied by an off-key tune, the party travels north-east, snacking on Wurm jerky upon their path.
+We return to them now; with the trample of hooves being accompanied by an off-key tune, the party travels north-east, snacking on Wurm jerky upon their path. What do you do?
+
+The date is 02/27/0105 14:00.
 
 ### What does the World Know?
 

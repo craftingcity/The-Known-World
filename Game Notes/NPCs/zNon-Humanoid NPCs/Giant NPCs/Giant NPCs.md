@@ -6,9 +6,7 @@ aliases:
 # Giant Leaders
 [[Elemental Planes]], [[Ordening]]
 %% Begin Waypoint %%
-- **[[Giant NPCs]]**
-	- [[Jarl Grungar]]
-	- [[King Snure]]
-	- [[Prince Bissk]]
+- [[Jarl Grungar]]
+- [[King Snure]]
 
 %% End Waypoint %%
