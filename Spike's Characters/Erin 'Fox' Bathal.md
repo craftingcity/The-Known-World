@@ -9,6 +9,12 @@ I learned how to fight, not just with swords and spears (though the glaive combi
 And then a man came to the school; called himself a Hawkford and promised me exactly what I desired.
 
 ### Time with the Hawkfords
+For a few years, I made myself a useful soldier. I think that the family had something against me; they never really wanted me on the inside, if you know what I mean. 
 
+I ran quite a few Operations with my teams before the rumor of war came to me, and I was already too deep to say no to what was very obviously a trap. I am one of the few of us who survived. It was Hawkford money. I moved on; had to. 
+
+We've been working odd jobs together for a while now, my last few House buddies and I. That message rings true in my mind still; about how I was...
 
 ### Living "Beyond my Time"
+##### Session One; 02/27/23
+## 
