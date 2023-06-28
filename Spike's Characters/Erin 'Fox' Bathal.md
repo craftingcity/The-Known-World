@@ -17,4 +17,19 @@ We've been working odd jobs together for a while now, my last few House buddies 
 
 ### Living "Beyond my Time"
 ##### Session One; 02/27/23
-## 
+## The Party
+Arie - dark wizard
+Livinia Moss - elven ranger
+Spencer Forescythe - simplistic human monastic
+Laelithar - fire elf druid/ranger
+Wilferd M. - purple kobold with weird eyes & trident
+Barthalamule - ice-white-blue lizard man
+
+###### The River Barges
+Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the Kishmala Rainforest. 
+
+Garran is our CO for this mission - wields a greatsword.
+Rowenna Green is a halfling scientist, VIP, primary escort objective.
+Looks like some large beast-man is in charge on the cargo ships.
+
+While travelling, we notice a triplet of river-beasts leaving the river about 60ft upriver.
