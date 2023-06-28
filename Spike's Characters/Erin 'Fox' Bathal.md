@@ -39,3 +39,7 @@ As we've travelled into the Jungle, we notice a group of human people with handc
 	1. Currently unoccupied, abandondoned for a while. Stairs lead down on the backside of the house. Next to a wooden chest, banded and locked in Iron. Downstairs is a stone room, cracked, completely empty other than 3 skeletons.
 	2. Similarly unoccupied and abandoned. Found another ancient symbol of Teok in the Kitchen. 
 	3. Apparently a recent struggle occured here - furnishing makes evidence for a scuffle between a few folks. Downstairs, there are a bunch of skeletons about the floor, one has a rusted shortsword.
+
+The skeletons awoke, we fended them off, and are resting in the 3rd house.
+
+###### The Inner Jungle
