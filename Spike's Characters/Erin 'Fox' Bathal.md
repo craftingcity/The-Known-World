@@ -32,8 +32,10 @@ Three raft-esq boats each carry one third of the expedition; the Science team, C
 	Rowenna Green is a halfling scientist, VIP, primary escort objective.
 	Looks like some large beast-man is in charge on the cargo ships.
 
-While travelling, we notice a triplet of river-beasts leaving the river about 60ft upriver after (MAYBE) eating a person? We travelled a while longer before stopping to make camp for our first expedition area.
+While travelling, we notice a triplet of river-beasts leaving the river about 60ft upriver after (MAYBE) eating a person? (Spencer found an ancient symbol of Teok in the water) We travelled a while longer before stopping to make camp for our first expedition area.
 
 As we've travelled into the Jungle, we notice a group of human people with handcrafted bone garments, crude wooden bows and spears. Bout 10 minutes later, we find a half-wall and three house buildings.
 
 	1. Currently unoccupied, abandondoned for a while. Stairs lead down on the backside of the house. Next to a wooden chest, banded and locked in Iron. Downstairs is a stone room, cracked, completely empty other than 3 skeletons.
+	2. Similarly unoccupied and abandoned. Found another ancient symbol of Teok in the Kitchen. 
+	3. Apparently a recent struggle occured here - furnishing makes evidence for a scuffle between a few folks. Downstairs, there are a bunch of skeletons about the floor, one has a rusted shortsword.
