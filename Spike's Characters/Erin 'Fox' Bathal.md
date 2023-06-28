@@ -26,10 +26,14 @@ Wilferd M. - purple kobold with weird eyes & trident
 Barthalamule - ice-white-blue lizard man
 
 ###### The River Barges
-Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the Kishmala Rainforest. 
+Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the Kishmala Rainforest. The Green-Barrow company was our parent patron.
 
 	Garran is our CO for this mission - wields a greatsword.
 	Rowenna Green is a halfling scientist, VIP, primary escort objective.
 	Looks like some large beast-man is in charge on the cargo ships.
 
-While travelling, we notice a triplet of river-beasts leaving the river about 60ft upriver after (MAYBE) eating a person?
+While travelling, we notice a triplet of river-beasts leaving the river about 60ft upriver after (MAYBE) eating a person? We travelled a while longer before stopping to make camp for our first expedition area.
+
+As we've travelled into the Jungle, we notice a group of human people with handcrafted bone garments, crude wooden bows and spears. Bout 10 minutes later, we find a half-wall and three house buildings.
+
+	1. Currently unoccupied, abandondoned for a while. Stairs lead down on the backside of the house. Next to a wooden chest, banded and locked in Iron. Downstairs is a stone room, cracked, completely empty other than 3 skeletons.
