@@ -13,9 +13,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes... well. Most of them were dead. A fate all too common across the multiverse. For any ordinary soul, this would be the end of their story as they understand it, an eternity of similarity awaiting them until entropy takes them into nothing.
-
-Luckily for us, our heroes are anything but ordinary;
+When last we left our heroes... well. Most of them were dead. A fate all too common across the multiverse. For any ordinary soul, this would be the end of their story as they understand it, an eternity of similarity awaiting them until entropy takes them into nothing. Luckily for us, our heroes are anything but ordinary;
 
 You remember what happened before you were here: the curse, the wizards, the long march north with the Eladrin, the pink, the dark. The split. Daelith torn limb from core. The castle. The incredible indescribable pain that raced through your body, mind, and wholeness of being until you became to be where you are now.
 

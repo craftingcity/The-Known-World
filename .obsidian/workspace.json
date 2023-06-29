@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c44c6b59f0f990bf",
+        "id": "692256cc2e2bf63c",
         "type": "tabs",
         "children": [
           {
-            "id": "adbe932b2a377a65",
+            "id": "8f634834645e1d37",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,9 +18,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Spike's Characters",
+                  "title": "Prenotes June 28 23",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spike's Characters/Spike's Characters.md\",\"mode\":\"source\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 28 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":318},\"to\":{\"line\":17,\"ch\":318}},\"scroll\":7.4388324196059665}"
+                },
+                {
+                  "title": "Prenotes Jan 28 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Jan 28 23.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -28,7 +34,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8631d6b96e7d6d0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1813458f43fddbdc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bcf1fdaa0403605f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md"
+                "file": "Notes on the Multiverse/Notes on the Multiverse.md"
               }
             }
           },
@@ -262,10 +331,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adbe932b2a377a65",
+  "active": "8f634834645e1d37",
   "lastOpenFiles": [
-    "Spike's Characters/Spike's Characters.md",
     "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+    "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
+    "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
+    "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
+    "Spike's Characters/Erin 'Fox' Bathal.md",
+    "Spike's Characters/Spike's Characters.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
     "Untitled.md",
@@ -284,12 +359,6 @@
     "Game Notes/NPCs/Weak Power/Lower Holyl'nders/Lower Holyl'nders.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Fraznky Bradley.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Griss'eltel Bodaim.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Edward Bodaim.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Barret Bodaim.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Asilar 'Goldhand' Guir.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md",
-    "Game Notes/NPCs/Weak Power/Combine Citizens/Srioh.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
