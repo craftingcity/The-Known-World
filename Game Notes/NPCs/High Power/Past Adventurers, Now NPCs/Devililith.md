@@ -4,6 +4,7 @@ aliases:
 ---
 # Devililith
 ## Gnome Blacksmith of Great Renown
+## Champion of Gromosh
 ### he/him
 
 5'1"
