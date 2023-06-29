@@ -38,3 +38,6 @@ Vix
 Daelith
 Inec
 Boomer 4 17
+
+They have since restrained Kalariel; they mean to interrogate him, and while he is an unreliable narrator, he does have information that the party can use.
+
