@@ -8,11 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e559088585fb37e",
+            "id": "5f9a7f995349ff6a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Kalariel's Tower",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -44,6 +50,33 @@
               "type": "markdown",
               "state": {
                 "file": "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e559088585fb37e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes June 28 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes June 28 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":9},\"to\":{\"line\":29,\"ch\":9}},\"scroll\":15.830424818858482}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md"
+                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md"
               }
             }
           },
@@ -322,11 +356,12 @@
   },
   "active": "1e559088585fb37e",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
     "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Devililith.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
@@ -347,7 +382,6 @@
     "Game Notes/NPCs/zDeceased/Elsa Grifiths San-Tymiq.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Macht.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Orcish Shamans.md",
-    "Game Notes/NPCs/Weak Power/Lower Holyl'nders/Marcus.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
