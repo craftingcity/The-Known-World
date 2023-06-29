@@ -32,3 +32,9 @@ It's time for a fucking DUNGEON CRAWL!!!!
 fake bodies, reinhabit to leave?
 
 ### What happened?
+
+Gringold
+Vix
+Daelith
+Inec
+Boomer 
