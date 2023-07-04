@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Faction Turn Page",
+      "path": "ORGANIZATION/TEMPLATES/Faction Turn Page.md"
+    },
+    {
+      "basename": "Faction Units",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+    },
+    {
       "basename": "Prenotes July 05 23",
       "path": "Prenotes July 05 23.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Jorrin Bearscarred",
       "path": "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md"
-    },
-    {
-      "basename": "Enoch Ben",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Enoch Ben.md"
-    },
-    {
-      "basename": "Caris Avner",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md"
     }
   ],
   "omittedPaths": [],
