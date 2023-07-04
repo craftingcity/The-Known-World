@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e8f8cacfb0ad4f3",
+        "id": "a0a69f1836421d93",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd701433e32dae3",
+            "id": "29185599b79c7fab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "2c00abd0c7cf966a",
+            "id": "b56b3da380c1ec02",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+                "file": "Prenotes July 05 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+                "file": "Prenotes July 05 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
+                "file": "Prenotes July 05 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes June 28 23.md"
+                "file": "Prenotes July 05 23.md"
               }
             }
           },
@@ -275,15 +275,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c00abd0c7cf966a",
+  "active": "b56b3da380c1ec02",
   "lastOpenFiles": [
+    "Prenotes July 05 23.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 21 23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 7 23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
     "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Devililith.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
@@ -293,16 +297,12 @@
     "Spike's Characters/Spike's Characters.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
-    "Untitled.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Prince Bissk.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/King Snure.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Quosetteng.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Giant NPCs.md",
-    "Game Notes/NPCs/zDeceased/Mateus Fyrren.md",
-    "Game Notes/NPCs/zDeceased/Guraxlog.md",
-    "Game Notes/NPCs/zDeceased/Elsa Grifiths San-Tymiq.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
