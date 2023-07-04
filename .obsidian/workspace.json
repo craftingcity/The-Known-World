@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb78d68b98e7353c",
+        "id": "491e2db25a8f95bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9d88b3b4ce4870bf",
+            "id": "8f750af970afce2a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Faction Units",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ORGANIZATION/TEMPLATES/Faction Turn Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -263,9 +249,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d88b3b4ce4870bf",
+  "active": "8f750af970afce2a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
+    "Text.md",
+    "Books To Write.md",
+    "A Grand Notepad.md",
+    "Methods of Organization.md",
+    "ORGANIZATION/TEMPLATES/Faction Turn Insert.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md",
+    "ORGANIZATION/TEMPLATES/Faction Turn Page.md",
     "Prenotes July 05 23.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Game Notes/Prenotes/'23/Prenotes June 21 23.md",
@@ -284,13 +277,6 @@
     "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
     "Spike's Characters/Spike's Characters.md",
-    "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Prince Bissk.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/King Snure.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Quosetteng.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

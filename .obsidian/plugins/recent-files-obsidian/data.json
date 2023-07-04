@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Faction Turn Page",
-      "path": "ORGANIZATION/TEMPLATES/Faction Turn Page.md"
+      "basename": "Texts",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
     },
     {
-      "basename": "Faction Units",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Faction Units.md"
+      "basename": "Text",
+      "path": "Text.md"
+    },
+    {
+      "basename": "Books To Write",
+      "path": "Books To Write.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Methods of Organization",
+      "path": "Methods of Organization.md"
     },
     {
       "basename": "Prenotes July 05 23",
@@ -187,18 +199,6 @@
     {
       "basename": "Agrandica",
       "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md"
-    },
-    {
-      "basename": "Thief Lords of the Desert",
-      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Thief Lords of the Desert.md"
-    },
-    {
-      "basename": "Valerio Avishalom",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Valerio Avishalom.md"
-    },
-    {
-      "basename": "Jorrin Bearscarred",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md"
     }
   ],
   "omittedPaths": [],
