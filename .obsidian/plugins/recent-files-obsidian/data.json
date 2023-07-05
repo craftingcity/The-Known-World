@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Gudeliva",
       "path": "Gudeliva.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Combine Citizens",
       "path": "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md"
-    },
-    {
-      "basename": "Cobalt",
-      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Cobalt.md"
     }
   ],
   "omittedPaths": [],
