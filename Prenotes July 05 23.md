@@ -19,8 +19,6 @@ So far, this place has been a refuge, devoid of both life and unlife. Your explo
 
 We return to the party now, as they crest beyond the second floor landing and into the third floor;
 
-
-
 ### What does the World Know?
 
 
