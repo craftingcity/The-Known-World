@@ -14,5 +14,5 @@ This document summarizes the knowledge found within Kalariel's Grimoire. The tex
 		- third;
 		- fourth;
 		- fifth;
-		- sixth;
-		- seventh; 
+		- sixth; *summon fiend*, *create homunculus* + notes on arcanotech recasting devices, *harm*
+		- seventh; *finger of death*

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gudeliva",
+      "path": "Gudeliva.md"
+    },
+    {
       "basename": "Kalariel's Grimoire",
       "path": "Kalariel's Grimoire.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cobalt",
       "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Cobalt.md"
-    },
-    {
-      "basename": "Barthalamule",
-      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Barthalamule.md"
     }
   ],
   "omittedPaths": [],
