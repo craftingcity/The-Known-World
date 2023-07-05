@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "491e2db25a8f95bf",
+        "id": "eff8ceb38e0422d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f750af970afce2a",
+            "id": "ec8eefadf0740563",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kalariel's Grimoire.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kalariel's Grimoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kalariel's Grimoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +215,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kalariel's Grimoire.md"
+              }
             }
           },
           {
@@ -249,10 +257,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f750af970afce2a",
+  "active": "ec8eefadf0740563",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Text.md",
+    "Kalariel's Grimoire.md",
+    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
-    "Text.md",
     "Books To Write.md",
     "A Grand Notepad.md",
     "Methods of Organization.md",
@@ -268,7 +278,6 @@
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md",
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
     "Game Notes/Prenotes/'23/Prenotes May 31 23.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Devililith.md",
@@ -276,7 +285,6 @@
     "Game Notes/Prenotes/'22/Prenotes June 14 22.md",
     "Game Notes/Prenotes/'23/Prenotes Jan 28 23.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
-    "Spike's Characters/Spike's Characters.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

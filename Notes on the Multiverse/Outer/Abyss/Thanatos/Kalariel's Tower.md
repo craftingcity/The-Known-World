@@ -9,5 +9,4 @@ aliases:
 ## Description
 Kalariel's Tower is an incredibly large circular tower of uncracked stone. Atop the tower, a large wire pyramid hosts a brilliant purple light shining out across the whole Abyss.
 
-## Structure
-### 
+Most of the important information here is going to be gleamed from [[Kalariel's Grimoire]] or [[Kalariel]] himself.

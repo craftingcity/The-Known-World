@@ -10,6 +10,7 @@
 - [[Stub]]
 - [[Table]]
 - [[Tags and Aliases]]
+- [[Text]]
 - [[Watches]]
 - [[Waypoint]]
 

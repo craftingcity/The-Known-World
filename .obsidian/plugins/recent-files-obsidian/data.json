@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Texts",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+      "basename": "Kalariel's Grimoire",
+      "path": "Kalariel's Grimoire.md"
     },
     {
       "basename": "Text",
-      "path": "Text.md"
+      "path": "ORGANIZATION/TEMPLATES/Text.md"
+    },
+    {
+      "basename": "Kalariel's Tower",
+      "path": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md"
+    },
+    {
+      "basename": "Texts",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
     },
     {
       "basename": "Books To Write",
@@ -55,10 +63,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "Kalariel's Tower",
-      "path": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md"
     },
     {
       "basename": "Prenotes May 31 23",
@@ -195,10 +199,6 @@
     {
       "basename": "Barthalamule",
       "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Barthalamule.md"
-    },
-    {
-      "basename": "Agrandica",
-      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md"
     }
   ],
   "omittedPaths": [],
