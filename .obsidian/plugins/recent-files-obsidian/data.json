@@ -5,6 +5,10 @@
       "path": "Kalariel's Grimoire.md"
     },
     {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
       "basename": "Prenotes June 28 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 28 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hektor Salar",
       "path": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md"
-    },
-    {
-      "basename": "Glot Maxim",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Glot Maxim.md"
     }
   ],
   "omittedPaths": [],

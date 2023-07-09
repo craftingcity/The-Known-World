@@ -34,5 +34,17 @@ This document summarizes the knowledge found within Kalariel's Grimoire. The tex
 			- *create homonculus*
 				- a paragraph of nearly incoherent celebration
 	- Secondarily, through much insight and translation, steps of a plan begin to take shape - not of Kal's making, but enacting;
-		1. Rely on Orcus (Hades/Jupiter/Dis Pat)
-		2. 
+		1. Rely on Orcus (Hades/Jupiter/Dis Pater) for protection; see the island Kal's tower is on.
+		2. Act on Orcus' wishes; they happen to correspond with positive outcomes during my time here and further my goals of immortality
+		3. Become a faithful servant, and begin creating a reasonable path into Alaturmen, aka, the Corpsemeat;
+			- from here one out, the rambling takes more and more hold
+		4. Build the bridge
+			- "didnt really work out, kinda too easy for them"
+		5. Build the "syringe"
+			- "done and dusted, the barrier is weak, like i said"
+		6. Tweak dosage
+			- "thought it might be too much, but boss loved it, wants to start pushing more - gotta build better capsules"
+			- "caps done, but still not dense enough to disperse on contact like we want"
+			- "THIS IS FUCKING STUIPID"
+			- "his darkness may guide me unholy be thy name"
+		1. Take the bridge again

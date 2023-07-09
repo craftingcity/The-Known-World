@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7437c7caf08e159",
+        "id": "d2d787d73bd12dd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1975400586d8be5c",
+            "id": "8948ea81170789cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,15 +20,31 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "38c012405966e2a8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Kalariel's Grimoire.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.3.5"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalariel's Grimoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalariel's Grimoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +229,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kalariel's Grimoire.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,12 +269,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1975400586d8be5c",
+  "active": "38c012405966e2a8",
   "lastOpenFiles": [
+    "Kalariel's Grimoire.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Prenotes July 05 23.md",
     "ORGANIZATION/TEMPLATES/Text.md",
     "Methods of Organization.md",
-    "Kalariel's Grimoire.md",
     "Books To Write.md",
     "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
@@ -284,7 +297,6 @@
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Prince Bissk.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/King Snure.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
