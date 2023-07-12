@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+    },
+    {
       "basename": "Thanatos",
       "path": "Notes on the Multiverse/Outer/Abyss/Thanatos/Thanatos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Patrica Borig",
       "path": "Game Notes/NPCs/Weak Power/Combine Citizens/Patrica Borig.md"
-    },
-    {
-      "basename": "Combine Citizens",
-      "path": "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md"
     }
   ],
   "omittedPaths": [],
