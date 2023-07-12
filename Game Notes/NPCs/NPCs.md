@@ -12,6 +12,7 @@ for the graph: [[Here lie my suppliments...]]
 	- [[All-Father Annam]]
 	- **[[Demon Lord NPCs]]**
 	- [[Grand Pantheon]]
+- [[Gudeliva]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -40,6 +41,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[True Villian NPCs]]**
 - [[List of Names]]
 - **Mild Power**
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Kallo Vought]]
@@ -51,6 +53,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- **[[Ex-Bandit Lords]]**

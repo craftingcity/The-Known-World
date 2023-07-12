@@ -29,6 +29,7 @@ The five layers of the Abyss are each ruled by a demon lord. Demons and their lo
 %% Begin Waypoint %%
 - [[Demon Lords]]
 - **[[Thanatos]]**
+	- [[Kalariel's Grimoire]]
 	- [[Kalariel's Tower]]
 	- [[Neranteen, the City of the Fishers]]
 	- [[Seat of the Dead]]

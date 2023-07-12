@@ -1,10 +1,11 @@
 # ORGANIZATION Overview
 %% Begin Waypoint %%
-- **[[ORGANIZATION]]**
-	- [[Holding Rules]]
-	- [[Notes From Grain Into Gold]]
-	- [[Organizational Notions]]
-	- **[[TEMPLATES]]**
+- [[Books To Write]]
+- [[Holding Rules]]
+- [[Methods of Organization]]
+- [[Notes From Grain Into Gold]]
+- [[Organizational Notions]]
+- **[[TEMPLATES]]**
 
 %% End Waypoint %%
 
