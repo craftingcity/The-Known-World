@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md",
+                "file": "Prenotes July 12 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md",
+                "file": "Prenotes July 12 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md"
+                "file": "Prenotes July 12 23.md"
               }
             }
           },
@@ -326,10 +326,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f7fad74d668b9dc",
+  "active": "3e46f09d449cb63a",
   "lastOpenFiles": [
-    "Karenos, River's Keeper.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md",
+    "Karenos, River's Keeper.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md",
     "Notes on the Multiverse/Outer/River Styx.md",
     "Prenotes July 12 23.md",

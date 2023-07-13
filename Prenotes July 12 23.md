@@ -21,3 +21,5 @@ We return to them now, moments after they have restrained this ancient man by th
 
 
 ### What happened?
+
+they made it out of [[Thanatos]] via the [[River Styx]] - with bodies and [[Kalariel]].
