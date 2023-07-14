@@ -29,11 +29,29 @@ aliases:
 
 - Bag of Planes
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use;
-	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during the time of *
+	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.*
 		- Greenhouse;
+			- Foodstuffs
+			- Currently there are multiple alchemically potent plants growing here:
+				- Witchweed (3x)
+				- Polypore (1x Y, 1x R, 1x B)
+				- Aloe Vera (1x)
+				- Dragons Tounge (1x)
+				- Lephora Fruit (1x)
+				- Nightshade (1x)
+				- Glowshroom (1x)
+				- Cannabis / Hemp (1x)
 		- Stables;
+			- 3 Horses
 		- Bedroom;
-		- 
+		- Barracks;
+			- room for 8 comfortably
+		- Kitchen;
+		- Library;
+		- Forge;
+		- Pool;
+		- Makeshift Firing Range;
+		- Blanks;
 	- Currently possessed by [[Nala]]
 
 ## Weapons
