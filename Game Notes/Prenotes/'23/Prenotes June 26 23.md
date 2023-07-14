@@ -28,3 +28,7 @@ The date is 02/27/0105 14:00.
 the next like, dramatic steps are probably going to look like finding out more about Worldbindings and or finding more Worldbindings? we know that Moses is going to come out of the WB eventually, and that might have to happen offscreen.
 
 ### What happened?
+
+The Hatdroppers bought out a safe deposit box in the Golden Ward of Coalition City for a year, and have their Bag of Holding inside, along with 3000 silver swords, Ulfgar's Old Warhammer, Holy Symbol of Ar'Kraven, and Chainmail.
+
+They headed to The Dew Drop, an Alchemical shop in the Golden Ward, to meet with [[Alergra Barrowinch]].
