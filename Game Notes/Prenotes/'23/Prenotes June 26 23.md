@@ -25,6 +25,6 @@ The date is 02/27/0105 14:00.
 [[Qiell Tilemundon]] wants to take the WB eventually, but is more into the general information. Genuinely confused as to why the party is important, so has been tracking them ("why yall hanging out in the desert so much?? then travelling right back to magius?????")
 [[Jorrin Bearscarred]] / [[Nicolas Talaveem]] / [[Baron Cassindil]] are the few notable people who may know/want to know about the return of Moses the Brave (which is fucking WORLD NEWS)
 
-the next like, dramatic steps are probably going to look like finding out more about Worldbindings and or finding more Worldbindings? we know that Moses is going to come out of the WB eventually, and that might have to happen offscreen
+the next like, dramatic steps are probably going to look like finding out more about Worldbindings and or finding more Worldbindings? we know that Moses is going to come out of the WB eventually, and that might have to happen offscreen.
 
 ### What happened?
