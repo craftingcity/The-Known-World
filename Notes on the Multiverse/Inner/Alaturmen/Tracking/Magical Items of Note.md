@@ -27,6 +27,15 @@ aliases:
 	- > A beautiful fist sized ruby cut precisely into a geometric heart. Upon close inspection, a dim orange glow can be seen to flicker at the center of the gem.
 	- Currently possessed by [[Amashod]]
 
+- Bag of Planes
+	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use;
+	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during the time of *
+		- Greenhouse;
+		- Stables;
+		- Bedroom;
+		- 
+	- Currently possessed by [[Nala]]
+
 ## Weapons
 - Magni Liberatoris Nostri Temporis
 	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
