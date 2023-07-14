@@ -27,12 +27,12 @@ aliases:
 	- > A beautiful fist sized ruby cut precisely into a geometric heart. Upon close inspection, a dim orange glow can be seen to flicker at the center of the gem.
 	- Currently possessed by [[Amashod]]
 
-- Bag of Planes
+- Tubric's Bag of Rooms
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use;
 	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.*
 		- Greenhouse;
-			- Foodstuffs
-			- Currently there are multiple alchemically potent plants growing here:
+			- Currently, there are multiple foodstuff growing here, including Potatoes and Carrots.
+			- Currently, there are multiple alchemically potent plants growing here:
 				- Witchweed (3x)
 				- Polypore (1x Y, 1x R, 1x B)
 				- Aloe Vera (1x)
@@ -44,6 +44,7 @@ aliases:
 		- Stables;
 			- 3 Horses
 		- Bedroom;
+			- Worldbinding Abyss
 		- Barracks;
 			- room for 8 comfortably
 		- Kitchen;
@@ -51,6 +52,7 @@ aliases:
 		- Forge;
 		- Pool;
 		- Makeshift Firing Range;
+		- Makeshift Treasure Room;
 		- Blanks;
 	- Currently possessed by [[Nala]]
 
