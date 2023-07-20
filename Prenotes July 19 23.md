@@ -30,3 +30,5 @@ Dae 6
 Kal 3 (3/5)
 
 ### What happened?
+
+they left!! lets go [[Karenos, River's Keeper]]!!!!
