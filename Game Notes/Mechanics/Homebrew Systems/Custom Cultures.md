@@ -181,7 +181,7 @@ You have spent your life before adventure working under the [[Baron Glask]]. The
 
 You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
-In addition, once per long rest, when you deal damage with a weapon attack, you may re-roll one of the damage dice. You must take the second result.
+In addition, once per long rest, when you deal damage with a weapon attack, you may re-roll any number of the damage dice. You must take the second result.
 
 
 ## Slimknife
