@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Baron Cassindil",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
+    },
+    {
+      "basename": "Prenotes June 26 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes June 26 23.md"
+    },
+    {
+      "basename": "Jorrin Bearscarred",
+      "path": "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md"
+    },
+    {
       "basename": "The Return of Moses the Brave",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md"
+    },
+    {
+      "basename": "Wychway",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md"
     },
     {
       "basename": "Coalition City",
@@ -51,10 +67,6 @@
     {
       "basename": "Prenotes June 28 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 28 23.md"
-    },
-    {
-      "basename": "Prenotes June 26 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes June 26 23.md"
     },
     {
       "basename": "Guild of Merchants",
@@ -187,18 +199,6 @@
     {
       "basename": "Methods of Organization",
       "path": "ORGANIZATION/Methods of Organization.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Outer",
-      "path": "Notes on the Multiverse/Outer/Outer.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],
