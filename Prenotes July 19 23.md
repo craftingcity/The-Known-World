@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for July 19th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -21,6 +21,12 @@ Everybody roll initiative.
 
 ### What does the World Know?
 
-Kalariel fights as a Drow Mage, see aidd.org, and has Contingency (Invisibility)
+Kalariel fights as a Drow Mage, see aidd.org, and has Contingency (Greater Invisibility)
+
+Dot 20
+Shu 17
+Ren 14
+Dae 6
+Kal 3
 
 ### What happened?
