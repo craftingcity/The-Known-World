@@ -21,6 +21,6 @@ Everybody roll initiative.
 
 ### What does the World Know?
 
-Kalariel fights as a Drow Mage, see aidd.org
+Kalariel fights as a Drow Mage, see aidd.org, and has Contingency (Invisibility)
 
 ### What happened?
