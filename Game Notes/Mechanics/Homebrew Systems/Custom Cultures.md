@@ -181,7 +181,7 @@ You have spent your life before adventure working under the [[Baron Glask]]. The
 
 You gain +2 to your Strength Score and +1 to your Constitution Score. You are proficient in the Animal Handling and Intimidation Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
-In addition, once per long rest, when you deal damage with a weapon attack, you may re-roll any number of the damage dice. You must take the second result.
+In addition, once per long rest, when you deal damage with a weapon attack, you may re-roll any number of damage dice. You must take the second result.
 
 
 ## Slimknife
@@ -190,7 +190,7 @@ You have spent your life before adventure as an agent of [[Baron Avory]]. You pl
 
 You gain +2 to your Dexterity Score and +1 to your Intelligence Score. You are proficient in the Deception and Stealth Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
-In addition, once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a *finesse* or a *ranged* weapon.
+In addition, once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll and attack was made with a *finesse* or a *ranged* weapon.
 
 
 ## Righteous Beast
@@ -199,7 +199,7 @@ You have spent your life before adventure in the [[Northern Quillbuck Jungle]] u
 
 You gain +2 to your Wisdom Score and +1 to your Strength Score. You are proficient in the Acrobatics, Nature, and Survival Skills. You know [[Golopak (language)]].
 
-In addition, once per seven days, you may spend an action. If you do so, make a Charisma check. Each beast or plant creature within makes a Wisdom saving throw that check. If the creature fails it's saving throw, it is charmed by you for 10 minutes.
+In addition, once per seven days, you may spend an action. If you do so, make a Charisma check. Each beast or plant creature within makes a Wisdom saving throw against that check. If the creature fails it's saving throw, it is charmed by you for 10 minutes.
 
 
 ## Hillkeep Loyalist

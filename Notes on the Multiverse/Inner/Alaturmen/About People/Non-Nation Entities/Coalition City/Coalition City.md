@@ -29,7 +29,7 @@ In the center of the city, the [[Wheel Ward]] holds the overflow from the other 
 #### The Iron Ward
 The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this ward are brutalist and many are constructed such that they would be effective defense during a siege of the city.
 
-Most of the occupants of this ward support the City's military-industrial complex.
+Most of the occupants of this ward support the City's military-industrial complex. 
 
 #### The Ivory Ward
 The [[Ivory Ward]] holds the craftsfolk and their opulent structures and gaudy architecture. Each building is unique, and they all create their own statement in the neighborhood. 

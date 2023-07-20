@@ -6,6 +6,7 @@
       {
         "id": "f3f141c3cda9cbcd",
         "type": "tabs",
+        "dimension": 89.87341772151899,
         "children": [
           {
             "id": "e8e8a95c75218c59",
@@ -35,25 +36,6 @@
             }
           },
           {
-            "id": "c36ba9447943ccb2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
             "id": "7bcc586ab87afae9",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -73,9 +55,16 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4a8479d18678e776",
+        "type": "tabs",
+        "dimension": 10.126582278481013,
+        "children": [
           {
-            "id": "2aa80ceb9487156b",
+            "id": "eae189b79a8c9875",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -87,37 +76,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1ea8014d69488657",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
               }
             }
           },
@@ -346,10 +311,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2aa80ceb9487156b",
+  "active": "e8e8a95c75218c59",
   "lastOpenFiles": [
-    "Prenotes July 05 23.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Prenotes July 05 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
