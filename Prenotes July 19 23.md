@@ -15,9 +15,12 @@ aliases:
 
 When last we left our heroes, they cast this world into darkness. Using the combined powers of Ren's Ki, Shu's Smite, and a great deal of persistence, they felled the spire atop the tower overlooking the whole of this plane - and with it the purple light of this world.
 
-Moments later, the party quickly spotted a flying humanoid figure 
+Moments later, the party quickly spotted a humanoid figure flying towards them at a great speed;
+
+Everybody roll initiative.
 
 ### What does the World Know?
 
+Kalariel fights as a Drow Mage, see aidd.org
 
 ### What happened?
