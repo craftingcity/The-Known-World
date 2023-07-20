@@ -27,6 +27,6 @@ Dot 20
 Shu 17
 Ren 14
 Dae 6
-Kal 3
+Kal 3 (3/5)
 
 ### What happened?
