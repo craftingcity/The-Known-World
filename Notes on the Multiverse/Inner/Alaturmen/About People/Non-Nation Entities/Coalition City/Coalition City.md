@@ -24,19 +24,21 @@ Individuals, like wanders or merchants, as well as the major [[Merchant Companie
 Starting from the north, and continuing clockwise, the wards are located in a ring around the [[Wheel Ward]] as follows. The walls of the city are all, unless otherwise described, are a grey recomposite stone brick that forms 40-foot walls - not that they are much protection from anyone more than 1000 yards away, upon the natural cliffside.
 
 #### The Wheel Ward
-In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. Its walls form a circular space, again formed into a torus by the central *building*.
+In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. Its walls form a circular space formed into a torus by the central Temple to the Many.
 
 #### The Iron Ward
-The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this 
+The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this ward are brutalist and many are constructed such that they would be effective defense during a siege of the city.
+
+Most of the occupants of this ward support the City's military-industrial complex. 
 
 #### The Ivory Ward
-The [[Ivory Ward]] holds the craftsfolk and their opulent structures and gaudy architecture. 
+The [[Ivory Ward]] holds the craftsfolk and their opulent structures and gaudy architecture. Each building is unique, and they all create their own statement in the neighborhood. 
 
 #### The Moss Ward
 The [[Moss Ward]] pales in comparison, housing the many commonfolk in dense apartments and housing complexes. 
 
 #### The Stone Ward
-The [[Stone Ward]] was the first residential ward to be built, although few folks have lived through its long, dragging construction. 
+The [[Stone Ward]] was the first residential ward to be built, although few folks have lived through its long, dragging construction.
 
 #### The Jade Ward
 The [[Jade Ward]] houses new money merchants, and is a common mark for the thieves of the City. 

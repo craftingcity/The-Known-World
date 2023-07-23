@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Prenotes June 28 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 28 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mateus Fyrren",
       "path": "Game Notes/NPCs/zDeceased/Mateus Fyrren.md"
-    },
-    {
-      "basename": "Guraxlog",
-      "path": "Game Notes/NPCs/zDeceased/Guraxlog.md"
     }
   ],
   "omittedPaths": [],
