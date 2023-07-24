@@ -76,8 +76,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "43d6cb38289e0520",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7842fb3e721a38cd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
               }
             }
           },
@@ -306,10 +349,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b00909b8f326641b",
+  "active": "43d6cb38289e0520",
   "lastOpenFiles": [
     "Prenotes July 24 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Tubric Millstone Wrinsmith.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Revari Madrid.md",
+    "Johan's Public House.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Prenotes July 12 23.md",
@@ -331,10 +378,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 5 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 7 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

@@ -34,6 +34,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Tenants:
 	- Those who can eat those who cannot
 	- Prove that you are worthy of what you have or you will lose it
+- "Prove." "Or lose."
 
 #### Gromosh
 - Icon: A screaming bloody face
