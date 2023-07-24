@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Baron Cassindil",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ORGANIZATION",
       "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "Methods of Organization",
-      "path": "ORGANIZATION/Methods of Organization.md"
     }
   ],
   "omittedPaths": [],
