@@ -57,6 +57,7 @@ The region of Littetavarse is a
 #### D2.
 #### D3. White Rose Tree
 	- A small group of white roses grow along and out of the husk of a burnt out tree.
+	- A camp has been made here by a group of Rangers.
 #### D4.
 #### E2.
 #### E3.
