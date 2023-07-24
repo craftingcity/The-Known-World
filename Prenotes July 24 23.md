@@ -33,3 +33,8 @@ In this case, we're looking towards one of the last two options. In the end, Coa
 
 we found a cult in the moss ward in a temple of the many
 
+breenabell 23
+jerran 22
+ulfgar 11
+nala 10
+cultists 9
