@@ -27,6 +27,9 @@ Demon cults in CC come in a few flavors,
 	- is a "public" cult
 		- a less than secret society of fanatics performing obviously harmful deeds
 
-In this case, we're looking towards one of the last two options. In the end, Coalition City serves as a collection point for resources, but not their end destination, which would be on the Outskirts of society.
+In this case, we're looking towards one of the last two options. In the end, Coalition City serves as a collection point for resources, but not their end destination, which would be on the Outskirts of society. 
 
 ### What happened?
+
+we found a cult in the moss ward in a temple of the many
+
