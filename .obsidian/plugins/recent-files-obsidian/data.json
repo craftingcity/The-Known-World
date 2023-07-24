@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+    },
+    {
+      "basename": "Cobalt's Cacti Field",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Cobalt's Cacti Field.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Illburn Forest",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
+    },
+    {
       "basename": "Merchant Companies and their Routes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
     },
@@ -157,10 +177,6 @@
       "path": "Notes on the Multiverse/Outer/River Styx.md"
     },
     {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     },
@@ -173,14 +189,6 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
     },
     {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Illburn Forest",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
-    },
-    {
       "basename": "Gumlpin",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Actstow Hills",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "ORGANIZATION",
-      "path": "ORGANIZATION/ORGANIZATION.md"
     }
   ],
   "omittedPaths": [],
