@@ -38,3 +38,8 @@ jerran 22
 ulfgar 11
 nala 10
 cultists 9
+c2 (recruiter, aka John Humane)
+c3
+c4
+mommy
+piggie (Hannar)
