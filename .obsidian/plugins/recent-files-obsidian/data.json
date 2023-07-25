@@ -5,6 +5,14 @@
       "path": "Prenotes July 24 23.md"
     },
     {
+      "basename": "Custom Weapon Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
       "basename": "Alergra Barrowinch",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Kalariel's Grimoire",
       "path": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md"
-    },
-    {
-      "basename": "Kalariel's Tower",
-      "path": "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Tower.md"
-    },
-    {
-      "basename": "River Styx",
-      "path": "Notes on the Multiverse/Outer/River Styx.md"
     }
   ],
   "omittedPaths": [],
