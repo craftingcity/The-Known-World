@@ -42,4 +42,10 @@ cultists 9
 ~~c3 (the worker) 4 12 34~~
 ~~c4 (the guard) 4 15 23 33 (non-lethal)~~
 mommy 9 13 
-piggie (Hannar) 
+piggie (Hannar)
+
+John Humane
+Mommy
+Hannar Gour
+
+all restrained and separated into some rooms in Tubric's Bag
