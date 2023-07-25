@@ -38,7 +38,7 @@ The [[Ivory Ward]] holds the craftsfolk and their opulent structures and gaudy a
 The [[Moss Ward]] pales in comparison, housing the many commonfolk in dense apartments and housing complexes. 
 
 #### The Stone Ward
-The [[Stone Ward]] was the first residential ward to be built, although few folks have lived through its long, dragging construction.
+The [[Stone Ward]] was the first residential ward to be built, although few folks have lived through its long, dragging construction. Residential complexes and homestead industry.
 
 #### The Jade Ward
 The [[Jade Ward]] houses new money merchants, and is a common mark for the thieves of the City. 

@@ -14,10 +14,6 @@ The Grand Archmage of Magius and the Court of the Adventurer King. Dean of the M
 
 People who know her as the most powerful mage and arcanist they have ever met, including her peers, though they may not be speaking their truth to that rumor. In addition to this, they would describe her as hard working, and tough to work with.
 
-At the age of twenty, she was taught the Weave Arcane by the [[Druids of Animan]]. Only five years later was she inducted onto the Council of Wizards upon its conception.
-
-After Mastering her skills in sorcery and alchemy, she settled in Magius. After communicating with [[Arthur Simonson|Artie]], founded the [[Magius University]] of Magic.
-
 She uses dedicated assistants and hommunculi to further her research.
 
 ## History
@@ -26,6 +22,10 @@ Alergra is a genius. She does not plan well, but she was one of the few who has 
 Early in her life, she was shut into her home, her mother and father were very poor, and could not afford to send her to any school. As she grew in age and creativity, she found ways of avoiding her chores and opted to rather travel into the forest to explore for new hiding spots to read. 
 
 She is missing years of her life that she cannot remember in the forests, only bits and pieces. She hopes to return these memories to herself one day.
+
+At the age of twenty, she was taught the Weave Arcane by the [[Druids of Animan]]. Only five years later was she inducted onto the Council of Wizards upon its conception.
+
+After Mastering her skills in sorcery and alchemy, she settled in Magius. After communicating with [[Arthur Simonson|Artie]], founded the [[Magius University]] of Magic.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
