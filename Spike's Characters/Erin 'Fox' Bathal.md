@@ -49,7 +49,7 @@ The wall, as described, is connected to an over grown road. It ends/begins at th
 
 We pass through a barrier, which suddenly shifts the acre of jungle infront of us into a grass clearing; the road is straight and well kept, leading towards a large stepped pyramid. The creatures of the jungle, even the bugs and birds, are not here in the clearing with us.
 
-I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Laelithar and Liviana are 
+I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Laelithar and Liviana are marking the perimeter of the clearing/illusion during this time. Entry team met contact (4x ghoul-esq) down the right corridor.
 
 
 
