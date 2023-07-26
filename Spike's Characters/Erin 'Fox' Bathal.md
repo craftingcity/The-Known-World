@@ -16,7 +16,7 @@ I ran quite a few Operations with my teams before the rumor of war came to me, a
 We've been working odd jobs together for a while now, my last few House buddies and I. That message rings true in my mind still; about how I was...
 
 ### Living "Beyond my Time"
-##### Session One; 02/27/23
+##### Session One; 06/27/23
 ## The Party
 Arie - dark wizard
 Lavinia Moss - elven ranger
@@ -42,4 +42,6 @@ As we've travelled into the Jungle, we notice a group of human people with handc
 
 The skeletons awoke, we fended them off, and are resting in the 3rd house.
 
+##### Session Two; 07/25/23
 ###### The Inner Jungle
+
