@@ -45,3 +45,5 @@ The skeletons awoke, we fended them off, and are resting in the 3rd house.
 ##### Session Two; 07/25/23
 ###### The Inner Jungle
 
+The wall, as described, is connected to an over grown road. It ends/begins at the houses, and continues into the jungle. We continue to travel along the road and find a pair of houses wrecked. Laelithar shapes into a mouse and explores, reporting that the insides of the rubble are uninteresting and too dense to explore.
+
