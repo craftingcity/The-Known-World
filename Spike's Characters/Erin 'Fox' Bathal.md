@@ -45,5 +45,11 @@ The skeletons awoke, we fended them off, and are resting in the 3rd house.
 ##### Session Two; 07/25/23
 ###### The Inner Jungle
 
-The wall, as described, is connected to an over grown road. It ends/begins at the houses, and continues into the jungle. We continue to travel along the road and find a pair of houses wrecked. Laelithar shapes into a mouse and explores, reporting that the insides of the rubble are uninteresting and too dense to explore.
+The wall, as described, is connected to an over grown road. It ends/begins at the houses, and continues into the jungle. We continue to travel along the road and find a pair of houses wrecked. Laelithar shapes into a mouse and explores, reporting that the insides of the rubble are uninteresting and too dense to continue exploration. Lavinia reports that the road is magical, but cannot determine the school. 
+
+We pass through a barrier, which suddenly shifts the acre of jungle infront of us into a grass clearing; the road is straight and well kept, leading towards a large stepped pyramid. The creatures of the jungle, even the bugs and birds, are not here in the clearing with us.
+
+I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Laelithar and Liviana are 
+
+
 
