@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Erin 'Fox' Bathal",
       "path": "Spike's Characters/Erin 'Fox' Bathal.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes June 21 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 21 23.md"
-    },
-    {
-      "basename": "Karenos, River's Keeper",
-      "path": "Karenos, River's Keeper.md"
     }
   ],
   "omittedPaths": [],

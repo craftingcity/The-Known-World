@@ -73,3 +73,27 @@ magical items
 x | x
 --- | ---
 Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/thought-of-the-day-disarming-magical-traps
+
+
+
+## The Split (CATHOUSE WEDNESDAYS)
+
+- roll to group 
+	- From The North (even)
+		- Gringold
+			- heisting
+		- Dae Shim
+		- Ren
+		- Shu Ameda
+			- fuck the white flame
+		- Kalariel
+			- *suggestion* go to the wizards
+	- From The South (odd)
+		- Daelith
+			- evil daelith
+		- Inec
+			- heisting
+		- Dot
+			- explore cool places
+			- find cool mushrooms and flowers and lil creatures, but dont squish it
+		- Vix
