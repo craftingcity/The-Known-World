@@ -79,21 +79,29 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 ## The Split (CATHOUSE WEDNESDAYS)
 
 - roll to group 
-	- From The North (even)
+	- From The North (even) ()
 		- Gringold
 			- heisting
+			- im from the north
 		- Dae Shim
+			- 
 		- Ren
+			- who's looking for you (family)
+			- 
 		- Shu Ameda
 			- fuck the white flame
 		- Kalariel
 			- *suggestion* go to the wizards
-	- From The South (odd)
+			- get out of dodge
+	- From The South (odd) (*AXE MURDER*)
 		- Daelith
 			- evil daelith
+			- political shit
 		- Inec
 			- heisting
 		- Dot
 			- explore cool places
 			- find cool mushrooms and flowers and lil creatures, but dont squish it
 		- Vix
+			- "nothing to live for"
+				- find a way to bring back 
