@@ -74,7 +74,7 @@ In addition, when you take the Help action to aid another creature’s ability c
 # North Eastern
 ## Church of the White Flame
 
-You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and you were granted a decent life.
+You have spent your life before adventure with [[The Church of the White Flame]]. You were watched. By the flame. It is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life.
 
 You gain +2 to your Charisma score and +1 to your Constitution Score. You are proficient in the History and Intimidation Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
