@@ -3,7 +3,7 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of {Greater Region}
+#### A sub-region of [[Great Quillbuck Jungle]]
 ## Boundaries
 ## Contents
 ### Flora
