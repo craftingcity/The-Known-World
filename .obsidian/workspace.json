@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23e9182c4913ebfb",
+        "id": "ceefefed50f6df8b",
         "type": "tabs",
         "children": [
           {
-            "id": "78fbdef9c5020964",
+            "id": "0d2bd62e56ed67ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,49 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Great Quillbuck Jungle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":28},\"to\":{\"line\":5,\"ch\":28}}}"
-                },
-                {
-                  "title": "Northern Quillbuck Jungle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":33},\"to\":{\"line\":5,\"ch\":33}},\"scroll\":0}"
-                },
-                {
-                  "title": "Northeastern Central",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":25},\"to\":{\"line\":96,\"ch\":25}},\"scroll\":72.73851679099681}"
-                },
-                {
-                  "title": "Gumlpin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":34},\"to\":{\"line\":5,\"ch\":34}},\"scroll\":0}"
-                },
-                {
-                  "title": "Northeastern Central",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":105,\"ch\":7},\"to\":{\"line\":105,\"ch\":7}},\"scroll\":69.08453265658659}"
-                },
-                {
-                  "title": "Illburn Forest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":31},\"to\":{\"line\":5,\"ch\":31}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bulg",
+                "query": "kalariel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
+                "file": "A Grand Notepad.md"
               }
             }
           },
@@ -292,8 +256,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78fbdef9c5020964",
+  "active": "0d2bd62e56ed67ad",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
@@ -321,7 +286,6 @@
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Campaign Rosters/Nala, Ulfgar, Jerran, & Breenabell Roster.md",
-    "Prenotes July 12 23.md",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
