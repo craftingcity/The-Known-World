@@ -23,4 +23,8 @@ You do not know what day it is, though the temperate air suggests that Spring is
 
 We're coming back from the Abyss, specifically Thanatos, and we know that Kalariel is with the party; he's under Suggestion, and has been for 3 hours. ("I want to see the Council of Mages.")
 
+They are very near [[Kakurak's Lair]] and the [[Enlitte Ambonas#C15. Frost Giant Haven]], and generally the sea caves. Please use the generator to create a few could-be locations that they can run into on their way back into "civilization".
+
+
+
 ### What happened?
