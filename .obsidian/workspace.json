@@ -50,6 +50,27 @@
             }
           },
           {
+            "id": "5ac1fb5ab4a1bcf2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "87cab90bcbaac35d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -132,9 +153,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "670563a84494ffe3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "Prenotes Aug 02 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "Prenotes Aug 02 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+                "file": "Prenotes Aug 02 23.md"
               }
             }
           },
@@ -363,12 +404,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4504f5d75a43258",
+  "active": "5fb135efa505a0f7",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Yagil/Hackrevistan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Yagil/Hackrevistan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Prenotes Aug 02 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
@@ -380,7 +424,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Revari Madrid.md",
     "Prenotes July 24 23.md",
@@ -390,8 +433,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
     "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-    "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

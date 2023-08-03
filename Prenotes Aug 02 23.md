@@ -28,3 +28,12 @@ They are very near [[Kakurak's Lair]] and the [[Enlitte Ambonas#C15. Frost Giant
 
 
 ### What happened?
+
+bandit attack
+
+bandit captain (maggie)
+bandits
+gringold
+ren
+shu
+dae
