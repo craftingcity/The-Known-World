@@ -4,8 +4,8 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[The Church of the White Flame]]
+### Located in [[North Littemotto]], X:Y
 ## Description
 ### Quote
 

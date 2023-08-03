@@ -3,7 +3,7 @@ tags: region
 aliases:
 ---
 # Title
-#### A sub-region of {Greater Region}
+#### A sub-region of [[The Holyl'nds]]
 ## Boundaries
 ## Contents
 ### Flora
