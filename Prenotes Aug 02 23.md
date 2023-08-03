@@ -29,11 +29,11 @@ They are very near [[Kakurak's Lair]] and the [[Enlitte Ambonas#C15. Frost Giant
 
 ### What happened?
 
-bandit attack
+bandit attack on J13
 
-~~bandit captain (maggie) 12 16 27~~ (1/0)
+~~bandit captain (maggie) 12 16 27~~ 
 bandits 1 6 18 (60)
-~~bandti 2 12 23~~ (0/1)
+~~bandti 2 12 23~~ 
 bandit 3 6 (60)
 bandit 4 12 (60)
 gringold
