@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kalariel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.51240158081055
+    "width": 479.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
