@@ -34,16 +34,16 @@ Srac, Goblin (Scrivin)
 Basil collected a tax early from a winery in [[Amourain]]
 
 Elenanor 16
-Basil 12
+Basil 12 (1/1)
 ~~tribal (1) 4 12~~
-tribal (2) 
-tribal (3) 
+~~tribal (2) 6 13~~
+~~tribal (3) 7~~
 Zeldris 11
 Driver
 tribal (4) 7
 lucas 4 
-emelia
-waztraek (1/0)
-tribal (5) 
+~~emelia~~
+waztraek (\*/0)
+~~tribal (5) ~~
 mark ross
 srac
