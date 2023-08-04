@@ -5,12 +5,16 @@
       "path": "Prenotes Aug 04 23.md"
     },
     {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
+      "basename": "Economics of Combine",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
     },
     {
       "basename": "Merchant Companies and their Routes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "Amourain",
@@ -195,10 +199,6 @@
     {
       "basename": "Baron Cassindil",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
-    },
-    {
-      "basename": "Wychway",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md"
     }
   ],
   "omittedPaths": [],

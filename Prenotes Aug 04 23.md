@@ -23,6 +23,12 @@ Today is the 25th of Resowing. The sping air brings a kind warmth to your skin. 
 
 Lucas, Tabaxi
 Emelia, Dwarf (Hillkeep)
-Waztraek
+Waztraek, Human
+Mark Ross, Elf (Summer, Golden City)
+Fatic, Orc (Macht)
+Srac, Goblin (Scrivin)
+
 
 ### What happened?
+
+Basil collected a tax early from a winery in [[Amourain]]
