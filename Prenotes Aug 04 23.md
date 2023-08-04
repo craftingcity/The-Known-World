@@ -47,3 +47,5 @@ waztraek (\*/0)
 ~~tribal (5) ~~
 mark ross
 srac
+
+druid bandits attacked the caravan
