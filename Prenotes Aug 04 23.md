@@ -19,5 +19,10 @@ Today is the 25th of Resowing. The sping air brings a kind warmth to your skin. 
 
 ### What does the World Know?
 
+6 other guards. 
+
+Lucas, Tabaxi
+Emelia, Dwarf (Hillkeep)
+Waztraek
 
 ### What happened?
