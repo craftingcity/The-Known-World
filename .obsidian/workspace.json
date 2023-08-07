@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96fcbf2f9a3f39d7",
+        "id": "b94d29b6e1d555cf",
         "type": "tabs",
         "children": [
           {
-            "id": "38fa1cd6a8c6d8e8",
+            "id": "f8dc10f5fcf17a89",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -33,9 +33,15 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "96fcbf2f9a3f39d7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "fe56d4dc5bdfb7e9",
+            "id": "7e49678f7db94d9b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,11 +290,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe56d4dc5bdfb7e9",
+  "active": "7e49678f7db94d9b",
   "lastOpenFiles": [
     "Prenotes July 24 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "Prenotes Aug 07 23.md",
+    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "conflict-files-obsidian-git.md",
