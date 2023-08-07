@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
+# Lundyson
+#### Five-Pike Home Terf
+## Holding of [[Five Pike]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

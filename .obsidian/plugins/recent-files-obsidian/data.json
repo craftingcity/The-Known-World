@@ -5,8 +5,16 @@
       "path": "A Grand Notepad.md"
     },
     {
+      "basename": "Lundyson",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md"
+    },
+    {
       "basename": "Southeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
+    },
+    {
+      "basename": "Wetfoot Greenland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
     },
     {
       "basename": "Great Quillbuck Jungle",
@@ -191,14 +199,6 @@
     {
       "basename": "Economics of Combine",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
-    },
-    {
-      "basename": "Economics of Mountain Hall",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md"
-    },
-    {
-      "basename": "Economics of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
     }
   ],
   "omittedPaths": [],
