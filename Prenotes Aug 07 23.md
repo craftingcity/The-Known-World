@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for August 7th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -13,6 +13,7 @@ aliases:
 
 ### Intro
 
+When last we left our heroes, 
 
 ### What does the World Know?
 
