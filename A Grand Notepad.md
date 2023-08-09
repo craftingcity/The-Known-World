@@ -74,9 +74,6 @@ x | x
 --- | ---
 Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/thought-of-the-day-disarming-magical-traps
 
-## Millie House
-- 
-
 
 ## The Split (CATHOUSE WEDNESDAYS)
 
@@ -106,4 +103,4 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 			- find cool mushrooms and flowers and lil creatures, but dont squish it
 		- Vix
 			- "nothing to live for"
-				- find a way to bring back 
+				- find a way to bring back the lil homie
