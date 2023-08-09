@@ -18,6 +18,8 @@ This was a political call to action. This was not any kind of real explanation, 
 
 Fuck you. Your soldiers, Adventurers, Rangers, rapscalions may they be, are dying in the streets. The two weeks you and the council spent twilddling your dick fingers in prayer to Sune's wisdom on your actions could have been spent preparing people and working together; which you have the audacity to request of the public in the same breath as you spew your political orgasm upon Alaturmen at large.
 
+His name is Orcus. He is real. He has other names, such as Hades, Dis Pater, and Jupiter. These names do hold power, but their invocation in speech and common discussion is not a danger to us. Their worship, invitation, and reverence (including actions such as *giving a name power*) is the real danger.
+
 *In urgencies to the public*;
 
 Stay safe. Gather together.
@@ -30,8 +32,12 @@ In honest truth, the least able and willing to prepare among us are the most vul
 
 At the edge of the world, there is some barrier, some of you call it something else, but I call it the Wildlands. Those who cross it do not return. 
 
-The Wildlands have "broken" before. The area now know as the Redl'nds is one of the largest examples of this, and the Lord's Folly is the second. Both of these places are very clear scars of what is beyond us. What is beyond what we know.
+The Wildlands have "broken" before. The area now know as the Redl'nds is one of the largest examples of this, and the Lord's Folly is the second. Both of these places are very clear scars of what is beyond us, as well as the *two* instances that the "barrier" has been breached. What is beyond this barrier is beyond what we know.
 
 Or so we thought. 
 
-For some, the return of [[Eladrithal Greystone]] of the [[Grey Ordeal]] was enough proof to squander their lives upon some imaginary profit or glory. [[The Return of Moses the Brave]] was proof enough that it is possible - and clearly extremely deadly. Whatever is beyond the Wildlands is going to kill you, in no uncertain terms. Eladrithal and Moses, to the best of accounting, have been directly quoted as describing themselves as "lucky to return"
+For some, the return of [[Eladrithal Greystone]] of the [[Grey Ordeal]] was enough proof to squander their lives upon some imaginary profit or glory. [[The Return of Moses the Brave]] was proof enough that it is possible - and clearly extremely deadly. 
+
+Whatever is beyond the Wildlands is going to kill you, in no uncertain terms. Eladrithal and Moses, to the best of accounting, have been directly quoted as describing themselves as "lucky to return" in their *public* testimonies. The truer horrors they have recounted to the void are unknowable.
+
+What is clear, however, is that this barrier is permeable - it can be traversed, both by the spirit and body - and that it has a leak. Somewhere, our damn does not hold. The people we have lost to the "black-blood curse" or the theo-ideological pitfalls in the arguments presented to them
