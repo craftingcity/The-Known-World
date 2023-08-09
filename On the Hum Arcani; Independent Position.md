@@ -28,7 +28,7 @@ Pray to your gods for strength, and know falsehoods.
 
 In honest truth, the least able and willing to prepare among us are the most vulnerable. I urge you to gather weapons and learn to use them. Protect the most vulnerable in your community, not just in physicality, but spirituality.
 
-*What we think really happened*;
+*Lets talk specifics - the Wildlands*;
 
 At the edge of the world, there is some barrier, some of you call it something else, but I call it the Wildlands. Those who cross it do not return. 
 
@@ -40,4 +40,13 @@ For some, the return of [[Eladrithal Greystone]] of the [[Grey Ordeal]] was enou
 
 Whatever is beyond the Wildlands is going to kill you, in no uncertain terms. Eladrithal and Moses, to the best of accounting, have been directly quoted as describing themselves as "lucky to return" in their *public* testimonies. The truer horrors they have recounted to the void are unknowable.
 
-What is clear, however, is that this barrier is permeable - it can be traversed, both by the spirit and body - and that it has a leak. Somewhere, our damn does not hold. The people we have lost to the "black-blood curse" or the theo-ideological pitfalls in the arguments presented to them
+What is clear, however, is that this barrier is permeable - it can be traversed, both by the spirit and body - and that it has a leak. Somewhere, the dam does not hold. The people we have lost to the "black-blood curse" were the first to feel this effect. 
+
+*Lets talk specifics - the Blood*;
+
+Samples of blood and viscera recovered by independent operators have been analyzed, and experimentation has revealed that in addition to its physical properties (such as it's acidity) it has a distinct residue in the Weave. This residue remains in the Weave and affects its manifestation, even after the offending substance has been removed from the area, and it in fact persists for a number of days.
+
+This residue has affected the minds of vulnerable members of our population, leading them to either start or join organizations that purposefully continue to manipulate others into joining and reforming their ideals. In simple terms, a cult.
+
+The "black-blood curse" was a horrible experience, and continues to rage across many areas of Alaturmen, but for 
+
