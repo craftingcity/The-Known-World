@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e6542a363eb601c",
+        "id": "30de7f61e90e11e6",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5214c6027e2489",
+            "id": "aab958a4514b010a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A Grand Notepad.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,15 +249,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca5214c6027e2489",
+  "active": "aab958a4514b010a",
   "lastOpenFiles": [
+    "A Grand Notepad.md",
     "Prenotes Aug 09 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
     "Prenotes Aug 02 23.md",
-    "A Grand Notepad.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Varis.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Amashod.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
