@@ -11,6 +11,33 @@
             "id": "aab958a4514b010a",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"On the Hum Arcani; Independent Position.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Aug 09 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1225149a4ef8e7bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -22,7 +49,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Aug 09 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8a8c2f8f49d9fe76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076d3b4a4bdf146e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On the Hum Arcani; Independent Position.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4197175b68dd3885",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "How the Weave becomes Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":221},\"to\":{\"line\":30,\"ch\":221}},\"scroll\":13.53584151829535}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
                 "mode": "source",
                 "source": true
               }
@@ -149,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 09 23.md",
+                "file": "On the Hum Arcani; Independent Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 09 23.md",
+                "file": "On the Hum Arcani; Independent Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 09 23.md"
+                "file": "On the Hum Arcani; Independent Position.md"
               }
             }
           },
@@ -257,10 +339,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aab958a4514b010a",
+  "active": "076d3b4a4bdf146e",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
+    "On the Hum Arcani; Independent Position.md",
+    "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
     "Prenotes Aug 09 23.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
@@ -281,11 +367,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
