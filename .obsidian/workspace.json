@@ -35,6 +35,48 @@
             }
           },
           {
+            "id": "4e93965f8166910c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "57d76abf0ab40496",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "95b99ee8313f946c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -71,6 +113,27 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "15ec824e82854262",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,9 +178,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bca289d21d7ad46c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
               }
             }
           },
@@ -346,13 +430,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a294c26cd4785b46",
+  "active": "15ec824e82854262",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Prenotes Aug 09 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Prenotes Aug 09 23.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "On the Hum Arcani; Independent Position.md",
     "Prenotes Aug 07 23.md",
     "Prenotes Aug 04 23.md",
@@ -372,9 +459,6 @@
     "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "A Grand Notepad.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

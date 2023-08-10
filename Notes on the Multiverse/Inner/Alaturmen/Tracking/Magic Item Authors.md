@@ -23,3 +23,4 @@ The following authors are responsible for much of the bulk of what our adventure
 These authors are responsible for the bulk of magical items in the world, if a commoner has encountered an item, it likely was made by one of these artificers.
 
 [[Sally Seashell]] - known for non-weapons, wonderous and quality of life items are her specialty
+[[]]
