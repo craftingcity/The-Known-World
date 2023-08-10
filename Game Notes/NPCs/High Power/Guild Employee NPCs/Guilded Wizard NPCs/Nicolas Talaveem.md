@@ -1,6 +1,6 @@
 ---
 tags: npc
-aliases:
+aliases: the Yellow Mage, Keeper of Darktower
 ---
 # Nicolas Talaveem
 ## the Yellow Mage
