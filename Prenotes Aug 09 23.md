@@ -24,3 +24,5 @@ A room has been provided to you at the expense of the Guild, in a Silver Unicorn
 The first is Newmonth, and a large festival will be held. During this festival, a courier will hand out a handbill ([[On the Hum Arcani; Independent Position]]).
 
 ### What happened?
+
+9 percept
