@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for August 9th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -21,5 +21,6 @@ A room has been provided to you at the expense of the Guild, in a Silver Unicorn
 
 ### What does the World Know?
 
+The first is Newmonth, and a large festival will be held. During this festival, a courier will hand out a handbill ([[On the Hum Arcani; Independent Position]]).
 
 ### What happened?

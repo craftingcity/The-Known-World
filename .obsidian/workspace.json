@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "30de7f61e90e11e6",
+        "id": "9d5c2db51fd65c42",
         "type": "tabs",
         "children": [
           {
-            "id": "aab958a4514b010a",
+            "id": "bcc43852445fd04f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "Untitled",
+                  "title": "On the Hum Arcani; Independent Position",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"On the Hum Arcani; Independent Position.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -33,37 +33,15 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1225149a4ef8e7bb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "8a8c2f8f49d9fe76",
+        "id": "fc1cdc38769e88fd",
         "type": "tabs",
         "children": [
           {
-            "id": "076d3b4a4bdf146e",
+            "id": "8e5766a79a0b66a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -77,34 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4197175b68dd3885",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "How the Weave becomes Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":221},\"to\":{\"line\":30,\"ch\":221}},\"scroll\":13.53584151829535}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "mode": "source",
                 "source": true
               }
@@ -155,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "accent",
+                "query": "Slimknives",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md",
+                "file": "Prenotes Aug 09 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md",
+                "file": "Prenotes Aug 09 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md"
+                "file": "Prenotes Aug 09 23.md"
               }
             }
           },
@@ -339,34 +290,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "076d3b4a4bdf146e",
+  "active": "bcc43852445fd04f",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
-    "On the Hum Arcani; Independent Position.md",
-    "Prenotes Aug 09 23.md",
-    "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
-    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
-    "Prenotes Aug 02 23.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Varis.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Amashod.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Prenotes July 24 23.md",
+    "Prenotes Aug 09 23.md",
+    "On the Hum Arcani; Independent Position.md",
     "Prenotes Aug 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
-    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Prenotes Aug 04 23.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Yagil/Hackrevistan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Prenotes Aug 02 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
