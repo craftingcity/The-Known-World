@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8a8c2f8f49d9fe76",
@@ -230,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On the Hum Arcani; Independent Position.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md"
               }
             }
           },
@@ -338,10 +339,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "076d3b4a4bdf146e",
+  "active": "1225149a4ef8e7bb",
   "lastOpenFiles": [
-    "Prenotes Aug 09 23.md",
     "On the Hum Arcani; Independent Position.md",
+    "Prenotes Aug 09 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
     "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
