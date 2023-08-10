@@ -8,7 +8,7 @@ aliases:
 This text is written in response to the public release of "[[On the Hum Arcani; Guild Position]]", which was notably poorly received by many "independent" mages (ei; mages who do not work directly or tangentially with the [[Guild of Wizards]], including many Acolytes of the Emotional Gods and Members of the Druid Circles, many of whom have attached their name to the following document).
 
 # On the Hum Arcani; Independent Position
-## by [[Dimble Turring]], [[Scree'up]], [[Doctor Gunagido]] et al.
+## by [[Dimble Turring]], [[Scree'up]], [[Doctor Gunagido]], et al.
 
 *In response to the Guild of Wizards*;
 
@@ -46,7 +46,12 @@ What is clear, however, is that this barrier is permeable - it can be traversed,
 
 Samples of blood and viscera recovered by independent operators have been analyzed, and experimentation has revealed that in addition to its physical properties (such as it's acidity) it has a distinct residue in the Weave. This residue remains in the Weave and affects its manifestation, even after the offending substance has been removed from the area, and it in fact persists for a number of days.
 
-This residue has affected the minds of vulnerable members of our population, leading them to either start or join organizations that purposefully continue to manipulate others into joining and reforming their ideals. In simple terms, a cult.
+This residue has affected the minds of vulnerable members of our population, leading them to either start or join organizations that purposefully continue to manipulate others into joining and reforming their ideals. In simple terms, *a cult*.
 
-The "black-blood curse" was a horrible experience, and continues to rage across many areas of Alaturmen, but for 
+The "black-blood curse" was a horrible experience, and continues to rage across many areas of Alaturmen, but it was only the first wave. In addition to those most directly affected, secondary actors have been coerced into creating *cults* in the **worship, invitation, and reverence of Orcus**. 
 
+*Lets talk specifics - the Future*;
+
+Reports of new and outlandish dangers should be taken seriously. The so-called "horror-kin" should be identified. The heretical whispers of dead returning to life should be investigated. To the best of your ability, prepare yourself, and continue as normal. While I can not agree with all of the Guild's individual actions, the institution as a whole has been beneficial to the common folk, and should be trusted. Nicolas Talaveem should apologize for his blatantly false statements or resign from his position in the Council of Mages and the Guild of Wizards.
+
+Be wary, and understand that the only constant in change.
