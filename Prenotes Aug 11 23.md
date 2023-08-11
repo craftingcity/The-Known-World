@@ -28,3 +28,5 @@ The driver genuinely doesnt know much of anything about the contents - as Avory 
 The contents of the box is mostly textiles, but hidden within one of the sealed containers is a small artifact known as Inception, which is to be delivered to an Agent in [[Wheernat Hillkeep]]. 
 
 ### What happened?
+
+27th of resowing
