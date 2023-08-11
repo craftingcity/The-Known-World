@@ -21,9 +21,9 @@ Today is the 25th of Resowing. The sping air brings a kind warmth to your skin. 
 
 6 other guards. 
 
-Lucas, Tabaxi
+Lucas, Tabaxi (North Quillbuck)
 Emelia, Dwarf (Hillkeep)
-Waztraek, Human
+Waztraek, Human (Prosper)
 Mark Ross, Elf (Summer, Golden City)
 Fatic, Orc (Macht)
 Srac, Goblin (Scrivin)
