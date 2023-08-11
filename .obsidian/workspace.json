@@ -29,7 +29,7 @@
             }
           },
           {
-            "id": "4191b4de3c0eb752",
+            "id": "e46a05f98a801526",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,9 +41,11 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -169,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 09 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 09 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 09 23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -277,10 +279,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4191b4de3c0eb752",
+  "active": "e46a05f98a801526",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Prenotes Aug 09 23.md",
+    "conflict-files-obsidian-git.md",
+    "Prenotes Aug 11 23.md",
+    "Ammarin Transportation.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
@@ -303,9 +308,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Yagil/Hackrevistan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
-    "Prenotes Aug 02 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

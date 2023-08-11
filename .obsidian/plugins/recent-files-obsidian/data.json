@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Prenotes Aug 09 23",
       "path": "Prenotes Aug 09 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Revari Madrid",
       "path": "Revari Madrid.md"
-    },
-    {
-      "basename": "Johan's Public House",
-      "path": "Johan's Public House.md"
     }
   ],
   "omittedPaths": [],
