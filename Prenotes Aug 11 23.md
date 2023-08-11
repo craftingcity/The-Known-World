@@ -30,3 +30,15 @@ The contents of the box is mostly textiles, but hidden within one of the sealed 
 ### What happened?
 
 27th of resowing
+
+pass by ag27 - "plant structure"
+
+beast attack 
+
+Basil -18
+Elenor -15 
+Bear-thing -14 (12)
+Zeldrith -6
+adventurers
+
+
