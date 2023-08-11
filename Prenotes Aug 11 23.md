@@ -25,6 +25,6 @@ The guards dont specifically know what has happened, but would definitely have g
 
 The driver genuinely doesnt know much of anything about the contents - as Avory would wish it.
 
-The contents of the box is mostly textiles, but hidden within one of the sealed containers is a small artifact known as 
+The contents of the box is mostly textiles, but hidden within one of the sealed containers is a small artifact known as Inception, which is to be delivered to an Agent in [[Wheernat Hillkeep]]. 
 
 ### What happened?

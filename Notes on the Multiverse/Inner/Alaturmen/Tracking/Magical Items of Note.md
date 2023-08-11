@@ -56,6 +56,10 @@ aliases:
 		- Blanks;
 	- Currently possessed by [[Nala]]
 
+- Inception
+	- > A palm-sized lens of sapphire. Its center seems to fracture infinitely, slowly churning.
+	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
+
 ## Weapons
 - Magni Liberatoris Nostri Temporis
 	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
@@ -73,8 +77,6 @@ aliases:
 - The Tuber
 	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
 	- Currently located with [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
-
-- Dream Hatchet
 
 
 
