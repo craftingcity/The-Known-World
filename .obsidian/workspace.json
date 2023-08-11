@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1cdc38769e88fd",
+        "id": "c099a8e3c302513a",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc43852445fd04f",
+            "id": "435299452bba6d45",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "On the Hum Arcani; Independent Position",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"On the Hum Arcani; Independent Position.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -35,7 +29,7 @@
             }
           },
           {
-            "id": "0b57b59e4e96d174",
+            "id": "4191b4de3c0eb752",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,198 +41,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b1b114e7d22bfa63",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4e93965f8166910c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57d76abf0ab40496",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "95b99ee8313f946c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e5766a79a0b66a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "15ec824e82854262",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a294c26cd4785b46",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "3d0a8cf541d86e61",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bca289d21d7ad46c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.3.7"
               }
             }
           }
@@ -364,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
+                "file": "Prenotes Aug 09 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
+                "file": "Prenotes Aug 09 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -431,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md"
+                "file": "Prenotes Aug 09 23.md"
               }
             }
           },
@@ -472,18 +277,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b57b59e4e96d174",
+  "active": "4191b4de3c0eb752",
   "lastOpenFiles": [
-    "Prenotes Aug 09 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Prenotes Aug 09 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "On the Hum Arcani; Independent Position.md",
     "Prenotes Aug 07 23.md",
     "Prenotes Aug 04 23.md",
@@ -500,7 +306,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Prenotes Aug 02 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-    "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
