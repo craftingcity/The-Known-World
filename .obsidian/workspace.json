@@ -29,6 +29,48 @@
             }
           },
           {
+            "id": "8b9e2bca9663aa87",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dbbb8ad109dba551",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e0c296a96bc920d0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -81,6 +123,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Aug 04 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 04 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":8},\"to\":{\"line\":35,\"ch\":8}},\"scroll\":15.284752180798051}"
+                },
+                {
                   "title": "Prenotes Aug 02 23",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 02 23.md\",\"mode\":\"source\",\"source\":true}}",
@@ -89,15 +137,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Prenotes Aug 04 23.md",
-                "mode": "source",
-                "source": true
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 11 23.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 11 23.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 11 23.md"
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           },
@@ -326,11 +373,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b25fa390dcff1d1",
+  "active": "3c5bf0651d5aa76f",
   "lastOpenFiles": [
     "Prenotes Aug 04 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
     "Prenotes Aug 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Prenotes Aug 02 23.md",
     "Prenotes Aug 09 23.md",
@@ -353,8 +402,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",

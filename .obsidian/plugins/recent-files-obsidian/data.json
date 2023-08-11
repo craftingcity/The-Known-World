@@ -5,8 +5,20 @@
       "path": "Prenotes Aug 11 23.md"
     },
     {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
       "basename": "Prenotes Aug 04 23",
       "path": "Prenotes Aug 04 23.md"
+    },
+    {
+      "basename": "Economics of the Hobgoblin Territories",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
+    },
+    {
+      "basename": "Emorin's Plots",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md"
     },
     {
       "basename": "Renshaw",
@@ -59,10 +71,6 @@
     {
       "basename": "Currency of Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
       "basename": "On the Hum Arcani; Independent Position",
@@ -191,14 +199,6 @@
     {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     }
   ],
   "omittedPaths": [],
