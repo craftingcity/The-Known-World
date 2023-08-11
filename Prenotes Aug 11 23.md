@@ -49,5 +49,14 @@ basil kidnapped cat
 
 2nd 
 
+3rd
+
+basil killed the driver and looted his corpse
+
+4th
+
+5th make it on location
+
+
 
 
