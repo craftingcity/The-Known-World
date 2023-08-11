@@ -74,6 +74,8 @@ aliases:
 	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
 	- Currently located with [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
 
+- Dream Hatchet
+
 
 
 

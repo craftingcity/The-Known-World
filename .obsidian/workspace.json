@@ -27,8 +27,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "56df5f0186800d47",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e04617b33a36ad5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "50eb8d36da54714e",
@@ -50,6 +93,60 @@
               "type": "markdown",
               "state": {
                 "file": "Prenotes Aug 11 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6e34eb7b69464dc1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5db2301c7070f5f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Ammarin Transportation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ammarin Transportation.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amirisson",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Amirisson.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
                 "mode": "source",
                 "source": true
               }
@@ -176,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 11 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 11 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 11 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
               }
             }
           },
@@ -284,10 +381,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f05b11ba6a833372",
+  "active": "4e04617b33a36ad5",
   "lastOpenFiles": [
-    "Prenotes Aug 04 23.md",
     "Prenotes Aug 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Ammarin Transportation.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Amirisson.md",
+    "Prenotes Aug 04 23.md",
     "Notes on the Multiverse/Big Lore/The Axioms, Theories, and Philosophies of Mages of the First Century.md",
     "On the Hum Arcani; Independent Position.md",
     "Prenotes Aug 09 23.md",
@@ -305,13 +409,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Prenotes July 24 23.md",
     "Prenotes Aug 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",

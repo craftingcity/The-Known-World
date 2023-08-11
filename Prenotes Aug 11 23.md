@@ -21,6 +21,10 @@ Your driver and the other conscious caravan guards are setting camp here; leavin
 
 Today is the evening of the 26th of Resowing. These bandits come from a circle of "city druids" - the Green Spring Circle - who gained information regarding this particular caravan (and it's contents) from the greater Aquan network. 
 
-The guards dont specifically know what has happened, but would definitely have general information about the world or more specific groups - the party likely will have to come up to them and ask
+The guards dont specifically know what has happened, but would definitely have general information about the world or more specific groups - the party likely will have to come up to them and ask, however.
+
+The driver genuinely doesnt know much of anything about the contents - as Avory would wish it.
+
+The contents of the box is mostly textiles, but hidden within one of the sealed containers is a small artifact known as 
 
 ### What happened?
