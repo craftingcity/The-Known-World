@@ -37,8 +37,14 @@ beast attack
 
 Basil -18
 Elenor -15 
-Bear-thing -14 (12)
+Bear-thing -14 (32)
 Zeldrith -6
 adventurers
+
+28th 
+
+29th
+
+
 
 

@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "e0c296a96bc920d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "fe1b6816e17edbe6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -308,6 +329,7 @@
   "active": "9b25fa390dcff1d1",
   "lastOpenFiles": [
     "Prenotes Aug 04 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
     "Prenotes Aug 11 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Prenotes Aug 02 23.md",
@@ -333,7 +355,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
