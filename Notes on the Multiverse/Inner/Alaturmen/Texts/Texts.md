@@ -30,6 +30,7 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
+- [[On the Hum Arcani; Independent Position]]
 - [[Tetrimoc's Journal (Propaganda)]]
 - [[The Return of Moses the Brave]]
 - [[The Tales of Big Buster Badass]]

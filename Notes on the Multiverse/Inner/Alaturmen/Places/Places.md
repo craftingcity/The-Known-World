@@ -9,6 +9,7 @@ aliases:
 - **Coalition Wards**
 	- [[Golden Ward]]
 	- [[Iron Ward]]
+	- [[Johan's Public House]]
 - **[[Northeastern Central]]**
 - **[[Northwestern Central]]**
 - **[[Southeastern Central]]**
