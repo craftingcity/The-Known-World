@@ -17,6 +17,6 @@ When last we left our heroes, they were shrouded in darkness. You do not know ho
 
 ### What does the World Know?
 
-They re-entry on AN19, 
+They re-entry on AN19, which is as-of-yet 
 
 ### What happened?
