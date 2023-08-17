@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.51240158081055,
-    "collapsed": true
+    "width": 479.51240158081055
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -269,7 +268,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d6e13dbec233aa6",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/Prenotes Aug 09 23.md",
     "Game Notes/Prenotes/'23/'23.md",
