@@ -27,3 +27,4 @@ The first is Newmonth, and a large festival will be held. During this festival, 
 
 They bought a bunch of shit. Moses came back and offered the group 5000 plat for Kal, meeting them at the Statue North of Coalition City; the wizards will offer a smaller coinage, 
 	`but more valuable sum?
+

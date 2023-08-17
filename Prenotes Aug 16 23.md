@@ -17,7 +17,7 @@ When last we left our heroes, they were shrouded in darkness. You do not know ho
 
 ### What does the World Know?
 
-They re-entry on AN19, which is as-of-yet undeveloped.
+They re-entry on AN19, which is as-of-yet undeveloped. The World Date is 03-25-0105.
 
 We're mostly looking to push any kind of personal questline, but here are some backups;
 
