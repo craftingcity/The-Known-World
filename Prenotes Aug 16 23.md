@@ -26,3 +26,5 @@ Baron Avory has interest in Daelith
 Baron Xuiop does not approve of visitors, and will send a hunting party to the newcomers.
 
 ### What happened?
+
+They are staying in New Quillbuck, met with [[Baron Havord]], and specifically are resting and drinking in the New Quillbuck Grand Tavern.
