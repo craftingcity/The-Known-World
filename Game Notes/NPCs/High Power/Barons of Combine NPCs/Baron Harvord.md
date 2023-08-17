@@ -11,7 +11,9 @@ aliases:
 A description of their function in the world.
 
 ## Roleplaying
-### Quote
+### "Well, yes, certainly... but they are Beasts, it is our right to remove them."
+
+Speaks nasally.
 
 ### Mannerism & Disposition
 
