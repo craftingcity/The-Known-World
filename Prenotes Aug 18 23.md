@@ -27,8 +27,10 @@ Basil's cat's name is Maggie
 
 ### What happened?
 Basil 20
-Runner 17 (8, 18)
+Runner 17 (8, 18, 12)
 Zeldris 8
 Elanor 6
 Screamer 5 (6, 15, 16, 10)
-Big Group 3
+Big Group 3 (11)
+
+ran away, heading towards [[Boneborn]].
