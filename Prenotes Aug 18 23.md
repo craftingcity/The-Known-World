@@ -27,9 +27,8 @@ Basil's cat's name is Maggie
 
 ### What happened?
 Basil 20
-Reinforcements 19
-Runner 17 
+Runner 17 (8, 18)
 Zeldris 8
 Elanor 6
-Screamer 5 (6, )
+Screamer 5 (6, 15, 16, 10)
 Big Group 3
