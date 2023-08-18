@@ -17,6 +17,8 @@ When last we left our heroes, they had completed their journey with the [[Ammari
 
 They have returned to a point upon the road nearby to where they were attacked a few days ago, were Zeldris had spotted a structure that looked to be either completely overgrown or constructed of live foliage and flora.
 
+With the structure only a mile or so off the road 
+
 ### What does the World Know?
 
 Basil's cat's name is Maggie
