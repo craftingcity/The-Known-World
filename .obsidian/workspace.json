@@ -124,8 +124,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md"
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md"
               }
             }
           },
@@ -354,7 +353,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bafb7cc027646f25",
+  "active": "0fd9b9c0ceee7f78",
   "lastOpenFiles": [
     "Prenotes Aug 18 23.md",
     "Game Notes/NPCs/List of Names.md",
