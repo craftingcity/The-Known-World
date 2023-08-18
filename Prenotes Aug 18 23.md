@@ -15,9 +15,10 @@ aliases:
 
 When last we left our heroes, they had completed their journey with the [[Ammarin Transportation]] Company without major losses. After being paid for their services, the party decided that they would be interested in acquiring more information about their attackers - who are they, what are they after, and why would they choose to use bear-fish? 
 
-They have returned to a point upon the road nearby to where they were attacked a few days ago, were Zeldris had spotted a structure that looked to be either completely overgrown or constructed of live foliage and flora. 
+They have returned to a point upon the road nearby to where they were attacked a few days ago, were Zeldris had spotted a structure that looked to be either completely overgrown or constructed of live foliage and flora.
 
 ### What does the World Know?
 
+Basil's cat's name is Maggie
 
 ### What happened?

@@ -39,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "'23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":24},\"to\":{\"line\":11,\"ch\":24}},\"scroll\":0}"
+                },
+                {
                   "title": "Prenotes Aug 18 23",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 18 23.md\",\"mode\":\"source\",\"source\":true}}",
@@ -49,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/'23.md",
+                "file": "Prenotes Aug 18 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -198,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/'23.md",
+                "file": "Prenotes Aug 18 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/'23.md",
+                "file": "Prenotes Aug 18 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/'23.md"
+                "file": "Prenotes Aug 18 23.md"
               }
             }
           },
@@ -308,8 +314,8 @@
   },
   "active": "8977f07c28525773",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
     "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
     "Prenotes Aug 18 23.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
