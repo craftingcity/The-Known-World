@@ -48,9 +48,72 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9724d94347207113",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7f6b7f21141fbebd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2e559485532ff300",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "summer",
+                "query": "five pike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.51240158081055,
-    "collapsed": true
+    "width": 479.51240158081055
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -171,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 23 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 23 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 23 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
               }
             }
           },
@@ -279,10 +341,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37cb5ed6ce184d94",
+  "active": "7f6b7f21141fbebd",
   "lastOpenFiles": [
-    "Prenotes Aug 16 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Prenotes Aug 23 23.md",
+    "Prenotes Aug 16 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
     "Game Notes/NPCs/List of Names.md",
@@ -306,8 +370,6 @@
     "Game Notes/Prenotes/'23/Prenotes July 19 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 12 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 05 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 04 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 02 23.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
