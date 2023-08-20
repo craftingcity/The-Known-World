@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0fed88deeae527c",
+        "id": "0faf523feb6f4928",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd9b9c0ceee7f78",
+            "id": "fb6db6b6cf725e2e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,53 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
+                "file": "Prenotes Aug 16 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8977f07c28525773",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Custom Heritages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":37},\"to\":{\"line\":65,\"ch\":37}},\"scroll\":56.84168842700119}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "'23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":24},\"to\":{\"line\":11,\"ch\":24}},\"scroll\":0}"
-                },
-                {
-                  "title": "Prenotes Aug 18 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 18 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":220},\"to\":{\"line\":17,\"ch\":220}},\"scroll\":3.313779007812997}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Aug 18 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bafb7cc027646f25",
+            "id": "37cb5ed6ce184d94",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -82,49 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d3bbf774b6c008e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d7b23a96c04c50f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
+                "file": "Prenotes Aug 23 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -252,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 18 23.md",
+                "file": "Prenotes Aug 23 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 18 23.md",
+                "file": "Prenotes Aug 23 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 18 23.md"
+                "file": "Prenotes Aug 23 23.md"
               }
             }
           },
@@ -360,17 +279,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8977f07c28525773",
+  "active": "37cb5ed6ce184d94",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Prenotes Aug 18 23.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
+    "Prenotes Aug 16 23.md",
+    "Prenotes Aug 23 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
+    "Prenotes Aug 18 23.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Prenotes Aug 16 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 09 23.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -388,7 +308,6 @@
     "Game Notes/Prenotes/'23/Prenotes July 05 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 04 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 02 23.md",
-    "Game Notes/NPCs/Mild Power/Revari Madrid.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
