@@ -17,7 +17,7 @@ When last we left our heroes, they were investigating the mysterious plant-dome 
 
 Quickly remounted, the party heads west, towards Boneborn. With their defeat clearly in mind, they prepare to re-assault and gain an advantage; be it with numbers, powers, or information. 
 
-Your horse & cart begins to have 
+Your horse & cart begins to have difficulty as you continue to approach the marshes, and soon, you would be trudging through wet mud if not for the raised platforms and paths of treated wood. 
 
 ### What does the World Know?
 
