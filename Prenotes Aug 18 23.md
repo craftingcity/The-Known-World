@@ -23,8 +23,6 @@ With the structure only a mile or so off the road
 
 Basil's cat's name is Maggie
 
-
-
 ### What happened?
 Basil 20
 Runner 17 (8, 18)
@@ -32,3 +30,7 @@ Zeldris 8
 Elanor 6
 Screamer 5 (6, 15, 16, 10)
 Big Group 3
+
+we kinda kicked their ass, this was an incredibly defensable position;
+
+big ass cave room, some buildings inside but we dont know what
