@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Aug 23 23.md",
+                "file": "Prenotes Aug xx 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 23 23.md",
+                "file": "Prenotes Aug 25 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 23 23.md",
+                "file": "Prenotes Aug 25 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 23 23.md"
+                "file": "Prenotes Aug 25 23.md"
               }
             }
           },
@@ -289,10 +290,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "371d4ae9823b9035",
+  "active": "3c2393b4952efc73",
   "lastOpenFiles": [
+    "Prenotes Aug xx 23.md",
     "Prenotes Aug 25 23.md",
-    "Prenotes Aug 23 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Prenotes Aug 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
