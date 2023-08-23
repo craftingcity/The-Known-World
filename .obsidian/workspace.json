@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Aug 23 23.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -35,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Boneborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Prenotes Aug 25 23",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 25 23.md\",\"mode\":\"source\",\"source\":true}}",
@@ -45,14 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "Prenotes Aug 25 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "Prenotes Aug 23 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "Prenotes Aug 23 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+                "file": "Prenotes Aug 23 23.md"
               }
             }
           },
@@ -280,7 +289,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "371d4ae9823b9035",
   "lastOpenFiles": [
     "Prenotes Aug 25 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
