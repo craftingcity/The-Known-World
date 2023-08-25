@@ -27,4 +27,4 @@ Baron Xuiop does not approve of visitors, and will send a hunting party to the n
 
 ### What happened?
 
-They are staying in New Quillbuck, met with [[Baron Harvord]], and specifically are resting and drinking in the New Quillbuck Grand Tavern. He mentioned that Baron Avory, who he has no bearing of location on.
+They are staying in New Quillbuck, met with [[Baron Harvord]], and specifically are resting and drinking in the New Quillbuck Grand Tavern. Harvord mentioned that Baron Avory is looking for Daelith, but he has no bearing of her location.

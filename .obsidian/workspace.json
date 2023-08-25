@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "8cd26573ffd6713b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b2a99466796d8e80",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 18 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 18 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 18 23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -381,10 +393,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8977f07c28525773",
+  "active": "8cd26573ffd6713b",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
     "Prenotes Aug 18 23.md",
+    "conflict-files-obsidian-git.md",
+    "Prenotes Aug xx 23.md",
+    "Prenotes Aug 25 23.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
     "Game Notes/NPCs/List of Names.md",
@@ -407,9 +422,6 @@
     "Game Notes/Prenotes/'23/Prenotes July 19 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 12 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 05 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 04 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 02 23.md",
-    "Game Notes/NPCs/Mild Power/Revari Madrid.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
