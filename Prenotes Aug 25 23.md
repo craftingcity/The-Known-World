@@ -31,3 +31,5 @@ silver candlestick
 35 mead
 3lb salt
 5x lavender
+
+> "Tournament in Two days, 2 silver entry - steel fight to Concede, In search of Company; Rewarding 15 silver a day."
