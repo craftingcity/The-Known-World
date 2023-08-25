@@ -26,3 +26,8 @@ Your horse & cart begins to have difficulty as you continue to approach the mars
 ### What happened?
 
 they go to a smaller suburb of Boneborn and rob a Brewery
+
+silver candlestick
+35 mead
+3lb salt
+5x lavender
