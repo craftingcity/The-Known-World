@@ -24,3 +24,5 @@ Your horse & cart begins to have difficulty as you continue to approach the mars
 - Party is retreating to [[Boneborn]]
 
 ### What happened?
+
+they go to a smaller suburb of

@@ -48,9 +48,66 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ed98ea6bb5b1b4ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              }
+            }
+          },
+          {
+            "id": "c8358fd8c2d6aed4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f90bee1b976e76a3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Genereric Party Formation Contract.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           },
@@ -279,9 +336,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "350ba885a27778f4",
+  "active": "ed98ea6bb5b1b4ef",
   "lastOpenFiles": [
     "Prenotes Aug 25 23.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Genereric Party Formation Contract.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
@@ -296,7 +355,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Prenotes Aug 16 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 09 23.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
@@ -306,8 +364,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Johan's Public House.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
     "Game Notes/Prenotes/'23/Prenotes July 24 23.md",
-    "Game Notes/Prenotes/'23/Prenotes July 19 23.md",
-    "Game Notes/Prenotes/'23/Prenotes July 12 23.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
