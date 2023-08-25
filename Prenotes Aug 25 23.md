@@ -25,4 +25,4 @@ Your horse & cart begins to have difficulty as you continue to approach the mars
 
 ### What happened?
 
-they go to a smaller suburb of
+they go to a smaller suburb of Boneborn and rob a Brewery

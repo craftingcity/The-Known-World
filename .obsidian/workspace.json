@@ -106,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Aug 25 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Aug 25 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Prenotes Aug 25 23.md"
               }
             }
           },
@@ -336,10 +335,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed98ea6bb5b1b4ef",
+  "active": "eededbc15f6b8a14",
   "lastOpenFiles": [
-    "Prenotes Aug 25 23.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Prenotes Aug 25 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Genereric Party Formation Contract.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
