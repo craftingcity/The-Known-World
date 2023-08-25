@@ -33,3 +33,5 @@ silver candlestick
 5x lavender
 
 > "Tournament in Two days, 2 silver entry - steel fight to Concede, In search of Company; Rewarding 15 silver a day."
+
+Purchased permit
