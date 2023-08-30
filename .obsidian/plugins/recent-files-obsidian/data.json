@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Prenotes Aug 25 23",
-      "path": "Prenotes Aug 25 23.md"
-    },
-    {
-      "basename": "Boneborn",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+      "basename": "Erin 'Fox' Bathal",
+      "path": "Spike's Characters/Erin 'Fox' Bathal.md"
     },
     {
       "basename": "Currency of Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
       "basename": "Genereric Party Formation Contract",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Genereric Party Formation Contract.md"
+    },
+    {
+      "basename": "Boneborn",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+    },
+    {
+      "basename": "Prenotes Aug 25 23",
+      "path": "Prenotes Aug 25 23.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
       "basename": "Prenotes Aug xx 23",
@@ -195,10 +199,6 @@
     {
       "basename": "alaturmen-hexmap-105",
       "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     }
   ],
   "omittedPaths": [],

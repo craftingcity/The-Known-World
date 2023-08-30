@@ -9,11 +9,11 @@ I learned how to fight, not just with swords and spears (though the glaive combi
 And then a man came to the school; called himself a Hawkford and promised me exactly what I desired.
 
 ### Time with the Hawkfords
-For a few years, I made myself a useful soldier. I think that the family had something against me; they never really wanted me on the inside, if you know what I mean. 
+For a few years, I made myself a useful soldier. I exchanged blood for money. I think that the family had something against that; they never really wanted me on the inside, if you know what I mean. 
 
-I ran quite a few Operations with my teams before the rumor of war came to me, and I was already too deep to say no to what was very obviously a trap. I am one of the few of us who survived - and nowadays only Boar (brute?) and Sparrow (archer). It was Hawkford money. I moved on; had to. 
+I ran quite a few Operations with my teams before the rumor of war came to me, and I was already too deep to say no to what was very obviously a suicide run. I am one of the few of us who survived - and nowadays only Boar and Sparrow are with me. It was good money, but I moved on; I had to. 
 
-We've been working odd jobs together for a while now, my last few House buddies and I. That message rings true in my mind still; about how I was...
+Money's shit now. Odd jobs don't pay well.
 
 ### Living "Beyond my Time"
 ##### Session One; 06/27/23
@@ -47,9 +47,11 @@ The skeletons awoke, we fended them off, and are resting in the 3rd house.
 
 The wall, as described, is connected to an over grown road. It ends/begins at the houses, and continues into the jungle. We continue to travel along the road and find a pair of houses wrecked. Laelithar shapes into a mouse and explores, reporting that the insides of the rubble are uninteresting and too dense to continue exploration. Lavinia reports that the road is magical, but cannot determine the school. 
 
-We pass through a barrier, which suddenly shifts the acre of jungle infront of us into a grass clearing; the road is straight and well kept, leading towards a large stepped pyramid. The creatures of the jungle, even the bugs and birds, are not here in the clearing with us.
+We suddenly pass through an invisible barrier, which suddenly shifts the acre of jungle in front of us into a grass clearing; the road is now straight and very well-kept, leading towards a large stepped pyramid. The creatures of the jungle, even the bugs and birds, are not here in the clearing with us - this is disturbing.
 
-I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Laelithar and Liviana are marking the perimeter of the clearing/illusion during this time. Entry team met contact (4x ghoul-esq) down the right corridor.
+I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Entry team met contact (4x ghoul-esq) down the right corridor, and used Thunderwave to alert the rest of the party.
 
+Laelithar and Liviana are marking the perimeter of the clearing/illusion during this time.
 
-
+##### Session Three; 08/29/23
+###### In the 
