@@ -26,7 +26,7 @@ Wilferd M. - purple kobold with weird eyes & trident
 Barthalamule - ice-white-blue lizard man
 
 ###### The River Barges
-Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the Kishmala Rainforest. The Green-Barrow company was our parent patron.
+Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the **Kishmala Rainforest**. The **Green-Barrow Company** was our parent patron.
 
 	Garran is our CO for this mission - wields a greatsword.
 	Rowenna Green is a halfling scientist, VIP, primary escort objective.
@@ -56,3 +56,4 @@ Laelithar and Liviana were marking the perimeter of the clearing/illusion during
 ##### Session Three; 08/29/23
 ###### In the Pyramid
 
+We investigate the corpses, and Arey tells us that they are "wild" or "natural" undead.
