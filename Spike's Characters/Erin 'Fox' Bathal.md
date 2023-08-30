@@ -56,4 +56,6 @@ Laelithar and Liviana were marking the perimeter of the clearing/illusion during
 ##### Session Three; 08/29/23
 ###### In the Pyramid
 
-We investigate the corpses, and Arey tells us that they are "wild" or "natural" undead.
+We investigate the corpses, and Arey tells us that they are "wild" or "natural" undead. We continue into a large rectangular room (55'x30') with a small table in the corner. The table has a stone tablet with inscription on it in and one-quarter of a metal house-crest - Aery takes the crest, Rowenna the tablet.
+
+In a second room there are two small containers on a table and a trunk underneath. The first container has a magical tattoo needle and a vial of green ink and the second has two large mushrooms (*Giant's Bane*), a small dark alchemical vial, and two claws.
