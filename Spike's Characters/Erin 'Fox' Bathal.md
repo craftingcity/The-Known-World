@@ -54,4 +54,5 @@ I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room
 Laelithar and Liviana are marking the perimeter of the clearing/illusion during this time.
 
 ##### Session Three; 08/29/23
-###### In the 
+###### In the Pyramid
+

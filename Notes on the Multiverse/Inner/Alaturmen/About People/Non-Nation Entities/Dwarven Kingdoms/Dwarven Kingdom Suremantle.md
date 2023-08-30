@@ -6,6 +6,7 @@ aliases:
 # Clan Suremantle
 ## History
 ## Governance
+Clan Suremantle is a collection of greater Families, led by the Suremantle Family. The other greater Families include... ([[Nobles of Mountain Hall]])
 ## Culture
 #### Heritage
 #### Language
@@ -15,4 +16,3 @@ aliases:
 ### Symbolism
 ## Technology
 ### Magic
-## Relationships with other Clans

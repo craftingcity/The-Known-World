@@ -19,7 +19,7 @@ Interior, a Silver Unicorn in Coalition City. A great smash appears from outside
 
 ### What does the World Know?
 
-[[Todd Shnider Bonnovich]] - criminal contact in coalition city
+Todd Bonnovich - criminal contact in coalition city
 
 
 ### What happened?
