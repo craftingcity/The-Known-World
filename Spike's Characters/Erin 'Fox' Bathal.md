@@ -51,7 +51,7 @@ We suddenly pass through an invisible barrier, which suddenly shifts the acre of
 
 I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room before the rest of us enter. Entry team met contact (4x ghoul-esq) down the right corridor, and used Thunderwave to alert the rest of the party.
 
-Laelithar and Liviana are marking the perimeter of the clearing/illusion during this time.
+Laelithar and Liviana were marking the perimeter of the clearing/illusion during this time.
 
 ##### Session Three; 08/29/23
 ###### In the Pyramid
