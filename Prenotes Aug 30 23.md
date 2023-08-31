@@ -28,3 +28,14 @@ Moses will come back with a larger sum of money, 7500p, but will attempt to purc
 If able, a squad of [[Cenva Minyo]] soldiers will take Kalariel for their own, and extract him northward.
 
 ### What happened?
+
+deal was made, 1.000.000 sp, + 2x enchantments for each party member + gold_star_record
+
+enchantments:
+	- amulet of closed mindedness (adv on int saves, +1 saving throw)
+	- pipes of haunting
+	- make demon tail into spear weapon
+	- anti-divine-magic rock
+	- cloak of move fast (/+ki)
+	- magic tattoo (+ac)
+	- REN ITEMS
