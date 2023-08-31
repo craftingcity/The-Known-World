@@ -27,8 +27,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c9833d7617d54001",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bf86aa31cbcd5a66",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0b9546757f7ca7b2",
@@ -54,8 +97,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3d10aba6a73c885e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"yellow mage\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 479.51240158081055,
-    "collapsed": true
+    "width": 479.51240158081055
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -176,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 30 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 30 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 30 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
               }
             }
           },
@@ -284,10 +348,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "2ad82da0c7b95f24",
+  "active": "bf86aa31cbcd5a66",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
     "Prenotes Aug 30 23.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 09 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 16 23.md",
@@ -310,9 +376,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
-    "Game Notes/NPCs/List of Names.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Harvord.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
