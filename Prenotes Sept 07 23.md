@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for 
+# Prenotes for September 7th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -23,7 +23,7 @@ Upon your decline, the [[Baron Harvord]] simply dismissed you to your personal b
 
 Today is the 26th of Resowing, and I'm looking to the players for major direction; prepare to improv.
 
-Harvord is no shmuck, the party has signed their death-warrant in his eyes. We'll send out a hunting party to take them out, if we can. if they just dip that should be fine; we'll just keep our eyes and ears out.
+Harvord is no shmuck, the party has signed their death-warrant by denying his orders. He'll send out a hunting party to take them out, if he can spare the manpower; if they just dip that should be fine, we'll just keep our eyes and ears out and talk more with [[Baron Avory]] about them.
 
 
 
