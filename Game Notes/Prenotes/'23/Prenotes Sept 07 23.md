@@ -28,3 +28,5 @@ Harvord is no shmuck, the party has signed their death-warrant by denying his or
 The party knows about a [[Beasts Righteous]] outpost northwest of [[New Quillbuck]], and though the party may believe them to be "the Kind Natives" vs "the Evil Imperialists", the Beasts are not a kind people - its less public, but they eat meant like meat too.
 
 ### What happened?
+
+AM17
