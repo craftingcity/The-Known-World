@@ -57,7 +57,7 @@ aliases:
 	- Currently possessed by [[Nala]]
 
 - Inception
-	- > A palm-sized lens of sapphire. Its center seems to fracture infinitely, slowly churning.
+	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. 
 	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
 
 ## Weapons

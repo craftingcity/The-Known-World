@@ -25,6 +25,6 @@ Today is the 26th of Resowing, and I'm looking to the players for major directio
 
 Harvord is no shmuck, the party has signed their death-warrant by denying his orders. He'll send out a hunting party to take them out, if he can spare the manpower; if they just dip that should be fine, we'll just keep our eyes and ears out and talk more with [[Baron Avory]] about them.
 
-
+The party knows about a [[Beasts Righteous]] outpost northwest of [[New Quillbuck]], and though the party may believe them to be "the Kind Natives" vs "the Evil Imperialists", the Beasts are not a kind people - its less public, but they eat meant like meat too.
 
 ### What happened?
