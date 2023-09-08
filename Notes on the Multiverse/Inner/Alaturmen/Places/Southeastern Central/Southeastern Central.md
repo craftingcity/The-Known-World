@@ -68,6 +68,7 @@ aliases:
 		- [[Hitharu]]
 		- [[Karalwana]]
 		- [[Slyfront]]
+		- [[Amyl Dother]]
 - **Regions of SEC**
 	- [[Gabrin Shrublands]]
 	- **[[Great Quillbuck Jungle]]**
