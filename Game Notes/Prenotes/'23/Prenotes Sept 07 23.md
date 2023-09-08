@@ -29,4 +29,6 @@ The party knows about a [[Beasts Righteous]] outpost northwest of [[New Quillbuc
 
 ### What happened?
 
-AM17
+AM17 - [[Beasts Righteous]] outpost
+	> Wood Outposts, Barriers
+	> No noticeable guards, hidden in shadows on patrol; "calculated"
