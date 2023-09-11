@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for September 11th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -20,13 +20,11 @@ What does our tourney look like?
 ### What does the World Know?
 
 #### Competitors
-1. Raimrel Maggviar
-2. Nylan Roul
-3. Gaerl
-4. Trisdryn
-5. Reynard
-6. Heryan
-7. Loogarn
-8. Athela
+1. Raimrel Maggviar (spellsword)
+2. Nylan Roul (rouge)
+3. Gaerl (druid)
+4. Trisdryn the Grey (wizard)
+5. Reynard of Blemon's Buried (paladins)
 
 ### What happened?
+
