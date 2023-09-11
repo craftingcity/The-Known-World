@@ -6,7 +6,7 @@
       {
         "id": "0239e2f05ca14dbc",
         "type": "tabs",
-        "dimension": 87.78998778998779,
+        "dimension": 78.23721436343853,
         "children": [
           {
             "id": "2aeccd3f3ca6a4b6",
@@ -54,7 +54,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "6a08d33dc55d40a6"
           },
           {
             "id": "5db48bbaf1bbf0c5",
@@ -84,7 +85,7 @@
       {
         "id": "1c54f970f9861f2d",
         "type": "tabs",
-        "dimension": 12.21001221001221,
+        "dimension": 21.76278563656148,
         "children": [
           {
             "id": "a82f1cce63f6335b",
@@ -105,8 +106,29 @@
               }
             },
             "group": "cf36a0738b033283"
+          },
+          {
+            "id": "57450ec6ffae6558",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+              }
+            },
+            "group": "6a08d33dc55d40a6"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -335,11 +357,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "a82f1cce63f6335b",
+  "active": "5db48bbaf1bbf0c5",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Game Notes.md",
     "Amyl Dother.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
