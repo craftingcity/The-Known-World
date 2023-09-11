@@ -28,3 +28,14 @@ What does our tourney look like?
 
 ### What happened?
 
+they hired the folks, 
+
+
+ramrel 22
+trisdryn 19
+reynard 14
+basil 13
+elanor 11
+nylan 9
+zeldris 4
+gaerl 3
