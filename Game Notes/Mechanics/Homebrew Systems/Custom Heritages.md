@@ -149,7 +149,7 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
-- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- You may be anywhere from 5 to 8 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you take damage, you may use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage taken by that total. You regain the use of this feature after a short rest.
 - If your twin is alive, and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.
