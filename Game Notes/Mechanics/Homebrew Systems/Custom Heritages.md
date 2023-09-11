@@ -252,3 +252,14 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 	- Those hailing from the Plane of Earth gain the following;
 		- You have immunity against poison damage and the poisoned condition.
 		- Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
+
+## Tiefling
+
+*/picture of tiefling/*
+
+People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
+
+- *Age* You may live up to 200 years.
+- *Weight* You may weigh anywhere from 120 to 220 pounds.
+- You may be anywhere from 4 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
