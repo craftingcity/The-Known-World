@@ -32,7 +32,7 @@ they hired the folks,
 
 
 ramrel 22
-trisdryn 19 (17, 12)
+trisdryn 19 (17, 12, 18, )
 reynard 14
 basil 13
 elanor 11
