@@ -3,15 +3,16 @@ tags: roster
 aliases:
 ---
 
-# Adventures of ...
+# Adventures of "Koshachiy Domik"
 ## People
 Dae Shim
 Dot
 Shu
-Ren
+Ren (formerly, retired)
 Vix
 Daelith (kia)
-Moses
+Moses (formerly? acting as independent)
+Gringold
 Inec
 
 ### Trusted Allies
