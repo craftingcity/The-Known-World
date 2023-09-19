@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Barthalamule's Shrubland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
+    },
+    {
+      "basename": "Barthalmule's Thieves",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md"
+    },
+    {
+      "basename": "Sinazel Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
       "basename": "South Littemotto",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
     },
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
       "basename": "Enlitte Ambonas",
@@ -23,14 +35,6 @@
     {
       "basename": "Southern Quillbuck Jungle",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
-    },
-    {
-      "basename": "Barthalamule's Shrubland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
-    },
-    {
-      "basename": "Sinazel Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md"
     },
     {
       "basename": "The Deserts of Tetrimoc",
@@ -195,10 +199,6 @@
     {
       "basename": "North Littemotto",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     }
   ],
   "omittedPaths": [],
