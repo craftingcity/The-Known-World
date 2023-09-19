@@ -10,6 +10,7 @@ aliases:
 ### Scenarios
 #### Y11.
 #### Y12.
+#### Y13.
 #### Z11.
 #### Z12.
 #### AA3. Wurm Hunting Grounds
@@ -24,6 +25,7 @@ aliases:
 	- A statue of a faceless monarch on a throne is set into the sand here. Across the throne in many locations, as well as in what looks like repeated pressings of hands upon the blank-face, the yellow-grey material of the statue is stained with red. 
 	- Upon closer inspection, it would become clear that this entire statue is made of one massive petrified bone, and carved down into it's current form. Sand and wind has begun to dull the sharp edges of the construction. On these sharp edges, the face of the figure, and in smears and drops across the throne, copper-red stains can be identified as blood. 
 #### AA12.
+#### AA13.
 #### AB4. 
 #### AB5. 
 #### AB6. Jerran's Valley Oasis
@@ -35,6 +37,7 @@ aliases:
 #### AB10.
 #### AB11.
 #### AB12.
+#### AB13.
 #### AC4.
 #### AC5.
 #### AC6.
@@ -45,6 +48,7 @@ aliases:
 #### AC10.
 #### AC11.
 #### AC12.
+#### AC13.
 #### AC14. Impossible Hole
 	- A massive forty foot diameter pit lies in the sand here. This pit reaches a depth of about three miles before entering the ever shifting bowels of the [[Underdark]]. Legends tell us that some sort of horror came from this pit some number of years ago.
 #### AD3.
@@ -57,6 +61,7 @@ aliases:
 #### AD10.
 #### AD11.
 #### AD12.
+#### AD13.
 #### AE4.
 #### AE5.
 #### AE6.
@@ -66,6 +71,7 @@ aliases:
 #### AE10.
 #### AE11. Cyclops' Cave (visible)
 #### AE12.
+#### AE13.
 #### AF4.
 #### AF5.
 #### AF6.
@@ -86,11 +92,13 @@ aliases:
 	- Two Triton wearing large Gnoll Skulls and heavy armor are examining the spire and chains - they require materials to take back to camp, and may find the chains suitable.
 #### AG10.
 #### AG12.
+#### AG13.
 #### AH4. Worm-rock Castle (visible)
 	- A massive mound of sand and stone towers above all who view it.
 	- This massive rock pike has been internally gobbled by purple wurm.
 #### AH5.
 #### AH6.
+#### AH13.
 #### AI5.
 #### AI6.
 #### AM3.

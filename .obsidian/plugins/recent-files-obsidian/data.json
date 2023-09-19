@@ -5,6 +5,22 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+    },
+    {
+      "basename": "Barthalamule's Shrubland",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
+    },
+    {
+      "basename": "White Hills",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "South Littemotto",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Hektor Salar",
       "path": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Great Quillbuck Jungle",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md"
     }
   ],
   "omittedPaths": [],
