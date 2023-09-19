@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "South Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
+    },
+    {
+      "basename": "Central Holyl'nd",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
+    },
+    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "The Deserts of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
+      "basename": "Enlitte Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md"
+    },
+    {
+      "basename": "Firelight Sea",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
+    },
+    {
+      "basename": "Southern Quillbuck Jungle",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md"
     },
     {
       "basename": "Barthalamule's Shrubland",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
+    },
+    {
+      "basename": "Sinazel Ambonas",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md"
+    },
+    {
+      "basename": "The Deserts of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
     },
     {
       "basename": "White Hills",
@@ -19,26 +43,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "South Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
-    },
-    {
-      "basename": "Sinazel Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md"
-    },
-    {
-      "basename": "Firelight Sea",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md"
-    },
-    {
-      "basename": "Enlitte Ambonas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md"
-    },
-    {
-      "basename": "Central Holyl'nd",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
     },
     {
       "basename": "Prenotes SARAHHOUSE",
@@ -195,10 +199,6 @@
     {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
-    },
-    {
-      "basename": "Hektor Salar",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Hektor Salar.md"
     }
   ],
   "omittedPaths": [],

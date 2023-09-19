@@ -10,6 +10,10 @@ aliases:
 ### Scenarios
 #### C15. Frost Giant Haven
 #### D13.
+#### D14.
+#### E14.
+#### F14.
+
 
 ## Tables
 ### Encounter

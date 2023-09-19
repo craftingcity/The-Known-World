@@ -13,11 +13,14 @@ aliases:
 #### O10.
 #### O11.
 #### O12.
+#### O13.
 #### P10.
 #### P11.
 #### P12.
+#### P13.
 #### Q11.
 #### Q12.
+#### Q13.
 #### R13. Statue of a Dying Warrior 
 	- A massive statue depicts a human warrior wielding a shield and sword clad entirely in plate-mail flailing upwards, as if pulled off their feet and into the air, and impaled by an equally massive obelisk piecing their body and armor in a visually harrowing artistic competence. Both the statue and the obelisk are made of a bright white fire-light. The obelisk is inscribed in Ancient Elvish with the repeating phrase;
 		- ("***Ustafána*. Amimirn vala, cenvéla amursanya. Pustame cenai lertatye, anatnye neithanata. Onnonyamile; *Ustafána* nossëcca se *hildikhag*, tulume vilissë, maptalë oanésacca venno. *Ustafána*.**" / "*Burn*. I am their god, let my anger be known. Stop me if you can, but I will never be slighted again. Child of my Parent; *Burn* your kin on *my stakes*, bring me their souls, and then soil your sister's husband. *Burn*." )
