@@ -11,8 +11,11 @@ aliases:
 #### C15. Frost Giant Haven
 #### D13.
 #### D14.
+#### D15.
 #### E14.
+#### E15.
 #### F14.
+#### F15.
 
 
 ## Tables
