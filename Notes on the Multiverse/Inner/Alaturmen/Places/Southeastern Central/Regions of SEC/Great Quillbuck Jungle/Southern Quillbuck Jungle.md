@@ -9,6 +9,7 @@ aliases:
 ### Flora
 ### Scenarios
 #### AO13. 
+#### AO15. 
 #### AO20. Elite Dragon Cult
 #### AO22. Putrid Elemental
 #### AO24. Ancient Temple
@@ -16,6 +17,7 @@ aliases:
 	- predators of the [[Beasts Righteous]] bring gifts to these beasts here in trade before passing into the westlick - or returning from it
 #### AP13. Giant Slug
 #### AP14.
+#### AP15.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
