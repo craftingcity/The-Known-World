@@ -12,8 +12,13 @@ aliases:
 #### Y14.
 #### Z13.
 #### Z14.
-#### AA
+#### AA14.
+#### AB14.
+#### AD14.
+#### AE14.
 #### AF13.
+#### AF14.
+#### AG14.
 ## Tables
 ### Encounter
 **Encounter Check:** 1 in 1d8

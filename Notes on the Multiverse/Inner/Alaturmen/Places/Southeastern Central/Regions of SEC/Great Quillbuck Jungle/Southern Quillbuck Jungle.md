@@ -15,6 +15,7 @@ aliases:
 	- 6 creatures guard this place, and have done so for as long as it has been, or so they say.
 	- predators of the [[Beasts Righteous]] bring gifts to these beasts here in trade before passing into the westlick - or returning from it
 #### AP13. Giant Slug
+#### AP14.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
