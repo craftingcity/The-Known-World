@@ -10,15 +10,24 @@ aliases:
 ### Flora
 ### Scenarios
 #### Y14.
+#### Y15.
 #### Z13.
 #### Z14.
+#### Z15.
 #### AA14.
+#### AA15.
 #### AB14.
+#### AB15.
+#### AC15.
 #### AD14.
+#### AD15.
 #### AE14.
+#### AE15.
 #### AF13.
 #### AF14.
+#### AF15.
 #### AG14.
+#### AG15.
 ## Tables
 ### Encounter
 **Encounter Check:** 1 in 1d8
