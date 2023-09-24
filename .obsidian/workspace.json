@@ -12,24 +12,30 @@
             "id": "1eb3c37cb9d980e4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Game Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Sept 11 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Sept 11 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Central Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":92},\"to\":{\"line\":10,\"ch\":92}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -298,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md"
               }
             }
           },
@@ -416,8 +422,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b2257cda41e85b6",
+  "active": "1eb3c37cb9d980e4",
   "lastOpenFiles": [
+    "Prenotes Sept 11 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md",
@@ -432,7 +439,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Foothills/White Hills.md",
     "Game Notes/Game Notes.md",
-    "Prenotes Sept 11 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md",
     "conflict-files-obsidian-git.md",
