@@ -1,5 +1,7 @@
 Presented in order of commonality. Please consider all people to become adults at about 1/4th their maximum age, and consider all height and weight statements to be guidelines, not rules.
 
+
+# Alaturmenian
 ## Goblin
 
 ![[goblin.png]]
@@ -41,16 +43,19 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 - You have advantage on saving throws against effects that charm, paralyze, or deal poison damage.
 - You may add your proficiency bonus to your hit point maximum.
 
+# Fey Folk
+
+- *Age* You do not age as mortals should. 
+	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
+	- You will, after many many years - though how many is quite uncertain - feel the urge, nay, the *need* to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
+	- A deep homesickness will beset you, and you **will** give in to this need, and you **will** travel North, beyond the Wildlands, and it is quite likely that **you will never be seen by a mortal again**.
+
 ## Elven
 
 ![[elf.png]]
 
 People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
 
-- *Age* You do not age as mortals should. 
-	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
-	- You will, after many many years - though how many is quite uncertain - feel the urge, nay, the *need* to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
-	- A deep homesickness will beset you, and you **will** give in to this need, and you **will** travel North, beyond the Wildlands, and it is quite likely that **you will never be seen by a mortal again**.
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
@@ -234,7 +239,7 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 
 People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
 
-- *Age* You may live up to 200 years.
+- *Age* You do not age.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
@@ -257,9 +262,16 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 
 */picture of tiefling/*
 
-People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
+People with a heavy Fiendish heritage find themselves in possession of a magically influenced biology, and may find themselves using their internal magics throughout their life. The origin of Tieflings on Alaturmen begins after the [[Second Invasion of Orcus]], leading to a unearned persecution by most cultures in the world.
 
-- *Age* You may live up to 200 years.
+- *Age* You may live up to 80 years without feeding on another Humanoid.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
+
+## Pisky
+
+*/picture of a Pisky?/*
+
+People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valueable communities" for a as-of-yet unknown purpose.
+

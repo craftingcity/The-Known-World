@@ -5,5 +5,3 @@ To understand or read a language you do not know, but is related to a language y
 If you reach a 10, you gain a basic understanding of the interaction.
 
 If you reach 15 or higher, you understand the interaction as if you knew the language.
-
-As of yet, speaking a language you do not know is not possible, the two parties must rely on this system to communicate.
