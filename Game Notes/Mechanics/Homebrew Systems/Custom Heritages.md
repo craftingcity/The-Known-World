@@ -43,39 +43,6 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 - You have advantage on saving throws against effects that charm, paralyze, or deal poison damage.
 - You may add your proficiency bonus to your hit point maximum.
 
-# Fey Folk
-
-- *Age* You do not age as mortals should. 
-	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
-	- You will, after many many years - though how many is quite uncertain - feel the urge, nay, the *need* to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
-	- A deep homesickness will beset you, and you **will** give in to this need, and you **will** travel North, beyond the Wildlands, and it is quite likely that **you will never be seen by a mortal again**.
-
-## Elven
-
-![[elf.png]]
-
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
-
-- *Weight* You may weigh anywhere from 80 to 180 pounds.
-- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
-- Your base walking speed is 30 feet per round.
-- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
-- You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
-	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
-- You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
-	- Childer of the Court of Spring gain the following;
-		- You have advantage on Perception checks that rely on sight.
-		- You have a walking speed of 35 feet per round.
-	- Childer of the Court of Summer gain the following;
-		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
-		- You have a darkvision of 30 feet.
-	- Childer of the Court of Fall gain the following;
-		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
-	- Childer of the Court of Winter gain the following;
-		- You have a darkvision of 60 feet.
-		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
-		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
-
 ## Triton
 
 ![[triton.png]]
@@ -133,18 +100,6 @@ People with a heavy Gnoll heritage find themselves in possession of a very canai
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack.
 - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
-## Halfling
-
-![[halfling.png]]
-
-People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
-
-- *Age* You may live for up to 120 years.
-- *Weight* You may weigh anywhere from 40 to 80 pounds.
-- You may be anywhere from 2 to 3 feet tall. Your size is Small.
-- Your base walking speed is 25 feet per round.
-- You may move through the space of any creature that is of a size larger than yours.
-- Whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
 
 ## Goliath
 
@@ -185,39 +140,18 @@ People with a heavy Kenku heritage find themselves in possession of an availian 
 - You have a hovering speed of 15 feet per round. You cannot use this hovering speed while you are wearing medium or heavy armor.
 - You can precisely mimic sounds, including voices, you have heard more than once. A creature that hears the sounds you make can only tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
 
-## Satyr
+## Halfling
 
-![[satyr.png]]
+![[halfling.png]]
 
-People with a heavy Satyr heritage find themselves in possession of a very bovine biology. The origins of Satyr people on Alaturmen are common information, they came with the Elves, having been given the duty of record for the Ceelie Courts. Sadly, the Great Fires destroyed many of the records of this time, and even sadder, the standing contract from the Ceelie Courts.
+People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
 
-- *Age* You do not age as mortals should. 
-	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
-	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
-	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
-- *Weight* You may weigh anywhere from 100 to 200 pounds.
-- You may be anywhere from 4 to 6 feet tall. Your size is Medium.
-- Your base walking speed is 35 feet per round.
-- You have advantage on saving throws against spells and other magical effects. 
-- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
-
-## Gnomish
-
-![[gnome.png]]
-
-People with a heavy Gnomish heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Gnomish people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task their Gnomish servants with the investigation and recovery of any and all technology.
-
-- *Age* You do not age as mortals should. 
-	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
-	- You will, after many many years - though how many is quite uncertain, feel the urge - nay - the need to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
-	- A deep homesickness will beset you, and you will give in to this need, and you will travel North, beyond the Wildlands, and it is quite likely that you will never be seen by a mortal again.
-- *Weight* You may weigh anywhere from 50 to 120 pounds.
-- You may be anywhere from 2 to 4 feet tall. Your size is Small.
+- *Age* You may live for up to 120 years.
+- *Weight* You may weigh anywhere from 40 to 80 pounds.
+- You may be anywhere from 2 to 3 feet tall. Your size is Small.
 - Your base walking speed is 25 feet per round.
-- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
-- You have advantage on all Intelligence, Wisdom, and Charisma Saving Throws against spells and magical effects. 
-- Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. 
-- Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
+- You may move through the space of any creature that is of a size larger than yours.
+- Whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is another 1.
 
 ## Kobold
 
@@ -262,16 +196,83 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 
 */picture of tiefling/*
 
-People with a heavy Fiendish heritage find themselves in possession of a magically influenced biology, and may find themselves using their internal magics throughout their life. The origin of Tieflings on Alaturmen begins after the [[Second Invasion of Orcus]], leading to a unearned persecution by most cultures in the world.
+People with a heavy Fiendish heritage find themselves in possession of a magically influenced biology, and may find themselves using their internal magics throughout their life. The origin of Tieflings on Alaturmen is directly tied to the [[Second Invasion of Orcus]], which has led to an unearned persecution by most cultures in the world.
 
 - *Age* You may live up to 80 years without feeding on another Humanoid.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 
+# Fey Folk
+
+The Fey Folk share many features absent in Alaturmenian peoples;
+
+- *Age* You do not age as mortals should. 
+	- You reach adulthood after your first great achievement, which of course you will feel in yourself. 
+	- You will, after many many years - though how many is quite uncertain - feel the urge, nay, the *need* to wander North, farther than you have gone before. Farther than the Wildlands would allow you. 
+	- A deep homesickness will beset you, and you **will** give in to this need, and you **will** travel North, beyond the Wildlands, and it is quite likely that **you will never be seen by a mortal again**.
+- You have advantage on saving throws against effects that charm and you cannot be made to sleep by magical means. Your creature type is fey, rather than humanoid.
+
+## Elven
+
+![[elf.png]]
+
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
+
+- *Weight* You may weigh anywhere from 80 to 180 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
+	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
+- You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
+	- Childer of the Court of Spring gain the following;
+		- You have advantage on Perception checks that rely on sight.
+		- You have a walking speed of 35 feet per round.
+	- Childer of the Court of Summer gain the following;
+		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
+		- You have a darkvision of 30 feet.
+	- Childer of the Court of Fall gain the following;
+		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
+	- Childer of the Court of Winter gain the following;
+		- You have a darkvision of 60 feet.
+		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
+		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
+
+
+
+## Satyr
+
+![[satyr.png]]
+
+People with a heavy Satyr heritage find themselves in possession of a very bovine biology. The origins of Satyr people on Alaturmen are common information, they came with the Elves, having been given the duty of record for the Ceelie Courts. Sadly, the Great Fires destroyed many of the records of this time, and even sadder, the standing contract from the Ceelie Courts.
+
+- *Weight* You may weigh anywhere from 100 to 200 pounds.
+- You may be anywhere from 4 to 6 feet tall. Your size is Medium.
+- Your base walking speed is 35 feet per round.
+- You have advantage on saving throws against spells and other magical effects you can see within 30 feet of you. 
+
+## Gnomish
+
+![[gnome.png]]
+
+People with a heavy Gnomish heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Gnomish people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task their Gnomish servants with the investigation and recovery of any and all technology.
+
+- *Weight* You may weigh anywhere from 50 to 120 pounds.
+- You may be anywhere from 2 to 4 feet tall. Your size is Small.
+- Your base walking speed is 25 feet per round.
+- You have advantage on all Intelligence, Wisdom, and Charisma Saving Throws against spells and magical effects. 
+- Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. 
+- Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
+
+
 ## Pisky
 
 */picture of a Pisky?/*
 
-People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valueable communities" for a as-of-yet unknown purpose.
+People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
 
+- *Weight* You may weigh anywhere from 15 to 25 pounds.
+- You may be 2 to 3 feet tall. Your size is Small.
+- You base walking speed is 25 feet per round.
+- You have a hover speed equal to your walking speed, and a flying speed of 10 feet per round. You cannot use either this hovering speed or flying speed while you are wearing heavy armor. 
+- You may move through the space of any creature that is of a size larger than yours.
