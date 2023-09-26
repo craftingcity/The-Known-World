@@ -12,6 +12,11 @@ aliases:
 	- birds
 #### A11.
 #### A12.
+#### A13.
+#### A14.
+#### A15.
+#### A16.
+#### A17.
 #### B10. Hektor's Keep (visible)
 	- [[Hektor Salar]] runs a camp for those people who wish to escape the Castes of the [[The Church of the White Flame|Church of Flame]]. This camp grows some of it's own food, but much of it's "income" is from banditry.
 		- Hektor does not allow the taking of innocent life during his raids, and equips his bands with blunt weaponry in an attempt to preserve his victims lives.
@@ -20,7 +25,12 @@ aliases:
 	- The Keep itself is a massive construction of stone bricks and mortar beneath reinforcements of scrap metal, wood, and small bricks of Holyl'nd. There are over 18 secure rooms in the Keep, and many insecure places of rest and work in the courtyards or ruined rooms of the Keep. Massive semi-ruined castle.
 #### B11.
 #### B12.
+#### B13.
+#### B14.
+#### B15.
+#### B16.
 #### C12.
+#### C13.
 #### C14. [[Kakurak's Lair]]
 
 ## Tables

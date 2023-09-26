@@ -9,6 +9,18 @@ aliases:
 ### Flora
 ### Scenarios
 #### C15. Frost Giant Haven
+#### C16.
+#### D13.
+#### D14.
+#### D15.
+#### D16.
+#### E14.
+#### E15.
+#### E16.
+#### F14.
+#### F15.
+#### F16.
+
 
 ## Tables
 ### Encounter
