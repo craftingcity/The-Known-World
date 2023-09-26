@@ -6,7 +6,7 @@
       {
         "id": "aaba1aa04a516c1a",
         "type": "tabs",
-        "dimension": 87.78998778998779,
+        "dimension": 78.40146430750458,
         "children": [
           {
             "id": "44e488acbcea4346",
@@ -48,8 +48,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "9f36242134e1440a"
+            }
           },
           {
             "id": "d4582428f538f2e1",
@@ -72,13 +71,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af5fa32293c85c94",
         "type": "tabs",
-        "dimension": 12.21001221001221,
+        "dimension": 21.598535692495425,
         "children": [
           {
             "id": "58bc2baa4c4f96d8",
@@ -95,10 +93,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
               }
-            },
-            "group": "9f36242134e1440a"
+            }
           }
         ]
       }
@@ -221,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
               }
             }
           },
@@ -331,8 +328,8 @@
   },
   "active": "58bc2baa4c4f96d8",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md",
