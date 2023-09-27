@@ -54,7 +54,7 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 - You may be anywhere from 4 to 6 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You have a swimming speed equal to your walking speed.
-- You can breathe air and water.
+- You can breathe air and water, though breathing water is more comfortable.
 
 ## Orcish
 
@@ -184,7 +184,7 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 	- Those hailing from the Plane of Fire gain the following;
 		- You have resistance to fire damage.
 		- You have a darkvision of 60 feet.
-		- You may cast *hellish rebuke* as a reaction without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
+		- You may cast the *hellish rebuke* spell without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
 	- Those hailing from the Plane of Water gain the following;
 		- You have resistance to cold damage.
 		- You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
@@ -235,7 +235,7 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
 	- Childer of the Court of Winter gain the following;
 		- You have a darkvision of 60 feet.
-		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
+		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each without using a spell slot. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
 
 
@@ -267,7 +267,7 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 
 ## Pisky
 
-*/picture of a Pisky?/*
+![[pisky.png]]
 
 People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
 
@@ -276,3 +276,4 @@ People with a heavy Pisky heritage find themselves in possession of what seems t
 - You base walking speed is 25 feet per round.
 - You have a hover speed equal to your walking speed, and a flying speed of 10 feet per round. You cannot use either this hovering speed or flying speed while you are wearing heavy armor. 
 - You may move through the space of any creature that is of a size larger than yours.
+- You may cast the *charm person* spell without using a spell slot. You regain the use of this feature after a long rest.
