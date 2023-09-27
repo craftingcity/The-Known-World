@@ -67,3 +67,6 @@ The third room had three ghouls and the third part of the crest.
 ##### Session Four; 09/26/23
 ###### In The Pyramid, II
 
+We acquire the fourth crest piece and put them all together, but fail to recognize the heraldry. After taking a short rest, we place the crest in it's slot, and the doors slowly rumble open. Before us, a large, completely flat room takes up the central space of the pyramid. The very tip is open to the sunlight above us.
+
+As the party enters, the shadows contort into a large 10-foot tall humanoid figure clad in some kind of magical spectral armor and weapon.
