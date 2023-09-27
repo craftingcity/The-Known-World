@@ -56,8 +56,10 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Combine Citizens]]**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
+		- [[Barret Bodaim]]
 		- **[[Ex-Bandit Lords]]**
 		- [[Fraznky Bradley]]
+		- [[Griss'eltel Bodaim]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
 - **zDeceased**

@@ -1,10 +1,8 @@
 # Bandit Lords
 %% Begin Waypoint %%
-- **[[Ex-Bandit Lords]]**
-	- [[Asilar 'Goldhand' Guir]]
-	- [[Barret Bodaim]]
-	- [[Edward Bodaim]]
-	- [[Griss'eltel Bodaim]]
+- [[Asilar 'Goldhand' Guir]]
+- [[Edward Bodaim]]
+- [[Franklin Avaati]]
 
 %% End Waypoint %%
 

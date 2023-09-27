@@ -19,5 +19,8 @@ After following him into the back of the temple and reasonably confirming your s
 
 ### What does the World Know?
 
+#### Coraline "Mommy" Avaati
+#### Havar "Piggie" Thourin
+#### John "Acolyte" Humane
 
 ### What happened?

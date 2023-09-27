@@ -18,12 +18,12 @@ Money's shit now. Odd jobs don't pay well.
 ### Living "Beyond my Time"
 ##### Session One; 06/27/23
 ## The Party
-Arie - dark wizard
-Lavinia Moss - elven ranger
-Spencer Forescythe - simplistic human monastic
-Laelithar - fire elf druid/ranger
-Wilferd M. - purple kobold with weird eyes & trident
-Barthalamule - ice-white-blue lizard man
+Arie - Aaracokra Necromancer
+Lavinia Moss - Wood Elf Ranger
+Spencer Forescythe - Human Pugilist
+Laelithar - Fire Elf Ranger Druid
+Wilferd M. - Mystic Purple Kobold, Caster Extrordinaer
+Barthalamule - Winter Lizardfolk Paladin of Glory
 
 ###### The River Barges
 Three raft-esq boats each carry one third of the expedition; the Science team, Cargo team, and Mercenary team. We're looking for the remains of an ancient civilization in the **Kishmala Rainforest**. The **Green-Barrow Company** was our parent patron.
@@ -54,12 +54,14 @@ I sent the entry team of Barthalamule, Arie, and Spencer to clear the first room
 Laelithar and Liviana were marking the perimeter of the clearing/illusion during this time.
 
 ##### Session Three; 08/29/23
-###### In the Pyramid
+###### In the Pyramid, I
 
 We investigate the corpses, and Arey tells us that they are "wild" or "natural" undead. We continue into a large rectangular room (55'x30') with a small table in the corner. The table has a stone tablet with inscription on it in and one-quarter of a metal house-crest - Aery takes the crest, Rowenna the tablet.
 
 In a second room there are two small containers on a table and a trunk underneath. The first container has a magical tattoo needle and a vial of green ink and the second has two large mushrooms (*Giant's Bane*), a small dark alchemical vial of cobra venom, and two salamander claws. In the trunk, another quarter of this crest - again. Continuing, we find a door with a crest in the hall to the north-western room, and imagine that we must find the third and fourth crest pieces before continuing this way. The hallway continues into another room. 
 
-This room had three ghouls and the third part of the crest.
+The third room had three ghouls and the third part of the crest.
 
-##### Session Four; 
+##### Session Four; 09/26/23
+###### In The Pyramid, II
+
