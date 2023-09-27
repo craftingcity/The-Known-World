@@ -6,11 +6,14 @@ aliases:
 # Crafted Items
 ## Armor
 - The White Cloak of Waywalket Turring
-	- > A white dragonhide cloak crafted by [[The Old Man]]. It provides the attuned a +3 to AC and resistance to cold damage.
+	- > A white dragonhide cloak crafted by [[The Old Man]]. 
+	- It provides the attuned a +3 to AC and resistance to cold damage.
+	- While unequipped, the cloak slowly shrinks to fit a small humanoid, but quickly grows or shrinks to fit it's wearer.
 	- Currently possessed by [[Varis]]
 
 - Alergra's Cloak of Diversion
-	- > Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
+	- > A red robe that slowly shimmers in the light like a dancing fire.
+	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
 	- Currently possessed by [[Alergra Barrowinch]]
 
 ## Wonderous Items
@@ -25,6 +28,7 @@ aliases:
 
 - The Fireheart Ruby
 	- > A beautiful fist sized ruby cut precisely into a geometric heart. Upon close inspection, a dim orange glow can be seen to flicker at the center of the gem.
+	- This gem currently holds six charges. Grasping the gem, you may expend a charge as a bonus action. If you do, you may either gain 1d4 hitpoints or imbue your next weapon attack with 1d4 fire damage. 
 	- Currently possessed by [[Amashod]]
 
 - Tubric's Bag of Rooms
@@ -60,22 +64,27 @@ aliases:
 	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. 
 	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
 
+- The Amulet of Closed Mindedness
+	- > A beautiful silver chain on which rests a silver locket. With minimal force, the locket is opened to reveal a 
+
 ## Weapons
 - Magni Liberatoris Nostri Temporis
-	- > A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
-	- >> This sword is cursed. The attuned emotionally needs it to be close at hand at all times.
+	- A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- This sword is cursed. The attuned emotionally needs it to be close at hand at all times.
 	- Currently possessed by [[Arthur Simonson]]
 
 - Greystone's Arm
-	- > A +3 longbow, crafted by [[The Old Man]]
+	- A +3 longbow, crafted by [[The Old Man]]
 	- Currently location unknown
 
 - Alergra's Staff of Power
-	- > Alergra's own Staff of Power, created by her and enchanted with her most common spells.
+	- Alergra's own Staff of Power, created by her and enchanted with her most common spells. It holds up to 12 charges. 
+		- As an action, you may expend a second level spell slot to regain one charge, a fourth level spell slot to regain 2 charges, or a sixth level spell slot to regain 3 charges.
+		- As an action, you may expend a charge and cast your choice of the following spells without expending a spell slot: **
 	- Currently possessed by [[Alergra Barrowinch]]
 
 - The Tuber
-	- > A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
+	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
 	- Currently located with [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
 
 

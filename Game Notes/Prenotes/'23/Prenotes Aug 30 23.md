@@ -38,4 +38,4 @@ enchantments:
 	- anti-divine-magic rock
 	- cloak of move fast (/+ki)
 	- magic tattoo (+ac)
-	- REN ITEMS
+	- REN ITEMS (for )
