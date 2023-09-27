@@ -60,7 +60,7 @@ We investigate the corpses, and Arey tells us that they are "wild" or "natural" 
 
 In a second room there are two small containers on a table and a trunk underneath. The first container has a magical tattoo needle and a vial of green ink and the second has two large mushrooms (*Giant's Bane*), a small dark alchemical vial of cobra venom, and two *salamander* claws. In the trunk, another quarter of this crest - again. 
 
-	Continuing, we find a door in the hall to the north-western room on which there is an imprint of what we can assume is the complete crest that we have been building, and therefore we must find the third and fourth crest pieces before continuing this way. The hallway continues into another room. 
+Continuing, we find a door in the hall to the north-western room on which there is an imprint of what we can assume is the complete crest that we have been building, and therefore we must find the third and fourth crest pieces before continuing this way. The hallway continues into another room. 
 
 The third room had three ghouls and the third part of the crest.
 
