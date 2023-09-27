@@ -21,7 +21,7 @@
                   "title": "'23",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":19},\"to\":{\"line\":54,\"ch\":19}},\"scroll\":17.835068287558375}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":17},\"to\":{\"line\":18,\"ch\":17}},\"scroll\":0}"
                 },
                 {
                   "title": "Prenotes",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md"
               }
             }
           },
@@ -287,6 +287,7 @@
   "active": "f3208b3f574185f1",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
@@ -316,7 +317,6 @@
     "Amyl Dother.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
