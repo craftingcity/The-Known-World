@@ -194,7 +194,7 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 
 ## Tiefling
 
-*/picture of tiefling/*
+![[tiefling.png]]
 
 People with a heavy Fiendish heritage find themselves in possession of a magically influenced biology, and may find themselves using their internal magics throughout their life. The origin of Tieflings on Alaturmen is directly tied to the [[Second Invasion of Orcus]], which has led to an unearned persecution by most cultures in the world.
 
@@ -202,6 +202,7 @@ People with a heavy Fiendish heritage find themselves in possession of a magical
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
+- Your 
 
 # Fey Folk
 
