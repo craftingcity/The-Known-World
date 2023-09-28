@@ -37,5 +37,5 @@ enchantments:
 	- make demon tail into spear weapon
 	- anti-divine-magic rock
 	- cloak of move fast (/+ki)
-	- magic tattoo (+ac)
+	- magic tattoo (+ac) (+1, no flanking?)
 	- REN ITEMS

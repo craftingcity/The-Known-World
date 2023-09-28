@@ -8,6 +8,6 @@ connect to [[Notes on the Multiverse]]
 	- [[Party of Grandparents House]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Prenotes]]**
+- **[[Game Notes/Prenotes/Prenotes]]**
 
 %% End Waypoint %%
