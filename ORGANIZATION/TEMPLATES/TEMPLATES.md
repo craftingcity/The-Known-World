@@ -5,7 +5,7 @@
 - [[Group]]
 - [[Holdings]]
 - [[NPCs]]
-- [[Prenotes]]
+- [[ORGANIZATION/TEMPLATES/Prenotes]]
 - [[Region]]
 - [[Stub]]
 - [[Table]]

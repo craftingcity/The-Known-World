@@ -11,7 +11,7 @@ Shu
 Ren (formerly, retired)
 Vix
 Daelith (kia)
-Moses (formerly? acting as independent)
+Moses the Brave (formerly? acting as independent)
 Gringold
 Inec
 

@@ -85,8 +85,8 @@ aliases:
 
 ## Weapons
 - Magni Liberatoris Nostri Temporis
-	- A +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
-	- This sword is cursed. The attuned emotionally needs it to be close at hand at all times.
+	- A shining +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
+	- This sword is cursed. The attuned emotionally **needs** it to be close at hand at all times.
 	- Currently possessed by [[Arthur Simonson]] of [[The Kingdom of Prosper|Prosper]]
 
 - Greystone's Arm
