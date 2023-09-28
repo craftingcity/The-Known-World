@@ -6,13 +6,13 @@ aliases:
 Masc | Femme | Neutral
 --------|--------|--------
 Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
-Theo Anderson | Paige Saunders | Glen Stone
+x | Paige Saunders | Glen Stone
 Weulleachan Kork | Freya Harris | Abraham Yorrik
 River Borns | Hallis Winters | Val Harris
 Leighton Mitchell | x | Val Stevens
 Mark Ross | Lyla Bradley | Franky Bradley
 Zak Williamson | Orren Bearich | Bellan Cork
-Tomas Francis | Frankie Davis | Thomas Grin
+Tomas Francis | Frankie Davis | x
 Louis Stewart | Lois Rogers | Vic Willis
 Doirin Pheiderin | Kia Pearce | Marley Richardson
 
@@ -23,7 +23,7 @@ Fridigern | Amalda | Ammius | Malasintha
 Totila | Eraric | Elja | Theodemer 
 Narin | Inna | Amala | Veduco
 Hilduara | Sueridus | Amalindis | Bun
-Pural | Writh | Muurs | Gnacs
+Pural | x | Muurs | Gnacs
 Srac | Srewo | Qipaal | Mhiotis 
 Fatuc | Gowunth | Mumcik | Terrikx
 Waztraek | Frothong | Ngacipa | Krerdundin
@@ -32,7 +32,7 @@ Qholooji | Aibitiuks | Gnisotruls | Vrarakuuv
 Masc | Femme
 ---|---	
 Xonsu ben Benkaei | Shir Li ben Hafetz Hayim
-Silvan ben Edwin | Yomi ben Ohav
+x | Yomi ben Ohav
 Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf
 Erez ben Yaroslav | Sar-El ben Haleli

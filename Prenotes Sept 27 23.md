@@ -33,3 +33,11 @@ The party wants to speak with [[Nicolas Talaveem]], but the council is still mee
 The UFC is back in town - 4v4 teamfight.
 
 Classic; Fighter, Cleric, Wizard, Rogue/Ranger. Level 5+
+
+Gringold (21)
+Writh, of Boneborn, Wizard Extrordinare (13)
+Silvan ben Edwin, Paladin of Ar'Kraven (12)
+Dae Shim
+Thomas Grin, Golden City Fighter (11)
+Theo Anderson, of Adjga, Scout-Sneak (10)
+
