@@ -20,6 +20,9 @@ After following him into the back of the temple and reasonably confirming your s
 ### What does the World Know?
 
 #### Coraline "Mommy" Avaati
+Born and raised in [[Coalition City]]m Coraline was raised in a wealthy merchant family. She had very little to worry for, and would spend her youth enjoying her friendships at school. As she grew, she accrewed more social power, and wo uld eventually come to be the leader of her youth outreach group of her Tauruin acolytes.
+
+As she continued to grow into her religious lifestyle, 
 #### Havar "Piggie" Thourin
 #### John "Acolyte" Humane
 

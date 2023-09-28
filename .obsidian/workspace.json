@@ -37,13 +37,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.4.14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.4.14\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -169,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Sept 27 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Sept 27 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Sept 27 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes SARAHHOUSE.md"
               }
             }
           },
