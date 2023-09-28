@@ -16,6 +16,11 @@ aliases:
 	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
+- Highest form of Flattery
+	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]]
+	- This cloak provides the attuned +5' per round to their walking speed.
+	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
+
 ## Wonderous Items
 - The Quick Time
 	- > A small hourglass that has major chronomantic power. Crafted by the one and only [[Alergra Barrowinch]], with major assistance from [[The Wizard In Blue]].
@@ -72,7 +77,11 @@ aliases:
 
 - Heretical Stone
 	- > A dark black sphere of unmarked obsidian. The center seems to dully pulse, but it must be a trick of the light. Created by [[Qiell Tilemundon]].
-	- As an action, you may enable or disable the stone's 
+	- As an action, you may enable or disable the stone's field. 
+		- This field extends ten feet in every direction around the stone. This field is not visible without magical means of detection.
+		- Creatures inside the field are resistant to radiant damage and vulnerable to necrotic damage. 
+		- When a creature inside the field casts a spell, if the creature is a divine caster (see [[How the Weave becomes Magic]]) they must succeed on a DC 17 arcana check or the spell is countered.
+	- Currently possessed by [[Shu Ameda]] of [[Cathouse Game]]
 
 ## Weapons
 - Magni Liberatoris Nostri Temporis
@@ -103,7 +112,7 @@ aliases:
 # Divine Creation
 ## Artifacts
 - Worldbinding 
-	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate into one of the 9 major-non-material planes.
+	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate between one of the 9 major-non-material planes and Alaturmen.
 	- The Worldbinding to the [[Plane of Fire]] is held in [[Kakurak]]'s [[Who has a Horde|horde]].
 	- The Worldbinding to the [[Abyss]] is held by [[Nala, Ulfgar, Jerran, & Breenabell Roster]].
 	- The Worldbinding to the [[Feywild]] is held in the depths of [[The Old|Minyostalma]].

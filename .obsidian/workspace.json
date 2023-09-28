@@ -56,6 +56,33 @@
             "id": "7e6f0cccbb1cb97b",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "How the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"How the.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9fdd1fc481bae23",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -67,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
                 "mode": "source",
                 "source": true
               }
@@ -193,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md"
               }
             }
           },
@@ -311,9 +338,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7e6f0cccbb1cb97b",
+  "active": "f3208b3f574185f1",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
+    "How the.md",
+    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
+    "MEDIA/SUPP/Here lie my suppliments....md",
+    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Game Notes/Prenotes/Prenotes.md",
@@ -336,14 +371,6 @@
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 25 23.md",
-    "Prenotes Sept 11 23.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug xx 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "Amyl Dother.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Notes on the Multiverse/Outer/Abyss/Thanatos",
