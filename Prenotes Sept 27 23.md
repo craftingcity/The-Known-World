@@ -35,11 +35,11 @@ The UFC is back in town - 4v4 teamfight.
 Classic; Fighter, Cleric, Wizard, Rogue/Ranger. Level 5+
 
 Gringold 
-Writh, of Boneborn, Wizard Extrordinare [C3] 
-Silvan ben Edwin, Paladin of Ar'Kraven [C4] (7)
+Writh, of Boneborn, Wizard Extrordinare [C3] (6)
+~~Silvan ben Edwin, Paladin of Ar'Kraven [C4] (7)~~
 Dae Shim 
 Thomas Grin, Golden City Fighter [C5] 
-Theo Anderson, of Adjga, Scout-Sneak [C6] 
-Penne 
+~~Theo Anderson, of Adjga, Scout-Sneak [C6] ~~
+Penne the Pennetrator
 Shu Ameda 
 
