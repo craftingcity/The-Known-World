@@ -28,3 +28,8 @@ Today's ingame date is the Second of Weeding, in the one-hundred-and-fifth year 
 
 ### What happened?
 
+The party wants to speak with [[Nicolas Talaveem]], but the council is still meeting. Come back tomorrow.
+
+The UFC is back in town - 4v4 teamfight.
+
+Classic; Fighter, Cleric, Wizard, Rogue/Ranger. Level 5+
