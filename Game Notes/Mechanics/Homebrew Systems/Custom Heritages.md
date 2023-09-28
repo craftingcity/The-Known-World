@@ -277,4 +277,4 @@ People with a heavy Pisky heritage find themselves in possession of what seems t
 - You base walking speed is 25 feet per round.
 - You have a hover speed equal to your walking speed, and a flying speed of 10 feet per round. You cannot use either this hovering speed or flying speed while you are wearing heavy armor. 
 - You may move through the space of any creature that is of a size larger than yours.
-- You may cast the *charm person* spell without using a spell slot. You regain the use of this feature after a long rest.
+- You may cast the *charm person* spell once without using a spell slot. You regain the use of this feature after a long rest.
