@@ -5,62 +5,6 @@
       "path": "Prenotes Sept 27 23.md"
     },
     {
-      "basename": "Prenotes Aug 30 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md"
-    },
-    {
-      "basename": "Cathouse Game",
-      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
-    },
-    {
-      "basename": "The Return of Moses the Brave",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "How the Weave becomes Magic",
-      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
-    },
-    {
-      "basename": "Here lie my suppliments...",
-      "path": "MEDIA/SUPP/Here lie my suppliments....md"
-    },
-    {
-      "basename": "Homebrew Spells",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "Spell Building Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
-    },
-    {
-      "basename": "'23",
-      "path": "Game Notes/Prenotes/'23/'23.md"
-    },
-    {
-      "basename": "Prenotes Sept 07 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
       "basename": "Erin 'Fox' Bathal",
       "path": "Spike's Characters/Erin 'Fox' Bathal.md"
     },
@@ -129,6 +73,14 @@
       "path": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md"
     },
     {
+      "basename": "Cathouse Game",
+      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Amyl Dother",
       "path": "Amyl Dother.md"
     },
@@ -157,6 +109,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
     },
     {
+      "basename": "Prenotes Sept 07 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md"
+    },
+    {
       "basename": "Currency of Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
@@ -165,12 +121,20 @@
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
+      "basename": "Prenotes Aug 30 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md"
+    },
+    {
       "basename": "Baron Avory",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md"
     },
     {
       "basename": "Prenotes Aug 16 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Aug 16 23.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Who has a Horde",
@@ -199,6 +163,42 @@
     {
       "basename": "Texts",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "'23",
+      "path": "Game Notes/Prenotes/'23/'23.md"
+    },
+    {
+      "basename": "Pirre Tald",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
     }
   ],
   "omittedPaths": [],
