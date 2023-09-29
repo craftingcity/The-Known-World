@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for NEXT SARAHHOUSE GAME
+# Prenotes for September 28th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -17,18 +17,23 @@ When last we left our heroes, they had taken to the streets in search of clues t
 
 After following him into the back of the temple and reasonably confirming your suspicions, you allowed him to lead you to a ceremony he was to attend. You intervened before things escalated, and have since detained the three survivors of the encounter.
 
+You have moved each of these 
+
 ### What does the World Know?
 
 #### Coraline "Mommy" Avaati
-Born and raised in [[Coalition City]]m Coraline was raised in a wealthy merchant family. She had very little to worry for, and would spend her youth enjoying her friendships at school. As she grew, she accrewed more social power, and wo uld eventually come to be the leader of her youth outreach group of her Tauruin acolytes.
+Born and raised in [[Coalition City]]m Coraline was raised in a wealthy merchant family. She had very little to worry for, and would spend her youth enjoying her friendships at school. As she grew, she accrewed more social power, and would eventually come to be the leader of her youth outreach group of her Tauruin acolytes.
 
 As she continued to grow into her religious lifestyle, she began to experience lucid dreams in which she would be wielding a great deal of magical power. Most recently, she had a vision of herself and three acolytes butchering and consuming a large pig.
 
 #### Havar "Piggie" Thourin
-Havar was the son of a farmer, and has inherited his familiy farm. He is currently in Coalition City looking to sell his farm to Coraline, but has since been swindled and conned into plumping up and coming with her to become a sacrifice for the new members of Coraline's Cult
+Havar was the son of a farmer, and has inherited his familiy farm. He is currently in Coalition City looking to sell his farm to Coraline, but has since been swindled, conned, and convinced into coming with her to become a sacrifice for the new members of Coraline's Cult. 
+
+Theocratic magic and martyrdom would have been coming to him, supposedly, but that illusion has been shattered.
 
 #### John "Acolyte" Humane
 John Humane is a power hungry stock broker. He came to Coraline duriung a Tauruin service, during which she explained to him her place in Tauruin's plans. He has no issues with taking power from others to gain it; life is zero sum.
 
+John has been in a stupor of unconsciousness since the fight. He was dreaming of his life - taking what he wanted for his God's joy. 
 
 ### What happened?
