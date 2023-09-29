@@ -37,3 +37,10 @@ John Humane is a power hungry stockbroker. He came to Coraline during a Tauruin 
 John has been in a stupor of unconsciousness since the fight. He was dreaming of his life - taking what he wanted for his God's joy. 
 
 ### What happened?
+
+they interviewed everyone
+
+they killed coraline and john. they got lots of info from piggie; specifically that there will be a big ol Infernal Cult Meeting on the 8th of Weeding in [[Boneborn]].
+
+they take a long rest here in the silver unicorn, and upon the marrow of the 2nd, they will take a riverboat south, landing in [[Bannerburn]] or [[Smoothpost]] before they continue onward to [[Boneborn]]
+

@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Franklin Avaati",
       "path": "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Franklin Avaati.md"
     },
@@ -13,8 +17,12 @@
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+      "basename": "Smoothpost",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Smoothpost.md"
+    },
+    {
+      "basename": "Bannerburn",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Bannerburn.md"
     },
     {
       "basename": "Ex-Bandit Lords",
@@ -191,10 +199,6 @@
     {
       "basename": "Inner",
       "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     }
   ],
   "omittedPaths": [],
