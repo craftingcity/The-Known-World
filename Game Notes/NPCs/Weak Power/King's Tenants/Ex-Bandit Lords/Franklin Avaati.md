@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 # Franklin Avaati
-## Bandit L
-### pronouns
+## Ex-Bandit Lord
+### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 
@@ -18,6 +18,7 @@ A description of their function in the world.
 
 ### Background
 #### Early Life
+
 
 ## Important Knowledge
 

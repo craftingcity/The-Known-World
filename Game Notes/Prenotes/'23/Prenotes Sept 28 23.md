@@ -22,7 +22,7 @@ You still have your room here in the Silver Unicorn of the Wheel Ward in [[Coali
 ### What does the World Know?
 
 #### Coraline "Mommy" Avaati
-Born and raised in [[Coalition City]]m Coraline was raised in a wealthy merchant family. She had very little to worry for, and would spend her youth enjoying her friendships at school. As she grew, she accrewed more social power, and would eventually come to be the leader of her youth outreach group of her Tauruin acolytes.
+Born and raised in [[Coalition City]] Coraline was raised in a wealthy merchant family. She had very little to worry for, and would spend her youth enjoying her friendships at school. As she grew, she accrewed more social power, and would eventually come to be the leader of her youth outreach group of her Tauruin acolytes.
 
 As she continued to grow into her religious lifestyle, she began to experience lucid dreams in which she would be wielding a great deal of magical power. Most recently, she had a vision of herself and three acolytes butchering and consuming a large pig.
 
@@ -32,7 +32,7 @@ Havar was the son of a farmer, and has inherited his family farm. He is currentl
 Theocratic magic and martyrdom would have been coming to him, supposedly, but that illusion has been shattered.
 
 #### John "Acolyte" Humane
-John Humane is a power hungry stock broker. He came to Coraline duriung a Tauruin service, during which she explained to him her place in Tauruin's plans. He has no issues with taking power from others to gain it; life is zero sum.
+John Humane is a power hungry stockbroker. He came to Coraline during a Tauruin service, during which she explained to him her place in Tauruin's plans. He has no issues with taking power from others to gain it; life is zero-sum.
 
 John has been in a stupor of unconsciousness since the fight. He was dreaming of his life - taking what he wanted for his God's joy. 
 
