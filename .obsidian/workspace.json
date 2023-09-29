@@ -95,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md"
               }
             }
           },
@@ -344,15 +343,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "4b8cc5f0a8dc4692",
+  "active": "7b4d41b771c8c2db",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Franklin Avaati.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md",
     "Prenotes Sept 27 23.md",
-    "conflict-files-obsidian-git.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "MEDIA/HERITAGES/pisky.png",
