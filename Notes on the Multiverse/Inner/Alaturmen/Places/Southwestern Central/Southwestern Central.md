@@ -8,6 +8,7 @@ aliases:
 ## Contents
 ### Factions
 - [[Golden Claws]] & [[Tetramocal Congregation]]
+	- brash and harsh
 - [[Agrandica's Thieves]]
 - [[Barthalmule's Thieves]]
 - [[Cobalt's Thieves]]
