@@ -11,8 +11,18 @@ Since their defeat, the surviving members of the families have either abandoned 
 
 ## Governance
 ### Northern Lords
-The Northern Lords were the greatest powers of the era, hands down
+
+The Northern Lords were the greatest powers of the era. Before the [[Unification]], there were six major families who loosely allied in opposition to disruption of the status quo, or, more specifically, peasant rebellions.
+
+
+##### Bodaim
+##### Avaati
+
 ### Southern Lords
+
+The Southern Lords were a splinter group of Bandit Lords that acted under the orders of the Northern families before they fell to infighting and lost cohesion as a "colony".
+
+##### Guir
 
 ## Culture
 #### Heritage

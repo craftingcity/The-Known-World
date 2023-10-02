@@ -152,7 +152,7 @@ date: 067AF
 title: Darwine births new forms.
 content:
 
-[[Darwine]] of the [[Beasts Righteous]] creates humanoid-sentient life from the fauna of the [[Great Quillbuck Jungle]] - most notably the Tabaxi and Kenku - in an attempt to raise a defensive army.
+[[Darwine Evon]] of the [[Beasts Righteous]] creates humanoid-sentient life from the fauna of the [[Great Quillbuck Jungle]] - most notably the Tabaxi and Kenku - in an attempt to raise a defensive army.
 
 date: 072AF
 title: Simonson make Peace.
@@ -161,7 +161,7 @@ content:
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
 
 date: 075AF
-title:
+title: 
 content:
 
 date: 078AF
