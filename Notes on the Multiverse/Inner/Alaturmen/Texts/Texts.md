@@ -29,7 +29,7 @@ aliases:
 	- [[The Ballad of Grey Ordeal]]
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
-	- [[The Texts Druidic]]
+	- [[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]]
 - [[On the Hum Arcani; Independent Position]]
 - [[Tetrimoc's Journal (Propaganda)]]
 - [[The Return of Moses the Brave]]

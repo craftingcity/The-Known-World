@@ -27,7 +27,7 @@ date: 76xxxTBT
 title: [[All-Father Annam]] and [[Asmodeus]] strike a deal.
 content:
 
-The [[All-Father Annam]] builds the [[Nine Hells of Baator]] for [[Asmodeus]]. He was quick to realize his mistake, though he could not take it back - [[Asmodeus]] would not accept going back on a contract, and was feeding on the Faith-strength of the Souls he attracted to his [[Nine Hells of Baator|Hells]].
+The [[All-Father Annam]] builds [[Baator|The Nine Hells of Baator]] for [[Asmodeus]]. He was quick to realize his mistake, though he could not take it back - [[Asmodeus]] would not accept going back on a contract, and was feeding on the Faith-strength of the Souls he attracted to his Hells.
 
 Striken with grief, [[All-Father Annam]] built [[Mechanis]] and [[Elysium]], the planes of Law and Good, and he built them high in the multiverse, so far that none of his family could reach - spare his parents. There, Souls collected and formed as Angels and Lictus, bastions-near-immortal of Good and Law.
 
@@ -86,13 +86,13 @@ title: Druids invoke Weave Arcane.
 content:
 The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, enscribed the first scrolls. From them, and the further teachings of her magnificence, Animan, they came to understand workings of the Idol's domains, as well as her sister's. 
 
-See [[The Druidic Texts]].
+See [[The Texts Druidic]].
 
 date: 013AF
 title: [[Arthur Simonson]] raises his sword.
 content:
 
-A young half-hobgoblin first begins to adventure and gain strength. He meets with a young brass dragon; [[Kakurak]]. Together, they begin the first grand campaign of Alaturmen. Soon he will meet other great allies and great enemies.
+A young hobgoblin first begins to adventure and gain strength. He meets with a young brass dragon; [[Kakurak]]. Together, they begin the first grand campaign of Alaturmen. Soon he will meet other great allies and great enemies.
 
 date: 017AF
 title: Bandits rule the [[Great Northern Forests]].

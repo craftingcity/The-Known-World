@@ -3,9 +3,9 @@ tags:
   - npc
 aliases:
 ---
-# Jabbawok
-## The Final Chaos
-### it/its
+# Asmodeus
+## A Corrupt Lawyer's Greatest Ally
+### they/he/it
 
 > Boxtext for an action, outfit, and a physical trait.
 
@@ -18,6 +18,8 @@ A description of their function in the world.
 
 ### Background
 #### Early Life
+
+Rules [[Nessus]] and All [[Baator]]
 
 ## Important Knowledge
 
