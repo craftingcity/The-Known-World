@@ -47,7 +47,7 @@ The [[Jade Ward]] houses new money merchants, and is a common mark for the thiev
 Much of the industry that supplies the city is contained within the [[Steel Ward]]. 
 
 #### The Ruby Ward
-The administration of the city, including offices of the many [[The Guilds|Guilds]] of the city is held in the [[Ruby Ward]]. 
+The administration of the city, including offices of the many minor and major Guilds of the city, is held in the [[Ruby Ward]]. 
 
 #### The Golden Ward
 The [[Golden Ward]] stands as the hall of the merchants, where no item can't be found, so they say.

@@ -188,7 +188,7 @@ date: 092AF
 title: Powers retire.
 content:
 
-[[The Grey Ordeal]] disbands, focusing on their domestic work in [[The Guilds]] or their other affairs. Under their watch, a great prosperity engulfs the lands.
+[[The Grey Ordeal]] disbands, focusing on their domestic work in the Guilds or their other affairs. Under their watch, a great prosperity engulfs the lands.
 
 [[Tetrimoc]] no longer is a visible leader of his flock, granting controll of [[The Golden City]] to the [[Golden Claws]], and his journal is reproduced and distributed across Alaturmen.
 
@@ -207,7 +207,7 @@ date: 105AF
 title: The [[Second Invasion of Orcus]]...
 content:
 
-Throughout the material planes, a dark hum permiates the Weave. A casket unsealed. An idea revived. A doom begins to loom. [[Qiell Tilemundon]] gains access to the Worldbinding of the Abyss.
+Throughout the material planes, a dark hum permiates the Weave. A casket unsealed. An idea revived. A doom begins to loom. [[Qiell Tilemundon]]... Evil Boy...
 
 date: 106AF
 title:
