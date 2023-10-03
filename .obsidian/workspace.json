@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Coalition City",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":128},\"to\":{\"line\":49,\"ch\":128}},\"scroll\":30.95833197094145}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -34,14 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6a571776a218cf12",
+            "id": "de86325ec45b726c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Kade-Trin Cathouse Game.md",
+                "file": "Five Pike.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "091bb454894e41db",
+            "id": "0400174068ddcd75",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -76,68 +82,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5286c9d8fd7765f8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Golden City",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":27},\"to\":{\"line\":6,\"ch\":27}},\"scroll\":0.8946414790921214}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "588ad4f4965fd088",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Baron Filip",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":18},\"to\":{\"line\":5,\"ch\":18}},\"scroll\":8.110713777087984}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.50418853759766
+    "width": 376.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -257,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
               }
             }
           },
@@ -384,14 +337,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "588ad4f4965fd088",
+  "active": "0400174068ddcd75",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+    "Five Pike.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
+    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
     "Prenotes Kade-Trin Cathouse Game.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Darwine Evon.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
@@ -405,14 +363,9 @@
     "Blood Wars of Fiends.md",
     "Immortal Dragons.md",
     "Asmodeus.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Franklin Avaati.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Smoothpost.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Bannerburn.md",
-    "conflict-files-obsidian-git.md",
-    "Prenotes Sept 27 23.md",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",
     "MEDIA/HERITAGES/tiefling.png.crdownload",
