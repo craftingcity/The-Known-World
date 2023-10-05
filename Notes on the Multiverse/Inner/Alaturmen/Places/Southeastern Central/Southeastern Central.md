@@ -13,6 +13,7 @@ aliases:
 ###### Table of Contents
 %% Begin Waypoint %%
 - **Greater Villages & Cities**
+	- [[Amyl Dother]]
 	- [[Barkryn]]
 	- [[Beacon]]
 	- [[Boneborn]]
@@ -68,7 +69,6 @@ aliases:
 		- [[Hitharu]]
 		- [[Karalwana]]
 		- [[Slyfront]]
-		- [[Amyl Dother]]
 - **Regions of SEC**
 	- [[Gabrin Shrublands]]
 	- **[[Great Quillbuck Jungle]]**

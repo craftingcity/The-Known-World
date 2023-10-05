@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dea3be00c1e9453c",
+        "id": "f97d1fbaa07af21e",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab854fced6d97e6",
+            "id": "7de7ae479e72ea43",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,75 +20,11 @@
               ]
             },
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "66a87c52ab068126",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "474b4e4b14307ec9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toor, of Killskull.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7071bcd533b76737",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "huntyr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toor, of Killskull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toor, of Killskull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Toor, of Killskull.md"
-              }
+              "state": {}
             }
           },
           {
@@ -336,11 +268,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "474b4e4b14307ec9",
+  "active": "7de7ae479e72ea43",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md",
-    "Toor, of Killskull.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Amyl Dother.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Outer/Outer.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Game Notes/NPCs/zDeceased/Darwine Evon.md",
+    "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
+    "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md",
+    "Game Notes/NPCs/Weak Power/King's Tenants/Toor, of Killskull.md",
     "Prenotes Kade-Trin Cathouse Game.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
@@ -349,21 +297,6 @@
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
-    "Five Pike.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
-    "Prenotes Sept 27 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 25 23.md",
-    "Prenotes Sept 11 23.md",
-    "Notes on the Multiverse/Big Lore/Languages/Time Before Time/Astral Goblin (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",
@@ -378,7 +311,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping",
     "MEDIA/MAPS/WORLD/Thanatos-Player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore"
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards"
   ]
 }

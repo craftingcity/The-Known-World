@@ -11,6 +11,8 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Alaturmian God NPCs]]**
 	- [[All-Father Annam]]
 	- **[[Demon Lord NPCs]]**
+	- **Devil Prince NPCs**
+		- [[Asmodeus]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
 - [[Gudeliva]]
@@ -60,10 +62,12 @@ for the graph: [[Here lie my suppliments...]]
 		- **[[Ex-Bandit Lords]]**
 		- [[Fraznky Bradley]]
 		- [[Griss'eltel Bodaim]]
+		- [[Toor, of Killskull]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
 - **zDeceased**
 	- [[Big Buster]]
+	- [[Darwine Evon]]
 	- [[Elsa Grifiths San-Tymiq]]
 	- [[Grandey, Young Bard]]
 	- [[Guraxlog]]

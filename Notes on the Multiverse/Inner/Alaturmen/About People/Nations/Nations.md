@@ -29,6 +29,7 @@ aliases:
 	- **Factions**
 		- [[Beasts Righteous]]
 		- [[Dampguard]]
+		- [[Five Pike]]
 		- [[Grovetenders]]
 		- [[Hillkeep Loyalists]]
 		- **[[Knights in Red]]**
