@@ -241,6 +241,8 @@ You gain +2 to your Intelligence Score and +1 to your Strength Score. You are pr
 
 In addition, you have advantage on Wisdom (Insight) checks against those in positions of authority over you.
 
+## Harvord Contractee
+
 ## Baronless
 
 You have spent your life before adventure wandering the Combine; never able to establish a stable relationship with a Baron, you were never safe. First victim of any racket, first removed from a state of housing, first blamed for mishaps unexplained.
