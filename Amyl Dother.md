@@ -22,4 +22,4 @@ aliases:
 ## Governance
 While Amyl Dother is technically a holding of the [[Baron Cassindil]], it acts with near-autonamy as the theocratic capital of the followers of Sune.
 
-Church is not mandatory, but few who live in the city fail to attend semi-regularly if not daily.
+Church attendance is not legally mandatory, but few who live in the city fail to attend semi-regularly if not daily, and those who do are relatively lonely.
