@@ -71,23 +71,6 @@
             }
           },
           {
-            "id": "46a542d9443840d0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1da05b25ac7eddb8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -114,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+                "file": "Prenotes Oct 04 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+                "file": "Prenotes Oct 04 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+                "file": "Prenotes Oct 04 23.md"
               }
             }
           },
@@ -363,11 +345,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fc77ffdf64dabb3f",
+  "active": "590901bf40d5591b",
   "lastOpenFiles": [
+    "Amyl Dother.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
-    "Amyl Dother.md",
     "Prenotes Oct 04 23.md",
     "Prenotes Sept 27 23.md",
     "sept 23.md",
