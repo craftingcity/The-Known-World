@@ -3,9 +3,9 @@ tags: holding,
 aliases:
 ---
 # Amyl Dother
-#### Sub-names?
-## Holding of 
-### Located in {Region}, X:Y
+#### City of Love
+## Holding of [[Baron Cassindil]] and the [[Grovetenders]]
+### Located in [[Southern Third]], X:Y
 ## Description
 ### "Quote"
 
@@ -20,3 +20,6 @@ aliases:
 |     |              |
 
 ## Governance
+While Amyl Dother is technically a holding of the [[Baron Cassindil]], it acts with near-autonamy as the theocratic capital of the followers of Sune.
+
+Church attendance is not legally mandatory, but few who live in the city fail to attend semi-regularly if not daily, and those who do are relatively lonely.
