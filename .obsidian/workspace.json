@@ -22,13 +22,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Kade-Trin Cathouse Game.md",
+                "file": "Prenotes Oct 04 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e26869a5512b9156",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amyl Dother.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fc77ffdf64dabb3f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "46a542d9443840d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1da05b25ac7eddb8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Sept 27 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Sept 27 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "huntyr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Kade-Trin Cathouse Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Kade-Trin Cathouse Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Kade-Trin Cathouse Game.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
               }
             }
           },
@@ -276,8 +363,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "590901bf40d5591b",
+  "active": "fc77ffdf64dabb3f",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
+    "Amyl Dother.md",
+    "Prenotes Oct 04 23.md",
+    "Prenotes Sept 27 23.md",
+    "sept 23.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
@@ -286,11 +379,9 @@
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "Prenotes Kade-Trin Cathouse Game.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
     "Five Pike.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
-    "Prenotes Sept 27 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 25 23.md",
@@ -300,10 +391,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
-    "Darwine Evon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",

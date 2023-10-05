@@ -3,7 +3,7 @@ tags: holding,
 aliases:
 ---
 # Amyl Dother
-#### Sub-names?
+#### City of Love
 ## Holding of 
 ### Located in {Region}, X:Y
 ## Description
