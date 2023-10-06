@@ -21,6 +21,7 @@ aliases:
 	- [[Goldfield]]
 	- [[Lakeview]]
 	- [[Mossburg]]
+	- [[New Quillbuck]]
 	- [[Red Throne]]
 	- [[Zalfari]]
 - **Lower Villages**
