@@ -9,7 +9,7 @@ aliases:
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A description of their function in the world.
+A notable Captain of the [[Northstone Family Trading Company]], who operates a route on the [[Alvalini River]].
 
 ## Roleplaying
 

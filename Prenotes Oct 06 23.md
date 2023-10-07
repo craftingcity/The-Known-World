@@ -34,4 +34,6 @@ They called Alergra, and she said the [[Annual Boneborn Bash]] was likely the ev
 
 Jerran buys a Chiton Studded Leather armor suit.
 
-They are taking 'The Embargo', Captained by [[Revari Madrid]] of the [[Northstone Family Trading Company]].
+They are taking 'The Embargo', Captained by [[Revari Madrid]] of the [[Northstone Family Trading Company]]. They want him to take them all the way, and they are a party of 4. 252sp to [[Zalfari]], and another 360sp from [[Zalfari]] to [[Bannerburn]], total of 612sp, but Breenabell does Breenabell and gets 50% off.
+
+The party will arrive in [[Bannerburn]] on the 23rd of Resowing.
