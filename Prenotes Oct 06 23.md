@@ -32,7 +32,7 @@ Taking a riverboat typically costs 2 silver per crate/barrel or 3 silver per per
 
 They called Alergra, and she said the [[Annual Boneborn Bash]] was likely the event that "Mommy" was speaking on - where some sort of meeting was to be held.
 
-Jerran buys a Chiton Studded Leather armor suit.
+Jerran buys a Chiton Studded Leather armor suit from [[Qipaal Cork]]. (13 + DEX / 11 SR)
 
 They are taking 'The Embargo', Captained by [[Revari Madrid]] of the [[Northstone Family Trading Company]]. They want him to take them all the way, and they are a party of 4. 252sp to [[Zalfari]], and another 360sp from [[Zalfari]] to [[Bannerburn]], total of 612sp, but Breenabell does Breenabell and gets 50% off.
 
