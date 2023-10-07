@@ -20,11 +20,77 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              }
+            }
+          },
+          {
+            "id": "a024ca8a53b63b25",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a802e813f379ea3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 06 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "77a991a5a1efc52b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Oct 06 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Oct 06 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +277,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Oct 06 23.md"
+              }
             }
           },
           {
@@ -268,8 +338,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0f6e0bbb2cd0d489",
+  "active": "9a802e813f379ea3",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Prenotes Oct 06 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/New Quillbuck.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
@@ -293,11 +367,6 @@
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/Prenotes/'22/Prenotes Dec 27 22.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 22 23.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Toor, of Killskull.md",
-    "Prenotes Kade-Trin Cathouse Game.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",
     "MEDIA/HERITAGES/tiefling.png.crdownload",
