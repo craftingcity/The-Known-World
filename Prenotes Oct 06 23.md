@@ -30,3 +30,4 @@ Taking a riverboat typically costs 2 silver per crate/barrel or 3 silver per per
 
 ### What happened?
 
+they called Alergra, and she said the [[Annual Boneborn Bash]] was likely the event that "Mommy" was speaking on - 

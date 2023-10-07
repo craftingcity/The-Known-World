@@ -17,6 +17,8 @@ Typically, the buildings are supported by the natural elements of the marshes, b
 
 Most outsiders are welcome, as this is the largest city in the marshes, but the [[Beasts Righteous]] are quite protective of their businesses. Majorly, we're producing Food and Wood, but there is a large production of poor bog-iron.
 
+
+
 ### Background
 ## Important Places & Symbolism
 
