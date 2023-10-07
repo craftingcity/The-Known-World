@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for October 6th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -20,7 +20,9 @@ We know, however, that they were not truly within that room. Perhaps conceptuall
 
 Inside this bag, three supposed demonic cultists were restrained and contained. The party interrogated, tortured, and eventually killed the two true cultists - they were of no more use and their continued animation presented a genuine threat - but have spared the one survivor, and have likely turned this pious man's life around (or at least could, once they've released him).
 
-Havar Thourin spoke about a conversation he overheard about some gathering 
+Havar Thourin spoke about a conversation he overheard about a gathering in the city of [[Boneborn]]. Under the context, you can only assume that there will be a gathering of cultists here, if not a meeting of the more formal organizers of this perversion of Faith.
+
+Upon the morning of the Second, I put the question to you; what do you do?
 
 ### What does the World Know?
 
