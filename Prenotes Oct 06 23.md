@@ -30,4 +30,8 @@ Taking a riverboat typically costs 2 silver per crate/barrel or 3 silver per per
 
 ### What happened?
 
-they called Alergra, and she said the [[Annual Boneborn Bash]] was likely the event that "Mommy" was speaking on - 
+They called Alergra, and she said the [[Annual Boneborn Bash]] was likely the event that "Mommy" was speaking on - where some sort of meeting was to be held.
+
+Jerran buys a Chiton Studded Leather armor suit.
+
+They are taking 'The Embargo', Captained by [[Revari Madrid]] of the [[Northstone Family Trading Company]].

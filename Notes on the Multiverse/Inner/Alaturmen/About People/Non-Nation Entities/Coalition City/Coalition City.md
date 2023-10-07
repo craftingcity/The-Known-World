@@ -40,6 +40,8 @@ The [[Moss Ward]] pales in comparison, housing the many commonfolk in dense apar
 #### The Stone Ward
 The [[Stone Ward]] was the first residential ward to be built, although few folks have lived through its long, dragging construction. Residential complexes and homestead industry.
 
+[[Qipaal Cork]] is a smith that works well with leather and chiton here in the Stone Ward.
+
 #### The Jade Ward
 The [[Jade Ward]] houses new money merchants, and is a common mark for the thieves of the City. 
 
