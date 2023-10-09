@@ -4,7 +4,7 @@ aliases:
 ---
 # Beacon
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Slimknives]] / [[Riphounds]]
 ### Located in [[Westlick Mossland]], AM30 / AN30 (border)
 ## Description
 ### Quote

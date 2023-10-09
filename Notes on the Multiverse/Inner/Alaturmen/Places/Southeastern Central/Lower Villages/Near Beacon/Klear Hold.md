@@ -4,7 +4,7 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Slimknives]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote
