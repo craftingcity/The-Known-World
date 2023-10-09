@@ -16,12 +16,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Coalition's Founding Document",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -119,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.50418853759766
+    "width": 376.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -144,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+              }
             }
           },
           {
@@ -269,6 +284,7 @@
   },
   "active": "b27cd47bfa4d1b1c",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
     "Prenotes Oct 09 23.md",
@@ -295,7 +311,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",
