@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
       "basename": "Coalition City",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     },
@@ -93,10 +109,6 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
       "basename": "Places",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
     },
@@ -111,10 +123,6 @@
     {
       "basename": "Amyl Dother",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Amyl Dother.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     },
     {
       "basename": "Inner",
@@ -191,10 +199,6 @@
     {
       "basename": "The Wizard In Blue",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
-    },
-    {
-      "basename": "Population Data",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md"
     }
   ],
   "omittedPaths": [],
