@@ -76,4 +76,11 @@ As the party enters, the shadows contort into a large 10-foot tall humanoid figu
 
 Looking around this cave-room, we see only one way forward, and decide to take it. As we continue through this cave area, we see some artwork that depicts a powerful radiant "main figure" and many smaller figures in submission and deference to it.
 
-Rowena calls out that the writing on the tablet we got earlier and the writing on this artwork is the same language. As we continue, we see a measure of daylight, and we push and cut foliage out of the way to reveal the jungle before us. With Arae's help, we navigate 
+Rowena calls out that the writing on the tablet we got earlier and the writing on this artwork is the same language. As we continue, we see a measure of daylight, and we push and cut foliage out of the way to reveal the jungle before us. With Arae's help, we navigate our way back towards the river and our camp. 
+
+###### Back at the Camp
+Our camp is smoking, and we can smell burning flesh; Fox, Arae, Spencer, and Barth rush back into camp while the rest of the gang slows and sneaks to the edge of camp.
+
+Boar and Sparrow are probably okay, none of their gear is on any of the corpses or around the camp. 
+
+The party is going to move on, heading back the way we came, back to the town we came from. We start immediately, and continue walking through the night.
