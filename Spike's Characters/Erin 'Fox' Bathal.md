@@ -74,3 +74,6 @@ As the party enters, the shadows contort into a large 10-foot tall humanoid figu
 ##### Session Five; 10/10/23
 ###### In The Pyramid III
 
+Looking around this cave-room, we see only one way forward, and decide to take it. As we continue through this cave area, we see some artwork that depicts a powerful radiant "main figure" and many smaller figures in submission and deference to it.
+
+Rowena calls out that the writing on the tablet we got earlier and the writing on this artwork is the same language. As we continue, we see a measure of daylight, and we push and cut foliage out of the way to reveal the jungle before us. With Arae's help, we navigate 

@@ -75,82 +75,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "65cc217e98deb7d8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Baator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "676e6d5e7fa5249b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5039ed2e2dfef0df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31368faaad7778b1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -273,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md"
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md"
               }
             }
           },
@@ -400,13 +324,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "31368faaad7778b1",
+  "active": "b27cd47bfa4d1b1c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/The Planes of Existence.md",
