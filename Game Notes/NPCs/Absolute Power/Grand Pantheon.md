@@ -156,7 +156,7 @@ These are the most common household gods.
 
 # The Gods of the Planes
 ## Outer Planar Rulers
-Some beings are so powerful that while they are not technically gods, as they are not born from the counciousnesses of mortals, but may as well be considered "at the same level" regarding power or ability. Many of the most ancient planar rulers were born in the [[Timeline#The Time Before Time]].
+Some beings are so powerful that while they are not technically gods, as they are not born from the consciousnesses of mortals, but may as well be considered "at the same level" regarding power or ability. Many of the most ancient planar rulers were born in the [[Timeline#The Time Before Time]].
 
 #### Demogorgon, the Demon King of the Abyss
 [[Demogorgon]] is the most powerful demon in the [[Abyss]].

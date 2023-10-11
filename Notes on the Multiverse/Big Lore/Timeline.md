@@ -37,7 +37,7 @@ date: 55xxxTBT
 title: [[Immortal Dragons]] make a fool of the [[All-Father Annam]]
 content:
 
-As council, the [[Immortal Dragons]] advance from the [[Abyss]], abandoning the gift they were given by [[All-Father Annam]] and dooming their once grand demasqe. 
+As council, the [[Immortal Dragons]] advance from the [[Abyss]], abandoning the gift they were given by [[All-Father Annam]] and dooming their once grand demasqe for the kinder planes of [[Mechanis]] and [[Elysium]].
 
 date: 23xxxTBT
 title: [[Queen of Swords]] whispers to [[Jabbawok]] and becomes exiled.
