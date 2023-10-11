@@ -167,6 +167,12 @@ Some beings are so powerful that while they are not technically gods, as they ar
 #### The Queen of Swords
 The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
 
+#### /*[[Elysium]]*/
+
+
+#### /*[[Mechanis]]*/
+
+
 ## Inner Planar Rulers
 #### Jabbawok and the Ceilie Courts
 The [[Feywild]] is ruled by a powerful fey who holds the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey to control the general population of the [[Feywild]].

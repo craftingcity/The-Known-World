@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Planes of Existence.md"
+    },
+    {
+      "basename": "Erin 'Fox' Bathal",
+      "path": "Spike's Characters/Erin 'Fox' Bathal.md"
+    },
+    {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
@@ -185,20 +197,8 @@
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
       "basename": "Baator",
       "path": "Notes on the Multiverse/Outer/Baator/Baator.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
     }
   ],
   "omittedPaths": [],
