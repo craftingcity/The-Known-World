@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they were victors in a teamfight in an Underground Fighting Concord match against four shmucks. With a minor monetary boon, they look to their most recent contacts in [[Guild of Wizards#Council of Mages]]
+When last we left our heroes, they were victors in a teamfight in an Underground Fighting Concord match against four shmucks. With a minor monetary boon, they look to their most recent contacts in [[Guild of Wizards#Council of Mages]].
 
 You know that you have a room at the Silver Unicorn within the [[Wheel Ward]] and a tentative meeting with [[Nicolas Talaveem]] tomorrow.
 
@@ -29,3 +29,13 @@ The meeting occurs on the morning of the 2nd of Weeding. The council does not ha
 Regarding any Demon Cults; they will fight the party as cultists and demonkin/undead united.
 
 ### What happened?
+
+Shu "has gone into the room in the White Flame" {Kek is roleplaying SO GOOD}
+
+Passive
+GRIN 17
+DAE 15
+SHU 
+PENNE 13
+
+Cenvan Agent rolled 20+ on Stealth, listened to Shu's story about being from the Holyl'nds
