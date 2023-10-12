@@ -112,14 +112,10 @@ Chitin (1lb, wurm) | 2.4
 Chitin (1lb, ankheg) | 1.8
 
 ## Services
-Service | Value in sp | Notes
+Service | Cost in sp per day | Notes
 --- | --- | --- 
-Salt (1lb) | 0.75
-Sugar (1lb) | 1.0
-Wine (1 gal., average qual.) | 6.3
-Whiskey (1 gal., average qual.) | 19.5
-Honey (1lb) | 3.0
-Tea (1lb, compressed) | 0.8 | stimulant / consumable
-Guarana (1lb, compressed) | 2.4 | stimulant / consumable
-Olive Oil (1 gal.) | 8.0
-Butter / Cheese (1lb) | 1.2-1.8
+Blacksmithing | 9.0
+Blacksmithing (exotic) | 18.0
+Blacksmithing (magical) | 54.0+
+
+

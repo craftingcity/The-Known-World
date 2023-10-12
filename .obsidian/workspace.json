@@ -75,8 +75,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8befb4db5d9f0df9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spike's Characters/Erin 'Fox' Bathal.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -324,15 +346,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b27cd47bfa4d1b1c",
+  "active": "8befb4db5d9f0df9",
   "lastOpenFiles": [
+    "Spike's Characters/Erin 'Fox' Bathal.md",
+    "conflict-files-obsidian-git.md",
     "Extra Credit.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Spike's Characters/Erin 'Fox' Bathal.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/The Planes of Existence.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
@@ -346,7 +369,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
     "Prenotes Oct 09 23.md",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
