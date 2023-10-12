@@ -45,3 +45,5 @@ DROW 16
 SHU 16
 GRIN 12
 DAE 4
+
+Shu has the shortsword
