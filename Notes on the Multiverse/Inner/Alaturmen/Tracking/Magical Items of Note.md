@@ -17,7 +17,7 @@ aliases:
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
 - Highest form of Flattery
-	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]]
+	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]].
 	- This cloak provides the attuned +5' per round to their walking speed.
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
 

@@ -49,5 +49,3 @@ DAE 4
 Shu has the shortsword
 
 Paulo Equestria is an Agent of [[Cenva Minyo]], and has made contact with the party, "the Chicago Bulls". Gringold sent a letter north trying to confirm Paulo's identity. 
-
-When meeting with the [[Nicolas Talaveem|the Yellow Mage]], 
