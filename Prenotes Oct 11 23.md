@@ -24,6 +24,8 @@ With that in mind, what do you do? (Are we just moving into the meeting?)
 
 The meeting occurs on the morning of the 2nd of Weeding. The council does not have a major-centralized goal. Nicolas would quest the party to investigate [[The Old|Minyostalma]], if they truly have nothing better to do.
 
-[[Cenva Minyo]] has taken an interest in the party, especially given their relations with both the Council of Mages and the fact that they have returned from the Wildlands. At this time, they are not outright hostile to the party, but with any potential threat, Cenva Minyo would rather have it gone than floating around the world.
+[[Cenva Minyo]] has taken an interest in the party, especially given their relations with both the Council of Mages and the fact that they have returned from the Wildlands. At this time, they are not outright hostile to the party, but with any potential threat, Cenva Minyo would rather have Kal and/or the party gone than floating around the world.
+
+Regarding any Demon Cults; they will fight the party as cultists and demonkin/undead united.
 
 ### What happened?
