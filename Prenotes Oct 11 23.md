@@ -38,4 +38,10 @@ DAE 15
 SHU 
 PENNE 13
 
-Cenvan Agent rolled 20+ on Stealth, listened to Shu's story about being from the Holyl'nds
+Cenvan Agent rolled 20+ on Stealth, listened to Shu's story about being from the Holyl'nds & call to action.
+
+PENNE 17
+DROW 16
+SHU 16
+GRIN 12
+DAE 4
