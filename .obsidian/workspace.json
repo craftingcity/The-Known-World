@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ca08ae0d2bf8925",
+        "id": "123b406cc42b5403",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad66f4de95512be",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 11 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5aef92f90bb75508",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b113be4c29b26a2",
+            "id": "c41aef3a6bcd7520",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,24 +18,36 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Prenotes Sept 11 23",
+                  "title": "Prenotes Oct 04 23",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Sept 11 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.78000041961667}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 04 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Oct 02 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Oct 02 22.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Oct 04 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 04 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
+                "file": "Prenotes Oct 06 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "41980fbce6d99ae4",
+            "id": "65c3b33d9adbe9a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,76 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c1a2a4240e89e56e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d0eacab3ace7ce5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0bef63cf4a397d1e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monastery of Saint Susan.md",
+                "file": "Prenotes Oct 12 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Oct 11 23.md",
+                "file": "Prenotes Oct 12 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Oct 11 23.md",
+                "file": "Prenotes Oct 12 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Oct 11 23.md"
+                "file": "Prenotes Oct 12 23.md"
               }
             }
           },
@@ -408,20 +316,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0ad66f4de95512be",
+  "active": "65c3b33d9adbe9a3",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
+    "Prenotes Oct 06 23.md",
+    "Prenotes Oct 12 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+    "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md",
+    "Monastery of Saint Susan.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
     "Prenotes Oct 11 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-    "Monastery of Saint Susan.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
@@ -432,10 +344,6 @@
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/The Planes of Existence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
