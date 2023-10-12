@@ -5,12 +5,20 @@
       "path": "Prenotes Oct 11 23.md"
     },
     {
-      "basename": "Prenotes Sept 27 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md"
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     },
     {
       "basename": "Cenva Minyo",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+    },
+    {
+      "basename": "Grey Ordeal",
+      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md"
+    },
+    {
+      "basename": "Prenotes Sept 27 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md"
     },
     {
       "basename": "Monastery of Saint Susan",
@@ -191,14 +199,6 @@
     {
       "basename": "Outer",
       "path": "Notes on the Multiverse/Outer/Outer.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Darwine Evon",
-      "path": "Game Notes/NPCs/zDeceased/Darwine Evon.md"
     }
   ],
   "omittedPaths": [],
