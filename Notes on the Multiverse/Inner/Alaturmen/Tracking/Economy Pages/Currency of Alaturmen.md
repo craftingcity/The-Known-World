@@ -117,5 +117,11 @@ Service | Cost in sp per day | Notes
 Blacksmithing | 9.0
 Blacksmithing (exotic) | 18.0
 Blacksmithing (magical) | 54.0+
+Overland Carriage (items) | 2.2
+Overland Carriage (persons) | 3.6
+Bywater Carriage (items) | 1.8
+Bywater Carriage (persons) | 3.0
+Byair Carriage (items) | 4.5
+Byair Carriage (persons) | 18.0
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ca08ae0d2bf8925",
+        "id": "79cf3c438ef41a39",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad66f4de95512be",
+            "id": "6f0fff7d7e7d5f80",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,16 +20,20 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Prenotes Oct 11 23.md",
-                "mode": "source",
-                "source": true
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cd6c1e07dd2c2a68",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5aef92f90bb75508",
+            "id": "b258b0e4f0e5d7a9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,118 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b113be4c29b26a2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Sept 11 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Sept 11 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.78000041961667}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41980fbce6d99ae4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c1a2a4240e89e56e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d0eacab3ace7ce5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0bef63cf4a397d1e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monastery of Saint Susan.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
@@ -205,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"council of mages\"",
+                "query": "grade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -281,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Oct 11 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Oct 11 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Oct 11 23.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
               }
             }
           },
@@ -408,35 +301,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0ad66f4de95512be",
+  "active": "b258b0e4f0e5d7a9",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
-    "Prenotes Oct 11 23.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-    "Monastery of Saint Susan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Spike's Characters/Erin 'Fox' Bathal.md",
-    "conflict-files-obsidian-git.md",
-    "Extra Credit.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/The Planes of Existence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Prenotes Oct 11 23.md",
+    "Monastery of Saint Susan.md",
+    "Prenotes Oct 06 23.md",
+    "Prenotes Oct 09 23.md",
+    "Extra Credit.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
+    "Game Notes/NPCs/Mild Power/Revari Madrid.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Beasts Righteous.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",
