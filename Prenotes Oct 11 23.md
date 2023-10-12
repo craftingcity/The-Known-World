@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they were the victors of a teamfight in an Underground Fighting Concord match against four shmucks. They have recently been spending much of their time working directly as agents of the [[Guild of Wizards#Council of Mages]] in their War against [[Orcus]].
+When last we left our heroes, they were victors in a teamfight in an Underground Fighting Concord match against four shmucks. With a minor monetary boon, they look to their most recent contacts in [[Guild of Wizards#Council of Mages]]
 
 You know that you have a room at the Silver Unicorn within the [[Wheel Ward]] and a tentative meeting with [[Nicolas Talaveem]] tomorrow.
 
