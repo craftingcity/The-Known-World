@@ -27,6 +27,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fbf4f0f74a21fac2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 06 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -278,9 +299,9 @@
   },
   "active": "4a3a588052d819f6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Prenotes Oct 06 23.md",
     "Prenotes Oct 12 23.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md",
     "Monastery of Saint Susan.md",
