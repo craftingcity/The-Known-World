@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "123b406cc42b5403",
+        "id": "d7ccc6b5c899274a",
         "type": "tabs",
         "children": [
           {
-            "id": "c41aef3a6bcd7520",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Oct 04 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 04 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Oct 02 22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes Oct 02 22.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Oct 04 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 04 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 06 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65c3b33d9adbe9a3",
+            "id": "4a3a588052d819f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -59,16 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 12 23.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Oct 12 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Oct 12 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Oct 12 23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,8 +268,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "65c3b33d9adbe9a3",
+  "active": "4a3a588052d819f6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Prenotes Oct 06 23.md",
     "Prenotes Oct 12 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
@@ -337,7 +290,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
-    "conflict-files-obsidian-git.md",
     "Extra Credit.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
