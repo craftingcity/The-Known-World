@@ -2,10 +2,11 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Zalfari
+#### Constantinople
+#### The City Between the Combine and the Desert
+## Holding of [[Grovetenders]]
+### Located in [[Southern Third]], X:Y
 ## Description
 ### Quote
 
@@ -13,5 +14,7 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
+
+
 
 
