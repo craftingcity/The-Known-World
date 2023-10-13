@@ -42,8 +42,8 @@ Daniel Terf - First Mate
 ##### The Fight
 The Hail Mary 25
 Breenabell 23
-Captain Renner 16
-Captain Madrid 15
+Captain Renner 16 (32)
+Captain Madrid 15 
 The Embargo 15
 Jerran 12
 Nala 9
