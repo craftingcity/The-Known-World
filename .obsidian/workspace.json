@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7ccc6b5c899274a",
+        "id": "0df23838fddf6d18",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3a588052d819f6",
+            "id": "5f54b1df3b06c2ce",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,98 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 12 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b0ab5c0fe36b920c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "95ccc80542a15424",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fcba6ae0a4bfcdf2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "88215791e31a2b8f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -359,14 +268,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "88215791e31a2b8f",
+  "active": "5f54b1df3b06c2ce",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Oct 12 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Oct 06 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
     "Tubric's Bag of Rooms.md",
@@ -379,14 +290,12 @@
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md",
     "Monastery of Saint Susan.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Game Notes/Prenotes/'23/Prenotes Aug 30 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md",
     "Prenotes Oct 11 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",

@@ -9,10 +9,6 @@
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
       "basename": "The Democratic Combine of Peoples",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
@@ -21,12 +17,20 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md"
     },
     {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
       "basename": "Prenotes Oct 12 23",
       "path": "Prenotes Oct 12 23.md"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "Prenotes Oct 06 23",
@@ -67,10 +71,6 @@
     {
       "basename": "Monastery of Saint Susan",
       "path": "Monastery of Saint Susan.md"
-    },
-    {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     },
     {
       "basename": "Prenotes Aug 30 23",
