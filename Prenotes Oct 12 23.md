@@ -50,3 +50,12 @@ Nala 9
 Ulfgar 4
 First Mate Daniel Terf 2
 
+4th level spell slot....
+
+red / yellow poly
+aloe
+glowshroom
+
+moving on
+
+They arrived in [[Zalfari]] on the 8th, around midday. They will stay here for three days before returning to travel again on the morning of the 12th. As they continue to travel along the river, they will break into the jungle and arrive at [[Bannerburn]] on the 23rd.

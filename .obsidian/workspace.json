@@ -8,6 +8,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fbf4f0f74a21fac2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 06 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "4a3a588052d819f6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -29,7 +50,7 @@
             }
           },
           {
-            "id": "fbf4f0f74a21fac2",
+            "id": "024a4c7df5b14226",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,19 +58,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Alchemy Products",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Oct 06 23.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"council of mages\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,6 +329,8 @@
   "lastOpenFiles": [
     "Prenotes Oct 06 23.md",
     "Prenotes Oct 12 23.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/Prenotes/'22/Prenotes Oct 02 22.md",
@@ -323,8 +353,6 @@
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Big Lore/Immortal Dragons.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
