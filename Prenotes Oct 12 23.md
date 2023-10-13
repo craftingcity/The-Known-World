@@ -24,13 +24,13 @@ Is there anything you would like to do in town before you set off?
 
 ### What does the World Know?
 ###### The Hail Mary
-12 x Crewmates
+6 x Crewmates
 1 x Captain
 
 v
 
 ###### The Embargo
-16 x Crewmates
+8 x Crewmates
 1x Officer
 1x Captain
 
@@ -38,3 +38,15 @@ v
 
 Revari Madrid - Captain of 'The Embargo'
 Daniel Terf - First Mate
+
+##### The Fight
+The Hail Mary 25
+Breenabell 23
+Captain Renner 16
+Captain Madrid 15
+The Embargo 15
+Jerran 12
+Nala 9
+Ulfgar 4
+First Mate Daniel Terf 2
+
