@@ -9,6 +9,9 @@ aliases:
 ### Located in [[Southern Third]], X:Y
 ## Description
 ### Quote
+Filled with bazaars, street vendors, and the love of Sune, Zalfari is a Capital city in the Combine and as close as it comes in the Desert. 
+
+The [[Grovetenders]] and the Church of Sune.
 
 ### General Public Disposition
 

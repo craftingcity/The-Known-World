@@ -1,0 +1,25 @@
+
+		- Greenhouse;
+			- Currently, there are multiple foodstuff growing here, including Potatoes and Carrots.
+			- Currently, there are multiple alchemically potent plants growing here:
+				- Witchweed (9x)
+				- Polypore (3x Y, 3x R, 3x B)
+				- Aloe Vera (3x)
+				- Dragons Tounge (3x)
+				- Lephora Fruit (3x)
+				- Nightshade (3x)
+				- Glowshroom (3x)
+				- Cannabis / Hemp (3x)
+		- Stables;
+			- 3 Horses
+		- Bedroom;
+			- Worldbinding Abyss
+		- Barracks;
+			- room for 8 comfortably
+		- Kitchen;
+		- Library;
+		- Forge;
+		- Pool;
+		- Makeshift Firing Range;
+		- Makeshift Treasure Room;
+		- Blanks;

@@ -9,11 +9,11 @@ aliases:
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A notable Captain of the [[Northstone Family Trading Company]], who operates a route on the [[Alvalini River]].
+A notable human Captain of the [[Northstone Family Trading Company]], who operates a route on the [[Alvalini River]].
 
 ## Roleplaying
 
-Revari speaks in a carribean-esq accent - quite reminecint of Jack Sparrow.
+Revari speaks in a carribean-esq accent - quite reminiscent of Jack Sparrow.
 
 ### Quote
 

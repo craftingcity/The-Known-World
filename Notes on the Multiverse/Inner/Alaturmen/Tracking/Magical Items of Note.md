@@ -36,33 +36,9 @@ aliases:
 	- This gem currently holds six charges. Grasping the gem, you may expend a charge as a bonus action. If you do, you may either gain 1d4 hitpoints or imbue your next weapon attack with 1d4 fire damage. 
 	- Currently possessed by [[Amashod]] of [[Kakurak's Chosen]]
 
-- Tubric's Bag of Rooms
+- [[Tubric's Bag of Rooms]]
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use. Crafted by [[The Old Man]].
-	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.*
-		- Greenhouse;
-			- Currently, there are multiple foodstuff growing here, including Potatoes and Carrots.
-			- Currently, there are multiple alchemically potent plants growing here:
-				- Witchweed (3x)
-				- Polypore (1x Y, 1x R, 1x B)
-				- Aloe Vera (1x)
-				- Dragons Tounge (1x)
-				- Lephora Fruit (1x)
-				- Nightshade (1x)
-				- Glowshroom (1x)
-				- Cannabis / Hemp (1x)
-		- Stables;
-			- 3 Horses
-		- Bedroom;
-			- Worldbinding Abyss
-		- Barracks;
-			- room for 8 comfortably
-		- Kitchen;
-		- Library;
-		- Forge;
-		- Pool;
-		- Makeshift Firing Range;
-		- Makeshift Treasure Room;
-		- Blanks;
+	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.* (See [[Tubric's Bag of Rooms]])
 	- Currently possessed by [[Nala]]
 
 - Inception
