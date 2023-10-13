@@ -23,6 +23,18 @@ We return to them now, an hour before the setting of nightfall, you exit your ro
 Is there anything you would like to do in town before you set off?
 
 ### What does the World Know?
+###### The Hail Mary
+12 x Crewmates
+1 x Captain
 
+v
+
+###### The Embargo
+16 x Crewmates
+1x Officer
+1x Captain
 
 ### What happened?
+
+Revari Madrid - Captain of 'The Embargo'
+Daniel Terf - First Mate
