@@ -69,8 +69,7 @@ liquid rage
 
 They arrived in [[Zalfari]] on the 8th, around midday. They will stay here for three days before returning to travel again on the morning of the 12th. As they continue to travel along the river, they will break into the jungle and arrive at [[Bannerburn]] on the 23rd.
 
-get a room in the Silver Unicorn in town before we go wurm hunting;
-	- survival checks! 1/watch, can get 2/check to 
-
 (DWARF: I'd love to make a piece of artwork, but I'm not ready to be a Father yet.)
+
+They buy durandurm blaster ammo at roughly 2.6 sp/round, harrada starts at 168
 
