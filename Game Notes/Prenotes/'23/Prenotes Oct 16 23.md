@@ -43,8 +43,8 @@ AC; (16), HP; (13), ATTK; +3 vs AC, 1d8+1 slashing / heal 1d4
 
 Nylan (22): 
 Elanor (17): 4
-Reynard (16):
-Raimrel (9+):
+Reynard (16): 10, 9
+Raimrel (9+): 10
 Zeldris (9-):
 Basil (7): 3
 Trisdryn (6):
