@@ -15,7 +15,6 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Asmodeus]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
-- [[Gudeliva]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -51,8 +50,8 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Sir Harris Bly]]
 	- **Midboss**
 		- [[Glot Maxim]]
+		- [[Gudeliva]]
 		- [[Hektor Salar]]
-	- [[Revari Madrid]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
