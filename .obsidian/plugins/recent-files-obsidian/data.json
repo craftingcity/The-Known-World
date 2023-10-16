@@ -5,12 +5,24 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
     },
     {
-      "basename": "Nylan Roul",
-      "path": "Nylan Roul.md"
-    },
-    {
       "basename": "Prenotes Oct 16 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Guild of Merchants",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
+    },
+    {
+      "basename": "Nylan Roul",
+      "path": "Nylan Roul.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -35,10 +47,6 @@
     {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -189,16 +197,8 @@
       "path": "Prenotes Oct 09 23.md"
     },
     {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
       "basename": "Prenotes Sept 28 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md"
-    },
-    {
-      "basename": "Armors of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
     }
   ],
   "omittedPaths": [],
