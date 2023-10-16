@@ -5,8 +5,8 @@ aliases:
 
 # Folk of Business
 %% Begin Waypoint %%
-- **[[Folk of Business]]**
-	- [[Alisinder Rancarlo]]
-	- [[Doctor Gunagido]]
+- [[Alisinder Rancarlo]]
+- [[Doctor Gunagido]]
+- [[Revari Madrid]]
 
 %% End Waypoint %%
