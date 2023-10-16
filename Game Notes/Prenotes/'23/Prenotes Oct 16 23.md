@@ -31,7 +31,7 @@ If things become dire, use Zeldris' connection with 'The Great Old One' (current
 #### The Adventurers
 ###### Raimrel Maggviar, Spellsword
 AC; (14), HP; (12), ATTK; +4 vs AC, 1d8+1 slashing/force
-###### Nylan Roul, Cloak and Dagger
+###### [[Nylan Roul]], Cloak and Dagger
 AC; (16), HP; (8), ATTK; +3 vs AC, 1d4+1 pierce + 1d6 pierce if ADV
 ###### Trisdryn, the Grey Wizard
 AC; (11), HP; (6), ATTK; +6 vs AC, 2d4+2 force
@@ -41,15 +41,15 @@ AC; (16), HP; (13), ATTK; +3 vs AC, 1d8+1 slashing / heal 1d4
 
 #### The Initiative
 
-Nylan (22): 
+Nylan (22): 5
 Elanor (17): 4
-Reynard (16): 10, 9
-Raimrel (9+): 10
+~~Reynard (16): 10, 9~~
+~~Raimrel (9+): 10~~
 Zeldris (9-):
 Basil (7): 3
-Trisdryn (6):
+~~Trisdryn (6):~~
 
 
 ### What happened?
 
-4 healing potions 4 elanor
+3 healing potions 4 elanor
