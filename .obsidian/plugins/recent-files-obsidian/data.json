@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books To Write",
+      "path": "ORGANIZATION/Books To Write.md"
+    },
+    {
       "basename": "Prenotes Oct 16 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     }
   ],
   "omittedPaths": [],
