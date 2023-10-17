@@ -17,7 +17,7 @@ It is the task of the a'Nyrk House to communicate quickly throughout the kingdom
 It is the task of the a'Valim House to improve the conditions of life. They hold [[Magius]] and its surroundings. Their crest is a young sprout growing from the rotting corpse of a bear.
 
 ## [[Noble House a'Haruuc]]
-It is the task of the a'Haruuc House to make the kingdom ready for war at a moment's notice. They hold minimal property considering their station, and rather are groomed to position in Arthur's Knights. Their crest is a round disk floating above a humanoid figure, casting it in shadow.
+It is the task of the a'Haruuc House to make the kingdom ready for war at a moment's notice. They hold minimal property considering their station, and rather are groomed to position in [[Arthur's Knights]]. Their crest is a round disk floating above a humanoid figure, casting it in shadow.
 
 ## [[Noble House a'LeQuinn]]
 It is the task of the a'LeQuinn House to manage the cattle and grain of the kingdom. They hold [[Yerba]] and its surroundings. Their crest is a bull's head over a forest.
