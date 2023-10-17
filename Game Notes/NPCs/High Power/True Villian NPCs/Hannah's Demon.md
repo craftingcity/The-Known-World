@@ -31,7 +31,7 @@ Born to [[Graz'zt]],
 #### Potential Class Breakdown
 20;
 	- Rouge (3); Sneak Attack, Cunning Action, Assassinate
-	- Paladin (2); Fighting Style (???), Divine Smite
+	- Paladin (2); Fighting Style (???), Divine Smite 
 	- Sorcerer (15); Strength of the Grave, Metamagic
 
 
