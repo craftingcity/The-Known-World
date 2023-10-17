@@ -1,7 +1,7 @@
 # World Villans
 %% Begin Waypoint %%
-- **[[True Villian NPCs]]**
-	- [[Arstovich]]
-	- [[Witch of Ardor]]
+- [[Arstovich]]
+- [[Hannah's Demon]]
+- [[Witch of Ardor]]
 
 %% End Waypoint %%
