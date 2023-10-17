@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Graz'zt",
+      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Graz'zt.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Hydonga",
+      "path": "Hydonga.md"
+    },
+    {
       "basename": "Hannah's Demon",
       "path": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon.md"
     },
@@ -177,28 +193,12 @@
       "path": "Notes on the Multiverse/Outer/Baator/Baator.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Planes of Existence.md"
     },
     {
       "basename": "The Holyl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     }
   ],
   "omittedPaths": [],
