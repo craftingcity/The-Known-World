@@ -8,7 +8,11 @@ aliases:
 ## Boundaries
 ## Contents
 
+Mostly jungle, except for the pockets of "civilization".
+
 - Palace in Darkness
+- The Bellowing Hills
+	- Howling Keep
 
 ### Flora
 ### Scenarios

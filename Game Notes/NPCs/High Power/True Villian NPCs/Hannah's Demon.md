@@ -3,9 +3,10 @@ tags:
   - npc
 aliases:
 ---
-# Name
+# Celaena
 ## Princess of Darkness
-## Reagent of 
+## Mistress of Howling Keep
+## Warden of the Bellowing Hills
 ### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.
@@ -20,6 +21,8 @@ A description of their function in the world.
 
 ### Background
 #### Early Life
+
+Born to [[Graz'zt]], 
 
 ## Important Knowledge
 

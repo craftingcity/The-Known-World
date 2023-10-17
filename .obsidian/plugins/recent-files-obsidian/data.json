@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Baron Vannis",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md"
+    },
+    {
+      "basename": "Baron J'Tail",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Hydonga",
+      "path": "Hydonga.md"
     },
     {
       "basename": "Graz'zt",
@@ -11,10 +23,6 @@
     {
       "basename": "Abyss",
       "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Hydonga",
-      "path": "Hydonga.md"
     },
     {
       "basename": "Hannah's Demon",
@@ -31,10 +39,6 @@
     {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Baron J'Tail",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md"
     },
     {
       "basename": "Books To Write",
@@ -191,14 +195,6 @@
     {
       "basename": "Baator",
       "path": "Notes on the Multiverse/Outer/Baator/Baator.md"
-    },
-    {
-      "basename": "The Planes of Existence",
-      "path": "Notes on the Multiverse/The Planes of Existence.md"
-    },
-    {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],
