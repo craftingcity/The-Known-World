@@ -60,11 +60,11 @@ aliases:
 #### G13.
 #### G14.
 #### G15.
-#### G16.
+#### G16. Ruins of Minyostalma's Northern Outskirts
 #### H12.
 #### H13.
 #### H14.
-#### H15.
+#### H15. Ruins of Minyostalma's Western Outskirts
 #### I14.
 #### I15.
 

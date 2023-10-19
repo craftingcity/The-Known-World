@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
     },
     {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
+      "basename": "North Littemotto",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md"
+    },
+    {
       "basename": "Prenotes Oct 11 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Oct 11 23.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Southeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
-    },
-    {
-      "basename": "Revari Madrid",
-      "path": "Game Notes/NPCs/Mild Power/Revari Madrid.md"
     }
   ],
   "omittedPaths": [],
