@@ -9,4 +9,4 @@ And so I will do unto others as has been done unto me. Now, Roll High or Die.
 
 1. Mechanics of Play
 2. Mechanics of a Character
-3. 
+3. Equipment, En
