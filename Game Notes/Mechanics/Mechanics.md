@@ -22,5 +22,7 @@ aliases:
 - **Homebrew Weapons**
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]
+- **Roll-High-Or-Die-HACK**
+	- [[Roll High Or Die]]
 
 %% End Waypoint %%
