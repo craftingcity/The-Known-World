@@ -1,14 +1,30 @@
 ---
-tags: stub, loreful,
-aliases: Minyostalma's Ruins, Minyostalma, The Old Ruins
+tags:
+  - holding
+aliases:
+  - Minyostalma's Ruins
+  - Minyostalma
+  - The Old Ruins
 ---
 
-*This page is a #stub . You can help by expanding it!*
+# Minyostalma
+#### The Old Empire
+## Holding of *ABANDONED*
+### Located in [[Central Holyl'nd]], X:Y
+## Description
+### "Quote"
 
-Known now only as the "Old" or the "Old Ruins", Minyostalma was once a proud elven city in the beginning of the world.
+Minyostalma is a collective name for the many small villages and townships that surround the most 
 
-It fell in the [[Great Fires]].
 
-It holds many secrets still.
+### General Public Disposition
 
-Perhaps it is time that [[Cenva Minyo]] lands back into its rightful home.
+### Background
+## Important Places & Symbolism
+
+## Economics
+|     | # of Traders |
+| --- | ------------ |
+|     |              |
+
+## Governance
