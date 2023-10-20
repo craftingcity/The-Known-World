@@ -38,18 +38,16 @@ Jerran (18);
 ~~W4; 6, ~~
 ~~W5; 9~~
 Breenabelle (14);
-W6; 5
-B1;
+~~W6; 5~~
+~~B1; 5~~
 ~~B2;~~
 ~~B3; 5, 13~~
-B4;
-B5; 8
+~~B4; 5~~
+~~B5; 8~~
 ~~B6; 5~~
 ~~U1; 8, 13~~
 Nala (2);
 Ulfgar (1);
-
-
 
 #### The Bash
 The following legit companies were named as participants in the Bash, for the following purposes;
