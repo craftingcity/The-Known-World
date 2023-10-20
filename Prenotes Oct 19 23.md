@@ -51,6 +51,8 @@ Ulfgar (1);
 
 In Zalfari, they checked for cultist knives via Locate Object and found that someone staying in the bar across the street from them does in fact have a knife, one of the Merchants headed to the Bash.
 
+After travelling for a few days, they arrive in [[Boneborn]] on the 13th of Resowing and are resting in the Silver Unicorn tonight.
+
 #### The Bash
 The following legit companies were named as participants in the Bash, for the following purposes;
 

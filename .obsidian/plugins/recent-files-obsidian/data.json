@@ -9,6 +9,18 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
+      "basename": "Barons of Combine NPCs",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md"
+    },
+    {
+      "basename": "Darwine Evon",
+      "path": "Game Notes/NPCs/zDeceased/Darwine Evon.md"
+    },
+    {
+      "basename": "Darwine's Expulsion",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Darwine's Expulsion.md"
+    },
+    {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Boneborn",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
-    },
-    {
-      "basename": "Darwine's Expulsion",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Darwine's Expulsion.md"
     },
     {
       "basename": "Magical Items of Note",
@@ -191,14 +199,6 @@
     {
       "basename": "Graz'zt",
       "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Graz'zt.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "True Villian NPCs",
-      "path": "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md"
     }
   ],
   "omittedPaths": [],
