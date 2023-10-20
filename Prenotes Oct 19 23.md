@@ -32,9 +32,9 @@ These merchants are selling off materials and goods scavenged and stolen by the 
 #### Wurm Hunting
 
 Jerran (18);
-W1; 4, 9
-W2; 5
-W3; 10
+~~W1; 4, 9, ~~
+~~W2; 5~~
+~~W3; 10~~
 W4;
 W5;
 Breenabelle (14);
