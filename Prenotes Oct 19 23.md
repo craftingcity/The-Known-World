@@ -29,7 +29,27 @@ The [[Annual Boneborn Bash]] is of great interest, and for the most part, is a h
 These merchants are selling off materials and goods scavenged and stolen by the membership of the Cults Infernal and cooking books with the actual money they've taken as well. 
 
 ### What happened?
+#### Wurm Hunting
 
+Jerran (18);
+W1;
+W2;
+W3;
+W4;
+W5;
+Breenabelle (14);
+W6;
+W7;
+W8;
+W9;
+W10;
+W11;
+W12;
+W13; 8
+Nala (2);
+Ulfgar (1);
+
+#### The Bash
 The following legit companies were named as participants in the Bash, for the following purposes;
 
 The following independent merchants were named as participants in the Bash, for the following purposes;
