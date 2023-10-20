@@ -24,8 +24,12 @@ With this journey ahead of you; what do you do?
 
 [[Boneborn]] is a massive-walled city, but it's gates are open to all.
 
-The [[Annual Boneborn Bash]] is of great interest, and for the most part, is a haystack when they are looking for a set of needles. The needles in question are a series of independent merchants under contract with [[Baron Xuiop]] for the Bash - though their assis. 
+The [[Annual Boneborn Bash]] is of great interest, and for the most part, is a haystack when they are looking for a set of needles. The needles in question are a series of independent merchants under contract with [[Baron Xuiop]] for the Bash - though their assistant [[Pearce Thomas]] was the person who drew up the list for approval, with this intention. 
 
 These merchants are selling off materials and goods scavenged and stolen by the membership of the Cults Infernal and cooking books with the actual money they've taken as well. 
 
 ### What happened?
+
+The following legit companies were named as participants in the Bash, for the following purposes;
+
+The following independent merchants were named as participants in the Bash, for the following purposes;

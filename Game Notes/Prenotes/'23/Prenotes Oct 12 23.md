@@ -73,4 +73,4 @@ They arrived in [[Zalfari]] on the 8th, around midday. They will stay here for t
 
 They buy durandurm blaster ammo at roughly 2.6 sp/round, harrada starts at 168
 
-They have talked to Captain [[Revari Madrid]] and have accepted his favor. They will travel over land after they finish their errands here in [[Zalfari]]. This means that they would travel for three to four days across the wilderness and it's points of light, until they finall arrive in [[Boneborn]]
+They have talked to Captain [[Revari Madrid]] and have accepted his favor. They will travel over land after they finish their errands here in [[Zalfari]]. This means that they would travel for three to four days across the wilderness and it's points of light, until they finally arrive in [[Boneborn]]
