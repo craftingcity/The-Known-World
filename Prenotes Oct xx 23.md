@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for October 18th
+# Prenotes for October !!th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
