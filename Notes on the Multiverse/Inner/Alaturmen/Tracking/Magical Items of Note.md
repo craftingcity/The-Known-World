@@ -16,7 +16,7 @@ aliases:
 	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
-- Highest form of Flattery
+- Highest Form of Flattery
 	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]].
 	- This cloak provides the attuned +5' per round to their walking speed.
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
