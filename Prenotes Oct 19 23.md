@@ -32,22 +32,24 @@ These merchants are selling off materials and goods scavenged and stolen by the 
 #### Wurm Hunting
 
 Jerran (18);
-W1;
-W2;
-W3;
+W1; 4, 9
+W2; 5
+W3; 10
 W4;
 W5;
 Breenabelle (14);
-W6;
-W7;
-W8;
-W9;
-W10;
-W11;
-W12;
-W13; 8
+W6; 5
+B1;
+B2;
+~~B3; 5, 13~~
+B4;
+B5;
+B6; 5
+~~U1; 8, 13~~
 Nala (2);
 Ulfgar (1);
+
+
 
 #### The Bash
 The following legit companies were named as participants in the Bash, for the following purposes;
