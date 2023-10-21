@@ -23,10 +23,18 @@ When a player takes an action, if there is a measure of random chance or a reaso
 
 ## Generic Rulings
 ### Manipulating the Dice
+#### Passive Rolls
+When a character acts over time, they generally choose to prevent failure at the cost of extraordinary success. This is known as "taking 10" or making a "passive roll", and can be used often by a GM to determine a character's average performance in an area, or as a DC for keeper-characters to roll against.
+
 #### Advantage & Disadvantage
 When you have Advantage on a roll, you will roll twice and take the higher of the two results. When you have Disadvantage, the opposite is true; you roll twice and take the lower of the two results.
 
-On a d20, this averages to a +5 or -5 modifier.
+On a d20, this averages to a +5 or -5 modifier, and for the purposes of Passive Rolls, can be treated as such.
 
 #### "Meets it Beats it"
 When a total exactly meets a DC, but does not exceed it, the player who rolled to beat the DC does succeed, and any mechanical benefits of doing so are granted as per usual.
+
+> This typically is most applicable during combat.
+
+### Game of Contradictions
+When one ruling contradicts with another, a more specific ruling beats a general one. Rules in this book
