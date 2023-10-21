@@ -3,6 +3,8 @@
 
 Most players will take the role of the "Player Characters" (PCs), and will be the main focus of the narrative camera. One (or more, if you'd like) other player(s) will take the role of the Keeper of Secrets, Master of Game Ceremonies, or Referee (GM), who will act as the camera themselves, as well as the setting, extra actors, and final arbiter for the game rules.
 
+When simplified, any Character in RHOD is a collection of statistics and mechanics that interact to form a skeleton onto which a player lays a skin of flavor and charm. An experienced player will add musculature to ease the difference between these two substances, but this will come naturally with time, or in some cases, severe preparation.
+
 The basic "gameplay loop" begins when the GM describes a scene. 
 
 The players react to the GM's descriptions, balancing their desires for the story they want to tell with their character's realities, and respond with their choice of narration; your choice of a third person narration of your character's next actions or a first person narration of your character's actions (e.g. "Gringold moves to the corpse and screams over his fallen comrade." or "I move towards Harrion's corpse. Seeing his lifeless form, I cannot help but scream in rage." Either style is acceptable and encouraged.).
