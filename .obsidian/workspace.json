@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68285dd830365ea3",
+            "id": "faf3d26a2a9655b2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,8 +60,36 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "68285dd830365ea3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Roll High Or Die",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":31},\"to\":{\"line\":12,\"ch\":31}},\"scroll\":1.3892592441888503}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md"
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md"
               }
             }
           },
@@ -310,8 +338,9 @@
   },
   "active": "68285dd830365ea3",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Prenotes Oct 19 23.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",
@@ -336,7 +365,6 @@
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",

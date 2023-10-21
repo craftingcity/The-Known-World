@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RHOD-2-Mechanics-of-a-Character",
+      "path": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md"
+    },
+    {
       "basename": "Roll High Or Die",
       "path": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Hydonga",
-      "path": "Hydonga.md"
     }
   ],
   "omittedPaths": [],
