@@ -9,6 +9,7 @@ And so I will do unto others as has been done unto me. Now, Roll High or Die.
 ## 1. Mechanics of Play
 ### A. Playing a Modern Roleplaying Game
 ### B. Playing Roll High Or Die
+### C. Generic Rulings
 ## 2. Mechanics of a Character 
 ## 3. Character Features
 ## 4. Equipment, Encumbrance, and Travelling
