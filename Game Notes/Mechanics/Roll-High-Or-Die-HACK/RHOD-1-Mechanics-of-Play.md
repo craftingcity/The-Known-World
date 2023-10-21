@@ -23,7 +23,7 @@ When a character takes an action, if there is a measure of random chance or a re
 
 ## C. Generic Rulings
 ### Manipulating the Dice
-When you make a **Save** or a **Check**, roll 
+When you make a **Save** or a **Check**, roll a d20 and add the relevant modifier - this will nearly always be a **Ability** - and any additional bonuses or detriments - which would likely be a *proficiency* or *condition*. 
 
 #### Passive Rolls
 When a character acts over time, they generally choose to prevent failure at the cost of extraordinary success. This is known as "taking 10" or making a "passive roll", and can be used often by a GM to determine a character's average performance in an area, or as a DC for keeper-characters to roll against.
@@ -31,14 +31,14 @@ When a character acts over time, they generally choose to prevent failure at the
 #### Advantage & Disadvantage
 When you have Advantage on a roll, you will roll twice and take the higher of the two results. When you have Disadvantage, the opposite is true; you roll twice and take the lower of the two results.
 
-On a d20, this averages to a +5 or -5 modifier, and for the purposes of Passive Rolls, can be treated as such.
+On a d20, this averages to a +5 or a -5 modifier, and for the purposes of Passive Rolls or otherwise, can be treated as such.
 
 #### "Meets it Beats it"
 When a total exactly meets a DC, but does not exceed it, the player who rolled to beat the DC does succeed, and any mechanical benefits of doing so are granted as per usual.
 
 > This typically is most applicable during combat.
 
-### Game of Contradictions
+### A Game of Contradictions
 When one ruling contradicts with another, a more specific ruling beats a general one. Our camera, and therefore our rules, focus on very special characters, who often break these more general rules. As a character gains features, those features will describe how to "break" these rules while still following the rules. 
 
 Overall, this game is *supposed* to be **fun**, so feel free to keep bending the rules, but much like myself, once you take it too far you begin to play a new game.
