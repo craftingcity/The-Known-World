@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RHOD-1-Mechanics-of-Play",
+      "path": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md"
+    },
+    {
       "basename": "Roll High Or Die",
       "path": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hydonga",
       "path": "Hydonga.md"
-    },
-    {
-      "basename": "Graz'zt",
-      "path": "Game Notes/NPCs/Absolute Power/Demon Lord NPCs/Graz'zt.md"
     }
   ],
   "omittedPaths": [],

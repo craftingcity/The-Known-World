@@ -23,6 +23,7 @@ aliases:
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]
 - **Roll-High-Or-Die-HACK**
+	- [[RHOD-1-Mechanics-of-Play]]
 	- [[Roll High Or Die]]
 
 %% End Waypoint %%
