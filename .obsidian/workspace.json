@@ -88,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md"
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md"
               }
             }
           },
@@ -336,11 +335,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "68285dd830365ea3",
+  "active": "9d7aae9cf15d35c1",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Prenotes Oct 19 23.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md",

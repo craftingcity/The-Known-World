@@ -21,7 +21,14 @@ Most modern RPGs use dice, and RHOD is no different. You will need a full set of
 
 When a character takes an action, if there is a measure of random chance or a reasonable possibility of execution failure, that character's player will roll a d20 and add any relevant modifiers. The consequences, be they positive or negative, will be described by the GM as they compare the player's final total for the action against their interpreted Difficulty Class (DC) for that action given the context of the character's situation.
 
-## C. Generic Rulings
+## C. Phases of Play
+During a session of RHOD, you may experience many phases of play.
+
+### Relaxed Roleplay
+### Intense Encounter
+### Abstracted Interaction
+
+## D. Generic Rulings
 ### Manipulating the Dice
 When you make a **Save** or a **Check**, roll a d20 and add the relevant modifier - this will nearly always be a **Ability** - and any additional bonuses or detriments - which would likely be a *proficiency* or *condition*. 
 
@@ -41,4 +48,4 @@ When a total exactly meets a DC, but does not exceed it, the player who rolled t
 ### A Game of Contradictions
 When one ruling contradicts with another, a more specific ruling beats a general one. Our camera, and therefore our rules, focus on very special characters, who often break these more general rules. As a character gains features, those features will describe how to "break" these rules while still following the rules. 
 
-Overall, this game is *supposed* to be **fun**, so feel free to keep bending the rules, but much like myself, once you take it too far you begin to play a new game.
+Overall, this game is *supposed* to be **fun**, so feel free to keep bending the rules, but much like myself, once you take homebrew too far you begin to play a new game.
