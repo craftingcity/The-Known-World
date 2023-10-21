@@ -1,5 +1,5 @@
 # Mechanics of Play
-## Playing a Modern Roleplaying Game
+## A. Playing a Modern Roleplaying Game
 
 Most players will take the role of the "Player Characters" (PCs), and will be the main focus of the narrative camera. One (or more, if you'd like) other player(s) will take the role of the Keeper of Secrets, Master of Game Ceremonies, or Referee (GM), who will act as the camera themselves, as well as the setting, extra actors, and final arbiter for the game rules.
 
@@ -11,7 +11,7 @@ The GM then responds to the PCs actions, interprets them in both the mechanics o
 
 This continues ad infenitum; once you find a narratively satisfying place to stop, or succumb to physical exhaustion, simply cease the loop with a GM's final description, to which the players will return to.
 
-## Playing Roll High Or Die
+## B. Playing Roll High Or Die
 
 In RHOD, your narrative will be influenced by the mechanics you use from this game. This is intentional. This game is built to support games that focus on the *survival* and interesting daily life of a small group of people in a *dangerous and beautifully anomalous* world. 
 
@@ -19,10 +19,12 @@ Magic is likely a part of at least a small population's daily life - if it is no
 
 Most modern RPGs use dice, and RHOD is no different. You will need a full set of polyhedral dice (a d20, d12, d10, d8, d6, and a d4), and it is likely that you will wish to use multiple of these dice at once. Acquiring multiple sets of dice is encouraged.
 
-When a player takes an action, if there is a measure of random chance or a reasonable possibility of execution failure, that player will roll a d20 and add any relevant modifiers. The consequences, be they positive or negative, will be described by the GM as they compare the player's final total for the action against their interpreted Difficulty Class (DC) for that action given the context of the character's situation.
+When a character takes an action, if there is a measure of random chance or a reasonable possibility of execution failure, that character's player will roll a d20 and add any relevant modifiers. The consequences, be they positive or negative, will be described by the GM as they compare the player's final total for the action against their interpreted Difficulty Class (DC) for that action given the context of the character's situation.
 
-## Generic Rulings
+## C. Generic Rulings
 ### Manipulating the Dice
+When you make a **Save** or a **Check**, roll 
+
 #### Passive Rolls
 When a character acts over time, they generally choose to prevent failure at the cost of extraordinary success. This is known as "taking 10" or making a "passive roll", and can be used often by a GM to determine a character's average performance in an area, or as a DC for keeper-characters to roll against.
 
@@ -37,4 +39,6 @@ When a total exactly meets a DC, but does not exceed it, the player who rolled t
 > This typically is most applicable during combat.
 
 ### Game of Contradictions
-When one ruling contradicts with another, a more specific ruling beats a general one. Rules in this book
+When one ruling contradicts with another, a more specific ruling beats a general one. Our camera, and therefore our rules, focus on very special characters, who often break these more general rules. As a character gains features, those features will describe how to "break" these rules while still following the rules. 
+
+Overall, this game is *supposed* to be **fun**, so feel free to keep bending the rules, but much like myself, once you take it too far you begin to play a new game.
