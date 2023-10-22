@@ -14,6 +14,9 @@ Now, ***Roll High or Die***.
 ### C. Phases of Play
 ### D. Generic Rulings
 ## 2. Mechanics of a Character 
+### A. Ability Scores
+### B. Skills
+### C. Features & Equipment
 ## 3. Character Features
 ## 4. Equipment, Encumbrance, and Travelling
 ## 5. Mechanics of Combat
