@@ -5,7 +5,7 @@ I began this project as a youngster when I found myself disgruntled with the at-
 
 And so I will do unto others as has been done unto me. 
 
-Now, ***Roll High or Die***.
+Now ***Roll High, or Die***.
 
 # Table of Contents
 ## 1. Mechanics of Play

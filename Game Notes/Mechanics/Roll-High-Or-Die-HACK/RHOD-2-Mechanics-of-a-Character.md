@@ -2,7 +2,13 @@
 ## A. Ability Scores
 During play, your character be making attempts to reach their goal, and their successes or failures will most likely be of their own decisions and abilities. Your character's basest abilities are numerically represented by seven values. These seven Ability Scores will influence how well a character will perform at certain actions and are used to qualify for certain features.
 
-An abnormally average character would have four zeros and three negative ones spread across the seven scores. When creating a new character for a campaign, as these are the most extraordan
+An abnormally average character would have four zeros and three negative ones spread across the seven scores (e.g. -1, 0, 0, -1, 0, -1, 0). When creating a new character for a campaign, as these are the most extraordinary people in the setting, will begin with their GM's choice of a "standard array" or a "point buy" experience - either of which will be slightly more powerful than this average character.
+
+##### "Standard Array"
+RHOD's "standard array" is the following seven values spread across the seven scores as you wish; (-2), (-1), (+0), (+0), (+1), (+1), (+2).
+
+##### "Point Buy"
+RHOD's "point buy" system works as follows; You may spend 14 points. Each of your character's seven ability scores begin at negative two (-2) and can be increased by one for one point, up to a total value of plus four (+4). A possible "point but" stat array may look as follows; (-2), (-2), (-1), (+0), (+0), (+3), (+4).
 
 #### Strength
 Strength represents your character's ability to physically maneuver against the will of their opposition. Strength is important for melee fighters.

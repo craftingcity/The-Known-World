@@ -28,6 +28,7 @@ During a session of RHOD, you may experience many phases of play.
 
 ### Relaxed Roleplay
 ### Intense Encounter
+#### Order During an Encounter
 ### Abstracted Interaction
 
 ## D. Generic Rulings
@@ -43,7 +44,7 @@ When you have Advantage on a roll, you will roll twice and take the higher of th
 On a d20, this averages to a +5 or a -5 modifier, and for the purposes of Passive Rolls or otherwise, can be treated as such.
 
 #### "Meets it Beats it"
-When a total exactly meets a DC, but does not exceed it, the player who rolled to beat the DC does succeed, and any mechanical benefits of doing so are granted as per usual.
+When a total exactly meets a DC, but does not exceed it, the player who was rolling to beat the DC succeeds, and any mechanical benefits of doing so are granted as per usual.
 
 > This typically is most applicable during combat.
 
