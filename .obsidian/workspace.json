@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "41c1a546ff85e48e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "25c42d08da4dda1e",
@@ -305,8 +327,9 @@
   },
   "active": "bfb3a427581b43d1",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Prenotes Oct xx 23.md",
     "Prenotes Oct 19 23.md",
@@ -331,7 +354,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
