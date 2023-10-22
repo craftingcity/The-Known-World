@@ -29,7 +29,7 @@
             }
           },
           {
-            "id": "3c27c4059af43fc8",
+            "id": "60abb2ee37e7ad24",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,24 +43,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "634bb889f86bba42",
+            "id": "2cb371623a854ac2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Leighton Mitchell",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Leighton Mitchell.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -70,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
                 "mode": "source",
                 "source": true
               }
@@ -168,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md"
+                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md"
               }
             }
           },
@@ -324,17 +318,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "634bb889f86bba42",
+  "active": "2cb371623a854ac2",
   "lastOpenFiles": [
-    "Leighton Mitchell.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Prenotes Oct 21 23.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Leighton Mitchell.md",
     "MEDIA/HERITAGES/Obsidian.1.4.16.exe",
     "MEDIA/HERITAGES/Unconfirmed 471971.crdownload",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Prenotes Oct 19 23.md",

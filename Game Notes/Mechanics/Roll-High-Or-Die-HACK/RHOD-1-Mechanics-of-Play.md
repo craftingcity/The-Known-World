@@ -24,9 +24,11 @@ Most modern RPGs use dice, and RHOD is no different. You will need a full set of
 When a character takes an action, if there is a measure of random chance or a reasonable possibility of execution failure, that character's player will roll a d20 and add any relevant modifiers. The consequences, be they positive or negative, will be described by the GM as they compare the player's final total for the action against their interpreted Difficulty Class (DC) for that action given the context of the character's situation.
 
 ## C. Phases of Play
-During a session of RHOD, you may experience many phases of play.
+During a session of RHOD, you may experience many phases of play. Often, they will flow from one to another without major issue, and a "balanced" session of RHOD will experience at least two of the three every time.
 
 ### Relaxed Roleplay
+During a Relaxed Roleplay phase, the players are acting as their characters
+
 ### Intense Encounter
 #### Order During an Encounter
 ### Abstracted Interaction
