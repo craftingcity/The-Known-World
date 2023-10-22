@@ -35,3 +35,5 @@ Might run into Moses at Q16 if the timing works out;
 	- They will break camp at dawn, and keep moving North-East.
 - Timing doesn't really work out.
 
+Paulo heard about the party's experiences in the [[Abyss]] and [[Thanatos]]
+
