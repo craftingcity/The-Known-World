@@ -30,4 +30,5 @@ The Wizards have not heard from [[Qiell Tilemundon]] since he dipped with [[Kala
 
 ### What happened?
 
-Might run into Moses at the S
+Might run into Moses at Q16 if the timing works out;
+	- 
