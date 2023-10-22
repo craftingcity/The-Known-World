@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b701535773dd42",
+        "id": "ac3e3c10e9ca8ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "98a2221dde5c2da7",
+            "id": "c2a8b3d1405193af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,81 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41c1a546ff85e48e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "25c42d08da4dda1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfb3a427581b43d1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6208e8a563db59ce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -218,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md"
-              }
+              "state": {}
             }
           },
           {
@@ -345,12 +268,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "bfb3a427581b43d1",
+  "active": "c2a8b3d1405193af",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Prenotes Oct xx 23.md",
     "Prenotes Oct 19 23.md",
