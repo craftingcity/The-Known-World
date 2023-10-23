@@ -14,6 +14,7 @@ aliases:
 - AF28. Flower Maze
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 - AF32. Ground Swell
+- AG27. Zeldris' Razing (see Aug/Oct [['23]] notes regarding the "plant structure")
 - AG29. 
 	- In a small cave, nearly inaccessible due to ruinous cave-ins, two black pudding fester over the corpses of a now-long dead party of adventurers.
 	- On the corpses of these adventurers, and scattered about the cave, the following treasure can be found:
