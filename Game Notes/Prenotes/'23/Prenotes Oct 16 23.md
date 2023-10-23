@@ -52,3 +52,7 @@ Basil (7): 3
 ### What happened?
 
 3 healing potions 4 elanor
+
+[[Nylan Roul]] got away...
+
+**UPDATE LOCATION**
