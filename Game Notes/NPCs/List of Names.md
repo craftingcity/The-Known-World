@@ -5,7 +5,7 @@ aliases:
 # List of Names
 Masc | Femme | Neutral
 --------|--------|--------
-Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
+Lùcas Crosainson | x | Anabla Niocalsan
 x | Paige Saunders | Glen Stone
 Weulleachan Kork | Freya Harris | Abraham Yorrik
 x | Hallis Winters | Val Harris
