@@ -8,8 +8,8 @@ Masc | Femme | Neutral
 Lùcas Crosainson | Sasha Lowe | Anabla Niocalsan
 x | Paige Saunders | Glen Stone
 Weulleachan Kork | Freya Harris | Abraham Yorrik
-River Borns | Hallis Winters | Val Harris
-Leighton Mitchell | x | Val Stevens
+x | Hallis Winters | Val Harris
+x | x | Val Stevens
 Mark Ross | Lyla Bradley | Franky Bradley
 Zak Williamson | Orren Bearich | Bellan Cork
 Tomas Francis | Frankie Davis | x

@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for October !!th
+# Prenotes for October 21th
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -13,8 +13,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
-When last we left our heroes, they met with agents of many factions. First, with their so-believed patrons, the Council of Mages, receiving rewards for your hard work done and receiving a new potential direction to pursue; [[The Old|Minyostalma's Ruins]]. Second, with a pursuer representing the intrests of [[Cenva Minyo]] who explained that he was to gather information on you, your activities, and what you think you know. 
+When last we left our heroes, they met with agents of many factions. First, with their so-believed patrons, the Council of Mages, receiving rewards for your hard work done and receiving a new potential direction to pursue; [[The Old|Minyostalma's Ruins]]. Second, with a pursuer representing the interests of [[Cenva Minyo]] who explained that he was to gather information on you, your activities, and what you think you know. 
 
 You are in the center of the world, and you are brimming with potential. What do you do?
 
@@ -29,3 +28,12 @@ The Wizards have not heard from [[Qiell Tilemundon]] since he dipped with [[Kala
 [[The Old|Minyostalma]] is fairly static so far, and it is a series of ruins surrounding the Grand Temple building.
 
 ### What happened?
+
+Might run into Moses at Q16 if the timing works out;
+	- Moses hears about what happened and heads out of CC on the 2nd.
+	- He and his party make camp during the night at Q16.
+	- They will break camp at dawn, and keep moving North-East.
+- Timing doesn't really work out.
+
+Paulo heard about the party's experiences in the [[Abyss]] and [[Thanatos]]
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b701535773dd42",
+        "id": "ac3e3c10e9ca8ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "98a2221dde5c2da7",
+            "id": "c2a8b3d1405193af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+                "file": "Prenotes Oct 21 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "41c1a546ff85e48e",
+            "id": "01b68abc5e0df668",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,55 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "25c42d08da4dda1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfb3a427581b43d1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6208e8a563db59ce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
@@ -188,12 +140,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 376.50418853759766,
-    "collapsed": true
+    "width": 376.50418853759766
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -218,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+                "file": "Prenotes Oct 21 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+                "file": "Prenotes Oct 21 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md"
+                "file": "Prenotes Oct 21 23.md"
               }
             }
           },
@@ -345,14 +296,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "bfb3a427581b43d1",
+  "active": "c2a8b3d1405193af",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Prenotes Oct 21 23.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Leighton Mitchell.md",
+    "MEDIA/HERITAGES/Obsidian.1.4.16.exe",
+    "MEDIA/HERITAGES/Unconfirmed 471971.crdownload",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Prenotes Oct xx 23.md",
     "Prenotes Oct 19 23.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK",
     "Darw.md",
@@ -370,10 +327,6 @@
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
@@ -386,8 +339,6 @@
     "MEDIA/MAPS/WORLD/alaturmen-100AF.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping",
-    "MEDIA/MAPS/WORLD/Thanatos-Player.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts"
+    "MEDIA/MAPS/WORLD/Thanatos-Player.png"
   ]
 }
