@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7948993663ab70db",
+            "id": "a47156dcbe251558",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,62 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2cc14d8f2c229560",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Eastlick Mossland",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":66},\"to\":{\"line\":16,\"ch\":66}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Oct 23 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8f67828553da797c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annual Boneborn Bash.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"plant structure\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.50418853759766,
-    "collapsed": true
+    "width": 376.50418853759766
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -192,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annual Boneborn Bash.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annual Boneborn Bash.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annual Boneborn Bash.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md"
               }
             }
           },
@@ -319,11 +281,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "8f67828553da797c",
+  "active": "a47156dcbe251558",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
+    "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Southern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Great Quillbuck Jungle.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md",
     "Prenotes Oct 23 23.md",
     "Annual Boneborn Bash.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md",
     "Game Notes/Prenotes/'23/'23.md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -331,7 +299,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
@@ -344,11 +311,6 @@
     "Prenotes Oct xx 23.md",
     "Prenotes Oct 19 23.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK",
-    "Darw.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 11 23.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",

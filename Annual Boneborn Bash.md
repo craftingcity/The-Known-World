@@ -8,5 +8,9 @@ aliases:
 
 The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn. It is sponsored by [[Baron Xuiop]] himself, as it is a valuable tourism boom that consistently draws foreigners to the area during the Spring months.
 
-#### The Festivities
-In addition to the 
+### The Festivities
+#### The Market
+##### Companies
+##### Independents
+##### Locals
+#### The Circus Show
