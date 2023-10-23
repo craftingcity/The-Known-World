@@ -27,7 +27,7 @@ The city is bustling in preparations for the [[Annual Boneborn Bash]] which will
 
 ### What happened?
 
-Zeldrist
+Zeldris
 Comrades
 Eleanor
 Pirates
