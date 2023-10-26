@@ -27,3 +27,5 @@ What do you do?
 Today's ingame date is the 27th of Resowing. The Northern Half of the party has gathered transport and is headed into [[Coalition City]] with [[Kalariel]] at this point in the timeline. (IIRC)
 
 ### What happened?
+
+Daelith is moving toward [[Baron Avory]] and the rest of the party is willing to follow her. 
