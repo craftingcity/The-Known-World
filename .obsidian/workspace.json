@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1602591a06c8e95",
+        "id": "000b2f6cb0bb5e59",
         "type": "tabs",
         "children": [
           {
-            "id": "95fc1e7042c3b2bd",
+            "id": "e0e655dd2fefabb1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,31 +16,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Oct 11 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 11 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.851212658852283}"
-                },
-                {
-                  "title": "Prenotes Oct 10 21",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'21/Prenotes Oct 10 21.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Oct 09 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 09 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+                "file": "Prenotes Oct 19 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0769a0dd4b53ce7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5490e2a6f9cc78",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 28 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wetfoot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+                "file": "Prenotes Oct 28 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+                "file": "Prenotes Oct 28 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md"
+                "file": "Prenotes Oct 28 23.md"
               }
             }
           },
@@ -294,10 +303,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "95fc1e7042c3b2bd",
+  "active": "0c5490e2a6f9cc78",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Shyla Belanore.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Lakeview.md",
+    "Prenotes Oct 28 23.md",
+    "Prenotes Oct 19 23.md",
+    "Prenotes Oct 21 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 11 23.md",
     "Game Notes/Prenotes/'21/Prenotes Oct 10 21.md",
@@ -311,7 +325,6 @@
     "Prenotes Oct 23 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
     "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Heilich-Muwwoq.md",
-    "Prenotes Oct 21 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK/Roll High Or Die.md",
@@ -321,11 +334,7 @@
     "MEDIA/HERITAGES/Obsidian.1.4.16.exe",
     "MEDIA/HERITAGES/Unconfirmed 471971.crdownload",
     "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-2-Mechanics-of-a-Character.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Prenotes Oct 19 23.md",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK",
-    "Darw.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs",
     "MEDIA/HERITAGES/pisky.png",
     "MEDIA/HERITAGES/tiefling.png",

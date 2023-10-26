@@ -4,8 +4,8 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Five Pike]]
+### Located in [[Wetfoot Greenland]], X:Y
 ## Description
 ### Quote
 
