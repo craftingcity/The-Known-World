@@ -1,8 +1,18 @@
 ---
-tags: stub
+tags:
+  - groups
 aliases:
 ---
 
-*This page is a #stub . You can help by expanding it!*
-
-aka Y'alneas
+# Grovetenders
+## History
+## Governance
+## Culture
+#### Heritage
+#### Language
+#### Values
+#### Theology
+#### Economics
+### Symbolism
+## Technology
+### Magic

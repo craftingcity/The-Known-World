@@ -29,3 +29,16 @@ Today's ingame date is the 27th of Resowing. The Northern Half of the party has 
 ### What happened?
 
 Daelith is moving toward [[Baron Avory]] and the rest of the party is willing to follow her. 
+
+###### COMBAT
+Bandits (14+)
+1. 10
+2. 10
+3. 10
+4. 10
+5. 10
+6. 10
+Inec (14)
+Daelith (12)
+Dot (8)
+Vix (3)
