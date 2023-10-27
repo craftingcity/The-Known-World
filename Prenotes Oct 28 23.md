@@ -20,9 +20,10 @@ With over twenty days until the festivities commence, you have ample time to inv
 
 You have no authority here. Any investigation you perform will be opposed by the [[Beasts Righteous]]' local enforcement. Your major patron has kindly requested that her name be left off any documentation and out of your mouth. 
 
-For all intents and purposes, you are operating without a lifeline around here.
+For all intents and purposes, you are operating without a lifeline around here. What do you do?
 
 ### What does the World Know?
 
+Welcome to [[Boneborn]], the 
 
 ### What happened?
