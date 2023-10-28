@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Baator/Baator.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Baator/Baator.md",
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Baator/Baator.md"
+                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
               }
             }
           },
@@ -400,10 +400,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e4bdbf47a7e06f5e",
+  "active": "accda07862ebeb87",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Notes on the Multiverse/Outer/Baator/Baator.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
     "Notes on the Multiverse/Outer/Abyss/Abyss.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
