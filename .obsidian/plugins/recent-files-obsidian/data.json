@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Great Fires",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Holyl'nds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
@@ -173,10 +185,6 @@
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
-      "basename": "The Holyl'nds",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
-    },
-    {
       "basename": "The Holy City of Kanielkiln",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     }
   ],
   "omittedPaths": [],
