@@ -22,7 +22,7 @@ The five layers of the Abyss are each ruled by a demon lord. Demons and their lo
 ### [[Baphomet]], Lord of Beasts, Prince of [[Endless Maze]]
 - Pride
 
-### [[Juiblex]], Lord of Ooze, Prince oOf [[Pandemonium|Nothing]]
+### [[Juiblex]], Lord of Ooze, Prince of [[Pandemonium|Nothing]]
 - Sloth
 
 ###### Table of Contents
