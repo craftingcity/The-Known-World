@@ -46,10 +46,10 @@ They are going basalisk hunting in the southeast of [[Boneborn]], AH26 at the Tr
 ###### INIT
 Baalisks
 	A. 32, 54, 61, 74
-	B. 13, 31, 54
-	C. 49, 62, 65, 82
+	~~B. 13, 31, 54, 71,~~ 
+	C. 49, 62, 65, 82, 104, 119
 Jerran
-Breenabell
+~~Breenabell~~
 Ulfgar
 Nala
 Simon
