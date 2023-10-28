@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Hannah's Demon (Celaena)",
       "path": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md"
+    },
+    {
+      "basename": "Asmodeus",
+      "path": "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Elysium",
+      "path": "Notes on the Multiverse/Outer/Elysium/Elysium.md"
+    },
+    {
+      "basename": "Mechanis",
+      "path": "Notes on the Multiverse/Outer/Mechanis/Mechanis.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Planes of Existence.md"
     },
     {
       "basename": "Timeline",
@@ -175,30 +199,6 @@
     {
       "basename": "The Old",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
-    },
-    {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "North Littemotto",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Kohnstamm",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     }
   ],
   "omittedPaths": [],

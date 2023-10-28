@@ -7,7 +7,7 @@ aliases:
 ## Princess of Darkness
 ## Mistress of Howling Keep
 ## Warden of the Bellowing Hills
-### pronouns
+### she/her
 
 > Boxtext for an action, outfit, and a physical trait.
 
@@ -22,7 +22,7 @@ A description of their function in the world.
 ### Background
 #### Early Life
 
-Born to [[Graz'zt]], hoping on Uncle [[Orcus]]
+Born to [[Graz'zt]], hoping on Uncle [[Orcus]]'s train
 
 ## Important Knowledge
 
