@@ -28,6 +28,7 @@ Welcome to [[Boneborn]], the [[Annual Boneborn Bash]] is 23 days away. Merchant 
 
 The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the [[Abyss]], very generically, to summon a large gathering of Demons, including [[Hannah's Demon (Celaena)]]. 
 
-
+- Fireworks Show will become a bloodbath
+- A bloodbath will open a portal from the [[Abyss]]
 
 ### What happened?
