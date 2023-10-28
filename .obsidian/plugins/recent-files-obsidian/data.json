@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
       "basename": "Baron Glask",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
     },
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Riphounds",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Mossburg",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
+    },
+    {
+      "basename": "Baron Vannis",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Prenotes Oct 19 23",
@@ -183,22 +199,6 @@
     {
       "basename": "Inner",
       "path": "Notes on the Multiverse/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "The Holy City of Kanielkiln",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md"
-    },
-    {
-      "basename": "Northstone Family Trading Company",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Northstone Family Trading Company.md"
-    },
-    {
-      "basename": "Cetaka",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md"
     }
   ],
   "omittedPaths": [],
