@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Great Fires",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md"
+      "basename": "Baron Glask",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
     },
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Prenotes Oct 19 23",
+      "path": "Prenotes Oct 19 23.md"
+    },
+    {
+      "basename": "Great Fires",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md"
     },
     {
       "basename": "The Holyl'nds",
@@ -39,10 +51,6 @@
     {
       "basename": "Lakeview",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Lakeview.md"
-    },
-    {
-      "basename": "Prenotes Oct 19 23",
-      "path": "Prenotes Oct 19 23.md"
     },
     {
       "basename": "Prenotes Oct 21 23",
@@ -125,10 +133,6 @@
       "path": "Game Notes/Mechanics/Roll-High-Or-Die-HACK/RHOD-1-Mechanics-of-Play.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
       "basename": "Leighton Mitchell",
       "path": "Leighton Mitchell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cetaka",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Lord's Folly/Cetaka.md"
-    },
-    {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     }
   ],
   "omittedPaths": [],
