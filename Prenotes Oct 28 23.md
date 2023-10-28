@@ -45,9 +45,9 @@ They are going basalisk hunting in the southeast of [[Boneborn]], AH26 at the Tr
 
 ###### INIT
 Baalisks
-	A. 32
-	B.
-	C. 49
+	A. 32, 54
+	B. 13
+	C. 49, 62, 65
 Jerran
 Breenabell
 Ulfgar
