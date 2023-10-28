@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f03ae0d92369f6dd",
+        "id": "8b98b450d9cae19a",
         "type": "tabs",
-        "dimension": 56.992753623188406,
         "children": [
           {
-            "id": "907864ba5c4ff9ca",
+            "id": "48fa8cb6530d9a3f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,91 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Custom Cultures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":179,\"ch\":71},\"to\":{\"line\":179,\"ch\":71}},\"scroll\":165.82562982744352}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9c62df28abb071ba",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "27f2b12c9b6691b2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b5bb417a7f26e6c0",
-        "type": "tabs",
-        "dimension": 43.007246376811594,
-        "children": [
-          {
-            "id": "c8e4dfe7bd566ba4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -227,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md"
               }
             }
           },
@@ -354,12 +276,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "27f2b12c9b6691b2",
+  "active": "48fa8cb6530d9a3f",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",

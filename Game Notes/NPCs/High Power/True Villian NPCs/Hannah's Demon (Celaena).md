@@ -22,7 +22,7 @@ A description of their function in the world.
 ### Background
 #### Early Life
 
-Born to [[Graz'zt]], 
+Born to [[Graz'zt]], hoping on Uncle [[Orcus]]
 
 ## Important Knowledge
 
