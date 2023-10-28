@@ -24,6 +24,6 @@ For all intents and purposes, you are operating without a lifeline around here. 
 
 ### What does the World Know?
 
-Welcome to [[Boneborn]], the 
+Welcome to [[Boneborn]], the [[Annual Boneborn Bash]] is 23 days away. Merchant companies named are legit, 
 
 ### What happened?

@@ -15,7 +15,9 @@ aliases:
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 - AF32. Ground Swell
 - AG27. Zeldris' Razing (see Aug/Oct [['23]] notes regarding the "plant structure")
-	- A circle of thick risen foliage surrounds a ramp that descends 
+	- A circle of thick risen foliage surrounds a ramp that descends deeper into the earth.
+	- A village of wooden buildings is built in this large natural cavern, and it is headed by a large longhouse. The buildings are abandoned.
+	- The foliage is about five feet thick all-around, and is seemingly burnt down to this level.
 - AG29. 
 	- In a small cave, nearly inaccessible due to ruinous cave-ins, two black pudding fester over the corpses of a now-long dead party of adventurers.
 	- On the corpses of these adventurers, and scattered about the cave, the following treasure can be found:
