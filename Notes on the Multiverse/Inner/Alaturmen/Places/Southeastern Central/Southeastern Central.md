@@ -88,6 +88,7 @@ aliases:
 	- [[Wetfoot Greenland]]
 - **Specific Places**
 	- [[Darktower]]
+	- [[Jameson's Magic Choppe]]
 	- [[Stone of Desmoniur]]
 
 %% End Waypoint %%

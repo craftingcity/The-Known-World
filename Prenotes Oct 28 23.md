@@ -38,3 +38,5 @@ The whole point of the Bash for the Infernal Cults is to open up a temporary con
 	- We have drawn the ire of the Demons 
 
 ### What happened?
+
+They are playing actors as a band of travelling musicians. Ulfgar is made to be their management, but they are looking for work as apothecary procurers.
