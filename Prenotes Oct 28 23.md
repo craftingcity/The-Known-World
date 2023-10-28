@@ -26,6 +26,8 @@ For all intents and purposes, you are operating without a lifeline around here. 
 
 Welcome to [[Boneborn]], the [[Annual Boneborn Bash]] is 23 days away. Merchant companies named are legit, individuals are not ~necessarily~.
 
-The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the 
+The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the [[Abyss]], very generically, to summon a large gathering of Demons, including [[Hannah's Demon (Celaena)]]. 
+
+
 
 ### What happened?
