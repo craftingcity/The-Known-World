@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Oct 04 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 04 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":7},\"to\":{\"line\":43,\"ch\":7}},\"scroll\":6.451506398937155}"
+                },
+                {
                   "title": "Prenotes Oct 11 23",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 11 23.md\",\"mode\":\"source\",\"source\":true}}",
@@ -40,26 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5c44fd558cf1df47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 28 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 28 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 28 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Prenotes Oct 28 23.md"
               }
             }
           },
@@ -307,7 +300,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5c44fd558cf1df47",
+  "active": "95fc1e7042c3b2bd",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "conflict-files-obsidian-git.md",

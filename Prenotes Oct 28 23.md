@@ -24,6 +24,8 @@ For all intents and purposes, you are operating without a lifeline around here. 
 
 ### What does the World Know?
 
-Welcome to [[Boneborn]], the [[Annual Boneborn Bash]] is 23 days away. Merchant companies named are legit, 
+Welcome to [[Boneborn]], the [[Annual Boneborn Bash]] is 23 days away. Merchant companies named are legit, individuals are not ~necessarily~.
+
+The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the 
 
 ### What happened?
