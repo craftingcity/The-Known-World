@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b98b450d9cae19a",
+        "id": "82f8881531e5e024",
         "type": "tabs",
         "children": [
           {
-            "id": "48fa8cb6530d9a3f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Hannah's Demon (Celaena)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":54},\"to\":{\"line\":24,\"ch\":54}},\"scroll\":0.952541760349459}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "07092f0915ca2a7a",
+            "id": "22c0d125b7d147a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,112 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2a5a4d5d114dfcd5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "accda07862ebeb87",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e4bdbf47a7e06f5e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Asmodeus",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":29},\"to\":{\"line\":21,\"ch\":29}}}"
-                },
-                {
-                  "title": "Baator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Baator/Baator.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a9404b2d7f1526c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-              }
+              "state": {}
             }
           },
           {
@@ -400,15 +268,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "accda07862ebeb87",
+  "active": "22c0d125b7d147a3",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
-    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Planes of Existence.md",
+    "Notes on the Multiverse/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+    "Notes on the Multiverse/Outer/Abyss/Abyss.md",
+    "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
