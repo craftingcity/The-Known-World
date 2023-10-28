@@ -40,3 +40,16 @@ The whole point of the Bash for the Infernal Cults is to open up a temporary con
 ### What happened?
 
 They are playing actors as a band of travelling musicians. Ulfgar is made to be their management, but they are looking for work as apothecary procurers.
+
+They are going basalisk hunting in the southeast of [[Boneborn]], AH26 at the Tree playing basalisks as medusas
+
+###### INIT
+Baalisks
+	A.
+	B.
+	C.
+Jerran
+Breenabell
+Ulfgar
+Nala
+Simon
