@@ -41,15 +41,19 @@ The whole point of the Bash for the Infernal Cults is to open up a temporary con
 
 They are playing actors as a band of travelling musicians. Ulfgar is made to be their management, but they are looking for work as apothecary procurers.
 
-They are going basalisk hunting in the southeast of [[Boneborn]], AH26 at the Tree playing basalisks as medusas
+They are going basalisk hunting in the southeast of [[Boneborn]], AH26 at the Tree.  We're playing basalisks as medusas
 
 ###### INIT
 Baalisks
-	A. 32, 54, 61, 74
+	~~A. 32, 54, 61, 74, 96, 113, 121~~
 	~~B. 13, 31, 54, 71,~~ 
-	C. 49, 62, 65, 82, 104, 119
+	~~C. 49, 62, 65, 82, 104, 119~~ 
 Jerran
 ~~Breenabell~~
-Ulfgar
+~~Ulfgar~~
 Nala
 Simon
+
+Nala is the lone survivor. Everyone else has been petrified and is moved into the Bag of Many Rooms. We end the session with Nala researching and the Basalisk corpses in the Freezer room too.
+
+Be sure to mark the territory as a Basalisk Lair
