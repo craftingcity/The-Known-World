@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Emorin's Plots
+#### The Birthplace of Capitalism
+## Holding of [[Emorin Clan]]
+### Located in [[Gumlpin]], X:Y
 ## Description
 ### Quote
 
