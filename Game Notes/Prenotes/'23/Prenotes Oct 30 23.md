@@ -22,6 +22,7 @@ With that in mind, what do you do?
 
 ### What does the World Know?
 
-The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Boris Herrach" and his crew 
+The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Boris Herrach" and his crew.
+
 
 ### What happened?
