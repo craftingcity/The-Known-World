@@ -26,3 +26,5 @@ The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Bo
 
 
 ### What happened?
+
+Eleanor visits a White Church here in town by Tendered Alir Yivaan who gives her an iron censor to keep [[Its Greatness]] with her. 
