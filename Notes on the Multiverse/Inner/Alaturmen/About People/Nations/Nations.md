@@ -38,6 +38,7 @@ aliases:
 		- [[Riphounds]]
 		- [[Slimknives]]
 	- **Local Lore**
+		- [[Annual Boneborn Bash]]
 		- [[Darwine's Expulsion]]
 - **[[The Kingdom of Prosper]]**
 	- **Factions**

@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80ace2bea6d6a5b8",
+        "id": "282a817e98a2c3cc",
         "type": "tabs",
-        "dimension": 72.77777777777777,
         "children": [
           {
-            "id": "26d6bbc2911c0727",
+            "id": "68d4d56cf8c169ee",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,104 +16,41 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Places",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Oct 30 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "df5a418873c4fcd4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Tome of Gannon",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Tome of Gannon.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Magical Items of Note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":107},\"to\":{\"line\":44,\"ch\":107}},\"scroll\":39.44103973237143}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORGANIZATION/Methods of Organization.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "29b892726f5ba019"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c733add290f51f69",
-        "type": "tabs",
-        "dimension": 27.22222222222222,
-        "children": [
-          {
-            "id": "f10dc0c4085cfc53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "ORGANIZATION/Methods of Organization.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "29b892726f5ba019"
           }
         ]
       }
@@ -161,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"green spring",
+                "query": "\"Leighton Mitchell\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,12 +143,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 376.50418853759766,
-    "collapsed": true
+    "width": 376.50418853759766
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -237,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Methods of Organization.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Methods of Organization.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/Methods of Organization.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Texts.md"
               }
             }
           },
@@ -364,35 +299,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "df5a418873c4fcd4",
+  "active": "68d4d56cf8c169ee",
   "lastOpenFiles": [
-    "The Tome of Gannon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "Leighton Mitchell.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Monastery of Saint Susan.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
+    "Notes on the Multiverse/Outer/Abyss/Hydonga.md",
+    "Darw.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 30 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 28 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 19 23.md",
     "ORGANIZATION/Methods of Organization.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/The Tome of Gannon.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "gannon.md",
-    "Prenotes Oct 30 23.md",
     "Game Notes/Prenotes/'23/Prenotes Sept 11 23.md",
-    "Prenotes Oct 23 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 09 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Aug 11 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
-    "Prenotes Oct 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Jameson's Magic Choppe.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 11 23.md",
-    "Game Notes/Prenotes/'21/Prenotes Oct 10 21.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "MEDIA/HERITAGES/Obsidian.1.4.16.exe",
     "MEDIA/HERITAGES/Unconfirmed 471971.crdownload",
     "Game Notes/Mechanics/Roll-High-Or-Die-HACK",

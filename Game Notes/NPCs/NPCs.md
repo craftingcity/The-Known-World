@@ -43,7 +43,6 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[True Villian NPCs]]**
 - [[List of Names]]
 - **Mild Power**
-	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Kallo Vought]]
@@ -52,11 +51,11 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Glot Maxim]]
 		- [[Gudeliva]]
 		- [[Hektor Salar]]
+		- [[Nylan Roul]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]

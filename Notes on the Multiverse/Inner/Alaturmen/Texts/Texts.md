@@ -29,10 +29,11 @@ aliases:
 	- [[The Ballad of Grey Ordeal]]
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
-	- [[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]]
+	- [[The Texts Druidic]]
 - [[On the Hum Arcani; Independent Position]]
 - [[Tetrimoc's Journal (Propaganda)]]
 - [[The Return of Moses the Brave]]
 - [[The Tales of Big Buster Badass]]
+- [[The Tome of Gannon]]
 
 %% End Waypoint %%
