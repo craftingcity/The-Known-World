@@ -42,7 +42,7 @@ aliases:
 	- Currently possessed by [[Nala]]
 
 - Inception
-	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by */green-spring circle guy's name/*
+	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by Elder [[]]
 	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
 	- Currently located in Wheernat, with a high ranking official.
 
