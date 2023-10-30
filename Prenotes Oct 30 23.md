@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had retu
+When last we left our heroes, they had returned to civilization after a raid on a druidic holding 
 
 ### What does the World Know?
 
