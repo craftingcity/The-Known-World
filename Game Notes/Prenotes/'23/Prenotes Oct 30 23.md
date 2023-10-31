@@ -22,9 +22,9 @@ With that in mind, what do you do?
 
 ### What does the World Know?
 
-The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Boris Herrach" and his crew.
+The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Boris Herrach" and his crew. At night, Boris and the crew swap out for a set of 4 armed guards.
 
 
 ### What happened?
 
-Eleanor visits a White Church here in town by Tendered Alir Yivaan who gives her an iron censor to keep [[Its Greatness]] with her. 
+Eleanor visits a White Church here in town by Tendered Alir Yivaan who gives her an iron censor to keep [[Its Greatness]] with her. Elanor left the candle on the desk lit by the White Flame. 
