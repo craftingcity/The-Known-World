@@ -28,3 +28,5 @@ The [[Ammarin Transportation]] Company warehouse is run by the "Quartermaster Bo
 ### What happened?
 
 Eleanor visits a White Church here in town by Tendered Alir Yivaan who gives her an iron censor to keep [[Its Greatness]] with her. Elanor left the candle on the desk lit by the White Flame. 
+
+It is now the night of the 12th, next game beings tomorrow
