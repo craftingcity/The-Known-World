@@ -1,10 +1,10 @@
 ---
-tags: notes
+tags:
+  - notes
 aliases:
 ---
 
-# Prenotes for *date*
-## Party of Interest: /*LINK*/
+# Prenotes for November 1st
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heros...
+When last we left our heroes...
 
 ### What does the World Know?
 

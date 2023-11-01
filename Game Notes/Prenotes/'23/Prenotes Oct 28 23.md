@@ -13,7 +13,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had arrived in the city of [[Boneborn]], named for it's massive bone-plate walls that keep its citizens safe. The date is currently the 13th of Resowing, and you know that the profane festivities of the [[Annual Boneborn Bash]] will occur on the 8th of Weeding. 
 
 With over twenty days until the festivities commence, you have ample time to investigate any connections to the globalized Infernal Cults and or explore the surrounding areas.
