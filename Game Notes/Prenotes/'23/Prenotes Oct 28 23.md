@@ -55,4 +55,4 @@ Simon
 
 Nala is the lone survivor. Everyone else has been petrified and is moved into the Bag of Many Rooms. We end the session with Nala researching and the Basalisk corpses in the Freezer room too.
 
-Be sure to mark the territory as a Basalisk Lair
+Be sure to mark the territory ([[Reugb Marshes#AH26. Basalisk's Acacia Garden]], AH26) as a Basalisk Lair

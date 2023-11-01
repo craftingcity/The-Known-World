@@ -5,6 +5,7 @@ aliases:
 ---
 
 # Prenotes for November 1st
+## Party of Interest: [[Cathouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -14,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes
 
 ### What does the World Know?
 

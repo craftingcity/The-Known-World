@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heros...
+When last we left our heroes...
 
 ### What does the World Know?
 
