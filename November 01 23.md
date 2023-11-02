@@ -19,6 +19,8 @@ When last we left our heroes, they were rich in both coin and avenues of action;
 After both of your meetings with the Winter Elf known as Paulo Equestria, you have assessed that these secret actors may have similar if not entirely aligned goals. With this in mind, I must ask you; if you chose to do so, how do you travel to the [[Actstow Hills]]?
 
 ### What does the World Know?
+Today's beginning ingame date is the 12th day of Weeding in the 105th year A.F.T.
+
 From [[Coalition City]], a cart-ride with an independent merchant will take four adventurers to [[Yahlin]] / [[Onehana]] in three days for 25-40 silver. A boat-ride is more expensive and will take longer. Walking is the most economical option, but would take no less than four days. 
 
 ### What happened?
