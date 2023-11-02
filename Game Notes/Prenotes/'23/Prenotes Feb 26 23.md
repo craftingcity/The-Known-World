@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for February 26th
+## Party of Interest: [[Sarahouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

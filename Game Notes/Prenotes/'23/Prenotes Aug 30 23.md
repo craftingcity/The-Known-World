@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for August 30th 
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

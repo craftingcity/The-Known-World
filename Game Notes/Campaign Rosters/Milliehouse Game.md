@@ -1,15 +1,14 @@
 ---
-tags: roster
+tags:
+  - roster
 aliases:
 ---
-# Adventures of ...
-	- Camadra
-	- Thistle
-	- Flibber Ti Gibbet
-	- Corvid
+# Adventures of Elanor, Basil, and Zeldris
 ## People
 ### Trusted Allies
 ### Mortal Adversaries
+[[Nylan Roul]]
 ### Faction Reputation
+[[Druids of Aquan]] *hostile*
 ## Places
 ### Scenarios Changed

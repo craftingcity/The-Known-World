@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for January 4th
+## Party of Interest: [[Cathouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

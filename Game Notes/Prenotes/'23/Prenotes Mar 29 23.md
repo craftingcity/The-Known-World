@@ -3,7 +3,8 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for March 29th
+## Party of Interest: [[Cathouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
