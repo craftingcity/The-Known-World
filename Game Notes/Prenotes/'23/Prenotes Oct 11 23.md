@@ -5,6 +5,7 @@ aliases:
 ---
 
 # Prenotes for October 11th
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

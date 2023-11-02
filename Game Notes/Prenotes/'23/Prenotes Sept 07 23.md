@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for September 7th
+## Party of Interest: [[Cathouse Game#Kade-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
