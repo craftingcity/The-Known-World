@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Hoogberg
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 

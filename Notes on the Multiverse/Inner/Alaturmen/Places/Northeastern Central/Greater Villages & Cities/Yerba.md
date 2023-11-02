@@ -5,7 +5,7 @@ aliases:
 # Yerba
 #### The Tearoom of Arthur's Kingdom
 ## Holding of [[Noble House a'LeQuinn]]
-### Located in {Region}, X:Y
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 "The world began in Yerba, and it continues to revolve around it."
@@ -16,6 +16,8 @@ Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built o
 
 ### Background
 ## Important Places & Symbolism
+
+
 
 ## Economics
 |                  | # of Traders |                |     |                 |     |     |
