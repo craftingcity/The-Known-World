@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for *date*
+## Party of Interest: /*LINK*/
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -13,6 +14,7 @@ aliases:
 
 ### Intro
 
+When last we left our heroes...
 
 ### What does the World Know?
 

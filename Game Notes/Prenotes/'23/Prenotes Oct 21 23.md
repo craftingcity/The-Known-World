@@ -5,6 +5,7 @@ aliases:
 ---
 
 # Prenotes for October 21th
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -35,5 +36,5 @@ Might run into Moses at Q16 if the timing works out;
 	- They will break camp at dawn, and keep moving North-East.
 - Timing doesn't really work out.
 
-Paulo heard about the party's experiences in the [[Abyss]] and [[Thanatos]]; Paulo has written up a report about what Gringold, Dae Shim, Shu Ameda said and asked about, including Moses the Brave, the Worldbinding, and pursuing a further alliance with the direct goal of martially opposing the [[Its Greatness|White Flame]]
+Paulo heard about the party's experiences in the [[Abyss]] and [[Thanatos]]; Paulo has written up a report about what Gringold, Dae Shim, Shu Ameda said and asked about, including Moses the Brave, the Worldbinding, and pursuing a further alliance with the direct goal of martially opposing the [[Its Greatness|White Flame]].
 

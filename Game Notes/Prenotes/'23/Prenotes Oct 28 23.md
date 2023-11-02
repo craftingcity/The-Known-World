@@ -13,7 +13,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had arrived in the city of [[Boneborn]], named for it's massive bone-plate walls that keep its citizens safe. The date is currently the 13th of Resowing, and you know that the profane festivities of the [[Annual Boneborn Bash]] will occur on the 8th of Weeding. 
 
 With over twenty days until the festivities commence, you have ample time to investigate any connections to the globalized Infernal Cults and or explore the surrounding areas.
@@ -56,4 +55,4 @@ Simon
 
 Nala is the lone survivor. Everyone else has been petrified and is moved into the Bag of Many Rooms. We end the session with Nala researching and the Basalisk corpses in the Freezer room too.
 
-Be sure to mark the territory as a Basalisk Lair
+Be sure to mark the territory ([[Reugb Marshes#AH26. Basalisk's Acacia Garden]], AH26) as a Basalisk Lair

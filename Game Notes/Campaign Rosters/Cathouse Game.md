@@ -4,20 +4,29 @@ aliases:
 ---
 
 # Adventures of "Koshachiy Domik"
-## People
-Dae Shim
+## Active Characters
+### Kade-Side
 Dot
-Shu
-Ren (formerly, retired)
 Vix
-Daelith (kia)
-Moses the Brave (formerly? acting as independent)
-Gringold
+Daelith
 Inec
+### Millie-Side
+Dae Shim
+Shu Ameda
+Gringold
+Penne
+### Independant
+Ren (formerly, retired)
+Moses the Brave
+
+
 
 ### Trusted Allies
 ### Mortal Adversaries
+
 ### Faction Reputation
+[[Slimknives]] *interested*
+[[Harvord Trading Company]] *hostile*
 ## Places
 [[Yerba]], [[Thanatos]]
 ### Scenarios Changed

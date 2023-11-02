@@ -15,3 +15,15 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 ##### Locals
 #### The Circus Show
 #### 
+
+##### The 105th Year and the Summoning of [[Hannah's Demon (Celaena)|Celaena]]
+The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the [[Abyss]], very generically, to summon a large gathering of Demons, including [[Hannah's Demon (Celaena)]]. 
+
+- Fireworks Show will become a bloodbath
+	- The companies will move on before the end of the day, leaving only the locals and independents
+	- The non-local merchants have significant protection or a cultist's blade
+	- The fireworks show is the most popular event of the evening
+- A bloodbath will open a portal from the [[Abyss]]
+	- Recently the wildlands have been giving things back / acting thinner
+	- Blood can act as a inter-planar connector
+	- We have drawn the ire of the Demons 
