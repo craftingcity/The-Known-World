@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Paulo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,12 +118,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "November 01 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "November 01 23.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "November 01 23.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md"
               }
             }
           },
@@ -256,10 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8a49eba1daa21d0",
+  "active": "80c3f2d559f1ebd3",
   "lastOpenFiles": [
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
     "November 01 23.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 28 23.md",
