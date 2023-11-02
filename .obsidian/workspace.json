@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0acdfea7e16cd251",
+        "id": "644034cc0cf4516f",
         "type": "tabs",
         "children": [
           {
-            "id": "52f35bc3c213b92d",
+            "id": "93a4d650bfa256ac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,18 +16,27 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/November 01 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b63ab3113d469dd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Arthur's Prairie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":91},\"to\":{\"line\":46,\"ch\":91}},\"scroll\":36.172036858986466}"
-                },
-                {
-                  "title": "Sinazel Ambonas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":9},\"to\":{\"line\":28,\"ch\":9}},\"scroll\":7.7403452953846035}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -41,7 +50,7 @@
             }
           },
           {
-            "id": "509bd936abba9625",
+            "id": "2617862e3676f523",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,7 +64,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72acbcce71d0344b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +148,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
               }
             }
           },
@@ -256,20 +287,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "509bd936abba9625",
+  "active": "b63ab3113d469dd8",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Hoogberg.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
+    "Game Notes/Prenotes/'23/November 01 23.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Hoogberg.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "November 01 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md",
@@ -282,7 +314,6 @@
     "Game Notes/Prenotes/'23/Prenotes Sept 07 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 30 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md"
+    "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md"
   ]
 }

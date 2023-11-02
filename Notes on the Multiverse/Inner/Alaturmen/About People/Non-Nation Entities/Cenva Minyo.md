@@ -18,6 +18,8 @@ After the burning, those that learned to survive began to regroup in the [[Actst
 Cenva Minyo has a longstanding treaty with the [[Dwarven Kingdom Actstow]].
 
 ## Governance
+[[Yahlin]]'s Eldare is named Raam ben Yarom
+
 ## Culture
 #### Heritage
 #### Language
