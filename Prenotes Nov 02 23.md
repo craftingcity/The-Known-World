@@ -48,3 +48,6 @@ young basilisk hunting
 18, 28, 43, 64
 
 Nala upgrades the Bag of Rooms Alchemist's Lab, and Jerran makes 4 Basilisk Necklaces
+
+they want to watch the [[Shishkabed]] / stake it out
+they want to talk more to Jameson (of [[Jameson's Magic Choppe]]) about the city at large & more specifically what will occur during the [[Annual Boneborn Bash]].
