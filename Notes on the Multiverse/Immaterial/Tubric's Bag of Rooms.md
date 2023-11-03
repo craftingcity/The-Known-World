@@ -16,10 +16,10 @@
 			- Worldbinding Abyss
 		- Barracks;
 			- room for 8 comfortably
-		- Kitchen;
+		- Kitchen & Freezer;
 		- Library;
 		- Forge;
-		- Pool;
+		- Pool & Spa;
 		- Makeshift Firing Range;
 		- Makeshift Treasure Room;
 		- Makeshift Alchemists Lab;

@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3121b0bd081ac8a",
@@ -274,9 +275,9 @@
   },
   "active": "b28387b80e8def4f",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Prenotes Nov 02 23.md",
     "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+    "Prenotes Nov 02 23.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Game Notes/Game Notes.md",
     "River Borns.md",
     "Game Notes/Mechanics/Mechanics.md",

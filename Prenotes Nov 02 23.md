@@ -30,7 +30,7 @@ Given that the party will move into the night of the 13th (which happens to be t
 
 Nala begins by storing the Basilisks in the Freezer room and her friends in the Garden rooms. 
 
-##### Nala's Potion
+##### Nala's Anti-Petrification Agent
 basalisk venom (form/necrot) 4
 lephora (illusion/form) 1
 aloe (healing/regen) 2
@@ -41,3 +41,5 @@ holy water (mortal/spirit) 3
 2x form
 2x arcana
 2x water
+
+Through process, the party is rev
