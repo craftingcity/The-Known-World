@@ -23,4 +23,5 @@ Much of the leadership of the city is Tabaxi, Kenku, and Triton. Many scaled hum
 ## Important Places & Symbolism
 
 [[Jameson's Magic Choppe]]
+[[Shishkabed]] aka Blanket'n'Skewers
 

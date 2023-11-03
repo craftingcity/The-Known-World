@@ -46,3 +46,5 @@ Through process, the party is re-animated
 
 young basilisk hunting
 18, 28, 43, 64
+
+Nala upgrades the Bag of Rooms Alchemist's Lab, and Jerran makes 4 Basilisk Necklaces

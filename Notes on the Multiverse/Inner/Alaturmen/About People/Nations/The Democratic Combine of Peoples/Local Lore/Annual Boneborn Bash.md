@@ -12,6 +12,7 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 #### The Market
 ##### Companies
 ##### Independents
+Amala's Travelling Exotic Goods
 ##### Locals
 #### The Circus Show
 #### 
