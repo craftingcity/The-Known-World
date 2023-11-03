@@ -1,6 +1,6 @@
 
 		- Greenhouse;
-			- Currently, there are multiple foodstuff growing here, including Potatoes and Carrots.
+			- Currently, there are multiple foodstuff growing here. The alchemical components are of most interest here, and they most recently were tended on the 2nd of Resowing 105AF.
 			- Currently, there are multiple alchemically potent plants growing here:
 				- Witchweed (9x)
 				- Polypore (3x Y, 3x R, 3x B)
@@ -11,9 +11,7 @@
 				- Glowshroom (3x)
 				- Cannabis / Hemp (3x)
 		- Stables;
-			- 3 Horses
 		- Bedroom;
-			- Worldbinding Abyss
 		- Barracks;
 			- room for 8 comfortably
 		- Kitchen & Freezer;
