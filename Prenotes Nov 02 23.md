@@ -27,3 +27,17 @@ Nala - you are the only active member of your party - what do you do?
 Given that the party will move into the night of the 13th (which happens to be the 1st full moon of resowing), Nala has less than 22 days, which is a fine timeline.
 
 ### What happened?
+
+Nala begins by storing the Basilisks in the Freezer room and her friends in the Garden rooms. 
+
+##### Nala's Potion
+basalisk venom (form/necrot) 4
+lephora (illusion/form) 1
+aloe (healing/regen) 2
+foxglove (charm/desist) 2
+2x blue ploy (arcana/water) 2+2
+holy water (mortal/spirit) 3
+
+2x form
+2x arcana
+2x water
