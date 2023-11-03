@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc16d0eb6c66650f",
+        "id": "c3121b0bd081ac8a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea013dc34b5c7984",
+            "id": "b28387b80e8def4f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "celeana",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/CHAR/celeana.png\"}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
+                "file": "Prenotes Nov 02 23.md",
                 "mode": "source",
                 "source": true
               }
@@ -62,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paulo",
+                "query": "q16",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,39 +83,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "cbec8d355f0ab40c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6f2a230f3bfc703",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -146,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
+                "file": "Prenotes Nov 02 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
+                "file": "Prenotes Nov 02 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md"
+                "file": "Prenotes Nov 02 23.md"
               }
             }
           },
@@ -255,34 +223,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea013dc34b5c7984",
+  "active": "b28387b80e8def4f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Game Notes/Prenotes/'23/November 01 23.md",
-    "Game Notes/Campaign Rosters/Sarahouse Game.md",
-    "Game Notes/Campaign Rosters/Milliehouse Game.md",
-    "MEDIA/CHAR/celeana.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Forests of Actsow/Yahlin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Forests of Actsow/Onehana.md",
-    "November 01 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
-    "Alaturmenian Travel Table.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Khoghull.md",
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 28 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 19 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md",
-    "Game Notes/Prenotes/'22/Prenotes Oct 14 22.md",
-    "Game Notes/Prenotes/'22/'22.md",
-    "Game Notes/Prenotes/Prenotes.md",
+    "Prenotes Nov 02 23.md",
     "Game Notes/Game Notes.md",
+    "River Borns.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Prenotes/'23/November 01 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
+    "MEDIA/CHAR/celeana.png",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Hoogberg.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Dwarven (language).md"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md"
   ]
 }
