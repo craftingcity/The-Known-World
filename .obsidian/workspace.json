@@ -4,6 +4,33 @@
     "type": "split",
     "children": [
       {
+        "id": "62fb5ae82a84525e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52b1e564659111f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c3121b0bd081ac8a",
         "type": "tabs",
         "children": [
@@ -225,6 +252,7 @@
   },
   "active": "b28387b80e8def4f",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Prenotes Nov 02 23.md",
     "Game Notes/Game Notes.md",
     "River Borns.md",
@@ -250,7 +278,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "Game Notes/Prenotes/'23/'23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Sept 27 23.md"
+    "Game Notes/Prenotes/'23/Prenotes Sept 28 23.md"
   ]
 }
