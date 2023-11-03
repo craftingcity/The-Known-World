@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa9eefd2b517aaf",
+        "id": "bc16d0eb6c66650f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1860dc0f4968a83",
+            "id": "ea013dc34b5c7984",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "celeana",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/CHAR/celeana.png\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -136,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md"
+              }
             }
           },
           {
@@ -241,8 +255,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbec8d355f0ab40c",
+  "active": "ea013dc34b5c7984",
   "lastOpenFiles": [
+    "MEDIA/CHAR/celeana.png",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Forests of Actsow/Yahlin.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Forests of Actsow/Onehana.md",
     "November 01 23.md",

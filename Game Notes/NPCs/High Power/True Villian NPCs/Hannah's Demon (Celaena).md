@@ -5,19 +5,21 @@ aliases:
 ---
 # Celaena
 ## Princess of Darkness
-## Mistress of Howling Keep
-## Warden of the Bellowing Hills
+## Mistress of [[Howling Keep]]
+## Warden of the [[Bellowing Hills]]
 ### she/her
-
-> Boxtext for an action, outfit, and a physical trait.
+![[celeana.png]]
+> A wine purple demon with dark red horns and eyes, she wears a elegant midnight-sky-black dual-slit dress that shines in the torchlight of the room. Lazily held in her 
 
 A description of their function in the world.
 
 ## Roleplaying
 - Very Hot
+- daddy didnt pay enough attention to me
 ### Quote
 
 ### Mannerism & Disposition
+Any mortals who wish to be with me must eliminate all of their old life.
 
 ### Background
 #### Early Life
