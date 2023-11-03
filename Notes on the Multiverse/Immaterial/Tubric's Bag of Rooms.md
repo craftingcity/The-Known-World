@@ -20,5 +20,5 @@
 		- Pool & Spa;
 		- Makeshift Firing Range;
 		- Makeshift Treasure Room;
-		- Makeshift Alchemists Lab;
+		- Alchemists Lab (+1); 
 		- Blanks;

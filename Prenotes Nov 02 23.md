@@ -42,4 +42,7 @@ holy water (mortal/spirit) 3
 2x arcana
 2x water
 
-Through process, the party is rev
+Through process, the party is re-animated
+
+young basilisk hunting
+18, 28, 43, 64
