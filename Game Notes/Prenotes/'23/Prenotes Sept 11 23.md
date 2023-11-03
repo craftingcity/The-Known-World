@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for September 11th
+## Party of Interest: [[Milliehouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

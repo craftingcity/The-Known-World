@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for February 22nd
+## Party of Interest: [[Cathouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

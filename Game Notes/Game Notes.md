@@ -4,10 +4,10 @@ connect to [[Notes on the Multiverse]]
 %% Begin Waypoint %%
 - **Campaign Rosters**
 	- [[Cathouse Game]]
-	- [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
-	- [[Party of Grandparents House]]
+	- [[Milliehouse Game]]
+	- [[Sarahouse Game]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 
 %% End Waypoint %%

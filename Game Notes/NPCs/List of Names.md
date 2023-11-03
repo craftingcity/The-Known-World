@@ -37,7 +37,7 @@ Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf
 Erez ben Yaroslav | Sar-El ben Haleli
 Joanne ben Nehorai | Tzemach ben Jean
-Raam ben Yarom | Noam ben Matar
+x | Noam ben Matar
 Colin ben Liyam | Talma ben Doriel
 Li Tal ben Eli Ran | Shirley ben Hadas
 Petel ben Mattan-El | Lilach ben Meshulam

@@ -4,6 +4,7 @@ aliases:
 ---
 
 # Prenotes for May 17th
+## Party of Interest: [[Cathouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

@@ -5,6 +5,7 @@ aliases:
 ---
 
 # Prenotes for October 23rd
+## Party of Interest: [[Milliehouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

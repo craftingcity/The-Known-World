@@ -5,6 +5,7 @@ aliases:
 ---
 
 # Prenotes for October 19th
+## Party of Interest: [[Sarahouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

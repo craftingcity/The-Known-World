@@ -3,7 +3,8 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for August 2nd
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

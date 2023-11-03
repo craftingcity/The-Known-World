@@ -2,7 +2,7 @@
 tags: notes
 aliases:
 ---
-# Prenotes for August 26th, SESSION 1: [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
+# Prenotes for August 26th, SESSION 1: [[Sarahouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

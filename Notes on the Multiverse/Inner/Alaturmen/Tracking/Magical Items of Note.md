@@ -77,7 +77,7 @@ aliases:
 
 - The Tuber
 	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
-	- Currently located with [[Nala, Ulfgar, Jerran, & Breenabell Roster]]
+	- Currently located with [[Sarahouse Game]]
 
 - A Trophied Tail of a Horrible Beast
 	- > A ten-foot long black tail pointed into a sharp pointed barb at the end, the upper half of this terrifying spear is covered in small black needles. Two sections of the lower half have been carved away to fit a pair of gauntleted hands snugly in their grips. Enchanted by [[Qiell Tilemundon]].
@@ -90,7 +90,7 @@ aliases:
 - Worldbinding 
 	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate between one of the 9 major-non-material planes and Alaturmen.
 	- The Worldbinding to the [[Plane of Fire]] is held in [[Kakurak]]'s [[Who has a Horde|horde]].
-	- The Worldbinding to the [[Abyss]] is held by [[Nala, Ulfgar, Jerran, & Breenabell Roster]].
+	- The Worldbinding to the [[Abyss]] is held by [[Sarahouse Game]].
 	- The Worldbinding to the [[Feywild]] is held in the depths of [[The Old|Minyostalma]].
 
 ## Armor
