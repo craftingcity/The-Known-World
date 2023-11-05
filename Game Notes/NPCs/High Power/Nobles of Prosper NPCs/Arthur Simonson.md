@@ -18,7 +18,7 @@ He is happy to work with known adventurers and has many agents within the [[Guil
 
 Artie "fell into" becoming the King of [[The Kingdom of Prosper|Prosper]]; As a youngling, he saw the horrors of the uncivilized world. Much of his family and friends were maimed, killed, or otherwise harmed by the [[Bandit Lords]], more specifically Lord [[Edward Bodaim]] of Prosper.
 
-He used this to fuel his passion for adventure and when he became powerful enough to do so, he [[Unification|liberated]] the many holdings in the [[The Kingdom of Prosper|northeast]] alongside [[Simonson's Adventuring Party|his adventuring party]]. These holdings heralded him as their savior and, needing the new management, he became their King.
+He used this to fuel his passion for adventure and when he became powerful enough to do so, he [[Unification|liberated]] the many holdings in the [[The Kingdom of Prosper|northeast]] alongside [[Simonson's Adventuring Party|his adventuring party]]. These holdings heralded him as their savior. He and his wrote the [[Carta Prosperitatis]], and he became the King of [[The Kingdom of Prosper|Prosper]].
 
 He has, during his rule, shaped his new kingdom into an honest, hard-working, and fairly equitable place. He heralds progress so-far-unseen by any other faction in [[Alaturmen]], specifically regarding military-magical technology.
 
