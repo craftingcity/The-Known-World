@@ -83,9 +83,34 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b28ee8c1edfb54e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd14ca20169ae62a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,7 +249,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a4bba8e409ca3f3",
+  "active": "b28ee8c1edfb54e0",
   "lastOpenFiles": [
     "Prenotes Nov 02 23.md",
     "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
