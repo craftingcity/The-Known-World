@@ -19,4 +19,4 @@ She was instrumental in the Quest for [[Bardaux]], as it was their information t
 The Wizard in Blue appears where they are needed. They most often spend time in bars and taverns monitoring local magical usage.
 
 ## Statistics
-In the time around [[The Assault of the Giant Dissenters]], Nicolas is chronologically about **REDACTED**, and has the magical power of a 21st level spellcaster.
+In the time around [[The Assault of the Giant Dissenters]], Blue is chronologically about **REDACTED**, and has the magical power of a 21st level spellcaster.
