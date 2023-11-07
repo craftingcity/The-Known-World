@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e6e85e9b89e07dc",
+        "id": "b3291acca7bc28e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b86303fdbbb68541",
+            "id": "23bdaf26e4a5d2e6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,8 +250,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b86303fdbbb68541",
+  "active": "23bdaf26e4a5d2e6",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
+    "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
+    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
@@ -269,7 +268,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
     "Game Notes/Prenotes/'23/Prenotes November 01 23.md",
     "River Borns.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
@@ -280,13 +278,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Jameson's Magic Choppe.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "ORGANIZATION/ORGANIZATION.md",
     "MEDIA/CHAR/celeana.png"
   ]
 }
