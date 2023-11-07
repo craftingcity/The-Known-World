@@ -91,7 +91,7 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite, both for food and other vices. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
