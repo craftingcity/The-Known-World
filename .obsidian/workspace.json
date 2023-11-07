@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "650945faffe76802",
+        "id": "2543fa4ecdcf8d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "33e7e57df6b37f60",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "887bb111431492e8",
+            "id": "1d9466f9e1cbc3bc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,72 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Tetrimoc's Tournament of Glory",
+                  "title": "Arthur's Knights",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":38},\"to\":{\"line\":22,\"ch\":38}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "951246362aa5a124",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cbd3360bfd6dd44a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dampguard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep-Guardian Tactical Security Company.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep-Guardian Tactical Security Company.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep-Guardian Tactical Security Company.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep-Guardian Tactical Security Company.md"
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
               }
             }
           },
@@ -334,15 +264,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbd3360bfd6dd44a",
+  "active": "1d9466f9e1cbc3bc",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard.md",
-    "Deep-Guardian Tactical Security Company.md",
-    "deep.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
+    "Deep-Guardian Tactical Security Company.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard.md",
+    "deep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md",
     "Hannah's Gnoll (NAME).md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
@@ -360,8 +292,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
-    "Notes on the Multiverse/Outer/Limbo/Queen of Swords.md",
-    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]
