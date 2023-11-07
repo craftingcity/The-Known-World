@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2543fa4ecdcf8d1d",
+        "id": "34e99b1f680a26bd",
         "type": "tabs",
         "children": [
           {
-            "id": "1d9466f9e1cbc3bc",
+            "id": "be9bbef9867a4dd7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Arthur's Knights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":38},\"to\":{\"line\":22,\"ch\":38}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "mode": "source",
                 "source": true
               }
@@ -62,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           },
@@ -264,8 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d9466f9e1cbc3bc",
+  "active": "be9bbef9867a4dd7",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
@@ -276,7 +271,6 @@
     "deep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md",
     "Hannah's Gnoll (NAME).md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
@@ -291,7 +285,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/Inner/Feywild/Jabbawok.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]

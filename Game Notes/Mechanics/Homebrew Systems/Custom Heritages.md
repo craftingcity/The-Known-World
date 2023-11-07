@@ -270,7 +270,7 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 
 ![[pisky.png]]
 
-People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
+People with a heavy Pisky heritage find themselves in possession of what seems to be miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
 
 - *Weight* You may weigh anywhere from 15 to 25 pounds.
 - You may be 2 to 3 feet tall. Your size is Small.
