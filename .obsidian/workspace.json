@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3291acca7bc28e6",
+        "id": "16032e00f0d167ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a48528e86b4e4ef7",
+            "id": "be326e58de9e5f53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,34 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Nov 02 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 02 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "'23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.92568197358477}"
-                },
-                {
-                  "title": "Prenotes Oct 28 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 28 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -166,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,13 +249,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a48528e86b4e4ef7",
+  "active": "be326e58de9e5f53",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 28 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
@@ -302,7 +277,6 @@
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
     "Game Notes/NPCs/zDeceased/Guraxlog.md",
-    "ORGANIZATION/Methods of Organization.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]
