@@ -10,5 +10,6 @@ aliases:
 [[Nylan Roul]]
 ### Faction Reputation
 [[Druids of Aquan]] *hostile*
+[[Bulgpim Clan]] *positive*
 ## Places
 ### Scenarios Changed

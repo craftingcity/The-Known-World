@@ -24,3 +24,14 @@ With as little information as you have, what is your next step?
 [[Wheernat Clan]] rules the [[Wheernat Hillkeep]]. 
 
 ### What happened?
+
+they are travelling from [[Emorin's Plots]] to [[Wheernat Hillkeep]]
+
+P30 is a darksteel pylon to network the guild's magic
+
+fight at L29 unseelie mush put
+
+Fae
+Zeldris
+Elenor
+Basil 

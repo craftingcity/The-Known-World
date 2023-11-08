@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6379b6f0e3d9fd",
+        "id": "547c4c42d07c5b60",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8b6f65399ddbf5",
+            "id": "f55c4ffbf749b2ff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,52 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Mechanics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Game Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Custom Cultures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Golopak (language)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Golopak (language).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Prenotes Nov 06 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 06 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":3},\"to\":{\"line\":33,\"ch\":3}},\"scroll\":7.70131481145199}"
-                },
-                {
-                  "title": "Prenotes Oct 30 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 30 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.216385025608829}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -175,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,9 +199,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Notes on the Multiverse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,8 +240,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b8b6f65399ddbf5",
+  "active": "f55c4ffbf749b2ff",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
@@ -312,7 +269,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "River Borns.md",
-    "ORGANIZATION/ORGANIZATION.md",
     "MEDIA/CHAR/celeana.png"
   ]
 }
