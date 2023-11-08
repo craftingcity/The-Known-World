@@ -15,6 +15,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Asmodeus]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
+- [[Hannah's Gnoll (NAME)]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -65,6 +66,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Toor, of Killskull]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
+	- [[River Borns]]
 - **zDeceased**
 	- [[Big Buster]]
 	- [[Darwine Evon]]

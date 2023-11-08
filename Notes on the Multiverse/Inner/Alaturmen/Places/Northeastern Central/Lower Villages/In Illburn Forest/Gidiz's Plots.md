@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Gidiz's Plots
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Emorin Clan]]
+### Located in [[Gumlpin]], X:Y
 ## Description
 ### Quote
 
