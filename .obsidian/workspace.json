@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "240b3892c95ce21f",
+        "id": "bf210edee4e53f13",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4799f3ff5c1b12",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c46ad3bfdcb1563",
+            "id": "26c53d6ca37c7a67",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,14 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 08 23.md",
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -166,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Nov 08 23.md",
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Nov 08 23.md",
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Nov 08 23.md"
+                "file": "Spike's Characters/Erin 'Fox' Bathal.md"
               }
             }
           },
@@ -275,7 +258,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c46ad3bfdcb1563",
+  "active": "26c53d6ca37c7a67",
   "lastOpenFiles": [
     "Prenotes Nov 08 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",

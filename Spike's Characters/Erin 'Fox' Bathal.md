@@ -83,4 +83,8 @@ Our camp is smoking, and we can smell burning flesh; Fox, Arae, Spencer, and Bar
 
 Boar and Sparrow are probably okay, none of their gear is on any of the corpses or around the camp. 
 
+###### Leaving the Jungle I
 The party is going to move on, heading back the way we came, back to the town we came from. We start immediately, and continue walking through the night. During our travel along the river, we are set upon by three giant dragonflies, and with minor damage, we defeated them.
+
+##### Session Six; 11/7/23
+###### Leaving the Jungle II
