@@ -54,5 +54,8 @@ The administration of the city, including offices of the many minor and major Gu
 #### The Golden Ward
 The [[Golden Ward]] stands as the hall of the merchants, where no item can't be found, so they say.
 
+### The Lake of Eternal Life
+#### The Lake Communities & Greater Triton Communications
+
 ## Governance
 The city itself is governed by an elected body of [[Parlement]], formed from representatives of each Ward. In an effort to keep peace in the Known World, the City hosts [[Communicaes]] in the Winter and the Summer where each of the surrounding entities (each of the four "nations") and the City itself come together to create a communicative and cooperative council. During the communicaes, representatives of smaller groups (such as a party, company, or otherwise) come to the council to air their concerns or comments.

@@ -91,7 +91,7 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite, both for food and other vices. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -270,7 +270,7 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 
 ![[pisky.png]]
 
-People with a heavy Pisky heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
+People with a heavy Pisky heritage find themselves in possession of what seems to be miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
 
 - *Weight* You may weigh anywhere from 15 to 25 pounds.
 - You may be 2 to 3 feet tall. Your size is Small.
