@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "888a0760f619b299",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Outer/Limbo/Limbo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Outer/Limbo/Limbo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/Outer/Limbo/Limbo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+                "file": "Notes on the Multiverse/Outer/Limbo/Limbo.md"
               }
             }
           },
@@ -257,8 +279,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3794ed6f0335379",
+  "active": "888a0760f619b299",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
@@ -283,7 +306,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

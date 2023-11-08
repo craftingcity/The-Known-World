@@ -158,16 +158,16 @@ These are the most common household gods.
 ## Outer Planar Rulers
 Some beings are so powerful that while they are not technically gods, as they are not born from the consciousnesses of mortals, but may as well be considered "at the same level" regarding power or ability. Many of the most ancient planar rulers were born in the [[Timeline#The Time Before Time]].
 
-#### Demogorgon, the Demon King of the Abyss
+#### [[Demogorgon]], the Demon King of the [[Abyss]]
 [[Demogorgon]] is the most powerful demon in the [[Abyss]].
 
-#### Asmodeus, the Grand Arch-Devil of Nessus and All Baator
+#### [[Asmodeus]], the Grand Arch-Devil of Nessus and All [[Baator]]
 [[Asmodeus]] rules [[Nessus]] and is the top of the hierarchy of [[Baator]].
 
-#### The Queen of Swords
-The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
+#### The [[Queen of Swords]]
+The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]]. She keeps the place clean and civil - and free of worship of any kind.
 
-#### /*[[Elysium]]*/
+#### [[Annaraura]], Daughter of Fate and Keeper of [[Elysium]]
 
 
 #### /*[[Mechanis]]*/
@@ -177,5 +177,5 @@ The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]].
 #### Jabbawok and the Ceilie Courts
 The [[Feywild]] is ruled by a powerful fey who holds the name [[Jabbawok]]. [[Jabbawok]] makes deals with the [[Ceilie Courts]] of the seasonal fey to control the general population of the [[Feywild]].
 
-#### Lolth
-The [[Underdark]] is culturally and theocratically ruled by the viscous misandrist [[Lolth]].
+#### Lolth and the Crawling King
+The [[Underdark]] is culturally and theocratically ruled by the viscous misandrist [[Lolth]]. She personally hunts the abomination known as the "[[Crawling King]]" in an attempt to take his crown from him, but his incessant and chaotic tunneling leave him just beyond her reach at any given time.
