@@ -28,7 +28,8 @@ aliases:
 - **[[The Democratic Combine of Peoples]]**
 	- **Factions**
 		- [[Beasts Righteous]]
-		- [[Dampguard]]
+		- **[[Dampguard]]**
+			- [[Deep-Guardian Tactical Security Company]]
 		- [[Five Pike]]
 		- [[Grovetenders]]
 		- [[Hillkeep Loyalists]]
