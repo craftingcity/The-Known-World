@@ -5,10 +5,10 @@ aliases:
 ---
 # River Borns
 ## aka Leighton Mitchell
-## Titles
+## the Orignial Gringold
 ### pronouns
 
-> Boxtext for an action, outfit, and a physical trait.
+> A handsome human man with a set of golden fangs. Con Artist extraordinare.
 
 A description of their function in the world.
 

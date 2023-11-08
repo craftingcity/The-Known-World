@@ -2,7 +2,7 @@
 tags: text
 aliases:
 ---
-# Carta Prosperitatis (King's Common)
+# Carta Prosperitatis ([[Arthurian (language)]])
 1. latronem dominos occidimus et nos liberavimus; ius proprium habemus.
 2. terrae prosperitatis sunt bona regis, et tenementa liberorum ejus.
 3. unus tredecim ad regnum; unus duodecim ad exercitum; unus undecim ad proximum.
