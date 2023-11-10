@@ -11,8 +11,8 @@ Bag-head bandits.
 
 a cavernous meteiorite
 
-# The Hack
-## To-Do
+### RHOD
+##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
 - Sources & Delins
 	- Elemental
@@ -104,3 +104,4 @@ Magical Traps | https://thealexandrian.net/wordpress/12909/roleplaying-games/tho
 		- Vix
 			- "nothing to live for"
 				- find a way to bring back the lil homie
+

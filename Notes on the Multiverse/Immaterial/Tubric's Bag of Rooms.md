@@ -1,19 +1,22 @@
 
 		- Greenhouse;
-			- Currently, there are multiple foodstuff growing here. The alchemical components are of most interest here, and they most recently were tended on the 2nd of Resowing 105AF. 
+			- Currently, there are multiple foodstuff growing here. The alchemical components are of most interest here, and they most recently were tended on the 2nd of Weeding 105AF. 
 			- Each plant can be harvested twice a month on a DC12 Survival or higher. When left unattended for 3 or more half-months, the plants will all die, and the garden will become overgrown.
 			- Currently, there are multiple alchemically potent plants growing here:
-				- Witchweed (9x)
-				- Polypore (3x Y, 3x R, 3x B)
-				- Aloe Vera (3x)
-				- Dragons Tounge (3x)
-				- Lephora Fruit (3x)
-				- Nightshade (3x)
-				- Glowshroom (3x)
-				- Cannabis / Hemp (3x)
+				- Witchweed (18x)
+				- Polypore (6x Y, 6x R, 6x B)
+				- Aloe Vera (6x)
+				- Dragons Tounge (6x)
+				- Lephora Fruit (6x)
+				- Nightshade (6x)
+				- Glowshroom (6x)
+				- Cannabis / Hemp (6x)
+				- Harrada (4x)
+				- Foxglove (4x)
+				- Lavander (4x)
 		- Corpse Room;
-			- Same rules as the Greenhouse, the following are growing here. Most recently tended on the 16th of Resowing 105AF.
-				- Undead Moss (3x)
+			- Same rules as the Greenhouse, the following are growing here. Most recently tended on the 2nd of Weeding 105AF.
+				- Undead Moss (4x)
 		- Stables;
 		- Bedroom;
 		- Barracks;
