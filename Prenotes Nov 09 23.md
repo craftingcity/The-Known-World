@@ -22,5 +22,6 @@ What do you do?
 
 ### What does the World Know?
 
+We're mostly running from last week's notes and improv. 
 
 ### What happened?

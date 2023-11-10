@@ -11,11 +11,22 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 ### The Festivities
 #### The Market
 ##### Companies
+[[Guild of Merchants]]
+[[Northstone Family Trading Company]]
+[[Emorin Carriage Fellowship]] & Subsidiaries
+[[Gormit's Carts]]
+[[Wealth of the Chosen]]
+[[Ammarin Transportation]] & Subsidiaries
+[[Hillstone Trading Company]]
+[[Mossburg Corporation]]
 ##### Independents
 Amala's Travelling Exotic Goods
 ##### Locals
+[[Jameson's Magic Choppe]]
 #### The Circus Show
-#### 
+#### The Musical Performances
+#### The Feast of the Beasts
+#### The Fireworks
 
 ##### The 105th Year and the Summoning of [[Hannah's Demon (Celaena)|Celaena]]
 The whole point of the Bash for the Infernal Cults is to open up a temporary connection to the [[Abyss]], very generically, to summon a large gathering of Demons, including [[Hannah's Demon (Celaena)]]. 
