@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for November 8th
+# Prenotes for November 10th
 ## Party of Interest: [[Cathouse Game#Kade-Side]]
 - [ ] DM Screen
 - [ ] Notepaper

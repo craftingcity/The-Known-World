@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73adc2e05358f2f5",
+        "id": "e940bd8dfce30709",
         "type": "tabs",
         "children": [
           {
-            "id": "8eec138c21e45d73",
+            "id": "8207a4e901d462ae",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,11 +20,37 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9dd17f7b89253d85",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Nov 09 23.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Nov 09 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Nov 09 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +236,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Nov 09 23.md"
+              }
             }
           },
           {
@@ -249,8 +279,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8eec138c21e45d73",
+  "active": "9dd17f7b89253d85",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
+    "Prenotes Nov 09 23.md",
+    "Prenotes Nov 10 23.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
     "Notes on the Multiverse/Outer/Limbo/Limbo.md",
@@ -258,7 +291,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
-    "Prenotes Nov 08 23.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
     "Game Notes/NPCs/Weak Power/River Borns.md",
     "Game Notes/NPCs/Hannah's Gnoll (NAME).md",
@@ -276,8 +308,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/Tetrimoc's Tournament of Glory.md",
     "Hannah's Gnoll (NAME).md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]
