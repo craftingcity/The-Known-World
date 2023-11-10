@@ -88,3 +88,4 @@ The party is going to move on, heading back the way we came, back to the town we
 
 ##### Session Six; 11/7/23
 ###### Leaving the Jungle II
+Four folks wearing the tribal wear and clubs that we saw before walked into our camp and refused to communicate with us. We killed them. We kept moving into town.

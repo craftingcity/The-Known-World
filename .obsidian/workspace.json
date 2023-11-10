@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2060823c4a5107d",
+        "id": "73adc2e05358f2f5",
         "type": "tabs",
         "children": [
           {
-            "id": "d3794ed6f0335379",
+            "id": "8eec138c21e45d73",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,43 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ec30a1623352ae4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Limbo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Outer/Limbo/Limbo.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":188},\"to\":{\"line\":2,\"ch\":188}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -285,7 +249,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec30a1623352ae4b",
+  "active": "8eec138c21e45d73",
   "lastOpenFiles": [
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
