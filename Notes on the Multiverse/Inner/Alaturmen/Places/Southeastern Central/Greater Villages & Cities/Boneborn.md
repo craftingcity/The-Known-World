@@ -31,3 +31,6 @@ Much of the leadership of the city is Tabaxi, Kenku, and Triton. Many scaled hum
 ##### The Outskirts (by the Walls)
 [[Shishkabed]] aka Blanket'n'Skewers
 
+
+
+The battle is to begin as the dark sky alights with disorder and chaos.
