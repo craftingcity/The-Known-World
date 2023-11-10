@@ -20,15 +20,17 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 [[Hillstone Trading Company]]
 [[Mossburg Corporation]]
 ##### Independents
-Amala's Travelling Exotic Goods
-[[Lemonfly Goods]] *infernal* (goblin man with nice wide hat is boss)
-[[Bear Paw Entertainment]] *infernal* (colorful cart at fairgrounds)
-[[Bluff's Alchemical Solutions]]
+Amala's Travelling Exotic Goods (2x guard, 1x cultist: "Amala")
+[[Lemonfly Goods]] (6x guard, 1x cultist: "Garage")
+[[Bear Paw Entertainment]] (2x cultist "Hokey & Pokey")
+[[Bluff's Alchemical Solutions]] (4x guard, 4x cultist "Buff, Morgan, Alexander, Rain")
 ##### Locals
 [[Jameson's Magic Choppe]]
 #### The Circus Show
+[[Bear Paw Entertainment]]
 #### The Musical Performances
 #### The Feast of the Beasts
+[[Lemonfly Goods]] *infernal* (goblin man with nice wide hat is boss)
 #### The Fireworks
 
 ##### The 105th Year and the Summoning of [[Hannah's Demon (Celaena)|Celaena]]

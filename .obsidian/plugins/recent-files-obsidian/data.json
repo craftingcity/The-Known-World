@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Annual Boneborn Bash",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md"
-    },
-    {
       "basename": "Prenotes Nov 09 23",
       "path": "Prenotes Nov 09 23.md"
     },
@@ -13,12 +9,20 @@
       "path": "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md"
     },
     {
-      "basename": "Boneborn",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+      "basename": "Annual Boneborn Bash",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md"
     },
     {
       "basename": "Prenotes Nov 02 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md"
+    },
+    {
+      "basename": "Shishkabed",
+      "path": "Shishkabed.md"
+    },
+    {
+      "basename": "Boneborn",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
     },
     {
       "basename": "Lemonfly Goods",
@@ -195,10 +199,6 @@
     {
       "basename": "Guraxlog",
       "path": "Game Notes/NPCs/zDeceased/Guraxlog.md"
-    },
-    {
-      "basename": "Methods of Organization",
-      "path": "ORGANIZATION/Methods of Organization.md"
     }
   ],
   "omittedPaths": [],
