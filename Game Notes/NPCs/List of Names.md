@@ -5,8 +5,8 @@ aliases:
 # List of Names
 Masc | Femme | Neutral
 --------|--------|--------
-Lùcas Crosainson | x | Anabla Niocalsan
-x | Paige Saunders | Glen Stone
+Lùcas Crosainson | Warlis Vara | Anabla Niocalsan
+Jerikaa Zygell | Paige Saunders | Glen Stone
 Weulleachan Kork | Freya Harris | Abraham Yorrik
 x | Hallis Winters | Val Harris
 x | x | Val Stevens
@@ -32,12 +32,12 @@ Qholooji | Aibitiuks | Gnisotruls | Vrarakuuv
 Masc | Femme
 ---|---	
 Xonsu ben Benkaei | Shir Li ben Hafetz Hayim
-x | Yomi ben Ohav
+Math'hias | Yomi ben Ohav
 Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf
 Erez ben Yaroslav | Sar-El ben Haleli
 Joanne ben Nehorai | Tzemach ben Jean
-x | Noam ben Matar
+Jaazah | Noam ben Matar
 Colin ben Liyam | Talma ben Doriel
 Li Tal ben Eli Ran | Shirley ben Hadas
 Petel ben Mattan-El | Lilach ben Meshulam
