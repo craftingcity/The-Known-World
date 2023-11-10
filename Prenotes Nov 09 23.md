@@ -28,3 +28,12 @@ We're mostly running from last week's notes and improv.
 
 After investigation, Nala decided to work on some alchemical preventative; over the next week, she will take 16 to make an anti-necrotic inoculant for [[Boneborn]].
 
+jerran brews...
+##### Jameson's Vitality Potion Recipe
+Aloe 1
+Foxglove 2
+Lavander 1
+Poly Red 2
+Poly Yel 2
+Poly Blue 2
+
