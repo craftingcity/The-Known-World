@@ -37,3 +37,7 @@ Poly Red 2
 Poly Yel 2
 Poly Blue 2
 
+#### TIMESKIP: 4th of Weeding
+There are hundreds of knives and dozens of companies. Nala worked the Goop and Sauce into an antidote for the town and themselves.
+
+[[Alergra Barrowinch]] will want to call them sometime; perhaps the eve of the 4th, to see progress and report her relations with Moses and the worldwide happenings.
