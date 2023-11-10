@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
     },
     {
+      "basename": "Whiteout Enterprises",
+      "path": "Whiteout Enterprises.md"
+    },
+    {
+      "basename": "Lemonfly Goods",
+      "path": "Lemonfly Goods.md"
+    },
+    {
       "basename": "Economics of Combine",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "celeana",
       "path": "MEDIA/CHAR/celeana.png"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
-    },
-    {
-      "basename": "Prenotes Oct 19 23",
-      "path": "Game Notes/Prenotes/'23/Prenotes Oct 19 23.md"
     }
   ],
   "omittedPaths": [],

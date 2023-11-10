@@ -24,6 +24,10 @@ Much of the leadership of the city is Tabaxi, Kenku, and Triton. Many scaled hum
 
 ##### The Markets
 [[Jameson's Magic Choppe]]
+[[Whiteout Enterprises]] *infernal* 
+[[Lemonfly Goods]] *infernal* (goblin man with nice wide hat is boss)
+##### The Parade Grounds
+[[Bear Paw Entertainment]] *infernal* (colorful cart at fairgrounds)
 ##### The Outskirts (by the Walls)
 [[Shishkabed]] aka Blanket'n'Skewers
 
