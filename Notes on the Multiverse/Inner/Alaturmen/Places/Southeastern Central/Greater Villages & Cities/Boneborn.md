@@ -33,4 +33,4 @@ Much of the leadership of the city is Tabaxi, Kenku, and Triton. Many scaled hum
 
 
 
-The battle is to begin as the dark sky alights with disorder and chaos.
+"The battle is to begin as the dark sky alights with disorder and chaos." - [[Coraline Avaati]]
