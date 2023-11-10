@@ -119,7 +119,7 @@
             }
           },
           {
-            "id": "d5a3fa1429f7098d",
+            "id": "a42b49286f809f65",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -133,14 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whiteout Enterprises.md",
+                "file": "Lemonfly Goods.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md"
               }
             }
           },
@@ -369,16 +368,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfa42c41929e6c8c",
+  "active": "8207a4e901d462ae",
   "lastOpenFiles": [
-    "Whiteout Enterprises.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
-    "Lemonfly Goods.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
-    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
     "Prenotes Nov 09 23.md",
+    "Lemonfly Goods.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
+    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+    "Whiteout Enterprises.md",
+    "Yeirruk Fraim.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Prenotes Nov 10 23.md",
@@ -397,7 +397,6 @@
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Ammarin Transportation.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]

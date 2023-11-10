@@ -21,6 +21,9 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 [[Mossburg Corporation]]
 ##### Independents
 Amala's Travelling Exotic Goods
+[[Lemonfly Goods]] *infernal* (goblin man with nice wide hat is boss)
+[[Bear Paw Entertainment]] *infernal* (colorful cart at fairgrounds)
+[[Bluff's Alchemical Solutions]]
 ##### Locals
 [[Jameson's Magic Choppe]]
 #### The Circus Show
