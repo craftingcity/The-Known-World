@@ -25,3 +25,5 @@ With what little information you have, I must put the question to you; What do y
 We're mostly running from last week's notes and improv. 
 
 ### What happened?
+
+After investigation, Nala decided to work on some alchemical preventative; over the next week, she will take 16 to make an anti-necrotic inoculant for [[Boneborn]].
