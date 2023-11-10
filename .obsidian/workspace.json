@@ -29,7 +29,7 @@
             }
           },
           {
-            "id": "888a0760f619b299",
+            "id": "ec30a1623352ae4b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -285,10 +285,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "888a0760f619b299",
+  "active": "ec30a1623352ae4b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Limbo/Limbo.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
+    "Notes on the Multiverse/Outer/Limbo/Limbo.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
@@ -313,7 +314,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]

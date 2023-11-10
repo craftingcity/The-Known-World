@@ -26,4 +26,4 @@ The [[Queen of Swords]] rules this place, and it has a few rules that are enforc
 > Not much was known about the Queen of Swords, because few in the city ever saw her, and those who did never spoke to her, or rather, she never spoke in answer to anyone. There was never any doubt she was real, because she had been seen hovering over the streets of the Tower on many occasions. 
 > Any who tried to interact with her at such times found their skin erupting in bloody wounds when she gazed upon them, ... so it was not considered a good sign if she was heard to be about in the streets. Those who had seen her and lived to tell of it described her as being ensconced in sparkling blades. Eventually, she would vanish again into nothingness. 
 > Whatever she was, she was not mortal.
-> \- 
+> \- [[Paulo San Tymiq]], [[Behind the Fog Wall - A Bard's Guide to the Outlands]]
