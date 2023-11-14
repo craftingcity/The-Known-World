@@ -15,9 +15,10 @@ aliases:
 
 ### Intro
 
-When last we left our heroes 
+When last we left our heroes, they were brutally disarmed and led into a chamber within the gates of the [[Wheernat Hillkeep]], where they now await their hosts. Do you simply wait?
 
 ### What does the World Know?
 
+They are starting in a stone room with one iron grate to the outside and a iron-banded wooden door. There are a force of guards outside in what is known as the "security level", with the rest of the Hillkeep further below.
 
 ### What happened?

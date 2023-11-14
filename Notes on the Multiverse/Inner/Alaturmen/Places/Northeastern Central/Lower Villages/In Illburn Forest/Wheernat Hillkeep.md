@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Wheernat Hillkeep
+#### Camouflage Centralia
+## Holding of [[Wheernat Clan]]
+### Located in [[Illburn Forest]], X:Y
 ## Description
 ### Quote
 
@@ -13,5 +13,6 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
-
+#### Security Level
+The 
 
