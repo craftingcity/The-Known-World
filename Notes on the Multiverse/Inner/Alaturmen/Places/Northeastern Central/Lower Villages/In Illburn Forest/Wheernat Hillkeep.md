@@ -14,5 +14,5 @@ aliases:
 ### Background
 ## Important Places & Symbolism
 #### Security Level
-The 
+The first & outermost level is the security layer. There is an active guardian force bastioned here, while patrols monitor the surrounding areas. There are many arrowslits and tunnels that support the Hillkeep's defensibility.
 
