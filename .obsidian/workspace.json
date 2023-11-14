@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b57d1d06402266a",
+        "id": "c33b3b803b47476c",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9eabb9edfba2d0",
+            "id": "fd83cfbd59e46d66",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,25 +16,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fac4be1bcf05ba90",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "A Grand Notepad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 10 23.md",
+                "file": "Prenotes Nov 13 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Nov 10 23.md",
+                "file": "Prenotes Nov 13 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Nov 10 23.md",
+                "file": "Prenotes Nov 13 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Nov 10 23.md"
+                "file": "Prenotes Nov 13 23.md"
               }
             }
           },
@@ -263,8 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc9eabb9edfba2d0",
+  "active": "fac4be1bcf05ba90",
   "lastOpenFiles": [
+    "Prenotes Nov 13 23.md",
+    "Prenotes Nov 10 23.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
@@ -279,7 +293,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Prenotes Nov 10 23.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
     "Notes on the Multiverse/Outer/Limbo/Limbo.md",
@@ -291,7 +304,6 @@
     "Game Notes/NPCs/Weak Power/River Borns.md",
     "Game Notes/NPCs/Hannah's Gnoll (NAME).md",
     "APGtAv1.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]
