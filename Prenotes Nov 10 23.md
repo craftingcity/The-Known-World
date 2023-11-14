@@ -21,5 +21,6 @@ As we continue north, I will ask the party to decide who will take the lead, and
 
 ### What does the World Know?
 
+Introducing two new characters today from the [[Westlick Mossland]] & [[Eastlick Mossland]]s. Party must have an encounter (vs Druids / Clerics)
 
 ### What happened?
