@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "636b3000cd4098ce",
+        "id": "8151f30e4e57b1be",
         "type": "tabs",
         "children": [
           {
-            "id": "63b7d17cc7358b96",
+            "id": "6376f1df55807103",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Erin 'Fox' Bathal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spike's Characters/Erin 'Fox' Bathal.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":55},\"to\":{\"line\":6,\"ch\":55}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "989ae31ce2034ff0",
+            "id": "e57d6cf8c8567bf7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faction Turn.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
                 "mode": "source",
                 "source": true
               }
@@ -57,6 +51,54 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "61503acab48c41ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7034189b19fd1299",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "215dcce8358a1ae5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faction Turn.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faction Turn.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faction Turn.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md"
               }
             }
           },
@@ -285,18 +327,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "989ae31ce2034ff0",
+  "active": "e57d6cf8c8567bf7",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Faction Turn.md",
-    "Spike's Characters/Erin 'Fox' Bathal.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
-    "Prenotes Nov 13 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+    "Prenotes Nov 13 23.md",
     "Prenotes Nov 09 23.md",
     "conflict-files-obsidian-git.md",
+    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
@@ -310,9 +351,10 @@
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Prenotes Nov 10 23.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Outer/Limbo/Places/The Tower of Limbo.md",
     "Notes on the Multiverse/Outer/Limbo/Limbo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"

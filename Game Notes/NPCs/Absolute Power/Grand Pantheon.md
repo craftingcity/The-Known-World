@@ -29,7 +29,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 
 #### Tauruin
 - Icon: A clenched fist around a large mace
-- Domain: Pride, Oppresion
+- Domain: Pride, Oppression
 - Duty: Power
 - Tenants:
 	- Those who can eat those who cannot
@@ -55,7 +55,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 
 #### Freric and Sophie
 - Icon: Two hands clasped / twin coiled springs
-- Domain: Suprise, Desire/Longing
+- Domain: Suprise, Desire, Longing
 - Duty: mischief
 - Tenants:
 	- Your joy and the joy of yours is the only true meaning in life
@@ -66,7 +66,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Domain: Disgust, Loathing
 - Duty: Disease
 - Tenants:
-	- Your goals are to be reached, and your obstacles removed with permanance
+	- Your goals are to be reached, and your obstacles removed with permanence
 	- Time is the greatest ally you may know
 
 
