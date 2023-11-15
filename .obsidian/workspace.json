@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "603efe88698f99e6",
+        "id": "636b3000cd4098ce",
         "type": "tabs",
         "children": [
           {
-            "id": "daeed9797bd43c30",
+            "id": "63b7d17cc7358b96",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,33 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f37e41cbb5bb832c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -169,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
-              }
+              "state": {}
             }
           },
           {
@@ -278,11 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daeed9797bd43c30",
+  "active": "63b7d17cc7358b96",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Prenotes Nov 13 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
     "Prenotes Nov 09 23.md",
