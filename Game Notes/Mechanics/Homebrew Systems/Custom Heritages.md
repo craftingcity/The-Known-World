@@ -40,7 +40,7 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 - *Weight* You may weigh anywhere from 100 to 200 pounds.
 - You may be anywhere from 3 to 5 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
-- You have advantage on saving throws against effects that charm, paralyze, or deal poison damage.
+- You have advantage on saving throws against effects that charm, paralyze, poison, or deal poison damage.
 - You may add your proficiency bonus to your hit point maximum.
 
 ## Triton
