@@ -98,6 +98,7 @@ The guards give us a little bit of a hard time getting in, they seem weary of ou
 		- Saied:
 			- "Not too many folks come around here that I don't know about ... haven't seen anyone going by those names or looking like you."
 			- "Always have to worry about the Natives; they take captives ... they show up on our doorstep ... take what they want ... they want people who they think can show a good fight."
+			- "One man, works the river more than anything ... Kailen, you can find him on the water in the morning."
 	- Diarf's Smithy
 	- Rita's General Goods
 		- Nice lady, she's got a Travelling section.
