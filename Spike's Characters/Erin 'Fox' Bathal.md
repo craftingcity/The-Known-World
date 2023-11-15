@@ -106,3 +106,5 @@ The guards give us a little bit of a hard time getting in, they seem weary of ou
 		- This guy is strange.
 
 Saied seemed to suggest that if Boar and Sparrow were captured by natives, they would be taken South into the Desert Cities - maybe even specifically *Nevos*.
+
+In an attempt to gain enough money to charter a ship south along the coast towards the desert, we robbed Diarf for a "Godsteel Axe" that was supposedly worth 3500gp.

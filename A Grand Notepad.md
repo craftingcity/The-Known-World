@@ -64,3 +64,4 @@ magical items
 - [[Economy Pages]]
 - [[Magical Items of Note]]
 - [[Books To Write]]
+- [[Faction Turn]]
