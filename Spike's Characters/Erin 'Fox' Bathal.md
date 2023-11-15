@@ -89,3 +89,17 @@ The party is going to move on, heading back the way we came, back to the town we
 ##### Session Six; 11/7/23
 ###### Leaving the Jungle II
 Four folks wearing the tribal wear and clubs that we saw before walked into our camp and refused to communicate with us. We killed them. We kept moving into town.
+
+##### Session Seven; 11/14/23
+###### The City in Keshmala
+The guards give us a little bit of a hard time getting in, they seem weary of outsiders.
+
+	- Keshmala Inn & Tavern
+		- Saied:
+			- "Not too many folks come around here that I don't know about ... haven't seen anyone going by those names or looking like you."
+			- "Always have to worry about the Natives; they take captives ... they show up on our doorstep ... take what they want ... they want people who they think can show a good fight."
+	- Jdorf's Smith
+	- Rita's Magical Goods
+	- Delonious' Emporium
+
+Saied seemed to suggest that if Boar and Sparrow were captured by natives, they would be taken South into the Desert Cities - maybe even specifically *Nevos*.
