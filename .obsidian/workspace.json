@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b57d1d06402266a",
+        "id": "603efe88698f99e6",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9eabb9edfba2d0",
+            "id": "daeed9797bd43c30",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,32 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Nov 09 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 09 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A Grand Notepad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":22},\"to\":{\"line\":11,\"ch\":22}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 13 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "87f969a059f5f8f3",
+            "id": "f37e41cbb5bb832c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,14 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
               }
             }
           },
@@ -291,9 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87f969a059f5f8f3",
+  "active": "daeed9797bd43c30",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Prenotes Nov 13 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
     "Prenotes Nov 09 23.md",
     "conflict-files-obsidian-git.md",
     "A Grand Notepad.md",
@@ -316,10 +307,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
-    "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
-    "Game Notes/NPCs/Weak Power/River Borns.md",
-    "Game Notes/NPCs/Hannah's Gnoll (NAME).md",
-    "APGtAv1.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
   ]

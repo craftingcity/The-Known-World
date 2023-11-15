@@ -3,14 +3,14 @@ tags: npc
 aliases:
 ---
 # Arstovich
-##### True name "lost" to time & curse
+##### True name "lost" to time
 ## Accursed Mother of Vampire Kin
 ### she/her
 #### VO EXAMPLE:
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> A genuine horror. Fur and wings of matte black seem to absorb the light around her. Where you may expect a set of legs or arms, a number of sharp chitinous limbs lend movement and manipulation to this monster.
 
-A description of their function in the world.
+Arstovich is the Mother of all Vampire Kin on Alaturmen.
 
 A politic of theirs that players would interact with.
 
@@ -20,10 +20,10 @@ A goal that this NPC has.
 How that goal could resolve when it is achieved (or failed, if this is considered a genuine possibility).
 
 ## History
-A general history of the character, from their conception to their current state
+(see [[The Arstoviches]])
 
 ## Location
-Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
+West of Mountain Hall, in a Dank Cave.
 
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
