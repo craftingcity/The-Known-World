@@ -98,8 +98,10 @@ The guards give us a little bit of a hard time getting in, they seem weary of ou
 		- Saied:
 			- "Not too many folks come around here that I don't know about ... haven't seen anyone going by those names or looking like you."
 			- "Always have to worry about the Natives; they take captives ... they show up on our doorstep ... take what they want ... they want people who they think can show a good fight."
-	- Jdorf's Smith
-	- Rita's Magical Goods
+	- Diarf's Smithy
+	- Rita's General Goods
+		- Nice lady, she's got a Travelling section.
 	- Delonious' Emporium
+		- This guy is strange.
 
 Saied seemed to suggest that if Boar and Sparrow were captured by natives, they would be taken South into the Desert Cities - maybe even specifically *Nevos*.
