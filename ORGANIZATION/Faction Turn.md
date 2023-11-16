@@ -1,9 +1,9 @@
 ### Second Week of Rebirth, 105AF
-1. Scrivin Blood-Clan
-2. Church of Gromosh
-3. Cannibal Nomads
-4. Bulgpim Blood-Clan
-5. Church of Freric & Sophie
+~~1. Scrivin Blood-Clan~~
+~~2. Church of Gromosh~~
+~~3. Cannibal Nomads~~
+~~4. Bulgpim Blood-Clan~~
+~~5. Church of Freric & Sophie~~
 6. Wheernat Blood-Clan
 7. Circles of Terran
 8. Agrandica's Noble Theives

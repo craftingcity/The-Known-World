@@ -3,7 +3,7 @@ tags: groups,
 aliases:
 ---
 
-# Blood-Hobgoblin Clans
+# Northeastern Blood-Hobgoblin Clans
 ![[KingdomOfProsper-105AF.png]]
 *[[Northeastern Central]] Alaturmen as of 105AF*
 ## History
@@ -38,7 +38,9 @@ A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat 
 
 ## Culture
 #### Heritage
-The Blood-Hobgoblin Clans are composed mostly of, you guessed it, Hobgoblin. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the [[Bandit Lords]].
+The Blood-clans are composed mostly of goblins and humans. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the rule of the [[Bandit Lords]].
+
+After their immediate opposition fell, they turned toward the freshborn [[The Kingdom of Prosper]]. The Clans were not organized enough nor well-equipped enough to push Arthur's forces beyond the borders of the [[Illburn Forest]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, a
 
 #### Language
 Most people in these territories speak both [[Astral Goblin (language)]] and [[Arthurian (language)]].

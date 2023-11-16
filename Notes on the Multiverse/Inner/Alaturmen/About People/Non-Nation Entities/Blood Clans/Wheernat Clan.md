@@ -7,6 +7,7 @@ aliases:
 # Group Name
 ## History
 ## Governance
+
 ## Culture
 #### Heritage
 #### Language
