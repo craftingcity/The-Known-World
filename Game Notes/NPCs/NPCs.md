@@ -54,6 +54,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Gudeliva]]
 		- [[Hektor Salar]]
 		- [[Nylan Roul]]
+		- [[Yeirruk Fraim]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**

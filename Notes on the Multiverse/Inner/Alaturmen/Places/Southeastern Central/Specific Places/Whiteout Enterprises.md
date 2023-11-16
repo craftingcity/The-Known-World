@@ -4,9 +4,9 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Whiteout Enterprises
 ## History
-Owned and operated by [[Yeirruk Fraim]], Whiteout Enterprises has been managing a portion of Boneborn's individual bureaucracies for a number of years.
+Owned and operated by [[Yeirruk Fraim]], Whiteout Enterprises has been managing a portion of [[Boneborn]]'s individual bureaucracies for a number of years.
 
 In the Boneborn Bash of 105AF, a head member (Rorco Grange, Head of Security) of the company was revealed to be affiliated with an Infernal force.
 
