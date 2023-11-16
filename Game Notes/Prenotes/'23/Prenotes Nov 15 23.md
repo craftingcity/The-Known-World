@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they were brutally disarmed and led into a simple stone chamber within the gates of the [[Wheernat Hillkeep]], of which you saw very little. You now await your hosts, in this chamber with a single window and a single door. 
 
 ### What does the World Know?
