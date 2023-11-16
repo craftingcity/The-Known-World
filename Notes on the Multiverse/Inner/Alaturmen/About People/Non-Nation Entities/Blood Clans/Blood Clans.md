@@ -40,7 +40,9 @@ A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat 
 #### Heritage
 The Blood-clans are composed mostly of goblins and humans. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the rule of the [[Bandit Lords]].
 
-After their immediate opposition fell, they turned toward the freshborn [[The Kingdom of Prosper]]. The Clans were not organized enough nor well-equipped enough to push Arthur's forces beyond the borders of the [[Illburn Forest]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, a
+After their immediate opposition fell, they turned toward the freshborn [[The Kingdom of Prosper]]. The Clans were not organized enough nor well-equipped enough to push Arthur's forces beyond the borders of the [[Illburn Forest]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, there was little hope for even as unified a front as the *other* Clans could muster.
+
+And so, without [[Arthur Simonson]]
 
 #### Language
 Most people in these territories speak both [[Astral Goblin (language)]] and [[Arthurian (language)]].
