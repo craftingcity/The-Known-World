@@ -24,3 +24,5 @@ They are starting in a stone room with one iron grate to the outside and a iron-
 ### What happened?
 
 Arrek capitulated to Basil as she name-dropped [[Baron Avory]], and showed off the Inception that she gave to the Clan.
+
+They are gonna 
