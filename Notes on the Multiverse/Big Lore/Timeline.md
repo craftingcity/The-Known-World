@@ -116,7 +116,7 @@ date: 032AF
 title: Hobgoblins form the Blood Clans.
 content:
 
-After years of subjugation from the [[Bandit Lords]], the hobgoblin of the [[Great Northern Forests]] form the [[Blood Hobgoblin Clan Pact]] and begin to make war against foes and kin alike.
+After years of subjugation from the [[Bandit Lords]], the hobgoblin of the [[Great Northern Forests]] form the [[Blood-Hobgoblin Clan Pact]] and begin to make war against foes and kin alike.
 
 date: 040AF
 title: Southern [[Bandit Lords]] shatter.
