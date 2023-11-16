@@ -25,4 +25,4 @@ They are starting in a stone room with one iron grate to the outside and a iron-
 
 Arrek capitulated to Basil as she name-dropped [[Baron Avory]], and showed off the Inception that she gave to the Clan.
 
-They are gonna 
+They are gonna figure out what to do in the morning, and they will spend the night in town.
