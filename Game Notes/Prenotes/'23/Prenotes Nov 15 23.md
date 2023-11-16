@@ -20,6 +20,6 @@ When last we left our heroes, they were brutally disarmed and led into a simple 
 ### What does the World Know?
 They are starting in a stone room with one iron grate to the outside and a iron-banded wooden door. There are a force of guards outside in what is known as the "security level", with the rest of the Hillkeep further below.
 
-A 
+[[Arrek Bozkin]] is taking the lead with the interrogation, and his second - [[Hoggak Cander-Wheernat]] will be primarily taking notes or asking follow-up questions that Bozkin does not pursue. 
 
 ### What happened?

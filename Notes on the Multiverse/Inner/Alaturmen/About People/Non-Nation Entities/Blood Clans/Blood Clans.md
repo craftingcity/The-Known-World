@@ -42,7 +42,7 @@ The Blood-clans are composed mostly of goblins and humans. There were many Hobgo
 
 After their immediate opposition fell, they turned toward the freshborn [[The Kingdom of Prosper]]. The Clans were not organized enough nor well-equipped enough to push Arthur's forces beyond the borders of the [[Illburn Forest]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, there was little hope for even as unified a front as the *other* Clans could muster.
 
-And so, without [[Arthur Simonson]]
+And so, as [[Arthur Simonson|Artie]]'s kingdom failed to fall low to the Clans, they turned on one another as they have done so many times before. 
 
 #### Language
 Most people in these territories speak both [[Astral Goblin (language)]] and [[Arthurian (language)]].
