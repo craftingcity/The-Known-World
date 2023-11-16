@@ -1,4 +1,4 @@
-1. Scrivin Blood-Clan
+~~1. Scrivin Blood-Clan~~
 2. Church of Gromosh
 3. Cannibal Nomads
 4. Bulgpim Blood-Clan

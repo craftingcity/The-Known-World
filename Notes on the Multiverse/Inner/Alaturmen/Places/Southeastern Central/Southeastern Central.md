@@ -89,6 +89,9 @@ aliases:
 - **Specific Places**
 	- [[Darktower]]
 	- [[Jameson's Magic Choppe]]
+	- [[Lemonfly Goods]]
+	- [[Shishkabed]]
 	- [[Stone of Desmoniur]]
+	- [[Whiteout Enterprises]]
 
 %% End Waypoint %%
