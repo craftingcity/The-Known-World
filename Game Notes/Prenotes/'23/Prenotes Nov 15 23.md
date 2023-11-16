@@ -22,3 +22,5 @@ They are starting in a stone room with one iron grate to the outside and a iron-
 [[Arrek Bozkin]] is taking the lead with the interrogation, and his second - [[Hoggak Cander-Wheernat]] will be primarily taking notes or asking follow-up questions that Bozkin does not pursue. 
 
 ### What happened?
+
+Arrek capitulated 

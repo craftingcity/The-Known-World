@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md"
     },
     {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Oct 04 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Oct 04 23.md"
-    },
-    {
-      "basename": "Cathouse Game",
-      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
     }
   ],
   "omittedPaths": [],
