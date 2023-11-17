@@ -25,6 +25,14 @@ It has taken you nearly twenty days to gather the intelligence you have now, a l
 
 With four days to "prepare" and a hundred-or-so targets to remove, I doubt they will be able to create a systemic solution to their problem - especially given their lack of notoriety in this region.
 
+###### Nala's Anti-Ichor Inoculant (Serves 1 Pint)
+- Soul Sludge (5x)
+- Aloe Vera (3x)
+- Polypore (15x <`Variety OK`>)
+- Lephora (3x)
+- Harrada (5x)
+- Cannabis (10x)
+
 Otherwise, the [[Annual Boneborn Bash]] will go off without a hitch until the Fireworks Show. At the first explosion, the cultists will pull their blades and attack the nearest civilians, and their mercs will defend them in this action.
 
 > The blood of the innocent will begin to coalesce in the center of the Market Square and pool upward into an oval sheet. As more and more is absorbed by this sheet of blood, it begins to shimmer and swirl into a deep red portal. As soon as you can recognize what this thing may be, it bursts forth - a stream of demonkin a dozen bodies wide begins to flow forth from the portal of blood.
