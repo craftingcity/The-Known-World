@@ -19,10 +19,14 @@ When last we left our heroes, they were in the city of [[Boneborn]], doing their
 
 As you arrived on the 13th of Resowing, nothing seemed amiss, but as you spent more and more time in town investigating, you came to formalize multiple lists. You have the names of cultists with blades of curved shadow, the companies they work for, and the people they associate with.
 
-It has taken you nearly twenty days to gather the intelligence you have now, a list of guilty names a dozen dozens long. If you have any questions about the cultists, now would be the time to ask them - otherwise, I must put the question to you; what do you do?
+It has taken you nearly twenty days to gather the intelligence you have now, a list of guilty names a dozen dozens long. If you have any questions about this information, now would be the time to ask them - otherwise, I must put the question to you; what do you do?
 
 ### What does the World Know?
 
+With four days to "prepare" and a hundred-or-so targets to remove, I doubt they will be able to create a systemic solution to their problem - especially given their lack of notoriety in this region.
 
+Otherwise, the [[Annual Boneborn Bash]] will go off without a hitch until the Fireworks Show. At the first explosion, the cultists will pull their blades and attack the nearest civilians, and their mercs will defend them in this action.
+
+The blood of the innocent will begin to coalesce in the center of the Market Square and pool upward into an oval sheet. As more and more is absorbed by this sheet of blood, it begins to shimmer and swirl into a deep red portal. As soon as you can recognize what this thing may be, it bursts forth - a stream of demonkin a dozen bodies wide 
 
 ### What happened?
