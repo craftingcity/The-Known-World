@@ -31,6 +31,8 @@ Much of the leadership of the city is Tabaxi, Kenku, and Triton. Many scaled hum
 ##### The Outskirts (by the Walls)
 [[Shishkabed]] aka Blanket'n'Skewers
 
+##### The Palace / The Bunker
+Wrought-Bone Fences surround a field around a stone bunker overgrown with the natural elements.
 
 
 "The battle is to begin as the dark sky alights with disorder and chaos." - [[Coraline Avaati]]
