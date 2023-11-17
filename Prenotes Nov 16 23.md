@@ -38,3 +38,9 @@ Otherwise, the [[Annual Boneborn Bash]] will go off without a hitch until the Fi
 > The blood of the innocent will begin to coalesce in the center of the Market Square and pool upward into an oval sheet. As more and more is absorbed by this sheet of blood, it begins to shimmer and swirl into a deep red portal. As soon as you can recognize what this thing may be, it bursts forth - a stream of demonkin a dozen bodies wide begins to flow forth from the portal of blood.
 
 ### What happened?
+
+A statue of Orcus was Stoneshapped into the parade grounds.
+
+"The battle is to begin as the dark sky alights with disorder and chaos. You have but three nights."
+"- UB 4/5/105"
+
