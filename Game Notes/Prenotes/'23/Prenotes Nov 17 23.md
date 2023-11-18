@@ -22,6 +22,6 @@ As we continue northward, I will ask the party to decide who will take the lead,
 ### What does the World Know?
 
 Introducing two new characters today from the [[Westlick Mossland]] & [[Eastlick Mossland]]s. Party must have an encounter (vs Druids / Clerics), which will likely happen near [[Fourstone]]. 
-	(Green Spring / Cult of Blemon's Blessings)
+	(Green Spring Druids / Cult of Blemon's Blessings)
 
 ### What happened?
