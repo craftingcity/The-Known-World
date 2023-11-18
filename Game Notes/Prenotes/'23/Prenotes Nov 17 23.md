@@ -24,3 +24,15 @@ Introducing two new characters today from the [[Westlick Mossland]] & [[Eastlick
 	(Green Spring Druids / Cult of Blemon's Blessings)
 
 ### What happened?
+
+GSD fight (12x Shifters)
+
+###### THE FIGHT
+VIX (23)
+INEC (22)
+DRUIDS (10)
+FURGY
+DAELITH
+GIAVONI
+DOT
+
