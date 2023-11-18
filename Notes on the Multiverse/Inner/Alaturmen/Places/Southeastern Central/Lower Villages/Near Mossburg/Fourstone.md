@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Fourstone
+#### Paulo's Last Stage
+## Holding of [[Mossburg Enforcers]]
+### Located in [[Central Third]], X:Y
 ## Description
 ### Quote
 
@@ -13,5 +13,5 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
-
+#### Goat Breathing Fire
 

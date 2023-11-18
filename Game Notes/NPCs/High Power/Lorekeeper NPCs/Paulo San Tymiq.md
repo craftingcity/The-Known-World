@@ -16,10 +16,10 @@ Paulo was born into Alaturmen on the 14th of First Melt, 34 years after Tetrimoc
 
 After this, he wrote many more influential pieces during his time as a bard. Including tales depicting the #planes [[Underdark]], [[Feywild]], [[Baator|Baator]], [[Elysium]], [[Mechanis]] and the [[Astral Sea]].
 
-While some tales say that Paulo was slain in a glorious battle, the rumors are not true. He settled down in [[Four Stone]], and died peacefully around friends in 098AF at 64 years old.
+While some tales say that Paulo was slain in a glorious battle, the rumors are not true. He settled down in [[Fourstone]], and died peacefully around friends in 098AF at 64 years old.
 
 ## Location
-His memory is most visibly remembered at the [[Four Stone#Goat Breathing Fire]], although he was buried in the [[Four Stone#Church of Ar'Kraven]]'s cemetery.
+His memory is most visibly remembered at the [[Fourstone#Goat Breathing Fire]], although he was buried in the local Ar'Kraven Chapel cemetery.
 
 
 ## Statistics
