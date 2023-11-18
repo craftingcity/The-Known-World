@@ -44,3 +44,4 @@ A statue of Orcus was Stoneshapped into the parade grounds.
 "The battle is to begin as the dark sky alights with disorder and chaos. You have but three nights."
 "- UB 4/5/105"
 
+They are resting in the bag outside of town.
