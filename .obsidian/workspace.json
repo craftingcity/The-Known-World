@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d99284f050471165",
+        "id": "025f957e388e0fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "22959329fd0cffae",
+            "id": "4678e90aa115c6cf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"four stone\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md"
+                "file": "ORGANIZATION/Faction Turn.md"
               }
             }
           },
@@ -257,34 +257,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22959329fd0cffae",
+  "active": "4678e90aa115c6cf",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Fourstone.md",
-    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
-    "Prenotes Nov 17 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Chronicles of the Denevilles.md",
     "conflict-files-obsidian-git.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Prenotes Nov 16 23.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wheernat Clan.md",
     "ORGANIZATION/Faction Turn.md",
-    "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Arrek Bozkin.md",
-    "APGtAv1.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
-    "Game Notes/Prenotes/'22/Prenotes June 07 22.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clans.md",
-    "Game Notes/Prenotes/'23/Prenotes Feb 01 23.md",
+    "Prenotes Nov 16 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Lemonfly Goods.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Shishkabed.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Whiteout Enterprises.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fraim.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 13 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 10 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 09 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 02 23.md",
+    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
