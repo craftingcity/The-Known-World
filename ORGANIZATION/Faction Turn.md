@@ -6,7 +6,7 @@
 ~~5. Church of Freric & Sophie~~
 ~~6. Wheernat Blood-Clan~~
 ~~7. Circles of Terran~~
-8. Agrandica's Noble Theives
+~~8. Agrandica's Noble Theives~~
 9. Riphounds
 10. Barthalamule's Noble Theives
 11. Bodaim's Bandits
