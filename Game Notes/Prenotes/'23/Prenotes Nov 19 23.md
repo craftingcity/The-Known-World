@@ -25,3 +25,12 @@ Eldare Yarom has sent word to the closest standing armies of [[Cenva Minyo]] to 
 [[Yahlin]] has a population of about 6500 people. Cenva Minyo is fairly Militant, and given minor reasearch, a 2% rate for active members is *high* (higher than U.S.A.). 2% of 6.5k is 130. 6 groups of 20, 1 commander each.
 
 ### What happened?
+
+They negotiated with Eldare Yarom, and begin to head to [[Castle Prosper]].
+
+##### The Fight
+Penne
+Pirates
+Dae Shim
+Gringold
+Shu Ameda
