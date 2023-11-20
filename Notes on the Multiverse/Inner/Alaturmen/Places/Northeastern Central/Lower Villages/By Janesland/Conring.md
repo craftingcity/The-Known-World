@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Conring
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Noble House a'Fen]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 

@@ -3,14 +3,14 @@ tags:
   - npc
 aliases:
 ---
-# Jork a'Nyrk
-## Third Count of the Duche of Janesland
-### they/he
+# Drazz a'Alden
+## Fifth Count of the Duche of Janesland
+### they/she
 
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Count of [[Selataesi]]
+Count of [[Osa Allangar]]
 
 ## Roleplaying
 ### Quote

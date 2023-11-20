@@ -4,77 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e349ec8c1b9cc3d3",
-        "type": "split",
+        "id": "cf8b4551c2689f37",
+        "type": "tabs",
         "children": [
           {
-            "id": "f50b169247f39740",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d6f5cc283476d375",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Selataesi",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Selataesi.md\",\"mode\":\"source\",\"source\":true}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":162},\"to\":{\"line\":9,\"ch\":162}},\"scroll\":1.5432745376718255}"
-                    },
-                    {
-                      "title": "Melsaneas",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Melsaneas.md\",\"mode\":\"source\",\"source\":true}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":165},\"to\":{\"line\":10,\"ch\":165}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
-                    "mode": "source",
-                    "source": true
-                  }
+            "id": "13124705c059c131",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "381262a5e86c6a17",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cf0e699d9770943f",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md"
               }
             }
           },
@@ -321,17 +275,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6f5cc283476d375",
+  "active": "13124705c059c131",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Lendvien.md",
+    "Gurrak a'Fen.md",
+    "Bullryk a'Dregsamony.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Conring.md",
+    "Gooblot a'Chrim.md",
+    "Jork a'Nyrk.md",
+    "Drazz a'Alden.md",
+    "Maxyu a'Valim.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Selataesi.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
-    "Jork a'Nyrk.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Melsaneas.md",
-    "Gooblot a'Chrim.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Janesland.md",
-    "Gurrak a'Fen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "conflict-files-obsidian-git.md",
@@ -344,11 +303,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Bulgpim Clan.md",
-    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md",
-    "Game Notes/Prenotes/'23/'23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 01 23.md",
-    "Abraham the Wise.md",
-    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
