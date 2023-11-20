@@ -31,6 +31,13 @@ They negotiated with Eldare Yarom, and begin to head to [[Castle Prosper]].
 ##### The Fight
 Penne
 Pirates
+A - 5
+~~B - 10, 19, 28, 34~~
+C -
+D -
+E -
+F -
+Gunner - 
 Dae Shim
 Gringold
 Shu Ameda
