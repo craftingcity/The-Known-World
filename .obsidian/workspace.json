@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "821cab17e92b4717",
+        "id": "025f957e388e0fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "ab187b8fe3212f98",
+            "id": "4678e90aa115c6cf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eldare",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +118,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
+                "file": "ORGANIZATION/Faction Turn.md"
               }
             }
           },
@@ -237,26 +237,8 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "6d2d44a8fde5439f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,34 +257,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab187b8fe3212f98",
+  "active": "4678e90aa115c6cf",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Bulgpim Clan.md",
-    "Notes on the Multiverse/Outer/Abyss/Thanatos/Kalariel's Grimoire.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'23/'23.md",
+    "Janice Austra.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 01 23.md",
     "Abraham the Wise.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
-    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md",
-    "Game Notes/Prenotes/'22/Prenotes Nov 07 22.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 09 23.md",
-    "Janice Austra.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Chronicles of the Denevilles.md",
+    "conflict-files-obsidian-git.md",
+    "ORGANIZATION/Faction Turn.md",
+    "Prenotes Nov 16 23.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
     "ORGANIZATION/ORGANIZATION.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Lemonfly Goods.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Shishkabed.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Whiteout Enterprises.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fraim.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 13 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 10 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 09 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Renshaw.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
