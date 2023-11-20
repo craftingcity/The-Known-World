@@ -207,10 +207,6 @@ date: 105AF
 title: The [[Second Invasion of Orcus]]...
 content:
 
-Throughout the material planes, a dark hum permiates the Weave. A casket unsealed. An idea revived. A doom begins to loom. [[Qiell Tilemundon]]... Evil Boy...
-
-date: 106AF
-title:
-content:
+Throughout the material planes, a dark hum permiates the Weave. [[Qiell Tilemundon]] and [[Kalariel]] abscond
 
 ```
