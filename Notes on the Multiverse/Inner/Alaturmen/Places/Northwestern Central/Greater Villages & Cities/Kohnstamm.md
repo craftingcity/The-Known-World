@@ -1,25 +1,23 @@
 ---
-tags: holding,
+tags:
+  - holding
 aliases:
 ---
+# Kohnstamm
+#### Sub-names?
+## Holding of [[The Church of the White Flame]]
+### Located in [[Litteortosta]], X:Y
+## Description
+### "Quote"
 
-# Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+### General Public Disposition
 
-# Description
-Any sort of local lore...
+### Background
+## Important Places & Symbolism
 
-The first warcouncil for the Giant Invasion was held here in 103AF.
-## Physicality of the Holding
+## Economics
+|     | # of Traders |
+| --- | ------------ |
+|     |              |
 
-## Population Distribution
-If it differs from the nation's...
-
-## Defenses
-
-## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
-
+## Governance

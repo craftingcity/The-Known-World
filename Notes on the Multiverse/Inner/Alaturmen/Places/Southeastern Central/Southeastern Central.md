@@ -8,7 +8,6 @@ aliases:
 ## Contents
 ### Factions
 - [[The Democratic Combine of Peoples]]
-	- [[]]
 
 ###### Table of Contents
 %% Begin Waypoint %%

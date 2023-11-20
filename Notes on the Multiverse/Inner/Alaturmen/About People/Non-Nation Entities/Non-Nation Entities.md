@@ -7,6 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **[[Blood Clans]]**
 	- [[Blood-Hobgoblin Clan Pact]]
+	- [[Bulgpim Clan]]
 	- [[Garqwak Clan]]
 	- [[Wakquk Twins]]
 	- [[Wheernat Clan]]
