@@ -2,16 +2,17 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Melsaneas
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Noble House a'Fen]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
-
+Melsaneas is a small city north-north-east of [[Janesland]] with a population of about 1400. [[Gooblot a'Chrim]] is the Count here. Their primary industry is timber.
 ### General Public Disposition
 
 ### Background
+
 ## Important Places & Symbolism
 
 

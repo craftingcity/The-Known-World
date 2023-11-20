@@ -12,6 +12,7 @@ aliases:
 ### General Public Disposition
 
 ### Background
+[[Gurrak a'Fen]] is the Duche here.
 ## Important Places & Symbolism
 
 

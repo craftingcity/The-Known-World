@@ -25,6 +25,8 @@ Cenva Minyo has a longstanding treaty with the [[Dwarven Kingdom Actstow]].
 #### Language
 #### Values
 #### Theology
+Some members of Cenva Minyo worship the Emotional Gods and the Physical Idols, but it is most common to find a general distaste for the "Divine" and those who attempt to wield it to their whims.
+
 #### Economics
 
 ### Symbolism

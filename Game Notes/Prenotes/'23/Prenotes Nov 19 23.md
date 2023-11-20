@@ -23,6 +23,6 @@ Eldare Yarom has sent word to the closest standing armies of [[Cenva Minyo]] to 
 
 ### What does the World Know?
 
-[[Yahlin]] has a population of about 6500 people. Cenva Minyo is fairly Militant, so we can say 
+[[Yahlin]] has a population of about 6500 people. Cenva Minyo is fairly Militant, and given minor reasearch, a 2% rate for active members is *high* (higher than U.S.A.)
 
 ### What happened?
