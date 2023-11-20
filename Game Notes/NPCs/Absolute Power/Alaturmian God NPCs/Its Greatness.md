@@ -1,5 +1,5 @@
 ---
-aliases: Its Greatness, It's Greatness, The Holy Flame, White Flame, The Great White Flame
+aliases: The Holy Flame, White Flame, The Great White Flame
 tags: npc, deity
 ---
 

@@ -25,4 +25,4 @@ From [[Coalition City]], a cart-ride with an independent merchant will take four
 
 ### What happened?
 
-They made their way to [[Yahlin]]. 
+They made their way to [[Yahlin]] and spoke to [[Raam ben Yarom]].
