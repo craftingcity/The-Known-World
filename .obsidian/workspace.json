@@ -4,153 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "baf56930b2e767c7",
+        "id": "b970eb696aa4d02c",
         "type": "tabs",
         "children": [
           {
-            "id": "513a3c823fe923b5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Prenotes Nov 19 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 19 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Oct 23 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 23 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 16 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 16 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 19 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 19 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":51},\"to\":{\"line\":7,\"ch\":51}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/'23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "289ff99c982f8da9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "'23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":16},\"to\":{\"line\":60,\"ch\":16}},\"scroll\":49.33445166221933}"
-                },
-                {
-                  "title": "Prenotes Oct 23 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 23 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 16 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 16 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 19 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 19 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":51},\"to\":{\"line\":7,\"ch\":51}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 01 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "12480b4794ce7307",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dca3481d41a9c2a8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "'23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/'23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":15},\"to\":{\"line\":60,\"ch\":15}},\"scroll\":39.656459441402994}"
-                },
-                {
-                  "title": "Prenotes Oct 23 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Oct 23 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 16 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 16 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes Nov 19 23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 19 23.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":51},\"to\":{\"line\":7,\"ch\":51}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7113e42c0e36af4",
+            "id": "7addd90e08f5033e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -162,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abraham the Wise.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -290,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -399,13 +249,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dca3481d41a9c2a8",
+  "active": "7addd90e08f5033e",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 01 23.md",
     "Abraham the Wise.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 01 23.md",
-    "Game Notes/Prenotes/'23/'23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md",
