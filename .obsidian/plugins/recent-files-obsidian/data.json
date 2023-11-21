@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
       "basename": "Prenotes Nov 19 23",
       "path": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Prenotes June 10 23",
       "path": "Game Notes/Prenotes/'23/Prenotes June 10 23.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
       "basename": "Faction Turn",
@@ -195,10 +199,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     }
   ],
   "omittedPaths": [],
