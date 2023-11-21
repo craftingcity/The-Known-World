@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "025f957e388e0fb2",
+        "id": "8bf25d169df67bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "4678e90aa115c6cf",
+            "id": "37df5af3db69b093",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d035f99e1b5ef0a7",
+            "id": "d61d1f62137440d8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           },
@@ -279,8 +279,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d035f99e1b5ef0a7",
+  "active": "d61d1f62137440d8",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "ORGANIZATION/Faction Turn.md",
     "conflict-files-obsidian-git.md",
     "Maxyu a'Valim.md",
@@ -306,7 +307,6 @@
     "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fraim.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 13 23.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 10 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 09 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
