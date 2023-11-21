@@ -10,6 +10,7 @@ aliases:
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
+Count of [[Melsaneas]]
 
 ## Roleplaying
 ### Quote

@@ -3,14 +3,14 @@ tags:
   - npc
 aliases:
 ---
-# Jork a'Nyrk
-## Third Count of the Duche of Janesland
-### they/he
+# Bullryk a'Dregsamony
+## First Count of the Duche of Janesland
+### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Count of [[Selataesi]]
+Count of [[Conring]]
 
 ## Roleplaying
 ### Quote
