@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Oezand
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Simonson Clan]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 
