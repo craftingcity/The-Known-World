@@ -58,9 +58,30 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "8b356d938a15d1ce",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Erika a'Valim.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "916d1e40a767afa1",
@@ -75,6 +96,12 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Oezand",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Oezand.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":142},\"to\":{\"line\":10,\"ch\":142}}}"
                     },
                     {
                       "title": "Woahbee",
@@ -93,13 +120,62 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Oezand.md",
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Terinjhof.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "d86a98ee647a1872",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Lou a'Locca",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lou a'Locca.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":34},\"to\":{\"line\":12,\"ch\":34}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Amirisson.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "222bfe7eb8ce907f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Tegri.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -130,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandurm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gorebladder a'Nyrk.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Tegri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gorebladder a'Nyrk.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Tegri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gorebladder a'Nyrk.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Tegri.md"
               }
             }
           },
@@ -349,11 +425,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c33a9765583dd1d",
+  "active": "222bfe7eb8ce907f",
   "lastOpenFiles": [
-    "Courtney a'LeQuinn.md",
+    "Erika a'Valim.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Tegri.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Amirisson.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Terinjhof.md",
+    "Lou a'Locca.md",
     "Gorebladder a'Nyrk.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Melsaneas.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Oezand.md",
+    "Courtney a'LeQuinn.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Woahbee.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Lendvien.md",
@@ -370,13 +453,6 @@
     "Bullryk a'Dregsamony.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Conring.md",
     "Gooblot a'Chrim.md",
-    "Jork a'Nyrk.md",
-    "Drazz a'Alden.md",
-    "Maxyu a'Valim.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Selataesi.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Melsaneas.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"

@@ -3,14 +3,14 @@ tags:
   - npc
 aliases:
 ---
-# Courtney a'LeQuinn
-## Third Count of Kingshold
+# Lou a'Locca
+## Sixth Count of Kingshold
 ### she/her
 
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Gorebladder is the Count of [[Oezand]] and a member of [[Noble House a'LeQuinn]].
+Lou is the Count of [[Terinjhof]].
 
 ## Roleplaying
 ### Quote

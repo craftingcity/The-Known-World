@@ -3,14 +3,14 @@ tags:
   - npc
 aliases:
 ---
-# Courtney a'LeQuinn
-## Third Count of Kingshold
-### she/her
+# Erika a'Valim
+## Titles
+### they/she
 
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Gorebladder is the Count of [[Oezand]] and a member of [[Noble House a'LeQuinn]].
+Erika is the count of [[Tegri]] and a member of the [[Noble House a'Valim]].
 
 ## Roleplaying
 ### Quote

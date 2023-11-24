@@ -140,7 +140,7 @@ date: 056AF
 title: Simonson makes War.
 content:
 
-[[Arthur Simonson]] leads a party of adventurers and an army of home-grown warriors against the [[Bandit Lords]] that ruled in the northwest of [[Central Alaturmen]].
+[[Arthur Simonson]] leads a party of adventurers and an army of home-grown warriors against the [[Bandit Lords]] that ruled in the northwest of [[Central Alaturmen]]. His first political allies were his clanmates.
 
 date: 059AF
 title: The Bandit Lords are defeated.
@@ -159,10 +159,6 @@ title: Simonson make Peace.
 content:
 
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
-
-date: 075AF
-title: 
-content:
 
 date: 078AF
 title: The Coalition and the Democratic Combine of Peoples are Formed.
