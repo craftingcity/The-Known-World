@@ -8,6 +8,7 @@ aliases:
 ### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
+Janesland is a large city north-east of [[Castle Prosper]] with a population of about 41100. [[Gurrak a'Fen]] is the Duche here.  
 
 ### General Public Disposition
 

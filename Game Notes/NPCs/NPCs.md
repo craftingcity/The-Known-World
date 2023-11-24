@@ -47,7 +47,15 @@ for the graph: [[Here lie my suppliments...]]
 	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
+		- [[Bullryk a'Dregsamony]]
+		- [[Drazz a'Alden]]
+		- [[Glirid a'Fingara]]
+		- [[Gooblot a'Chrim]]
+		- [[Gurrak a'Fen]]
+		- [[Janice Austra]]
+		- [[Jork a'Nyrk]]
 		- [[Kallo Vought]]
+		- [[Maxyu a'Valim]]
 		- [[Sir Harris Bly]]
 	- **Midboss**
 		- [[Glot Maxim]]
