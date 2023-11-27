@@ -7,10 +7,10 @@
 ~~6. Wheernat Blood-Clan~~
 ~~7. Circles of Terran~~
 ~~8. Agrandica's Noble Theives~~
-9. Riphounds
-10. Barthalamule's Noble Theives
-11. Bodaim's Bandits
-12. Golden Claws of Tetrimoc
+~~9. Riphounds~~
+~~10. Barthalamule's Noble Theives~~
+~~11. Bodaim's Bandits~~
+~~12. Golden Claws of Tetrimoc~~
 13. Cults Infernal
 14. Knights in Red
 15. Slimknives
