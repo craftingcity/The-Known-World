@@ -13,7 +13,7 @@
 ~~12. Golden Claws of Tetrimoc~~
 ~~13. Cults Infernal~~
 ~~14. Knights in Red~~
-15. Slimknives
+~~15. Slimknives~~
 16. Circles of Ventan
 17. Church of Ar'Kraven
 18. Hurraquk Blood-Clan
