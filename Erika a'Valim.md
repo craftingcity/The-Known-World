@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # Erika a'Valim
-## Titles
+## Fifth Count of Kingshold
 ### they/she
 
 > Boxtext for an action, outfit, and a physical trait.
