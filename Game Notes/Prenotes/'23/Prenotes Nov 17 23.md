@@ -36,3 +36,4 @@ DAELITH
 GIAVONI
 DOT
 
+They won, we ended nearly immediately after the fight.

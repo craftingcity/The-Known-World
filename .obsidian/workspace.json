@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac00b6c0c39394f9",
+        "id": "37865eec8bfbfaa3",
         "type": "tabs",
         "children": [
           {
-            "id": "907f0e690d092fc7",
+            "id": "9dbbd8d4260b16ac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "mode": "source",
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Game Notes/Prenotes/'23/'23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md"
+                "file": "Game Notes/Prenotes/'23/'23.md"
               }
             }
           },
@@ -275,8 +275,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "907f0e690d092fc7",
+  "active": "9dbbd8d4260b16ac",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "Game Notes/Prenotes/'23/'23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
+    "ORGANIZATION/Faction Turn.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Maxyu a'Valim.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Jork a'Nyrk.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md",
@@ -294,15 +298,11 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
-    "ORGANIZATION/Faction Turn.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Lendvien.md",
     "Gurrak a'Fen.md",
     "Bullryk a'Dregsamony.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Conring.md",
-    "Gooblot a'Chrim.md",
-    "Jork a'Nyrk.md",
-    "Drazz a'Alden.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
