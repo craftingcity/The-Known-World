@@ -16,8 +16,8 @@
 ~~15. Slimknives~~
 ~~16. Circles of Ventan~~
 ~~17. Church of Ar'Kraven~~
-18. Hurraquk Blood-Clan
-19. House a'LeQuinn of Yerba
+~~18. Hurraquk Blood-Clan~~
+~~19. House a'LeQuinn of Yerba~~
 20. Cenva Minyo
 21. Grovetenders
 22. Church of Tauruin
