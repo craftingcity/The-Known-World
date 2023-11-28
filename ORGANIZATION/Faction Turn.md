@@ -19,9 +19,9 @@
 ~~18. Hurraquk Blood-Clan~~
 ~~19. House a'LeQuinn of Yerba~~
 ~~20. Cenva Minyo~~
-21. Grovetenders
-22. Church of Tauruin
-23. Antitheocracy
+~~21. Grovetenders~~
+~~22. Church of Tauruin~~
+~~23. Antitheocracy~~
 24. House Simonson of Prosper
 25. Guild of Adventurers
 26. Harvord Trading Company
