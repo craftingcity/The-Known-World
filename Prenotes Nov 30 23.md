@@ -28,4 +28,19 @@ As the [[Annual Boneborn Bash]] is tomorrow, today is the last day to prepare fo
 ### What happened?
 They talked with Alegra, and they got more information about the [[Guild of Wizards#Council of Mages]].
 
+#### The Fight
+Celaena (22)
+Portal (20)
+Breenabell (17)
+Nala (14)
+Jerran (8)
+Ulfgar (7)
+Doggies (7)
+A - 6, 15
+B - 14, 32, 46
+C
+D
+E
+F
+
 We leave our heroes on the date of ... AF, as they ...
