@@ -21,4 +21,6 @@ Their place of residence, work, and other locations they may be found in, such a
 ## Statistics
 Their game statistics, including any items that may change them or any items of interest to the players, a ring of keys for example.
 
+Run them as a [Balor](https://www.aidedd.org/dnd/monstres.php?vo=balor).
+
 Somehow this motherfucker has necromatic armies or some shit, they control the holding of [[Boneborn]]???? this is a powerful alliance with some fuckers or the [[Beasts Righteous]] got some shit or something.
