@@ -4,11 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "e881c2a79290c656",
+        "id": "b0a7c92524591311",
         "type": "tabs",
         "children": [
           {
-            "id": "4fcd557e93106955",
+            "id": "699e09f0e24eff99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Nov 17 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 17 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Nov 19 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'23/Prenotes Nov 19 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a1a0bdae573d4251",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,13 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Prenotes Nov 30 23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Prenotes Nov 30 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
+                "file": "Prenotes Nov 30 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md"
+                "file": "Prenotes Nov 30 23.md"
               }
             }
           },
@@ -275,12 +309,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fcd557e93106955",
+  "active": "a1a0bdae573d4251",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
+    "Prenotes Nov 30 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
+    "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/'23.md",
     "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
-    "ORGANIZATION/Faction Turn.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Maxyu a'Valim.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Jork a'Nyrk.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md",
@@ -294,15 +331,12 @@
     "Courtney a'LeQuinn.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Lendvien.md",
     "Gurrak a'Fen.md",
-    "Bullryk a'Dregsamony.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Conring.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
