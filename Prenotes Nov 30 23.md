@@ -23,6 +23,7 @@ We return to them as they exit their personal-demi-plane on the morn of the 7th.
 
 ### What does the World Know?
 
+As the [[Annual Boneborn Bash]] is tomorrow, today is the last day to prepare for the Bash itself.
 
 ### What happened?
 
