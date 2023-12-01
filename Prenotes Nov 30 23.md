@@ -26,6 +26,6 @@ We return to them as they exit their personal-demi-plane on the morn of the 7th.
 As the [[Annual Boneborn Bash]] is tomorrow, today is the last day to prepare for the Bash itself.
 
 ### What happened?
-
+They talked with Alegra, and they got more information about the [[Guild of Wizards#Council of Mages]].
 
 We leave our heroes on the date of ... AF, as they ...
