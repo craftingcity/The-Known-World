@@ -23,7 +23,7 @@ We return to them as they exit their personal-demi-plane on the morn of the 7th.
 
 ### What does the World Know?
 
-As the [[Annual Boneborn Bash]] is tomorrow, today is the last day to prepare for the Bash itself.
+As the [[Annual Boneborn Bash]] is tomorrow, today is the last day to prepare for the Bash itself. They light the porters and Garage on fire. They broke back into [[Whiteout Enterprises]] to find it empty of people and information.
 
 ### What happened?
 They talked with Alegra, and they got more information about the [[Guild of Wizards#Council of Mages]].
