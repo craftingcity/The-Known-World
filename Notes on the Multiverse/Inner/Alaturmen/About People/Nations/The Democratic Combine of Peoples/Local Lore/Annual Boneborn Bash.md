@@ -21,7 +21,7 @@ The Annual [[Boneborn]] Bash is an annual daylong event in the city of Boneborn.
 [[Mossburg Corporation]]
 ##### Independents
 Amala's Travelling Exotic Goods (2x guard, 1x cultist: "Amala")
-[[Lemonfly Goods]] (6x guard, 6x porters, 1x cultist: "Garage")
+~~[[Lemonfly Goods]] (6x guard, 6x porters, 1x cultist: "Garage")~~
 [[Bear Paw Entertainment]] (2x cultist "Hokey & Pokey")
 [[Bluff's Alchemical Solutions]] (4x guard, 4x cultist "Buff, Morgan, Alexander, Rain")
 ##### Locals
