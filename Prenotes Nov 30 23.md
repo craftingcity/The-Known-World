@@ -43,4 +43,4 @@ D
 E
 F
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of the 8th of Weeding 105AF, as they are fighting [[Hannah's Demon (Celaena)]].
