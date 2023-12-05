@@ -22,8 +22,8 @@
 ~~21. Grovetenders~~
 ~~22. Church of Tauruin~~
 ~~23. Antitheocracy~~
-24. House Simonson of Prosper
-25. Guild of Adventurers
+~~24. House Simonson of Prosper~~
+~~25. Guild of Adventurers~~
 26. Harvord Trading Company
 27. Beasts Righteous
 28. Mountain Halls of Suremantle
