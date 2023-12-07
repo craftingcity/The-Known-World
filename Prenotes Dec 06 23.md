@@ -27,4 +27,6 @@ The Kingdom moves slowly enough that Arthur cannot confirm or deny an outright w
 
 ### What happened?
 
+Gringold asks Paulo to find someone to tail [[Moses the Brave]].
+
 We leave our heroes on the date of ... AF, as they ...
