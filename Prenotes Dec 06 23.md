@@ -29,4 +29,4 @@ The Kingdom moves slowly enough that Arthur cannot confirm or deny an outright w
 
 Gringold asks Paulo to find someone to tail [[Moses the Brave]].
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 7th of Weeding, 105 AF, as they travel northward towards the Rectium Chapter House of [[Arthur's Knights]]
