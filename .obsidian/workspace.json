@@ -29,7 +29,7 @@
             }
           },
           {
-            "id": "4c033d6144e9642b",
+            "id": "8df97d5644700480",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,7 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae17bddb6d8e058d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Woahbee.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Campaign Rosters/Cathouse Game.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
               }
             }
           },
@@ -297,15 +318,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c033d6144e9642b",
+  "active": "8df97d5644700480",
   "lastOpenFiles": [
     "Prenotes Dec 06 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Woahbee.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Marley Hurraquk.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
@@ -324,7 +346,6 @@
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Maxyu a'Valim.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Jork a'Nyrk.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/celeana.png"
