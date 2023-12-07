@@ -23,7 +23,8 @@ We return to the party after having scavenged what little they could from the no
 
 They are likely not going to be stopped by anything and will make it to [[Castle Prosper]] tonight. As of right now, Arthur's Traveling Court has not been realized - but the fact that he is currently home - having just met with [[Moses the Brave]] & [[Alergra Barrowinch]] - is canon, so they will have no issues with timing.
 
-### What happened?
+The Kingdom moves slowly enough that Arthur cannot confirm or deny an outright war or provide any specific details on military information - that is, until / if they mention the support of [[Jorrin Bearscarred]] and [[Wychway]]'s potential for a clean capitulation.
 
+### What happened?
 
 We leave our heroes on the date of ... AF, as they ...

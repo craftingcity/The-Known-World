@@ -33,72 +33,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "dd7db75875a6920f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Dec 06 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "098d2a7ffa21677a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "09b9c86143d7ebb6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -217,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Dec 06 23.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Dec 06 23.md",
+                "file": "ORGANIZATION/Faction Turn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Dec 06 23.md"
+                "file": "ORGANIZATION/Faction Turn.md"
               }
             }
           },
@@ -344,15 +281,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd7db75875a6920f",
+  "active": "9a69e84fd8f5d8ff",
   "lastOpenFiles": [
+    "Prenotes Dec 06 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "Prenotes Dec 06 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "ORGANIZATION/Faction Turn.md",
     "Marley Hurraquk.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
