@@ -9,6 +9,6 @@ aliases:
 - moses communes with It's Greatness and returns Wychway
 - 
 
-# The Return of Moses the Brave
+# The Return of [[Moses the Brave]]
 ### Written by [[Josie Canoor]]
 

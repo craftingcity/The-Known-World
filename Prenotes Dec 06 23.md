@@ -17,10 +17,11 @@ aliases:
 
 When last we left our heroes, they were on their way to the [[Castle Prosper]] to seek audience with the King of Prosper, [[Arthur Simonson]]. Before they could reach their destination and request the Kingdom's assistance in what could be an outright war on [[The Church of the White Flame]], the party was attacked along the Firelight River by a gang of pirates associated with [[Baron Shimmer]] and the [[Dampguard]].
 
-We return to the party having scavenged what little they could from the now-beached metal submersible craft and tended to their wounds 
+We return to the party after having scavenged what little they could from the now-beached metal submersible craft and having tended to their wounds. As they continue to travel, I put the question to you, who leads?
 
 ### What does the World Know?
 
+They are likely not going to be stopped by anything and will make it to [[Castle Prosper]] tonight. As of right now, Arthur's Traveling Court has not been realized - but the fact that he is currently home - having just met with [[Moses the Brave]] & [[Alergra Barrowinch]] - is canon, so they will have no issues with timing.
 
 ### What happened?
 
