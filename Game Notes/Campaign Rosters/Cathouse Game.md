@@ -14,9 +14,9 @@ Inec
 Dae Shim
 Shu Ameda
 Gringold
-Penne
 ### Independant
 Ren (formerly, retired)
+Penne (formerly?)
 [[Moses the Brave]]
 
 
