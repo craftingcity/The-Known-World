@@ -48,6 +48,25 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "592bfe856b6a36a8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/CHAR/celeana.png"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -299,8 +318,9 @@
   },
   "active": "6a13b3d72eeab9e4",
   "lastOpenFiles": [
-    "Prenotes Nov 30 23.md",
+    "MEDIA/CHAR/celeana.png",
     "Prenotes Dec 07 23.md",
+    "Prenotes Nov 30 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Woahbee.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "Moses the Brave.md",
@@ -324,9 +344,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Whiteout Enterprises.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "MEDIA/CHAR/celeana.png"
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
 }

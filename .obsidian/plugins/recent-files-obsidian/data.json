@@ -5,6 +5,10 @@
       "path": "Prenotes Dec 07 23.md"
     },
     {
+      "basename": "celeana",
+      "path": "MEDIA/CHAR/celeana.png"
+    },
+    {
       "basename": "Prenotes Nov 30 23",
       "path": "Prenotes Nov 30 23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Southeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
-    },
-    {
-      "basename": "First Invasion of Orcus",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
     }
   ],
   "omittedPaths": [],
