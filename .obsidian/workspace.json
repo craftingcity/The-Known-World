@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "465b3bc2c9fd326c",
+        "id": "f43e60d8b1d99f15",
         "type": "tabs",
         "children": [
           {
-            "id": "79624280cad4a8fe",
+            "id": "fa9ced268199c11e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,64 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Nov 30 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6a13b3d72eeab9e4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Dec 07 23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ffb9724149a80f78",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Alergra Barrowinch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":23},\"to\":{\"line\":33,\"ch\":23}},\"scroll\":27.249123556572094}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expert",
+                "query": "phil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -197,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,9 +207,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,12 +266,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffb9724149a80f78",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
+    "Prenotes Nov 30 23.md",
+    "Prenotes Dec 07 23.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "MEDIA/CHAR/celeana.png",
-    "Prenotes Dec 07 23.md",
-    "Prenotes Nov 30 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Woahbee.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "Moses the Brave.md",
@@ -351,7 +295,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Specific Places/Whiteout Enterprises.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]

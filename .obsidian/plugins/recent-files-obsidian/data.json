@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes Nov 30 23",
+      "path": "Prenotes Nov 30 23.md"
+    },
+    {
+      "basename": "Prenotes Dec 07 23",
+      "path": "Prenotes Dec 07 23.md"
+    },
+    {
       "basename": "Archmage Barrowinch's Tower",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md"
+    },
+    {
+      "basename": "The Assault of the Giant Dissenters",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md"
     },
     {
       "basename": "Alergra Barrowinch",
@@ -11,14 +23,6 @@
     {
       "basename": "celeana",
       "path": "MEDIA/CHAR/celeana.png"
-    },
-    {
-      "basename": "Prenotes Dec 07 23",
-      "path": "Prenotes Dec 07 23.md"
-    },
-    {
-      "basename": "Prenotes Nov 30 23",
-      "path": "Prenotes Nov 30 23.md"
     },
     {
       "basename": "Woahbee",
@@ -195,10 +199,6 @@
     {
       "basename": "Northwestern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
-    },
-    {
-      "basename": "Kohnstamm",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md"
     }
   ],
   "omittedPaths": [],

@@ -6,4 +6,4 @@ In the year of 102AF, a group of Giants gathered together with a simple plan. Tr
 
 "[[All-Father Annam]] is dead and gone. The others do not believe it to be so. Let us show them that the [[Ordening]] is false prophecy. We are greater together!" - [[King Snure]]
 
-[[King Snure]] was a powerful foe who desperately wished to secure his victory. He contacted a group of Drow from the [[Underdark]] who said they could help; [[The Whitimores]]. And they were quite helpful, even from so far away! Snure's one problem, traveling from his domain to Alaturmen they could solve - for a price.
+[[King Snure]] was a powerful foe who desperately wished to secure his victory. He contacted a group of Drow from the [[Underdark]] who said they could help; [[The Whitimores]]. And they were quite helpful, even from so far away! Snure's one problem, traveling from his domain to Alaturmen is a problem they could solve - for a price.
