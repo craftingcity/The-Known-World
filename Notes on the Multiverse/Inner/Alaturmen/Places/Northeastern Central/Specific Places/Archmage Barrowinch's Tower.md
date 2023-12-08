@@ -36,9 +36,9 @@ A collection of rooms that seem to take up the same twenty-by-twenty square room
 #### Apprentices Barracks
 #### Hommunculi Barracks
 ## Peak
-### Alegra's Quarters
-### Alegra's Personal Dense Room
+### Alergra's Quarters
+### Alergra's Personal Dense Room
 A thirty by thirty square Dense Room where Alegra hides her passions.
-#### Alegra's Lab
+#### Alergra's Lab
 #### Hidden Library
 #### Hidden Safe
