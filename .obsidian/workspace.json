@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +213,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md"
+              }
             }
           },
           {
@@ -266,7 +274,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "fa9ced268199c11e",
   "lastOpenFiles": [
     "Prenotes Nov 30 23.md",
     "Prenotes Dec 07 23.md",
