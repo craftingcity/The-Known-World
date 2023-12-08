@@ -35,9 +35,9 @@ Nala *73MaxHP, 14AC* (14)
 Jerran *63MaxHP, 17AC* (8)
 Ulfgar *78MaxHP, 20AC* (7)
 ==Doggies / BLACK (7) *45MaxHP, 15AC* ==
-A - 6, 15, 29
+~~A - 6, 15, 29~~
 ~~B - 14, 32, 46~~
-C - 
+C <> - 
 D - 
 E - 
 F - 
@@ -46,7 +46,8 @@ A -
 B - 
 C - 24
 D - 12
-E - 24
+E - 24, 41
+Jerran's Dogs (4)
 ==Horror Kin / WHITE (1) *1MaxHP, 11AC* ==
 
 ### What happened?
