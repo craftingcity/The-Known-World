@@ -5,6 +5,10 @@
       "path": "Prenotes Dec 07 23.md"
     },
     {
+      "basename": "Alergra Barrowinch",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
+    },
+    {
       "basename": "celeana",
       "path": "MEDIA/CHAR/celeana.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "Southeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
     }
   ],
   "omittedPaths": [],
