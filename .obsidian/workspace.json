@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rectio",
+                "query": "expert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -316,7 +315,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a13b3d72eeab9e4",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "MEDIA/CHAR/celeana.png",
     "Prenotes Dec 07 23.md",

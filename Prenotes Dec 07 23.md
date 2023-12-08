@@ -23,7 +23,7 @@ A tall oval sheet of blood is currently acting as a portal to some planes unknow
 
 #### The Fight
 ==Celaena (22)==
-==Portal (3/5) (20)==
+==Portal (4/5) (20)==
 	1. OPEN
 	2. Doggies
 	3. Monkeys
@@ -32,6 +32,7 @@ A tall oval sheet of blood is currently acting as a portal to some planes unknow
 ==THE GOODIES==
 Breenabell *65MaxHP, 17AC* (17)
 Nala *73MaxHP, 14AC* (14)
+[[Alergra Barrowinch]] (9)
 Jerran *63MaxHP, 17AC* (8)
 Ulfgar *78MaxHP, 20AC* (7)
 ==Doggies / BLACK (7) *45MaxHP, 15AC* ==
@@ -39,14 +40,14 @@ Ulfgar *78MaxHP, 20AC* (7)
 ~~B - 14, 32, 46~~
 C <> - 
 D - 
-E - 
+E - 31
 F - 
 ==Monkeys / RED (4) *68MaxHP, 15AC* ==
 A - 
 B - 
 C - 24
 D - 12
-E - 24, 41
+E - 24
 Jerran's Dogs (4)
 ==Horror Kin / WHITE (1) *1MaxHP, 11AC* ==
 
