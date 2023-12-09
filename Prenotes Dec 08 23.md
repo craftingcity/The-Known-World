@@ -29,6 +29,6 @@ If Daelith puts no fight, and Avory takes her easy then we replace her with Blad
 
 ### What happened?
 
-They 
+They made their way to [[Beacon]] and handed off both Daelith and Vix. Giovani sent a Riphound to follow.
 
 We leave our heroes on the date of ... AF, as they ...
