@@ -26,7 +26,7 @@
 ~~25. Guild of Adventurers~~
 ~~26. Harvord Trading Company~~
 ~~27. Beasts Righteous~~
-28. Mountain Halls of Suremantle
+~~28. Mountain Halls of Suremantle~~
 29. Ranger's Guild
 30. Circles of Animan
 31. Emorin Blood-Clan
