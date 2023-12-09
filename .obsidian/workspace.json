@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "12ec5e01ac4d960d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e4c7b703a2184732",
@@ -38,8 +60,14 @@
             "id": "ead70b5793296d8e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Baron Avory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -83,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"[[Cathouse Game#Kade-Side]]\"",
+                "query": "travel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Dec 08 23.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Dec 08 23.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Dec 08 23.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md"
               }
             }
           },
@@ -301,10 +329,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ead70b5793296d8e",
+  "active": "12ec5e01ac4d960d",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Prenotes Dec 08 23.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
     "Prenotes Nov 30 23.md",
@@ -329,7 +358,6 @@
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Marley Hurraquk.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
