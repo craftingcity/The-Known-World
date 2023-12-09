@@ -10,6 +10,8 @@ Dot
 Vix
 Daelith
 Inec
+Giavoni
+Furgey
 ### Millie-Side
 Dae Shim
 Shu Ameda
