@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f43e60d8b1d99f15",
+        "id": "dfc04037b5afd1f9",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9ced268199c11e",
+            "id": "6d0484d3c62fc1ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,13 +22,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+                "file": "Prenotes Dec 08 23.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "58c3cded474301b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phil",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -274,9 +288,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa9ced268199c11e",
+  "active": "58c3cded474301b0",
   "lastOpenFiles": [
     "Prenotes Dec 08 23.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
     "Prenotes Nov 30 23.md",
     "Prenotes Dec 07 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
@@ -301,8 +317,6 @@
     "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Marley Hurraquk.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Local Lore/Annual Boneborn Bash.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 16 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
