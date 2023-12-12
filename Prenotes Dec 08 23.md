@@ -31,4 +31,4 @@ If Daelith puts no fight, and Avory takes her easy then we replace her with Blad
 
 They made their way to [[Beacon]] and handed off both Daelith and Vix. Giovani sent a Riphound to follow.
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 4th of Weeding 105 AF, as they fish with Dot.
