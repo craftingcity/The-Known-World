@@ -11,8 +11,14 @@
             "id": "76e8a2b7bad23e68",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prenotes Dec 08 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 08 23.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":203},\"to\":{\"line\":33,\"ch\":203}},\"scroll\":22.440364523666567}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -276,8 +282,8 @@
   },
   "active": "76e8a2b7bad23e68",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Prenotes Dec 08 23.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",

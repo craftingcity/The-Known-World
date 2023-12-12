@@ -73,7 +73,7 @@ Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, renderi
 At the center of the multiverse, [[Alaturmen]] formed.
 ```
 
-## The Age of Beginning
+## The Age of Beginning (0th-1st c.)
 ```timeline-labeled
 date: 000TBT~AF
 title: The Fall.
@@ -178,7 +178,7 @@ date: 089AF
 title: The [[First Invasion of Orcus]] fails.
 content:
 
-[[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of Orcus. After a long battle, Orcus was returned unto whatever plane from once he came. The Armies of Orcus were destroyed, but remnant chapters of the Gnolls survived and aclimated to life in the [[The Deserts of Tetrimoc]].
+[[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of [[Orcus]]. After a long battle, Orcus was returned unto whatever plane from once it came. The Armies of Orcus were destroyed, but remnant chapters of the Gnolls survived and aclimated to life in the [[The Deserts of Tetrimoc]].
 
 date: 092AF
 title: Powers retire.
@@ -188,6 +188,11 @@ content:
 
 [[Tetrimoc]] no longer is a visible leader of his flock, granting controll of [[The Golden City]] to the [[Golden Claws]], and his journal is reproduced and distributed across Alaturmen.
 
+```
+
+## The Age of Warkind (1st c.)
+
+```timeline-labeled
 
 date: 103AF
 title: [[The Assault of the Giant Decenters]].
@@ -199,17 +204,16 @@ After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeti
 
 With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak.
 
+date: 104AF
+title: 
+content:
+
 date: 105AF
 title: The [[Second Invasion of Orcus]]
 content:
 
 Throughout the material planes, a dark hum permiates the Weave, and many adventurers feel the call to power. The darkest fibers of reality are worked by [[Qiell Tilemundon]] and [[Kalariel]] in the search for eternal life - though existance will suffice. [[Orcus]]' cultists summon a powerful royal Demon, who razes [[Boneborn]] and takes leadership of the fiendish forces on Alaturmen.
 
-```
-
-## The Age of Warkind
-
-```timeline-labeled
 date: 106AF
 title: 
 content:
