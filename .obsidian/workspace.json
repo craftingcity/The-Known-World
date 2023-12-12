@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1da882983ccfc806",
+        "id": "add5b9db810e69af",
         "type": "tabs",
         "children": [
           {
-            "id": "08fe666a92b64b60",
+            "id": "76e8a2b7bad23e68",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -118,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -144,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +213,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Timeline.md"
+              }
             }
           },
           {
@@ -267,8 +274,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08fe666a92b64b60",
+  "active": "76e8a2b7bad23e68",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Prenotes Dec 08 23.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
@@ -295,7 +303,6 @@
     "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
-    "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
