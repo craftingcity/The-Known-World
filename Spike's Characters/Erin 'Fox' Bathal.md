@@ -111,3 +111,4 @@ In an attempt to gain enough money to charter a ship south along the coast towar
 
 ##### Session Eight; 12/12/23
 ###### Travel to the Desert
+Many days of uneventful travel takes us to the end of the line of this river. To the west, there is a Village "just before the mountains" that we will likely pass through before chartering our vessels. 
