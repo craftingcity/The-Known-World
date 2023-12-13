@@ -202,7 +202,7 @@ The grand adventurer dragon [[Kakurak]] uses his past and current resources to h
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 
-With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak.
+With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak - easy prey for the Saints.
 
 date: 104AF
 title: 
