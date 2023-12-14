@@ -25,5 +25,9 @@ When last we left our heroes, they had organized a show of good faith with the K
 
 ### What happened?
 
+#### The Fight
+Gringold
+Gobbos
+Dae Shim
 
 We leave our heroes on the date of ... AF, as they ...
