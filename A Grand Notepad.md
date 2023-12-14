@@ -32,6 +32,8 @@ i'm lost
 3c adventuring
 equipment
 needs
+	food
+	rest (& healing interaction)
 social interaction
 downtime
 gaining levels
@@ -44,12 +46,16 @@ your turn
 	counter action
 	OR
 	some type of action point system, perhaps tied to current vitality
-
 vitality and wounds
+conditions
 attacking
+	critical hits
+	critical misses
+	injuries
 spellcasting during combat
 environment
-positioning
+	environmental damage
+	positioning
 conditions
 3e magic
 sources and delineations

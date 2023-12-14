@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f438296495d705d",
+        "id": "29ba84d2a1b3e946",
         "type": "tabs",
         "children": [
           {
-            "id": "802f1c86c3c8d63b",
+            "id": "ff26e14de4dfafef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "travel",
+                "query": "grand note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZATION/Faction Turn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +207,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ORGANIZATION/Faction Turn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,8 +266,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "802f1c86c3c8d63b",
+  "active": "ff26e14de4dfafef",
   "lastOpenFiles": [
+    "A Grand Notepad.md",
+    "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 17 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
     "Prenotes Dec 08 23.md",
@@ -299,11 +292,9 @@
     "Prenotes Dec 06 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "ORGANIZATION/Faction Turn.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 19 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/The Return of Moses the Brave.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 21 23.md",
-    "Game Notes/Prenotes/'23/Prenotes June 26 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]

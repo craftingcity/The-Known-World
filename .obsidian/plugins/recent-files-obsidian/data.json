@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Faction Turn",
       "path": "ORGANIZATION/Faction Turn.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Noble House a'Fen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
-    },
-    {
-      "basename": "Melsaneas",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Melsaneas.md"
     }
   ],
   "omittedPaths": [],
