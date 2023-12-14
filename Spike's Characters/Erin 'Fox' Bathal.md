@@ -105,6 +105,10 @@ The guards give us a little bit of a hard time getting in, they seem weary of ou
 	- Delonious' Emporium
 		- This guy is strange.
 
-Saied seemed to suggest that if Boar and Sparrow were captured by natives, they would be taken South into the Desert Cities - maybe even specifically *Nevos*.
+Saied seemed to suggest that if Boar and Sparrow were captured by natives, they would be taken South into the Desert Cities - maybe even specifically *Neavos*.
 
 In an attempt to gain enough money to charter a ship south along the coast towards the desert, we robbed Diarf for a "Godsteel Axe" that was supposedly worth 3500gp.
+
+##### Session Eight; 12/12/23
+###### Travel to the Desert
+Many days of uneventful travel takes us to the end of the line of this river. To the west, there is a Village "just before the mountains" that we will likely pass through before chartering our vessels. A number of animal tracks and steel traps are set along this main road. We move on. As we travel into the mountains, the trail thins out and turns to switchbacks. Aerie saw a fucking chimera, so the party's predictions were right, and it travelled back into the mountain range. So far, we've only seen the one - but we are soon accosted by a hunting pair!

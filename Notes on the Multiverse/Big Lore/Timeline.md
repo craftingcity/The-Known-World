@@ -73,7 +73,7 @@ Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, renderi
 At the center of the multiverse, [[Alaturmen]] formed.
 ```
 
-## The Age of Beginning
+## The Age of Beginning (0th-1st c.)
 ```timeline-labeled
 date: 000TBT~AF
 title: The Fall.
@@ -169,16 +169,16 @@ content:
 The southern states born of rebelion gather together as [[The Democratic Combine of Peoples]] and form a "kind" structure for both working together and against one another.
 
 date: 084AF
-title: [[Three Nation Highways]] are finished.
+title: A prophecy is made.
 content:
 
-The [[Guild of Crafters]] finish the large, interconnected roadway in the north and southeast. Trade blossoms.
+Across Alaturmen, the Emotional Gods bestow power to and create connections with a select few children across the world in a deal with the Second Fate. In exchange for their investments, the Fate began to Weave a prohecy into time; the Gods of Alaturmen will rise and fall - to heights it's peoples can not only touch and imagine - while the deeds of a God may go unpunished - no soul is not rewarded in time.
 
 date: 089AF
 title: The [[First Invasion of Orcus]] fails.
 content:
 
-[[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of Orcus. After a long battle, Orcus was returned unto whatever plane from once he came. Nearly all of the Armies of Orcus were destroyed, but remants of the Gnolls survived and began to repopulate in the [[The Lands of Tetrimoc]].
+[[The Grey Ordeal]] fight for months alongside the nations of the world against the influence of [[Orcus]]. After a long battle, Orcus was returned unto whatever plane from once it came. The Armies of Orcus were destroyed, but remnant chapters of the Gnolls survived and aclimated to life in the [[The Deserts of Tetrimoc]].
 
 date: 092AF
 title: Powers retire.
@@ -188,6 +188,11 @@ content:
 
 [[Tetrimoc]] no longer is a visible leader of his flock, granting controll of [[The Golden City]] to the [[Golden Claws]], and his journal is reproduced and distributed across Alaturmen.
 
+```
+
+## The Age of Warkind (1st c.)
+
+```timeline-labeled
 
 date: 103AF
 title: [[The Assault of the Giant Decenters]].
@@ -197,12 +202,36 @@ The grand adventurer dragon [[Kakurak]] uses his past and current resources to h
 
 After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeting.]] A war-council meets in [[Kohnstamm]] to oppose the threat. 
 
-With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak.
+With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak - easy prey for the Saints.
 
-date: 105AF
-title: The [[Second Invasion of Orcus]]...
+date: 104AF
+title: 
 content:
 
-Throughout the material planes, a dark hum permiates the Weave. [[Qiell Tilemundon]] and [[Kalariel]] abscond
+date: 105AF
+title: The [[Second Invasion of Orcus]]
+content:
+
+Throughout the material planes, a dark hum permiates the Weave, and many adventurers feel the call to power. The darkest fibers of reality are worked by [[Qiell Tilemundon]] and [[Kalariel]] in the search for eternal life - though existance will suffice. [[Orcus]]' cultists summon a powerful royal Demon, who razes [[Boneborn]] and takes leadership of the fiendish forces on Alaturmen.
+
+date: 106AF
+title: 
+content:
+
+date: 107AF
+title: 
+content:
+
+date: 108AF
+title: 
+content:
+
+date: 109AF
+title: 
+content:
+
+date: 110AF
+title: 
+content:
 
 ```
