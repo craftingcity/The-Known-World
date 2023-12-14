@@ -46,6 +46,48 @@
             }
           },
           {
+            "id": "05f7abfd9e70e7f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da0372b861b20ed0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "065d6e51014181ea",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -88,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Dec 13 23.md",
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Dec 13 23.md",
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Dec 13 23.md"
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
               }
             }
           },
@@ -334,10 +376,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b7562bdb75bb830",
+  "active": "da0372b861b20ed0",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Xuiop.md",
     "Prenotes Dec 13 23.md",
+    "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
@@ -362,7 +405,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
-    "Prenotes Dec 06 23.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
