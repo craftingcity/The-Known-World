@@ -5,16 +5,20 @@
       "path": "Prenotes Dec 13 23.md"
     },
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Kantine (language)",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md"
+    },
+    {
       "basename": "Gambleum",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md"
     },
     {
       "basename": "Arthur's Knights",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "Erin 'Fox' Bathal",
@@ -195,10 +199,6 @@
     {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
-    },
-    {
-      "basename": "Lendvien",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Lendvien.md"
     }
   ],
   "omittedPaths": [],

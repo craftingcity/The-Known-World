@@ -28,6 +28,7 @@ When last we left our heroes, they had organized a show of good faith with the K
 #### The Fight
 Gringold
 Gobbos
+	king 7, 21, 45
 Dae Shim
 
 We leave our heroes on the date of ... AF, as they ...

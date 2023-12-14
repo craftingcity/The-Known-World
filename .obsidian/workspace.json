@@ -89,33 +89,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3118cae282af96be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e1c0463142b5a42",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a'h",
+                "query": "Kantine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,10 +336,11 @@
   },
   "active": "5b7562bdb75bb830",
   "lastOpenFiles": [
+    "Game Notes/NPCs/List of Names.md",
+    "Prenotes Dec 13 23.md",
+    "Notes on the Multiverse/Big Lore/Languages/Age of Beginning/Kantine (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Prenotes Dec 13 23.md",
-    "Game Notes/NPCs/List of Names.md",
     "Spike's Characters/Erin 'Fox' Bathal.md",
     "ORGANIZATION/Faction Turn.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -389,7 +363,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
     "Prenotes Dec 06 23.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
   ]
