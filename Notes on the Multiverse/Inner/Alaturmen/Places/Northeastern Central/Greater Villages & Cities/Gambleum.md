@@ -13,6 +13,17 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
+### Chapter-House Rectio
+```
+Lord-Commander: Lucas a'Haruuc
+High-Quartermaster: Jonah a'Haruuc
+1st Field Commander: Freya Harris
+2nd Field Commander: Dorian Rogers
+3rd Field Commander: Mayon Bradley
+4th Field Commander: Kia Pearce
+5th Field Commander: 
+```
+
 
 
 ## Economics

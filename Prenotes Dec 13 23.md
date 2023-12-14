@@ -19,6 +19,8 @@ When last we left our heroes, they had organized a show of good faith with the K
 
 ### What does the World Know?
 
+3rd Field Commander: Mayon Bradley of Chapter-House Rectio commands 12 squads of 8.
+
 
 
 ### What happened?
