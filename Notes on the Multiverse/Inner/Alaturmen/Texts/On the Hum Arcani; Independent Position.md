@@ -8,7 +8,7 @@ aliases:
 This text is written in response to the public release of "[[On the Hum Arcani; Guild Position]]", which was notably poorly received by many "independent" mages (ie; mages who do not work directly or tangentially with the [[Guild of Wizards]], including many Acolytes of the Emotional Gods and Members of the Druid Circles, many of whom have attached their name to the following document).
 
 # On the Hum Arcani; Independent Position
-## by [[Dimble Turring]], [[Scree'up]], [[Doctor Gunagido]], et al.
+## by [[Dimble Turing]], [[Scree'up]], [[Doctor Gunagido]], et al.
 
 *In response to the Guild of Wizards*;
 

@@ -37,7 +37,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **Past Adventurers, Now NPCs**
 		- [[Adventuring Parties]]
 		- [[Devililith]]
-		- [[Dimble Turring]]
+		- [[Dimble Turing]]
 		- **[[Grey Ordeal]]**
 		- [[Irenaus]]
 		- **[[Kakurak's Chosen]]**
