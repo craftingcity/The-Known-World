@@ -25,5 +25,14 @@ When you all awake, I must put the question to you, what do you do?
 
 ### What happened?
 
+In talking with 
+
+(+DEX / Jerran)
+Crossbow
++STR / Breena)
+Plate Armor (Ulfgar)
+Greathammer (Ulfgar)
+(+STEALTH / DEX / Nala)
+
 
 We leave our heroes on the date of ... AF, as they ...
