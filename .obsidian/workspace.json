@@ -29,6 +29,69 @@
             }
           },
           {
+            "id": "6df3735c8748f00e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5e54c07c2d716425",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eeb64f9bb57dcd65",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "88c3f46f8e778f02",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -69,8 +132,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "28a0cac42ccc44c2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf6c8a5aa11efdf8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Dec 14 23.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Dec 14 23.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Dec 14 23.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
               }
             }
           },
@@ -317,11 +423,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "6df3735c8748f00e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Prenotes Dec 14 23.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
+    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
+    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
@@ -341,10 +451,6 @@
     "Spike's Characters/Erin 'Fox' Bathal.md",
     "ORGANIZATION/Faction Turn.md",
     "Prenotes Dec 08 23.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Avory.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
-    "conflict-files-obsidian-git.md",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"

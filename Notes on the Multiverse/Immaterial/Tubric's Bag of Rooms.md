@@ -4,19 +4,19 @@
 			- Each plant can be harvested twice a month on a DC12 Survival or higher. When left unattended for 3 or more half-months, the plants will all die, and the garden will become overgrown.
 			- Currently, there are multiple alchemically potent plants growing here:
 				- Witchweed (18x)
-				- Polypore (6x Y, 6x R, 6x B)
-				- Aloe Vera (6x)
-				- Dragons Tounge (6x)
-				- Lephora Fruit (6x)
-				- Nightshade (6x)
-				- Glowshroom (6x)
-				- Cannabis / Hemp (6x)
-				- Harrada (4x)
-				- Foxglove (4x)
-				- Lavander (4x)
+				- Polypore (12x Y, 12x R, 12x B)
+				- Aloe Vera (9x)
+				- Dragons Tounge (12x)
+				- Lephora Fruit (10x)
+				- Nightshade (12x)
+				- Glowshroom (12x)
+				- Cannabis / Hemp (12x)
+				- Harrada (8x)
+				- Foxglove (8x)
+				- Lavander (8x)
 		- Corpse Room;
 			- Same rules as the Greenhouse, the following are growing here. Most recently tended on the 2nd of Weeding 105AF.
-				- Undead Moss (4x)
+				- Undead Moss (8x)
 		- Stables;
 		- Bedroom;
 		- Barracks;

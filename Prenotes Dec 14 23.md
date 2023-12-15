@@ -43,6 +43,11 @@ Ulfgar
 
 They fought and won vs Old Stickfingers, and looted the place - she had a bag of holding full of alchemical witch shit.
 
+#### ALCHEMY
+aloe (2)
+foxglove (2)
+lavender (1)
 
+for a Vitality
 
 We leave our heroes on the date of ... AF, as they ...
