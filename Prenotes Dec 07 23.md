@@ -54,4 +54,4 @@ Jerran's Dogs (4)
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 9th of Weeding 105 AF, as they remain in [[Castle Prosper]] deciding what they would like to take on as their next major tasks.
