@@ -31,4 +31,6 @@ Gobbos
 	king 7, 21, 45
 Dae Shim
 
+They returned to King Arthur with the head of the Scrivin Clan Leader - .
+
 We leave our heroes on the date of the 9th of Weeding, 105 AF, as they return north towards Cenva Minyo and the Actstow Hills for information regarding specific characters they've "tailed" - including Human Gringold, Moses, and other Parties throughout the world.
