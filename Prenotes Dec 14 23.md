@@ -41,4 +41,8 @@ Jerran
 ~~Hag 20, 42, 47, 59, 64, 77, 109~~
 Ulfgar
 
+They fought and won vs Old Stickfingers, and looted the place - she had a bag of holding full of alchemical witch shit.
+
+
+
 We leave our heroes on the date of ... AF, as they ...

@@ -23,7 +23,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### K22. Old Stickfinger's Ruined Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, flies and maggots surround the rotting meat.
 	- After a near-death experience, Old Stickfingers does not accept guests, and has reinforced her cabin with wooden-spike barricades.
-	- 
+	- The Hatdroppers burnt the clearing and cabin down with oil and fire.
 #### K23.
 #### K26. Chapter-House Constantia of [[Arthur's Knights]] (visible)
 	- A two-story stone building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the Praire. The building's construction is imposing, but soft; not as delicacy, but invitation.
