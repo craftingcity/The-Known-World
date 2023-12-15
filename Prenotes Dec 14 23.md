@@ -25,7 +25,7 @@ When you all awake, I must put the question to you, what do you do?
 
 ### What happened?
 
-In talking with 
+In talking with Alergra Barrowinch, they requested more Magic Items. She suggested some Guild equipment that might fall off a truck, but they also requested a few personal items;
 
 (+DEX / Jerran)
 Crossbow
@@ -34,5 +34,6 @@ Plate Armor (Ulfgar)
 Greathammer (Ulfgar)
 (+STEALTH / DEX / Nala)
 
+ 
 
 We leave our heroes on the date of ... AF, as they ...
