@@ -34,6 +34,11 @@ Plate Armor (Ulfgar)
 Greathammer (Ulfgar)
 (+STEALTH / DEX / Nala)
 
- 
+#### Fight
+Nala
+Breenabell
+Jerran
+Hag 20, 42
+Ulfgar
 
 We leave our heroes on the date of ... AF, as they ...
