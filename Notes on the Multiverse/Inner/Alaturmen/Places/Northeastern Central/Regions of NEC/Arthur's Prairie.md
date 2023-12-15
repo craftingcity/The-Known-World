@@ -20,7 +20,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 #### J16. 
 #### K16.
-#### K22. Old Stickfinger's Cabin
+#### K22. Old Stickfinger's Ruined Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, flies and maggots surround the rotting meat.
 	- After a near-death experience, Old Stickfingers does not accept guests, and has reinforced her cabin with wooden-spike barricades.
 	- 

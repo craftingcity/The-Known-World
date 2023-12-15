@@ -38,7 +38,7 @@ Greathammer (Ulfgar)
 Nala
 Breenabell
 Jerran
-Hag 20, 42
+~~Hag 20, 42, 47, 59, 64, 77, 109~~
 Ulfgar
 
 We leave our heroes on the date of ... AF, as they ...
