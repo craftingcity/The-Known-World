@@ -1,23 +1,23 @@
 ---
-tags: holding,
+tags:
+  - holding
 aliases:
 ---
+# Red Throne
+#### Sub-names?
+## Holding of [[Knights in Red]]
+### Located in {Region}, X:Y
+## Description
+### "Quote"
 
-# Holding Tags
-Prosperity:
-Population:
-Defenses:
-Other Tags:
+### General Public Disposition
 
-# Description
-Any sort of local lore...
-## Physicality of the Holding
+### Background
+## Important Places & Symbolism
 
-## Population Distribution
-If it differs from the nation's...
+## Economics
+|     | # of Traders |
+| --- | ------------ |
+|     |              |
 
-## Defenses
-
-## Notable Locations
-Including both locations in the holding and around it, such as "the cave three miles southwest" or "Jimmy's potion shop in the Foire District"...
-
+## Governance

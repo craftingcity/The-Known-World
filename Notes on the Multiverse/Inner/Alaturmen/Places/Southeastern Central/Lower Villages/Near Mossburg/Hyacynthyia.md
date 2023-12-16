@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Hyacynthyia
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Mossburg Enforcers]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

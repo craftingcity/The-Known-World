@@ -3,9 +3,9 @@ tags:
   - holding
 aliases:
 ---
-# Name
+# Bannerburn
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Beasts Righteous]]
 ### Located in {Region}, X:Y
 ## Description
 ### "Quote"

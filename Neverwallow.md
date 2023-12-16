@@ -3,9 +3,9 @@ tags:
   - holding
 aliases:
 ---
-# Black Egal
+# Neverwallow
 #### Sub-names?
-## Holding of [[Beasts Righteous]]
+## Holding of {Faction}
 ### Located in {Region}, X:Y
 ## Description
 ### "Quote"

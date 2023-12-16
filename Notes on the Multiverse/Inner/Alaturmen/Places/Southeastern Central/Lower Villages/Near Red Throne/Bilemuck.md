@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Bilemuck
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Knights in Red]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

@@ -5,6 +5,7 @@ aliases:
 # Issac Filip
 ## Baron of the [[Huntyr Swamp]]
 ## Lord-Commander of the [[Knights in Red]]
+## General on [[Red Throne]]
 ### he/him
 
 > A regal old red dragonborn is dressed in blood stained ceremonial plate armor. He holds a large claymore - it too soaked in old blood - with gold embossing at his side. His face does not display menace, but rather cool suspicion.

@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Glenarm
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Hillkeep Loyalists]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

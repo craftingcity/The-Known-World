@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Crullfeld
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Mossburg Enforcers]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

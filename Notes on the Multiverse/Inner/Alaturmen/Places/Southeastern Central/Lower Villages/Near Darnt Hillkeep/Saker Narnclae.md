@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Saker Narnclae
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[Hillkeep Loyalists]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote
