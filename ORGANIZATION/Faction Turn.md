@@ -30,8 +30,8 @@
 ~~29. Ranger's Guild~~
 ~~30. Circles of Animan~~
 ~~31. Emorin Blood-Clan~~
-32. Garqwak Blood Clan
-33. Guild of Merchants
+~~32. Garqwak Blood Clan~~
+~~33. Guild of Merchants~~
 34. High-Church of the White Flames
 35. Hillkeep Loyalists
 36. Cobalt's Noble Theives
