@@ -34,7 +34,7 @@
 ~~33. Guild of Merchants~~
 ~~34. High-Church of the White Flames~~
 ~~35. Hillkeep Loyalists~~
-36. Cobalt's Noble Theives
+~~36. Cobalt's Noble Theives~~
 37. Guild of Wizards
 38. Tetrimocal Congregations
 39. Five Pike
