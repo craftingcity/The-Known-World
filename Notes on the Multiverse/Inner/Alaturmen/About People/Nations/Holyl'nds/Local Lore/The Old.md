@@ -30,6 +30,8 @@ While many of the most common casters draw on divine or natural powers, those ca
 
 ##### Equipment
 
+##### Hazards
+
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
 
@@ -44,13 +46,28 @@ A collective name for the individuals and groups without a greater affiliation t
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries betray their well-earned trust for the benefit of their unknown patrons. 
 
-##### Extremis
-Extremis is a loose collective of ex-soldiers and proven seekers that claim to be members of [[Arthur's Knights]], but the validity of this is subject to question, and [[Arthur Simonson|Artie]] has yet to claim them as truly his. While ideologically overambitious, with a common drive to 
+##### Extramis
+Extramis is a loose collective of ex-soldiers and proven seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
 ##### Fallen
-Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the glorious flame and it's beautiful oblivion. Soon they will become Fallen, and lose all but the very surface of themselves.
+Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
 ## Important Places & Symbolism
+### The Cordon
+### The Haven
+A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Seekers and Mercenaries that operate in and nearby the Factory.
+### The Sticks
+A safezone in the middle of a well crafted maze of traps and hazards. 
+### The Factory
+The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
+### The City
+### The Village
+### The Temple
+The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
+### The Base
+The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
+### The Dwarven Ship
+A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
 ## Economics
 |     | # of Traders |
