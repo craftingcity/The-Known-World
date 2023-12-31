@@ -9,14 +9,20 @@ aliases:
 
 # Minyostalma
 #### The Ruins of the Old Empire
-## Holding *ABANDONED*
+## Holding of [[The Church of the White Flame]]
 ### Located in [[Central Holyl'nd]], X:Y
 ## Description
 ### "Quote"
 
-Minyostalma is a collective name for the many small villages and townships that surround the most major city in the Old Elven Empire. 
+Minyostalma is a collective name for the many small villages and townships that surround the most major city in the Old Elven Empire. It has been cordoned off from the rest of [[The Holyl'nds]] with a large military presence - though most of the soldiers holding the line here are preventing people from leaving more than stopping people from coming in.
 
 The Ruins to the west and north of the central city are the most picked over, as scavengers have frequented the area for dozens of years at this point. As you come closer and closer to the central Temple structure in the walled city-proper, the more dangerous the scavenging becomes, and even the most prepared scavengers do not spend long inside The Old.
+
+#### Magic Isn't Correct Here...
+##### Divinity
+While many of the most common casters draw on divine or natural powers, those casters will find that their powers have been stripped from them in this place. While you may call upon a natural or divine power in this place, you are sure to fail to reach them. Repeated attempts may draw upon the ire of the Old...
+
+	> When a "divine" or "natural" caster attempts to cast a spell, they may do so only at great expense. 
 
 
 ### General Public Disposition
