@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
     },
     {
+      "basename": "How the Weave becomes Magic",
+      "path": "Notes on the Multiverse/Big Lore/How the Weave becomes Magic.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Faction Turn",
       "path": "ORGANIZATION/Faction Turn.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Alergra Barrowinch",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
-    },
-    {
-      "basename": "Prenotes Dec 13 23",
-      "path": "Prenotes Dec 13 23.md"
-    },
-    {
-      "basename": "Dimble Turing",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Dimble Turing.md"
     }
   ],
   "omittedPaths": [],
