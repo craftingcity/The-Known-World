@@ -54,18 +54,25 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 
 ## Important Places & Symbolism
 ### The Cordon
+A military outpost that supplies and commands operations within the Old performed by off-record Church soldiers. Legally, this is the only way in or out of the Old.
+
 ### The Haven
 A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Seekers and Mercenaries that operate in and nearby the Factory.
+
 ### The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
+
 ### The Factory
 The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
+
 ### The City
 ### The Village
 ### The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
+
 ### The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
+
 ### The Dwarven Ship
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
