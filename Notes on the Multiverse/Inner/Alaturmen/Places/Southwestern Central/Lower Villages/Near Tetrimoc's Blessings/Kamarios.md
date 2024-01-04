@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Kamarios
+#### The Broken City
+## Holding of [[Golden Claws]]
+### Located in [[, X:Y
 ## Description
 ### Quote
 
