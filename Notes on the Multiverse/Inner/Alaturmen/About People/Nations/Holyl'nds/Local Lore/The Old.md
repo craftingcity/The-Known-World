@@ -31,12 +31,14 @@ While many of the most common spellcasters draw on divine or natural powers, tho
 ###### Arcane Spellcasters
 Where their Divine companions are personally punished for their casting, and may be unable to safely cast spells at all, Arcane spellcasters are often overwhelmed with the effectiveness of their spells while they are cast within the Old.
 
-	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. If they succeed, they take a number of d6 psycic damage equal to the spell's level, and the spell is cast as per usual. Then,   If they fail, they take a number of d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
-
-##### Equipment
+	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. 
+	> 	If they succeed, they take a number of d6 psycic damage equal to the spell's level, and the spell is cast as per usual. Then, they roll on the Wild Magic table. 
+	> 	If they fail, they take a number of d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
+	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
 ##### Hazards
-###### 
+###### Unnatural Enemies
+###### Natural Dangers
 
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
@@ -46,17 +48,38 @@ The most unprepared are those that believe anyone they encounter is as kind as t
 ##### Seekers
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
 
+###### Equipment
+###### Areas of Operation
+
 ##### Church Military
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and commonly attack on sight.
+
+###### Equipment
+###### Areas of Operation
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries betray their well-earned trust for the benefit of their unknown patrons. 
 
+###### Equipment
+###### Areas of Operation
+
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and proven seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
+###### Equipment
+###### Areas of Operation
+
+##### Mountain Troopers
+Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their gunpowder blasters.
+
+###### Equipment
+###### Areas of Operation
+
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
+
+###### Equipment
+###### Areas of Operation
 
 ## Important Places & Symbolism
 ### The Cordon
