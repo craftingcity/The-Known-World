@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Alergra Barrowinch",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
-    },
-    {
-      "basename": "Prenotes Dec 13 23",
-      "path": "Prenotes Dec 13 23.md"
-    },
-    {
-      "basename": "Dimble Turing",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Dimble Turing.md"
     }
   ],
   "omittedPaths": [],
