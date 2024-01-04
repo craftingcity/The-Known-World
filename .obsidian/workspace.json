@@ -35,6 +35,27 @@
             }
           },
           {
+            "id": "1d343db03194a68b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 01 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "123899cdb0770c45",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -55,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Prenotes Jan 01 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Prenotes Jan 01 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Prenotes Jan 01 24.md"
               }
             }
           },
@@ -304,12 +326,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72db0c88b7865e29",
+  "active": "1d343db03194a68b",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Prenotes Jan 01 24.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "conflict-files-obsidian-git.md",
     "Nobles of Mountain Hall.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "ORGANIZATION/Faction Turn.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
@@ -332,7 +355,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Hyrwinch.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Hyacynthyia.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Fourstone.md",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
