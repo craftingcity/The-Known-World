@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d55843cbc520aee6",
+        "id": "7706a9a1dd290ba1",
         "type": "tabs",
+        "dimension": 77.36708860759494,
         "children": [
           {
-            "id": "72db0c88b7865e29",
+            "id": "6be46356b0d6eba4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,31 +19,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "conflict-files-obsidian-git",
+                  "title": "Custom Heritages",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d343db03194a68b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":36},\"to\":{\"line\":135,\"ch\":36}},\"scroll\":131.55392110335384}"
                 }
               ]
             },
@@ -56,7 +36,7 @@
             }
           },
           {
-            "id": "123899cdb0770c45",
+            "id": "7957b4695e51cfef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -70,11 +50,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "de05c7a59e63f5f2"
+          },
+          {
+            "id": "5a21b076bee3e72f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "bd84ed8cc789582f"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "64b4e3e27977d595",
+        "type": "tabs",
+        "dimension": 22.632911392405063,
+        "children": [
+          {
+            "id": "40a4abf6ce7bb168",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+              }
+            },
+            "group": "bd84ed8cc789582f"
+          },
+          {
+            "id": "a61df813ef65be65",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+              }
+            },
+            "group": "de05c7a59e63f5f2"
           }
         ],
         "currentTab": 1
@@ -197,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 01 24.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 01 24.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Jan 01 24.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
               }
             }
           },
@@ -326,11 +377,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d343db03194a68b",
+  "active": "7957b4695e51cfef",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Prenotes Jan 01 24.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "conflict-files-obsidian-git.md",
     "Nobles of Mountain Hall.md",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
@@ -353,8 +406,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Bannerburn.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Hyrwinch.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Hyacynthyia.md",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"

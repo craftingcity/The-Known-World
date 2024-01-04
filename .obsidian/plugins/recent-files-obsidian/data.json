@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
       "basename": "Prenotes Jan 01 24",
       "path": "Prenotes Jan 01 24.md"
     },
     {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "Faction Turn",
@@ -191,14 +199,6 @@
     {
       "basename": "Wargods without War",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md"
-    },
-    {
-      "basename": "True Villian NPCs",
-      "path": "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md"
-    },
-    {
-      "basename": "Alergra Barrowinch",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
     }
   ],
   "omittedPaths": [],
