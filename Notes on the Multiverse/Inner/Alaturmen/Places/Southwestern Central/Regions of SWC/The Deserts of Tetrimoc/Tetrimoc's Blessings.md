@@ -9,14 +9,14 @@ aliases:
 ### Flora
 ### Scenarios
 #### AG11.
-#### AH7.
+#### AH7. The White Tower of the Black Mage
 #### AH8.
 #### AH9.
 #### AH10.
 #### AH11.
 #### AH12.
 #### AI7.
-#### AI8.
+#### AI8. 
 #### AI9.
 #### AI10. Statue of an Imperialist & a Proletariat (visible)
 	- A small four foot bronze statue stands on a platform in the sand. The statue depicts two figures shaking hands; the first is wearing the garb of a Guardsman of the [[Golden Claws]]. The second is wearing a simple pair of shorts and a shirt.
