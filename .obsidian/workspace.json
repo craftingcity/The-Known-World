@@ -39,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Falaj Dawheer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":13},\"to\":{\"line\":22,\"ch\":13}}}"
+                },
+                {
                   "title": "Abricadabrin",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md\",\"mode\":\"source\",\"source\":true}}",
@@ -55,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
+                "file": "Prenotes Jan 01 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -203,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
+                "file": "Prenotes Jan 01 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
+                "file": "Prenotes Jan 01 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md"
+                "file": "Prenotes Jan 01 24.md"
               }
             }
           },
@@ -334,8 +340,8 @@
   },
   "active": "de31bb0e8a559d94",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
     "Prenotes Jan 01 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
