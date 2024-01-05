@@ -37,15 +37,28 @@ Where their Divine companions are personally punished for their casting, and may
 	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
 #### Hazards
-##### Unnatural Enemies
-###### 
-
-##### Natural Dangers
-###### Anomalies
+##### Anomalies
 Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
 
+###### Burner
+> A burner anomaly is like vents of fire you cannot see until you have stepped over them.
+Within a 10' radius circle, each 5' space has a 1d6 chance of being active. Each active space is active until the beginning of the activator's next turn. When a creature ent
 
 
+Comet  
+Vortex  
+Springboard  
+Whirligig  
+Fruit Punch  
+Burnt Fuzz  
+Gas  
+Gas Cloud  
+Electro  
+Tesla  
+Space Anomaly  
+Teleport 
+Emission  
+Radiation
 
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
