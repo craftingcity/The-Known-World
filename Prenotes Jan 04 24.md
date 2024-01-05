@@ -21,10 +21,10 @@ Without an address for your quarry's lair, I put the question to you, what is yo
 
 ### What does the World Know?
 
-The Red Mage, [[Alergra Barrowinch]], has the following magical items prepared;
-	- AdGuild Class 4 'Huntyr' armor set (x4)
-		- A 
-	- 
+The Red Mage, [[Alergra Barrowinch]], has the following magical items prepared that have fallen off the back of a truck coming and going from the Adventurers Guilds;
+	- Class 4 'Huntyr' armor set (x4)
+		- A light armor built with a elvenfiber curriass, an overarmor of dark leather, and a set of chitin plates
+	- Class 4 ''
 
 ### What happened?
 
