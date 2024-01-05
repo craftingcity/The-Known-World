@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, 
+When last we left our heroes, they were on the hunt for power. They had killed a witch of some disgusting necrotic abilities and gathered a sack of arcane ingredients. Since then, they have traveled north into the [[Firelight Sea]] in search of a kind old dragon by the name of [[Kakurak]]. 
 
 ### What does the World Know?
 
