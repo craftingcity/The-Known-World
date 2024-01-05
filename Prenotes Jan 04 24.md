@@ -21,6 +21,10 @@ Without an address for your quarry's lair, I put the question to you, what is yo
 
 ### What does the World Know?
 
+The Red Mage, [[Alergra Barrowinch]], has the following magical items prepared;
+	- AdGuild Class 4 'Huntyr' armor set (x4)
+		- A 
+	- 
 
 ### What happened?
 
