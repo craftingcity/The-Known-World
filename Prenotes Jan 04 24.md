@@ -21,12 +21,7 @@ Without an address for your quarry's lair, I put the question to you, what is yo
 
 ### What does the World Know?
 
-The Red Mage, [[Alergra Barrowinch]], has the following magical items prepared that have fallen off the back of a truck coming and going from the Adventurers Guilds;
-	- Class 4 'Huntyr' armor set (x4)
-		- A light armor built with a elvenfiber curriass, an overarmor of dark leather, and a set of chitin plates
-	- Class 4 ''
-
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 17th of Weeding 105 AF, as they are resting in [[Kakurak's Lair]], discussing their plans to travel to [[Kailkeep]] and gather more power there.
