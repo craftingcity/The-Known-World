@@ -21,6 +21,8 @@ aliases:
 	- This cloak provides the attuned +5' per round to their walking speed.
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
 
+- Tubric's Armor
+
 ## Wonderous Items
 - The Quick Time
 	- > A small hourglass that has major chronomantic power. Crafted by the one and only [[Alergra Barrowinch]], with major assistance from [[The Wizard In Blue]].
@@ -77,7 +79,7 @@ aliases:
 
 - The Tuber
 	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
-	- Currently located with [[Sarahouse Game]]
+	- Currently located with [[Kakurak]]
 
 - A Trophied Tail of a Horrible Beast
 	- > A ten-foot long black tail pointed into a sharp pointed barb at the end, the upper half of this terrifying spear is covered in small black needles. Two sections of the lower half have been carved away to fit a pair of gauntleted hands snugly in their grips. Enchanted by [[Qiell Tilemundon]].
