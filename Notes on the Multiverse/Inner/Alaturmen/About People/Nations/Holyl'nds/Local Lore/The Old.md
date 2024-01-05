@@ -38,11 +38,16 @@ Where their Divine companions are personally punished for their casting, and may
 
 #### Hazards
 ##### Anomalies
-Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
+Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot. Scavengers will commonly use spent materials or local rubbish in an attempt to activate or notice a path through anomalies.
+
+To notice an Anomaly or an Anomalous Field, a creature may simply view it on a DC 16 Perception check of the area. Otherwise, a creature may attempt to activate anomalies they cannot see. This is typically done by throwing a piece of rubbish along a path, walking that path, and continuing until opposed by the anomaly, at which point one would maneuver around it, when able.
+
+Anomalies do not have charges, in a arcane sense, an can be reactivated immediately. Staying within an active anomaly *will* result in death. 
 
 ###### Burner
-> A burner anomaly is like vents of fire you cannot see until you have stepped over them.
-Within a 10' radius circle, each 5' space has a 1d6 chance of being active. Each active space is active until the beginning of the activator's next turn. When a creature ent
+> A burner anomaly is like vents of fire you cannot see until you have stepped over them. The fire will come as quick as it will go, and before you can call their name, your comrade will be ash.
+
+The field of burners is a 10' radius circle around a point. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
 
 
 Comet  
@@ -127,6 +132,10 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
 ## Economics
+### Death as Business
+### Artifact Hunting
+
+
 |     | # of Traders |
 | --- | ------------ |
 |     |              |
