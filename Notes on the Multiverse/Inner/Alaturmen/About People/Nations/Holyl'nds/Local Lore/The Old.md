@@ -38,32 +38,36 @@ Where their Divine companions are personally punished for their casting, and may
 
 #### Hazards
 ##### Anomalies
-Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot. Scavengers will commonly use spent materials or local rubbish in an attempt to activate or notice a path through anomalies.
+Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
 
 To notice an Anomaly or an Anomalous Field, a creature may simply view it on a DC 16 Perception check of the area. Otherwise, a creature may attempt to activate anomalies they cannot see. This is typically done by throwing a piece of rubbish along a path, walking that path, and continuing until opposed by the anomaly, at which point one would maneuver around it, when able.
 
-Anomalies do not have charges, in a arcane sense, an can be reactivated immediately. Staying within an active anomaly *will* result in death. 
+Anomalies do not have charges, in an arcane sense, and can be reactivated immediately. Anomalies are activated by a material (organic or otherwise) disturbing them. Staying within an active anomaly *will* result in severe damage, if not death.
 
 ###### Burner
 > A burner anomaly is like vents of fire you cannot see until you have stepped over them. The fire will come as quick as it will go, and before you can call their name, your comrade will be ash.
 
 The field of burners is a 10' radius circle around a point. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
 
+###### Comet  
+> A comet anomaly is like a ball of fire, moving with the speed of a rolling boulder. While you may think you can dodge it, do your math again. Can you dodge it from behind, and then once more? Artyom could not.
 
-Comet  
-Vortex  
-Springboard  
-Whirligig  
-Fruit Punch  
-Burnt Fuzz  
-Gas  
-Gas Cloud  
-Electro  
-Tesla  
-Space Anomaly  
-Teleport 
-Emission  
-Radiation
+A comet anomaly is a 10' sphere of flame that can occupy any point on a path within a 35' radius sphere. The comet has an Initiative of 15, and will move along this path at a speed of 25' per round. During this time, any creature on the comet's path must make a DC 17 Dexterity Saving Throw. Those creatures take 4d6 fire damage on a failure, and half that amount on a success.
+
+If a creature enters a space within 5' of the comet anomaly or ends their turn there, they take 4d6 fire damage.
+
+###### Vortex  
+###### Springboard  
+###### Whirligig  
+###### Fruit Punch  
+###### Burnt Fuzz  
+###### Gas Cloud  
+###### Electro  
+###### Tesla  
+###### Space Anomaly  
+###### Teleport 
+###### Emission  
+###### Radiation
 
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
