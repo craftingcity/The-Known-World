@@ -38,6 +38,8 @@ Where their Divine companions are personally punished for their casting, and may
 
 #### Hazards
 ##### Unnatural Enemies
+###### 
+
 ##### Natural Dangers
 ###### Anomalies
 Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
@@ -50,6 +52,7 @@ Many people who come and go from this place are peaceful folk who need money, an
 
 The most unprepared are those that believe anyone they encounter is as kind as them.
 
+#### Factions
 ##### Scavengers / Seekers / Scavs
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
 
@@ -91,7 +94,7 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 A military outpost that supplies and commands operations within the Old performed by off-record Church soldiers. Legally, this is the only way in or out of the Old.
 
 ### The Haven
-A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Seekers and Mercenaries that operate in and nearby the Factory.
+A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Savs and Mercenaries that operate in and nearby the Factory.
 
 ### The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
