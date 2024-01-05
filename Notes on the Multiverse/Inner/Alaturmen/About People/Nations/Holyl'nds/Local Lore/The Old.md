@@ -20,15 +20,15 @@ Minyostalma is a collective name for the villages and townships that surround th
 
 The Ruins to the west and north of the central city are the most picked over, as scavengers have frequented the area for dozens of years at this point. As you come closer and closer to the central Temple structure in the walled city-proper, the more dangerous the scavenging becomes, and even the most prepared scavengers do not spend long inside The Old.
 
-#### Things Aren't Right Here...
-##### Casting
-###### Divine & Natural Spellcasters
+### Things Aren't Right Here...
+#### Casting
+##### Divine & Natural Spellcasters
 While many of the most common spellcasters draw on divine or natural powers, those casters will find that their powers have been stripped from them in this place. While you may call upon a natural or divine power in this place, you are sure to fail to reach them. Repeated attempts may draw upon the ire of the Old...
 
 	> When a "divine" or "natural" caster attempts to cast a spell, they may expend a number of hit-die equal to the spell's level. If they do not, they take that number of d10 psycic damage instead. This effect only occurs after a caster's first spell or after 4 hours in The Old.
 	> The following dnd5e spellcaster classes are efffected; Druids, Rangers, Clerics, Paladins, Warlocks.
 
-###### Arcane Spellcasters
+##### Arcane Spellcasters
 Where their Divine companions are personally punished for their casting, and may be unable to safely cast spells at all, Arcane spellcasters are often overwhelmed with the effectiveness of their spells while they are cast within the Old.
 
 	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. 
@@ -36,16 +36,21 @@ Where their Divine companions are personally punished for their casting, and may
 	> 	If they fail, they take a number of d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
 	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
-##### Hazards
-###### Unnatural Enemies
-###### Natural Dangers
+#### Hazards
+##### Unnatural Enemies
+##### Natural Dangers
+###### Anomalies
+Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
+
+
+
 
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
 
 The most unprepared are those that believe anyone they encounter is as kind as them.
 
-##### Seekers
+##### Scavengers / Seekers / Scavs
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
 
 ###### Equipment
