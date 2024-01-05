@@ -21,6 +21,7 @@ aliases:
 		- [[Cobalt's Thieves]]
 		- [[Golden Claws]]
 		- [[Golden Merchant's Company]]
+		- [[Nobles of Mountain Hall]]
 		- [[Tetramocal Congregation]]
 	- **Local Lore**
 		- [[First Invasion of Orcus]]
