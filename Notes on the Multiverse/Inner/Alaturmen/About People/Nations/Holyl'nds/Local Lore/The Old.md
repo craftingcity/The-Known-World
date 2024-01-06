@@ -47,7 +47,7 @@ Anomalies do not have charges, in an arcane sense, and can be reactivated immedi
 ###### Burner
 > A burner anomaly is like vents of fire you cannot see until you have stepped over them. The fire will come as quick as it will go, and before you can call their name, your comrade will be ash.
 
-The field of burners is a 10' radius circle around a point. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
+The field of burners is a 10' radius circle. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
 
 ###### Comet  
 > A comet anomaly is like a ball of fire, moving with the speed of a rolling boulder. While you may think you can dodge it, do your math again. Can you dodge it from behind, and then once more? Artyom could not.
@@ -59,9 +59,13 @@ If a creature enters a space within 5' of the comet anomaly or ends their turn t
 ###### Vortex
 > A vortex anomaly is like a powerful wind that will pick you up off your feet and spin you until you begin to separate at the joints. If you somehow keep your limbs, you had better land on your feet. 
 
-The field of vortexes is a 15' radius circle around a point. Within this radius, each 5' square has a 1/8 chance of being an activatable space within the field. When one of these spaces is activated, it creates a gripping wind in a 15' tall cone that has a base diameter of 15', centered on the activated space. Creatures within the cone must succeed on a DC 17 Strength Saving Throw or take 3d12 bludgeoning damage and be flung 10' from the tip of the cone in a random direction.
+The field of vortexes is a 15' radius circle. Within this radius, each 5' square has a 1/8 chance of being an activatable space within the field. When one of these spaces is activated, it creates a gripping wind in a 15' tall cone that has a base diameter of 15', centered on the activated space. Creatures within the cone must succeed on a DC 17 Strength Saving Throw or take 3d12 bludgeoning damage and be flung 10' from the tip of the cone in a random direction.
 
 ###### Springboard  
+> A springboard anomaly is like a blade of air - if you are lucky, and hit by the flat end, you may fly into the air, if you are not, and hit the sharp end, you will be two parts of a whole corpse.
+
+The springboard anomaly is a 10' diameter circle. When the springboard is activated, creatures within the circle must succeed on a DC 19 Dexterity Saving Throw, or be pushed 5' in a random direction. If they fail by 5 or more, they additionally take 4d10 slashing damage.
+
 ###### Fruit Punch  
 ###### Burnt Fuzz  
 ###### Gas Cloud  
