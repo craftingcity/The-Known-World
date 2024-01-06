@@ -147,8 +147,3 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 ### Artifact Hunting
 
 
-|     | # of Traders |
-| --- | ------------ |
-|     |              |
-
-## Governance
