@@ -56,9 +56,12 @@ A comet anomaly is a 10' sphere of flame that can occupy any point on a path wit
 
 If a creature enters a space within 5' of the comet anomaly or ends their turn there, they take 4d6 fire damage.
 
-###### Vortex  
+###### Vortex
+> A vortex anomaly is like a powerful wind that will pick you up off your feet and spin you until you begin to separate at the joints. If you somehow keep your limbs, you had better land on your feet. 
+
+The field of vortexes is a 15' radius circle around a point. Within this radius, each 5' square has a 1/8 chance of being an activatable space within the field. When one of these spaces is activated, it creates a gripping wind in a 15' tall cone that has a base diameter of 15', centered on the activated space. Creatures within the cone must succeed on a DC 17 Strength Saving Throw or take 3d12 bludgeoning damage and be flung 10' from the tip of the cone in a random direction.
+
 ###### Springboard  
-###### Whirligig  
 ###### Fruit Punch  
 ###### Burnt Fuzz  
 ###### Gas Cloud  
