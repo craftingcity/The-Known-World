@@ -87,6 +87,9 @@ A collective name for the individuals and groups without a greater affiliation t
 
 ###### Equipment
 ###### Areas of Operation
+- The Haven (seekers)
+- The Sticks (seekers, scavs)
+- The Factory (seekers, scavs)
 
 ##### Church Military
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and commonly attack on sight.
@@ -144,7 +147,13 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 ## Economics
 ### Death as Business
-The primary business within the Old is death. Death as business is fu
+The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. 
+
+##### The Ancient Coin Standard
+Ancient Elven Empire coins, however, are well positioned within the Old as a token of value. Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
+
 ### Artifact Hunting
+#### Detection & Detection Equipment
+#### Known and Named Artifacts
 
 
