@@ -5,12 +5,11 @@ In the Time before Time, for a moment and forever, the goblins thrived in the so
 
 From the blood sprayed across this mountain rose the Kobolds of Kailkeep. Long did they wait for their Master to claim them, but he slept for too long, his injury too large. The Kobolds claimed themselves, disavowed their creator god and swore to work only for themselves. Without the direction of Tetrimoc, they became wicked and cruel.
 
-Kailkeep is a massive complex dug by a fanatical group of Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. These kobolds are craft.
-
-They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has become as horrible as they are.
+Kailkeep is a massive complex dug by a fanatical group of Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has become as horrible as they are.
 
 ## About rules stuff
 Above it's third level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with the limited information presented about the natures of Kailkeep's Hells. As they progress, they should gain experience as you see fit, but know that the mechanical challenge presented will rise in difficulty further up the floors one goes.
+
 ## Hooks
 ### Druids of Terra
 For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed – for reasons they would not share, even if they knew – and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyways, but be prepared to ambush these assholes right after they return with information.
@@ -22,12 +21,12 @@ For as long as there has been a mountain, there have been people bored enough to
 The inhabitants of Kailkeep are sustained by hunting as well as gathering. When people are not coming to them, they must come to people. If the Kobolds have been having a rough year, they'll either send raids themselves or order one of the factions under their command to raid for them.
 
 ### Arcane Hotspot
-In my world, Alaturmen, magic is not common. The amount of magical items alone here would ping someone's radar, ignoring the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of arcane density in the area of Kailkeep, even from afar.
+In my world, Alaturmen, magic is not so common. The amount of magical items alone here would ping someone's radar, ignoring the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of arcane density in the area of Kailkeep, even from afar.
 
 If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot - *its magic!*
 
 ## Philosophy
-From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about they story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
+From a design perspective, I wish to present a series of problems that ask for a quick or precise solution, lest the consequences come to pass. Often times, as in other games, the consequence for failure in Kailkeep is fatal, but please tailor your game's content to your table. Talk with them about the story they want to tell, and if it isn't one of bleak survival but rather rampant obliteration of evil, this is not a module designed to provide the ladder experience.
 
 This is an experience built for players to survive and run from, not beat. Put a little fear back in the hearts and minds of your friends, family, or otherwise. I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds. So, I built Kailkeep.
 
@@ -67,9 +66,9 @@ Of the many arcane secrets the Kobolds of Kailkeep have mastered, the art of cre
 Some curses can be worked with, others cannot. Those that can are typically worn and reproduced for those that would benefit. Those that cannot are given as false boons to those inside the Hells, adding some hope to their lives, and some spice to the Kobold's Entertainment.
 
 ### Corrupted Dragon
-Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons Kakurak and Luzikiemal visited. There, Kakurak met his greatest ally. And there, Luzikiemal perished. 
+Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons [[Kakurak]] and Luzikiemal visited. There, Kakurak met his greatest ally. And there, Luzikiemal perished. 
 
-Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of Luzikiemal as a set piece in their entertainment.
+Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of [[#Luzikiemal, Risen]] as a set piece in their entertainment.
 
 ## Inhabitants of Kailkeep
 There are two large categories of creatures that Inhabit Kailkeep, those with and those without "true" intelligence, ie language, planning, that stuff.
@@ -85,7 +84,7 @@ Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails f
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
 
 #### Goblin Dissenters
-Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape.
+Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
 
 #### Red Gnoll
 The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
@@ -183,4 +182,8 @@ The Kobolds who view the Hells as entertainment typically have no need for light
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ##### Scoreboard
-Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive.
+Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. 
+
+The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive, and compared to their most direct competitors.
+
+Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around five thousand, hinting at the current population of competitors upon their first interaction with the scoreboard.

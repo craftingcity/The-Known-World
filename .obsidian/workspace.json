@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "002d07213c73680d",
+        "id": "71ec761966339736",
         "type": "tabs",
-        "dimension": 78.39068825910931,
         "children": [
           {
-            "id": "0e2cb37e48bd2cae",
+            "id": "d01dfa2617d04f60",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,6 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "a_ Chapter One - Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":253},\"to\":{\"line\":90,\"ch\":253}},\"scroll\":90.24189485543526}"
                 }
               ]
             },
@@ -26,32 +31,6 @@
                 "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "14c17dfbc81b17c7",
-        "type": "tabs",
-        "dimension": 21.60931174089069,
-        "children": [
-          {
-            "id": "f76407d88f4acb77",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
               }
             }
           }
@@ -305,10 +284,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f76407d88f4acb77",
+  "active": "d01dfa2617d04f60",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
     "Prenotes Jan 04 24.md",
@@ -326,14 +313,6 @@
     "Game Notes/Prenotes/'23/Prenotes Dec 08 23.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 07 23.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 06 23.md",
-    "Game Notes/NPCs/Raam ben Yarom.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Code of Thieves.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Kamarios.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",

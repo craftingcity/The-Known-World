@@ -131,7 +131,7 @@ Extramis is a loose collective of ex-soldiers and proven seekers that claim to b
 - The Base
 
 ##### Mountain Troopers
-Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their gunpowder blasters.
+Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
 
 ###### Equipment
 ###### Areas of Operation
