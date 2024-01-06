@@ -144,6 +144,7 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 ## Economics
 ### Death as Business
+The primary business within the Old is death. Death as business is fu
 ### Artifact Hunting
 
 
