@@ -90,46 +90,83 @@ A collective name for the individuals and groups without a greater affiliation t
 - The Haven (seekers)
 - The Sticks (seekers, scavs)
 - The Factory (seekers, scavs)
+- The City (scavs)
+- The Village (seekers, scavs)
+- The Base (scavs)
+- The Dwarven Ship (seekers)
 
 ##### Church Military
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and commonly attack on sight.
 
 ###### Equipment
 ###### Areas of Operation
+- The Cordon
+- The Factory
+- The City
+- The Village
+- The Base
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries betray their well-earned trust for the benefit of their unknown patrons. 
 
 ###### Equipment
 ###### Areas of Operation
+- The Factory
+- The City
+- The Village
+- The Temple
+- The Base
+- The Dwarven Ship
 
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and proven seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
 ###### Equipment
 ###### Areas of Operation
+- The Haven
+- The Sticks
+- The Factory
+- The City
+- The Village
+- The Base
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their gunpowder blasters.
 
 ###### Equipment
 ###### Areas of Operation
+- The Factory
+- The City
+- The Village
+- The Temple
+- The Base
+- The Dwarven Ship
 
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
 ###### Equipment
 ###### Areas of Operation
+- The City
+- The Village
+- The Temple
+- The Base
 
 ## Important Places & Symbolism
 ### The Cordon
 A military outpost that supplies and commands operations within the Old performed by off-record Church soldiers. Legally, this is the only way in or out of the Old.
 
+#### The Western Entrance
+
 ### The Haven
 A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Savs and Mercenaries that operate in and nearby the Factory.
 
+#### The Northern Entrance
+
 ### The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
+
+#### The Eastern Breach
 
 ### The Factory
 The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
@@ -144,6 +181,8 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 
 ### The Dwarven Ship
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
+
+#### The Southern Entrance
 
 ## Economics
 ### Death as Business
