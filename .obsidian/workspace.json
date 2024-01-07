@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8281e73b83651589",
+        "id": "23139406ef14368a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d74ccc03f8ff04",
+            "id": "44ec3045a2335660",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,80 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Raam ben Yarom",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Raam ben Yarom.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nobles of Mountain Hall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Moses the Brave",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Moses the Brave.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "NPCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Moses the Brave",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Moses the Brave.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Marley Hurraquk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Marley Hurraquk.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lou a'Locca",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Lou a'Locca.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Gorebladder a'Nyrk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Gorebladder a'Nyrk.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Erika a'Valim",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Erika a'Valim.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Courtney a'LeQuinn",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Courtney a'LeQuinn.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a10698fa7130eedb",
+            "id": "eee2f5147c234f4d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -103,14 +43,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2b1f1548d772b7ca",
+            "id": "296164ca7cdfc6fb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -124,7 +64,203 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jan 04 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05114fee26cf4e73",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7063204aabcd56d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f24d8329c837da00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7a73ccd6932cedd9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0596a8ee248ea2bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4f98f34753d5d8a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "68425e494cde8fe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0889311d603de2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4def87d218b986d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f2ee1bfdd908961",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
                 "mode": "source",
                 "source": true
               }
@@ -226,7 +362,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -271,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +434,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
               }
             }
           }
@@ -362,13 +499,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a10698fa7130eedb",
+  "active": "a4f98f34753d5d8a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Prenotes Jan 04 24.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Jan 01 24.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Prenotes Jan 04 24.md",
     "Game Notes/NPCs/Raam ben Yarom.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
     "Game Notes/NPCs/Moses the Brave.md",
@@ -379,20 +528,8 @@
     "Game Notes/NPCs/Erika a'Valim.md",
     "Game Notes/NPCs/Courtney a'LeQuinn.md",
     "Game Notes/Prenotes/'23/'23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 06 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 08 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 13 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 30 23.md",
     "Game Notes/Prenotes/'24",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 01 24.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
-    "ORGANIZATION/Faction Turn.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
