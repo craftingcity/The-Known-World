@@ -28,7 +28,9 @@ When you all awake, I must put the question to you, what do you do?
 In talking with Alergra Barrowinch, they requested more Magic Items. She suggested some Guild equipment that might fall off a truck, but they also requested a few personal items;
 
 (+DEX / Jerran)
+	ring of dexterity
 Crossbow
+	
 +STR / Breena)
 Plate Armor (Ulfgar)
 Greathammer (Ulfgar)

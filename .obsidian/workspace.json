@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 04 24.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 04 24.md",
+                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Jan 04 24.md"
+                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md"
               }
             }
           }
@@ -341,8 +340,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b1f1548d772b7ca",
+  "active": "b5d74ccc03f8ff04",
   "lastOpenFiles": [
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
     "Prenotes Jan 04 24.md",
     "Game Notes/NPCs/Raam ben Yarom.md",
@@ -370,7 +370,6 @@
     "ORGANIZATION/Faction Turn.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Lakeview.md",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
