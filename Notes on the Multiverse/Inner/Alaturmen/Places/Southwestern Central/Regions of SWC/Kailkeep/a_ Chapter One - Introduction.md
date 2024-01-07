@@ -73,7 +73,7 @@ Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corps
 ## Inhabitants of Kailkeep
 There are two large categories of creatures that Inhabit Kailkeep, those with and those without "true" intelligence, ie language, planning, that stuff.
 
-##### Intelligent Factions
+### Intelligent Factions
 #### Kobolds of Kailkeep
 The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair.
 
@@ -107,7 +107,7 @@ People with little to no training have been taken to the Hells as long as the He
 #### Reformed Entertainers
 Whores of glory who have turned from morality in favor of ease and selfishness. They play to the crowd *too well*.
 
-##### Beasties
+### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler
 Insects abound the levels of Kailkeep, surviving on the flesh of their kills, or, when husbanded by the "stable" communities, their feed.
 
@@ -123,12 +123,12 @@ A species of earth elemental came with Terra, small price to pay for her power. 
 #### Mad-walkers
 Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
 
-##### Mini-bosses
+### Mini-bosses
 #### Yeeqzu'g, Mad-speaker
 #### Bernet, Lodestone Golem
 #### Luzikiemal, Risen
 
-### Kailkeep's Features
+## Kailkeep's Features
 #### Terra's Mountain
 The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 
