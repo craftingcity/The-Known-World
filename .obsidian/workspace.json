@@ -89,6 +89,27 @@
             }
           },
           {
+            "id": "a10698fa7130eedb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "2b1f1548d772b7ca",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -109,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -340,10 +362,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d74ccc03f8ff04",
+  "active": "a10698fa7130eedb",
   "lastOpenFiles": [
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
+    "conflict-files-obsidian-git.md",
+    "Prenotes Jan 01 24.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Prenotes Jan 04 24.md",
     "Game Notes/NPCs/Raam ben Yarom.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
@@ -354,7 +378,6 @@
     "Game Notes/NPCs/Gorebladder a'Nyrk.md",
     "Game Notes/NPCs/Erika a'Valim.md",
     "Game Notes/NPCs/Courtney a'LeQuinn.md",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'23/'23.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 06 23.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 07 23.md",
