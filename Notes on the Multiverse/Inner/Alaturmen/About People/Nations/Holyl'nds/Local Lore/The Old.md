@@ -179,11 +179,11 @@ A military outpost that supplies and commands operations within the Old performe
 A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Savs and Mercenaries that operate in and nearby the Factory.
 
 #### The Northern Entrance
-#### 
+#### The Rookie Village
 
 #### 
 
-#### 
+#### The Lone Farmstead
 
 #### 
 
@@ -206,80 +206,80 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 
 #### 
 
-#### 
+#### The Trap Town
+
+#### The Logging Camp
 
 #### 
 
 #### 
 
-#### 
+#### The Pond
 
-#### 
-
-#### 
+#### The Forest Gate
 
 #### 
 
 
 ### The Factory
 The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
-#### 
+#### The Showroom
 
-#### 
+#### The Arcane Chambers
 
-#### 
+#### The Cellars
 
-#### 
+#### The Rafters
 
-#### 
+#### The Storage Tanks
 
-#### 
+#### The Office
 
-#### 
+#### The Loading Bay
 
-#### 
+#### The Pallets
 
-#### 
+#### The Stamping Line
 
 
 ### The City
-#### 
+#### The Offices, North
 
-#### 
+#### The Arched Road
 
-#### 
+#### The Construction Site
 
-#### 
+#### The Offices, South
 
-#### 
+#### The Fountain Park
 
-#### 
+#### The Mall
 
-#### 
+#### The Apartments, West
 
-#### 
+#### The Apartments, East
 
-#### 
+#### The Hospital
 
 
 ### The Village
-#### 
+#### The Hovels
 
-#### 
+#### The Homes
 
-#### 
+#### The Villas
 
-#### 
+#### The Fields
 
-#### 
+#### The Market
 
-#### 
+#### The Outskirts, North
 
-#### 
+#### The Windmill
 
-#### 
+#### The Empty Fences
 
-#### 
+#### The Outskirts, South
 
 
 ### The Temple
