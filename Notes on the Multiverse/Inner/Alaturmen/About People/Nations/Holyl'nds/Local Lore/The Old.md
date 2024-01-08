@@ -69,10 +69,14 @@ The springboard anomaly is a 10' diameter circle. When the springboard is activa
 ###### Fruit Punch  
 > A fruit punch anomaly is like an overflowing bowl of boiling water - a burn is common, and a death is a horrible sight.
 
-The field of fruit punches is a 15' radius circle. Within this radius, each 5' square has a 1/6 chance of being active
+The field of fruit punches is a 15' radius circle. Within this radius, each 5' square has a 1/6 chance of being active for up to 3d6 rounds. While active, creatures who enter the active space or begin their turn there take 3d6 acid damage. 
 
 ###### Burnt Fuzz  
 ###### Gas Cloud  
+> A gas cloud anomaly is aptly named - green clouds of toxic gas boil the skin off your muscles and then the muscles off your bones, not that you won't die of inhalation and internal bleeding first.
+
+The field of gas cloud anomalies is a 25' radius of 10' 
+
 ###### Electro  
 ###### Tesla  
 ###### Space Anomaly  
