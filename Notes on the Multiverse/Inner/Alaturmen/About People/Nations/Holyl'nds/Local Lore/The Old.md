@@ -75,7 +75,7 @@ The field of fruit punches is a 15' radius circle. Within this radius, each 5' s
 ###### Gas Cloud  
 > A gas cloud anomaly is aptly named - green clouds of toxic gas boil the skin off your muscles and then the muscles off your bones, not that you won't die of inhalation and internal bleeding first.
 
-The field of gas cloud anomalies is a 25' radius of 10' 
+The field of gas cloud anomalies is a 25' radius circle. Within this radius, each 10' space has a 1/4 chance of being active for 3d6 hours. While active, 
 
 ###### Electro  
 ###### Tesla  
