@@ -67,6 +67,10 @@ The field of vortexes is a 15' radius circle. Within this radius, each 5' square
 The springboard anomaly is a 10' diameter circle. When the springboard is activated, creatures within the circle must succeed on a DC 19 Dexterity Saving Throw, or be pushed 5' in a random direction. If they fail by 5 or more, they additionally take 4d10 slashing damage.
 
 ###### Fruit Punch  
+> A fruit punch anomaly is like an overflowing bowl of boiling water - a burn is common, and a death is a horrible sight.
+
+The field of fruit punches is a 15' radius circle. Within this radius, each 5' square has a 1/6 chance of being active
+
 ###### Burnt Fuzz  
 ###### Gas Cloud  
 ###### Electro  
