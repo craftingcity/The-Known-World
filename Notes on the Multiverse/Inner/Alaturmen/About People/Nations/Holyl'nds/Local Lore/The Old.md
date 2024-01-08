@@ -74,7 +74,7 @@ The field of fruit punches is a 15' radius circle. Within this radius, each 5' s
 ###### Burnt Fuzz  
 > A fuzzball, or a burnt fuzz, whatever you want to call it, is only really a rookie killer. Just don't run. Walk real slow, and you should be fine. Ivan is the worst case I've seen, and he only has burns up to his torso and a wicked trigger twitch.
 
-The burnt fuzz anomaly is a 15' radius circle of 
+The burnt fuzz anomaly is a 15' radius circle of copper-green spindly vines. When a creature moves more than 5' in a round through the circle, they take 1d6 lightning damage for each 5' space moved.
 
 ###### Gas Cloud  
 > A gas cloud anomaly is aptly named - green clouds of toxic gas boil the skin off your muscles and then the muscles off your bones, not that you won't die of inhalation and internal bleeding first.
