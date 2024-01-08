@@ -26,6 +26,7 @@ The Ruins to the west and north of the central city are the most picked over, as
 While many of the most common spellcasters draw on divine or natural powers, those casters will find that their powers have been stripped from them in this place. While you may call upon a natural or divine power in this place, you are sure to fail to reach them. Repeated attempts may draw upon the ire of the Old...
 
 	> When a "divine" or "natural" caster attempts to cast a spell, they may expend a number of hit-die equal to the spell's level. If they do not, they take that number of d10 psycic damage instead. This effect only occurs after a caster's first spell or after 4 hours in The Old.
+	> After this point, spell slots may not be expended and spell may not be cast - including cantrips.
 	> The following dnd5e spellcaster classes are efffected; Druids, Rangers, Clerics, Paladins, Warlocks.
 
 ##### Arcane Spellcasters
@@ -49,12 +50,12 @@ Anomalies do not have charges, in an arcane sense, and can be reactivated immedi
 
 The field of burners is a 10' radius circle. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
 
-###### Comet  
+###### Comet / Electro
 > A comet anomaly is like a ball of fire, moving with the speed of a rolling boulder. While you may think you can dodge it, do your math again. Can you dodge it from behind, and then once more? Artyom could not.
 
-A comet anomaly is a 10' sphere of flame that can occupy any point on a path within a 35' radius sphere. The comet has an Initiative of 15, and will move along this path at a speed of 25' per round. During this time, any creature on the comet's path must make a DC 17 Dexterity Saving Throw. Those creatures take 4d6 fire damage on a failure, and half that amount on a success.
+A comet anomaly is a 10' sphere of flame that can occupy any point on a path within a 35' radius sphere. The comet has an Initiative of 15, and will move along this path at a speed of 25' per round. During this time, any creature on the comet's path must make a DC 17 Dexterity Saving Throw. Those creatures take 4d6 fire / lightning damage on a failure, and half that amount on a success.
 
-If a creature enters a space within 5' of the comet anomaly or ends their turn there, they take 4d6 fire damage.
+If a creature enters a space within 5' of the comet anomaly or ends their turn there, they take 4d6 fire / lightning damage.
 
 ###### Vortex
 > A vortex anomaly is like a powerful wind that will pick you up off your feet and spin you until you begin to separate at the joints. If you somehow keep your limbs, you had better land on your feet. 
@@ -82,7 +83,6 @@ The burnt fuzz anomaly is a 15' radius circle of copper-green spindly vines. Whe
 The field of gas cloud anomalies is a 25' radius circle. Within this radius, each 10' space has a 1/4 chance of being active for 3d6 hours. While active, a creature that begins their turn within the sphere takes 1d8 poison damage. For every turn they have spent in a gas cloud in this anomaly field, the damage increases by 1d8.
 
 ###### Electro  
-###### Tesla  
 ###### Space Anomaly  
 ###### Teleport 
 ###### Emission  
@@ -99,13 +99,13 @@ A collective name for the individuals and groups without a greater affiliation t
 
 ###### Equipment
 ###### Areas of Operation
-- The Haven (seekers)
-- The Sticks (seekers, scavs)
-- The Factory (seekers, scavs)
-- The City (scavs)
-- The Village (seekers, scavs)
-- The Base (scavs)
-- The Dwarven Ship (seekers)
+- The Haven
+- The Sticks
+- The Factory
+- The City
+- The Village
+- The Base
+- The Dwarven Ship, [[#The Ship]]
 
 ##### Church Military
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and commonly attack on sight.
