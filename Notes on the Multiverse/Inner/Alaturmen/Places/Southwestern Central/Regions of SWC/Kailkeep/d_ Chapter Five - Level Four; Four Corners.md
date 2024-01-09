@@ -1,18 +1,7 @@
 # Level Four: Four Corners
-The fourth layer of Kailkeep begins the first major game - four corners. 
+The fourth layer of Kailkeep harbors the first major game-as-progression. At points throughout the level, a large square room 
 
 ## What Dwells Here?
-### Unusual Rodents
-#### Blind Dogs
-#### Clever Cats
-### Kobolds of Kailkeep
-#### Rammik's Gang
-### Goblin Dissenters
-### Survivalists
-### Honorable Thieves
-### Golden Claw Guard
-### Ancients of Mountainhall
-
 ## Exploring this Place
 ### Navigation
 ### Detail
