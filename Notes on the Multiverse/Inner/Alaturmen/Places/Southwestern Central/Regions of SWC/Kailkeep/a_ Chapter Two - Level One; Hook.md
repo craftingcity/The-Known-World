@@ -5,9 +5,15 @@ The purpose of this level is to begin to lull any entrants into a false sense of
 
 ## What Dwells Here?
 ### Loyalists
-The loyalists in the first level are the weakest of them all - the elders, the children, the limbless. Few could survive a direct confrontation, and fewer could create an advantage to strike intruders against. 
+The loyalists in the first level are the weakest of them all - the elders, the children, the limbless. Few could survive a direct confrontation, and fewer could create an advantage to strike intruders against. The plan of action for any loyalists is to disengage and retreat to the nearest *Kobolted Door* to report the incident.
 
 When they are not retreating from intruders, they are harvesting lichen and algae from pools of water, hunting rodents and small insects, and producing simple arms, armors, and textiles with the tools and supplies given to them by their Kobold keepers.
 
 ## Exploring this Place
 ### Entrance Hall
+### Grand Chamber
+### Mess Hall
+### Workshops
+### Servant Quarters
+### Servant Halls
+###
