@@ -17,5 +17,8 @@ aliases:
 # Greater Map
 ## Ground Floor
 ## Lower Floors
+### Arcane Experimentation Chambers
 ## Upper Floors
+### Dense Room
+### Library of Whispers
 ## Peak
