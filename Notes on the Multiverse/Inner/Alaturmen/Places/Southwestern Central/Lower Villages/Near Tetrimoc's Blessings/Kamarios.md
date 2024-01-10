@@ -5,7 +5,7 @@ aliases:
 # Kamarios
 #### The Broken City
 ## Holding of [[Golden Claws]]
-### Located in [[, X:Y
+### Located in [[Tetrimoc's Blessings]], X:Y
 ## Description
 ### Quote
 
@@ -13,5 +13,6 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
+[[Tilemundon's White Tower]]
 
 
