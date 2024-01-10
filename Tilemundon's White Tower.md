@@ -16,9 +16,23 @@ aliases:
 
 # Greater Map
 ## Ground Floor
+### False Entrance
+#### Arcane Disenchantment
+#### Gas Trap
+#### Defensive Golems' Holding
 ## Lower Floors
 ### Arcane Experimentation Chambers
-## Upper Floors
+#### Main Labratory
+Heating and Cooling elements, enchantment facilities, potion making facilities, safe of growing phil-stone & elements
+#### Arcane Storage
+safe elements, finished products
+#### Dangerous/Experimental Lab
+### Self Staffed Kitchen
 ### Dense Room
+## Upper Floors
+### True Entrance (Teleportation Chamber)
+### Hall of Skulls
 ### Library of Whispers
 ## Peak
+### Qiell's Chambers
+### Immortality Machine
