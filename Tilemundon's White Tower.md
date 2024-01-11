@@ -23,12 +23,13 @@ aliases:
 ## Lower Floors
 ### Arcane Experimentation Chambers
 #### Main Labratory
-Heating and Cooling elements, enchantment facilities, potion making facilities, safe of growing phil-stone & elements
+- Heating and Cooling elements, enchantment facilities, potion making facilities, safe of growing phil-stone & elements
 #### Arcane Storage
-safe elements, finished products
+- safe elements, finished products
 #### Dangerous/Experimental Lab
 ### Self Staffed Kitchen
 ### Dense Room
+- A collection of rooms that seem to take up the same twenty-by-twenty square room.
 ## Upper Floors
 ### True Entrance (Teleportation Chamber)
 ### Hall of Skulls
