@@ -24,5 +24,12 @@ You have spent days travelling into the village known as [[Kamarios]], where you
 
 ### What happened?
 
+#### The Fight
+ash 22
+golems 21
+cucu 20
+shu ameda 20
+dae shim 19
+gringold 19
 
 We leave our heroes on the date of ... AF, as they ...
