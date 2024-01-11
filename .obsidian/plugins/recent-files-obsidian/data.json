@@ -5,6 +5,10 @@
       "path": "Tilemundon's White Tower.md"
     },
     {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Trike Reef",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Trike Reef.md"
-    },
-    {
-      "basename": "Smoothpost",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Smoothpost.md"
     }
   ],
   "omittedPaths": [],

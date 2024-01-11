@@ -50,6 +50,27 @@
             }
           },
           {
+            "id": "f1d2ac9e48d144ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "5b5a929008f3bf72",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -405,8 +426,9 @@
   },
   "active": "edfd27ff4c812c63",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Tilemundon's White Tower.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Prenotes Jan 10 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Kamarios.md",
     "Prenotes Jan 01 24.md",
@@ -431,7 +453,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 01 24.md",
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "MEDIA/CHAR/celeana.png",
