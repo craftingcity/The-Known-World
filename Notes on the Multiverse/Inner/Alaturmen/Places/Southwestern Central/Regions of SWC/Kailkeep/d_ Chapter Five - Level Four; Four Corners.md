@@ -17,6 +17,8 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 ## Exploring this Place
 ### Navigation
 #### Red Rover (Entrance Game)
+- Red Rover pits two teams against one another, and provides a severe advantage to the "home team".
+	- 
 #### Ways
 #### Four Corners (Exit Game)
 ### Detail
@@ -27,5 +29,8 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 #### Sprinting Boulder
 #### Dart Halls
 #### Stone Gas
+#### Bonebuster
 #### Beast Barracks
-#### 
+#### 'Mercy'
+#### False Oasis
+#### Oubliette
