@@ -7,5 +7,5 @@ If music is a part of your game, now is the time to switch from "Epic Fantasy" t
 
 ## What Dwells Here?
 ## Exploring this Place
-### Navigation
-### Detail
+### Hall of Stories
+### Grand 

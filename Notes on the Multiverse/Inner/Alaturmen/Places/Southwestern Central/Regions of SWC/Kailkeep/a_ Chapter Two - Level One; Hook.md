@@ -9,6 +9,8 @@ The loyalists in the first level are the weakest of them all - the elders, the c
 
 When they are not retreating from intruders, they are harvesting lichen and algae from pools of water, hunting rodents and small insects, and producing simple arms, armors, and textiles with the tools and supplies given to them by their Kobold keepers.
 
+### Unusual Rodents
+
 ## Exploring this Place
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
@@ -16,7 +18,8 @@ For a few miles, at the bottom of this great hell, a series of chambers continua
 The Entrance Hall is an incredibly long hall of ornate carved stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. 
 
 ### Grand Chamber
-### Mess Hall
+### Kitchen
 ### Workshops
 ### Servant Quarters
 ### Servant Halls
+### Uncut Tunnels
