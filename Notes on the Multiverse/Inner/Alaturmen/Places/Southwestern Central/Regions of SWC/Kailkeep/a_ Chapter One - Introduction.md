@@ -89,6 +89,8 @@ Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight the
 #### Red Gnoll
 The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
+###### Bloodylip's Pack
+
 #### Gaund Loyalists
 A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
 
