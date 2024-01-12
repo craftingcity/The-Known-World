@@ -12,7 +12,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 ### Dissenters
 #### Ancients of Mountianhall
 #### Golden Claw Guard
-#### Honorable Theives
+#### Honorable Thieves
 #### Survivalists
 ## Exploring this Place
 ### Navigation
@@ -20,3 +20,12 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 #### Ways
 #### Four Corners (Exit Game)
 ### Detail
+#### Spear Hall
+- A hallway flanked by viewports & spearholes. Either set to manual operation for the joy of the Kobolds or automatic for the operation of unremarkable rooms.
+- On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
+- Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
+#### Sprinting Boulder
+#### Dart Halls
+#### Stone Gas
+#### Beast Barracks
+#### 
