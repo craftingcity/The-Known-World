@@ -5,10 +5,12 @@ Explicitly, the second level tells the tale (in pictograms and [[Montal (languag
 
 ## What Dwells Here?
 ## Exploring this Place
-### Simple Halls
-### Balconies
-### Guest Noble Chambers
-### Speaking Throne
-### Temple to Terra
-### Armory
-### Dining & Entertaining Room
+### Navigation
+### Detail
+#### Simple Halls
+#### Balconies
+#### Guest Noble Chambers
+#### Speaking Throne
+#### Temple to Terra
+#### Armory
+#### Dining & Entertaining Room

@@ -14,12 +14,14 @@ When they are not retreating from intruders, they are harvesting lichen and alga
 ## Exploring this Place
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
-### Entrance Hall
+### Navigation
+### Detail
+#### Entrance Hall
 The Entrance Hall is an incredibly long hall of ornate carved stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. 
 
-### Grand Chamber
-### Kitchen
-### Workshops
-### Servant Quarters
-### Servant Halls
-### Uncut Tunnels
+#### Grand Chamber
+#### Kitchen
+#### Workshops
+#### Servant Quarters
+#### Servant Halls
+#### Uncut Tunnels

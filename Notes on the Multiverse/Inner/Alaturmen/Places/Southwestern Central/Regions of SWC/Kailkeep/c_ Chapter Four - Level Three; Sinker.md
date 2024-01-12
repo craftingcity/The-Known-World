@@ -7,5 +7,11 @@ If music is a part of your game, now is the time to switch from "Epic Fantasy" t
 
 ## What Dwells Here?
 ## Exploring this Place
-### Hall of Stories
-### Grand 
+### Navigation
+### Detail
+#### Hall of Stories
+#### Mineshaft
+#### Worker Barracks
+#### Dank Prisons
+#### False Treasure Room
+#### False Hall
