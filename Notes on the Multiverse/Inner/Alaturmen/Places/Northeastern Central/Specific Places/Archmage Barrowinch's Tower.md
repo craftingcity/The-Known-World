@@ -25,7 +25,7 @@ aliases:
 ### Lecture Hall
 ### Grand Library
 ### Dense Room
-A collection of rooms that seem to take up the same twenty-by-twenty square room.
+- A collection of rooms that seem to take up the same twenty-by-twenty square room.
 #### Containment Chamber
 #### Reserves
 #### James' Room
@@ -38,7 +38,7 @@ A collection of rooms that seem to take up the same twenty-by-twenty square room
 ## Peak
 ### Alergra's Quarters
 ### Alergra's Personal Dense Room
-A thirty by thirty square Dense Room where Alegra hides her passions.
+- A thirty by thirty square Dense Room where Alegra hides her passions.
 #### Alergra's Lab
 #### Hidden Library
 #### Hidden Safe

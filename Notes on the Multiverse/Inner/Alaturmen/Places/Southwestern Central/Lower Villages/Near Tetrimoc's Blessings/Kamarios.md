@@ -11,6 +11,8 @@ aliases:
 
 ### General Public Disposition
 
+Purinnu Killmore - Old Seamstress
+
 ### Background
 ## Important Places & Symbolism
 [[Tilemundon's White Tower]]
