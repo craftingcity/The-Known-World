@@ -17,10 +17,15 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 ## Exploring this Place
 ### Navigation
 #### Red Rover (Entrance Game)
-- Red Rover pits two teams against one another, and provides a severe advantage to the "home team".
-	- 
+- Red Rover pits two teams - "Home" and "Away" against one another, and provides a severe advantage to the "Home" team, in that they are more informed about what is to happen, where the opposition is, and what is at stake.
+- The "Home" team is collected by containing a wandering team on this level. The "Away" team is collected by containing an ascending team from the previous level.
+- The Goal of the game is to eliminate the opposing team's players and increase your Entertainment Rating. 
+	- A "Home" team victory is rewarded with a series of healing salves, recreational drugs, and rations.
+	- An "Away" team victory is not rewarded.
 #### Ways
 #### Four Corners (Exit Game)
+- Four Corners pits up to four teams against each other in a game of combat chance.
+- A large room is split into fourths by a waist-high wall. A pack of dogs is released into one corner, who gather together and continue around the square at random. With the pack of hounds as a fifth team, the game continues until one team stands.
 ### Detail
 #### Spear Hall
 - A hallway flanked by viewports & spearholes. Either set to manual operation for the joy of the Kobolds or automatic for the operation of unremarkable rooms.
