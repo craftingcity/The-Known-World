@@ -11,6 +11,7 @@ If music is a part of your game, now is the time to switch from "Epic Fantasy" t
 ### Detail
 #### Hall of Stories
 #### Mineshaft
+#### Foyer
 #### Worker Barracks
 #### Dank Prisons
 #### False Treasure Room
