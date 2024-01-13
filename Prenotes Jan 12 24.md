@@ -77,5 +77,6 @@ They are headed to [[Kailkeep]], which is scary and fun. They are gonna swamp th
 
 ### What happened?
 
+Kakurak teleported them after they got their stuff, they made it safely to the outside of the mountain
 
 We leave our heroes on the date of ... AF, as they ...
