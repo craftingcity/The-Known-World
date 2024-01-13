@@ -69,7 +69,7 @@ Please find the following enclosed;
 		- Solid Plate Armor, +3, 15 slash/peirce/bludge damage reduction
 		- Booster Greathammer, +3, 2/10 charge +1d6 fire, +1d6 rad, +1 charge per hour of heating
 		- Gemband Crossbow, +3, 1/8 charge +3d4 choice of type, +1 charge per 100 sp gem dust
-		- 60
+		- Durandurum Magazine, Fire (x40)
 
 ```
 
