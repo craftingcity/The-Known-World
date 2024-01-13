@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes they had made meeting with a powerful Dragon by the name [[Kakurak]], and spent time in his lair. 
+When last we left our heroes, they had made meeting with a powerful Dragon by the name [[Kakurak]], and spent time in his lair. 
 
 A kind soul, he equipped the party with knowledge of a horrible place of power and some manner of physical equipment as well. Your path ahead may be full of danger, but you are a worthy band. 
 
@@ -73,7 +73,7 @@ Please find the following enclosed;
 
 ```
 
-
+They are headed to [[Kailkeep]], which is scary and fun. They are gonna swamp the first few levels, and hopefully they don't just get merced.
 
 ### What happened?
 
