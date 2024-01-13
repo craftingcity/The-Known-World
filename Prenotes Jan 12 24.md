@@ -84,18 +84,20 @@ Kakurak teleported them after they got their stuff, they made it safely to the o
 
 ~~A - 18 Vet (8, 12, 43, )~~
 E - 18 Knight (33, 48, 33, 46)
-B - 17 Vet (7, 20, 32, 39, 42, 52)
+~~B - 17 Vet (7, 20, 32, 39, 42, 52)~~
 Ulfgar
 Jerran
 Breenabell
 ~~C - 14 Priest (4, 13, 28) spellslots, 1:I~~
 Nala
-F - 13 Priest, Spells (3:I) ()
+F - 13 Priest, Spells (1:I, 3:I) ()
 D - 6 Vet (9, 23, 45)
 
 + 17 Performance, Ulfgar
 + 21 Performance, Nala
 + 15 Performance, Nala
 + 6 Performance, Nala
++ 17 Performance, Ulfgar
++ 15 Performance, Jerran
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 17th of Weeding 105 AF, as they have killed their first survivors in [[Kailkeep]]. They won Red Rover.
