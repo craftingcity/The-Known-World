@@ -24,12 +24,17 @@ ADVENTURER'S GUILD PACKAGE - HANDLE WITH CARE
 
 Please find the following enclosed;
 - GAP-5 H.A. Care Package (x2);
+	- Auspex Lense, Master
 	- Potion of Healing, Expert (x5)
 	- Potion of Vitality, Journeyman (x20)
 	- Potion of Vitality, Expert (x5)
 	- Potion of Cure Disease, Expert (x3)
 	- Potion of Resistance, Expert (x3)
-	- 
+	- Alchemical Chalk, Journeyman (x3)
+	- Alchemical Explosive, 1 pound, Expert (x4)
+	- Alchemical Explosive, 1 pound, Journeyman (x4)
+	- Spell Smoke Incence, Journeyman (x12)
+	- Isiopara, 1 ounce, Expert (x5)
 - GAP-3b Advanced Gear Package (x2);
 	- Grade 3 (Immutable) Bag of Holding
 	- Sally-Sea-Shell Personal Shelter
@@ -45,6 +50,11 @@ Please find the following enclosed;
 - GAH-4 Wall Package
 - GAC-4 Arcanist Package (x2)
 - Personal Package
+	- Ring of Dexterity, +1 (x2)
+	- Ring of Strength, +1 (x2)
+	- Solid Plate Armor, +3, 15 slash/peirce/bludge damage reduction
+	- Booster Greathammer, +3, 2/10 charge +1d6 fire, +1d6 rad, +1 charge per hour of heating
+	- Gemband Crossbow, +3, 1/8 charge +3d4 choice of type, +1 charge per 100 sp gem
 
 ```
 
