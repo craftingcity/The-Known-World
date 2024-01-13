@@ -23,6 +23,8 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 	- A "Home" team victory is rewarded with a series of healing salves, recreational drugs, and rations.
 	- An "Away" team victory is not rewarded.
 #### Ways
+#### Scoreboard Rooms
+- A scoreboard room is a place to view one's score.
 #### Four Corners (Exit Game)
 - Four Corners pits up to four teams against each other in a game of combat chance.
 - A large room is split into fourths by a waist-high wall. A pack of dogs is released into one corner, who gather together and continue around the square at random. With the pack of hounds as a fifth team, the game continues until one team stands.
@@ -32,7 +34,9 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
 - Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
 #### Sprinting Boulder
+- A long curved hall with a boulder at the top end.
 #### Dart Halls
+- A "minefield"-esq game, the Dart Halls are a seires of pressure plates and dart throwers. There is a path through the field, and it is notably unmarked.
 #### Stone Gas
 #### Bonebuster
 #### Beast Barracks
