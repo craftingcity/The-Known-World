@@ -82,17 +82,19 @@ Kakurak teleported them after they got their stuff, they made it safely to the o
 ##### RED ROVER
 ###### VS GOLDEN CLAWS
 
-A - 18 Vet (8, 12, 43)
-E - 18 Knight (33, 48)
+~~A - 18 Vet (8, 12, 43, )~~
+E - 18 Knight (33, 48, 33)
 B - 17 Vet (7)
 Ulfgar
 Jerran & Wolves
 Breenabell
-C - 14 Priest (4, 13)
+~~C - 14 Priest (4, 13, 28) spellslots, 1:I~~
 Nala
-F - 13 Priest ()
+F - 13 Priest, Spells (3:I) ()
 D - 6 Vet (9, 23)
 
 + 17 Performance, Ulfgar
++ 21 Performance, Nala
++ 15 Performance, Nala
 
 We leave our heroes on the date of ... AF, as they ...
