@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes they had made meeting with a powerful Dragon by the name [[Kakurak]], and spent time in his lair. A kind soul, he equipped the party with knowledge of a horrible place of power and some manner of physical equipment as well.
+When last we left our heroes they had made meeting with a powerful Dragon by the name [[Kakurak]], and spent time in his lair. A kind soul, he equipped the party with knowledge of a horrible place of power and some manner of physical equipment as well. Your path ahead may be full of danger, but you are a worthy band. What do you do? Who leads the convoy?
 
 ### What does the World Know?
 
@@ -23,7 +23,13 @@ When last we left our heroes they had made meeting with a powerful Dragon by the
 ADVENTURER'S GUILD PACKAGE - HANDLE WITH CARE
 
 Please find the following enclosed;
-- GAP-5 H.A. Care Package (x2)
+- GAP-5 H.A. Care Package (x2);
+	- Potion of Healing, Expert (x5)
+	- Potion of Vitality, Journeyman (x20)
+	- Potion of Vitality, Expert (x5)
+	- Potion of Cure Disease, Expert (x3)
+	- Potion of Resistance, Expert (x3)
+	- 
 - GAP-3b Advanced Gear Package (x2);
 	- Grade 3 (Immutable) Bag of Holding
 	- Sally-Sea-Shell Personal Shelter
