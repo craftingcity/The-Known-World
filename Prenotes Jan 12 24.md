@@ -79,4 +79,18 @@ They are headed to [[Kailkeep]], which is scary and fun. They are gonna swamp th
 
 Kakurak teleported them after they got their stuff, they made it safely to the outside of the mountain.
 
+##### RED ROVER
+###### VS GOLDEN CLAWS
+
+A - 18 Vet ()
+E - 18 Knight ()
+B - 17 Vet ()
+Ulfgar
+Jerran
+Breenabell
+C - 14 Priest ()
+Nala
+F - 13 Priest ()
+D - 6 Vet ()
+
 We leave our heroes on the date of ... AF, as they ...
