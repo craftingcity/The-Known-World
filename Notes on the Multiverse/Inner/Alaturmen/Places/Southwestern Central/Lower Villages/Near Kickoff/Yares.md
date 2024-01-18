@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Yares
+#### The Wildest Town West of the Alvalini
+## Holding of *DISPUTED*
+### Located in [[The Deserts of Tetrimoc]], X:Y
 ## Description
 ### Quote
 

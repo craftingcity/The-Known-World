@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Cobalt
+# Hakiral, the Cobalt Dagger, of [[Ezekimeela]]
 ## Thief Lord of the South
 ### he/they
 #### VO EXAMPLE:

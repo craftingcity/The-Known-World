@@ -21,10 +21,11 @@ Those on the outside attempted to learn more about the tower and the surrounding
 
 The tower was occupied, stocked with supplies, and defended - but it was seemingly empty. The people are not interested or scared or excited. There was clearly more to the tower - those of you who went inside recall only ascending one flight of stairs the others did not - but you found no obvious manner of continuation.
 
-
+What do you do?
 
 ### What does the World Know?
 
+Likely, they will try to reach [[Agrandica]] in her Savanna in [[Ahaustin]]. This trip, in a straight shot, will be 60 miles (aka 10 hexes, aka 2 days, aka 4 watches of Travel). Ash and Agrandica do not have a personal working relationship, and they have only been given her interpreted orders, when or if any (Ash more likely worked with a local boss under Agrandica).
 
 ### What happened?
 
