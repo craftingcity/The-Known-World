@@ -35,15 +35,15 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
 #### Sprinting Boulder
 - A long curved hall with a boulder at the top end. While it begins slowly, it quickly picks up speed.
+- Most often, the Sprinting Boulder forces Kailkeep's inhabitants back the way they have come from, forcing them through sections they have been through before.
 #### Dart Halls
-- A "minefield"-esq game, the Dart Halls are a seires of pressure plates and dart throwers. There is a path through the field, and it is notably unmarked.
+- A "minefield"-esq game, the Dart Halls are a series of pressure plates and dart throwers. There is a safe path through the field, though it is typically unmarked.
 #### Stone Gas
 - A chamber of statues in horrible pained expressions - these were once adventurers who fell to this trap.
-- When activated, a dense green gas fills the room. When a character begins their turn in the gas, they must succeed on a DC 15 Constitution Saving Throw, or they are Paralyzed. If this is the second time they have failed this check, they become Petrified instead, and join the statues in this room in a terrible death.
+- When activated, a dense green gas fills the room, creeping across the floor slowly before filling the room after a number of minutes. When a character begins their turn in the gas, they must succeed on a DC 15 Constitution Saving Throw, or they are Paralyzed. If this is the second time they have failed this check, they become Petrified instead, and join the statues in this room in a terrible death.
 #### Bonebuster
 - In this chamber there is a stone obelisk with a small hollow cylinder on each side. When a limb is inserted into one of these apertures, it is crushed, and a hatch opens on that side of the obelisk with a prize inside. Typically, this prize is genuine; small enchanted objects, ammunitions, or potions that have little to no downside.
 #### Beast Barracks
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
-#### 'Mercy'
 #### False Oasis
-#### Oubliette
+- A pool of water being fed by the walls of the mountain is the main feature of this room. A poor trap, this water is simply non-potable, and will inflict the Poisoned condition upon consumption if the consumer does not succeed on a DC 18 Con Save.
