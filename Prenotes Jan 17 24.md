@@ -25,11 +25,13 @@ What do you do?
 
 ### What does the World Know?
 
+There has been a possible miscount on the current in game date, but it is my understanding that they will begin today on the 17th of Weeding 105AF. Maybe mention [[Nylan Roul]] now that his campaign died.
+
 Likely, they will try to reach [[Agrandica]] in her Savanna in [[Ahaustin]]. This trip, in a straight shot, will be 60 miles (aka 10 hexes, aka 2 days, aka 4 watches of Travel). Ash and Agrandica do not have a personal working relationship, and they have only been given her interpreted orders, when or if any (Ash more likely worked with a local boss under Agrandica).
 
 Depending on what they request and present, Agrandica would be willing to offer a number of soldiers and supplies, but nothing that the Chicago Bulls would really look for - thats back in the White Tower, methinks - except for her magic gems...
 
-If necessary, we'll task 2 groups and this group to capture a neutral Durandurm convoy headed from Kickoff to the Golden City. They will face resistance from both the Claws transporting it and another group of Theives (either is fine, Ba).
+If necessary, we'll task 2 groups and this group to capture a neutral Durandurm convoy headed from Kickoff to the Golden City. They will face resistance from both the Claws transporting it and another group of Theives (either is fine, Barth might be "more realistic" but w/e).
 
 ##### Dail's Magic Gems
 Dail is the Quartermaster in Agrandica's Compound, and will sell (at extreme prices) or requisition (rarely...) the following spellgems;
