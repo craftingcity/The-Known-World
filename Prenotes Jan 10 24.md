@@ -32,4 +32,4 @@ shu ameda 20
 dae shim 19
 gringold 19
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they searched the tower, failed to find the *newly hidden* stairs, and decided to lean on their new connections to gain more information; they are travelling north to [[Agrandica's Savanna]] to meet with the Red Mistress
