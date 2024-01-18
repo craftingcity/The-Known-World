@@ -29,6 +29,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - Four Corners pits up to four teams against each other in a game of combat chance.
 - A large room is split into fourths by a waist-high wall. A pack of dogs is released into one corner, who gather together and continue around the square at random. With the pack of hounds as a fifth team, the game continues until one team stands.
 ### Detail
+#### Home Team Red Rover
 #### Spear Hall
 - A hallway flanked by viewports & spearholes. Either set to manual operation for the joy of the Kobolds or automatic for the operation of unremarkable rooms.
 - On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
