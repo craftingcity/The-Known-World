@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d6458c9256f9e44",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a76880758c1b414f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -49,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
