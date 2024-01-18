@@ -27,6 +27,40 @@ What do you do?
 
 Likely, they will try to reach [[Agrandica]] in her Savanna in [[Ahaustin]]. This trip, in a straight shot, will be 60 miles (aka 10 hexes, aka 2 days, aka 4 watches of Travel). Ash and Agrandica do not have a personal working relationship, and they have only been given her interpreted orders, when or if any (Ash more likely worked with a local boss under Agrandica).
 
+Depending on what they request and present, Agrandica would be willing to offer a number of soldiers and supplies, but nothing that the Chicago Bulls would really look for - thats back in the White Tower, methinks - except for her magic gems...
+
+If necessary, we'll task 2 groups and this group to capture a neutral Durandurm convoy headed from Kickoff to the Golden City. They will face resistance from both the Claws transporting it and another group of Theives (either is fine, Ba).
+
+##### Dail's Magic Gems
+Dail is the Quartermaster in Agrandica's Compound, and will sell (at extreme prices) or requisition (rarely...) the following spellgems;
+
+Level 1
+
+	- Bless
+	- Heroism
+	- Identify
+	- Inflict Wounds
+	- Jump
+	- Sheild
+	- Thunderwave
+
+Level 2
+
+	- Darkness
+	- Detect Thoughts
+	- Invisibility
+	- Knock
+	- Pass Without Trace
+	- Silence
+
+Level 3
+
+	- Counterspell
+	- Dispell Magic
+	- Haste
+
+
+
 ### What happened?
 
 

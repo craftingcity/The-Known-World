@@ -34,7 +34,3 @@ gringold 19
 
 We leave our heroes on the date of ... AF, as they searched the tower, failed to find the *newly hidden* stairs, and decided to lean on their new connections to gain more information; they are travelling north to [[Agrandica's Savanna]] to meet with the Red Mistress.
 
-Depending on what they request and present, Agrandica would be willing to offer a number of soldiers and supplies, but nothing that the Chicago Bulls would really look for - thats back in the White Tower, methinks - except for her magic gems. 
-
-Dail is the Quartermaster in 
-	- 
