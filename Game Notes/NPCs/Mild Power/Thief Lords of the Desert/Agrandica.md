@@ -2,9 +2,9 @@
 tags: npc
 aliases:
 ---
-# Agrandica
+# Agrandica Alamore
 ## Thief Lord of the South
-## The Red Madam
+## The Red Madam / Mistress
 ### she/her
 #### VO EXAMPLE:
 
@@ -13,7 +13,11 @@ aliases:
 A description of their function in the world.
 ## History
 ### Conception
-#### Character Goal
+- Maintain my hold on the north-west of [[The Deserts of Tetrimoc]].
 ### Current
 #### Character Goal
+- Maintain my hold on the north-west of [[The Deserts of Tetrimoc]].
+- Expand my hold in the Metals trade.
+#### Character Goal
 #### Location
+Born, raised, and based in [[Ahaustin]].

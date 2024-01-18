@@ -34,6 +34,7 @@ aliases:
 ### True Entrance (Teleportation Chamber)
 ### Hall of Skulls
 ### Library of Whispers
+### Hoard Chamber
 ## Peak
 ### Qiell's Chambers
 ### Immortality Machine
