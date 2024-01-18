@@ -34,12 +34,16 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
 - Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
 #### Sprinting Boulder
-- A long curved hall with a boulder at the top end.
+- A long curved hall with a boulder at the top end. While it begins slowly, it quickly picks up speed.
 #### Dart Halls
 - A "minefield"-esq game, the Dart Halls are a seires of pressure plates and dart throwers. There is a path through the field, and it is notably unmarked.
 #### Stone Gas
+- A chamber of statues in horrible pained expressions - these were once adventurers who fell to this trap.
+- When activated, a dense green gas fills the room. When a character begins their turn in the gas, they must succeed on a DC 15 Constitution Saving Throw, or they are Paralyzed. If this is the second time they have failed this check, they become Petrified instead, and join the statues in this room in a terrible death.
 #### Bonebuster
+- In this chamber there is a stone obelisk with a small hollow cylinder on each side. When a limb is inserted into one of these apertures, it is crushed, and a hatch opens on that side of the obelisk with a prize inside. Typically, this prize is genuine; small enchanted objects, ammunitions, or potions that have little to no downside.
 #### Beast Barracks
+- This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
 #### 'Mercy'
 #### False Oasis
 #### Oubliette
