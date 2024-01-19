@@ -32,6 +32,13 @@ jerran
 the other team
 ulfgar
 
+the other team is ;
+Astor, a Knight Man
+Gar, a Shaper Barbarian
+
+
+they flipped off the kobolds 
+
 ### What happened?
 
 

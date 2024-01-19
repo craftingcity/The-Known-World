@@ -5,6 +5,10 @@
       "path": "Prenotes Jan 18 24.md"
     },
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alaturmenian Travel Table",
       "path": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     }
   ],
   "omittedPaths": [],
