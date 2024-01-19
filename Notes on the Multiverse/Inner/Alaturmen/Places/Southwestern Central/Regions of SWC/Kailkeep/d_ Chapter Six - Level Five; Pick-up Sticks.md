@@ -11,4 +11,6 @@
 	- The Blue card is hidden among a large collection of books within a library. There is not an indication in which book it is hidden, and the destruction of the library is the intended solution for a "quick" solve. 
 #### Ways
 #### Pick-up Sticks (Exit Game)
+- Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
+- The goal of the game is to collect five of the stone tokens
 ### Detail
