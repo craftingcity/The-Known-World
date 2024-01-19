@@ -24,6 +24,14 @@ What do you do?
 
 [[Kailkeep]] from Red Rover on L4 beyond. Starting on the 17th of Weeding at like 8pm.
 
+##### fight "the dogs"
+nala
+breenabelle
+dogs
+jerran
+the other team
+ulfgar
+
 ### What happened?
 
 
