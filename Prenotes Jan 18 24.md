@@ -37,9 +37,9 @@ Astor, a Knight Man
 Gar, a Shaper Barbarian
 
 
-they flipped off the kobolds 
+they flipped off the kobolds, tried to heal new friends and collected 14 dog rations
 
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 22:00 17th Weeding, 105 AF, as they continue from the "Dogs Ahead" Beast Barracks on the 4th Level.
