@@ -32,7 +32,7 @@ In the morning, you will be led into a fenced off compound that contains the onc
 
 Until the night of the 8th, you are left in your rooms without food, water, or company. On that night, Avory's ritual begins.
 
-First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave.
+First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave, while a number of artifacts are placed around the open ritual space. Daelith will be brought forth into the center of this space, and then lathered in a mix of honey or applesugar and dove's blood, freshly squeezed. 
 
 ### What happened?
 
