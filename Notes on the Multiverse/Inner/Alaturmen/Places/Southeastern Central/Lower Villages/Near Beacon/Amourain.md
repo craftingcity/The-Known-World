@@ -5,7 +5,7 @@ aliases:
 # Amourain
 #### Sub-names?
 ## Holding of [[Slimknives]]
-### Located in {Region}, X:Y
+### Located in [[Westlick Mossland]], X:Y
 ## Description
 ### Quote
 
