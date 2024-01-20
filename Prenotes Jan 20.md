@@ -45,11 +45,14 @@ First, the assembled faithful will begin to chant a simple low growl in an attem
 If the chanting was powerful enough (Accumulative DC 30 Performance / 5 rounds) at the time of Daelith's sacrifice, a beam of light will engulf her form, and she will become an Avatar of Sune - just as [[Hannah's Demon (Celaena)]] is summoned into Alaturmen as well.
 
 ##### Daelith, Avatar of Sune
+Cleric
+
 STAT | VAL | STAT | VAL
---- | ---
+--- | --- | --- | ---
 STR | 19 | INT | 25
 DEX | 19 | WIS | 26
 CON | 24 | CHA | 22
+HP | 245 | AC | 20
 
 ### What happened?
 
