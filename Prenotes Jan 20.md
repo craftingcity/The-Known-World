@@ -21,18 +21,26 @@ In conversation with the Baron, her goals became less opaque; she requires Daeli
 With what little information they were given, your party was waved off, but Vix - with a very reasonable measure of suspicion for the situation - demanded to stay with Daelith, by her side, up to or perhaps even during this mysterious ritual. From one hollow woman to another, this favor was granted, and the three of you - Daelith, Vix, and Baron Avory herself - began what you might consider... a side-quest.
 
 ### What does the World Know?
-
+#### Travelling
 You travelled for two days in a caravan of fine carts, each of which was guarded by at least four armed and armored guards at all times. During the day, yourselves and the Baron travelled together, and the other two carts in your caravan were left empty. 
 
 During the first night, the Baron kindly showed the sleeping arrangements in your cart and departed for her own. Your doors were locked, and your cart was continually guarded, still. On the second night, you did not make a camp for the night, and continued your travel to your destination - the now visible and glowing city of [[Beacon]]. 
 
+#### Resting in the City
 You travelled deep into the city before halting on the street and entering a building visibly titled "Chased Hare Tavern & Inn". As you and your parade enter the building, you are pointed up the stairs where master suite rooms have been prepared for the both of you, including a hot-stone bath-tub, a large warmed bed, and a selection of desserts and breakfast pastries.
 
 In the morning, you will be led into a fenced off compound that contains the once glorious Temple of Love that now lies in ruins on the edge of town. There are many agents of Avory here. The ruins have been marginally repaired and redecorated. Rooms within the temple have been prepared for you both, separately, and when you depart for bed, you will find the doors to your rooms locked behind you.
 
-Until the night of the 8th, you are left in your rooms without food, water, or company. On that night, Avory's ritual begins.
+Until the night of the 8th, you are left in your rooms with food, water, and fine wine. On that night, Avory's ritual begins.
 
-First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave, while a number of artifacts are placed around the open ritual space. Daelith will be brought forth into the center of this space, and then lathered in a mix of honey or applesugar and dove's blood, freshly squeezed. 
+#### The Ritual
+###### Before the Ritual
+If Daelith fails to perform divine magics, she will be required to undergo a cleansing ritual on the 7th, before the dawn of the 8th, that will extract the latent dark magic in Daelith that is preventing the connection to Sune. As this energy is extracted, it will manifest into a physical shadow demon that will pose an immediate threat to her and those around her in the chamber - Vix may be vital in this fight, and her presence should be both thematically and mechanically rewarded. Daelith will hear a motherly voice finally welcoming her home, and giving her a cryptic understanding of what is about to happen to her, and what her purpose is - fighting a great evil with her powerful spirit. 
+
+###### The Night of the Ritual
+First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave, while a number of artifacts are placed around the open ritual space. Daelith will be brought forth into the center of this space, and then lathered in a mix of honey or applesugar and dove's blood, freshly squeezed. Then, the chanting will become more forceful and powerful. Daelith will be given a final passionate kiss, then will very quickly die of the poison on the Baron's Lipstick.
+
+If the chanting was powerful enough (Accumulative DC 30 Performance / 5 rounds) at the time of Daelith's sacrifice, a beam of light will engulf her form, and she will become an Avatar of Sune - just as [[Hannah's Demon (Celaena)]] is summoned into Alaturmen as well.
 
 ### What happened?
 
