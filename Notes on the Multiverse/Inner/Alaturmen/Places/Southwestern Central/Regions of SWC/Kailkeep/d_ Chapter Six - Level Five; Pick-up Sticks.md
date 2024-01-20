@@ -14,6 +14,11 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone tokens dispensed by games throughout the level. When a total of five tokens are inserted by a player, that player is forcibly ascended to the next level - this means that if a party wishes to ascend "together" they must each collect five tokens.
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, that player is forcibly ascended to the next level - this means that if a party wishes to ascend "together" they must each collect five **Tokens**.
 ### Detail
 #### Go Fish!
+- A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
+- The largest threat to a competent combatant is drowning. 
+	- A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round f
+	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
+	- After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum.
