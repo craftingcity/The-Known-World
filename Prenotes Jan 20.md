@@ -21,10 +21,12 @@ In conversation with the Baron, her goals became less opaque; she requires Daeli
 With what little information they were given, your party was waved off, but Vix - with a very reasonable measure of suspicion for the situation - demanded to stay with Daelith, by her side, up to or perhaps even during this mysterious ritual. From one hollow woman to another, this favor was granted, and the three of you - Daelith, Vix, and Baron Avory herself - began what you might consider... a side-quest.
 
 ### What does the World Know?
+Run it like a 
+
 #### Travelling
 You travelled for two days in a caravan of fine carts, each of which was guarded by at least four armed and armored guards at all times. During the day, yourselves and the Baron travelled together, and the other two carts in your caravan were left empty. 
 
-During the first night, the Baron kindly showed the sleeping arrangements in your cart and departed for her own. Your doors were locked, and your cart was continually guarded, still. On the second night, you did not make a camp for the night, and continued your travel to your destination - the now visible and glowing city of [[Beacon]]. 
+During the first night, the Baron kindly showed the sleeping arrangements in your cart and departed for her own. Your doors were locked, and your cart was continually guarded, still. On the second night, you did not make a camp for the night, and continued your travel to your destination - the now visible and glowing city of [[Beacon]]. Your caravan is stopped at the gate by a number of guards, but you quickly are waved into the city - where bright lights on metal poles alight the city even in the dead of night as you are.
 
 #### Resting in the City
 You travelled deep into the city before halting on the street and entering a building visibly titled "Chased Hare Tavern & Inn". As you and your parade enter the building, you are pointed up the stairs where master suite rooms have been prepared for the both of you, including a hot-stone bath-tub, a large warmed bed, and a selection of desserts and breakfast pastries.
@@ -41,6 +43,13 @@ If Daelith fails to perform divine magics, she will be required to undergo a cle
 First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave, while a number of artifacts are placed around the open ritual space. Daelith will be brought forth into the center of this space, and then lathered in a mix of honey or applesugar and dove's blood, freshly squeezed. Then, the chanting will become more forceful and powerful. Daelith will be given a final passionate kiss, then will very quickly die of the poison on the Baron's Lipstick.
 
 If the chanting was powerful enough (Accumulative DC 30 Performance / 5 rounds) at the time of Daelith's sacrifice, a beam of light will engulf her form, and she will become an Avatar of Sune - just as [[Hannah's Demon (Celaena)]] is summoned into Alaturmen as well.
+
+##### Daelith, Avatar of Sune
+STAT | VAL | STAT | VAL
+--- | ---
+STR | 19 | INT | 25
+DEX | 19 | WIS | 26
+CON | 24 | CHA | 22
 
 ### What happened?
 
