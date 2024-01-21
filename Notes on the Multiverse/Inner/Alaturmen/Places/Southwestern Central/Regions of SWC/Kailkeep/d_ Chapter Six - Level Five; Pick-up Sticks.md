@@ -23,5 +23,11 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
 	- After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.
 #### Bouncy House
+#### Puppet's Game
+#### Shooting Gallery
+#### Beast Barracks
+- This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
+- The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
+- Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.

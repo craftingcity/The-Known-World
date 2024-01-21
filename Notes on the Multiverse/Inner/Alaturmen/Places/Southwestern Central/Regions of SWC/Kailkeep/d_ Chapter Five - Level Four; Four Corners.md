@@ -52,4 +52,4 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
 - Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### False Oasis
-- A pool of water being fed by the walls of the mountain is the main feature of this room. A poor trap, this water is simply non-potable, and will inflict the Poisoned condition upon consumption if the consumer does not succeed on a DC 18 Con Save.
+- A pool of water being fed by the walls of the mountain is the main feature of this room. A poor trap, this water is simply non-potable, and will inflict the Poisoned condition for 36 hours upon consumption if the consumer does not succeed on a DC 18 Con Save.
