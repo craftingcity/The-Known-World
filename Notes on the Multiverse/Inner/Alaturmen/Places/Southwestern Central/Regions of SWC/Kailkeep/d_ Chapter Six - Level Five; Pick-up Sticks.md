@@ -44,6 +44,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
 #### Blood for Coin
-#### Clean Hall... of Ooze
+#### Clean Ooze
 #### 'Mercy'
-- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 700 survivors
+- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 700 survivors who have permanently made their home here.
+- A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus for the things that 

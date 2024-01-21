@@ -80,6 +80,8 @@ The Masters of Kailkeep watch from their posts, behind walls of transparent ston
 ###### Rammik's Gang
 Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay.
 
+###### Yellowback's Gang
+
 #### Goblin Loyalists
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
 
@@ -106,8 +108,10 @@ Trained thieves and pirates have banded together on the bond of their shared lif
 #### Survivalists
 People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving, retaining their morality, *and* their intelligence. These are those few.
 
+###### Johnlock's Gang
+
 #### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play to the crowd *too well*.
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler

@@ -6,3 +6,7 @@
 #### Ways
 #### Slowed Killer Kadabbi (Exit Game)
 ### Detail
+#### False Feast
+##### Feast of Festering Fumes
+##### Insane Painting
+#### 
