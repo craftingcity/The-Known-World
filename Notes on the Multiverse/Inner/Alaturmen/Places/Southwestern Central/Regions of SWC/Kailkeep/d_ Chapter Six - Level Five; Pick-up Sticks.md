@@ -2,6 +2,18 @@
 Level Five is the first and last level of Kailkeep to offer any sort of ecosystem that promotes cooperation between parties. From the prospective of the participant and the operators, this level continues the game, requiring five tokens per person to progress into the next level - but to the discerning eye, it presents an ecosystem of supply and demand that can be exploited to create a small stable community. 
 
 ## What Dwells Here?
+### Loyalists
+#### Goblin Lucktriers
+#### Amateur Entertainers
+#### Punished Kobols
+##### Yellowback's Gang
+#### Red Gnoll
+### Dissenters
+#### Ancients of Mountianhall
+#### Golden Claw Guard
+#### Honorable Thieves
+#### Survivalists & Dissenters
+##### Johnlock's Gang
 ## Exploring this Place
 ### Navigation
 #### Escape Room (Entrance Game)
@@ -31,3 +43,4 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
+#### Blood for Coin
