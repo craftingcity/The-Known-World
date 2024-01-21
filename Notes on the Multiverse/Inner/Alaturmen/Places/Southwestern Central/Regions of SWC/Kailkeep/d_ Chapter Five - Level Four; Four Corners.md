@@ -49,6 +49,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - While crushing a limb, the Bonebuster deals 2d8 bludgeoning damage to the character, and they will have their choice of a *Broken Arm* or a *Broken Leg*. A character with a *Broken Arm* has Disadvantage on Attack Rolls, Strength Saving Throws, and Strength or Dexterity Checks. A character with a *Broken Leg* has Disadvantage on Dexterity Saving Throws, and Strength or Dexterity Checks, and their speed is halved.
 #### Beast Barracks
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
-- The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are left to fend for themselves 
+- The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
+- Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### False Oasis
 - A pool of water being fed by the walls of the mountain is the main feature of this room. A poor trap, this water is simply non-potable, and will inflict the Poisoned condition upon consumption if the consumer does not succeed on a DC 18 Con Save.
