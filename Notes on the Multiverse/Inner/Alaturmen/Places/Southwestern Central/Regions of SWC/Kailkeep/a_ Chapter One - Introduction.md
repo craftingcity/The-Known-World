@@ -136,10 +136,10 @@ Those who survive Kailkeep for too long lose their sanity. One can only take so 
 
 ## Kailkeep's Features
 #### Terra's Mountain
-The Idol of Earth (or another powerful-earth-manipulating entity who would fit) Terra has claimed this mountain as her lair. Whether that is a choice she made is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
+The Idol of Earth, Terra (or another powerful-earth-manipulating entity who would fit), has claimed this mountain as her lair. Whether that is a choice she made herself is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 
 #### False Allure
-In its lowest floors, the first three, it is a carefully crafted dungeon of "false allure" – stone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, it becomes more and more clear that this Antagonist is really our Protagonist, and the story of the lower levels twists into our Hero's favor before...
+In its lowest floors, the first three, Kailkeep is a carefully crafted dungeon of "false allure" – sandstone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, promises of hidden riches and weaponry higher up inside the mountain are made, before suddenly...
 
 
 ## The Hells of Kailkeep
@@ -148,7 +148,7 @@ Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds 
 
 The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be presented with the feeling of unease – prey being lured into a trap.
 
-A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside of the Hells themselves, and even then, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped, as Operators shape, reshape, and shape again.
+A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside the Hells themselves, and even then, within the mountain, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped, as Operators shape, reshape, and shape again.
 
 ### Entering Kailkeep
 Kailkeep is a massive structure, too big to map here. If one were to avoid the obvious entrances, no matter where you enter the mountain, you would eventually find yourself in the structure of Kailkeep.
@@ -185,11 +185,11 @@ Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an O
 The Kobolds who view the Hells as entertainment typically have no need for light, except in the larger rooms of the Hells, in which case the bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
 
 ##### Formatted Markings
-Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as yyy-mm-dd and a two centimetre wide, one centimetre deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
+Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as mm-dd-yyy and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ##### Scoreboard
 Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. 
 
 The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive, and compared to their most direct competitors.
 
-Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around five thousand, hinting at the current population of competitors upon their first interaction with the scoreboard.
+Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around three thousand, hinting at the current population of competitors upon their first interaction with the scoreboard.

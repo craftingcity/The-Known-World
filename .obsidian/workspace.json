@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "2e152171b622f4fb",
+        "id": "23c1ece914698ad7",
         "type": "tabs",
         "children": [
-          {
-            "id": "3e873dc00a4dfa30",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 20 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "9c485b135a72d62a",
             "type": "leaf",
@@ -69,7 +48,14 @@
                 "source": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2e152171b622f4fb",
+        "type": "tabs",
+        "children": [
           {
             "id": "63571456c1c75a5a",
             "type": "leaf",
@@ -86,27 +72,6 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d280ea2c3a79ba0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
                 "mode": "source",
                 "source": true
               }
@@ -132,9 +97,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1d280ea2c3a79ba0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -387,9 +372,9 @@
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 20 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",

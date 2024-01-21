@@ -5,7 +5,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 ### Loyalists
 #### Goblin Lucktriers
 #### Amateur Entertainers
-#### Punished Kobols
+#### Kobolds of Kailkeep
+##### Bernet, Lodestone Golem, Token Guardian
 ##### Yellowback's Gang
 #### Red Gnoll
 ### Dissenters
@@ -46,5 +47,9 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Blood for Coin
 #### Clean Ooze
 #### 'Mercy'
+##### Pop: 678
 - This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 700 survivors who have permanently made their home here.
-- A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus for the things that 
+- A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus to for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
+	- The following resources are "available to the public";
+		- 
+- The few bold enough to continually travel to and from Mercy
