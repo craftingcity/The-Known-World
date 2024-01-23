@@ -49,6 +49,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
 #### Blood for Coin
+- A smaller chamber that holds a number of visible tanks on the wall below accompanying **Tokens**. In the center of the chamber, there is a stone bowl with a small grate at the bottom stained a dark red.
+- As the stone bowl is filled with blood, it will travel to one of the tanks on the walls. When a tank is filled with 16 pints of blood (2-3 bodies), the tank's **Token** becomes available.
 #### Clean Ooze
 #### 'Mercy'
 ##### Pop: 378
