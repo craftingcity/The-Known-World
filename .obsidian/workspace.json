@@ -4,133 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf8a88b0f987347",
-        "type": "split",
-        "children": [
-          {
-            "id": "23c1ece914698ad7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9c485b135a72d62a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "2d81203522b7fa60",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "42aeec396be3038f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0224a8ee3cd39e34",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "bb6b25e1836ad52c",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Ecology.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "131b786046430d09",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "2e152171b622f4fb",
+        "id": "c45d5a8252f9109f",
         "type": "tabs",
         "children": [
           {
-            "id": "63571456c1c75a5a",
+            "id": "96191e972e8d1dfc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -144,14 +22,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4ec9370077a7404a",
+            "id": "adeafca152b5b978",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82db5f95aea4815f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -172,7 +71,7 @@
             }
           },
           {
-            "id": "1d280ea2c3a79ba0",
+            "id": "13b5dc1434e43492",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -186,7 +85,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a9c96d3931125e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a217cc2a172c261b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
                 "mode": "source",
                 "source": true
               }
@@ -220,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flora",
+                "query": "milliehouse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -311,6 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +305,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
+              }
             }
           },
           {
@@ -436,34 +368,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "131b786046430d09",
+  "active": "13b5dc1434e43492",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Ecology.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 20 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 04 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 04 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 01 24 1.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Tilemundon's White Tower.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Ahaustin.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 13 23.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 16 23.md",
+    "Prenotes Jan 17 24.md",
+    "Game Notes/Prenotes/'23/Prenotes Oct 23 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
+    "Prenotes Jan 10 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
+    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Barthalamule.md",
+    "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Cobalt.md",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
