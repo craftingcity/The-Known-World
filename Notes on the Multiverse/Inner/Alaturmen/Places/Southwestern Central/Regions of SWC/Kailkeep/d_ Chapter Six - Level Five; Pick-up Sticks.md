@@ -61,17 +61,20 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 			- Vermin & Fish
 			- Bluecap Flour
 			- Hookstalk
+			- Ripplebark
 			- Cactus Fruits & Meat
 			- Mountain Flowers
+			- Lace Mycillium
 		- ###### MATERIAL
+			- Lithel (Cavern Grass)
 			- Metallic Scrap
 			- Wooden Scrap
 			- Bone
 - The few bold enough to continually travel to and from Mercy are known as Roamers, and while they are in some senses revered, they are equally shunned, leading to the need for a middleman; the Merchant.
 ##### Notable Locations...
 - The Gate (aka the Killbox)
-- The Foundry & Transmutation Chambers
-- The Bar
+- The Foundry (& Transmutation Chambers)
+- The Bar (& Hospital)
 - The Arena
 - The Farms
 - The Training Grounds & Barracks
