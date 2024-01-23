@@ -36,8 +36,12 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
 	- After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.
 #### Bouncy House
+- This chamber contains a system of plate-based launchers that shoot characters high into the air.
+- A **Token** is hanging upon a small ledge near the top and center of the chamber.
 #### Puppet's Game
+- This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
 #### Shooting Gallery
+- This long chamber is notably lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 #### Beast Barracks
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
 - The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
@@ -47,8 +51,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Blood for Coin
 #### Clean Ooze
 #### 'Mercy'
-##### Pop: 678
-- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 700 survivors who have permanently made their home here.
+##### Pop: 378
+- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 400 survivors who have permanently made their home here.
 - A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus to for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
 	- The following resources are "available to the public";
 		- ###### FOOD
@@ -64,4 +68,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - The few bold enough to continually travel to and from Mercy are known as Roamers, and while they are in some senses revered, they are equally shunned, leading to the need for a middleman; the Merchant.
 ##### Notable Locations...
 - The Gate (aka the Killbox)
-- The Foundry
+- The Foundry & Transmutation Chambers
+- The Bar
+- The Arena
+- The Farms
+- The Training Grounds & Barracks
