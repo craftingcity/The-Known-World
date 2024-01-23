@@ -51,5 +51,17 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 700 survivors who have permanently made their home here.
 - A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus to for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
 	- The following resources are "available to the public";
-		- 
-- The few bold enough to continually travel to and from Mercy
+		- ###### FOOD
+			- Vermin & Fish
+			- Bluecap Flour
+			- Hookstalk
+			- Cactus Fruits & Meat
+			- Mountain Flowers
+		- ###### MATERIAL
+			- Metallic Scrap
+			- Wooden Scrap
+			- Bone
+- The few bold enough to continually travel to and from Mercy are known as Roamers, and while they are in some senses revered, they are equally shunned, leading to the need for a middleman; the Merchant.
+##### Notable Locations...
+- The Gate (aka the Killbox)
+- The Foundry
