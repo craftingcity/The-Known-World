@@ -75,15 +75,24 @@ There are two large categories of creatures that Inhabit Kailkeep, those with an
 
 ### Intelligent Factions
 #### Kobolds of Kailkeep
-The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair.
+The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair. As each level is introduced and explored, the Kobold Gang on that level continues alongside the adventurers, becoming a more present threat as the characters continue upward.
 
 ###### Rammik's Gang
 Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay.
 
 ###### Yellowback's Gang
+Led by a yellow kobold - Yellowback -, this well-equipped and well groomed gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. 
+
+###### Pinky's Gang
+Led by a red kobold - Pinky -, this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side.
 
 #### Goblin Loyalists
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
+
+###### 'Vulture' Squad
+###### 'Sneaking Stalkers' Squad
+###### 'Gorilla Fists' Squad
+###### 'Bear Hug' Squad
 
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
@@ -112,6 +121,8 @@ People with little to no training have been taken to the Hells as long as the He
 
 #### Reformed Entertainers
 Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
+
+
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler
