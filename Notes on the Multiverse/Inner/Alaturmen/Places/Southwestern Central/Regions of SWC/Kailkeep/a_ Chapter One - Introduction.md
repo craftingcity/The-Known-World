@@ -98,7 +98,7 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 ###### 'Sneaking Mantis' Squad
 ###### 'Gorilla Fists' Squad
 ###### 'Bear Hug' Squad
-###### 'Bear Hug' Squad
+###### 'Cat's Claw' Squad
 
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
