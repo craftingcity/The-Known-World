@@ -6,6 +6,7 @@
       {
         "id": "07df8c861678bc5d",
         "type": "tabs",
+        "dimension": 38.224637681159415,
         "children": [
           {
             "id": "7457f84b30e408a5",
@@ -33,6 +34,7 @@
       {
         "id": "c45d5a8252f9109f",
         "type": "tabs",
+        "dimension": 61.77536231884058,
         "children": [
           {
             "id": "96191e972e8d1dfc",
@@ -151,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -310,7 +313,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96191e972e8d1dfc",
+  "active": "b28ee8c1edfb54e0",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
