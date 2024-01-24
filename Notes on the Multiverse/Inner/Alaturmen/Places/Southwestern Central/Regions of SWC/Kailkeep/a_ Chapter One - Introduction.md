@@ -83,15 +83,21 @@ Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails f
 ###### Yellowback's Gang
 Led by a yellow kobold - Yellowback -, this well-equipped and well groomed gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. 
 
+###### Gang
+
 ###### Pinky's Gang
 Led by a red kobold - Pinky -, this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side.
+
+###### Gang
+
 
 #### Goblin Loyalists
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
 
-###### 'Vulture' Squad
-###### 'Sneaking Stalkers' Squad
+###### 'Vulture Talons' Squad
+###### 'Sneaking Mantis' Squad
 ###### 'Gorilla Fists' Squad
+###### 'Bear Hug' Squad
 ###### 'Bear Hug' Squad
 
 #### Goblin Dissenters
