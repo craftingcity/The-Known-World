@@ -123,12 +123,15 @@ Trained thieves and pirates have banded together on the bond of their shared lif
 #### Survivalists
 People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving, retaining their morality, *and* their intelligence. These are those few.
 
-###### Johnlock's Gang
+###### Hasten's Group
+###### Niurna's Group
+
+
 
 #### Reformed Entertainers
 Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
 
-
+###### Johnlock's Gang
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler

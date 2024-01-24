@@ -5,8 +5,10 @@ aliases:
 
 # Clan Suremantle
 ## History
+
+
 ## Governance
-Clan Suremantle is a collection of greater Families, led by the Suremantle Family. The other greater Families include... ([[Nobles of Mountain Hall]])
+The Dwarven Kingdom Suremantle is a plutocratic society that extends from the west of the [[Lake of Eternal Life]] in the [[Deakred Range]] to the "far western mountains" beyond the [[Red Hills]] - the space north of [[Kailkeep]], and closest to the [[Wildlands]].
 ## Culture
 #### Heritage
 #### Language
