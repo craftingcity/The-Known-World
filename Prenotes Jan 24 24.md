@@ -33,28 +33,29 @@ I am occupied with my current work. What are you offering? My resources are vaca
 ###### THE FIGHT
 28 Gringold
 19 Tim
-18 Blue
-16 Black
+18 Blue Team
+16 Black Nomads
 15 Ash
+15 Red Team
 13 Cucu
 10 Shu
-9 White
+9 White Nomads
 6 Dae Shim
 
 Black
 A
 B
 C
-D
+~~D~~
 E
-F
+~~F~~
 
 White
 A
 B
 C
-D
-E
-F
+~~D~~
+~~E~~
+~~F~~
 
 We leave our heroes on the date of ... AF, as they ...
