@@ -44,7 +44,7 @@ I am occupied with my current work. What are you offering? My resources are vaca
 
 Black
 A
-B
+B 7, 19
 C
 ~~D~~
 E
