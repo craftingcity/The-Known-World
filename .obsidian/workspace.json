@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65a13e0eaea84350",
+        "id": "ec3c033661f75dab",
         "type": "tabs",
         "children": [
           {
-            "id": "3580848e626670ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Guilded Wizard NPCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":5},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 24 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9af99784bbddd1c",
+            "id": "01d2d0d784eeb18b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,55 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ab52d1d0d65d7fb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b0633606aab9ecd1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "tile",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"tile.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tilemundon's White Tower.md",
+                "file": "Prenotes Jan 25 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -222,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Jan 24 24.md",
+                "file": "Prenotes Jan 25 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Jan 24 24.md",
+                "file": "Prenotes Jan 25 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Jan 24 24.md"
+                "file": "Prenotes Jan 25 24.md"
               }
             }
           },
@@ -351,16 +276,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "01d2d0d784eeb18b",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
+    "Prenotes Jan 25 24.md",
     "Tilemundon's White Tower.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
     "Prenotes Jan 24 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Ahaustin.md",
     "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Agrandica's Savanna.md",
     "tile.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
@@ -380,7 +306,6 @@
     "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 04 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
