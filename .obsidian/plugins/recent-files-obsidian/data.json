@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tilemundon's White Tower",
+      "path": "Tilemundon's White Tower.md"
+    },
+    {
+      "basename": "tile",
+      "path": "tile.md"
+    },
+    {
       "basename": "Qiell Tilemundon",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
-    },
-    {
-      "basename": "Tilemundon's White Tower",
-      "path": "Tilemundon's White Tower.md"
     },
     {
       "basename": "Ahaustin",
@@ -195,10 +199,6 @@
     {
       "basename": "Alaturmenian Travel Table",
       "path": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     }
   ],
   "omittedPaths": [],

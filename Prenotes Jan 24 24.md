@@ -19,13 +19,15 @@ When last we left our heroes, they had made their way into the city of [[Ahausti
 
 A squad of six members of Agrandica's Noble Thieves meets you a few minutes after you have exited Agrandica's office in her compound. One of the members steps forward and introduces himself as the Team Leader of the squad, to act as the Second to Ash... (Thats Timothieus)
 
-
-
 ### What does the World Know?
 
 The TL has a dossier on the White Tower
 
 ### What happened?
 
+hey black mage its the chicago bulls we want to meet we have a new prop for you, give us a time and place
+
+@ChicagoBulls
+I am occupied with my current work. What are you offering? My resources are vacant. Your most recent prize has been fruitful, and I would be interested in more informants or information. Meetings could be held in [[Kamarios]] if necessary.
 
 We leave our heroes on the date of ... AF, as they ...
