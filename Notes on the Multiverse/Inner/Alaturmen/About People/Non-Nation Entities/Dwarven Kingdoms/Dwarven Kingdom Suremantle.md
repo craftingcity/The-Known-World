@@ -11,7 +11,7 @@ For all of Alaturmen's history, the [[Deakred Range]] has been under the complet
 
 From the fifties to the seventies, there were many skirmishes along the northern side of the [[Deakred Range]], including the regions of [[Litteortosta]], [[Sinazel Ambonas]], the [[Greenhilles]], and the [[Grumbling Hills]] against the many newly formed factions that since filled Alaturmen. 
 
-These skirmishes were costly, both in resources and reputation, and the Clan was forced to capitulate a significant portion of their territory to the [[Guilds of Coalition]]
+These skirmishes were costly, both in resources and reputation, and due to "economic concerns", ie, the Northern Metals Trade, the Clan was forced to capitulate a significant portion of their claimed territory to the [[Guilds of Coalition]] - the areas south and east of the [[Lake of Eternal Life]] were no longer property of the Suremantles. 
 
 ## Governance
 The Dwarven Kingdom Suremantle is a aristocratic-plutocratic society that extends from the west of the [[Lake of Eternal Life]] in the [[Deakred Range]] to the "far western mountains" beyond the [[Red Hills]] - the space north of [[Kailkeep]], and closest to the [[Wildlands]].
