@@ -38,8 +38,8 @@ Dail is the Quartermaster in Agrandica's Compound, and will sell (at extreme pri
 
 Level 1
 
-	- Bless
-	- Heroism
+	- ~~Bless~~
+	- ~~Heroism~~
 	- Identify
 	- Inflict Wounds
 	- Jump
@@ -49,16 +49,16 @@ Level 1
 Level 2
 
 	- Darkness
-	- Detect Thoughts
+	- ~~Detect Thoughts~~
 	- Invisibility
-	- Knock
+	- ~~Knock~~
 	- Pass Without Trace
-	- Silence
+	- ~~Silence~~
 
 Level 3
 
-	- Counterspell
-	- Dispell Magic
+	- ~~Counterspell~~
+	- ~~Dispell Magic~~
 	- Haste
 
 
