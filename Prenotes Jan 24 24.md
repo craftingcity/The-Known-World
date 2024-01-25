@@ -30,4 +30,20 @@ hey black mage its the chicago bulls we want to meet we have a new prop for you,
 @ChicagoBulls
 I am occupied with my current work. What are you offering? My resources are vacant. Your most recent prize has been fruitful, and I would be interested in more informants or information. Meetings could be held in [[Kamarios]] if necessary.
 
+###### THE FIGHT
+nomads
+
+A
+B
+C
+D
+E
+F
+A
+B
+C
+D
+E
+F
+
 We leave our heroes on the date of ... AF, as they ...

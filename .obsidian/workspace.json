@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qiell",
+                "query": "durandu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
+                "file": "Prenotes Jan 24 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
+                "file": "Prenotes Jan 24 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md"
+                "file": "Prenotes Jan 24 24.md"
               }
             }
           },
@@ -352,13 +351,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9af99784bbddd1c",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
+    "Tilemundon's White Tower.md",
     "Prenotes Jan 24 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Ahaustin.md",
     "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Agrandica's Savanna.md",
-    "Tilemundon's White Tower.md",
     "tile.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
@@ -378,7 +378,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Groundiki.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 20 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 04 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
