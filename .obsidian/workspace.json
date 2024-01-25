@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07df8c861678bc5d",
+        "id": "cade8209392b8832",
         "type": "tabs",
-        "dimension": 38.224637681159415,
         "children": [
           {
-            "id": "7457f84b30e408a5",
+            "id": "f4e3e9f1d2c4a01c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,138 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "file": "Prenotes Jan 24 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ]
-      },
-      {
-        "id": "c45d5a8252f9109f",
-        "type": "tabs",
-        "dimension": 61.77536231884058,
-        "children": [
-          {
-            "id": "96191e972e8d1dfc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 8,
-              "stack": [
-                {
-                  "title": "The Deserts of Tetrimoc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":18},\"to\":{\"line\":17,\"ch\":18}}}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Deakred Range",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "World Features",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Deakred Range",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "World Features",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Northwestern Central",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Southeastern Central",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":28},\"to\":{\"line\":8,\"ch\":28}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "22c7e52f8ed64aea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a777d4646b664779",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+                "file": "Prenotes Jan 24 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+                "file": "Prenotes Jan 24 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
+                "file": "Prenotes Jan 24 24.md"
               }
             }
           },
@@ -402,18 +276,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22c7e52f8ed64aea",
+  "active": "f4e3e9f1d2c4a01c",
   "lastOpenFiles": [
+    "Prenotes Jan 24 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "time.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Groundiki",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Mountain Hall",
@@ -434,7 +309,6 @@
     "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
