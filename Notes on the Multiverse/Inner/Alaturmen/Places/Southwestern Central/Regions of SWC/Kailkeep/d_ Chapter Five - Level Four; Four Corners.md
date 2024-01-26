@@ -5,15 +5,15 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 
 ## What Dwells Here?
 ### Loyalists
-#### Goblin Lucktriers
+#### 'Vulture Talons' Squad
 #### Rammik's Gang
 #### Bloodylip's Pack
-#### Amateur Entertainers
+#### Johnlock's Gang
 ### Dissenters
 #### Ancients of Mountianhall
 #### Golden Claw Guard
 #### Honorable Thieves
-#### Survivalists
+#### Hasten's Group
 ## Exploring this Place
 ### Navigation
 #### Red Rover (Entrance Game)

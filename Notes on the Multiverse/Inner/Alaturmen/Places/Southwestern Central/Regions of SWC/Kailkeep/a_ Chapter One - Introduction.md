@@ -83,12 +83,12 @@ Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails f
 ###### Yellowback's Gang
 Led by a yellow kobold - Yellowback -, this well-equipped and well groomed gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. 
 
-###### Gang
+###### Kasey Bullseye's Gang
 
 ###### Pinky's Gang
 Led by a red kobold - Pinky -, this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side.
 
-###### Gang
+###### Shuckster's Gang
 
 
 #### Goblin Loyalists
@@ -103,10 +103,15 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
 
+
+
 #### Red Gnoll
 The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
 ###### Bloodylip's Pack
+###### Dusk's Pack
+###### Reaper's Pack
+###### Lynch's Pack
 
 #### Gaund Loyalists
 A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
