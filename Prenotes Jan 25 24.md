@@ -29,4 +29,18 @@ It is the night of the 17th, and they have been in here for a number of hours at
 ### What happened?
 
 
+##### FIGHT V RAMMIK's GANG
+(19) Breenabell
+(14) Rammik (3)
+Green B
+Green C
+Green D
+Orange A
+Orange B
+Orange C
+Orange D
+(11) Jerran
+(10) Nala
+(7) Ulfgar
+
 We leave our heroes on the date of ... AF, as they ...
