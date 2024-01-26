@@ -3,18 +3,16 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 
 ## What Dwells Here?
 ### Loyalists
-#### Goblin Lucktriers
-#### Amateur Entertainers
-#### Kobolds of Kailkeep
-##### Bernet, Lodestone Golem, Token Guardian
-##### Yellowback's Gang
-#### Red Gnoll
+#### 'Sneaking Mantis' Squad
+#### Hannibal's Gang
+#### Yellowback's Gang
+#### Bernet, Lodestone Golem, Token Guardian
+#### Dusk's Pack
 ### Dissenters
 #### Ancients of Mountianhall
 #### Golden Claw Guard
 #### Honorable Thieves
-#### Survivalists & Dissenters
-##### Johnlock's Gang
+#### Niurna's Group
 ## Exploring this Place
 ### Navigation
 #### Escape Room (Entrance Game)

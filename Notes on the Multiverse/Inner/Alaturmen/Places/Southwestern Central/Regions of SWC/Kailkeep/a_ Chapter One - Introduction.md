@@ -137,6 +137,7 @@ People with little to no training have been taken to the Hells as long as the He
 Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
 
 ###### Johnlock's Gang
+###### Hannibal's Gang
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler
