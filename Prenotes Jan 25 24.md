@@ -24,7 +24,7 @@ We return to the party only moments after we had left them, in this chamber with
 It is the night of the 17th, and they have been in here for a number of hours at this point. The three were a part of a group of travelers crossing the desert from [[Kickoff]] to [[Ahaustin]], and were captured along with three others. The rest did not survive the encounter. It has been maybe a day and a half, and none of the three have slept - they are just barely more adapted to the harsh conditions of [[Kailkeep]]'s Hells.
 - Aramond the [Druid](https://www.aidedd.org/dnd/monstres.php?vo=jackalwere) (10)
 - Benjamin the [Fighter](https://www.aidedd.org/dnd/monstres.php?vo=thug)
-- Yissa the [Sorcerer](https://www.aidedd.org/dnd/monstres.php?vo=acolyte)
+- Yissa the [Sorcerer](https://www.aidedd.org/dnd/monstres.php?vo=acolyte) (6)
 
 ### What happened?
 
