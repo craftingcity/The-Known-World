@@ -31,14 +31,14 @@ It is the night of the 17th, and they have been in here for a number of hours at
 
 ##### FIGHT V RAMMIK's GANG
 (19) Breenabell
-(14) Rammik (3)
-Green B
-Green C
-Green D
-Orange A
-Orange B
-Orange C
-Orange D
+(14) Rammik (3, 24)
+Green B (21)
+Green C (10, 23)
+Green D (10)
+Orange A (21)
+Orange B (10)
+Orange C (21)
+Orange D (10)
 (11) Jerran
 (10) Nala
 (7) Ulfgar
