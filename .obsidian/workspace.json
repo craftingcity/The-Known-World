@@ -70,6 +70,48 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "22cedb778e76476b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a075b3068fa98506",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -371,10 +413,12 @@
   },
   "active": "01d2d0d784eeb18b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Prenotes Jan 25 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 18 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Prenotes Jan 25 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Tilemundon's White Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
@@ -397,8 +441,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Low Hornrock.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Groundiki.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 20 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 10 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 04 24.md",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",

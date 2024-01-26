@@ -100,4 +100,6 @@ D - 6 Vet (9, 23, 45)
 + 17 Performance, Ulfgar
 + 15 Performance, Jerran
 
+
+
 We leave our heroes on the date of 17th of Weeding 105 AF, as they have killed their first survivors in [[Kailkeep]]. They won Red Rover.
