@@ -32,6 +32,7 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 
 #### GAP-1
 ##### "Basic Care"
+The "Basic Care" equipment package includes reliable long-term adventuring gear, providing for food, water, and shelter needs during an adventure, and additional equipment that an adventuring party may find useful.
 
 #### GAC-1
 ##### "Magician"
@@ -40,7 +41,7 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 ##### "Pike"
 
 #### GAH-1
-##### "Sheild"
+##### "Tank"
 
 #### GAS-1
 ##### "Sliver"
@@ -48,26 +49,38 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 ### Class II
 Class II equipment
 
-#### GAP-2
+#### GAP-2a
 ##### "Primary Care"
 
-#### GAC-2
-##### "x"
+#### GAP-2b
+##### "Diplomatic Introduction"
+
+#### GAC-2a
+##### "Adept"
+
+#### GAC-2b
+##### "Chosen"
 
 #### GAB-2
-##### "x"
+##### "Scabbard"
 
-#### GAH-2
-##### "x"
+#### GAH-2a
+##### "Hammer"
+
+#### GAH-2b
+##### "Shield"
 
 #### GAS-2
-##### "x"
+##### "Scoundrel"
 
 ### Class III
 Class III
 
-#### GAP-3
+#### GAP-3a
 ##### "Advanced Care"
+
+#### GAP-3b
+##### "Diplomatic Progress"
 
 #### GAC-3
 ##### "x"
