@@ -78,10 +78,10 @@ There are two large categories of creatures that Inhabit Kailkeep, those with an
 The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair. As each level is introduced and explored, the Kobold Gang on that level continues alongside the adventurers, becoming a more present threat as the characters continue upward.
 
 ###### Rammik's Gang
-Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay.
+Led by a red kobold - Rammik -, this well-equipped and well groomed gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart, choosing to lead by impersonating a bold adventurer, but he will chose his own life over those of his team with ease.
 
 ###### Yellowback's Gang
-Led by a yellow kobold - Yellowback -, this well-equipped and well groomed gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. 
+Led by a yellow kobold - Yellowback -, this well-equipped and well groomed gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. Yellowback spends some of his time creating alchemical agents, both for defen
 
 ###### Kasey Bullseye's Gang
 
