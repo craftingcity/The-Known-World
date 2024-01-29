@@ -71,7 +71,7 @@ Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons [[K
 Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of [[#Luzikiemal, Risen]] as a set piece in their entertainment.
 
 ## Inhabitants of Kailkeep
-There are two large categories of creatures that Inhabit Kailkeep, those with and those without "true" intelligence, ie language, planning, that stuff.
+There are two large categories of creatures that Inhabit Kailkeep; the first are the intelligent factions, those capable of understanding and attempting to progress within Kailkeep's Hells. The second are the less-than intelligent groups, such as the beasts and insects and the like - the more "natural" residents that have no reason to leave or understanding of what where they are really is.
 
 ### Intelligent Factions
 #### Kobolds of Kailkeep
@@ -93,8 +93,8 @@ Led by a red kobold - Pinky -, this sorcerous gang hails from the seventh layer,
 Leb by a yellow kobold - Shuckster -, this 
 
 
-#### Goblin Loyalists
-Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters.
+#### Goblin Squads
+Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into hit-squads.
 
 ###### 'Vulture Talons' Squad
 ###### 'Sneaking Mantis' Squad
@@ -105,18 +105,44 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
 
-
+###### Gang
+###### Gang
+###### Gang
+###### Gang
+###### Gang
 
 #### Red Gnoll
 The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
 ###### Bloodylip's Pack
+hails from the fourth layer
 ###### Dusk's Pack
+hails from the fifth layer
 ###### Reaper's Pack
+hails from the sixth layer
 ###### Lynch's Pack
+hails from the seventh layer
 
 #### Gaund Loyalists
 A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
+
+#### Survivalists
+People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving, retaining their morality, *and* their intelligence. These are those few.
+
+###### Hasten's Group
+###### Niurna's Group
+###### x's Group
+###### x's Group
+###### x's Group
+
+#### Reformed Entertainers
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
+
+###### Johnlock's Gang
+###### Hannibal's Gang
+###### x's Gang
+###### x's Gang
+###### x's Gang
 
 #### Ancients of Mountainhall
 For as long as Kailkeep has been, the Dwarves of Mountainhall has fought it. Squads are sent to Kailkeep when they commit horrible crimes or under brave, foolish command. Few survive to old age, but All dwarves in Kailkeep are Ancients.
@@ -126,20 +152,6 @@ Whole squads of [[Golden Claws]] of [[The Golden City]] find their way into Kail
 
 #### Honorable Thieves
 Trained thieves and pirates have banded together on the bond of their shared lifestyle; and honoring [[The Code of Thieves]] as their highest law.
-
-#### Survivalists
-People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving, retaining their morality, *and* their intelligence. These are those few.
-
-###### Hasten's Group
-###### Niurna's Group
-
-
-
-#### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
-
-###### Johnlock's Gang
-###### Hannibal's Gang
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler
