@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
     },
     {
+      "basename": "Economy",
+      "path": "ORGANIZATION/TEMPLATES/Economy.md"
+    },
+    {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tetrimoc's Blessings",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Tetrimoc's Blessings.md"
-    },
-    {
-      "basename": "Falaj Dawheer",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md"
     }
   ],
   "omittedPaths": [],

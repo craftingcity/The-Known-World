@@ -89,9 +89,7 @@ The field of gas cloud anomalies is a 25' radius circle. Within this radius, eac
 ###### Radiation
 
 ### General Public Disposition
-Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire.
-
-The most unprepared are those that believe anyone they encounter is as kind as them.
+Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is as kind as them.
 
 #### Factions
 ##### Scavengers / Seekers / Scavs
@@ -131,7 +129,7 @@ Hired soldiers willing to keep their employer's identity secret, the Mercenary g
 - The Dwarven Ship
 
 ##### Extramis
-Extramis is a loose collective of ex-soldiers and proven seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
+Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
 ###### Equipment
 ###### Areas of Operation
@@ -169,21 +167,22 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 A military outpost that supplies and commands operations within the Old performed by off-record Church soldiers. Legally, this is the only way in or out of the Old.
 
 #### The Western Entrance
-#### 
 
-#### 
+#### The Recreations Camp
 
-#### 
+#### The Killing Fields
+
+#### /blankspace/
 
 #### The Reserve
 
 #### The Depot
 
-#### 
+#### /blankspace/
 
-#### 
+#### The Barracks
 
-#### 
+#### /blankspace/
 
 #### The Forward Post
 
@@ -191,50 +190,53 @@ A military outpost that supplies and commands operations within the Old performe
 A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Savs and Mercenaries that operate in and nearby the Factory.
 
 #### The Northern Entrance
+
 #### The Rookie Village
 
-#### 
+#### /blankspace/
 
 #### The Lone Farmstead
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
 
 ### The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
 
-#### The Eastern Breach
-#### 
+#### The Eastern Breach 
 
-#### 
+#### /blankspace/
+
+#### /blankspace/
 
 #### The Trap Town
 
 #### The Logging Camp
 
-#### 
+#### The Spike Fields
 
-#### 
+#### /blankspace/
 
 #### The Pond
 
 #### The Forest Gate
 
-#### 
+#### The Outlook
 
 
 ### The Factory
 The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
+
 #### The Showroom
 
 #### The Arcane Chambers
@@ -296,45 +298,46 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 
 ### The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
-#### 
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
+
+#### /blankspace/
 
 
 
 ### The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
 
 
@@ -342,31 +345,33 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
 #### The Southern Entrance
-#### 
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
 
-#### 
+#### The Ship
 
-#### 
+#### /blankspace/
 
-#### 
+#### /blankspace/
+
+#### /blankspace/
 
 
 ## Economics
 ### Death as Business
 The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. 
 
-##### The Ancient Coin Standard
+### The Ancient Coin Standard
 Ancient Elven Empire coins, however, are well positioned within the Old as a token of value. Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
+
 
 ### Artifact Hunting
 #### Detection & Detection Equipment
