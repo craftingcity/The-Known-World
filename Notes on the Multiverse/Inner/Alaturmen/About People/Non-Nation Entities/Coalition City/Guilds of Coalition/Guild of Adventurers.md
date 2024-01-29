@@ -48,71 +48,74 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 ### Class II
 Class II equipment
 
-#### GAP-1
-##### "Basic Care"
+#### GAP-2
+##### "Primary Care"
 
-#### GAC-1
-##### "Magician"
+#### GAC-2
+##### "x"
 
-#### GAB-1
-##### "Pike"
+#### GAB-2
+##### "x"
 
-#### GAH-1
-##### "Sheild"
+#### GAH-2
+##### "x"
 
-#### GAS-1
-##### "Sliver"
+#### GAS-2
+##### "x"
 
 ### Class III
 Class III
 
-#### GAP-1
-##### "Basic Care"
+#### GAP-3
+##### "Advanced Care"
 
-#### GAC-1
-##### "Magician"
+#### GAC-3
+##### "x"
 
-#### GAB-1
-##### "Pike"
+#### GAB-3
+##### "x"
 
-#### GAH-1
-##### "Sheild"
+#### GAH-3
+##### "x"
 
-#### GAS-1
-##### "Sliver"
+#### GAS-3
+##### "x"
 
 ### Class IV
 Class IV
 
-#### GAP-1
-##### "Basic Care"
+#### GAP-4a
+##### "x Care"
 
-#### GAC-1
-##### "Magician"
+#### GAP-4b
+##### "x Care"
 
-#### GAB-1
-##### "Pike"
+#### GAC-4
+##### "x"
 
-#### GAH-1
-##### "Sheild"
+#### GAB-4
+##### "x"
 
-#### GAS-1
-##### "Sliver"
+#### GAH-4
+##### "x"
+
+#### GAS-4
+##### "x"
 
 ### Class V
-Class V equipment is rarely if ever
+Class V equipment is rarely if ever requisitioned by a party, and is reserved for only the most important and experienced adventurers.
 
-#### GAP-1
-##### "Basic Care"
+#### GAP-5
+##### "High-Advanced Care"
 
-#### GAC-1
-##### "Magician"
+#### GAC-5
+##### "x"
 
-#### GAB-1
-##### "Pike"
+#### GAB-5
+##### "x"
 
-#### GAH-1
-##### "Sheild"
+#### GAH-5
+##### "x"
 
-#### GAS-1
-##### "Sliver"
+#### GAS-5
+##### "x"
