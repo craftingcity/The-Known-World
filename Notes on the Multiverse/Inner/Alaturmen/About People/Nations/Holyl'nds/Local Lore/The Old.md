@@ -341,7 +341,7 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 
 
 
-### The Dwarven Ship
+### The Shipyard
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
 #### The Southern Entrance
