@@ -21,7 +21,7 @@ The first two letters are GA, standing for Guild of Adventurers. The third lette
 ##### Archetype Identifiers
 CODE | ARCHETYPE
 --- | ---
-P | Care Package (the supplies that an adventurer may use)
+P | Care Package (the supplies that an adventurer may use during an adventure)
 C | Caster (One with the ability to produce Weave-based effects)
 B | Blade (One who focuses on applying martial force to opposition during combat)
 H | Heavy (One who focuses on preventing martial force to allies during combat)
@@ -30,9 +30,89 @@ S | Striker (One who focuses on applying force at range to opposition during com
 ### Class I
 Class I equipment is the most basic equipment that the Guild is comfortable equipping their Parties with. The most basic archetypes are represented in this Class, with little access to "customized" or specialized archetype-specific equipment.
 
-####
+#### GAP-1
+##### "Basic Care"
+
+#### GAC-1
+##### "Magician"
+
+#### GAB-1
+##### "Pike"
+
+#### GAH-1
+##### "Sheild"
+
+#### GAS-1
+##### "Sliver"
 
 ### Class II
+Class II equipment
+
+#### GAP-1
+##### "Basic Care"
+
+#### GAC-1
+##### "Magician"
+
+#### GAB-1
+##### "Pike"
+
+#### GAH-1
+##### "Sheild"
+
+#### GAS-1
+##### "Sliver"
+
 ### Class III
+Class III
+
+#### GAP-1
+##### "Basic Care"
+
+#### GAC-1
+##### "Magician"
+
+#### GAB-1
+##### "Pike"
+
+#### GAH-1
+##### "Sheild"
+
+#### GAS-1
+##### "Sliver"
+
 ### Class IV
+Class IV
+
+#### GAP-1
+##### "Basic Care"
+
+#### GAC-1
+##### "Magician"
+
+#### GAB-1
+##### "Pike"
+
+#### GAH-1
+##### "Sheild"
+
+#### GAS-1
+##### "Sliver"
+
 ### Class V
+Class V equipment is rarely if ever
+
+#### GAP-1
+##### "Basic Care"
+
+#### GAC-1
+##### "Magician"
+
+#### GAB-1
+##### "Pike"
+
+#### GAH-1
+##### "Sheild"
+
+#### GAS-1
+##### "Sliver"
