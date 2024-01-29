@@ -364,14 +364,25 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 #### /blankspace/
 
+### The Spaces in Between
+#### Broken Swamps
+#### Grey Forest
+#### Flats
 
 ## Economics
 ### Death as Business
-The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. 
+The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. *Ancient Elven Empire* coins, however, are well positioned within the Old as a token of value given their near-rarity and value. 
 
-### The Ancient Coin Standard
-Ancient Elven Empire coins, however, are well positioned within the Old as a token of value. Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
+Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
 
+#### Arms
+#### Armors
+#### Ammunition
+#### Containers
+#### Commodities
+#### Food
+#### Information
+#### Medical
 
 ### Artifact Hunting
 #### Detection & Detection Equipment
