@@ -45,6 +45,6 @@ Orange D (10, 12, 18, 26)
 
 Party makes a (16 + 10 + 3 + 9) = 38 points
 
-collective 129 entertainment points
+collective total of 129 "entertainment points"
 
 We leave our heroes on the date of ... AF, as they ...
