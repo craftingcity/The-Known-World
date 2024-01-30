@@ -51,7 +51,7 @@ The "Tank" equipment package includes items and equipment that most martial comb
 The "Sliver" equipment package includes items and equipment that ranged martial combatants would be able to make use of during both combat and non combat encounters.
 
 ### Class II
-Class II equipment
+Class II equipment is more advanced than it's Class II counterparts, but only marginally. This class is typically requisitioned by 
 
 #### GAP-2a
 ##### "Primary Care"
