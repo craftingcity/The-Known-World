@@ -36,6 +36,7 @@ The "Basic Care" equipment package includes reliable long-term adventuring gear,
 
 #### GAC-1
 ##### "Magician"
+The "Magician" equipment package includes items and equipment that most spellcasters would be able to make use of regardless of their discipline.
 
 #### GAB-1
 ##### "Pike"
