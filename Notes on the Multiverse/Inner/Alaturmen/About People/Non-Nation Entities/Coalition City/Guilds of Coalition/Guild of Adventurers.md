@@ -40,6 +40,7 @@ The "Magician" equipment package includes items and equipment that most spellcas
 
 #### GAB-1
 ##### "Pike"
+the Pike equipment package includes items and equipment that most Marshall combatants would be able to make use of during combat and during non combat encounters.
 
 #### GAH-1
 ##### "Tank"
