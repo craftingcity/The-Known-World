@@ -164,9 +164,10 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 
 ## Important Places & Symbolism
 ### The Cordon
-A military outpost that supplies and commands operations within the Old performed by off-record Church soldiers. Legally, this is the only way in or out of the Old.
+This region of the Old is known as the Cordon. White-Church militants hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
 
 #### The Western Entrance
+The Western Entrance is one of the three formally operated gates in the walls that contain the Old.
 
 #### The Recreations Camp
 

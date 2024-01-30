@@ -3,7 +3,7 @@ tags: groups,
 aliases:
 ---
 
-# Group Name
+# Guild of Adventurers
 ## History
 The Guild of Adventurers are responsible for managing the dare-devils and neir-duels of Coalition's upper class. The Guild of Adventurers works with all of the other guilds in procurement, export, defense, or anything else that could possibly be thought of. They are responsible as well for keeping the greater [[Laws of Adventuring]] and marking those who break them.
 ## Governance
@@ -21,6 +21,7 @@ The first two letters are GA, standing for Guild of Adventurers. The third lette
 ##### Archetype Identifiers
 CODE | ARCHETYPE
 --- | ---
+GA | Guild of Adventurers
 P | Care Package (the supplies that an adventurer may use during an adventure)
 C | Caster (One with the ability to produce Weave-based effects)
 B | Blade (One who focuses on applying martial force to opposition during combat)
@@ -108,13 +109,16 @@ Class III equipment is considered by most parties and patrons to be the best pow
 Class IV
 
 #### GAP-4a
-##### "x Care"
+##### "Prime Care"
 
 #### GAP-4b
-##### "x Care"
+##### "Survivalist Care"
+
+#### GAP-4c
+##### "Diplomatic Favor"
 
 #### GAC-4
-##### "x"
+##### "Arcanist"
 
 #### GAB-4
 ##### "Edge"
@@ -131,8 +135,11 @@ Class V equipment is rarely if ever requisitioned by a party, and is reserved fo
 #### GAP-5
 ##### "High-Advanced Care"
 
-#### GAC-5
-##### "x"
+#### GAC-5a
+##### "Wizard"
+
+#### GAC-5b
+##### ""
 
 #### GAB-5
 ##### "x"
