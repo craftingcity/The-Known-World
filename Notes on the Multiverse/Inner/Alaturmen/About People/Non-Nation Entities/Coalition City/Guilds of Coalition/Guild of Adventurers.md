@@ -75,10 +75,10 @@ Class II equipment is more advanced than it's Class II counterparts, but only ma
 ##### "Shield"
 
 #### GAS-2
-##### "Scoundrel"
+##### "Rainier"
 
 ### Class III
-Class III equipment is considered by most parties and patrons to be the best available, second only to the Class IV equipment.
+Class III equipment is considered by most parties and patrons to be the best power for its availability, second only in power and prestige to the Class IV equipment.
 
 #### GAP-3a
 ##### "Advanced Care"
@@ -86,17 +86,23 @@ Class III equipment is considered by most parties and patrons to be the best ava
 #### GAP-3b
 ##### "Diplomatic Progress"
 
-#### GAC-3
-##### "x"
+#### GAC-3a
+##### "Evoker"
 
-#### GAB-3
-##### "x"
+#### GAC-3b
+##### "Channeller"
+
+#### GAB-3a
+##### "Spearhead"
+
+#### GAB-3b
+##### "Scoundrel"
 
 #### GAH-3
 ##### "x"
 
 #### GAS-3
-##### "x"
+##### "Arbalest"
 
 ### Class IV
 Class IV
@@ -111,13 +117,13 @@ Class IV
 ##### "x"
 
 #### GAB-4
-##### "x"
+##### "Edge"
 
 #### GAH-4
-##### "x"
+##### "Wall"
 
 #### GAS-4
-##### "x"
+##### "Operator"
 
 ### Class V
 Class V equipment is rarely if ever requisitioned by a party, and is reserved for only the most important and experienced adventurers.
