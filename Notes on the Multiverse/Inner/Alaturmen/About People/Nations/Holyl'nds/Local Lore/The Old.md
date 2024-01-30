@@ -97,7 +97,9 @@ A collective name for the individuals and groups without a greater affiliation t
 
 ###### Equipment
 ###### Areas of Operation
-- The Haven
+- [[#The Haven]]
+	- The Seekers within the Haven are united by their allegiance to /merchant name/ and each other. 
+	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
 - The Sticks
 - The Factory
 - The City
@@ -177,42 +179,44 @@ Entering this gate leads directly to the area within the Cordon known as the Res
 
 #### The Killing Fields
 
-#### /blankspace/
+#### The Mudhouse
 
 #### The Reserve
 A series of large tents and semi-permanent structures form a small military town. WFM use the Reserve and the surrounding areas as their primary base of operations within the Old.
 
+
+
 #### The Depot
 The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only.
 
-#### /blankspace/
+#### The Hunting Slots
 
 #### The Barracks
 
-#### /blankspace/
+#### The Training Grounds
 
 #### The Forward Post
 
 ### The Haven
-A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Savs and Mercenaries that operate in and nearby the Factory.
+A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
 
 #### The Northern Entrance
 
 #### The Rookie Village
 
-#### /blankspace/
+#### The Damaged Chapel
 
 #### The Lone Farmstead
 
-#### /blankspace/
+#### The Levee
+
+#### The Crossroads
+
+#### The Rookie Checkpoint
 
 #### /blankspace/
 
-#### /blankspace/
-
-#### /blankspace/
-
-#### /blankspace/
+#### The Flea Market
 
 #### /blankspace/
 
@@ -232,7 +236,7 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 
 #### The Spike Fields
 
-#### /blankspace/
+#### The Dangerous Ruins
 
 #### The Pond
 
@@ -306,21 +310,21 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 ### The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
 
-#### /blankspace/
+#### The Cloister
+
+#### The North Gate
 
 #### /blankspace/
 
-#### /blankspace/
+#### The Graveyard
+
+#### The Temple Proper
 
 #### /blankspace/
 
-#### /blankspace/
+#### The Dormitories
 
-#### /blankspace/
-
-#### /blankspace/
-
-#### /blankspace/
+#### The South Gate
 
 #### /blankspace/
 
@@ -330,21 +334,21 @@ The urban center of Minyostalma, and one of the largest surviving structures in 
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
 #### /blankspace/
 
-#### /blankspace/
+#### The Front Gate
+
+#### The Mess Hall
 
 #### /blankspace/
 
-#### /blankspace/
+#### The Intelligence Center
 
-#### /blankspace/
+#### The Armory
 
-#### /blankspace/
+#### The Infirmary
 
-#### /blankspace/
+#### The Old Barracks
 
-#### /blankspace/
-
-#### /blankspace/
+#### The Hangars
 
 
 
@@ -353,21 +357,21 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 #### The Southern Entrance
 
-#### /blankspace/
+#### The Thicket
 
-#### /blankspace/
+#### The Materials Yard
 
-#### /blankspace/
+#### The Cranes
 
-#### /blankspace/
+#### The Deep Scar
 
-#### /blankspace/
+#### The Overwatch Tower
 
 #### The Ship
 
-#### /blankspace/
+#### The Keep
 
-#### /blankspace/
+#### The Dugout
 
 #### /blankspace/
 
