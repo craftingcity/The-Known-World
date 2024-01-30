@@ -51,7 +51,7 @@ The "Tank" equipment package includes items and equipment that most martial comb
 The "Sliver" equipment package includes items and equipment that ranged martial combatants would be able to make use of during both combat and non combat encounters.
 
 ### Class II
-Class II equipment is more advanced than it's Class II counterparts, but only marginally. This class is typically requisitioned by 
+Class II equipment is more advanced than it's Class II counterparts, but only marginally. This class is typically requisitioned by newly Guilded adventuring parties who already have a decent independent reputation.
 
 #### GAP-2a
 ##### "Primary Care"
@@ -78,7 +78,7 @@ Class II equipment is more advanced than it's Class II counterparts, but only ma
 ##### "Scoundrel"
 
 ### Class III
-Class III
+Class III equipment is considered by most parties and patrons to be the best available, second only to the Class IV equipment.
 
 #### GAP-3a
 ##### "Advanced Care"
