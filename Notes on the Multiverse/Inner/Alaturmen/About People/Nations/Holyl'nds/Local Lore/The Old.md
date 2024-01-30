@@ -169,7 +169,7 @@ Each of the following locations describe the contents of the singular hex-mile t
 This region of the Old is known as the Cordon. White-Church militants hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
 
 #### The Western Entrance
-The Western Entrance is one of the three formally operated gates in the walls that contain the Old. 
+The Western Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Western Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
