@@ -163,13 +163,19 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 - The Base
 
 ## Important Places & Symbolism
+Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
+
 ### The Cordon
 This region of the Old is known as the Cordon. White-Church militants hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
 
 #### The Western Entrance
-The Western Entrance is one of the three formally operated gates in the walls that contain the Old.
+The Western Entrance is one of the three formally operated gates in the walls that contain the Old. 
+
+Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
 #### The Recreations Camp
+
+
 
 #### The Killing Fields
 
