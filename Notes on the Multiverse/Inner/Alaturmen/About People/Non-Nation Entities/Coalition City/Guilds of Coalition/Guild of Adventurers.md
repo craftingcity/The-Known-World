@@ -40,13 +40,15 @@ The "Magician" equipment package includes items and equipment that most spellcas
 
 #### GAB-1
 ##### "Pike"
-the Pike equipment package includes items and equipment that most Marshall combatants would be able to make use of during combat and during non combat encounters.
+The "Pike" equipment package includes items and equipment that most martial combatants would be able to make use of during both combat and non combat encounters, with a focus on offense.
 
 #### GAH-1
 ##### "Tank"
+The "Tank" equipment package includes items and equipment that most martial combatants would be able to make use of during both combat and non combat encounters, with a focus on defense.
 
 #### GAS-1
 ##### "Sliver"
+The "Sliver" equipment package includes items and equipment that ranged martial combatants would be able to make use of during both combat and non combat encounters.
 
 ### Class II
 Class II equipment
