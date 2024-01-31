@@ -171,7 +171,7 @@ Each of the following locations describe the contents of the singular hex-mile t
 This region of the Old is known as the Cordon. [[#White-Flame Militants]] hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
 
 #### The Western Entrance
-The Western Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Western Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
+The Western Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Western Entrance are exclusively to prevent unidentified persons from exiting the Old.
 
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
@@ -181,9 +181,9 @@ The Recreation Camp is directly north of the Reserve. The WFM in the area use th
 Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, table games, drug use, and sexual recreation.
 
 #### The Killing Fields
-The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
+The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
 
-A trail exiting this perimeter leads north into the area known as Broken Swamps.
+The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
 #### The Mudhouse
 northeast of the Depot
@@ -197,7 +197,9 @@ Trails lead from the Reserve throughout the Cordon, connecting the dispret settl
 The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of the Reserve, and west of the Hunting Slots.
 
 #### The Hunting Slots
-The Hunting Slots are directly east of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. The name "Hunting Slots" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
+The Hunting Slots are directly east of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
+
+The name "Hunting Slots" was given to this area of their perimeter due to the number of natural mutant threats that attempt to breach the Cordon from the east. Much of the food supply the WFM eat comes from these mutants.
 
 #### The Barracks
 south of the Reserve
@@ -209,9 +211,10 @@ south of the depot, east of the barracks
 southeast of the Depot
 
 ### The Haven
-A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
+A welcoming Seeker holding that is in conflict with the nearby Militants at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
 
 #### The Northern Entrance
+The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
 #### The Rookie Village
 
