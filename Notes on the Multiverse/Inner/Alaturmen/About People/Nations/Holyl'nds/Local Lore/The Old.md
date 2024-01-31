@@ -176,29 +176,35 @@ The Western Entrance is one of the three formally operated gates in the walls th
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
 #### The Recreations Camp
-The recreation camp is directly north of the reserve. The White Flame militants in the area use the Recreations Camp to relieve the stress of operating within the Old.
+The Recreation Camp is directly north of the Reserve. The WFM in the area use the Recreations Camp to relieve the stress of operating within the Old.
 
-Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, drug use, and sexual recreation.
+Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, table games, drug use, and sexual recreation.
 
 #### The Killing Fields
+The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old.
+
+A trail exiting this perimeter leads north into the area known as Broken Swamps.
 
 #### The Mudhouse
+northeast of the Depot
 
 #### The Reserve
 A series of large tents and semi-permanent structures form a small military town. WFM use the Reserve and the surrounding areas as their primary base of operations within the Old.
-
-
 
 #### The Depot
 The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only.
 
 #### The Hunting Slots
+east of the Depot
 
 #### The Barracks
+south of the Reserve
 
 #### The Training Grounds
+south of the depot, east of the barracks
 
 #### The Forward Post
+southeast of the Depot
 
 ### The Haven
 A welcoming Seeker holding that is in conflict with the nearby Military at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
