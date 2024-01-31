@@ -176,10 +176,9 @@ The Western Entrance is one of the three formally operated gates in the walls th
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
 #### The Recreations Camp
-The recreation camp is directly north of the reserve. The White Flame soldiers in the area use the recreations Camp to relieve the stress of operating within the old.
+The recreation camp is directly north of the reserve. The White Flame militants in the area use the Recreations Camp to relieve the stress of operating within the Old.
 
-
-
+Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, drug use, and sexual recreation.
 
 #### The Killing Fields
 
