@@ -216,6 +216,8 @@ A welcoming Seeker holding that is in conflict with the nearby Militants at the 
 #### The Northern Entrance
 The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
+Entering this gate leads into the Broken Swamps, where a small trail leads to the Rookie Village and the Haven at large.
+
 #### The Rookie Village
 
 #### The Damaged Chapel
