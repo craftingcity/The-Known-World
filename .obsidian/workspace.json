@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdf8cbbe1f73981",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c42d483366e9b122",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "20730f215d0d3038",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8c77ece31c82c5",
+            "id": "6ab53e0b5ddc3ce1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,13 +22,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8e168abf0497c165",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           },
@@ -304,10 +299,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b8c77ece31c82c5",
+  "active": "8e168abf0497c165",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "ORGANIZATION/TEMPLATES/Economy.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -331,8 +328,6 @@
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Ecology.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Lake of Eternal Life.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",

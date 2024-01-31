@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
       "basename": "The Old",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md"
+    },
+    {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
     },
     {
       "basename": "Guild of Adventurers",
@@ -191,14 +199,6 @@
     {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "Kakurak",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md"
-    },
-    {
-      "basename": "Barthalamule's Shrubland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
     }
   ],
   "omittedPaths": [],

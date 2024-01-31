@@ -26,7 +26,7 @@ The Ruins to the west and north of the central city are the most picked over, as
 While many of the most common spellcasters draw on divine or natural powers, those casters will find that their powers have been stripped from them in this place. While you may call upon a natural or divine power in this place, you are sure to fail to reach them. Repeated attempts may draw upon the ire of the Old...
 
 	> When a "divine" or "natural" caster attempts to cast a spell, they may expend a number of hit-die equal to the spell's level. If they do not, they take that number of d10 psycic damage instead. This effect only occurs after a caster's first spell or after 4 hours in The Old.
-	> After this point, spell slots may not be expended and spell may not be cast - including cantrips.
+	> After this point, spell slots may not be expended and spells may not be cast - including cantrips.
 	> The following dnd5e spellcaster classes are efffected; Druids, Rangers, Clerics, Paladins, Warlocks.
 
 ##### Arcane Spellcasters
@@ -68,7 +68,7 @@ The field of vortexes is a 15' radius circle. Within this radius, each 5' square
 The springboard anomaly is a 10' diameter circle. When the springboard is activated, creatures within the circle must succeed on a DC 19 Dexterity Saving Throw, or be pushed 5' in a random direction. If they fail by 5 or more, they additionally take 4d10 slashing damage.
 
 ###### Fruit Punch  
-> A fruit punch anomaly is like an overflowing bowl of boiling water - a burn is common, and a death is a horrible sight.
+> A fruit punch anomaly is like an overflowing bowl of boiling water - a burn is common, and a death is a horrible sight. White-hot acid is no toy.
 
 The field of fruit punches is a 15' radius circle. Within this radius, each 5' square has a 1/6 chance of being active for up to 3d6 rounds. While active, creatures who enter the active space or begin their turn there take 3d6 acid damage. 
 
