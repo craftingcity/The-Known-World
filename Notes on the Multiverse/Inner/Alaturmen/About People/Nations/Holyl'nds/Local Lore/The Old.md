@@ -181,7 +181,7 @@ The Recreation Camp is directly north of the Reserve. The WFM in the area use th
 Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, table games, drug use, and sexual recreation.
 
 #### The Killing Fields
-The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old.
+The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
 A trail exiting this perimeter leads north into the area known as Broken Swamps.
 
@@ -191,11 +191,13 @@ northeast of the Depot
 #### The Reserve
 A series of large tents and semi-permanent structures form a small military town. WFM use the Reserve and the surrounding areas as their primary base of operations within the Old.
 
+Trails lead from the Reserve throughout the Cordon, connecting the dispret settlements into one grander area.
+
 #### The Depot
-The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only.
+The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of the Reserve, and west of the Hunting Slots.
 
 #### The Hunting Slots
-east of the Depot
+The Hunting Slots are directly east of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. The name "Hunting Slots" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
 #### The Barracks
 south of the Reserve
