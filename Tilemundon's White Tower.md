@@ -22,7 +22,7 @@ aliases:
 #### Defensive Golems' Holding
 ## Lower Floors
 ### Arcane Experimentation Chambers
-#### Main Labratory
+#### Main Laboratory
 - Heating and Cooling elements, enchantment facilities, potion making facilities, safe of growing phil-stone & elements
 #### Arcane Storage
 - safe elements, finished products
