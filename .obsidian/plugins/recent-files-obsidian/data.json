@@ -5,6 +5,14 @@
       "path": "Tilemundon's White Tower.md"
     },
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
       "basename": "Prenotes Jan 24 24",
       "path": "Prenotes Jan 24 24.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Prenotes Jan 31 24",
       "path": "Prenotes Jan 31 24.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Prenotes June 10 23",
@@ -195,10 +199,6 @@
     {
       "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
-    },
-    {
-      "basename": "j_ Chapter Twelve - Faction Deep Dive",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
     }
   ],
   "omittedPaths": [],
