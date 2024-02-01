@@ -4,6 +4,33 @@
     "type": "split",
     "children": [
       {
+        "id": "58a21598d0fb5893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb491b8176e5a4b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 24 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "20730f215d0d3038",
         "type": "tabs",
         "children": [
@@ -48,9 +75,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c79e370cd7a6903e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 31 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b567e7b6c14fb82e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tilemundon's White Tower.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Tilemundon's White Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Tilemundon's White Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Tilemundon's White Tower.md"
               }
             }
           },
@@ -299,10 +368,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e168abf0497c165",
+  "active": "b567e7b6c14fb82e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
+    "Prenotes Jan 31 24.md",
+    "Prenotes Jan 24 24.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Old.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "ORGANIZATION/TEMPLATES/Economy.md",
@@ -319,7 +390,6 @@
     "Tilemundon's White Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 17 24.md",
-    "Prenotes Jan 24 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Agrandica's Savanna/Ahaustin.md",
     "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Agrandica.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Agrandica's Savanna.md",
@@ -327,7 +397,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Ecology.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",

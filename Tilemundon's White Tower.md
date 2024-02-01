@@ -30,6 +30,11 @@ aliases:
 ### Self Staffed Kitchen
 ### Dense Room
 - A collection of rooms that seem to take up the same twenty-by-twenty square room.
+- A set of stairs.
+- A bathroom.
+- A bedroom.
+- A hall of trinkets, containing a number of useful tools.
+- A "training" hall, including live targets of flesh golems.
 ## Upper Floors
 ### True Entrance (Teleportation Chamber)
 ### Hall of Skulls
@@ -37,4 +42,5 @@ aliases:
 ### Hoard Chamber
 ## Peak
 ### Qiell's Chambers
+#### A Seiries of Letters
 ### Immortality Machine
