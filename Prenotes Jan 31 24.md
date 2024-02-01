@@ -25,6 +25,15 @@ We return to the party over a day later. They have travelled this route before, 
 [[Tilemundon's White Tower]] must include the secret stairs in the Dense Room.
 
 
+###### TOWER FIGHT
+Qiell - 23
+Dae Shim - 21
+Gringold - 20
+Cucu - 20
+Tim - 12
+Shu - 12
+Ash - 7
+
 ### What happened?
 
 
