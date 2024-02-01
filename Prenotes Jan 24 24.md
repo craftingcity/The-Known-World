@@ -25,6 +25,7 @@ The TL has a dossier on the White Tower
 
 ### What happened?
 
+@BlackMage
 hey black mage its the chicago bulls we want to meet we have a new prop for you, give us a time and place
 
 @ChicagoBulls
