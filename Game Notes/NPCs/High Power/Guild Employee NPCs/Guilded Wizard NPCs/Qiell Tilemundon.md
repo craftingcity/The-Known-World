@@ -11,6 +11,8 @@ aliases:
 
 Qiell is the Black Mage on the [[Guild of Wizards]]. It is his responsibility to widen the knowledge of magic within the guild.
 
+He was responsible for the creation of the Council of Eight that rules [[The Deserts of Tetrimoc]].
+
 ## History
 ### Conception
 #### Character Goal

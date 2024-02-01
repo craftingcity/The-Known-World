@@ -56,11 +56,14 @@ aliases:
 > Thank you. 
 ###### Alergra
 > To Alergra...
-> You have always been a great teacher and a brilliant mind. I do not wish you harm, but I know that you are a righteous woman and you will think that what I have done is abhorrent. You will try to stop me, or destroy me, or even contain and examine me. I can not let you. Do not make me hurt you.
+> You have always been a great teacher and a brilliant mind. I do not wish you harm, but I know that you are a righteous woman, and you will think that what I have done is abhorrent. You will try to stop me, or destroy me, or even contain and examine me. I can not let you. Do not make me hurt you.
 ###### Nicolas
-> To Nicolas
+> To Nicolas...
+> I do not envy you. I know you are a liar, and you know more than you say you do. I think you are closer to the Flame than you should be and you will not tell Pirre because you know she would have you cast out.
+> If you would ignore her, find me. I could use your insight.
 ###### Pirre
-> To Pirre
+> To Pirre...
+> I hate you. You are wrong. Danger is where we find the most about ourselves and our limitations. Of anyone among us, I would have expected you to understand. 
 ###### Blue
 > To Blue...
 > Eat rocks.
