@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "92155c58978b5371",
@@ -118,9 +117,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d8e7016c248e8986",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tilemundon's White Tower.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tilemundon's White Tower.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tilemundon's White Tower.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           },
@@ -369,12 +389,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a6c1c28cabda20a",
+  "active": "d8e7016c248e8986",
   "lastOpenFiles": [
     "Prenotes Jan 24 24.md",
+    "Tilemundon's White Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
-    "Tilemundon's White Tower.md",
     "Prenotes Jan 31 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",

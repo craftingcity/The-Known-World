@@ -57,6 +57,7 @@ aliases:
 
 ###### Alergra
 > To Alergra...
+> I expect you to be the one to come here and find these notes. I do not know how long I will stay in my tower, but if anyone would find me, you would.
 > You have always been a great teacher and a brilliant mind. I do not wish you harm, but I know that you are a righteous woman, and you will think that what I have done is abhorrent. You will try to stop me, or destroy me, or even contain and examine me. I can not let you. Do not make me hurt you.
 
 ###### Nicolas
@@ -66,11 +67,13 @@ aliases:
 
 ###### Pirre
 > To Pirre...
-> I hate you. You are wrong. Danger is where we find the most about ourselves and our limitations. Of anyone among us, I would have expected you to understand. Do not hurt yourself trying to stop me. There are more important persuits; hold the council together, fight the demon in the Combine, defeat the fascism in the West. Do no look for me.
+> I hate you. You are wrong. Danger is where we find the most about ourselves and our limitations. Of anyone among us, I would have expected you to understand. Do not hurt yourself trying to stop me. There are more important persuits; hold the council together, fight the demon in the Combine, defeat the fascism in the West. Do not look for me, or I will smite you where you stand.
 
 ###### Blue
 > To Blue...
 > Eat rocks, you pig.
 
 ### Immortality Machine
-- A set of machinery reminiscent of Kalariel's machine in his Tower on [[Thanatos]]. 
+- A set of machinery reminiscent of Kalariel's machine in his Tower on [[Thanatos]].
+- Currently containing Kalariel's body, decrepit and rotting in the green black goop that Qiell has created using his research. Qiell has embued a large saphirre on the machine that holds a connection for his Faith and Soul.
+- When Qiell dies, he will enter Kalariel's body, and together they will become Kial, the First Lich.
