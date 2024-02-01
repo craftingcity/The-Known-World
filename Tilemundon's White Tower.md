@@ -54,18 +54,23 @@ aliases:
 > To the Chicago Bulls...
 > I have my doubts that this letter will ever find you - any of you, individually or as collective. I must say, I am indebted to you, there is no amount of currency or valuable gem I could conquer for you that would make me feel otherwise. I am no longer held in chains by my life because of the actions that you chose to take.
 > Thank you. 
+
 ###### Alergra
 > To Alergra...
 > You have always been a great teacher and a brilliant mind. I do not wish you harm, but I know that you are a righteous woman, and you will think that what I have done is abhorrent. You will try to stop me, or destroy me, or even contain and examine me. I can not let you. Do not make me hurt you.
+
 ###### Nicolas
 > To Nicolas...
 > I do not envy you. I know you are a liar, and you know more than you say you do. I think you are closer to the Flame than you should be and you will not tell Pirre because you know she would have you cast out.
 > If you would ignore her, find me. I could use your insight.
+
 ###### Pirre
 > To Pirre...
-> I hate you. You are wrong. Danger is where we find the most about ourselves and our limitations. Of anyone among us, I would have expected you to understand. 
+> I hate you. You are wrong. Danger is where we find the most about ourselves and our limitations. Of anyone among us, I would have expected you to understand. Do not hurt yourself trying to stop me. There are more important persuits; hold the council together, fight the demon in the Combine, defeat the fascism in the West. Do no look for me.
+
 ###### Blue
 > To Blue...
-> Eat rocks.
+> Eat rocks, you pig.
 
 ### Immortality Machine
+- A set of machinery reminiscent of Kalariel's machine in his Tower on [[Thanatos]]. 
