@@ -26,13 +26,22 @@ We return to the party over a day later. They have travelled this route before, 
 
 
 ###### TOWER FIGHT
-Qiell - 23
+Qiell, AC 15 - 23 (+4, 8, 13, 16)
+1 -
+2 -
+3 - x x
+4 -
+5 -
+6 - x
+7 - 
 Dae Shim - 21
 Gringold - 20
 Cucu - 20
+QIELL LEGEND 1
 Tim - 12
 Shu - 12
 Ash - 7
+
 
 ### What happened?
 
