@@ -32,14 +32,14 @@ Black B (17) 8
 ~~Black C (17) 17, 31, 42~~
 Aramond
 Breenabell
-Yissa
+Yissa (SL, 1:x, 2:)
 ~~Johnlock (18) 8, 17, 31, 61~~
 Ulfgar
 Nala
 Benjamin
-Orange D (20) 8
+Orange D (20) 8, 18, 29
 Orange E (20) 17, 23, 36, 46
-Orange F (20) 17
+Orange F (20) 17, 30, 
 
 
 We leave our heroes on the date of ... AF, as they ...
