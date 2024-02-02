@@ -23,6 +23,10 @@ Proving little hazard to the more experienced heroes of our story, we return to 
 What do you do?
 
 ### What does the World Know?
+- Aramond the [Druid](https://www.aidedd.org/dnd/monstres.php?vo=jackalwere)
+- Benjamin the [Fighter](https://www.aidedd.org/dnd/monstres.php?vo=thug)
+- Yissa the [Sorcerer](https://www.aidedd.org/dnd/monstres.php?vo=acolyte)
+
 See [[Kailkeep]]. They are on Layer 4 still, and have yet to face the exit game or to play as the Home team in their Entrance games. Today's ingame date is 00:00 on the 18th.
 
 ### What happened?
@@ -40,6 +44,8 @@ Benjamin
 Orange D (20) 8, 18, 29
 Orange E (20) 17, 23, 36, 46
 Orange F (20) 17, 30, 
+
+Benjamin equipped a Tank Combat Suit (AC 18+DEX), and Yissa equipped a Officer Combat Suit (AC 16+DEX)
 
 
 We leave our heroes on the date of ... AF, as they ...
