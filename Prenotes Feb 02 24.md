@@ -26,7 +26,20 @@ What do you do?
 See [[Kailkeep]]. They are on Layer 4 still, and have yet to face the exit game or to play as the Home team in their Entrance games. Today's ingame date is 00:00 on the 18th.
 
 ### What happened?
-
+#### Johnlock Fight
+Jerran
+Black B (17) 8
+Black C (17) 17
+Aramond
+Breenabell
+Yissa
+Johnlock (18) 8, 17, 31
+Ulfgar
+Nala
+Benjamin
+Orange D (20) 8
+Orange E 17, 23
+Orange F 17
 
 
 We leave our heroes on the date of ... AF, as they ...
