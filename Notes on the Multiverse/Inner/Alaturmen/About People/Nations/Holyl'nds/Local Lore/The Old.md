@@ -82,9 +82,19 @@ The burnt fuzz anomaly is a 15' radius circle of copper-green spindly vines. Whe
 
 The field of gas cloud anomalies is a 25' radius circle. Within this radius, each 10' space has a 1/4 chance of being active for 3d6 hours. While active, a creature that begins their turn within the sphere takes 1d8 poison damage. For every turn they have spent in a gas cloud in this anomaly field, the damage increases by 1d8.
 
-###### Electro  
-###### Space Anomaly  
+###### Electro
+> An Electro anomaly field is like a magicians trick. On the ground or the wall, you will see a crackling blue light, grasping out like a wicked weed. It will burn you, and worse if you're wearing metal.
+
+The field of Electro anomalies is a 25' radius circle. Within this radius, each 5' space has a 1/6 chance of being active for 3d6 minutes. While active, a creature that begins their turn with 5' of the space takes 2d6 lightning damage. A creature that enters the active space takes 4d6 lightning damage.
+
+###### Space
+> A Space anomaly field is often hard to see. It is like the bubbles of soap, barely shimmering in the sun. It comes in many shapes and sizes, and it often blocks an obvious path. Ivan told me once on his trip into the city that a Space field had cut into a portion of the building he was in, removing a whole room and a half.
+
+The Space anomaly is described as a field, but it is a singular entity with an undefined shape and size. It is a solid but invisible force shape that simply exists where it is.
+
 ###### Teleport 
+> A Teleport anomaly is... strange. I 
+
 ###### Emission  
 ###### Radiation
 
