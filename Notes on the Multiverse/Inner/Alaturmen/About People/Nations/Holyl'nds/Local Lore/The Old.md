@@ -423,16 +423,36 @@ The primary business within the Old is death. Death as business is fueled by amm
 
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
 
-For the purposes of cross-referencing, 
+> Ancient Coin is worth 200gp or more outside the Old to some collectors, but within the Old, it can be exchanged for only some 50gp of equipment.
+
 
 #### Arms
+##### SCAVANGED / REFIT
+##### IMPORTED / FORGED
 #### Armors
+##### SCAVANGED / REFIT
+##### IMPORTED / FORGED
 #### Ammunition
+##### SCAVANGED / REFIT
+##### IMPORTED / FORGED
 #### Containers
+##### FLUID
+##### SOLIDS
+##### ARTIFACTS
 #### Commodities
+##### DRUGS / ALCH
+##### TROPHIES
 #### Food
+##### LOCAL CUISINE
+##### IMPORT CUISINE
+##### SPICES
 #### Information
+##### GUIDES
+##### PATHS
 #### Medical
+##### PROTECTION
+##### HEALING
+##### RADIATION
 
 ### Artifact Hunting
 #### Detection & Detection Equipment

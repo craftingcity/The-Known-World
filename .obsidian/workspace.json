@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coin",
+                "query": "ancient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
