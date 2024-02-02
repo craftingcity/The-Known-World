@@ -29,17 +29,17 @@ See [[Kailkeep]]. They are on Layer 4 still, and have yet to face the exit game 
 #### Johnlock Fight
 Jerran
 Black B (17) 8
-Black C (17) 17
+~~Black C (17) 17, 31, 42~~
 Aramond
 Breenabell
 Yissa
-Johnlock (18) 8, 17, 31
+~~Johnlock (18) 8, 17, 31, 61~~
 Ulfgar
 Nala
 Benjamin
 Orange D (20) 8
-Orange E 17, 23
-Orange F 17
+Orange E (20) 17, 23, 36, 46
+Orange F (20) 17
 
 
 We leave our heroes on the date of ... AF, as they ...
