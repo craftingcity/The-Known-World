@@ -49,4 +49,12 @@ Benjamin equipped a Tank Combat Suit (AC 18+DEX), and Yissa equipped a Officer C
 
 Breenabell put on a show for 27 entertainment points 
 
-We leave our heroes on the date of ... AF, as they ...
+they are ascending, entering four corners gaining 20 points.
+
+vulture's talons
+bloodylips pack
+johan's honorable theives
+
+are the parties playing Four Corners with everyone
+
+We leave our heroes on the date of 18th of Weeding 04:30 105 AF, as they are playing the level 4 exit game, four corners.
