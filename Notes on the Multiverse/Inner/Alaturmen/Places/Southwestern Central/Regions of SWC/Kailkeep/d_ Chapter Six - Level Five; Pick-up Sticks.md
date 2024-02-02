@@ -32,7 +32,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - The largest threat to a competent combatant is drowning. 
 	- A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round of held breath on the beginning of their turn.
 	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
-	- After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.
+	- *After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.*
 #### Bouncy House
 - This chamber contains a system of plate-based launchers that shoot characters high into the air.
 - A **Token** is hanging upon a small ledge near the top and center of the chamber.

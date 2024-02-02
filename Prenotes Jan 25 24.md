@@ -17,7 +17,7 @@ aliases:
 
 When last we left our heroes, they were deep in the center of the mountain known as [[Kailkeep]] that holds the Hells for which the residents use as a sick form of entertainment. After quickly defeating a squad of desperate Golden Claws, the party began to explore, and found that the walls were marked with remarks ranging from helpful to misleading to deranged. They had many paths they could begin to follow, and chose to enter a chamber indicated to be a hound's den - where they met a trio of survivors barely escaping a rolling boulder!
 
-We return to the party only moments after we had left them, in this chamber with two new companions, and one path forward. Many more, if one would care to back-track so early into their exploration, but I must put the question to you; what do you do?
+We return to the party only moments after we had left them, in this chamber with three new companions, and one path forward. Many more, if one would care to back-track so early into their exploration, but I must put the question to you; what do you do?
 
 ### What does the World Know?
 
