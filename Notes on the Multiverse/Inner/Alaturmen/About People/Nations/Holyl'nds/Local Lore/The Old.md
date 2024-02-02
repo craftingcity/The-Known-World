@@ -73,7 +73,7 @@ The springboard anomaly is a 10' diameter circle. When the springboard is activa
 The field of fruit punches is a 15' radius circle. Within this radius, each 5' square has a 1/6 chance of being active for up to 3d6 rounds. While active, creatures who enter the active space or begin their turn there take 3d6 acid damage. 
 
 ###### Burnt Fuzz  
-> A fuzzball, or a burnt fuzz, whatever you want to call it, is only really a rookie killer. Just don't run. Walk real slow, and you should be fine. Ivan is the worst case I've seen, and he only has burns up to his torso and a wicked trigger twitch.
+> A fuzzball, or a burnt fuzz, whatever you want to call it, is only really a rookie killer. Just don't run. Walk real slow, and you should be fine. Ivan is the worst case I've seen, and he only has burn scars up to his torso and a wicked trigger twitch.
 
 The burnt fuzz anomaly is a 15' radius circle of copper-green spindly vines. When a creature moves more than 5' in a round through the circle, they take 1d6 lightning damage for each 5' space moved.
 
@@ -93,13 +93,24 @@ The field of Electro anomalies is a 25' radius circle. Within this radius, each 
 The Space anomaly is described as a field, but it is a singular entity with an undefined shape and size. It is a solid but invisible force shape that simply exists where it is.
 
 ###### Teleport 
-> A Teleport anomaly is... strange. I 
+> A Teleport anomaly is... strange. I have only heard rumors of it, and Artyom was always a big mouth. He said he saw a white smoke, swirling to a point in the air. He - like the dumbass he was, rest his soul - reached out with his hand to feel the smoke. Then he woke up by the south wall.
 
 ###### Emission  
+> An Emission is not like other anomalies. It is the Old fighting us. The sky will shudder, and the sun will boil. Hide. Even if your body survives the heat and winds, your brain will not. You will know no reason. Only hunger. It is a kindness to take a life like that.
+
 ###### Radiation
+> A Radiation anomaly field cannot be seen. It will kill you, slowly at first, but soon your brain will slow and your blood will stop. Your organs will fail and you will die a painful rotting death. Protect yourself.
+
+The Radiation anomaly is of undefined shape and size, but it is generally quite large - covering buildings more than singular rooms or objects. It is, however, attracted to metal over long periods of time, leading to contact with metal within the field being quite dangerous.
+
+	Radiation is applied every round, at the beginning of a character's turn. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference.
+
+	A number of Radiation is removed at the end of a character's turn equal to their Constitution modifier, plus any additional Radiation Reduction the character has applied. 
+
+
 
 ### General Public Disposition
-Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is as kind as them.
+Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 
 #### Factions
 ##### Scavengers / Seekers / Scavs
