@@ -26,7 +26,7 @@ We return to the party over a day later. They have travelled this route before, 
 
 
 ###### TOWER FIGHT
-Qiell, AC 15 - 23 (+4, 8, 13, 16)
+Qiell, AC 15 - 23 (+4, 8, 13, 16, 25, 35, 50)
 1 -
 2 -
 3 - x x
