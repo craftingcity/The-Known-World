@@ -6,6 +6,7 @@
       {
         "id": "f295d38af1c92d34",
         "type": "tabs",
+        "dimension": 39.77732793522267,
         "children": [
           {
             "id": "89e1cd1846b0b28a",
@@ -33,6 +34,7 @@
       {
         "id": "7089dbdde3c31903",
         "type": "tabs",
+        "dimension": 60.22267206477733,
         "children": [
           {
             "id": "3b1fe48a70914417",
@@ -83,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandu",
+                "query": "coin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -304,7 +305,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b1fe48a70914417",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Prenotes Jan 25 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",

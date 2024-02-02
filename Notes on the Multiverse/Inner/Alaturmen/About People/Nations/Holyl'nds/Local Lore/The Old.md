@@ -88,7 +88,7 @@ The field of gas cloud anomalies is a 25' radius circle. Within this radius, eac
 The field of Electro anomalies is a 25' radius circle. Within this radius, each 5' space has a 1/6 chance of being active for 3d6 minutes. While active, a creature that begins their turn with 5' of the space takes 2d6 lightning damage. A creature that enters the active space takes 4d6 lightning damage.
 
 ###### Space
-> A Space anomaly field is often hard to see. It is like the bubbles of soap, barely shimmering in the sun. It comes in many shapes and sizes, and it often blocks an obvious path. Ivan told me once on his trip into the city that a Space field had cut into a portion of the building he was in, removing a whole room and a half.
+> A Space anomaly field is often hard to see. It is like the bubbles of soap, barely shimmering in the sun. It comes in many shapes and sizes, and it often blocks an obvious path. Ivan told me once on his trip into [[#The City]] that a Space field had cut into a portion of the building he was in, removing a whole room and a half.
 
 The Space anomaly is described as a field, but it is a singular entity with an undefined shape and size. It is a solid but invisible force shape that simply exists where it is.
 
@@ -98,16 +98,16 @@ The Space anomaly is described as a field, but it is a singular entity with an u
 ###### Emission  
 > An Emission is not like other anomalies. It is the Old fighting us. The sky will shudder, and the sun will boil. Hide. Even if your body survives the heat and winds, your brain will not. You will know no reason. Only hunger. It is a kindness to take a life like that.
 
+Emissions occur above [[#The Temple]] and extends outward to the edges of the Old before ceasing. As the intensity of the large (minutes or hours long) wave of Emission increases, so do the effects. The Emission deals 1d4 psychic damage per round spent unroofed. If a creature falls unconscious while unroofed, they become something like the [[#Fallen]].
+
 ###### Radiation
-> A Radiation anomaly field cannot be seen. It will kill you, slowly at first, but soon your brain will slow and your blood will stop. Your organs will fail and you will die a painful rotting death. Protect yourself.
+> A Radiation anomaly field cannot be seen. It will kill you, slowly at first, but soon your brain will slow, and your blood will stop. Your organs will fail, and you will die a painful, rotting death. Protect yourself.
 
 The Radiation anomaly is of undefined shape and size, but it is generally quite large - covering buildings more than singular rooms or objects. It is, however, attracted to metal over long periods of time, leading to contact with metal within the field being quite dangerous.
 
-	Radiation is applied every round, at the beginning of a character's turn. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference.
+	Radiation is applied every round, at the beginning of a character's turn. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference. Any Radiation that would be applied to a character is reduced by their current Radiation Protection.
 
-	A number of Radiation is removed at the end of a character's turn equal to their Constitution modifier, plus any additional Radiation Reduction the character has applied. 
-
-
+	A number of Radiation is removed at the end of a character's turn equal to their Radiation Reduction plus their Constitution Modifier.
 
 ### General Public Disposition
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
@@ -121,69 +121,69 @@ A collective name for the individuals and groups without a greater affiliation t
 - [[#The Haven]]
 	- The Seekers within the Haven are united by their allegiance to /merchant name/ and each other. 
 	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
-- The Sticks
-- The Factory
-- The City
-- The Village
-- The Base
-- The Dwarven Ship
+- [[#The Sticks]]
+- [[#The Factory]]
+- [[#The City]]
+- [[#The Village]]
+- [[#The Base]]
+- [[#The Dwarven Ship]]
 
 ##### White-Flame Militants
-[[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and commonly attack on sight.
+[[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
 
 ###### Equipment
 ###### Areas of Operation
-- The Cordon
-- The Factory
-- The City
-- The Village
-- The Base
+- [[#The Cordon]]
+- [[#The Factory]]
+- [[#The City]]
+- [[#The Village]]
+- [[#The Base]]
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries betray their well-earned trust for the benefit of their unknown patrons. 
 
 ###### Equipment
 ###### Areas of Operation
-- The Factory
-- The City
-- The Village
-- The Temple
-- The Base
-- The Dwarven Ship
+- [[#The Factory]]
+- [[#The City]]
+- [[#The Village]]
+- [[#The Temple]]
+- [[#The Base]]
+- [[#The Dwarven Ship]]
 
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
 ###### Equipment
 ###### Areas of Operation
-- The Haven
-- The Sticks
-- The Factory
-- The City
-- The Village
-- The Base
+- [[#The Haven]]
+- [[#The Sticks]]
+- [[#The Factory]]
+- [[#The City]]
+- [[#The Village]]
+- [[#The Base]]
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
 
 ###### Equipment
 ###### Areas of Operation
-- The Factory
-- The City
-- The Village
-- The Temple
-- The Base
-- The Dwarven Ship
+- [[#The Factory]]
+- [[#The City]]
+- [[#The Village]]
+- [[#The Temple]]
+- [[#The Base]]
+- [[#The Dwarven Ship]]
 
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
 ###### Equipment
 ###### Areas of Operation
-- The City
-- The Village
-- The Temple
-- The Base
+- [[#The City]]
+- [[#The Village]]
+- [[#The Temple]]
+- [[#The Base]]
 
 ## Important Places & Symbolism
 Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
@@ -422,6 +422,8 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. *Ancient Elven Empire* coins, however, are well positioned within the Old as a token of value given their near-rarity and value. 
 
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
+
+For the purposes of cross-referencing, 
 
 #### Arms
 #### Armors
