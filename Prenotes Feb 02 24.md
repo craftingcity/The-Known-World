@@ -47,5 +47,6 @@ Orange F (20) 17, 30,
 
 Benjamin equipped a Tank Combat Suit (AC 18+DEX), and Yissa equipped a Officer Combat Suit (AC 16+DEX)
 
+Breenabell put on a show for 27 entertainment points 
 
 We leave our heroes on the date of ... AF, as they ...
