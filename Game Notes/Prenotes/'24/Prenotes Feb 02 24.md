@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for January 20th
+# Prenotes for Feb 2nd
 ## Party of Interest: [[Cathouse Game#Kade-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -31,7 +31,7 @@ During the first night, the Baron kindly showed the sleeping arrangements in you
 You travelled deep into the city before halting on the street and entering a building visibly titled "Chased Hare Tavern & Inn". As you and your parade enter the building, you are pointed up the stairs where master suite rooms have been prepared for the both of you, including a hot-stone bath-tub, a large warmed bed, and a selection of desserts and breakfast pastries.
 
 	- No patrons of the Inn are willing to publicly speak to anyone involved in the Caravan, but a number of them are Cultists of Sune.
-	- The proprieter and employees are helpful and cheerful, but do not have any information other than your Caravan of Esteemed guests was expected 
+	- The proprieter and employees are helpful and cheerful, but do not have any information other than your Caravan of Esteemed guests was expected.
 
 In the morning, you will be led into a fenced off compound that contains the once glorious Temple of Love that now lies in ruins on the edge of town. There are many agents of Avory here. The ruins have been marginally repaired and redecorated. Rooms within the temple have been prepared for you both, separately, and when you depart for bed, you will find the doors to your rooms locked behind you.
 

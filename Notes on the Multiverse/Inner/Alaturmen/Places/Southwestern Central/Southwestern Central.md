@@ -69,6 +69,7 @@ aliases:
 - **Specific Places**
 	- [[Ginger's Nopal & Agave Farm]]
 	- [[Kickoff's Great Durandurm Mines]]
+	- [[Tilemundon's White Tower]]
 	- [[Tybir's Camel Ranch]]
 
 %% End Waypoint %%
