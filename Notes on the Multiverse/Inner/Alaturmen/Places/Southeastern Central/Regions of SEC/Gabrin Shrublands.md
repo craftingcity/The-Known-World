@@ -2,15 +2,20 @@
 tags: region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# Gabrin Shrublands
+#### A sub-region of [[Southeastern Central]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-- Z16. Triton Pirates
+#### Z16. Triton Pirates
 	- Harbormasters tend to forget that security shouldn’t stop at the surface.
-- 
+#### AA16.
+#### AB16.
+#### AC16.
+#### AD16.
+#### AE16.
+#### AF16.
 
 ## Tables
 ### Encounter

@@ -40,9 +40,11 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- A two-story wooden chapel bears no symbology, standing on a small hill in the Prairie. The interior evokes a feeling of holiness, but not dedication to a specific Deity. At the head of the main chamber, a stone relief depicts the [[Arthur Simonson|The Great Adventurer King]] knighting a skull-masked figure who is bent forward on one knee.
 	- At all times, two LeQuinn guard of the Delectus Chapter guard the chapel's entrance.
 #### O15.
+#### O16.
 #### O17. Pig's Burial
 #### O27. Phase Spider Nests
 	- Clinging to the limbs of the forest trees, whispy cyan strands form nests indicate the presence of Phase Spiders, infectious blemishes of the Wildlands broken forward past the borders.
+#### P16.
 #### P19. Nature-growth Altar
 	- Emerging from the grasses, an ornate green altar stands alone here. The symbol of Terra is naturally embossed from its center.
 #### Q16. "A Religious Man"
@@ -51,6 +53,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### Q26. Rootlake Monster
 	- Some terrible monster stalks this lake.
 #### R15.
+#### R16.
 #### U23. Worthy Knight
 	- A champion taxes and guards the road here.
 ## Tables

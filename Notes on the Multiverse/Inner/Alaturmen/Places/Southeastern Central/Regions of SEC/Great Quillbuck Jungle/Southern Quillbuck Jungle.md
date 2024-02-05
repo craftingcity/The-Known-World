@@ -8,8 +8,14 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+#### AN16.
+#### AN17.
 #### AO13. 
 #### AO15. 
+#### AO16. 
+#### AO17. 
+#### AO18. 
+#### AO19. 
 #### AO20. Elite Dragon Cult
 #### AO22. Putrid Elemental
 #### AO24. Ancient Temple
@@ -18,6 +24,10 @@ aliases:
 #### AP13. Giant Slug
 #### AP14.
 #### AP15.
+#### AP16.
+#### AP17.
+#### AP18.
+#### AP19.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
