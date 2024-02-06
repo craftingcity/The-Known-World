@@ -11,6 +11,7 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 ### Scenarios
 #### G7.
 #### G8.
+#### G17.
 #### H5.
 #### H6.
 #### H7.
@@ -28,6 +29,7 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 #### I13.
 #### I16. Silent Clearing
 	- A torn white sheet flaps in the wind, pierced upon a steel spike planted in the ground.
+#### I17.
 #### J10.
 #### J11.
 #### J12.
