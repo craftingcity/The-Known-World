@@ -10,6 +10,10 @@ aliases:
 ### Scenarios
 #### AN16.
 #### AN17.
+#### AN20.
+#### AN21.
+#### AN22.
+#### AN23.
 #### AO13. 
 #### AO15. 
 #### AO16. 
@@ -17,7 +21,9 @@ aliases:
 #### AO18. 
 #### AO19. 
 #### AO20. Elite Dragon Cult
+#### AO21.
 #### AO22. Putrid Elemental
+#### AO23. 
 #### AO24. Ancient Temple
 	- 6 creatures guard this place, and have done so for as long as it has been, or so they say.
 	- predators of the [[Beasts Righteous]] bring gifts to these beasts here in trade before passing into the westlick - or returning from it
@@ -28,6 +34,9 @@ aliases:
 #### AP17.
 #### AP18.
 #### AP19.
+#### AP20.
+#### AP21.
+#### AP22.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6

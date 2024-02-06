@@ -2,14 +2,15 @@
 tags: region
 aliases:
 ---
-# Title
-#### A sub-region of {Greater Region}
+# Enlitte Ambonas
+#### A sub-region of [[Northwestern Central]]
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
 #### C15. Frost Giant Haven
 #### C16.
+#### C17.
 #### D13.
 #### D14.
 #### D15.
@@ -17,6 +18,7 @@ aliases:
 #### E14.
 #### E15.
 #### E16.
+#### E17.
 #### F14.
 #### F15.
 #### F16.
