@@ -27,7 +27,13 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6b0fa5c3cdd63b42",
+        "type": "tabs",
+        "children": [
           {
             "id": "b136624790a21974",
             "type": "leaf",
