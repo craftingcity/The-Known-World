@@ -40,15 +40,15 @@ Breenabell (22)
 Lair (20)
 ~~Bloodylip (ORA A) (19) 37~~
 The Pack (18) 
-ORA B 18, 28
+ORA B 18, 28, 31
 ~~ORA C 37~~
 ORA D 6
 ORA E
-Jonah (RED A) (17) 2
+Jonah (RED A) (17) 2, 13, 21
 The Thieves (16)
 RED B
 RED C
-BLU D
+BLU D, 6
 BLU E
 BLU F
 Aramond (15) 6
@@ -57,10 +57,10 @@ Ulfgar (11)
 ~~Vulture (GRE A) (9) 3, 15, 23, 30, 38, ~~
 Nala (9)
 The Talons (8)
-GRE B 6
+GRE B 6, 37
 GRE C 3, 9
-GRE D 6
-GRE E 3
+GRE D 6, 37
+GRE E 3, 18
 Jerran
 Benjamin
 Yissa
