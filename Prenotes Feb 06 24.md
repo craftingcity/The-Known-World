@@ -42,24 +42,25 @@ Bloodylip (ORA A) (19)
 The Pack (18)
 ORA B
 ORA C
-ORA D
+ORA D 6
 ORA E
-Jonah (RED A) (17)
+Jonah (RED A) (17) 2
 The Thieves (16)
 RED B
 RED C
 BLU D
 BLU E
 BLU F
-Aramond (15)
+Aramond (15) 6
+Doggies (13)
 Ulfgar (11)
-Vulture (GRE A) (9)
+Vulture (GRE A) (9) 3, 15
 Nala (9)
 The Talons (8)
-GRE B
-GRE C
-GRE D
-GRE E
+GRE B 6
+GRE C 3
+GRE D 6
+GRE E 3
 Jerran
 Benjamin
 Yissa

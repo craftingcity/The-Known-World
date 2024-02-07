@@ -60,8 +60,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3942f9c0ed903a1e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,8 +334,9 @@
   },
   "active": "fdd84eb9a22db0bf",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Feb 01 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Prenotes Feb 06 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Feb 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 02 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
@@ -337,7 +360,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
