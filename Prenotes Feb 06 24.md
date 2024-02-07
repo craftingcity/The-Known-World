@@ -44,13 +44,13 @@ Lair (20)
 ~~ORA C 37~~
 ~~ORA D 6, 18, 23, 35, ~~
 ~~ORA E, 5~~
-Jonah (RED A) (17) 2, 13, 21, 24, 28
+~~Jonah (RED A) (17) 2, 13, 21, 24, 28, 50~~
 The Thieves (16)
 RED B
-RED C
+~~RED C, 14, 25~~
 BLU D, 6
-BLU E
-BLU F
+BLU E, 13
+~~BLU F, 17, 34~~
 Aramond (15) 6
 Doggies (13)
 Ulfgar (11)
