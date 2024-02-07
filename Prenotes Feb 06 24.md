@@ -32,8 +32,11 @@ Vultures Talons (6)
 Bloodylip's Pack (18)
 Doggies (13)
 
++ 24 entertainment points
+
 ##### THE FIGHT
 
+Breenabell (22)
 Lair (20)
 Bloodylip (ORA A) (19)
 The Pack (18)
@@ -48,11 +51,17 @@ RED C
 BLU D
 BLU E
 BLU F
+Aramond (15)
+Ulfgar (11)
 Vulture (GRE A) (9)
+Nala (9)
 The Talons (8)
 GRE B
 GRE C
 GRE D
 GRE E
+Jerran
+Benjamin
+Yissa
 
 We leave our heroes on the date of ... AF, as they ...
