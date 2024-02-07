@@ -38,10 +38,10 @@ Doggies (13)
 
 Breenabell (22)
 Lair (20)
-Bloodylip (ORA A) (19)
-The Pack (18)
-ORA B
-ORA C
+~~Bloodylip (ORA A) (19) 37~~
+The Pack (18) 
+ORA B 18, 28
+~~ORA C 37~~
 ORA D 6
 ORA E
 Jonah (RED A) (17) 2
@@ -54,11 +54,11 @@ BLU F
 Aramond (15) 6
 Doggies (13)
 Ulfgar (11)
-Vulture (GRE A) (9) 3, 15
+~~Vulture (GRE A) (9) 3, 15, 23, 30, 38, ~~
 Nala (9)
 The Talons (8)
 GRE B 6
-GRE C 3
+GRE C 3, 9
 GRE D 6
 GRE E 3
 Jerran
