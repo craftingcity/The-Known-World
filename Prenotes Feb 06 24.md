@@ -19,12 +19,40 @@ When last we left our heroes, they had navigated themselves and their three fres
 
 Your game is Four Corners. You can all recall playground games with the same name, but the rules are still left unexplained - so too are the presence of the blind dogs released into your playing field.
 
-"Welcome to Four~ Corners!~ Today's teams include; Jonah's Honorable Thieves... The 'Vulture's Talons
+"Welcome to Four~ Corners!~ Today's teams include; Jonah's Honorable Thieves... The 'Vulture's Talons'... Bloodylip's Pack... and the Hatdroppers!"
 
 ### What does the World Know?
 
 
 ### What happened?
 
+Lair (20)
+Jonah's Team (14)
+Vultures Talons (6)
+Bloodylip's Pack (18)
+Doggies (13)
+
+##### THE FIGHT
+
+Lair (20)
+Bloodylip (ORA A) (19)
+The Pack (18)
+ORA B
+ORA C
+ORA D
+ORA E
+Jonah (RED A) (17)
+The Thieves (16)
+RED B
+RED C
+BLU D
+BLU E
+BLU F
+Vulture (GRE A) (9)
+The Talons (8)
+GRE B
+GRE C
+GRE D
+GRE E
 
 We leave our heroes on the date of ... AF, as they ...
