@@ -484,7 +484,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 ###### Fire-Heart Ruby
 ##### Force
 ###### Space-Jolt Diamond
-> *Space-Jolt Diamond*s are a **rare** artifact. A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC
+> *Space-Jolt Diamond*s are a **rare** artifact. A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC 19 Strength Saving Throw or take 3d6 +12 force damage, is pushed 5' backwards, and is knocked Prone.
 
 | Shadow of Chernobyl    | Clear Sky    | Call of Pripyat |
 |------------------------|--------------|-----------------|
