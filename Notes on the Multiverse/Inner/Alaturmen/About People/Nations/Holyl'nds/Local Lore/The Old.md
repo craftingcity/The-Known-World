@@ -470,8 +470,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 #### Detection & Detection Equipment
 #### Known and Named Artifacts
-##### All
 ###### /placeholder/
+##### All
 ###### Corebent Duram
 > *Corebent Duram*s are a **common** artifact. A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. Once expended, it becomes a simple Alum stone.
 ##### Acid
