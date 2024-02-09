@@ -467,16 +467,61 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 ##### RADIATION
 
 ### Artifact Hunting
+
 #### Detection & Detection Equipment
 #### Known and Named Artifacts
 ##### All
-###### Corebent Duram
-> *Corebent Duram* is a **common** artifact. A *Corebent Duram* can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. Once expended, it becomes a simple Alum stone.
-
 ###### /placeholder/
+###### Corebent Duram
+> *Corebent Duram*s are a **common** artifact. A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. Once expended, it becomes a simple Alum stone.
 ##### Acid
+###### Emerald Liver
+> *Emerald Liver*s are a **rare** artifact. A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 ##### Electric
+###### Duram Battery
+> *Duram Battery*s are a **uncommon** artifact. A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 ##### Fire
 ###### Fire-Heart Ruby
 ##### Force
+###### Space-Jolt Diamond
+> *Space-Jolt Diamond*s are a **rare** artifact. A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC
 
+| Shadow of Chernobyl    | Clear Sky    | Call of Pripyat |
+|------------------------|--------------|-----------------|
+| Altered Insulator      |
+| Altered Wheel          |
+| Anomalous Plant        |
+| Battery                | Battery      | Battery         |
+| Bubble                 | Bubble       |
+| Compass                | Compass      |
+| Crystal                | Crystal      | Crystal         |
+| Crystal Thorn          |              |                 |
+| Droplets               |              |                 |
+| Eye                    | Eye          |
+| Fireball               | Fireball     | Fireball        |
+| Firefly                | Firefly      |
+| Flame                  | Flame        |
+| Flash                  | Flash        | Flash           |
+| Goldfish               | Goldfish     | Goldfish        |
+| Gravi                  | Gravi        | Gravi           |
+| Jellyfish              | Jellyfish    | Jellyfish       |
+| Kolobok                | Kolobok      | Kolobok         |
+| Mama's Beads           | Mama's Beads | Mama's Beads    |
+| Meat Chunk             | Meat Chunk   | Meat Chunk      |
+| Mica                   |              |                 |
+| Moonlight              | Moonlight    | Moonlight       |
+| Night Star             | Night Star   | Night Star      |
+| Pellicle               |              |                 |
+| Shell                  | Shell        |
+| Slime                  |              |                 |
+| Slug                   |              |                 |
+| Snowflake              | Snowflake    |
+| Soul                   | Soul         | Soul            |
+| Sparkler               | Sparkler     | Sparkler        |
+| Spring                 |              |                 |
+| Stone Blood            | Stone Blood  | Stone Blood     |
+| Stone Flower           | Stone Flower | Stone Flower    |
+| The Heart of the Oasis |
+| Thorn                  |              |                 |
+| Urchin                 |              |                 |
+| Wrenched               | Wrenched     | Wrenched        |
