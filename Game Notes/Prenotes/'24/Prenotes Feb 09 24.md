@@ -69,5 +69,16 @@ HP | 245 | AC | 20
 
 ### What happened?
 
+#### The Cleansing
+The Shadow 19
+Daelith 17
+Vix 6
+The Guards 2
+A 15
+B
+C
+D 15
+E
+F 7
 
 We leave our heroes on the date of ... AF, as they ...
