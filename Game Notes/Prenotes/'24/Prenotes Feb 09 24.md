@@ -70,7 +70,7 @@ HP | 245 | AC | 20
 ### What happened?
 
 #### The Cleansing
-The Shadow 19
+The Shadow 19 / 25
 Daelith 17
 Vix 6
 The Guards 2
