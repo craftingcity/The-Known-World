@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for Feb 2nd
+# Prenotes for Feb 9th
 ## Party of Interest: [[Cathouse Game#Kade-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -21,7 +21,7 @@ In conversation with the Baron, her goals became slightly less opaque; she requi
 With what little information they were given, the majority of your party was waved off, but Vix - with a very reasonable measure of suspicion for the situation - demanded to stay with Daelith, by her side, up to or perhaps even during this mysterious ritual. From one hollow woman to another, this favor was granted, and the three of you - Daelith, Vix, and Baron Avory herself - began what you might consider... a side-quest.
 
 ### What does the World Know?
-Avory, Daelith, and Vix alongside a Captain Hanes (Elven Knight), a Lieutenant Kienen (Goblin Veteran), and six Privates.
+Avory, Daelith, and Vix alongside a Captain Hanes (Elven Knight), a Lieutenant Kienen (Goblin Veteran), and sixteen Privates.
 
 #### Travelling
 You travelled for two days in a caravan of fine carts, each of which was guarded by at least four armed and armored guards at all times. During the day, yourselves and the Baron travelled together, and the other two carts in your caravan were left empty. 
@@ -40,7 +40,16 @@ Until the night of the 8th, you are left in your rooms with food, water, and fin
 
 #### The Ritual
 ###### Before the Ritual
-If Daelith fails to perform divine magics, she will be required to undergo a cleansing ritual on the 7th, before the dawn of the 8th, that will extract the latent dark magic in Daelith that is preventing the connection to Sune. As this energy is extracted, it will manifest into a physical shadow demon that will pose an immediate threat to her and those around her in the chamber - Vix may be vital in this fight, and her presence should be both thematically and mechanically rewarded. Daelith will hear a motherly voice finally welcoming her home, and giving her a cryptic understanding of what is about to happen to her, and what her purpose is - fighting a great evil with her powerful spirit. 
+If Daelith fails to perform divine magics, she will be required to undergo a cleansing ritual on the 7th, before the dawn of the 8th, that will extract the latent dark magic in Daelith that is preventing the connection to Sune. As this energy is extracted, it will manifest into a physical shadow demon that will pose an immediate threat to her and those around her in the chamber - Vix may be vital in this fight, and her presence should be both thematically and mechanically rewarded. 
+
+	Using Gladiator statblock as shadowdemon, Sune's voice asks
+	"What do you want?"
+	"What do you dream of?"
+	"Who do you live for?"
+	"What purpose do you serve?"
+	"Who would you die for?"
+
+Daelith will hear a motherly voice finally welcoming her home, and giving her a cryptic understanding of what is about to happen to her, and what her purpose is - fighting a great evil with her powerful spirit. 
 
 ###### The Night of the Ritual
 First, the assembled faithful will begin to chant a simple low growl in an attempt to gather a ripple in the Weave, while a number of artifacts are placed around the open ritual space. Daelith will be brought forth into the center of this space, and then lathered in a mix of honey or applesugar and dove's blood, freshly squeezed. Then, the chanting will become more forceful and powerful. Daelith will be given a final passionate kiss, then will very quickly die of the poison on the Baron's Lipstick.
