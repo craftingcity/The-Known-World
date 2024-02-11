@@ -1,15 +1,15 @@
-### Artifact Hunting
-#### What is an "Artifact"?
+## Artifact Hunting
+### What is an "Artifact"?
 While the word can sometimes be used to describe a powerful relic of divine or arcane origin, in this context an artifact is an object that has been created within an anomaly during an emission. 
 
 These artifacts commonly have powers that could be considered equal or replicable by arcane or divine enchantments.
 
-#### Artifact Detection Equipment
+### Artifact Detection Equipment
 When Artifact Hunting, the first and most important piece of equipment a Scav will need is an Artifact Detector. Some artifacts can be detected without special equipment, such as pieces of *Corebent Duram*, but most require at least a simple Detector. 
 
 While there are stories of mages attempting to use their repertoire of spells to find and collect artifacts, they all end in severe damage to the mage, if not their death. It can be done - at great peril.
 
-#### Known and Named Artifacts
+### Known and Named Artifacts
 ![[AlchemicalComponentMotifs.png]]
 ###### /stones types/
 |                   |     |                 |

@@ -10,12 +10,12 @@ The Western Entrance is one of the three formally operated gates in the walls th
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
 #### The Recreations Camp
-The Recreation Camp is directly north of the Reserve. The WFM in the area use the Recreations Camp to relieve the stress of operating within the Old.
+The Recreation Camp is directly north of [[#The Reserve]]. The WFM in the area use the Recreations Camp to relieve the stress of operating within the Old.
 
 Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, table games, drug use, and sexual recreation.
 
 #### The Killing Fields
-The Killing Fields are directly north of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
+The Killing Fields are directly north of [[#The Depot]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
 
 The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
@@ -28,10 +28,10 @@ A series of large tents and semi-permanent structures form a small military town
 Trails lead from the Reserve throughout the Cordon, connecting the dispirit settlements into one grander area.
 
 #### The Depot
-The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of the Reserve, and west of the Hunting Slots.
+The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of [[#The Reserve]], and west of [[#The Hunting Slots]].
 
 #### The Hunting Slots
-The Hunting Slots are directly east of the Depot. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
+The Hunting Slots are directly east of [[#The Depot]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
 
 The name "Hunting Slots" was given to this area of their perimeter due to the number of natural mutant threats that attempt to breach the Cordon from the east. Much of the food supply the WFM eat comes from these mutants.
 
@@ -50,7 +50,7 @@ A welcoming Seeker holding that is in conflict with the nearby Militants at the 
 #### The Northern Entrance
 The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
-Entering this gate leads into the Broken Swamps, where a small trail leads to the Rookie Village and the Haven at large.
+Entering this gate leads into the [[#Broken Swamps]], where a small trail leads to [[#The Rookie Village]] and the Haven at large.
 
 #### The Rookie Village
 
@@ -64,11 +64,11 @@ Entering this gate leads into the Broken Swamps, where a small trail leads to th
 
 #### The Rookie Checkpoint
 
-#### /blankspace/
+#### The Toxic Swamps
 
 #### The Flea Market
 
-#### /blankspace/
+#### The Forester's Hut
 
 
 ### The Sticks
@@ -76,9 +76,9 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 
 #### The Eastern Breach 
 
-#### /blankspace/
+#### The Dark Bondfire
 
-#### /blankspace/
+#### The Trenches
 
 #### The Trap Town
 
@@ -160,35 +160,35 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 ### The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
 
-#### The Cloister
+#### The Open Cloister
 
 #### The North Gate
 
-#### /blankspace/
+#### The Broken Tower
 
 #### The Graveyard
 
 #### The Temple Proper
 
-#### /blankspace/
+#### The Temple Garden
 
 #### The Dormitories
 
 #### The South Gate
 
-#### /blankspace/
+#### The Stable Tower
 
 
 
 ### The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
-#### /blankspace/
+#### The Importing Pallets
 
 #### The Front Gate
 
 #### The Mess Hall
 
-#### /blankspace/
+#### The Broken Gate
 
 #### The Intelligence Center
 
@@ -223,7 +223,7 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 #### The Dugout
 
-#### /blankspace/
+#### The Wall Games
 
 ### The Spaces in Between
 #### Broken Swamps

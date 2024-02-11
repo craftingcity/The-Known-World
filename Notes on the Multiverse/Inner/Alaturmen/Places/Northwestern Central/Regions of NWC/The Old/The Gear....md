@@ -1,4 +1,4 @@
-### The Gear...
+## The Gear...
 The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. *Ancient Elven Empire* coins, however, are well positioned within the Old as a token of value given their near-rarity and value. 
 
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
@@ -7,58 +7,58 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 > Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, ...
 
 
-#### Arms
-##### SCAVANGED / REFIT
+### Arms
+#### SCAVANGED / REFIT
 Name | Type | Damage | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### IMPORTED / FORGED
+#### IMPORTED / FORGED
 Name | Type | Damage | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
 
-#### Armors
-##### SCAVANGED / REFIT
+### Armors
+#### SCAVANGED / REFIT
 Name | Type | Prot. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### IMPORTED / FORGED
+#### IMPORTED / FORGED
 Name | Type | Prot. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-#### Ammunition
-##### SCAVANGED / REFIT
+### Ammunition
+#### SCAVANGED / REFIT
 Name | Type | Damage | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### IMPORTED / FORGED
+#### IMPORTED / FORGED
 Name | Type | Damage | Cost in AC 
 --- | ---
 Huumpo |
 2 | A2 
-#### Containers
-##### FLUID
+### Containers
+#### FLUID
 Name | Type | Space | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### SOLIDS
+#### SOLIDS
 Name | Type | Space | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### ARTIFACTS
+#### ARTIFACTS
 Name | Type | Space | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-#### Commodities
-##### DRUGS / ALCH
+### Commodities
+#### DRUGS / ALCH
 Name | Type | Desc. | Cost in AC 
 --- | ---
 Cannabis | Eupho.
@@ -69,53 +69,52 @@ Bulbkiss | Hallu.
 Nova | Stimu.
 Dareanamon | Eupho.
 2 | A2 
-##### TROPHIES
+#### TROPHIES
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-#### Food
-##### LOCAL CUISINE
+### Food
+#### LOCAL CUISINE
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### IMPORT CUISINE
+#### IMPORT CUISINE
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### SPICES
+#### SPICES
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-#### Information
-##### GUIDES
+### Information
+#### GUIDES
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-##### PATHS
+#### PATHS
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 
 2 | A2 
-#### Medical
+### Medical
 |                       |     |        |           |               |     |     |                   |
 | --------------------- | --- | ------ | --------- | ------------- | --- | --- | ----------------- |
 | Secreclude Propaterol |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
 | Pretokarin            |     | Liquid | Equipment | Transmutation |     |     | per 1/16th gallon |
 | Ambebamol             |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
 | Aerotide              |     | Gas    | Equipment | Transmutation |     |     | per gallon        |
-
-##### PROTECTION
+#### PROTECTION
 Name | Type | Desc. | Cost in AC 
 --- | ---
 Aerotide |
 Crotosine Vepian |
 2 | A2 
-##### HEALING
+#### HEALING
 Name | Type | Desc. | Cost in AC 
 --- | ---
 Heamox Balm |
@@ -124,7 +123,7 @@ Pretokarin |
 Secreclude Propaterol |
 Ambebamol |
 2 | A2 
-##### RADIATION
+#### RADIATION
 Name | Type | Desc. | Cost in AC 
 --- | ---
 1 | A1 

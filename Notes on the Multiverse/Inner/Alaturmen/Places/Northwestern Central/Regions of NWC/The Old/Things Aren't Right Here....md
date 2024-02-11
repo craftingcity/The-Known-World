@@ -1,13 +1,13 @@
-### Things Aren't Right Here...
-#### Casting
-##### Divine & Natural Spellcasters
+## Things Aren't Right Here...
+### Casting
+#### Divine & Natural Spellcasters
 While many of the most common spellcasters draw on divine or natural powers, those casters will find that their powers have been stripped from them in this place. While you may call upon a natural or divine power in this place, you are sure to fail to reach them. Repeated attempts may draw upon the ire of the Old...
 
 	> When a "divine" or "natural" caster attempts to cast a spell, they may expend a number of hit-die equal to the spell's level. If they do not, they take that number of d10 psycic damage instead. This effect only occurs after a caster's first spell or after 4 hours in The Old.
 	> After this point, spell slots may not be expended and spells may not be cast - including cantrips.
 	> The following dnd5e spellcaster classes are efffected; Druids, Rangers, Clerics, Paladins, Warlocks.
 
-##### Arcane Spellcasters
+#### Arcane Spellcasters
 Where their Divine companions are personally punished for their casting, and may be unable to safely cast spells at all, Arcane spellcasters are often overwhelmed with the effectiveness of their spells while they are cast within the Old.
 
 	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. 
@@ -15,8 +15,8 @@ Where their Divine companions are personally punished for their casting, and may
 	> 	If they fail, they take a number of d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
 	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
-#### Hazards
-##### Anomalies
+### Hazards
+#### Anomalies
 Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
 
 To notice an Anomaly or an Anomalous Field, a creature may simply view it on a DC 16 Perception check of the area. Otherwise, a creature may attempt to activate anomalies they cannot see. This is typically done by throwing a piece of rubbish along a path, walking that path, and continuing until opposed by the anomaly, at which point one would maneuver around it, when able.
