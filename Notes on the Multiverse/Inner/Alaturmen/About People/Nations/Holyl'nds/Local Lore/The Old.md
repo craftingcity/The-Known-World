@@ -467,7 +467,10 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 ##### RADIATION
 
 ### Artifact Hunting
+#### What is an "Artifact"?
+While the word can sometimes be used to describe a powerful relic of divine or arcane origin, in this context an artifact is an object that has been created within an anomaly during an emission. 
 
+These artifacts commonly have powers that could be considered equal or replicable by arcane or divine enchantments.
 #### Detection & Detection Equipment
 #### Known and Named Artifacts
 ###### /placeholder/
@@ -487,5 +490,6 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 ###### Fire-Heart Ruby
 ##### Force
 ###### Space-Jolt Diamond
+> A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.
 > *Space-Jolt Diamond*s are a **rare** artifact. 
 > A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC 19 Strength Saving Throw or take 3d6 +12 force damage, is pushed 5' backwards, and is knocked Prone.
