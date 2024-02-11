@@ -20,12 +20,12 @@ The Killing Fields are directly north of the Depot. The WFM have a secure perime
 The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
 #### The Mudhouse
-northeast of the Depot
+Northeast of the Depot, a mudbrick outhousehouse stands out as a lone survivor amidst the desolation surrounding it. Surrounding the outhouse are the ruins of other abandoned structures, their walls crumbling, serving as eerie reminders of a home long lost.
 
 #### The Reserve
 A series of large tents and semi-permanent structures form a small military town. WFM use the Reserve and the surrounding areas as their primary base of operations within the Old.
 
-Trails lead from the Reserve throughout the Cordon, connecting the dispret settlements into one grander area.
+Trails lead from the Reserve throughout the Cordon, connecting the dispirit settlements into one grander area.
 
 #### The Depot
 The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of the Reserve, and west of the Hunting Slots.
