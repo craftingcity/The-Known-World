@@ -61,13 +61,13 @@ Name | Type | Space | Cost in AC
 ##### DRUGS / ALCH
 Name | Type | Desc. | Cost in AC 
 --- | ---
-Cannabis | 
-Tabacco | 
+Cannabis | Eupho.
+Tabacco | Stimu.
 Smokebulb | Hallu.
-Lephora Essence |
+Lephora Essence | Hallu.
 Bulbkiss | Hallu.
 Nova | Stimu.
-Dareanamon | Stimu.
+Dareanamon | Eupho.
 2 | A2 
 ##### TROPHIES
 Name | Type | Desc. | Cost in AC 
@@ -102,6 +102,13 @@ Name | Type | Desc. | Cost in AC
 1 | A1 
 2 | A2 
 #### Medical
+| a                     | b   |        |           |               |     |     |                   |
+| --------------------- | --- | ------ | --------- | ------------- | --- | --- | ----------------- |
+| Secreclude Propaterol |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
+| Pretokarin            |     | Liquid | Equipment | Transmutation |     |     | per 1/16th gallon |
+| Ambebamol             |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
+| Aerotide              |     | Gas    | Equipment | Transmutation |     |     | per gallon        |
+
 ##### PROTECTION
 Name | Type | Desc. | Cost in AC 
 --- | ---
@@ -112,6 +119,7 @@ Name | Type | Desc. | Cost in AC
 --- | ---
 Heamox Balm |
 Isiopara |
+
 2 | A2 
 ##### RADIATION
 Name | Type | Desc. | Cost in AC 

@@ -10,56 +10,35 @@ When Artifact Hunting, the first and most important piece of equipment a Scav wi
 While there are stories of mages attempting to use their repertoire of spells to find and collect artifacts, they all end in severe damage to the mage, if not their death. It can be done - at great peril.
 
 #### Known and Named Artifacts
+![[AlchemicalComponentMotifs.png]]
 ###### /stones types/
-|   |
-|---|
-|Agate|
-|Amber|
-|Crystal (colored)|
-|Crystal (clear)|
-|Diamond|
-|Ruby|
-|Sapphire|
-|Emerald|
-|Amethyst|
-|Glass|
-|Onyx|
-|Jade|
-|Quartz (white)|
-|Quartz (rose)|
-|Durandurm|
-|Adamentine|
-|Alabaster|
-|Copper|
-|Gold|
-|Iron|
-|Silver|
-|Lead|
-|Bronze|
-|Pewter|
-|Tin|
-|Platinum|
-|Mithril|
-|Mica|
-|Marble|
-|Slate|
-|Granite|
-|Sandstone|
-|Limestone|
-|Alum|
-|Chalk|
-|Coal|
-|Charcoal|
-|Soil (rich)|
-|Soil (holy)|
-|Salt|
-|Elemental Salt|
-|Sulfur|
-|Bitumen|
-|Clay|
-|Mercury|
-|Ash (wood)|
-|Ash (bone)|
+|                   |     |                 |
+| ----------------- | --- | --------------- |
+| Agate             |     | Amber           |
+| Crystal (colored) |     | Crystal (clear) |
+| Diamond           |     | Ruby            |
+| Sapphire          |     | Emerald         |
+| Amethyst          |     | Glass           |
+| Onyx              |     | Jade            |
+| Quartz (white)    |     | Quartz (rose)   |
+| Durandurm         |     | Adamentine      |
+| Alabaster         |     | Copper          |
+| Gold              |     | Iron            |
+| Silver            |     | Lead            |
+| Bronze            |     | Pewter          |
+| Tin               |     | Platinum        |
+| Mithril           |     | Mica            |
+| Marble            |     | Slate           |
+| Granite           |     | Sandstone       |
+| Limestone         |     | Alum            |
+| Chalk             |     | Coal            |
+| Charcoal          |     | Soil (rich)     |
+| Soil (holy)       |     | Salt            |
+| Elemental Salt    |     | Sulfur          |
+| Bitumen           |     | Clay            |
+| Ash (wood)        |     | Mercury         |
+| Ash (bone)        |     |                 |
+
 ##### All
 ###### Corebent Duram
 > *Corebent Duram* are a **common** artifact. 
