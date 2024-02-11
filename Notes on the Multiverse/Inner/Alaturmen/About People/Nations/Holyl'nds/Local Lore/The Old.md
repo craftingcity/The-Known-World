@@ -1,6 +1,6 @@
 ---
 tags:
-  - holding
+  - table
 aliases:
   - Minyostalma's Ruins
   - Minyostalma
@@ -118,7 +118,7 @@ Emissions occur above [[#The Temple]] and extends outward to the edges of the Ol
 
 The Radiation anomaly is of undefined shape and size, but it is generally quite large - covering buildings more than singular rooms or objects. It is, however, attracted to metal over long periods of time, leading to contact with metal within the field being quite dangerous.
 
-	Radiation is applied every round, at the beginning of a character's turn. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference. Any Radiation that would be applied to a character is reduced by their current Radiation Protection.
+	Radiation is applied every round, at the beginning of a character's turn, and will accumulate over time. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference. Any Radiation that would be applied to a character is reduced by their current Radiation Protection.
 
 	A number of Radiation is removed at the end of a character's turn equal to their Radiation Reduction plus their Constitution Modifier.
 
@@ -153,7 +153,7 @@ A collective name for the individuals and groups without a greater affiliation t
 - [[#The Base]]
 
 ##### Mercenaries
-Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries betray their well-earned trust for the benefit of their unknown patrons. 
+Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
 
 ###### Equipment
 ###### Areas of Operation
@@ -442,6 +442,12 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### Arms
 ##### SCAVANGED / REFIT
 ##### IMPORTED / FORGED
+Name | Type | D 
+--- | ---
+1 | A1 
+2 | A2 
+
+
 #### Armors
 ##### SCAVANGED / REFIT
 ##### IMPORTED / FORGED
@@ -476,7 +482,7 @@ These artifacts commonly have powers that could be considered equal or replicabl
 #### Artifact Detection Equipment
 When Artifact Hunting, the first and most important piece of equipment a Scav will need is an Artifact Detector. Some artifacts can be detected without special equipment, such as pieces of *Corebent Duram*, but most require at least a simple Detector. 
 
-While there are stories of mages attempting to use their repituar of spells to find and collect artifacts, 
+While there are stories of mages attempting to use their repertoire of spells to find and collect artifacts, they all end in severe damage to the mage, if not their death. It can be done - at great peril.
 
 #### Known and Named Artifacts
 ###### /placeholder/
