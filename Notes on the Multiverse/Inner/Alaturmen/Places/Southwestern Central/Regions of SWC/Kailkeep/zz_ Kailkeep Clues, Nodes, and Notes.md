@@ -1,45 +1,85 @@
 # Kailkeep
-Big Conclusion;
+A number of notes, clues, warnings, and "red herrings" have been left by the unlucky entertainers of Kailkeep for as long as it has existed
 
-These *lower levels* are a **facade** to **lure** adventurers higher up into the *Hells of Kailkeep*.
+Given Kailkeep's nature as a living, breathing place, the following notes should only act as a base from which to build and create your own narrative through *~environmental storytelling~*.
 
-> Lower levels are a facade
-- the dwarven art isnt dwarven
-- these stories dont really make sense
-- the monsters here are fucked up / dont want to fight
-> Facade is a lure
-- dwarves left behind gold and magic
-- evil kobolds live above now
-- a powerful entity has been trapped
+## L1-3; The Allure
+While there are no notes from passing adventurers here (whether from Terra's influence or an ignorance of need), but rather art and tapestries describe the tale of the first settlers of this place.
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
 
 
-## L1; Hook
-Locations:
-Weapons Production
-- Weapon Export
-- Supplies Import
-Kitchen
-Food Storage
-- Food Import
-- Ice Import
-Textile Production
-Barracks
+```
 
-## L2; Line
-Locations:
-Armor Production
-- Armor Export
-Leatherworking
-Balcony
-Noble Rooms
-## L3; Sinker
-Variations:
-Sand Table
-Grease, Spikes, and Fire
-Boulder Dash
 ## L4; Four Corners
+Four Corners is nearly the most "literature populated" layer of Kailkeep, second only to Pick-Up Sticks and it's ecological anomalies.
+
+
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```
+
 ## L5; Pick-Up Sticks
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```
+
 ## L6; Here Comes an Old Soldier
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```
+
 ## L7; Kadabbi
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```
+
 ## L8; The Floor is Ooze!
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```
+
 ## L9; A Final Test
+
+```timeline-labelled
+
+date: Unknown
+title: 
+content:
+
+
+```

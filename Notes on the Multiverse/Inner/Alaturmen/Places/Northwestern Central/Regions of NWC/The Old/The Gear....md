@@ -102,7 +102,7 @@ Name | Type | Desc. | Cost in AC
 1 | A1 
 2 | A2 
 #### Medical
-| a                     | b   |        |           |               |     |     |                   |
+|                       |     |        |           |               |     |     |                   |
 | --------------------- | --- | ------ | --------- | ------------- | --- | --- | ----------------- |
 | Secreclude Propaterol |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
 | Pretokarin            |     | Liquid | Equipment | Transmutation |     |     | per 1/16th gallon |
@@ -112,14 +112,17 @@ Name | Type | Desc. | Cost in AC
 ##### PROTECTION
 Name | Type | Desc. | Cost in AC 
 --- | ---
-1 | A1 
+Aerotide |
+Crotosine Vepian |
 2 | A2 
 ##### HEALING
 Name | Type | Desc. | Cost in AC 
 --- | ---
 Heamox Balm |
 Isiopara |
-
+Pretokarin |
+Secreclude Propaterol |
+Ambebamol |
 2 | A2 
 ##### RADIATION
 Name | Type | Desc. | Cost in AC 
