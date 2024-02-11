@@ -36,13 +36,13 @@ The Hunting Slots are directly east of the Depot. The WFM have a secure perimete
 The name "Hunting Slots" was given to this area of their perimeter due to the number of natural mutant threats that attempt to breach the Cordon from the east. Much of the food supply the WFM eat comes from these mutants.
 
 #### The Barracks
-south of the Reserve
+The sparse activity within the Reserve continues south into the Barracks. This area stands in stark contrast to [[#The Recreations Camp]] for it's somber air. Made of bare walls surely reinforced by layers of metal and mortar, the Barracks are used exclusively for sleep and the storage of personal accoutrement. 
 
 #### The Training Grounds
-south of the depot, east of the barracks
+South of [[#The Depot]] and East of [[#The Barracks]], the Training Grounds is an area filled with obstacles, shooting ranges, and combat simulations to hone and test the skills of both new recruits and veterans.
 
 #### The Forward Post
-southeast of the Depot
+South-east of [[#The Depot]], a single rusting metal watch-tower serves as lookout for the surrounding tents and reinforced ruins. The soldiers stationed here know that they are the first line of defense against anything that Minyostalma will throw at them.
 
 ### The Haven
 A welcoming Seeker holding that is in conflict with the nearby Militants at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
