@@ -4,6 +4,7 @@ The primary business within the Old is death. Death as business is fueled by amm
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
 
 > Ancient Coin is worth 200gp or more outside the Old to some collectors, but within the Old, it can be exchanged for only some 50gp of equipment.
+> Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, ...
 
 
 #### Arms
@@ -38,7 +39,7 @@ Name | Type | Damage | Cost in AC
 ##### IMPORTED / FORGED
 Name | Type | Damage | Cost in AC 
 --- | ---
-1 | A1 
+Huumpo |
 2 | A2 
 #### Containers
 ##### FLUID
@@ -60,7 +61,13 @@ Name | Type | Space | Cost in AC
 ##### DRUGS / ALCH
 Name | Type | Desc. | Cost in AC 
 --- | ---
-1 | A1 
+Cannabis | 
+Tabacco | 
+Smokebulb | Hallu.
+Lephora Essence |
+Bulbkiss | Hallu.
+Nova | Stimu.
+Dareanamon | Stimu.
 2 | A2 
 ##### TROPHIES
 Name | Type | Desc. | Cost in AC 
@@ -103,7 +110,8 @@ Name | Type | Desc. | Cost in AC
 ##### HEALING
 Name | Type | Desc. | Cost in AC 
 --- | ---
-1 | A1 
+Heamox Balm |
+Isiopara |
 2 | A2 
 ##### RADIATION
 Name | Type | Desc. | Cost in AC 
