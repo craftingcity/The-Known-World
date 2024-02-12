@@ -21,9 +21,9 @@ Name | Type | Damage | Cost in AC
 
 ### Armors
 #### SCAVANGED / REFIT
-| Name    | Type   | Prot.         | Cost in AC |
-| ------- | ------ | ------------- | ---------- |
-| Leather | Light  | 11+DEX        |            |
+| Name    | Type   | Prot.          | Cost in AC |
+| ------- | ------ | -------------- | ---------- |
+| Leather | Light  | 11+DEX         |            |
 | Hide    | Medium | 14+DEX (max 2) |            |
 
 #### IMPORTED / FORGED
@@ -39,6 +39,7 @@ Name | Type | Damage | Cost in AC
 --- | ---
 1 | A1 
 2 | A2 
+
 #### IMPORTED / FORGED
 | Name   | Type | Dam. | Cost in AC |
 | ------ | ---- | ---- | ---------- |
