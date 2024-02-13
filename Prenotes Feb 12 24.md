@@ -22,12 +22,12 @@ When last we left our heroes, they had faced dangers and tricks to stand where t
 #### CLEAN OOZE
 Breenabell 21
 Nala 21
-Jerran 20
-OOZE 8, 21, 36, 52, 62, 72
+Jerran 20 (+8)
+~~OOZE 8, 21, 36, 52, 62, 72, 99, 109, 124, 136, 147~~
 Aramond
 Benjamin
 Yissa
-Ulfgar
+Ulfgar (+8 ep)
 
 ### What happened?
 
