@@ -40,7 +40,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
 #### Shooting Gallery
 - This long chamber is notably lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
-#### Beast Barracks
+#### Beast Barracks 
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
 - The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
 - Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
