@@ -19,6 +19,15 @@ When last we left our heroes, they had faced dangers and tricks to stand where t
 
 ### What does the World Know?
 
+#### CLEAN OOZE
+Breenabell 21
+Nala 21
+Jerran 20
+OOZE 8, 21, 36, 52, 62, 72
+Aramond
+Benjamin
+Yissa
+Ulfgar
 
 ### What happened?
 
