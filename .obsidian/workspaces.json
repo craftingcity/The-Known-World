@@ -1695,7 +1695,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 300,
+        "collapsed": true
       },
       "right": {
         "id": "22b1fb456ad17b5a",
@@ -1852,5 +1853,5 @@
       "active": "834ef8606b5f01cd"
     }
   },
-  "active": "Kailkeep"
+  "active": "The Old (MBeAD)"
 }
