@@ -9,15 +9,14 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-Name | Type | Damage | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Dam. | Cost in AC |
+| ---- | ---- | ---- | ---------- |
+| x    | x    |      |            |
+
 #### IMPORTED / FORGED
-Name | Type | Damage | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Dam. | Cost in AC |
+| ---- | ---- | ---- | ---------- |
+| x    | x    |      |            |
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -31,14 +30,12 @@ Name | Type | Damage | Cost in AC
 | -------------- | ------ | -------------- | --------- | ---------- |
 | Chitin Studded | Light  | 13+DEX         |           |            |
 | Chitin Mail    | Medium | 14+DEX (max 3) |           |            |
-|                |        |                |           |            |
 
 ### Ammunition
 #### SCAVANGED / REFIT
-Name | Type | Damage | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Dam. | Cost in AC |
+| ---- | ---- | ---- | ---------- |
+| x    | x    |      |            |
 
 #### IMPORTED / FORGED
 | Name   | Type | Dam. | Cost in AC |
@@ -48,24 +45,26 @@ Name | Type | Damage | Cost in AC
 
 ### Containers
 #### FLUID
-Name | Type | Space | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Space | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 #### SOLIDS
-Name | Type | Space | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Space | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 #### ARTIFACTS
-Name | Type | Space | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Space | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 ### Commodities
 #### DRUGS / ALCH
-Name | Type | Desc. | Cost in AC 
---- | ---
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 Cannabis | Eupho.
 Tabacco | Stimu.
 Smokebulb | Hallu.
@@ -75,37 +74,37 @@ Nova | Stimu.
 Dareanamon | Eupho.
 2 | A2 
 #### TROPHIES
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 ### Food
 #### LOCAL CUISINE
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 #### IMPORT CUISINE
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 #### SPICES
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 ### Information
 #### GUIDES
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 #### PATHS
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 ### Medical
 |                       |     |        |           |               |     |     |                   |
 | --------------------- | --- | ------ | --------- | ------------- | --- | --- | ----------------- |
@@ -114,14 +113,18 @@ Name | Type | Desc. | Cost in AC
 | Ambebamol             |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
 | Aerotide              |     | Gas    | Equipment | Transmutation |     |     | per gallon        |
 #### PROTECTION
-Name | Type | Desc. | Cost in AC 
---- | ---
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 Aerotide |
 Crotosine Vepian |
 2 | A2 
 #### HEALING
-Name | Type | Desc. | Cost in AC 
---- | ---
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
+
 Heamox Balm |
 Isiopara |
 Pretokarin |
@@ -129,7 +132,6 @@ Secreclude Propaterol |
 Ambebamol |
 2 | A2 
 #### RADIATION
-Name | Type | Desc. | Cost in AC 
---- | ---
-1 | A1 
-2 | A2 
+| Name | Type | Desc. | Cost in AC |
+| ---- | ---- | ----- | ---------- |
+| x    | x    |       |            |
