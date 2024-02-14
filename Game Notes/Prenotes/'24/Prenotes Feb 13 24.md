@@ -21,13 +21,13 @@ With Qiell's corpse on the floor, green steam bubbles and rises from the tanks s
 
 ### What does the World Know?
 
-###### TOWER FIGHT
+###### THE FIGHT CONTINUES
 .
-	Lich Kaliell - init 25, AC 17 (/260)
+	Lich Kaliell - init 25, AC 17 HP:(0 /260)
 will use teleport when i've gathered my phylactery and i'm bloodied
 *dr;* (cold, lightning, necro)
 *di;* (poison, non-magic weapon)
-*spells*
+*spells;*
 dc 20, +12 to hit
 1 -
 2 -
@@ -45,6 +45,11 @@ dc 20, +12 to hit
 	Tim - 12
 	Shu - 12
 	Ash - 7
+
+###### AFTER COMBAT
+I'm unsure of where they're planning to escape to, but we know that the two members of [[Agrandica's Thieves]] should report back with as much loot as they can carry. Given the lives lost, this mission can only be considered a failure in her eyes - a debt is owed. How they wish to pay this debt is mostly up to them, she requires resources of all variety, manpower inclusive - (but I have no prediction of how they would expand recruitment) - a shipment of Durandurm would be most desirable.
+
+
 
 ### What happened?
 
