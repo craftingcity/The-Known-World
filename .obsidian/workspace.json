@@ -4,200 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdf8cbbe1f73981",
+        "id": "b52b30bb70196318",
         "type": "tabs",
         "children": [
           {
-            "id": "c42d483366e9b122",
+            "id": "ce1132fa685ef56a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "The Gear...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":7},\"to\":{\"line\":111,\"ch\":4}},\"scroll\":61.95376027466686}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The People...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":15},\"to\":{\"line\":23,\"ch\":15}},\"scroll\":17.23345247370366}"
-                },
-                {
-                  "title": "The Holyl'nds",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Worldwide Calendar Systems",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/The Worldwide Calendar Systems.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":17.665132467390183}"
-                },
-                {
-                  "title": "Things Aren't Right Here...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":47},\"to\":{\"line\":7,\"ch\":47}},\"scroll\":0}"
-                },
-                {
-                  "title": "Firelight Sea",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Holyl'nds",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Northwestern Central",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":544,\"ch\":7},\"to\":{\"line\":544,\"ch\":7}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ]
-      },
-      {
-        "id": "162c3a0c71e93864",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "52e16180df48e772",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b2bfd94605d29b41",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The People...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":4}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "834ef8606b5f01cd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cd260187a8d3de12",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -318,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md"
               }
             }
           },
@@ -447,14 +278,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "834ef8606b5f01cd",
+  "active": "ce1132fa685ef56a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 06 24.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -467,12 +302,8 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Prenotes Feb 06 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 24 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",

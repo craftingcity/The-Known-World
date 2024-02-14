@@ -19,9 +19,11 @@ When last we left our heroes, they had breached the interior of the horrible Whi
 
 With Qiell's corpse on the floor, green steam bubbles and rises from the tanks surrounding Kalariel. A hiss rings out against the silence, as the chamber opens, and a rotten man steps forth... He raises his arms, and the room is filled with a dank yellow brown gas.
 
+
+
 ### What does the World Know?
 ###### THE FIGHT CONTINUES
-.
+(Cast *cloudkill* on 5th, then *spirit guardians* on 5th)
 	Lich Kaliell - init 25, AC 17 HP:(0 /260)
 will use teleport when i've gathered my phylactery and i'm bloodied
 *dr;* (cold, lightning, necro)
