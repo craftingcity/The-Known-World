@@ -22,11 +22,13 @@ With Qiell's corpse on the floor, green steam bubbles and rises from the tanks s
 ### What does the World Know?
 
 ###### TOWER FIGHT
-~~Qiell, AC 15 - 23 (+4, 8, 13, 16, 25, 35, 50)~~
-Lich Kaliell - init 25, AC 17 (/160)
-*dr* (cold, lightning, necro)
-*di* (poison, non-magic weapon)
-spell dc 20, +12 to hit
+.
+	Lich Kaliell - init 25, AC 17 (/260)
+will use teleport when i've gathered my phylactery and i'm bloodied
+*dr;* (cold, lightning, necro)
+*di;* (poison, non-magic weapon)
+*spells*
+dc 20, +12 to hit
 1 -
 2 -
 3 - 
@@ -36,13 +38,13 @@ spell dc 20, +12 to hit
 7 - 
 8 -
 9 -
-Dae Shim - 21
-Gringold - 20
-TILEMONDON TOWER - 20
-Cucu - 20
-Tim - 12
-Shu - 12
-Ash - 7
+	Dae Shim - 21
+	Gringold - 20
+	TILEMONDON TOWER - 20
+	Cucu - 20
+	Tim - 12
+	Shu - 12
+	Ash - 7
 
 ### What happened?
 
