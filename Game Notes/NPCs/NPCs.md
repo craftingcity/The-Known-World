@@ -15,6 +15,9 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Asmodeus]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
+- [[Courtney a'LeQuinn]]
+- [[Erika a'Valim]]
+- [[Gorebladder a'Nyrk]]
 - [[Hannah's Gnoll (NAME)]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
@@ -43,7 +46,10 @@ for the graph: [[Here lie my suppliments...]]
 		- **[[Kakurak's Chosen]]**
 	- **[[True Villian NPCs]]**
 - [[List of Names]]
+- [[Lou a'Locca]]
+- [[Marley Hurraquk]]
 - **Mild Power**
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Bullryk a'Dregsamony]]
@@ -51,6 +57,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Glirid a'Fingara]]
 		- [[Gooblot a'Chrim]]
 		- [[Gurrak a'Fen]]
+		- [[Hedwig a'Alden]]
 		- [[Janice Austra]]
 		- [[Jork a'Nyrk]]
 		- [[Kallo Vought]]
@@ -64,9 +71,11 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Yeirruk Fraim]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
+- [[Moses the Brave]]
 - [[Raam ben Yarom]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]

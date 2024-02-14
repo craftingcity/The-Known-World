@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bf333393879579",
+        "id": "d1d160b9fe651378",
         "type": "tabs",
         "children": [
           {
-            "id": "bea25d3445b39e60",
+            "id": "4db369fa289b60f5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -277,11 +277,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bea25d3445b39e60",
+  "active": "4db369fa289b60f5",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Buqyr.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 31 24.md",
     "APGtAv1.md",
-    "Game Notes/Prenotes/'24/Prenotes Feb 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 06 24.md",
     "conflict-files-obsidian-git.md",
@@ -303,9 +306,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 25 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 24 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Feb 09 24.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
