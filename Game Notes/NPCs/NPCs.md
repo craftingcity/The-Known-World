@@ -10,6 +10,7 @@ for the graph: [[Here lie my suppliments...]]
 - **Absolute Power**
 	- **[[Alaturmian God NPCs]]**
 	- [[All-Father Annam]]
+	- [[Annaraura]]
 	- **[[Demon Lord NPCs]]**
 	- **Devil Prince NPCs**
 		- [[Asmodeus]]

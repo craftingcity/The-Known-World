@@ -167,7 +167,8 @@ Some beings are so powerful that while they are not technically gods, as they ar
 #### The [[Queen of Swords]]
 The [[Queen of Swords]] rules the [[The Tower of Limbo|Tower]] of [[Limbo]]. She keeps the place clean and civil - and free of worship of any kind.
 
-#### [[Annaraura]], Daughter of Fate and Keeper of [[Elysium]]
+#### [[Annaraura]], Daughter of Fate and Keeper of [[Harmony]] and all [[Elysium]]
+[[Annaraura]] is the keeper of [[Harmony]], the collective souls of Good Faith, and the warden of all Elysium. She protects Elysium's layers from invasion and manages the plane's flamboyant pantheon of deities. 
 
 
 #### /*[[Mechanis]]*/
