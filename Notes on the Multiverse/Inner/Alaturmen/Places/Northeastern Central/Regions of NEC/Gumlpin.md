@@ -10,8 +10,18 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### Settlements
-#### Lairs
+#### N26.
+#### N27.
+#### N28.
+#### O26.
+#### O27.
+#### O28.
+#### P26.
+#### P27.
+#### Q27.
+#### R27.
+#### S27.
+#### T27.
 
 ## Tables
 ### Encounter

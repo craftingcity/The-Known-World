@@ -1,6 +1,6 @@
 ---
 tags: region
-aliases:
+aliases: 
 ---
 # Arthur's Prairie
 #### A sub-region of [[Northeastern Central]]
