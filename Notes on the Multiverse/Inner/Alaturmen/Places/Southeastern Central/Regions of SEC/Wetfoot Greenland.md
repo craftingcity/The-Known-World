@@ -2,9 +2,13 @@
 tags: region
 aliases:
 ---
-# Title
+# Wetfoot Greenland
 #### A sub-region of [[Southeastern Central]]
 ## Boundaries
+
 ## Contents
-### Potential Allies
-### Potential Threats
+### Flora
+### Scenarios
+#### W32.
+#### X32.
+#### Y32.
