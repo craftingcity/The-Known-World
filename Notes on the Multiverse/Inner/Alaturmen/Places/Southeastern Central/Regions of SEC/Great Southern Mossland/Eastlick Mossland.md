@@ -10,9 +10,13 @@ aliases:
 ### Scenarios
 #### Y29. Defaced & Trapped Boulder
 	- This small boulder has been defaced again and again for as long as it has existed by those who wish to carve something into stone.
-	- The area around the boulder is trapped with multiple simple long snare traps. A group of five gnoll come by to check for fresh catches every
-
-
+	- The area around the boulder is trapped with multiple simple long snare traps. A group of five gnoll come by to check for fresh catches every other night.
+#### Z32.
+#### AA32.
+#### AB32.
+#### AC32.
+#### AD32.
+#### AE32.
 #### AF28. Flower Maze
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 ####  AF32. Ground Swell
@@ -28,6 +32,9 @@ aliases:
 		- 78 gp of varying mint
 		- a large chunk of unprocessed azurite (appraised at 115sp)
 		- a leather vest tooled with draconic scales (25 gp), a rosewood bowl engraved with arcane runes (25 gp), a stoneware bowl embossed with elven script (25 gp), a flask of silver dust (25 gp, 5 lb), an ingot of iron (3 gp, 30 lb)
+#### AH32.
+#### AI32.
+#### AJ32.
 
 ## Tables
 ### Encounter
