@@ -1,6 +1,6 @@
 ---
 tags: folderfile, planes
-aliases:
+aliases: Nine Hells
 ---
 ## The Nine Hells of...
 # Baator
