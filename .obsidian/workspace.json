@@ -28,30 +28,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "00158952b997bdf6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9e5472c8052d95cd",
@@ -223,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           },
@@ -352,10 +330,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00158952b997bdf6",
+  "active": "10c85caaddada042",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
@@ -379,7 +358,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",

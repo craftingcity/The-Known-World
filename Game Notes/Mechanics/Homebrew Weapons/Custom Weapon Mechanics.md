@@ -33,7 +33,7 @@ If this weapon also has the Ammunition (X) tag, the number displayed in parenthe
 ### Light
 This weapon can be thrown for it's full weapon damage within 15' and half its full damage within 30'. When one attempts such an attack with this weapon, they make the attack roll with disadvantage - while this weapon can be thrown, this weapon is not necessarily solely purposed to do so.
 
-A wielder of this weapon may use their Dex modifier in place of their Str modifier when making weapon attacks with this weapon, if they wish to do so.
+A wielder of this weapon may chose to use their DEX used in place of their STR while making attack and damage rolls with this weapon.
 
 ### Quick
 A wielder of this weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.

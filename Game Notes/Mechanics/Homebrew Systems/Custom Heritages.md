@@ -67,7 +67,7 @@ People with a heavy Orcish heritage find themselves in possession of a powerfull
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
-- You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+- You count as one size larger when determining your carrying capacity, what weapons you may wield, and the weight you can push, drag, or lift.
 
 ## Dragonborn
 

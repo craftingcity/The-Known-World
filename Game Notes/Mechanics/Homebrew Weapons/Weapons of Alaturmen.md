@@ -15,14 +15,23 @@ Environmental Damage is the damage done to creatures as they are pushed into wal
 #### Knuckle Dusters
 Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 bludgeoning damage.
 
-Knuckle Dusters are *light*, *stashable*, and *finesse*.
+Knuckle Dusters are *light* and *stashable*. Once per rest, you may use the weapon's special ability; **Pummel**.
 
 #### Simple Club 
+Simple Clubs are sturdy shafts of simple and straight forward design that are easily crafted and wielded. Simple Clubs deal 1d4 bludgeoning damage.
+
+Simple Clubs are *light*. Once per rest, you may use this weapon's special ability; **Cross-lock Grab**.
+
 #### Mace
+Maces are characterized by their heavy head. Attached to a sturdy handle, the head is populated by ribs or spikes deliberately designed to cause damage through armors. Maces deal 2d4 bludgeoning damage.
+
+Maces are *heavy* and *versatile (d6)*. Once per rest, you may use this weapon's special ability; **Sunder**.
+
 #### Maul
 Mauls are crafted with a massive head atop a sturdy handle, and are generally designed to deliver devastating impact via leverage. Mauls deal 3d6 bludgeoning damage.
 
-Mauls are *two-handed*, *very heavy*
+Mauls are *two-handed* and *very heavy*. Once per rest, you may use this weapon's special ability; **Bash**.
+
 #### Carved Staff
 #### Capped Staff
 
