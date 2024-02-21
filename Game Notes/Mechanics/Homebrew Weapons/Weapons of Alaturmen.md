@@ -6,7 +6,7 @@ Melee weapons, unless otherwise stated, add STR to attack and and damage rolls, 
 #### Improvised Weapon
 Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". Improvised Weapons deal 1d4 weapon (slashing, bludgeoning, or piercing as applicable) damage.
 
-Within reason, most Improvised Weapons can be considered *light*.
+Within reason, most Improvised Weapons are *light*.
 
 #### Environmental Damage
 Environmental Damage is the damage done to creatures as they are pushed into walls, dropped into tables, and crushed beneath crates. Environmental Damage deals 1d6 bludgeoning damage.
@@ -15,11 +15,14 @@ Environmental Damage is the damage done to creatures as they are pushed into wal
 #### Knuckle Dusters
 Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 bludgeoning damage.
 
-Knuckle Dusters are considered *light*, *stashable*, and *finesse*.
+Knuckle Dusters are *light*, *stashable*, and *finesse*.
 
 #### Simple Club 
 #### Mace
 #### Maul
+Mauls are crafted with a massive head atop a sturdy handle, and are generally designed to deliver devastating impact via leverage. Mauls deal 3d6 bludgeoning damage.
+
+Mauls are *two-handed*, *very heavy*
 #### Carved Staff
 #### Capped Staff
 
