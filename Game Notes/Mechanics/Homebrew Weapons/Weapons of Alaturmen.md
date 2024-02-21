@@ -74,6 +74,12 @@ Metal Fans are considered *quick* and *finesse*.
 #### Reflex Bow
 #### Long Bow
 ##### Durandurm Operated
+#### Durandurm Handblaster
+#### Durandurm Longblaster
+#### Durandurm Repeater
+#### Durandurm Rotary Repeater
+#### Durandurm Scatterblaster
+#### Durandurm Cannon
 ##### Firepowder Operated
 
 ### Simple Ranged Ammunition
