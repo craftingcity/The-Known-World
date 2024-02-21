@@ -38,6 +38,8 @@ A wielder of this weapon may chose to use their DEX used in place of their STR w
 ### Quick
 A wielder of this weapon gains a +1 bonus to initiative scores while wielding this weapon, and, in the specific case of a tie in the initiative, a wielder gains an effective +2 to their Dex modifier during this comparison.
 
+You do not incur disadvantage while making ranged attacks while an opposing combatant is within 5 feet.
+
 ### Versatile (dX)
 This weapon can be held in two hands. The dice displayed in the parentheses directly after this tag display the Damage Dice when this weapon is wielded in two hands.
 
@@ -62,8 +64,6 @@ This weapon has a "reach" of roughly 10 feet, though exactly that much when perf
 ### Stashable
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
-### "Close"
-This weapon is designed to be useable as effectively in close-quarters as it is at-range. You do not incur disadvantage while making ranged attacks while an opposing combatant is within 5 feet.
 
 ### Thrown
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.

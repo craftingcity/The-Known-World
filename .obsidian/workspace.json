@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c84ada9a4a332d7",
+        "id": "3581e865590c0ea9",
         "type": "tabs",
-        "dimension": 46.55172413793103,
         "children": [
           {
-            "id": "03fb5c2fca8acde1",
+            "id": "4d06e27e1d88713a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,59 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e5472c8052d95cd",
-        "type": "tabs",
-        "dimension": 53.44827586206896,
-        "children": [
-          {
-            "id": "10c85caaddada042",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Who has a Horde",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "NPCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7543793957299417}"
-                },
-                {
-                  "title": "Combat Mechanics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.51554412573393}"
-                },
-                {
-                  "title": "Mechanics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -201,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md"
               }
             }
           },
@@ -330,7 +277,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10c85caaddada042",
+  "active": "4d06e27e1d88713a",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",

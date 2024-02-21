@@ -33,6 +33,10 @@ Mauls are crafted with a massive head atop a sturdy handle, and are generally de
 Mauls are *two-handed* and *very heavy*. Once per rest, you may use this weapon's special ability; **Bash**.
 
 #### Carved Staff
+Carved Staves are simple and elegant weapons, typically carved from the branch of a sturdy wood, they are most effectively used by a skilled fighter. Carved Staves deal 1d6 bludgeoning damage.
+
+Carved Staves are *versatile (d8)* and *long*.
+
 #### Capped Staff
 
 ##### Blades
