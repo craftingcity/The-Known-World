@@ -155,11 +155,14 @@ Please see the [[#Targeting Table]] below.
 
 As you perform a weapon attack, you may attempt to amputate an exposed organ or limb of a creature. Select a row of the [[#Targeting Table]]. If your attack beats the target's AC + your selection's DC, the part is "removed" and the corresponding effect is applied. 
 
+### Disarm
+When you hit with this weapon, you may attempt to disarm your opponent. Make an Athletics or Sleight of Hand check. Your target makes a Dexterity Saving Throw versus the total value of the roll. If they fail, they are disarmed and the object they are holding lands at your feet.
+
 ### Sweep
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures up to your proficiency bonus that in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Assail
-As a standard action, you may make a series of small, superficial attacks in an attempt to disorient then. Make an 
+As a standard action, you may make a series of small, superficial attacks in an attempt to disorient them. Make an attack roll. Your target makes a Dexterity saving throw versus the total value of the roll. If they fail, their AC is reduced by 4, and they have disadvantage on Strength and Dexterity Saving Throws.
 
 ### Cross-Lock Grab
 As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics for the purposes of maintaining the Grapple.
@@ -172,7 +175,7 @@ An effected target can make a contested Athletics check versus you as an action 
 ### Return
 When you miss with an attack with this weapon, it returns to you in an arc. You may recollect this weapon as a part of the weapon attack if you succeed on a DC12 Sleight of Hand check. If you fail this check, the weapon harmlessly lands within 5ft of you.
 
-You may always activate a weapon's Return Special, even if you have already activated it 
+You may always activate a weapon's Return Special, even if you have already activated it since your most recent rest.
 
 ### Pointtack
 Please see the [[#Targeting Table]] below.
