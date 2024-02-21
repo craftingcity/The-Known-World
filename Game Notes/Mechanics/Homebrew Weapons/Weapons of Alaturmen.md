@@ -75,19 +75,9 @@ Metal Fans are considered *quick* and *finesse*.
 #### Long Bow
 ##### Durandurm Operated
 #### Durandurm Handblaster
-#### Durandurm Longblaster
-#### Durandurm Repeater
-#### Durandurm Rotary Repeater
-#### Durandurm Scatterblaster
-#### Durandurm Cannon
 ##### Firepowder Operated
-
-### Simple Ranged Ammunition
-##### Stones
-##### Bolts
-##### Arrows
-##### Durandurm Operated
-##### Firepowder Operated
+#### Boltshot Firepowder Blaster
+#### Boltshot Firepowder Scatterblaster
 
 ### Martial Ranged Weapons
 #### Javelin
@@ -104,14 +94,25 @@ Metal Fans are considered *quick* and *finesse*.
 #### Recurve Bow
 #### Compound Bow
 ##### Durandurm Operated
+#### Durandurm Longblaster
+#### Durandurm Repeater
+#### Durandurm Rotary Repeater
+#### Durandurm Scatterblaster
+#### Durandurm Cannon
 ##### Firepowder Operated
+#### Firepowder Repeater
+#### Firepowder Rotary Repeater
+#### Firepowder Scatterblaster
+#### Firepowder Cannon
 
-### Martial Ranged Ammunition
+### Ranged Ammunition
 ##### Stones
 ##### Bolts
 ##### Arrows
-##### Durandurm Operated
-##### Firepowder Operated
+##### Durandurm Magazines
+
+##### Firepowder Shot
+
 
 ## Cultural Weaponry
 ## Specialized Weaponry
