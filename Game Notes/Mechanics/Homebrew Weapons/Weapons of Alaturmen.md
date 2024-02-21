@@ -7,11 +7,19 @@ Improvised Weapons are items and objects that are not traditionally seen or used
 Environmental Damage is the damage done to creatures as they are pushed into walls, dropped into tables, and crushed beneath crates. Environmental Damage deals 1d6 bludgeoning damage.
 
 #### Knuckle Dusters
-Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. 
+Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 + STR bludgeoning damage.
+
+Knuckle Dusters are considered *light* and *stashable*.
 
 #### Metal Fan
+Metal Fans are small sheets of metal sharpened to a blade on it's edge. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 + DEX slashing damage.
+
+#### Simple Club
 
 ### Martial Melee Weapons
+#### War Club
+#### Push Dagger
+
 ### Simple Ranged Weapons & Ammunition
 ### Martial Ranged Weapons & Ammunition
 ### Common Weave Patches
