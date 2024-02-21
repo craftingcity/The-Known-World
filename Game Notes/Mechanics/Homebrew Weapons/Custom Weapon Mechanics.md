@@ -45,6 +45,9 @@ Switching your blade-holding stance can be done as a free action on your turn so
 
 Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding this weapon with one hand.
 
+### Finesse
+This weapon is designed to be used by skill rather than force. A weilder's DEX is used in place of their STR while making attack and damage rolls with this weapon.
+
 ### Two-Handed
 This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
 
@@ -58,6 +61,9 @@ This weapon has a "reach" of roughly 10 feet, though exactly that much when perf
 
 ### Stashable
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
+
+### "Close"
+This weapon is designed to be useable as effectively in close-quarters as it is at-range. You do not incur disadvantage while making ranged attacks while an opposing combatant is within 5 feet.
 
 ### Thrown
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
@@ -152,6 +158,9 @@ As you perform a weapon attack, you may attempt to amputate an exposed organ or 
 ### Sweep
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures up to your proficiency bonus that in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
+### Assail
+As a standard action, you may make a series of small, superficial attacks in an attempt to disorient then. Make an 
+
 ### Cross-Lock Grab
 As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics for the purposes of maintaining the Grapple.
 
@@ -162,6 +171,8 @@ An effected target can make a contested Athletics check versus you as an action 
 
 ### Return
 When you miss with an attack with this weapon, it returns to you in an arc. You may recollect this weapon as a part of the weapon attack if you succeed on a DC12 Sleight of Hand check. If you fail this check, the weapon harmlessly lands within 5ft of you.
+
+You may always activate a weapon's Return Special, even if you have already activated it 
 
 ### Pointtack
 Please see the [[#Targeting Table]] below.

@@ -1,13 +1,17 @@
 ## Generic Weaponry
+Melee weapons, unless otherwise stated, add STR to attack and and damage rolls, while Ranged weapons use DEX for those rolls.
+
 ### Simple Melee Weapons
 #### Improvised Weapon
-Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". Improvised Weapons deal 1d4 + STR weapon (slashing, bludgeoning, or piercing as applicable) damage.
+Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". Improvised Weapons deal 1d4 weapon (slashing, bludgeoning, or piercing as applicable) damage.
+
+Within reason, most Improvised Weapons can be considered *light*.
 
 #### Environmental Damage
 Environmental Damage is the damage done to creatures as they are pushed into walls, dropped into tables, and crushed beneath crates. Environmental Damage deals 1d6 bludgeoning damage.
 
 #### Knuckle Dusters
-Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 + STR bludgeoning damage.
+Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 bludgeoning damage.
 
 Knuckle Dusters are considered *light* and *stashable*.
 
