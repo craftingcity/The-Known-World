@@ -15,10 +15,13 @@ Knuckle Dusters are considered *light* and *stashable*.
 Metal Fans are small sheets of metal sharpened to a blade on it's edge. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 + DEX slashing damage.
 
 #### Simple Club
+#### Light Dagger
+#### Heavy Dagger
 
 ### Martial Melee Weapons
 #### War Club
 #### Push Dagger
+#### 
 
 ### Simple Ranged Weapons & Ammunition
 ### Martial Ranged Weapons & Ammunition
