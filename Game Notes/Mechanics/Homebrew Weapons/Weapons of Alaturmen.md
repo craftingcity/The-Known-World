@@ -20,7 +20,8 @@ Knuckle Dusters are considered *light*, *stashable*, and *finesse*.
 #### Simple Club 
 #### Mace
 #### Maul
-#### Staff
+#### Carved Staff
+#### Capped Staff
 
 ##### Blades
 #### Metal Fan
@@ -63,24 +64,49 @@ Metal Fans are considered *quick* and *finesse*.
 
 ### Simple Ranged Weapons
 ##### Stones
+#### Sling
+#### Sling Staff
+##### Bolts
+#### Light Crossbow
+#### Hand Crossbow
+##### Arrows
+#### Short Bow
+#### Reflex Bow
+#### Long Bow
+##### Durandurm Operated
+##### Firepowder Operated
+
+### Simple Ranged Ammunition
+##### Stones
 ##### Bolts
 ##### Arrows
 ##### Durandurm Operated
 ##### Firepowder Operated
 
-### 
-
-### Martial Ranged Weapons & Ammunition
+### Martial Ranged Weapons
 #### Javelin
+#### Bolas
 #### Throwing Blade
 #### Throwing Axe
 #### Boomerang
 ##### Stones
+#### Pellet Crossbow
 ##### Bolts
-#### 
+#### Heavy Crossbow
+#### Repeating Crossbow
+##### Arrows
+#### Recurve Bow
+#### Compound Bow
+##### Durandurm Operated
+##### Firepowder Operated
+
+### Martial Ranged Ammunition
+##### Stones
+##### Bolts
 ##### Arrows
 ##### Durandurm Operated
 ##### Firepowder Operated
-### Common Weave Patches
+
 ## Cultural Weaponry
 ## Specialized Weaponry
+## Common Weave Patches
