@@ -73,4 +73,4 @@ magical items
 - [[Faction Turn]]
 
 dear gavs-hosue;
-hey yall, i had lots of fun tonight, but i feel compelled to say that i found it very hard to focus and hear, especially as the volume and frequency of side-conversations and off-turn questions raised.
+hey yall, i had lots of fun tonight, but i feel compelled to say that i found it very hard to focus and hear, especially as the volume and frequency of side-conversations and off-turn questions raised as the night progressed. 
