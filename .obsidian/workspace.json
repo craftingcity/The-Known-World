@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3581e865590c0ea9",
+        "id": "570a513ee8391d20",
         "type": "tabs",
         "children": [
           {
-            "id": "4d06e27e1d88713a",
+            "id": "211cadec381e3cac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,28 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e4ff5900579d5b7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               }
@@ -168,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md"
+                "file": "A Grand Notepad.md"
               }
             }
           },
@@ -297,7 +276,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "211cadec381e3cac",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
