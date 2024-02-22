@@ -44,7 +44,7 @@ dc 20, +12 to hit
 	TILEMONDON TOWER - 20
 	Cucu - 20
 	Tim - 12 (paralyzed)
-	Shu - 12
+	~~Shu - 12~~
 	Ash - 7
 
 ###### AFTER COMBAT
