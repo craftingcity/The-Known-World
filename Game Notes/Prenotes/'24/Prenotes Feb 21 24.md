@@ -24,7 +24,7 @@ With Qiell's corpse on the floor, green steam bubbles and rises from the tanks s
 ### What does the World Know?
 ###### THE FIGHT CONTINUES
 (Cast *cloudkill* on 5th, then *spirit guardians* on 5th)
-	Lich Kaliell - init 25, AC 17 HP:(0 /260)
+	Lich Kaliell - init 25, AC 17 HP:(0, 11 /260)
 will use teleport when i've gathered my phylactery and i'm bloodied
 *dr;* (cold, lightning, necro)
 *di;* (poison, non-magic weapon)
@@ -43,7 +43,7 @@ dc 20, +12 to hit
 	Gringold - 20
 	TILEMONDON TOWER - 20
 	Cucu - 20
-	Tim - 12
+	Tim - 12 (paralized)
 	Shu - 12
 	Ash - 7
 
