@@ -6,9 +6,9 @@ aliases:
 ## Grand Pooh-bah of [[Wychway]]
 ### he/him
 
-> A tall and powerful goliath 
+> A tall and powerful goliath man 
 
-A description of their function in the world.
+A description of their function in the world. He wears layers of furs, hides, and metal chainmail. His visible skin, of which there is much, is covered in thick black lines of tattoo and many deep healing scars.
 
 ## Roleplaying
 ### Quote
