@@ -55,6 +55,8 @@ Moses has been schmoovin in [[Wychway]] with [[Jorrin Bearscarred]], and has man
 
 The Demons have taken Beacon, and hold the South Road in [[The Democratic Combine of Peoples]]. [[Baron Xuiop]] is dead, and [[Baron Avory]] has retreated to [[Barkryn]]. The Coalition have since called for an [[Emergency Communicae c. 105AF]] on the 20th in attempts to unite an effort against the demonic invaders, much as they did the Giants two years before.
 
+
+
 ### What happened?
 
 

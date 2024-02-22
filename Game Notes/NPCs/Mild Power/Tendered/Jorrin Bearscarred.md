@@ -4,9 +4,9 @@ aliases:
 ---
 # Jorrin Fourin Bearscarred
 ## Grand Pooh-bah of [[Wychway]]
-### pronouns
+### he/him
 
-> Boxtext for an action, outfit, and a physical trait.
+> A tall and powerful goliath 
 
 A description of their function in the world.
 
@@ -19,7 +19,11 @@ A description of their function in the world.
 #### Early Life
 Born to Braum Bearscarred, Jorrin was raised to become his father's replacement. Braum raised Jorrin communally, as is the way in this city, and Jorrin found joy in his duties to his community.
 
-As he became of age, he joined by his Father's side as council, reviewing and discussing the decisions his Father made.
+As he became of age, he joined by his Father's side as council, reviewing and discussing the decisions his Father made. By Jorrin's 25th year, he was a respected voice within his community. 
+
+In the 77th year After the Fall, Braum passed peacefully, and Jorrin inherited the responsibilities of Grand Pooh-bah.
+
+
 
 
 ## Important Knowledge
