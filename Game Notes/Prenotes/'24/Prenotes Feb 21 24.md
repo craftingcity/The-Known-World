@@ -53,7 +53,7 @@ I'm unsure of where they're planning to escape to, but we know that the two memb
 Moses has been schmoovin in [[Wychway]] with [[Jorrin Bearscarred]], and has managed to set an introduction for the two, less than formally of course, but he is hopeful for the future.
 	- Relevant to this group, this moves Arthur much closer towards honoring his deal with the Bulls regarding a genuine assault on [[The Church of the White Flame]].
 
-The Demons have taken Beacon, and hold the South Road in [[The Democratic Combine of Peoples]].
+The Demons have taken Beacon, and hold the South Road in [[The Democratic Combine of Peoples]]. [[Baron Xuiop]] is dead, and [[Baron Avory]] has retreated to [[Barkryn]]. The Coalition have since called for an [[Emergency Communicae c. 105AF]] on the 20th in attempts to unite an effort against the demonic invaders, much as they did the Giants two years before.
 
 ### What happened?
 
