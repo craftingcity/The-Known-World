@@ -31,6 +31,9 @@ Benjamin tenses before speaking; "I don't think the Kobolds did this..."
 
 See [[d_ Chapter Six - Level Five; Pick-up Sticks]]
 
+Running Mercy;
+This place is desolate. There are not good times to be had. There is only survival. People make hard choices, even here. While it is safer here, people fight, and gangs raid. There are maybe 12 "guards", or 11 Marshalls and a Captain in this case, meaning that in most cases, people defend themselves or form militias when necessary.
+
 ### What happened?
 
 
