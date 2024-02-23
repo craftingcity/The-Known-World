@@ -1,0 +1,37 @@
+---
+tags:
+  - notes
+aliases:
+---
+
+# Prenotes for January 22nd
+## Party of Interest: [[Sarahouse Game]]
+- [ ] DM Screen
+- [ ] Notepaper
+- [ ] Prep
+	- [ ] maps?
+	- [ ] encounters / monsters?
+	- [ ] intro / recap?
+
+### Intro
+
+When last we left our heroes, they had ascended from the first of many levels of the hellish entertainment citadel known as [[Kailkeep]].
+
+From Red Rover, to Four Corners, to Pick-Up Sticks in the form of beautiful gold and ruby token-cards, the Kobold Masters of this place seem to have a fascination with simple games gone horribly wrong.
+
+You have gathered three companions, two "Pick-Up Sticks" cards, and many wounds on your way to where you stand now; you are at the end of a hall facing a large room. This room has a set of reinforced stone doors behind significant defenses, above which a large plate of wood that has the word "MERCY" carved into it.
+
+There is no obvious traps here, no plates or tripwires, no tubes in the walls, but rather this place seems to be a series of forward defenses for whatever "MERCY" is.
+
+Benjamin tenses before speaking; "I don't think the Kobolds did this..."
+
+
+
+### What does the World Know?
+
+See [[d_ Chapter Six - Level Five; Pick-up Sticks]]
+
+### What happened?
+
+
+We leave our heroes on the date of ... AF, as they ...
