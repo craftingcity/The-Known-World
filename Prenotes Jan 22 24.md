@@ -49,4 +49,7 @@ BLUE B
 BLUE C
 
 
+
+they entered, slept, talked with folks & made potions and stuff, bought tokens, slept, then left
+
 We leave our heroes on the date of ... AF, as they ...
