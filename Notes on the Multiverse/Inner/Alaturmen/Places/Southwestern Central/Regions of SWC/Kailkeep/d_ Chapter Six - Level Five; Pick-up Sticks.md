@@ -76,5 +76,5 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - The Foundry (& Transmutation Chambers)
 - The Bar (& Hospital)
 - The Arena
-- The Farms
+- The Farms, Statue of Jerran the Grower
 - The Training Grounds & Barracks

@@ -48,7 +48,10 @@ Ulfgar 7
 BLUE B
 BLUE C
 
-
+polypore (x1)
+wurm fang (x10)
+alum (x1)
+liquor (8)
 
 they entered, slept, talked with folks & made potions and stuff, bought tokens, slept, then left
 
