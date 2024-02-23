@@ -35,6 +35,18 @@ Running Mercy;
 This place is desolate. There are not good times to be had. There is only survival. People make hard choices, even here. While it is safer here, people fight, and gangs raid. There are maybe 12 "guards", or 11 Marshalls and a Captain in this case, meaning that in most cases, people defend themselves or form militias when necessary.
 
 ### What happened?
+##### FIGHTING MERCY
+
+Breenabell 23
+Aramond 21
+Yissa 19
+Jerran 16
+BLUE A
+Nala 12
+Benjamin 8
+Ulfgar 7
+BLUE B
+BLUE C
 
 
 We leave our heroes on the date of ... AF, as they ...
