@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "22c82aa3c66bf1f3",
+        "id": "b442e7e2a75981f7",
         "type": "tabs",
+        "dimension": 64.98447204968944,
         "children": [
           {
-            "id": "fe57a424b8006328",
+            "id": "2d8f0e3807f8161b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,42 +23,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jan 22 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49313de046d32bcb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "75a83ccd8b631be5",
+        "id": "5b2ea506be0c30af",
         "type": "tabs",
+        "dimension": 35.01552795031056,
         "children": [
           {
-            "id": "d7b884daa14eadbb",
+            "id": "487218a87ea882fe",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -71,77 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6baba6222ab6d5f7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "08eb6f14e58b7f65",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e3353782af426e13",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           },
@@ -390,22 +306,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49313de046d32bcb",
+  "active": "2d8f0e3807f8161b",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Prenotes Jan 22 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-    "Game Notes/NPCs/List of Names.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
     "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Emergency Communicae c. 105AF.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "Game Notes/NPCs/NPCs.md",

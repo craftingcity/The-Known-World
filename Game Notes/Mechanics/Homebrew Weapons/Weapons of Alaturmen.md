@@ -20,7 +20,7 @@ Knuckle Dusters are *light* and *stashable*. Once per rest, you may use the weap
 #### Simple Club 
 Simple Clubs are sturdy shafts of simple and straight forward design that are easily crafted and wielded. Simple Clubs deal 1d4 bludgeoning damage.
 
-Simple Clubs are *light*. Once per rest, you may use this weapon's special ability; **Cross-lock Grab**.
+Simple Clubs are *quick* and *light*. Once per rest, you may use this weapon's special ability; **Cross-lock Grab**.
 
 #### Mace
 Maces are characterized by their heavy head. Attached to a sturdy handle, the head is populated by ribs or spikes deliberately designed to cause damage through armors. Maces deal 2d4 bludgeoning damage.
@@ -35,17 +35,21 @@ Mauls are *two-handed* and *very heavy*. Once per rest, you may use this weapon'
 #### Carved Staff
 Carved Staves are simple and elegant weapons, typically carved from the branch of a sturdy wood, they are most effectively used by a skilled fighter. Carved Staves deal 1d6 bludgeoning damage.
 
-Carved Staves are *versatile (d8)* and *long*.
+Carved Staves are *quick*, *versatile (d8)* and *long*.
 
 #### Capped Staff
+Capped Staves are a simple improvement on the design of the Carved Staff, electing to sacrifice mobility for increased striking power. Capped Staves deal 2d4 bludgeoning damage.
+
+Capped Staves are *versatile (d6)* and *long*.
 
 ##### Blades
 #### Metal Fan
 Metal Fans are small sheets of metal sharpened to a blade on it's edge. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 + DEX slashing damage.
 
-Metal Fans are considered *quick* and *finesse*.
+Metal Fans are *quick* and *finesse*.
 
 #### Light Dagger
+
 #### Heavy Dagger
 #### Shortsword
 #### Handaxe

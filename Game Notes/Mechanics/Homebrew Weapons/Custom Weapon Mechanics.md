@@ -64,7 +64,6 @@ This weapon has a "reach" of roughly 10 feet, though exactly that much when perf
 ### Stashable
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
-
 ### Thrown
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
