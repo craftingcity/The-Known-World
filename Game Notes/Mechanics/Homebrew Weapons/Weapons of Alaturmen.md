@@ -59,9 +59,14 @@ Heavy Daggers are small blades built with the intent that it is used both offens
 Once per rest, you may use this weapon's special ability;
 
 #### Shortsword
-Shortswords are blades designed to be wielded in 
+Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. Shortswords deal 1d6 slashing or piercing damage.
+
+Shortswords are *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
+Handaxes are the most common tool-turned-weapon. Designed to carve chunks from tougher material than flesh, the handaxe is a brutal weapon when used effectively. Handaxes deal 2d4 slashing damage.
+
+Handaxes are *heavy*
 ### Martial Melee Weapons
 ##### Blunts
 #### War Club
@@ -145,7 +150,8 @@ Shortswords are blades designed to be wielded in
 
 ## Cultural Weaponry
 ## Specialized Weaponry
-### Arcane Implements
-### Divine Implements
-### Elemental Implements
+### Weave-Manipulation Instruments
+#### Arcane Implement
+#### Divine Implement
+#### Elemental Implement
 ## Common Weave Patches

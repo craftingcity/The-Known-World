@@ -5,15 +5,13 @@ aliases:
 
 # Weapon Damage Rules Changes
 ### Bludgeoning
-When you miss with an attack that would deal bludgeoning damage, if the attack missed by two or less, you may deal half damage of the attack anyway.
-
-> This is intended to *simulate* the idea that even when I cannot pierce your armor, a bludgeoning weapon does not necessarily have to to still hurt like fuck.
+When you miss with an attack that would deal bludgeoning damage, if the attack missed by two or less, you may deal half damage of the attack anyway. 
 
 ### Piercing
 When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an additional 1d4 damage.
 
 ### Slashing
-When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d6 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply one stack of Bleed.
+When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d8 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply half the value of the value rolled as stacks of Bleed.
 
 At the beginning of a Bleeding creatures turn, they take 1d4 slashing damage per stack of Bleed they have.
 
