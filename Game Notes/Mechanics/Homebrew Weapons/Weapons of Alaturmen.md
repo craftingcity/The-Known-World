@@ -66,7 +66,8 @@ Shortswords are *heavy*. Once per rest, you may use this weapon's special abilit
 #### Handaxe
 Handaxes are the most common tool-turned-weapon. Designed to carve chunks from tougher material than flesh, the handaxe is a brutal weapon when used effectively. Handaxes deal 2d4 slashing damage.
 
-Handaxes are *heavy*
+Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
+
 ### Martial Melee Weapons
 ##### Blunts
 #### War Club

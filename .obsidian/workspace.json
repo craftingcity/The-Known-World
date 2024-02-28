@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "42ef8069cda85479",
+        "id": "a264623a63c6ff1a",
         "type": "tabs",
-        "dimension": 70.1923076923077,
+        "dimension": 61.943319838056674,
         "children": [
           {
-            "id": "ef37e6bafaf3eb1d",
+            "id": "90c444cf238baf07",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -32,12 +32,12 @@
         ]
       },
       {
-        "id": "09a99cf904fd6a5d",
+        "id": "2f91cfb182ecc838",
         "type": "tabs",
-        "dimension": 29.807692307692307,
+        "dimension": 38.05668016194332,
         "children": [
           {
-            "id": "f84cc8eb5045192a",
+            "id": "1f917509c7eb4e63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
               }
             }
           },
@@ -306,10 +306,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f84cc8eb5045192a",
+  "active": "90c444cf238baf07",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Feb 28 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Harvord Trading Company.md",
