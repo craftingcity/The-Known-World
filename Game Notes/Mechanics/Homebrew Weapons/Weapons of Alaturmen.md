@@ -44,11 +44,12 @@ Capped Staves are *versatile (d6)* and *long*.
 
 ##### Blades
 #### Metal Fan
-Metal Fans are small sheets of metal sharpened to a blade on it's edge. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 + DEX slashing damage.
+Metal Fans are small sheets of metal sharpened to a blade on it's edge carried in a safe, flip-open container. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 slashing damage.
 
 Metal Fans are *quick* and *finesse*.
 
 #### Light Dagger
+Light Daggers are 
 
 #### Heavy Dagger
 #### Shortsword
