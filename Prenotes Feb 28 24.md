@@ -21,7 +21,9 @@ His response resulted in his death, for the first time. You handily defeated him
 
 He was horrible. He moved too fast. He ripped flesh with his hands as he confidently floated himself out of the building, but not before reducing the body of Shu Ameda to a fine ash. 
 
-His escape would have Cucu disappear alongside him. 
+His escape would have Cucu disappear alongside him. In the minutes that followed, she was cast into a cold black nothing. It felt like an eternity. And then it was over, and she was shunted back into the light, bright and warm, she falls to the dirt where she stood as a giant ape only a minute before.
+
+The townsfolk have taken notice of you. Hushed words and pointed fingers arrive in your direction. What do you do?
 
 ### What does the World Know?
 
