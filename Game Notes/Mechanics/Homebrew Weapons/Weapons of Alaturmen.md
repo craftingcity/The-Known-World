@@ -145,4 +145,7 @@ Shortswords are blades designed to be wielded in
 
 ## Cultural Weaponry
 ## Specialized Weaponry
+### Arcane Implements
+### Divine Implements
+### Elemental Implements
 ## Common Weave Patches
