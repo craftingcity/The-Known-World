@@ -35,28 +35,32 @@ Mauls are *two-handed* and *very heavy*. Once per rest, you may use this weapon'
 #### Carved Staff
 Carved Staves are simple and elegant weapons, typically carved from the branch of a sturdy wood, they are most effectively used by a skilled fighter. Carved Staves deal 1d6 bludgeoning damage.
 
-Carved Staves are *quick*, *versatile (d8)* and *long*.
+Carved Staves are *quick*, *versatile (d8)* and *long*. Once per rest, you may use this weapon's special ability;
 
 #### Capped Staff
 Capped Staves are a simple improvement on the design of the Carved Staff, electing to sacrifice mobility for increased striking power. Capped Staves deal 2d4 bludgeoning damage.
 
-Capped Staves are *versatile (d6)* and *long*.
+Capped Staves are *versatile (d6)* and *long*. Once per rest, you may use this weapon's special ability;
 
 ##### Blades
 #### Metal Fan
 Metal Fans are small sheets of metal sharpened to a blade on it's edge carried in a safe, flip-open container. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 slashing damage.
 
-Metal Fans are *quick* and *finesse*.
+Metal Fans are *quick* and *finesse*. Once per rest, you may use this weapon's special ability;
 
 #### Light Dagger
-Light Daggers are small metal blades of any kind. Most light daggers, or "knives", are personal to their user, and are kept at hand or within reach at all times. Light Daggers deal 1d4 slashing or piercing damage.
+Light Daggers are small metal blades of any kind. Most light daggers, or "knives", are personal to their user, and are kept at hand or within reach at all times to be used in simple daily tasks. Light Daggers deal 1d4 slashing or piercing damage.
 
-Light Daggers are *light*, *quick*, and *stashable*.
+Light Daggers are *light*, *quick*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 #### Heavy Dagger
-Heavy Daggers are small blades built with the intent that it is used both offensively and defensively in combat over long periods of continued conflict. 
+Heavy Daggers are small blades built with the intent that it is used both offensively and defensively in combat over long periods of continued conflict. Heavy Daggers deal 1d6 slashing or piercing damage.
+
+Once per rest, you may use this weapon's special ability;
 
 #### Shortsword
+Shortswords are blades designed to be wielded in 
+
 #### Handaxe
 ### Martial Melee Weapons
 ##### Blunts
