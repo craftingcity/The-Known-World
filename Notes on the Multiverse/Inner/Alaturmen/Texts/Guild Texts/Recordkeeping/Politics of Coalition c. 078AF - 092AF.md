@@ -1,8 +1,14 @@
 ---
-tags: text
+tags:
+  - text
 aliases:
 ---
-by [[Adriana Fairlin Franx]]
+### Foreword
+# Title
+### Subtitle, if applicable
+## [[Adriana Fairlin Franx]]
+
+## Index
 
 ### 078AF
 

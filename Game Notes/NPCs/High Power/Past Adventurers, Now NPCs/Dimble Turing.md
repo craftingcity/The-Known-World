@@ -2,11 +2,12 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
+# Dimble Turing
+## Minor Adventurer
+## Doctor of Arcana
+### he/him
 
-> Boxtext for an action, outfit, and a physical trait.
+> A kind furry halfling man wears a fitted and silver lined lab-coat. He wears a set of protective goggles atop his head, and he strides forth with determination.
 
 A description of their function in the world.
 

@@ -7,9 +7,9 @@ aliases:
 ## Doctor of Arcana
 ### he/him
 
-> A tiny scrawny bag of bones and skin scampers forth with an uncontainable curiosity. He wears a white coat lined and buttoned 
+> A tiny scrawny bag of bones and skin scampers forth with an uncontainable curiosity. He wears a white coat lined and buttoned in silver that overwhelms his tiny frame. 
 
-A description of their function in the world.
+Scree'up is the academic partner of [[Dimble Turing]]. 
 
 ## Roleplaying
 ### Quote
