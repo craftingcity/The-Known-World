@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e91f3dfa8bdb678",
+            "id": "7eb8aff9fe9fef9a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,16 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Guild Leaders",
+                  "title": "Northeastern Central",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Leaders.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.108117940396605}"
                 }
               ]
             },
@@ -37,7 +31,7 @@
             }
           },
           {
-            "id": "c15a7638b4cf03b7",
+            "id": "ee924797177491ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,61 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics of Coalition c. 093AF - XXXAF.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "520dfb34c8fe7a3b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Politics of Coalition c. 078AF - 092AF",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Politics of Coalition c. 078AF - 092AF.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7eb8aff9fe9fef9a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flask",
+                "query": "harvord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -225,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +237,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+              }
             }
           },
           {
@@ -350,12 +300,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e91f3dfa8bdb678",
+  "active": "ee924797177491ab",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Politics of Coalition c. 078AF - 092AF.md",
-    "Politics of Coalition c. 093AF - XXXAF.md",
+    "Harvord Trading Company.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
+    "Hoggak Cander-Wheernat.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md",
+    "Politics of Coalition c. 093AF - XXXAF.md",
+    "APGtAv1.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Politics of Coalition c. 078AF - 092AF.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Dimble Turing.md",
     "Scree'up.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Leaders.md",
@@ -374,11 +329,6 @@
     "Game Notes/Prenotes/'24/Prenotes Feb 21 24.md",
     "Game Notes/NPCs/Mild Power/Tendered/Jorrin Bearscarred.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Emergency Communicae c. 105AF.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Who has a Horde.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
