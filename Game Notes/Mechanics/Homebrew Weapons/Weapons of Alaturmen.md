@@ -2,6 +2,8 @@
 Melee weapons, unless otherwise stated, add STR to attack and and damage rolls, while Ranged weapons use DEX for those rolls.
 
 ### Simple Melee Weapons
+Simple weapons can be used by most people. There is no extensive training required to safely handle the weapon, and it is simple enough to produce on a large scale.
+
 ##### Natural
 #### Improvised Weapon
 Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". Improvised Weapons deal 1d4 weapon (slashing, bludgeoning, or piercing as applicable) damage.
@@ -64,13 +66,16 @@ Shortswords are blades designed to be wielded in one hand during long-term comba
 Shortswords are *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
-Handaxes are the most common tool-turned-weapon. Designed to carve chunks from tougher material than flesh, the handaxe is a brutal weapon when used effectively. Handaxes deal 2d4 slashing damage.
+Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly as it enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. Handaxes deal 2d4 slashing damage.
 
 Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Melee Weapons
+Martial Weapons are designed for a trained soldier to wield. To effectively use a Martial weapon, significant practice or experience is required.
+
 ##### Blunts
 #### War Club
+
 #### Warhammer
 #### Warpick
 #### Flail
