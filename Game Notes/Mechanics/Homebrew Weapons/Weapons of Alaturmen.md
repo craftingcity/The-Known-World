@@ -49,9 +49,13 @@ Metal Fans are small sheets of metal sharpened to a blade on it's edge carried i
 Metal Fans are *quick* and *finesse*.
 
 #### Light Dagger
-Light Daggers are 
+Light Daggers are small metal blades of any kind. Most light daggers, or "knives", are personal to their user, and are kept at hand or within reach at all times. Light Daggers deal 1d4 slashing or piercing damage.
+
+Light Daggers are *light*, *quick*, and *stashable*.
 
 #### Heavy Dagger
+Heavy Daggers are small blades built with the intent that it is used both offensively and defensively in combat over long periods of continued conflict. 
+
 #### Shortsword
 #### Handaxe
 ### Martial Melee Weapons
