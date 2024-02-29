@@ -38,5 +38,17 @@ The Church's armies in [[Yagil]] and [[Odaya]] have been formally mobilized to f
 
 ### What happened?
 
+##### Insurgent Killteam
+Killteam 21
+A
+B
+C
+D
+G
+Timotheous
+Gringold
+Dae Shim 
+Ash 
+Cucu 
 
 We leave our heroes on the date of ... AF, as they ...
