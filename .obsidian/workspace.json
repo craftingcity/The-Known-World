@@ -17,13 +17,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Weapons of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":14},\"to\":{\"line\":78,\"ch\":14}},\"scroll\":71.66653813789932}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Prenotes Feb 28 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -177,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Prenotes Feb 28 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Prenotes Feb 28 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+                "file": "Prenotes Feb 28 24.md"
               }
             }
           },
@@ -308,8 +314,8 @@
   },
   "active": "90c444cf238baf07",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Prenotes Feb 28 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Harvord Trading Company.md",

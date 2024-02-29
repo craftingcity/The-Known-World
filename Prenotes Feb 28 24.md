@@ -26,7 +26,9 @@ His escape would have Cucu disappear alongside him. In the minutes that followed
 The townsfolk have taken notice of you. Hushed words and pointed fingers arrive in your direction. What do you do?
 
 ### What does the World Know?
+The biggest world events in the week of 15th include the meeting of [[Jorrin Bearscarred]] and [[Arthur Simonson]], the fall of [[Beacon]] and the South-East of the Combine, and the to-be Communicae of the Coalition's representatives.
 
+[[Kaliqeill, Lich of Orcus]] departed to his tower in [[Thanatos]], where he will gather strength and ingredients before returning to conquer [[Coalition City]]. 
 
 ### What happened?
 
