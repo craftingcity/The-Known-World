@@ -30,7 +30,7 @@ The biggest world events in the week of 15th include the meeting of [[Jorrin Bea
 
 The Wizards of the Council of Mages will all be unable to attend - excepting [[The Wizard In Blue]], who has yet to leave [[Coalition City]] and will be present. [[Alergra Barrowinch]] is making personal preparations for combating [[Hannah's Demon (Celaena)]] alongside [[Sarahouse Game|The Hatdroppers]]. [[Nicolas Talaveem]] and [[Pirre Tald]] have returned to their towers before they will set off for [[Kamarios]] in an attempt to recognize what [[Qiell Tilemundon]] is doing; becoming a lich.
 
-[[Kaliqeill, Lich of Orcus]] departed to his tower in [[Thanatos]], where he will gather strength and ingredients before returning to conquer [[Coalition City]].
+[[Kaliqeill, Lich of Orcus]] departed to his tower in [[Thanatos]], where he will gather strength and ingredients before returning to conquer [[Coalition City]]. He Banished Cucu after marking her with a Hex.
 
 The [[Golden Claws]] have been vigorously defended [[The Golden City]] and [[Tetrimoc's Blessings]] from both roaming nomads and thief raids, leaving [[Kickoff]] to become more and more influenced by the Thieves of the desert.
 
