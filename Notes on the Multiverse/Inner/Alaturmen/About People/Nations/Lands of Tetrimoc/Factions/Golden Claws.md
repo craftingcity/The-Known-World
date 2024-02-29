@@ -18,6 +18,10 @@ The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands
 - [[]] ; Mine Baron / Metal Control
 - [[]] ; Wyvern Keeper / Wyvern Control
 - [[]] ; District Manager / Wealth Control
+
+### The Black Hand Killteams
+In the bowels of the Golden City, there are many rough and tough young and unmissed children who have been indocr
+### The Golden Claw Guard
 ## Culture
 #### Heritage
 #### Language
