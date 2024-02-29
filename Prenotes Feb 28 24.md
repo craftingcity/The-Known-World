@@ -39,12 +39,12 @@ The Church's armies in [[Yagil]] and [[Odaya]] have been formally mobilized to f
 ### What happened?
 
 ##### Insurgent Killteam
-Killteam 21
-A
-B
-C
-D
-G
+Killteam 21 (AC 17, 55 HP)
+A 4
+B 2
+C 8, 17, 28, 36, 40
+D 2
+G 4
 Timotheous
 Gringold
 Dae Shim 
