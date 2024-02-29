@@ -27,8 +27,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ecb8ef01c47dcc9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d42a687a4abfe916",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Feb 28 24.md",
+                "file": "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Feb 28 24.md",
+                "file": "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Feb 28 24.md"
+                "file": "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md"
               }
             }
           },
@@ -277,15 +320,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d45d795d52190fb9",
+  "active": "d42a687a4abfe916",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Prenotes Feb 28 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Wheel Ward.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Iron Ward.md",
     "Ivory Ward.md",
     "Moss Ward.md",
-    "Prenotes Feb 28 24.md",
     "Stone Ward.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
     "Jade Ward.md",
@@ -304,7 +348,6 @@
     "Hoggak Cander-Wheernat.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md",
-    "Politics of Coalition c. 093AF - XXXAF.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
