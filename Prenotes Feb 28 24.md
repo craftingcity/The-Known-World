@@ -40,9 +40,9 @@ The Church's armies in [[Yagil]] and [[Odaya]] have been formally mobilized to f
 
 ##### Insurgent Killteam
 Killteam 21 (AC 17, 55 HP)
-A 4
+A 4, 14, 34, 39, 48, 
 B 2
-C 8, 17, 28, 36, 40
+~~C 8, 17, 28, 36, 40~~
 D 2
 G 4
 Timotheous
