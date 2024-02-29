@@ -7,7 +7,7 @@ aliases:
 ## Attendant
 ### he/they
 
-> Boxtext description of the character, including their race, height, haircolor?, and common outfit.
+> An old halfling man built of bones and skin.
 
 A description of their function in the world.
 
