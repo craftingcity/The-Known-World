@@ -4,85 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "a264623a63c6ff1a",
-        "type": "tabs",
-        "dimension": 61.943319838056674,
+        "id": "5f8354379d7d2ee8",
+        "type": "split",
+        "dimension": 44.868035190615835,
         "children": [
           {
-            "id": "90c444cf238baf07",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "0b4aa1c5e053bbf9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f426b0ff6e2133b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Caris Avner",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    }
+                  ]
                 },
-                {
-                  "title": "Weapons of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":14},\"to\":{\"line\":78,\"ch\":14}},\"scroll\":71.66653813789932}"
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Feb 28 24.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 28 24.md",
-                "mode": "source",
-                "source": true
               }
-            }
+            ]
           },
           {
-            "id": "4a64f2518d23d02d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "8b0c8248f446d5ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90c444cf238baf07",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Prenotes Feb 28 24",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 28 24.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":181},\"to\":{\"line\":21,\"ch\":181}},\"scroll\":19.144131675228856}"
+                    },
+                    {
+                      "title": "Weapons of Alaturmen",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":14},\"to\":{\"line\":78,\"ch\":14}},\"scroll\":71.66653813789932}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md",
-                "mode": "source",
-                "source": true
               }
-            }
-          },
-          {
-            "id": "db35f5f80e4f7a83",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "2f91cfb182ecc838",
         "type": "tabs",
-        "dimension": 38.05668016194332,
+        "dimension": 55.131964809384165,
         "children": [
           {
             "id": "1f917509c7eb4e63",
@@ -354,11 +358,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90c444cf238baf07",
+  "active": "4f426b0ff6e2133b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md",
-    "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Prenotes Feb 28 24.md",
+    "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -381,7 +386,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Prenotes Jan 22 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

@@ -5,12 +5,16 @@
       "path": "Prenotes Feb 28 24.md"
     },
     {
-      "basename": "First Crusade of the Fire's Will",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md"
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     },
     {
       "basename": "Caris Avner",
       "path": "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md"
+    },
+    {
+      "basename": "First Crusade of the Fire's Will",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md"
     },
     {
       "basename": "The Church of the White Flame",
@@ -195,10 +199,6 @@
     {
       "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
-    },
-    {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
     }
   ],
   "omittedPaths": [],
