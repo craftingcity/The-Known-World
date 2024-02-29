@@ -9,6 +9,50 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
     },
     {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
+      "basename": "Wheel Ward",
+      "path": "Wheel Ward.md"
+    },
+    {
+      "basename": "Iron Ward",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Iron Ward.md"
+    },
+    {
+      "basename": "Ivory Ward",
+      "path": "Ivory Ward.md"
+    },
+    {
+      "basename": "Moss Ward",
+      "path": "Moss Ward.md"
+    },
+    {
+      "basename": "Stone Ward",
+      "path": "Stone Ward.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Jade Ward",
+      "path": "Jade Ward.md"
+    },
+    {
+      "basename": "Steel Ward",
+      "path": "Steel Ward.md"
+    },
+    {
+      "basename": "Ruby Ward",
+      "path": "Ruby Ward.md"
+    },
+    {
+      "basename": "Golden Ward",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md"
+    },
+    {
       "basename": "Caris Avner",
       "path": "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Mechanics",
       "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
-      "basename": "The Old",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "The Artifacts...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "Things Aren't Right Here...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
-    },
-    {
-      "basename": "The Places...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
-    },
-    {
-      "basename": "The Gear...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
-    },
-    {
-      "basename": "Annaraura",
-      "path": "Game Notes/NPCs/Absolute Power/Annaraura.md"
-    },
-    {
-      "basename": "Harmony",
-      "path": "Notes on the Multiverse/Outer/Elysium/Harmony.md"
-    },
-    {
-      "basename": "Elysium",
-      "path": "Notes on the Multiverse/Outer/Elysium/Elysium.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/Outer/Baator/Baator.md"
-    },
-    {
-      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
     }
   ],
   "omittedPaths": [],
