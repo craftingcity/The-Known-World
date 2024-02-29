@@ -13,9 +13,7 @@ When you make an attack with a weapon that deals piercing damage, if you have ad
 ### Slashing
 When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d8 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply half the value of the value rolled as stacks of Bleed.
 
-At the beginning of a Bleeding creatures turn, they take 1d4 slashing damage per stack of Bleed they have.
-
-A creature may remove all stacks of Bleed from itself by receiving some kind of magical Wound healing ability or spell, or spending a Full Action on their turn to attempt a Profession (Doctor) check, the DC of which is equal to 10 + two times the number of stacks of Bleed the creature has.
+``At the beginning of a Bleeding creatures turn, they take 1d4 slashing damage per stack of Bleed they have. A creature may remove all stacks of Bleed from itself by receiving some kind of magical Wound healing ability or spell, or spending a Full Action on their turn to attempt a Profession (Doctor) check, the DC of which is equal to 10 + two times the number of stacks of Bleed the creature has.``
 
 # Weapon Tags Changes
 ### Heavy

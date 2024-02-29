@@ -5,12 +5,24 @@
       "path": "Prenotes Feb 28 24.md"
     },
     {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+      "basename": "First Crusade of the Fire's Will",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/First Crusade of the Fire's Will.md"
+    },
+    {
+      "basename": "Caris Avner",
+      "path": "Game Notes/NPCs/Mild Power/Tendered/Caris Avner.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
     {
       "basename": "Custom Weapon Mechanics",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "Central Alaturmen",
@@ -187,18 +199,6 @@
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Westlick Mossland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Westlick Mossland.md"
-    },
-    {
-      "basename": "Gumlpin",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md"
-    },
-    {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     }
   ],
   "omittedPaths": [],

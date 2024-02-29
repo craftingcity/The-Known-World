@@ -7,6 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **Faith-based Texts**
 	- [[Wargods without War]]
+- [[First Crusade of the Fire's Will]]
 - **Guild Texts**
 	- **Bueracracy and Forms**
 		- [[Coalition's Founding Document]]
