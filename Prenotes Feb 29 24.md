@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, the Hatdroppers had arrived safely in "Mercy", a neutral settlement on the second layer of [[Kailkeep]]. With the desire to escape this sidequest gone wrong, you offered a small number of your magical items to Barkeep in exchange for as many gold-ruby "Pick-up Sticks Tokens" as he could find. 
+When last we left our heroes, they had arrived safely in "Mercy", a neutral settlement on the second layer of [[Kailkeep]]. With the desire to escape this sidequest gone wrong, you offered a small number of your magical items to Barkeep in exchange for as many gold-ruby "Pick-up Sticks Tokens" as he could find. 
 
 With the knowledge that you may never step foot into "Mercy" again, you gave your goodbyes to Benjamin, Yissa, and Aramond, collected your equipment, and headed to the gates of the settlement. 
 

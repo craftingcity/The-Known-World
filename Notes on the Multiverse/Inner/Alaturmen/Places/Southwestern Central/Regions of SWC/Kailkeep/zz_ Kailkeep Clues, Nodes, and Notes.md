@@ -62,10 +62,15 @@ content:
 date: Unknown
 title: Wailing Complaints & Misunderstandings
 content:
+	- Five is a half dozen more than I will get in my lifetime. (Any)
+	- 
 
 date: Unknown
 title: True Warnings
 content:
+	- Beware the puppet, his game costs more than it's worth. (Montal, Golopak, Arthurian)
+	- The Blood Bowls are stalking grounds. Beware. (Desertspeech)
+	- Find Mercy. (Any)
 
 date: Unknown
 title: Harmful Falsehoods
