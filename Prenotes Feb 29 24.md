@@ -33,9 +33,9 @@ Nala
 Ulfgar
 Madwalkers
 ~~A 14, 36, 50~~
-B
-C
-D
+~~B 50~~
+~~C 11, 25, 33, 47, 60~~
+D 11, 26
 E
 F
 G
