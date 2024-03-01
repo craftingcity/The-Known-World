@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "393035ca2b990fe7",
+        "id": "8bd8f4b90bdc74bc",
         "type": "tabs",
         "children": [
           {
-            "id": "1057cab9f29bb50d",
+            "id": "895ea76f796a82c8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Feb 29 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "393035ca2b990fe7",
+        "type": "tabs",
+        "children": [
           {
             "id": "7f316e9e332c009a",
             "type": "leaf",
@@ -44,6 +50,27 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "16f8a0972b5a9cd5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,30 +96,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "bffb2348542f4547",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
               }
             }
           },
@@ -341,11 +347,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bffb2348542f4547",
+  "active": "895ea76f796a82c8",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Prenotes Feb 29 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Prenotes Feb 29 24.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Prenotes Feb 28 24.md",
@@ -366,9 +375,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Harvord Trading Company.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

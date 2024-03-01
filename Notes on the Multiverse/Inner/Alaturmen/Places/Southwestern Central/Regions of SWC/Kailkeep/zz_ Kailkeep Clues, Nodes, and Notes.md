@@ -22,13 +22,22 @@ Four Corners is nearly the most "literature populated" layer of Kailkeep, second
 
 
 ```timeline-labelled
-date: Unknown
-title: An Assumed Image
-content:
 
 date: Unknown
 title: The First Survivor
 content:
+
+date: Unknown
+title: Wailing Complaints
+content:
+	- There is no escape. I am running out of food. (Desertspeech)
+	- The company has fallen. There is worse here than a Kobold. (Montal)
+
+date: Unknown
+title: True Warnings
+content:
+	- Do not drink the water. (Any)
+	- I was only nicked, I barely bleed at all. I have been sick for days.
 
 ```
 
