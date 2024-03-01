@@ -41,3 +41,5 @@ F
 G
 
 We leave our heroes on the date of ... AF, as they ...
+
+they broke out of Kailkeep's Hells into the Kobold Dens
