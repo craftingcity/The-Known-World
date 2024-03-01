@@ -36,8 +36,8 @@ Madwalkers
 ~~B 50~~
 ~~C 11, 25, 33, 47, 60~~
 ~~D 11, 26, 31, 48~~
-E
-F 13, 24
+E 13, 24, 40, 42
+F 
 G
 
 We leave our heroes on the date of ... AF, as they ...
