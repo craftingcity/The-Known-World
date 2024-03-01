@@ -26,6 +26,18 @@ With five paths before you, I must ask - what do you do?
 
 
 ### What happened?
-
+#### Fight With Madwalkers
+Jerran
+Breenabell
+Nala
+Ulfgar
+Madwalkers
+~~A 14, 36, 50~~
+B
+C
+D
+E
+F
+G
 
 We leave our heroes on the date of ... AF, as they ...
