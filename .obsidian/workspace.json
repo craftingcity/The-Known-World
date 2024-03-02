@@ -4,115 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "025e5479f9dc2333",
-        "type": "split",
-        "children": [
-          {
-            "id": "3a7562378fe486b5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1333b7eb780d7361",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "8bd8f4b90bdc74bc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1e896fceb819004",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "895ea76f796a82c8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "16f8a0972b5a9cd5",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "393035ca2b990fe7",
+        "id": "3f5105cfb0d778dc",
         "type": "tabs",
         "children": [
           {
-            "id": "775e3c4a99deb0d0",
+            "id": "51950203248554d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -124,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 29 24.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -252,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Feb 29 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Feb 29 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prenotes Feb 29 24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -381,13 +269,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775e3c4a99deb0d0",
+  "active": "51950203248554d2",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Prenotes Feb 29 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Prenotes Feb 29 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
