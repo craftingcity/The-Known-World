@@ -38,7 +38,7 @@ The Church's armies in [[Yagil]] and [[Odaya]] have been formally mobilized to f
 
 ### What happened?
 
-##### Insurgent Killteam
+##### Black Hand Killteam
 Killteam 21 (AC 17, 55 HP)
 A 4, 14, 34, 39, 48, 
 B 2
