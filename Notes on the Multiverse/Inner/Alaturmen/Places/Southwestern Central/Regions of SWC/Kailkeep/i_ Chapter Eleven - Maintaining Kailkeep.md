@@ -15,4 +15,5 @@ Running the game may seem a difficult task on its own to some of our newest recr
 ### Upper Hells
 ### Kailkeep Proper
 - Proper Kailkeep is a system of highway-like tunnels that connect neighborhoods, commercial and industrial districts with the entertainment viewing halls.
-- There are three major neighborhoods in the Lower levels of Kailkeep - Surkain, Hauro, and Grykain - and three major neighborhoods in the Upper levels - 
+- A section close to the peak of the mountain is dedicated to the religious following and appeasal of Terra.
+- There are three major neighborhoods in the Lower levels of Kailkeep - Surkain, Hauro, and Grykain - and three major neighborhoods in the Upper levels - Keepaiyn, Suurkail, and Yuub. Each of these locations has many commercial and industrial sections.
