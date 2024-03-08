@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had broken from the internal entertainment hell-run in the privacy of [[Kailkeep]]. Using their own skills, and the resources they were given, they concocted a plan to escape their containment, and executed it flawlessly. It is a historic day. You four may be the first to breach containment, let alone escape with your health and morals intact.
 
 The Kobolds have seen you slaughter stronger fighters tougher and stronger than them, and reasonably begin to panic and flee through their one exit; a small singular metal door at the opposite end of the viewing hall.
