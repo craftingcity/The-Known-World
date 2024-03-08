@@ -43,5 +43,25 @@ Alergra's Staff of Power
 Alergra's Cloak of Diversion
 Alergra's Invisible Bag of Holding
 The Quick Time
+Alergra's Recut D. Blaster
 
 In the time around [[The Assault of the Giant Dissenters]], Alergra is chronologically about twenty-five, and has the magical power of a 16th level spellcaster.
+
+| Stats | Value  |
+| ----- | ------ |
+| PROF  | +5     | 
+| HP    | 51     |
+| AC    | 16     |
+| STR   | 10 (0) |
+| DEX   | 16 (3) |
+| CON   | 14 (2) |
+| INT   | 20 (5) |
+| WIS   | 11 (0) |
+| CHA   | 11 (0) |
+
+| 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| o   | o   | o   | o   | o   | o   | x   | o   |
+| o   | o   | o   | o   | o   |     |     |     |
+| o   | o   | o   | o   |     |     |     |     |
+| o   |     |     |     |     |     |     |     |

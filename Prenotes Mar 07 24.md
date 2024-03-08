@@ -26,5 +26,6 @@ See [[i_ Chapter Eleven - Maintaining Kailkeep]]
 
 ### What happened?
 
+They escaped Kailkeep, causing a ruckus before being teleported to the frontlines of the war in the Combine. After spending a night in the bag performing alchemy and rest...
 
 We leave our heroes on the date of ... AF, as they ...
