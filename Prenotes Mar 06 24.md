@@ -25,4 +25,4 @@ See [[Prenotes Feb 28 24]]
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the morning of the 19th of Weeding, 105 AF, as they are deciding what to do, where they are returning to Golden City to find more information on [[Qiell Tilemundon]] and his associates in the powers of the Desert.

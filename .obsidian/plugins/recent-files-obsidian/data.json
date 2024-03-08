@@ -5,6 +5,10 @@
       "path": "Prenotes Mar 06 24.md"
     },
     {
+      "basename": "Qiell Tilemundon",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md"
+    },
+    {
       "basename": "Alaturmenian Travel Table",
       "path": "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     }
   ],
   "omittedPaths": [],
