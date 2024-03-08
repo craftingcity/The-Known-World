@@ -61,7 +61,7 @@ In the time around [[The Assault of the Giant Dissenters]], Alergra is chronolog
 
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| o   | o   | o   | o   | o   | o   | x   | o   |
+| o   | o   | o   | o   | o   | o   | o   | o   |
 | o   | o   | o   | o   | o   |     |     |     |
 | o   | o   | o   | o   |     |     |     |     |
 | o   |     |     |     |     |     |     |     |
