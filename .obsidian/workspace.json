@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5a4c429f0d64ce82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 07 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 07 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 07 24.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
               }
             }
           },
@@ -277,7 +299,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e38393b386f7e83",
+  "active": "5a4c429f0d64ce82",
   "lastOpenFiles": [
     "Prenotes Mar 07 24.md",
     "Prenotes Mar 06 24.md",
