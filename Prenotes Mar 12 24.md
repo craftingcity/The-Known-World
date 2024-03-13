@@ -22,11 +22,19 @@ We return to the party as they convene in the spa of their Bag of Rooms, as Jerr
 ### What does the World Know?
 
 #### GOOBA STATS
-###### Ape-Beast [Barlgura](https://www.aidedd.org/dnd/monstres.php?vo=barlgura)
-###### Spine-Beast [Barbed Devil](https://www.aidedd.org/dnd/monstres.php?vo=barbed-devil)
-###### Fire-Beast [Hell Hound](https://www.aidedd.org/dnd/monstres.php?vo=hell-hound)
-###### Ooze-Beast [Black Pudding](https://www.aidedd.org/dnd/monstres.php?vo=black-pudding)
-###### Cousin in Arms [Cambion](https://www.aidedd.org/dnd/monstres.php?vo=cambion)
+Celaena wants to protect her portal but isnt worried about it "going down" now that she has forces here.
+
+
+###### Ape-Beast (1d3) [Barlgura](https://www.aidedd.org/dnd/monstres.php?vo=barlgura)
+- frontline tank, big beef hit hard
+###### Spine-Beast (1d3) [Barbed Devil](https://www.aidedd.org/dnd/monstres.php?vo=barbed-devil)
+- ranged based, but good midline too
+###### Fire-Beast (2d4) [Hell Hound](https://www.aidedd.org/dnd/monstres.php?vo=hell-hound)
+- striker, rip & tear, pack tactics
+###### Ooze-Beast (1d3) [Black Pudding](https://www.aidedd.org/dnd/monstres.php?vo=black-pudding)
+- no intelligence, nearly immobile, good eating for fiends
+###### Cousin in Arms (1d3) [Cambion](https://www.aidedd.org/dnd/monstres.php?vo=cambion)
+- intelligent soldiers, recon, command structure
 
 ### What happened?
 
