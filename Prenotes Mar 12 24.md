@@ -58,7 +58,7 @@ B
 C 15
 Jerran 22
 Breenabell 19
-Ulfgar 19
+~~Ulfgar 19~~
 Spines (U) 18
 A
 B
@@ -75,11 +75,18 @@ F
 Hellhounds (G) 5
 ~~A 21, 51~~
 B 30
-A
+A2
 B2
-C
-D
-E
+C2
+D2
+E2
+A3
+B3
+C3
+D3
+E3
+F3
+G3
 Alergra 4
 Ooze (B) 0
 A 15
