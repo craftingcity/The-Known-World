@@ -24,7 +24,18 @@ We return to the party as they convene in the spa of their Bag of Rooms, as Jerr
 #### GOOBA STATS
 Celaena wants to protect her portal but isnt worried about it "going down" now that she has forces here.
 
+Celaena is a demonic princess of incredible capability. She has three Legendary Resistances per long rest that she may spend to succeed on a Saving Throw she would fail. In addition, she has three Legendary Actions per round that she may spend at the end of a player's turn.
+
+As a one-point legendary action, cast a spell or make two melee attacks.
+
+As a one-point legendary action, make a mental or verbal command and, select up to five allied fiends (all ur guys) you can see. You grant the chosen fiends a standard action in their attempts to obey you.
+
 As a two-point legendary action, summon forth a number of demons from the active bloodportal (pick one, roll);
+- 1d3 Apebeast
+- 1d3 Spinebeast
+- 2d4 Hellhound
+- 1d3 Black Ooze
+- 1d3 Cousin in Arms
 
 ###### Ape-Beast (1d3) [Barlgura](https://www.aidedd.org/dnd/monstres.php?vo=barlgura)
 - frontline tank, big beef hit hard
