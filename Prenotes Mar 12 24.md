@@ -73,12 +73,17 @@ D
 E
 F
 Hellhounds (G) 5
-A 21, 51
+~~A 21, 51~~
 B 30
+A
+B2
+C
+D
+E
 Alergra 4
 Ooze (B) 0
 A 15
-B
+B POLY(EarthWorm)
 Altar 0 
 
 We leave our heroes on the date of ... AF, as they ...
