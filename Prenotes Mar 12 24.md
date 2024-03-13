@@ -24,6 +24,7 @@ We return to the party as they convene in the spa of their Bag of Rooms, as Jerr
 #### GOOBA STATS
 Celaena wants to protect her portal but isnt worried about it "going down" now that she has forces here.
 
+As a two-point legendary action, summon forth a number of demons from the active bloodportal (pick one, roll);
 
 ###### Ape-Beast (1d3) [Barlgura](https://www.aidedd.org/dnd/monstres.php?vo=barlgura)
 - frontline tank, big beef hit hard
