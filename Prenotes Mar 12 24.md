@@ -51,6 +51,31 @@ As a two-point legendary action, summon forth a number of demons from the active
 ### What happened?
 
 ##### POST PLANNING PORTAL FIGHT
-
+Celaena 23
+Cousins (R) 22
+A
+B
+Jerran 22
+Breenabell 19
+Ulfgar 19
+Spines (U) 18
+A
+B
+C
+Nala 14
+Apes (O) 11
+A
+B
+C
+D
+E
+F
+Hellhounds (G) 5
+A
+B
+Alergra 4
+Ooze (B) 0
+A
+B
 
 We leave our heroes on the date of ... AF, as they ...
