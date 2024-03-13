@@ -47,17 +47,17 @@ Alergra's Recut D. Blaster
 
 In the time around [[The Assault of the Giant Dissenters]], Alergra is chronologically about twenty-five, and has the magical power of a 16th level spellcaster.
 
-| Stats | Value  |
-| ----- | ------ |
-| PROF  | +5     | 
-| HP    | 51     |
-| AC    | 16     |
-| STR   | 10 (0) |
-| DEX   | 16 (3) |
-| CON   | 14 (2) |
-| INT   | 20 (5) |
-| WIS   | 11 (0) |
-| CHA   | 11 (0) |
+| Stats | Value    |
+| ----- | -------- |
+| PROF  | +5       |
+| HP    | 94       | 
+| AC    | 17 (ooo) |
+| STR   | 10 (0)   |
+| DEX   | 16 (3)   |
+| CON   | 14 (2)   |
+| INT   | 20 (5)   |
+| WIS   | 11 (0)   |
+| CHA   | 11 (0)   |
 
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
