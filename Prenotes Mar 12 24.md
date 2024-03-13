@@ -50,5 +50,7 @@ As a two-point legendary action, summon forth a number of demons from the active
 
 ### What happened?
 
+##### POST PLANNING PORTAL FIGHT
+
 
 We leave our heroes on the date of ... AF, as they ...
