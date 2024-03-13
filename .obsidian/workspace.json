@@ -16,22 +16,11 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e42f6a628a7c5b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -44,30 +33,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1c6d0621bc0a8d56",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 13 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 13 24.md",
+                "file": "Prenotes Mar 12 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 13 24.md",
+                "file": "Prenotes Mar 12 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 13 24.md"
+                "file": "Prenotes Mar 12 24.md"
               }
             }
           },
@@ -316,11 +283,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c6d0621bc0a8d56",
+  "active": "9bcdc5b22da581a0",
   "lastOpenFiles": [
-    "Prenotes Mar 12 24.md",
+    "().md",
     "Prenotes Mar 13 24.md",
     "Prenotes Mar 07 24.md",
+    "Prenotes Mar 12 24.md",
     "Lily-Mae Garqwak.md",
     "Milliecore.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
@@ -343,7 +311,6 @@
     "Game Notes/NPCs/Weak Power/King's Tenants/Balthazar Wumfingle.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

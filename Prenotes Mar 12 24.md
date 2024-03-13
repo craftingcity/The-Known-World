@@ -21,6 +21,12 @@ We return to the party as they convene in the spa of their Bag of Rooms, as Jerr
 
 ### What does the World Know?
 
+#### GOOBA STATS
+###### Ape-Beast [Barlgura](https://www.aidedd.org/dnd/monstres.php?vo=barlgura)
+###### Spine-Beast [Barbed Devil](https://www.aidedd.org/dnd/monstres.php?vo=barbed-devil)
+###### Fire-Beast [Hell Hound](https://www.aidedd.org/dnd/monstres.php?vo=hell-hound)
+###### Ooze-Beast [Black Pudding](https://www.aidedd.org/dnd/monstres.php?vo=black-pudding)
+###### Cousin in Arms [Cambion](https://www.aidedd.org/dnd/monstres.php?vo=cambion)
 
 ### What happened?
 
