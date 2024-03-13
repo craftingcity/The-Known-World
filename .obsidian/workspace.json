@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "47a8ad21116dd1e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 06 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8262e1cd447f9769",
@@ -45,6 +67,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Mar 12 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Mar 12 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":1},\"to\":{\"line\":65,\"ch\":1}},\"scroll\":49.263998088134585}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -55,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Mar 12 24.md",
+                "file": "Prenotes Mar 13 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -181,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 12 24.md",
+                "file": "Prenotes Mar 13 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 12 24.md",
+                "file": "Prenotes Mar 13 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 12 24.md"
+                "file": "Prenotes Mar 13 24.md"
               }
             }
           },
@@ -312,10 +340,11 @@
   },
   "active": "9bcdc5b22da581a0",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Prenotes Mar 12 24.md",
-    "().md",
+    "Prenotes Mar 06 24.md",
     "Prenotes Mar 13 24.md",
+    "Prenotes Mar 12 24.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
+    "().md",
     "Prenotes Mar 07 24.md",
     "Lily-Mae Garqwak.md",
     "Milliecore.md",
@@ -325,7 +354,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Boneborn.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Hyrwinch.md",
-    "Prenotes Mar 06 24.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Qiell Tilemundon.md",
     "Prenotes Feb 28 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",

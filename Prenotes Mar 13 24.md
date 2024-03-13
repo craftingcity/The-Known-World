@@ -15,7 +15,11 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they had come to [[Coalition City]] to meet with the White Mage, [[Pirre Tald]], in an attempt to revive your fallen paladin, [[Shu Ameda]]. Without his body, an intense ritual was performed in the Temple of Many by the Suneites, but the attempt was unsuccessful.
+
+With your comrade's death weighing heavy on your mind, you look to the south, towards [[The Golden City]], for more information about the Black Mage.
+
+
 
 ### What does the World Know?
 
