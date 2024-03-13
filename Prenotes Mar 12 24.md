@@ -55,6 +55,7 @@ Celaena 23
 Cousins (R) 22
 A
 B
+C 15
 Jerran 22
 Breenabell 19
 Ulfgar 19
@@ -62,6 +63,7 @@ Spines (U) 18
 A
 B
 C
+D
 Nala 14
 Apes (O) 11
 A
@@ -71,11 +73,12 @@ D
 E
 F
 Hellhounds (G) 5
-A
-B
+A 21, 51
+B 30
 Alergra 4
 Ooze (B) 0
-A
+A 15
 B
+Altar 0 
 
 We leave our heroes on the date of ... AF, as they ...
