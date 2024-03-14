@@ -22,7 +22,7 @@ DCP: I am [[Srioh]]. I represent the interests of [[Baron Filip]]. It is the opi
 
 DCP-*: *Yelling in agreement*
 
-LOT: I am Writh. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[Venclaw|the High Ambassador]], with a request for a meeting of war.
+LOT: I am Writh. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[Houran Venclaw|the High Ambassador]], with a request for a meeting of war.
 
 LOT: *steps down from the podium and across to CWF, hands them the document, returns to podium*
 

@@ -21,9 +21,8 @@ With your comrade's death weighing heavy on your mind, you look to the south, to
 
 It is the 20th day of Weeding in the 105th year After Tetrimoc's Fall. With the sun cresting into evening, I must ask you; what do you do?
 
-
-
 ### What does the World Know?
+
 
 
 ### What happened?

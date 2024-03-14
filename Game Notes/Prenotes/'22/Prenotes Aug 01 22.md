@@ -59,7 +59,7 @@ It's likely that the party will attempt to continue their work for [[Alergra Bar
 
 ### The Golden City
 
-[[Doctor Gunagido]] is currently deep within the City, in a [[Golden Claws]]' laboratory. He has left his personal laboratory in statis-quo with his journeymen, telling them that he would only be able to return to them after his very important work had been completed, and that he does not know how long such a task will take, but to expect a communication from him before a week. They received a very generic letter from the High Ambassador [[Venclaw]] and have since ceased investigation.
+[[Doctor Gunagido]] is currently deep within the City, in a [[Golden Claws]]' laboratory. He has left his personal laboratory in statis-quo with his journeymen, telling them that he would only be able to return to them after his very important work had been completed, and that he does not know how long such a task will take, but to expect a communication from him before a week. They received a very generic letter from the High Ambassador [[Houran Venclaw]] and have since ceased investigation.
 
 ### De-railed
 We have encounters prepped, and tables & hexes for otherwise. 
