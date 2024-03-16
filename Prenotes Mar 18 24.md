@@ -24,9 +24,9 @@ Venclaw had little useful information to reveal to you in that regard, leaving y
 With an attempt to push personal goals, bring up some connections to the character's pasts;
 	- Dae Shim - connected to both the [[Monastery of Saint Susan]] on the east end of the [[Deakred Range]] &/or the young [[Zauk-Iyr]]
 	- Gringold - immediate connection from [[Cenva Minyo]] to finding and confronting [[River Borns]]
-	- Cucu - connected 
-	- Ash
-	- Timothius
+	- Cucu - connected most directly to her home, which iirc she amicably departed from, so someone became missing and is heading north-west towards [[The Old|Minyostalma]]
+	- Ash - unknown?, most connected to [[Agrandica]]
+	- Timothius - most connected to his slavers in the [[Illburn Forest]]
 
 ### What happened?
 
