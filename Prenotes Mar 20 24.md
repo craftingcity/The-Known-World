@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for March 18th
+# Prenotes for March 20th
 ## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
