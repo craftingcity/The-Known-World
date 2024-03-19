@@ -16,6 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Carta Prosperitatis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":43},\"to\":{\"line\":9,\"ch\":43}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -271,6 +283,7 @@
   },
   "active": "c6e7294125619ec8",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
     "Wyruq the Grave Presence.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
@@ -296,7 +309,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "Prenotes Mar 13 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Prenotes Mar 12 24.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
