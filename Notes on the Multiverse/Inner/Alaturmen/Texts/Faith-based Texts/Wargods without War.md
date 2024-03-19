@@ -11,7 +11,7 @@ We are fighting.
 
 ### What is War?
 
-As I understand it, and as those I have had the pleasure of sharing tales of woe upon do as well, what our Gods call War is not what our Lords call War.
+As I understand it - and as those with whom I have had the pleasure of sharing tales of woe upon do as well -what our Gods call War is not what our Lords call War.
 
 War is in the mind. War is of the self.
 
@@ -40,10 +40,3 @@ The night after, the sneak made a decision that cost him his life, and one that 
 I encountered **Gromosh** and **Gish** in my slumber with the mushrooms. I do not doubt they fought **Lolth** for my attention. We spoke often, and I found myself in the role of a son listening to his parent's tales. My fish friend and I separated during this time, but I enjoyed many meals with these two. They fought each other more often than anything else, but time with them learned me how to fight with my words as much as my sword.
 
 Their war was unending - personal. I take it that this is the reason they are in love as much as they are in hate.
-
-## Appendix
-### A1. Testimony of a Knight
-
-((yknow the knioght wandering in that one SE hex, i survived and interviewed him about Tauriun and his beliefs and stuff))
-
-### A2. Which Witch?
