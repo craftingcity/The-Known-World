@@ -48,9 +48,57 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d3c4a63249c9aaef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4d0400807b929b52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Darnt Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":41},\"to\":{\"line\":24,\"ch\":41}},\"scroll\":14.981427659231308}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fulton Shepherd.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fulton Shepherd.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fulton Shepherd.md"
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
               }
             }
           },
@@ -299,10 +347,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a544f9d6a4ccf2b7",
+  "active": "4d0400807b929b52",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Fulton Shepherd.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
@@ -325,8 +375,6 @@
     "Lily-Mae Garqwak.md",
     "Milliecore.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
-    "Notes on the Multiverse/Immaterial/Tubric's Bag of Rooms.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

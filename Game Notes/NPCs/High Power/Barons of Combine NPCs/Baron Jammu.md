@@ -24,7 +24,7 @@ For as long as she has been alive, she has been groomed to be the ruler of the [
 
 #### New Baron Jammu
 
-Amethyst Jammu is the current Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]]. She is currently attempting to maintain her newfound control over her domain, which is made quite difficult by the current situations; more specifically, the fiendish-supplied xenophobes, the encroachment of the other Barons, and the internal dissent of power-hungry individual.
+Amethyst Jammu is the current Baron of the [[Grumbling Hills]] and the surrounding areas. She is currently the monarch of the [[Darnt Hillkeep]]. She is currently attempting to maintain her newfound control over her domain, which is made quite difficult by the current situations; more specifically, the fiendish-supplied xenophobes, the encroachment of the other Barons, and the internal dissent of power-hungry individuals.
 
 ## Important Knowledge
 

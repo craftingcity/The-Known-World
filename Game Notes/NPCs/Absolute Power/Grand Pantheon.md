@@ -42,7 +42,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Duty: War
 - Tenants:
 	- There is no honorable war without communication
-	- To dishonor youself is to dishonor all you know or claim
+	- To dishonor yourself is to dishonor all you know or claim
 
 ##### Gish, Wife of Gromosh
 - Icon: A screaming bloody face burning
