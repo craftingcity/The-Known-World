@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f454200d1ebb217",
+        "id": "05cea2d5f3834772",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e7294125619ec8",
+            "id": "3ec48ded1d64f5bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,27 +16,41 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 20 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "84cf568bb22af8a1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Carta Prosperitatis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":43},\"to\":{\"line\":9,\"ch\":43}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 19 24.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,6 +63,23 @@
         "id": "1ee778f2eb66d012",
         "type": "tabs",
         "children": [
+          {
+            "id": "470822c6e780fecc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
           {
             "id": "471fab77001b02ee",
             "type": "leaf",
@@ -64,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gish",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +124,7 @@
             }
           },
           {
-            "id": "b28ee8c1edfb54e0",
+            "id": "c9c6df654ceb5f29",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -105,32 +136,16 @@
               ]
             },
             "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd14ca20169ae62a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
+              "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 446,
     "collapsed": true
   },
   "right": {
@@ -156,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Mar 19 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Mar 19 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,49 +237,13 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "80422839fc762c53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Prenotes Mar 19 24.md"
               }
-            }
-          },
-          {
-            "id": "6d2d44a8fde5439f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,8 +262,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6e7294125619ec8",
+  "active": "84cf568bb22af8a1",
   "lastOpenFiles": [
+    "Prenotes Mar 20 24.md",
+    "Prenotes Mar 19 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
     "Wyruq the Grave Presence.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md",
@@ -295,20 +290,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Prenotes Mar 20 24.md",
     "Prenotes Mar 18 24.md",
-    "Game Notes/NPCs/NPCs.md",
-    "ORGANIZATION/TEMPLATES/NPCs.md",
-    "Zauk-Iyr.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Monastery of Saint Susan.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Prenotes Mar 06 24.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Prenotes Mar 13 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
@@ -317,7 +299,6 @@
     "Game Notes/Prenotes/'24",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "MEDIA/CHAR/celeana.png",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard"
   ]
 }

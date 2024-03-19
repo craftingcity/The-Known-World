@@ -76,7 +76,7 @@ Chicken (healthy) | 0.5-0.6
 Rabbit (healthy) | 0.5-1.5
 Cattle (healthy) | 40.0-80.0
 Horse / Camel (healthy) | 100.0-160.0
-War Horse / Camel (healthy) | 250.0-400.0
+War Horse / War Camel (healthy) | 250.0-400.0
 Turkey (dressed-carcass) | 2.0-4.0
 Raccoon (dressed-carcass) | 0.8-1.8
 --- | --- | --- 
