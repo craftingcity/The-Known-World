@@ -5,6 +5,10 @@
       "path": "Prenotes Mar 19 24.md"
     },
     {
+      "basename": "Black Egal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md"
+    },
+    {
       "basename": "Harmony",
       "path": "Notes on the Multiverse/Outer/Elysium/Harmony.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Golden Claws",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "The Golden City",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     }
   ],
   "omittedPaths": [],
