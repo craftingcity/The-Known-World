@@ -22,6 +22,8 @@ A simple moment. In the past he was alive. Now he is dead. The smile on his face
 
 Nala quickly grabbed his hand and returned to the party, Jerran set off the explosive, and your Patron, the Archmage [[Alergra Barrowinch]], immediately teleported you from harms way.
 
+~~
+
 You all land in the muck and moss of the earth with the now familiar feeling of intense nausea churning upon your stomach. You are where you met her today, in the staging grounds of today's assault on [[Hyrwinch]]. 
 
 As you all gather yourselves, Alergra begins to cast a spell. A mote of blue flame flickers to life on her finger, and as she removes her finger - the mote begins to multiply. Quickly, these blue motes have created the image of Celaena with remarkable clarity. She stands at the ruins of the parade grounds - her altar destroyed, and her portal closed - screaming into the skies. She quickly turns to look directly at the display, and the motes immediately quench.

@@ -17,6 +17,6 @@ CWF: I am [[Silvan ben Yarom]], and I represent [[The Church of the White Flame]
 
 DCP: I am [[Toletti Boshin]]. I am Dampguard. 
 
-LOT: I am [[Writh]]
+LOT: I am [[Writh]]. I represent the [[Golden Claws]] as an envoy of the Golden Light, our Planeblood, [[Tetrimoc]] the Progenitor.
 
 

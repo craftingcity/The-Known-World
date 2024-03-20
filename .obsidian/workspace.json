@@ -27,97 +27,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "24b92a079372fc41",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergency Communicae c. 105AF.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a5704cccc63f8a84",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "897db4834ceed36e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9013e7af3962ac79",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b8ec6ce8909f2f88",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Lorekeeper NPCs/Poppy Bumbleheart.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -214,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -239,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergency Communicae c. 105AF.md",
+                "file": "Prenotes Mar 19 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergency Communicae c. 105AF.md",
+                "file": "Prenotes Mar 19 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergency Communicae c. 105AF.md"
+                "file": "Prenotes Mar 19 24.md"
               }
             }
           }
@@ -330,12 +240,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24b92a079372fc41",
+  "active": "84cf568bb22af8a1",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Big Lore/Timeline.md",
     "Emergency Communicae c. 105AF.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Filip Grundle.md",
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Poppy Bumbleheart.md",
     "Prenotes Mar 19 24.md",
