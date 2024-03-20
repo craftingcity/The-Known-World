@@ -5,8 +5,14 @@ aliases:
 ---
 
 ### Foreword
-# Title
-### Subtitle, if applicable
-## Author
+This is a transcript of the meeting on the 20th Day of Weeding, serviced by [[Adriana Fairlin Franx]].
 
-## Index
+## CONTENT
+
+SPEAKER: Attention please! Please calm yourselves and others around you, speakers take you stands, others, your seats. The day today is the 20th of Weeding, I am [[Speaker Vanavar]], let us begin.
+
+ADV.: I am [[Yyu Clipwin]], I represent the [[Guild of Adventurers]].
+
+
+
+

@@ -4,7 +4,7 @@ aliases:
 ---
 
 ## Forword
-This is a transcript of the meeting on the 24th Day of Planting serviced by [[Poppy Bumbleheart]]
+This is a transcript of the meeting on the 24th Day of Planting, serviced by [[Adriana Fairlin Franx]].
 
 ## CONTENT
 

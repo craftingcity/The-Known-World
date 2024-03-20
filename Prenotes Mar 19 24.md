@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they were deep within the heart of enemy territory - and they had a plan. With Alchemical Explosive, they would quickly disrupt and or destroy the Bloody Portal in [[Boneborn]]. 
 
 Their plan was good, but no plan survives Celaena. She quickly appeared on the battlefield, summoning forth a horde of demons by her side. As you began to execute and adapt your plan - even while quick-witted - Ulfgar was executed by the Demon Princess. 
@@ -31,7 +30,7 @@ As you all gather yourselves, Alergra begins to cast a spell. A mote of blue fla
 
 ### What does the World Know?
 
-
+The [[Emergency Communicae c. 105AF]] will occur in 2 days. 
 
 ### What happened?
 

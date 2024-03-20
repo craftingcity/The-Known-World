@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ec48ded1d64f5bd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 20 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "84cf568bb22af8a1",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -48,16 +27,9 @@
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "53bf2b2069fec3da",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "20e08ab204651646",
+            "id": "24b92a079372fc41",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -65,19 +37,62 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Alergra Barrowinch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":5},\"to\":{\"line\":33,\"ch\":5}},\"scroll\":16.52236099312572}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
+                "file": "Emergency Communicae c. 105AF.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "897db4834ceed36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9013e7af3962ac79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b8ec6ce8909f2f88",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Lorekeeper NPCs/Poppy Bumbleheart.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "speaker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -204,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Mar 19 24.md",
+                "file": "Emergency Communicae c. 105AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Mar 19 24.md",
+                "file": "Emergency Communicae c. 105AF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Mar 19 24.md"
+                "file": "Emergency Communicae c. 105AF.md"
               }
             }
           }
@@ -295,19 +309,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84cf568bb22af8a1",
+  "active": "24b92a079372fc41",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Hyrwinch.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Filip Grundle.md",
+    "Emergency Communicae c. 105AF.md",
+    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Poppy Bumbleheart.md",
     "Prenotes Mar 19 24.md",
+    "Prenotes Mar 20 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Hyrwinch.md",
     "Prenotes Mar 07 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md",
     "Prenotes Mar 06 24.md",
     "Prenotes Mar 12 24.md",
     "Prenotes Mar 13 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Prenotes Mar 20 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
@@ -320,10 +338,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
-    "Wyruq the Grave Presence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Name of Char
+# Poppy Bumbleheart
 
 > Boxtext description of the character, including their race, height, haircolor?, and common outfit.
 
