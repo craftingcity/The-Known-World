@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ben",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -240,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84cf568bb22af8a1",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Emergency Communicae c. 105AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
