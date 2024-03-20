@@ -36,5 +36,6 @@ The [[Emergency Communicae c. 105AF]] will occur in 2 days.
 
 ### What happened?
 
+They are moving on [[Black Egal]] with the frontlines. It is the night of the 20th, and the watch is 1; Nala, Shep 2; Jerran 3; Alergra
 
 We leave our heroes on the date of ... AF, as they ...
