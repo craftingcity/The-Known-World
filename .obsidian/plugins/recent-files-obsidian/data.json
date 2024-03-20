@@ -5,6 +5,14 @@
       "path": "Emergency Communicae c. 105AF.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
       "basename": "Emergency Communicae c. 103AF",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "()",
       "path": "().md"
-    },
-    {
-      "basename": "Milliecore",
-      "path": "Milliecore.md"
-    },
-    {
-      "basename": "Kickoff",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md"
     }
   ],
   "omittedPaths": [],

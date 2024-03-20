@@ -14,7 +14,7 @@ ADV.: I am [[Filip Grundle]], I speak on behalf of [[Yyu Clipwin]] as a represen
 
 CWF: Yes; as Grundle speaks the truth. The domains of the Tendered [[Valerio Avishalom|Avishalom]], [[Caris Avner|Avner]], and [[Amirriyl Haleli|Haleli]] and their subordinates have received harsh attacks against them. The Church has been focusing on their recovery. We must act together in this time.
 
-LOT: Skipping introductions Silvan?
+LOT: Skipping introductions [[Silvan ben Yarom|Silvan]]?
 
 CWF: Yes - my people are in danger. I have not spoken to this [[Kakurak]], but as I said, Grundle speaks true.
 
@@ -22,7 +22,7 @@ DCP: I am [[Srioh]]. I represent the interests of [[Baron Filip]]. It is the opi
 
 DCP-*: *Yelling in agreement*
 
-LOT: I am Writh. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[Houran Venclaw|the High Ambassador]], with a request for a meeting of war.
+LOT: I am [[Writh]]. I represent the [[Golden Claws]] as an envoy of the Golden Light, Planeblood, [[Tetrimoc]] the Progenitor. We wish it to be known that the Golden Claws will - in accordance to the written word of [[Coalition's Founding Document]] - agree and rouse army in aid of our ally. We urge others to do the same. I bring a document, signed by [[Houran Venclaw|the High Ambassador]], with a request for a meeting of war.
 
 LOT: *steps down from the podium and across to CWF, hands them the document, returns to podium*
 

@@ -13,6 +13,10 @@ SPEAKER: Attention please! Please calm yourselves and others around you, speaker
 
 ADV.: I am [[Yyu Clipwin]], I represent the [[Guild of Adventurers]].
 
+CWF: I am [[Silvan ben Yarom]], and I represent [[The Church of the White Flame]] and the will of [[Its Greatness]].
 
+DCP: I am [[Toletti Boshin]]. I am Dampguard. 
+
+LOT: I am [[Writh]]
 
 
