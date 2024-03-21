@@ -5,6 +5,7 @@ aliases:
 ---
 # River Borns
 ## aka Leighton Mitchell
+## aka Jordan ben Avi
 ## the Orignial Gringold
 ### pronouns
 
