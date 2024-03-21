@@ -28,6 +28,8 @@ With an attempt to push personal goals, bring up some connections to the charact
 	- Ash - unknown?, most connected to [[Agrandica]]
 	- Timothius - most connected to his slavers in the [[Illburn Forest]]
 
+
+
 ### What happened?
 
 
