@@ -32,5 +32,8 @@ With an attempt to push personal goals, bring up some connections to the charact
 
 ### What happened?
 
+tim is looking for 6 youths (cousin nikita included) 4 adults who all know grandfather spank and maybe trixter. 
+
+cucu sidequest find romeo in minyostalma
 
 We leave our heroes on the date of ... AF, as they ...
