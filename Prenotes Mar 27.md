@@ -19,9 +19,10 @@ When last we left our heroes, they had been rocked by the loss of their party Pa
 
 Conferring with your connections in [[Yahlin]], you gathered information on both your personal and world-stage desires - but before you could form a plan to act on this new information, Cucu was made aware that her dear cousin Romeo had disappeared - and had not been seen in weeks longer than he said he would be gone.
 
-
+The party agreed to help Cucu and her cousin, and now look to the mysterious dangers of [[The Old|Minyostalma]].
 
 ### What does the World Know?
+
 
 
 ### What happened?
