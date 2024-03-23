@@ -264,6 +264,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "173e92b914bf70ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -364,6 +372,18 @@
               "type": "outline",
               "state": {
                 "file": "Prenotes Mar 20 24.md"
+              }
+            }
+          },
+          {
+            "id": "1ed887eda0a76dcb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
