@@ -64,11 +64,11 @@ When this check is performed during downtime, or by an NPC, one would "take ten"
 
 ~ | Detail
 --- | ---
-30+ | Master
-25-29| Expert
-18-24 | Journeymen
-13-17 | Novice
-8-12 | Apprentice
+32+ | Master
+26-31| Expert
+20-25 | Journeymen
+14-19 | Novice
+8-13 | Apprentice
 (+8, nonstacking) | Using a Philosopher's Stone
 (+4, nonstacking) | Using some Red Water
 (+2, nonstacking) | Using some Yellow Powder
