@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f54579c88a5aab8",
+        "id": "86209472449baf44",
         "type": "tabs",
         "children": [
           {
-            "id": "029522ddfefd6d2a",
+            "id": "468f6734a460f6e3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,34 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e2bc8bedf60b370",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b2363f14b183f8db",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
                 "mode": "source",
                 "source": true
               }
@@ -193,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md"
               }
             }
           },
@@ -305,9 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2363f14b183f8db",
+  "active": "468f6734a460f6e3",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Prenotes Mar 27 24.md",
@@ -329,7 +303,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
     "Prenotes Mar 19 24.md",
     "black.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Filip Grundle.md",
