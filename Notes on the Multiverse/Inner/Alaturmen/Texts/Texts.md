@@ -15,6 +15,7 @@ aliases:
 		- [[Guild Associates Agreement]]
 		- [[Guild Equipment Requisition Form]]
 		- [[Laws of Adventuring]]
+	- [[Emergency Communicae c. 105AF]]
 	- **Recordkeeping**
 		- [[Emergency Communicae c. 103AF]]
 		- [[On Peoples Involved with Arthur Simonson]]
