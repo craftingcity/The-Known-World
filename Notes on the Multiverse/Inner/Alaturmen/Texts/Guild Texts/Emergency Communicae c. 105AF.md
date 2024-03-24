@@ -23,5 +23,5 @@ KOP: And I am [[Fraznky Bradley]], and I speak for his Lordship [[Arthur Simonso
 
 SPEAKER: Wonderful. Our topic of interest today is the threat to the Coalition in the South-East. Toletti?
 
-DCP: The Combine has become unbalanced. There is a threat in the Mosslands - she is called Celaena. She commands 
+DCP: There is a threat in the Mosslands - she is called Celaena. She commands the horror kin the Combine and the Coalition at large have faced since the passing of the first century. The Combine is unbalanced for her presence and then the Coalition. 
 
