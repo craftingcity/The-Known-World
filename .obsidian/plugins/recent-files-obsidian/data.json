@@ -9,6 +9,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     },
     {
+      "basename": "Romeo's Journal",
+      "path": "Romeo's Journal.md"
+    },
+    {
       "basename": "Prenotes Mar 13 24",
       "path": "Prenotes Mar 13 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Baron Jammu",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Jammu.md"
-    },
-    {
-      "basename": "Wetfoot Greenland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
     }
   ],
   "omittedPaths": [],
