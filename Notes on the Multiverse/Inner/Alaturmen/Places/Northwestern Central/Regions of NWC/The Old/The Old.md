@@ -24,6 +24,7 @@ The Ruins to the west and north of the central city are the most picked over, as
 %% Begin Waypoint %%
 - [[The Artifacts...]]
 - [[The Gear...]]
+- [[The Monsters...]]
 - [[The People...]]
 - [[The Places...]]
 - [[Things Aren't Right Here...]]

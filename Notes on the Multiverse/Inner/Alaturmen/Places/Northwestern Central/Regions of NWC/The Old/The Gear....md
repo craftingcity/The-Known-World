@@ -19,13 +19,16 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |      |      |            |
 
 #### EQUIPMENT
-| Name                   | Type                   | Use                             | Importers   | Cost in AC |
-| ---------------------- | ---------------------- | ------------------------------- | ----------- | ---------- |
-| Pro-Finder Mark 1      | Arti. Detector         | 45-foot radius                  | All         |            |
-| Pro-Finder Mark 2      | Arti. Detector         | 60-foot radius, +5 Investigate  | All         |            |
-| WhiteTech Detector     | Arti. / Anom. Detector | 60-foot radius                  | WFM         |            |
-| Sukari Style Detector  | Arti. Detector         | 60-foot radius, +10 Investigate | Mercs       |            |
-| Camelot Style Detector | Arti. / Anom. Detector | 75-foot radius, +5 Investigate  | Mercs, M.T. |            |
+| Name                                     | Type                   | Use                             | Importers   | Cost in AC |
+| ---------------------------------------- | ---------------------- | ------------------------------- | ----------- | ---------- |
+| Pro-Finder Mark 1                        | Arti. Detector         | 45-foot radius                  | All         |            |
+| Pro-Finder Mark 2                        | Arti. Detector         | 60-foot radius, +5 Investigate  | All         |            |
+| WhiteTech Detector                       | Arti. / Anom. Detector | 60-foot radius                  | WFM         |            |
+| Sukari Style Detector                    | Arti. Detector         | 60-foot radius, +10 Investigate | Mercs       |            |
+| Camelot Style Detector                   | Arti. / Anom. Detector | 75-foot radius, +5 Investigate  | Mercs, M.T. |            |
+| Extreme Weave Distortion Handheld Mark 1 | Anom. Detector         | 20-foot radius                  | All         |            |
+| Extreme Weave Distortion Handheld Mark 2 | Anom. Detector         | 35-foot radius                  | All         |            |
+| Tuned Hazardous Location Alert System    | Rad. Detector          | 45-foot radius                  | Mercs       |            |
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -85,7 +88,6 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### DRUGS / ALCH
 | Name            | Type   | Desc. | Cost in AC |
 | --------------- | ------ | ----- | ---------- |
-| x               | x      |       |            |
 | Cannabis        | Eupho. |       |            |
 | Tabacco         | Stimu. |       |            |
 | Smokebulb       | Hallu. |       |            |
@@ -93,6 +95,9 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Bulbkiss        | Hallu. |       |            |
 | Nova            | Stimu. |       |            |
 | Dareanamon      | Eupho. |       |            |
+| Oldshine        | Depre. |       |            |
+| Good Liquor     | Depre. |       |            |
+|                 |        |       |            |
 
 #### TROPHIES
 | Name | Type | Desc. | Cost in AC |
