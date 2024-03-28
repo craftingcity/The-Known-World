@@ -13,16 +13,20 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
     },
     {
+      "basename": "TheOld-080AF-player",
+      "path": "MEDIA/MAPS/WORLD/TheOld-080AF-player.png"
+    },
+    {
+      "basename": "The People...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
+    },
+    {
       "basename": "The Old",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     },
     {
       "basename": "Central Holyl'nd",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md"
-    },
-    {
-      "basename": "The People...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
     },
     {
       "basename": "Alchemy Products",
@@ -195,10 +199,6 @@
     {
       "basename": "Carta Prosperitatis",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md"
-    },
-    {
-      "basename": "Wyruq the Grave Presence",
-      "path": "Wyruq the Grave Presence.md"
     }
   ],
   "omittedPaths": [],
