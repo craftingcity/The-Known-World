@@ -20,16 +20,26 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Armors
 #### SCAVANGED / REFIT
-| Name    | Type   | Prot.          | Cost in AC |
-| ------- | ------ | -------------- | ---------- |
-| Leather | Light  | 11+DEX         |            |
-| Hide    | Medium | 14+DEX (max 2) |            |
+| Name    | Type   | Prot.          | Refitters | Cost in AC |
+| ------- | ------ | -------------- | --------- | ---------- |
+| Leather | Light  | 11+DEX         |           |            |
+| Hide    | Medium | 14+DEX (max 2) |           |            |
 
 #### IMPORTED / FORGED
 | Name           | Type   | Prot.          | Importers | Cost in AC |
 | -------------- | ------ | -------------- | --------- | ---------- |
 | Chitin Studded | Light  | 13+DEX         |           |            |
 | Chitin Mail    | Medium | 14+DEX (max 3) |           |            |
+| Chitin Plate   | Heavy  | 16+DEX (max 2) |           |            |
+|                |        |                |           |            |
+
+#### RADIATION
+| Name                                                  | Type     | Prot.             | Importers | Cost in AC |
+| ----------------------------------------------------- | -------- | ----------------- | --------- | ---------- |
+| Hazardous Environment Facial Protector (HEFP), Mark 1 | Headgear | +5 R. Resistance  | All       |            |
+| Hazardous Environment Facial Protector (HEFP), Mark 2 | Headgear | +15 R. Resistance | All       |            |
+| Hazardous Environment Facial Protector (HEFP), Mark 3 | Headgear | +35 R. Resistance | All       |            |
+| Hazardous Environment                                                        |          |                   |           |            |
 
 ### Ammunition
 #### SCAVANGED / REFIT
@@ -44,35 +54,34 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 
 ### Containers
-#### FLUID
+#### FLUIDS STORAGE
 | Name | Type | Space | Cost in AC |
 | ---- | ---- | ----- | ---------- |
 | x    | x    |       |            |
 
-#### SOLIDS
+#### SOLIDS STORAGE
 | Name | Type | Space | Cost in AC |
 | ---- | ---- | ----- | ---------- |
 | x    | x    |       |            |
 
-#### ARTIFACTS
+#### ARTIFACTS STORAGE
 | Name | Type | Space | Cost in AC |
 | ---- | ---- | ----- | ---------- |
 | x    | x    |       |            |
 
 ### Commodities
 #### DRUGS / ALCH
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name            | Type   | Desc. | Cost in AC |
+| --------------- | ------ | ----- | ---------- |
+| x               | x      |       |            |
+| Cannabis        | Eupho. |       |            |
+| Tabacco         | Stimu. |       |            |
+| Smokebulb       | Hallu. |       |            |
+| Lephora Essence | Hallu. |       |            |
+| Bulbkiss        | Hallu. |       |            |
+| Nova            | Stimu. |       |            |
+| Dareanamon      | Eupho. |       |            |
 
-Cannabis | Eupho.
-Tabacco | Stimu.
-Smokebulb | Hallu.
-Lephora Essence | Hallu.
-Bulbkiss | Hallu.
-Nova | Stimu.
-Dareanamon | Eupho.
-2 | A2 
 #### TROPHIES
 | Name | Type | Desc. | Cost in AC |
 | ---- | ---- | ----- | ---------- |
@@ -112,25 +121,24 @@ Dareanamon | Eupho.
 | Pretokarin            |     | Liquid | Equipment | Transmutation |     |     | per 1/16th gallon |
 | Ambebamol             |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
 | Aerotide              |     | Gas    | Equipment | Transmutation |     |     | per gallon        |
+
 #### PROTECTION
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name             | Type | Desc. | Cost in AC |
+| ---------------- | ---- | ----- | ---------- |
+| x                | x    |       |            |
+| Aerotide         |      |       |            |
+| Crotosine Vepian |      |       |            |
 
-Aerotide |
-Crotosine Vepian |
-2 | A2 
 #### HEALING
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                  | Type | Desc. | Cost in AC |
+| --------------------- | ---- | ----- | ---------- |
+| x                     | x    |       |            |
+| Heamox Balm           |      |       |            |
+| Isiopara              |      |       |            |
+| Pretokarin            |      |       |            |
+| Secreclude Propaterol |      |       |            |
+| Ambebamol             |      |       |            |
 
-Heamox Balm |
-Isiopara |
-Pretokarin |
-Secreclude Propaterol |
-Ambebamol |
-2 | A2 
 #### RADIATION
 | Name | Type | Desc. | Cost in AC |
 | ---- | ---- | ----- | ---------- |
