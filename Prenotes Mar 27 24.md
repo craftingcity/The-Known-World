@@ -28,5 +28,6 @@ Romeo has had time to get to [[The Old|Minyostalma]], a quick jaunt across the b
 
 ### What happened?
 
+Yahlin's [[Tori Lane]] have been tasked with identifying Cucu's Gold & Silver liquid, the black ooze experiments, 
 
 We leave our heroes on the date of ... AF, as they ...
