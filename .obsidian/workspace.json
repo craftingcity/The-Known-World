@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "70d940feeea930e1",
+        "id": "fe7bc9799049f8ea",
         "type": "tabs",
         "children": [
           {
-            "id": "1f98d9687cf1d518",
+            "id": "9a21e3e07471635c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Central Holyl'nd",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":19},\"to\":{\"line\":13,\"ch\":19}},\"scroll\":8.143610868867054}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Mar 13 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Mar 13 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -41,7 +35,7 @@
             }
           },
           {
-            "id": "c3a6f2f3b99752ac",
+            "id": "8d3931b8ec9fdb99",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,99 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romeo's Journal.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "895d312538faaf52",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":11},\"to\":{\"line\":26,\"ch\":11}},\"scroll\":17.73303202326115}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "380234ba83416002",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":11},\"to\":{\"line\":27,\"ch\":11}},\"scroll\":17.35765819754813}"
-                },
-                {
-                  "title": "Central Holyl'nd",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":8.026918389875425}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":26},\"to\":{\"line\":13,\"ch\":26}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43abbcf0a7bf82ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/TheOld-080AF-player.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Romeo's Journal.md",
+                "file": "Prenotes Mar 27 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Romeo's Journal.md",
+                "file": "Prenotes Mar 27 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Romeo's Journal.md"
+                "file": "Prenotes Mar 27 24.md"
               }
             }
           },
@@ -397,18 +305,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3a6f2f3b99752ac",
+  "active": "9a21e3e07471635c",
   "lastOpenFiles": [
-    "Prenotes Mar 27 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Romeo's Journal.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy Products.md",
+    "Prenotes Mar 27 24.md",
+    "Prenotes Mar 13 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/Emergency Communicae c. 103AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
+    "Romeo's Journal.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
@@ -425,6 +329,10 @@
     "conflict-files-obsidian-git.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Outer/Elysium/Harmony.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
+    "Prenotes Mar 19 24.md",
+    "black.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
@@ -432,6 +340,7 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
     "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
     "Game Notes/Prenotes/'24",
+    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "MEDIA/CHAR/celeana.png",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard"
   ]
