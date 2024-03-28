@@ -9,14 +9,23 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name | Type | Dam. | Cost in AC |
-| ---- | ---- | ---- | ---------- |
-| x    | x    |      |            |
+| Name | Type | Dam. | Ammo | Cost in AC |
+| ---- | ---- | ---- | ---- | ---------- |
+| x    | x    |      |      |            |
 
 #### IMPORTED / FORGED
-| Name | Type | Dam. | Cost in AC |
-| ---- | ---- | ---- | ---------- |
-| x    | x    |      |            |
+| Name | Type | Dam. | Ammo | Cost in AC |
+| ---- | ---- | ---- | ---- | ---------- |
+| x    | x    |      |      |            |
+
+#### EQUIPMENT
+| Name                   | Type                   | Use                             | Importers   | Cost in AC |
+| ---------------------- | ---------------------- | ------------------------------- | ----------- | ---------- |
+| Pro-Finder Mark 1      | Arti. Detector         | 45-foot radius                  | All         |            |
+| Pro-Finder Mark 2      | Arti. Detector         | 60-foot radius, +5 Investigate  | All         |            |
+| WhiteTech Detector     | Arti. / Anom. Detector | 60-foot radius                  | WFM         |            |
+| Sukari Style Detector  | Arti. Detector         | 60-foot radius, +10 Investigate | Mercs       |            |
+| Camelot Style Detector | Arti. / Anom. Detector | 75-foot radius, +5 Investigate  | Mercs, M.T. |            |
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -34,12 +43,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 |                |        |                |           |            |
 
 #### RADIATION
-| Name                                                  | Type     | Prot.             | Importers | Cost in AC |
-| ----------------------------------------------------- | -------- | ----------------- | --------- | ---------- |
-| Hazardous Environment Facial Protector (HEFP), Mark 1 | Headgear | +5 R. Resistance  | All       |            |
-| Hazardous Environment Facial Protector (HEFP), Mark 2 | Headgear | +15 R. Resistance | All       |            |
-| Hazardous Environment Facial Protector (HEFP), Mark 3 | Headgear | +35 R. Resistance | All       |            |
-| Hazardous Environment                                                        |          |                   |           |            |
+| Name                                                             | Type           | Prot.             | Importers | Cost in AC |     |
+| ---------------------------------------------------------------- | -------------- | ----------------- | --------- | ---------- | --- |
+| Hazardous Environment Facial Protector (HEFP), Mark 1            | Headgear       | +5 R. Resistance  | All       |            |     |
+| Hazardous Environment Facial Protector (HEFP), Mark 2            | Headgear       | +15 R. Resistance | All       |            |     |
+| Hazardous Environment Facial Protector (HEFP), Mark 3            | Headgear       | +35 R. Resistance | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Resistance | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Resistance | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Resistance | All       |            |     |
+|                                                                  |                |                   |           |            |     |
 
 ### Ammunition
 #### SCAVANGED / REFIT

@@ -5,20 +5,8 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
     {
-      "basename": "Prenotes Mar 27 24",
-      "path": "Prenotes Mar 27 24.md"
-    },
-    {
-      "basename": "The Places...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
-    },
-    {
       "basename": "The Old",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "Tori Lane",
-      "path": "Tori Lane.md"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -27,6 +15,22 @@
     {
       "basename": "Romeo's Journal",
       "path": "Romeo's Journal.md"
+    },
+    {
+      "basename": "The Places...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
+    },
+    {
+      "basename": "The People...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
+    },
+    {
+      "basename": "Prenotes Mar 27 24",
+      "path": "Prenotes Mar 27 24.md"
+    },
+    {
+      "basename": "Tori Lane",
+      "path": "Tori Lane.md"
     },
     {
       "basename": "Prenotes Mar 13 24",
@@ -195,10 +199,6 @@
     {
       "basename": "Wyruq the Grave Presence",
       "path": "Wyruq the Grave Presence.md"
-    },
-    {
-      "basename": "Wargods without War",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Faith-based Texts/Wargods without War.md"
     }
   ],
   "omittedPaths": [],
