@@ -34,9 +34,9 @@ Balthazar heard about their trip to Minyostalma and gives them the following;
 - Heamox Balm (x5) (+2d6hp & 1 Hit Die / round for 8 rounds)
 - Isiopara (x20 / 5 lb) (+3d4 + 10hp / round for 3 rounds)
 - Secreclude Propaterol (x10) (+20hp / round for  3 rounds)
-- HEFP-2 (x5) (+15)
-- Ambebamol (x35)
-- Pro-Finder Mark 1 (x1)
-- EWD Handheld (x3)
+- Hazardous Environment Facial Protector Mark 2 (x5) (+15 RadRes)
+- Ambebamol (x35) (+3 RadRed)
+- Pro-Finder Mark 1 (x1) (45ft radius)
+- EWD Handheld (x3) (20ft radius)
 
 We leave our heroes on the date of ... AF, as they ...
