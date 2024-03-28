@@ -33,9 +33,9 @@ Yahlin's [[Tori Lane]] have been tasked with identifying Cucu's Gold & Silver li
 Balthazar heard about their trip to Minyostalma and gives them the following;
 - Heamox Balm (x5) (+2d6hp & 1 Hit Die / round for 8 rounds)
 - Isiopara (x20 / 5 lb) (+3d4 + 10hp / round for 3 rounds)
-- Secreclude Propaterol (x10) (+20hp / round for  3 rounds)
+- Secreclude Propaterol (x10) (+20hp / round for 3 rounds)
 - Hazardous Environment Facial Protector Mark 2 (x5) (+15 RadRes)
-- Ambebamol (x35) (+3 RadRed)
+- Ambebamol (x35) (+6 RadRed / 25 rounds)
 - Pro-Finder Mark 1 (x1) (45ft radius)
 - EWD Handheld (x3) (20ft radius)
 
