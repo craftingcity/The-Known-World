@@ -15,7 +15,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had returned to the forward-operating post of the resistance effort against the fiendish forces in the Combine. You gathered yourselves and have continued pushing alongside your friendly forces towards 
+When last we left our heroes, they had returned to the forward-operating post of the resistance effort against the fiendish forces in the Combine. You gathered yourselves and have continued pushing alongside your friendly forces towards [[Black Egal]], once the home of some fifteen-hundred people, it now is host to a force of fiends awaiting destruction by your hands.
+
+You four and your patron wizard are camping a 
 
 ### What does the World Know?
 
