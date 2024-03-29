@@ -37,7 +37,7 @@ B 27
 C 13
 D 27
 E 13
-Hound (11)
+Hound (11) 14
 Nala (10)
 Alergra (9)
 
