@@ -32,7 +32,12 @@ There is a standing force of 6 squads of 20, 2 of Cousins, 1 of Apes, 1 of Spine
 Celaena (22)
 Shep (20)
 Breenabell (19)
-Cousin A (11) 5, 16, 28, 44, 52, 64
+~~Cousin A (11) 5, 16, 28, 44, 52, 64, 69~~
+B 27 
+C 13
+D 27
+E 13
+Hound (11)
 Nala (10)
 Alergra (9)
 
