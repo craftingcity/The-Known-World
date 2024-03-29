@@ -30,5 +30,10 @@ There is a standing force of 6 squads of 20, 2 of Cousins, 1 of Apes, 1 of Spine
 ### What happened?
 #### BUNKER BREACH
 Celaena (22)
+Shep (20)
+Breenabell (19)
+Cousin A (11) 5, 16, 28, 44, 52, 64
+Nala (10)
+Alergra (9)
 
 We leave our heroes on the date of ... AF, as they ...
