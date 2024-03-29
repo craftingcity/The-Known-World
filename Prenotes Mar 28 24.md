@@ -33,9 +33,9 @@ Celaena (22)
 Shep (20)
 Breenabell (19)
 ~~Cousin A (11) 5, 16, 28, 44, 52, 64, 69~~
-B 27 
-C 13
-D 27
+B 27, 37
+C 13, 26
+~~D 27~~
 E 13
 Hound (11) 14
 Nala (10)
