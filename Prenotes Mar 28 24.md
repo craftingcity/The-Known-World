@@ -28,6 +28,7 @@ Alergra has third watch, and will be alone.
 There is a standing force of 6 squads of 20, 2 of Cousins, 1 of Apes, 1 of Spines, and 2 of Hounds stationed in [[Black Egal]].
 
 ### What happened?
-
+#### BUNKER BREACH
+Celaena (22)
 
 We leave our heroes on the date of ... AF, as they ...
