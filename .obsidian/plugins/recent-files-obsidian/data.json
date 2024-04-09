@@ -5,12 +5,16 @@
       "path": "Prenotes Apr 09 24.md"
     },
     {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
-    },
-    {
       "basename": "Archmage Barrowinch's Tower",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md"
+    },
+    {
+      "basename": "Pandemonium",
+      "path": "Pandemonium.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/Outer/Abyss/Abyss.md"
     },
     {
       "basename": "Alergra Barrowinch",
@@ -195,10 +199,6 @@
     {
       "basename": "Economics of Cenva Minyo",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     }
   ],
   "omittedPaths": [],
