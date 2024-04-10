@@ -39,11 +39,14 @@ Rinnee will give the report the Apprentices put together, and hopes that she wil
 - Within the Abyss, there are regions or counties that are separated but traversable. Each of these regions is controlled by a major Horrorkin who manifests a more specific or personal interpretation of the Abyssal ideology.
 	- You already know of [[Orcus]]. It is our understanding that he holds titles in regards to Greed, Gluttony, and Undeath and rules the region of the [[Abyss]] known as [[Thanatos]].
 	- There are four others; [[Demogorgon]] of [[Oblivion]], [[Graz'zt]] of [[Hydonga]], [[Baphomet]] of the [[Endless Maze]], and [[Juiblex]] of [[Pandemonium|Nothing]]
-- In our understanding of the hierarchy of the [[Abyss]], these five named horrors are the "Lords", and they control their region and subjects with irrefutable authority. 
-- Celaena is a direct descendant of [[Graz'zt]], and therefor could be considered in the secondary ruling class - she answers to her family alone. Her use of powerful Weave manipulation supports this theory.
+- In our understanding of the hierarchy of the [[Abyss]], these five named horrors are the "Lords", and they control their region and subjects with irrefutable authority. Celaena is a direct descendant of [[Graz'zt]], and therefor could be considered in the secondary ruling class - she answers to her family alone. Her use of powerful Weave manipulation supports this theory.
 - Given the above, we believe that twofold measures should be taken in regards to the protection of the realm;
 	- First, Celaena must be removed. While planar manipulation may be valuable in buying us time, it is our suggestion that her physical form is reduced while on Alaturmen, and stored separately for as much as remains.
-	- Secondarily, the planar barrier between Alaturmen and the Outer planes must be 
+	- Secondarily, the planar barrier between Alaturmen and the Outer planes must be defended, strengthened, or otherwise reinforced to halt continued assaults by these threats. Continued research will be necessary in this regard.
+- Regarding the generalized vulnerabilities of horror-kin; 
+	- Damage via physical force is difficult without the use of enhanced or patched weaponry.
+	- Damage via woven evocation is effective, but the effects produced by righteous followers of our Gods is doubly effective.
+	- Horrorkin seemingly have significant resistances to fire and poisons, as they have been ineffective during the defense of the Combine.
 
 
 
