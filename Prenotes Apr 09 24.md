@@ -23,7 +23,6 @@ hey guys sorry about not giving you any information about who Celaena is and how
 
 
 ### Intro
-
 When last we left our heroes they had faced Celaena for the third time; she came in the night and took your sharpshooter away from you in the dead of night. After finding him gone, you and Alerga gathered information that lead you back into the heart of Boneborn, and into the Bunker that was once the home of the [[Baron Xuiop]], may he rest in peices.
 
 After some conflict, you gathered Jerran and escaped with your lives. The now familiar feeling of teleportation nausea washes over you as you take in your surroundings; you are once again in the Archmage's Tower on the site of the Magius University. Alergra quickly begins to examine Jerran, and begins to cast a spell. What do you do?
@@ -47,8 +46,6 @@ Rinnee, Vu'oo'lx, and James will give the report they put together, and hopes th
 	- Damage via physical force is difficult without the use of enhanced or patched weaponry.
 	- Damage via woven evocation is effective, but the effects produced by righteous followers of our Gods is doubly effective.
 	- Horrorkin seemingly have significant resistances to fire and poisons, as they have been ineffective during the defense of the Combine.
-
-PUSH PUSH PUSH
 
 ### What happened?
 
