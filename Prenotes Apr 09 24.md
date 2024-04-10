@@ -48,5 +48,6 @@ Rinnee, Vu'oo'lx, and James will give the report they put together, and hopes th
 
 ### What happened?
 
+We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contextualized
 
 We leave our heroes on the date of ... AF, as they ...
