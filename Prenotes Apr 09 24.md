@@ -29,11 +29,11 @@ When last we left our heroes they had faced Celaena for the third time; she came
 After some conflict, you gathered Jerran and escaped with your lives. The now familiar feeling of teleportation nausea washes over you as you take in your surroundings; you are once again in the Archmage's Tower on the site of the Magius University. Alergra quickly begins to examine Jerran, and begins to cast a spell. What do you do?
 
 ### What does the World Know?
-Jerran is easily revived/resuscitated.
+Jerran is easily revived/resuscitated, but has multiple days of exhaustion.
 
 Alergra has tasked her apprentices with the gathering of information regarding Celaena, Horror-kin, and the outer planes at large.
 
-Rinnee will give the report the Apprentices put together, and hopes that she will be getting a good grade for it;
+Rinnee, Vu'oo'lx, and James will give the report they put together, and hopes that they will be getting a good grade for it;
 - We hypothesize that Celaena is the niece of Orcus, and is acting as the major influence in Alaturmen for the horror-kin, and she means to conquer Alaturmen for the Abyss.
 - Contextually, the full understanding of the Spirit and Soul is not necessary, only that we move beyond Alaturmen when we are done here. There are four major planes to which each Spirit moves, each representing an ideological morality, but the most relevant of these is [[Abyss]]. 
 - Within the Abyss, there are regions or counties that are separated but traversable. Each of these regions is controlled by a major Horrorkin who manifests a more specific or personal interpretation of the Abyssal ideology.
