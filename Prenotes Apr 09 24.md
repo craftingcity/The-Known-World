@@ -48,6 +48,14 @@ Rinnee, Vu'oo'lx, and James will give the report they put together, and hopes th
 
 ### What happened?
 
-We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contextualized
+We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contextualized Celaena.
+
+### 21st of Weeding
+- Jerran recovers from an exhaustion.
+- Shep reads in the library with an 18 Religion or Arcana regarding "permanently banishing Celaena". Finds information on the [[Book of Names]] and or magically gathering her 'true name'.
+- Breenabelle and Little Fucker gather 151sp from the people of Magius.
+- Nala makes a series of potions...
+
+
 
 We leave our heroes on the date of ... AF, as they ...
