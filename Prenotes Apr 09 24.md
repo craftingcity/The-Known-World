@@ -53,8 +53,15 @@ We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contex
 ### 21st of Weeding
 - Jerran recovers from an exhaustion.
 - Shep reads in the library with an 18 Religion or Arcana regarding "permanently banishing Celaena". Finds information on the [[Book of Names]] and or magically gathering her 'true name'.
-- Breenabelle and Little Fucker gather 151sp from the people of Magius.
-- Nala makes a series of potions...
+- Breenabelle and Little Fucker gather 131sp from the people of Magius.
+- Nala makes a series of potions on a 15...
+	- Lehpora (+1 ILLUS/FORM)
+	- Aloe (+2 HEAL/REGEN)
+	- Poly (2x) (+2 ARCA/WATER)
+	- Fox (+2 CHARM/DESIST)
+	- Holy W (2x) (+3 MORT/SPIR)
+	- K. Gel ()
+	- Soul Sludge (+3 DEGEN/ILLUS)
 
 
 
