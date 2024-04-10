@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "151a1fcbdb2d8b0c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "844ba8b7edac295e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -49,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53fe986d7ec5cda2",
@@ -127,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knock",
+                "query": "guild",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +212,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -220,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Apr 09 24.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Apr 09 24.md",
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Apr 09 24.md"
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
               }
             }
           },
@@ -332,11 +353,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fcba2f2742f0294",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Prenotes Apr 09 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Guild Equipment Requisition Form.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Prenotes Apr 09 24.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "Prenotes Mar 28 24.md",
@@ -359,7 +381,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Emergency Communicae c. 105AF.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alaturmenian Travel Table.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
