@@ -26,6 +26,8 @@ Starting from the north, and continuing clockwise, the wards are located in a ri
 #### The Wheel Ward
 In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. Its walls form a circular space formed into a torus by the central Temple to the Many.
 
+Since the invasions of the first century and beyond by forces 
+
 #### The Iron Ward
 The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this ward are brutalist and many are constructed such that they would be effective defense during a siege of the city.
 
