@@ -48,7 +48,7 @@ Rinnee will give the report the Apprentices put together, and hopes that she wil
 	- Damage via woven evocation is effective, but the effects produced by righteous followers of our Gods is doubly effective.
 	- Horrorkin seemingly have significant resistances to fire and poisons, as they have been ineffective during the defense of the Combine.
 
-
+PUSH PUSH PUSH
 
 ### What happened?
 

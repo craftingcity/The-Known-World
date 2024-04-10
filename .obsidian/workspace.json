@@ -27,28 +27,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "efed1b428fa061ac",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "50070e7bf4a36ef0",
@@ -373,7 +353,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efed1b428fa061ac",
+  "active": "4199704cb07854d2",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
     "Pandemonium.md",
