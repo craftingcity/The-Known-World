@@ -64,7 +64,7 @@ The Damaged Chapel is a small compound of a main Chapel, a small Barracks, and a
 
 The Chapel itself is quite badly damaged, as the supporting structures of the second story have failed and caused the roof of the building to partially collapse inward - thus the name. The battles that have taken place within the building surely do not help either. Under scrutiny of the surviving religious images, two things can be known;
 	- The text is [[Sylvan (language)]], and the images depict a bountiful land of nature.
-	- The god worshipped here is named [[Kor-ket]], and a repeating motif is "All this is be made to be yours to do what you will."
+	- The god worshipped here is named [[Kor-ket]], and a repeating motif is "All this is made to be yours to do what you will."
 
 The graveyard is largely uninteresting to those who care little for the names of dead souls, but the mausoleums that scatter throughout are more interesting - once used by the resting dead, they are now used as small shelters, storage areas, and military defenses (see Embrasure).
 
