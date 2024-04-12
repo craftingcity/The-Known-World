@@ -19,7 +19,7 @@ When last we left our heroes they had gathered information that led them away fr
 
 From what you know, Minyostalma is fully contained by the [[The Church of the White Flame|White Church]] under military guard due to its nature as an area where reality has become anomalous. Those who enter willingly are under the impressions that the risk is worth the reward. 
 
-We return to the party as they 
+We return to the party as they have breached the northern walls surrounding Minyostalma. You see before you a large rolling field of thin dark grass, where dark twisted trees and low bushes dotted about. You can see a large chapel some 600 feet in front of you. Beyond 
 
 ### What does the World Know?
 
