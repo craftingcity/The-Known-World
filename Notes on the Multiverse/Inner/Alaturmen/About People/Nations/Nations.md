@@ -32,6 +32,7 @@ aliases:
 			- [[Deep-Guardian Tactical Security Company]]
 		- [[Five Pike]]
 		- [[Grovetenders]]
+		- [[Harvord Trading Company]]
 		- [[Hillkeep Loyalists]]
 		- **[[Knights in Red]]**
 		- [[Mossburg Corporation]]

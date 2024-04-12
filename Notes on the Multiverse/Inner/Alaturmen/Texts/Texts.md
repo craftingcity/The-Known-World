@@ -16,6 +16,7 @@ aliases:
 		- [[Guild Equipment Requisition Form]]
 		- [[Laws of Adventuring]]
 	- [[Emergency Communicae c. 105AF]]
+	- [[Politics of Coalition c. 093AF - XXXAF]]
 	- **Recordkeeping**
 		- [[Emergency Communicae c. 103AF]]
 		- [[On Peoples Involved with Arthur Simonson]]
@@ -33,6 +34,7 @@ aliases:
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
 - [[On the Hum Arcani; Independent Position]]
+- [[Romeo's Journal]]
 - [[Tetrimoc's Journal (Propaganda)]]
 - [[The Return of Moses the Brave]]
 - [[The Tales of Big Buster Badass]]

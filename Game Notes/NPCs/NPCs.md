@@ -42,10 +42,12 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Adventuring Parties]]
 		- [[Devililith]]
 		- [[Dimble Turing]]
+		- [[Fulton Shepherd]]
 		- **[[Grey Ordeal]]**
 		- [[Irenaus]]
 		- **[[Kakurak's Chosen]]**
 	- **[[True Villian NPCs]]**
+- [[Hoggak Cander-Wheernat]]
 - [[List of Names]]
 - [[Lou a'Locca]]
 - [[Marley Hurraquk]]
@@ -73,6 +75,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Thief Lords of the Desert]]**
 - [[Moses the Brave]]
 - [[Raam ben Yarom]]
+- [[Tori Lane]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
 	- **King's Tenants**
@@ -81,10 +84,12 @@ for the graph: [[Here lie my suppliments...]]
 		- **[[Ex-Bandit Lords]]**
 		- [[Fraznky Bradley]]
 		- [[Griss'eltel Bodaim]]
+		- [[Scree'up]]
 		- [[Toor, of Killskull]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
 	- [[River Borns]]
+- [[Wyruq the Grave Presence]]
 - **zDeceased**
 	- [[Big Buster]]
 	- [[Darwine Evon]]
@@ -99,6 +104,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Kakurak]]
 		- [[Quosetteng]]
 		- [[Tetrimoc]]
+		- [[Zauk-Iyr]]
 	- **[[Giant NPCs]]**
 
 %% End Waypoint %%
