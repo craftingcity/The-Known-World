@@ -37,13 +37,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Kor-ket",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kor-ket.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":20},\"to\":{\"line\":6,\"ch\":20}}}"
+                },
+                {
+                  "title": "Ondo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ondo.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":268},\"to\":{\"line\":17,\"ch\":268}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ondo.md",
+                "file": "New Cannane.md",
                 "mode": "source",
                 "source": true
               }
@@ -374,9 +386,13 @@
   },
   "active": "c61a0299affed591",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "New Cannane.md",
+    "Kor-ket.md",
     "Ondo.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Outer/Elysium/Elysium.md",
+    "Notes on the Multiverse/Outer/Elysium/Harmony.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 12 24.md",
     "MEDIA/SUPP/Minyostalma.drawio",
@@ -398,10 +414,6 @@
     "Game Notes/NPCs/Hoggak Cander-Wheernat.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
-    "Prenotes Apr 09 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
