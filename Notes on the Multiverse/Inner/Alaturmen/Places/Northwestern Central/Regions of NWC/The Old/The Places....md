@@ -1,7 +1,7 @@
-## The Places...
+# The Places...
 Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
 
-### The Cordon
+## The Cordon
 This region of the Old is known as the Cordon. [[#White-Flame Militants]] hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
 
 #### The Western Entrance
@@ -44,8 +44,10 @@ South of [[#The Depot]] and East of [[#The Barracks]], the Training Grounds is a
 #### The Forward Post
 South-east of [[#The Depot]], a single rusting metal watch-tower serves as lookout for the surrounding tents and reinforced ruins. The soldiers stationed here know that they are the first line of defense against anything that Minyostalma will throw at them.
 
-### The Haven
-A welcoming Seeker holding that is in conflict with the nearby Militants at the Cordon and the hostile Scavs and Mercenaries that operate in and nearby the Factory.
+
+
+## The Haven
+A welcoming Seeker holding that is in conflict with the nearby Militants at [[#The Cordon]] and the hostile Scavs and Mercenaries that operate in and nearby [[#The Factory]].
 
 #### The Northern Entrance
 The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
@@ -53,9 +55,14 @@ The Northern Entrance is one of the three formally operated gates in the walls t
 Entering this gate leads into [[#The Damaged Chapel]], where a small trail leads to [[#The Rookie Village]] and eventually the Haven at large.
 
 #### The Rookie Village
-The so-called "Rookie Village" was - at one point - a small hunting settlement by the name of Belthaenne, but it is now occupied by a number of generally unaffiliated Seekers and is managed by a negligently profitable Goliath merchant who calls himself .
+The so-called "Rookie Village" was - at one point - a small hunting settlement by the name of Belthaenne, but it is now occupied by a number of generally unaffiliated Seekers and is managed by a negligently profitable Goliath merchant who calls himself [[Ondo]].
+
+A thin trail connects the Rookie Village to [[#The Damaged Chapel]] to the east and to [[#The Levee]] to the south. 
 
 #### The Damaged Chapel
+The Damaged Chapel is a small compound of a main Chapel, a small Barracks, and a series of mausoleums throughout a large yard of marked graves. 
+
+The graveyard is largely uninteresting to those who care little for the names of dead souls, but the mausoleums that scatter throughout are more interesting - once used for the 
 
 #### The Lone Farmstead
 
@@ -72,7 +79,9 @@ The so-called "Rookie Village" was - at one point - a small hunting settlement b
 #### The Forester's Hut
 
 
-### The Sticks
+
+
+## The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
 
 #### The Eastern Breach 
@@ -96,7 +105,9 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 #### The Outlook
 
 
-### The Factory
+
+
+## The Factory
 The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
 
 #### The Showroom
@@ -118,7 +129,9 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 #### The Stamping Line
 
 
-### The City
+
+
+## The City
 #### The Offices, North
 
 #### The Arched Road
@@ -138,7 +151,9 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 #### The Hospital
 
 
-### The Village
+
+
+## The Village
 #### The Hovels
 
 #### The Homes
@@ -158,7 +173,9 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 #### The Outskirts, South
 
 
-### The Temple
+
+
+## The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
 
 #### The Open Cloister
@@ -181,7 +198,9 @@ The urban center of Minyostalma, and one of the largest surviving structures in 
 
 
 
-### The Base
+
+
+## The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
 #### The Importing Pallets
 
@@ -203,7 +222,9 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 
 
 
-### The Shipyard
+
+
+## The Shipyard
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
 #### The Southern Entrance
@@ -226,7 +247,9 @@ A *rostok/yanov* built into a hillside that looks like a ship if you are coming 
 
 #### The Wall Games
 
-### The Spaces in Between
+
+
+## The Spaces in Between
 #### Broken Swamps
 #### Grey Forest
 #### Flats

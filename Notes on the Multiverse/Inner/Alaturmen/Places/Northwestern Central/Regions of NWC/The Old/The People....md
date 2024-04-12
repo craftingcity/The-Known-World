@@ -7,7 +7,7 @@ A collective name for the individuals and groups without a greater affiliation t
 ###### Equipment
 ###### Areas of Operation
 - [[#The Haven]]
-	- The Seekers within the Haven are united by their allegiance to /merchant name/ and each other. 
+	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
 	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
 - [[#The Sticks]]
 - [[#The Factory]]

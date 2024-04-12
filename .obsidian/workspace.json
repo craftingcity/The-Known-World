@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "2faec1e08bdbc700",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ondo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a95153a9149fd653",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -305,10 +326,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "8739a57f5a8ab83b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ab52c0265778bc00",
+        "type": "window",
+        "children": [
+          {
+            "id": "0c4be4d557ef7874",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae57eac894c1d7c5",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "c61a0299affed591",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Ondo.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 12 24.md",
     "MEDIA/SUPP/Minyostalma.drawio",
     "MEDIA/SUPP/alchemy.drawio",
@@ -333,8 +402,6 @@
     "Prenotes Apr 09 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
