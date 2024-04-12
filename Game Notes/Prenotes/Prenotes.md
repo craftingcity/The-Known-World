@@ -29,9 +29,6 @@
 	- [[Prenotes Mar 12 24]]
 	- [[Prenotes Mar 13 24]]
 	- [[Prenotes Mar 19 24]]
-	- [[Prenotes Mar 20 24]]
-	- [[Prenotes Mar 27 24]]
-	- [[Prenotes Mar 28 24]]
 
 %% End Waypoint %%
 

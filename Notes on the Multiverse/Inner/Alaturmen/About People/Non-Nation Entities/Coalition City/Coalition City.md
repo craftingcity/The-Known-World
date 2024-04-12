@@ -21,12 +21,12 @@ Individuals, like wanders or merchants, as well as the major [[Merchant Companie
 
 ## Important Places
 ### Wards
-Starting from the north and continuing clockwise, the wards are located in a ring around the [[Wheel Ward]] as follows. The walls of the city are all, unless otherwise described, are a grey recomposite stone brick that forms 40-foot walls - not that they are much protection from anyone more than 1000 yards away, upon the natural cliffside.
+Starting from the north, and continuing clockwise, the wards are located in a ring around the [[Wheel Ward]] as follows. The walls of the city are all, unless otherwise described, are a grey recomposite stone brick that forms 40-foot walls - not that they are much protection from anyone more than 1000 yards away, upon the natural cliffside.
 
 #### The Wheel Ward
 In the center of the city, the [[Wheel Ward]] holds the overflow from the other wards, and serves as a central market and public common space. Its walls form a circular space formed into a torus by the central Temple to the Many.
 
-Circa 105AF, the Fiendish Insurrection pushed [[Nicolas Talaveem]], Yellow Wizard of the Coucil of Mages, to conceive and construct a defense for Coalition City's continued survival and viability as the de-jure capital city of Alaturmen. Nicolas would eventually install the 
+Since the invasions of the first century and beyond by forces 
 
 #### The Iron Ward
 The [[Iron Ward]] is one of the major entrances into the City, and it's architecture stands tall and foreboding - this is a reasonable welcome in the north, where both the cultures are *militant*, for lack of a better word. The buildings in this ward are brutalist and many are constructed such that they would be effective defense during a siege of the city.

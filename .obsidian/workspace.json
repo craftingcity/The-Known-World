@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63ae2c63c77196fd",
+        "id": "e25c8f4f6df00bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b8239580d8e51e",
+            "id": "c61a0299affed591",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chiton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,11 +132,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -269,34 +270,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8b8239580d8e51e",
+  "active": "c61a0299affed591",
   "lastOpenFiles": [
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Zauk-Iyr.md",
-    "Game Notes/NPCs/Wyruq the Grave Presence.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Wheel Ward.md",
-    "Game Notes/NPCs/Tori Lane.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Stone Ward.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Steel Ward.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
+    "MEDIA/SUPP/alchemy.drawio",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Outer/Abyss/Pandemonium.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Moss Ward.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Jade Ward.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Ivory Ward.md",
-    "Game Notes/NPCs/Hoggak Cander-Wheernat.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Harvord Trading Company.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
-    "Milliecore.md",
-    "().md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Scree'up.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 093AF - XXXAF.md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 28 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 20 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 19 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Mar 07 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Mar 06 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Feb 29 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Feb 28 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
+    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Zauk-Iyr.md",
+    "Game Notes/NPCs/Wyruq the Grave Presence.md",
+    "Game Notes/NPCs/Weak Power/King's Tenants/Scree'up.md",
+    "Game Notes/NPCs/Tori Lane.md",
+    "Game Notes/NPCs/Hoggak Cander-Wheernat.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Hannah's Demon (Celaena).md",
+    "Prenotes Apr 09 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Archmage Barrowinch's Tower.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
