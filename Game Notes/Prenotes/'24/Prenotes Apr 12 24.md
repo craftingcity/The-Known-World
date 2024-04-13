@@ -29,7 +29,7 @@ See [[The Places...#The Northern Entrance]]
 
 ### What happened?
 
-Made relationships with [[Ondo]], bought am
+Made relationships with [[Ondo]], bought ammunition, "the Aeris" and the *PDA*.
 
 
 We leave our heroes on the date of ... AF, as they ...
