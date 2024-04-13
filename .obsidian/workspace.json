@@ -4,58 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "63ae2c63c77196fd",
-        "type": "tabs",
+        "id": "8c54ca186d78b437",
+        "type": "split",
         "children": [
           {
-            "id": "f8b8239580d8e51e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "63ae2c63c77196fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9751f88e31254ea1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+                    "mode": "preview",
+                    "source": true
+                  }
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-                "mode": "source",
-                "source": true
+              },
+              {
+                "id": "acc70a4fda7a31b1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "523dafcfc9de9664",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9c296efc5445caf9",
-        "type": "tabs",
-        "children": [
+            ],
+            "currentTab": 1
+          },
           {
-            "id": "22787198c8a5a8f1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                "mode": "source",
-                "source": true
+            "id": "f941cc4599ee01f9",
+            "type": "split",
+            "children": [
+              {
+                "id": "c2892069ef428446",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f8b8239580d8e51e",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5bb74ccedca05f6e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "22787198c8a5a8f1",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -100,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "romeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,12 +247,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 446,
-    "collapsed": true
+    "width": 446
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -193,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md"
               }
             }
           },
@@ -305,10 +388,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8b8239580d8e51e",
+  "active": "acc70a4fda7a31b1",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Ondo.md",
     "New Cannane.md",
     "Kor-ket.md",
@@ -332,9 +418,6 @@
     "Milliecore.md",
     "().md",
     "Game Notes/NPCs/Weak Power/King's Tenants/Scree'up.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 093AF - XXXAF.md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 28 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
