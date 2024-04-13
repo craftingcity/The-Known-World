@@ -20,8 +20,39 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c296efc5445caf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22787198c8a5a8f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -136,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 446,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -161,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +259,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
+              }
             }
           },
           {
@@ -271,6 +307,8 @@
   },
   "active": "f8b8239580d8e51e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Ondo.md",
     "New Cannane.md",
     "Kor-ket.md",
@@ -280,7 +318,6 @@
     "Game Notes/NPCs/Wyruq the Grave Presence.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Wheel Ward.md",
     "Game Notes/NPCs/Tori Lane.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Stone Ward.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Steel Ward.md",
@@ -298,7 +335,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Politics of Coalition c. 093AF - XXXAF.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 28 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 20 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",

@@ -68,6 +68,8 @@ The Chapel itself is quite badly damaged, as the supporting structures of the se
 
 The graveyard is largely uninteresting to those who care little for the names of dead souls, but the mausoleums that scatter throughout are more interesting - once used by the resting dead, they are now used as small shelters, storage areas, and military defenses (see Embrasure).
 
+A thin trail travels from the front door of the chapel westward towards and into [[#The Rookie Village]].
+
 #### The Lone Farmstead
 
 #### The Levee
