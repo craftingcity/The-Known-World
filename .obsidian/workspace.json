@@ -74,7 +74,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f941cc4599ee01f9",
@@ -153,8 +154,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "5bb74ccedca05f6e",
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "romeo",
+                "query": "langu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -391,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md"
               }
             }
           },
@@ -436,13 +436,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbd29b220c13030c",
+  "active": "471fab77001b02ee",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
