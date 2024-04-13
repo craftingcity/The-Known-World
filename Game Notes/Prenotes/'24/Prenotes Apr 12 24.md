@@ -29,5 +29,7 @@ See [[The Places...#The Northern Entrance]]
 
 ### What happened?
 
+Made relationships with [[Ondo]], bought am
+
 
 We leave our heroes on the date of ... AF, as they ...
