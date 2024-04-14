@@ -20,4 +20,4 @@ It is the 27th today. We have succeeded in entering the Northern Gate, Micky had
 
 Once we got inside, Ghost took the lead, and started us off heading south towards the Haven. We got close by Damaged Chapel before we got chased around for the rest of the day by a group of crazed men? They ran on all fours like dogs, but they wore clothing and masks. I never got a good look at them, I was too busy running. Micky and Simone were gone for a few hours, but they came back to the Chapel by the end of the night. I was so scared.
 
-We're in Rookie Village now. We've talked with a few folks Ghost knows, and they set us up in one of the houses here. They gave us food, water, weapons, equipment, and some weird clothing they said would keep the hidden dangers away. We are leaving for the 
+We're in Rookie Village now. We've talked with a few folks Ghost knows, and they set us up in one of the houses here. They gave us food, water, weapons, equipment, and some weird clothing they said would keep the hidden dangers away. We are leaving for the Factory today. Ghost says that getting there will be the hardest part.
