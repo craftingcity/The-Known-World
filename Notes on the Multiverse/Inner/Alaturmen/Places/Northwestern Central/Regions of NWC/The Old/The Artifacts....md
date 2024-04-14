@@ -60,9 +60,9 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. 
 
 ###### Jasper's Twin
-> 'One half of a helix made of a rough yellow stone'
+> 'One half of a helix made of a dulled blueish stone, slowly turning and grinding against your gloved hand.'
 > *Jasper's Twin* are a **uncommon** artifact.
-> A **
+> A *Jasper's Twin*
 
 ##### Acid
 < 0 common, 0 uncommon, 1 rare >
@@ -85,5 +85,5 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 0 common, 0 uncommon, 1 rare >
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
-> *Space-Jolt Diamond* are a **rare** artifact. 
+> *Space-Jolt Diamond* are a **rare** artifact and incurs 2d6 (7) Radiation. 
 > A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC 19 Strength Saving Throw or take 3d6 +12 force damage, is pushed 5' backwards, and is knocked Prone.

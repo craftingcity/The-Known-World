@@ -19,16 +19,16 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |      |      |            |
 
 #### EQUIPMENT
-| Name                                     | Type                   | Use                             | Importers   | Cost in AC |
-| ---------------------------------------- | ---------------------- | ------------------------------- | ----------- | ---------- |
-| Pro-Finder Mark 1                        | Arti. Detector         | 45-foot radius                  | All         |            |
-| Pro-Finder Mark 2                        | Arti. Detector         | 60-foot radius, +5 Investigate  | All         |            |
-| WhiteTech Detector                       | Arti. / Anom. Detector | 60-foot radius                  | WFM         |            |
-| Sukari Style Detector                    | Arti. Detector         | 60-foot radius, +10 Investigate | Mercs       |            |
-| Camelot Style Detector                   | Arti. / Anom. Detector | 75-foot radius, +5 Investigate  | Mercs, M.T. |            |
-| Extreme Weave Distortion Handheld Mark 1 | Anom. Detector         | 20-foot radius                  | All         |            |
-| Extreme Weave Distortion Handheld Mark 2 | Anom. Detector         | 35-foot radius                  | All         |            |
-| Tuned Hazardous Location Alert System    | Rad. Detector          | 45-foot radius                  | Mercs       |            |
+| Name                                     | Type                   | Use                            | Importers   | Cost in AC |
+| ---------------------------------------- | ---------------------- | ------------------------------ | ----------- | ---------- |
+| Pro-Finder Mark 1                        | Arti. Detector         | 45-foot radius                 | All         |            |
+| Pro-Finder Mark 2                        | Arti. Detector         | 60-foot radius, +5 Perception  | All         |            |
+| WhiteTech Detector                       | Arti. / Anom. Detector | 60-foot radius                 | WFM         |            |
+| Sukari Style Detector                    | Arti. Detector         | 60-foot radius, +10 Perception | Mercs       |            |
+| Camelot Style Detector                   | Arti. / Anom. Detector | 75-foot radius, +5 Perception  | Mercs, M.T. |            |
+| Extreme Weave Distortion Handheld Mark 1 | Anom. Detector         | 20-foot radius                 | All         |            |
+| Extreme Weave Distortion Handheld Mark 2 | Anom. Detector         | 35-foot radius                 | All         |            |
+| Tuned Hazardous Location Alert System    | Rad. Detector          | 45-foot radius                 | Mercs       |            |
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -132,29 +132,20 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |       |            |
 
 ### Medical
-|                       |     |        |           |               |     |     |                   |
-| --------------------- | --- | ------ | --------- | ------------- | --- | --- | ----------------- |
-| Secreclude Propaterol |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
-| Pretokarin            |     | Liquid | Equipment | Transmutation |     |     | per 1/16th gallon |
-| Ambebamol             |     | Solid  | Equipment | Transmutation |     |     | per ounce         |
-| Aerotide              |     | Gas    | Equipment | Transmutation |     |     | per gallon        |
-
 #### PROTECTION
 | Name             | Type | Desc. | Cost in AC |
 | ---------------- | ---- | ----- | ---------- |
-| x                | x    |       |            |
-| Aerotide         |      |       |            |
+| Aerotide         | Gas  |       |            |
 | Crotosine Vepian |      |       |            |
 
 #### HEALING
-| Name                  | Type | Desc. | Cost in AC |
-| --------------------- | ---- | ----- | ---------- |
-| x                     | x    |       |            |
-| Heamox Balm           |      |       |            |
-| Isiopara              |      |       |            |
-| Pretokarin            |      |       |            |
-| Secreclude Propaterol |      |       |            |
-| Ambebamol             |      |       |            |
+| Name                  | Type       | Desc. | Cost in AC |
+| --------------------- | ---------- | ----- | ---------- |
+| Heamox Balm           | Semi-Solid |       |            |
+| Isiopara              | Solid      |       |            |
+| Pretokarin            | Liquid     |       |            |
+| Secreclude Propaterol | Solid      |       |            |
+| Ambebamol             | Solid      |       |            |
 
 #### RADIATION
 | Name | Type | Desc. | Cost in AC |
