@@ -62,7 +62,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Jasper's Twin
 > 'One half of a helix made of a dulled blueish stone, slowly turning and grinding against your gloved hand.'
 > *Jasper's Twin* are a **uncommon** artifact.
-> A *Jasper's Twin*
+> A *Jasper's Twin* is a passive artifact with a triggered effect.
 
 ##### Acid
 < 0 common, 0 uncommon, 1 rare >
