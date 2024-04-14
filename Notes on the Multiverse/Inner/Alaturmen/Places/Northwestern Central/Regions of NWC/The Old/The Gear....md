@@ -58,14 +58,18 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Ammunition
 #### SCAVANGED / REFIT
-| Name | Type | Dam. | Cost in AC |
-| ---- | ---- | ---- | ---------- |
-| x    | x    |      |            |
+| Name                                  | Type  | Dam. | Cost in AC |
+| ------------------------------------- | ----- | ---- | ---------- |
+| Refit Durandurm Magazine, Wild Tracer | Force |      |            |
 
 #### IMPORTED / FORGED
-| Name   | Type | Dam. | Cost in AC |
-| ------ | ---- | ---- | ---------- |
-| Hummpo | Fire |      |            |
+| Name                             | Type    | Dam. | Cost in AC |
+| -------------------------------- | ------- | ---- | ---------- |
+| Durandurm Magazine, Fire Red     | Fire    |      |            |
+| Durandurm Magazine, Water Blue   | Cold    |      |            |
+| Durandurm Magazine, Earth Yellow | Thunder |      |            |
+| Durandurm Magazine, No Tracer    | Force   |      |            |
+| Hummpo                           | Fire    |      |            |
 
 
 ### Containers
@@ -97,7 +101,6 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Dareanamon      | Eupho. |       |            |
 | Oldshine        | Depre. |       |            |
 | Good Liquor     | Depre. |       |            |
-|                 |        |       |            |
 
 #### TROPHIES
 | Name | Type | Desc. | Cost in AC |
@@ -139,15 +142,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Crotosine Vepian |      |       |            |
 
 #### HEALING
-| Name                  | Type       | Desc. | Cost in AC |
-| --------------------- | ---------- | ----- | ---------- |
-| Heamox Balm           | Semi-Solid |       |            |
-| Isiopara              | Solid      |       |            |
-| Pretokarin            | Liquid     |       |            |
-| Secreclude Propaterol | Solid      |       |            |
-| Ambebamol             | Solid      |       |            |
+| Name                  | Type       | Desc.                                                                                                                              | Cost in AC |
+| --------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (2d6hp / 8 rounds + 1 Hit Die) |            |
+| Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (10 + 3d4hp / 3 rounds)                  |            |
+| Pretokarin            | Liquid     |                                                                                                                                    |            |
+| Secreclude Propaterol | Solid      | Typically dispensed by injection, Pretokarin quickly regenerates severe wounds. (+20hp / 3 rounds)                                 |            |
+
 
 #### RADIATION
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name      | Type  | Desc.                                                                                                                                               | Cost in AC |
+| --------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Ambebamol | Solid | A yellow-green powder that when consumed orally or nasally, provides protection against the hidden threat known as Radiation (+6RadRes / 25 rounds) |            |

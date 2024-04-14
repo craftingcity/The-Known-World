@@ -31,7 +31,7 @@ Romeo has had time to get to [[The Old|Minyostalma]], a quick jaunt across the b
 Yahlin's [[Tori Lane]] have been tasked with identifying Cucu's Gold & Silver liquid, the black ooze experiments, and they sold a lot of shit to her.
 
 Balthazar heard about their trip to Minyostalma and gives them the following;
-- Heamox Balm (x5) (+2d6hp & 1 Hit Die / round for 8 rounds)
+- Heamox Balm (x5) (+2d6hp  / round for 8 rounds & 1 Hit Die)
 - Isiopara (x20 / 5 lb) (+3d4 + 10hp / round for 3 rounds)
 - Secreclude Propaterol (x10) (+20hp / round for 3 rounds)
 - Hazardous Environment Facial Protector Mark 2 (x5) (+15 RadRes)
