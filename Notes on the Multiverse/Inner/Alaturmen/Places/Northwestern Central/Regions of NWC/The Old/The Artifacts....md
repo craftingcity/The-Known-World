@@ -9,6 +9,19 @@ When Artifact Hunting, the first and most important piece of equipment a Scav wi
 
 While there are stories of mages attempting to use their repertoire of spells to find and collect artifacts, they all end in severe damage to the mage, if not their death. It can be done - at great peril.
 
+When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Perception) Check during travel, roll 1d8 and refer to the following table. If they succeed by five or more, roll twice.
+
+| Roll | Effect                                                                              |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1    | While the character is successful, they do not find artifacts during their journey. |
+| 2    | The character spots a common artifact.                                              |
+| 3    | The character spots a common artifact.                                              |
+| 4    | The character spots a common artifact.                                              |
+| 5    | The character spots an uncommon artifact.                                           |
+| 6    | The character spots an uncommon artifact.                                           |
+| 7    | The character spots a rare artifact.                                                |
+| 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
+
 ### Known and Named Artifacts
 ![[AlchemicalComponentMotifs.png]]
 ###### /stones types/
@@ -40,20 +53,36 @@ While there are stories of mages attempting to use their repertoire of spells to
 | Ash (bone)        |     |                 |
 
 ##### All
+< 1 common, 1 uncommon, 0 rare >
 ###### Corebent Duram
+> 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact. 
 > A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. 
+
+###### Jasper's Twin
+> 'One half of a helix made of a rough yellow stone'
+> *Jasper's Twin* are a **uncommon** artifact.
+> A **
+
 ##### Acid
+< 0 common, 0 uncommon, 1 rare >
 ###### Emerald Liver
 > *Emerald Liver* are a **rare** artifact. 
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
+
+
 ##### Electric
+< 0 common, 1 uncommon, 0 rare >
 ###### Duram Battery
 > *Duram Battery* are a **uncommon** artifact. 
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
+
 ##### Fire
+< 0 common, 0 uncommon, 1 rare >
 ###### Fire-Heart Ruby
+
 ##### Force
+< 0 common, 0 uncommon, 1 rare >
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
 > *Space-Jolt Diamond* are a **rare** artifact. 
