@@ -60,7 +60,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. 
 
 ###### Petrified Mercury
-> 'A tear-drop shape of silver-grey, you see a shining reflection of yourself within.'
+> 'A teardrop shape of silver-grey, you see a shining reflection of yourself within.'
 > *Petrified Mercury* are a **common** artifact, and incurs 1d4 (2) Radiation.
 > A *Petrified Mercury* is a passive artifact with one charge and a triggered effect. When you next make a Saving Throw, the charge is used, and you add 2 to that save.
 
