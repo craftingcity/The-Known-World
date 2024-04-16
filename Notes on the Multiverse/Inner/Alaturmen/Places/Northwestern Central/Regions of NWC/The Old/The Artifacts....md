@@ -62,6 +62,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Petrified Mercury
 > 'A tear-drop shape of silver-grey, you see a shining reflection of yourself within.'
 > *Petrified Mercury* are a **common** artifact, and incurs 1d4 (2) Radiation.
+> A *Petrified Mercury* is a passive artifact with one charge and a triggered effect. When you make a Saving Throw, the charge is used, and 
 
 ###### Jasper's Twin
 > 'One half of a helix made of a dulled blueish stone, slowly turning and grinding against your gloved hand.'
@@ -84,10 +85,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ##### Fire
 < 0 common, 0 uncommon, 1 rare >
 ###### Fire-Heart Ruby
+> 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
 
 ##### Force
 < 0 common, 0 uncommon, 1 rare >
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
 > *Space-Jolt Diamond* are a **rare** artifact and incurs 2d6 (7) Radiation. 
-> A *Space-Jolt Diamond* holds up to four charges, and can be used to produce a powerful 10' cone of force. Creatures within the cone must make a DC 19 Strength Saving Throw or take 3d6 +12 force damage, is pushed 5' backwards, and is knocked Prone.
+> A *Space-Jolt Diamond* holds up to four charges. As a bonus action, you may spend a charge and produce a powerful 10' cone of force from you in a direction you choose. Creatures within the cone must make a DC 19 Strength Saving Throw. A target takes 3d6 +12 force damage, are pushed 5' backwards, and are knocked Prone on a failed save, or half as much damage, are not pushed or knocked Prone on a successful one. 
