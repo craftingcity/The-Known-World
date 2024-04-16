@@ -53,16 +53,20 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | Ash (bone)        |     |                 |
 
 ##### All
-< 1 common, 1 uncommon, 0 rare >
+< 1 common, 0 uncommon, 1 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact. 
 > A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. 
 
+###### Petrified Mercury
+> 'A tear-drop shape of silver-grey, you see a shining reflection of yourself within.'
+> *Petrified Mercury* are a **common** artifact, and incurs 1d4 (2) Radiation.
+
 ###### Jasper's Twin
 > 'One half of a helix made of a dulled blueish stone, slowly turning and grinding against your gloved hand.'
-> *Jasper's Twin* are a **uncommon** artifact and incurs 2d4 (5) Radiation.
-> A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half the damage as Radiation instead.
+> *Jasper's Twin* are a **rare** artifact and incurs 4d4 (10) Radiation.
+> A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ##### Acid
 < 0 common, 0 uncommon, 1 rare >

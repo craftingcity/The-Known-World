@@ -5,7 +5,7 @@ While many of the most common spellcasters draw on divine or natural powers, tho
 
 	> When a "divine" or "natural" caster attempts to cast a spell, they may expend a number of hit-die equal to the spell's level. If they do not, they take that number of d10 psycic damage instead. This effect only occurs after a caster's first spell or after 4 hours in The Old.
 	> After this point, spell slots may not be expended and spells may not be cast - including cantrips.
-	> The following dnd5e spellcaster classes are efffected; Druids, Rangers, Clerics, Paladins, Warlocks.
+	> The following dnd5e spellcaster classes are effected; Druids, Rangers, Clerics, Paladins, Warlocks.
 
 #### Arcane Spellcasters
 Where their Divine companions are personally punished for their casting, and may be unable to safely cast spells at all, Arcane spellcasters are often overwhelmed with the effectiveness of their spells while they are cast within the Old.
