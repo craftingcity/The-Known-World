@@ -83,8 +83,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 
 ###### Crystal Knee
-> 'A 
->'
+> 'A '
 > *Crystal Knee* are a **rare** artifact.
 
 
