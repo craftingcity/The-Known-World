@@ -13,7 +13,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 | Roll | Effect                                                                              |
 | ---- | ----------------------------------------------------------------------------------- |
-| 1    | While the character is successful, they do not find artifacts during their journey. |
+| 1    | The character spots an artifact sample. |
 | 2    | The character spots a common artifact.                                              |
 | 3    | The character spots a common artifact.                                              |
 | 4    | The character spots a common artifact.                                              |
