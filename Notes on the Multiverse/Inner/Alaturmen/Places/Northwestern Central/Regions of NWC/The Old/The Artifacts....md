@@ -78,9 +78,13 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 0 common, 0 uncommon, 1 rare >
 
 ###### Emerald Liver
+> 'A thick chunk of beautifully clear emerald'
 > *Emerald Liver* are a **rare** artifact. 
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 
+###### Crystal Knee
+> 'A '
+> *Crystal Knee* are a **rare** artifact.
 
 
 ##### Electric
