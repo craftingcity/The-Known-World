@@ -53,7 +53,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | Ash (bone)        |     |                 |
 
 ##### All
-< 2 common, 0 uncommon, 1 rare >
+< 3 common, 0 uncommon, 1 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
@@ -75,7 +75,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ##### Acid
-< 0 common, 0 uncommon, 1 rare >
+< 0 common, 0 uncommon, 2 rare >
 
 ###### Emerald Liver
 > 'A thick chunk of beautifully clear emerald'
@@ -83,7 +83,8 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 
 ###### Crystal Knee
-> 'A '
+> 'A 
+>'
 > *Crystal Knee* are a **rare** artifact.
 
 
