@@ -60,8 +60,9 @@ We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contex
 	- Poly (2x) (+2 ARCA/WATER)
 	- Fox (+2 CHARM/DESIST)
 	- Holy W (2x) (+3 MORT/SPIR)
-	- K. Gel ()
+	- K. Gel (+3 ILLUS/FORM)
 	- Soul Sludge (+3 DEGEN/ILLUS)
+	- TOTAL POTENCY: 36 - "Potion of Form: Mirror Image", Master Grade
 
 
 
