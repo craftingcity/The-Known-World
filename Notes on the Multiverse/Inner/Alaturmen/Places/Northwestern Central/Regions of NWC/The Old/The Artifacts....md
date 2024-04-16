@@ -62,7 +62,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Petrified Mercury
 > 'A tear-drop shape of silver-grey, you see a shining reflection of yourself within.'
 > *Petrified Mercury* are a **common** artifact, and incurs 1d4 (2) Radiation.
-> A *Petrified Mercury* is a passive artifact with one charge and a triggered effect. When you make a Saving Throw, the charge is used, and 
+> A *Petrified Mercury* is a passive artifact with one charge and a triggered effect. When you next make a Saving Throw, the charge is used, and you add 2 to that save.
 
 ###### Jasper's Twin
 > 'One half of a helix made of a dulled blueish stone, slowly turning and grinding against your gloved hand.'
@@ -70,10 +70,16 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ##### Acid
-< 0 common, 0 uncommon, 1 rare >
+< 1 common, 0 uncommon, 1 rare >
+###### Glass Thumb
+> 'A glass cylinder chipped and cut in such a way that '
+> *Glass Thumb* are a **common** artifact that incurs 1d8 radiation.
+> 
+
 ###### Emerald Liver
 > *Emerald Liver* are a **rare** artifact. 
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
+
 
 
 ##### Electric
