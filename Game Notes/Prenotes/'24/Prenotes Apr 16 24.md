@@ -30,5 +30,6 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 
 #### 23rd of Weeding
 - Jerran awakes refreshed. Jerran tries to take apart a Durandurm Blaster, and succeeds. 
+- Shep 
 
 We leave our heroes on the date of ... AF, as they ...

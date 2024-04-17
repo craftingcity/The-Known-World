@@ -5,6 +5,18 @@
       "path": "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md"
     },
     {
+      "basename": "The Ballad of Grey Ordeal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Ballad of Grey Ordeal.md"
+    },
+    {
+      "basename": "First Invasion of Orcus",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
+    },
+    {
+      "basename": "The Grey Ordeal",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    },
+    {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "Barthalamule's Shrubland",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/Barthalamule's Shrubland.md"
-    },
-    {
-      "basename": "River Borns",
-      "path": "Game Notes/NPCs/Weak Power/River Borns.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
     }
   ],
   "omittedPaths": [],
