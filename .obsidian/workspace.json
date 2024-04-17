@@ -66,8 +66,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1295ee6f35d0f38b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Apr 16 24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Apr 16 24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Apr 16 24.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -317,10 +339,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8a40f8608926e16",
+  "active": "1295ee6f35d0f38b",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
     "Prenotes Apr 16 24.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
@@ -334,7 +357,6 @@
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md",
     "Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal.md",
-    "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
