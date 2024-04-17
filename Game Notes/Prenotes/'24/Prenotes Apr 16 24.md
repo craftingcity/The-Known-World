@@ -38,6 +38,19 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 - Jerran applies Kylao Gel to both Durandurm Handblasters to make them +2.
 - Shep & Alergra try to make tactical plans.
 - Breenabell makes a Hatdropper Pin.
-- Nala 
+- Nala makes a batch of Kylao Gel.
+
+#### 25th of Weeding
+- Jerran is helped by Shep to create Divine HE Durandurm Rounds.
+- Breenabell makes Divine Crossbow Bolts
+- Nala makes 5x potion with a 34;
+	- 2x Holy Water
+	- 3x Jade
+	- Lavender
+	- 2x Chitin
+	- Heartnut Twig
+	- 3x B Polypore
+	- Kylao Gel
+- Alergra realized her scoll was fucked
 
 We leave our heroes on the date of ... AF, as they ...
