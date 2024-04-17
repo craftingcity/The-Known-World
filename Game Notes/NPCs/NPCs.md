@@ -53,6 +53,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[Lou a'Locca]]
 - [[Marley Hurraquk]]
 - **Mild Power**
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Bullryk a'Dregsamony]]
@@ -79,6 +80,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[Tori Lane]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]
