@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they were in preparation. With Jerran still recovering from his debilitating injury, the party rests in [[Magius]], making preparations for your final encounter with Celaena. With commitment in your hearts, you understand that you are the only people with the power and knowledge to do much of anything against the coming doom. Soon, you will do, or you will die.
 
 It is the morning of the 22nd of Weeding. What will you do with your day?
