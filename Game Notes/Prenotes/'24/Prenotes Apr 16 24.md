@@ -29,7 +29,12 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 - Alergra researches Magic Circle in regards to battlefield protections. Nat 20.
 
 #### 23rd of Weeding
-- Jerran awakes refreshed. Jerran tries to take apart a Durandurm Blaster, and succeeds. 
-- Shep 
+- Jerran awakes refreshed. Jerran tries to take apart a Durandurm Blaster, and succeeds, gaining +1 forward on Gunsmithing. 
+- Shep & Breenabell attempt to discover new weaknesses.
+- Nala continues research on the Divine Protection Potion
+- Alergra makes a faulty Scroll of Greater Magic Circle.
+
+#### 24th of Weeding
+- Jerran 
 
 We leave our heroes on the date of ... AF, as they ...
