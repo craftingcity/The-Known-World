@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-17T01:32:26.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="dwRlIH5SOVT4pS2sroHS" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-03-29T05:33:28.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="v6FazxbeqHUfaafpGmHV" version="24.1.0" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
-    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,7 +392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k9ZGFQ165plXBW5ce6MQ" name="Products">
-    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,7 +573,7 @@
         <mxCell id="lYSTAF-k672k1XRqQjgE-54" value="&lt;u&gt;&lt;b&gt;Pressigen (+3 FORM / FABRIM)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 150sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="400" y="1240" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-55" value="&lt;u&gt;&lt;b&gt;Pure Force (+0 ARCANA / FORM)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 12sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-55" value="&lt;u&gt;&lt;b&gt;Pure Force ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 12sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="400" y="1400" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-56" value="&lt;u&gt;&lt;b&gt;Alchemical Chalk ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 1.4sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">

@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-29T05:33:28.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="v6FazxbeqHUfaafpGmHV" version="24.1.0" type="device" pages="3">
+<mxfile host="Electron" modified="2024-04-17T01:39:38.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="B9eT7W8xuQllkooBP-CH" version="24.2.5" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
-    <mxGraphModel dx="1050" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,7 +392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k9ZGFQ165plXBW5ce6MQ" name="Products">
-    <mxGraphModel dx="1050" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,7 +423,7 @@
         <mxCell id="t66hqcqQQS7xa3DbbdRv-9" value="Poisons" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1600" y="40" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-1" value="&lt;u&gt;&lt;b&gt;Auspex Lense ()&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Solid Divination Equipment ~ 3,750sp / unit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#FFD966;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-1" value="&lt;u&gt;&lt;b&gt;Auspex Lense (+3 ARCANA / DIVINE)&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Solid Divination Equipment ~ 3,750sp / unit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#FFD966;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1000" y="120" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-2" value="Vices" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
@@ -510,13 +510,13 @@
         <mxCell id="lYSTAF-k672k1XRqQjgE-30" value="&lt;u&gt;&lt;b&gt;Icing Oil ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Evocation Oil&lt;/span&gt;&amp;nbsp;~ 600sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="2600" y="120" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-31" value="&lt;u&gt;&lt;b&gt;Miner&#39;s Savior ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Transmutation Equipment&lt;/span&gt;&amp;nbsp;~ 15sp / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-31" value="&lt;u&gt;&lt;b&gt;Miner&#39;s Savior (+1 FORM / EARTH)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Transmutation Equipment&lt;/span&gt;&amp;nbsp;~ 15sp / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="280" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-32" value="&lt;u&gt;&lt;b&gt;Assassin&#39;s Slick ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Transmutation Equipment&lt;/span&gt;&amp;nbsp;~ 18sp / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-32" value="&lt;u&gt;&lt;b&gt;Assassin&#39;s Slick (+1 WATER / ABJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Transmutation Equipment&lt;/span&gt;&amp;nbsp;~ 18sp / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="800" y="280" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-33" value="&lt;u&gt;&lt;b&gt;Secret Ink ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Liquid Enchantment Equipment&lt;/span&gt;&amp;nbsp;~ 3sp / 1/16 gal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-33" value="&lt;u&gt;&lt;b&gt;Secret Ink (+1 ILLUS / FORM)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Liquid Enchantment Equipment&lt;/span&gt;&amp;nbsp;~ 3sp / 1/16 gal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="120" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-34" value="&lt;u&gt;&lt;b&gt;Traditional Poison ()&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Liquid Evocation Poison ~ 10sp / 1/16 gal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
@@ -549,16 +549,16 @@
         <mxCell id="lYSTAF-k672k1XRqQjgE-44" value="&lt;u&gt;&lt;b&gt;Huumpo ()&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Semi-solid Evocation Oil&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;~ 7sp / lb.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="2400" y="440" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-46" value="&lt;u&gt;&lt;b&gt;Alchemical Clay ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 16sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-46" value="&lt;u&gt;&lt;b&gt;Alchemical Clay (+1 ARCANA / EVOKE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 16sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="800" y="760" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-47" value="&lt;u&gt;&lt;b&gt;Alchemical Fiber ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 20sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-47" value="&lt;u&gt;&lt;b&gt;Alchemical Fiber (+1 ABJURE / REGEN)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 20sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1000" y="600" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-49" value="&lt;u&gt;&lt;b&gt;Alchemical Leather ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Abjuration Material&lt;/span&gt;&amp;nbsp;~ 28sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-49" value="&lt;u&gt;&lt;b&gt;Alchemical Leather (+1 SPIRIT / ABJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Abjuration Material&lt;/span&gt;&amp;nbsp;~ 28sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1000" y="440" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-50" value="&lt;u&gt;&lt;b&gt;Elvenfiber ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 35sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-50" value="&lt;u&gt;&lt;b&gt;Elvenfiber (+2 EVOKE / ABJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 35sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1000" y="760" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-51" value="&lt;u&gt;&lt;b&gt;Dark Oil ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Transmutation Oil&lt;/span&gt;&amp;nbsp;~ 40sp / gal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -573,19 +573,19 @@
         <mxCell id="lYSTAF-k672k1XRqQjgE-54" value="&lt;u&gt;&lt;b&gt;Pressigen (+3 FORM / FABRIM)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 150sp / sq yd.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="400" y="1240" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-55" value="&lt;u&gt;&lt;b&gt;Pure Force ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 12sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-55" value="&lt;u&gt;&lt;b&gt;Pure Force (+1 ARCANA / FORM)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 12sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="400" y="1400" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-56" value="&lt;u&gt;&lt;b&gt;Alchemical Chalk ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 1.4sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-56" value="&lt;u&gt;&lt;b&gt;Alchemical Chalk (+2 ARCANA / EVOKE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 1.4sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="800" y="600" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-57" value="&lt;u&gt;&lt;b&gt;Alchemical Thermite ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 00sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-57" value="&lt;u&gt;&lt;b&gt;Alchemical Thermite (+1 EVOKE / FIRE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&lt;/span&gt;&amp;nbsp;~ 00sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1000" y="920" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-58" value="&lt;u&gt;&lt;b&gt;Alchemical Explosive ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 00sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-58" value="&lt;u&gt;&lt;b&gt;Alchemical Explosive (+1 EVOKE / FIRE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Material&lt;/span&gt;&amp;nbsp;~ 00sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="800" y="920" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-59" value="&lt;u&gt;&lt;b&gt;Suregrip ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Equipment&lt;/span&gt;~ 2 / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-59" value="&lt;u&gt;&lt;b&gt;Suregrip (+1 EVOKE / ABJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Equipment&lt;/span&gt;~ 2 / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="800" y="440" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-60" value="&lt;u&gt;&lt;b&gt;Bulbkiss ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Transmutation Vice&lt;/span&gt;&amp;nbsp;~ 18sp / oz.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
