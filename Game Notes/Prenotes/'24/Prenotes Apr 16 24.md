@@ -35,6 +35,9 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 - Alergra makes a faulty Scroll of Greater Magic Circle.
 
 #### 24th of Weeding
-- Jerran 
+- Jerran applies Kylao Gel to both Durandurm Handblasters to make them +2.
+- Shep & Alergra try to make tactical plans.
+- Breenabell makes a Hatdropper Pin.
+- Nala 
 
 We leave our heroes on the date of ... AF, as they ...
