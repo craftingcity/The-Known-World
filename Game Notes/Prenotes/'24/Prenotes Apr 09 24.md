@@ -51,7 +51,7 @@ Rinnee, Vu'oo'lx, and James will give the report they put together, and hopes th
 We "revived" Jerran, regathered his GAS-4 OP kit, and re-moralized and re-contextualized Celaena.
 
 ### 21st of Weeding
-- Jerran recovers from an exhaustion.
+- Jerran recovers from an exhaustion, and earned +1 forward on further Gunsmithing Rolls.
 - Shep reads in the library with an 18 Religion or Arcana regarding "permanently banishing Celaena". Finds information on the [[Book of Names]] and or magically gathering her 'true name'.
 - Breenabelle and Little Fucker gather 131sp from the people of Magius.
 - Nala makes a series of potions on a 15...
