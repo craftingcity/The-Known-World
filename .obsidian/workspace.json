@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "ea1893c721285f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "7ddc16866a87fa60",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -173,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -311,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -423,8 +435,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "393d51a250dbf1c3",
+  "active": "ea1893c721285f0e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Outer/Mechanis/New Cannane.md",
     "Notes on the Multiverse/Outer/Elysium/Valhalla.md",
     "Notes on the Multiverse/Outer/Elysium/Mount Celestia.md",
@@ -435,7 +449,6 @@
     "Prenotes Apr 16 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
@@ -455,7 +468,6 @@
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Zauk-Iyr.md",
     "Game Notes/NPCs/Wyruq the Grave Presence.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Coalition Wards/Wheel Ward.md",
-    "Game Notes/NPCs/Tori Lane.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
