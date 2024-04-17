@@ -24,6 +24,11 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 ### What happened?
 #### 22nd of Weeding
 - Jerran recovers from exhaustion (2). Jerran goes back to bed and will awake without exhaustion.
-- Shep and Nala 
+- Shep and Nala researched divine protection through alchemy.
+- Breenabell had a bad day.
+- Alergra researches Magic Circle in regards to battlefield protections. Nat 20.
+
+#### 23rd of Weeding
+- Jerran awakes refreshed. Jerran tries to take apart a Durandurm Blaster, and succeeds. 
 
 We leave our heroes on the date of ... AF, as they ...

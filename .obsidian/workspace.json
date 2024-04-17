@@ -11,8 +11,14 @@
             "id": "85887d9636d0da19",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "AlchemicalComponentMotifs",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/AlchemicalComponentMotifs.png\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -279,8 +285,9 @@
   },
   "active": "85887d9636d0da19",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
     "Notes on the Multiverse/Immaterial/Astral Sea.md",
     "Notes on the Multiverse/Outer/River Styx.md",
     "Notes on the Multiverse/Outer/Elysium/Elysium.md",
@@ -306,11 +313,9 @@
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 27 24.md",
     "MEDIA/SUPP/Minyostalma.drawio",
     "MEDIA/SUPP/alchemy.drawio",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
