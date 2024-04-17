@@ -12,7 +12,7 @@ Before time, Elysium was ruled by the Chromatic [[Immortal Dragons]]. They built
 ###### Table of Contents
 %% Begin Waypoint %%
 - [[Harmony]]
-- **Places**
-	- [[Valhalla]]
+- [[Mount Celestia]]
+- [[Valhalla]]
 
 %% End Waypoint %%
