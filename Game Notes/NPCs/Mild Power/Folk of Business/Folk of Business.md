@@ -7,6 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - [[Alisinder Rancarlo]]
 - [[Doctor Gunagido]]
+- [[Ondo]]
 - [[Revari Madrid]]
 
 %% End Waypoint %%

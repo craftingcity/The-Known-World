@@ -16,6 +16,7 @@ aliases:
 		- [[Guild Equipment Requisition Form]]
 		- [[Laws of Adventuring]]
 	- [[Emergency Communicae c. 105AF]]
+	- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
 	- [[Politics of Coalition c. 093AF - XXXAF]]
 	- **Recordkeeping**
 		- [[Emergency Communicae c. 103AF]]

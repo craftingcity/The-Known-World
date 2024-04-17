@@ -8,8 +8,7 @@ aliases:
 
 ###### Table of Contents
 %% Begin Waypoint %%
-- **[[Mechanis]]**
-	- **Places**
+- [[New Cannane]]
 
 %% End Waypoint %%
  
