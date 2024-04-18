@@ -78,6 +78,7 @@ On the Farmstead, a small house of three rooms has been long looted of useful ma
 The ancient objects seem dangerous. A curious mind would likely identify the many wheels on frame as an ancient iteration of a simple cart, but the mystery lies in its purpose and power source. 
 
 #### The Levee
+South of [[#The Rookie Village]], a large field of dead plants and puddles separates the people in the North from the dangers of [[#The Toxic Swamps]]. No Minyostalman structures are present here, and rather the area is named for the ditch of rubble constructed and maintained by the Rookies.
 
 #### The Crossroads
 
