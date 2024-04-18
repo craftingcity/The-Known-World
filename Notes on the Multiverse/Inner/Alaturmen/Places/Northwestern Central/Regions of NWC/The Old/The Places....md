@@ -60,7 +60,7 @@ The so-called "Rookie Village" was - at one point - a small hunting settlement b
 A thin trail connects the Rookie Village to [[#The Damaged Chapel]] to the east and to [[#The Levee]] to the south. 
 
 #### The Damaged Chapel
-The Damaged Chapel is a small compound of a main Chapel, a small Barracks, and a series of mausoleums throughout a large yard of marked graves. 
+Standing west of [[#The Rookie Village]], Damaged Chapel is a small compound of a main Chapel, a small Barracks, and a series of mausoleums throughout a large yard of marked graves. 
 
 The Chapel itself is quite badly damaged, as the supporting structures of the second story have failed and caused the roof of the building to partially collapse inward - thus the name. The battles that have taken place within the building surely do not help either. Under scrutiny of the surviving religious images, two things can be known;
 	- The text is [[Sylvan (language)]], and the images depict a bountiful land of nature.
@@ -71,6 +71,9 @@ The graveyard is largely uninteresting to those who care little for the names of
 A thin trail travels from the front door of the chapel westward towards and into [[#The Rookie Village]].
 
 #### The Lone Farmstead
+North of [[#The Rookie Checkpoint]], the Lone Farmstead was once an important economic feature of the growing empire. Much of the land to the Farmstead's west is now abandoned and overgrown farmland. The Farmstead itself consists of a collection of three buildings, and two loose ancient objects.
+
+
 
 #### The Levee
 
