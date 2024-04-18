@@ -23,6 +23,34 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 
 ### What happened?
 #### 22nd of Weeding
-- 
+- Jerran recovers from exhaustion (2). Jerran goes back to bed and will awake without exhaustion.
+- Shep and Nala researched divine protection through alchemy.
+- Breenabell had a bad day.
+- Alergra researches Magic Circle in regards to battlefield protections. Nat 20.
+
+#### 23rd of Weeding
+- Jerran awakes refreshed. Jerran tries to take apart a Durandurm Blaster, and succeeds, gaining +1 forward on Gunsmithing. 
+- Shep & Breenabell attempt to discover new weaknesses.
+- Nala continues research on the Divine Protection Potion
+- Alergra makes a faulty Scroll of Greater Magic Circle.
+
+#### 24th of Weeding
+- Jerran applies Kylao Gel to both Durandurm Handblasters to make them +2.
+- Shep & Alergra try to make tactical plans.
+- Breenabell makes a Hatdropper Pin.
+- Nala makes a batch of Kylao Gel.
+
+#### 25th of Weeding
+- Jerran is helped by Shep to create Divine HE Durandurm Rounds.
+- Breenabell makes Divine Crossbow Bolts
+- Nala makes 5x potion with a 34;
+	- 2x Holy Water
+	- 3x Jade
+	- Lavender
+	- 2x Chitin
+	- Heartnut Twig
+	- 3x B Polypore
+	- Kylao Gel
+- Alergra realized her scoll was fucked
 
 We leave our heroes on the date of ... AF, as they ...
