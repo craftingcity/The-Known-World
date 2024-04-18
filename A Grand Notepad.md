@@ -11,6 +11,11 @@ Bag-head bandits.
 
 a cavernous meteiorite
 
+#### New Campaigns?
+
+Evocative Title: "The War For the Holyl'nds"
+Description: 'The year is 106 AF, and life is tougher than usual in the North. Gromosh smiles upon the havoc he ree'
+
 ### RHOD
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
@@ -71,6 +76,3 @@ magical items
 - [[Magical Items of Note]]
 - [[Books To Write]]
 - [[Faction Turn]]
-
-dear gavs-hosue;
-hey yall, i had lots of fun tonight, but i feel compelled to say that i found it very hard to focus and hear, especially as the volume and frequency of side-conversations and off-turn questions raised as the night progressed. 

@@ -14,15 +14,20 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 ## Major Factions
 1. There are four major factions that form the current and acting Coalition. Of these four, which one faction is made of multiple minor factions?
 	A. The Kingdom of Prosper
-	B. ==The Democratic Combine of Peoples==
+	B. The Democratic Combine of Peoples
 	C. The Golden Claws of Tetrimoc
 	D. The Church of White Flame
 
 2. Which of the following is the event that is most responsible for the creation of The Church of White Flame?
-	A. ==The Great Fires==
+	A. The Great Fires
 	B. The First Crusade of the Fire's Will
 	C. The Assault of the Giant Dissenters
 	D. The First Invasion of Orcus
 
-3. 
+3. Of the following, which minor faction is not in active conflict with The Golden Claws of Tetrimoc?
+	A. Cobalt's Thieves
+	B. The Desert Nomads
+	C. The Dampguard
+	D. The Nobles of Mountainhall
 
+4. 
