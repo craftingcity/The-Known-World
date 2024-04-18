@@ -11,4 +11,18 @@ The GAAKA is an assessment designed to determine your knowledge of relevant topi
 
 You are taking the GAAKA One, which will focus primarily on the important historical events and people of the late first century. There are a total of 35 questions, of which you will provide a written answer for 15. The final five questions are considered 'extra credit', and thus your proctor will not penalize you for an incorrect answer or a lack of answer for these questions. They are clearly marked as such.
 
+## Major Factions
+1. There are four major factions that form the current and acting Coalition. Of these four, which one faction is made of multiple minor factions?
+	A. The Kingdom of Prosper
+	B. ==The Democratic Combine of Peoples==
+	C. The Golden Claws of Tetrimoc
+	D. The Church of White Flame
+
+2. Which of the following is the event that is most responsible for the creation of The Church of White Flame?
+	A. ==The Great Fires==
+	B. The First Crusade of the Fire's Will
+	C. The Assault of the Giant Dissenters
+	D. The First Invasion of Orcus
+
+3. 
 
