@@ -30,4 +30,10 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Dampguard
 	D. The Nobles of Mountainhall
 
-4. 
+4. Which of the following major companies is owned and operated by The Kingdom of Prosper?
+	A. The Northstone Family Trading Company
+	B. Golden Merchant's Company
+	C. The Harvord Trading Company
+	D. The Mossburg Corperation
+
+5. 

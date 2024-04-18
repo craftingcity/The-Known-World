@@ -19,7 +19,7 @@ Vibe Notation: This campaign will begin at low level, and initial questing will 
 
 Evocative Title: **"The Depths of Mountainhall"**
 Description: *'The year is 106 AF, and the Suremantle Kingdom is well. For the Nobles of the Hall, the fall of the Guild's powers have only brought business and prosperity, but there is a deep ache in the mountains. It will be our band of unlikely heroes that explore and halt the emerging dangers of the Deakred Range.'*
-Vibe Notation: This campaign will begin at low level, and initial questing will focus on exploring Mountainhall's innards and the danger reaching for 
+Vibe Notation: This campaign will begin at low level, and initial questing will focus on exploring Mountainhall's innards and the danger reaching for it's throat.
 
 
 ### RHOD
