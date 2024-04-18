@@ -51,6 +51,6 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 	- Heartnut Twig
 	- 3x B Polypore
 	- Kylao Gel
-- Alergra realized her scoll was fucked
+- Alergra realized her scroll was fucked.
 
 We leave our heroes on the date of ... AF, as they ...

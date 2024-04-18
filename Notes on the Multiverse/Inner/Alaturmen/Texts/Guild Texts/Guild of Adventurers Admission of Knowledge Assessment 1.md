@@ -36,4 +36,8 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Harvord Trading Company
 	D. The Mossburg Corperation
 
-5. 
+5. The Golden Claws worship the entity known as Tetrimoc. Which of the following words best describes the type of entity Tetrimoc is?
+	A. Humanoid
+	B. Aberration
+	C. Dragon
+	D. Worm
