@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-04-17T01:39:38.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="B9eT7W8xuQllkooBP-CH" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-04-17T03:59:44.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Me9mGMjSVRQjJDlIEoHx" version="24.2.5" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
     <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -609,19 +609,19 @@
         <mxCell id="lYSTAF-k672k1XRqQjgE-67" value="&lt;u&gt;&lt;b&gt;Nalasculas ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Semi-solid Necromancy Oil&lt;/span&gt;&amp;nbsp;~ 15sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="2600" y="600" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-68" value="&lt;u&gt;&lt;b&gt;Heartvine ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Cojnuration Equipment&amp;nbsp;&lt;/span&gt;~ 00sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-68" value="&lt;u&gt;&lt;b&gt;Heartvine (+2 EARTH / CONJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Cojnuration Equipment&amp;nbsp;&lt;/span&gt;~ 00sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="800" y="1080" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-69" value="&lt;u&gt;&lt;b&gt;Flashpellet ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Equipment&amp;nbsp;&lt;/span&gt;~ 1sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-69" value="&lt;u&gt;&lt;b&gt;Flashpellet (+1 LIGHT / EVOKE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Equipment&amp;nbsp;&lt;/span&gt;~ 1sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1080" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-70" value="&lt;u&gt;&lt;b&gt;Thorn Bloomer ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Cojnuration Equipment&amp;nbsp;&lt;/span&gt;~ 40sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-70" value="&lt;u&gt;&lt;b&gt;Thorn Bloomer (+1 EARTH / CONJURE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Cojnuration Equipment&amp;nbsp;&lt;/span&gt;~ 40sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="800" y="1240" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-71" value="&lt;u&gt;&lt;b&gt;Chaotic Gold ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&amp;nbsp;&lt;/span&gt;~ 860sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-71" value="&lt;u&gt;&lt;b&gt;Chaotic Gold (+2 ARCANE / EVOKE)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Evocation Material&amp;nbsp;&lt;/span&gt;~ 860sp / lb.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1400" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lYSTAF-k672k1XRqQjgE-72" value="&lt;u&gt;&lt;b&gt;Temptation Arch ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Conjuration Equipment&lt;/span&gt;&amp;nbsp;~ 00sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="lYSTAF-k672k1XRqQjgE-72" value="&lt;u&gt;&lt;b&gt;Temptation Arch (+2 CHARM / ILLUS)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solid Conjuration Equipment&lt;/span&gt;&amp;nbsp;~ 00sp / unit.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1240" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lYSTAF-k672k1XRqQjgE-73" value="&lt;u&gt;&lt;b&gt;Secreclude Propaterol ()&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Liquid Transmutation Equipment&lt;/span&gt;&amp;nbsp;~ 00sp / 1/16 gal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
