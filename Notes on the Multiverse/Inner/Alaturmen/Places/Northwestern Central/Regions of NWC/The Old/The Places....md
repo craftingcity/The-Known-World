@@ -71,9 +71,11 @@ The graveyard is largely uninteresting to those who care little for the names of
 A thin trail travels from the front door of the chapel westward towards and into [[#The Rookie Village]].
 
 #### The Lone Farmstead
-North of [[#The Rookie Checkpoint]], the Lone Farmstead was once an important economic feature of the growing empire. Much of the land to the Farmstead's west is now abandoned and overgrown farmland. The Farmstead itself consists of a collection of three buildings, and two loose ancient objects.
+North of [[#The Rookie Checkpoint]], the Lone Farmstead was once an important economic feature of the growing empire. Much of the land to the Farmstead's west is now abandoned and overgrown farmland. The Farmstead itself consists of a collection of three buildings, and two ancient objects.
 
+On the Farmstead, a small house of three rooms has been long looted of useful material. Across a small clearing, a decrepit wooden barn creaks and groans, threatening to break down at any moment in the wind. Standing tall and strong between the two other buildings on the clearing, a large stone granary and mill acts as the most defensible building on the compound.
 
+The ancient objects seem dangerous. A curious mind would likely identify the many wheels on frame as an ancient iteration of a simple cart, but the mystery lies in its purpose and power source. 
 
 #### The Levee
 
