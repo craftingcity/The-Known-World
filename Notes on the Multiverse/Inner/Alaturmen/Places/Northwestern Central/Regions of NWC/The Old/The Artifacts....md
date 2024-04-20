@@ -1,3 +1,4 @@
+
 ## Artifact Hunting
 ### What is an "Artifact"?
 While the word can sometimes be used to describe a powerful relic of divine or arcane origin, in this context an artifact is an object that has been created within an anomaly during an emission. 
