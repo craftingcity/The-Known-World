@@ -4,6 +4,19 @@ tags:
 aliases:
 ---
 
+# Simone's Journal
+#### Resowing 24, 105AF
+Romeo asked me to come on his journey again. I think it's a really bad idea, but I would love to go with him - maybe we'd get lost somewhere in the ruins together and have to spend hours together... So I want to go, I really do. I just don't really know if the worst things I've heard have been true?
+
+So yes. I'll tell him I'm in tonight. We are supposed to leave tomorrow, so I need to pack.
+
+#### Resowing 25, 105AF
+Okay, today's the day! We met with a few of Romeo's other friends some people he didn't know. This lady, Ghost, was like, kinda old. I thought she was someone's aunt or something before Micky said she had been to Minyostalma before, and she was going to lead us around.
+
+We're going to enter tomorrow, we still have a bit of a ride out. I'm really excited. Romeo is too, it's so cute.
+
+#### R
+
 # Romeo's Journal
 ## Romeo, cousin of Cucu
 
