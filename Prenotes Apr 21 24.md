@@ -23,7 +23,7 @@ You have met friendly faces in this place known as "the Rookie Village", where y
 
 They must be weary of navigating past both Anomolies and hostile Scavs as they exit the Haven into the Broken Swamps, and even moreso when they do enter Factory from there; one of the few major conflict sites within the Old. The Mercs are still winning. 
 
-When they do reach the Factory, they can find the hole-ridden and well looted corpse of Simone, which has only been left with her final words ([[Romeo's Journal (and Others)]]. 
+When they do reach the Factory, they can find the well looted corpse of Simone, which has only been left with her final words ([[Romeo's Journal (and Others)]], and a Durandurm round to the base of her skull. 
 
 ### What happened?
 

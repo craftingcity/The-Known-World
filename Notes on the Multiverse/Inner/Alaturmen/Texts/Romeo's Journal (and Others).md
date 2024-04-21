@@ -15,7 +15,14 @@ Okay, today's the day! We met with a few of Romeo's other friends some people he
 
 We're going to enter tomorrow, we still have a bit of a ride out. I'm really excited. Romeo is too, it's so cute.
 
-#### R
+#### Resowing 26, 105AF
+We're lost. Micky and I got separated from the group when these dogs wearing masks ran and jumped us. I'm so scared. This isn't what I signed up for. I want to leave. Micky is such an arrogant asshole. He says he can make our way back no problem, but I want to go back to the border for help. He says that's not a good idea.
+
+#### Resowing 27, 105AF
+We made it back before dawn. Found our way by the border lights and then just going. I miss Romeo. Like we were before. I know he's just as afraid as I am, but he's putting on a brave face for this "Ghost" lady. I hate her. I want her to take us back out.
+
+#### Resowing 28, 105AF
+She wants us going forwards, deeper into this place. Fuck. That. If shit hits the fan, I'm out.
 
 # Romeo's Journal
 ## Romeo, cousin of Cucu
