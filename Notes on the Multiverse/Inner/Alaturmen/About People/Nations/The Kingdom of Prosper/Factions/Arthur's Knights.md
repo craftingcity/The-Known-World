@@ -25,14 +25,24 @@ aliases:
 	- chapter in defense of [[Gambleum]]
 
 ```
-
+CHAPTER PROPRIUS
+	- HQ: Castle Prosper
+	- OBJ: Proactive Civil Protection, Defensive Infantry
+	- STR: 3,250
+		+ Major General [[Yandee a'Huruuc]], 1st Infantry Battalion
+			- 1st 
 ```
 ## Culture
 #### Heritage
 #### Language
+[[Arthurian (language)]]
 #### Values
 #### Theology
+##### The Crown before the Idol
+##### Arthurian Saints
 #### Economics
+##### Table of Equipment
+##### Military Costs
 ### Symbolism
 - sword, shield, and crown
 ## Technology

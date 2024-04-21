@@ -33,6 +33,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "45eec8074284e399",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -286,10 +307,13 @@
   },
   "active": "4862a69b4c559276",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+    "Yandee a'Huruuc.md",
     "Prenotes Apr 21 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal (and Others).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
@@ -310,9 +334,6 @@
     "ORGANIZATION/ORGANIZATION.md",
     "Notes on the Multiverse/Outer/Outer.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Inner/Feywild/Feywild.md",
-    "Notes on the Multiverse/Inner/Elemental Planes/Elemental Planes.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",

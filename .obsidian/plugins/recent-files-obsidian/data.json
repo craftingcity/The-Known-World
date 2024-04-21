@@ -5,6 +5,18 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
+      "basename": "Population Center Data",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
+    },
+    {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Yandee a'Huruuc",
+      "path": "Yandee a'Huruuc.md"
+    },
+    {
       "basename": "Prenotes Apr 21 24",
       "path": "Prenotes Apr 21 24.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "The Holy City of Kanielkiln",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md"
-    },
-    {
-      "basename": "On The Text of Tetrimoc; Guild Position",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On The Text of Tetrimoc; Guild Position.md"
-    },
-    {
-      "basename": "Adriana Fairlin Franx",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md"
     }
   ],
   "omittedPaths": [],
