@@ -6,6 +6,7 @@
       {
         "id": "7cc70aef7d4ea008",
         "type": "tabs",
+        "dimension": 64.51367781155015,
         "children": [
           {
             "id": "4862a69b4c559276",
@@ -50,6 +51,34 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f8c0f61f80f1d38",
+        "type": "tabs",
+        "dimension": 35.48632218844985,
+        "children": [
+          {
+            "id": "3a8fb0c4af727392",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/NPCs.md",
                 "mode": "source",
                 "source": true
               }
@@ -307,8 +336,10 @@
   },
   "active": "4862a69b4c559276",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Yyu Clipwin.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Yandee a'Huruuc.md",
     "Prenotes Apr 21 24.md",
@@ -332,8 +363,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Spike's Characters/Spike's Characters.md",
     "ORGANIZATION/ORGANIZATION.md",
-    "Notes on the Multiverse/Outer/Outer.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",

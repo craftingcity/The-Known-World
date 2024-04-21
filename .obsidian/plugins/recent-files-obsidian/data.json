@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Yyu Clipwin",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Yyu Clipwin.md"
+    },
+    {
       "basename": "Population Center Data",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Kor-ket",
       "path": "Game Notes/NPCs/Absolute Power/Kor-ket.md"
-    },
-    {
-      "basename": "Ondo",
-      "path": "Game Notes/NPCs/Mild Power/Folk of Business/Ondo.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
     }
   ],
   "omittedPaths": [],
