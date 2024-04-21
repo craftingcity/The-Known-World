@@ -23,6 +23,10 @@ aliases:
 	- chapter in defense of [[Janesland]]
 - Rectio
 	- chapter in defense of [[Gambleum]]
+
+```
+
+```
 ## Culture
 #### Heritage
 #### Language
