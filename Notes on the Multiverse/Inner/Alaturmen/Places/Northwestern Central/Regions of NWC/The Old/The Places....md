@@ -81,7 +81,7 @@ The ancient objects seem dangerous. A curious mind would likely identify the man
 South of [[#The Rookie Village]], a large field of dead plants and puddles separates the people in the North from the dangers of [[#The Toxic Swamps]]. No Minyostalman structures are present here, and rather the area is named for the ditch of rubble constructed and maintained by the Rookies.
 
 #### The Crossroads
-
+West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus symbol on the face of the earth. At the center of this large rock crossroad, on the south-eastern side, a thin pole of this white rock emerges from the ground. Clearly broken, this pole is a sharp hazard - so much so that a corpse of a Scav is lying around the pole, impaled.
 
 #### The Rookie Checkpoint
 
