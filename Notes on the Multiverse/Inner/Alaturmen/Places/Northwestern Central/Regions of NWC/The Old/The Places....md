@@ -82,6 +82,7 @@ South of [[#The Rookie Village]], a large field of dead plants and puddles separ
 
 #### The Crossroads
 
+
 #### The Rookie Checkpoint
 
 #### The Toxic Swamps

@@ -106,6 +106,14 @@ CHAPTER PROPRIUS
 				- 8th Defensive Recon Section
 					- 25 Scouts
 		+ 2nd Infantry Battalion, under Major General [[Borhain a'Huruuc]]
+		+ 1000 total Units
+		+ 3rd Infantry Battalion
+		+ 1000 total Units
+CHAPTER CONSTANTIA
+	- HQ:
+	- OBJ:
+	- STR:
+		+
 ```
 ## Culture
 #### Heritage
