@@ -42,5 +42,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Dragon
 	D. Worm
 
+6. 
+
 ## Important People
 ## Major History
