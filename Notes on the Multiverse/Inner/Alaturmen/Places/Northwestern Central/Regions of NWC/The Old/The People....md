@@ -10,11 +10,17 @@ A collective name for the individuals and groups without a greater affiliation t
 	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
 	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
 - [[#The Sticks]]
+	- The Seekers within the Sticks leave with fewer friends than they entered with.
 - [[#The Factory]]
+	- Most inexperienced Seekers avoid this area for fear of Mercs
 - [[#The City]]
+	- Few Seekers operate in the City, and those who do are allied to many different and even conflicting Factions.
 - [[#The Village]]
+	- Few Seekers operate in the Village, and those who do are allied to many different and even conflicting Factions.
 - [[#The Base]]
+	- Most inexperienced Seekers avoid this area for fear of Mercs
 - [[#The Dwarven Ship]]
+	- Most inexperienced Seekers avoid this area for fear of Metal Men
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".

@@ -9,9 +9,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name | Type | Dam. | Ammo | Cost in AC |
-| ---- | ---- | ---- | ---- | ---------- |
-| x    | x    |      |      |            |
+| Name                        | Type     | Dam.    | Ammo      | Importers | Cost in AC |
+| --------------------------- | -------- | ------- | --------- | --------- | ---------- |
+| Homemade Machete            | slashing | 2d4+STR | none      | 0.1       | 0.1        |
+| Scavenged Handblaster       | dunam    | 1d6+DEX | durandurm |           | 0.25       |
+| Scavenged Repeating Blaster | dunam    | 3d6+DEX | durandurm |           | 0.5        |
 
 #### IMPORTED / FORGED
 | Name | Type | Dam. | Ammo | Cost in AC |
