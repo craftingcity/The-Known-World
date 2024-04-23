@@ -92,8 +92,6 @@ West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus sym
 #### The Forester's Hut
 
 
-
-
 ## The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
 
