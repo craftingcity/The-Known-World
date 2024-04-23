@@ -19,7 +19,7 @@ Where their Divine companions are personally punished for their casting, and may
 #### Anomalies
 Areas within the Old are subject to dense knots in the Weave that manifest as an area of powerful magical disruption. The Scavengers of the area have taken to calling these places Anomalies or Anomalous Fields, depending on their understanding of what is actually creating the aforementioned knot.
 
-To notice a hidden Anomaly or an Anomalous Field, a creature may simply view it on a DC 19 Perception check of the area. Otherwise, a creature may attempt to activate anomalies they cannot see. This is typically done by throwing a piece of rubbish along a path, walking that path, and continuing until opposed by the anomaly, at which point one would maneuver around it, when able.
+To notice a hidden Anomaly or an Anomalous Field, a creature may simply view it on a DC 19 Survival check of the area. Otherwise, a creature may attempt to activate anomalies they cannot see. This is typically done by throwing a piece of rubbish along a path, walking that path, and continuing until opposed by the anomaly, at which point one would maneuver around it, when able.
 
 Anomalies do not have charges, in an arcane sense, and can be reactivated immediately. Anomalies are activated by a material (organic or otherwise) disturbing them. Staying within an active anomaly *will* result in severe damage, if not death.
 
