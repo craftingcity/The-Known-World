@@ -41,3 +41,6 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	B. Aberration
 	C. Dragon
 	D. Worm
+
+## Important People
+## Major History
