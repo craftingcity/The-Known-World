@@ -91,6 +91,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ##### Electric
 < 0 common, 1 uncommon, 0 rare >
 ###### Duram Battery
+> ''
 > *Duram Battery* are a **uncommon** artifact. 
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
@@ -98,6 +99,9 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 0 common, 0 uncommon, 1 rare >
 ###### Fire-Heart Ruby
 > 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
+
+###### Bleeding Liver
+no charges, uncommon
 
 ##### Force
 < 0 common, 0 uncommon, 1 rare >
