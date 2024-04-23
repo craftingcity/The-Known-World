@@ -25,6 +25,16 @@ They must be weary of navigating past both Anomalies and hostile Scavs as they e
 When they do reach the Factory, they can find the well looted corpse of Simone, which has only been left with her final words ([[Romeo's Journal (and Others)]], and a Durandurm round to the base of her skull. 
 
 ### What happened?
+They've made it to the Factory and talked with the Mercs, though they don't know that name. They hired a squad to take them through the Base.
+
+The following is the Squad of Mercs they went with;
+	- "Bubble", Triton, Master
+	- "Screw", Gnoll, Professional
+	- "Georgie", Human, Professional
+	- "Astro", Elf, Professional
+	- "Dom", Human, Experienced
+	- "Locus", Elf, Experienced
+
 
 
 We leave our heroes on the date of ... AF, as they ...
