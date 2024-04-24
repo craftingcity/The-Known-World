@@ -44,13 +44,13 @@ It is the morning of the 22nd of Weeding. What will you do with your day?
 - Jerran is helped by Shep to create Divine HE Durandurm Rounds.
 - Breenabell makes Divine Crossbow Bolts
 - Nala makes 5x potion with a 34;
-	- 2x Holy Water
-	- 3x Jade
-	- Lavender
-	- 2x Chitin
-	- Heartnut Twig
-	- 3x B Polypore
-	- Kylao Gel
+	- 2x Holy Water (+3 MORTAL SPIRIT)
+	- 3x Jade (+2 HEALING DIVINE)
+	- Lavender (+1 ABJURE DESIST)
+	- 2x Chitin (+2 DESIST ARCANE)
+	- Heartnut Twig (+1 ABJURE EVOKE)
+	- 3x B Polypore (WATER EVOKE)
+	- Kylao Gel (FORM ILLUS)
 - Alergra realized her scroll was fucked.
 
 We leave our heroes on the date of ... AF, as they ...

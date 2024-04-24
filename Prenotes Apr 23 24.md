@@ -22,6 +22,11 @@ The question is; are you going to her, or are you bringing her to you?
 
 ### What does the World Know?
 
+#### 26th of Resowing
+Jerran tries to make Durandurm Light Rounds
+Shep tries to make Light Bolts 
+#### 27th of Resowing
+
 
 ### What happened?
 
