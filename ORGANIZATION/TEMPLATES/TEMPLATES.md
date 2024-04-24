@@ -1,11 +1,12 @@
 # TEMPLATES Overview
 %% Begin Waypoint %%
+- [[Artifact Template]]
 - [[Campaign Roster]]
 - [[Economy]]
 - [[Group]]
 - [[Holdings]]
 - [[NPCs]]
-- [[ORGANIZATION/TEMPLATES/Prenotes]]
+- [[Prenotes]]
 - [[Region]]
 - [[Stub]]
 - [[Table]]

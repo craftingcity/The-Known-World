@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
     },
     {
+      "basename": "Artifact Template",
+      "path": "ORGANIZATION/TEMPLATES/Artifact Template.md"
+    },
+    {
       "basename": "Things Aren't Right Here...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Ballad of Grey Ordeal",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Ballad of Grey Ordeal.md"
-    },
-    {
-      "basename": "First Invasion of Orcus",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
     }
   ],
   "omittedPaths": [],
