@@ -52,3 +52,8 @@ Jerran
 
 We leave our heroes on the date of ... AF, as they ...
 
+
+Breenabell's Singing Academy
+Jerran & the party does last rites for Alergra, then goes to Work with [[Ginger Ak-kizi]].
+Nala returns to Golden City to work in Dr Gunagido's lab and/or create a philosopher's stone
+
