@@ -40,7 +40,6 @@ LAIR ACTION COUNTERS STEALTH
 ##### THE FIGHT
 **hallway combat**
 Celaena
-Doggie
 Breenabell
 Nala
 Shep
