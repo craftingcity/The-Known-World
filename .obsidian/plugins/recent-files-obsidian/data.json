@@ -5,6 +5,10 @@
       "path": "Prenotes Apr 23 24.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Arthur's Knights",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Elysium",
       "path": "Notes on the Multiverse/Outer/Elysium/Elysium.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     }
   ],
   "omittedPaths": [],
