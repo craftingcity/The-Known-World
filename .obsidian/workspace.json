@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd6dbd5ca0a88f05",
+        "id": "ae038a90e98680e4",
         "type": "tabs",
         "children": [
           {
-            "id": "9b172246205f3ee9",
+            "id": "2f32b42edc5059c7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -32,6 +38,41 @@
                 "mode": "source",
                 "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd6dbd5ca0a88f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b172246205f3ee9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Guild of Adventurers Admission of Knowledge Assessment 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":3},\"to\":{\"line\":46,\"ch\":3}},\"scroll\":19.901726904485052}"
+                },
+                {
+                  "title": "Prenotes Apr 23 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Apr 23 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":2.820515601183268}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -154,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +220,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +259,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -285,6 +322,7 @@
   },
   "active": "9b172246205f3ee9",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Prenotes Apr 23 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
@@ -312,7 +350,6 @@
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
     "GAAKA 1 Key.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
