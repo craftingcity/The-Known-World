@@ -44,6 +44,7 @@ Doggie
 Breenabell
 Nala
 Shep
+Jerran's Wolves
 ~~Alergra~~
 ~~A 18, 26, 37, 44, 45, 59, 67, 79~~
 B 4, 19, 34
