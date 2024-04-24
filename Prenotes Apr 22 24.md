@@ -35,18 +35,19 @@ The following is the Squad of Mercs they went with;
 	- "Dom", Human, Experienced
 	- "Locus", Elf, Experienced
 
-As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24, 4x5 + 4);
+As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24, 4x6);
 	*Testament*
 	- (Lead) Sgt. 
 	- (Comms)
 	- (Q.M.)
 	- (Medic)
+	- (Trooper)
+	- (Trooper)
 	*Apostle*
 	- (Lead)
 	- 
 	*Covenant*
 	*Disciple*
-	*Grace*
 
 ##### INITIATIVE
 The party has "surprise", and will start with Grenades
