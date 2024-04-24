@@ -95,19 +95,15 @@ Emissions occur above [[#The Temple]] and extends outward to the edges of the Ol
 
 The Radiation anomaly is of undefined shape and size, but it is generally quite large - covering buildings more than singular rooms or objects. It is, however, attracted to metal over long periods of time, leading to contact with metal within the field being quite dangerous.
 
-	Radiation is applied every round, at the beginning of a character's turn, and will accumulate over time. When a character has more Radiation than the value of their Constitution Score, they take a number of necrotic damage equal to the difference. Any Radiation that would be applied to a character is reduced by their current Radiation Protection.
+	Radiation is applied every round, at the beginning of a character's turn, and will accumulate over time. 
+	
+	When a character has more Radiation than the value of their Constitution Score, they take a number of radiant damage equal to the difference. Any Radiation that would be applied to a character is reduced by their current Radiation Protection.
 
 	A number of Radiation is removed at the end of a character's turn equal to their Radiation Reduction plus their Constitution Modifier.
 
 	Early signs of radiation poisoning include, in order of intensity...
-		- dizzieness
-		- headache
-		- taste of metal
-		- nausea
-		- rough coughing
-		- vomitting
-		- stomach pains
-		- high fever
-		- decrease or loss of conciousness
-		- red burns to exposed skin
+		- dizzieness, headache
+		- taste of metal, nausea, rough coughing
+		- vomitting, stomach pains
+		- high fever, decrease or loss of conciousness, red burns to exposed skin
 		- vomitting blood

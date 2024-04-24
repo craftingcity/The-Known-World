@@ -70,6 +70,10 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *Glass Thumb* are a **common** artifact that incurs 1d8 (4) radiation.
 > A *Glass Thumb* is a passive artifact, and provides a +1 to your Attack Rolls and -1 to your Armor Class.
 
+###### Wurm Spine
+
+
+
 ###### Jasper's Twin
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
 > *Jasper's Twin* are a **rare** artifact and incurs 4d4 (10) Radiation.
