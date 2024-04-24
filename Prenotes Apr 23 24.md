@@ -35,6 +35,8 @@ resistances;
 
 ### What happened?
 STEALTH CHECK; 29, 33, 20, 41, 15
+LAIR ACTION COUNTERS STEALTH
++44THP, equipped +1 Vest of Bullet Proofing, +2 Sword of Draining
 ##### THE FIGHT
 
 
