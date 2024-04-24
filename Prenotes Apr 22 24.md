@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for April 22 24
-## Party of Interest: /*LINK*/
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
