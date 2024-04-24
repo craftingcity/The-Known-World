@@ -38,6 +38,15 @@ STEALTH CHECK; 29, 33, 20, 41, 15
 LAIR ACTION COUNTERS STEALTH
 +44THP, equipped +1 Vest of Bullet Proofing, +2 Sword of Draining
 ##### THE FIGHT
+**hallway combat**
+Celaena
+Breenabell
+Nala
+Shep
+Alergra
+A 18, 26, 37, 44, 45, 14
+B 4
+Jerran
 
 
 We leave our heroes on the date of ... AF, as they ...
