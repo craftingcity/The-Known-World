@@ -46,8 +46,9 @@ Shep
 Jerran's Wolves
 ~~Alergra~~
 ~~A 18, 26, 37, 44, 45, 59, 67, 79~~
-B 4, 19, 34, 52
+B 4, 19, 34, 52, 66, 76, 
 Jerran
 
 
 We leave our heroes on the date of ... AF, as they ...
+
