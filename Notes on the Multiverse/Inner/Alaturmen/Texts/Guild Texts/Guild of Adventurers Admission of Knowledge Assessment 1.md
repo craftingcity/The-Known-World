@@ -42,7 +42,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Dragon
 	D. Worm
 
-6. 
+6. There are many sub-factions that make up the Combine. Please name a faction of the Combine, name their Baron, and explain what you know about their ideology & operations.
 
 ## Important People
 ## Major History
