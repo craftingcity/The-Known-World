@@ -27,8 +27,15 @@ Jerran tries to make Durandurm Light Rounds
 Shep tries to make Light Bolts 
 #### 27th of Resowing
 
+resistances;
+- radiant
+- necrotic
+- blud, peirc, slash
+- +29 TEMP
 
 ### What happened?
+STEALTH CHECK; 29, 33, 20, 41, 15
+##### THE FIGHT
 
 
 We leave our heroes on the date of ... AF, as they ...
