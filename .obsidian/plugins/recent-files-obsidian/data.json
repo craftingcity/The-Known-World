@@ -5,12 +5,20 @@
       "path": "Prenotes Apr 22 24.md"
     },
     {
+      "basename": "Things Aren't Right Here...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
+    },
+    {
       "basename": "Campaigns",
       "path": "Campaigns.md"
     },
     {
-      "basename": "Things Aren't Right Here...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
+      "basename": "Combat Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
     },
     {
       "basename": "The Gear...",
@@ -39,10 +47,6 @@
     {
       "basename": "Deep-Guardian Tactical Security Company",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "Timeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
     }
   ],
   "omittedPaths": [],

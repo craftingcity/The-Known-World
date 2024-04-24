@@ -35,16 +35,22 @@ The following is the Squad of Mercs they went with;
 	- "Dom", Human, Experienced
 	- "Locus", Elf, Experienced
 
-As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24); heres init
+As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24);
 
 ##### INITIATIVE
-The party has surprise, and will start with Grenades
+The party has "surprise", and will start with Grenades
 
+22 - Operator "Dom"
 22 - Ash
+21 - Operator "Astro"
 18 - Dae Shim
+17 - Operator "Georgie"
+14 - Operator "Screw"
+14 - Operator "Locus"
 13 - Gringold
 12 - Timothius
 12 - Cucu
+11 - Operator "Bubble"
 
 
 We leave our heroes on the date of ... AF, as they ...

@@ -51,3 +51,12 @@ After all contributions are completed, and the DC of the challenge is calculated
 If the number rolled on the die is greater than or equal to the DC of the **Resurrection Challenge**, and the character's spirit is willing and able, they return to the Material Plane, as per the specifics of the spell used.
 
 If the **Resurrection Challenge** was **Rapid**, another, more powerful & dedicated **Resurrection Challenge** may be attempted, though it is only a matter of time before their spirit is lost to the Outer Planes.
+
+
+
+## ALATURMENIAN MAGIC HOTFIXES
+
+```
+- Reduced Lucky (feat) charges from 3 to 1.
+- Polymorph is a 5th level spell.
+```
