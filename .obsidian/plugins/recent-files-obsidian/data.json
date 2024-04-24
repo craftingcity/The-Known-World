@@ -5,12 +5,28 @@
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
     {
-      "basename": "The Artifacts...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
       "basename": "Things Aren't Right Here...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
+    },
+    {
+      "basename": "Campaigns",
+      "path": "Campaigns.md"
+    },
+    {
+      "basename": "The Old",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
+    },
+    {
+      "basename": "MinyostalmaFeatures",
+      "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
+    },
+    {
+      "basename": "The People...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
+    },
+    {
+      "basename": "The Artifacts...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
     },
     {
       "basename": "Artifact Template",
@@ -35,10 +51,6 @@
     {
       "basename": "Baron Shimmer",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
-    },
-    {
-      "basename": "Campaigns",
-      "path": "Campaigns.md"
     },
     {
       "basename": "Great Northern Forests",
@@ -75,14 +87,6 @@
     {
       "basename": "Coalition City",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "The Old",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "The People...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
     },
     {
       "basename": "The Monsters...",
@@ -195,10 +199,6 @@
     {
       "basename": "MEDIA",
       "path": "MEDIA/MEDIA.md"
-    },
-    {
-      "basename": "The Ballad of Grey Ordeal",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Ballad of Grey Ordeal.md"
     }
   ],
   "omittedPaths": [],

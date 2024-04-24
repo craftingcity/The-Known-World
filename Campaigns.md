@@ -9,3 +9,7 @@ Vibe Notation: This campaign will begin at low level, and initial questing will 
 Evocative Title: **"The Southern Expansion"**
 Description: *'The year is 35 AF. Civilization is still in its infancy upon Alaturmen, where the mass is ruled by an Iron Fist and a Leather Whip. The Bandit Lords of the Great Northern Forest are thriving, despite the active border of divine intervention, and have decided to expand south, into "unclaimed" territories.'*
 Vibe Notation: This campaign will begin and end ar low level, and nearly all questing will focus on the Bandit Lord's influence in what will become known as the Combine.
+
+Evocative Title: **"The Ancient Empire's Horrible Mysteries"**
+Description:
+Vibe Notation:
