@@ -74,6 +74,41 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
+###### Small World
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Glass Dreams
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Bloody Dunes
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Vorpal Shoreline
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Space Bubbles
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Crystalized Vein
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Ruby Pyramid
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
 ##### All
 < 3 common, 0 uncommon, 1 rare >
 ###### Corebent Duram
