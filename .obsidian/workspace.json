@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae038a90e98680e4",
+        "id": "09e6e5e75e380f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "2f32b42edc5059c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Apr 23 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Apr 23 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":2.820515601183268}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd6dbd5ca0a88f05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b172246205f3ee9",
+            "id": "c50958c6c39d00d0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,24 +16,16 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Guild of Adventurers Admission of Knowledge Assessment 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":3},\"to\":{\"line\":46,\"ch\":3}},\"scroll\":19.901726904485052}"
-                },
-                {
-                  "title": "Prenotes Apr 23 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Apr 23 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":2.820515601183268}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Apr 23 24.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -103,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandu",
+                "query": "Borhain a'Huruuc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes Apr 23 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes Apr 23 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +213,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes Apr 23 24.md"
+              }
             }
           },
           {
@@ -320,10 +276,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b172246205f3ee9",
+  "active": "c50958c6c39d00d0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Borhain a'Huruuc.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Yandee a'Huruuc.md",
     "Prenotes Apr 23 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
@@ -335,21 +295,17 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal (and Others).md",
     "Prenotes Apr 22 24.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "A Grand Notepad.md",
     "APGtAv1.md",
     "Game Notes/NPCs/NPCs.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Untitled.md",
-    "Borhain a'Huruuc.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Representitives/Yyu Clipwin.md",
-    "Yandee a'Huruuc.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Population Data.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
-    "GAAKA 1 Key.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",

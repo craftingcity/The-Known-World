@@ -53,9 +53,9 @@ for the graph: [[Here lie my suppliments...]]
 - [[Lou a'Locca]]
 - [[Marley Hurraquk]]
 - **Mild Power**
-	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
+		- [[Borhain a'Huruuc]]
 		- [[Bullryk a'Dregsamony]]
 		- [[Drazz a'Alden]]
 		- [[Glirid a'Fingara]]
@@ -67,6 +67,7 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Kallo Vought]]
 		- [[Maxyu a'Valim]]
 		- [[Sir Harris Bly]]
+		- [[Yandee a'Huruuc]]
 	- **Midboss**
 		- [[Glot Maxim]]
 		- [[Gudeliva]]
@@ -80,7 +81,6 @@ for the graph: [[Here lie my suppliments...]]
 - [[Tori Lane]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]

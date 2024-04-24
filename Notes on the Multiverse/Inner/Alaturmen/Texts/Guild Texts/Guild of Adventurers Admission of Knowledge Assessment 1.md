@@ -44,7 +44,11 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 6. There are many sub-factions that make up the Combine. Please name a faction of the Combine, their Baron, and explain what you know about the faction's ideology & operations.
 
-7. The North Dunes of the Deserts of Tetrimoc 
+7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material?
+
+8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward, which serves as overflow from the other wards and the central pathway through the city?
+
+9. 
 
 ## Important People
 ## Major History
