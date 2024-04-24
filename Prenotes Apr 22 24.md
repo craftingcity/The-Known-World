@@ -42,6 +42,11 @@ As they travelled through the Factory, they found a group of WFM scavenging, 8 v
 	- (Q.M.)
 	- (Medic)
 	*Apostle*
+	- (Lead)
+	- 
+	*Covenant*
+	*Disciple*
+	*Grace*
 
 ##### INITIATIVE
 The party has "surprise", and will start with Grenades
