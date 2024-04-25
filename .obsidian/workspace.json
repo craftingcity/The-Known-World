@@ -33,6 +33,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8172c31451ed99c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Mild Power/Folk of Business/Ondo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -212,7 +233,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "durandurm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Apr 24 24.md",
+                "file": "Prenotes Apr 22 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Apr 24 24.md",
+                "file": "Prenotes Apr 22 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Apr 24 24.md"
+                "file": "Prenotes Apr 22 24.md"
               }
             }
           },
@@ -380,10 +401,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a2c8d4b5cf044da",
+  "active": "4187480e38392b45",
   "lastOpenFiles": [
-    "Prenotes Apr 22 24.md",
     "Prenotes Apr 24 24.md",
+    "Prenotes Apr 22 24.md",
+    "Game Notes/NPCs/Mild Power/Folk of Business/Ondo.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 19 23.md",
@@ -408,7 +430,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Borhain a'Huruuc.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Yandee a'Huruuc.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",

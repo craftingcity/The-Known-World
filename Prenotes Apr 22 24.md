@@ -69,7 +69,7 @@ As they travelled through the Factory, they found a group of WFM scavenging, 8 v
 	- (Trooper) Pvt. Matar
 	- (Trooper) Pvt. Hadas
 
-75HP, 19AC  (+6/7/8, 3d6+8 thunder) or (+8, 2d8+4 slashing) or (DC18 Dex Save, 5d6+20 or half slashing) 
+75HP, 19AC  (+6/7/2x8, 3d6+8 thunder) or (+8, 2d8+4 slashing) or (DC18 Dex Save, 5d6+20 or half slashing) 
 inf. Secreclude Propaterol, (+25hp/3 rounds)
 inf. Isiopara (10+3d4hp/3 rounds)
 

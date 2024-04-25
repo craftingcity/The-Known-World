@@ -43,14 +43,14 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 	A. (Lead) Sgt. Gorbik
 	B. (HighComm) CO. "Squeal"
 	C. (Medic) Corp. Allen
-	D. (Engineer) Cpl. Forks
+	D. (Engineer) Cpl. Forks 
 	E. (Trooper) Pvt. "Bubba"
 	F. (Trooper) Pvt. "Sweatpants"
 *Apostle* (RED)
-	A. (Lead) Cpl. Alavon
+	A. (Lead) Cpl. Alavon < 14, 31
 	B. (Medic) Corp. Enoch < 36, 39, 14
 	C. (Engineer) Cpl. Benkaei < 18
-	D. (Trooper) Pvt. Jean
+	D. (Trooper) Pvt. Jean < 22
 	E. (Trooper) Pvt. "Piddles"
 	F. (Trooper) Pvt. Ohav
 *Covenant* (GREEN)
