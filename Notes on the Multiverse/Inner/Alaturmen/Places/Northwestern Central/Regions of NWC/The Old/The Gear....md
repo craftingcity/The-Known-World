@@ -9,20 +9,32 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name                        | Type     | Dam.    | Ammo      | Crafters | Cost in AC |
-| --------------------------- | -------- | ------- | --------- | -------- | ---------- |
-| Homemade Machete            | slashing | 2d4+STR | none      | all      | 0.1        |
-| Scavenged Handblaster       | dunam    | 1d6+DEX | durandurm | all      | 0.25       |
-| Scavenged Repeating Blaster | dunam    | 3d6+DEX | durandurm | all      | 0.5        |
-| Pipe Gre                            |          |         |           |          |            |
+| Name                                | Type      | Dam.                | Ammo      | Crafters             | Cost in AC |
+| ----------------------------------- | --------- | ------------------- | --------- | -------------------- | ---------- |
+| Homemade Machete                    | slashing  | 2d4+STR             | none      | all                  | 0.1        |
+| Scavenged Handblaster               | dunam     | 1d6+DEX             | durandurm | all                  | 0.25       |
+| Scavenged Repeating Blaster         | dunam     | 3d6+DEX             | durandurm | all                  | 0.5        |
+| Pipe Grenade                        | explosive | 10ft sphere, 3d6+16 | n/a       | all                  | 0.2        |
+| Homemade Fire-Bomb                  | fire      | 5ft sphere, 3d4+8   | n/a       | all                  | 0.1        |
+| Refined Handblaster Receiver        | upg.      | +1 to hit, +1d6     | n/a       | mercs, troopers      | 2.0        |
+| Blessed Handblaster Receiver        | upg.      | +1d4 to hit, +1d4   | n/a       | wfm, extramis        | 2.0        |
+| Extended Handblaster Barrel         | upg.      | +1d6                | n/a       | all                  | 4.0        |
+| Refined Carbine Receiver            | upg       | +2 to hit, +2       | n/a       | mercs                | 3.2        |
+| Dual-pop Carbine Receiver           | upg       | +1 to hit, +1 shot  | n/a       | mercs, troopers, wfm | 4.0        |
+| Ares Manual-Switch Carbine Receiver | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
+| Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  |            |
+| Magazine Extender, 40-shot          | upg.      | 4x mag cap          | n/a       | all                  |            |
 
 #### IMPORTED / FORGED
-| Name                        | Type  | Dam.        | Ammo      | Importers | Cost in AC |
-| --------------------------- | ----- | ----------- | --------- | --------- | ---------- |
-| Handblaster                 | dunam | 1d6+DEX     | durandurm | all       | 0.3        |
-| Repeating Blaster / Carbine | dunam | 3d6+DEX     | durandurm | all       | 0.75       |
-| Machine Repeater            | dunam | 3x(1d6+DEX) | durandurm | all       | 1.0        |
-|                             |       |             |           |           |            |
+| Name                        | Type      | Dam.                 | Ammo      | Importers | Cost in AC |
+| --------------------------- | --------- | -------------------- | --------- | --------- | ---------- |
+| Handblaster                 | dunam     | 1d6+DEX              | durandurm | all       | 0.3        |
+| Repeating Blaster / Carbine | dunam     | 3d6+DEX              | durandurm | all       | 0.75       |
+| Machine Repeater            | dunam     | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
+| Pineapple Grenade           | explosive | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
+| Fire Grenade                | fire      | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
+| Shoebox Anti-Personnel Mine | explosive | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
+| Hillsight Shaped Mine       | explosive | 10ft cone, 4d10+25   | n/a       | all       |            |
 
 #### EQUIPMENT
 | Name                                     | Type                   | Use                            | Importers   | Cost in AC |
