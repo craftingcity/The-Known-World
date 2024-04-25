@@ -35,38 +35,40 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 12 - *Testament*
 12 - Timothius
 12 - Cucu
-11 - Operator "Bubble"
+11 - Operator "Bubble" > 35
 8 - *Covenant*
+
+32
 
 #### WFM
 *Testament* (WHITE)
 	A. (Lead) Sgt. Gorbik < 17
 	B. (HighComm) CO. "Squeal"
-	C. (Medic) Corp. Allen
+	C. (Medic) Corp. Allen < 16
 	D. (Engineer) Cpl. Forks 
 	E. (Trooper) Pvt. "Bubba"
-	F. (Trooper) Pvt. "Sweatpants"
+	F. (Trooper) Pvt. "Sweatpants" < 32
 *Apostle* (RED)
-	A. (Lead) Cpl. Alavon < 14, 31, 65
+	~~A. (Lead) Cpl. Alavon < 14, 31, 65~~
 	B. (Medic) Corp. Enoch < 36, 39, 14
 	~~C. (Engineer) Cpl. Benkaei < 18, 36, 74~~
 	D. (Trooper) Pvt. Jean < 22
-	E. (Trooper) Pvt. "Piddles" < 44, 62
-	F. (Trooper) Pvt. Ohav < 16
+	~~E. (Trooper) Pvt. "Piddles" < 44, 62~~
+	F. (Trooper) Pvt. Ohav < 16, 53
 *Covenant* (GREEN)
 	A. (Lead) Cpl. "Solid"
 	B. (Medic) Corp. Alice
-	C. (Engineer) Cpl. Joanne
-	D. (Trooper) Pvt. Colins
+	C. (Engineer) Cpl. Joanne < 32
+	D. (Trooper) Pvt. Colins < 32
 	E. (Trooper) Pvt. La
-	F. (Trooper) Pvt. Tal
+	F. (Trooper) Pvt. Tal < 16
 *Disciple* (YELLOW)
 	A. (Lead) Cpl. Matten
 	B. (Medic) Corp. Elran
 	C. (Engineer) Cpl. Simata
 	D. (Trooper) Pvt. "Chip"
 	~~E. (Trooper) Pvt. Matar < 35, 73~~
-	F. (Trooper) Pvt. Hadas < 19
+	~~F. (Trooper) Pvt. Hadas < 19, 37, 69~~
 
 ### What happened?
 
