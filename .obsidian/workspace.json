@@ -4,6 +4,39 @@
     "type": "split",
     "children": [
       {
+        "id": "71c05f910043002f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4187480e38392b45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Apr 22 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "85e4955d92049573",
         "type": "tabs",
         "children": [
@@ -77,17 +110,11 @@
             }
           },
           {
-            "id": "4187480e38392b45",
+            "id": "5a2c8d4b5cf044da",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "A Grand Notepad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -97,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Apr 22 24.md",
+                "file": "Prenotes Apr 24 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -355,11 +382,12 @@
   },
   "active": "4187480e38392b45",
   "lastOpenFiles": [
+    "Prenotes Apr 24 24.md",
+    "Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Campaigns.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "A Grand Notepad.md",
-    "Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
@@ -381,7 +409,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",

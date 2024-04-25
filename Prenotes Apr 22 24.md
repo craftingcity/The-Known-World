@@ -37,15 +37,12 @@ The following is the Squad of Mercs they went with;
 
 As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24, 4x6);
 	*Testament*
-	- (Lead) Sgt. 
-	- (Comms)
-	- (Q.M.)
+	- (Lead)
+	- (HighComm)
 	- (Medic)
-	- (Trooper)
+	- (Engineer)
 	- (Trooper)
 	*Apostle*
-	- (Lead)
-	- 
 	*Covenant*
 	*Disciple*
 
