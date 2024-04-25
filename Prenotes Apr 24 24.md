@@ -22,7 +22,7 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What does the World Know?
 ## COMBAT
-22 - Operator "Dom" > 12
+22 - Operator "Dom" >
 22 - Ash
 21 - Operator "Astro"
 19 - *Apostle*
@@ -40,19 +40,19 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 #### WFM
 *Testament* (WHITE)
-	A. (Lead) Sgt. Gorbik
+	A. (Lead) Sgt. Gorbik < 17
 	B. (HighComm) CO. "Squeal"
 	C. (Medic) Corp. Allen
 	D. (Engineer) Cpl. Forks 
 	E. (Trooper) Pvt. "Bubba"
 	F. (Trooper) Pvt. "Sweatpants"
 *Apostle* (RED)
-	A. (Lead) Cpl. Alavon < 14, 31
+	A. (Lead) Cpl. Alavon < 14, 31, 65
 	B. (Medic) Corp. Enoch < 36, 39, 14
-	C. (Engineer) Cpl. Benkaei < 18
+	~~C. (Engineer) Cpl. Benkaei < 18, 36, 74~~
 	D. (Trooper) Pvt. Jean < 22
-	E. (Trooper) Pvt. "Piddles"
-	F. (Trooper) Pvt. Ohav
+	E. (Trooper) Pvt. "Piddles" < 44, 62
+	F. (Trooper) Pvt. Ohav < 16
 *Covenant* (GREEN)
 	A. (Lead) Cpl. "Solid"
 	B. (Medic) Corp. Alice
@@ -65,8 +65,8 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 	B. (Medic) Corp. Elran
 	C. (Engineer) Cpl. Simata
 	D. (Trooper) Pvt. "Chip"
-	E. (Trooper) Pvt. Matar
-	F. (Trooper) Pvt. Hadas
+	~~E. (Trooper) Pvt. Matar < 35, 73~~
+	F. (Trooper) Pvt. Hadas < 19
 
 ### What happened?
 
