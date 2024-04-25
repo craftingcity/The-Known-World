@@ -28,12 +28,14 @@ When they do reach the Factory, they can find the well looted corpse of Simone, 
 They've made it to the Factory and talked with the Mercs, though they don't know that name. They hired a squad to take them through the Base.
 
 The following is the Squad of Mercs they went with;
-	- "Bubble", Triton, Master
-	- "Screw", Gnoll, Professional
-	- "Georgie", Human, Professional
-	- "Astro", Elf, Professional
+	- "Bubble", Triton, Master (2x attack)
+	- "Screw", Gnoll, Professional (2x attack)
+	- "Georgie", Human, Professional (2x attack)
+	- "Astro", Elf, Professional (2x attack)
 	- "Dom", Human, Experienced
 	- "Locus", Elf, Experienced
+
+(+7, 3d6+6 fire) or (15ft sphere, DC18 Dex Save, 5d6+20 or half slashing)
 
 As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24, 4x6);
 	*Testament*

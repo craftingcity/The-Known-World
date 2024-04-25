@@ -23,8 +23,6 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What does the World Know?
 
-#### MERCS
-
 #### WFM
 
 ## COMBAT
