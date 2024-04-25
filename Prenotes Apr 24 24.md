@@ -74,4 +74,8 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 11x Corpses, Pvt. Colins was captured.
 
+Surveyed about challange level, the allies they have rn made it too easy - less allies, stronger enemies, and hopefully fewer enemies too, its a lot yknow
+
+higher attack bonus and damage would be fix, ac & health felt ok for numbers we had
+
 We leave our heroes on the date of ... AF, as they ...

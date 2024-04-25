@@ -9,16 +9,20 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name                        | Type     | Dam.    | Ammo      | Importers | Cost in AC |
-| --------------------------- | -------- | ------- | --------- | --------- | ---------- |
-| Homemade Machete            | slashing | 2d4+STR | none      | 0.1       | 0.1        |
-| Scavenged Handblaster       | dunam    | 1d6+DEX | durandurm |           | 0.25       |
-| Scavenged Repeating Blaster | dunam    | 3d6+DEX | durandurm |           | 0.5        |
+| Name                        | Type     | Dam.    | Ammo      | Crafters | Cost in AC |
+| --------------------------- | -------- | ------- | --------- | -------- | ---------- |
+| Homemade Machete            | slashing | 2d4+STR | none      | all      | 0.1        |
+| Scavenged Handblaster       | dunam    | 1d6+DEX | durandurm | all      | 0.25       |
+| Scavenged Repeating Blaster | dunam    | 3d6+DEX | durandurm | all      | 0.5        |
+| Pipe Gre                            |          |         |           |          |            |
 
 #### IMPORTED / FORGED
-| Name | Type | Dam. | Ammo | Cost in AC |
-| ---- | ---- | ---- | ---- | ---------- |
-| x    | x    |      |      |            |
+| Name                        | Type  | Dam.        | Ammo      | Importers | Cost in AC |
+| --------------------------- | ----- | ----------- | --------- | --------- | ---------- |
+| Handblaster                 | dunam | 1d6+DEX     | durandurm | all       | 0.3        |
+| Repeating Blaster / Carbine | dunam | 3d6+DEX     | durandurm | all       | 0.75       |
+| Machine Repeater            | dunam | 3x(1d6+DEX) | durandurm | all       | 1.0        |
+|                             |       |             |           |           |            |
 
 #### EQUIPMENT
 | Name                                     | Type                   | Use                            | Importers   | Cost in AC |
