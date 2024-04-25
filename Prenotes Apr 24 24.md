@@ -40,34 +40,34 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 8 - *Covenant*
 
 #### WFM
-*Testament*
-	- (Lead) Sgt. Gorbik
-	- (HighComm) CO. "Squeal"
-	- (Medic) Corp. Allen
-	- (Engineer) Cpl. Forks
-	- (Trooper) Pvt. "Bubba"
-	- (Trooper) Pvt. "Sweatpants"
-*Apostle*
-	- (Lead) Cpl. Alavon
-	- (Medic) Corp. Enoch
-	- (Engineer) Cpl. Benkaei
-	- (Trooper) Pvt. Jean
-	- (Trooper) Pvt. "Piddles"
-	- (Trooper) Pvt. Ohav
-*Covenant*
-	- (Lead) Cpl. "Solid"
-	- (Medic) Corp. Alice
-	- (Engineer) Cpl. Joanne
-	- (Trooper) Pvt. Colins
-	- (Trooper) Pvt. La
-	- (Trooper) Pvt. Tal
-*Disciple*
-	- (Lead) Cpl. Matten
-	- (Medic) Corp. Elran
-	- (Engineer) Cpl. Simata
-	- (Trooper) Pvt. "Chip"
-	- (Trooper) Pvt. Matar
-	- (Trooper) Pvt. Hadas
+*Testament* (WHITE)
+	A. (Lead) Sgt. Gorbik
+	B. (HighComm) CO. "Squeal"
+	C. (Medic) Corp. Allen
+	D. (Engineer) Cpl. Forks
+	E. (Trooper) Pvt. "Bubba"
+	F. (Trooper) Pvt. "Sweatpants"
+*Apostle* (RED)
+	A. (Lead) Cpl. Alavon
+	B. (Medic) Corp. Enoch
+	C. (Engineer) Cpl. Benkaei
+	D. (Trooper) Pvt. Jean
+	E. (Trooper) Pvt. "Piddles"
+	F. (Trooper) Pvt. Ohav
+*Covenant* (GREEN)
+	A. (Lead) Cpl. "Solid"
+	B. (Medic) Corp. Alice
+	C. (Engineer) Cpl. Joanne
+	D. (Trooper) Pvt. Colins
+	E. (Trooper) Pvt. La
+	F. (Trooper) Pvt. Tal
+*Disciple* (YELLOW)
+	A. (Lead) Cpl. Matten
+	B. (Medic) Corp. Elran
+	C. (Engineer) Cpl. Simata
+	D. (Trooper) Pvt. "Chip"
+	E. (Trooper) Pvt. Matar
+	F. (Trooper) Pvt. Hadas
 
 ### What happened?
 
