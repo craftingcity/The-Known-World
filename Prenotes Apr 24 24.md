@@ -27,7 +27,7 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 21 - Operator "Astro"
 19 - *Apostle*
 18 - Dae Shim
-17 - Operator "Georgie" > 57
+17 - Operator "Georgie" > 57, 32
 16 - *Disciple*
 14 - Operator "Screw"
 14 - Operator "Locus"
@@ -42,26 +42,26 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 #### WFM
 *Testament* (WHITE)
-	A. (Lead) Sgt. Gorbik < 17
-	B. (HighComm) CO. "Squeal"
-	C. (Medic) Corp. Allen < 16, 34
-	D. (Engineer) Cpl. Forks 
-	E. (Trooper) Pvt. "Bubba"
+	~~A. (Lead) Sgt. Gorbik < 17, ~~
+	B. (HighComm) CO. "Squeal" < 45
+	C. (Medic) Corp. Allen < 16, 34, 38
+	D. (Engineer) Cpl. Forks < 15, 28
+	E. (Trooper) Pvt. "Bubba" < 4
 	~~F. (Trooper) Pvt. "Sweatpants" < 32, 68~~
 *Apostle* (RED)
 	~~A. (Lead) Cpl. Alavon < 14, 31, 65~~
-	B. (Medic) Corp. Enoch < 36, 39, 14
+	B. (Medic) Corp. Enoch < 36, 39, 14, 0
 	~~C. (Engineer) Cpl. Benkaei < 18, 36, 74~~
-	D. (Trooper) Pvt. Jean < 22
+	D. (Trooper) Pvt. Jean < 22, 55
 	~~E. (Trooper) Pvt. "Piddles" < 44, 62~~
 	F. (Trooper) Pvt. Ohav < 16, 53
 *Covenant* (GREEN)
 	A. (Lead) Cpl. "Solid"
-	B. (Medic) Corp. Alice
-	C. (Engineer) Cpl. Joanne < 32, 50, 25
+	B. (Medic) Corp. Alice < 8
+	C. (Engineer) Cpl. Joanne < 32, 50, 25, 33
 	D. (Trooper) Pvt. Colins < 32
 	E. (Trooper) Pvt. La < 36
-	F. (Trooper) Pvt. Tal < 16, 52
+	~~F. (Trooper) Pvt. Tal < 16, 52, ~~
 *Disciple* (YELLOW)
 	A. (Lead) Cpl. Matten
 	B. (Medic) Corp. Elran
