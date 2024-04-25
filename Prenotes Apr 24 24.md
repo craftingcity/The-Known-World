@@ -22,12 +22,12 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What does the World Know?
 ## COMBAT
-22 - Operator "Dom" >
+22 - Operator "Dom" > 
 22 - Ash
 21 - Operator "Astro"
 19 - *Apostle*
 18 - Dae Shim
-17 - Operator "Georgie"
+17 - Operator "Georgie" > 57
 16 - *Disciple*
 14 - Operator "Screw"
 14 - Operator "Locus"
@@ -44,10 +44,10 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 *Testament* (WHITE)
 	A. (Lead) Sgt. Gorbik < 17
 	B. (HighComm) CO. "Squeal"
-	C. (Medic) Corp. Allen < 16
+	C. (Medic) Corp. Allen < 16, 34
 	D. (Engineer) Cpl. Forks 
 	E. (Trooper) Pvt. "Bubba"
-	F. (Trooper) Pvt. "Sweatpants" < 32
+	~~F. (Trooper) Pvt. "Sweatpants" < 32, 68~~
 *Apostle* (RED)
 	~~A. (Lead) Cpl. Alavon < 14, 31, 65~~
 	B. (Medic) Corp. Enoch < 36, 39, 14
@@ -58,10 +58,10 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 *Covenant* (GREEN)
 	A. (Lead) Cpl. "Solid"
 	B. (Medic) Corp. Alice
-	C. (Engineer) Cpl. Joanne < 32
+	C. (Engineer) Cpl. Joanne < 32, 50, 25
 	D. (Trooper) Pvt. Colins < 32
-	E. (Trooper) Pvt. La
-	F. (Trooper) Pvt. Tal < 16
+	E. (Trooper) Pvt. La < 36
+	F. (Trooper) Pvt. Tal < 16, 52
 *Disciple* (YELLOW)
 	A. (Lead) Cpl. Matten
 	B. (Medic) Corp. Elran
