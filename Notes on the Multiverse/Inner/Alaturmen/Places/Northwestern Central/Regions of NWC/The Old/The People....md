@@ -12,15 +12,15 @@ A collective name for the individuals and groups without a greater affiliation t
 - [[#The Sticks]]
 	- The Seekers within the Sticks leave with fewer friends than they entered with.
 - [[#The Factory]]
-	- Most inexperienced Seekers avoid this area for fear of Mercs
+	- Most inexperienced Seekers avoid this area for fear of Mercs, and Hostile Scavs.
 - [[#The City]]
 	- Few Seekers operate in the City, and those who do are allied to many different and even conflicting Factions.
 - [[#The Village]]
 	- Few Seekers operate in the Village, and those who do are allied to many different and even conflicting Factions.
 - [[#The Base]]
-	- Most inexperienced Seekers avoid this area for fear of Mercs
+	- Most inexperienced Seekers avoid this area for fear of Mercs, and Hostile Scavs.
 - [[#The Dwarven Ship]]
-	- Most inexperienced Seekers avoid this area for fear of Metal Men
+	- Most inexperienced Seekers avoid this area for fear of Troopers, and Hostile Scavs.
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".

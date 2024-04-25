@@ -22,8 +22,9 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Refined Carbine Receiver            | upg       | +2 to hit, +2       | n/a       | mercs                | 3.2        |
 | Dual-pop Carbine Receiver           | upg       | +1 to hit, +1 shot  | n/a       | mercs, troopers, wfm | 4.0        |
 | Ares Manual-Switch Carbine Receiver | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
-| Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  |            |
-| Magazine Extender, 40-shot          | upg.      | 4x mag cap          | n/a       | all                  |            |
+| Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  | 0.8        |
+| Magazine Extender, 40-shot          | upg.      | 4x mag cap          | n/a       | all                  | 2.4        |
+| Magazine Belt Feeder                | upg       | inf mag cap         | n/a       | all                  | 5.6        | 
 
 #### IMPORTED / FORGED
 | Name                        | Type      | Dam.                 | Ammo      | Importers | Cost in AC |
@@ -50,28 +51,38 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Armors
 #### SCAVANGED / REFIT
-| Name    | Type   | Prot.          | Refitters | Cost in AC |
-| ------- | ------ | -------------- | --------- | ---------- |
-| Leather | Light  | 11+DEX         |           |            |
-| Hide    | Medium | 14+DEX (max 2) |           |            |
+| Name                 | Type   | Prot.          | Refitters | Cost in AC |
+| -------------------- | ------ | -------------- | --------- | ---------- |
+| Leather              | Light  | 11+DEX         | all       | 0.1        |
+| Hide                 | Medium | 14+DEX (max 2) | all       | 0.2        |
+| Patched Scout Armor  | Light  | 15+DEX         | all       | 0.8        |
+| Patched Combat Armor | Medium | 16+DEX         | all       | 2.0        |
+| Plate                | Heavy  | 18             | all       | 0.2        |
+| Refit Tank-plate     | Heavy  | 20, DR 1       | all       | 2.8        |
+| Empty Power Plate    | Heavy  | 22, DR 2       | all       | 7.5        | 
 
 #### IMPORTED / FORGED
-| Name           | Type   | Prot.          | Importers | Cost in AC |
-| -------------- | ------ | -------------- | --------- | ---------- |
-| Chitin Studded | Light  | 13+DEX         |           |            |
-| Chitin Mail    | Medium | 14+DEX (max 3) |           |            |
-| Chitin Plate   | Heavy  | 16+DEX (max 2) |           |            |
-|                |        |                |           |            |
+| Name                    | Type   | Prot.          | Importers             | Cost in AC |
+| ----------------------- | ------ | -------------- | --------------------- | ---------- |
+| Chitin Studded          | Light  | 13+DEX         | all                   | 0.2        |
+| Chitin Mail             | Medium | 14+DEX (max 3) | all                   | 0.4        |
+| Chitin Plate            | Heavy  | 16+DEX (max 2) | all                   | 0.75       |
+| Pressigen Scout Armor   | Light  | 16+DEX         | scavs, mercs          | 1.0        |
+| Pressigen Combat Aromor | Medium | 18+DEX         | scavs, mercs          | 2.5        |
+| Blessed Half-plate      | Medium | 17+DEX (max 2) | wfm, extramis         | 0.8        |
+| Blessed Plate           | Heavy  | 20             | wfm, extramis         | 1.4        |
+| Darksteel Tank-plate    | Heavy  | 21, DR 2       | wfm, troopers, fallen | 3.6        |
+| Durandurm Powered Plate | Heavy  | 23, DR 5       | fallen                | 16.0       | 
 
 #### RADIATION
 | Name                                                             | Type           | Prot.             | Importers | Cost in AC |     |
 | ---------------------------------------------------------------- | -------------- | ----------------- | --------- | ---------- | --- |
-| Hazardous Environment Facial Protector (HEFP), Mark 1            | Headgear       | +5 R. Resistance  | All       |            |     |
-| Hazardous Environment Facial Protector (HEFP), Mark 2            | Headgear       | +15 R. Resistance | All       |            |     |
-| Hazardous Environment Facial Protector (HEFP), Mark 3            | Headgear       | +35 R. Resistance | All       |            |     |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Resistance | All       |            |     |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Resistance | All       |            |     |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Resistance | All       |            |     |
+| Hazardous Environment Facial Protector (HEFP), Mark 1            | Headgear       | +5 R. Protection  | All       |            |     |
+| Hazardous Environment Facial Protector (HEFP), Mark 2            | Headgear       | +15 R. Protection | All       |            |     |
+| Hazardous Environment Facial Protector (HEFP), Mark 3            | Headgear       | +35 R. Protection | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Protection | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Protection | All       |            |     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Protection | All       |            |     |
 |                                                                  |                |                   |           |            |     |
 
 ### Ammunition
@@ -92,9 +103,10 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Containers
 #### FLUIDS STORAGE
-| Name | Type | Space | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name     | Type    | Space | Cost in AC |
+| -------- | ------- | ----- | ---------- |
+| Wineskin | leather | 1 gal | 0.1        |
+|          |         |       |            |
 
 #### SOLIDS STORAGE
 | Name | Type | Space | Cost in AC |
@@ -102,9 +114,10 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |       |            |
 
 #### ARTIFACTS STORAGE
-| Name | Type | Space | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                 | Type    | Reduction | Space   | Cost in AC |
+| -------------------- | ------- | --------- | ------- | ---------- |
+| Simple Anti-Rad Box  | lockbox | 8 RadRed          | 1x Arti | 1.0        |
+| Blessed Anti-Rad Box | lockbox |           | 1x Arti |            |
 
 ### Commodities
 #### DRUGS / ALCH
@@ -171,4 +184,4 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### RADIATION
 | Name      | Type  | Desc.                                                                                                                                               | Cost in AC |
 | --------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Ambebamol | Solid | A yellow-green powder that when consumed orally or nasally, provides protection against the hidden threat known as Radiation (+6RadRes / 25 rounds) |            |
+| Ambebamol | Solid | A yellow-green powder that when consumed orally or nasally, provides protection against the hidden threat known as Radiation (+6RadRed / 25 rounds) |            |
