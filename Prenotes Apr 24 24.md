@@ -27,7 +27,7 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 21 - Operator "Astro"
 19 - *Apostle*
 18 - Dae Shim
-17 - Operator "Georgie" > 57, 32
+17 - Operator "Georgie" > 57, 32, 7
 16 - *Disciple*
 14 - Operator "Screw"
 14 - Operator "Locus"
@@ -45,26 +45,26 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 	~~A. (Lead) Sgt. Gorbik < 17, ~~
 	B. (HighComm) CO. "Squeal" < 45
 	C. (Medic) Corp. Allen < 16, 34, 38
-	D. (Engineer) Cpl. Forks < 15, 28
+	D. (Engineer) Cpl. Forks < 15, 28, 59
 	E. (Trooper) Pvt. "Bubba" < 4
 	~~F. (Trooper) Pvt. "Sweatpants" < 32, 68~~
 *Apostle* (RED)
 	~~A. (Lead) Cpl. Alavon < 14, 31, 65~~
 	B. (Medic) Corp. Enoch < 36, 39, 14, 0
 	~~C. (Engineer) Cpl. Benkaei < 18, 36, 74~~
-	D. (Trooper) Pvt. Jean < 22, 55
+	~~D. (Trooper) Pvt. Jean < 22, 55,~~ 
 	~~E. (Trooper) Pvt. "Piddles" < 44, 62~~
-	F. (Trooper) Pvt. Ohav < 16, 53
+	~~F. (Trooper) Pvt. Ohav < 16, 53~~
 *Covenant* (GREEN)
 	A. (Lead) Cpl. "Solid"
-	B. (Medic) Corp. Alice < 8
-	C. (Engineer) Cpl. Joanne < 32, 50, 25, 33
-	D. (Trooper) Pvt. Colins < 32
-	E. (Trooper) Pvt. La < 36
+	B. (Medic) Corp. Alice < 8, 47
+	C. (Engineer) Cpl. Joanne < 32, 50, 25, 33, 52
+	D. (Trooper) Pvt. Colins < 32, 42, 
+	~~E. (Trooper) Pvt. La < 36~~
 	~~F. (Trooper) Pvt. Tal < 16, 52, ~~
 *Disciple* (YELLOW)
 	A. (Lead) Cpl. Matten
-	B. (Medic) Corp. Elran
+	B. (Medic) Corp. Elran < 35
 	C. (Engineer) Cpl. Simata
 	D. (Trooper) Pvt. "Chip"
 	~~E. (Trooper) Pvt. Matar < 35, 73~~
@@ -72,5 +72,6 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What happened?
 
+11x Corpses, Pvt. Colins was captured.
 
 We leave our heroes on the date of ... AF, as they ...
