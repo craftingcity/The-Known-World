@@ -5,20 +5,28 @@
       "path": "Prenotes Apr 22 24.md"
     },
     {
-      "basename": "The Gear...",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
-    },
-    {
       "basename": "Prenotes Apr 24 24",
       "path": "Prenotes Apr 24 24.md"
     },
     {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
+      "basename": "Prenotes Mar 08 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md"
     },
     {
       "basename": "Things Aren't Right Here...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
+    },
+    {
+      "basename": "Prenotes July 19 23",
+      "path": "Game Notes/Prenotes/'23/Prenotes July 19 23.md"
+    },
+    {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "Campaigns",
@@ -191,14 +199,6 @@
     {
       "basename": "Non-Nation Entities",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "Guild of Merchants",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
     }
   ],
   "omittedPaths": [],

@@ -39,6 +39,35 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 11 - Operator "Bubble"
 8 - *Covenant*
 
+#### WFM
+*Testament*
+	- (Lead) Sgt. Gorbik
+	- (HighComm) CO. "Squeal"
+	- (Medic) Corp. Allen
+	- (Engineer) Cpl. Forks
+	- (Trooper) Pvt. "Bubba"
+	- (Trooper) Pvt. "Sweatpants"
+*Apostle*
+	- (Lead) Cpl. Alavon
+	- (Medic) Corp. Enoch
+	- (Engineer) Cpl. Benkaei
+	- (Trooper) Pvt. Jean
+	- (Trooper) Pvt. "Piddles"
+	- (Trooper) Pvt. Ohav
+*Covenant*
+	- (Lead) Cpl. "Solid"
+	- (Medic) Corp. Alice
+	- (Engineer) Cpl. Joanne
+	- (Trooper) Pvt. Colins
+	- (Trooper) Pvt. La
+	- (Trooper) Pvt. Tal
+*Disciple*
+	- (Lead) Cpl. Matten
+	- (Medic) Corp. Elran
+	- (Engineer) Cpl. Simata
+	- (Trooper) Pvt. "Chip"
+	- (Trooper) Pvt. Matar
+	- (Trooper) Pvt. Hadas
 
 ### What happened?
 

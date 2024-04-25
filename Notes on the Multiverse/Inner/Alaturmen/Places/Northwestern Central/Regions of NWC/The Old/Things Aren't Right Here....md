@@ -12,7 +12,7 @@ Where their Divine companions are personally punished for their casting, and may
 
 	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. 
 	> 	If they succeed, they take a number of d6 psycic damage equal to the spell's level, and the spell is cast as per usual. Then, they roll on the Wild Magic table. 
-	> 	If they fail, they take a number of d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
+	> 	If they fail, they take a number of 2d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
 	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
 ### Hazards
