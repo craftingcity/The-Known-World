@@ -22,9 +22,6 @@ We return to the party in a moment of tension. Guns are raised, enemies identifi
 As you feel yourself breathing, being as quiet and small against the walls as you can, you see "Bubbles" ready her grenade. "Dom" begins a five-count on his hands for you all to see. 5. 4. Bubbles throws the grenade. 3. The men around the machinery have noticed, but yet to act. 2. They scream. 1. An explosion occurs, and combat begins.
 
 ### What does the World Know?
-
-#### WFM
-
 ## COMBAT
 22 - Operator "Dom"
 22 - Ash
