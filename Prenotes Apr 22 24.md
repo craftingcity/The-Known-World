@@ -35,7 +35,7 @@ The following is the Squad of Mercs they went with;
 	- "Dom", Human, Experienced
 	- "Locus", Elf, Experienced
 
-(+7, 3d6+6 fire) or (15ft sphere, DC18 Dex Save, 5d6+20 or half slashing)
+18/19/20AC 90/80/70hp (+7/8/9, 3d6+6 fire) or (15ft sphere, DC18 Dex Save, 5d6+20 or half slashing)
 5x Secreclude Propaterol (+25hp/3 rounds)
 12x Isiopara (10+3d4hp/3 rounds)
 
@@ -69,7 +69,7 @@ As they travelled through the Factory, they found a group of WFM scavenging, 8 v
 	- (Trooper) Pvt. Matar
 	- (Trooper) Pvt. Hadas
 
-(+6/7/8, 3d6+8 thunder) or (+8, 2d8+4 slashing) or (DC18 Dex Save, 5d6+20 or half slashing) 
+75HP, 19AC  (+6/7/8, 3d6+8 thunder) or (+8, 2d8+4 slashing) or (DC18 Dex Save, 5d6+20 or half slashing) 
 inf. Secreclude Propaterol, (+25hp/3 rounds)
 inf. Isiopara (10+3d4hp/3 rounds)
 

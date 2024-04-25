@@ -22,7 +22,7 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What does the World Know?
 ## COMBAT
-22 - Operator "Dom"
+22 - Operator "Dom" > 12
 22 - Ash
 21 - Operator "Astro"
 19 - *Apostle*
@@ -48,7 +48,7 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 	F. (Trooper) Pvt. "Sweatpants"
 *Apostle* (RED)
 	A. (Lead) Cpl. Alavon
-	B. (Medic) Corp. Enoch < 36
+	B. (Medic) Corp. Enoch < 36, 39, 14
 	C. (Engineer) Cpl. Benkaei < 18
 	D. (Trooper) Pvt. Jean
 	E. (Trooper) Pvt. "Piddles"
