@@ -37,14 +37,33 @@ The following is the Squad of Mercs they went with;
 
 As they travelled through the Factory, they found a group of WFM scavenging, 8 visible, but this is a full Patrol (24, 4x6);
 	*Testament*
-	- (Lead)
-	- (HighComm)
-	- (Medic)
-	- (Engineer)
-	- (Trooper)
+	- (Lead) Sgt. Gorbik
+	- (HighComm) CO. "Squeal"
+	- (Medic) Corp. Allen
+	- (Engineer) Cpl. Forks
+	- (Trooper) Pvt. "Bubba"
+	- (Trooper) Pvt. "Sweatpants"
 	*Apostle*
+	- (Lead) Cpl. Alavon
+	- (Medic) Corp. Enoch
+	- (Engineer) Cpl. Benkaei
+	- (Trooper) Pvt. Jean
+	- (Trooper) Pvt. "Piddles"
+	- (Trooper) Pvt. Ohav
 	*Covenant*
+	- (Lead) Cpl. "Solid"
+	- (Medic) Corp. Alice
+	- (Engineer) Cpl. Joanne
+	- (Trooper) Pvt. Colins
+	- (Trooper) Pvt. La
+	- (Trooper) Pvt. Tal
 	*Disciple*
+	- (Lead) Cpl. Matten
+	- (Medic) Corp. Elran
+	- (Engineer) Cpl. Simata
+	- (Trooper) Pvt. "Chip"
+	- (Trooper) Pvt. Matar
+	- (Trooper) Pvt. Hadas
 
 ##### INITIATIVE
 The party has "surprise", and will start with Grenades

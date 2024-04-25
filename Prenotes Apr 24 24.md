@@ -23,6 +23,26 @@ As you feel yourself breathing, being as quiet and small against the walls as yo
 
 ### What does the World Know?
 
+#### MERCS
+
+#### WFM
+
+## COMBAT
+22 - Operator "Dom"
+22 - Ash
+21 - Operator "Astro"
+19 - *Apostle*
+18 - Dae Shim
+17 - Operator "Georgie"
+16 - *Disciple*
+14 - Operator "Screw"
+14 - Operator "Locus"
+13 - Gringold
+12 - *Testament*
+12 - Timothius
+12 - Cucu
+11 - Operator "Bubble"
+8 - *Covenant*
 
 
 ### What happened?
