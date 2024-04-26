@@ -39,6 +39,6 @@ Medium Humanoid;
 xx AC, xx HP
 
 #### The Zombies
-> '*Lost scavs and missing comrades, the Zombies within the walls of Minyostalma were once our friends. Our relatives. Lost to the storms of light. *'
+> '*Lost scavs and missing comrades, the Zombies within the walls of Minyostalma were once our friends. Our relatives. Lost to the storms of light. It is a disgrace to leave these facades alive.*'
 Medium Undead;
 xx AC, xx HP
