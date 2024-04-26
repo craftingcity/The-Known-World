@@ -29,16 +29,16 @@ Medium Monstrosity;
 xx AC, xx HP
 
 #### The Mass
-> '*DESCRIPTION*'
+> '*Sickening thuds accompany the Mass' movements throughout Minyostalma. To call it a great beast is an understatement, for lack of a better descriptor, this horrible face on legs is giant.*'
 Large Monstrosity;
 xx AC, xx HP
 
 #### The Warper
-> '*DESCRIPTION*'
+> '*We think it was once a man. It looks the part. The elongated limbs, sharp claws for fingers, bloody tendrils for a mouth, and above all else the camouflage this monster uses makes that theory less than likely. Or one hell of a man to start.*'
 Medium Humanoid;
 xx AC, xx HP
 
 #### The Zombies
-> '*DESCRIPTION*'
+> '*Lost scavs and missing comrades, the Zombies within the walls of Minyostalma were once our friends. Our relatives. Lost to the storms of light. *'
 Medium Undead;
 xx AC, xx HP
