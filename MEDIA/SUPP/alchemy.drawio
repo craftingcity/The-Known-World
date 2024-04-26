@@ -1,103 +1,103 @@
-<mxfile host="Electron" modified="2024-04-17T03:59:44.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Me9mGMjSVRQjJDlIEoHx" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-04-26T01:53:42.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="o7hghYusYLBZCzLL9lpT" version="24.2.5" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
-    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ClbpXUDGMXj9jLXGlXEX-1" value="Flora" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-2" value="Alknet Pulp&lt;div&gt;&lt;div&gt;&lt;div&gt;EVOKE / RESIST&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-2" value="Alknet Pulp (+1)&lt;div&gt;&lt;div&gt;&lt;div&gt;EVOKE / RESIST&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-3" value="Aloe Vera&lt;div&gt;HEAL / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-3" value="Aloe Vera (+2)&lt;div&gt;HEAL / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-4" value="Dragon&#39;s Tongue&lt;div&gt;DRACO / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-4" value="Dragon&#39;s Tongue (+2)&lt;div&gt;DRACO / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-5" value="Foxglove Pulp&lt;div&gt;CHARM / DESIST&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Alknet%20Pulp%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3BEVOKE%20%2F%20RESIST%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%2360a917%3BfontColor%3D%23ffffff%3BstrokeColor%3D%232D7600%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%2280%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-5" value="Foxglove Pulp (+2)&lt;div&gt;CHARM / DESIST&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Alknet%20Pulp%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3BEVOKE%20%2F%20RESIST%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%2360a917%3BfontColor%3D%23ffffff%3BstrokeColor%3D%232D7600%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%2280%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-6" value="Ginko Leaf&lt;div&gt;FABRIM / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-6" value="Ginko Leaf (+2)&lt;div&gt;FABRIM / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-7" value="Lavender&lt;div&gt;ABJURE / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-7" value="Lavender (+1)&lt;div&gt;ABJURE / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-8" value="Polypore (red/yellow/blue)&lt;br&gt;ARCANA / ELEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-8" value="Polypore (+2) (red/yellow/blue)&lt;br&gt;ARCANA / ELEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-9" value="Elf&#39;s Cup&lt;div&gt;ARCANA / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-9" value="Elf&#39;s Cup (+2)&lt;div&gt;ARCANA / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-10" value="Glowshroom&lt;div&gt;LIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-10" value="Glowshroom (+2)&lt;div&gt;LIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-11" value="Stinkhorn&lt;div&gt;NECROT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-11" value="Stinkhorn (+1)&lt;div&gt;NECROT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-12" value="Smokebulb&lt;div&gt;NECROT / CHARM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-12" value="Smokebulb (+3)&lt;div&gt;NECROT / CHARM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-13" value="Lephora Fruit&lt;div&gt;ILLUSION / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-13" value="Lephora Fruit (+1)&lt;div&gt;ILLUSION / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-14" value="Tobacco&lt;div&gt;CHARM / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-14" value="Tobacco (+1)&lt;div&gt;CHARM / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-15" value="Cannabis&lt;div&gt;HEAL / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-15" value="Cannabis (+1)&lt;div&gt;HEAL / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-16" value="Goodberry&lt;div&gt;HEAL / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-16" value="Goodberry (+2)&lt;div&gt;HEAL / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-17" value="Brightmoss&lt;div&gt;LIGHT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-17" value="Brightmoss (+3)&lt;div&gt;LIGHT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-18" value="Apple Seed&lt;br&gt;WEIGHT / POISON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-18" value="Apple Seed (+1)&lt;br&gt;WEIGHT / POISON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-19" value="Harrada&lt;div&gt;POISON / IMMUTE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-19" value="Harrada (+3)&lt;div&gt;POISON / IMMUTE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-20" value="Mandrake&lt;div&gt;DIVINE / MORTAL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-20" value="Mandrake (+2)&lt;div&gt;DIVINE / MORTAL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-21" value="Onion&lt;div&gt;REGEN / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-21" value="Onion (+1)&lt;div&gt;REGEN / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-22" value="Heartnut Twig&lt;div&gt;ABJURE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-22" value="Heartnut Twig (+1)&lt;div&gt;ABJURE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-23" value="Ironwood Twig&lt;div&gt;IMMUTE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-23" value="Ironwood Twig (+3)&lt;div&gt;IMMUTE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-24" value="Momma Moss&lt;div&gt;NECROT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-24" value="Momma Moss (+3)&lt;div&gt;NECROT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-25" value="Cactus Fruit&lt;div&gt;REGEN / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-25" value="Cactus Fruit (+1)&lt;div&gt;REGEN / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-26" value="Mountain Flower&lt;div&gt;REGEN / ARCANE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-26" value="Mountain Flower (+2)&lt;div&gt;REGEN / ARCANE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="220" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ClbpXUDGMXj9jLXGlXEX-27" value="Fauna" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-28" value="Vampire Ash&lt;div&gt;DIVINE / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-28" value="Vampire Ash (+3)&lt;div&gt;DIVINE / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-29" value="Humanoid Blood&lt;div&gt;MORTAL / SPIRIT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-29" value="Humanoid Blood (+1)&lt;div&gt;MORTAL / SPIRIT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-30" value="Feindish Blood&lt;div&gt;MORTAL / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-30" value="Feindish Blood (+3)&lt;div&gt;MORTAL / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-31" value="Celestial Blood&lt;div&gt;MORTAL / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-31" value="Celestial Blood (+3)&lt;div&gt;MORTAL / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ClbpXUDGMXj9jLXGlXEX-32" value="Fey Blood&lt;div&gt;MORTAL / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="ClbpXUDGMXj9jLXGlXEX-32" value="Fey Blood (+3)&lt;div&gt;MORTAL / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ClbpXUDGMXj9jLXGlXEX-33" value="Humanoid Bone&lt;div&gt;MORTAL / NECROT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
