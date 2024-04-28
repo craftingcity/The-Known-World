@@ -214,7 +214,7 @@ The urban center of Minyostalma, and one of the largest surviving structures in 
 ## The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
 #### The Importing Pallets
-
+Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
 #### The Front Gate
 
 #### The Mess Hall
