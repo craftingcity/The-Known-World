@@ -82,6 +82,7 @@ Medium Humanoid;
 xx AC, xx HP
 35ft walk
 *Undervisible* - While the Warper is not within 10ft of an opponent, it becomes invisible. 
+Claw - The Warper attacks. +8 to hit, 3d12+24 slashing.
 ```
 
 #### The Zombie
