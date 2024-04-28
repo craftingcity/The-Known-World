@@ -76,6 +76,6 @@ xx AC, xx HP
 
 ```
 Medium Undead;
-xx AC, xx HP
-Variable Armor - The Zombie is wearing the armor it wore in life, degraded with continued use without maintaince
+12 AC, xx HP
+
 ```
