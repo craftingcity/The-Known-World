@@ -34,12 +34,13 @@ Leap - The Freak jumps up in a 15ft long horizontal leap, then makes a Claw atta
 Evade, reaction - The Freak missed a Claw attack after Leaping, and rolls 10ft away, ignoring attacks of opportunity.
 ```
 
-#### The Hidden Men
+#### The Hidden Man
 > '*Rumors of small stout men with telekinetic abilities unmarred by the air of the Old riddle the journals of dead scavs, some as silly as men dying to flung tins of beans, but few believe that these creatures exist. They do, and flying foods is the least of a Scavs concerns.*'
 
 ```
 Small Humanoid;
-xx AC, xx HP
+16 AC, 124 HP, +4 prof
+Projectile Shield, reaction - When the Hidden Man is the target of a ranged attack, he will spend his reaction to project a shield that absorbs projectiles, and lasts until the end of his next turn. As an action on that turn, he can reflect the collected projectiles. 
 ```
 
 #### The Jumper
