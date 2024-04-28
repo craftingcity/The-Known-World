@@ -12,9 +12,10 @@ Regen - The Cancer absorbs the surrounding Radiation of the area, and regenerate
 ```
 
 #### The Demon
-> '*A horrible black beast lurks the Grey Forest. Survivor's rumors claim its hide is impenetrable, and it's claws and teeth sharper than any blade. It is unkillable, impossible to track, and kills you and your party before you've noticed it's there.*'
+> '*A horrible black beast lurks the Grey Forest. Survivor's rumors claim its hide is impenetrable, and it's claws and teeth sharper than any blade. It is unkillable, impossible to track, and it will kill you and your party before you've noticed it's there.*'
 
-```Medium Monstrosity;
+```
+Medium Monstrosity;
 22 AC, 112 HP, +4 prof
 *Multiattack - 2 Claw, 1 Bite*
 Claw - The Demon attacks. +6 to hit, 2d8+7 slashing.
@@ -40,7 +41,9 @@ Evade, reaction - The Freak missed a Claw attack after Leaping, and rolls 10ft a
 ```
 Small Humanoid;
 16 AC, 124 HP, +4 prof
-Projectile Shield, reaction - When the Hidden Man is the target of a ranged attack, he will spend his reaction to project a shield that absorbs projectiles, and lasts until the end of his next turn. As an action on that turn, he can reflect the collected projectiles. 
+Psycic Shield, reaction (d6 recharge, 3-6) - When the Hidden Man is the target of a ranged attack, he will spend his reaction to project a shield that absorbs projectiles, and lasts until the end of his next turn. As an action on that turn, he can reflect the collected projectiles.
+Psycic Throw - The Hidden Man raises nearby objects and debris, and throws it at an opponent within 45ft. +9 to hit, 4d8+16 bludgeoning.
+Claw - The Hidden Man attacks. +6 to hit, 2d8+8 slashing, incur double Radiation.
 ```
 
 #### The Jumper
@@ -68,10 +71,11 @@ Medium Humanoid;
 xx AC, xx HP
 ```
 
-#### The Zombies
+#### The Zombie
 > '*Lost scavs and missing comrades, the Zombies within the walls of Minyostalma were once our friends. Our relatives. Lost to the storms of light. It is a disgrace to leave these facades alive, acting out their last days again and again.*'
 
 ```
 Medium Undead;
 xx AC, xx HP
+Variable Armor - The Zombie is wearing the armor it wore in life, degraded with continued use without maintaince
 ```
