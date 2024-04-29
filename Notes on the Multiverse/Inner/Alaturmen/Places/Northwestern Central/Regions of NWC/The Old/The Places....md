@@ -89,10 +89,10 @@ East of [[#The Crossroads]], a large fence has been erected between [[#The Haven
 #### The Toxic Swamps
 The land south of [[#The Levee]] is the most dangerous space within [[#The Haven]]. Deep puddles of toxic irradiated water cover most of the surface within this area, were one wrong step can lead to entrapment and a slow painful death.
 
-Continuing south or west will lead you into [[#Broken Swamps]]
-
+Continuing south or west will lead you into the [[#Broken Swamps]] and then [[#The Cordon]] beyond it.
 
 #### The Flea Market
+South of [[#The Crossroads]]
 
 #### The Forester's Hut
 
