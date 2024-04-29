@@ -94,7 +94,9 @@ Continuing south or west will lead you into the [[#Broken Swamps]] and then [[#T
 #### The Flea Market
 South of [[#The Crossroads]] and east of [[#The Levee]] stands a large crumbled building known as the "Flea Market". 
 
+What was once the ground floor has crumbled to its supports. Those few rooms that are not impassable are derelict, and devoid of occupants.
 
+Taking the stairs from within the building or the makeshift ramp from outside will lead you to the second floor. This second floor is chock-full of independent merchants and scavs looking to flip scrap or artifacts for food and water.
 
 #### The Forester's Hut
 
