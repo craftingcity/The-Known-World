@@ -92,7 +92,9 @@ The land south of [[#The Levee]] is the most dangerous space within [[#The Haven
 Continuing south or west will lead you into the [[#Broken Swamps]] and then [[#The Cordon]] beyond it.
 
 #### The Flea Market
-South of [[#The Crossroads]] and east of [[#The Levee]]
+South of [[#The Crossroads]] and east of [[#The Levee]] stands a large crumbled building known as the "Flea Market". 
+
+
 
 #### The Forester's Hut
 
