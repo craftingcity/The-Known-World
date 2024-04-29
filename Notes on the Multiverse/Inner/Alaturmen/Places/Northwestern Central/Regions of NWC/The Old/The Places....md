@@ -87,7 +87,10 @@ West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus sym
 East of [[#The Crossroads]], a large fence has been erected between [[#The Haven]] and [[#The Sticks]]. It is most commonly occupied by a number of Scavs working for [[Ondo]], defending the Haven at large from the Scavs and Bandits in [[#The Sticks]].
 
 #### The Toxic Swamps
-The land south of [[#The Levee]] is the most dangerous area within [[#The Haven]]. Deep puddles of toxic irradiated water cover most of the walk
+The land south of [[#The Levee]] is the most dangerous space within [[#The Haven]]. Deep puddles of toxic irradiated water cover most of the surface within this area, were one wrong step can lead to entrapment and a slow painful death.
+
+Continuing south or west will lead you into [[#Broken Swamps]]
+
 
 #### The Flea Market
 
