@@ -87,6 +87,11 @@ aliases:
 	- The Bolts of Righteous Fury are a +2 ammunition that deals radiant damage.
 	- Currently possessed by [[Breenabelle]] of [[Sarahouse Game]]
 
+Raining Crossbow
+	- > A brilliant colorful rainbow of wood and metal, this crossbow is covered in gems.
+	- A +3 crossbow.
+	- 8 charges, recharge 1 for 100sp in gem-dust. spend a charge for +3d4 of any element.
+
 # Divine Creation
 ## Artifacts
 - Worldbinding 
@@ -97,7 +102,17 @@ aliases:
 
 ## Armor
 ## Weapons
+- Glimmering Moonbow
+	- >
+	- 2d8 piercing + 1d6 radiant, free +0 ammo, 1x charge per dawn, max 1
+	- As an action, you may spend a charge. When you do, you enter the etherial plane until the beginning of your next turn.
+
 ## Wonderous Items
 - [[The Holy Atlas of Yamisch]]
 	- > A prophetic atlas of Alaturmen. Author unknown, but the divinally inclined believe this item to be a work of Yamasch.
 	- Currently in Temple Yamasch in [[Aeberu]]
+
+- Ar'Kraven's Bright Symbol
+	- > A black-steel vulture on a thin chain. It feels cold against your skin.
+	- Divine spellcasting implement +1, or if you worship Ar'Kraven, and are in good theocratic standing, +2.
+	- Currently possessed by [[Nala]] of [[Sarahouse Game]]
