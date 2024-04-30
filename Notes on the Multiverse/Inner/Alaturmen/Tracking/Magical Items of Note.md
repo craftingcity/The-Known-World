@@ -14,7 +14,7 @@ aliases:
 - Alergra's Cloak of Diversion
 	- > A red robe that slowly shimmers in the light like a dancing fire. Crafted by Alergra herself.
 	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
-	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
+	- Currently possessed by [[Breenabelle]] of the [[Sarahouse Game]]
 
 - Highest Form of Flattery
 	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]].
@@ -22,6 +22,7 @@ aliases:
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
 
 - Tubric's Armor
+	- Currently located in a [[Guild of Adventurers]] museum
 
 ## Wonderous Items
 - The Quick Time
@@ -33,18 +34,13 @@ aliases:
 	- >> This ring is effectively cursed. Once attuned, it cannot be removed. It provides a minor effect of lethargy during regeneration. Every one hundred years it applies a permanent level of exhaustion.
 	- Currently possessed by [[Arthur Simonson]] of [[The Kingdom of Prosper|Prosper]]
 
-- The Fireheart Ruby
-	- > A beautiful fist sized ruby cut precisely into a geometric heart. Upon close inspection, a dim orange glow can be seen to flicker at the center of the gem. Crafted by */bandit lord tie-in/*
-	- This gem currently holds six charges. Grasping the gem, you may expend a charge as a bonus action. If you do, you may either gain 1d4 hitpoints or imbue your next weapon attack with 1d4 fire damage. 
-	- Currently possessed by [[Amashod]] of [[Kakurak's Chosen]]
-
 - [[Tubric's Bag of Rooms]]
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use. Crafted by [[The Old Man]].
 	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.* (See [[Tubric's Bag of Rooms]])
 	- Currently possessed by [[Nala]]
 
 - Inception
-	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by Elder [[]]
+	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by Elder [[]] of the [[Druids of Aquan]]
 	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
 	- Currently located in Wheernat, with a high ranking official.
 
@@ -78,14 +74,18 @@ aliases:
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
 - The Tuber
-	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]]
-	- Currently located with [[Kakurak]]
+	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]], the Tuber has been used to stop Orcus' coming to Alaturmen. Twice.
+	- Currently possessed by [[Breenabelle]] of [[Sarahouse Game]]
 
 - A Trophied Tail of a Horrible Beast
 	- > A ten-foot long black tail pointed into a sharp pointed barb at the end, the upper half of this terrifying spear is covered in small black needles. Two sections of the lower half have been carved away to fit a pair of gauntleted hands snugly in their grips. Enchanted by [[Qiell Tilemundon]].
 	- This is a +2 spear. It has a 10' reach. If this weapon would be used to deal a type of damage other than necrotic, you may have it deal necrotic damage instead.
-	- Currently possessed by [[Shu Ameda]] of [[Cathouse Game]]
+	- Currently possessed by the Chicago Bulls of [[Cathouse Game#Millie-Side]]
 
+- Bolts of Righteous Fury
+	- > A bundle of fine bronze bolts gleaming with radiant energy.
+	- The Bolts of Righteous Fury are a +2 ammunition that deals radiant damage.
+	- Currently possessed by [[Breenabelle]] of [[Sarahouse Game]]
 
 # Divine Creation
 ## Artifacts
