@@ -96,7 +96,7 @@ South of [[#The Crossroads]] and east of [[#The Levee]] stands a large crumbled 
 
 What was once the ground floor has crumbled to its supports. Those few rooms that are not impassable are derelict, and devoid of occupants.
 
-Taking the stairs from within the building or the makeshift ramp from outside will lead you to the second floor. This second floor is chock-full of independent merchants and scavs looking to flip scrap or artifacts for food and water.
+Taking the stairs from within the building or the makeshift ramp from outside will lead you to the second floor. This second floor is chock-full of independent merchants and scavs looking to flip scrap or artifacts for food, water, and ammunition.
 
 #### The Forester's Hut
 
