@@ -77,16 +77,16 @@ On the Farmstead, a small house of three rooms has been long looted of useful ma
 
 The ancient objects seem dangerous. A curious mind would likely identify the many wheels on frame as an ancient iteration of a simple cart, but the mystery lies in its purpose and power source. 
 
-#### The Levee
+#### The Levee (1d6 RAD)
 South of [[#The Rookie Village]], a large field of dead plants and puddles separates the people in the North from the dangers of [[#The Toxic Swamps]]. No Minyostalman structures are present here, and rather the area is named for the ditch of rubble constructed and maintained by the Rookies.
 
 #### The Crossroads
-West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus symbol on the face of the earth. At the center of this large rock crossroad, on the south-eastern side, a thin pole of this white rock emerges from the ground. Clearly broken, this pole is a sharp hazard - so much so that a corpse of a Scav is lying around the pole, impaled.
+West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus symbol on the face of the earth. At the center of this large rock crossroad, on the south-eastern side, a thin pole of this white rock emerges from the ground. Clearly broken, this pole is a sharp hazard - so much so that a corpse of a Scav is lying impaled around the pole.
 
 #### The Rookie Checkpoint
 East of [[#The Crossroads]], a large fence has been erected between [[#The Haven]] and [[#The Sticks]]. It is most commonly occupied by a number of Scavs working for [[Ondo]], defending the Haven at large from the Bandits in [[#The Sticks]].
 
-#### The Toxic Swamps
+#### The Toxic Swamps (2d6 RAD)
 The land south of [[#The Levee]] is the most dangerous space within [[#The Haven]]. Deep puddles of toxic irradiated water cover most of the surface within this area, were one wrong step can lead to entrapment and a slow painful death.
 
 Continuing south or west will lead into the [[#Broken Swamps]] and then [[#The Cordon]] beyond it.
@@ -105,7 +105,9 @@ The roof is generally inaccessible, as the stairs inside the building have colla
 A basement below the main building is accessible from the ground floor, where members of less-than-friendly factions come to trade with the residents and visitors of the Flea Market. In particular, the Mercenaries always station a representative here. 
 
 #### The Forester's Hut
+In the south-eastern most corner of [[#The Haven]], a two-story tower marks the end of the claimed area. The tower itself is made of the same light stone of the other ancient buildings of this place, and the inside is seemingly occupied.
 
+A man who goes by the name "Forester" lives in and defends the tower against the few threats that make their way north-west from [[#The Factory]] or [[#The Sticks]].
 
 ## The Sticks
 A safezone in the middle of a well crafted maze of traps and hazards. 
