@@ -84,12 +84,12 @@ South of [[#The Rookie Village]], a large field of dead plants and puddles separ
 West of [[#The Rookie Checkpoint]], a large plate of white rock forms a plus symbol on the face of the earth. At the center of this large rock crossroad, on the south-eastern side, a thin pole of this white rock emerges from the ground. Clearly broken, this pole is a sharp hazard - so much so that a corpse of a Scav is lying around the pole, impaled.
 
 #### The Rookie Checkpoint
-East of [[#The Crossroads]], a large fence has been erected between [[#The Haven]] and [[#The Sticks]]. It is most commonly occupied by a number of Scavs working for [[Ondo]], defending the Haven at large from the Scavs and Bandits in [[#The Sticks]].
+East of [[#The Crossroads]], a large fence has been erected between [[#The Haven]] and [[#The Sticks]]. It is most commonly occupied by a number of Scavs working for [[Ondo]], defending the Haven at large from the Bandits in [[#The Sticks]].
 
 #### The Toxic Swamps
 The land south of [[#The Levee]] is the most dangerous space within [[#The Haven]]. Deep puddles of toxic irradiated water cover most of the surface within this area, were one wrong step can lead to entrapment and a slow painful death.
 
-Continuing south or west will lead you into the [[#Broken Swamps]] and then [[#The Cordon]] beyond it.
+Continuing south or west will lead into the [[#Broken Swamps]] and then [[#The Cordon]] beyond it.
 
 #### The Flea Market
 South of [[#The Crossroads]] and east of [[#The Levee]] stands a large crumbled building known as the "Flea Market". 
@@ -97,6 +97,12 @@ South of [[#The Crossroads]] and east of [[#The Levee]] stands a large crumbled 
 What was once the ground floor has crumbled to its supports. Those few rooms that are not impassable are derelict, and devoid of occupants.
 
 Taking the stairs from within the building or the makeshift ramp from outside will lead you to the second floor. This second floor is chock-full of independent merchants and scavs looking to flip scrap or artifacts for food, water, and ammunition.
+
+Ascending the stairs again, the third floor is the most secure portion of the building. Here there is a ramshackle infirmary where multiple Scavs lay injured, a plethora of more connected Seekers selling their highest quality wares, and a number of hired hands pulling security through the windows and embrasures around the top floor.
+
+The roof is generally inaccessible, as the stairs inside the building have collapsed and no other method has been manufactured by the residents. 
+
+A basement below the main building is accessible from the ground floor, where members of less-than-friendly factions come to trade with the residents and visitors of the Flea Market. In particular, the Mercenaries always station a representative here. 
 
 #### The Forester's Hut
 
