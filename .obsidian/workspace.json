@@ -55,9 +55,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a2ade4ac796826e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "162c3a0c71e93864",
@@ -360,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -427,7 +439,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -489,12 +501,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2bfd94605d29b41",
+  "active": "a2ade4ac796826e8",
   "lastOpenFiles": [
-    "MEDIA/MAPS/WORLD/blood_clans_105af.png",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/quillbuck_105af.png",
+    "MEDIA/MAPS/WORLD/north_jungle_105af.png",
+    "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
+    "MEDIA/MAPS/WORLD/mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/mossburg_105af.png",
+    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png",
+    "MEDIA/MAPS/WORLD/hillkeep_105af.png",
+    "MEDIA/MAPS/WORLD/greenland_105af.png",
+    "MEDIA/MAPS/WORLD/goldfield_105af.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "MEDIA/SUPP/ArthurianMilitaryStructure.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -509,7 +531,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -520,18 +541,13 @@
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Prenotes Apr 23 24.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/Minyostalma.drawio",
     "MEDIA/SUPP/alchemy.drawio",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old",
-    "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range",
-    "MEDIA/MAPS/DUNG/kailkeep-hook.PNG",
-    "Game Notes/Prenotes/'24",
-    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
-    "MEDIA/CHAR/celeana.png"
+    "Game Notes/Prenotes/'24"
   ]
 }
