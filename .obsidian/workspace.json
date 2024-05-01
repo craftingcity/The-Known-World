@@ -54,8 +54,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "27cf437e38f8649f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NewSarahouse Game.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NewSarahouse Game.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NewSarahouse Game.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           },
@@ -305,13 +327,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a455bb5d44498c8",
+  "active": "27cf437e38f8649f",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "NewSarahouse Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Campaigns.md",
     "Game Notes/Campaign Rosters/The Hatdroppers.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "MEDIA/MAPS/WORLD/quillbuck_105af.png",
     "MEDIA/MAPS/WORLD/mossburg_105af.png",
     "MEDIA/MAPS/WORLD/greenland_105af.png",
