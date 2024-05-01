@@ -1,0 +1,38 @@
+- [ ] Coalition City
+	- [ ] The Lake of Eternal Life
+	- [ ] Golden Ward
+	- [ ] Iron Ward
+	- [ ] Ivory Ward
+	- [ ] Jade Ward
+	- [ ] Moss Ward
+	- [ ] Ruby Ward
+	- [ ] Steel Ward
+	- [ ] Stone Ward
+	- [ ] Wheel Ward
+- [ ] Actstow Hills
+- [ ] Arthur's Prarie
+	- [ ] Castle Prosper
+	- [ ] Gambleum
+	- [ ] Janesland
+	- [ ] Magius
+	- [ ] Moonlight
+	- [ ] Yerba
+- [ ] Greenhilles
+- [ ] Gumlpin
+	- [ ] Bulgpim
+	- [ ] Emorin
+- [ ] Illburn Forest
+	- [ ] Garqwuk
+- [ ] The Central Holyl'nd
+	- [ ] Kanielkiln
+- [ ] Enlitte Ambonas
+- [ ] Litteortosta
+- [ ] Littetavarse
+- [ ] North Littemoto
+- [ ] South Littemoto
+- [ ] Redl'nds
+- [ ] Sinazel Amonas
+- [ ] The Old
+- [ ] The Firelight Sea
+
+se & sw

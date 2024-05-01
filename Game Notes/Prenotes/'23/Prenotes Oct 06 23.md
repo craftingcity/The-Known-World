@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for October 6th
-## Party of Interest: [[Sarahouse Game]]
+## Party of Interest: [[The Hatdroppers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

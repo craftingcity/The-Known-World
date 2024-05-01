@@ -14,7 +14,7 @@ aliases:
 - Alergra's Cloak of Diversion
 	- > A red robe that slowly shimmers in the light like a dancing fire. Crafted by Alergra herself.
 	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
-	- Currently possessed by [[Breenabelle]] of the [[Sarahouse Game]]
+	- Currently possessed by [[Breenabelle]] of the [[The Hatdroppers]]
 
 - Highest Form of Flattery
 	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]].
@@ -75,7 +75,7 @@ aliases:
 
 - The Tuber
 	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]], the Tuber has been used to stop Orcus' coming to Alaturmen. Twice.
-	- Currently possessed by [[Breenabelle]] of [[Sarahouse Game]]
+	- Currently possessed by [[Breenabelle]] of [[The Hatdroppers]]
 
 - A Trophied Tail of a Horrible Beast
 	- > A ten-foot long black tail pointed into a sharp pointed barb at the end, the upper half of this terrifying spear is covered in small black needles. Two sections of the lower half have been carved away to fit a pair of gauntleted hands snugly in their grips. Enchanted by [[Qiell Tilemundon]].
@@ -85,7 +85,7 @@ aliases:
 - Bolts of Righteous Fury
 	- > A bundle of fine bronze bolts gleaming with radiant energy.
 	- The Bolts of Righteous Fury are a +2 ammunition that deals radiant damage.
-	- Currently possessed by [[Breenabelle]] of [[Sarahouse Game]]
+	- Currently possessed by [[Breenabelle]] of [[The Hatdroppers]]
 
 Raining Crossbow
 	- > A brilliant colorful rainbow of wood and metal, this crossbow is covered in gems.
@@ -97,7 +97,7 @@ Raining Crossbow
 - Worldbinding 
 	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate between one of the 9 major-non-material planes and Alaturmen.
 	- The Worldbinding to the [[Plane of Fire]] is held in [[Kakurak]]'s [[Who has a Horde|horde]].
-	- The Worldbinding to the [[Abyss]] is held by [[Sarahouse Game]].
+	- The Worldbinding to the [[Abyss]] is held by [[The Hatdroppers]].
 	- The Worldbinding to the [[Feywild]] is held in the depths of [[The Old|Minyostalma]].
 
 ## Armor
@@ -115,4 +115,4 @@ Raining Crossbow
 - Ar'Kraven's Bright Symbol
 	- > A black-steel vulture on a thin chain. It feels cold against your skin.
 	- Divine spellcasting implement +1, or if you worship Ar'Kraven, and are in good theocratic standing, +2.
-	- Currently possessed by [[Nala]] of [[Sarahouse Game]]
+	- Currently possessed by [[Nala]] of [[The Hatdroppers]]
