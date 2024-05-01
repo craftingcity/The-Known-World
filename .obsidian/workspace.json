@@ -11,8 +11,14 @@
             "id": "0a455bb5d44498c8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Campaigns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8431299166621193}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -280,6 +286,7 @@
   },
   "active": "0a455bb5d44498c8",
   "lastOpenFiles": [
+    "Campaigns.md",
     "NewSarahouse Game.md",
     "Game Notes/Campaign Rosters/The Hatdroppers.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
@@ -310,7 +317,6 @@
     "Game Notes/Prenotes/'23/Prenotes Mar 08 23.md",
     "Game Notes/Prenotes/'23/Prenotes July 19 23.md",
     "Game Notes/NPCs/List of Names.md",
-    "Campaigns.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "A Grand Notepad.md",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",

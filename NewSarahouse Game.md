@@ -5,7 +5,14 @@ aliases:
 ---
 # Adventures of ...
 ## People
-| Player Name | Character Name | Heritage | Culture | Background |
+| Player Name | Character Name | Class     | Heritage | Culture | Background |
+| ----------- | -------------- | --------- | -------- | ------- | ---------- |
+| Hannah      |                | Fighter   |          |         |            |
+| Tyke        |                | Bard      |          |         |            |
+| Sara        |                |           |          |         |            |
+| Brock       |                |           |          |         |            |
+| Rhea        |                | Barbarian |          |         |            |
+
 ### Trusted Allies
 ### Mortal Adversaries
 ### Faction Reputation

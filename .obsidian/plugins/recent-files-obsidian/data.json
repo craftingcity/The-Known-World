@@ -5,6 +5,10 @@
       "path": "NewSarahouse Game.md"
     },
     {
+      "basename": "Campaigns",
+      "path": "Campaigns.md"
+    },
+    {
       "basename": "The Hatdroppers",
       "path": "Game Notes/Campaign Rosters/The Hatdroppers.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Campaigns",
-      "path": "Campaigns.md"
     },
     {
       "basename": "Combat Mechanics",
