@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "The Old",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
+      "basename": "The Bucket List",
+      "path": "The Bucket List.md"
     },
     {
       "basename": "The Holyl'nds",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
+      "basename": "The Old",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     },
     {
       "basename": "Northeastern Central",
@@ -47,10 +55,6 @@
     {
       "basename": "Campaigns",
       "path": "Campaigns.md"
-    },
-    {
-      "basename": "The Bucket List",
-      "path": "The Bucket List.md"
     },
     {
       "basename": "Places",
@@ -195,10 +199,6 @@
     {
       "basename": "Borhain a'Huruuc",
       "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Borhain a'Huruuc.md"
-    },
-    {
-      "basename": "Yandee a'Huruuc",
-      "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Yandee a'Huruuc.md"
     }
   ],
   "omittedPaths": [],
