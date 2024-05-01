@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Nobles of Mountain Hall
 ## History
 ## Governance
 ## Culture
