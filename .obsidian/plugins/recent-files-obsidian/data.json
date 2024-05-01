@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "The Hatdroppers",
+      "path": "Game Notes/Campaign Rosters/The Hatdroppers.md"
     },
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
     },
     {
       "basename": "Languages",
@@ -191,14 +199,6 @@
     {
       "basename": "Outer",
       "path": "Notes on the Multiverse/Outer/Outer.md"
-    },
-    {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Feywild",
-      "path": "Notes on the Multiverse/Inner/Feywild/Feywild.md"
     }
   ],
   "omittedPaths": [],

@@ -28,7 +28,7 @@ The townsfolk have taken notice of you. Hushed words and pointed fingers arrive 
 ### What does the World Know?
 The biggest world events in the week of 15th include the meeting of [[Jorrin Bearscarred]] and [[Arthur Simonson]], the fall of [[Beacon]] and the South-East of the Combine, and the to-be Communicae of the Coalition's representatives.
 
-The Wizards of the Council of Mages will all be unable to attend - excepting [[The Wizard In Blue]], who has yet to leave [[Coalition City]] and will be present. [[Alergra Barrowinch]] is making personal preparations for combating [[Hannah's Demon (Celaena)]] alongside [[Sarahouse Game|The Hatdroppers]]. [[Nicolas Talaveem]] and [[Pirre Tald]] have returned to their towers before they will set off for [[Kamarios]] in an attempt to recognize what [[Qiell Tilemundon]] is doing; becoming a lich.
+The Wizards of the Council of Mages will all be unable to attend - excepting [[The Wizard In Blue]], who has yet to leave [[Coalition City]] and will be present. [[Alergra Barrowinch]] is making personal preparations for combating [[Hannah's Demon (Celaena)]] alongside [[The Hatdroppers|The Hatdroppers]]. [[Nicolas Talaveem]] and [[Pirre Tald]] have returned to their towers before they will set off for [[Kamarios]] in an attempt to recognize what [[Qiell Tilemundon]] is doing; becoming a lich.
 
 [[Kaliqeill, Lich of Orcus]] departed to his tower in [[Thanatos]], where he will gather strength and ingredients before returning to conquer [[Coalition City]]. He Banished Cucu after marking her with a Hex.
 

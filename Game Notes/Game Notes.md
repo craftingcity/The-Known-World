@@ -5,9 +5,9 @@ connect to [[Notes on the Multiverse]]
 - **Campaign Rosters**
 	- [[Cathouse Game]]
 	- [[Milliehouse Game]]
-	- [[Sarahouse Game]]
+	- [[The Hatdroppers]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 
 %% End Waypoint %%

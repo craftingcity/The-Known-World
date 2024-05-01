@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfec8aaa1c520e64",
+        "id": "d83077270c53750a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1aff2a974c098bd",
+            "id": "0a455bb5d44498c8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,35 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb9ef71719c8e3c9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -300,8 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb9ef71719c8e3c9",
+  "active": "0a455bb5d44498c8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Game Notes/Campaign Rosters/The Hatdroppers.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "MEDIA/MAPS/WORLD/quillbuck_105af.png",
@@ -337,7 +317,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",

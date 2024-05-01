@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for February 1st
-## Party of Interest: [[Sarahouse Game]]
+## Party of Interest: [[The Hatdroppers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

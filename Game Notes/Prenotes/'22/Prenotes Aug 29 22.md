@@ -2,7 +2,7 @@
 tags: notes
 aliases:
 ---
-# Prenotes for August 26th, SESSION 1: [[Sarahouse Game]]
+# Prenotes for August 26th, SESSION 1: [[The Hatdroppers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
