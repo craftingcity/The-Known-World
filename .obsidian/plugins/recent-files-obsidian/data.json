@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
       "basename": "NewSarahouse Game",
       "path": "NewSarahouse Game.md"
+    },
+    {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
     {
       "basename": "Custom Cultures",
@@ -195,10 +199,6 @@
     {
       "basename": "ORGANIZATION",
       "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "Outer",
-      "path": "Notes on the Multiverse/Outer/Outer.md"
     }
   ],
   "omittedPaths": [],

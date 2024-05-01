@@ -11,7 +11,7 @@ aliases:
 | Tyke        | Bohdi Sattva        | Bard      | Winter Elf | Cenva Minyo        |     |
 | Sara        |                     | Druid     | Genasi     | Waster Nomad       |     |
 | Brock       |                     | Monk      | Tabaxi     | Slimknive          |     |
-| Rhea        |                     | Barbarian | Human      |                    |     |
+| Rhea        |                     | Barbarian | Human      | Riphound           |     |
 
 ### Trusted Allies
 ### Mortal Adversaries
