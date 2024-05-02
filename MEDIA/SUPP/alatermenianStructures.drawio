@@ -1,124 +1,181 @@
-<mxfile host="Electron" modified="2024-05-02T05:50:57.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cyoUNLd6mVo7_xLC4t-m" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-02T19:55:38.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7bIqMulQqZxq1YBNOwOi" version="24.2.5" type="device">
   <diagram name="Page-1" id="o0ZqQBc5p8aBz4_Yj3NF">
-    <mxGraphModel dx="916" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-1" value="Guild of Adventurers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-1" value="Guild of Adventurers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-2" target="Qp0GUsCn_s2tmI3Qah0Y-1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-2" target="Qp0GUsCn_s2tmI3Qah0Y-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-2" value="Guild of Merchants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-2" value="Guild of Merchants" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-3" value="Guild of Crafters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-3" value="Guild of Crafters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-5" target="Qp0GUsCn_s2tmI3Qah0Y-1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-5" target="Qp0GUsCn_s2tmI3Qah0Y-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-5" value="Localized Defense Forces" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-5" value="Localized Defense Forces" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-7" target="Qp0GUsCn_s2tmI3Qah0Y-1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-7" target="Qp0GUsCn_s2tmI3Qah0Y-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-7" value="Guilded Mercenary Corps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-7" value="Guilded Mercenary Corps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-9" value="Guild of Rangers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-9" value="Guild of Rangers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-10" value="Guild of Wizards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-10" value="Guild of Wizards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-12" target="Qp0GUsCn_s2tmI3Qah0Y-1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-12" target="Qp0GUsCn_s2tmI3Qah0Y-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-12" value="Council of Mages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-12" value="Council of Mages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.17;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-10" target="Qp0GUsCn_s2tmI3Qah0Y-12">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.17;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-10" target="Qp0GUsCn_s2tmI3Qah0Y-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#00FF00;strokeColor=#00FF00;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-9" target="Qp0GUsCn_s2tmI3Qah0Y-5">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#00FF00;strokeColor=#00FF00;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-9" target="Qp0GUsCn_s2tmI3Qah0Y-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-17" target="Qp0GUsCn_s2tmI3Qah0Y-29">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-17" target="Qp0GUsCn_s2tmI3Qah0Y-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-17" value="Council of Houses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="200" height="40" as="geometry" />
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-17" value="Council of Houses" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="110" y="560" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-18" target="Qp0GUsCn_s2tmI3Qah0Y-17">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-18" target="Qp0GUsCn_s2tmI3Qah0Y-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-18" value="King Suremantle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-18" value="King Suremantle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="230" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-20" value="House Suremantle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-20" value="House Suremantle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="160" as="targetPoint" />
-            <mxPoint x="500" y="220" as="sourcePoint" />
+            <mxPoint x="240" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-21" value="House Tazatly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-22" value="House Franx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="616.8" as="sourcePoint" />
+            <mxPoint x="240" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="571" y="220" />
-              <mxPoint x="571" y="160" />
+              <mxPoint x="221" y="617" />
+              <mxPoint x="240" y="617" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-21" value="House Tazatly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-22">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="160" as="targetPoint" />
+            <mxPoint x="240" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-26" value="House Battog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-29" value="Department of Warfare and Defense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="310" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-31" value="Department of Commerce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="310" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-32" value="Department of Education" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="310" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-33" value="Department of Foreign Relations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="310" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-1" value="The Church of the White Flame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-3" target="91A2RXsGNv93fPLzzTM1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-3" value="Spoken of the White Flame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-5" target="91A2RXsGNv93fPLzzTM1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-5" value="It&#39;s Greatness, the White Flame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-7" target="91A2RXsGNv93fPLzzTM1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-7" value="Firstchurch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-8" target="91A2RXsGNv93fPLzzTM1-19">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="260" />
-              <mxPoint x="570" y="160" />
+              <mxPoint x="600" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-22" value="House Franx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-8" value="Tendered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="176.8" as="sourcePoint" />
-            <mxPoint x="570" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="551" y="177" />
-              <mxPoint x="570" y="177" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-9" target="91A2RXsGNv93fPLzzTM1-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-26" value="House Battog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-9" target="91A2RXsGNv93fPLzzTM1-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.798;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="300.5199999999999" as="sourcePoint" />
-            <mxPoint x="569.6" y="160.00000000000003" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="300.52" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-9" value="Patron" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-29" value="Department of Warfare and Defense" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-10" value="Unseen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-31" value="Department of Commerce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-11" target="91A2RXsGNv93fPLzzTM1-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-32" value="Department of Education" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-11" value="The Undesireables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-12" target="91A2RXsGNv93fPLzzTM1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-12" value="Ideology Correction Corps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-19" target="91A2RXsGNv93fPLzzTM1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-19" value="Homeland Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-22" target="91A2RXsGNv93fPLzzTM1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-22" value="Holy Crusaders for Truth and Light" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-33" value="Department of Foreign Relations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-27" value="The Church of the White Flame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="550" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
