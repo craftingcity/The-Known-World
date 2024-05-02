@@ -121,6 +121,11 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 #### The Trap Town
 
 #### The Logging Camp
+East of the [[#The Rookie Checkpoint]], the Logging Camp is the main entrance to [[#The Sticks]] from the West.
+
+The Camp is surrounded stumps, clearly cut during the ancient times of Minyostalma using their interesting machinery. 
+
+A large storehouse keeps bundles of logs and a large metal cart used for logging. Another of these carts is seemingly crashed or stuck in the ground.
 
 #### The Spike Fields
 
