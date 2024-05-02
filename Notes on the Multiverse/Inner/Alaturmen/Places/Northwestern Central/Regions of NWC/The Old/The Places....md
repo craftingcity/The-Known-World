@@ -121,6 +121,7 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 #### The Trap Town
 
 #### The Logging Camp
+East of the [[#The Rookie Checkpoint]], the Logging Camp 
 
 #### The Spike Fields
 
