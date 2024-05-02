@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Nobles of Prosper",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Five Pike",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md"
+    },
+    {
+      "basename": "Beasts Righteous",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Beasts Righteous.md"
+    },
+    {
+      "basename": "Knights in Red",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
+    },
+    {
+      "basename": "Dampguard",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md"
     },
     {
       "basename": "The Kingdom of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "Lands of Tetrimoc",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
+    },
+    {
+      "basename": "Nobles of Prosper",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
     {
       "basename": "Noble House a'Valim",
@@ -19,14 +43,6 @@
     {
       "basename": "Noble House a'Fen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
     },
     {
       "basename": "The Church of the White Flame",
@@ -181,24 +197,8 @@
       "path": "Notes on the Multiverse/Big Lore/Timeline.md"
     },
     {
-      "basename": "Dampguard",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md"
-    },
-    {
       "basename": "Baron Shimmer",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Shimmer.md"
-    },
-    {
-      "basename": "Great Northern Forests",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/Natural or Territory/Great Northern Forests.md"
-    },
-    {
-      "basename": "Alergra Barrowinch",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md"
-    },
-    {
-      "basename": "Prenotes Apr 16 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md"
     }
   ],
   "omittedPaths": [],

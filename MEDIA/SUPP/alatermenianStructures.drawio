@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-02T20:15:46.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="uEfYOREwpmzR5t7xw-Jh" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-02T20:35:41.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="oKEYnphcZKBW4SLTwmDe" version="24.2.5" type="device">
   <diagram name="Page-1" id="o0ZqQBc5p8aBz4_Yj3NF">
-    <mxGraphModel dx="686" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-26" value="House Battog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="80" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-29" target="91A2RXsGNv93fPLzzTM1-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-29" value="Department of Warfare and Defense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="120" height="40" as="geometry" />
@@ -271,8 +274,101 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-65" value="Farming Corp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="1360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-67" value="Weaving &amp;amp; Educating&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Corp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-67" value="Weaving &amp;amp; Educating&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Corp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="1360" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-69" target="91A2RXsGNv93fPLzzTM1-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-69" target="91A2RXsGNv93fPLzzTM1-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-69" value="Dampguard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-70" target="91A2RXsGNv93fPLzzTM1-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-70" value="Baron Shimmer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-72" value="Mountain Trooper Corp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-74" value="D.G. Tac. Sec. Company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-77" value="Dampguard Privateers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-81" target="91A2RXsGNv93fPLzzTM1-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-81" value="Baron Filip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-82" target="91A2RXsGNv93fPLzzTM1-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-82" target="91A2RXsGNv93fPLzzTM1-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-82" value="Knights in Red" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-84" value="Swamp Defense Corp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-86" value="Dragon&#39;s Swords" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-88" target="91A2RXsGNv93fPLzzTM1-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-88" target="91A2RXsGNv93fPLzzTM1-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-88" value="Five Pike" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-89" target="91A2RXsGNv93fPLzzTM1-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-89" value="Baron J&#39;Tail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-91" value="Tynann&#39;s Pharmacuticals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-92" value="Nature Continuation Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-95" target="91A2RXsGNv93fPLzzTM1-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-95" value="Baron Xuiop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-96" value="Righteous Beasts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-98" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="895" y="565" as="sourcePoint" />
+            <mxPoint x="945" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-100" value="Baron Harvord" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-101" value="Harvord Trading Company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="91A2RXsGNv93fPLzzTM1-102" value="Harvord Trading Company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
