@@ -14,7 +14,7 @@ From the fifties to the seventies, there were many skirmishes along the northern
 These skirmishes were costly, both in resources and reputation, and due to "economic concerns", ie, the Northern Metals Trade, the Clan was forced to capitulate a significant portion of their claimed territory to the [[Guilds of Coalition]] - the areas south and east of the [[Lake of Eternal Life]] were no longer property of the Suremantles. 
 
 ## Governance
-The Dwarven Kingdom Suremantle is a aristocratic-plutocratic society that extends from the west of the [[Lake of Eternal Life]] in the [[Deakred Range]] to the "far western mountains" beyond the [[Red Hills]] - the space north of [[Kailkeep]], and closest to the [[Wildlands]].
+The Dwarven Kingdom Suremantle is a aristocratic-plutocratic society that extends from the west of the [[Lake of Eternal Life]] in the [[Deakred Range]] to beginning of the "far western mountains" beyond the [[Red Hills]] - the space north of [[Kailkeep]], and closest to the [[Wildlands]].
 
 ## Culture
 #### Heritage

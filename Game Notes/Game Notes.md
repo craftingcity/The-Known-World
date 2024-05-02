@@ -5,9 +5,12 @@ connect to [[Notes on the Multiverse]]
 - **Campaign Rosters**
 	- [[Cathouse Game]]
 	- [[Milliehouse Game]]
+	- [[NewSarahouse Game]]
 	- [[The Hatdroppers]]
+- [[Campaigns]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
 - **[[Prenotes]]**
+- [[The Bucket List]]
 
 %% End Waypoint %%
