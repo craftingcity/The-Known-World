@@ -51,15 +51,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Armors
 #### SCAVANGED / REFIT
-| Name                 | Type   | Prot.          | Refitters | Cost in AC |
-| -------------------- | ------ | -------------- | --------- | ---------- |
-| Leather              | Light  | 11+DEX         | all       | 0.1        |
-| Hide                 | Medium | 14+DEX (max 2) | all       | 0.2        |
-| Patched Scout Armor  | Light  | 15+DEX         | all       | 0.8        |
-| Patched Combat Armor | Medium | 16+DEX         | all       | 2.0        |
-| Plate                | Heavy  | 18             | all       | 0.2        |
-| Refit Tank-plate     | Heavy  | 20, DR 1       | all       | 2.8        |
-| Empty Power Plate    | Heavy  | 22, DR 2       | all       | 7.5        | 
+| Name                 | Type   | Prot.          | Space   | Refitters | Cost in AC |
+| -------------------- | ------ | -------------- | ------- | --------- | ---------- |
+| Leather              | Light  | 11+DEX         | 1x Arti | all       | 0.1        |
+| Hide                 | Medium | 14+DEX (max 2) | 1x Arti        | all       | 0.2        |
+| Patched Scout Armor  | Light  | 15+DEX         | 1x Arti        | all       | 0.8        |
+| Patched Combat Armor | Medium | 16+DEX         |         | all       | 2.0        |
+| Plate                | Heavy  | 18             |         | all       | 0.2        |
+| Refit Tank-plate     | Heavy  | 20, DR 1       |         | all       | 2.8        |
+| Empty Power Plate    | Heavy  | 22, DR 2       |         | all       | 7.5        |
 
 #### IMPORTED / FORGED
 | Name                    | Type   | Prot.          | Importers             | Cost in AC |

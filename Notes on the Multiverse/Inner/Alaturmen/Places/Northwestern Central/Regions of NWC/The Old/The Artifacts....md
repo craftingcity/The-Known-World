@@ -415,8 +415,8 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Crystal Knee
 > 'A thick curved piece of clear crystal, bent in such a manner that your first thought while holding it is that this was once a small creature's knee.'
-> *Crystal Knee* are a **rare** artifact.
-> A *Crystal Knee* holds up to three charges
+> *Crystal Knee* are a **rare** artifact, and incurs 3d12 (20) Radiation.
+> A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
 
 ##### Electric
