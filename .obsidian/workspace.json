@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 03 24.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -144,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prenotes May 03 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prenotes May 03 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +214,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prenotes May 03 24.md"
+              }
             }
           },
           {
@@ -271,6 +279,7 @@
   },
   "active": "5fbdcacc2bfb11e5",
   "lastOpenFiles": [
+    "Prenotes May 03 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
@@ -298,7 +307,6 @@
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
-    "Game Notes/The Bucket List.md",
     "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
     "MEDIA/MAPS/WORLD/quillbuck_105af.png",
     "MEDIA/MAPS/WORLD/north_jungle_105af.png",
