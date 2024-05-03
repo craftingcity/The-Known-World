@@ -24,36 +24,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
 
 ### Known and Named Artifacts
-![[AlchemicalComponentMotifs.png]]
-###### /stones types/
-|                   |     |                 |
-| ----------------- | --- | --------------- |
-| Agate             |     | Amber           |
-| Crystal (colored) |     | Crystal (clear) |
-| Diamond           |     | Ruby            |
-| Sapphire          |     | Emerald         |
-| Amethyst          |     | Glass           |
-| Onyx              |     | Jade            |
-| Quartz (white)    |     | Quartz (rose)   |
-| Durandurm         |     | Adamentine      |
-| Alabaster         |     | Copper          |
-| Gold              |     | Iron            |
-| Silver            |     | Lead            |
-| Bronze            |     | Pewter          |
-| Tin               |     | Platinum        |
-| Mithril           |     | Mica            |
-| Marble            |     | Slate           |
-| Granite           |     | Sandstone       |
-| Limestone         |     | Alum            |
-| Chalk             |     | Coal            |
-| Charcoal          |     | Soil (rich)     |
-| Soil (holy)       |     | Salt            |
-| Elemental Salt    |     | Sulfur          |
-| Bitumen           |     | Clay            |
-| Ash (wood)        |     | Mercury         |
-| Ash (bone)        |     |                 |
-
-
 ###### Wurm Spine
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
@@ -264,7 +234,147 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### NAME
+###### Furry Slurry
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Golden Slide
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Silver Slip
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Tesseract
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Black Cut Diamond
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Pink Onyx
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Ruby Ring
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Dark Blue Cloud
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Amber Jelly
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Sweet Treat
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Turtle Shell
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Snake Stone
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Cubed Sphere
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Half Shell
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Dunam Clam
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Annie's Sister
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Juice Can
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Fluttering Mica
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Bloody Sapphire
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Grapevine
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Frozen Beads
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Lime Shard
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Swab Stack
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Shell Casing
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Dripping Cube
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Leyline Obsidian
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Broody Marble
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Fungal Collection
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Wet Diamond
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
@@ -295,13 +405,14 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 0 common, 0 uncommon, 2 rare >
 
 ###### Emerald Liver
-> 'A thick chunk of beautifully clear emerald'
+> 'A thick chunk of beautifully clear emerald.'
 > *Emerald Liver* are a **rare** artifact. 
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 
 ###### Crystal Knee
-> 'A '
+> 'A thick curved piece of clear crystal, bent in such a manner that your first thought while holding it is that this was once a small creature's knee.'
 > *Crystal Knee* are a **rare** artifact.
+> A *Crystal Knee* holds up to three charges
 
 
 ##### Electric
