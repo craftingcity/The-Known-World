@@ -379,6 +379,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
+###### Bleeding Liver
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
 ##### All
 < 3 common, 0 uncommon, 1 rare >
 ###### Corebent Duram
@@ -403,7 +408,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ##### Acid
 < 0 common, 0 uncommon, 2 rare >
-
 ###### Emerald Liver
 > 'A thick chunk of beautifully clear emerald.'
 > *Emerald Liver* are a **rare** artifact. 
@@ -418,21 +422,20 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ##### Electric
 < 0 common, 1 uncommon, 0 rare >
 ###### Duram Battery
-> ''
-> *Duram Battery* are a **uncommon** artifact. 
+> 'A large white rock striped with gold inlays. It hums with potential.'
+> *Duram Battery* are a **uncommon** artifact, and incurs 1d4 (2) Radiation. 
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
 ##### Fire
 < 0 common, 0 uncommon, 1 rare >
 ###### Fire-Heart Ruby
 > 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
-
-###### Bleeding Liver
-no charges, uncommon
+> *Fire-Heart Ruby* is a **rare** artifact, and incurs 2d8 (9) Radiation.
+> A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
 
 ##### Force
 < 0 common, 0 uncommon, 1 rare >
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
-> *Space-Jolt Diamond* are a **rare** artifact and incurs 2d6 (7) Radiation. 
+> *Space-Jolt Diamond* are a **rare** artifact and incurs 3d6 (11) Radiation. 
 > A *Space-Jolt Diamond* holds up to four charges. As a bonus action, you may spend a charge and produce a powerful 10' cone of force from you in a direction you choose. Creatures within the cone must make a DC 19 Strength Saving Throw. A target takes 3d6 +12 force damage, are pushed 5' backwards, and are knocked Prone on a failed save, or half as much damage, are not pushed or knocked Prone on a successful one. 
