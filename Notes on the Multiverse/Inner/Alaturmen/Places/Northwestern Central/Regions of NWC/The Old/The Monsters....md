@@ -79,7 +79,7 @@ Grab - The Mass reaches for an adjacent creature, and makes a contested Althetic
 
 ```
 Medium Humanoid;
-xx AC, xx HP
+17 AC, 96 HP, +3 prof
 35ft walk
 *Undervisible* - While the Warper is not within 10ft of an opponent, it becomes invisible. 
 Claw - The Warper attacks. +8 to hit, 3d12+24 slashing.

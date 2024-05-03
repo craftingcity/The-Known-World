@@ -109,6 +109,166 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
+###### Artyom's Skin
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Palm of Glass
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Amethyst Disk
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Dawn Sheet
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Cracked Mountain
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Shifting Salt
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Ripple
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Petrified Glass
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Burning Jade
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Jade Pox
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Tunneled Jade
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Iridescent Brick
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Shiny Chalk
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Gold Cube
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Chipped Copper
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Glass Box
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Spiraling Squares
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Bleeding Marble
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Stinking Alum
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Growing Ruby
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Sickly Sapphire
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Small Tower
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Crab Meat
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Meaty Wing
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Flexing Growth
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Bone Cut
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Blue Blood
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Glowing Obelysk
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Hornet's Nest
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Trypophobia
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### Soft Emerald
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
+###### NAME
+> 'This is the physical description.'
+> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
 ##### All
 < 3 common, 0 uncommon, 1 rare >
 ###### Corebent Duram
