@@ -24,10 +24,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
 
 ### Known and Named Artifacts
-###### Radiant Diamond
-> 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
-> *Radiant Diamond* is a **rare** artifact, and incurs 5d8 (22) radiation.
-> A *Radiant Diamond* holds up to six charges, represented in it's halo as glowing yellow beads. As an action, you may spend a charge and produce a 20ft radius sphere that will continue to project around your body and travel with you for the next minute. While a creature is inside the sphere, they cannot be the target of a ranged attack that begins without the sphere's radius.
+
 
 ###### Small World
 > 'This is the physical description.'
@@ -370,7 +367,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ##### All
-< 3 common, 2 uncommon, 1 rare >
+< 3 common, 3 uncommon, 1 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
@@ -433,8 +430,13 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
 
 ##### Force
-< 0 common, 0 uncommon, 1 rare >
+< 0 common, 0 uncommon, 2 rare >
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
 > *Space-Jolt Diamond* are a **rare** artifact and incurs 3d6 (11) Radiation. 
 > A *Space-Jolt Diamond* holds up to four charges. As a bonus action, you may spend a charge and produce a powerful 10' cone of force from you in a direction you choose. Creatures within the cone must make a DC 19 Strength Saving Throw. A target takes 3d6 +12 force damage, are pushed 5' backwards, and are knocked Prone on a failed save, or half as much damage, are not pushed or knocked Prone on a successful one. 
+
+###### Radiant Diamond
+> 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
+> *Radiant Diamond* is a **rare** artifact, and incurs 5d8 (22) radiation.
+> A *Radiant Diamond* holds up to six charges, represented in it's halo as glowing yellow beads. As an action, you may spend a charge and produce a 20ft radius sphere that will continue to project around your body and travel with you for the next minute. While a creature is inside the sphere, they cannot be the target of a ranged attack that begins without the sphere's radius, and are not affected by "areas of effect" that originate outside the sphere's radius.
