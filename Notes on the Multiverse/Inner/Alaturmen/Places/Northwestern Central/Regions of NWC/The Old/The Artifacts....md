@@ -26,8 +26,8 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ### Known and Named Artifacts
 ###### Radiant Diamond
 > 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
-> *Radiant Diamond* is a **rare** artifact, and incurs 3d8 (14) radiation.
-> A *Radiant Diamond* artifact has this effect...
+> *Radiant Diamond* is a **rare** artifact, and incurs 5d8 (22) radiation.
+> A *Radiant Diamond* holds up to six charges, represented in it's halo as glowing yellow beads. As an action, you may spend a charge and produce a 20ft radius sphere.
 
 ###### Small World
 > 'This is the physical description.'
@@ -403,7 +403,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Jasper's Twin
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
-> *Jasper's Twin* are a **rare** artifact and incurs 4d4 (10) Radiation.
+> *Jasper's Twin* are a **rare** artifact and incurs 4d12 (27) Radiation.
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ##### Acid
@@ -415,7 +415,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Crystal Knee
 > 'A thick curved piece of clear crystal, bent in such a manner that your first thought while holding it is that this was once a small creature's knee.'
-> *Crystal Knee* are a **rare** artifact, and incurs 3d12 (20) Radiation.
+> *Crystal Knee* are a **rare** artifact, and incurs 4d12 (27) Radiation.
 > A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
 ##### Electric
