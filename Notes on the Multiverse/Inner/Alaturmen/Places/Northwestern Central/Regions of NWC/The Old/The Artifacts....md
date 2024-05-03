@@ -27,7 +27,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Radiant Diamond
 > 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
 > *Radiant Diamond* is a **rare** artifact, and incurs 5d8 (22) radiation.
-> A *Radiant Diamond* holds up to six charges, represented in it's halo as glowing yellow beads. As an action, you may spend a charge and produce a 20ft radius sphere.
+> A *Radiant Diamond* holds up to six charges, represented in it's halo as glowing yellow beads. As an action, you may spend a charge and produce a 20ft radius sphere that will continue to project around your body for the next minute. 
 
 ###### Small World
 > 'This is the physical description.'
