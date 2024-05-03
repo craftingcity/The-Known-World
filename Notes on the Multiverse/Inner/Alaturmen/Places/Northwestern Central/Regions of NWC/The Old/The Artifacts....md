@@ -24,16 +24,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
 
 ### Known and Named Artifacts
-###### Wurm Spine
-> 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
-> *Wurm Spine* is an **uncommon** artifact, and incurs 2dX (y) radiation.
-> A *Wurm Spine* is a passive artifact 
-
-###### Spiral Eye
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ###### Inspiring Heart
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
@@ -385,7 +375,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ##### All
-< 3 common, 0 uncommon, 1 rare >
+< 3 common, 2 uncommon, 1 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
@@ -400,6 +390,16 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'A glass cylinder chipped and cut in such a way that it vaguely resembles a humanoid thumb. As you hold it, you can feel a slow dull pulse, as if it was still being pumped with blood.'
 > *Glass Thumb* are a **common** artifact that incurs 1d8 (4) radiation.
 > A *Glass Thumb* is a passive artifact, and provides a +1 to your Attack Rolls and -1 to your Armor Class.
+
+###### Wurm Spine
+> 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
+> *Wurm Spine* is an **uncommon** artifact, and incurs 2d10 (11) radiation.
+> A *Wurm Spine* is a passive artifact and provides a +3 bonus to your CON score.
+
+###### Spiral Eye
+> 'A palm sized almond shape made of an iridescent gem, which colorfully shines a spinning web of light inside itself. As you look at it, you realize suddenly you have been staring for far too long.'
+> *Spiral Eye* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
+> A *Spiral Eye* is a passive artifact and provides a +3 bonus to your CHA score.
 
 ###### Jasper's Twin
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
