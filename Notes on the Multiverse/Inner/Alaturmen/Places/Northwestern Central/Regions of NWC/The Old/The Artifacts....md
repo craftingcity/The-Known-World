@@ -25,9 +25,9 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ### Known and Named Artifacts
 ###### Wurm Spine
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+> 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
+> *Wurm Spine* is an **uncommon** artifact, and incurs 2dX (y) radiation.
+> A *Wurm Spine* is a passive artifact 
 
 ###### Spiral Eye
 > 'This is the physical description.'
@@ -418,12 +418,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *Crystal Knee* are a **rare** artifact, and incurs 3d12 (20) Radiation.
 > A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
-
 ##### Electric
 < 0 common, 1 uncommon, 0 rare >
 ###### Duram Battery
 > 'A large white rock striped with gold inlays. It hums with potential.'
-> *Duram Battery* are a **uncommon** artifact, and incurs 1d4 (2) Radiation. 
+> *Duram Battery* are a **uncommon** artifact, and incurs 2d4 (5) Radiation. 
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
 ##### Fire

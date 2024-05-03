@@ -54,25 +54,25 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name                 | Type   | Prot.          | Space   | Refitters | Cost in AC |
 | -------------------- | ------ | -------------- | ------- | --------- | ---------- |
 | Leather              | Light  | 11+DEX         | 1x Arti | all       | 0.1        |
-| Hide                 | Medium | 14+DEX (max 2) | 1x Arti        | all       | 0.2        |
-| Patched Scout Armor  | Light  | 15+DEX         | 1x Arti        | all       | 0.8        |
-| Patched Combat Armor | Medium | 16+DEX         |         | all       | 2.0        |
-| Plate                | Heavy  | 18             |         | all       | 0.2        |
-| Refit Tank-plate     | Heavy  | 20, DR 1       |         | all       | 2.8        |
-| Empty Power Plate    | Heavy  | 22, DR 2       |         | all       | 7.5        |
+| Hide                 | Medium | 14+DEX (max 2) | 1x Arti | all       | 0.2        |
+| Patched Scout Armor  | Light  | 15+DEX         | 2x Arti | all       | 0.8        |
+| Patched Combat Armor | Medium | 16+DEX         | 2x Arti | all       | 2.0        |
+| Plate                | Heavy  | 18             | 1x Arti | all       | 0.2        |
+| Refit Tank-plate     | Heavy  | 20, DR 1       | 3x Arti | all       | 2.8        |
+| Empty Power Plate    | Heavy  | 22, DR 2       | 5x Arti | all       | 7.5        |
 
 #### IMPORTED / FORGED
-| Name                    | Type   | Prot.          | Importers             | Cost in AC |
-| ----------------------- | ------ | -------------- | --------------------- | ---------- |
-| Chitin Studded          | Light  | 13+DEX         | all                   | 0.2        |
-| Chitin Mail             | Medium | 14+DEX (max 3) | all                   | 0.4        |
-| Chitin Plate            | Heavy  | 16+DEX (max 2) | all                   | 0.75       |
-| Pressigen Scout Armor   | Light  | 16+DEX         | scavs, mercs          | 1.0        |
-| Pressigen Combat Aromor | Medium | 18+DEX         | scavs, mercs          | 2.5        |
-| Blessed Half-plate      | Medium | 17+DEX (max 2) | wfm, extramis         | 0.8        |
-| Blessed Plate           | Heavy  | 20             | wfm, extramis         | 1.4        |
-| Darksteel Tank-plate    | Heavy  | 21, DR 2       | wfm, troopers, fallen | 3.6        |
-| Durandurm Powered Plate | Heavy  | 23, DR 5       | fallen                | 16.0       | 
+| Name                    | Type   | Prot.          | Space   | Importers             | Cost in AC |
+| ----------------------- | ------ | -------------- | ------- | --------------------- | ---------- |
+| Chitin Studded          | Light  | 13+DEX         | 1x Arti | all                   | 0.2        |
+| Chitin Mail             | Medium | 14+DEX (max 3) | 1x Arti | all                   | 0.4        |
+| Chitin Plate            | Heavy  | 16+DEX (max 2) | 1x Arti | all                   | 0.75       |
+| Pressigen Scout Armor   | Light  | 16+DEX         | 3x Arti | scavs, mercs          | 1.0        |
+| Pressigen Combat Aromor | Medium | 18+DEX         | 3x Arti | scavs, mercs          | 2.5        |
+| Blessed Half-plate      | Medium | 17+DEX (max 2) | 2x Arti | wfm, extramis         | 0.8        |
+| Blessed Plate           | Heavy  | 20             | 3x Arti | wfm, extramis         | 1.4        |
+| Darksteel Tank-plate    | Heavy  | 21, DR 2       | 4x Arti | wfm, troopers, fallen | 3.6        |
+| Durandurm Powered Plate | Heavy  | 23, DR 5       | 5x Arti | fallen                | 16.0       |
 
 #### RADIATION
 | Name                                                             | Type           | Prot.             | Importers | Cost in AC |     |
