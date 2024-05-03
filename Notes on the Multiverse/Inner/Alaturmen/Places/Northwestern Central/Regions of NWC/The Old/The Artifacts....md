@@ -27,9 +27,9 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 
 ###### Small World
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+> 'A sphere of swirling green, blue, and brown glass.'
+> *Small World* is a **common** artifact, and incurs xdX (y) radiation.
+> A *Small World* artifact has this effect...
 
 ###### Glass Dreams
 > 'This is the physical description.'
