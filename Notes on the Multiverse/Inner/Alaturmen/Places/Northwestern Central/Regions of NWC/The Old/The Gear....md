@@ -97,7 +97,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Durandurm Magazine, Fire Red     | Fire    |      |            |
 | Durandurm Magazine, Water Blue   | Cold    |      |            |
 | Durandurm Magazine, Earth Yellow | Thunder |      |            |
-| Durandurm Magazine, No Tracer    | Force   |      |            |
+| Durandurm Magazine, Air Clear    | Force   |      |            |
 | Hummpo                           | Fire    |      |            |
 
 
@@ -116,8 +116,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### ARTIFACTS STORAGE
 | Name                 | Type    | Reduction | Space   | Cost in AC |
 | -------------------- | ------- | --------- | ------- | ---------- |
-| Simple Anti-Rad Box  | lockbox | 8 RadRed          | 1x Arti | 1.0        |
-| Blessed Anti-Rad Box | lockbox |           | 1x Arti |            |
+| Simple Anti-Rad Box  | lockbox | 8 RadRed  | 1x Arti | 1.0        |
+| Blessed Anti-Rad Box | lockbox | 24 RadRed | 1x Arti | 3.2        | 
 
 ### Commodities
 #### DRUGS / ALCH
