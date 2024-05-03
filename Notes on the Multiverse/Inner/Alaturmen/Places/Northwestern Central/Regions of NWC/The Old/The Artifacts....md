@@ -25,7 +25,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ### Known and Named Artifacts
 ###### Inspiring Heart
-> 'This is the physical description.'
+> 'A chunky round stone of shimmering silver. It pounds to '
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -394,7 +394,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Wurm Spine
 > 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
 > *Wurm Spine* is an **uncommon** artifact, and incurs 2d10 (11) radiation.
-> A *Wurm Spine* is a passive artifact and provides a +3 bonus to your CON score.
+> A *Wurm Spine* is a passive artifact and provides a +3 bonus to your DEX score.
 
 ###### Spiral Eye
 > 'A palm sized almond shape made of an iridescent gem, which colorfully shines a spinning web of light inside itself. As you look at it, you realize suddenly you have been staring for far too long.'
