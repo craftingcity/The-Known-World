@@ -24,15 +24,10 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
 
 ### Known and Named Artifacts
-###### Inspiring Heart
-> 'A chunky round stone of shimmering silver. It pounds to '
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ###### Radiant Diamond
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+> 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
+> *Radiant Diamond* is a **rare** artifact, and incurs xdX (y) radiation.
+> A *Radiant Diamond* artifact has this effect...
 
 ###### Small World
 > 'This is the physical description.'
@@ -390,6 +385,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'A glass cylinder chipped and cut in such a way that it vaguely resembles a humanoid thumb. As you hold it, you can feel a slow dull pulse, as if it was still being pumped with blood.'
 > *Glass Thumb* are a **common** artifact that incurs 1d8 (4) radiation.
 > A *Glass Thumb* is a passive artifact, and provides a +1 to your Attack Rolls and -1 to your Armor Class.
+
+###### Inspiring Heart
+> 'A chunky round stone of shimmering silver. It slowly pulses, slowly lining up with your heartbeat.'
+> *Inspiring Heart* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
+> A *Inspiring Heart* is a passive artifact and provides a +3 bonus to your CON score.
 
 ###### Wurm Spine
 > 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
