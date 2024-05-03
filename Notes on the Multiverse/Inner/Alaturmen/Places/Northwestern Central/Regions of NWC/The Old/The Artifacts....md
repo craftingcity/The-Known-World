@@ -26,7 +26,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ### Known and Named Artifacts
 ###### Radiant Diamond
 > 'A small pink diamond, cut to perfection, around which a series of smaller shining yellow lights swirl and orbit.'
-> *Radiant Diamond* is a **rare** artifact, and incurs xdX (y) radiation.
+> *Radiant Diamond* is a **rare** artifact, and incurs 3d8 (14) radiation.
 > A *Radiant Diamond* artifact has this effect...
 
 ###### Small World
