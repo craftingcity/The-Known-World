@@ -29,7 +29,7 @@ She wants us going forwards, deeper into this place. Fuck. That. If shit hits th
 ```
 ~~~
 BurnerOS v0.12
-Published 02.04.083
+Published 02.07.083
 Initializing Data...
 SUCCESS
 Initializing Navigation...
@@ -48,14 +48,64 @@ SUCCESS
 
 ~~~
 BurnerOS v0.12
-Published 02.04.083
+Published 02.07.083
 
 
 
 
 Welcome back, "Ghost".
-You have been offline for 504 hours. You are currently offline.
-Your Personel Directive Assistant unit has been comprimised, please eject your Profile Module and aquire a functioning Personel Directive Assistant.
+You have been offline for 556 hours. You are currently offline.
+Your Personel Directive Assistant unit has been comprimised, please eject your Profile Module and aquire a functioning Personel Directive Assistant. Handle your Profile Module with care, as we cannot currently assess any damage related to the module itself.
+Thank you, and have a profitable day.
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+Welcome back, "Ghost".
+You have been offline for 556 hours. You are currently offline.
+Your Profile Module has been damaged. You will not be able to access GUI functions while using this Module, including most executable files and associated data files.
+
+
+
+We were able to detect some viable data on this Profile Module. Would you like to view the files we found?
+y
+
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+- user_data
+	- profile.dat
+	- offline_tracker.wte
+	- xxxaetxxx.dat
+	- ttaaeethhjjm.dat
+	- dsdfvvbbbnn.wte
+- data_locker
+	- journal
+		- 04.26.105
+			- "Made "
+	- stashes
+		- mine_red_basement_traptown.dat
+		- psb-mxxx.dat
+		- hospital_under_318rug.dat
+		- asccghjt.dat
+		- village_stash_for_newbie.dat
+	- contacts
+		- (no viable files found)
+	- accepted_contracts
+		- killings_for_ondo.dat
+		- yywvnm_821x.dat
+		- recruit_romeo.dat
+		- iouyu655rv.dat
+~~~
 ```
 
 # Romeo's Journal
