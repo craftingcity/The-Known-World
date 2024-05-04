@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "161ea5d41853c491",
+        "id": "0414b6e1bcb488f2",
         "type": "tabs",
         "children": [
           {
-            "id": "373bde65c79e7730",
+            "id": "0c4e95cc2af804af",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The Gear...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":46},\"to\":{\"line\":34,\"ch\":46}},\"scroll\":25.876000358311007}"
                 }
               ]
             },
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -152,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -281,11 +269,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "373bde65c79e7730",
+  "active": "0c4e95cc2af804af",
   "lastOpenFiles": [
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
     "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
