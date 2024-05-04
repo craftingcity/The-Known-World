@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
       "basename": "AlchemicalComponentsChart",
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
-    },
-    {
-      "basename": "The Hatdroppers",
-      "path": "Game Notes/Campaign Rosters/The Hatdroppers.md"
     }
   ],
   "omittedPaths": [],
