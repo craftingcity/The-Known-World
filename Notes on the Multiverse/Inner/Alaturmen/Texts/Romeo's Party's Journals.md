@@ -90,17 +90,16 @@ Published 02.07.083
 	- dsdfvvbbbnn.wte
 - data_locker
 	- journal
-		- 04.22.105
-			- "Newbies recruited. Coming home soon. They want to prep, good thing too. They're real fresh."
-		- 04.26.105
-			- "Made NW with newbie group. They're too excited, some of them are going to get themselves killed. Or worse."
-		- 04.28.105
-			- "Fucking called it. Almost lost 2 last night. Ran the group to safety and they found us. Good shit, didn't want to spend the night in the church. Grabbed our stash in RV, and we'll push into Infirm through Cellars, then move towards the Apts."
-		- 
+		- 04.22.105.txt
+		- 04.26.105.txt
+		- 04.27.105.txt
+		- 04.28.105.txt
+		- 05.01.105.txt
+		- 05.04.105.txt
 	- stashes
 		- mine_red_basement_traptown.dat
 		- psb-mxxx.dat
-		- hospital_under_318rug.dat
+		- hospital_under_3x8rug.dat
 		- asccghjt.dat
 		- village_stash_for_newbie.dat
 	- contacts
@@ -110,6 +109,84 @@ Published 02.07.083
 		- yywvnm_821x.dat
 		- recruit_romeo.dat
 		- iouyu655rv.dat
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+04.22.105.txt
+> Newbies recruited. Coming home soon. They want to prep, good thing too. They're real fresh. This wine is amazing, we shall make someone become here for us, and I will share my bounty.
+> veiw next? y/n
+> y
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+04.26.105.txt
+> Made North Wall with Newbie's group. They're too excited, some of them are going to get themselves killed. Or worse.
+> veiw next? y/n
+> y
+
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+04.27.105.txt
+> Fucking called it.
+> veiw next? y/n
+> y
+
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+04.28.105.txt
+> Almost lost 2 last night. Ran the group to safety and they found us. Good shit, didn't want to spend the night in the church. Grabbed our stash in RV, and we'll push into Infirm through Cellars, then move towards the Apts.
+> veiw next? y/n
+> y
+
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+05.01.105.txt
+> Bubbles is a bitch, and she got one of mine killed. I hope she never sees me again. Wouldn't let us through the Cellars without toll, as if I haven't done solid work with the Company for a half-decade. 'Policy' my ass. She's still pissed about our time in West Apts. I'm not, but this is beyond the line. We'll push forward towards the Infirm once we patch everyone up.
+> veiw next? y/n
+> y
+
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.07.083
+
+
+
+05.04.105.txt
+> Fucking shit, we lost Forum and Brass. Looked like they were all learning and then these two just fucking walk off. Like they were in a daze or something. Just the two of them, around a doorway and gone. I must continue to assure the others. I know that the Core is hungry, and It has taken them, for they have failed in Its temptations. We will continue.
+> veiw next? y/n
+> y
+> no other entries found, returning...
+
 ~~~
 ```
 
