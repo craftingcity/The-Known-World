@@ -23,7 +23,7 @@ The party agreed to help Cucu find her cousin, and now look toward the mysteriou
 
 ### What does the World Know?
 
-Romeo has had time to get to [[The Old|Minyostalma]], a quick jaunt across the border from [[Yahlin]]. He was recruited by a group of wannabe Scavs who had little experience and poor equipment, but after his first days in the Old, he began to survive and even progress toward the Temple; see [[Romeo's Journal (and Others)]].
+Romeo has had time to get to [[The Old|Minyostalma]], a quick jaunt across the border from [[Yahlin]]. He was recruited by a group of wannabe Scavs who had little experience and poor equipment, but after his first days in the Old, he began to survive and even progress toward the Temple; see [[Romeo's Party's Journals]].
 
 
 ### What happened?

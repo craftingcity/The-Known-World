@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5533e16201b0fa6c",
+        "id": "62d388c276411178",
         "type": "tabs",
         "children": [
           {
-            "id": "4092df06e3e2529c",
+            "id": "08723ba55f391ff1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Dwarven Kingdom Suremantle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.526442761876563}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "mode": "source",
                 "source": true
               }
@@ -155,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md"
               }
             }
           },
@@ -284,8 +278,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4092df06e3e2529c",
+  "active": "08723ba55f391ff1",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
@@ -312,7 +307,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
     "MEDIA/MAPS/WORLD/west_mosslands_105af.png",

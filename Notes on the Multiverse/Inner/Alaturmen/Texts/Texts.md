@@ -35,7 +35,7 @@ aliases:
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
 - [[On the Hum Arcani; Independent Position]]
-- [[Romeo's Journal (and Others)]]
+- [[Romeo's Party's Journals]]
 - [[Tetrimoc's Journal (Propaganda)]]
 - [[The Return of Moses the Brave]]
 - [[The Tales of Big Buster Badass]]
