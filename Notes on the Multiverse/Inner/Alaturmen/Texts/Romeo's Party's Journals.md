@@ -94,7 +94,9 @@ Published 02.07.083
 			- "Newbies recruited. Coming home soon. They want to prep, good thing too. They're real fresh."
 		- 04.26.105
 			- "Made NW with newbie group. They're too excited, some of them are going to get themselves killed. Or worse."
-			- 
+		- 04.28.105
+			- "Fucking called it. Almost lost 2 last night. Ran the group to safety and they found us. Good shit, didn't want to spend the night in the church. Grabbed our stash in RV, and we'll push into Infirm through Cellars, then move towards the Apts."
+		- 
 	- stashes
 		- mine_red_basement_traptown.dat
 		- psb-mxxx.dat
