@@ -90,8 +90,11 @@ Published 02.07.083
 	- dsdfvvbbbnn.wte
 - data_locker
 	- journal
+		- 04.22.105
+			- "Newbies recruited. Coming home soon. They want to prep, good thing too. They're real fresh."
 		- 04.26.105
-			- "Made "
+			- "Made NW with newbie group. They're too excited, some of them are going to get themselves killed. Or worse."
+			- 
 	- stashes
 		- mine_red_basement_traptown.dat
 		- psb-mxxx.dat
