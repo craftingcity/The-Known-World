@@ -49,6 +49,20 @@ The Mercs will each loot a corpse, leaving five down and dead for the party to s
 The party wants to keep going into the Base to find Ghost's PDA or evidence of the others from Romeo's party.
 
 ### What happened?
+They looted the WFM, and they moved into the Front Gate of the Base, where they met a group of Fallen;
+
+##### Initiative
+17 - Astro
+13 - Cucu
+11 - Kyri
+11 - Ash
+10 - Gringold
+8 - Georgie
+8 - Screw
+7 - Locus
+6 - Dom
+6 - Dae Shim
+
 
 
 We leave our heroes on the date of ... AF, as they ...

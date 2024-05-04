@@ -12,16 +12,16 @@ While there are stories of mages attempting to use their repertoire of spells to
 
 When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Perception) Check during travel, roll 1d8 and refer to the following table. If they succeed by five or more, roll twice.
 
-| Roll | Effect                                                                              |
-| ---- | ----------------------------------------------------------------------------------- |
-| 1    | The character spots an artifact sample. |
-| 2    | The character spots a common artifact.                                              |
-| 3    | The character spots a common artifact.                                              |
-| 4    | The character spots a common artifact.                                              |
-| 5    | The character spots an uncommon artifact.                                           |
-| 6    | The character spots an uncommon artifact.                                           |
-| 7    | The character spots a rare artifact.                                                |
-| 8    | The character spots two artifacts, roll again. If rolled again, it is common.       | 
+| Roll | Effect                                                                        |
+| ---- | ----------------------------------------------------------------------------- |
+| 1    | The character spots an artifact sample.                                       | 
+| 2    | The character spots a common artifact.                                        |
+| 3    | The character spots a common artifact.                                        |
+| 4    | The character spots a common artifact.                                        |
+| 5    | The character spots an uncommon artifact.                                     |
+| 6    | The character spots an uncommon artifact.                                     |
+| 7    | The character spots a rare artifact.                                          |
+| 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
 
