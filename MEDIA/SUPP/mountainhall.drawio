@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-04T01:32:43.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ZlreYbw8KmBHNQiz7wAQ" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-04T01:50:47.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="MDi8SVi_RZuF-J5EZxQK" version="24.2.5" type="device">
   <diagram name="Page-1" id="ezWERZM7cqdSswIlB_YG">
-    <mxGraphModel dx="2924" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2578" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,6 +73,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-25" target="E7TBdnryxwROGaCkr57B-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-25" value="The King" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -141,14 +144,6 @@
         <mxCell id="E7TBdnryxwROGaCkr57B-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;House Franx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="-440" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-44" target="E7TBdnryxwROGaCkr57B-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="10" y="540" />
-              <mxPoint x="10" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;House Battog&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="-200" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -160,6 +155,12 @@
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-49" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;But I&#39;m still struggling for money!&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="760" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-54" target="E7TBdnryxwROGaCkr57B-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-54" target="E7TBdnryxwROGaCkr57B-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The Council of Houses in the Suremantle Kingdom&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-320" y="480" width="120" height="80" as="geometry" />
@@ -191,6 +192,9 @@
           <mxGeometry x="880" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-62" target="E7TBdnryxwROGaCkr57B-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-62" target="E7TBdnryxwROGaCkr57B-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-62" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Loyalists and Liberationists conflict within many large cities.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
@@ -255,25 +259,67 @@
           <mxGeometry x="1160" y="840" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-87" value="&lt;p style=&quot;line-height: 92%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;There have been no accidents in mining colonies 4, 5, and 9, and all rumors spread are baseless and counterproductive. Continue work.&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="540" y="800" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="800" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-89" target="E7TBdnryxwROGaCkr57B-99">
+        <mxCell id="E7TBdnryxwROGaCkr57B-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-89" target="E7TBdnryxwROGaCkr57B-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;We cannot tell anyone the truth about why we are meeting Metallics Demand. We are stuck in this together.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="-600" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-92" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;We should introduce gunpowder warfare to increase our other mineral Demands.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-94" target="E7TBdnryxwROGaCkr57B-99">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E7TBdnryxwROGaCkr57B-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=halfCircle;startFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-94" target="E7TBdnryxwROGaCkr57B-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-540" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-94" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;L&amp;amp;L conflicts have increased inner-city weapons trades.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-99" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The L&amp;amp;L conflicts are the best place for us to launder merchandise.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="-600" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-102" target="E7TBdnryxwROGaCkr57B-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-102" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;While we have worked on our own rivals to the Durandurm Firearms, getting a large sample would speed our progress significantly.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="640" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Again, working our own tech is fine, but we want to look at the modifications people make too. Go find us some, look in Minyostalma with our other Troopers or head south and make us a deal with the Nobles there.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="800" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-106" value="&lt;p style=&quot;line-height: 92%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Conflict will cease, or DWD will formally apply force to rectify. Conflict is counterproductive. Continue Work&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="780" />
+              <mxPoint x="-120" y="780" />
+              <mxPoint x="-120" y="620" />
+              <mxPoint x="110" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The Northern Conflict is profitable, and the Council has an interest in it&#39;s continuance while maintaining their neutrality. Mind &quot;dirty&quot; work?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="640" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-109" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Gather uniforms from both sides of the conflict, and perform small strikes against both sides behind their frontline - and reveal nothing.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-111" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Acompany a merchant to make a deal with some of the black-merchants north of Coalition territory.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-115" target="E7TBdnryxwROGaCkr57B-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-115" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;I need to know why we&#39;re making this much money. My numbers don&#39;t add up. Form an opinion and report back.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
