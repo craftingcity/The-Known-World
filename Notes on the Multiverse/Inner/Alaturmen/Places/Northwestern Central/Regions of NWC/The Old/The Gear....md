@@ -24,7 +24,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Ares Manual-Switch Carbine Receiver | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
 | Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  | 0.8        |
 | Magazine Extender, 40-shot          | upg.      | 4x mag cap          | n/a       | all                  | 2.4        |
-| Magazine Belt Feeder                | upg       | inf mag cap         | n/a       | all                  | 5.6        | 
+| Magazine Belt Feeder                | upg       | 12x mag cap         | n/a       | all                  | 5.6        |
 
 #### IMPORTED / FORGED
 | Name                        | Type      | Dam.                 | Ammo      | Importers | Cost in AC |
