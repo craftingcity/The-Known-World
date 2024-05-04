@@ -53,9 +53,9 @@ Published 02.07.083
 
 
 
-Welcome back, "Ghost".
-You have been offline for 556 hours. You are currently offline.
-Your Personel Directive Assistant unit has been comprimised, please eject your Profile Module and aquire a functioning Personel Directive Assistant. Handle your Profile Module with care, as we cannot currently assess any damage related to the module itself.
+Wex88me back, "Ghost".
+You have been offlxxx for 55x hours. You are cxxxxntly offline.
+Your Personel Directive Assistant unit has been comprimised, please eject your Prof1le Module and aquire a functioning Personel Directive As67stant. Handle y0ur Profile Module with care, as h5 cxnnot currently assess anx damage related to the module itself.
 Thank you, and have a profitable day.
 ~~~
 
@@ -102,6 +102,8 @@ Published 02.07.083
 		- hospital_under_3x8rug.dat
 		- asccghjt.dat
 		- village_stash_for_newbie.dat
+		- 18xx7.dat
+		- 1aaaa444.dat
 	- contacts
 		- (no viable files found)
 	- accepted_contracts
