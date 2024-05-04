@@ -23,7 +23,7 @@ We return to the party just moments after the Military called for a strategic re
 As you all begin to move to the corpses, a dark brown metallic hand reaches out from inside Gringold's bag and pulls itself up, leading a tall muscular metal man to quickly jump to the floor with a loud clanging sound.
 
 ### What does the World Know?
-###### Saving Private Colins
+###### Killing Private Colins
 Pvt. Colins has been captured by the Chicago Bulls, and is not particularly knowledgeable about the truest ongoings of Minyostalma, but will do his best to exchange information for his life.
 
 ###### Militants Loot
