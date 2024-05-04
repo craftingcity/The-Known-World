@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-04T01:50:47.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="MDi8SVi_RZuF-J5EZxQK" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-04T02:05:54.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="inR16mM8Hsg2H0HQQAnd" version="24.2.5" type="device">
   <diagram name="Page-1" id="ezWERZM7cqdSswIlB_YG">
     <mxGraphModel dx="2578" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="E7TBdnryxwROGaCkr57B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-15" target="E7TBdnryxwROGaCkr57B-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-15" value="Underdark Influence&lt;div&gt;Anarchist War-politic Conflic&lt;br&gt;&lt;div&gt;Theological Crisis on walking the Path to Limbo&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="E7TBdnryxwROGaCkr57B-15" value="Underdark Influence&lt;div&gt;War-politic Conflict&lt;br&gt;&lt;div&gt;Theological Crisis on walking the Path to Limbo&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="710" y="260" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-24" value="Council" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -255,13 +255,16 @@
         <mxCell id="E7TBdnryxwROGaCkr57B-80" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The Call occured! Who will answer? Not me!&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="1000" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-82" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;As they enter the &quot;far beyond&quot; - the Wildlands - they must think of &quot;Her&quot;.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="E7TBdnryxwROGaCkr57B-82" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;As they enter the &quot;far beyond&quot; - the Wildlands - they must think of &quot;Her&quot;. She will tell us what must be done.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="1160" y="840" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-87" value="&lt;p style=&quot;line-height: 92%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;There have been no accidents in mining colonies 4, 5, and 9, and all rumors spread are baseless and counterproductive. Continue work.&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="520" y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-89" target="E7TBdnryxwROGaCkr57B-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-89" target="E7TBdnryxwROGaCkr57B-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;We cannot tell anyone the truth about why we are meeting Metallics Demand. We are stuck in this together.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
@@ -290,10 +293,10 @@
         <mxCell id="E7TBdnryxwROGaCkr57B-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Again, working our own tech is fine, but we want to look at the modifications people make too. Go find us some, look in Minyostalma with our other Troopers or head south and make us a deal with the Nobles there.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-440" y="800" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-106" value="&lt;p style=&quot;line-height: 92%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Conflict will cease, or DWD will formally apply force to rectify. Conflict is counterproductive. Continue Work&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="E7TBdnryxwROGaCkr57B-106" value="&lt;p style=&quot;line-height: 92%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Conflict will cease, or DWD will formally apply force to rectify counter-productivity. Continue work.&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="760" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E7TBdnryxwROGaCkr57B-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-111">
+        <mxCell id="E7TBdnryxwROGaCkr57B-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-111">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-220" y="780" />
@@ -304,7 +307,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-109">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="820" />
+              <mxPoint x="-220" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-108" target="E7TBdnryxwROGaCkr57B-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="800" />
+              <mxPoint x="300" y="800" />
+              <mxPoint x="300" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The Northern Conflict is profitable, and the Council has an interest in it&#39;s continuance while maintaining their neutrality. Mind &quot;dirty&quot; work?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-280" y="640" width="120" height="120" as="geometry" />
@@ -318,8 +335,37 @@
         <mxCell id="E7TBdnryxwROGaCkr57B-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-115" target="E7TBdnryxwROGaCkr57B-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-115" target="E7TBdnryxwROGaCkr57B-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E7TBdnryxwROGaCkr57B-115" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;I need to know why we&#39;re making this much money. My numbers don&#39;t add up. Form an opinion and report back.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="-40" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-122" target="E7TBdnryxwROGaCkr57B-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="730" />
+              <mxPoint x="40" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-122" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;It&#39;s Franx and Tazatly? Find out specifically what&#39;s happening in their mining colonies.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="640" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-126" target="E7TBdnryxwROGaCkr57B-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-126" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;The &quot;accidents&quot; created egresses to the Underdark, and the incedents were well &quot;swept under the rug&quot;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="540" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7TBdnryxwROGaCkr57B-128" target="E7TBdnryxwROGaCkr57B-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-128" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;That&#39;s straight up treason.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E7TBdnryxwROGaCkr57B-131" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;We&#39;ve been found out! Quick! Throw a coup!&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="960" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
