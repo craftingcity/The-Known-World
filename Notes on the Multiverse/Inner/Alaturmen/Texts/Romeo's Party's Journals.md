@@ -24,6 +24,40 @@ We made it back before dawn. Found our way by the border lights and then just go
 #### Resowing 28, 105AF
 She wants us going forwards, deeper into this place. Fuck. That. If shit hits the fan, I'm out.
 
+# Ghost's Broken PDA
+
+```
+~~~
+BurnerOS v0.12
+Published 02.04.083
+Initializing Data...
+SUCCESS
+Initializing Navigation...
+FAILED
+Initializing Sensors...
+FAILED
+Initializing Communication...
+FAILED
+Initializing GUI...
+FAILED
+Initializing tCI...
+SUCCESS
+Finalizing Systems...
+SUCCESS
+~~~
+
+~~~
+BurnerOS v0.12
+Published 02.04.083
+
+
+
+
+Welcome back, "Ghost".
+You have been offline for 504 hours. You are currently offline.
+Your Personel Directive Assistant unit has been comprimised, please eject your Profile Module and aquire a functioning Personel Directive Assistant.
+```
+
 # Romeo's Journal
 ## Romeo, cousin of Cucu
 
