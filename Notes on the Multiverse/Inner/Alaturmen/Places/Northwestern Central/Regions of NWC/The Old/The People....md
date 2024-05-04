@@ -10,7 +10,7 @@ A collective name for the individuals and groups without a greater affiliation t
 	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
 	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
 - [[#The Sticks]]
-	- The Seekers within the Sticks leave with fewer friends than they entered with.
+	- The Seekers within the Sticks leave with fewer friends than they entered with, and much more trauma.
 - [[#The Factory]]
 	- Most inexperienced Seekers avoid this area for fear of Mercs, and Hostile Scavs.
 - [[#The City]]
