@@ -29,8 +29,6 @@ Pvt. Colins has been captured by the Chicago Bulls, and is not particularly know
 ###### Militants Loot
 The Mercs will each loot a corpse, leaving five down and dead for the party to scavenge. The Mercs will not share their claim, but they will leave some items behind.
 
-18, 7, 11, 
-
 - 6x Blessed Plate
 - 5x Blessed Half-plate
 - 5x Durandurm Carbine
