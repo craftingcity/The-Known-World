@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "becd005b2b82b8b8",
+        "id": "543c8beec0f6566d",
         "type": "tabs",
         "children": [
           {
-            "id": "01b64177a5e75de8",
+            "id": "c6724e82742ccb33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Campaigns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaigns.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.063883215548768}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ea63cb2c3b9f751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d5bdf3e17a445e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Prenotes May 07 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -148,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Prenotes May 07 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Prenotes May 07 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
+                "file": "Prenotes May 07 24.md"
               }
             }
           },
@@ -277,21 +316,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01b64177a5e75de8",
+  "active": "40d5bdf3e17a445e",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Prenotes May 07 24.md",
+    "A Grand Notepad.md",
+    "Game Notes/Campaigns.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 23 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Prenotes May 03 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 23 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
@@ -300,15 +344,10 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "MEDIA/SUPP/mountainhall.drawio",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
     "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
