@@ -240,6 +240,9 @@ The military grounds of the Old Elven Empire's armies. Connected to [[#The Facto
 Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
 
 #### The Front Gate
+The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn and fountain makes for a beautiful scene in the front of the brutalist military compound.
+
+Entering the building and heading West, [[#The Importing Pallets]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall]].
 
 #### The Mess Hall
 
