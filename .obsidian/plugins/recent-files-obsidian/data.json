@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes May 07 24",
+      "path": "Prenotes May 07 24.md"
+    },
+    {
       "basename": "NewSarahouse Game",
       "path": "Game Notes/Campaign Rosters/NewSarahouse Game.md"
     },
     {
-      "basename": "Prenotes May 07 24",
-      "path": "Prenotes May 07 24.md"
+      "basename": "Katz Brood",
+      "path": "Katz Brood.md"
+    },
+    {
+      "basename": "Macht's Brood",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md"
     },
     {
       "basename": "A Grand Notepad",
@@ -191,14 +199,6 @@
     {
       "basename": "World Features",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "World Wide Happenings",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md"
     }
   ],
   "omittedPaths": [],

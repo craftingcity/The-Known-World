@@ -9,7 +9,7 @@ aliases:
 ### Factions:
 - [[The Church of the White Flame]]
 	- The Church-folk have a calm, restful, but incredibly terrifying demeanor and accent, shoot for a psychopathic neo-nazi who doesnt want to blow cover, maybe germanic, indian, west asian accent range 
-- [[Macht's Orcs]]
+- [[Macht's Brood]]
 - [[Hektor's Bandits]]
 ###### Table of Contents
 %% Begin Waypoint %%
