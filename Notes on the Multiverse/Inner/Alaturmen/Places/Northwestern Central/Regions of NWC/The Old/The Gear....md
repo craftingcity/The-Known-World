@@ -68,7 +68,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Chitin Mail             | Medium | 14+DEX (max 3) | 1x Arti | all                   | 0.4        |
 | Chitin Plate            | Heavy  | 16+DEX (max 2) | 1x Arti | all                   | 0.75       |
 | Pressigen Scout Armor   | Light  | 16+DEX         | 3x Arti | scavs, mercs          | 1.0        |
-| Pressigen Combat Aromor | Medium | 18+DEX         | 3x Arti | scavs, mercs          | 2.5        |
+| Pressigen Combat Armors | Medium | 18+DEX         | 3x Arti | scavs, mercs          | 2.5        |
 | Blessed Half-plate      | Medium | 17+DEX (max 2) | 2x Arti | wfm, extramis         | 0.8        |
 | Blessed Plate           | Heavy  | 20             | 3x Arti | wfm, extramis         | 1.4        |
 | Darksteel Tank-plate    | Heavy  | 21, DR 2       | 4x Arti | wfm, troopers, fallen | 3.6        |
@@ -178,7 +178,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (2d6hp / 8 rounds + 1 Hit Die) |            |
 | Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (10 + 3d4hp / 3 rounds)                  |            |
 | Pretokarin            | Liquid     |                                                                                                                                    |            |
-| Secreclude Propaterol | Solid      | Typically dispensed by injection, Pretokarin quickly regenerates severe wounds. (+25hp / 3 rounds)                                 |            |
+| Secreclude Propaterol | Solid      | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (+25hp / 3 rounds)                                 |            |
 
 
 #### RADIATION

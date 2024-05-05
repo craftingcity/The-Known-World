@@ -7,7 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - **Holyl'nds**
 	- **Factions**
-		- [[Macht's Orcs]]
+		- [[Macht's Brood]]
 	- **Local Lore**
 		- [[Great Fires]]
 		- [[Marked By the Fire]]

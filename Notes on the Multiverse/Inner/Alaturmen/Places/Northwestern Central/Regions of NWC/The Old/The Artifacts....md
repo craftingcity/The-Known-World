@@ -56,7 +56,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Ruby Pyramid
+###### ==Ruby Pyramid==
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
@@ -361,10 +361,10 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Bleeding Liver
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+###### ==Bleeding Liver==
+> 'A thick nugget of red .'
+> *Bleeding Liver* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *Bleeding Liver* artifact is a passive artifact...
 
 ##### All
 < 3 common, 3 uncommon, 1 rare >

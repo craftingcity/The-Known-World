@@ -5,7 +5,7 @@ aliases:
 
 *This page contains content that is currently #non-canon. This could be for many reasons, including; the page is currently work in progress, or intended for a future scenario that has yet to occur, or some (un)set time to pass, or one of many other possible reasons.*
 
-The Patron Saints of Kakurak are the house gods of a large portion of [[Macht's Orcs]].
+The Patron Saints of Kakurak are the house gods of a large portion of [[Macht's Brood]].
 
 # Grod
 [[Grod]] is depicted as a very masculine barbarian roaring wildly and swinging a greatsword. As depicted, they wear a set of beautifly dirty clothing.
