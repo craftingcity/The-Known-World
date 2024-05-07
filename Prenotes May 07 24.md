@@ -22,10 +22,14 @@ War has come to the North and the merchants in the hills of the [[Deakred Range]
 
 As the fates align, you each have found work with a small up-and-coming independent mining company known as Web Spun Solutions, where you have been contracted to escort a caravan for just over thirteen weeks as it travels between its depot in Mountain Hall and a newly purchased plot in "Mining Colony 15".
 
-With the promise of continued work upon their satisfaction, and an address for a 
+With the promise of continued work upon their satisfaction, and an address for complementary room and board, you all have gathered yourselves and your equipment, shaken the sleep from your eyes, and you have made your way to the depot for your first day on this contract.
+
+
 
 ### What does the World Know?
 
+"Mining Colony 15" is 11 miles west-north-west of [[Mountain Hall]].
+The caravan will be halted and accosted by the [[]]
 
 ### What happened?
 
