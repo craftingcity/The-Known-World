@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62d388c276411178",
+        "id": "543c8beec0f6566d",
         "type": "tabs",
         "children": [
           {
-            "id": "08723ba55f391ff1",
+            "id": "c6724e82742ccb33",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,10 +18,70 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Romeo's Party's Journals",
+                  "title": "A Grand Notepad",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.190750428364458}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Campaigns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaigns.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.063883215548768}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf7c362496fb147f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mountain Hall",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":34},\"to\":{\"line\":7,\"ch\":34}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ea63cb2c3b9f751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d5bdf3e17a445e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -29,76 +89,6 @@
               "type": "markdown",
               "state": {
                 "file": "Prenotes May 07 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "891b9b058a135848",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 03 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2cf701c805e166e3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Northern Conflicts of 105AF.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "06a129e685a5a677",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8beec6f92a69265a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 17 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -132,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 17 24.md",
+                "file": "Prenotes May 07 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 17 24.md",
+                "file": "Prenotes May 07 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 17 24.md"
+                "file": "Prenotes May 07 24.md"
               }
             }
           },
@@ -354,36 +343,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8beec6f92a69265a",
+  "active": "40d5bdf3e17a445e",
   "lastOpenFiles": [
-    "Prenotes May 03 24.md",
-    "Prenotes May 17 24.md",
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
     "Prenotes May 07 24.md",
+    "Prenotes May 17 24.md",
     "Northern Conflicts of 105AF.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Nobles of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Katz Brood.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md",
+    "A Grand Notepad.md",
+    "Game Notes/Campaigns.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 23 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Game Notes/Prenotes/'23/Prenotes June 10 23.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
+    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "MEDIA/SUPP/mountainhall.drawio",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Prenotes May 03 24.md",
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Beasts Righteous.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Journal (and Others).md",
+    "MEDIA/SUPP/mountainhall.drawio",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
     "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
@@ -395,12 +386,10 @@
     "MEDIA/MAPS/WORLD/huntyr_swamp_105.png",
     "MEDIA/MAPS/WORLD/hillkeep_105af.png",
     "MEDIA/MAPS/WORLD/greenland_105af.png",
-    "MEDIA/MAPS/WORLD/goldfield_105af.png",
     "MEDIA/SUPP/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
     "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
-    "MEDIA/SUPP/Minyostalma.drawio",
-    "MEDIA/SUPP/alchemy.drawio"
+    "MEDIA/SUPP/Minyostalma.drawio"
   ]
 }
