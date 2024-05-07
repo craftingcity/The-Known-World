@@ -18,9 +18,9 @@ When we first meet our heroes, they do not yet know that they are our heroes. Th
 
 These five people will be the final arbitrators of what is to come upon the face of Alaturmen, but we watch as they begin more simply. A job.
 
-War has come to the North and the merchants in the hills of the [[Deakred Range]] are making a killing. Profits are up, and contractors are in vouge. You five have all - for your own separate reasons - signed up for minor jobs for some time, and have all somehow come to be in the grand city of [[Mountain Hall]], the capital city of the [[Dwarven Kingdom Suremantle]]. 
+War has come to the North and the merchants in the hills of the [[Deakred Range]] are making a killing. Profits are up, and contractors are in vouge. You five have all - for your own separate reasons - signed up for minor work for some time, and in doing so, you have all somehow come to be in the grand city of [[Mountain Hall]], the capital city of the [[Dwarven Kingdom Suremantle]]. 
 
-As the fates align, you each have found work with a small up-and-coming independent mining company known as Web Spun Solutions, where you have been contracted to escort a caravan for just over thirteen weeks as it travels between its depot in Mountain Hall and a newly purchased plot in "Mining Colony 15".
+As the fates align, you each have found work with a small up-and-coming independent mining company known as [[Web Spun Solutions]], where you have been contracted to escort a caravan for just over thirteen weeks as it travels back and forth between its depot in Mountain Hall and a newly purchased plot in "Mining Colony 15".
 
 With the promise of continued work upon their satisfaction, and an address for complementary room and board, you all have gathered yourselves and your equipment, shaken the sleep from your eyes, and you have made your way to the depot for your first day on this contract.
 
@@ -29,7 +29,7 @@ With the promise of continued work upon their satisfaction, and an address for c
 ### What does the World Know?
 
 "Mining Colony 15" is 11 miles west-north-west of [[Mountain Hall]].
-The caravan will be halted and accosted by the [[]]
+The caravan will be halted and accosted by the [[Northern Liberationists]] for the purposes of disrupting the [[Web Spun Solutions]] company's ability to supply the [[Northern Conflicts of 105AF]].
 
 ### What happened?
 
