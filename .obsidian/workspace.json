@@ -35,6 +35,27 @@
             }
           },
           {
+            "id": "891b9b058a135848",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 03 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "2cf701c805e166e3",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -55,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 07 24.md",
+                "file": "Prenotes May 03 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 07 24.md",
+                "file": "Prenotes May 03 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 07 24.md"
+                "file": "Prenotes May 03 24.md"
               }
             }
           },
@@ -305,10 +327,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08723ba55f391ff1",
+  "active": "891b9b058a135848",
   "lastOpenFiles": [
-    "Northern Conflicts of 105AF.md",
     "Prenotes May 07 24.md",
+    "Northern Conflicts of 105AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
