@@ -5,6 +5,10 @@
       "path": "Prenotes May 07 24.md"
     },
     {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md"
+    },
+    {
       "basename": "NewSarahouse Game",
       "path": "Game Notes/Campaign Rosters/NewSarahouse Game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Southeastern Central",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     }
   ],
   "omittedPaths": [],

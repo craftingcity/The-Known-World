@@ -35,12 +35,9 @@ They will first try to reason with the driver, and will inevitably fail, leading
 23 - Thomas
 22 - Bohdi
 19 - Marilynn
-8 - Green
-	A. 9, 
-	 ~~B. 8, 12~~
-	~~C. 12, 9~~
-	~~D. 9, 19~~
 6 - Eve
 2 - Rowan (x/x)
+
+Edgars is a chad-bro with a curled deep voice
 
 We leave our heroes on the date of ... AF, as they ...
