@@ -32,20 +32,15 @@ They will first try to reason with the driver, and will inevitably fail, leading
 
 ### What happened?
 
-23 - Thomas (x/)
+23 - Thomas
 22 - Bohdi
 19 - Marilynn
 8 - Green
-	A.
-	 dis B. 8, 12
-	C.
-	D. 9, 19
+	A. 9, 
+	 ~~B. 8, 12~~
+	~~C. 12, 9~~
+	~~D. 9, 19~~
 6 - Eve
-3 - Blue
-	A. 8
-	B. UNK
-	C. 10
-	~~D. 18~~
-2 - Rowan
+2 - Rowan (x/x)
 
 We leave our heroes on the date of ... AF, as they ...
