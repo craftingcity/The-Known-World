@@ -41,10 +41,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Vorpal Shoreline
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+
 
 ###### Space Bubbles
 > 'This is the physical description.'
@@ -52,7 +49,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Crystalized Vein
-> 'A thin structure of transparent light-blue crystal reminiscent of a humanoid.'
+> 'A thin structure of transparent light-blue crystal reminiscent of a humanoid limb's vein structure.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -411,11 +408,16 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
 ##### Electric
-< 0 common, 1 uncommon, 0 rare >
+< 0 common, 2 uncommon, 0 rare >
 ###### Duram Battery
 > 'A large white rock striped with gold inlays. It hums with potential.'
 > *Duram Battery* are a **uncommon** artifact, and incurs 2d4 (5) Radiation. 
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
+
+###### Vorpal Shoreline
+> 'A fine sheet of deep blue gemstone, which turns sharp and black at the edges. It does not allow you to touch it, moving with as much force as you supply.'
+> *Vorpal Shoreline* is a **uncommon** artifact, and incurs 4d6 (14) radiation.
+> A *Vorpal Shoreline* is a passive artifact with a triggered effect. When you fall prone involuntarily, you instead roll 2d8. The first d8 is direction, where 1 is north, and continuing. The second d8 is the number of 5ft spaces you teleport in that direction.
 
 ##### Fire
 < 1 common, 0 uncommon, 1 rare >
