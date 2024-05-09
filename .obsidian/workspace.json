@@ -51,6 +51,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Mechanics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":19},\"to\":{\"line\":14,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "APGtAv1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"APGtAv1.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1051.1653009415993}"
+                },
+                {
+                  "title": "The Artifacts...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":420,\"ch\":0},\"to\":{\"line\":420,\"ch\":0}},\"scroll\":423.91970031375746}"
+                },
+                {
                   "title": "Artifact Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Artifact Template.md\",\"mode\":\"source\",\"source\":true}}",
@@ -61,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,12 +175,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -187,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
               }
             }
           },
@@ -318,12 +336,14 @@
   },
   "active": "e577d4e661919f93",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Mechanics.md",
+    "APGtAv1.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Prenotes May 07 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Prenotes May 17 24.md",
     "Northern Conflicts of 105AF.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
@@ -345,8 +365,6 @@
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Prenotes May 03 24.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "MEDIA/SUPP/mountainhall.drawio",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
