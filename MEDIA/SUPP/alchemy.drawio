@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-09T04:34:20.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="FvjRBFWlvx0pmk-9W-uH" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-05-09T04:41:23.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="uNCqj9ldjxNzvzYabfir" version="24.2.5" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
     <mxGraphModel dx="733" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -223,166 +223,166 @@
         <mxCell id="GWsue6pcty8NE5yQGUCx-2" value="Minerals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="520" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-3" value="Agate&lt;div&gt;FABRIM / SPIRIT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-3" value="Agate (+1)&lt;div&gt;FABRIM / SPIRIT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-11" value="Amber&lt;div&gt;IMMUTE / DUNAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-11" value="Amber (+2)&lt;div&gt;&lt;div&gt;IMMUTE / DUNAM&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-12" value="Colored Crystal&lt;div&gt;ILLUSION / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-12" value="Colored Crystal (+1)&lt;div&gt;&lt;div&gt;ILLUSION / FORM&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-13" value="Clear Crystal&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-13" value="Clear Crystal (+1)&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-14" value="Diamond&lt;div&gt;WEIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-14" value="Diamond (+3)&lt;div&gt;WEIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-15" value="Ruby&lt;div&gt;FIRE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-15" value="Ruby (+2)&lt;div&gt;FIRE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-16" value="Sapphire&lt;div&gt;WATER / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-16" value="Sapphire (+2)&lt;div&gt;WATER / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-17" value="Emerald&lt;div&gt;EARTH / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-17" value="Emerald (+2)&lt;div&gt;EARTH / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-18" value="Amethyst&lt;div&gt;ABJURE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-18" value="Amethyst (+2)&lt;div&gt;ABJURE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-19" value="Glass&lt;div&gt;AIR / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-19" value="Glass (+1)&lt;div&gt;AIR / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-20" value="Onyx&lt;div&gt;LIGHT / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-20" value="Onyx (+1)&lt;div&gt;LIGHT / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-21" value="Jade&lt;div&gt;HEALING / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-21" value="Jade (+2)&lt;div&gt;HEALING / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-22" value="White Quartz&lt;div&gt;AIR / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-22" value="White Quartz (+1)&lt;div&gt;AIR / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-23" value="Rose Quartz&lt;div&gt;FIRE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-23" value="Rose Quartz (+1)&lt;div&gt;FIRE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-24" value="Durandurm&lt;div&gt;DUNAM / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-24" value="Durandurm (+3)&lt;div&gt;DUNAM / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-25" value="Adamentine&lt;div&gt;ABJURE / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-25" value="Adamentine (+3)&lt;div&gt;ABJURE / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-27" value="Alabaster&lt;div&gt;DESIST / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-27" value="Alabaster (+1)&lt;div&gt;DESIST / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-28" value="Copper&lt;div&gt;FABRIM / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-28" value="Copper (+1)&lt;div&gt;FABRIM / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-29" value="Gold&lt;div&gt;FABRIM / DUNAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-29" value="Gold (+3)&lt;div&gt;FABRIM / DUNAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-31" value="Iron&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-31" value="Iron (+1)&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-32" value="Silver&lt;div&gt;FABRIM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-32" value="Silver (+2)&lt;div&gt;FABRIM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-33" value="Lead&lt;div&gt;FABRIM / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-33" value="Lead (+1)&lt;div&gt;FABRIM / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-34" value="Bronze&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-34" value="Bronze (+1)&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-35" value="Pewter&lt;div&gt;BANE / EARTH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-35" value="Pewter (+1)&lt;div&gt;BANE / EARTH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-36" value="Tin&lt;div&gt;FABRIM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-36" value="Tin (+1)&lt;div&gt;FABRIM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-37" value="Platinum&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-37" value="Platinum (+2)&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-38" value="Mithril&lt;div&gt;FABRIM / IMMORT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-38" value="Mithril (+3)&lt;div&gt;FABRIM / IMMORT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-39" value="Mica&lt;div&gt;ILLUSION / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-39" value="Mica (+1)&lt;div&gt;ILLUSION / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-40" value="Marble&lt;div&gt;FORM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-40" value="Marble (+1)&lt;div&gt;FORM / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-41" value="Slate&lt;div&gt;IMMUTE / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-41" value="Slate (+1)&lt;div&gt;IMMUTE / ILLUSION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-42" value="&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;Granite&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;DESIST / WEIGHT&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;DesDESESD&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-42" value="&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;Granite&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(+1)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;DESIST / WEIGHT&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;DesDESESD&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-43" value="Sandstone&lt;div&gt;NECROT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-43" value="Sandstone (+1)&lt;div&gt;NECROT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-44" value="Limestone&lt;div&gt;EVOKE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-44" value="Limestone (+1)&lt;div&gt;EVOKE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-45" value="Alum&lt;div&gt;DEGEN / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-45" value="Alum (+1)&lt;div&gt;DEGEN / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-46" value="Chalk&lt;div&gt;EVOKE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-46" value="Chalk (+1)&lt;div&gt;EVOKE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-47" value="Coal&lt;div&gt;FIRE / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-47" value="Coal (+1)&lt;div&gt;FIRE / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-48" value="Charcoal&lt;div&gt;FIRE / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-48" value="Charcoal (+1)&lt;div&gt;FIRE / WEIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-49" value="Rich Soil&lt;div&gt;MORTAL / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-49" value="Rich Soil (+1)&lt;div&gt;MORTAL / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-50" value="Soil&lt;div&gt;EARTH / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-50" value="Soil (+1)&lt;div&gt;EARTH / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-51" value="Rock Salt&lt;div&gt;EARTH / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-51" value="Rock Salt (+1)&lt;div&gt;EARTH / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-52" value="Sea Salt&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-52" value="Sea Salt (+1)&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-53" value="Elemental Salt&lt;div&gt;ARCANA / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-53" value="Elemental Salt (+2)&lt;div&gt;ARCANA / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-54" value="Sulfur&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-54" value="Sulfur (+2)&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-55" value="Bitumen&lt;div&gt;FORM / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-55" value="Bitumen (+1)&lt;div&gt;FORM / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-56" value="Clay&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-56" value="Clay (+1)&lt;div&gt;FABRIM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-57" value="Mercury&lt;div&gt;POISON / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-57" value="Mercury (+2)&lt;div&gt;POISON / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-58" value="Wood Ash&lt;div&gt;IMMORT / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-58" value="Wood Ash (+1)&lt;div&gt;IMMORT / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-59" value="Bone Ash&lt;div&gt;MORTAL / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-59" value="Bone Ash (+1)&lt;div&gt;MORTAL / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="540" y="2900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-60" value="Water&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-60" value="Water (+1)&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="700" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-61" value="Distilled Water&lt;div&gt;WATER / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-61" value="Distilled Water (+1)&lt;div&gt;WATER / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="700" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-62" value="Holy Water&lt;div&gt;WATER / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-62" value="Holy Water (+2)&lt;div&gt;WATER / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="700" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-63" value="Crude Oil&lt;div&gt;FABRIM / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-63" value="Crude Oil (+1)&lt;div&gt;FABRIM / DISEASE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWsue6pcty8NE5yQGUCx-64" value="Liquids" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="680" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GWsue6pcty8NE5yQGUCx-65" value="Liquor&lt;div&gt;DEGEN / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="GWsue6pcty8NE5yQGUCx-65" value="Liquor (+2)&lt;div&gt;DEGEN / POISON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="700" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQiM3KuTNwNXRwti3ItK-1" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Alchemical Components are the ingredients and materials used in the process of creating an Alchemical Products. Each Component has a pair of Motifs - these influence the final product&#39;s effect.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;While many Motifs will enhance or at least fail to interact with others, there are some that will harm the potency of the final product or outright ruin it.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;perimeterSpacing=0;" parent="1" vertex="1">
@@ -643,110 +643,110 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qvHHYs44pA0pfnlJ-Z-R" name="Production Lines">
-    <mxGraphModel dx="2304" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gdt0zzH-tcD3_O3nn9vy-2" value="EVOKE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gdt0zzH-tcD3_O3nn9vy-2" value="EVOKE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="920" y="350" width="240" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="j9Xr7BRWaZ_rjHMlphcg-1" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;While many processes or specific recipies may be different between each Alchemist, the following diagrams display a simple process to create each Product&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="j9Xr7BRWaZ_rjHMlphcg-1" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;While many processes or specific recipies may be different between each Alchemist, the following diagrams display a simple process to create each Product&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iHLkblWl0iBVsMaYSikg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8XYGvjCrkeDIT14LNfXU-1" target="iHLkblWl0iBVsMaYSikg-1">
+        <mxCell id="iHLkblWl0iBVsMaYSikg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8XYGvjCrkeDIT14LNfXU-1" target="iHLkblWl0iBVsMaYSikg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XYGvjCrkeDIT14LNfXU-1" value="&lt;u&gt;&lt;b&gt;Philosopher&#39;s Stone (+8 ANY / ALL Potency)&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Solid Transmutation Material ~ 3,520,000sp / unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The greatest material enhancer an alchemist can own.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;When properly creating Red Water or Yellow Powder, the Philosopher&#39;s Stone is not consumed.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="8XYGvjCrkeDIT14LNfXU-1" value="&lt;u&gt;&lt;b&gt;Philosopher&#39;s Stone (+8 ANY / ALL Potency)&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Solid Transmutation Material ~ 3,520,000sp / unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The greatest material enhancer an alchemist can own.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;When properly creating Red Water or Yellow Powder, the Philosopher&#39;s Stone is not consumed.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="8XYGvjCrkeDIT14LNfXU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8XYGvjCrkeDIT14LNfXU-2" target="8XYGvjCrkeDIT14LNfXU-1">
+        <mxCell id="8XYGvjCrkeDIT14LNfXU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8XYGvjCrkeDIT14LNfXU-2" target="8XYGvjCrkeDIT14LNfXU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XYGvjCrkeDIT14LNfXU-2" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;The process of creating a Philosipher&#39;s Stone is legendary, and is not generally replicacable in a timely manner, and therefore has been excluded.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=#1A1A1A;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="8XYGvjCrkeDIT14LNfXU-2" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;The process of creating a Philosipher&#39;s Stone is legendary, and is not generally replicacable in a timely manner, and therefore has been excluded.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=#1A1A1A;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iHLkblWl0iBVsMaYSikg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5u77b9LUbtuVIoB4WJyx-1" target="iHLkblWl0iBVsMaYSikg-1">
+        <mxCell id="iHLkblWl0iBVsMaYSikg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5u77b9LUbtuVIoB4WJyx-1" target="iHLkblWl0iBVsMaYSikg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5u77b9LUbtuVIoB4WJyx-1" value="Water&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="5u77b9LUbtuVIoB4WJyx-1" value="Water&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4U2R_cxg9iuc4WTyO9R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHLkblWl0iBVsMaYSikg-1" target="f7aP3YC16yGkelC2Ym2e-1">
+        <mxCell id="z4U2R_cxg9iuc4WTyO9R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iHLkblWl0iBVsMaYSikg-1" target="f7aP3YC16yGkelC2Ym2e-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHLkblWl0iBVsMaYSikg-1" value="&lt;b&gt;&lt;u&gt;Red Water (+4 ANY / ALL Potency)&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Liquid Transmutation Material ~ 600sp / 1/16gal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The most potent liquid base in alchemy. Used as high-grade liquid base or as component in itself.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="iHLkblWl0iBVsMaYSikg-1" value="&lt;b&gt;&lt;u&gt;Red Water (+4 ANY / ALL Potency)&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Liquid Transmutation Material ~ 600sp / 1/16gal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The most potent liquid base in alchemy. Used as high-grade liquid base or as component in itself.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="560" y="360" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="f7aP3YC16yGkelC2Ym2e-1" value="&lt;b&gt;&lt;u&gt;Yellow Powder (+2 ANY / ALL Potency)&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Solid Transmutation Material ~ 150sp / ounce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The most potent solid base in alchemy. Used as high-grade solid base or as component in itself.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="f7aP3YC16yGkelC2Ym2e-1" value="&lt;b&gt;&lt;u&gt;Yellow Powder (+2 ANY / ALL Potency)&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Solid Transmutation Material ~ 150sp / ounce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;The most potent solid base in alchemy. Used as high-grade solid base or as component in itself.&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="z4U2R_cxg9iuc4WTyO9R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4U2R_cxg9iuc4WTyO9R-1" target="f7aP3YC16yGkelC2Ym2e-1">
+        <mxCell id="z4U2R_cxg9iuc4WTyO9R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z4U2R_cxg9iuc4WTyO9R-1" target="f7aP3YC16yGkelC2Ym2e-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4U2R_cxg9iuc4WTyO9R-1" value="Bone Ash&lt;div&gt;MORTAL / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="z4U2R_cxg9iuc4WTyO9R-1" value="Bone Ash&lt;div&gt;MORTAL / FIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2AgGYQ5ww4tuP2DNvMcF-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&quot;Purified&quot; Liquids&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="2AgGYQ5ww4tuP2DNvMcF-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&quot;Purified&quot; Liquids&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="920" y="40" width="720" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z-OZSb4JF-Cvq5JJ5Ws0-1" value="&lt;u&gt;&lt;b&gt;Liquid Light (+3 LIGHT / EVOKE)&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Liquid Enchantment Material ~ 7sp / 1/16 gal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;A &quot;purified&quot; elemental light in the form of a liquid. Brightness increases with potency and irritation.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z-OZSb4JF-Cvq5JJ5Ws0-1" value="&lt;u&gt;&lt;b&gt;Liquid Light (+3 LIGHT / EVOKE)&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Liquid Enchantment Material ~ 7sp / 1/16 gal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;A &quot;purified&quot; elemental light in the form of a liquid. Brightness increases with potency and irritation.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="1240" y="160" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HFLuQDSFov2FyAZZUiNv-2" value="LIGHT&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="HFLuQDSFov2FyAZZUiNv-2" value="LIGHT&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="920" y="160" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CrlIH_4SzaGFnn9dso4q-1" value="Glowshroom&lt;div&gt;LIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="CrlIH_4SzaGFnn9dso4q-1" value="Glowshroom&lt;div&gt;LIGHT / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="920" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFLuQDSFov2FyAZZUiNv-1" value="Brightmoss&lt;div&gt;LIGHT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="HFLuQDSFov2FyAZZUiNv-1" value="Brightmoss&lt;div&gt;LIGHT / REGEN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="1040" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7PEZpJlZm_VM0cRiZDTn-1" value="Generic Feather&lt;div&gt;WEIGHT / LIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="7PEZpJlZm_VM0cRiZDTn-1" value="Generic Feather&lt;div&gt;WEIGHT / LIGHT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="920" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7HHjnqQ9eVh4niORxl6G-1" value="Onyx&lt;div&gt;LIGHT / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="7HHjnqQ9eVh4niORxl6G-1" value="Onyx&lt;div&gt;LIGHT / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1040" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKloUCv7LbFhYfKP5Ezj-1" value="Alknet Pulp&lt;div&gt;&lt;div&gt;&lt;div&gt;EVOKE / RESIST&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="BKloUCv7LbFhYfKP5Ezj-1" value="Alknet Pulp&lt;div&gt;&lt;div&gt;&lt;div&gt;EVOKE / RESIST&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="920" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ucvppVM6y2ardY-sYi1P-1" value="Heartnut Twig&lt;div&gt;ABJURE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="ucvppVM6y2ardY-sYi1P-1" value="Heartnut Twig&lt;div&gt;ABJURE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="1040" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G19npzrigW7xZTck3M6P-1" value="Cactus Fruit&lt;div&gt;REGEN / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="G19npzrigW7xZTck3M6P-1" value="Cactus Fruit&lt;div&gt;REGEN / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="920" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Or1Zm3HNI7SfM2YPXPNR-1" value="Beholder Eye&lt;div&gt;ARCANA / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="Or1Zm3HNI7SfM2YPXPNR-1" value="Beholder Eye&lt;div&gt;ARCANA / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1040" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EA2CZbBYpGpoAmYeuyWF-1" value="Dragon Fang&lt;div&gt;DRACO / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="EA2CZbBYpGpoAmYeuyWF-1" value="Dragon Fang&lt;div&gt;DRACO / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="920" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rZ1x6Hv8Iu46PchYLRsF-1" value="Basalisk Gullet&lt;div&gt;NECROT / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="rZ1x6Hv8Iu46PchYLRsF-1" value="Basalisk Gullet&lt;div&gt;NECROT / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1040" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PYrcW6kPoxXOfc9lSSuq-1" value="Ivory&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="PYrcW6kPoxXOfc9lSSuq-1" value="Ivory&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="920" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="afWSGHfSIOU82BOqLXMr-1" value="Bat Guano&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="afWSGHfSIOU82BOqLXMr-1" value="Bat Guano&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1040" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3Ytc3l-dxBxGTaWWajN-1" value="Iron&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="B3Ytc3l-dxBxGTaWWajN-1" value="Iron&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="920" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S244-dkT842t5y36tjQJ-1" value="Platinum&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="S244-dkT842t5y36tjQJ-1" value="Platinum&lt;div&gt;FABRIM / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1040" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u8XKwhQ8BfWDntl9YDTi-1" value="Mica&lt;div&gt;ILLUSION / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="u8XKwhQ8BfWDntl9YDTi-1" value="Mica&lt;div&gt;ILLUSION / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="920" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tfMgWnwb38FoCDbJkMOX-1" value="Limestone&lt;div&gt;EVOKE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="tfMgWnwb38FoCDbJkMOX-1" value="Limestone&lt;div&gt;EVOKE / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1040" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tfMgWnwb38FoCDbJkMOX-2" value="Chalk&lt;div&gt;EVOKE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="tfMgWnwb38FoCDbJkMOX-2" value="Chalk&lt;div&gt;EVOKE / ARCANA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="920" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gdt0zzH-tcD3_O3nn9vy-1" value="Sulfur&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="gdt0zzH-tcD3_O3nn9vy-1" value="Sulfur&lt;div&gt;FIRE / EVOKE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1040" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
