@@ -52,12 +52,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Crystalized Vein
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
-###### ==Ruby Pyramid==
-> 'This is the physical description.'
+> 'A thin structure of transparent light-blue crystal reminiscent of a humanoid.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -361,13 +356,8 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### ==Bleeding Liver==
-> 'A thick nugget of red .'
-> *Bleeding Liver* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *Bleeding Liver* artifact is a passive artifact...
-
 ##### All
-< 3 common, 3 uncommon, 1 rare >
+< 3 common, 3 uncommon, 2 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
@@ -398,6 +388,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *Spiral Eye* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
 > A *Spiral Eye* is a passive artifact and provides a +3 bonus to your CHA score.
 
+###### Bleeding Liver
+> 'A thick nugget of red porous stone, slowly dripping a dark-red sticky liquid. '
+> *Bleeding Liver* is a **rare** artifact, and incurs 4d8 (18) radiation.
+> A *Bleeding Liver* is a passive artifact and provides 3 DR.
+
 ###### Jasper's Twin
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
 > *Jasper's Twin* are a **rare** artifact and incurs 4d12 (27) Radiation.
@@ -423,7 +418,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
 ##### Fire
-< 0 common, 0 uncommon, 1 rare >
+< 1 common, 0 uncommon, 1 rare >
+###### Ruby Pyramid
+> 'A light red ruby cut to a pyramidic shape. Deep within, the embers of a fire still glow.'
+> *Ruby Pyramid* is a **common** artifact, and incurs 2d8 (9) radiation.
+> A *Ruby Pyramid* is a passive artifact with one charge and a triggered effect. When you would next make a death saving throw, the charge is used, you regain 10d4hp, and you become conscious.
+
 ###### Fire-Heart Ruby
 > 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
 > *Fire-Heart Ruby* is a **rare** artifact, and incurs 2d8 (9) Radiation.
