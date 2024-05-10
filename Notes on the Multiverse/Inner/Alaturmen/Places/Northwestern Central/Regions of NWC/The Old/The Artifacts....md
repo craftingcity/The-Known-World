@@ -25,9 +25,9 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ### Known and Named Artifacts
 ###### Artyom's Skin
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
+> 'A small curve of yellow amber. It tingles with warmth.'
+> *Artyom's Skin* is a **uncommon** artifact, and incurs 3d10 (17) radiation.
+> A *Artyom's Skin* hold up to 4 charges. As an action, you may spend a charge. When you do, target creature within 45ft of you must succeed on a DC 17 Constitution Saving Throw or be knocked Prone and take 4d10 psychic damage
 
 ###### Palm of Glass
 > 'This is the physical description.'
