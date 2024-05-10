@@ -24,15 +24,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
-###### Bloody Dunes
-> 'A smooth looking red ruby, it is cold to the touch, and in fact quite textured with high ripples and low .'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
 
-###### Space Bubbles
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
 
 ###### Crystalized Vein
 > 'A thin structure of transparent light-blue crystal reminiscent of a humanoid limb's vein structure.'
@@ -372,7 +364,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Spiral Eye* is a passive artifact and provides a +3 bonus to your CHA score.
 
 ###### Bleeding Liver
-> 'A thick nugget of red porous stone, slowly dripping a dark-red sticky liquid. '
+> 'A plane of small bright-red marbles that bends and flexes as one continuous sheet. It feels wet and slick.'
 > *Bleeding Liver* is a **rare** artifact, and incurs 4d8 (18) radiation.
 > A *Bleeding Liver* is a passive artifact and provides 3 DR.
 
@@ -382,7 +374,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ##### Acid
-< 0 common, 0 uncommon, 2 rare >
+< 0 common, 0 uncommon, 3 rare >
 ###### Emerald Liver
 > 'A thick chunk of beautifully clear emerald.'
 > *Emerald Liver* are a **rare** artifact. 
@@ -393,12 +385,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *Crystal Knee* are a **rare** artifact, and incurs 4d12 (27) Radiation.
 > A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
+###### Bloody Dunes
+> 'A smooth looking red ruby, it is cold to the touch, and in fact quite textured with high ripples and low valleys across the entire stone. It seems to become a deeper red with every moment you look at it.'
+> *Bloody Dunes* is a **rare** artifact, and incurs 5d8 (22) radiation.
+> A *Bloody Dunes* is a passive artifact, and holds up to 7 charges. When you deal a total of 35 or more damage during a turn, this artifact gains a charge at the end of that turn. When you deal damage on your turn, you may spend any number of charges to re-roll that number of damage die. You may not activate this ability more than once in a turn.
+
 ##### Electric
 < 0 common, 2 uncommon, 0 rare >
 ###### Duram Battery
 > 'A large white rock striped with gold inlays. It hums with potential.'
 > *Duram Battery* are a **uncommon** artifact, and incurs 2d4 (5) Radiation. 
-> A *Duram Battery* holds up to five charges, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
+> A *Duram Battery* holds up to five charges, and as an action, you may spend a charge to recharge one charge of a manufactured spell-gem, any other artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
 ###### Vorpal Shoreline
 > 'A fine sheet of deep blue gemstone, which turns sharp and black at the edges. It does not allow you to touch it, moving with as much force as you supply.'
@@ -418,7 +415,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
 
 ##### Force
-< 1 common, 1 uncommon, 2 rare >
+< 1 common, 2 uncommon, 2 rare >
 ###### Small World
 > 'A sphere of swirling green, blue, and brown glass. It is etched with a switching web of dark strips and bumps.'
 > *Small World* is a **common** artifact, and incurs 2d12 (13) radiation.
@@ -428,6 +425,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'A fist-sized sphere of light pink glass, where a small amount of purple gas slowly bubbles and conglomerates towards the bottom of the sphere. As you hold it in your hand, you can swear you just heard it whisper something to you.'
 > *Glass Dreams* is a **uncommon** artifact, and incurs 3d6 (10) radiation.
 > A *Glass Dreams* is a passive artifact and provides Advantage on Saving Throws against effects that Charm, Fear, or Confuse.
+
+###### Space Bubbles
+> 'A small structure of clear marbles connected by spiney black veins. It bears an uncanny resemblance to a branch of grapes or berries, and you must consciously prevent yourself from attempting to consume a bubble.'
+> *Space Bubbles* is a **uncommon** artifact, and incurs 4d4 (10) radiation.
+> A *Space Bubbles* holds up to 6 charges. As an action, you may spend a charge to immediately surround yourself in a small personal bubble until the beginning of your next turn. While you are surrounded by your bubble, you are Restrained, and you cannot be the target of and have invulnerability to attacks or effects that originate from outside the bubble.
 
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
