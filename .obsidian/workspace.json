@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78cdb70702c24cd0",
+        "id": "ae3de7f1021be511",
         "type": "tabs",
         "children": [
           {
-            "id": "85f35e953ed7b198",
+            "id": "3fccd2ed40d9b905",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,28 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The Artifacts...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Artifact Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Artifact Template.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -160,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
-              }
+              "state": {}
             }
           },
           {
@@ -289,8 +269,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85f35e953ed7b198",
+  "active": "3fccd2ed40d9b905",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "MEDIA/SUPP/SPREADS/battlemat.ods",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "Game Notes/Mechanics/Mechanics.md",
@@ -319,7 +301,6 @@
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "MEDIA/SUPP/mountainhall.drawio",
     "MEDIA/SUPP/alatermenianStructures.drawio",
     "MEDIA/SUPP/SPREADS/radiation.ods",
@@ -335,7 +316,6 @@
     "MEDIA/SUPP/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/RomeoQuestTimeline.drawio",
-    "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio",
-    "MEDIA/SUPP/Minyostalma.drawio"
+    "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio"
   ]
 }
