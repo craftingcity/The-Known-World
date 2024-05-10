@@ -24,24 +24,10 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
-
-
-###### Small World
-> 'A sphere of swirling green, blue, and brown glass.'
-> *Small World* is a **common** artifact, and incurs xdX (y) radiation.
-> A *Small World* artifact has this effect...
-
-###### Glass Dreams
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ###### Bloody Dunes
-> 'This is the physical description.'
+> 'A smooth looking red ruby, it is cold to the touch, and in fact quite textured with high ripples and low .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
-
-
 
 ###### Space Bubbles
 > 'This is the physical description.'
@@ -432,7 +418,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
 
 ##### Force
-< 0 common, 0 uncommon, 2 rare >
+< 1 common, 1 uncommon, 2 rare >
+###### Small World
+> 'A sphere of swirling green, blue, and brown glass. It is etched with a switching web of dark strips and bumps.'
+> *Small World* is a **common** artifact, and incurs 2d12 (13) radiation.
+> A *Small World* is a passive artifact with one charge and a triggered effect. When you are next the target of an attack, the charge is used, and your AC increases by 8.
+
+###### Glass Dreams
+> 'A fist-sized sphere of light pink glass, where a small amount of purple gas slowly bubbles and conglomerates towards the bottom of the sphere. As you hold it in your hand, you can swear you just heard it whisper something to you.'
+> *Glass Dreams* is a **uncommon** artifact, and incurs 3d6 (10) radiation.
+> A *Glass Dreams* is a passive artifact and provides Advantage on Saving Throws against effects that Charm, Fear, or Confuse.
+
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
 > *Space-Jolt Diamond* are a **rare** artifact and incurs 3d6 (11) Radiation. 
