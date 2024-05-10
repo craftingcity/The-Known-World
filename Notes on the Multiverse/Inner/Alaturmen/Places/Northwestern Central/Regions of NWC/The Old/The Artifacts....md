@@ -24,13 +24,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
-
-
-###### Crystalized Vein
-> 'A thin structure of transparent light-blue crystal reminiscent of a humanoid limb's vein structure.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ###### Artyom's Skin
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
@@ -332,7 +325,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ##### All
-< 3 common, 3 uncommon, 2 rare >
+< 3 common, 4 uncommon, 2 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
 > *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
@@ -347,6 +340,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'A glass cylinder chipped and cut in such a way that it vaguely resembles a humanoid thumb. As you hold it, you can feel a slow dull pulse, as if it was still being pumped with blood.'
 > *Glass Thumb* are a **common** artifact that incurs 1d8 (4) radiation.
 > A *Glass Thumb* is a passive artifact, and provides a +1 to your Attack Rolls and -1 to your Armor Class.
+
+###### Crystalized Vein
+> 'A thin structure of transparent light-blue crystal reminiscent of a humanoid limb's vein structure.'
+> *Crystalized Vein* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
+> A *Crystalized Vein* is a passive artifact and provides a +3 bonus to your STR score.
 
 ###### Inspiring Heart
 > 'A chunky round stone of shimmering silver. It slowly pulses, slowly lining up with your heartbeat.'
