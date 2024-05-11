@@ -1,12 +1,9 @@
-<mxfile host="Electron" modified="2024-05-11T03:42:47.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="rGMw7dBE-O1Idp4SK2ea" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-05-11T03:44:53.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9YKbUSNLOQN7jMSEGjaR" version="24.2.5" type="device" pages="3">
   <diagram name="Components" id="YAAo5U81LOoGoC2ZfF5d">
     <mxGraphModel dx="696" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-1" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;Water&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="880" y="40" width="240" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="ClbpXUDGMXj9jLXGlXEX-1" value="Flora" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="200" width="160" height="80" as="geometry" />
         </mxCell>
@@ -391,24 +388,6 @@
         <mxCell id="TQiM3KuTNwNXRwti3ItK-1" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Alchemical Components are the ingredients and materials used in the process of creating an Alchemical Products. Each Component has a pair of Motifs - these influence the final product&#39;s effect.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;While many Motifs will enhance or at least fail to interact with others, there are some that will harm the potency of the final product or outright ruin it.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-5" value="Polypore (+2) (red/yellow/blue)&lt;br&gt;ARCANA / ELEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="880" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-6" value="Sapphire (+2)&lt;div&gt;WATER / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-7" value="Elemental Salt (+2)&lt;div&gt;ELEM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-8" value="Water (+1)&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-9" value="Distilled Water (+1)&lt;div&gt;WATER / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="74qjJH7l9qBYAAKUFjgP-10" value="Holy Water (+2)&lt;div&gt;WATER / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="74qjJH7l9qBYAAKUFjgP-11" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;Air&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="880" y="320" width="240" height="160" as="geometry" />
         </mxCell>
@@ -420,6 +399,30 @@
         </mxCell>
         <mxCell id="74qjJH7l9qBYAAKUFjgP-14" value="Elemental Salt (+2)&lt;div&gt;ELEM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="880" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="40" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-1" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;Water&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-5" value="Polypore (+2) (red/yellow/blue)&lt;br&gt;ARCANA / ELEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-6" value="Sapphire (+2)&lt;div&gt;WATER / FABRIM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-7" value="Elemental Salt (+2)&lt;div&gt;ELEM / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-8" value="Water (+1)&lt;div&gt;WATER / FORM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-9" value="Distilled Water (+1)&lt;div&gt;WATER / DESIST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74qjJH7l9qBYAAKUFjgP-10" value="Holy Water (+2)&lt;div&gt;WATER / DIVINE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="74qjJH7l9qBYAAKUFjgP-15">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
