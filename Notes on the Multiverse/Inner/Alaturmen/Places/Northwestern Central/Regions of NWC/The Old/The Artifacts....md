@@ -24,8 +24,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
-
-
 ###### Palm of Glass
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
