@@ -24,10 +24,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 | 8    | The character spots two artifacts, roll again. If rolled again, it is common. |
 
 ### Known and Named Artifacts
-###### Artyom's Skin
-> 'A small curve of yellow amber. It tingles with warmth.'
-> *Artyom's Skin* is a **uncommon** artifact, and incurs 3d10 (17) radiation.
-> A *Artyom's Skin* hold up to 4 charges. As an action, you may spend a charge. When you do, target creature within 45ft of you must succeed on a DC 17 Constitution Saving Throw or be knocked Prone and take 4d10 psychic damage
+
 
 ###### Palm of Glass
 > 'This is the physical description.'
@@ -413,7 +410,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
 
 ##### Force
-< 1 common, 2 uncommon, 2 rare >
+< 1 common, 3 uncommon, 2 rare >
 ###### Small World
 > 'A sphere of swirling green, blue, and brown glass. It is etched with a switching web of dark strips and bumps.'
 > *Small World* is a **common** artifact, and incurs 2d12 (13) radiation.
@@ -428,6 +425,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'A small structure of clear marbles connected by spiney black veins. It bears an uncanny resemblance to a branch of grapes or berries, and you must consciously prevent yourself from attempting to consume a bubble.'
 > *Space Bubbles* is a **uncommon** artifact, and incurs 4d4 (10) radiation.
 > A *Space Bubbles* holds up to 6 charges. As an action, you may spend a charge to immediately surround yourself in a small personal bubble until the beginning of your next turn. While you are surrounded by your bubble, you are Restrained, and you cannot be the target of and have invulnerability to attacks or effects that originate from outside the bubble.
+
+###### Artyom's Skin
+> 'A small curve of yellow amber. It tingles with warmth.'
+> *Artyom's Skin* is a **uncommon** artifact, and incurs 3d10 (17) radiation.
+> A *Artyom's Skin* hold up to 4 charges. As an action, you may spend a charge. When you do, target creature within 45ft of you must succeed on a DC 17 Constitution Saving Throw or be knocked Prone and take 4d10 psychic damage on a failed save, or half damage on a successful one.
 
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
