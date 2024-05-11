@@ -13,5 +13,9 @@ The following is a list of inducted Saints in chronological order...
 
 #### Saint [[Mateus Fyrren]] of [[Yerba]]
 #### Saint [[Susan Arraine]] of [[Tegri]]
+##### Ordered Saint of 
+
+#### Saint [[Moses the Brave]] of [[Wychway]]
+##### Ordered Saint of Brave Flame, 105
 
 
