@@ -5,6 +5,7 @@ aliases:
 ---
 # Janice Austra
 ## Hero of [[Janesland]]
+## First Saint of the [[Order of Arthurian Saints]]
 ### she/her
 
 > Boxtext for an action, outfit, and a physical trait.

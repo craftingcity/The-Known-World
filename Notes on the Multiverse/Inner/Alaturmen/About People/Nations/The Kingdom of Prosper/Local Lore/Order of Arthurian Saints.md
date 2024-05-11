@@ -11,11 +11,13 @@ Generally, when people do not become a member of a chapter of [[Arthur's Knights
 
 The following is a list of inducted Saints in chronological order...
 
+#### Saint [[Janice Austra]] of [[Janesland]]
+##### Ordered Saint of Honor and Conduct, 56AF
 #### Saint [[Mateus Fyrren]] of [[Yerba]]
+##### Ordered Saint of Sheathed Sword, 61AF
 #### Saint [[Susan Arraine]] of [[Tegri]]
-##### Ordered Saint of 
-
+##### Ordered Saint of Bountiful Growth, 73AF
 #### Saint [[Moses the Brave]] of [[Wychway]]
-##### Ordered Saint of Brave Flame, 105
+##### Ordered Saint of Brave Flame, 105AF
 
 
