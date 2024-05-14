@@ -122,6 +122,13 @@ A breach in the massive wall around Minyostalma has been reinforced by raw sharp
 #### The Trap Town
 A small village rests in a quiet still against the north-eastern portion of the military's wall. To an uneducated Scav, this place would seem to be an unoccupied and unclaimed bounty of scrap to be had - but they are distinctly wrong. 
 
+Under the surface of this town, in the basements and bunkers, a relatively safe "city" flourishes. The majority of the occupants of the city are independent Scavs or members of the Extramis Chapter, and can navigate through and out of the kill-field on the surface.
+
+While on the surface, a creature entering or exiting the Town or a specific building in Town must make a DC 19 Perception Check to detect any of the traps in Town;
+	- Hanging Beam; 18 DEX Save, 4d10+15 bludg.
+	- Foot Noose; 21 Sleight of Hand to escape, 1d6 bludg. on 10ft fall.
+	- Spikepit; 19 DEX Save, 2d10+5 piercing & 18 CON Save 4d6+20 poison or half.
+
 #### The Logging Camp
 East of the [[#The Rookie Checkpoint]], the Logging Camp is the main entrance to [[#The Sticks]] from the West.
 
