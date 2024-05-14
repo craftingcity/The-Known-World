@@ -87,9 +87,12 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Ammunition
 #### SCAVANGED / REFIT
-| Name                                  | Type  | Dam. | Cost in AC |
-| ------------------------------------- | ----- | ---- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer | Force |      |            |
+| Name                                     | Type  | Dam. | Cost in AC |
+| ---------------------------------------- | ----- | ---- | ---------- |
+| Refit Durandurm Magazine, Wild Tracer    | Force |      |            |
+| Refit Durandurm Magazine, High Explosive |       |      |            |
+| Refit Durandurm Magazine, Blessed        |       |      |            |
+|                                          |       |      |            |
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC |
@@ -114,10 +117,12 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |       |            |
 
 #### ARTIFACTS STORAGE
-| Name                 | Type    | Reduction | Space   | Cost in AC |
-| -------------------- | ------- | --------- | ------- | ---------- |
-| Simple Anti-Rad Box  | lockbox | 8 RadRed  | 1x Arti | 1.0        |
-| Blessed Anti-Rad Box | lockbox | 24 RadRed | 1x Arti | 3.2        | 
+| Name                  | Type    | Reduction | Space   | Cost in AC |
+| --------------------- | ------- | --------- | ------- | ---------- |
+| Simple Anti-Rad Box   | lockbox | 8 RadRed  | 1x Arti | 1.0        |
+| Blessed Anti-Rad Box  | lockbox | 24 RadRed | 1x Arti | 3.2        |
+| Advanced Anti-Rad Box | lockbox | 36 RadRed | 1x Arti | 5.4        |
+| Fallen Anti-Rad Box   | lockbox | 99 RadRed |         |            |
 
 ### Commodities
 #### DRUGS / ALCH

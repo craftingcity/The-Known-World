@@ -2,8 +2,6 @@
 Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
 
 ## The Cordon
-This region of the Old is known as the Cordon. [[#White-Flame Militants]] hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
-
 #### The Western Entrance
 The Western Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Western Entrance are exclusively to prevent unidentified persons from exiting the Old.
 
@@ -47,8 +45,6 @@ South-east of [[#The Depot]], a single rusting metal watch-tower serves as looko
 
 
 ## The Haven
-A welcoming Seeker holding that is in conflict with the nearby Militants at [[#The Cordon]] and the hostile Scavs and Mercenaries that operate in and nearby [[#The Factory]].
-
 #### The Northern Entrance
 The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
@@ -109,14 +105,14 @@ In the south-eastern most corner of [[#The Haven]], a two-story tower marks the 
 
 A man who goes by the name "Forester" lives in and defends the tower against the few threats that make their way north-west from [[#The Factory]] or [[#The Sticks]].
 
-## The Sticks
-A safezone in the middle of a well crafted maze of traps and hazards. 
 
+
+## The Sticks
 #### The Eastern Breach 
 A breach in the massive wall around Minyostalma has been reinforced by raw sharp metals and clearly has been dug out to provide headroom as one travels through the breach and immediately into [[#The Trap Town]].
 
 #### The Dark Bonfire (1d6 RADS)
-West of [[#The Trenches]] and North of the [[#The Logging Camp]], 
+West of [[#The Trenches]] and North of the [[#The Logging Camp]], a thin patch of pine woods surrounds a clearing. In this clearing, a circular portion of the ground dips into a stone divot. The stone circle in this clearing supports an anomalous fire, a dark purple core licking out into sharp grey tips of painful flame (necrotic & fire).
 
 #### The Trenches
 West of [[#The Trap Town]], a network of shallow and narrow ravines give this location it's name, and it is the site of a number of prolonged and brutal firefights between Scavs of the Sticks and the Haven, and mobile forces from the White Flame Military, the Trenches has sustained severe damage.
@@ -157,8 +153,6 @@ East of [[#The Forest Gate]] and South of [[#The Dangerous Ruins (1d6 RADS)]], t
 
 
 ## The Factory
-The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
-
 #### The Showroom
 
 #### The Arcane Chambers (3d6 RADS)
@@ -225,8 +219,6 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 
 
 ## The Temple
-The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
-
 #### The Open Cloister (3d6 RADS)
 
 #### The North Gate (3d6 RADS)
@@ -250,8 +242,6 @@ The urban center of Minyostalma, and one of the largest surviving structures in 
 
 
 ## The Base
-The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
-
 #### The Importing Pallets (1d6 RADS)
 Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
 
@@ -279,8 +269,6 @@ Entering the building and heading West, [[#The Importing Pallets]] await the uns
 
 
 ## The Shipyard
-A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
-
 #### The Southern Entrance (1d6 RADS)
 
 #### The Thicket (1d6 RADS)
