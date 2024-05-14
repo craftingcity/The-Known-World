@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-14T05:22:11.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="2bJCRKgPvngcxn6Pi4vc" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-14T05:22:19.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_un_F5XvwONs8l3y1F5n" version="24.4.0" type="device" pages="2">
   <diagram name="NodeMap" id="ZseYCfr6xAdIwP1NUaYy">
     <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -483,6 +483,14 @@
         <mxCell id="k5EalT-84JXe36mMSfdT-165" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Materials Yard&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#663300;" parent="1" vertex="1">
           <mxGeometry x="703" y="905" width="54" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FKKMfnLrwSB6-hfz5STz" name="Page-2">
+    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

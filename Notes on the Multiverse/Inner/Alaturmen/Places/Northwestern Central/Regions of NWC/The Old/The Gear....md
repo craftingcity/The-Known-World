@@ -166,14 +166,26 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Food
 #### LOCAL CUISINE
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                    | Type  | Desc. | Cost in AC |
+| ----------------------- | ----- | ----- | ---------- |
+| Grilled Cancer          | irra. |       |            |
+| Grilled Demon           | irra. |       |            |
+| Grilled Jumper          | irra. |       |            |
+| Grilled Mass            | irra. |       |            |
+| Grilled Warper          | irra. |       |            |
+| Purified Cancer Stew    | pure  |       |            |
+| Purified Demon Flank    | pure  |       |            |
+| Purified Jumper Flank   | pure  |       |            |
+| Purified Mass Stew      | pure  |       |            |
+| Purified Warper Flank   | pure  |       |            |
+| Parcaes (Canned Meat)   | pres. |       |            |
+| Parquea (Canned Veggie) | pres. |       |            |
+| Polmat (Corn Snack)     | pres. |       |            |
 
 #### IMPORT CUISINE
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name | Importer | Type | Desc. | Cost in AC |
+| ---- | -------- | ---- | ----- | ---------- |
+| x    | x        |      |       |            |
 
 #### SPICES
 | Name | Type | Desc. | Cost in AC |
