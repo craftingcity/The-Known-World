@@ -156,47 +156,51 @@ East of [[#The Forest Gate]] and South of [[#The Dangerous Ruins (1d6 RADS)]], t
 #### The Showroom
 As the major entrance from [[#Broken Swamps]], the Showroom is a major killing-field for those who currently occupy the high-ground in the Factory.
 
-The Showroom itself is wrapped in scaffolds, where one can navigate through the upper levels of the Factory, and in the central space, a large dais hosts a pile of rubble and trash.
+The Showroom itself is wrapped in scaffolds, where one can navigate through the upper levels of the Factory, and in the central space, a large dais hosts a pile of rubble and trash. Heading through the halls and rooms, one arrives in [[#The Loading Bay]].
 
 The Showroom is a Ground Level with access to the Basement at [[#The Arcane Chambers (3d6 RADS)]] and the Upper at [[#The Office]].
 
 #### The Arcane Chambers (3d6 RADS)
-West of [[#The Cellars]], the Arcane Chambers are a series of large rooms in which various arcinscriptions, waste, and evidence of occupation
+West of [[#The Cellars]], the Arcane Chambers are a series of large rooms in which various arcane inscriptions, human waste, and evidence of occupation. This is the major barracks within the Factory for those without Radiation Detection.
 
 The Arcane Chambers is a Basement Level with access to the Ground at [[#The Showroom]].
 
 #### The Cellars
-East of the [[#The Arcane Chambers (3d6 RADS)]]
+East of the [[#The Arcane Chambers (3d6 RADS)]], the Cellars acted as a storage area for the Factory above, but having fallen into a rough cacophony of debris and corridors, the Cellars are now a dangerous hotspot for firefights.
+
+At the end of the Cellars, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Mess Hall (1d6 RADS)]]'s cellar storage area.
 
 The Cellars is a Basement Level with access to the Ground at [[#The Storage Tanks]].
 
 #### The Rafters
-Connecting the Upper Levels of the Factory, the Rafters are the primary holding position of the occupants of the Factory due to it's high-ground advantage.
+Connecting the Upper Levels of the Factory, the Rafters are the primary holding position of the occupants of the Factory due to its high-ground advantage.
 
 The Rafters is a Upper Level with access to the Ground at [[#The Storage Tanks]], [[#The Loading Bay]], [[#The Pallets]], and [[#The Stamping Line]].
 
 #### The Storage Tanks
+East of [[#The Showroom]], the Storage Tanks once were used to hold some liquid for the processes of this Factory, but now it acts as a middle-ground between the other Ground level areas.
+
+The three large round tanks are the defining feature in this area, reaching from the Basement to the Upper Levels, a good cover or a tremendous maneuvering challenge.
 
 The Storage Tanks is a Ground Level, with access to the Basement at [[#The Cellars]] and the Upper at [[#The Rafters]].
 
 #### The Office
+East of [[#The Rafters]], the Office is a section of the Upper level that has been heavily reinforced, and acts as the most favorable base-of-operations within the Factory. No historical artifacts can be found here, as anything the ancients left behind has been gathered and lost, leaving the room to bend to its occupants will.
 
 The Office is a Upper Level with access to the Ground at [[#The Showroom]].
 
 #### The Loading Bay
-As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory.
+As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory. A series of halls and rooms for break lead north, towards [[#The Showroom]].
 
-
-
-The Loading Bay is a Ground Level.
+The Loading Bay is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Pallets
 
-The Pallets is a Ground Level.
+The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Stamping Line
 
-The Stamping Line is a Ground Level.
+The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]].
 
 
 
