@@ -115,7 +115,7 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 #### The Eastern Breach 
 A breach in the massive wall around Minyostalma has been reinforced by raw sharp metals and clearly has been dug out to provide headroom as one travels through the breach and immediately into [[#The Trap Town]].
 
-#### The Dark Bonfire
+#### The Dark Bonfire (1d6 RADS)
 
 #### The Trenches
 
@@ -140,11 +140,11 @@ A large storehouse keeps bundles of logs and a large metal cart used for logging
 East of [[#The Logging Camp]], a large open field separates the major locations of [[#The Sticks]], and gives the area it's name. This open field is littered with natural spike pits that have been hidden by the residents of [[#The Trap Town]] or revealed by unlucky travelers.
 	- Spikepit; 19 DEX Save, 2d10+5 piercing & 18 CON Save 4d6+20 poison or half.
 
-#### The Dangerous Ruins
+#### The Dangerous Ruins (1d6 RADS)
 South of [[#The Trap Town]] and East of [[#The Spike Fields]], a construction site has clearly been ravaged by looters and firefights that have occurred there. Its rubble provides good cover, and much of the scaffolding surrounding the half-built structure remains accessible, leading to high-ground shooting positions upon the roof of the building.
 
-#### The Pond
-
+#### The Pond (1d6 RADS)
+South of [[#The Logging Camp]], a large pond stands still, surrounded by thick forest. The water of the Pond is 
 #### The Forest Gate
 
 #### The Outlook
@@ -157,7 +157,7 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 
 #### The Showroom
 
-#### The Arcane Chambers
+#### The Arcane Chambers (3d6 RADS)
 
 #### The Cellars
 
@@ -177,45 +177,45 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 
 
 ## The City
-#### The Offices, North
+#### The Offices, North (2d6 RADS)
 
-#### The Arched Road
+#### The Arched Road (2d6 RADS)
 
-#### The Construction Site
+#### The Construction Site (2d6 RADS)
 
-#### The Offices, South
+#### The Offices, South (2d6 RADS)
 
-#### The Fountain Park
+#### The Fountain Park (3d6 RADS)
 
-#### The Mall
+#### The Mall (2d6 RADS)
 
-#### The Apartments, West
+#### The Apartments, West (2d6 RADS)
 
-#### The Apartments, East
+#### The Apartments, East (2d6 RADS)
 
-#### The Hospital
+#### The Hospital (2d6 RADS)
 
 
 
 
 ## The Village
-#### The Hovels
+#### The Hovels (2d6 RADS)
 
-#### The Homes
+#### The Homes (2d6 RADS)
 
-#### The Villas
+#### The Villas (2d6 RADS)
 
-#### The Fields
+#### The Fields (2d6 RADS)
 
-#### The Market
+#### The Market (2d6 RADS)
 
-#### The Outskirts, North
+#### The Outskirts, North (1d6 RADS)
 
-#### The Windmill
+#### The Windmill (2d6 RADS)
 
-#### The Empty Fences
+#### The Empty Fences (2d6 RADS)
 
-#### The Outskirts, South
+#### The Outskirts, South (1d6 RADS)
 
 
 
@@ -223,23 +223,23 @@ The beginnings of a booming industry expansion are left half-finished and now-ra
 ## The Temple
 The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
 
-#### The Open Cloister
+#### The Open Cloister (3d6 RADS)
 
-#### The North Gate
+#### The North Gate (3d6 RADS)
 
-#### The Broken Tower
+#### The Broken Tower (3d6 RADS)
 
-#### The Graveyard
+#### The Graveyard (4d6 RADS)
 
-#### The Temple Proper
+#### The Temple Proper (5d6 RADS)
 
-#### The Temple Garden
+#### The Temple Garden (3d6 RADS)
 
-#### The Dormitories
+#### The Dormitories (3d6 RADS)
 
-#### The South Gate
+#### The South Gate (3d6 RADS)
 
-#### The Stable Tower
+#### The Stable Tower (3d6 RADS)
 
 
 
@@ -248,27 +248,27 @@ The urban center of Minyostalma, and one of the largest surviving structures in 
 ## The Base
 The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
 
-#### The Importing Pallets
+#### The Importing Pallets (1d6 RADS)
 Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
 
-#### The Front Gate
+#### The Front Gate (2d6 RADS)
 The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn and fountain makes for a beautiful scene in the front of the brutalist military compound.
 
 Entering the building and heading West, [[#The Importing Pallets]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall]].
 
-#### The Mess Hall
+#### The Mess Hall (1d6 RADS)
 
-#### The Broken Gate
+#### The Broken Gate (1d6 RADS)
 
-#### The Intelligence Center
+#### The Intelligence Center (1d6 RADS)
 
-#### The Armory
+#### The Armory (1d6 RADS)
 
-#### The Infirmary
+#### The Infirmary (1d6 RADS)
 
-#### The Old Barracks
+#### The Old Barracks (1d6 RADS)
 
-#### The Hangars
+#### The Hangars (1d6 RADS)
 
 
 
@@ -277,25 +277,25 @@ Entering the building and heading West, [[#The Importing Pallets]] await the uns
 ## The Shipyard
 A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
 
-#### The Southern Entrance
+#### The Southern Entrance (1d6 RADS)
 
-#### The Thicket
+#### The Thicket (1d6 RADS)
 
-#### The Materials Yard
+#### The Materials Yard (1d6 RADS)
 
-#### The Cranes
+#### The Cranes (1d6 RADS)
 
-#### The Deep Scar
+#### The Deep Scar (1d6 RADS)
 
-#### The Overwatch Tower
+#### The Overwatch Tower (1d6 RADS)
 
 #### The Ship
 
-#### The Keep
+#### The Keep (1d6 RADS)
 
-#### The Dugout
+#### The Dugout (1d6 RADS)
 
-#### The Wall Games
+#### The Wall Games (1d6 RADS)
 
 
 
