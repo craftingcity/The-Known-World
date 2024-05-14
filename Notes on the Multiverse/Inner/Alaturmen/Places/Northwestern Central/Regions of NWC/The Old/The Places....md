@@ -113,12 +113,14 @@ A man who goes by the name "Forester" lives in and defends the tower against the
 A safezone in the middle of a well crafted maze of traps and hazards. 
 
 #### The Eastern Breach 
+A breach in the massive wall around Minyostalma has been reinforced by raw sharp metals and clearly has been dug out to provide headroom as one travels through the breach and immediately into [[#The Trap Town]].
 
-#### The Dark Bondfire
+#### The Dark Bonfire
 
 #### The Trenches
 
 #### The Trap Town
+A small village rests in a quiet still against the north-eastern portion of the military's wall. To an uneducated Scav, this place would seem to be an unoccupied and unclaimed bounty of scrap to be had - but they are distinctly wrong. 
 
 #### The Logging Camp
 East of the [[#The Rookie Checkpoint]], the Logging Camp is the main entrance to [[#The Sticks]] from the West.
