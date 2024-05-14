@@ -27,15 +27,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Magazine Belt Feeder                | upg       | 12x mag cap         | n/a       | all                  | 5.6        |
 
 #### IMPORTED / FORGED
-| Name                        | Type      | Dam.                 | Ammo      | Importers | Cost in AC |
-| --------------------------- | --------- | -------------------- | --------- | --------- | ---------- |
-| Handblaster                 | dunam     | 1d6+DEX              | durandurm | all       | 0.3        |
-| Repeating Blaster / Carbine | dunam     | 3d6+DEX              | durandurm | all       | 0.75       |
-| Machine Repeater            | dunam     | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
-| Pineapple Grenade           | explosive | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
-| Fire Grenade                | fire      | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
-| Shoebox Anti-Personnel Mine | explosive | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
-| Hillsight Shaped Mine       | explosive | 10ft cone, 4d10+25   | n/a       | all       |            |
+| Name                        | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
+| --------------------------- | ------------- | -------------------- | --------- | --------- | ---------- |
+| Handblaster                 | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
+| Repeating Blaster / Carbine | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
+| Machine Repeater            | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
+| Pineapple Grenade           | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
+| Fire Grenade                | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
+| Shoebox Anti-Personnel Mine | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
+| Hillsight Shaped Mine       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        | 
 
 #### EQUIPMENT
 | Name                                     | Type                   | Use                            | Importers   | Cost in AC |
@@ -121,8 +121,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | --------------------- | ------- | --------- | ------- | ---------- |
 | Simple Anti-Rad Box   | lockbox | 8 RadRed  | 1x Arti | 1.0        |
 | Blessed Anti-Rad Box  | lockbox | 24 RadRed | 1x Arti | 3.2        |
-| Advanced Anti-Rad Box | lockbox | 36 RadRed | 1x Arti | 5.4        |
-| Fallen Anti-Rad Box   | lockbox | 99 RadRed |         |            |
+| Advanced Anti-Rad Box | lockbox | 36 RadRed | 3x Arti | 5.4        |
+| Fallen Anti-Rad Box   | lockbox | 99 RadRed | 5x Arti | 15.0       |
 
 ### Commodities
 #### DRUGS / ALCH
@@ -139,9 +139,30 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Good Liquor     | Depre. |       |            |
 
 #### TROPHIES
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                | Type  | Desc.                                                       | Cost in AC |
+| ------------------- | ----- | ----------------------------------------------------------- | ---------- |
+| Claw of Cancer      | leg   | A long sharp talon harvested from one of the Old's Cancers. | 0.1        |
+| Eye of Cancer       | eye   |                                                             |            |
+| Hide of Cancer      | hide  |                                                             |            |
+| Claw of Demon       | leg   |                                                             |            |
+| Tooth of Demon      | tooth |                                                             |            |
+| Hide of Demon       | hide  |                                                             |            |
+| Claw of Freak       | leg   |                                                             |            |
+| Head of Freak       | head  |                                                             |            |
+| Hand of Hidden Man  | leg   |                                                             |            |
+| Brain of Hidden Man | head  |                                                             |            |
+| Claw of Jumper      | leg   |                                                             |            |
+| Hide of Jumper      | hide  |                                                             |            |
+| Eye of Jumper       | eye   |                                                             |            |
+| Tooth of Jumper     | tooth |                                                             |            |
+| Fist of Mass        | leg   |                                                             |            |
+| Eye of Mass         | eye   |                                                             |            |
+| Hide of Mass        | hide  |                                                             |            |
+| Brain of Warper     | head  |                                                             |            |
+| Claw of Warper      | leg   |                                                             |            |
+| Hide of Warper      | hide  |                                                             |            |
+| Heart of Warper     | other |                                                             |            |
+| Claw of Zombie      | leg   |                                                             |            |
 
 ### Food
 #### LOCAL CUISINE
