@@ -137,9 +137,11 @@ The Camp is surrounded stumps, clearly cut during the ancient times of Minyostal
 A large storehouse keeps bundles of logs and a large metal cart used for logging. Another of these carts is seemingly crashed or stuck in the ground.
 
 #### The Spike Fields
-East of [[#The Logging Camp]], a large open field separates the major locations of [[#The Sticks]], and gives the area it's name. This open field is littered with natural spike pits that have been hidden by the res
+East of [[#The Logging Camp]], a large open field separates the major locations of [[#The Sticks]], and gives the area it's name. This open field is littered with natural spike pits that have been hidden by the residents of [[#The Trap Town]] or revealed by unlucky travelers.
+	- Spikepit; 19 DEX Save, 2d10+5 piercing & 18 CON Save 4d6+20 poison or half.
 
 #### The Dangerous Ruins
+South of [[#The Trap Town]] and East of [[#The Spike Fields]], a construction site has clearly been ravaged by looters and firefights that have occurred there. Its rubble provides good cover, and much of the scaffolding surrounding the half-built structure remains accessible, leading to high-ground shooting positions upon the roof of the building.
 
 #### The Pond
 
