@@ -83,25 +83,23 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Protection | All       |            |     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Protection | All       |            |     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Protection | All       |            |     |
-|                                                                  |                |                   |           |            |     |
 
 ### Ammunition
 #### SCAVANGED / REFIT
-| Name                                     | Type  | Dam. | Cost in AC |
-| ---------------------------------------- | ----- | ---- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer    | Force |      |            |
-| Refit Durandurm Magazine, High Explosive |       |      |            |
-| Refit Durandurm Magazine, Blessed        |       |      |            |
-|                                          |       |      |            |
+| Name                                     | Type          | Dam. | Cost in AC |
+| ---------------------------------------- | ------------- | ---- | ---------- |
+| Refit Durandurm Magazine, Wild Tracer    | force         |      |            |
+| Refit Durandurm Magazine, High Explosive | slash & force |      |            |
+| Refit Durandurm Magazine, Blessed        | radiant       |      |            |
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC |
 | -------------------------------- | ------- | ---- | ---------- |
-| Durandurm Magazine, Fire Red     | Fire    |      |            |
-| Durandurm Magazine, Water Blue   | Cold    |      |            |
-| Durandurm Magazine, Earth Yellow | Thunder |      |            |
-| Durandurm Magazine, Air Clear    | Force   |      |            |
-| Hummpo                           | Fire    |      |            |
+| Durandurm Magazine, Fire Red     | fire    |      |            |
+| Durandurm Magazine, Water Blue   | cold    |      |            |
+| Durandurm Magazine, Earth Yellow | thunder |      |            |
+| Durandurm Magazine, Air Clear    | force   |      |            |
+| Hummpo                           | fire    |      |            |
 
 
 ### Containers
@@ -109,7 +107,6 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name     | Type    | Space | Cost in AC |
 | -------- | ------- | ----- | ---------- |
 | Wineskin | leather | 1 gal | 0.1        |
-|          |         |       |            |
 
 #### SOLIDS STORAGE
 | Name | Type | Space | Cost in AC |
@@ -183,14 +180,32 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Polmat (Corn Snack)     | pres. |       |            |
 
 #### IMPORT CUISINE
-| Name | Importer | Type | Desc. | Cost in AC |
-| ---- | -------- | ---- | ----- | ---------- |
-| x    | x        |      |       |            |
+| Name               | Importer             | Type | Desc. | Cost in AC |
+| ------------------ | -------------------- | ---- | ----- | ---------- |
+| Fish Jerky         | any                  | pres |       |            |
+| Goat Jerky         | any                  | pres |       |            |
+| Goat Cheese Roll   | any                  | pres |       |            |
+| Cornbread          | any                  | pure |       |            |
+| Actcenvan Pemmican | mercs, extramis      | pres |       |            |
+| Powdered Veggies   | wfm, mercs, troopers | pure |       |            |
+| Dried Fruits       | mercs, fallen        | pure |       |            |
+| Trooper Mash       | troopers             | pure |       |            |
 
 #### SPICES
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name      | Type | Desc. | Cost in AC |
+| --------- | ---- | ----- | ---------- |
+| Sugar     | x    |       |            |
+| Pepper    |      |       |            |
+| Salt      |      |       |            |
+| Poor Oils |      |       |            |
+| Fine Oils |      |       |            |
+| Ginger    |      |       |            |
+| Garlic    |      |       |            |
+| Onion     |      |       |            |
+| Cinnamon  |      |       |            |
+| Cumin     |      |       |            |
+| Paprika   |      |       |            |
+| Basil     |      |       |            |
 
 ### Information
 #### GUIDES
