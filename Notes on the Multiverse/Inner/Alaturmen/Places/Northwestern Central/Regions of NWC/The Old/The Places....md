@@ -185,16 +185,25 @@ The three large round tanks are the defining feature in this area, reaching from
 The Storage Tanks is a Ground Level, with access to the Basement at [[#The Cellars]] and the Upper at [[#The Rafters]].
 
 #### The Office
-East of [[#The Rafters]], the Office is a section of the Upper level that has been heavily reinforced, and acts as the most favorable base-of-operations within the Factory. No historical artifacts can be found here, as anything the ancients left behind has been gathered and lost, leaving the room to bend to its occupants will.
+East of [[#The Rafters]], the Office is a section of the Upper level that has been heavily reinforced and endowed with comforts, and as such acts as the most favorable base-of-operations within the Factory. No historical artifacts can be found here, as anything the ancients left behind has been gathered and lost, leaving the room to bend to its occupants will.
 
 The Office is a Upper Level with access to the Ground at [[#The Showroom]].
 
 #### The Loading Bay
-As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory. A series of halls and rooms for break lead north, towards [[#The Showroom]].
+As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory. 
+
+A series of halls and rooms for break lead north, towards [[#The Showroom]]. A large set of metal double doors lie dismantled upon the ground, leaving the frame open into [[#The Pallets]].
 
 The Loading Bay is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Pallets
+South of [[#The Storage Tanks]], a series of metal pallets have been stacked atop each other in this large warehouse space. 
+
+A large set of metal double doors exits [[#The Factory]], and a wide stone path leads into [[#The Construction Site (2d6 RADS)]] of [[#The City]]. 
+
+Another set of double doors would section the Pallets and [[#The Loading Bay]], but instead lie dismantled upon the ground, leaving the frame open and accessible. 
+
+Opposing this open frame, a third set of large metal doors stands strong, and leads into [[#The Stamping Line]].
 
 The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 
