@@ -137,6 +137,7 @@ The Camp is surrounded stumps, clearly cut during the ancient times of Minyostal
 A large storehouse keeps bundles of logs and a large metal cart used for logging. Another of these carts is seemingly crashed or stuck in the ground.
 
 #### The Spike Fields
+East of [[#The Logging Camp]], a large open field separates the major locations of [[#The Sticks]], and gives the area it's name. This open field is littered with natural spike pits that have been hidden by the res
 
 #### The Dangerous Ruins
 
