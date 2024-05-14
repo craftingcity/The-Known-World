@@ -154,23 +154,49 @@ East of [[#The Forest Gate]] and South of [[#The Dangerous Ruins (1d6 RADS)]], t
 
 ## The Factory
 #### The Showroom
+As the major entrance from [[#Broken Swamps]], the Showroom is a major killing-field for those who currently occupy the high-ground in the Factory.
+
+The Showroom itself is wrapped in scaffolds, where one can navigate through the upper levels of the Factory, and in the central space, a large dais hosts a pile of rubble and trash.
+
+The Showroom is a Ground Level with access to the Basement at [[#The Arcane Chambers (3d6 RADS)]] and the Upper at [[#The Office]].
 
 #### The Arcane Chambers (3d6 RADS)
+West of [[#The Cellars]], the Arcane Chambers are a series of large rooms in which various arcinscriptions, waste, and evidence of occupation
+
+The Arcane Chambers is a Basement Level with access to the Ground at [[#The Showroom]].
 
 #### The Cellars
+East of the [[#The Arcane Chambers (3d6 RADS)]]
+
+The Cellars is a Basement Level with access to the Ground at [[#The Storage Tanks]].
 
 #### The Rafters
+Connecting the Upper Levels of the Factory, the Rafters are the primary holding position of the occupants of the Factory due to it's high-ground advantage.
+
+The Rafters is a Upper Level with access to the Ground at [[#The Storage Tanks]], [[#The Loading Bay]], [[#The Pallets]], and [[#The Stamping Line]].
 
 #### The Storage Tanks
 
+The Storage Tanks is a Ground Level, with access to the Basement at [[#The Cellars]] and the Upper at [[#The Rafters]].
+
 #### The Office
 
+The Office is a Upper Level with access to the Ground at [[#The Showroom]].
+
 #### The Loading Bay
+As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory.
+
+
+
+The Loading Bay is a Ground Level.
 
 #### The Pallets
 
+The Pallets is a Ground Level.
+
 #### The Stamping Line
 
+The Stamping Line is a Ground Level.
 
 
 
