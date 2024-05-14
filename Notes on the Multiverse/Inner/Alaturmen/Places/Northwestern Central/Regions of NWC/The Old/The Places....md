@@ -116,8 +116,10 @@ A safezone in the middle of a well crafted maze of traps and hazards.
 A breach in the massive wall around Minyostalma has been reinforced by raw sharp metals and clearly has been dug out to provide headroom as one travels through the breach and immediately into [[#The Trap Town]].
 
 #### The Dark Bonfire (1d6 RADS)
+West of [[#The Trenches]] and North of the [[#The Logging Camp]], 
 
 #### The Trenches
+West of [[#The Trap Town]], a network of shallow and narrow ravines give this location it's name, and it is the site of a number of prolonged and brutal firefights between Scavs of the Sticks and the Haven, and mobile forces from the White Flame Military, the Trenches has sustained severe damage.
 
 #### The Trap Town
 A small village rests in a quiet still against the north-eastern portion of the military's wall. To an uneducated Scav, this place would seem to be an unoccupied and unclaimed bounty of scrap to be had - but they are distinctly wrong. 
