@@ -144,11 +144,13 @@ East of [[#The Logging Camp]], a large open field separates the major locations 
 South of [[#The Trap Town]] and East of [[#The Spike Fields]], a construction site has clearly been ravaged by looters and firefights that have occurred there. Its rubble provides good cover, and much of the scaffolding surrounding the half-built structure remains accessible, leading to high-ground shooting positions upon the roof of the building.
 
 #### The Pond (1d6 RADS)
-South of [[#The Logging Camp]], a large pond stands still, surrounded by thick forest. The water of the Pond is 
+South of [[#The Logging Camp]], a large pond stands still, surrounded by thick forest. The water of the Pond is nearly crystal clear, leaving the surface-floor visible. There are a number of bones, both humanoid and otherwise, loose rocks, and some minor vegetation.
+
 #### The Forest Gate
+Directly South of [[#The Spike Fields]], a large gated stone fence separates [[#The Sticks]] from the greater [[#Grey Forest]]. Nearby the gate, a small building acts as the gate-house, and it has since been refitted as a semi-permanent residence for passing groups.
 
 #### The Outlook
-
+East of [[#The Forest Gate]] and South of [[#The Dangerous Ruins (1d6 RADS)]], the Outlook is a tall stone tower unfinished in construction, but nonetheless provides a powerful spotting area for all of [[#The Sticks]]. Scaling the scaffolding would be easier than navigating the inside of the tower.
 
 
 
