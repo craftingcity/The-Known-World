@@ -14,6 +14,12 @@ aliases:
 | Brock       | Thomas              | Monk      | Tabaxi      | Slimknive          |                                                                                            |
 | Rhea        | Marilynn Maywater   | Barbarian | Human       | Riphound           |                                                                                            |
 
+- Eve links to the KoP Military through her Mom
+- Bohdi links to Cenva Minyo by birthrite
+- Rowan links to CWF by hatered / hunted
+- Thomas links to Slimknives by contract
+- Marilynn links to Slimknives by Eastern Control Agreement
+
 ### Trusted Allies
 ### Mortal Adversaries
 ### Faction Reputation
