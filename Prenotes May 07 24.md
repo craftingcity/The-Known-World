@@ -22,7 +22,7 @@ As the fates align, you each have found work with a small up-and-coming independ
 
 With your pleasantries presented, and your roles assigned, you have set off with your driver - Edgars - to the 35th plot in the 15th Mining Colony, 10 miles west-north-west of the city limits of [[Mountain Hall]]. 
 
-We look onto the party. A clear blue sky welcomes you as you travel through the mountains on this cool morning, the 1st of Plowing in the 106th year. You can hear the wind slowly crawling its way through the massive rocks, the birds chirping and singing in the branches of the slightly swaying trees.
+We look onto the party. A clear blue sky welcomes you as you travel through the mountains on this cool morning, the 1st of Producing in the 106th year. You can hear the wind slowly crawling its way through the massive rocks, the birds chirping and singing in the branches of the slightly swaying trees.
 
 ### What does the World Know?
 "Mining Colony 15" is 11 miles west-north-west of [[Mountain Hall]].
