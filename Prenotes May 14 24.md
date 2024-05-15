@@ -18,10 +18,14 @@ When last we left our heroes, they had performed their duty under contract with 
 
 Moral superiority falters in the face of slashing steel.
 
-The days after your encounter were tense, for Edgars if not the rest of you, but you encountered no resistance on your next few runs between Mining Colony 15 and [[Mountainhall]]. A section of the worker barracks has been reserved at the Colony, and the five of you have come to a greater sense of comfortability with each other and your place of work.
+The days after your encounter were tense, for Edgars if not the rest of you, but you encountered no resistance on your next few runs between Mining Colony 15 and [[Mountain Hall]]. A section of the worker barracks has been reserved at the Colony, and the five of you have come to a greater sense of comfortability with each other and your place of work.
+
+We return to the party a week after we last saw them, for today is the 8th of Producing - and your first payday. You have spent the morning and afternoon riding in the empty bed of Edgars' Cart towards the [[Web Spun Solutions]] depot in [[Mountain Hall]], where you are due to collect your week's wages.
+
+The rhythmic rumble of the cart-wheels against the rough-hewn road begins to slow before it takes a sharp left and quickly halts. The depot stands before you, a small two-story building stands boldly on the edge of this thoroughfare, and painted in deep purple paint against the yellow stone - "Web Spun Solutions, Connecting Business in the Deakred Range since 105AF". Edgars dismounts and begins to walk inside.
 
 ### What does the World Know?
-
+Each of our "mercs" receive 79sp, 8cp for their weekly wages, plus a 25sp Hazard Pay, for a total of 104 sp, 8cp. The one dwarf working in the depot is named Horbart Youngkeeper, and was hired 
 
 ### What happened?
 
