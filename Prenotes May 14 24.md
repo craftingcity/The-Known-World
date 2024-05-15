@@ -41,7 +41,7 @@ When each "merc" returns to their room, they may find something interesting...
   Tasking-level Command; Integrate and investigate entity "Mountain Troopers".
   Network-level Command; Enhance cohesion with frequent interactors, conceal network connections.
   Public-level Command; Maintain alias while operating task.
-  Performance Notes; Good work so far, T. Looking forward to this one. Be faster.
+  Performance Notes; Good work so far, T. Looking forward to this one. Be faster. PS. That Marilynn woman you're rolling with was a Riphound. Might be useful.
   - L."
 
 ### What happened?
