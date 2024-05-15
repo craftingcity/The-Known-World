@@ -29,9 +29,20 @@ Each of our "mercs" receive 79sp, 8cp for their weekly wages, plus a 25sp Hazard
 
 When each "merc" returns to their room, they may find something interesting...
 - Eve will find a formal letter upon her pillow;
-	- "Laush. My name is Hedwig a'Alden, I am the Count of the Second Duche of Yerba, and I need your help. I knew your mother when she was a Captain in the Civil Peacekeepers of [[Bandeer]], and I knew she would do great things. Thankfully, years later, here you are, in the right place at the right time. There is a faction of people in the Range that are under the belief that we, the Kingdom of Prosper, are acting in error and should return to peace. These people have begun to make their dissatisfaction clear to the People of Prosper. I need to know who's burning our crops, and I need to know who gave that order. You are the citizen we need to perform this task. Prepare a report of valuable and actionable information and deliver it to me at my manor in [[Bandeer]]. Your country will reward your courage."
+	"Laush.   
+	  My name is Hedwig a'Alden, I am the Count of the Second Duche of Yerba, and I need your help. 
+	  I knew your mother when she was a Captain in the Civil Peacekeepers of [[Bandeer]], and I knew she would do great things. Thankfully, years later, here you are, in the right place at the right time. 
+	  There is a faction of people in the Range that are under the belief that we, the Kingdom of Prosper, are acting in error and should return to peace. 
+	  These people have begun to make their dissatisfaction clear to the People of Prosper. I need to know who's burning our crops, and I need to know who gave that order. You are the citizen we need to perform this task. 
+	  Prepare a report of valuable and actionable information and deliver it to me at my manor in [[Bandeer]]. Your country will reward your courage."
+	
 - Thomas will find a hidden letter under the candlestick on his nightstand;
-	- "T, this is K. "
+"T.
+  Tasking-level Command; Integrate and investigate entity "Mountain Troopers".
+  Network-level Command; Enhance cohesion with frequent interactors, conceal network connections.
+  Public-level Command; Maintain alias while operating task.
+  Performance Notes; Good work so far, T. Looking forward to this one. Be faster.
+  - L."
 
 ### What happened?
 
