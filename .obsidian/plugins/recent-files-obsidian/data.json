@@ -5,6 +5,10 @@
       "path": "Prenotes May 14 24.md"
     },
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
       "basename": "Nobles of Prosper",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
-    },
-    {
-      "basename": "AlchemicalComponentsChart",
-      "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
     }
   ],
   "omittedPaths": [],

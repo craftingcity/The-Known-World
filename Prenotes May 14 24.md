@@ -45,6 +45,6 @@ When each "merc" returns to their room, they may find something interesting...
   - L."
 
 ### What happened?
-
+val is foreman
 
 We leave our heroes on the date of ... AF, as they ...
