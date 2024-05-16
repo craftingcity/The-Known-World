@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
-## Party of Interest: /*LINK*/
+# Prenotes for May 17th
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had finally arrived in The Base, where they hope to find more information on the current location of Romeo - Cucu's missing cousin. With warning, Bubbles led the party forward and out towards the Infirmary before she was quickly cut down for failing to observe the squadron of Fallen soldiers holding the Front Gate of the Base.
 
 As the body of Bubbles slumps down against the door, she turn her head to you all and imparts one final word of advice as combat begins; "Run..."

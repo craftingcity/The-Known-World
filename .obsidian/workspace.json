@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ec1b364ce2217e",
+        "id": "762d187ecf5e10d3",
         "type": "tabs",
         "children": [
           {
-            "id": "afa1c145e95da0a9",
+            "id": "cbf32bffd2919da3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,96 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Campaign Rosters/NewSarahouse Game.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86947e7db598404c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e094319f04af7bee",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5acc2e35a060016b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad787d8f20052463",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 14 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ceb48ade9c85b3e7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "file": "Prenotes May 17 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -211,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -236,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 14 24.md",
+                "file": "Prenotes May 17 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 14 24.md",
+                "file": "Prenotes May 17 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 14 24.md"
+                "file": "Prenotes May 17 24.md"
               }
             }
           },
@@ -365,15 +277,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad787d8f20052463",
+  "active": "cbf32bffd2919da3",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
-    "Prenotes May 14 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Prenotes May 16 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Prenotes May 07 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Prenotes May 14 24.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Prenotes May 07 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
@@ -396,7 +309,6 @@
     "MEDIA/SUPP/Here lie my suppliments....md",
     "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md",
     "MEDIA/SUPP/SPREADS/battlemat.ods",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
