@@ -208,7 +208,9 @@ Opposing this open frame, a third set of large metal doors stands strong, and le
 The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Stamping Line
-East of [[#The Pallets]], a series of machines and conveyers link and weave across the ground of this area.
+East of [[#The Pallets]], a series of machines and conveyers link and weave across the ground of this area. Much of the materials that make the insides of these machines have been thoroughly scavenged, and left to bear.
+
+A large set of metal double doors 
 
 The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]].
 
