@@ -88,17 +88,17 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### SCAVANGED / REFIT
 | Name                                     | Type          | Dam. | Cost in AC |
 | ---------------------------------------- | ------------- | ---- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer    | force         |      |            |
-| Refit Durandurm Magazine, High Explosive | slash & force |      |            |
-| Refit Durandurm Magazine, Blessed        | radiant       |      |            |
+| Refit Durandurm Magazine, Wild Tracer    | force         |      | 0.2        |
+| Refit Durandurm Magazine, High Explosive | slash & force |      | 0.5        |
+| Refit Durandurm Magazine, Blessed        | radiant       |      | 0.3        | 
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC |
 | -------------------------------- | ------- | ---- | ---------- |
-| Durandurm Magazine, Fire Red     | fire    |      |            |
-| Durandurm Magazine, Water Blue   | cold    |      |            |
-| Durandurm Magazine, Earth Yellow | thunder |      |            |
-| Durandurm Magazine, Air Clear    | force   |      |            |
+| Durandurm Magazine, Fire Red     | fire    |      | 0.2        |
+| Durandurm Magazine, Water Blue   | cold    |      | 0.2        | 
+| Durandurm Magazine, Earth Yellow | thunder |      | 0.2        |
+| Durandurm Magazine, Air Clear    | force   |      | 0.2        |
 | Hummpo                           | fire    |      |            |
 
 
