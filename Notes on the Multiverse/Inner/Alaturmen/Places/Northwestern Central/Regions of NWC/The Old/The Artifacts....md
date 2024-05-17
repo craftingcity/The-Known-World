@@ -405,7 +405,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Fire-Heart Ruby
 > 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
 > *Fire-Heart Ruby* is a **rare** artifact, and incurs 2d8 (9) Radiation.
-> A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next melee attack.
+> A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next attack.
 
 ##### Force
 < 1 common, 3 uncommon, 2 rare >

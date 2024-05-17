@@ -72,6 +72,7 @@ Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers a
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
+<The Fallen speak [[Ancient Elvish (language)]]>
 ###### Equipment
 ###### Areas of Operation
 - [[#The City]]
