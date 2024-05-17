@@ -295,7 +295,7 @@ Entering the building and heading West, [[#The Importing Pallets]] await the uns
 #### The Mess Hall (1d6 RADS)
 West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafeteria, covered in dry blood, ruined food-stuff, and human waste.
 
-A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would find a staircase to a lower storage room and a vault door
+A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars]].
 
 #### The Broken Gate (1d6 RADS)
 
