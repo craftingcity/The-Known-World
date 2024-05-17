@@ -203,14 +203,14 @@ A large set of metal double doors exits [[#The Factory]], and a wide stone path 
 
 Another set of double doors would section the Pallets and [[#The Loading Bay]], but instead lie dismantled upon the ground, leaving the frame open and accessible. 
 
-Opposing this open frame, a third set of large metal doors stands strong, and leads into [[#The Stamping Line]].
+Opposing this open doorframe, a third set of large metal doors stands strong, and leads into [[#The Stamping Line]].
 
 The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Stamping Line
 East of [[#The Pallets]], a series of machines and conveyers link and weave across the ground of this area. Much of the materials that make the insides of these machines have been thoroughly scavenged, and left to bear.
 
-A large set of metal double doors separates the Stamping Line from [[#The Pallets]]. Another smaller set of doors leads through to a pair of rooms and then the [[#The Importing Pallets (1d6 RADS)]]
+A large set of metal double doors separates the Stamping Line from [[#The Pallets]]. Another smaller set of doors leads through to a pair of rooms and then the [[#The Importing Pallets (1d6 RADS)]].
 
 The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]].
 
@@ -285,14 +285,17 @@ The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]]
 
 ## The Base
 #### The Importing Pallets (1d6 RADS)
-Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
+East of [[#The Front Gate (2d6 RADS)]], a large garage door stinks offensively of death and gunpowder. The Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]], as a large portion of the furniture and pallets within this space have been refit into a thin maze. 
 
 #### The Front Gate (2d6 RADS)
-The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn and fountain makes for a beautiful scene in the front of the brutalist military compound.
+The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn makes for a beautiful scene in the front of the brutalist military compound.
 
 Entering the building and heading West, [[#The Importing Pallets]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall]].
 
 #### The Mess Hall (1d6 RADS)
+West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafeteria, covered in dry blood, ruined food-stuff, and human waste.
+
+A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would find a staircase to a lower storage room and a vault door
 
 #### The Broken Gate (1d6 RADS)
 
