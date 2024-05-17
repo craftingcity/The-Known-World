@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-02T23:22:08.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="KS8BAjUxCub3QOIxZc2I" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-17T21:34:42.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sje_CQQsi0-U50hL0roR" version="24.4.0" type="device">
   <diagram name="Page-1" id="o0ZqQBc5p8aBz4_Yj3NF">
-    <mxGraphModel dx="1615" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-70" value="Baron Shimmer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="620" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-72" value="Mountain Trooper Corp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-72" value="Mountain Trooper Corps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFF99;" parent="1" source="91A2RXsGNv93fPLzzTM1-74" target="91A2RXsGNv93fPLzzTM1-120" edge="1">
@@ -369,7 +369,7 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-96">
+        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="560" as="targetPoint" />
             <Array as="points">
@@ -379,7 +379,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-116">
+        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-116" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1550" y="500" />
@@ -488,8 +488,8 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-128" value="The Company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-132" value="White Flame Militants for the Defense of the Ruins Excluzion Zone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="380" width="80" height="100" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-132" value="White Flame Militants for the Minyostalman Blockade and Exclusion District" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="370" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-134" value="Extramis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="400" width="80" height="40" as="geometry" />
@@ -500,14 +500,17 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="91A2RXsGNv93fPLzzTM1-70" target="91A2RXsGNv93fPLzzTM1-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b-xVL_7S8nbbo-IQDQZ7-4" target="b-xVL_7S8nbbo-IQDQZ7-5">
+        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b-xVL_7S8nbbo-IQDQZ7-4" target="b-xVL_7S8nbbo-IQDQZ7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-4" value="Baron Cassindil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-4" value="Baron Cassindil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="2020" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-5" value="Grovetenders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-5" value="Grovetenders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="2060" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6AwBfO4V5_-j9UhJtK-1" value="House a&#39;Nyrk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

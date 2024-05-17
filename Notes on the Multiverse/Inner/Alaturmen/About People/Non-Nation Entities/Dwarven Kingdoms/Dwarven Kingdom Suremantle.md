@@ -18,7 +18,20 @@ Since the [[Northern Conflicts of 105AF]], the Suremantle Kingdom has begun to a
 ## Governance
 The Dwarven Kingdom Suremantle is a aristocratic-plutocratic society that extends from the west of the [[Lake of Eternal Life]] in the [[Deakred Range]] to beginning of the "far western mountains" beyond the [[Red Hills]] - the space north of [[Kailkeep]], and closest to the [[Wildlands]].
 
-The King Suremantle stands at the head of the Council of Nobles, the predominant governmental body in [[Mountain Hall]].
+The King Suremantle stands at the head of the Council of Nobles, the predominant governmental body in [[Mountain Hall]]. Each of the Noble Houses holds responsibilities throughout the region.
+
+##### House Suremantle
+##### House Battog
+##### House Franx
+##### House Tazatly
+
+##### Department of Warfare and Defense
+##### Department of Commerce
+##### Department of Education
+##### Department of Foreign Relations
+##### Mountain Trooper Corps
+
+
 
 ## Culture
 #### Heritage
