@@ -18,11 +18,11 @@ Golden Fifth | Church | 2.0 | one-fifth of a gold whole
 Golden Whole | Church | 10.0 | a complete gold whole, five fifths
 --- | --- | --- | ---
 Lead Finger | Tetrimoc | 0.1 | dragonly finger of lead
-Lead Claw | Tetrimoc | 0.6 | five fingers attatched at the base of a sixth
+Lead Claw | Tetrimoc | 0.6 | five fingers attached at the base of a sixth
 Silver Puck | Tetrimoc | 0.8 | a half ounce of silver, minted
 Golden Puck | Tetrimoc | 8.0 | a half ounce of gold, minted
 Golden Finger | Tetrimoc | 26.0 | dragonly finger of gold
-Golden Claw | Tetrimoc | 156.0 | five fingers attatched at the base of a sixth
+Golden Claw | Tetrimoc | 156.0 | five fingers attached at the base of a sixth
 --- | --- | --- | ---
 Tin Bit | Actstow | 0.1 | a small triangular polygon of tin
 Tin Bolt | Actstow | 1.0 | its ten bits attached in a triangular bolt

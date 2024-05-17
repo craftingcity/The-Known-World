@@ -27,15 +27,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Magazine Belt Feeder                | upg       | 12x mag cap         | n/a       | all                  | 5.6        |
 
 #### IMPORTED / FORGED
-| Name                        | Type      | Dam.                 | Ammo      | Importers | Cost in AC |
-| --------------------------- | --------- | -------------------- | --------- | --------- | ---------- |
-| Handblaster                 | dunam     | 1d6+DEX              | durandurm | all       | 0.3        |
-| Repeating Blaster / Carbine | dunam     | 3d6+DEX              | durandurm | all       | 0.75       |
-| Machine Repeater            | dunam     | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
-| Pineapple Grenade           | explosive | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
-| Fire Grenade                | fire      | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
-| Shoebox Anti-Personnel Mine | explosive | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
-| Hillsight Shaped Mine       | explosive | 10ft cone, 4d10+25   | n/a       | all       |            |
+| Name                        | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
+| --------------------------- | ------------- | -------------------- | --------- | --------- | ---------- |
+| Handblaster                 | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
+| Repeating Blaster / Carbine | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
+| Machine Repeater            | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
+| Pineapple Grenade           | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
+| Fire Grenade                | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
+| Shoebox Anti-Personnel Mine | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
+| Hillsight Shaped Mine       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        | 
 
 #### EQUIPMENT
 | Name                                     | Type                   | Use                            | Importers   | Cost in AC |
@@ -83,22 +83,23 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Protection | All       |            |     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Protection | All       |            |     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Protection | All       |            |     |
-|                                                                  |                |                   |           |            |     |
 
 ### Ammunition
 #### SCAVANGED / REFIT
-| Name                                  | Type  | Dam. | Cost in AC |
-| ------------------------------------- | ----- | ---- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer | Force |      |            |
+| Name                                     | Type          | Dam. | Cost in AC |
+| ---------------------------------------- | ------------- | ---- | ---------- |
+| Refit Durandurm Magazine, Wild Tracer    | force         |      |            |
+| Refit Durandurm Magazine, High Explosive | slash & force |      |            |
+| Refit Durandurm Magazine, Blessed        | radiant       |      |            |
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC |
 | -------------------------------- | ------- | ---- | ---------- |
-| Durandurm Magazine, Fire Red     | Fire    |      |            |
-| Durandurm Magazine, Water Blue   | Cold    |      |            |
-| Durandurm Magazine, Earth Yellow | Thunder |      |            |
-| Durandurm Magazine, Air Clear    | Force   |      |            |
-| Hummpo                           | Fire    |      |            |
+| Durandurm Magazine, Fire Red     | fire    |      |            |
+| Durandurm Magazine, Water Blue   | cold    |      |            |
+| Durandurm Magazine, Earth Yellow | thunder |      |            |
+| Durandurm Magazine, Air Clear    | force   |      |            |
+| Hummpo                           | fire    |      |            |
 
 
 ### Containers
@@ -106,7 +107,6 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name     | Type    | Space | Cost in AC |
 | -------- | ------- | ----- | ---------- |
 | Wineskin | leather | 1 gal | 0.1        |
-|          |         |       |            |
 
 #### SOLIDS STORAGE
 | Name | Type | Space | Cost in AC |
@@ -114,10 +114,12 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | x    | x    |       |            |
 
 #### ARTIFACTS STORAGE
-| Name                 | Type    | Reduction | Space   | Cost in AC |
-| -------------------- | ------- | --------- | ------- | ---------- |
-| Simple Anti-Rad Box  | lockbox | 8 RadRed  | 1x Arti | 1.0        |
-| Blessed Anti-Rad Box | lockbox | 24 RadRed | 1x Arti | 3.2        | 
+| Name                  | Type    | Reduction | Space   | Cost in AC |
+| --------------------- | ------- | --------- | ------- | ---------- |
+| Simple Anti-Rad Box   | lockbox | 8 RadRed  | 1x Arti | 1.0        |
+| Blessed Anti-Rad Box  | lockbox | 24 RadRed | 1x Arti | 3.2        |
+| Advanced Anti-Rad Box | lockbox | 36 RadRed | 3x Arti | 5.4        |
+| Fallen Anti-Rad Box   | lockbox | 99 RadRed | 5x Arti | 15.0       |
 
 ### Commodities
 #### DRUGS / ALCH
@@ -134,25 +136,76 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Good Liquor     | Depre. |       |            |
 
 #### TROPHIES
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                | Type  | Desc.                                                       | Cost in AC |
+| ------------------- | ----- | ----------------------------------------------------------- | ---------- |
+| Claw of Cancer      | leg   | A long sharp talon harvested from one of the Old's Cancers. | 0.1        |
+| Eye of Cancer       | eye   |                                                             |            |
+| Hide of Cancer      | hide  |                                                             |            |
+| Claw of Demon       | leg   |                                                             |            |
+| Tooth of Demon      | tooth |                                                             |            |
+| Hide of Demon       | hide  |                                                             |            |
+| Claw of Freak       | leg   |                                                             |            |
+| Head of Freak       | head  |                                                             |            |
+| Hand of Hidden Man  | leg   |                                                             |            |
+| Brain of Hidden Man | head  |                                                             |            |
+| Claw of Jumper      | leg   |                                                             |            |
+| Hide of Jumper      | hide  |                                                             |            |
+| Eye of Jumper       | eye   |                                                             |            |
+| Tooth of Jumper     | tooth |                                                             |            |
+| Fist of Mass        | leg   |                                                             |            |
+| Eye of Mass         | eye   |                                                             |            |
+| Hide of Mass        | hide  |                                                             |            |
+| Brain of Warper     | head  |                                                             |            |
+| Claw of Warper      | leg   |                                                             |            |
+| Hide of Warper      | hide  |                                                             |            |
+| Heart of Warper     | other |                                                             |            |
+| Claw of Zombie      | leg   |                                                             |            |
 
 ### Food
 #### LOCAL CUISINE
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name                    | Type  | Desc. | Cost in AC |
+| ----------------------- | ----- | ----- | ---------- |
+| Grilled Cancer          | irra. |       |            |
+| Grilled Demon           | irra. |       |            |
+| Grilled Jumper          | irra. |       |            |
+| Grilled Mass            | irra. |       |            |
+| Grilled Warper          | irra. |       |            |
+| Purified Cancer Stew    | pure  |       |            |
+| Purified Demon Flank    | pure  |       |            |
+| Purified Jumper Flank   | pure  |       |            |
+| Purified Mass Stew      | pure  |       |            |
+| Purified Warper Flank   | pure  |       |            |
+| Parcaes (Canned Meat)   | pres. |       |            |
+| Parquea (Canned Veggie) | pres. |       |            |
+| Polmat (Corn Snack)     | pres. |       |            |
 
 #### IMPORT CUISINE
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name               | Importer             | Type | Desc. | Cost in AC |
+| ------------------ | -------------------- | ---- | ----- | ---------- |
+| Fish Jerky         | any                  | pres |       |            |
+| Goat Jerky         | any                  | pres |       |            |
+| Goat Cheese Roll   | any                  | pres |       |            |
+| Cornbread          | any                  | pure |       |            |
+| Actcenvan Pemmican | mercs, extramis      | pres |       |            |
+| Powdered Veggies   | wfm, mercs, troopers | pure |       |            |
+| Dried Fruits       | mercs, fallen        | pure |       |            |
+| Trooper Mash       | troopers             | pure |       |            |
 
 #### SPICES
-| Name | Type | Desc. | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name      | Type | Desc. | Cost in AC |
+| --------- | ---- | ----- | ---------- |
+| Sugar     | x    |       |            |
+| Pepper    |      |       |            |
+| Salt      |      |       |            |
+| Poor Oils |      |       |            |
+| Fine Oils |      |       |            |
+| Ginger    |      |       |            |
+| Garlic    |      |       |            |
+| Onion     |      |       |            |
+| Cinnamon  |      |       |            |
+| Cumin     |      |       |            |
+| Paprika   |      |       |            |
+| Basil     |      |       |            |
 
 ### Information
 #### GUIDES

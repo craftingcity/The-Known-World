@@ -2,8 +2,6 @@
 Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
 
 ## The Cordon
-This region of the Old is known as the Cordon. [[#White-Flame Militants]] hold the majority of this area, and uses this outpost to supply and command operations within the Old performed by these soldiers. 
-
 #### The Western Entrance
 The Western Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Western Entrance are exclusively to prevent unidentified persons from exiting the Old.
 
@@ -47,8 +45,6 @@ South-east of [[#The Depot]], a single rusting metal watch-tower serves as looko
 
 
 ## The Haven
-A welcoming Seeker holding that is in conflict with the nearby Militants at [[#The Cordon]] and the hostile Scavs and Mercenaries that operate in and nearby [[#The Factory]].
-
 #### The Northern Entrance
 The Northern Entrance is one of the three formally operated gates in the walls that contain the Old. The standing orders of those stationed at the Northern Entrance include both allowing entrants for a fee and disallowing, by fire and force, any unidentified persons from exiting.
 
@@ -109,16 +105,27 @@ In the south-eastern most corner of [[#The Haven]], a two-story tower marks the 
 
 A man who goes by the name "Forester" lives in and defends the tower against the few threats that make their way north-west from [[#The Factory]] or [[#The Sticks]].
 
+
+
 ## The Sticks
-A safezone in the middle of a well crafted maze of traps and hazards. 
-
 #### The Eastern Breach 
+A breach in the massive wall around Minyostalma has been reinforced by raw sharp metals and clearly has been dug out to provide headroom as one travels through the breach and immediately into [[#The Trap Town]].
 
-#### The Dark Bondfire
+#### The Dark Bonfire (1d6 RADS)
+West of [[#The Trenches]] and North of the [[#The Logging Camp]], a thin patch of pine woods surrounds a clearing. In this clearing, a circular portion of the ground dips into a stone divot. The stone circle in this clearing supports an anomalous fire, a dark purple core licking out into sharp grey tips of painful flame (necrotic & fire).
 
 #### The Trenches
+West of [[#The Trap Town]], a network of shallow and narrow ravines give this location it's name, and it is the site of a number of prolonged and brutal firefights between Scavs of the Sticks and the Haven, and mobile forces from the White Flame Military, the Trenches has sustained severe damage.
 
 #### The Trap Town
+A small village rests in a quiet still against the north-eastern portion of the military's wall. To an uneducated Scav, this place would seem to be an unoccupied and unclaimed bounty of scrap to be had - but they are distinctly wrong. 
+
+Under the surface of this town, in the basements and bunkers, a relatively safe "city" flourishes. The majority of the occupants of the city are independent Scavs or members of the Extramis Chapter, and can navigate through and out of the kill-field on the surface.
+
+While on the surface, a creature entering or exiting the Town or a specific building in Town must make a DC 19 Perception Check to detect any of the traps in Town;
+	- Hanging Beam; 18 DEX Save, 4d10+15 bludg.
+	- Foot Noose; 21 Sleight of Hand to escape, 1d6 bludg. on 10ft fall.
+	- Spikepit; 19 DEX Save, 2d10+5 piercing & 18 CON Save 4d6+20 poison or half.
 
 #### The Logging Camp
 East of the [[#The Rookie Checkpoint]], the Logging Camp is the main entrance to [[#The Sticks]] from the West.
@@ -128,162 +135,204 @@ The Camp is surrounded stumps, clearly cut during the ancient times of Minyostal
 A large storehouse keeps bundles of logs and a large metal cart used for logging. Another of these carts is seemingly crashed or stuck in the ground.
 
 #### The Spike Fields
+East of [[#The Logging Camp]], a large open field separates the major locations of [[#The Sticks]], and gives the area it's name. This open field is littered with natural spike pits that have been hidden by the residents of [[#The Trap Town]] or revealed by unlucky travelers.
+	- Spikepit; 19 DEX Save, 2d10+5 piercing & 18 CON Save 4d6+20 poison or half.
 
-#### The Dangerous Ruins
+#### The Dangerous Ruins (1d6 RADS)
+South of [[#The Trap Town]] and East of [[#The Spike Fields]], a construction site has clearly been ravaged by looters and firefights that have occurred there. Its rubble provides good cover, and much of the scaffolding surrounding the half-built structure remains accessible, leading to high-ground shooting positions upon the roof of the building.
 
-#### The Pond
+#### The Pond (1d6 RADS)
+South of [[#The Logging Camp]], a large pond stands still, surrounded by thick forest. The water of the Pond is nearly crystal clear, leaving the surface-floor visible. There are a number of bones, both humanoid and otherwise, loose rocks, and some minor vegetation.
 
 #### The Forest Gate
+Directly South of [[#The Spike Fields]], a large gated stone fence separates [[#The Sticks]] from the greater [[#Grey Forest]]. Nearby the gate, a small building acts as the gate-house, and it has since been refitted as a semi-permanent residence for passing groups.
 
 #### The Outlook
-
+East of [[#The Forest Gate]] and South of [[#The Dangerous Ruins (1d6 RADS)]], the Outlook is a tall stone tower unfinished in construction, but nonetheless provides a powerful spotting area for all of [[#The Sticks]]. Scaling the scaffolding would be easier than navigating the inside of the tower.
 
 
 
 ## The Factory
-The beginnings of a booming industry expansion are left half-finished and now-ravaged. Connected to [[#The Base]] by a series of contested routes.
-
 #### The Showroom
+As the major entrance from [[#Broken Swamps]], the Showroom is a major killing-field for those who currently occupy the high-ground in the Factory.
 
-#### The Arcane Chambers
+The Showroom itself is wrapped in scaffolds, where one can navigate through the upper levels of the Factory, and in the central space, a large dais hosts a pile of rubble and trash. Heading through the halls and rooms, one arrives in [[#The Loading Bay]].
+
+The Showroom is a Ground Level with access to the Basement at [[#The Arcane Chambers (3d6 RADS)]] and the Upper at [[#The Office]].
+
+#### The Arcane Chambers (3d6 RADS)
+West of [[#The Cellars]], the Arcane Chambers are a series of large rooms in which various arcane inscriptions, human waste, and evidence of occupation. This is the major barracks within the Factory for those without Radiation Detection.
+
+The Arcane Chambers is a Basement Level with access to the Ground at [[#The Showroom]].
 
 #### The Cellars
+East of the [[#The Arcane Chambers (3d6 RADS)]], the Cellars acted as a storage area for the Factory above, but having fallen into a rough cacophony of debris and corridors, the Cellars are now a dangerous hotspot for firefights.
+
+At the end of the Cellars, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Mess Hall (1d6 RADS)]]'s cellar storage area.
+
+The Cellars is a Basement Level with access to the Ground at [[#The Storage Tanks]].
 
 #### The Rafters
+Connecting the Upper Levels of the Factory, the Rafters are the primary holding position of the occupants of the Factory due to its high-ground advantage.
+
+The Rafters is a Upper Level with access to the Ground at [[#The Storage Tanks]], [[#The Loading Bay]], [[#The Pallets]], and [[#The Stamping Line]].
 
 #### The Storage Tanks
+East of [[#The Showroom]], the Storage Tanks once were used to hold some liquid for the processes of this Factory, but now it acts as a middle-ground between the other Ground level areas.
+
+The three large round tanks are the defining feature in this area, reaching from the Basement to the Upper Levels, a good cover or a tremendous maneuvering challenge.
+
+The Storage Tanks is a Ground Level, with access to the Basement at [[#The Cellars]] and the Upper at [[#The Rafters]].
 
 #### The Office
+East of [[#The Rafters]], the Office is a section of the Upper level that has been heavily reinforced and endowed with comforts, and as such acts as the most favorable base-of-operations within the Factory. No historical artifacts can be found here, as anything the ancients left behind has been gathered and lost, leaving the room to bend to its occupants will.
+
+The Office is a Upper Level with access to the Ground at [[#The Showroom]].
 
 #### The Loading Bay
+As the primary egress from [[#The Base]] to [[#The Cordon]], much of the Loading Bay is heavily trapped, and provides a significant advantage to any defenders within the Factory. 
+
+A series of halls and rooms for break lead north, towards [[#The Showroom]]. A large set of metal double doors lie dismantled upon the ground, leaving the frame open into [[#The Pallets]].
+
+The Loading Bay is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Pallets
+South of [[#The Storage Tanks]], a series of metal pallets have been stacked atop each other in this large warehouse space. 
+
+A large set of metal double doors exits [[#The Factory]], and a wide stone path leads into [[#The Construction Site (2d6 RADS)]] of [[#The City]]. 
+
+Another set of double doors would section the Pallets and [[#The Loading Bay]], but instead lie dismantled upon the ground, leaving the frame open and accessible. 
+
+Opposing this open doorframe, a third set of large metal doors stands strong, and leads into [[#The Stamping Line]].
+
+The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 
 #### The Stamping Line
+East of [[#The Pallets]], a series of machines and conveyers link and weave across the ground of this area. Much of the materials that make the insides of these machines have been thoroughly scavenged, and left to bear.
 
+A large set of metal double doors separates the Stamping Line from [[#The Pallets]]. Another smaller set of doors leads through to a pair of rooms and then the [[#The Importing Pallets (1d6 RADS)]].
+
+The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]].
 
 
 
 ## The City
-#### The Offices, North
+#### The Offices, North (2d6 RADS)
 
-#### The Arched Road
+#### The Arched Road (2d6 RADS)
 
-#### The Construction Site
+#### The Construction Site (2d6 RADS)
 
-#### The Offices, South
+#### The Offices, South (2d6 RADS)
 
-#### The Fountain Park
+#### The Fountain Park (3d6 RADS)
 
-#### The Mall
+#### The Mall (2d6 RADS)
 
-#### The Apartments, West
+#### The Apartments, West (2d6 RADS)
 
-#### The Apartments, East
+#### The Apartments, East (2d6 RADS)
 
-#### The Hospital
+#### The Hospital (2d6 RADS)
 
 
 
 
 ## The Village
-#### The Hovels
+#### The Hovels (2d6 RADS)
 
-#### The Homes
+#### The Homes (2d6 RADS)
 
-#### The Villas
+#### The Villas (2d6 RADS)
 
-#### The Fields
+#### The Fields (2d6 RADS)
 
-#### The Market
+#### The Market (2d6 RADS)
 
-#### The Outskirts, North
+#### The Outskirts, North (1d6 RADS)
 
-#### The Windmill
+#### The Windmill (2d6 RADS)
 
-#### The Empty Fences
+#### The Empty Fences (2d6 RADS)
 
-#### The Outskirts, South
+#### The Outskirts, South (1d6 RADS)
 
 
 
 
 ## The Temple
-The urban center of Minyostalma, and one of the largest surviving structures in the Old, the Temple behind the Walls.
+#### The Open Cloister (3d6 RADS)
 
-#### The Open Cloister
+#### The North Gate (3d6 RADS)
 
-#### The North Gate
+#### The Broken Tower (3d6 RADS)
 
-#### The Broken Tower
+#### The Graveyard (4d6 RADS)
 
-#### The Graveyard
+#### The Temple Proper (5d6 RADS)
 
-#### The Temple Proper
+#### The Temple Garden (3d6 RADS)
 
-#### The Temple Garden
+#### The Dormitories (3d6 RADS)
 
-#### The Dormitories
+#### The South Gate (3d6 RADS)
 
-#### The South Gate
-
-#### The Stable Tower
+#### The Stable Tower (3d6 RADS)
 
 
 
 
 
 ## The Base
-The military grounds of the Old Elven Empire's armies. Connected to [[#The Factory]] by a series of contested routes.
+#### The Importing Pallets (1d6 RADS)
+East of [[#The Front Gate (2d6 RADS)]], a large garage door stinks offensively of death and gunpowder. The Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]], as a large portion of the furniture and pallets within this space have been refit into a thin maze. 
 
-#### The Importing Pallets
-Heavily drenched with the smell of death and gunpowder, the Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]]. 
-
-#### The Front Gate
-The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn and fountain makes for a beautiful scene in the front of the brutalist military compound.
+#### The Front Gate (2d6 RADS)
+The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn makes for a beautiful scene in the front of the brutalist military compound.
 
 Entering the building and heading West, [[#The Importing Pallets]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall]].
 
-#### The Mess Hall
+#### The Mess Hall (1d6 RADS)
+West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafeteria, covered in dry blood, ruined food-stuff, and human waste.
 
-#### The Broken Gate
+A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars]].
 
-#### The Intelligence Center
+#### The Broken Gate (1d6 RADS)
 
-#### The Armory
+#### The Intelligence Center (1d6 RADS)
 
-#### The Infirmary
+#### The Armory (1d6 RADS)
 
-#### The Old Barracks
+#### The Infirmary (1d6 RADS)
 
-#### The Hangars
+#### The Old Barracks (1d6 RADS)
+
+#### The Hangars (1d6 RADS)
 
 
 
 
 
 ## The Shipyard
-A *rostok/yanov* built into a hillside that looks like a ship if you are coming from the Temple.
+#### The Southern Entrance (1d6 RADS)
 
-#### The Southern Entrance
+#### The Thicket (1d6 RADS)
 
-#### The Thicket
+#### The Materials Yard (1d6 RADS)
 
-#### The Materials Yard
+#### The Cranes (1d6 RADS)
 
-#### The Cranes
+#### The Deep Scar (1d6 RADS)
 
-#### The Deep Scar
-
-#### The Overwatch Tower
+#### The Overwatch Tower (1d6 RADS)
 
 #### The Ship
 
-#### The Keep
+#### The Keep (1d6 RADS)
 
-#### The Dugout
+#### The Dugout (1d6 RADS)
 
-#### The Wall Games
+#### The Wall Games (1d6 RADS)
 
 
 
