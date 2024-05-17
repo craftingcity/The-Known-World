@@ -210,7 +210,7 @@ The Pallets is a Ground Level with access to the Upper at [[#The Rafters]].
 #### The Stamping Line
 East of [[#The Pallets]], a series of machines and conveyers link and weave across the ground of this area. Much of the materials that make the insides of these machines have been thoroughly scavenged, and left to bear.
 
-A large set of metal double doors 
+A large set of metal double doors separates the Stamping Line from [[#The Pallets]]. Another smaller set of doors leads through to a pair of rooms and then the [[#The Importing Pallets (1d6 RADS)]]
 
 The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]].
 
