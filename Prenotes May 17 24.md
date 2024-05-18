@@ -35,8 +35,9 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Artyom's Skin]] 4/4)
 	Gamma. < 0, >
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Radiant Diamond]] 5/6)
+22 - Tim
 13 - Cucu
-11 - Kyria
+11 - Kyri
 11 - Ash
 10 - Gringold
 6 - Dae Shim
