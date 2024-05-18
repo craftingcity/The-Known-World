@@ -25,27 +25,27 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 22 - Fallen
 	Alpha. < 0, >
 	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)` - [[The Artifacts...#Jasper's Twin]])
-	Beta. < 0, >
+	Beta. < 0, 29, 30, 33, 39>
 	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)`  - [[The Artifacts...#Ruby Pyramid]] 1/1)
-	Kappa. < 0, >
+	Kappa. < 0, 32>
 	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Vorpal Shoreline]])
-	Delta. < 0, 29 >
+	Delta. < 0, 27 >
 	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Bloody Dunes]] 3/7)
 	Epsilon. < 0, >
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Artyom's Skin]] 4/4)
-	Gamma. < 0, >
+	Gamma. < 0, 17>
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Radiant Diamond]] 5/6)
 22 - Tim
 13 - Cucu
-11 - Kyri
+~~11 - Kyri~~
 11 - Ash
-10 - Gringold
-6 - Dae Shim
+~~10 - Gringold~~
+~~6 - Dae Shim~~
 5 - Op. Astro < 0, 80>
 	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
 4 - Op. Georgie < 0, >
 	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio))`
-4 - Op. Screw < 0, >
+4 - Op. Screw < 0, 44>
 	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
 4 - Op. Locus < 0, >
 	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (2x Isio))`
