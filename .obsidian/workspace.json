@@ -143,6 +143,27 @@
             }
           },
           {
+            "id": "7925ce12e2e2d0d7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Elvish (language).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "52e5180401d13e87",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -529,15 +550,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471fab77001b02ee",
+  "active": "48aa975b524ccf8f",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Prenotes May 17 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+    "Ancient Elvish (language).md",
+    "Prenotes May 17 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
-    "Ancient Elvish (language).md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Prenotes May 16 24.md",

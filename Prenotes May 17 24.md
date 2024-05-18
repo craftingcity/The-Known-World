@@ -25,7 +25,7 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 22 - Fallen
 	Alpha. < 0, >
 	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)` - [[The Artifacts...#Jasper's Twin]])
-	Beta. < 0, 29, 30, 33, 39>
+	Beta. < 0, 29, 30, 33, 39, 44>
 	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)`  - [[The Artifacts...#Ruby Pyramid]] 1/1)
 	Kappa. < 0, 32>
 	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Vorpal Shoreline]])
@@ -35,8 +35,8 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Artyom's Skin]] 4/4)
 	Gamma. < 0, 17>
 	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Radiant Diamond]] 5/6)
-22 - Tim
-13 - Cucu
+~~22 - Tim~~
+~~13 - Cucu~~
 ~~11 - Kyri~~
 11 - Ash
 ~~10 - Gringold~~
@@ -61,5 +61,6 @@ Two of the Fallen each have Power Plate, Tank Plate, and Press. Combat Armor.
 
 ### What happened?
 
+They traded Ash for Georgie during the firefight.
 
 We leave our heroes on the date of ... AF, as they ...
