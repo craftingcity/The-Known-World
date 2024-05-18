@@ -11,8 +11,14 @@
             "id": "40433590584e555f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Arthur's Knights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":7},\"to\":{\"line\":19,\"ch\":7}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -291,6 +297,9 @@
   },
   "active": "40433590584e555f",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
@@ -318,8 +327,6 @@
     "Katz Brood.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md",
     "A Grand Notepad.md",
-    "Game Notes/Campaigns.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 23 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
@@ -335,7 +342,6 @@
     "MEDIA/MAPS/WORLD/huntyr_swamp_105.png",
     "MEDIA/SUPP/ArthurianMilitaryStructure.drawio",
     "MEDIA/SUPP/SPREADS/ArthurianMilitaryStructure.drawio",
-    "MEDIA/SUPP/RomeoQuestTimeline.drawio",
-    "MEDIA/SUPP/SPREADS/RomeoQuestTimeline.drawio"
+    "MEDIA/SUPP/RomeoQuestTimeline.drawio"
   ]
 }
