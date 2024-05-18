@@ -298,10 +298,13 @@ West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafe
 A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars]].
 
 #### The Broken Gate (1d6 RADS)
+West of [[#The Intelligence Center (1d6 RADS)]], a grass alley has been covered in broken glass and snapped metals. The gate surrounding [[#The Base]] has been broken here, but provides little egress, as one must blaze a trail through [[#Grey Forest]] before finding their way - a dangerous task.
 
 #### The Intelligence Center (1d6 RADS)
+In the center of [[#The Base]], south of [[#The Front Gate (2d6 RADS)]] & north of [[#The Old Barracks (1d6 RADS)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, astrewn papers, and covered in blood and blaster marks.
 
 #### The Armory (1d6 RADS)
+East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends into a gated
 
 #### The Infirmary (1d6 RADS)
 
