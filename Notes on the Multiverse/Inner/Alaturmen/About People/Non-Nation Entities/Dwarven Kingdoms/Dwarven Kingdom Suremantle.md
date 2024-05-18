@@ -44,6 +44,7 @@ The Suremantle Clan primarily uses [[Montal (language)]] for both casual and for
 #### Theology
 #### Economics
 There are many "Mining Colonies" spread throughout the Kingdom that the majority of the raw metals come from.
+
 ### Symbolism
 ## Technology
 ### Magic

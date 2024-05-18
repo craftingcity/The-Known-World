@@ -24,17 +24,17 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 
 22 - Fallen
 	Alpha. < 0, >
-	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air) - [[The Artifacts...#Jasper's Twin]])`
+	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)` - [[The Artifacts...#Jasper's Twin]])
 	Beta. < 0, >
-	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)  - [[The Artifacts...#Ruby Pyramid]])`
+	`(AC:23, DR5, HP:220, 3x +11 attack, 4d6+7 force (air)`  - [[The Artifacts...#Ruby Pyramid]] 1/1)
 	Kappa. < 0, >
-	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)  - [[The Artifacts...#Vorpal Shoreline]])`
+	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Vorpal Shoreline]])
 	Delta. < 0, >
-	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)  - [[The Artifacts...#Bloody Dunes]])`
+	`(AC:21, DR2, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Bloody Dunes]] 3/7)
 	Epsilon. < 0, >
-	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)  - [[The Artifacts...#Artyom's Skin]])`
+	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Artyom's Skin]] 4/4)
 	Gamma. < 0, >
-	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)  - [[The Artifacts...#Radiant Diamond]])`
+	`(AC:22, HP:165, 3x +10 attack, 4d6+7 force (air)`  - [[The Artifacts...#Radiant Diamond]] 5/6)
 13 - Cucu
 11 - Kyria
 11 - Ash
