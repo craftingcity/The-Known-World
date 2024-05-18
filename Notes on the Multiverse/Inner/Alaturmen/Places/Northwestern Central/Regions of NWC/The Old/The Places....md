@@ -304,9 +304,10 @@ West of [[#The Intelligence Center (1d6 RADS)]], a grass alley has been covered 
 In the center of [[#The Base]], south of [[#The Front Gate (2d6 RADS)]] & north of [[#The Old Barracks (1d6 RADS)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, astrewn papers, and covered in blood and blaster marks.
 
 #### The Armory (1d6 RADS)
-East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends into a gated
+East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends into gated sections of boxed goods, weapon racks, and armor stands. The majority of the gates have been opened, and their contents looted, but one locked section remains unlooted.
 
 #### The Infirmary (1d6 RADS)
+
 
 #### The Old Barracks (1d6 RADS)
 
