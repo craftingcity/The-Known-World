@@ -20,7 +20,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Blessed Handblaster Receiver        | upg.      | +1d4 to hit, +1d4   | n/a       | wfm, extramis        | 2.0        |
 | Extended Handblaster Barrel         | upg.      | +1d6                | n/a       | all                  | 4.0        |
 | Refined Carbine Receiver            | upg       | +2 to hit, +2       | n/a       | mercs                | 3.2        |
-| Dual-pop Carbine Receiver           | upg       | +1 to hit, +1 shot  | n/a       | mercs, troopers, wfm | 4.0        |
+| Dual-pop Carbine Receiver           | upg       | +1 to hit, +1d6     | n/a       | mercs, troopers, wfm | 4.0        |
 | Ares Manual-Switch Carbine Receiver | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
 | Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  | 0.8        |
 | Magazine Extender, 40-shot          | upg.      | 4x mag cap          | n/a       | all                  | 2.4        |
