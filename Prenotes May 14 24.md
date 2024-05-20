@@ -25,7 +25,7 @@ We return to the party a week after we last saw them, for today is the 8th of Pr
 The rhythmic rumble of the cart-wheels against the rough-hewn road begins to slow before it takes a sharp left and quickly halts. The depot stands before you, a small two-story building stands boldly on the edge of this thoroughfare, and painted in deep purple paint against the yellow stone - "Web Spun Solutions, Connecting Business in the Deakred Range since 105AF". Edgars dismounts and begins to walk inside.
 
 ### What does the World Know?
-Each of our "mercs" receive 79sp, 8cp for their weekly wages, plus a 25sp Hazard Pay, for a total of 104 sp, 8cp. The one dwarf working in the depot is named Horbart Youngkeeper, and was hired on the same 13-week schedule as the rest of the WSS crew.
+Each of our "mercs" receive 79sp, 8cp for their weekly wages, plus a 25sp Hazard Pay, for a total of 104 sp, 8cp. The one dwarf working in the depot is named Hobart Youngkeeper, and was hired on the same 13-week schedule as the rest of the WSS crew.
 
 When each "merc" returns to their room, they may find something interesting...
 - Eve will find a formal letter upon her pillow;
@@ -45,6 +45,6 @@ When each "merc" returns to their room, they may find something interesting...
   - L."
 
 ### What happened?
-Val Dalm is foreman
+Val Dalm is the Dwarven foreman leading the WSS team in the actual excavation.
 
 We leave our heroes on the date of ... AF, as they ...
