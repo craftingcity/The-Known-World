@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "The Gear...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":7},\"to\":{\"line\":111,\"ch\":4}},\"scroll\":61.95376027466686}"
+                  "title": "MinyostalmaFeatures",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/DUNG/MinyostalmaFeatures.png\"}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -184,8 +184,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "162c3a0c71e93864",
@@ -421,7 +420,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 17 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -447,7 +446,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 17 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -488,7 +487,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 17 24.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
               }
             }
           },
@@ -550,13 +549,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48aa975b524ccf8f",
+  "active": "b2bfd94605d29b41",
   "lastOpenFiles": [
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Ancient Elvish (language).md",
-    "Prenotes May 17 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
+    "Prenotes May 17 24.md",
+    "Ancient Elvish (language).md",
     "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
@@ -579,7 +579,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
     "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
@@ -596,7 +595,6 @@
     "MEDIA/MAPS/WORLD/mosslands_105af.png",
     "MEDIA/MAPS/WORLD/mossburg_105af.png",
     "MEDIA/MAPS/WORLD/huntyr_swamp_105.png",
-    "MEDIA/MAPS/WORLD/hillkeep_105af.png",
-    "MEDIA/MAPS/WORLD/greenland_105af.png"
+    "MEDIA/MAPS/WORLD/hillkeep_105af.png"
   ]
 }

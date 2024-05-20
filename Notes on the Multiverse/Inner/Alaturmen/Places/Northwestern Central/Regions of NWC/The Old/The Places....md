@@ -262,6 +262,9 @@ The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]]
 
 ## The Temple
 #### The Open Cloister (3d6 RADS)
+A beautiful garden ends [[#The City]]'s road south. Spotted with finely crafted benches, tables, and chairs, the Open Cloister plays host to a fun party game; the hedge maze. It remains maintained.
+
+Passing the tables and chairs east will lead to [[#The North Gate (3d6 RADS)]], while passing through the hedge maze will lead 
 
 #### The North Gate (3d6 RADS)
 
@@ -298,12 +301,12 @@ West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafe
 A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars]].
 
 #### The Broken Gate (1d6 RADS)
-West of [[#The Intelligence Center (1d6 RADS)]], a grass alley has been covered in broken glass and snapped metals. The gate surrounding [[#The Base]] has been broken here, but provides little egress, as one must blaze a trail through [[#Grey Forest]] before finding their way - a dangerous task.
+West of [[#The Intelligence Center (1d6 RADS)]], outside, a grass strip behind the building has been covered in broken glass and snapped metals. The gate surrounding [[#The Base]] has been broken here, but provides little egress, as one must blaze a trail through [[#Grey Forest]] before finding their way - a dangerous task.
 
 #### The Intelligence Center (1d6 RADS)
-In the center of [[#The Base]], south of [[#The Front Gate (2d6 RADS)]] & north of [[#The Old Barracks (1d6 RADS)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, astrewn papers, and covered in blood and blaster marks.
+In the center of [[#The Base]], south of [[#The Front Gate (2d6 RADS)]] & north of [[#The Old Barracks (1d6 RADS)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, strewn papers, and covered in blood and blaster marks.
 
-A claustrophobic hall connects The Intelligence Center with the rest of [[#The Base]].
+A claustrophobic series of halls and blast doors connect The Intelligence Center and the rest of [[#The Base]].
 
 #### The Armory (1d6 RADS)
 East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends into gated sections of boxed goods, weapon racks, and armor stands. The majority of the gates have been opened, and their contents looted, but one locked section remains unlooted.
@@ -312,11 +315,16 @@ East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends
 West of [[#The Old Barracks (1d6 RADS)]], the Infirmary is a small section of [[#The Base]] where separated each of the rooms contain a couple beds and medical equipment, but they are all in great disarray.
 
 #### The Old Barracks (1d6 RADS)
+South of [[#The Intelligence Center (1d6 RADS)]], the Old Barracks is seperated from the main building by a small dirt path. In it's time, it was once a warehouse of bunks and lockers, but in the half-century that has passed since it has become re-occupied, the Barracks has genuinely exploded. 
+
+Of what remains, the foundation and a portion of the southern walls remain, but the entire north side of the building has been sundered, and leaves the area more difficult than worthwhile in a tactical situation.
 
 #### The Hangars (1d6 RADS)
+South of [[#The Armory (1d6 RADS)]], three large garages stand suspiciously intact. While they are each and all covered in evidence of a firefight, there is no damage to the buildings themselves.
 
+The westernmost hangar is larger than the others, and each of the two personnel doors remain impassable. The hangar door however, can be forced open. This has led a series of groups to lay claim to this hangar as their hideout - and evidence of this inhabitance remains. 
 
-
+The central hangar's personnel doors are unlocked and openable. Inside, a large machine made of a transparent metal and glowing lights takes most of the interior. There is a box of food and water in the small office, hidden in the floor beneath the filing cabinet.
 
 
 ## The Shipyard
