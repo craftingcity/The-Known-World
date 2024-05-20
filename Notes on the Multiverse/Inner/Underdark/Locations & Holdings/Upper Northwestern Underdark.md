@@ -21,7 +21,7 @@ Northeast still, a large vault contains the Drow city of [[Ungaethram]].
 
 To their east, a dragon hunts.
 
-South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Actstow]] to the far north of [[Coalition City]].
+South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Jammu]].
 
 Far to its south, [[Ootool]] is a fungal city, home to all in the underdark. This is where [[The Whitimores]] fled to after being exiled from [[Ungaethram]].
 
