@@ -29,7 +29,17 @@ WSS Supplies for today's run include:
 	- 2x Metallics Supplies
 	- 1x Specialty Entity Container <'1x Intellect Devourer'>
 
-There will be no 
+There will be no trouble passing through to MC15, but I want to offer the time to the players.
+
+As the party arrives to MC15 in the evening, the drill is operational and miners are preparing to descend for the first Collection Expedition, prosmising our "mercs" that they will finally have something to take back with them to the depot.
+
+One of our Miners, Vander, will be handed the SEC before the group descends for the "night shift" - upon reaching minerals, they will open the box and cause the MC15 Accident; Vander will ascend preemptively. 
+
+Upon dismounting, they will move to the Explosives Container and being planting MineDet Blocks on the supports of the Drill, before entering the barracks in Plot 35 and attempting to slaughter the inhabitants. When Vander becomes less than useful, the Devourer will exit, and seek a new host until it has caused as much chaos as possible.
+
+The party will be tasked with assisting in the rescue operation, where they will discover the depth of the P35 drill - far too deep.
+
+At the "bottom" of the shaft, the floor has given out, and has dropped those who survived the Accident into the Shallows of the [[Underdark]], tending to their wounds in this "natural cave" they have fallen into.
 
 ### What happened?
 
