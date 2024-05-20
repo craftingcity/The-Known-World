@@ -393,7 +393,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Vorpal Shoreline
 > 'A fine sheet of deep blue gemstone, which turns sharp and black at the edges. It does not allow you to touch it, moving with as much force as you supply.'
 > *Vorpal Shoreline* is a **uncommon** artifact, and incurs 4d6 (14) radiation.
-> A *Vorpal Shoreline* is a passive artifact with a triggered effect. When you fall prone involuntarily, including going unconcious, you instead roll 2d8. The first d8 is direction in which you teleport, where 1 is north, and continuing clockwise. The second d8 is the number of 5ft spaces you teleport in that direction.
+> A *Vorpal Shoreline* is a passive artifact with a triggered effect. When you fall prone involuntarily, including going unconscious, you instead roll 2d8. The first d8 is direction in which you teleport, where 1 is north, and continuing clockwise. The second d8 is the number of 5ft spaces you teleport in that direction.
 
 ##### Fire
 < 1 common, 0 uncommon, 1 rare >
