@@ -99,8 +99,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "25dbd98002bf1166",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1ea20e72fc5c2b2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "4ee15c8a79329bb9",
@@ -246,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
               }
             }
           },
@@ -375,10 +418,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0cdc386daba62e97",
+  "active": "e1ea20e72fc5c2b2",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "A Grand Notepad.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
@@ -399,7 +443,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Ancient Elvish (language).md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
     "Prenotes May 16 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

@@ -41,6 +41,8 @@ Artifacts:
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
 
+> 10
+
 STR: 13 (+1)
 CON: 14 (+2)
 DEX: 15 (+2)
@@ -127,6 +129,31 @@ Consumables:
 
 Artifacts:
 	- None
+
+##### "Georgie" - MIA
+AC: 20 (Press. Combat Armor (18+2))
+HP: 81 (6d10 hit die) / Speed: 30
+
+STR: 12 (+1)
+CON: 12 (+1)
+DEX: 15 (+2)
+INT: 13 (+1)
+WIS: 16 (+3)
+CHA: 9 (-1)
+
+*Extra Attack* - You attack twice when you take the attack action on your turn.
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
+
+Georgie's Carbine (41 Fire Rounds ); +7 to hit; 3d6+4
+Dom's Combat Knife; +7 to hit, 1d4+2 slash
+
+Consumables:
+	- Isiopara (2x), 3d4+10 +2 rounds
+
+Artifacts:
+	- None
+
+
 
 ### RHOD
 ##### To-Do
