@@ -42,13 +42,13 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 ~~10 - Gringold~~
 ~~6 - Dae Shim~~
 5 - Op. Astro < 0, 66, 41, 79, 54, 29> 
-	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio, 0x Secr. Prop.))`
+	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (0x Isio, 0x Secr. Prop.))`
 ~~4 - Op. Georgie < 0, >~~
-	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio))`
+	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (0x Isio))`
 4 - Op. Screw < 77 >
-	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
+	`(AC:19, HP:80, 2x +8 attack, 3d6+6 fire (02x Isio, 0x Secr. Prop.))`
 4 - Op. Locus < 0, 49, 29, 14, 0, 40> (xx/)
-	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (2x Isio))`
+	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (0x Isio))`
 4 - Op. Dom < 70 > (x/xxx)
 	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
 1 - Op Bubbles < 87 >
