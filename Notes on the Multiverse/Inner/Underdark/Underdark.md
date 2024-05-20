@@ -22,7 +22,7 @@ aliases: The Deep Below, Deep Below
 	- [[Ungaethram Drow Houses]]
 - **Locations & Holdings**
 	- [[Blurkfraggir]]
-	- [[Deepburrow]]
+	- [[Forgehome]]
 	- [[Great Abadon Lake]]
 	- [[Growth Heart]]
 	- [[Heilich-Muwwoq]]

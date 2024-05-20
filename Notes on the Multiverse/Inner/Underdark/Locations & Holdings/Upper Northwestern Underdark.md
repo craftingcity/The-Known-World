@@ -21,11 +21,11 @@ Northeast still, a large vault contains the Drow city of [[Ungaethram]].
 
 To their east, a dragon hunts.
 
-South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Actstow]] to the far north of [[Coalition City]].
+South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Jammu]].
 
 Far to its south, [[Ootool]] is a fungal city, home to all in the underdark. This is where [[The Whitimores]] fled to after being exiled from [[Ungaethram]].
 
-Centered between the [[Inverted Tower]], [[Deepburrow]], and [[Ungaethram]] is the [[Grazing Fields]]. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
+Centered between the [[Inverted Tower]], [[Forgehome]], and [[Ungaethram]] is the [[Grazing Fields]]. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
 
 South of the Fields, a fungal forest leeches some of the prosperity that the Fields see.
 

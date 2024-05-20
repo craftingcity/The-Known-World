@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0df7454956290d25",
+        "id": "4ee15c8a79329bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d4ecee7c037ce15",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Apr 22 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Apr 22 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":28},\"to\":{\"line\":34,\"ch\":28}},\"scroll\":20.555906999407558}"
-                },
-                {
-                  "title": "The Artifacts...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":404,\"ch\":22},\"to\":{\"line\":404,\"ch\":22}},\"scroll\":395.1307308600918}"
-                },
-                {
-                  "title": "Prenotes May 17 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes May 17 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":84},\"to\":{\"line\":36,\"ch\":84}},\"scroll\":19.643467759696726}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bd9da98aca39ef69",
+            "id": "0cdc386daba62e97",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -59,16 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,9 +207,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,9 +268,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd9da98aca39ef69",
+  "active": "0cdc386daba62e97",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Forgehome.md",
+    "MEDIA/SUPP/underdark.drawio",
+    "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
     "Prenotes May 21 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
@@ -346,7 +301,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
     "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
@@ -355,14 +309,12 @@
     "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
     "MEDIA/SUPP/mountainhall.drawio",
     "MEDIA/SUPP/alatermenianStructures.drawio",
-    "MEDIA/SUPP/SPREADS/radiation.ods",
     "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
     "MEDIA/MAPS/WORLD/quillbuck_105af.png",
     "MEDIA/MAPS/WORLD/north_jungle_105af.png",
     "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
     "MEDIA/MAPS/WORLD/mosslands_105af.png",
     "MEDIA/MAPS/WORLD/mossburg_105af.png",
-    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png",
-    "MEDIA/MAPS/WORLD/hillkeep_105af.png"
+    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png"
   ]
 }

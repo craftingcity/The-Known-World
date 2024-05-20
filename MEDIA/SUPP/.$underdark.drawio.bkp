@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2024-05-20T20:27:15.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="VWAMO_sPk28AhUEkNEV3" version="24.4.0" type="device">
+  <diagram name="Page-1" id="J4fx057bUiqhkMEKVmZ7">
+    <mxGraphModel dx="634" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-12" value="Duergar Territory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-1" value="Howling Warrens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-2" value="Darklake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-3" value="Ammyrain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-4" value="Durgg-Likin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-5" value="Ootool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-6" value="Long River" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-7" value="Inverted Tower" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-8" value="Ungaethram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-9" value="Shadow Dragon&#39;s Lair" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-10" value="Deepburrow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-11" value="Trog Territory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-13" value="Grazing Fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-14" value="Crystal Sea" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-15" value="Growth Heart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLgsgpe8vdSbSwBeYK5R-16" value="Fungal Forest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
