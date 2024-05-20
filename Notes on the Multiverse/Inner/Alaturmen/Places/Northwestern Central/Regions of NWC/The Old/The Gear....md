@@ -72,7 +72,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Blessed Half-plate      | Medium | 17+DEX (max 2) | 2x Arti | wfm, extramis         | 0.8        |
 | Blessed Plate           | Heavy  | 20             | 3x Arti | wfm, extramis         | 1.4        |
 | Darksteel Tank-plate    | Heavy  | 21, DR 2       | 4x Arti | wfm, troopers, fallen | 3.6        |
-| Durandurm Powered Plate | Medium | 23, DR 5       | 5x Arti | fallen                | 16.0       |
+| Durandurm Powered Plate | Medium | 23, DR 5       | 5x Arti | fallen                | 32.0       |
 
 #### RADIATION
 | Name                                                             | Type           | Prot.             | Importers | Cost in AC |     |
