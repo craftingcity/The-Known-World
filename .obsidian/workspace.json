@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Apr 22 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Apr 22 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":28},\"to\":{\"line\":34,\"ch\":28}},\"scroll\":20.555906999407558}"
+                },
+                {
                   "title": "The Artifacts...",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true}}",
@@ -34,13 +40,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd9da98aca39ef69",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "georg",
+                "query": "ghost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md"
               }
             }
           },
@@ -288,8 +316,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d4ecee7c037ce15",
+  "active": "bd9da98aca39ef69",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Prenotes May 17 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
@@ -317,7 +347,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
     "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
