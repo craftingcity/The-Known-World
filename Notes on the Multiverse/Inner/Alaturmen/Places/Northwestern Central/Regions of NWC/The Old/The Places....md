@@ -264,9 +264,10 @@ The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]]
 #### The Open Cloister (3d6 RADS)
 A beautiful garden ends [[#The City]]'s road south. Spotted with finely crafted benches, tables, and chairs, the Open Cloister plays host to a fun party game; the hedge maze. It remains maintained.
 
-Passing the tables and chairs east will lead to [[#The North Gate (3d6 RADS)]], while passing through the hedge maze will lead 
+Passing the tables and chairs east will lead to [[#The North Gate (3d6 RADS)]], while passing through the hedge maze will lead south, into [[#The Graveyard (4d6 RADS)]] and eventually [[#The Dormitories (3d6 RADS)]].
 
 #### The North Gate (3d6 RADS)
+The Fire has claimed the North Gate with thick vines and foliage making passage North inaccessable.
 
 #### The Broken Tower (3d6 RADS)
 
