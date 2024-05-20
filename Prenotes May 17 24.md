@@ -51,7 +51,7 @@ We will begin initiative after the Fallen's turn - they spend their actions prep
 	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (2x Isio))`
 4 - Op. Dom < 0, >
 	`(AC:18, HP:70, 1x +7 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
-1 - Op Bubbles < 60, >
+1 - Op Bubbles < 60, 42>
 	`(AC:20, HP:90, 2x +9 attack, 3d6+6 fire (2x Isio, 1x Secr. Prop.))`
 
 
