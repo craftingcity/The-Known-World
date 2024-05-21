@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eee23a7fadc4730",
+        "id": "5b85420327d5e59d",
         "type": "tabs",
         "children": [
           {
-            "id": "8def1338702a3c40",
+            "id": "f634344588130bab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Prenotes May 21 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "25dbd98002bf1166",
+            "id": "dcd14d62e69a1d66",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,83 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e1ea20e72fc5c2b2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "file": "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ]
-      },
-      {
-        "id": "4ee15c8a79329bb9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cdc386daba62e97",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "367f89ac0f351c82",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 20 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ghost",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -238,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 20 24.md",
+                "file": "Prenotes May 21 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 20 24.md",
+                "file": "Prenotes May 21 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 20 24.md"
+                "file": "Prenotes May 21 24.md"
               }
             }
           },
@@ -367,39 +298,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "367f89ac0f351c82",
+  "active": "f634344588130bab",
   "lastOpenFiles": [
     "Prenotes May 20 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
-    "Prenotes May 03 24.md",
-    "Prenotes May 17 24.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "MEDIA/SUPP/underdark.drawio",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Forgehome.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
+    "MEDIA/SUPP/underdark.drawio",
     "Prenotes May 21 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Ungaethram.md",
+    "Notes on the Multiverse/Inner/Underdark/Groups/The Whitimores.md",
+    "Prenotes May 07 24.md",
+    "Prenotes May 14 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Ancient Elvish (language).md",
+    "Prenotes May 17 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "Ancient Elvish (language).md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
+    "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
     "Prenotes May 16 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Prenotes May 14 24.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
     "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
     "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
