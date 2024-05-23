@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our hero, they had survived a close encounter with a group of Fallen soldiers. After noticing their party-mates complete retreat, Ash decided to stick alongside the Delta 3 Mercenary Squad - with Bubbles at the helm.
 
 While the information you had come to the Base for would certainly still be valuable, Delta 3's primary objective is the elimination of the nuisances operating out of the Western Hangar. 
@@ -76,19 +75,18 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (/1x) Pineapple Grenade (+6 to hit, 15ft sphere, 5d6+20)
 
 ### What happened?
-
-INIT
+###### INIT
 21 - Screw
 20 - Ash
-16 - *Burk*
-16 - *Cherish*
+16 - *Burk* < 0 >
+16 - *Cherish* < 0 >
 12 - Bubbles
-12 - *Tynon*
+12 - *Tynon* < 0 >
 12 - Astro
 11 - Locus
-11 - *Antoy*
+11 - *Antoy* < 0 >
 10 - Dom
 5 - *Harry*
 5 - *Geunaviv*
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, 
