@@ -31,12 +31,14 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (8x) Shoebox AP Mine
 		- (3x) Hill Shaped Mine
 		- (1x) Camelot Detector
+		- (4x) THLAS
 		- (2x) Press. Combat Armor
 		- (5x) Press. Scout Armor
 		- (22x) Durandurm Mag. Fire
 		- (19x) Nova
 		- (18x) Good Liquor
 		- (50x) Sugar
+
 	- Antoy
 		- HP 60, AC 24 (22+2), DR 2
 		- Empty Power Plate + Nova
