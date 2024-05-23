@@ -63,7 +63,17 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- 1x Refined Carbine (+9 to hit/3d6+4 fire)
 		- (/2x) Homemade Fire-bomb (+6 to hit, 5ft sphere, 3d4+8 fire)
 	- Harry (Paralyzed & Poisoned)
+	- HP 45, AC 22 (18+2+2)
+		- Press. Combat Armor + Nova
+		- Soldier - Make 2 Carbine attacks / Make 1 Carbine attack, 1 Grenade attack.
+		- 1x Refined Carbine (+9 to hit/3d6+4 fire)
+		- (/1x) Pineapple Grenade (+6 to hit, 15ft sphere, 5d6+20)
 	- Geunaviv (Paralyzed & Poisoned)
+	- HP 45, AC 22 (18+2+2)
+		- Press. Combat Armor + Nova
+		- Soldier - Make 2 Carbine attacks / Make 1 Carbine attack, 1 Grenade attack.
+		- 1x Refined Carbine (+9 to hit/3d6+4 fire)
+		- (/1x) Pineapple Grenade (+6 to hit, 15ft sphere, 5d6+20)
 
 ### What happened?
 

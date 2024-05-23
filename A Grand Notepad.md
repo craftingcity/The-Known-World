@@ -37,7 +37,7 @@ Artifacts:
 	- Radiant Diamond (Fallen Box)
 	- Vault Key
 
-##### "Screw"
+##### "Screw" Team Specialist
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
 
@@ -63,7 +63,7 @@ Consumables:
 Artifacts:
 	- None
 
-##### "Astro"
+##### "Astro" Team Specialist
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
 
@@ -86,7 +86,7 @@ Consumables:
 Artifacts:
 	- None
 
-##### "Dom"
+##### "Dom" Team Member
 AC: 18 (Press. Scout Armor (18+2))
 HP: 71 (5d10 hit die) / Speed: 30
 
@@ -108,7 +108,7 @@ Consumables:
 Artifacts:
 	- None
 
-##### "Locus"
+##### "Locus" Team Member
 AC: 18 (Press. Scout Armor (18+2))
 HP: 71 (5d10 hit die) / Speed: 30
 
