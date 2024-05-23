@@ -32,17 +32,18 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (1x) Camelot Detector
 		- (4x) THLAS
 		- (5x) Press. Scout Armor
-		- (62x) Durandurm Mag. Fire
+		- (62x) Durandurm Mag. Fire Red
 		- (3x) Crit Nova
 		- (16x) Nova
 		- (18x) Good Liquor
+		- (40x) Isiopara
 		- (50x) Sugar
 	- On the Corpses
 		- Empty Power Plate
 		- (5x) Pressigen Combat Armor
 		- (6x) HEFP1
 		- (5x) Refined Carbine
-		- (2x) Blessed Exteneded
+		- (2x) Blessed Handblaster, Exteneded Barrel
 		- (4x) Pineapple Grenade
 		- (21x) Durandurm Mag. Fire Red
 
