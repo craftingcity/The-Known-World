@@ -34,8 +34,8 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (2x) Press. Combat Armor
 		- (5x) Press. Scout Armor
 		- (22x) Durandurm Mag. Fire
-		- (3x )
-		- (19x) Nova
+		- (3x) Crit Nova
+		- (16x) Nova
 		- (18x) Good Liquor
 		- (50x) Sugar
 
@@ -49,7 +49,7 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- Press. Combat Armor + Nova, HEPF1
 		- Soldier - Make 2 Carbine attacks / Make 1 Carbine attack, 1 Grenade attack.
 		- 1x Refined Carbine (+9 to hit/3d6+4 fire)
-		- (/2x) Pineapple Grenade (+6 to hit, 15ft sphere, 5d6+20)
+		- (x/2x) Pineapple Grenade (+6 to hit, 15ft sphere, 5d6+20)
 	- Cherish
 	- HP 45, AC 22 (18+2+2)
 		- Press. Combat Armor + Nova, HEPF1
