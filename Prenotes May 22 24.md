@@ -34,6 +34,7 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (2x) Press. Combat Armor
 		- (5x) Press. Scout Armor
 		- (22x) Durandurm Mag. Fire
+		- (3x )
 		- (19x) Nova
 		- (18x) Good Liquor
 		- (50x) Sugar
@@ -79,14 +80,14 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 21 - Screw
 20 - Ash
 16 - *Burk* < 0 >
-16 - *Cherish* < 0 >
+~~16 - *Cherish* < 0, 17, 55 >~~
 12 - Bubbles
 12 - *Tynon* < 0 >
 12 - Astro
 11 - Locus
 11 - *Antoy* < 0 >
 10 - Dom
-5 - *Harry*
-5 - *Geunaviv*
+5 - *Harry* < 0 >
+5 - *Geunaviv* < 0 >
 
-We leave our heroes on the date of ... AF, 
+We leave our heroes on the date of ... AF, as they ...
