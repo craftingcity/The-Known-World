@@ -16,10 +16,10 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Scavenged Repeating Blaster         | dunam     | 3d6+DEX             | durandurm | all                  | 0.5        |
 | Pipe Grenade                        | explosive | 10ft sphere, 3d6+16 | n/a       | all                  | 0.2        |
 | Homemade Fire-Bomb                  | fire      | 5ft sphere, 3d4+8   | n/a       | all                  | 0.1        |
-| Refined Handblaster Receiver        | upg.      | +1 to hit, +1d6     | n/a       | mercs, troopers      | 2.0        |
+| Refined Handblaster Receiver        | upg.      | +1 to hit, +1 dam   | n/a       | mercs, troopers      | 2.0        |
 | Blessed Handblaster Receiver        | upg.      | +1d4 to hit, +1d4   | n/a       | wfm, extramis        | 2.0        |
 | Extended Handblaster Barrel         | upg.      | +1d6                | n/a       | all                  | 4.0        |
-| Refined Carbine Receiver            | upg       | +2 to hit, +2       | n/a       | mercs                | 3.2        |
+| Refined Carbine Receiver            | upg       | +2 to hit, +2 dam   | n/a       | mercs                | 3.2        |
 | Dual-pop Carbine Receiver           | upg       | +1 to hit, +1d6     | n/a       | mercs, troopers, wfm | 4.0        |
 | Ares Manual-Switch Carbine Receiver | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
 | Magazine Extender, 20-shot          | upg.      | 2x mag cap          | n/a       | all                  | 0.8        |
