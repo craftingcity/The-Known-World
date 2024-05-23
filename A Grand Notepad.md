@@ -87,7 +87,7 @@ Artifacts:
 	- None
 
 ##### "Dom" Team Member
-AC: 18 (Press. Scout Armor (18+2))
+AC: 18 (Press. Scout Armor (16+2))
 HP: 71 (5d10 hit die) / Speed: 30
 
 STR: 11 (+0)
@@ -109,7 +109,7 @@ Artifacts:
 	- None
 
 ##### "Locus" Team Member
-AC: 18 (Press. Scout Armor (18+2))
+AC: 18 (Press. Scout Armor (16+2))
 HP: 71 (5d10 hit die) / Speed: 30
 
 STR: 11 (+0)
@@ -121,14 +121,14 @@ CHA: 12 (+1)
 
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Dom's Carbine (14 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+Locus's Carbine (14 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
 	- Isiopara (1x), 3d4+10 +2 rounds
 
 Artifacts:
-	- None
+	- Fire Heart-Ruby (3/10)
 
 ##### "Georgie" - MIA
 AC: 20 (Press. Combat Armor (18+2))
@@ -145,7 +145,7 @@ CHA: 9 (-1)
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
 Georgie's Carbine (41 Fire Rounds ); +7 to hit; 3d6+4
-Dom's Combat Knife; +7 to hit, 1d4+2 slash
+Georgie's Combat Knife; +7 to hit, 1d4+2 slash
 
 Consumables:
 	- Isiopara (2x), 3d4+10 +2 rounds

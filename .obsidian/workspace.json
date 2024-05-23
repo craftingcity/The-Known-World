@@ -6,6 +6,7 @@
       {
         "id": "35e420899a489bd4",
         "type": "tabs",
+        "dimension": 58.05489260143199,
         "children": [
           {
             "id": "0d62b11ba095c0ab",
@@ -49,12 +50,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0d954245c457f66e",
         "type": "tabs",
+        "dimension": 41.94510739856802,
         "children": [
           {
             "id": "61b0f35f8cd475db",
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes May 22 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes May 22 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Prenotes May 22 24.md"
               }
             }
           },
@@ -325,15 +326,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98184624839e0503",
+  "active": "0d62b11ba095c0ab",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes May 22 24.md",
     "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
