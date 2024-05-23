@@ -77,7 +77,7 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 
 ### What happened?
 ###### INIT
-21 - Screw (1 isio)
+21 - Screw
 20 - Ash
 16 - *Burk* < 0 >
 ~~16 - *Cherish* < 0, 17, 55 >~~
@@ -85,9 +85,9 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 12 - *Tynon* < 0 >
 12 - Astro
 11 - Locus
-11 - *Antoy* < 0 >
+11 - *Antoy* < 0, 14, 49>
 10 - Dom
 5 - *Harry* < 0 >
-5 - *Geunaviv* < 0 >
+5 - *Geunaviv* (N) < 0 >
 
 We leave our heroes on the date of ... AF, as they ...
