@@ -4,95 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "32bfa389d860414c",
-        "type": "split",
-        "dimension": 58.05489260143199,
+        "id": "35e420899a489bd4",
+        "type": "tabs",
         "children": [
           {
-            "id": "35e420899a489bd4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0d62b11ba095c0ab",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
+            "id": "0d62b11ba095c0ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Prenotes Apr 22 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Apr 22 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":25},\"to\":{\"line\":32,\"ch\":25}},\"scroll\":26.02257400298864}"
                 },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes May 22 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              },
-              {
-                "id": "98184624839e0503",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "A Grand Notepad.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 22 24.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "153b2ef923cd0eb6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "097032d6cb4e5ac7",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes May 22 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "0d954245c457f66e",
-        "type": "tabs",
-        "dimension": 41.94510739856801,
-        "children": [
-          {
-            "id": "61b0f35f8cd475db",
+            "id": "98184624839e0503",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -106,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space-j",
+                "query": "geor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -360,16 +304,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "097032d6cb4e5ac7",
+  "active": "0d62b11ba095c0ab",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Prenotes May 22 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",

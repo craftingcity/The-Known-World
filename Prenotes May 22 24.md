@@ -31,13 +31,20 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- (3x) Hill Shaped Mine
 		- (1x) Camelot Detector
 		- (4x) THLAS
-		- (2x) Press. Combat Armor
 		- (5x) Press. Scout Armor
-		- (22x) Durandurm Mag. Fire
+		- (62x) Durandurm Mag. Fire
 		- (3x) Crit Nova
 		- (16x) Nova
 		- (18x) Good Liquor
 		- (50x) Sugar
+	- On the Corpses
+		- Empty Power Plate
+		- (5x) Pressigen Combat Armor
+		- (6x) HEFP1
+		- (5x) Refined Carbine
+		- (2x) Blessed Exteneded
+		- (4x) Pineapple Grenade
+		- (21x) Durandurm Mag. Fire Red
 
 	- Antoy
 		- HP 60, AC 24 (22+2), DR 2
@@ -82,12 +89,14 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 ~~16 - *Burk* < 0, 16, >~~
 ~~16 - *Cherish* < 0, 17, 55 >~~
 12 - Bubble
-12 - *Tynon* < 0, 16 >
+~~12 - *Tynon* < 0, 16 >~~
 12 - Astro
 11 - Locus
 ~~11 - *Antoy* < 0, 14, 49, 65>~~
 10 - Dom
 ~~5 - *Harry* < 0, 19 >~~
-5 - *Geunaviv* < 0 >
+~~5 - *Geunaviv* < 0 >~~
 
-We leave our heroes on the date of ... AF, as they ...
+The Mercs won the fight. Ash rolled 18 Investigation.
+
+We leave our heroes on the date of 4th of Replowing, 105 AF, as they continue through the Base on the hunt for Ghost's lost PDA.
