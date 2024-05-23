@@ -62,7 +62,7 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 		- Soldier - Make 2 Carbine attacks / Make 1 Carbine attack, 1 Grenade attack.
 		- 1x Refined Carbine (+9 to hit/3d6+4 fire)
 		- (/2x) Homemade Fire-bomb (+6 to hit, 5ft sphere, 3d4+8 fire)
-	- Harry (Prone, Paralyzed & Poisoned)
+	- Harry
 	- HP 45, AC 22 (18+2+2)
 		- Press. Combat Armor + Nova, HEPF1
 		- Soldier - Make 2 Carbine attacks / Make 1 Carbine attack, 1 Grenade attack.
@@ -77,7 +77,7 @@ The Scavs have collected at least one shipment of Arms intended for the Company,
 
 ### What happened?
 ###### INIT
-21 - Screw
+21 - Screw (1 isio)
 20 - Ash
 16 - *Burk* < 0 >
 ~~16 - *Cherish* < 0, 17, 55 >~~
