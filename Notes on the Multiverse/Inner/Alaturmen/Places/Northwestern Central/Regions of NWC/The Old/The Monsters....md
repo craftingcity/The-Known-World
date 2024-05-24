@@ -21,7 +21,7 @@ Medium Monstrosity;
 *Multiattack - 2 Claw, 1 Bite*
 Claw - The Demon attacks. +6 to hit, 2d8+7 slashing.
 Bite - The Demon attacks. +8 to hit, 3d6+7 piercing, then gain a number of temphp equal to the damage.
-Leap - The Demon jumps up in a 20ft long horizontal leap, then makes a Claw attack.
+Leap - The Demon jumps up in a 20ft long horizontal leap, then makes a Claw attack. When 
 ```
 
 #### The Freak

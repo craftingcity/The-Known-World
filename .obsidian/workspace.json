@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "90b37ad8ee5e800c",
+    "id": "5f52aa261a79bdc8",
     "type": "split",
     "children": [
       {
-        "id": "2ee4e28b99f7e64c",
+        "id": "5ce6c3cfb262ff46",
         "type": "tabs",
         "children": [
           {
-            "id": "f023661098862f9f",
+            "id": "dba7f50c2a89b01a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,39 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":5},\"to\":{\"line\":29,\"ch\":5}},\"scroll\":19.950431932168364}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "file": "Prenotes May 24 24.md",
                 "mode": "source",
                 "source": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "f200fe8a1a80900b",
-    "type": "split",
-    "children": [
-      {
-        "id": "1ee778f2eb66d012",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "471fab77001b02ee",
+            "id": "1982371cf167583a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -60,19 +41,30 @@
               ]
             },
             "state": {
-              "type": "search",
+              "type": "markdown",
               "state": {
-                "query": "geor",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+                "mode": "source",
+                "source": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a18deb3adc33bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b9e4e3788e0230",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8a09bf3a4e0bad9d",
+            "id": "32a1ca7a8d6ec426",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,7 +83,30 @@
             }
           },
           {
-            "id": "b28ee8c1edfb54e0",
+            "id": "3987b496be09d044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d41ee7e70d03995f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0476f4dd748fe52",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -106,55 +121,28 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "bd14ca20169ae62a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "22b1fb456ad17b5a",
+    "id": "da0e5aa812cd01d8",
     "type": "split",
     "children": [
       {
-        "id": "345ad8dc0249f6ff",
+        "id": "18603e72bfb94e49",
         "type": "tabs",
         "children": [
           {
-            "id": "214128aa17851074",
+            "id": "7d42013b695a19bf",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,38 +154,20 @@
             }
           },
           {
-            "id": "a784ad59b314c9b4",
+            "id": "2226593058a66b15",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60736712cabd0795",
+            "id": "0a6d42b415aae950",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -207,36 +177,8 @@
             }
           },
           {
-            "id": "f44a3da8351e916d",
+            "id": "b73fb4040350d53c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
-              }
-            }
-          },
-          {
-            "id": "80422839fc762c53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -247,24 +189,16 @@
             }
           },
           {
-            "id": "6d2d44a8fde5439f",
+            "id": "73a9c33238efbb2d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,63 +207,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f023661098862f9f",
+  "active": "1982371cf167583a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "A Grand Notepad.md",
-    "Prenotes May 22 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 24 24.md",
-    "Prenotes May 03 24.md",
-    "Prenotes May 17 24.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "MEDIA/SUPP/underdark.drawio",
-    "MEDIA/MAPS/WORLD/underdark.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-    "Prenotes May 21 24.md",
-    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "Ancient Elvish (language).md",
-    "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
-    "Prenotes May 16 24.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Prenotes May 14 24.md",
-    "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
-    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
-    "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
-    "MEDIA/SUPP/SPREADS/battlemat.ods",
-    "MEDIA/SUPP/AlchemicalComponentsChart.png",
-    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
-    "MEDIA/SUPP/mountainhall.drawio",
-    "MEDIA/SUPP/alatermenianStructures.drawio",
-    "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
-    "MEDIA/MAPS/WORLD/quillbuck_105af.png",
-    "MEDIA/MAPS/WORLD/north_jungle_105af.png",
-    "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
-    "MEDIA/MAPS/WORLD/mosslands_105af.png",
-    "MEDIA/MAPS/WORLD/mossburg_105af.png",
-    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png"
+    "Prenotes May 24 24.md",
+    "conflict-files-obsidian-git.md"
   ]
 }

@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
-## Party of Interest: /*LINK*/
+# Prenotes for May 24th
+## Party of Interest: [[Cathouse Game#Millie-Side]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -15,7 +15,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they faced a squad of Fallen on their way towards the Infirmary - but failed to overcome this resistance, and fled into the Grey Forest. While you may have expected your hired Mercenaries to join you in flight, they have not, and neither has Ash. You have left them all to fight alone against the Fallen as the conflict moves into the Mess Hall.
+
+The Front Gate of the Base quickly becomes hidden by wicked grey trees and thick foliage as you run into the Grey Forest.
 
 ### What does the World Know?
 
