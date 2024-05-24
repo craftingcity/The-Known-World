@@ -21,7 +21,7 @@ Medium Monstrosity;
 *Multiattack - 2 Claw, 1 Bite*
 Claw - The Demon attacks. +6 to hit, 2d8+7 slashing.
 Bite - The Demon attacks. +8 to hit, 3d6+7 piercing, then gain a number of temphp equal to the damage.
-Leap - The Demon jumps up in a 20ft long horizontal leap, then makes a Claw attack. When 
+Leap - The Demon jumps up in a 20ft long horizontal leap, then makes a Claw attack. When a creature is hit by this attack, they must succeed on a DC 18 Strength Save or they fall prone.
 ```
 
 #### The Freak
@@ -38,7 +38,7 @@ Evade, reaction - The Freak missed a Claw attack after Leaping, and rolls 10ft a
 ```
 
 #### The Hidden Man
-> '*Rumors of small stout men with telekinetic abilities unmarred by the air of the Old swamp the journals of dead scavs, some as silly as men dying to flung tins of beans, but few believe that these creatures exist. They do, and flying foods is the least of a Scavs concerns.*'
+> '*Rumors of small stout men with telekinetic abilities litter the journals of dead scavs, some as silly as men dying to flung tins of beans, but few believe that these creatures exist. They do, and flying foods is the least of a Scavs concerns.*'
 
 ```
 Small Humanoid;
@@ -50,7 +50,7 @@ Claw - The Hidden Man attacks. +6 to hit, 2d8+8 slashing, incur double Radiation
 ```
 
 #### The Jumper
-> '*A fishlike creature standing on four legs stands and screams before leaping through the air with incredible speed. The Jumper specializes in hit-and-run tactics to hunt individual targets of opportunity.*'
+> '*A fishlike creature standing on four legs halts and screams before leaping through the air with incredible speed. The Jumper specializes in hit-and-run tactics to hunt individual targets of opportunity.*'
 
 ```
 Medium Monstrosity;
