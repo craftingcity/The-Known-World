@@ -2,15 +2,6 @@
 tags: notes
 ---
 # Notes
-
-Shrine to the missing of the [[Wildlands]]
-
-Temples and Shrines to the Gods
-
-Bag-head bandits.
-
-a cavernous meteiorite
-
 #### Bubble's Mercs - Delta 3
 ##### "Bubble" - Team Lead
 AC: 21 (Press. Combat Armor (18+3))
@@ -215,3 +206,4 @@ magical items
 - [[Magical Items of Note]]
 - [[Books To Write]]
 - [[Faction Turn]]
+- [[Kaliqeill, Lich of Orcus]]
