@@ -5,7 +5,7 @@ aliases:
 
 # Orcish Shamans
 %% Begin Waypoint %%
-- **[[Orcish Shamans]]**
-	- [[Macht]]
+- [[Katz Brood]]
+- [[Macht]]
 
 %% End Waypoint %%
