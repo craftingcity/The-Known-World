@@ -20,7 +20,9 @@ When last we left our heroes, they faced a squad of Fallen on their way towards 
 The Front Gate of the Base quickly becomes hidden by wicked grey trees and thick foliage as you run into the Grey Forest. It takes only a minute before the sounds of the gunfire become muffled, and the fog thickens beneath your feet. 
 
 ### What does the World Know?
-At the beginning of the session, I will have everyone roll individual Survival Checks. Some folks might get lost, 
+At the beginning of the session, I will have everyone roll individual Survival Checks. Some folks might get lost, at most we should split into two groups, high and low.
+
+When folks gather together, they will encounter a pack of Scav Zombies on their way into the Base, as they heard the gunfire and became interested. If there is a "low" group, they will encounter the Demon before it reaches the "high" group and the pack of Zombies.
 
 ### What happened?
 
