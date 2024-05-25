@@ -1,35 +1,14 @@
 {
   "main": {
-    "id": "5f52aa261a79bdc8",
+    "id": "90b37ad8ee5e800c",
     "type": "split",
     "children": [
       {
-        "id": "c7048b0975e36ab1",
+        "id": "9f78493f91a0ea6a",
         "type": "tabs",
         "children": [
           {
-            "id": "afd9f9c29b8a9722",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7eb2bc848146bd84",
+            "id": "620aee042d366b4f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,15 +28,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f200fe8a1a80900b",
+    "type": "split",
+    "children": [
       {
-        "id": "71b9ad4852719233",
+        "id": "1ee778f2eb66d012",
         "type": "tabs",
         "children": [
           {
-            "id": "c38d56e275bc4f67",
+            "id": "471fab77001b02ee",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -69,29 +54,19 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "search",
               "state": {
-                "file": "Notes on the Multiverse/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
+                "query": "geor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "6a18deb3adc33bcf",
-    "type": "split",
-    "children": [
-      {
-        "id": "69b9e4e3788e0230",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "32a1ca7a8d6ec426",
+            "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -110,48 +85,7 @@
             }
           },
           {
-            "id": "3987b496be09d044",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Mossburg",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "d41ee7e70d03995f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0476f4dd748fe52",
+            "id": "b28ee8c1edfb54e0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -166,24 +100,41 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "bd14ca20169ae62a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "da0e5aa812cd01d8",
+    "id": "22b1fb456ad17b5a",
     "type": "split",
     "children": [
       {
-        "id": "18603e72bfb94e49",
+        "id": "345ad8dc0249f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7d42013b695a19bf",
+            "id": "214128aa17851074",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -209,7 +160,7 @@
             }
           },
           {
-            "id": "2226593058a66b15",
+            "id": "a784ad59b314c9b4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -230,7 +181,7 @@
             }
           },
           {
-            "id": "0a6d42b415aae950",
+            "id": "60736712cabd0795",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -250,7 +201,26 @@
             }
           },
           {
-            "id": "b73fb4040350d53c",
+            "id": "f44a3da8351e916d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
+              }
+            }
+          },
+          {
+            "id": "80422839fc762c53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -271,7 +241,7 @@
             }
           },
           {
-            "id": "73a9c33238efbb2d",
+            "id": "6d2d44a8fde5439f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -283,13 +253,12 @@
               ]
             },
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -298,125 +267,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "7141d9723bfbaba9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ba7898ab87a3047c",
-        "type": "window",
-        "children": [
-          {
-            "id": "4f5297040d9a5d5e",
-            "type": "split",
-            "children": [
-              {
-                "id": "400c18506f147292",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "bd49499087939f5e",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "fb31d9da32c227af",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ffd4036aa27a1a0f",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "7eb2bc848146bd84",
+  "active": "620aee042d366b4f",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Game Notes/Campaigns.md",
-    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/Inner/Inner.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md"
+    "Prenotes May 24 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md",
+    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 21 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 17 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 07 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 03 24.md",
+    "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md",
+    "A Grand Notepad.md",
+    "Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
+    "MEDIA/SUPP/underdark.drawio",
+    "MEDIA/MAPS/WORLD/underdark.png",
+    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
+    "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
+    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
+    "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
+    "MEDIA/SUPP/SPREADS/battlemat.ods",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
+    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
+    "MEDIA/SUPP/mountainhall.drawio",
+    "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/quillbuck_105af.png",
+    "MEDIA/MAPS/WORLD/north_jungle_105af.png",
+    "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
+    "MEDIA/MAPS/WORLD/mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/mossburg_105af.png",
+    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png"
   ]
 }
