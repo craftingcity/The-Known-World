@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Gear...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.265506092062746}"
+                },
+                {
+                  "title": "Arms and Armor - North East",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arms and Armor - North West",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arms and Armor - South West",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Equipment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arms and Armor - South East",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Equipment",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md\",\"mode\":\"source\",\"source\":true}}",
@@ -52,11 +88,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
                 "mode": "source",
                 "source": true
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "f7eeae3404608ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be7c63ffa54c2ac7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "82a4050c345e3891"
+          },
+          {
+            "id": "0c9f3ff6d264ad4e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+              }
+            },
+            "group": "82a4050c345e3891"
           }
         ]
       }
@@ -152,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 463.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -177,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md"
               }
             }
           }
@@ -290,8 +374,12 @@
   },
   "active": "6392ef8e1739c8ef",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment",
     "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md",
