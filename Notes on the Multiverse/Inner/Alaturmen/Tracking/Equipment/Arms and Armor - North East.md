@@ -1,8 +1,13 @@
 # Arms
 ## Melee Weapons
-| Weapon | Range | Damage | Tags | Cost |
-| ------ | ----- | ------ | ---- | ---- |
-|D|       |        |      |      |
+| Weapon       | Range | Damage | Tags                        | Cost |
+| ------------ | ----- | ------ | --------------------------- | ---- |
+| Sickle       | 5ft   | 1d3    | light                       | 11sp |
+| Hooksword    | 5ft   | 1d10   | two-handed, special(disarm) | 95sp | 
+| Light Dagger | 5ft   | 1d4    | light, quick                | 13sp |
+| Shortsword   | 5ft   | 1d6    | light                       | 45sp |
+| Longsword    | 5ft   | 1d8    | versatile (2d8)             | 75sp |
+|              |       |        |                             |      |
 
 ## Ranged Weapons
 | Weapon | Range | Damage | Tags | Cost |
