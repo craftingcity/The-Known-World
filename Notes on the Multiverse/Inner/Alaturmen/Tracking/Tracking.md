@@ -6,6 +6,7 @@ aliases:
 # Tracking
 %% Begin Waypoint %%
 - **[[Economy Pages]]**
+- **Equipment**
 - [[Magic Item Authors]]
 - [[Magical Items of Note]]
 - [[Merchant Companies and their Routes]]
