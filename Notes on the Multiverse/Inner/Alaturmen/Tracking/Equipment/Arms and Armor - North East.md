@@ -2,7 +2,7 @@
 ## Melee Weapons
 | Weapon | Range | Damage | Tags | Cost |
 | ------ | ----- | ------ | ---- | ---- |
-|        |       |        |      |      |
+|D|       |        |      |      |
 
 ## Ranged Weapons
 | Weapon | Range | Damage | Tags | Cost |
