@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Washington.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington.md"
+                "file": "Nuclear Washington/Nuclear Washington.md"
               }
             }
           }
@@ -261,6 +261,8 @@
   "active": "69b0127ae815e905",
   "lastOpenFiles": [
     "Nuclear Washington.md",
+    "Nuclear Washington/Nuclear Washington.md",
+    "Nuclear Washington",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
@@ -286,7 +288,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }

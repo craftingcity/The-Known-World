@@ -1,3 +1,9 @@
+---
+tags: folderfile
+aliases:
+---
+
+# Nuclear Washington
 ##### A man answers the phone. 
 He was asleep moments ago, but he can never afford to miss a call. The person on the other end of the line begins to speak. The man's expression sharpens from his dazed slumber, first into confusion, then realization, and defeat. He sits up from his bed.
 
@@ -16,4 +22,18 @@ The man looks to the horizon. It is July 20th, 2018, and the sun rises upon both
 ## How did we get here?
 In a timeline much like our own, in the year 2006, a CIA operational team was sent to a settlement in Iraq, where they attempted to locate and disable a known nuclear weapon manufacturing plant. This team was successful in doing so, and discovered a large cache of active warheads during their operation. 
 
-That team has not been heard from since, 
+That team has not been heard from since. The cache was never reported.
+
+12 years later, 23 nuclear missiles were launched from multiple locations across the globe. Reasonably, this caused massive panic, and many nuclear-capable powers decided that mutually assured destruction would be enforced, and launched much of their own arsenals in retaliations.
+
+July 20th, 2018 was the day the world broke.
+
+## Where are we now?
+Thirty-five years have passed since nuclear armageddon swept the world. Nuclear winter made the first dozen years incredibly difficult. Nothing grew. Everything hurt. 
+
+Things have changed since it passed - not for the better, of course, but for the weirder. Things have changed. People have changed. Nature has changed. We're not the top of the food chain anymore.
+
+%% Begin Waypoint %%
+
+
+%% End Waypoint %%
