@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our hero, they had accompanied Delta 3 into a contract against some Scavs who have been causing profit-loss by occupying the Hangars. While you didn't get the drop on them, you found yourself and your companions handling the situation quite finely.
 
 After clearing the Western Hangar, you and the Mercs scavenged what you could from the corpses before taking them outside and behind the hangar.

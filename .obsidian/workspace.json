@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b42bf2226d79bd99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Grand Notepad.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes May 26 24.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes May 26 24.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes May 26 24.md"
+                "file": "A Grand Notepad.md"
               }
             }
           }
@@ -340,10 +362,10 @@
       }
     ]
   },
-  "active": "ca0ca0a0bd48a009",
+  "active": "b42bf2226d79bd99",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Prenotes May 26 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "conflict-files-obsidian-git.md",

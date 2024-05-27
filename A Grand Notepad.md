@@ -18,7 +18,7 @@ CHA: 14 (+2)
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 *There, lads!* - Once per encounter, as a bonus action, you may have one ally take a move or a standard action.
 
-Bubble's Carbine (54 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +9 to hit; 4d6+6
+Bubble's Carbine (49 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +9 to hit; 4d6+6
 Bubble's Combat Knife; +9 to hit, 1d4+3 slash
 
 Consumables:
@@ -45,7 +45,7 @@ CHA: 14 (+2)
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 *Gnoll Heritage* - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
-Screw's Carbine (38 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
+Screw's Carbine (32 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
 Screw's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
@@ -68,7 +68,7 @@ CHA: 14 (+2)
 *Extra Attack* - You attack twice when you take the attack action on your turn.
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Astro's Carbine (39 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
+Astro's Carbine (24 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
 Astro's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
@@ -90,7 +90,7 @@ CHA: 11 (+0)
 
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Dom's Carbine (47 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+Dom's Carbine (36 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
@@ -112,7 +112,7 @@ CHA: 12 (+1)
 
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Locus's Carbine (14 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+Locus's Carbine (33 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
