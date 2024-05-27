@@ -145,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +230,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -256,157 +252,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "7141d9723bfbaba9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ba7898ab87a3047c",
-        "type": "window",
-        "children": [
-          {
-            "id": "4f5297040d9a5d5e",
-            "type": "split",
-            "children": [
-              {
-                "id": "400c18506f147292",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "6dabfac837773f29",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 1,
-                      "stack": [
-                        {
-                          "title": "GrainIntoGold",
-                          "icon": "lucide-file-text",
-                          "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/GrainIntoGold.pdf\"}}",
-                          "eState": "{}"
-                        },
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "5348621d9cdc5f2d",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Arms and Armor - North East",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md\",\"mode\":\"source\",\"source\":true},\"popstate\":true,\"active\":true}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "9fff0081f6d7b6dd",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "fb31d9da32c227af",
-                    "type": "tabs",
-                    "dimension": 68.31683168316832,
-                    "children": [
-                      {
-                        "id": "ffd4036aa27a1a0f",
-                        "type": "leaf",
-                        "pane-relief:history-v1": {
-                          "pos": 0,
-                          "stack": [
-                            {
-                              "state": "{}",
-                              "eState": "{}"
-                            }
-                          ]
-                        },
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                            "mode": "source",
-                            "source": true
-                          }
-                        },
-                        "group": "8c5ff7610d0e40f3"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "7a3e33e16720fcba",
-                    "type": "tabs",
-                    "dimension": 31.683168316831683,
-                    "children": [
-                      {
-                        "id": "f881a85cf9e14cc7",
-                        "type": "leaf",
-                        "pane-relief:history-v1": {
-                          "pos": 0,
-                          "stack": [
-                            {
-                              "state": "{}",
-                              "eState": "{}"
-                            }
-                          ]
-                        },
-                        "state": {
-                          "type": "outline",
-                          "state": {
-                            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
-                          }
-                        },
-                        "group": "8c5ff7610d0e40f3"
-                      }
-                    ]
-                  }
-                ],
-                "direction": "vertical"
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "6dabfac837773f29",
+  "active": "69b0127ae815e905",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
