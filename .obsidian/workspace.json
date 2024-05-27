@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Nuclear Washington",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":13},\"to\":{\"line\":34,\"ch\":13}},\"scroll\":17.557603414646866}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "Nuclear Washington/Legal Fifth Edition.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "geor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +124,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22b1fb456ad17b5a",
@@ -148,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "Nuclear Washington/Legal Fifth Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "Nuclear Washington/Legal Fifth Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md"
+                "file": "Nuclear Washington/Legal Fifth Edition.md"
               }
             }
           },
@@ -279,9 +285,10 @@
   },
   "active": "47986529894d78e9",
   "lastOpenFiles": [
+    "Nuclear Washington/Nuclear Washington.md",
+    "Nuclear Washington/Legal Fifth Edition.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Prenotes May 26 24.md",
-    "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
@@ -306,7 +313,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "MEDIA/SUPP/underdark.drawio",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
