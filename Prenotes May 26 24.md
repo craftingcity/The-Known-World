@@ -23,6 +23,9 @@ The Mercs have secured the Hangar, two watch each of the windows, and two watch 
 
 ### What does the World Know?
 
+We need to move to the Infirmary to gather Intel, and then RTB to the Factory to pick up a new contract.
+
+
 
 ### What happened?
 

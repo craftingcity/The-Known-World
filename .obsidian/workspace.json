@@ -8,33 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7462ba3c761b8a77",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Custom Cultures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "ca0ca0a0bd48a009",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -55,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,6 +344,7 @@
   "lastOpenFiles": [
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Prenotes May 26 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
@@ -380,7 +353,6 @@
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Campaigns.md",
     "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
