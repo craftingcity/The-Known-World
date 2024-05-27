@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "2be286e5c6d2936d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b42bf2226d79bd99",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -171,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
               }
             }
           }
@@ -362,15 +383,15 @@
       }
     ]
   },
-  "active": "b42bf2226d79bd99",
+  "active": "2be286e5c6d2936d",
   "lastOpenFiles": [
     "Prenotes May 26 24.md",
+    "A Grand Notepad.md",
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
-    "A Grand Notepad.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",

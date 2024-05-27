@@ -22,7 +22,8 @@ Bubble's Carbine (49 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +9 to hit; 4d6+6
 Bubble's Combat Knife; +9 to hit, 1d4+3 slash
 
 Consumables:
-	- None
+	- Pineapple Grenade, (2x) (15ft sphere, 5d6+20)
+	- Isiopara, 5x (3d4+10 +2 rounds)
 
 Artifacts:
 	- Radiant Diamond (Fallen Box)
@@ -31,8 +32,6 @@ Artifacts:
 ##### "Screw" Team Specialist
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
-
-> 10
 
 STR: 13 (+1)
 CON: 14 (+2)
@@ -49,7 +48,8 @@ Screw's Carbine (32 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
 Screw's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
-	- Isiopara (1x), 3d4+10 +2 rounds
+	- Isiopara, 6x (3d4+10 +2 rounds)
+	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
 
 Artifacts:
 	- None
@@ -72,7 +72,8 @@ Astro's Carbine (24 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
 Astro's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
-	- None
+	- Isiopara, 5x (3d4+10 +2 rounds)
+	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
 
 Artifacts:
 	- None
@@ -94,7 +95,8 @@ Dom's Carbine (36 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
-	- None
+	- Isiopara, 5x (3d4+10 +2 rounds)
+	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
 
 Artifacts:
 	- None
@@ -116,7 +118,8 @@ Locus's Carbine (33 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
-	- Isiopara (1x), 3d4+10 +2 rounds
+	- Isiopara, 6x (3d4+10 +2 rounds)
+	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
 
 Artifacts:
 	- Fire Heart-Ruby (3/10)
