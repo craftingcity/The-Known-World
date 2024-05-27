@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "90b37ad8ee5e800c",
+    "id": "5f52aa261a79bdc8",
     "type": "split",
     "children": [
       {
-        "id": "d74cf5a301081343",
+        "id": "91ee53169fda7ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "47986529894d78e9",
+            "id": "69b0127ae815e905",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Nuclear Washington",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":13},\"to\":{\"line\":34,\"ch\":13}},\"scroll\":17.557603414646866}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Washington/Legal Fifth Edition.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "mode": "source",
                 "source": true
               }
@@ -40,39 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f200fe8a1a80900b",
+    "id": "6a18deb3adc33bcf",
     "type": "split",
     "children": [
       {
-        "id": "1ee778f2eb66d012",
+        "id": "69b9e4e3788e0230",
         "type": "tabs",
         "children": [
           {
-            "id": "471fab77001b02ee",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "8a09bf3a4e0bad9d",
+            "id": "32a1ca7a8d6ec426",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,7 +61,7 @@
             }
           },
           {
-            "id": "b28ee8c1edfb54e0",
+            "id": "3987b496be09d044",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -103,12 +73,19 @@
               ]
             },
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "Mossburg",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "bd14ca20169ae62a",
+            "id": "d41ee7e70d03995f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -123,24 +100,40 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b0476f4dd748fe52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 463.51240158081055
   },
   "right": {
-    "id": "22b1fb456ad17b5a",
+    "id": "da0e5aa812cd01d8",
     "type": "split",
     "children": [
       {
-        "id": "345ad8dc0249f6ff",
+        "id": "18603e72bfb94e49",
         "type": "tabs",
         "children": [
           {
-            "id": "214128aa17851074",
+            "id": "7d42013b695a19bf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -154,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/Legal Fifth Edition.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +159,7 @@
             }
           },
           {
-            "id": "a784ad59b314c9b4",
+            "id": "2226593058a66b15",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -180,14 +173,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/Legal Fifth Edition.md",
+                "file": "Nuclear Washington/Nuclear Washington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60736712cabd0795",
+            "id": "0a6d42b415aae950",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -207,26 +200,7 @@
             }
           },
           {
-            "id": "f44a3da8351e916d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Nuclear Washington/Legal Fifth Edition.md"
-              }
-            }
-          },
-          {
-            "id": "80422839fc762c53",
+            "id": "b73fb4040350d53c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -247,7 +221,7 @@
             }
           },
           {
-            "id": "6d2d44a8fde5439f",
+            "id": "73a9c33238efbb2d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -259,12 +233,13 @@
               ]
             },
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Nuclear Washington/Nuclear Washington.md"
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,63 +248,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47986529894d78e9",
+  "active": "69b0127ae815e905",
   "lastOpenFiles": [
-    "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/Legal Fifth Edition.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Prenotes May 26 24.md",
+    "Nuclear Washington.md",
+    "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "A Grand Notepad.md",
+    "Prenotes May 26 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Big Lore/Timeline.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
+    "Game Notes/Campaigns.md",
+    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment",
-    "Prenotes May 24 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
-    "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md",
-    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 21 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 17 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 07 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 03 24.md",
-    "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md",
-    "A Grand Notepad.md",
-    "Prenotes May 22 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "MEDIA/SUPP/underdark.drawio",
-    "MEDIA/MAPS/WORLD/underdark.png",
-    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
-    "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
-    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
-    "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
-    "MEDIA/SUPP/SPREADS/battlemat.ods",
-    "MEDIA/SUPP/AlchemicalComponentsChart.png",
-    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
-    "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
-    "MEDIA/MAPS/WORLD/quillbuck_105af.png",
-    "MEDIA/MAPS/WORLD/north_jungle_105af.png",
-    "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
-    "MEDIA/MAPS/WORLD/mosslands_105af.png",
-    "MEDIA/MAPS/WORLD/mossburg_105af.png",
-    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
