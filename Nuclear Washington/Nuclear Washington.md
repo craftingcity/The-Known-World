@@ -20,18 +20,13 @@ He takes a drink. A long drink. He knows that he will never enjoy another drink 
 The man looks to the horizon. It is July 20th, 2018, and the sun rises upon both coasts of the United States of America.
 
 ## How did we get here?
-In a timeline much like our own, in the year 2006, a CIA operational team was sent to a settlement in Iraq, where they attempted to locate and disable a known nuclear weapon manufacturing plant. This team was successful in doing so, and discovered a large cache of active warheads during their operation. 
+In a timeline much like our own, in the year 2006, a CIA operational team was sent to a settlement in Iraq, where they attempted to locate and disable a known Weapon of Mass Destruction. Operational Command immediately lost radio contact with the team, and secondary operations revealed little to nothing.
 
-That team has not been heard from since. The cache was never reported.
+Six years later, on December 21st, 2012, while people around the world were celebrating the theoretical end of the world - as based on misunderstandings of the Mesoamerican Long-Count Calendar - a chemical bomb was detonated over Louisville, Kentucky. 
 
-12 years later, 23 nuclear missiles were launched from multiple locations across the globe. Reasonably, this caused massive panic, and many nuclear-capable powers decided that mutually assured destruction would be enforced, and launched much of their own arsenals in retaliations.
+Thousands died immediately. As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and they were spreading this disease.
 
-July 20th, 2018 was the day the world broke.
-
-## Where are we now?
-Thirty-five years have passed since nuclear armageddon swept the world. Seattle was hit directly, and at least 4 other warheads were deployed around Washington. Nuclear winter made the first dozen years incredibly difficult. Nothing grew. Everything hurt. 
-
-Things have changed since it passed - not for the better, of course, but for the weirder. Things have changed. People have changed. Nature has changed. We're not the top of the food chain anymore.
+When the Kentucky Quarantine reached international headlines, countries began to revoke the right to  transportation to or from the States. 
 
 %% Begin Waypoint %%
 

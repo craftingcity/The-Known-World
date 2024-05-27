@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "5f52aa261a79bdc8",
+    "id": "90b37ad8ee5e800c",
     "type": "split",
     "children": [
       {
-        "id": "91ee53169fda7ffe",
+        "id": "d74cf5a301081343",
         "type": "tabs",
         "children": [
           {
-            "id": "69b0127ae815e905",
+            "id": "47986529894d78e9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -34,15 +34,39 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a18deb3adc33bcf",
+    "id": "f200fe8a1a80900b",
     "type": "split",
     "children": [
       {
-        "id": "69b9e4e3788e0230",
+        "id": "1ee778f2eb66d012",
         "type": "tabs",
         "children": [
           {
-            "id": "32a1ca7a8d6ec426",
+            "id": "471fab77001b02ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "geor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a09bf3a4e0bad9d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,48 +85,7 @@
             }
           },
           {
-            "id": "3987b496be09d044",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Mossburg",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "d41ee7e70d03995f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0476f4dd748fe52",
+            "id": "b28ee8c1edfb54e0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,23 +100,41 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "bd14ca20169ae62a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "da0e5aa812cd01d8",
+    "id": "22b1fb456ad17b5a",
     "type": "split",
     "children": [
       {
-        "id": "18603e72bfb94e49",
+        "id": "345ad8dc0249f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7d42013b695a19bf",
+            "id": "214128aa17851074",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -159,7 +160,7 @@
             }
           },
           {
-            "id": "2226593058a66b15",
+            "id": "a784ad59b314c9b4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -180,7 +181,7 @@
             }
           },
           {
-            "id": "0a6d42b415aae950",
+            "id": "60736712cabd0795",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -200,7 +201,26 @@
             }
           },
           {
-            "id": "b73fb4040350d53c",
+            "id": "f44a3da8351e916d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nuclear Washington/Nuclear Washington.md"
+              }
+            }
+          },
+          {
+            "id": "80422839fc762c53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -221,7 +241,7 @@
             }
           },
           {
-            "id": "73a9c33238efbb2d",
+            "id": "6d2d44a8fde5439f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -233,13 +253,12 @@
               ]
             },
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -248,46 +267,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69b0127ae815e905",
+  "active": "47986529894d78e9",
   "lastOpenFiles": [
-    "Nuclear Washington.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Prenotes May 26 24.md",
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "A Grand Notepad.md",
-    "Prenotes May 26 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
-    "Game Notes/Campaigns.md",
-    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment",
+    "Prenotes May 24 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
+    "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md",
+    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 21 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 17 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 07 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 03 24.md",
+    "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md",
+    "A Grand Notepad.md",
+    "Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 22 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "MEDIA/SUPP/underdark.drawio",
+    "MEDIA/MAPS/WORLD/underdark.png",
+    "MEDIA/MAPS/WORLD/TheOld-080AF-player.png",
+    "MEDIA/SUPP/SPREADS/population_to_jobs.ods",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "MEDIA/SUPP/DOCS/TRAPS_FOR_ALL_TASTES_-_random_traps_for_every_eventuality.pdf",
+    "MEDIA/SUPP/DOCS/Revised_Carrying_Capacity.pdf",
+    "MEDIA/SUPP/DOCS/ArmsAndEquipment35.pdf",
+    "MEDIA/SUPP/SPREADS/battlemat.ods",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
+    "MEDIA/SUPP/SPREADS/metallic_armor_pricings.ods",
+    "MEDIA/MAPS/WORLD/west_mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/quillbuck_105af.png",
+    "MEDIA/MAPS/WORLD/north_jungle_105af.png",
+    "MEDIA/MAPS/WORLD/mountain_halls_105af.png",
+    "MEDIA/MAPS/WORLD/mosslands_105af.png",
+    "MEDIA/MAPS/WORLD/mossburg_105af.png",
+    "MEDIA/MAPS/WORLD/huntyr_swamp_105.png"
   ]
 }
