@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d74cf5a301081343",
+        "id": "41af47d8b43dfaa5",
         "type": "tabs",
         "children": [
           {
-            "id": "47986529894d78e9",
+            "id": "2ab16a9765304921",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -283,10 +283,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47986529894d78e9",
+  "active": "2ab16a9765304921",
   "lastOpenFiles": [
-    "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/Legal Fifth Edition.md",
+    "Nuclear Washington/Nuclear Washington.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Prenotes May 26 24.md",
     "Nuclear Washington",
