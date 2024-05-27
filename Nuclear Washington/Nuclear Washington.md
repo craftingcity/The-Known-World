@@ -29,7 +29,7 @@ That team has not been heard from since. The cache was never reported.
 July 20th, 2018 was the day the world broke.
 
 ## Where are we now?
-Thirty-five years have passed since nuclear armageddon swept the world. Nuclear winter made the first dozen years incredibly difficult. Nothing grew. Everything hurt. 
+Thirty-five years have passed since nuclear armageddon swept the world. Seattle was hit directly, and at least 4 other warheads were deployed around Washington. Nuclear winter made the first dozen years incredibly difficult. Nothing grew. Everything hurt. 
 
 Things have changed since it passed - not for the better, of course, but for the weirder. Things have changed. People have changed. Nature has changed. We're not the top of the food chain anymore.
 
