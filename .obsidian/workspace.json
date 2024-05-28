@@ -71,12 +71,8 @@
                       ]
                     },
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
-                        "mode": "source",
-                        "source": true
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
@@ -116,12 +112,8 @@
                       ]
                     },
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
-                        "mode": "source",
-                        "source": true
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ],
@@ -156,12 +148,8 @@
                       ]
                     },
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
-                        "mode": "source",
-                        "source": true
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ]
