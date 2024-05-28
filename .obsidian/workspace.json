@@ -20,8 +20,14 @@
                     "id": "69b0127ae815e905",
                     "type": "leaf",
                     "pane-relief:history-v1": {
-                      "pos": 0,
+                      "pos": 1,
                       "stack": [
+                        {
+                          "title": "Battlefield Equipment",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Battlefield Equipment.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                        },
                         {
                           "state": "{}",
                           "eState": "{}"
@@ -72,8 +78,30 @@
                         "source": true
                       }
                     }
+                  },
+                  {
+                    "id": "d7d655124e4a3209",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Nuclear Washington/Untitled.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "42a1250d084a4853",
@@ -240,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055,
-    "collapsed": true
+    "width": 463.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -266,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/Ranged Weapons.md",
+                "file": "Nuclear Washington/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/Ranged Weapons.md",
+                "file": "Nuclear Washington/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington/Ranged Weapons.md"
+                "file": "Nuclear Washington/Untitled.md"
               }
             }
           }
@@ -377,10 +404,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "69b0127ae815e905",
+  "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
-    "Nuclear Washington/Melee Weapons.md",
     "Nuclear Washington/Ranged Weapons.md",
+    "Nuclear Washington/Untitled.md",
+    "Nuclear Washington/Battlefield Equipment.md",
+    "Nuclear Washington/Melee Weapons.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/Legal Fifth Edition.md",
@@ -405,8 +434,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
     "Game Notes/Campaigns.md",
-    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
