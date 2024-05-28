@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ranged Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Melee Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ranged Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Melee Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
+                },
+                {
                   "title": "Nuclear Washington",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
@@ -128,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055,
-    "collapsed": true
+    "width": 463.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -267,8 +290,9 @@
   },
   "active": "69b0127ae815e905",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Nuclear Washington/Ranged Weapons.md",
     "Nuclear Washington/Melee Weapons.md",
+    "conflict-files-obsidian-git.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -294,7 +318,6 @@
     "Game Notes/Campaigns.md",
     "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
