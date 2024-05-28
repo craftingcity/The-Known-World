@@ -33,30 +33,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e9207c3154aad160",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055
+    "width": 463.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -175,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Nuclear Washington/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Nuclear Washington/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Nuclear Washington/Melee Weapons.md"
               }
             }
           }
@@ -286,10 +265,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e9207c3154aad160",
+  "active": "69b0127ae815e905",
   "lastOpenFiles": [
-    "Nuclear Washington/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
+    "Nuclear Washington/Melee Weapons.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
