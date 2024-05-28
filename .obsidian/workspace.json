@@ -4,189 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab7b66ee22ab730",
-        "type": "split",
+        "id": "2ddda03420570ad0",
+        "type": "tabs",
         "children": [
           {
-            "id": "d502c4193ea7bdd5",
-            "type": "split",
-            "dimension": 69.63562753036437,
-            "children": [
-              {
-                "id": "91ee53169fda7ffe",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "69b0127ae815e905",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 1,
-                      "stack": [
-                        {
-                          "title": "Battlefield Equipment",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Battlefield Equipment.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
-                        },
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Melee Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":24},\"to\":{\"line\":26,\"ch\":24}},\"scroll\":0}"
-                        },
-                        {
-                          "title": "Ranged Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}},\"scroll\":0}"
-                        },
-                        {
-                          "title": "Melee Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Ranged Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Melee Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
-                        },
-                        {
-                          "title": "Nuclear Washington",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":448},\"to\":{\"line\":26,\"ch\":448}},\"scroll\":19.04491732320098}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "d7d655124e4a3209",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Ranged Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Melee Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Nuclear Washington",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Throwable Weapons",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "42a1250d084a4853",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "efd5f8f7f2c35566",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Nuclear Washington",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Legal Fifth Edition",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Legal Fifth Edition.md\",\"mode\":\"source\",\"source\":true}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "e41f2e75c60957ab",
-            "type": "tabs",
-            "dimension": 30.364372469635626,
-            "children": [
-              {
-                "id": "5af1c6cd2db7087e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
+            "id": "548eb77caf76c04f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                    "mode": "source",
-                    "source": true
-                  }
+                {
+                  "title": "Prenotes May 22 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes May 22 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes May 24 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes May 24 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md"
               }
             }
           }
@@ -416,15 +270,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7d655124e4a3209",
+  "active": "548eb77caf76c04f",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington/Battlefield Equipment.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
@@ -439,7 +295,6 @@
     "A Grand Notepad.md",
     "Prenotes May 26 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",

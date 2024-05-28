@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for May 21st
+# Prenotes for May 28th
 ## Party of Interest: [[NewSarahouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -15,9 +15,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had continued their work. As they travelled to and froe, they began to come under an understanding of the politics of this area they now work within. On the night of the 8th, two letters were discovered - one each by Thomas and Eve.
+When last we left our heroes, they had continued their work. As they travelled to and fro, they began to come under an understanding of the politics of this area they now work within. On the night of the 8th, two letters were discovered - one each by Thomas and Eve.
 
-As we return to the party, little time has passed. It is the morning of the 9th, and you must return to work. You know this is not right. You know you could do more. You know that you need to eat, and food costs coin. Back to work.
+As we return to the party, little time has passed. It is the morning of the 9th, and you must return to work. You know in your heart of hearts that this is not right for you. You know you could do more. Alas, you know that you need to eat, and food costs coin. Back to work.
 
 You have returned to the Web Spun Depot, where Edgars awaits your assistance in loading your trip's packages.
 
@@ -31,7 +31,7 @@ WSS Supplies for today's run include:
 
 There will be no trouble passing through to MC15, but I want to offer the time to the players.
 
-As the party arrives to MC15 in the evening, the drill is operational and miners are preparing to descend for the first Collection Expedition, prosmising our "mercs" that they will finally have something to take back with them to the depot.
+As the party arrives to MC15 in the evening, the drill is operational and miners are preparing to descend for the first Collection Expedition, promising our "mercs" that they will finally have something to take back with them to the depot.
 
 One of our Miners, Vander, will be handed the SEC before the group descends for the "night shift" - upon reaching minerals, they will open the box and cause the MC15 Accident; Vander will ascend preemptively. 
 
