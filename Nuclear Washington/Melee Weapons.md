@@ -24,4 +24,4 @@
 | Wood Axe / Fire Axe |           |                     |      |
 | Battleaxe           |           |                     |      |
 | Greataxe            |           |                     |      |
-| Chain               |           |                     |      |
+| Chainlock           |           |                     |      |
