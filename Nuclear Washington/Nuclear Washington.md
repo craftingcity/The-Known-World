@@ -36,8 +36,9 @@ You survived.
 
 %% Begin Waypoint %%
 - [[Legal Fifth Edition]]
-- [[Melee Weapons]]
-- [[Ranged Weapons]]
-- [[Untitled]]
+- **N.W. Weapon Rules**
+	- [[Melee Weapons]]
+	- [[Ranged Weapons]]
+	- [[Throwable Weapons]]
 
 %% End Waypoint %%

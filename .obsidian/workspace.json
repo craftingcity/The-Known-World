@@ -35,31 +35,31 @@
                         {
                           "title": "Melee Weapons",
                           "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                           "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":24},\"to\":{\"line\":26,\"ch\":24}},\"scroll\":0}"
                         },
                         {
                           "title": "Ranged Weapons",
                           "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                           "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}},\"scroll\":0}"
                         },
                         {
                           "title": "Melee Weapons",
                           "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                           "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                         },
                         {
                           "title": "Ranged Weapons",
                           "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                           "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                         },
                         {
                           "title": "Melee Weapons",
                           "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                           "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
                         },
                         {
@@ -73,7 +73,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Nuclear Washington/Ranged Weapons.md",
+                        "file": "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
                         "mode": "source",
                         "source": true
                       }
@@ -88,13 +88,37 @@
                         {
                           "state": "{}",
                           "eState": "{}"
+                        },
+                        {
+                          "title": "Ranged Weapons",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Melee Weapons",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Nuclear Washington",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Throwable Weapons",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                         }
                       ]
                     },
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Nuclear Washington/Untitled.md",
+                        "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
                         "mode": "source",
                         "source": true
                       }
@@ -134,7 +158,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Nuclear Washington/Melee Weapons.md",
+                        "file": "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
                         "mode": "source",
                         "source": true
                       }
@@ -293,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/Untitled.md",
+                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/Untitled.md",
+                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +405,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington/Untitled.md"
+                "file": "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md"
               }
             }
           }
@@ -404,14 +428,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32a1ca7a8d6ec426",
+  "active": "d7d655124e4a3209",
   "lastOpenFiles": [
-    "Nuclear Washington/Ranged Weapons.md",
-    "Nuclear Washington/Untitled.md",
-    "Nuclear Washington/Battlefield Equipment.md",
-    "Nuclear Washington/Melee Weapons.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
+    "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
     "Nuclear Washington/Nuclear Washington.md",
+    "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
+    "Nuclear Washington/N.W. Weapon Rules",
+    "Nuclear Washington/Battlefield Equipment.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
@@ -433,7 +458,6 @@
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
-    "Game Notes/Campaigns.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
