@@ -10,6 +10,7 @@
           {
             "id": "d502c4193ea7bdd5",
             "type": "split",
+            "dimension": 69.63562753036437,
             "children": [
               {
                 "id": "91ee53169fda7ffe",
@@ -119,6 +120,7 @@
           {
             "id": "e41f2e75c60957ab",
             "type": "tabs",
+            "dimension": 30.364372469635626,
             "children": [
               {
                 "id": "5af1c6cd2db7087e",
@@ -378,8 +380,8 @@
   "active": "69b0127ae815e905",
   "lastOpenFiles": [
     "Nuclear Washington/Melee Weapons.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/Ranged Weapons.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "conflict-files-obsidian-git.md",

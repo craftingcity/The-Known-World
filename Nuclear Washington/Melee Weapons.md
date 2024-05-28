@@ -25,4 +25,4 @@
 | Wood Axe / Fire Axe | 2d8 slash  | heavy, two-handed, fragile (d20)            |      |
 | Battleaxe           | 2d8 slash  | heavy, two-handed                           |      |
 | Greataxe            | 2d12 slash | heavy, two-handed                           |      |
-| Chainlock           | 2d4 bludg   | two-handed, long                            |      |
+| Chainlock           | 2d4 bludg  | two-handed, long                            |      |
