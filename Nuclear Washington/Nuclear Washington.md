@@ -36,5 +36,6 @@ You survived.
 
 %% Begin Waypoint %%
 - [[Legal Fifth Edition]]
+- [[Melee Weapons]]
 
 %% End Waypoint %%
