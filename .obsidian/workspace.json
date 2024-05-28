@@ -16,19 +16,38 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Nuclear Washington",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nuclear Washington/Nuclear Washington.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":448},\"to\":{\"line\":26,\"ch\":448}},\"scroll\":19.04491732320098}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "Nuclear Washington/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9207c3154aad160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuclear Washington/Nuclear Washington.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -258,13 +277,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "69b0127ae815e905",
+  "active": "e9207c3154aad160",
   "lastOpenFiles": [
+    "Nuclear Washington/Melee Weapons.md",
+    "conflict-files-obsidian-git.md",
     "Nuclear Washington/Legal Fifth Edition.md",
-    "Nuclear Washington.md",
-    "Nuclear Washington/Nuclear Washington.md",
-    "Nuclear Washington",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Nuclear Washington/Nuclear Washington.md",
+    "Nuclear Washington.md",
+    "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -276,7 +298,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Big Lore/Timeline.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
@@ -284,10 +305,8 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
     "Game Notes/Campaigns.md",
     "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
