@@ -18,13 +18,31 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Infection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Infection.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Bombings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Bombings.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":26},\"to\":{\"line\":34,\"ch\":26}},\"scroll\":23.490641967721874}"
+                },
+                {
                   "title": "Special Weapons",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Special Weapons.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Nuclear Washington",
+                  "title": "Seattle Exports Misery",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
@@ -40,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md"
+                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
               }
             }
           }
@@ -276,10 +294,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32a1ca7a8d6ec426",
+  "active": "f93e480a1983551b",
   "lastOpenFiles": [
-    "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
+    "Seattle Exports Misery/The Infection.md",
+    "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Seattle Exports Misery/Factions of Puget Sound",
+    "Seattle Exports Misery/Untitled.md",
+    "Seattle Exports Misery/The Bombings.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
@@ -303,10 +326,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Romeo's Party's Journals.md",
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Cultures.md",
-    "Notes on the Multiverse/Big Lore/Timeline.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }

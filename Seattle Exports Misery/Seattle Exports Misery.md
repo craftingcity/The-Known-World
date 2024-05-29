@@ -32,10 +32,13 @@ Years passed, and the infection spread. News from the East Coast came slower and
 
 On July 20th, 2015, the international community launched a series of preventative nuclear strikes on North America in an attempt to eliminate the possibility of spreading the infection beyond the States' borders.
 
-You survived.
+You survived. What's next?
 
 %% Begin Waypoint %%
+- **Factions of Puget Sound**
 - [[Legal Fifth Edition]]
+- [[The Bombings]]
+- [[The Infection]]
 - **Weapon Rules**
 	- [[Melee Weapons]]
 	- [[Ranged Weapons]]
