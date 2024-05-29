@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e7ecaa8dab6998",
+        "id": "aec28a57b970f698",
         "type": "tabs",
         "children": [
           {
-            "id": "31b47deb6e8d104a",
+            "id": "f93e480a1983551b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,34 +16,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0bf69bc6cd2186bc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Special Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Special Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nuclear Washington",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ranged Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":14},\"to\":{\"line\":40,\"ch\":14}},\"scroll\":9.940361303510638}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
+                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
+                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md"
+                "file": "Seattle Exports Misery/Seattle Exports Misery.md"
               }
             }
           }
@@ -280,24 +276,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "31b47deb6e8d104a",
+  "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
+    "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
+    "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
-    "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
+    "Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
     "Prenotes May 26 24.md",
-    "Nuclear Washington/Nuclear Washington.md",
-    "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
-    "Nuclear Washington/N.W. Weapon Rules",
+    "Seattle Exports Misery/Weapon Rules",
     "Nuclear Washington/Battlefield Equipment.md",
-    "Nuclear Washington/Legal Fifth Edition.md",
+    "Seattle Exports Misery/Legal Fifth Edition.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Nuclear Washington.md",
-    "Nuclear Washington",
+    "Seattle Exports Misery",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",

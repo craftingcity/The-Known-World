@@ -3,7 +3,7 @@ tags: folderfile
 aliases:
 ---
 
-# Nuclear Washington
+# Seattle Exports Misery
 ##### A man answers the phone. 
 He was asleep moments ago, but he can never afford to miss a call. The person on the other end of the line begins to speak. As he listens, the man's expression sharpens from dazed slumber, first shaping into confusion, then realization, and finally, acceptance in defeat. He sits up from his bed.
 
@@ -36,9 +36,9 @@ You survived.
 
 %% Begin Waypoint %%
 - [[Legal Fifth Edition]]
-- **N.W. Weapon Rules**
+- **Weapon Rules**
 	- [[Melee Weapons]]
 	- [[Ranged Weapons]]
-	- [[Throwable Weapons]]
+	- [[Special Weapons]]
 
 %% End Waypoint %%
