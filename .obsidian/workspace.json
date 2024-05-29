@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mossburg",
+                "query": "hoba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "31b47deb6e8d104a",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",

@@ -49,5 +49,6 @@ At the "bottom" of the shaft, the floor has given out, and has dropped those who
 
 ### What happened?
 
+Eve wrote a letter to her mom on the trip to MC15.
 
 We leave our heroes on the date of ... AF, as they ...
