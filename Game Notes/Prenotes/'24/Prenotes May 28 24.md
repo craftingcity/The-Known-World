@@ -51,4 +51,13 @@ At the "bottom" of the shaft, the floor has given out, and has dropped those who
 
 Eve wrote a letter to her mom on the trip to MC15.
 
+Init
+23 - Bhodie
+16 - Eve
+14 - Simon BigBlankey
+11 - Intellect
+9 - Thomas
+8 - Rowan
+7 - Marilynn
+
 We leave our heroes on the date of ... AF, as they ...
