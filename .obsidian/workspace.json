@@ -4,100 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "aec28a57b970f698",
-        "type": "tabs",
+        "id": "5bf9ead426a54f8a",
+        "type": "split",
         "children": [
           {
-            "id": "f93e480a1983551b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "48109fe3d8c5f319",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80e16fa696c1503b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
                 },
-                {
-                  "title": "Factions of Puget Sound",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":44}}}"
-                },
-                {
-                  "title": "The Infection",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Infection.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Bombings",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Bombings.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":26},\"to\":{\"line\":34,\"ch\":26}},\"scroll\":23.490641967721874}"
-                },
-                {
-                  "title": "Special Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Special Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ranged Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":14},\"to\":{\"line\":40,\"ch\":14}},\"scroll\":9.940361303510638}"
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Seattle Exports Misery/The Infection.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
-                "mode": "source",
-                "source": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "48109fe3d8c5f319",
-        "type": "tabs",
-        "children": [
+            ]
+          },
           {
-            "id": "80e16fa696c1503b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "2c81d347ec30fc2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f93e480a1983551b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Factions of Puget Sound",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":44}}}"
+                    },
+                    {
+                      "title": "The Infection",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Infection.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "The Bombings",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Bombings.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Seattle Exports Misery",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":26},\"to\":{\"line\":34,\"ch\":26}},\"scroll\":23.490641967721874}"
+                    },
+                    {
+                      "title": "Special Weapons",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Special Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Seattle Exports Misery",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Ranged Weapons",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Weapon Rules/Ranged Weapons.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":14},\"to\":{\"line\":40,\"ch\":14}},\"scroll\":9.940361303510638}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seattle Exports Misery/The Infection.md",
-                "mode": "source",
-                "source": true
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -191,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.51240158081055
+    "width": 463.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
