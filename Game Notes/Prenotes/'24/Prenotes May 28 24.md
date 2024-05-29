@@ -44,6 +44,8 @@ At the "bottom" of the shaft, the floor has given out, and has dropped those who
 	- Fairray
 	- Pog
 	- Yaser
+	- Kead
+	- Bronson
 
 ### What happened?
 
