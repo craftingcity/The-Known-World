@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Factions of Puget Sound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":44}}}"
+                },
+                {
                   "title": "The Infection",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/The Infection.md\",\"mode\":\"source\",\"source\":true}}",
@@ -58,7 +64,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "48109fe3d8c5f319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e16fa696c1503b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seattle Exports Misery/The Infection.md",
                 "mode": "source",
                 "source": true
               }
@@ -183,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Seattle Exports Misery/The Infection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Seattle Exports Misery/The Infection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+                "file": "Seattle Exports Misery/The Infection.md"
               }
             }
           }
@@ -294,14 +327,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f93e480a1983551b",
+  "active": "80e16fa696c1503b",
   "lastOpenFiles": [
+    "Seattle Exports Misery/Seattle Exports Misery.md",
     "Seattle Exports Misery/The Infection.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery/Untitled.md",
     "Seattle Exports Misery/The Bombings.md",
-    "Seattle Exports Misery/Seattle Exports Misery.md",
     "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
