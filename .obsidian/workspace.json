@@ -27,6 +27,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0bf69bc6cd2186bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -75,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hoba",
+                "query": "forema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,15 +280,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "31b47deb6e8d104a",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
     "Prenotes May 26 24.md",
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
-    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington/Battlefield Equipment.md",
     "Nuclear Washington/Legal Fifth Edition.md",
@@ -289,7 +311,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
   ]
 }
