@@ -20,15 +20,15 @@ He coughs for a minute, and wipes a drop of blood from his mouth. He takes a dri
 The man looks to the horizon. It is July 20th, 2015, and the sun rises upon both coasts of the United States of America.
 
 ##### How did we get here?
-In a timeline much like our own, in the year 2006, a CIA operational team was sent to a settlement in Iraq, where they attempted to locate and disable a known Weapon of Mass Destruction. Operational Command immediately lost radio contact with the team, and secondary operations revealed little to nothing.
+In a timeline much like our own, in the year 2006, a CIA operational team was sent to a settlement in Iraq, where they attempted to locate and disable a known Weapon of Mass Destruction. Operational Command immediately lost radio contact with the team, and secondary operations revealed little to nothing. The first operation's team members were declared MIA, and were never recovered.
 
-Six years later, on December 21st, 2012, while people around the world were celebrating the theoretical end of the world - as based on misunderstandings of the Mesoamerican Long-Count Calendar - a chemical bomb was detonated over Louisville, Kentucky. 
+Six years later, on December 21st, 2012, while people around the world were celebrating the theoretical end of the world - as based on misunderstandings of the Mesoamerican Long-Count Calendar - a chemical bomb was detonated over Louisville, Kentucky. Thousands died immediately. 
 
-Thousands died immediately. As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and they were spreading this disease.
+As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and they were spreading this disease across the States.
 
-When the Kentucky Quarantine reached international headlines, countries began to revoke the right to transportation into or out of the States. Within the year, the international community had abandoned North America wholly. 
+When the Kentucky Quarantine Breach reached international headlines, countries quickly began to revoke the right to transportation into or out of the States. Within the year, the international community had abandoned North America wholly. 
 
-Years passed, and the infection spread. News from the East Coast came slower and slower, before stopping entirely.
+As the infection spread, news from the East Coast came slower and slower, before stopping entirely.
 
 On July 20th, 2015, the international community launched a series of preventative nuclear strikes on North America in an attempt to eliminate the possibility of spreading the infection beyond the States' borders.
 
