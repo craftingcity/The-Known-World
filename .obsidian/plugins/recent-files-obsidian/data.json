@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'24/Prenotes May 28 24.md"
     },
     {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
       "basename": "Prenotes May 22 24",
       "path": "Game Notes/Prenotes/'24/Prenotes May 22 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Grovetenders",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Grovetenders.md"
-    },
-    {
-      "basename": "Zalfari",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Zalfari.md"
     }
   ],
   "omittedPaths": [],
