@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had continued their work. As they travelled to and fro, they began to come under an understanding of the politics of this area they now work within. On the night of the 8th, two letters were discovered - one each by Thomas and Eve.
+When last we left our heroes, they had continued their work. As they travelled to and froe, they began to come under an understanding of the politics of this area they now work within. On the night of the 8th, two letters were discovered - one each by Thomas and Eve.
 
 As we return to the party, little time has passed. It is the morning of the 9th, and you must return to work. You know in your heart of hearts that this is not right for you. You know you could do more. Alas, you know that you need to eat, and food costs coin. Back to work.
 
@@ -40,8 +40,24 @@ Upon dismounting, they will move to the Explosives Container and being planting 
 The party will be tasked with assisting in the rescue operation, where they will discover the depth of the P35 drill - far too deep.
 
 At the "bottom" of the shaft, the floor has given out, and has dropped those who survived the Accident into the Shallows of the [[Underdark]], tending to their wounds in this "natural cave" they have fallen into.
+	- Deckard
+	- Fairray
+	- Pog
+	- Yaser
+	- Kead
+	- Bronson
 
 ### What happened?
 
+Eve wrote a letter to her mom on the trip to MC15.
+
+Init
+23 - Bhodie
+16 - Eve
+14 - Simon BigBlankey
+11 - Intellect
+9 - Thomas
+8 - Rowan
+7 - Marilynn
 
 We leave our heroes on the date of ... AF, as they ...
