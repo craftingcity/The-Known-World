@@ -35,7 +35,7 @@ On July 20th, 2015, the international community launched a series of preventativ
 You survived. What's next?
 
 %% Begin Waypoint %%
-- **Factions of Puget Sound**
+- **[[Factions of Puget Sound]]**
 - [[Legal Fifth Edition]]
 - [[The Bombings]]
 - [[The Infection]]
