@@ -21,6 +21,21 @@ We're already in the inside of the Infirmary, so we should pass through the Inte
 
 ### What happened?
 ##### INIT
+22 - *Ash*
+20 - Green C
+18 - OP. Dom
+16 - OP. Bubbles
+16 - *OP. Astro* (Shots;-II)
+16 - Green B
+15 - Orange D
+13 - OP. Locus (Shot)
+13 - Green A
+7 - Orange B
+5 - Orange C
+4 - Green E
+3 - OP. Screw
+3 - Orange A
+3 - Green D
 
 
 
