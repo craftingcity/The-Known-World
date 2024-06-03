@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddda03420570ad0",
+        "id": "b662f16329177ead",
         "type": "tabs",
         "children": [
           {
-            "id": "548eb77caf76c04f",
+            "id": "f5417d5b22cbb022",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,55 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The Democratic Combine of Peoples",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Combine Citizens",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Custom Weapon Mechanics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Weapons of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":76.18597018475934}"
-                },
-                {
-                  "title": "Prenotes May 28 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes May 28 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes May 22 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes May 22 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes May 24 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes May 24 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "mode": "source",
                 "source": true
               }
@@ -190,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
               }
             }
           }
@@ -301,8 +259,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "548eb77caf76c04f",
+  "active": "f5417d5b22cbb022",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
@@ -332,7 +291,6 @@
     "Nuclear Washington/Battlefield Equipment.md",
     "Nuclear Washington/Legal Fifth Edition.md",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-    "Nuclear Washington.md",
     "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
