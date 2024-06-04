@@ -96,9 +96,51 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8c177eec1480f42c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac2f605ad67478bd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seattle Exports Misery/Seattle Exports Misery.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
               }
             }
           }
@@ -329,10 +371,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8623954f9bf6a755",
+  "active": "ac2f605ad67478bd",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Prenotes Jun 03 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
@@ -360,7 +403,6 @@
     "Nuclear Washington/Nuclear Washington.md",
     "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules",
-    "Nuclear Washington/Battlefield Equipment.md",
     "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"

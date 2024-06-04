@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The Texts Druidic",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
       "basename": "Seattle Exports Misery",
       "path": "Seattle Exports Misery/Seattle Exports Misery.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Ancient Elvish (language)",
       "path": "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md"
-    },
-    {
-      "basename": "Katz Brood",
-      "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md"
-    },
-    {
-      "basename": "Northern Conflicts of 105AF",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md"
     }
   ],
   "omittedPaths": [],
