@@ -5,20 +5,36 @@
       "path": "Prenotes Jun 03 24.md"
     },
     {
-      "basename": "Southeastern Central",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
     },
     {
-      "basename": "Central Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Central Alaturmen.md"
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Custom Languages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
+    },
+    {
+      "basename": "The Texts Druidic",
+      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "Seattle Exports Misery",
+      "path": "Seattle Exports Misery/Seattle Exports Misery.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
     },
     {
       "basename": "Mossburg",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
-    },
-    {
-      "basename": "Custom Weapon Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
@@ -27,6 +43,10 @@
     {
       "basename": "Combine Citizens",
       "path": "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md"
+    },
+    {
+      "basename": "Custom Weapon Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -55,10 +75,6 @@
     {
       "basename": "The Infection",
       "path": "Seattle Exports Misery/The Infection.md"
-    },
-    {
-      "basename": "Seattle Exports Misery",
-      "path": "Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Factions of Puget Sound",
@@ -183,22 +199,6 @@
     {
       "basename": "The Monsters...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
-    },
-    {
-      "basename": "Guild of Adventurers Admission of Knowledge Assessment 1",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Ancient Elvish (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md"
-    },
-    {
-      "basename": "Katz Brood",
-      "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md"
     }
   ],
   "omittedPaths": [],

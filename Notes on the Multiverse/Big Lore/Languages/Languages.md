@@ -22,9 +22,9 @@ Before and forever after this event, however, the Titans of the Time Before Time
 	- [[Golopak (language)]]
 	- [[Kantine (language)]]
 	- [[Montal (language)]]
-- [[Ancient Elvish (language)]]
 - **Time Before Time**
 	- [[Abyssal (language)]]
+	- [[Ancient Elvish (language)]]
 	- [[Astral Goblin (language)]]
 	- [[Celestial (language)]]
 	- [[Draconic (language)]]
