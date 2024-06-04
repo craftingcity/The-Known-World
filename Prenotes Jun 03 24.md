@@ -30,7 +30,7 @@ Hey gamers, lets see what we're working with.
 - You know or work with someone in the above factions.
 - Many people are headed North to fight in the [[Northern Conflicts of 105AF]], did you know someone who left? Why did they stop mailing you?
 - Rumors still rumble about the treasures of [[Kailkeep]].
-- You know someone who was hurt at the recent Garrison Explosion.
+- You know someone who was hurt at the recent **Garrison Explosion**.
 
 ##### I know you...
 - ... we're related! What's our relationship like, and how do we feel about it?
