@@ -77,6 +77,33 @@
             }
           },
           {
+            "id": "fa47f6efe1bae4eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Big Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Big Lore/Big Lore.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8623954f9bf6a755",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -139,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human",
+                "query": "languages",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
+                "file": "Prenotes Jun 03 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
+                "file": "Prenotes Jun 03 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
+                "file": "Prenotes Jun 03 24.md"
               }
             }
           }
@@ -371,12 +397,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ac2f605ad67478bd",
+  "active": "548eb77caf76c04f",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
+    "Notes on the Multiverse/Big Lore/Big Lore.md",
+    "Prenotes Jun 03 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Prenotes Jun 03 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md",
@@ -398,10 +428,6 @@
     "MEDIA/MEDIA.md",
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 24 24.md",
-    "Nuclear Washington/N.W. Weapon Rules/Ranged Weapons.md",
-    "Nuclear Washington/N.W. Weapon Rules/Melee Weapons.md",
-    "Nuclear Washington/Nuclear Washington.md",
-    "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

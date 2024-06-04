@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes Jun 03 24",
+      "path": "Prenotes Jun 03 24.md"
+    },
+    {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Custom Languages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
+    },
+    {
       "basename": "The Texts Druidic",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
-    },
-    {
-      "basename": "Prenotes Jun 03 24",
-      "path": "Prenotes Jun 03 24.md"
     },
     {
       "basename": "Mossburg",
@@ -187,18 +199,6 @@
     {
       "basename": "The Monsters...",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
-    },
-    {
-      "basename": "Guild of Adventurers Admission of Knowledge Assessment 1",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Texts/Guild Texts/Guild of Adventurers Admission of Knowledge Assessment 1.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Ancient Elvish (language)",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Ancient Elvish (language).md"
     }
   ],
   "omittedPaths": [],
