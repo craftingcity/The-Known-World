@@ -5,6 +5,10 @@
       "path": "Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
       "basename": "Prenotes Jun 03 24",
       "path": "Prenotes Jun 03 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Northern Conflicts of 105AF",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md"
-    },
-    {
-      "basename": "Prenotes May 03 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes May 03 24.md"
     }
   ],
   "omittedPaths": [],

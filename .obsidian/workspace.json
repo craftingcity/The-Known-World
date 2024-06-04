@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "human",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +188,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,8 +331,9 @@
   },
   "active": "8623954f9bf6a755",
   "lastOpenFiles": [
-    "Prenotes Jun 03 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Prenotes Jun 03 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md",
@@ -359,7 +361,6 @@
     "Nuclear Washington/N.W. Weapon Rules/Throwable Weapons.md",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington/Battlefield Equipment.md",
-    "Nuclear Washington/Legal Fifth Edition.md",
     "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
