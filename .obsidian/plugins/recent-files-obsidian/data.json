@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Factions of Puget Sound",
-      "path": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+      "basename": "Combat Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
     },
     {
-      "basename": "Seattle Exports Misery",
-      "path": "Seattle Exports Misery/Seattle Exports Misery.md"
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Big Lore",
+      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
+    },
+    {
+      "basename": "Custom Languages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
     },
     {
       "basename": "The Texts Druidic",
@@ -17,32 +25,8 @@
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Prenotes May 31st 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes May 31st 24.md"
-    },
-    {
-      "basename": "Prenotes May 26 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes May 26 24.md"
-    },
-    {
-      "basename": "Prenotes Jun 03 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Jun 03 24.md"
-    },
-    {
-      "basename": "Combat Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
-    },
-    {
-      "basename": "Big Lore",
-      "path": "Notes on the Multiverse/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Custom Languages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md"
+      "basename": "Seattle Exports Misery",
+      "path": "Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Custom Heritages",
@@ -87,6 +71,10 @@
     {
       "basename": "The Infection",
       "path": "Seattle Exports Misery/The Infection.md"
+    },
+    {
+      "basename": "Factions of Puget Sound",
+      "path": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
     },
     {
       "basename": "The Bombings",
