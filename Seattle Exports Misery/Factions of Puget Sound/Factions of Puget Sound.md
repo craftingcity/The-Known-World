@@ -17,6 +17,10 @@ aliases:
 Headquartered; Seahurst - St. Francis Church
 Manpower / Population; 12 / 37
 Area of Operation; Inglesea, Seahurst, Gregory Heights, Burien
+#### Three Tree Ballers
+Headquartered; Gregory Heights, Three Tree Point Store
+Manpower / Population; 22 / 27
+Area of Operation; Gregory Heights, Burien, Normandy Park
 ### Greater Tacoma Area
 ### Across the Sound
 
