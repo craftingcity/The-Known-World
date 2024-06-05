@@ -28,6 +28,7 @@
 	- [[Prenotes Jan 24 24]]
 	- [[Prenotes Jan 25 24]]
 	- [[Prenotes Jan 31 24]]
+	- [[Prenotes Jun 03 24]]
 	- [[Prenotes Mar 06 24]]
 	- [[Prenotes Mar 07 24]]
 	- [[Prenotes Mar 12 24]]
@@ -42,7 +43,9 @@
 	- [[Prenotes May 17 24]]
 	- [[Prenotes May 22 24]]
 	- [[Prenotes May 24 24]]
+	- [[Prenotes May 26 24]]
 	- [[Prenotes May 28 24]]
+	- [[Prenotes May 31st 24]]
 
 %% End Waypoint %%
 
