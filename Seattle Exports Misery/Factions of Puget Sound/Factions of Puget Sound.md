@@ -22,6 +22,7 @@ Headquartered; Gregory Heights, Three Tree Point Store
 Manpower / Population; 22 / 27
 Area of Operation; Gregory Heights, Burien, Normandy Park
 ### Greater Tacoma Area
+#### Anderson Republic Army
 ### Across the Sound
 
 %% Begin Waypoint %%
