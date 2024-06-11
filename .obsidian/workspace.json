@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddda03420570ad0",
+        "id": "b4f8c6dadb3aa7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "8623954f9bf6a755",
+            "id": "210a27778148f91c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,25 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Factions of Puget Sound",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":21},\"to\":{\"line\":20,\"ch\":21}},\"scroll\":3.1526955227137776}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":105},\"to\":{\"line\":28,\"ch\":105}},\"scroll\":26.187903966673105}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+                "file": "Prenotes June 11 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+                "file": "Prenotes June 11 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+                "file": "Prenotes June 11 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md"
+                "file": "Prenotes June 11 24.md"
               }
             }
           }
@@ -271,10 +259,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8623954f9bf6a755",
+  "active": "210a27778148f91c",
   "lastOpenFiles": [
+    "Prenotes June 11 24.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "conflict-files-obsidian-git.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
@@ -291,8 +280,8 @@
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Game Notes/NPCs/Weak Power/Combine Citizens/Combine Citizens.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
-    "conflict-files-obsidian-git.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
@@ -302,7 +291,6 @@
     "Seattle Exports Misery/Legal Fifth Edition.md",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
-    "MEDIA/MEDIA.md",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
