@@ -19,7 +19,7 @@ Record entries from this table onto a sheet or page. Some results may be best re
 
 1d6 | for a size of space
 --- | ---
-1 | tiny, half a day's travel
+1 | tiny, less than half a day's travel
 2 | small, less than a day's travel
 3 | medium, more that a day of travel
 4 | large, many days of travel
@@ -62,8 +62,8 @@ d6 | for something might happen
 1 | Death. Something happened here. This one didn't make it. There is nothing to gain here.
 2 | Disease. A natural feature is affected. The sickness is visibly destructive.
 3 | Posion. This thing is intentionally destructive to you. There is nothing to gain here.
-4 | Group. Theres a lot of them, and you're in their space. 
-5 | One alone. Its just this one, and maybe its bad still.
+4 | Group. There's a lot of them, and you're in their space. 
+5 | Alone. Its just this one, and maybe its bad still.
 6 | Treasure? Even odds its a trap.
 
 
