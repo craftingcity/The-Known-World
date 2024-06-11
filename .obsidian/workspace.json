@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wound",
+                "query": "trog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +118,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.51240158081055,
-    "collapsed": true
+    "width": 260.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -261,7 +261,10 @@
   },
   "active": "210a27778148f91c",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Underdark/Groups/Kalix.md",
+    "Game Notes/Prenotes/'22/Prenotes April 28 22.md",
     "Prenotes June 11 24.md",
+    "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "conflict-files-obsidian-git.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
@@ -286,9 +289,6 @@
     "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
     "Seattle Exports Misery/Weapon Rules",
-    "Seattle Exports Misery/The Infection.md",
-    "Seattle Exports Misery/The Bombings.md",
-    "Seattle Exports Misery/Legal Fifth Edition.md",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
     "Nuclear Washington/N.W. Weapon Rules",

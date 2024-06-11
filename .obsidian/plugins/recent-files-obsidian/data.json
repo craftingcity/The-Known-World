@@ -5,6 +5,18 @@
       "path": "Prenotes June 11 24.md"
     },
     {
+      "basename": "Kalix",
+      "path": "Notes on the Multiverse/Inner/Underdark/Groups/Kalix.md"
+    },
+    {
+      "basename": "Prenotes April 28 22",
+      "path": "Game Notes/Prenotes/'22/Prenotes April 28 22.md"
+    },
+    {
+      "basename": "Upper Northwestern Underdark",
+      "path": "Notes on the Multiverse/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md"
+    },
+    {
       "basename": "Factions of Puget Sound",
       "path": "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],
