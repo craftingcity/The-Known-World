@@ -27,30 +27,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "cb0d0418e7cb301f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Threats.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Threats.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Threats.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Threats.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
               }
             }
           }
@@ -280,8 +258,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb0d0418e7cb301f",
+  "active": "210a27778148f91c",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Threats.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Rock Formation.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
@@ -308,7 +287,6 @@
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
-    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",

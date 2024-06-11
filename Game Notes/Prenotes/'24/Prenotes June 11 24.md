@@ -23,6 +23,8 @@ With a splash, and another, and another, the party finds themselves cold, wet, a
 
 You swim to the shore. The only light in here comes from the water of the lake, dimly illuminating this cave. You are miles below the surface of Alaturmen., and you are alone.
 
+What do you do?
+
 ### What does the World Know?
 They have arrived in 'a lake' south of the Inverted Tower, but North of the Crystal Sea.
 
