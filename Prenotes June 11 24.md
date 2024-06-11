@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they delivered a curious package containing some kind of creature to their employers before 
 
 ### What does the World Know?
 
