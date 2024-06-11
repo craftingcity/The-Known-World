@@ -21,11 +21,14 @@ Their descent began with ease, and the party managed to descend more than halfwa
 
 With a splash, and another, and another, the party finds themselves cold, wet, and slightly glowing. You have fallen into a huge underground lake that shines dully with a noxious green glow.
 
-You swim to the shore. The only light in here comes from the water of the lake, illuminating this cave 
+You swim to the shore. The only light in here comes from the water of the lake, dimly illuminating this cave. You are miles below the surface of Alaturmen., and you are alone.
 
 ### What does the World Know?
 They have arrived in 'a lake' south of the Inverted Tower, but North of the Crystal Sea.
 
+Immediate interests should be drawn to Ungaethram, Hraak Azul, and possibly Ootool when interacting with NPCs.
+
+Threats present in their area include Necro-kin, Local Fauna, Kalix Hunting Parties, and magical beasts from the Inverted Tower.
 
 ### What happened?
 
