@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Planes of Existence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":49.42892490293443}"
+                },
+                {
                   "title": "Prenotes June 11 24",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes June 11 24.md\",\"mode\":\"source\",\"source\":true}}",
@@ -26,11 +32,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
-                "mode": "source",
-                "source": true
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           },
@@ -223,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Planes of Existence.md"
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           }
@@ -336,6 +340,7 @@
   },
   "active": "b5f72db5a56b463a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Planes of Existence.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
@@ -362,7 +367,6 @@
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "conflict-files-obsidian-git.md",
-    "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
