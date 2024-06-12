@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes June 11 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes June 11 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "mode": "source",
                 "source": true
               }
@@ -217,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+                "file": "Notes on the Multiverse/The Planes of Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
+                "file": "Notes on the Multiverse/The Planes of Existence.md"
               }
             }
           }
@@ -330,10 +336,10 @@
   },
   "active": "b5f72db5a56b463a",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
