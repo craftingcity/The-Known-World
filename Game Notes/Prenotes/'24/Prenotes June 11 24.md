@@ -37,15 +37,15 @@ Please remember they are all very low level still, so multiple CR 3 still might 
 
 ### What happened?
 ##### Initiative
-22 - B (3)
+~~22 - B (3)~~
 21 - Bhodi
 21 - Marylnn
-21 - D (3)
+~~21 - D (3)~~
 20 - Rowan
-20 - E
-19 - G
+~~20 - E (6)~~
+~~19 - G (4)~~
 18 - A (AC 16, HP26)
-13 - C
+~~13 - C (3)~~
 11 - Eve
 10 - Thomas
 10 - F
