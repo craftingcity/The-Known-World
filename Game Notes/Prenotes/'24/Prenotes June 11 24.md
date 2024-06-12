@@ -36,6 +36,19 @@ Threats present in their area include Necro-kin, Local Fauna, Kalix Hunting Part
 Please remember they are all very low level still, so multiple CR 3 still might fuck them up, but that's the game.
 
 ### What happened?
+##### Initiative
+22 - B
+21 - Bhodi
+21 - Marylnn
+21 - D
+20 - Rowan
+20 - E
+19 - G
+18 - A
+13 - C
+11 - Eve
+10 - Thomas
+10 - F
 
 
 We leave our heroes on the date of ... AF, as they ...

@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
               }
             }
           }
@@ -329,11 +328,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "33d3e6f6a3002186",
+  "active": "b5f72db5a56b463a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
