@@ -14,14 +14,13 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
-When last we left our heroes, they delivered a curious package containing some kind of creature to their employers before exploring the drill-tunnel their associates mine from.
+When last we left our heroes, they delivered a curious package containing some kind of creature to their employers before performing an unauthorized exploration of the drill-tunnel their associates mine from.
 
 Their descent began with ease, and the party managed to descend more than halfway down the tunnel before their cables suddenly snapped, and they each fell deep into the earth.
 
-With a splash, and another, and another, the party finds themselves cold, wet, and slightly glowing, fallen into a huge underground lake that shines dully with a noxious green bioluminescence.
+With a splash, and another, and another, the party finds themselves cold, wet, and slightly glowing, having fallen into an underground lake that dully shines with a noxious green bioluminescence.
 
-You swim to the shore. The only light in here comes from the water of the lake, dimly illuminating this cave. You are miles below the surface of Alaturmen., and you are alone.
+You swim to the shore. The only light in here comes from the water of the lake, dimly illuminating this cave. You are miles below the surface of Alaturmen, and you are alone.
 
 What do you do?
 
