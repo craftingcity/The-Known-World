@@ -29,6 +29,54 @@
             }
           },
           {
+            "id": "33d3e6f6a3002186",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25b0d7045244642a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Underdark",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Underdark/Underdark.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":14},\"to\":{\"line\":35,\"ch\":14}},\"scroll\":15.25329204074675}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f47caa1060287309",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -49,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
+                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md"
               }
             }
           }
@@ -280,10 +329,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b5f72db5a56b463a",
+  "active": "33d3e6f6a3002186",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
+    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
+    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -306,10 +358,7 @@
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "conflict-files-obsidian-git.md",
     "Seattle Exports Misery/Weapon Rules/Special Weapons.md",
-    "Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
     "Seattle Exports Misery/Weapon Rules",
-    "Seattle Exports Misery/The Infection.md",
-    "Seattle Exports Misery/The Bombings.md",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
     "Nuclear Washington/N.W. Weapon Rules",
