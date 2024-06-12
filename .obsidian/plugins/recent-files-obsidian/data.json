@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
     },
     {
+      "basename": "Underdark Flora",
+      "path": "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md"
+    },
+    {
       "basename": "Ranged Weapons",
       "path": "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "About People",
       "path": "Notes on the Multiverse/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md"
     }
   ],
   "omittedPaths": [],

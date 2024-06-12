@@ -27,6 +27,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f47caa1060287309",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -261,8 +282,9 @@
   },
   "active": "b5f72db5a56b463a",
   "lastOpenFiles": [
-    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Seattle Exports Misery/Seattle Exports Misery.md",
@@ -288,7 +310,6 @@
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/The Infection.md",
     "Seattle Exports Misery/The Bombings.md",
-    "Seattle Exports Misery/Legal Fifth Edition.md",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
     "Nuclear Washington/N.W. Weapon Rules",
