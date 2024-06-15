@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
+      "basename": "Underdark Flora",
+      "path": "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md"
+    },
+    {
+      "basename": "Underdark Travel Table",
+      "path": "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md"
+    },
+    {
+      "basename": "Underdark Hazards",
+      "path": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md"
+    },
+    {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
@@ -13,20 +33,8 @@
       "path": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
     },
     {
-      "basename": "Underdark Hazards",
-      "path": "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md"
-    },
-    {
-      "basename": "Underdark Travel Table",
-      "path": "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md"
-    },
-    {
       "basename": "Underdark",
       "path": "Notes on the Multiverse/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Underdark Flora",
-      "path": "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md"
     },
     {
       "basename": "Ranged Weapons",
@@ -103,10 +111,6 @@
     {
       "basename": "Prenotes May 28 24",
       "path": "Game Notes/Prenotes/'24/Prenotes May 28 24.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "The Gear...",
@@ -195,10 +199,6 @@
     {
       "basename": "Arms and Armor - South West",
       "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South West.md"
-    },
-    {
-      "basename": "Arms and Armor - South East",
-      "path": "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md"
     }
   ],
   "omittedPaths": [],
