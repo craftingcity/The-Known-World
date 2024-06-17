@@ -25,7 +25,9 @@ This is where we first meet our heroes.
 
 Perhaps you've come to pay a fine, or visit a relative. Perhaps you've come looking for work. In any case, you have come to the Garrison with intention. It was not your intention to come to view a prison break.
 
-As the summer sun shines upon you, a second source of heat protrudes f
+As the summer sun shines upon you, a second source of heat protrudes from inside the Garrison, and your surroundings are shaken and rocked by the blast.
+
+A bomb just went off at the Enforcer's Garrison. And you were all right here.
 
 ### What does the World Know?
 
