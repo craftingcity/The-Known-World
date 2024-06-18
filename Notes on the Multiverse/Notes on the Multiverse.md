@@ -8,6 +8,7 @@ connect to [[Game Notes]]
 	- [[Wildlands]]
 - **[[Inner]]**
 - **[[Outer]]**
+- **[[Seattle Exports Misery]]**
 - [[The Planes of Existence]]
 
 %% End Waypoint %%

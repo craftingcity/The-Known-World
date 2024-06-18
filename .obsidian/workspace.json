@@ -33,8 +33,75 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "32301ec62f70c83b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Non-Nation Entities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7592533983791443}"
+                },
+                {
+                  "title": "Prenotes June 18 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes June 18 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":61},\"to\":{\"line\":25,\"ch\":61}},\"scroll\":1.8922470180697344}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3c7881a1a99230af",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51240158081055
+    "width": 345.5124969482422
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -153,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
             }
           }
@@ -264,11 +331,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ef68a6c79b96abb",
+  "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
-    "GavinHouse Game.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "A Grand Notepad.md",
+    "Game Notes/Campaign Rosters/GavinHouse Game.md",
     "Game Notes/Prenotes/'24/Prenotes June 03 24.md",
+    "Game Notes/Prenotes/Prenotes.md",
     "APGtAv1.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
@@ -277,26 +350,20 @@
     "Notes on the Multiverse/The Planes of Existence.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
-    "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Jun 03 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
-    "Notes on the Multiverse/Big Lore/Big Lore.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Languages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Seattle Exports Misery/Weapon Rules",
-    "Seattle Exports Misery/Factions of Puget Sound",
-    "Seattle Exports Misery",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
+    "Notes on the Multiverse/Seattle Exports Misery",
     "Nuclear Washington/N.W. Weapon Rules",
     "Nuclear Washington",
     "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
