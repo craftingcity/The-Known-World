@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26fb85da68065542",
+        "id": "bd8af658fc2fc552",
         "type": "tabs",
         "children": [
           {
-            "id": "ac4ea28970411214",
+            "id": "1ef68a6c79b96abb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "APGtAv1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"APGtAv1.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":93.51367213009054}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               }
@@ -75,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"hillkee",
+                "query": "wound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +124,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5124969482422
+    "width": 260.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -148,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "A Grand Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "A Grand Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md"
+                "file": "A Grand Notepad.md"
               }
             }
           }
@@ -259,24 +264,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ac4ea28970411214",
+  "active": "1ef68a6c79b96abb",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Hillkeep Loyalists.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Special Weapons.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
+    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Legal Fifth Edition.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
+    "Notes on the Multiverse/Seattle Exports Misery",
     "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
-    "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "Game Notes/Campaign Rosters/GavinHouse Game.md",
+    "GavinHouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "Game Notes/Prenotes/'24/Prenotes June 03 24.md",
-    "Game Notes/Prenotes/Prenotes.md",
     "APGtAv1.md",
     "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
     "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
@@ -285,15 +290,17 @@
     "Notes on the Multiverse/The Planes of Existence.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
+    "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
-    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
-    "Notes on the Multiverse/Seattle Exports Misery",
+    "Seattle Exports Misery/Weapon Rules",
+    "Seattle Exports Misery/Factions of Puget Sound",
+    "Seattle Exports Misery",
     "Nuclear Washington/N.W. Weapon Rules",
-    "Nuclear Washington",
-    "Notes on the Multiverse/Inner/Alaturmen/Tracking/Equipment"
+    "Nuclear Washington"
   ]
 }
