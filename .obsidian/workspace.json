@@ -45,6 +45,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "World Wide Happenings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Democratic Combine of Peoples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Non-Nation Entities",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true}}",
@@ -73,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md"
               }
             }
           }
@@ -331,8 +343,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32a1ca7a8d6ec426",
+  "active": "32301ec62f70c83b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
@@ -357,9 +372,6 @@
     "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/Big Lore/Languages/Languages.md",
-    "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
