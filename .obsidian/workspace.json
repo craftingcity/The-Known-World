@@ -45,6 +45,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Darnt Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":140},\"to\":{\"line\":14,\"ch\":140}},\"scroll\":5.169469543352287}"
+                },
+                {
+                  "title": "Hillkeep Loyalists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Hillkeep Loyalists.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":63},\"to\":{\"line\":7,\"ch\":63}}}"
+                },
+                {
+                  "title": "Five Pike",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Nation Entities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Game",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":4},\"to\":{\"line\":8,\"ch\":4}}}"
+                },
+                {
                   "title": "World Wide Happenings",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md\",\"mode\":\"source\",\"source\":true}}",
@@ -85,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
                 "mode": "source",
                 "source": true
               }
@@ -160,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"hillkee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +239,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +357,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md"
+                "file": "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Jammu.md"
               }
             }
           }
@@ -345,11 +382,14 @@
   },
   "active": "32301ec62f70c83b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Darnt Hillkeep.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Hillkeep Loyalists.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Five Pike.md",
     "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
+    "Notes on the Multiverse/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "Notes on the Multiverse/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
@@ -369,9 +409,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/Big Lore/Languages/Languages.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
