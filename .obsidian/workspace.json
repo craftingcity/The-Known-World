@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8af658fc2fc552",
+        "id": "8c544eb20cc5aa53",
         "type": "tabs",
         "children": [
           {
-            "id": "1ef68a6c79b96abb",
+            "id": "a05431601c672930",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "APGtAv1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"APGtAv1.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":93.51367213009054}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes June 19 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -153,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes June 19 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes June 19 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Prenotes June 19 24.md"
               }
             }
           }
@@ -264,8 +258,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ef68a6c79b96abb",
+  "active": "a05431601c672930",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Outer/Mechanis/New Cannane.md",
+    "Prenotes June 19 24.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Special Weapons.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
@@ -293,9 +290,6 @@
     "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/Factions of Puget Sound",
