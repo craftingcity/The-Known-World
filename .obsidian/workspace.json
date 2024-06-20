@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wound",
+                "query": "underdark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51240158081055
+    "width": 395.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
