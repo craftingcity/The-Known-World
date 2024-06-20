@@ -19,7 +19,9 @@ When last we left our heroes, they had descended deep below the surface of Alatu
 
 After spending moments to dry off and gather your surroundings, you began to explore one of the many egresses to and from the Green Lake before you encountered a group of hostile reptilian-canine-humanoids and dispatched them.
 
-This place is alien, and clearly dangerous. 
+This place is alien, and clearly dangerous. You have a lead towards wherever these creatures came from, deeper into the maze of stone through a tunnel marked by the same algae you found on the Green Lake, but you are otherwise lost for direction.
+
+What do you do?
 
 ### What does the World Know?
 
