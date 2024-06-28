@@ -6,9 +6,8 @@ While present in the Plane of Limbo, people of human heritage will become overco
 
 ###### Table of Contents
 %% Begin Waypoint %%
-- **[[Limbo]]**
-	- **Places**
-		- [[The Tower of Limbo]]
-	- [[Queen of Swords]]
+- **Places**
+	- [[The Tower of Limbo]]
+- [[Queen of Swords]]
 
 %% End Waypoint %%

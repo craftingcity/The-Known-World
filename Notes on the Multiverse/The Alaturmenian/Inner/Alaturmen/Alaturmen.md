@@ -8,11 +8,10 @@ aliases: Corpse-meat of the All Father
 ![[alaturmen-100AF.png]]
 
 %% Begin Waypoint %%
-- **[[Alaturmen]]**
-	- **[[About People]]**
-	- **[[Places]]**
-	- **[[Texts]]**
-	- **[[Tracking]]**
+- **[[About People]]**
+- **[[Places]]**
+- **[[Texts]]**
+- **[[Tracking]]**
 
 %% End Waypoint %%
 

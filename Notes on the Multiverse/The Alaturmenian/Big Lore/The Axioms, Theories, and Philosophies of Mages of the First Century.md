@@ -28,16 +28,16 @@ The Theory of a True Name comes from the Fey, but copies of texts written by Ela
 Ancient names are often hidden and well protected, but some fools give their names freely, often without meaning to do so, but still, this is enough to establish a complete control over them. This theory also posits the power of a False Name, one so powerful to hide your true name, is also incredibly powerful if not equally so. 
 
 ## The Theory of Faith
-The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
+The Theory of Faith explains the existence of the Gods on Alaturmen and comes from [[The Texts Druidic]]. While this theory fails to explain extra-planar entities, it does hold true for the forces on Alaturmen. The theory has three simple parts.
 
 > 1. Faith is a manifestation of a consciousness. 
 > 2. Faith is deeply personal and inciting.
 > 3. Faith knots the Weave.
 
-[[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. Ostensibly, the personal manifestation of Knots creates these entities, and they grow in power by establishing more connections to or consumption of Faith.
+[[The Texts Druidic]] then continue by explaining that these theoretical axioms of Faith explain the presence of the "Emotional Deities" who walk Alaturmen in forms material. Ostensibly, the personal manifestation of Knots creates these entities, and they grow in power by establishing more connections to or consumption of Faith.
 
 ## The Theory of Component
-The Theory of Component too comes from [[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]] and explains the near-necessity of Components in the manipulation of the Weave Arcane;
+The Theory of Component too comes from [[The Texts Druidic]] and explains the near-necessity of Components in the manipulation of the Weave Arcane;
 
 > In the creation of an effect of Weave Arcane, there are only so many things a mortal can perform.
 > 
@@ -57,7 +57,7 @@ This process is technical, expensive, and incredibly exhausting as it involves t
 To understand Alchemy at all, one must first understand the [[#Axioms of the Weave Arcane]]. After that, we can begin to speak about the Theory of Potential, or, more properly named, the Scree'up-Turring Theory. Again, after that, the theory of Alchemy continues to expand with Gunagido-Barrowinch Theory and their Motifs of Alchemy.
 
 ### Scree'up-Turring Theory / Theory of Potential
-The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven Reality]]", a thin booklet written in 062AF by [[Scree'up]] and [[Dimble Turing]]. This theory builds on the [[#Axioms of the Weave Arcane]] presented and proven in [[Notes on the Multiverse/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic]], and postulates the following;
+The Turring-Turring Theory was first published in "[[Natural Wonders of a Woven Reality]]", a thin booklet written in 062AF by [[Scree'up]] and [[Dimble Turing]]. This theory builds on the [[#Axioms of the Weave Arcane]] presented and proven in [[The Texts Druidic]], and postulates the following;
 
 > Given the Axiom of Conservation and the Axiom of Continuity, one *must* wonder, if the Weave flows through all things, and can only ever be changed, doesn't this suggest that all things have the Weave flowing through them? As Axiom of Strands seems to directly state this, we could then further theorize that our observable reality *is* some type of Knot, as described in the Axiom of Knots, yet the Axiom of Knots excludes the possibility of the participation of the natural world in this "magic"; only the "naturally-disruptive" effects are the work of a Knot. 
 > 

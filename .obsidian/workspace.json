@@ -16,19 +16,77 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Fiction Exposition Broadcast Script",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Planes of Existence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Notes on the Multiverse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes June 19 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes June 19 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes June 19 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ddc055618ff3e9c3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055
+    "width": 395.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -147,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes June 19 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes June 19 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes June 19 24.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
               }
             }
           }
@@ -258,10 +317,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a05431601c672930",
+  "active": "ddc055618ff3e9c3",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Outer/Mechanis/New Cannane.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
+    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/The Alaturmenian",
     "Prenotes June 19 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Special Weapons.md",
@@ -270,31 +335,25 @@
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
     "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Legal Fifth Edition.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
     "Notes on the Multiverse/Seattle Exports Misery",
-    "Notes on the Multiverse/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
     "Game Notes/Campaign Rosters/GavinHouse Game.md",
     "GavinHouse Game.md",
     "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "Game Notes/Prenotes/'24/Prenotes June 03 24.md",
     "APGtAv1.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Flora.md",
-    "Notes on the Multiverse/Inner/Underdark/Tables/Underdark Travel Table.md",
-    "Notes on the Multiverse/Inner/Underdark/General/Underdark Hazards.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Travel Table.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Hazards.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/The Planes of Existence.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
-    "Notes on the Multiverse/Inner/Underdark/Underdark.md",
-    "Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
-    "Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/Factions of Puget Sound",
     "Seattle Exports Misery",
-    "Nuclear Washington/N.W. Weapon Rules",
-    "Nuclear Washington"
+    "Nuclear Washington/N.W. Weapon Rules"
   ]
 }
