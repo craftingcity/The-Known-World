@@ -5,7 +5,6 @@ aliases:
 
 # World Wide Happenings
 %% Begin Waypoint %%
-- [[The Great Game]]
 - **Worldknown Groups**
 	- [[Ammarin Transportation]]
 	- [[The Grey Ordeal]]
