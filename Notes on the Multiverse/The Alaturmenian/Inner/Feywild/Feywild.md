@@ -61,8 +61,7 @@ The majority of the inhabitants who can speak or understand language know [[Sylv
 
 #### Table of Contents
 %% Begin Waypoint %%
-- **[[Feywild]]**
-	- [[Ceilie Courts]]
-	- [[Jabbawok]]
+- [[Ceilie Courts]]
+- [[Jabbawok]]
 
 %% End Waypoint %%

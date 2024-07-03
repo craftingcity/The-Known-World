@@ -3,8 +3,8 @@ tags: folderfile
 aliases:
 ---
 
-# Plane of Water
+# Plane of Air
 %% Begin Waypoint %%
-- **[[Plane of Water]]**
+
 
 %% End Waypoint %%
