@@ -32,9 +32,14 @@ When last we left our hero,
 		- Go kill X Scavs/Bandits/Militants/Troopers in THIS location
 		- Go find and kill Fallen
 		- Go find and kill NAMED NPC / NAMED GROUP
+			- Ronnie (Exfil Coyote), Cordon's Reserve
+			- Albatross (Drug Importer) Shipyard's Deep Scar
+			- Nail's Gang, City's Mall
+			- Wolf's Clan, Village's Windmill
 		- Go here and clear mutants
 		- Gather X of THIS ITEM
 	- what happened around us? 
+		- the company has taken the factory again, and we owe the WFM a deal because they're backing off
 	- what happened in the outside world?
 4. move out
 
