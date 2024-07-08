@@ -27,9 +27,13 @@ When last we left our hero,
 2. Refit and rearm
 	- what are we missing? 
 	- what new toys are out?
-3. Gather new intel and operations
+		- try fire grenades
+		- try smoke grenades
+		- we have a few stationary rotary cannons?
+		- and we're still working it out but we're figuring a refit 
+1. Gather new intel and operations
 	- what are our new missions? 
-		- Go kill X Scavs/Bandits/Militants/Troopers in THIS location
+		- Go kill X Scavs/Bandits/"Militants"/Troopers in THIS location
 		- Go find and kill Fallen
 		- Go find and kill NAMED NPC / NAMED GROUP
 			- Ronnie (Exfil Coyote), Cordon's Reserve
@@ -37,11 +41,14 @@ When last we left our hero,
 			- Nail's Gang, City's Mall
 			- Wolf's Clan, Village's Windmill
 		- Go here and clear mutants
+			- City's Construction Site
+			- Grey Forest
+			- Shipyard's Material Yard
 		- Gather X of THIS ITEM
 	- what happened around us? 
 		- the company has taken the factory again, and we owe the WFM a deal because they're backing off
 	- what happened in the outside world?
-4. move out
+2. move out
 
 
 ### What happened?
