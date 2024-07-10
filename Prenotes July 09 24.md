@@ -14,7 +14,11 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-When last we left our heroes, they had continued through the dark caves they found themselves in. Traversing tunnels and vaults of dark rock, you have encountered some kind of reptilian-canine-humanoids, and a forest of toxic plants that bore a number of noxious refuse oozes. For your own safety, I will state again that this is an alien and hazardous place. Every hour you spend here is an hour of water and food 
+When last we left our heroes, they had continued through the dark caves they found themselves in. Traversing tunnels and vaults of dark rock, you have encountered some kind of reptilian-canine-humanoids, and a forest of toxic plants that bore a number of noxious refuse oozes. For your own safety, I will state again that this is an alien and hazardous place. You are not walking in the light in your place, of your gods or otherwise.
+
+You have been following a path of bioluminescence for a number of hours. You have a map and cannot read it. As you continue up and through this craggy rock face, you have found another of these marked ways, this one leading into a thin cave of natural columns.
+
+What do you do?
 
 ### What does the World Know?
 
