@@ -63,18 +63,12 @@
             "id": "95eedca5d758a83a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 1,
               "stack": [
                 {
-                  "title": "Blurkfraggir",
+                  "title": "Amirriyl Haleli",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":42},\"to\":{\"line\":12,\"ch\":42}}}"
-                },
-                {
-                  "title": "Inner",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amirriyl Haleli.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -87,6 +81,33 @@
               "type": "markdown",
               "state": {
                 "file": "Prenotes July 09 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2fccdec0f6345465",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Mulutumi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Mulutumi.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
                 "mode": "source",
                 "source": true
               }
@@ -232,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +341,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md"
               }
             }
           }
@@ -343,9 +364,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5625446937b2066b",
+  "active": "2fccdec0f6345465",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Mulutumi.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
     "Prenotes July 09 24.md",
+    "Amirriyl Haleli.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md",
@@ -375,9 +400,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
     "Notes on the Multiverse/Seattle Exports Misery",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
-    "Game Notes/Campaign Rosters/GavinHouse Game.md",
-    "GavinHouse Game.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Seattle Exports Misery/Weapon Rules",
     "Seattle Exports Misery/Factions of Puget Sound",
