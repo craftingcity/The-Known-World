@@ -53,19 +53,30 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75cae15f9935da63",
         "type": "tabs",
         "children": [
           {
-            "id": "e345db0515670b41",
+            "id": "95eedca5d758a83a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Blurkfraggir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":42},\"to\":{\"line\":12,\"ch\":42}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -128,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Party of Interest: Ash\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -313,12 +323,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e345db0515670b41",
+  "active": "95eedca5d758a83a",
   "lastOpenFiles": [
-    "Prenotes June 19 24.md",
-    "Prenotes July 09 24.md",
-    "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "MEDIA/MAPS/WORLD/underdark.png",
+    "Prenotes July 09 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md",
+    "Prenotes June 19 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
     "Prenotes July 0X 24.md",
@@ -330,7 +342,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "A Grand Notepad.md",
@@ -346,8 +357,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
     "Game Notes/Campaign Rosters/GavinHouse Game.md",
     "GavinHouse Game.md",
-    "Game Notes/Prenotes/'24/Prenotes June 03 24.md",
-    "APGtAv1.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/relationshipGAVSHOUSE.drawio",
     "Seattle Exports Misery/Weapon Rules",
