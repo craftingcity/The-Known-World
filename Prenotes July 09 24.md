@@ -21,9 +21,17 @@ You have been following a path of bioluminescence for a number of hours. You hav
 What do you do?
 
 ### What does the World Know?
-Toxic Graveyard > Column Farms - 
+
 
 ### What happened?
+Toxic Graveyard > Column Farms - 
 
+#### INIT
+20 - Dwarven Gunslinger
+17 - Marilynn
+14 - Thomas
+10 - Bhodi
+7 - Rowan
+2 - Eve
 
 We leave our heroes on the date of ... AF, as they ...
