@@ -55,6 +55,33 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "75cae15f9935da63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e345db0515670b41",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes July 09 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes June 19 24.md",
+                "file": "Prenotes July 09 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes June 19 24.md",
+                "file": "Prenotes July 09 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes June 19 24.md"
+                "file": "Prenotes July 09 24.md"
               }
             }
           }
@@ -286,8 +313,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bfb41d1a67fe0d2",
+  "active": "e345db0515670b41",
   "lastOpenFiles": [
+    "Prenotes June 19 24.md",
+    "Prenotes July 09 24.md",
     "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
@@ -303,7 +332,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian",
-    "Prenotes June 19 24.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Melee Weapons.md",
