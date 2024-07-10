@@ -27,7 +27,7 @@ What do you do?
 Toxic Graveyard > Column Farms - 
 
 #### INIT
-20 - Dwarven Gunslinger
+20 - Dwarven Gunslinger 19 (7, 17, 34)
 17 - Marilynn
 14 - Thomas
 10 - Bhodi
