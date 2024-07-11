@@ -132,8 +132,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
+                "file": "Prenotes July 09 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
+                "file": "Prenotes July 09 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md"
+                "file": "Prenotes July 09 24.md"
               }
             }
           }
@@ -364,10 +363,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fccdec0f6345465",
+  "active": "95eedca5d758a83a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Mulutumi.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Mulutumi.md",
     "Prenotes July 09 24.md",
     "Amirriyl Haleli.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
