@@ -17,7 +17,7 @@ aliases:
 
 When last we left our hero, they had travelled with the Delta 3 Mercs to The Base's Infirmary, where they found a broken PDA. Opting to return to a Technician rather than attempt a repair in the field, we return to the party as they continue through The Base towards the Mercenary Headquarters in the Offices of the Factory.
 
-The Infirmary is quiet. You and yours are the only creatures making noise here. You could scavenge, but you are not guaranteed reward. To continue, you must pass through the Intel Center, where you remember quite the brawl, then through the Importing Pallets and out.
+The Infirmary is quiet. You and yours are the only creatures making noise here. You could scavenge, but you are not guaranteed reward. To continue, you must pass through the Intel Center, where you remember quite the brawl, then through the Importing Pallets and out towards the Factory.
 
 ### What does the World Know?
 
@@ -33,7 +33,41 @@ The Infirmary is quiet. You and yours are the only creatures making noise here. 
 		- try smoke grenades
 		- we have a few stationary rotary cannons?
 		- and we're still working it out but we're figuring a refit 
-1. Gather new intel and operations
+	- STORES:
+			- Weapons
+		+ 22x Pipe Grenade
+		+ 19x Homemade Fire Bomb
+		+ 13x Pineapple Grenade
+		+ 14x Fire Grenade
+		+ 12x Shoebox APM
+		+ 13x Hillsight SM
+			- Ammo
+		+ 50x RDM, WT
+		+ 90x RDM, HE
+		+ 70x RDM, +B
+		+ 100x RDM, FR
+		+ 160x RDM, WB
+		+ 90x RDM, EY
+		+ 60x RDM, AC
+			- Drugs
+		+ 29x Cannabis
+		+ 43x Tabacco
+		+ 63x Smokebulb
+		+ 57x Lephora Essence
+		+ 59x Bulbkiss
+		+ 52x Nova
+		+ 67x Dareanamon
+		+ 59x Oldshine
+		+ 41x Good Liquor
+			- Medical
+		+ 10x Aerotide
+		+ 17x Crotosine Vepian
+		+ 7x Heamox
+		+ 8x Isiopara
+		+ 10x Pretokarin
+		+ 6x Secreclude Propaterol
+		+ 13x Ambebamol
+3. Gather new intel and operations
 	- what are our new missions? 
 		- Go kill X Scavs/Bandits/"Militants"/Troopers in THIS location
 		- Go find and kill Fallen
@@ -50,7 +84,7 @@ The Infirmary is quiet. You and yours are the only creatures making noise here. 
 	- what happened around us? 
 		- the company has taken the factory again, and we owe the WFM a deal because they're backing off
 	- what happened in the outside world?
-2. move out
+4. move out
 
 
 ### What happened?

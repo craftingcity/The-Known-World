@@ -51,13 +51,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "MinyostalmaFeatures",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/DUNG/MinyostalmaFeatures.png\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -294,6 +302,7 @@
   },
   "active": "f4a4f7b4c97761ff",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Prenotes July 0X 24.md",
     "Game Notes/Prenotes/Prenotes.md",
