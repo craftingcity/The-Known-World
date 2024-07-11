@@ -15,7 +15,9 @@ aliases:
 
 ### Intro
 
-When last we left our hero, 
+When last we left our hero, they had travelled with the Delta 3 Mercs to The Base's Infirmary, where they found a broken PDA. Opting to return to a Technician rather than attempt a repair in the field, we return to the party as they continue through The Base towards the Mercenary Headquarters in the Offices of the Factory.
+
+The Infirmary is quiet. You and yours are the only creatures making noise here. You could scavenge, but you are not guaranteed reward. To continue, you must pass through the Intel Center, where you remember quite the brawl, then through the Importing Pallets and out.
 
 ### What does the World Know?
 
