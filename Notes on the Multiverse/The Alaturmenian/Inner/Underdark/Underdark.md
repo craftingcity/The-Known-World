@@ -26,7 +26,6 @@ aliases: The Deep Below, Deep Below
 	- [[Great Abadon Lake]]
 	- [[Growth Heart]]
 	- [[Heilich-Muwwoq]]
-	- [[Mulutumi]]
 	- [[Ootool]]
 	- [[Ungaethram]]
 	- [[Upper Northwestern Underdark]]
