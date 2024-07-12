@@ -83,6 +83,14 @@ The Infirmary is quiet. You and yours are the only creatures making noise here. 
 	- what happened in the outside world?
 4. move out
 
+Otay! Lets Go!
+
+We're moving on our Objectives in the City's Mall and Construction Site, and the Village's Windmill.
+
+We move right into the Construction Site after Pallets, and then the Mall's right there too. Should be fun, might do a two-for. Then cross the City and Village to the Windmill.
+
+On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
+
 
 ### What happened?
 
