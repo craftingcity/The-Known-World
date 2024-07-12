@@ -94,5 +94,16 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 
 ### What happened?
 
+20 - Screw
+19 - Jumpers
+	A.
+	B.
+	C.
+	D.
+16 - Dom
+13 - Bubbles
+10 - Locus
+8 - Ash
+5 - Astro
 
 We leave our heroes on the date of ... AF, as they ...
