@@ -22,8 +22,9 @@ Bubble's Carbine (49 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +9 to hit; 4d6+6
 Bubble's Combat Knife; +9 to hit, 1d4+3 slash
 
 Consumables:
-	- Pineapple Grenade, (2x) (15ft sphere, 5d6+20)
+	- Pineapple Grenade, (3x) (15ft sphere, 5d6+20)
 	- Isiopara, 5x (3d4+10 +2 rounds)
+	- Secreclude Propaterol x1 (+25hp +2 rounds)
 
 Artifacts:
 	- Radiant Diamond (Fallen Box)
@@ -44,12 +45,14 @@ CHA: 14 (+2)
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 *Gnoll Heritage* - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
-Screw's Carbine (32 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
+Screw's Carbine (40 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
 Screw's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
 	- Isiopara, 6x (3d4+10 +2 rounds)
-	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
+	- Secreclude Propaterol x1 (+25hp +2 rounds)
+	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
+	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
 Artifacts:
 	- None
@@ -68,12 +71,15 @@ CHA: 14 (+2)
 *Extra Attack* - You attack twice when you take the attack action on your turn.
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Astro's Carbine (24 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
+Astro's Carbine (40 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
+			(15 High Explosive Rounds); +d4 force
 Astro's Combat Knife; +8 to hit, 1d4+2 slash
 
 Consumables:
 	- Isiopara, 5x (3d4+10 +2 rounds)
-	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
+	- Secreclude Propaterol x1 (+25hp +2 rounds)
+	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
+	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
 Artifacts:
 	- None
@@ -91,12 +97,15 @@ CHA: 11 (+0)
 
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Dom's Carbine (36 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+Dom's Carbine (40 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+			(15 High Explosive Rounds); +d4 force
 Dom's Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
 	- Isiopara, 5x (3d4+10 +2 rounds)
-	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
+	- Secreclude Propaterol x1 (+25hp +2 rounds)
+	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
+	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
 Artifacts:
 	- None
@@ -114,39 +123,18 @@ CHA: 12 (+1)
 
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 
-Locus's Carbine (33 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
-Dom's Combat Knife; +7 to hit, 1d4+1 slash
+Locus' Carbine (40 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +7 to hit; 4d6+2
+			(15 High Explosive Rounds); +d4 force
+Locus' Combat Knife; +7 to hit, 1d4+1 slash
 
 Consumables:
 	- Isiopara, 6x (3d4+10 +2 rounds)
-	- Pineapple Grenade, 1x (15ft sphere, 5d6+20)
+	- Secreclude Propaterol x1 (+25hp +2 rounds)
+	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
+	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
 Artifacts:
 	- Fire Heart-Ruby (3/10)
-
-##### "Georgie" - MIA
-AC: 20 (Press. Combat Armor (18+2))
-HP: 81 (6d10 hit die) / Speed: 30
-
-STR: 12 (+1)
-CON: 12 (+1)
-DEX: 15 (+2)
-INT: 13 (+1)
-WIS: 16 (+3)
-CHA: 9 (-1)
-
-*Extra Attack* - You attack twice when you take the attack action on your turn.
-*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
-
-Georgie's Carbine (41 Fire Rounds ); +7 to hit; 3d6+4
-Georgie's Combat Knife; +7 to hit, 1d4+2 slash
-
-Consumables:
-	- Isiopara (2x), 3d4+10 +2 rounds
-
-Artifacts:
-	- None
-
 
 
 ### RHOD

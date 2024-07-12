@@ -36,15 +36,13 @@ The Infirmary is quiet. You and yours are the only creatures making noise here. 
 			- Weapons
 		+ 22x Pipe Grenade
 		+ 19x Homemade Fire Bomb
-		+ 13x Pineapple Grenade
 		+ 14x Fire Grenade
 		+ 12x Shoebox APM
 		+ 13x Hillsight SM
 			- Ammo
 		+ 50x RDM, WT
-		+ 90x RDM, HE
 		+ 70x RDM, +B
-		+ 100x RDM, FR
+		+ 69x RDM, FR
 		+ 160x RDM, WB
 		+ 90x RDM, EY
 		+ 60x RDM, AC
