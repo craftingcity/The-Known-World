@@ -94,13 +94,13 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 
 ### What happened?
 
-25 - Nail's Sniper (+8 to hit, 2d8+3 force)
+25 - Nail's Sniper (+8 to hit, 2d10+3 force)
 20 - Screw
 19 - Jumpers
-	A. 
-	B.
-	C.
-	D.
+	~~A. ~~
+	~~B. 15, 31, 51~~
+	~~C. 43~~
+	D. 20, 32
 16 - Dom
 13 - Bubbles
 10 - Locus
