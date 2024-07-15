@@ -71,10 +71,10 @@ The Infirmary is quiet. You and yours are the only creatures making noise here. 
 		- Go find and kill NAMED NPC / NAMED GROUP
 			- Ronnie (Exfil Coyote), Cordon's Reserve
 			- Albatross (Drug Importer) Shipyard's Deep Scar
-			- Nail's Gang, City's Mall
-			- Wolf's Clan, Village's Windmill
+			- ==Nail's Gang, City's Mall==
+			- ==Wolf's Clan, Village's Windmill==
 		- Go here and clear mutants
-			- City's Construction Site
+			- ==City's Construction Site==
 			- Grey Forest
 			- Shipyard's Material Yard
 		- Gather X of THIS ITEM
@@ -94,6 +94,7 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 
 ### What happened?
 
+25 - Nail's Sniper (+8 to hit, 2d8+3 force)
 20 - Screw
 19 - Jumpers
 	A.
@@ -105,5 +106,7 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 10 - Locus
 8 - Ash
 5 - Astro
+
+
 
 We leave our heroes on the date of ... AF, as they ...
