@@ -29,6 +29,27 @@
             }
           },
           {
+            "id": "840af1564664d846",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "212a8f6d02c8bd38",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -82,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bf818f64586f64bb",
@@ -149,8 +171,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes July 0X 24.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes July 0X 24.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes July 0X 24.md"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
               }
             }
           }
@@ -381,12 +402,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "387b224ea2416c84",
+  "active": "840af1564664d846",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Prenotes July 0X 24.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
