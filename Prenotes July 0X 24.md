@@ -97,11 +97,11 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 25 - Nail's Sniper (+8 to hit, 2d8+3 force)
 20 - Screw
 19 - Jumpers
-	A.
+	A. 
 	B.
 	C.
 	D.
-16 - Domzz
+16 - Dom
 13 - Bubbles
 10 - Locus
 8 - Ash

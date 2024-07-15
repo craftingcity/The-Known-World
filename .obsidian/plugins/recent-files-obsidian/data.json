@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Prenotes July 0X 24",
       "path": "Prenotes July 0X 24.md"
     },
@@ -9,16 +13,16 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
     },
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
       "basename": "MinyostalmaFeatures",
       "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
     },
     {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "The Artifacts...",
@@ -119,10 +123,6 @@
     {
       "basename": "Underdark",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "The Texts Druidic",
