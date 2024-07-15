@@ -100,7 +100,7 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 	~~A. ~~
 	~~B. 15, 31, 51~~
 	~~C. 43~~
-	D. 20, 32
+	D. 20, 32, 50, 77
 16 - Dom
 13 - Bubbles
 10 - Locus
