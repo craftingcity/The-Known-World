@@ -101,7 +101,7 @@ On the lookout for Fallen and Medical Supplies. Talk to Ash about Radios.
 	B.
 	C.
 	D.
-16 - Dom
+16 - Domzz
 13 - Bubbles
 10 - Locus
 8 - Ash
