@@ -21,7 +21,7 @@ Your party has made its way through the Construction Site, taking minor damage a
 
 Nail has clearly decorated this place with the intention of scaring off those who would be on the fence regarding facing him - including skullspikes, bloodspattered walls, and chalked messages of intimidation and warning. 
 
-You are not on the fence. You are here to do a job.
+You are not on the fence. You are here to do a job. Killing Nail is what you are here to do.
 
 ### What does the World Know?
 
