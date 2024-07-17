@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had encountered a survivor on their path from the Green Lake to wherever the marks lead - and while they attempted minor diplomacies, they were forced to eliminate the dwarven gunslinger.
 
 The party has no true knowledge of this place, and no desperate need to be here, in this underworld of stone. The question before you; do you continue, or fall back? 
