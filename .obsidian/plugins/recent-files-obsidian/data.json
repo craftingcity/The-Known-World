@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Prenotes July 16 24",
+      "path": "Prenotes July 16 24.md"
+    },
+    {
       "basename": "underdark",
       "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
-      "basename": "Prenotes July 16 24",
-      "path": "Prenotes July 16 24.md"
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
+      "basename": "Underdark",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
     },
     {
       "basename": "Prenotes Apr 16 24",
@@ -133,10 +141,6 @@
       "path": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
     },
     {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
       "basename": "The Texts Druidic",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Major World Texts/The Texts Druidic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Places...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
-    },
-    {
-      "basename": "Romeo's Party's Journals",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Romeo's Party's Journals.md"
     }
   ],
   "omittedPaths": [],

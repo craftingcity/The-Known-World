@@ -31,5 +31,6 @@ The party will have to navigate back through whence they came, avoiding similar 
 
 ### What happened?
 
+They met Blurfurgir the Merchant, return character, and they bought a Map from him.
 
 We leave our heroes on the date of ... AF, as they ...
