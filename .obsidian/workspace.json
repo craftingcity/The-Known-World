@@ -6,40 +6,23 @@
       {
         "id": "35d53c462d161393",
         "type": "tabs",
+        "dimension": 71.35627530364373,
         "children": [
           {
             "id": "292a71823d77a871",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 4,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "underdark",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/underdark.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Underdark",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "MEDIA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MEDIA/MEDIA.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "underdark",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/WORLD/underdark.png\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes July 16 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July 16 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.927782363309321}"
                 },
                 {
                   "title": "Prenotes Apr 16 24",
@@ -52,13 +35,118 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes July 16 24.md",
+                "file": "Prenotes July 1X 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "19daaaa90e30b12b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b1d82930c3630bed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes July 0X 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "14245ab6657bab74",
+        "type": "split",
+        "dimension": 28.643724696356276,
+        "children": [
+          {
+            "id": "3beef13aab2f8ac2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96c81dc9da8ec63d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "7fe6fc57a29b9225"
+              }
+            ]
+          },
+          {
+            "id": "f6d330847daf476f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9a901affb74e552f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
+                  }
+                },
+                "group": "7fe6fc57a29b9225"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -152,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055
+    "width": 395.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -177,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes July 16 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes July 16 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes July 16 24.md"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
               }
             }
           }
@@ -288,22 +377,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "292a71823d77a871",
+  "active": "19daaaa90e30b12b",
   "lastOpenFiles": [
+    "Prenotes July 0X 24.md",
+    "Prenotes July 1X 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Prenotes July 16 24.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/MEDIA.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
-    "Prenotes July 16 24.md",
     "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Prenotes July 1X 24.md",
-    "Prenotes July 0X 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",

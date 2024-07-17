@@ -241,3 +241,20 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name      | Type  | Desc.                                                                                                                                               | Cost in AC |
 | --------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Ambebamol | Solid | A yellow-green powder that when consumed orally or nasally, provides protection against the hidden threat known as Radiation (+6RadRed / 25 rounds) |            |
+
+## Kits
+### Tourist's Kit
+The Tourist's Kit is typically the cheapest gear one can have and survive a minor expedition into the Old. 
+
+A Tourist's Kit contains the following:
+
+	- 1x Durandurm Blaster (1d6)
+	- 10x DRM, FR
+	- 1x Dagger (1d4)
+	- ProFinder MK1
+	- 1x Wineskin (Water)
+
+### Scavenger's Kit
+### Militant's Kit
+### Company Kit
+### Trooper's Kit
