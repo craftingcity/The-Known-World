@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26e8ec8bb483a225",
+        "id": "35d53c462d161393",
         "type": "tabs",
         "children": [
           {
-            "id": "2dc950b47cccfc0b",
+            "id": "292a71823d77a871",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,6 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Apr 16 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Apr 16 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -27,51 +33,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "90a1321392ec0fd1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes July 0X 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "816541c46ca698eb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes July 1X 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delta",
+                "query": "blaster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055,
-    "collapsed": true
+    "width": 395.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -192,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes July 1X 24.md",
+                "file": "Prenotes July 16 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes July 1X 24.md",
+                "file": "Prenotes July 16 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes July 1X 24.md"
+                "file": "Prenotes July 16 24.md"
               }
             }
           }
@@ -303,22 +265,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "816541c46ca698eb",
+  "active": "292a71823d77a871",
   "lastOpenFiles": [
-    "Prenotes July 0X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Prenotes July 1X 24.md",
     "Prenotes July 16 24.md",
-    "MEDIA/MAPS/WORLD/underdark.png",
-    "Prenotes July 09 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Prenotes July 0X 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "A Grand Notepad.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Prenotes June 19 24.md",
+    "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md",
+    "Prenotes July 09 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Mulutumi.md",
     "Amirriyl Haleli.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -326,16 +292,12 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md",
     "Game Notes/Prenotes/'24/Prenotes June 18 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "MEDIA/SUPP/SPREADS/custom_spells_v2.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/The Alaturmenian",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound",
     "Notes on the Multiverse/Seattle Exports Misery",
