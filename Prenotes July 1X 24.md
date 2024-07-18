@@ -33,6 +33,7 @@ Nail's Gang;
 	- Gus, Experienced Sniper (Refined Longblaster) 20AC 48HP ()
 	- Tanner, Rookie Sniper (Refined Handblaster) 19AC 24HP ()
 
+			CONTACT!!!
 	- Shark, Experienced Assault (Refined Carbine) 21AC 48HP ()
 	- Dawg, Experienced Assault (Refined Carbine) 21AC 48HP ()
 	- Bones, Professional Assault (Refined Carbine) 22AC 72HP (18, 31)
@@ -54,6 +55,15 @@ Nail's Gang;
 
 ### What happened?
 ##### INIT
+18 - Shark, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP ()
+17 - Bones, (Refined Carbine +7 3d6+5) 22AC 72HP (18, 31)
+15 - Screw
+15 - Dom
+12 - Ash
+12 - Locus
+11 - Astro
+10 - Bubbles
+3 - Dawg, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP ()
 
 
 We leave our heroes on the date of ... AF, as they ...
