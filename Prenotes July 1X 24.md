@@ -30,21 +30,21 @@ We're looking at Interchange as our "mall" map.
 	- Embrasure (DC 18);
 Nail's Gang;
 
-	- Gus, Experienced Sniper (Refined Longblaster)
-	- Tanner, Rookie Sniper (Refined Handblaster)
+	- Gus, Experienced Sniper (Refined Longblaster) 20AC 48HP ()
+	- Tanner, Rookie Sniper (Refined Handblaster) 19AC 24HP ()
 
-	- Shark, Experienced Assault (Refined Carbine)
-	- Dawg, Experienced Assault (Refined Carbine)
-	- Bones, Professional Assault (Refined Carbine)
+	- Shark, Experienced Assault (Refined Carbine) 21AC 48HP ()
+	- Dawg, Experienced Assault (Refined Carbine) 21AC 48HP ()
+	- Bones, Professional Assault (Refined Carbine) 22AC 72HP (18, 31)
 
-	- Major, Professional Assault (Refined Carbine)
-	- Mugsy, Experienced Technician (Refined Carbine)
-	- Grouch, Veteran Technician (Machine Repeater)
+	- Major, Professional Assault (Refined Carbine) 22AC 72HP
+	- Mugsy, Experienced Technician (Refined Carbine) 20AC 48HP DR 1 ()
+	- Grouch, Veteran Technician (Machine Repeater) 22AC 96HP DR 2 ()
 
-	- Butcher, Experienced Hunter (Refined Carbine)
-	- Bingo, Professional Hunter (Refined Carbine)
-	- Jewel, Professional Hunter (Refined Carbine)
-	- Slim, Rookie Hunter (Refined Carbine)
+	- Butcher, Experienced Hunter (Refined Carbine) 20AC 48HP ()
+	- Bingo, Professional Hunter (Refined Carbine) 20AC 72HP ()
+	- Jewel, Professional Hunter (Refined Carbine) 20AC 72HP ()
+	- Slim, Rookie Hunter (Refined Carbine) 19AC 24HP ()
 
 	- Lock, Veteran Guard (Refined Carbine)
 	- Chipper, Veteran Guard (Dual-pop Carbine)

@@ -6,6 +6,7 @@
       {
         "id": "35d53c462d161393",
         "type": "tabs",
+        "dimension": 57.78481012658227,
         "children": [
           {
             "id": "292a71823d77a871",
@@ -66,6 +67,7 @@
       {
         "id": "1146a8093a3f18e0",
         "type": "tabs",
+        "dimension": 42.21518987341772,
         "children": [
           {
             "id": "19daaaa90e30b12b",
@@ -109,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055,
-    "collapsed": true
+    "width": 395.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -343,9 +343,9 @@
   },
   "active": "292a71823d77a871",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
-    "Prenotes July 1X 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Prenotes July 1X 24.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Prenotes July 0X 24.md",
     "Prenotes July 16 24.md",

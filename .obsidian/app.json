@@ -165,5 +165,6 @@
     "downscalePercent": 100
   },
   "livePreview": false,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "readableLineLength": false
 }
