@@ -46,13 +46,14 @@ Nail's Gang;
 	- Jewel, Professional Hunter (Refined Carbine) 20AC 72HP ()
 	- Slim, Rookie Hunter (Refined Carbine) 19AC 24HP ()
 
-	- Lock, Veteran Guard (Refined Carbine)
-	- Chipper, Veteran Guard (Dual-pop Carbine)
-	- Bucket, Veteran Guard (Dual-pop Carbine)
-	- Mitzi, Veteran Guard (Dual-pop Carbine)
-	- Nail, Expert Boss (Ares Carbine)
+	- Lock, Veteran Guard (Refined Carbine) 21AC DR2 72HP ()
+	- Chipper, Veteran Guard (Dual-pop Carbine) 21AC DR2 72HP ()
+	- Bucket, Veteran Guard (Dual-pop Carbine) 20AC DR1 72HP ()
+	- Mitzi, Veteran Guard (Dual-pop Carbine) 20AC DR1 72HP ()
+	- Nail, Expert Boss (Ares Carbine) 23AC DR5 96HP ()
 
 ### What happened?
+##### INIT
 
 
 We leave our heroes on the date of ... AF, as they ...
