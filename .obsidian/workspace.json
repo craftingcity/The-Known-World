@@ -6,7 +6,6 @@
       {
         "id": "35d53c462d161393",
         "type": "tabs",
-        "dimension": 71.35627530364373,
         "children": [
           {
             "id": "292a71823d77a871",
@@ -42,27 +41,6 @@
             }
           },
           {
-            "id": "19daaaa90e30b12b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b1d82930c3630bed",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -83,70 +61,34 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "14245ab6657bab74",
-        "type": "split",
-        "dimension": 28.643724696356276,
+        "id": "1146a8093a3f18e0",
+        "type": "tabs",
         "children": [
           {
-            "id": "3beef13aab2f8ac2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "96c81dc9da8ec63d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "7fe6fc57a29b9225"
+            "id": "19daaaa90e30b12b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "f6d330847daf476f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9a901affb74e552f",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
-                  }
-                },
-                "group": "7fe6fc57a29b9225"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Prenotes July 1X 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Prenotes July 1X 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+                "file": "Prenotes July 1X 24.md"
               }
             }
           }
@@ -377,12 +319,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19daaaa90e30b12b",
+  "active": "292a71823d77a871",
   "lastOpenFiles": [
-    "Prenotes July 0X 24.md",
-    "Prenotes July 1X 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Prenotes July 1X 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Prenotes July 0X 24.md",
     "Prenotes July 16 24.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/MEDIA.md",

@@ -25,6 +25,32 @@ You are not on the fence. You are here to do a job. Killing Nail is what you are
 
 ### What does the World Know?
 
+We're looking at Interchange as our "mall" map.
+	- Tripwires (DC 14-18); trigger explosives
+	- Mines (DC 16);
+	- Embrasure (DC 18);
+Nail's Gang;
+
+	- Gus, Experienced Sniper (Refined Longblaster)
+
+	- Shark, Experienced Assault (Refined Carbine)
+	- Dawg, Experienced Assault (Refined Carbine)
+	- Bones, Professional Assault (Refined Carbine)
+
+	- Major, Professional Assault (Refined Carbine)
+	- Mugsy, Experienced Technician (Refined Carbine)
+	- Grouch, Veteran Technician (Machine Repeater)
+
+	- Butcher, Experienced Hunter (Refined Carbine)
+	- Bingo, Professional Hunter (Refined Carbine)
+	- Jewel, Professional Hunter (Refined Carbine)
+	- Slim, Rookie Hunter (Refined Carbine)
+
+	- Lock, Veteran Guard (Refined Carbine)
+	- Chipper, Veteran Guard (Dual-pop Carbine)
+	- Bucket, Veteran Guard (Dual-pop Carbine)
+	- Mitzi, Veteran Guard (Dual-pop Carbine)
+	- Nail, Expert Boss (Ares Carbine)
 
 ### What happened?
 
