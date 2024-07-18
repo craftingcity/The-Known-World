@@ -251,8 +251,16 @@ A Tourist's Kit contains the following:
 	- 1x Durandurm Blaster (1d6)
 	- 10x DRM, FR
 	- 1x Dagger (1d4)
+	- Leather Armor
+	- HEFP1
+	- Backpack
 	- ProFinder MK1
 	- 1x Wineskin (Water)
+	- 1x Hooded Lantern + 24 hours of Oil
+	- 1x Tinderbox
+	- 5x Rations (Beef Tushanka)
+	- 50ft Rope
+	- 20x Toss-Bolts
 
 ### Scavenger's Kit
 ### Militant's Kit
