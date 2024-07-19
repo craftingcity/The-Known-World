@@ -59,7 +59,7 @@ Nail's Gang;
 xx - Slim, Rookie Hunter (Refined Carbine) 19AC 24HP ()
 15 - Screw
 15 - Dom
-xx - Jewel, Professional Hunter (Refined Carbine) 20AC 72HP ()
+xx - Jewel, Professional Hunter (Refined Carbine) 20AC 72HP (22, )
 12 - Ash
 12 - Locus
 11 - Astro
