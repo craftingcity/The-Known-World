@@ -55,15 +55,16 @@ Nail's Gang;
 
 ### What happened?
 ##### INIT
-~~18 - Shark, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP (17, 32)~~
 17 - Bones, (Refined Carbine +7 3d6+5) 22AC 72HP (18, 31, 6, 26)
+xx - Slim, Rookie Hunter (Refined Carbine) 19AC 24HP ()
 15 - Screw
 15 - Dom
+xx - Jewel, Professional Hunter (Refined Carbine) 20AC 72HP ()
 12 - Ash
 12 - Locus
 11 - Astro
 10 - Bubbles
-~~3 - Dawg, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP (16, 56)~~
-
+xx - Butcher, Experienced Hunter (Refined Carbine) 20AC 48HP ()
+xx - Bingo, Professional Hunter (Refined Carbine) 20AC 72HP ()
 
 We leave our heroes on the date of ... AF, as they ...
