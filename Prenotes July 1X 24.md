@@ -64,10 +64,14 @@ xx - Jewel, Professional Hunter (Refined Carbine) 20AC 72HP (22, )
 12 - Locus
 11 - Astro
 10 - Bubbles
-xx - Butcher, Experienced Hunter (Refined Carbine) 20AC 48HP ()
-xx - Bingo, Professional Hunter (Refined Carbine) 20AC 72HP ()
+xx - Butcher, Experienced Hunter (Refined Carbine) 20AC 48HP (37, 76)
+xx - Bingo, Professional Hunter (Refined Carbine) 20AC 72HP (21, 44, 68, 85)
 
 We leave our heroes on the date of ... AF, as they ...
+
+8 kills * 2500
+
+Loot Secured...
 
 for next week
 	- assign stores & loot
