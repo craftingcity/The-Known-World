@@ -68,3 +68,9 @@ xx - Butcher, Experienced Hunter (Refined Carbine) 20AC 48HP ()
 xx - Bingo, Professional Hunter (Refined Carbine) 20AC 72HP ()
 
 We leave our heroes on the date of ... AF, as they ...
+
+for next week
+	- assign stores & loot
+	- look at locales nearby
+	- assign mission complete bounty
+	- map for wolf clan fight
