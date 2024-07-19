@@ -55,7 +55,7 @@ Nail's Gang;
 
 ### What happened?
 ##### INIT
-17 - Bones, (Refined Carbine +7 3d6+5) 22AC 72HP (18, 31, 6, 26)
+17 - Bones, (Refined Carbine +7 3d6+5) 22AC 72HP (18, 31, 6, 26, 62, 75, 97)
 xx - Slim, Rookie Hunter (Refined Carbine) 19AC 24HP ()
 15 - Screw
 15 - Dom
