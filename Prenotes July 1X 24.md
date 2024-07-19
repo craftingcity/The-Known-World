@@ -34,8 +34,8 @@ Nail's Gang;
 	- Tanner, Rookie Sniper (Refined Handblaster) 19AC 24HP ()
 
 			CONTACT!!!
-	- Shark, Experienced Assault (Refined Carbine) 21AC 48HP ()
-	- Dawg, Experienced Assault (Refined Carbine) 21AC 48HP ()
+	- ~~Shark, Experienced Assault (Refined Carbine) 21AC 48HP ()~~
+	- ~~Dawg, Experienced Assault (Refined Carbine) 21AC 48HP ()~~
 	- Bones, Professional Assault (Refined Carbine) 22AC 72HP (18, 31)
 
 	- Major, Professional Assault (Refined Carbine) 22AC 72HP
@@ -55,7 +55,7 @@ Nail's Gang;
 
 ### What happened?
 ##### INIT
-18 - Shark, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP ()
+~~18 - Shark, Experienced Assault (Refined Carbine +6 3d6+4) 21AC 48HP (17, 32)~~
 17 - Bones, (Refined Carbine +7 3d6+5) 22AC 72HP (18, 31, 6, 26)
 15 - Screw
 15 - Dom
