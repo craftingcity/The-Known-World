@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e67acb7b6136413",
+        "id": "3cfa6e141dbdf1b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c1fe9db6ca5a0b3b",
+            "id": "b2cd68bb33b4d519",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,8 @@
               ]
             },
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -252,7 +250,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1fe9db6ca5a0b3b",
+  "active": "b2cd68bb33b4d519",
   "lastOpenFiles": [
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Prenotes July 1X 24.md",
