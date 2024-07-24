@@ -27,6 +27,21 @@ Might get lost in Greenlight Tunnel, it's very long and many ways.
 
 Column Farms > Toxic Graveyard > Greenlight Tunnel > Greenlake
 
+#### GREENLAKE FIGHT
+16 - Eve
+13 - Marilynn
+12 - Thomas
+11 - Bhodi
+8 - Rowan
+7 - Trogs
+	~~a. 8, 11~~
+	~~b~~.
+	c. 
+	d. 4
+	e.
+	f.
+	g.
+
 Ascending the Greenlake portal is a 10/3 skills challenge.
 
 ### What happened?
