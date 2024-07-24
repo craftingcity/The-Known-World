@@ -11,17 +11,17 @@
             "id": "b2cd68bb33b4d519",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Prenotes June 19 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes June 19 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes July 20 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes July 20 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
                 },
                 {
                   "title": "Prenotes July 16 24",
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 20 24.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md"
               }
             }
           }
@@ -296,8 +296,8 @@
   },
   "active": "b2cd68bb33b4d519",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes June 19 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 19 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 16 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
