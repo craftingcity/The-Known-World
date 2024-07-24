@@ -14,7 +14,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-When last we left our heroes, they had encountered a friendly soul in this dark hell by the name of [[Blurfurmgur]], who was a valuable resource to you all. You purchased a fine map, that you can actually read, and a number of spell gems that you believe will assist you in your escape. With resolve, you begin your journey again, into the depths of the dark caves and tunnels, back towards the light of the life you once knew.
+When last we left our heroes, they had encountered a friendly soul, in this dark hell, who went by the name of [[Blurfurmgur]], who was a valuable resource to you all. You purchased a fine map that you can actually read, and a number of spell gems that you believe will assist you in your escape. With resolve, you begin your journey again, into the depths of the dark caves and tunnels, back towards the light of the life you once knew.
 
 As Blurfurmgur and Betsy waddle out and away from you, you return to rest. Hours pass. You eat a berry, and you drink a gallon of water. 
 
@@ -27,7 +27,7 @@ Might get lost in Greenlight Tunnel, it's very long and many ways.
 
 Column Farms > Toxic Graveyard > Greenlight Tunnel > Greenlake
 
-Ascending the Greenlake portal is a 6/3 skills challenge.
+Ascending the Greenlake portal is a 10/3 skills challenge.
 
 ### What happened?
 
