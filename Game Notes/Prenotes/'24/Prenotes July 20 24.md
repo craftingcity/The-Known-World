@@ -18,7 +18,7 @@ When last we left our heroes, they had encountered a friendly soul, in this dark
 
 As Blurfurmgur and Betsy waddle out and away from you, you return to rest. Hours pass. You eat a berry, and you drink a gallon of water. 
 
-It's time to go home. 
+It's time to go home. Back the way you came?
 
 ### What does the World Know?
 We're going back!
