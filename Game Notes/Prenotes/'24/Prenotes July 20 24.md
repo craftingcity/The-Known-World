@@ -36,8 +36,8 @@ Column Farms > Toxic Graveyard > Greenlight Tunnel > Greenlake
 7 - Trogs
 	~~a. 8, 11~~
 	~~b~~.
-	c. 
-	d. 4
+	c. 5, 
+	~~d. 4, ~~
 	e.
 	f.
 	g.
