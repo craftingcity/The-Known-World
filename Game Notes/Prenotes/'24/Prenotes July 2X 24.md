@@ -36,10 +36,37 @@ Nail made empty threats against you over the radio after you had defeated the ma
 #### Nail's Gang Loot
 ###### CONTRACT COMPLETION; 10ac + 120 DRM, AC / member
 ##### Snipers Squad
+Longblaster + Scope
+Binoculars
+88x Air Clear DRM
 ##### Assault Squad
+3x Refined Carbines
+3x Combat Press.
+1x Crowbar
+66x Earth Yellow DRM
+
 ##### Technician Squad
+1x Refit Tank-Plate
+1x DS Tank-plate
+1x Combat Press.
+3x Refined Carbine
+
+4x HSSM
+2x SAPM
+12x Pineapple Grenade
+
 ##### Hunter Squad
+4x Scout Press.
+4x Refined Carbine
+103x Earth Yellow DRM
+
 ##### Guard Squad
+2x Refit Tank Plate
+2
+1x Refined Carbine
+3x Dual Pop Carbine
+1x Ares Carbine
+
 #### Mall Stores Loot
 The Mall has ~150/~125 stores. Given that Nail and others have already looted most of it, the loot should be minimal from the stores.
 
