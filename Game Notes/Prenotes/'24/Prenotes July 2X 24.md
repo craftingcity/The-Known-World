@@ -62,10 +62,15 @@ Binoculars
 
 ##### Guard Squad
 2x Refit Tank Plate
-2
+2x DS Tank Plate
+1x Powered Plate
 1x Refined Carbine
 3x Dual Pop Carbine
 1x Ares Carbine
+600x Earth Yellow DRM
+64x Good Liquor
+80x Secreclude Propatal
+120x Isiopara
 
 #### Mall Stores Loot
 The Mall has ~150/~125 stores. Given that Nail and others have already looted most of it, the loot should be minimal from the stores.
