@@ -69,11 +69,13 @@ Binoculars
 1x Ares Carbine
 600x Earth Yellow DRM
 64x Good Liquor
-80x Secreclude Propatal
-120x Isiopara
+24x Secreclude Propatal
+48x Isiopara
 
 #### Mall Stores Loot
 The Mall has ~150/~125 stores. Given that Nail and others have already looted most of it, the loot should be minimal from the stores.
+
+7 stores can be looted for 20x ac, but you kinda gotta search all the stores to get all 20 - otherwise there's a decent chunk of scrap and material
 
 #### Around the Mall...
 ###### Hospital
