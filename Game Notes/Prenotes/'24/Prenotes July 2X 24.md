@@ -21,14 +21,14 @@ Nail made empty threats against you over the radio after you had defeated the ma
 ### What does the World Know?
 #### Nail Fight
 ##### INITATIVE
-25 - Nail, Expert Boss (Ares Carbine +9, 4d6+5 / 4x (+9, 1d6+5)) *23AC DR5* 96HP ()
+25 - Nail, Expert Boss (Ares Carbine +9, 4d6+5 / 4x (+9, 1d6+5)) *23AC DR5* 96HP (17, 52)
 23 - *Bubbles*
 20 - Major, Professional Assault (Refined Carbine +7, 3d6+5) *22AC* 72HP
 20 - *Ash*
 20 - *Locus*
 18 - Mugsy, Experienced Technician (Refined Carbine +7, 3d6+5) *20AC DR 1* 48HP  ()
 18 - Chipper, Veteran Guard (Dual-pop Carbine +9, 4d6+5) *21AC DR2* 72HP ()
-13 - Grouch, Veteran Technician (Machine Repeater 3x (+6, 1d6+4)) *22AC DR 2* 96HP  ()
+13 - Grouch, Veteran Technician (Machine Repeater 3x (+6, 1d6+4)) *22AC DR 2* 96HP  (20, 58)
 13 - Lock, Veteran Guard (Refined Carbine +9, 3d6+6) *21AC DR2* 72HP ()
 13 - *Astro*
 13 - Gus, Experienced Sniper (Refined Longblaster +9, 2d10+3 Force) *20AC* 48HP ()
