@@ -32,7 +32,7 @@ Nail made empty threats against you over the radio after you had defeated the ma
 13 - Lock, Veteran Guard (Refined Carbine +9, 3d6+6) *21AC DR2* 72HP ()
 13 - *Astro*
 ~~13 - Gus, Experienced Sniper (Refined Longblaster +9, 2d10+3 Force) *20AC* 48HP ()~~
-12 - Mitzi, Veteran Guard (Dual-pop Carbine +9, 4d6+5) *20AC DR1* 72HP (36, 53)
+~~12 - Mitzi, Veteran Guard (Dual-pop Carbine +9, 4d6+5) *20AC DR1* 72HP (36, 53, 73)~~
 ~~12 - Tanner, Rookie Sniper (Refined Handblaster +9, 1d6+3) *19AC* 24HP ()~~
 11 - *Dom*
 9 - *Screw*
