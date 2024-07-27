@@ -37,12 +37,7 @@ You survived. What's next?
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
-- [[Legal Fifth Edition]]
 - [[The Bombings]]
 - [[The Infection]]
-- **Weapon Rules**
-	- [[Melee Weapons]]
-	- [[Ranged Weapons]]
-	- [[Special Weapons]]
 
 %% End Waypoint %%
