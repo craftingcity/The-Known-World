@@ -44,6 +44,7 @@ Nail made empty threats against you over the radio after you had defeated the ma
 Longblaster + Scope
 Binoculars
 88x Air Clear DRM
+
 ##### Assault Squad
 3x Refined Carbines
 3x Combat Press.
@@ -55,7 +56,6 @@ Binoculars
 1x DS Tank-plate
 1x Combat Press.
 3x Refined Carbine
-
 4x HSSM
 2x SAPM
 12x Pineapple Grenade
