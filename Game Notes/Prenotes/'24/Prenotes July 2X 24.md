@@ -91,4 +91,4 @@ The Mall has ~150/~125 stores. Given that Nail and others have already looted mo
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they are heading into the Hospital
