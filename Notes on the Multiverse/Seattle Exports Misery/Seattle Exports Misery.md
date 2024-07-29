@@ -9,13 +9,13 @@ He was asleep moments ago, but he can never afford to miss a call. The person on
 
 "I understand."
 
-He pours himself a drink. The ice in his glass has long melted since the night before, but his whisky will burn just as well all the same. He shakes his head, smiling at whatever he's being told.
+He pours himself a drink. The ice in his glass has long melted since the night before, but his whisky will burn all the same. He shakes his head, smiling at whatever he's being told.
 
-"Ah, no. Thank you, but that won't be necessary. Yes. No, I will not. Be well, General."
+"Ah, no. Thank you, but that won't be necessary General. Yes. No, I will not - and be well, General."
 
 The man ends the call. He grabs his drink, and stands from his bed, walking across his lavish bedroom towards the large window overlooking the city below him.
 
-He coughs for a minute, and wipes a drop of blood from his mouth. He takes a drink. A long drink. He knows that he will never enjoy another drink again. He finishes the glass, and sets it upon the window sill.
+He coughs for a minute, and wipes a drop of blood from his mouth. Then he takes a drink. A very long drink. He knows that he will never enjoy another drink like this again. He finishes the glass, and sets it upon the window sill.
 
 The man looks to the horizon. It is July 20th, 2015, and the sun rises upon both coasts of the United States of America.
 

@@ -27,30 +27,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a10a53c812752d73",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "67514c011c30a10d",
@@ -279,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055,
-    "collapsed": true
+    "width": 395.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -305,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
               }
             }
           }
@@ -416,11 +393,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a10a53c812752d73",
+  "active": "bc293509dff84a44",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Player Introduction Script.md",
