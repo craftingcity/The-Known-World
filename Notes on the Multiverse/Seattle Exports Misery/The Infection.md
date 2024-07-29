@@ -8,14 +8,16 @@ Mortality: 7 days*, 100%
 
 | Stage 1 (0-48h) | Stage 2 (16-72h)           | Stage 3 (2-5 days)  | Stage 4 (7 days)        | Stage 5 (unknown, presumed 3+ months) |
 | --------------- | -------------------------- | ------------------- | ----------------------- | ------------------------------------- |
-| Fever           | Intense Fever              | Fatal Organ Failure | Human Host Re-Animation | Fatal Degredation (presumed)          |
+| Fever           | Intense Fever              | Fatal Organ Failure | Human Host Re-Animation | Fatal Host Degradation (presumed)     |
 | Cough           | Blood in Cough, Spit, Snot | Mental Degradation  | Transmission            |                                       |
 | Fatigue         | Intense Pain               | Death               |                         |                                       |
 
 ```
 The Louisville Infection will progress into Stage 1 Infection within 48 hours of initial internal contact to an Infection Source. Without immediate separation of contaminated and non-contaminated cells, the Infection is fatal in 100% of documented cases.
 
-After Stage 4, a Louisville Infection Host (L.I.H.) will reanimate without the use of it's now ineffective internal structure and begin to wander their local area in search of sources of noise or smell.
+Progression through the stages can take as much as 48 hours, or as few as 2 hours, and is variable based on the physiology of the Infected. At stage 3, a Louisville Infection Host (L.I.H.) will effectively die as their organs begin to fail. The Infection will continue to feed and sprea
+
+Upon the Infection reaching Stage 4, a Louisville Infection Host (L.I.H.) will reanimate without the use of it's now ineffective internal structure and begin to wander their local area in search of sources of noise or smell.
 
 Minimal testing suggests that a L.I.H has a significant advantage in these two fields compared to an average reasearcher, and becomes vocally and visually enranged when they detect the presence of non-L.I.H entities via these senses.
 

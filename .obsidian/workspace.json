@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Factions of Puget Sound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
                   "title": "Cult in Annihilation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md\",\"mode\":\"source\",\"source\":true}}",
@@ -106,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
                 "mode": "source",
                 "source": true
               }
@@ -231,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
               }
             }
           }
@@ -344,6 +350,8 @@
   },
   "active": "79c33c5059ddf9d5",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Player Introduction Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
@@ -351,7 +359,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
     "Game Notes/Game Notes.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
@@ -375,7 +382,6 @@
     "Game Notes/Prenotes/'24/Prenotes July 16 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
-    "Blurfurmgur.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SPREADS/custom_spells_v2.ods",
