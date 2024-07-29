@@ -5,8 +5,9 @@ aliases:
 
 %% Begin Waypoint %%
 - **Greater Organizations**
+	- [[Cult in Annihilation]]
 	- [[State Military]]
-	- [[Untitled]]
+	- [[Tourist Paramilitary]]
 - **Seattle Area**
 - **Tacoma Area**
 - **West of the Sound**
