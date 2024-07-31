@@ -6,7 +6,7 @@ aliases:
 
 # Sainthood Order of Seattle
 ## History
-The Sainthood Order of Seattle is a collection of survivor groups related by their devotion to faith, despite their denomination.
+The Sainthood Order of Seattle is a collection of survivor groups related by their devotion to faith, despite their denomination. They are primarily located in the neighborhoods south of Seattle proper. The Sainthood Order of Seattle was formed after many survivors flocked towards churches seeking refuge, and began to seek others who had done the same to spread the word of God and the news of who has or hasn't survived within the communities.
 
 ## Governance
 The Sainthood is a loose collective, and does not answer to a central *mortal* authority figure, but members of a given sect will likely submit to the local authority of a practiced theologist and leader, such as a priest.
