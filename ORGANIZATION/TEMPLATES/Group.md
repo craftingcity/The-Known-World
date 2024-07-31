@@ -14,4 +14,7 @@ aliases:
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic
