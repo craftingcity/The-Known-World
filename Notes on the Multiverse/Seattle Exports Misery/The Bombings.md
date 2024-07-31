@@ -6,3 +6,5 @@
 11/20/13 - The United Nations conducts a survey regarding positions for or against supporting the efforts in the United States of America's south-east to contain and understand the Louisville Infection. The results are vastly against support.
 xx/xx/14 - Washington D.C. falls to the Infection. The official National Emergency Broadcasting throughout the States remains the same until it finally ceases some months later.
 07/20/15 - A series of nuclear bombs of varying design are released throughout the world targeting North America. You survived.
+
+Within the Puget Sound, 5 major bombs were dropped, targeting the cities of Seattle, Issaquah, Tacoma, Glenwood, and the Bangor Base north of Bremerton.

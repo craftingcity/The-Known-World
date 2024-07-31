@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43f6fc9180ea406f",
+        "id": "b52e9eddc4a78776",
         "type": "tabs",
         "children": [
           {
-            "id": "bc293509dff84a44",
+            "id": "74cb80e4a8e5b94d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,130 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Auburn Overwatch",
+                  "title": "Seattle Exports Misery",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Highline High Life",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fedway Ballers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Ballers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Highline High Life",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Muckleshoot Gamblers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Three-tree Ballers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Three-tree Ballers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Fedway Ballers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Ballers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Highline High Life",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Auburn Overwatch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Muckleshoot Gamblers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Auburn Overwatch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Normandy Guerilla",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Green-kin Nation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Green-kin Nation.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Black River Bandits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Black River Bandits.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Road Kings",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Road Kings.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Green-kin Nation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Green-kin Nation.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Sea-Tac Overwatch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Normandy Guerilla",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Sainthood Order of Seattle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sainthood Order of Seattle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":70},\"to\":{\"line\":39,\"ch\":70}},\"scroll\":21.872418730657927}"
-                },
-                {
-                  "title": "Sea-Tac Overwatch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
-                },
-                {
-                  "title": "Sainthood Order of Seattle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sainthood Order of Seattle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":136},\"to\":{\"line\":47,\"ch\":136}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.31452562508828}"
                 },
                 {
                   "title": "Factions of Puget Sound",
@@ -150,23 +30,23 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Fiction Exposition Broadcast Script",
+                  "title": "Community of Vashon",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":219},\"to\":{\"line\":73,\"ch\":219}},\"scroll\":56.86907789164852}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound/Community of Vashon.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":0}"
                 },
                 {
-                  "title": "The Bombings",
+                  "title": "Shadows on the Lakes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/The Bombings.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":127},\"to\":{\"line\":7,\"ch\":127}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":2.820515601183268}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Untitled.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
                 "mode": "source",
                 "source": true
               }
@@ -291,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Untitled.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Untitled.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Untitled.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
               }
             }
           }
@@ -402,12 +282,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bc293509dff84a44",
+  "active": "74cb80e4a8e5b94d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound/Community of Vashon.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Wasters of White Center.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Kent Rangers.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Druids of Covington.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/JBLM United Military.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Enumclaw Civilized Safe Zone.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Aria Edges.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Untitled.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Ballers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Three-tree Ballers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md",
@@ -417,24 +308,13 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sainthood Order of Seattle.md",
     "ORGANIZATION/TEMPLATES/Group.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Player Introduction Script.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
-    "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations",
-    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Special Weapons.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules/Ranged Weapons.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
