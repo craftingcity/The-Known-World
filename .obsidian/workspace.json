@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a30b65915435ee07",
+        "id": "47a1e6e875206fac",
         "type": "tabs",
         "children": [
           {
-            "id": "f8546ca217c73d44",
+            "id": "01678757c740a7d1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,186 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/NewSarahouse Game.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "200b4d656fed0b56"
-          },
-          {
-            "id": "fd1dae491ec2a4e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3d08d2e0d70cd32f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b4c4255b7f147798",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Aug 05 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Aug 05 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":79},\"to\":{\"line\":36,\"ch\":79}},\"scroll\":1.8922470180697344}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "24d0ed96d199691f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "02e369b864b52275",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7be7f8844ae352a8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/NewSarahouse Game.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "200b4d656fed0b56"
-          },
-          {
-            "id": "254f610c063339c9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Nobles of Prosper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -406,9 +229,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -430,14 +251,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "254f610c063339c9",
+  "active": "01678757c740a7d1",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
-    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Drazz a'Alden.md",
