@@ -1,100 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "The Bombings",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
+      "basename": "Prenotes Aug 05 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md"
     },
     {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
+      "basename": "Prenotes July 09 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes July 09 24.md"
+    },
+    {
+      "basename": "NewSarahouse Game",
+      "path": "Game Notes/Campaign Rosters/NewSarahouse Game.md"
+    },
+    {
+      "basename": "Prenotes July 20 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes July 20 24.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
     },
     {
       "basename": "Factions of Puget Sound",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
     },
     {
-      "basename": "Community of Vashon",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound/Community of Vashon.md"
-    },
-    {
-      "basename": "Shadows on the Lakes",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md"
-    },
-    {
-      "basename": "Wasters of White Center",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Wasters of White Center.md"
-    },
-    {
-      "basename": "Kent Rangers",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Kent Rangers.md"
-    },
-    {
-      "basename": "Druids of Covington",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Druids of Covington.md"
-    },
-    {
-      "basename": "Fedway Scavs",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md"
-    },
-    {
-      "basename": "State Military",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md"
-    },
-    {
-      "basename": "Enumclaw Civilized Safe Zone",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Enumclaw Civilized Safe Zone.md"
-    },
-    {
-      "basename": "Aria Edges",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Aria Edges.md"
-    },
-    {
-      "basename": "Auburn Overwatch",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md"
-    },
-    {
-      "basename": "Highline High Life",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md"
-    },
-    {
-      "basename": "Muckleshoot Gamblers",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md"
-    },
-    {
-      "basename": "Three-tree Ballers",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Three-tree Ballers.md"
-    },
-    {
-      "basename": "Normandy Guerilla",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md"
-    },
-    {
-      "basename": "Green-kin Nation",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Green-kin Nation.md"
-    },
-    {
-      "basename": "Black River Bandits",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Black River Bandits.md"
-    },
-    {
-      "basename": "Road Kings",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Road Kings.md"
-    },
-    {
-      "basename": "Sea-Tac Overwatch",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md"
-    },
-    {
-      "basename": "Sainthood Order of Seattle",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sainthood Order of Seattle.md"
-    },
-    {
-      "basename": "Group",
-      "path": "ORGANIZATION/TEMPLATES/Group.md"
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Fiction Exposition Broadcast Script",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+    },
+    {
+      "basename": "The Bombings",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
     },
     {
       "basename": "The Infection",
@@ -113,6 +73,10 @@
       "path": "Game Notes/Game Notes.md"
     },
     {
+      "basename": "State Military",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md"
+    },
+    {
       "basename": "Things Aren't Right Here...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
     },
@@ -127,10 +91,6 @@
     {
       "basename": "The Artifacts...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     },
     {
       "basename": "Prenotes July 2X 24",
@@ -149,20 +109,12 @@
       "path": "Game Notes/Prenotes/'24/Prenotes July 1X 24.md"
     },
     {
-      "basename": "Prenotes July 20 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes July 20 24.md"
-    },
-    {
       "basename": "Prenotes June 19 24",
       "path": "Game Notes/Prenotes/'24/Prenotes June 19 24.md"
     },
     {
       "basename": "Prenotes July 16 24",
       "path": "Game Notes/Prenotes/'24/Prenotes July 16 24.md"
-    },
-    {
-      "basename": "Prenotes July 09 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes July 09 24.md"
     },
     {
       "basename": "Prenotes July 0X 24",
@@ -185,10 +137,6 @@
       "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
-      "basename": "MEDIA",
-      "path": "MEDIA/MEDIA.md"
-    },
-    {
       "basename": "Underdark",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
     },
@@ -199,6 +147,58 @@
     {
       "basename": "The Monsters...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "Ungaethram",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "Blurkfraggir",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md"
+    },
+    {
+      "basename": "Prenotes June 18 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes June 18 24.md"
+    },
+    {
+      "basename": "Prenotes May 31st 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes May 31st 24.md"
+    },
+    {
+      "basename": "Prenotes May 22 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes May 22 24.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+    },
+    {
+      "basename": "New Cannane",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
+      "basename": "Underdark Flora",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md"
+    },
+    {
+      "basename": "Underdark Travel Table",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Travel Table.md"
+    },
+    {
+      "basename": "Underdark Hazards",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Hazards.md"
     }
   ],
   "omittedPaths": [],
