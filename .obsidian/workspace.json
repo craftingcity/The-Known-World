@@ -30,7 +30,7 @@
             "group": "200b4d656fed0b56"
           },
           {
-            "id": "5c61d0a9ce0e2f15",
+            "id": "fd1dae491ec2a4e9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -44,14 +44,83 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3d08d2e0d70cd32f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b4c4255b7f147798",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Aug 05 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Aug 05 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":79},\"to\":{\"line\":36,\"ch\":79}},\"scroll\":1.8922470180697344}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "24d0ed96d199691f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "02e369b864b52275",
@@ -103,11 +172,17 @@
             "group": "200b4d656fed0b56"
           },
           {
-            "id": "b4c4255b7f147798",
+            "id": "254f610c063339c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Nobles of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -171,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Trooper Borehan\"",
+                "query": "a'ald",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,11 +430,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "254f610c063339c9",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Drazz a'Alden.md",
+    "Game Notes/Prenotes/'24/Prenotes May 07 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
@@ -377,14 +459,7 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Aria Edges.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Wasters of White Center.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Three-tree Ballers.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Road Kings.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sainthood Order of Seattle.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area",
     "MEDIA/SUPP/DOCS/Untitled 1.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
