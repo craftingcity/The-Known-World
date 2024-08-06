@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
-## Party of Interest: /*LINK*/
+# Prenotes for August 5th
+## Party of Interest: [[NewSarahouse Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
