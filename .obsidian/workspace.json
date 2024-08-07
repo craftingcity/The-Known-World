@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blaster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "74cb80e4a8e5b94d",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
