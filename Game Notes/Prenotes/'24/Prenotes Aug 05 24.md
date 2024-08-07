@@ -34,7 +34,7 @@ Trooper Borehan is present and knowledgeable about the Underdark breaches within
 Eve's mother, Kaymin "Kay" Laush, has received and replied to Eve's letter;
 	"Eve,
 	I'm glad to hear from you. Your siblings are well, as is your Father.
-	Regarding the Duche, I trust him as far as I can throw him. He is an a'Alden - he is minor, but a noble none the less. If he does not get what he wants from you, I am sure that he would make attempts to take it. His attempt to leverage our connection into using you leaves me disgusted. 
+	Regarding the Duche, I trust him as far as I can throw him. He is an a'Alden - he is minor, but a noble nonetheless. If he does not get what he wants from you, I am sure that he would make attempts to take it. His attempt to leverage our connection into using you leaves me disgusted. 
 	I worked under him while I was still a CPK in [[Bandeer]]. He had goals of becoming more than a pencil-pusher, and now he is. I could not imagine that you would complete his requests and he would grant you the full honor of your actions. He will not leave this be - you must respond to some degree. In any case: be cautious, and be smart. I know you will do good.
 	With love,
 	Mama Kay"
