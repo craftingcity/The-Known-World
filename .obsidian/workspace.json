@@ -53,6 +53,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "b3db07ff95cd20fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781355af30b3291d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"

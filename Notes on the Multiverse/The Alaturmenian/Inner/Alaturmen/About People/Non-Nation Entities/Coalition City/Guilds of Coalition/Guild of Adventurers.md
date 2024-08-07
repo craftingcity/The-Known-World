@@ -34,7 +34,13 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 #### GAP-1
 ##### "Basic Care"
 The "Basic Care" equipment package includes reliable long-term adventuring gear, providing for food, water, and shelter needs during an adventure, and additional equipment that an adventuring party may find useful.
-
+```
+- GAP-1 Basic Care Package;
+	- Potion of Healing, Apprentice (3x)
+	- Spell Smoke Incence, Journeyman (3x)
+	- Alchemical Chalk, 
+	- Healer's Kit (1x)
+```
 #### GAC-1
 ##### "Magician"
 The "Magician" equipment package includes items and equipment that most spellcasters would be able to make use of regardless of their discipline.
