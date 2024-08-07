@@ -41,6 +41,15 @@ Eve's mother, Kaymin "Kay" Laush, has received and replied to Eve's letter;
 
 ### What happened?
 they scaled the shaft, and arrived in the quarantine zone
+moved into service center, saw edgars and called for him - leading Troopers to fire into the tunnel
+
+##### INIT 
+18 - Bhodi
+18 - Marilynn
+13 - Thomas
+8 - Rowan
+3 - Eve
+0 - Troopers
 
 
 We leave our heroes on the date of ... AF, as they ...
