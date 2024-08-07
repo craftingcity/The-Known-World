@@ -34,28 +34,52 @@ Class I equipment is the most basic equipment that the Guild is comfortable equi
 #### GAP-1
 ##### "Basic Care"
 The "Basic Care" equipment package includes reliable long-term adventuring gear, providing for food, water, and shelter needs during an adventure, and additional equipment that an adventuring party may find useful.
+
 ```
 - GAP-1 Basic Care Package;
 	- Potion of Healing, Apprentice (3x)
-	- Spell Smoke Incence, Journeyman (3x)
-	- Alchemical Chalk, 
+	- Spell Smoke Incence, Journeyman (5x)
+	- Alchemical Chalk, Novice (3x)
+	- Alchemical Light, Novice (3x)
 	- Healer's Kit (1x)
+	- Large Tent (1x)
 ```
+
 #### GAC-1
 ##### "Magician"
 The "Magician" equipment package includes items and equipment that most spellcasters would be able to make use of regardless of their discipline.
+
+```
+- GAC-1 Magician Package;
+	- xxx
+```
 
 #### GAB-1
 ##### "Pike"
 The "Pike" equipment package includes items and equipment that most martial combatants would be able to make use of during both combat and non combat encounters, with a focus on offense.
 
+```
+- GAB-1 Pike Package;
+	- xxx
+```
+
 #### GAH-1
 ##### "Tank"
 The "Tank" equipment package includes items and equipment that most martial combatants would be able to make use of during both combat and non combat encounters, with a focus on defense.
 
+```
+- GAH-1 Tank Package;
+	- xxx
+```
+
 #### GAS-1
 ##### "Sliver"
 The "Sliver" equipment package includes items and equipment that ranged martial combatants would be able to make use of during both combat and non combat encounters.
+
+```
+- GAS-1 Sliver Package;
+	- xxx
+```
 
 ### Class II
 Class II equipment is more advanced than it's Class II counterparts, but only marginally. This class is typically requisitioned by newly Guilded adventuring parties who already have a decent independent reputation.
@@ -63,26 +87,66 @@ Class II equipment is more advanced than it's Class II counterparts, but only ma
 #### GAP-2a
 ##### "Primary Care"
 
+```
+- GAP-2a P.C. Package;
+	- xxx
+```
+
 #### GAP-2b
 ##### "Diplomatic Introduction"
+
+```
+- GAP-2b D.I. Package;
+	- xxx
+```
 
 #### GAC-2a
 ##### "Adept"
 
+```
+- GAC-2a Adept Package;
+	- xxx
+```
+
 #### GAC-2b
 ##### "Chosen"
+
+```
+- GAC-2b Chosen Package;
+	- xxx
+```
 
 #### GAB-2
 ##### "Scabbard"
 
+```
+- GAB-2 Scabbard Package;
+	- xxx
+```
+
 #### GAH-2a
 ##### "Hammer"
+
+```
+- GAH-2a Hammer Package;
+	- xxx
+```
 
 #### GAH-2b
 ##### "Shield"
 
+```
+- GAH-2b Sheild Package;
+	- xxx
+```
+
 #### GAS-2
 ##### "Rainier"
+
+```
+- GAS-2 Rainier Package;
+	- xxx
+```
 
 ### Class III
 Class III equipment is considered by most parties and patrons to be the best power for its availability, second only in power and prestige to the Class IV equipment.
@@ -90,8 +154,18 @@ Class III equipment is considered by most parties and patrons to be the best pow
 #### GAP-3a
 ##### "Advanced Care"
 
+```
+- GAP-3a A.C. Package;
+	- xxx
+```
+
 #### GAP-3b
 ##### "Diplomatic Progress"
+
+```
+- GAP-3b D.P. Package;
+	- xxx
+```
 
 #### GAC-3a
 ##### "Evoker"
@@ -106,7 +180,7 @@ Class III equipment is considered by most parties and patrons to be the best pow
 ##### "Scoundrel"
 
 #### GAH-3
-##### "x"
+##### "Brute"
 
 #### GAS-3
 ##### "Arbalest"
@@ -145,13 +219,13 @@ Class V equipment is rarely if ever requisitioned by a party, and is reserved fo
 ##### "Wizard"
 
 #### GAC-5b
-##### ""
+##### "Diviner"
 
 #### GAB-5
-##### "x"
+##### "Blade"
 
 #### GAH-5
-##### "x"
+##### "Heavy"
 
 #### GAS-5
-##### "x"
+##### "Striker"

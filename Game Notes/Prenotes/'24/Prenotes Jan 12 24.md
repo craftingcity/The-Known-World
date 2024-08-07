@@ -27,7 +27,7 @@ What do you do? Who leads the convoy?
 ADVENTURER'S GUILD PACKAGE - HANDLE WITH CARE
 
 Please find the following enclosed;
-- GAP-5 H.A. Care Package (x2);
+- GAP-5 H.A.C. Package (x2);
 		- Auspex Lense, Master
 		- Potion of Healing, Expert (x5)
 		- Potion of Vitality, Journeyman (x20)
@@ -39,7 +39,7 @@ Please find the following enclosed;
 		- Alchemical Explosive, 1 pound, Journeyman (x4)
 		- Spell Smoke Incence, Journeyman (x12)
 		- Isiopara, 1 ounce, Expert (x5)
-- GAP-3b Advanced Gear Package (x2);
+- GAP-3b A.G. Package (x2);
 		- Grade 3 (Immutable) Bag of Holding
 		- Sally-Sea-Shell Personal Shelter
 		- Darksteel Dagger, G.A. Engraved (x2)
