@@ -40,6 +40,7 @@ Eve's mother, Kaymin "Kay" Laush, has received and replied to Eve's letter;
 	Mama Kay"
 
 ### What happened?
+they scaled the shaft, and arrived in the quarantine zone
 
 
 We leave our heroes on the date of ... AF, as they ...
