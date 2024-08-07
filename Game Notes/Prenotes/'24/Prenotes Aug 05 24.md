@@ -51,5 +51,7 @@ moved into service center, saw edgars and called for him - leading Troopers to f
 3 - Eve
 0 - Troopers
 
+they all got away, they are going to run into the mountains towards the small city north-east of Mountainhall
+
 
 We leave our heroes on the date of ... AF, as they ...
