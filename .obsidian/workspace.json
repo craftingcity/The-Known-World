@@ -4,62 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "806ff1fff13e0d01",
+        "id": "5e402f13d5f7f36e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8c939a7bf54695",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Jan 12 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Jan 12 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":37},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":21.871842091698582}"
-                },
-                {
-                  "title": "Guild of Adventurers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":98.19559741472804}"
-                },
-                {
-                  "title": "Prenotes Jan 12 24",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Jan 12 24.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":38},\"to\":{\"line\":51,\"ch\":38}},\"scroll\":13.050773998484049}"
-                },
-                {
-                  "title": "c_ Chapter Four - Level Three; Sinker",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":226},\"to\":{\"line\":3,\"ch\":226}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b3db07ff95cd20fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "781355af30b3291d",
+            "id": "41d157e4e0b34b40",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -73,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+                "file": "Prenotes Aug 10 24.md",
                 "mode": "source",
                 "source": true
               }
@@ -126,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"package",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+                "file": "Prenotes Aug 10 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+                "file": "Prenotes Aug 10 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md"
+                "file": "Prenotes Aug 10 24.md"
               }
             }
           }
@@ -310,10 +258,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a8c939a7bf54695",
+  "active": "41d157e4e0b34b40",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
+    "Prenotes Aug 10 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
@@ -336,9 +287,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Three-tree Ballers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Normandy Guerilla.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Green-kin Nation.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Black River Bandits.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Road Kings.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Sea-Tac Overwatch.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
