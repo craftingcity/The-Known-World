@@ -60,7 +60,15 @@ The "Pike" equipment package includes items and equipment that most martial comb
 
 ```
 - GAB-1 Pike Package;
-	- xxx
+	- 1x Martial Spear or 1x Martial Axe
+		- (+1 Weapon of Choice)
+	- 1x Chain Shirt
+	- 3x Isiopara, ounce
+		- (3 rounds of 3d4+15hp)
+	- 1x Cold Whetstone (5/5)
+		- (1 hour > +1 to damage for 6 hours)
+	- 1x Entrenching Tool
+	- 1x Buckler
 ```
 
 #### GAH-1

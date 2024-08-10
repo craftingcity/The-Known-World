@@ -31,12 +31,12 @@ Review... Huh. This one is different. It's addressed to you.
 
 	Clerk Oliver,
 
-	You have been recommended to me by your superiors in regards to a small task. I have been notified that XXX has not been audited by the Guild of Wizards within the last 18 months, and is due for one. 
-	You have been granted a task-leave of 7 days for your position beginning end-of-day today, the fourth day of the 106th Harvest for this operation; You and an assigned Handler will travel into XXX and discretely attempt to detect a valueable lockbox of your choice. Until you are under direct suspision, do not reveal your assosiation with the Guilds or with myself. Please discretely gather and deliver it unto your Handler. 
+	You have been recommended to me by your superiors in regards to a small task. I have been notified that the Mossburg Great Vault has not been audited by the Guild of Wizards within the last 18 months, and is due for one. 
+	You have been granted a task-leave of 7 days for your position beginning end-of-day today, the fourth day of the 106th Harvest for this operation; You and an assigned Handler will travel into Mossburg and discretely attempt to detect and extract a valueable lockbox of your choice held by the Mossburg Great Vault. Until you are under direct suspision, do not reveal your assosiation with the Guilds or with myself. Please discretely gather and deliver the lockbox unto your Handler. 
 	At this time, your operation is concluded, and you may return to work with the knowledge that you were participating in regulated, lawful, and approved Guild activity.
 
-	Go with shadows,
-	Duche XXX of XXX
+	May the Gods shine upon your journey,
+	Bond Calvin Ameex
 
 ```
 
