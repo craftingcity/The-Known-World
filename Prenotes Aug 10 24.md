@@ -53,9 +53,15 @@ The vault is locked to a bio-chanted key and a 6" lead lining around a 1' mild-s
 There are over 300 registered and filled personal lockboxes at MGV, of which ~3 are of the recently deceased;
 
 ```
-JAMES, Frank - 
-KILLFISH, The - 
-SALEEN, Alex -
+JAMES, Frank - 6+ years of registry, "Business Profits"
+	- 1442sp
+	- a carved ivory knight with the phrase 'Fight for Honor, Ride the Road' inscribed on the base.
+	- identification documents for a "Alabaster Hanz" of the Church of the White Flame
+
+KILLFISH, The - 1+ years of registry, "Storage"
+	- 138sp
+	- 
+SALEEN, Alex - 8+ years of registry, "My Bag"
 ```
 
 
