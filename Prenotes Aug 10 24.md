@@ -46,11 +46,18 @@ A break? To do something important? Your life of adventure awaits!
 
 The Mossburg Great Vault is a public bank operated by Calvin Ameex under the approval of the [[Baron Vannis]].
 
-Two stories and a basement - an office, public floor, and the vault - leave little to be desired by its 2,400 patrons.
+Two stories and a basement - an office, public floor, and the vault - leave little to be desired by its 2,400 patrons. There are 12 employees at the bank, and the son of the manager - Binx Ameex. There are 4 stationed Enforcers, two on the first floor, two at the vault.
 
 The vault is locked to a bio-chanted key and a 6" lead lining around a 1' mild-steel casing.
 
-There are 12 employees, and the 
+There are over 300 registered and filled personal lockboxes at MGV, of which ~3 are of the recently deceased;
+
+```
+JAMES, Frank - 
+KILLFISH, The - 
+SALEEN, Alex -
+```
+
 
 ### What happened?
 
