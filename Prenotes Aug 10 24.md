@@ -40,8 +40,17 @@ Review... Huh. This one is different. It's addressed to you.
 
 ```
 
+A break? To do something important? Your life of adventure awaits!
+
 ### What does the World Know?
 
+The Mossburg Great Vault is a public bank operated by Calvin Ameex under the approval of the [[Baron Vannis]].
+
+Two stories and a basement - an office, public floor, and the vault - leave little to be desired by its 2,400 patrons.
+
+The vault is locked to a bio-chanted key and a 6" lead lining around a 1' mild-steel casing.
+
+There are 12 employees, and the 
 
 ### What happened?
 

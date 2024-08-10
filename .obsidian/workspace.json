@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Aug 10 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+                "file": "Prenotes Aug 10 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+                "file": "Prenotes Aug 10 24.md"
               }
             }
           }
@@ -299,8 +298,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f8ab207ea5bdfb63",
+  "active": "41d157e4e0b34b40",
   "lastOpenFiles": [
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Prenotes Aug 10 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
@@ -327,7 +327,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Aria Edges.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
@@ -335,7 +334,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SPREADS/custom_spells_v2.ods",
     "Notes on the Multiverse/The Alaturmenian",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules"
