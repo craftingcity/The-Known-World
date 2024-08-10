@@ -29,6 +29,25 @@
             }
           },
           {
+            "id": "f8ab207ea5bdfb63",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              }
+            }
+          },
+          {
             "id": "370820751ad04317",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -169,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md"
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
               }
             }
           }
@@ -280,15 +299,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "370820751ad04317",
+  "active": "f8ab207ea5bdfb63",
   "lastOpenFiles": [
     "Prenotes Aug 10 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Enforcers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
