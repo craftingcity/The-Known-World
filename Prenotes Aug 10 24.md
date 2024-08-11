@@ -71,5 +71,10 @@ SALEEN, Alex - 8+ years of registry, "My Bag"
 Alex Saleen's 'Large Pouch' is a Immutable Bag of Holding, inside of which there is 6 pp, a silver cube, and a list of cities in which Alex has other equipment.
 ### What happened?
 
+14 - Goober A
+8 - Oliver
+7 - Carmin
+4 - Goober B
+0 - Goober C
 
 We leave our heroes on the date of ... AF, as they ...
