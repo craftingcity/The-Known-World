@@ -54,17 +54,21 @@ There are over 300 registered and filled personal lockboxes at MGV, of which ~3 
 
 ```
 JAMES, Frank - 6+ years of registry, "Business Profits"
-	- 1442sp
+	- 7442sp
 	- a carved ivory knight with the phrase 'Fight for Honor, Ride the Road' inscribed on the base.
 	- identification documents for a "Alabaster Hanz" of the Church of the White Flame
 
 KILLFISH, The - 1+ years of registry, "Storage"
-	- 138sp
-	- 
+	- 1138sp
+	- 6 bars of Mythril
+	- 18 bars of Dark Steel
+	- 1 Bar of Chaos Gold
+	- 24 Purple Chitin
 SALEEN, Alex - 8+ years of registry, "My Bag"
+	- a large pouch inlaied with fine embroidery
 ```
 
-
+Alex Saleen's 'Large Pouch' is a Immutable Bag of Holding, inside of which there is 6 pp, a silver cube, and a list of cities in which Alex has other equipment.
 ### What happened?
 
 
