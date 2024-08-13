@@ -35,10 +35,18 @@ The party has interacted with the following Web Spun Employees;
 	- Val Dalm, Plot Foreman (fuck me we got canned. and really it's your fault asshole.)
 	- Edgars Banchi, Carriage Driver (OMG thank fuck, I missed you and these new guys are asses)
 
-Their allegiance to WSS has been broken, as "the employees have failed to report for duty". They were replaced in 
+Their allegiance to WSS has been broken, as "the employees have failed to report for duty". They were replaced in operations and formally unemployed by WSS.
 
 #### Web Spun Solutions, Who are you?
-Web Spun Solutions is registered as an Independent Mining Company owned by one "Homer Forgekin" 
+Web Spun Solutions is registered as an Independent Mining Company owned by one "Homer Forgekin". As an IMC, they must have a noble sponsor; WSS is sponsored by [[Hanzbrin Franx]].
+
+##### Homer
+Homer is not a real person. The name Homer Forgekin is a direct reference to the true supplier for WSS, [[Forgehome]].
+
+Homer has never been seen, the documents referencing him "simply appeared overnight" - he lives in room 417 of an apartment complex ("Copperrock Homing") on the outskirts of the city center, and again, has never been seen by any neighbors. His apartment is furnished, but completely unlived within. No food, clothes, or personal items are found. The entire room is covered in a thin dust.
+
+##### Hanzbrin
+Hanzbrin is a valued son of the Franx House, and is likely a lead towards the 'Metallics Supplement Group', the members of Franx and Tazalty who are in dealings with members of the Underdark. He spends a majority of his time performing high-level operations at the Filtered Gem Bed and Bar in a private room he has permanently rented as his office. He will rarely deal with things in person, preferring to communicate by mail to his lackeys. 
 
 ### What happened?
 

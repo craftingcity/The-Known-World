@@ -5,6 +5,14 @@
       "path": "Prenotes Aug 13 24.md"
     },
     {
+      "basename": "Underdark",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
+    },
+    {
+      "basename": "Forgehome",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
+    },
+    {
       "basename": "underdark",
       "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
@@ -173,10 +181,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
     },
     {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
       "basename": "Prenotes Apr 16 24",
       "path": "Game Notes/Prenotes/'24/Prenotes Apr 16 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "Blurkfraggir",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Blurkfraggir.md"
     }
   ],
   "omittedPaths": [],
