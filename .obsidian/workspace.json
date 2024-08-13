@@ -4,11 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "47a1e6e875206fac",
+        "id": "72f0953b637ee3cc",
         "type": "tabs",
         "children": [
           {
-            "id": "01678757c740a7d1",
+            "id": "40459bdf57fa7969",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Aug 13 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 13 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":1.8922470180697344}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9f79a72986c730d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,20 +47,31 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Prenotes Aug 10 24.md",
-                "mode": "source",
-                "source": true
+                "file": "MEDIA/MAPS/WORLD/underdark.png"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7126cb679a39954d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "40459bdf57fa7969",
+            "id": "6241a72473e4887d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prenotes Aug 05 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Aug 05 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -49,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,16 +317,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "40459bdf57fa7969",
+  "active": "6241a72473e4887d",
   "lastOpenFiles": [
-    "Prenotes Aug 10 24.md",
+    "MEDIA/MAPS/WORLD/underdark.png",
+    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "Prenotes Aug 13 24.md",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Prenotes Aug 10 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
     "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Drazz a'Alden.md",
@@ -308,14 +346,12 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area",
     "MEDIA/SUPP/DOCS/Untitled 1.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "MEDIA/MAPS/WORLD/underdark.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SPREADS/custom_spells_v2.ods",
     "Notes on the Multiverse/The Alaturmenian",
