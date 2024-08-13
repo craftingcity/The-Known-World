@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e402f13d5f7f36e",
+        "id": "47a1e6e875206fac",
         "type": "tabs",
         "children": [
           {
-            "id": "41d157e4e0b34b40",
+            "id": "01678757c740a7d1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -27,8 +27,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "40459bdf57fa7969",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Aug 13 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 10 24.md",
+                "file": "Prenotes Aug 13 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 10 24.md",
+                "file": "Prenotes Aug 13 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 10 24.md"
+                "file": "Prenotes Aug 13 24.md"
               }
             }
           }
@@ -258,42 +280,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41d157e4e0b34b40",
+  "active": "40459bdf57fa7969",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Prenotes Aug 10 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Enforcers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Prenotes Aug 13 24.md",
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes May 28 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Nobles of Prosper.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
-    "MEDIA/SUPP/DOCS/Untitled 1.ods",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Game Notes/Prenotes/'24/Prenotes July 09 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Drazz a'Alden.md",
+    "Game Notes/Prenotes/'24/Prenotes May 07 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 20 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "MEDIA/MEDIA.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound/Community of Vashon.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Wasters of White Center.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Kent Rangers.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area/Druids of Covington.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/State Military.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/JBLM United Military.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Enumclaw Civilized Safe Zone.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Aria Edges.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Auburn Overwatch.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Shadows on the Lakes.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Muckleshoot Gamblers.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Highline High Life.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area/Fedway Scavs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Seattle Area",
+    "MEDIA/SUPP/DOCS/Untitled 1.ods",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Vashon Island",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SPREADS/custom_spells_v2.ods",
     "Notes on the Multiverse/The Alaturmenian",
     "Notes on the Multiverse/Seattle Exports Misery/Weapon Rules"
