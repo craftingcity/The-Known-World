@@ -22,7 +22,10 @@ You are uncertain of the conditions you would ascend towards; Who snapped your c
 These questions and more wrack the minds of our heroes as we return to them upon the ledge.
 
 ### What does the World Know?
-
+The party has interacted with the following Web Spun Employees;
+	- Hobart Youngkeeper, Warehouse Manager (OMG I missed you guys what happened?)
+	- Val Dalm, Plot Foreman (fuck me we got canned. and really it's your fault asshole.)
+	- Edgars Banchi, Carriage Driver (OMG thank fuck, I missed you and these new guys are asses)
 
 WSS has canned the party, and the 35th Plot has been requisitioned by the DWD, and the Mountain Trooper Corps have begun to cordon and investigate.
 
