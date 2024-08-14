@@ -5,6 +5,10 @@
       "path": "Prenotes Aug 13 24.md"
     },
     {
+      "basename": "Slimknives",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
+    },
+    {
       "basename": "Prenotes May 14 24",
       "path": "Game Notes/Prenotes/'24/Prenotes May 14 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
-      "basename": "Ungaethram",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md"
     }
   ],
   "omittedPaths": [],

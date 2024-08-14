@@ -13,5 +13,6 @@ aliases:
 #### Belief
 #### Economics
 ### Symbolism
+In the Sheath always, Until it's Not
 ## Technology
 ### Magic
