@@ -60,5 +60,6 @@ Eve's mother, Kaymin "Kay" Laush, has received and replied to Eve's letter;
 
 ### What happened?
 
+they want to look for slimknife contact, smoke with Barkeep Joe, and figure gunsmithing and then go into the warehouse in the morning.
 
 We leave our heroes on the date of ... AF, as they ...
