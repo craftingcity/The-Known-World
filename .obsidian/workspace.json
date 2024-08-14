@@ -4,111 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "e14e04682bdc97f4",
-        "type": "split",
+        "id": "72f0953b637ee3cc",
+        "type": "tabs",
         "children": [
           {
-            "id": "72f0953b637ee3cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "40459bdf57fa7969",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Prenotes Aug 13 24",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 13 24.md\",\"mode\":\"source\",\"source\":true}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":1.8922470180697344}"
-                    }
-                  ]
+            "id": "40459bdf57fa7969",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
+                {
+                  "title": "Prenotes Aug 13 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 13 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":1.8922470180697344}"
                 }
-              },
-              {
-                "id": "24eb84970d69fe8b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "84f6184fa2da6201",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "d8fc6407f77fe100",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e9f79a72986c730d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "MEDIA/MAPS/WORLD/underdark.png"
-                  }
+            "id": "24eb84970d69fe8b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
+          },
+          {
+            "id": "84f6184fa2da6201",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9f79a72986c730d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/MAPS/WORLD/underdark.png"
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       },
       {
         "id": "7126cb679a39954d",
@@ -236,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51240158081055
+    "width": 395.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -261,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Aug 13 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Aug 13 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Aug 13 24.md"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
               }
             }
           }
@@ -372,12 +361,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6241a72473e4887d",
+  "active": "24eb84970d69fe8b",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
-    "Prenotes Aug 13 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+    "Prenotes Aug 13 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug 05 24.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Campaign Rosters/NewSarahouse Game.md",
     "Prenotes Aug 10 24.md",

@@ -15,9 +15,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had ascended from a dark place into the assumed safety of their workplace in the Mining Colony. In relative context, the Colony was a safer place for them, for a while. After spending time recovering from the grand climb, the party exited their plot towards the Supply Center for the Colony, only to find that many Plots, including theirs, had been shut down by a quarantine order enforced by the so-called "Trooper Corp". With due fear, the party decided to abandon the roadways and travel towards [[Mountain Hall]] by trekking through the more wild sections of the [[Deakred Range]].
+When last we left our heroes, they had ascended from a dark place into the assumed safety of their workplace in the Mining Colony. In relative context, the Colony was a safer place for them, for a while. After spending time recovering from the grand climb, the party exited their plot towards the Supply Center for the Colony, only to find that many Plots, including theirs, had been shut down by a quarantine order enforced by the so-called "Trooper Corp". With due caution, the party decided to abandon the roadways and travel towards [[Mountain Hall]] by trekking through the more wild sections of the [[Deakred Range]].
 
-Since their encounter at the Supply Center, they have gathered themselves, and begun their journey towards Mountain Hall. We return to the party as they set their first camp upon the surface of Alaturmen in many days. The party rests a mile from the Supply Center, in a flat valley between large peaks of the mountain. What conversation breaks between our characters as they set camp?
+Since their encounter at the Supply Center, they have gathered themselves, and begun their journey towards Mountain Hall. We return to the party as they set their first camp upon the surface of Alaturmen in many days. The party rests a mile south-east of the Supply Center, in a flat valley between large peaks of the mountain range. What conversation breaks between our characters as they set camp?
 
 ### What does the World Know?
 #### Going Home
