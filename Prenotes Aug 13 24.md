@@ -62,6 +62,7 @@ Eve's mother, Kaymin "Kay" Laush, has received and replied to Eve's letter;
 
 they want to look for slimknife contact, smoke with Barkeep Joe, and figure gunsmithing and then go into the warehouse in the morning.
 
-if edgars is ever in trouble, tell the Rat Tavern "Cod is 12 silver"
+if edgars is ever in trouble, tell the Rat Wheel Tavern "Cod is 12 silver", but if hobart is in trouble its 14
 
+hobart is fully leaving town, to be seen never again.
 We leave our heroes on the date of ... AF, as they ...
