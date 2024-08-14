@@ -24,7 +24,7 @@ Since their encounter at the Supply Center, they have gathered themselves, and b
 They are absolutely able to get to MH with one travel watch - so long as they don't get lost, or caught out by trooper hunters.
 
 DC 12 Survival for not getting lost in the range.
-DC 14 Stealth for hiding the party's trail from hunters
+DC 14 Stealth for hiding the party's trail from hunters.
 
 #### At Mountain Hall
 Some changes have taken place. The tensions between the Loyalists and the Liberationists have gotten worse - they are directly claiming neighborhoods of Mountain Hall, leading the Troopers to stay involved with the entire ordeal.
