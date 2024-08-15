@@ -96,10 +96,30 @@ The second floor consists of more than a dozen examination rooms, and a surgery 
 	The walls between the examination rooms have been torn through as to connect them all into a series of interconnected chambers. These rooms have been refit as to be an efficient barracks. The surgery wing has been largely gutted, where the clean-rooms have been transformed into prayer chambers, filled with candles, written scripts, and scrawled with adages of the Obelisk. The supply room is the most well maintained space in a civilized sense, as the shelves and cold storages are stable and maintained. The center of the chamber is filled with Darksteel Artilocked Caches, including the following items;
 		- 1x Arms
 			- 8x Darksteel Machete
-			- 
+			- 4x Refined Carbine
+			- 2x Ares M-Switch Reciever
 		- 3x Ammunitions
+			- 360x RDM, Blessed
+			- 720x RDM, Air Clear
+			- 120x Hummpo
+			- 72x Pineapple Grenade
+			- 36x Fire Grenade
 		- 2x Foodstuffs
+			- 120x Parcaes (Canned Meat)
+			- 240x Parquea (Canned Veggie)
+			- 80x Polmat (Corn Snack)
+			- 240x Goat Jerky
+			- 70x Goat Cheese Roll
+			- 100x Powdered Veggies
+			- 40x Fine Oils
+			- 60x Sugar
+			- 100x Salt
+			- 40x Pepper
 		- 2x Medical Supply
+			- 20x Medical Kit
+			- 200x Isiopara
+			- 100x Secreculde Propatal
+			- 
 		- 2x Consumables
 
 ###### Fountain Park -> Office
