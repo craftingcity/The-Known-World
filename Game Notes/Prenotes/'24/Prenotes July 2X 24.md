@@ -86,6 +86,12 @@ The Mall has ~150/~125 stores. Given that Nail and others have already looted mo
 ###### Hospital
 The Hospital is home to a nest of Demons on it's first and basement floors, and a host of Fallen maintain an outpost upon the floors above the nest - a supply center of Artlocked Caches (of which some are open).
 
+	> 12x Demons
+	> 6x Fallen ()
+	> 4x Fallen+ ()
+	
+	The Caches include major medical supplies and ammunitions.
+
 ###### Fountain Park -> Office
 ###### Apartments
 
