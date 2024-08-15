@@ -222,12 +222,15 @@ The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]]
 #### The Arched Road (2d6 RADS)
 
 #### The Construction Site (2d6 RADS)
+The Construction Site is a
+
 
 #### The Offices, South (2d6 RADS)
 
 #### The Fountain Park (3d6 RADS)
 
 #### The Mall (2d6 RADS)
+
 
 #### The Apartments, West (2d6 RADS)
 

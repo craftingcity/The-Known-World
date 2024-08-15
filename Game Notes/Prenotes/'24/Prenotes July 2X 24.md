@@ -93,7 +93,14 @@ The first floor consists of a reception, a pair of examination rooms, and an off
 
 The second floor consists of more than a dozen examination rooms, and a surgery wing of 4 clean-chambers and a large supply room.
 
-The walls between the examination rooms have been torn through as to connect them all into a series of interconnected chambers. These rooms have been refit as to be an efficient barracks. The surgery wing has been largely gutted, where the clean-rooms have been transformed into prayer chambers, filled with candles, written scripts, and scrawled with adages of the Obelisk.
+	The walls between the examination rooms have been torn through as to connect them all into a series of interconnected chambers. These rooms have been refit as to be an efficient barracks. The surgery wing has been largely gutted, where the clean-rooms have been transformed into prayer chambers, filled with candles, written scripts, and scrawled with adages of the Obelisk. The supply room is the most well maintained space in a civilized sense, as the shelves and cold storages are stable and maintained. The center of the chamber is filled with Darksteel Artilocked Caches, including the following items;
+		- 1x Arms
+			- 8x Darksteel Machete
+			- 
+		- 3x Ammunitions
+		- 2x Foodstuffs
+		- 2x Medical Supply
+		- 2x Consumables
 
 ###### Fountain Park -> Office
 ###### Apartments
