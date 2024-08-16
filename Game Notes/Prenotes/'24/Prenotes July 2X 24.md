@@ -119,8 +119,16 @@ The second floor consists of more than a dozen examination rooms, and a surgery 
 			- 20x Medical Kit
 			- 200x Isiopara
 			- 100x Secreculde Propatal
-			- 
+			- 40x Aloe Vera
+			- 20x Jade
 		- 2x Consumables
+			- 120x Good Liqour
+			- 60x Smokebulb
+			- 80x Lephora Essence
+			- 240x Cannabis
+			- 500x Tabacco
+
+The basement is a series of storage rooms and equipment halls. Each one of these rooms has been occupied by a number of Demon.
 
 ###### Fountain Park -> Office
 ###### Apartments
