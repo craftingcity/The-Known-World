@@ -56,7 +56,7 @@ There are over 300 registered and filled personal lockboxes at MGV, of which ~3 
 JAMES, Frank - 6+ years of registry, "Business Profits"
 	- 7442sp
 	- a carved ivory knight with the phrase 'Fight for Honor, Ride the Road' inscribed on the base.
-	- identification documents for a "Alabaster Hanz" of the Church of the White Flame
+	- identification documents for a "Alab Hanz" of the Church of the White Flame
 
 KILLFISH, The - 1+ years of registry, "Storage"
 	- 1138sp
