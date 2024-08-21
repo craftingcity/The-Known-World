@@ -18,6 +18,13 @@ aliases:
 - Round Table; 'Air your Concerns'
 - Questions regarding content? Ask Away.
 
+Sarah - Genasi is not a lore I have, so I don't feel good characterizing.
+Rhea - Hey that was a personal conflict regarding my participation.
+Brock - I feel like I'm getting there, but I don't know what the goals are.
+Tyke - Kinda, but I don't know my motivation. I changed my character while playing because it's still developing for me, a goal would give me an easier time finding myself in the group
+Hannah - My character is who she is, and I feel like I'm being left out. I have a short term goal, and maybe a longer term goal but our ingame relationships are weird.
+
+
 ### Intro
 
 When last we left our heroes they had escaped the Mining Colony and returned to the more comforting urban society in Mountain Hall, where they spent time pursuing personal goals and leads. The group recoalesced before heading to the Web Spun Solutions Depot, where they had a forceful discussion regarding what the hell Hobart Youngkeeper knew or had to do with your accident, or what is occurring now.
