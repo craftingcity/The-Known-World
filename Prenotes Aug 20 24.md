@@ -24,6 +24,7 @@ Brock - I feel like I'm getting there, but I don't know what the goals are.
 Tyke - Kinda, but I don't know my motivation. I changed my character while playing because it's still developing for me, a goal would give me an easier time finding myself in the group
 Hannah - My character is who she is, and I feel like I'm being left out. I have a short term goal, and maybe a longer term goal but our ingame relationships are weird.
 
+Metagame recaps, or incharacter recaps
 
 ### Intro
 
