@@ -90,6 +90,7 @@ The first floor consists of a reception, a pair of examination rooms, and an off
 
 	The reception is bloody, and significantly damaged since its construction - given the fresh boot-prints in the blood, and the debris cleared into paths, this place is occupied. The examination rooms mirror the reception and the office, and both have been roughly handled and left to time. The office has been retrofit into a mildly defensible camp, but this room too is bloodied and boot-printed. Scratches on the wall suggest a large beast was the culprit.
 
+hospital safe (33ac + receipts)
 
 The second floor consists of more than a dozen examination rooms, and a surgery wing of 4 clean-chambers and a large supply room.
 
