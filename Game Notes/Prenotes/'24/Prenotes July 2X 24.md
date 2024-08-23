@@ -129,6 +129,20 @@ The second floor consists of more than a dozen examination rooms, and a surgery 
 			- 240x Cannabis
 			- 500x Tabacco
 
+INIT
+20 - A (21) 21AC
+17 - Dom
+17 - Screw
+16 - B
+13 - Bubbles
+x - C
+8 - Astro
+x - D
+6 - Ash
+x - E
+4 - Locus
+x - F
+
 The basement is a series of storage rooms and equipment halls. Each one of these rooms has been occupied by a number of Demon.
 
 ###### Fountain Park -> Office
