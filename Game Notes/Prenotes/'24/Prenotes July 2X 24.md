@@ -130,14 +130,14 @@ The second floor consists of more than a dozen examination rooms, and a surgery 
 			- 500x Tabacco
 
 INIT
-20 - A (21) 21AC
+~~20 - A (21, 66, 100) 21AC~~
 17 - Dom
 17 - Screw
-16 - B
+~~16 - B (34, 51, 69)~~
 13 - Bubbles
-x - C
+~~x - C (14, 38, 7+)~~
 8 - Astro
-x - D
+x - D (34)
 6 - Ash
 x - E
 4 - Locus
