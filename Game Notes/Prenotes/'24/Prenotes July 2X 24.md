@@ -137,11 +137,11 @@ INIT
 13 - Bubbles
 ~~x - C (14, 38, 7+)~~
 8 - Astro
-x - D (34)
+~~x - D (34, 57)~~
 6 - Ash
-x - E
+~~x - E (29, 66)~~
 4 - Locus
-x - F
+~~x - F (29, 46, 65)~~
 
 The basement is a series of storage rooms and equipment halls. Each one of these rooms has been occupied by a number of Demon.
 
