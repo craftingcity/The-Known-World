@@ -32,6 +32,7 @@ aliases:
 **2011**; Based off of recommendations in the Department of Defense’s Quadrennial Defense Review, the National Guard Bureau established the first two, of later ten, Homeland Response Forces (HRF) in Washington and Ohio. These HRFs are 560-person Chemical, Biological, Radiological, Nuclear, high-yield Explosive (CBRNE) task forces established to support local, state and federal emergency managers in response to CBRNE disasters, or deliberate acts, and additional HAZMAT-related hazards.
 
 ### 2012 - 2016
+**2012**; Based off of recommendations in the Department of Defense's Unknown Hazards Review, the Washington National Guard deploys itself in the major regions of the state. 
 
 ## Governance
 ## Culture

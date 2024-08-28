@@ -1,7 +1,7 @@
 ```
 Agent: Unknown, Virus or Prion proposed
 P0LA: 4409 Preston Hwy, Louisville, KY 40213
-P0TA: 1119h - 12/21/12
+P0TA: 1249 PM EDT - 12/21/12
 Transferal via: blood, saliva
 Mortality: 7 days*, 100%
 ```
