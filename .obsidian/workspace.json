@@ -18,6 +18,159 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cult in Annihilation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":170},\"to\":{\"line\":12,\"ch\":170}},\"scroll\":0}"
+                },
+                {
+                  "title": "Tourist Paramilitary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":128},\"to\":{\"line\":10,\"ch\":128}},\"scroll\":0.26625154669974876}"
+                },
+                {
+                  "title": "WA State Military",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/WA State Military.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}},\"scroll\":28.313459853581254}"
+                },
+                {
+                  "title": "The Infection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/The Infection.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":91},\"to\":{\"line\":10,\"ch\":124}},\"scroll\":1.4932637173947703}"
+                },
+                {
+                  "title": "Great Fires",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Blood-Hobgoblin Clan Pact",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Blood Clans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Northeastern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Places",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Nation Entities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Game",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Big Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}}}"
+                },
+                {
+                  "title": "Factions of Puget Sound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "876afa5a08049630",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Factions of Puget Sound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Tourist Paramilitary",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md\",\"mode\":\"source\",\"source\":true}}",
@@ -450,7 +603,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +629,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -538,7 +691,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
               }
             }
           }
@@ -563,8 +716,9 @@
   },
   "active": "016992db1f4c567a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md",
     "Notes on the Multiverse/Seattle Exports Misery/Non-Human Threats.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
@@ -584,7 +738,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",

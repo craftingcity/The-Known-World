@@ -3,6 +3,8 @@ tags: folderfile
 aliases:
 ---
 
+Washington State had a population of roughly 7 million before the Bombings.
+
 %% Begin Waypoint %%
 - **Greater Organizations**
 	- [[Cult in Annihilation]]

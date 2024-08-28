@@ -10,6 +10,8 @@ In 2006, a team of operators were tasked with securing a WMD in a small settleme
 
 You tell me.
 
+Since the apocalypse, folks around Washington have talked about dreams they have wherein they're being interrogated by a white man in a black suit. Abraham they call him.
+
 ## Governance
 ## Culture
 #### Heritage
