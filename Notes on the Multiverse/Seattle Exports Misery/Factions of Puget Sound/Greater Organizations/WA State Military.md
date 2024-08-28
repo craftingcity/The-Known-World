@@ -18,7 +18,6 @@ aliases:
 > The Washington State Emergency Operations Center is located at Camp Murray, under the Military Department's Emergency Management Division. The 28,000 square foot facility, occupied since mid 1998, is built on rollers to withstand earthquakes.
 
 ## History
-### Pre-2012
 **1941** - **1945**; Nearly 12,000 Washington National Guard members were inducted into Federal Service at the beginning of World War II.
 
 **1980**; More than 2,000 members of the Washington National Guard are called to state active duty when Mount St. Helens erupted.
@@ -31,8 +30,11 @@ aliases:
 
 **2011**; Based off of recommendations in the Department of Defense’s Quadrennial Defense Review, the National Guard Bureau established the first two, of later ten, Homeland Response Forces (HRF) in Washington and Ohio. These HRFs are 560-person Chemical, Biological, Radiological, Nuclear, high-yield Explosive (CBRNE) task forces established to support local, state and federal emergency managers in response to CBRNE disasters, or deliberate acts, and additional HAZMAT-related hazards.
 
-### 2012 - 2016
-**2012**; Based off of recommendations in the Department of Defense's Unknown Hazards Review, the Washington National Guard deploys itself in the major regions of the state. 
+**2013**; Based on recommendations given by the Department of Defense, the Washington National Guard deploys around the state of Washington. 
+
+**2014**; A panic sets in. The Washington National Guard enforces martial law and curfew under orders of the State Governor, ###JOHN ADAMS###.
+
+**2015**; Washington, alongside its 47 continental sisters, experiences an array of nuclear attacks that leave the majority of the region's infrastructure reduced to scrap, and destroying the political power the Governor held. The Washington National Guard does not last as a single entity, and allegiance to the concept begins to fail to hold true meaning.
 
 ## Governance
 ## Culture

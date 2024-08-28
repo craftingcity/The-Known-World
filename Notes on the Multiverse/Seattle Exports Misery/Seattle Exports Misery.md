@@ -37,6 +37,8 @@ You survived. What's next?
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
+- [[Non-Human Threats]]
+- [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
 
