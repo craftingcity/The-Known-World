@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Tourist Paramilitary",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md"
+    },
+    {
       "basename": "WA State Military",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/WA State Military.md"
+    },
+    {
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "The Infection",
@@ -55,10 +63,6 @@
     {
       "basename": "Big Lore",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Factions of Puget Sound",
@@ -195,10 +199,6 @@
     {
       "basename": "Wunkacklin",
       "path": "Wunkacklin.md"
-    },
-    {
-      "basename": "NewSarahouse Game",
-      "path": "Game Notes/Campaign Rosters/NewSarahouse Game.md"
     }
   ],
   "omittedPaths": [],
