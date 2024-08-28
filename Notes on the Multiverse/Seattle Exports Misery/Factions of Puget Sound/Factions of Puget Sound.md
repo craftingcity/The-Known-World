@@ -6,8 +6,8 @@ aliases:
 %% Begin Waypoint %%
 - **Greater Organizations**
 	- [[Cult in Annihilation]]
-	- [[State Military]]
 	- [[Tourist Paramilitary]]
+	- [[WA State Military]]
 - **Seattle Area**
 	- [[Black River Bandits]]
 	- [[Druids of Covington]]

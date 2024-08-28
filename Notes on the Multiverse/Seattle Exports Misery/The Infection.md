@@ -6,11 +6,11 @@ Transferal via: blood, saliva
 Mortality: 7 days*, 100%
 ```
 
-| Stage 1 (0-48h) | Stage 2 (16-72h)           | Stage 3 (2-5 days)  | Stage 4 (7 days)        | Stage 5 (unknown, presumed 3+ months) |
-| --------------- | -------------------------- | ------------------- | ----------------------- | ------------------------------------- |
-| Fever           | Intense Fever              | Fatal Organ Failure | Human Host Re-Animation | Fatal Host Degradation (presumed)     |
-| Cough           | Blood in Cough, Spit, Snot | Mental Degradation  | Transmission            |                                       |
-| Fatigue         | Intense Pain               | Death               |                         |                                       |
+| Stage 1 (0-48h) | Stage 2 (16-72h)           | Stage 3 (2-5 days)  | Stage 4 (7 days)  | Stage 5 (unknown, presumed 3+ months) |
+| --------------- | -------------------------- | ------------------- | ----------------- | ------------------------------------- |
+| Fever           | Intense Fever              | Fatal Organ Failure | Host Re-Animation | Fatal Host Degradation (presumed)     |
+| Cough           | Blood in Cough, Spit, Snot | Mental Degradation  | Transmission      | Host Mutation (presumed)              |
+| Fatigue         | Intense Pain               | Death               |                   |                                       |
 
 ```
 The Louisville Infection will progress into Stage 1 Infection within 48 hours of initial internal contact to an Infection Source. Without immediate separation of contaminated and non-contaminated cells, the Infection is fatal in 100% of documented cases.
