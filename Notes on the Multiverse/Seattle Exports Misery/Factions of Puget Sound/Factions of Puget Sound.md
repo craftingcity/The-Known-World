@@ -5,6 +5,8 @@ aliases:
 
 Washington State had a population of roughly 7 million before the Bombings.
 
+Within Washingto
+
 %% Begin Waypoint %%
 - **Greater Organizations**
 	- [[Cult in Annihilation]]
