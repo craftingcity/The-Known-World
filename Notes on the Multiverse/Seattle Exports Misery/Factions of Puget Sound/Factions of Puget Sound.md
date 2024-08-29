@@ -5,7 +5,10 @@ aliases:
 
 Washington State had a population of roughly 7 million before the Bombings.
 
-Within Washingto
+Within Washington, there are a number of notable areas where Survivors have gathered;
+	- Lost Seattle (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
+	- Hazard City (Seattle Proper, Bellevue, Issaquah)
+	- South Seattle
 
 %% Begin Waypoint %%
 - **Greater Organizations**
