@@ -17,10 +17,6 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
 	- [[Kor-ket]]
-- [[Courtney a'LeQuinn]]
-- [[Erika a'Valim]]
-- [[Gorebladder a'Nyrk]]
-- [[Hannah's Gnoll (NAME)]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -45,27 +41,31 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Dimble Turing]]
 		- [[Fulton Shepherd]]
 		- **[[Grey Ordeal]]**
+		- [[Hannah's Gnoll (NAME)]]
 		- [[Irenaus]]
 		- **[[Kakurak's Chosen]]**
+		- [[Wyruq the Grave Presence]]
 	- **[[True Villian NPCs]]**
 - [[Hoggak Cander-Wheernat]]
 - [[List of Names]]
-- [[Lou a'Locca]]
-- [[Marley Hurraquk]]
 - **Mild Power**
 	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Borhain a'Huruuc]]
 		- [[Bullryk a'Dregsamony]]
+		- [[Courtney a'LeQuinn]]
 		- [[Drazz a'Alden]]
+		- [[Erika a'Valim]]
 		- [[Glirid a'Fingara]]
 		- [[Gooblot a'Chrim]]
+		- [[Gorebladder a'Nyrk]]
 		- [[Gurrak a'Fen]]
 		- [[Hedwig a'Alden]]
 		- [[Janice Austra]]
 		- [[Jork a'Nyrk]]
 		- [[Kallo Vought]]
+		- [[Lou a'Locca]]
 		- [[Maxyu a'Valim]]
 		- [[Sir Harris Bly]]
 		- [[Yandee a'Huruuc]]
@@ -73,12 +73,12 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Glot Maxim]]
 		- [[Gudeliva]]
 		- [[Hektor Salar]]
+		- [[Marley Hurraquk]]
 		- [[Nylan Roul]]
+		- [[Raam ben Yarom]]
 		- [[Yeirruk Fraim]]
 	- **[[Tendered]]**
 	- **[[Thief Lords of the Desert]]**
-- [[Raam ben Yarom]]
-- [[Tori Lane]]
 - **Weak Power**
 	- **[[Combine Citizens]]**
 	- **Folk of No Means**
@@ -93,7 +93,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Lower Holyl'nders]]**
 	- **[[Orcish Shamans]]**
 	- [[River Borns]]
-- [[Wyruq the Grave Presence]]
+	- [[Tori Lane]]
 - **zDeceased**
 	- [[Big Buster]]
 	- [[Darwine Evon]]
