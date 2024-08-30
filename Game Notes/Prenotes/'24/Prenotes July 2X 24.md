@@ -90,6 +90,7 @@ The first floor consists of a reception, a pair of examination rooms, and an off
 
 	The reception is bloody, and significantly damaged since its construction - given the fresh boot-prints in the blood, and the debris cleared into paths, this place is occupied. The examination rooms mirror the reception and the office, and both have been roughly handled and left to time. The office has been retrofit into a mildly defensible camp, but this room too is bloodied and boot-printed. Scratches on the wall suggest a large beast was the culprit.
 
+hospital safe (33ac + receipts)
 
 The second floor consists of more than a dozen examination rooms, and a surgery wing of 4 clean-chambers and a large supply room.
 
@@ -127,6 +128,20 @@ The second floor consists of more than a dozen examination rooms, and a surgery 
 			- 80x Lephora Essence
 			- 240x Cannabis
 			- 500x Tabacco
+
+INIT
+~~20 - A (21, 66, 100) 21AC~~
+17 - Dom
+17 - Screw
+~~16 - B (34, 51, 69)~~
+13 - Bubbles
+~~x - C (14, 38, 7+)~~
+8 - Astro
+~~x - D (34, 57)~~
+6 - Ash
+~~x - E (29, 66)~~
+4 - Locus
+~~x - F (29, 46, 65)~~
 
 The basement is a series of storage rooms and equipment halls. Each one of these rooms has been occupied by a number of Demon.
 

@@ -3,11 +3,18 @@ tags: folderfile
 aliases:
 ---
 
+Washington State had a population of roughly 7 million before the Bombings.
+
+Within Washington, there are a number of notable areas where Survivors have gathered;
+	- Lost Seattle (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
+	- Hazard City (Seattle Proper, Bellevue, Issaquah)
+	- South Seattle
+
 %% Begin Waypoint %%
 - **Greater Organizations**
 	- [[Cult in Annihilation]]
-	- [[State Military]]
 	- [[Tourist Paramilitary]]
+	- [[WA State Military]]
 - **Seattle Area**
 	- [[Black River Bandits]]
 	- [[Druids of Covington]]
