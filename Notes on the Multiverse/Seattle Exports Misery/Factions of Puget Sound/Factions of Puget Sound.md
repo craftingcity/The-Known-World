@@ -7,8 +7,14 @@ Washington State had a population of roughly 7 million before the Bombings.
 
 Within Washington, there are a number of notable areas where Survivors have gathered;
 	- Lost Seattle (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
-	- Hazard City (Seattle Proper, Bellevue, Issaquah)
-	- South Seattle
+	- Ruins of Seattle (Seattle Proper, Bellevue, Issaquah)
+	- South Seattle (Burien, Des Moines, Tukwila, Kent, Renton)
+	- Enumclaw Safe Zone
+	- Ruins of Tacoma (Federal Way, Tacoma, Puyallup)
+	- South Tacoma (Spanaway, JBLM)
+	- Battlefield Olympia (Tumwater, Olympia, Lacey)
+	- Western Sound (Bangor Base, Gig Harbor)
+	- Shock Islands (Whidbery, Bainbridge, Vashon)
 
 %% Begin Waypoint %%
 - **Greater Organizations**
