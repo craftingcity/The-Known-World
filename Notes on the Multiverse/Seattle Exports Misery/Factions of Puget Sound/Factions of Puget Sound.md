@@ -14,6 +14,7 @@ Within Washington, there are a number of notable areas where Survivors have gath
 		- [[Black River Bandits]]
 	- *Enumclaw Safe Zone* (Enumclaw)
 		- [[Enumclaw Civilized Safe Zone]]
+		- [[Black River Bandits]]
 	- *Ruins of Tacoma* (Federal Way, Tacoma, Puyallup)
 	- *South Tacoma* (Spanaway, JBLM)
 	- *Battlefield Olympia* (Tumwater, Olympia, Lacey)
