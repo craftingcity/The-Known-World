@@ -19,7 +19,7 @@ In the early 20s, as Fire rages in the north-west, the east faces intense war - 
 
 As the Bandit Lords fell, and consolidated their waning power back north, Mossburg became a symbol for those who wished to live a civil life, and the city's number swelled.
 
-The Mossburg Enforcers were overwhelmed. They chose efficiency over diligence, and for three generations, the Enforcers have used their leverage over the populace to disappear people and force their families to work to the bone to see them again.
+The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence, and for three generations, the Enforcers have used their leverage over the populace to disappear people and force their families to work to the bone to see them again.
 
 ## Important Places & Symbolism
 ##### Plothooks for Mossburg Start include...

@@ -73,7 +73,7 @@ Alex Saleen's 'Large Pouch' is a Immutable Bag of Holding, inside of which there
 
 14 - Goober A
 8 - Oliver
-7 - Carmin
+7 - Carmen
 4 - Goober B
 0 - Goober C
 
