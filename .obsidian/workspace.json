@@ -8,6 +8,52 @@
         "type": "tabs",
         "children": [
           {
+            "id": "263b7961db6abc6f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df9363e50cda7578",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "76d1f519badb502f",
+        "type": "tabs",
+        "children": [
+          {
             "id": "e91f085371328d42",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -75,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,11 +164,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -147,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md"
               }
             }
           }
@@ -258,8 +306,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e91f085371328d42",
+  "active": "263b7961db6abc6f",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
@@ -270,8 +321,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/North Seattle",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
@@ -295,7 +344,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/WA State Military.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Tacoma Area"
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound"
   ]
 }

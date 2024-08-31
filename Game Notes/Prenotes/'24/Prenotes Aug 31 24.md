@@ -17,10 +17,9 @@ aliases:
 
 When last we left our heroes, they had travelled for a few days towards the city of Mossburg - but along the way, they were assaulted by a trio of bandits! Through combat, the party eliminated the threat, and spent the night recovering.
 
-We return to the party now as they gather their camp and prepare for their final day of travel.
+We return to the party now as they gather their camp and prepare for their final day of travel - thoughts of the Mossburg Great Vault, and your auditing assignment.
 
 ### What does the World Know?
-
 Mossburg is a beautiful city, it's walls and streets are well-kept. The people here mostly keep to themselves, and there is almost always a set of Enforcers visible on any street corner.
 
 ```
