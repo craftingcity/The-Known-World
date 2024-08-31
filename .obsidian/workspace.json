@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "147e1b13b4a96b88",
+        "id": "80bca8730ed4b85c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e733df2f8af6c52",
+            "id": "2defe064597fca26",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,56 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b4d67709dc3c2e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "62710d401337f057",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "238b63ef2b18fdab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               }
@@ -124,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emily",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
               }
             }
           }
@@ -308,11 +258,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "238b63ef2b18fdab",
+  "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug xx 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",

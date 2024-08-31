@@ -50,6 +50,8 @@ Alex Saleen's 'Large Pouch' is a Immutable Bag of Holding, inside of which there
 
 While the possibility of the party entering, acquiring, and exiting, without conflict exists, if things go wrong, Binx will sound the alarm and close down the bank, locking everyone inside until an Enforcer response.
 
+In the future, the Guilds would expunge employment from Carmen and Oliver, and potentially send a group after them (especially if they get after Alex Saleen's Bag) if they are alerted to the events.
+
 ### What happened?
 
 

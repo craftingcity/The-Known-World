@@ -27,6 +27,7 @@ The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence,
 	- How do I react to Mossburgian Expansion?
 	- Who can I fight (Riphounds, Dampguard, Grovetenders, Slimknives)?
 	- Who bombed the garrison?
+
 ## Economics
 |     | # of Traders |
 | --- | ------------ |
