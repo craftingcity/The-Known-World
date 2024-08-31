@@ -14,7 +14,7 @@
 	- [[Prenotes Aug 10 24]]
 	- [[Prenotes Aug 13 24]]
 	- [[Prenotes Aug 20 24]]
-	- [[Prenotes Aug xx 24]]
+	- [[Prenotes Aug 31 24]]
 	- [[Prenotes Feb 01 24]]
 	- [[Prenotes Feb 06 24]]
 	- [[Prenotes Feb 09 24]]

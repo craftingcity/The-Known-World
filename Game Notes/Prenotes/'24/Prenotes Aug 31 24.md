@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for August 31st
 ## Party of Interest: [[Emily Game]]
 - [ ] DM Screen
 - [ ] Notepaper
