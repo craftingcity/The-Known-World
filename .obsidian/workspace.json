@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "922eb21f34d8a765",
+        "id": "f973168174032733",
         "type": "tabs",
         "children": [
           {
-            "id": "df9363e50cda7578",
+            "id": "d029104bf2ec0189",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,60 +16,109 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              }
-            }
-          },
-          {
-            "id": "ba1be4b42ac611a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wyruq the Grave Presence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Wyruq the Grave Presence.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tori Lane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Weak Power/Tori Lane.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raam ben Yarom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Midboss/Raam ben Yarom.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Marley Hurraquk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Midboss/Marley Hurraquk.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lou a'Locca",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "List of Names",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/List of Names.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hoggak Cander-Wheernat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Hoggak Cander-Wheernat.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gorebladder a'Nyrk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Gorebladder a'Nyrk.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Erika a'Valim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Courtney a'LeQuinn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Game Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MEDIA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MEDIA/MEDIA.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Game Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "76d1f519badb502f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e91f085371328d42",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               }
@@ -169,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 395.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -194,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
               }
             }
           }
@@ -305,45 +354,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba1be4b42ac611a3",
+  "active": "d029104bf2ec0189",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "The New War in the Old City; A Minyostalman Account of the Modern Age.md",
-    "Minyostalman Artifacts; A Theory.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone",
+    "The New War in the Old City; A Minyostalman Account of the Modern Age.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Wasters of White Center.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Three-tree Ballers.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sea-Tac Overwatch.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Green-kin Nation.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Black River Bandits.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Auburn Overwatch.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/North Seattle",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 20 24.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands/Community of Vashon.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shadows on the Lakes.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Fedway Scavs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Aria Edges.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
+    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+    "MEDIA/SUPP/SPREADS - Copy/radiation.ods",
+    "MEDIA/SUPP/SPREADS - Copy/population_to_jobs.ods",
+    "MEDIA/SUPP/SPREADS - Copy/population_centers_2.ods",
+    "MEDIA/SUPP/SPREADS - Copy/population.ods",
+    "MEDIA/SUPP/SPREADS - Copy/metallic_armor_pricings.ods",
+    "MEDIA/SUPP/SPREADS - Copy/hexfill.ods",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Wyruq the Grave Presence.md",
+    "Game Notes/NPCs/Weak Power/Tori Lane.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Raam ben Yarom.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Marley Hurraquk.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/NPCs/Hoggak Cander-Wheernat.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gorebladder a'Nyrk.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound"
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
   ]
 }
