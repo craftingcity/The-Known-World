@@ -55,4 +55,6 @@ In the future, the Guilds would expunge employment from Carmen and Oliver, and p
 
 They got a lot of money and they might go to minyostalma. they found 2 books; [[Minyostalman Artifacts; A Theory]] and [[The New War in the Old City; A Minyostalman Account of the Modern Age]], both describing reasonable examples of equipment to get before coming into Minyostalma.
 
+Carmen bought a bunch of stuff from Coalition City stores - including talking an Alchemist into making a THLAS and a ProFinder.
+
 We leave our heroes on the date of ... AF, as they ...
