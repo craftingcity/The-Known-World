@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Aria Edges
 ## History
 ## Governance
 ## Culture

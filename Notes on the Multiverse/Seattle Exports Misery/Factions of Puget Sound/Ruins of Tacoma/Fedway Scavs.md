@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Fedway Scavs
 ## History
 ## Governance
 ## Culture

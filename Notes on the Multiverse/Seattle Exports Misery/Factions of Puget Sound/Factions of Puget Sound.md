@@ -16,14 +16,14 @@ Within Washington, there are a number of notable areas where Survivors have gath
 		- [[Overwatch Airport Security]]
 		- [[Shadow Bandits]]
 		- [[Normandy Guerilla Army]]
-		- [[Kent Rangers]]
+		- [[Kent Rangers Corps]]
 	- *Enumclaw Safe Zone* (Enumclaw)
 		- [[Enumclaw Civilized Safe Zone]]
 		- [[Shadow Bandits]]
 		- [[Druids of Covington]]
 		- [[Muckleshoot Gamblers]]
 	- *Ruins of Tacoma* (Federal Way, Tacoma, Puyallup)
-		- [[Kent Rangers]]
+		- [[Kent Rangers Corps]]
 		- [[Fedway Scavs]]
 		- [[Aria Edges]]
 	- *South Tacoma* (Spanaway, JBLM)
@@ -40,7 +40,7 @@ Within Washington, there are a number of notable areas where Survivors have gath
 - **Greater Organizations**
 	- [[Cult in Annihilation]]
 	- [[Tourist Paramilitary]]
-	- [[WA State Military]]
+	- [[Washington State Remnants]]
 - **North Seattle**
 - **Ruins of Seattle**
 	- [[Wasters of White Center]]
@@ -53,7 +53,7 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- [[Auburn Overwatch]]
 	- [[Green-kin Nation]]
 	- [[Highline High Life]]
-	- [[Kent Rangers]]
+	- [[Kent Rangers Corps]]
 	- [[Normandy Guerilla Army]]
 	- [[Road Kings]]
 	- [[Sainthood Order of Seattle]]

@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Muckleshoot Gamblers
 ## History
 ## Governance
 ## Culture

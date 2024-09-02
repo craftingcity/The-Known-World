@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Shadow Bandits
+# Shadow Corporation / Shadow Bandits
 ## History
 The Shadow Bandits were a gang (or group, if you prefer) formed after the Infections in 2012. Since the years before and after the Bombings, the Shadow Bandits have expanded their ranks and influence to a large region of the state - they specialize in shipping, preferably leaving manufacturing to other post-infection factions.
 

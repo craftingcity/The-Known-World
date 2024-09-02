@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Druids of Covington
 ## History
 ## Governance
 ## Culture

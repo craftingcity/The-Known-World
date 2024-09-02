@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Enumclaw Civilized Safe Zone
 ## History
 ## Governance
 ## Culture

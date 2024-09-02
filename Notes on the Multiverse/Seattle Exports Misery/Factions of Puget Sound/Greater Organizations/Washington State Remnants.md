@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Washington State Military
+# Washington State Military Remnants
 
 > The *Washington Military Department* is a branch of the state government of Washington, United States.
 > The Washington State Military Department has several major operational divisions:
