@@ -15,7 +15,7 @@ Within Washington, there are a number of notable areas where Survivors have gath
 		- [[Sainthood Order of Seattle]]
 		- [[Overwatch Airport Security]]
 		- [[Shadow Bandits]]
-		- [[Normandy Guerilla]]
+		- [[Normandy Guerilla Army]]
 		- [[Kent Rangers]]
 	- *Enumclaw Safe Zone* (Enumclaw)
 		- [[Enumclaw Civilized Safe Zone]]
@@ -54,7 +54,7 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- [[Green-kin Nation]]
 	- [[Highline High Life]]
 	- [[Kent Rangers]]
-	- [[Normandy Guerilla]]
+	- [[Normandy Guerilla Army]]
 	- [[Road Kings]]
 	- [[Sainthood Order of Seattle]]
 	- [[Sea-Tac Overwatch]]
