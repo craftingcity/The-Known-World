@@ -41,7 +41,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28921ebf633a17d3",
+            "id": "efbf58cbd70f72f7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,7 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
+                "file": "Overwatch Airport Security.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bdd2934890e4207a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
                 "mode": "source",
                 "source": true
               }
@@ -207,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
+                "file": "Overwatch Airport Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
+                "file": "Overwatch Airport Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md"
+                "file": "Overwatch Airport Security.md"
               }
             }
           }
@@ -318,10 +339,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28921ebf633a17d3",
+  "active": "efbf58cbd70f72f7",
   "lastOpenFiles": [
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Overwatch Airport Security.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle/Wasters of White Center.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -352,9 +376,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/North Seattle",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/West of the Sound"
