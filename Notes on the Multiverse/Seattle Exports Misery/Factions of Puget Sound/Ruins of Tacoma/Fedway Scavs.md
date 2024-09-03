@@ -5,6 +5,8 @@ aliases:
 ---
 
 # Fedway Scavs
+The Fedway Scavs are a collection of gangs organized and operating in the Federal Way area
+
 ## History
 ## Governance
 ## Culture
