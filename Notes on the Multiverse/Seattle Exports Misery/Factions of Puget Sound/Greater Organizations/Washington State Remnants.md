@@ -1,7 +1,7 @@
 ---
 tags:
   - groups
-aliases:
+aliases: "Washington State National Guard"
 ---
 
 # Washington State Military Remnants
