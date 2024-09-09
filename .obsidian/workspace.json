@@ -30,7 +30,7 @@
             "group": "e738b114145b5bc3"
           },
           {
-            "id": "0fe5ac007f54d3cd",
+            "id": "684d71833df25823",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -103,6 +103,48 @@
             "group": "e738b114145b5bc3"
           },
           {
+            "id": "a434e2a03e67b868",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fb90c92a796f2b6a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a1822d9eb18b24eb",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -171,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emily",
+                "query": "laush",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +256,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,10 +397,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0fe5ac007f54d3cd",
+  "active": "684d71833df25823",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
     "Prenotes Sept 10 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 20 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
@@ -380,9 +426,6 @@
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",

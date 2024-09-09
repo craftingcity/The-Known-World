@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had gathered supplies and information in and around the city of Mountain Hall. With questions remaining - what is Web Spun Solutions, why has Mountain Hall gone quarantine, and who the hell tried to kill us in the Mining Colony - the party seeks answers in their immediate goal to fulfill or at least investigate the requests of a Prosperian Noble by the name 
+When last we left our heroes, they had gathered supplies and information in and around the city of Mountain Hall. With questions remaining - what is Web Spun Solutions, why has Mountain Hall gone quarantine, and who the hell tried to kill us in the Mining Colony - the party seeks answers in their immediate goal to fulfill or at least investigate the requests of a Prosperian Noble by the name of Duche Hedwig a'Alden, who wishes for Eve to prepare a report regarding those responsible 
 
 ### What does the World Know?
 
