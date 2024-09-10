@@ -26,7 +26,7 @@ They don't need to travel much further before they will arrive in [[Bandeer]]. [
 	- on the 15th of Replowing in the 106th year (the date of the Summer Communicae), a large field of Rye in Bandeer was torched.
 	- the farmstead is owned by the Hardwick family, father Algor, mother Britanna, and sons Yohan and Jonas. the Hardwicks have a muddy reputation, as Algor has a lifelong history of minor crimes or lies.
 	- Yohan is a spike-recruit for the Mountain Trooper Corps, and burnt down the farm as both a taxing evasion scheme and a job from the MTC. He will attempt to make his way to mountain hall after not hearing from the MTC for a few weeks.
-	- a red herring includes 
+	- red herrings include; a local gang of dwarven ruffians - though they agree that the Prosperian state is better, they are aligned towards their own power, a number of locals with grudges against the Hardwicks, and a powerful farmer who has attempted to buy out the Hardwick farm.
 ### What happened?
 
 
