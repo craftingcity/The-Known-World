@@ -34,7 +34,7 @@ Beans, Carrots, Cabbage, Oats, Pumpkin, and Winter Squash are food of the common
 Animals are to be fed hay, corn, or potato. 
 
 #### Spice and Oil
-The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Mint and Parsley grow well in the area. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and skilless for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
+The spices grown here are from here are mostly roots such as garlic, ginger, and onion. Mint and Parsley grow well in the area. Applesugar is cheap to make, weak in sweetening, and distinct in flavor. Most farmers can make it at home. Honey is a more expensive option, it trades being common and easy to make for being actually good. Cinnamon is imported steadily from the south, and it is considered a lower-middle class commonality (and necessity, if using Applesugar).
 
 Cow butter is generally reserved for special occasion and Goat Butter used in everyday cooking. Good Oils are expensive, as they must be transported from the City in Gold, but "cheaper" (although only from lack of demand), more distasteful options are available in heart-nut oil and seed oil.
 
