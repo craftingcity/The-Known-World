@@ -5,6 +5,10 @@
       "path": "Prenotes Sept 10 24.md"
     },
     {
+      "basename": "Economics of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
+    },
+    {
       "basename": "Hedwig a'Alden",
       "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Infection",
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
-    },
-    {
-      "basename": "Great Fires",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/Great Fires.md"
     }
   ],
   "omittedPaths": [],
