@@ -21,8 +21,9 @@ We return to the party after their travel through the Iron Ward and the Adventur
 
 ### What does the World Know?
 
-They don't need to travel much further.
+They don't need to travel much further before they will arrive in [[Bandeer]]. [[Hedwig a'Alden]] would greet them if they were to come to the townhall, and he would explain the situation;
 
+	- on the 15th of Replowing in the 106th year (the date of the Summer Communicae), a 
 ### What happened?
 
 
