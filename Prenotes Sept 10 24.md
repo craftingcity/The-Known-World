@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had gathered supplies and information in and around Coalition City. With questions remaining - such as, what is Web Spun Solutions, why has Mountain Hall gone quarantine, and who the hell tried to kill us in the Mining Colony - the party seeks answers in their immediate goal to fulfill or at least investigate the requests of a Prosperian Noble by the name of Duche Hedwig a'Alden, who wishes for Eve to prepare a report regarding those responsible for the burning of crop fields in the city of [[Bandeer]]. 
+When last we left our heroes, they had gathered supplies and information in and around Coalition City. With questions remaining - such as, what is Web Spun Solutions, why have portions Mountain Hall gone quarantine, and who the hell tried to kill us in the Mining Colony - the party seeks answers in their immediate goal to fulfill or at least investigate the requests of a Prosperian Noble by the name of Duche Hedwig a'Alden, who wishes for Eve to prepare a report regarding those responsible for the burning of crop fields in the city of [[Bandeer]]. 
 
 We return to the party after their travel through the Iron Ward and the Adventure's Road, as the sunlight bears down high in the sky and the party views the city of [[Bandeer]] for the first time together.
 
