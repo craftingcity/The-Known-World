@@ -41,7 +41,6 @@ Lodeav
 Forage Estatses
 Banks Farm
 Whyre Blackacid 
-#### Whyre Blackacid
 ### What happened?
 
 
