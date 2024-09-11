@@ -34,8 +34,13 @@ They don't need to travel much further before they will arrive in [[Bandeer]]. [
 *Jonas Hardwick* - Older brother, Wierd - meaning lacking in empathy, spends majority of time alone.
 *Yohan Hardwick* - Younger brother - child; too young to understand.
 #### Black Swans
-
+Ubrik
+Gren
+Lodeav
 #### Bandeer Farmhand Union
+Forage Estatses
+Banks Farm
+Whyre Blackacid 
 #### Whyre Blackacid
 ### What happened?
 
