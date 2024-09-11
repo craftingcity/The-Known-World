@@ -29,7 +29,12 @@ They don't need to travel much further before they will arrive in [[Bandeer]]. [
 	- red herrings include; a local gang of dwarven ruffians - though they agree that the Prosperian state is better, they are aligned towards their own power, a number of locals with grudges against the Hardwicks, and a powerful farmer who has attempted to buy out the Hardwick farm.
 
 #### Hardwicks
+*Algor Hardwick* - Father of two, Hardworking, previous ties with the Black Swans before meeting Britanna. 
+*Britanna Hardwick* - Mother of two, Clever, near recent immigrant from Eastern Mosslick.
+*Jonas Hardwick* - Older brother, Wierd - meaning lacking in empathy, spends majority of time alone.
+*Yohan Hardwick* - Younger brother - child; too young to understand.
 #### Black Swans
+
 #### Bandeer Farmhand Union
 #### Whyre Blackacid
 ### What happened?
