@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Seattle Exports Misery
-##### A man answers the phone. 
+#### A man answers the phone. 
 He was asleep moments ago, but he can never afford to miss a call. The person on the other end of the line begins to speak. As he listens, the man's expression sharpens from dazed slumber, first shaping into confusion, then realization, and finally, acceptance in defeat. He sits up from his bed.
 
 "I understand."
@@ -24,15 +24,17 @@ In a timeline much like our own, in the year 2006, a CIA operational team was se
 
 Six years later, on December 21st, 2012, while people around the world were celebrating the theoretical end of the world - as based on misunderstandings of the Mesoamerican Long-Count Calendar - a chemical bomb was detonated over Louisville, Kentucky. Thousands died immediately. 
 
-As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and they were spreading this disease across the States.
+As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and it was spreading this disease across the States.
 
-When the Kentucky Quarantine Breach reached international headlines, countries quickly began to revoke the right to transportation into or out of the States. Within the year, the international community had abandoned North America wholly. 
+Once the Kentucky Quarantine Breach reached international headlines, countries quickly revoked the privalige of transportation into or out of the States. Within the year, the international community had abandoned North America wholly.
 
-As the infection spread, news from the East Coast came slower and slower, before stopping entirely.
+As the infection spread, news from the East Coast came slower and slower, before stopping entirely. For almost two years, the States west of the Mississippi River were a remnant of America as it was before, but...
 
 On July 20th, 2015, the international community launched a series of preventative nuclear strikes on North America in an attempt to eliminate the possibility of spreading the infection beyond the States' borders.
 
-You survived. What's next?
+The concept of American Society collapsed in a fraction of a moment, coordinated by dozens of nations we once called allies. We, the People of the Nuclear Wasteland, are alone. We were abused and abandoned, and we now wander the salted earth we called our home in fear. Fear of nature. Fea
+
+What's next?
 
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**
