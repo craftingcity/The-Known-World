@@ -11,18 +11,42 @@
             "id": "ddac0ca6527bda9a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 3,
               "stack": [
+                {
+                  "title": "Carta Prosperitatis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Local Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kingdom of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,12 +142,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -148,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md"
               }
             }
           }
@@ -261,8 +285,13 @@
   },
   "active": "ddac0ca6527bda9a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
@@ -283,11 +312,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Muckleshoot Gamblers.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Fedway Scavs.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Aria Edges.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
