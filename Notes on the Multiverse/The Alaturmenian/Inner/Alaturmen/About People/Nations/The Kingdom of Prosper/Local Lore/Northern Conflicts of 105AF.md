@@ -31,12 +31,12 @@ On the morning of the 3rd, forces from the Delectus Chapter of [[Arthur's Knight
 ## Battle of Odaya
 #### 106AF/01/13 - 02/03
 
-## Secession of Yagil
-
+## Immolation of Yagil
+#### 106AF/02/06 - 02/18
 
 ## The Black Battle of Kanielkiln
-
+#### 106AF/03/01 - 05/06
 
 ## The Third Battle of Kohnstamm
-
+#### 106AF/05/08 - 05/22
 
