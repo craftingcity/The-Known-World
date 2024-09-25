@@ -31,7 +31,7 @@ They don't need to travel much further before they will arrive in [[Bandeer]]. [
 #### Hardwicks
 *Algor Hardwick* - Father of two, Hardworking, previous ties with the Black Swans before meeting Britanna. 
 *Britannya Hardwick* - Mother of two, Clever, near recent immigrant from Eastern Mosslick.
-*Jonas Hardwick* - Older brother, Wierd - meaning lacking in empathy, spends majority of time alone.
+*Jonas Hardwick* - Older brother, Wierd - meaning lacking in empathy, spends majority of time alone. (used Huumpo to burn down his father's field)
 *Yohan Hardwick* - Younger brother - child; too young to understand.
 #### Black Swans
 Ubrik Banks
