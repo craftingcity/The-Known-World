@@ -21,7 +21,7 @@ Having spoken with Britannya Hardwick, the party investigated the farm itself an
 
 Whyre Blackacid made entering the estates difficult, and attempted to wholly bar your entry, to no avail - Eve simply forced her entry, and Thomas quickly moved to support her.
 
-We return to the party as Rowan, Bhodie, and Marilynn
+We return to the party as Rowan, Bhodie, and Marilynn watch Whyre stomp his way into town, leaving you all to act as you wish upon the estate.
 
 ### What does the World Know?
 
