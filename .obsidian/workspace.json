@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "a771b93f3b5caa60",
+            "id": "83e47e06a4992b9c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "657d308e9144eee8",
@@ -208,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+                "file": "Prenotes Sept 10 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+                "file": "Prenotes Sept 10 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md"
+                "file": "Prenotes Sept 10 24.md"
               }
             }
           }
@@ -319,10 +318,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a771b93f3b5caa60",
+  "active": "ddac0ca6527bda9a",
   "lastOpenFiles": [
-    "Prenotes Sept 10 24.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+    "Prenotes Sept 10 24.md",
     "Prenotes Sept 24 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
