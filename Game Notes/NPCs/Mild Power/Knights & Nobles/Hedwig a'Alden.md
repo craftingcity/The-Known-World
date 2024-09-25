@@ -20,7 +20,7 @@ A description of their function in the world.
 #### Early Life
 
 ## Important Knowledge
-
+Saldor is an
 
 ## Stats
 . | . 
