@@ -15,6 +15,7 @@ aliases:
 	- Seven [[Knights in Red]] are investigating the altar here, and they are clearly in need of food and other supplies.
 #### Z
 
+
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
