@@ -11,16 +11,20 @@ aliases:
 #### AI20.
 #### AJ19.
 #### AJ20.
+#### AJ21.
 #### AJ24. Massive Mosquito
 #### AK20.
+#### AK21.
 #### AK22. Temple of the Ancient Pest
 	- This medium sized temple is made of very large stone blocks. This temple is dedicated to the Righteous Beast "[[The Ancient Pest]]", and it serves as his chambers of execution; to witness such an event is a culturally significant act, deffo something to brag about at the bar.
 #### AL19.
 #### AL20.
+#### AL21.
 #### AM17.
 #### AM18.
 #### AM19.
 #### AM20.
+#### AM21.
 #### AN18.
 #### AN19.
 

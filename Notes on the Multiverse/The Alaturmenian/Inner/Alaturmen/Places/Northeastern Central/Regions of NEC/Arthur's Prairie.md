@@ -15,27 +15,34 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### B20.
 #### B21.
 #### C21.
+#### C22.
 #### C23. Raging Fog (visible)
 	- Maddening Red Fog stalks the edges of the [[Illburn Forest]].
 #### D20.
 #### D21.
+#### D22.
 #### E21.
+#### E22.
 #### F20.
 #### F21.
+#### F22.
 #### G18.
 #### G19.
 #### G20. Cenvan Lookouts (visible)
 	- Winter elves watch across the river.
 #### G21.
+#### G22.
 #### H17.
 #### H18.
 #### H19.
 #### H20.
 #### H21.
+#### H22.
 #### I18.
 #### I19.
 #### I20.
 #### I21.
+#### I22.
 #### I23. Dawnfluke Cabins
 	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 #### J16. 
@@ -44,6 +51,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### J19.
 #### J20.
 #### J21.
+#### J22.
 #### K16.
 #### K17.
 #### K18.
@@ -65,6 +73,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### L19.
 #### L20.
 #### L21.
+#### L22.
 #### L23.
 #### L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom.
@@ -74,6 +83,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### M19.
 #### M20.
 #### M21.
+#### M22.
 #### N15.
 #### N16.
 #### N17.
@@ -83,6 +93,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### N19.
 #### N20.
 #### N21.
+#### N22.
 #### O15.
 #### O16.
 #### O17. Pig's Burial

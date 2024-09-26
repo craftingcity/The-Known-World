@@ -8,11 +8,17 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### AA20. 
-#### AB20. 
+#### AA20.
+#### AA21.
+#### AB20.
+#### AB21.
+#### AC21.
 #### AD20.
+#### AD21.
 #### AD27. Coalition Staging Grounds
 #### AE20.
+#### AE21.
+#### AF21.
 
 ## Tables
 ### Encounter
