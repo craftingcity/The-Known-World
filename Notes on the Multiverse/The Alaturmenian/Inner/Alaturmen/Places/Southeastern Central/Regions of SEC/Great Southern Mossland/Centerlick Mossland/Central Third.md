@@ -10,15 +10,21 @@ aliases:
 ### Scenarios
 #### AA20.
 #### AA21.
+#### AA22.
 #### AB20.
 #### AB21.
+#### AB22.
 #### AC21.
+#### AC22.
 #### AD20.
 #### AD21.
+#### AD22.
 #### AD27. Coalition Staging Grounds
 #### AE20.
 #### AE21.
+#### AE22.
 #### AF21.
+#### AF22.
 
 ## Tables
 ### Encounter
