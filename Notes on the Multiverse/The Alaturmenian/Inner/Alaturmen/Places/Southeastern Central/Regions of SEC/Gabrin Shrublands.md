@@ -8,14 +8,28 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+#### Y17.
 #### Z16. Triton Pirates
 	- Harbormasters tend to forget that security shouldn’t stop at the surface.
+#### Z17.
+#### Z18.
 #### AA16.
+#### AA17.
+#### AA18.
 #### AB16.
+#### AB17.
+#### AB18.
 #### AC16.
+#### AC17.
+#### AC18.
 #### AD16.
+#### AD17.
+#### AD18.
 #### AE16.
+#### AE17.
+#### AE18.
 #### AF16.
+#### AF17.
 
 ## Tables
 ### Encounter

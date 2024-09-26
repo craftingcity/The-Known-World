@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6125566624d11fb",
+        "id": "27c3121b9d93cbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ddac0ca6527bda9a",
+            "id": "f421fa08239404e5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,71 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Northern Conflicts of 105AF",
+                  "title": "Arthur's Prairie",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":24},\"to\":{\"line\":40,\"ch\":24}},\"scroll\":14.023947162029389}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":9},\"to\":{\"line\":46,\"ch\":9}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Sept 10 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83e47e06a4992b9c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "657d308e9144eee8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d69a9c906b8409c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Sept 24 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -207,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Sept 10 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prenotes Sept 10 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prenotes Sept 10 24.md"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
               }
             }
           }
@@ -318,35 +265,81 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ddac0ca6527bda9a",
+  "floating": {
+    "id": "b81e1ad88ea3b74e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe1b6b325a675d0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "b56d9dacba667bd8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2c22de1273e66163",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1548,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "2c22de1273e66163",
   "lastOpenFiles": [
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-    "Prenotes Sept 10 24.md",
-    "Prenotes Sept 24 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
-    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 20 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
-    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Gabrin Shrublands.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Muckleshoot Gamblers.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Fedway Scavs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Aria Edges.md",
+    "Prenotes Sept 24 24.md",
+    "Prenotes Sept 10 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Normandy Guerilla Army.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
+    "Overwatch Airport Security.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle/Wasters of White Center.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
