@@ -13,21 +13,29 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### A21. Dwarf-Hobgoblin Battlefield
 	- A battle recently took place here between the Scrivin Hobgoblins and the Actstow Dwarves.
 #### B20.
+#### B21.
+#### C21.
 #### C23. Raging Fog (visible)
 	- Maddening Red Fog stalks the edges of the [[Illburn Forest]].
 #### D20.
+#### D21.
+#### E21.
 #### F20.
+#### F21.
 #### G18.
 #### G19.
 #### G20. Cenvan Lookouts (visible)
 	- Winter elves watch across the river.
+#### G21.
 #### H17.
 #### H18.
 #### H19.
 #### H20.
+#### H21.
 #### I18.
 #### I19.
 #### I20.
+#### I21.
 #### I23. Dawnfluke Cabins
 	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 #### J16. 
@@ -35,11 +43,13 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### J18.
 #### J19.
 #### J20.
+#### J21.
 #### K16.
 #### K17.
 #### K18.
 #### K19.
 #### K20.
+#### K21.
 #### K22. Old Stickfinger's Ruined Cabin
 	- A necro-druid lives in a small cabin. Bodies of dead animals surround this place, flies and maggots surround the rotting meat.
 	- After a near-death experience, Old Stickfingers does not accept guests, and has reinforced her cabin with wooden-spike barricades.
@@ -54,6 +64,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### L18.
 #### L19.
 #### L20.
+#### L21.
 #### L23.
 #### L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom.
@@ -62,6 +73,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### M18.
 #### M19.
 #### M20.
+#### M21.
 #### N15.
 #### N16.
 #### N17.
@@ -70,12 +82,14 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- At all times, two LeQuinn guard of the Delectus Chapter guard the chapel's entrance.
 #### N19.
 #### N20.
+#### N21.
 #### O15.
 #### O16.
 #### O17. Pig's Burial
 #### O18.
 #### O19.
 #### O20.
+#### O21.
 #### O27. Phase Spider Nests
 	- Clinging to the limbs of the forest trees, whispy cyan strands form nests indicate the presence of Phase Spiders, infectious blemishes of the Wildlands broken forward past the borders.
 #### P16.
