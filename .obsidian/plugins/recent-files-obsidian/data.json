@@ -5,48 +5,92 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "Grumbling Hills",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md"
+      "basename": "Hedwig a'Alden",
+      "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md"
     },
     {
-      "basename": "Greenhilles",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md"
+      "basename": "Prenotes Sept 10 24",
+      "path": "Prenotes Sept 10 24.md"
     },
     {
-      "basename": "Arthur's Prairie",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+      "basename": "Prenotes Sept 24 24",
+      "path": "Prenotes Sept 24 24.md"
     },
     {
-      "basename": "Northern Quillbuck Jungle",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
+      "basename": "Northern Conflicts of 105AF",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md"
     },
     {
-      "basename": "Reugb Marshes",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md"
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
-      "basename": "Southern Third",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+      "basename": "Local Lore",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md"
     },
     {
-      "basename": "Central Third",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
+      "basename": "Carta Prosperitatis",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md"
     },
     {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Gabrin Shrublands.md"
+      "basename": "Non-Nation Entities",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
-      "basename": "Northern Third",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
+      "basename": "The Bombings",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
     },
     {
-      "basename": "Factions of Puget Sound",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+      "basename": "Fiction Exposition Broadcast Script",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+    },
+    {
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
+    },
+    {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "NewSarahouse Game",
+      "path": "Game Notes/Campaign Rosters/NewSarahouse Game.md"
+    },
+    {
+      "basename": "Bandeer",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Economics of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
+    },
+    {
+      "basename": "Prenotes Aug 20 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes Aug 20 24.md"
+    },
+    {
+      "basename": "Prenotes Aug 13 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md"
+    },
+    {
+      "basename": "Prenotes May 14 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes May 14 24.md"
+    },
+    {
+      "basename": "Prenotes June 11 24",
+      "path": "Game Notes/Prenotes/'24/Prenotes June 11 24.md"
     },
     {
       "basename": "Enumclaw Civilized Safe Zone",
@@ -77,6 +121,10 @@
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Aria Edges.md"
     },
     {
+      "basename": "Factions of Puget Sound",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+    },
+    {
       "basename": "Kent Rangers Corps",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md"
     },
@@ -97,16 +145,8 @@
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle/Wasters of White Center.md"
     },
     {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
-    },
-    {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
     {
       "basename": "Prenotes Aug 31 24",
@@ -153,52 +193,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     },
     {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
       "basename": "Nations",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
     },
     {
       "basename": "Inner",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "The New War in the Old City; A Minyostalman Account of the Modern Age",
-      "path": "The New War in the Old City; A Minyostalman Account of the Modern Age.md"
-    },
-    {
-      "basename": "Minyostalman Artifacts; A Theory",
-      "path": "Minyostalman Artifacts; A Theory.md"
-    },
-    {
-      "basename": "Mossburg",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
-    },
-    {
-      "basename": "Cult in Annihilation",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md"
-    },
-    {
-      "basename": "Fiction Exposition Broadcast Script",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
-    },
-    {
-      "basename": "The Bombings",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
-    },
-    {
-      "basename": "Tourist Paramilitary",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md"
-    },
-    {
-      "basename": "Seattle's Environmental Hazards",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md"
     }
   ],
   "omittedPaths": [],

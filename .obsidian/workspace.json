@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb4f11341d598f26",
+        "id": "c0d409529b7fdf7b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f655daae4c37161",
+            "id": "d3337ab7545a9a29",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,49 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Greenhilles",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":21},\"to\":{\"line\":17,\"ch\":21}}}"
-                },
-                {
-                  "title": "Arthur's Prairie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":9}},\"scroll\":0}"
-                },
-                {
-                  "title": "Northern Quillbuck Jungle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
-                },
-                {
-                  "title": "Reugb Marshes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":10}}}"
-                },
-                {
-                  "title": "Southern Third",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":10},\"to\":{\"line\":20,\"ch\":10}}}"
-                },
-                {
-                  "title": "Central Third",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":29},\"to\":{\"line\":19,\"ch\":29}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emily",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055,
-    "collapsed": true
+    "width": 287.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -295,81 +258,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "b81e1ad88ea3b74e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe1b6b325a675d0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "b56d9dacba667bd8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2c22de1273e66163",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1548,
-        "height": 1400,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "2c22de1273e66163",
+  "active": "d3337ab7545a9a29",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Gabrin Shrublands.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
+    "Prenotes Sept 10 24.md",
+    "Prenotes Sept 24 24.md",
     "Untitled.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Carta Prosperitatis.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Campaign Rosters/NewSarahouse Game.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Yerba/Bandeer.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug 20 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 14 24.md",
+    "Game Notes/Prenotes/'24/Prenotes June 11 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Muckleshoot Gamblers.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Fedway Scavs.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma/Aria Edges.md",
-    "Prenotes Sept 24 24.md",
-    "Prenotes Sept 10 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Normandy Guerilla Army.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
-    "Overwatch Airport Security.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
