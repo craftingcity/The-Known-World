@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Bombings",
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
-    },
-    {
-      "basename": "Tourist Paramilitary",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md"
     }
   ],
   "omittedPaths": [],

@@ -87,8 +87,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0ddc7eba32c09f41",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -365,10 +387,11 @@
       }
     ]
   },
-  "active": "7f655daae4c37161",
+  "active": "0ddc7eba32c09f41",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md",
@@ -392,7 +415,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Normandy Guerilla Army.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
