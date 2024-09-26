@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Southern Third",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
-    },
-    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "Gabrin Shrublands",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Gabrin Shrublands.md"
-    },
-    {
-      "basename": "Greenhilles",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md"
     },
     {
       "basename": "Grumbling Hills",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md"
     },
     {
+      "basename": "Greenhilles",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md"
+    },
+    {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Reugb Marshes",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md"
     },
     {
       "basename": "Northern Quillbuck Jungle",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Quillbuck Jungle/Northern Quillbuck Jungle.md"
+    },
+    {
+      "basename": "Southern Third",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md"
+    },
+    {
+      "basename": "Gabrin Shrublands",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Gabrin Shrublands.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Northern Third",
@@ -195,10 +199,6 @@
     {
       "basename": "Non-Human Threats",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Non-Human Threats.md"
-    },
-    {
-      "basename": "The Infection",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
     }
   ],
   "omittedPaths": [],
