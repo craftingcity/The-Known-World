@@ -43,7 +43,6 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
-- [[Non-Human Threats]]
 - [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
