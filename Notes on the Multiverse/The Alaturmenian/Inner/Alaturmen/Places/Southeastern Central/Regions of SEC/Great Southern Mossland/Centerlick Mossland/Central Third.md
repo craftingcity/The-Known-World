@@ -24,19 +24,24 @@ aliases:
 #### AC23.
 #### AC24.
 #### AC25.
+#### AC26.
+#### AC27.
 #### AD20.
 #### AD21.
 #### AD22.
 #### AD23.
 #### AD24.
 #### AD25.
+#### AD26.
 #### AD27. Coalition Staging Grounds
 #### AE20.
 #### AE21.
 #### AE22.
 #### AE23.
+#### AE27.
 #### AF21.
 #### AF22.
+#### AF26.
 
 ## Tables
 ### Encounter

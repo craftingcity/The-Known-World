@@ -9,12 +9,8 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### Q25.
-#### Q26.
-#### R24.
-#### R25.
-#### R26.
-#### S26.
+#### T26.
+#### V27.
 
 ## Tables
 ### Encounter

@@ -17,6 +17,7 @@ aliases:
 #### AC32.
 #### AD32.
 #### AE32.
+#### AF27.
 #### AF28. Flower Maze
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 ####  AF32. Ground Swell

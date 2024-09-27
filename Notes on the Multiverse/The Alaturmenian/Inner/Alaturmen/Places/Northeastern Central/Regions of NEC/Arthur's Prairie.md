@@ -33,6 +33,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### F23.
 #### F24.
 #### F25.
+#### F26.
+#### F27.
 #### G18.
 #### G19.
 #### G20. Cenvan Lookouts (visible)
@@ -42,6 +44,9 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### G23.
 #### G24.
 #### G25.
+#### G26.
+#### G27.
+#### G28.
 #### H17.
 #### H18.
 #### H19.
@@ -51,6 +56,9 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### H23.
 #### H24.
 #### H25.
+#### H26.
+#### H27.
+#### H28.
 #### I18.
 #### I19.
 #### I20.
@@ -60,6 +68,9 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 #### I24.
 #### I25.
+#### I26.
+#### I27.
+#### I28.
 #### J16. 
 #### J17.
 #### J18.
@@ -70,6 +81,9 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### J23.
 #### J24.
 #### J25.
+#### J26.
+#### J27.
+#### J28.
 #### K16.
 #### K17.
 #### K18.
@@ -87,6 +101,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- A two-story stone building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the Praire. The building's construction is imposing, but soft; not as delicacy, but invitation.
 	- This Chapter-House holds a sacred artifact from the [[Unification]]; a relief, made of gold, depicting the victory against the [[Bandit Lords]] who ruled this place before [[Arthur Simonson|The Great Adventurer King]]. 
 		- This relief is highly respected and valued. Seven of Arthur's Knights from the Constania Chapter guard this place at all times.
+#### K27.
+#### K28.
 #### L16.
 #### L17.
 #### L18.
@@ -97,6 +113,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### L23.
 #### L24.
 #### L25.
+#### L26.
+#### L27.
 #### L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom.
 #### M16.
@@ -109,6 +127,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### M23.
 #### M24.
 #### M25.
+#### M26.
+#### M27.
 #### N15.
 #### N16.
 #### N17.
@@ -122,6 +142,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### N23.
 #### N24.
 #### N25.
+#### N26.
 #### O15.
 #### O16.
 #### O17. Pig's Burial
