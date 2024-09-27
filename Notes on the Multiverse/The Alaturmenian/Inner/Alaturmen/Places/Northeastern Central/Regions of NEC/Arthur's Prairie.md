@@ -25,11 +25,13 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### E22.
 #### E23.
 #### E24.
+#### E25.
 #### F20.
 #### F21.
 #### F22.
 #### F23.
 #### F24.
+#### F25.
 #### G18.
 #### G19.
 #### G20. Cenvan Lookouts (visible)
@@ -38,6 +40,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### G22.
 #### G23.
 #### G24.
+#### G25.
 #### H17.
 #### H18.
 #### H19.
@@ -46,6 +49,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### H22.
 #### H23.
 #### H24.
+#### H25.
 #### I18.
 #### I19.
 #### I20.
@@ -54,6 +58,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### I23. Dawnfluke Cabins
 	- A tribe of dawnfluke pixie live in community here. They were once allied with the Autumn Court of Seelie, but have since attempted their own fates on Alaturmen.
 #### I24.
+#### I25.
 #### J16. 
 #### J17.
 #### J18.
@@ -63,6 +68,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### J22.
 #### J23.
 #### J24.
+#### J25.
 #### K16.
 #### K17.
 #### K18.
@@ -75,6 +81,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 	- The Hatdroppers burnt the clearing and cabin down with oil and fire.
 #### K23.
 #### K24.
+#### K25.
 #### K26. Chapter-House Constantia of [[Arthur's Knights]] (visible)
 	- A two-story stone building bearing the sword, shield, and crown symbology of [[Arthur's Knights]] stands alone in the Praire. The building's construction is imposing, but soft; not as delicacy, but invitation.
 	- This Chapter-House holds a sacred artifact from the [[Unification]]; a relief, made of gold, depicting the victory against the [[Bandit Lords]] who ruled this place before [[Arthur Simonson|The Great Adventurer King]]. 
@@ -88,6 +95,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### L22.
 #### L23.
 #### L24.
+#### L25.
 #### L29. Unseelie Mush-pit
 	- A group of Unseelie live in a low pit of mushroom.
 #### M16.
@@ -99,6 +107,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### M22.
 #### M23.
 #### M24.
+#### M25.
 #### N15.
 #### N16.
 #### N17.
@@ -111,6 +120,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### N22.
 #### N23.
 #### N24.
+#### N25.
 #### O15.
 #### O16.
 #### O17. Pig's Burial
@@ -120,6 +130,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### O21.
 #### O23.
 #### O24.
+#### O25.
 #### O27. Phase Spider Nests
 	- Clinging to the limbs of the forest trees, whispy cyan strands form nests indicate the presence of Phase Spiders, infectious blemishes of the Wildlands broken forward past the borders.
 #### P16.
@@ -130,6 +141,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### P20.
 #### P23.
 #### P24.
+#### P25.
 #### Q16. "A Religious Man"
 	- A large statue made of a marbled silver depicts a Human man with long hair in thick plate mail. He holds a greatsword by the hilt, pointing it's end into the base of the statue. 
 	- On this circular base, an embossing displays the words "A Religious Man" in High Common.
@@ -146,8 +158,10 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### R23.
 #### S23.
 #### S24.
+#### S25.
 #### T23.
 #### T24.
+#### T25.
 #### U23. Worthy Knight
 	- A champion taxes and guards the road here.
 #### U24.
