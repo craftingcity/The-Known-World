@@ -17,6 +17,7 @@ aliases:
 #### AC32.
 #### AD32.
 #### AE32.
+#### AF27.
 #### AF28. Flower Maze
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
 ####  AF32. Ground Swell
@@ -24,7 +25,8 @@ aliases:
 	- A circle of thick risen foliage surrounds a ramp that descends deeper into the earth.
 	- A village of wooden buildings is built in this large natural cavern, and it is headed by a large longhouse. The buildings are abandoned.
 	- The foliage is about five feet thick all-around, and is seemingly burnt down to this level.
-####  AG29. 
+#### AG28.
+#### AG29. 
 	- In a small cave, nearly inaccessible due to ruinous cave-ins, two black pudding fester over the corpses of a now-long dead party of adventurers.
 	- On the corpses of these adventurers, and scattered about the cave, the following treasure can be found:
 		- 2148 cp of varying mint
@@ -32,6 +34,8 @@ aliases:
 		- 78 gp of varying mint
 		- a large chunk of unprocessed azurite (appraised at 115sp)
 		- a leather vest tooled with draconic scales (25 gp), a rosewood bowl engraved with arcane runes (25 gp), a stoneware bowl embossed with elven script (25 gp), a flask of silver dust (25 gp, 5 lb), an ingot of iron (3 gp, 30 lb)
+#### AH28.
+#### AI28.
 #### AH32.
 #### AI32.
 #### AJ32.

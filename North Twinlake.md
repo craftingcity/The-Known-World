@@ -1,45 +1,25 @@
 ---
-tags: region
+tags:
+  - region
 aliases:
 ---
-# Reugb Marshes
-#### A sub-region of [[Southeastern Central]]
+# Title
+#### A sub-region of {Greater Region}
 ## Boundaries
 ## Contents
 ### Flora
 ### Scenarios
-#### AE24.
-#### AE25.
-#### AE26.
-#### AF23.
-#### AF24.
-#### AF25.
-#### AG21. 
-#### AG22.
-#### AG23.
-#### AG24.
-#### AG25.
-#### AG26.
-#### AH19.
-#### AH20.
-#### AH21. 
-#### AH22.
-#### AH23.
-#### AH24.
-#### AH25. Kenku Watchtower
-#### AH26. Basalisk's Acacia Garden
-#### AI21.
-#### AI23.
-#### AI25.
-#### AI26.
-#### AI27.
-#### AJ25.
-#### AJ26.
+#### Q25.
+#### Q26.
+#### R24.
+#### R25.
+#### R26.
+#### S26.
 
 ## Tables
 ### Encounter
-**Location Check:** 1 in 1d6
 **Encounter Check:** 1 in 1d8
+**Scenario Check:** 1 in 1d6
 **Border Encounters:** 1 in 1d10
 
 
