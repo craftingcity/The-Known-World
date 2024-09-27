@@ -29,6 +29,7 @@ aliases:
 #### X25.
 #### X26.
 #### X27.
+#### X28.
 #### Y22.
 #### Y23.
 #### Y24.
@@ -37,6 +38,7 @@ aliases:
 #### Y27. Inexplicable Altar
 	- A small triangular altar made of jade and ruby stand inches above the mosslick. When any offerings are presented upon it, a moment passes before the item begins to vibrate violently and suddenly disappears.
 	- Seven [[Knights in Red]] are investigating the altar here, and they are clearly in need of food and other supplies.
+#### Y28.
 #### Z22.
 #### Z23.
 #### Z24.

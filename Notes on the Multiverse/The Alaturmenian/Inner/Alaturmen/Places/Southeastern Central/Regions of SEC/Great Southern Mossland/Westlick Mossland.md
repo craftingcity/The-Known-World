@@ -11,11 +11,15 @@ aliases:
 #### AG27.
 #### AH27.
 #### AJ27.
+#### AJ28.
 #### AK27.
+#### AK28.
 #### AL26.
 #### AL27.
+#### AL28.
 #### AM26.
 #### AM27.
+#### AM28.
 #### AM30. The Old Arch (visible, on road)
 	- Over the [[Three Nation Highways]] coming into [[Beacon]], about four and half miles before the walls of the city, a large arch made of plain gray stone is decorated in what was once fine filigree, but is now a scratched, defaced, and nearly ruined surface that only alludes to its ancient beauty.
 	- Those who claim to know the origin of the Old Arch are rarely correct, as the few who know it's truth are duty bound to keep its powerful secrets.
@@ -25,14 +29,17 @@ aliases:
 #### AN25.
 #### AN26.
 #### AN27.
+#### AN28.
 #### AO25.
 #### AO26.
 #### AO27.
+#### AO28.
 #### AP23.
 #### AP24.
 #### AP25.
 #### AP26.
 #### AP27.
+#### AP28.
 
 ## Tables
 ### Encounter

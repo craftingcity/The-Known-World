@@ -10,7 +10,10 @@ aliases:
 ### Flora
 ### Scenarios
 #### T26.
+#### U28.
 #### V27.
+#### V28.
+#### W28.
 
 ## Tables
 ### Encounter
