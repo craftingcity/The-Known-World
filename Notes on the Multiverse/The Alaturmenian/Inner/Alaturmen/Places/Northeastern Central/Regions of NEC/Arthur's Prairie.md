@@ -26,6 +26,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### E23.
 #### E24.
 #### E25.
+#### E26.
 #### F20.
 #### F21.
 #### F22.

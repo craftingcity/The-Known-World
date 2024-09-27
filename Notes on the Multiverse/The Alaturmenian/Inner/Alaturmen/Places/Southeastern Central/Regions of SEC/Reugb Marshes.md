@@ -9,12 +9,15 @@ aliases:
 ### Flora
 ### Scenarios
 #### AE24.
+#### AE25.
 #### AF23.
 #### AF24.
+#### AF25.
 #### AG21. 
 #### AG22.
 #### AG23.
 #### AG24.
+#### AG25.
 #### AH19.
 #### AH20.
 #### AH21. 
@@ -25,6 +28,8 @@ aliases:
 #### AH26. Basalisk's Acacia Garden
 #### AI21.
 #### AI23.
+#### AI25.
+#### AJ25.
 
 ## Tables
 ### Encounter

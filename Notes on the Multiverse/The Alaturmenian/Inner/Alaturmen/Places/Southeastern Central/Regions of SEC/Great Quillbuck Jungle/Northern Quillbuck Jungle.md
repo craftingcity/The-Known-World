@@ -23,12 +23,14 @@ aliases:
 	- This medium sized temple is made of very large stone blocks. This temple is dedicated to the Righteous Beast "[[The Ancient Pest]]", and it serves as his chambers of execution; to witness such an event is a culturally significant act, deffo something to brag about at the bar.
 #### AK23.
 #### AK24.
+#### AK25.
 #### AL19.
 #### AL20.
 #### AL21.
 #### AL22.
 #### AL23.
 #### AL24.
+#### AL25.
 #### AM17.
 #### AM18.
 #### AM19.
@@ -37,6 +39,7 @@ aliases:
 #### AM22.
 #### AM23.
 #### AM24.
+#### AM25.
 #### AN18.
 #### AN19.
 

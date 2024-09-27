@@ -14,8 +14,11 @@ aliases:
 		- The Old Arch is under constant guard of 8 members of [[Cenva Minyo]], who would not reveal themselves unless they felt it absolutely necessary.
 		- The scholars of [[Cenva Minyo]] know that this was one of the four points of origin for Elves on Alaturmen, and could in theory be used as the structure to a very powerful *gate* to another Plane.
 #### AN24.
+#### AN25.
+#### AO25.
 #### AP23.
 #### AP24.
+#### AP25.
 ## Tables
 ### Encounter
 **Location Check:** 1 in 1d6
