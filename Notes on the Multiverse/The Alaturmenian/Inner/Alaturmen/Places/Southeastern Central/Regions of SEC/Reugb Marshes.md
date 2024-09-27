@@ -8,15 +8,19 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
+#### AF23.
 #### AG21. 
 #### AG22.
+#### AG23.
 #### AH19.
 #### AH20.
 #### AH21. 
 #### AH22.
+#### AH23.
 #### AH25. Kenku Watchtower
 #### AH26. Basalisk's Acacia Garden
-#### AI21. 
+#### AI21.
+#### AI23.
 
 ## Tables
 ### Encounter

@@ -10,14 +10,20 @@ aliases:
 ### Scenarios
 #### T22.
 #### V22.
+#### V23.
 #### W22.
+#### W23.
 #### W26. Moss Gecko Nest
 #### X22.
+#### X23.
 #### Y22.
+#### Y23.
+#### Z22.
+#### Z23.
 #### Y27. Inexplicable Altar
 	- A small triangular altar made of jade and ruby stand inches above the mosslick. When any offerings are presented upon it, a moment passes before the item begins to vibrate violently and suddenly disappears.
 	- Seven [[Knights in Red]] are investigating the altar here, and they are clearly in need of food and other supplies.
-#### Z22.
+
 
 
 ## Tables
