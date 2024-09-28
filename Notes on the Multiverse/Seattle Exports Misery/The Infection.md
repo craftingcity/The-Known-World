@@ -11,8 +11,8 @@ Mortality: 7 days*, 100%
 | Stage 1 (0-48h) | Stage 2 (16-72h)           | Stage 3 (2-5 days)  | Stage 4 (7 days)  | Stage 5 (unknown, presumed 3+ months) |
 | --------------- | -------------------------- | ------------------- | ----------------- | ------------------------------------- |
 | Fever           | Intense Fever              | Fatal Organ Failure | Host Re-Animation | Fatal Host Degradation (presumed)     |
-| Cough           | Blood in Cough, Spit, Snot | Mental Degradation  | Transmission      | Host Mutation (probable?)          |
-| Fatigue         | Intense Pain               | Death               |                   | Agent Transfer (unlikely)                                      |
+| Cough           | Blood in Cough, Spit, Snot | Mental Degradation  | Transmission      | Host Mutation (probable?)             |
+| Fatigue         | Intense Pain               | Death               |                   | Agent Transfer (unlikely)             |
 
 ```
 The Louisville Infection will progress into Stage 1 Infection within 48 hours of initial internal contact to an Infection Source. Without immediate separation of contaminated and non-contaminated cells, the Infection is fatal in 100% of documented cases.
@@ -28,10 +28,15 @@ Once enraged, an L.I.H. will quickly and cognitively chase the source of it's ra
 The most potent Infection Source of L.I.H. is blood, but other typical sources include latent bacteria on the Host's flesh, or in the saliva inexplicably still produced by their mouth. 
 ```
 
-#### LOU-2013 Observations
-
-Subject LOU-0422
-Observer(s): Dr. [////], Dr. [//////]
-Date: []\[]\2013
-	Subject 0442 is a prime example of the typical simplistic behavior exhibited by the majority of our Subject Population, and can be typed *Zeta* (Z). When Subject 0442 is subjected to external stimuli, it responds with unintelligent agression. Subject 0422 fails or is incapable of object permanance over times longer than ~30 seconds, .
+#### LOU-2013 Infection Classing
+| Type Name     | Aggression / Sense | Acceleration / Speed | Ablativity / Stamina | Detail                                                                                                                                                  |
+| ------------- | ------------------ | -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zeta   (DL-1) | medium             | medium               | medium               | The most common class of Infected, *Zeta* spend the majority of their lifetime in horde with other stronger Infected.                                   |
+| Delta  (DL-2) | high               | high                 | low                  | *Delta* class Infected are characterized by their consistent self-consumption and incredible speeds.                                                    |
+| Theta  (DL-2) | low                | low                  | extreme              | The *Theta* class is characterized by an extreme overproduction of methane during digestion.                                                            |
+| Gamma  (DL-3) | medium             | medium               | high                 | A *Gamma* class Infected is characterized by their greater physical cohesion.                                                                           |
+| Beta   (DL-3) | high               | medium               | high                 | The *Beta* class Infected fail to present Host Degradation, and retain normal or above normal physical and mental ability.                              |
+| Lambda (DL-4) | high               | high                 | medium               | *Lambda* class Infected will gather and consume "lower" class Infected in a manner to repair or upgrade itself.                                         |
+| Alpha  (DL-4) | high               | extreme              | high                 | An *Alpha* class Infected is most similar to the *Delta* class, but the *Alpha* Infected will consume other Infected to maintain its physical cohesion. |
+| Omega  (DL-5) | extreme            | high                 | extreme              | The *Omega* class Infected are characterized by extreme physical growth, maintaining proportions while increasing physical ability.                     |
 

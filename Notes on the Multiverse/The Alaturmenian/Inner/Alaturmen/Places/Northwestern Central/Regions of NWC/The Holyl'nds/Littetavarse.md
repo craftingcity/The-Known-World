@@ -9,7 +9,7 @@ aliases:
 Bound by the [[Wildlands]] to it's North and West, as well as by the [[Redl'nds]] to it's South and [[North Littemotto]] to it's East-South-East.
 
 ## Contents
-The region of Littetavarse is a 
+The region of Littetavarse is hilly and covered in ashen forest. The region is generally neglected by [[The Church of the White Flame]], which has led to the area being used primarily by 'heretics'.
 
 ### Flora
 ### Scenarios
@@ -19,9 +19,13 @@ The region of Littetavarse is a
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
 #### A4. Iron Cave
 	- A deep natural cave has small veins of iron throughout.
-#### A5.
-#### A6.
-#### B1.
+#### A5. Grey Bog
+	- The terrain here is muddy and rough, rolling even. A large pit has been contained by a rusting iron framework of beams and short walls. Atop the framework, a cylinder bearing the symbol of the Church of White Flame.
+	- The area around the pit will occasionally shift and rumble to reveal portions of 'bog iron'.
+#### A6. Necro-garden
+	- In the transition from forest to plains, a mound of grey flora hides an enscripted circle of infernal intent. Low-level creatures who are dead or die here are resurrected as Fallen of Minyostalma after 6 hours.
+#### B1. Rock Flower
+	- A small formation of overgrown rocks on the ground make the shape of a sunflower. The center of the flower can be reached through into the ground, where a small pocket of warm yellow sand rests.
 #### B2.
 #### B3.
 #### B4.
@@ -57,7 +61,7 @@ The region of Littetavarse is a
 #### D2.
 #### D3. White Rose Tree
 	- A small group of white roses grow along and out of the husk of a burnt out tree.
-	- A camp has been made here by a group of Rangers.
+	- A camp has been made here by a group of 6 Guilded Rangers.
 #### D4.
 #### E2.
 #### E3.
