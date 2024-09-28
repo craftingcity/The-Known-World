@@ -22,7 +22,7 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 #### A5. Grey Bog
 	- The terrain here is muddy and rough, rolling even. A large pit has been contained by a rusting iron framework of beams and short walls. Atop the framework, a cylinder bearing the symbol of the Church of White Flame.
 	- The area around the pit will occasionally shift and rumble to reveal portions of 'bog iron'.
-#### A6. Necrogarden
+#### A6. Necro-garden
 	- In the transition from forest to plains, a mound of grey flora hides an enscripted circle of infernal intent. Low-level creatures who are dead or die here are resurrected as Fallen of Minyostalma after 6 hours.
 #### B1.
 #### B2.
