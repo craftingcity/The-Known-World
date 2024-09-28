@@ -5,8 +5,12 @@
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "Seattle's Environmental Hazards",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md"
+    },
+    {
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "The Bombings",
@@ -31,10 +35,6 @@
     {
       "basename": "The New War in the Old City; A Minyostalman Account of the Modern Age",
       "path": "The New War in the Old City; A Minyostalman Account of the Modern Age.md"
-    },
-    {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Arthur's Prairie",
@@ -195,10 +195,6 @@
     {
       "basename": "Inner",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     }
   ],
   "omittedPaths": [],
