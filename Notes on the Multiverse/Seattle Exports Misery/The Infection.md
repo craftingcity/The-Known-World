@@ -29,12 +29,9 @@ The most potent Infection Source of L.I.H. is blood, but other typical sources i
 ```
 
 #### LOU-2013 Observations
-```
+
 Subject LOU-0422
 Observer(s): Dr. [////], Dr. [//////]
 Date: []\[]\2013
-
-	Subject 0442 is a prime example of the typical simplistic behavior exhibited by the majority of our Subject Population, and can be typed Zeta. When Subject 0442 is subjected to external stimuli, it responds with unintelligent agression. Subject 0422 fails or is incapable of object permanance over times longer than ~30 seconds, .
-
-```
+	Subject 0442 is a prime example of the typical simplistic behavior exhibited by the majority of our Subject Population, and can be typed *Zeta* (Z). When Subject 0442 is subjected to external stimuli, it responds with unintelligent agression. Subject 0422 fails or is incapable of object permanance over times longer than ~30 seconds, .
 
