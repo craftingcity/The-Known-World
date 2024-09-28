@@ -39,11 +39,15 @@ aliases:
 	- A small triangular altar made of jade and ruby stand inches above the mosslick. When any offerings are presented upon it, a moment passes before the item begins to vibrate violently and suddenly disappears.
 	- Seven [[Knights in Red]] are investigating the altar here, and they are clearly in need of food and other supplies.
 #### Y28.
+#### Y29.
+#### Y30.
 #### Z22.
 #### Z23.
 #### Z24.
 #### Z25.
 #### Z26.
+#### Z29.
+#### Z30.
 
 ## Tables
 ### Encounter

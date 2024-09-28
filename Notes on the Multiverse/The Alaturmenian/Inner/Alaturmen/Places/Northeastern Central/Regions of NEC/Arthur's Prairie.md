@@ -47,6 +47,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### G26.
 #### G27.
 #### G28.
+#### G29.
 #### H17.
 #### H18.
 #### H19.
@@ -59,6 +60,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### H26.
 #### H27.
 #### H28.
+#### H29.
 #### I18.
 #### I19.
 #### I20.
@@ -71,6 +73,8 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### I26.
 #### I27.
 #### I28.
+#### I29.
+#### I30.
 #### J16. 
 #### J17.
 #### J18.
@@ -84,6 +88,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### J26.
 #### J27.
 #### J28.
+#### J29.
 #### K16.
 #### K17.
 #### K18.
@@ -103,6 +108,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 		- This relief is highly respected and valued. Seven of Arthur's Knights from the Constania Chapter guard this place at all times.
 #### K27.
 #### K28.
+#### K29.
 #### L16.
 #### L17.
 #### L18.
