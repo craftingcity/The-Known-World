@@ -32,7 +32,6 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- *Shock Islands* (Whidbery, Bainbridge, Vashon)
 
 %% Begin Waypoint %%
-- **Battlefield Olympia**
 - **Enumclaw Safe Zone**
 	- [[Druids of Covington]]
 	- [[Enumclaw Civilized Safe Zone]]
@@ -41,7 +40,6 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- [[Cult in Annihilation]]
 	- [[Tourist Paramilitary]]
 	- [[Washington State Remnants]]
-- **North Seattle**
 - [[Overwatch Airport Security]]
 - **Ruins of Seattle**
 	- [[Wasters of White Center]]
@@ -62,6 +60,5 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- [[Shadow Bandits]]
 	- [[Shadows on the Lakes]]
 	- [[Three-tree Ballers]]
-- **Western Sound**
 
 %% End Waypoint %%
