@@ -28,13 +28,15 @@ Once enraged, an L.I.H. will quickly and cognitively chase the source of it's ra
 The most potent Infection Source of L.I.H. is blood, but other typical sources include latent bacteria on the Host's flesh, or in the saliva inexplicably still produced by their mouth. 
 ```
 
-#### LOU-2013 Infection Typing
-| Type Name | Aggression | Acceleration | Ablativity |
-| --------- | ---------- | ------------ | ---------- |
-| Zeta      |            |              |            |
-| Delta     |            |              |            |
-| Gamma     |            |              |            |
-| Theta     |            |              |            |
-| Lambda    |            |              |            |
-|           |            |              |            |
+#### LOU-2013 Infection Classing
+| Type Name     | Aggression / Sense | Acceleration / Speed | Ablativity / Stamina | Detail                                                                                                                |
+| ------------- | ------------------ | -------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Zeta   (DL-1) | medium             | medium               | medium               | The most common class of Infected, *Zeta* spend the majority of their lifetime in horde with other stronger Infected. |
+| Delta  (DL-2) | high               | high                 | low                  | *Delta* class Infected are characterized by their consistent self-consumption and incredible speeds.                  |
+| Theta  (DL-2) | low                | low                  | extreme              | The *Theta* class is characterized by an extreme overproduction of methane during digestion.                          |
+| Gamma  (DL-3) | medium             | medium               | high                 | A *Gamma* class Infected is characterized by their greater physical cohesion.                                         |
+| Beta   (DL-3) | high               | medium               | high                 | *Beta*                                                                                                                      |
+| Lambda (DL-4) | high               | high                 | medium               | *Lambda* class Inf                                                                                                                      |
+| Alpha  (DL-4) | high               | extreme              | high                 |                                                                                                                       |
+| Omega  (DL-5) | extreme            | high                 | extreme              | The *Omega* class is                                                                                                  |
 
