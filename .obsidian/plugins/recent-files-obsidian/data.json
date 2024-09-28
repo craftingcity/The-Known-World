@@ -5,16 +5,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "Westlick Mossland",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Westlick Mossland.md"
-    },
-    {
       "basename": "Eastlick Mossland",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md"
-    },
-    {
-      "basename": "Central Third",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
     },
     {
       "basename": "Huntyr Swamp",
@@ -25,12 +17,24 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md"
     },
     {
+      "basename": "Wetfoot Greenland",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md"
+    },
+    {
+      "basename": "Westlick Mossland",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Westlick Mossland.md"
+    },
+    {
       "basename": "South Twinlake",
       "path": "South Twinlake.md"
     },
     {
       "basename": "Arthur's Prairie",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Central Third",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md"
     },
     {
       "basename": "Reugb Marshes",

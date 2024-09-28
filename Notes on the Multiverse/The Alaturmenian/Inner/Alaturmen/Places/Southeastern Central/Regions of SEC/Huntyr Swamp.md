@@ -18,12 +18,17 @@ aliases:
 	- These figures are large, but not heavy. They are built to be moved.
 	- On each side/team and of each material, there are eight warriors, two square carts, two knighted horses, two armored war-cleric, a woman in nobly guady plate-mail wielding a greatsword, and a cowering man wearing a massive crown, far too large for his head.
 	- It's chess.
+#### AA30.
 #### AB25.
 #### AB26.
 #### AB27.
 #### AB28.
+#### AB29.
 #### AC28.
+#### AC29.
+#### AC30.
 #### AD28.
+#### AD29.
 
 ## Tables
 ### Encounter

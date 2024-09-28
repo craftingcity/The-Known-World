@@ -13,15 +13,21 @@ aliases:
 	- The area around the boulder is trapped with multiple simple long snare traps. A group of five gnoll come by to check for fresh catches every other night.
 #### Z32.
 #### AA32.
+#### AB30.
 #### AB32.
 #### AC32.
+#### AD30.
 #### AD32.
+#### AE29.
+#### AE30.
 #### AE32.
 #### AF27.
 #### AF28. Flower Maze
 	- A large maze of vibrant flowers the size of fists takes the area of a large house in this space.
-####  AF32. Ground Swell
-####  AG27. Zeldris' Razing (see Aug/Oct [['23]] notes regarding the "plant structure")
+#### AF29.
+#### AF30.
+#### AF32. Ground Swell
+#### AG27. Zeldris' Razing (see Aug/Oct [['23]] notes regarding the "plant structure")
 	- A circle of thick risen foliage surrounds a ramp that descends deeper into the earth.
 	- A village of wooden buildings is built in this large natural cavern, and it is headed by a large longhouse. The buildings are abandoned.
 	- The foliage is about five feet thick all-around, and is seemingly burnt down to this level.
@@ -34,10 +40,17 @@ aliases:
 		- 78 gp of varying mint
 		- a large chunk of unprocessed azurite (appraised at 115sp)
 		- a leather vest tooled with draconic scales (25 gp), a rosewood bowl engraved with arcane runes (25 gp), a stoneware bowl embossed with elven script (25 gp), a flask of silver dust (25 gp, 5 lb), an ingot of iron (3 gp, 30 lb)
+#### AG30.
 #### AH28.
-#### AI28.
+#### AH29.
+#### AH30.
 #### AH32.
+#### AI28.
+#### AI29.
+#### AI30.
 #### AI32.
+#### AJ29.
+#### AJ30.
 #### AJ32.
 
 ## Tables

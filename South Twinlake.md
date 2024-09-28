@@ -11,9 +11,11 @@ aliases:
 ### Scenarios
 #### T26.
 #### U28.
+#### U29.
 #### V27.
 #### V28.
 #### W28.
+#### W29.
 
 ## Tables
 ### Encounter
