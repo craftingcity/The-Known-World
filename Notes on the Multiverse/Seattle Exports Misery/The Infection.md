@@ -29,14 +29,14 @@ The most potent Infection Source of L.I.H. is blood, but other typical sources i
 ```
 
 #### LOU-2013 Infection Classing
-| Type Name     | Aggression / Sense | Acceleration / Speed | Ablativity / Stamina | Detail                                                                                                                |
-| ------------- | ------------------ | -------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Zeta   (DL-1) | medium             | medium               | medium               | The most common class of Infected, *Zeta* spend the majority of their lifetime in horde with other stronger Infected. |
-| Delta  (DL-2) | high               | high                 | low                  | *Delta* class Infected are characterized by their consistent self-consumption and incredible speeds.                  |
-| Theta  (DL-2) | low                | low                  | extreme              | The *Theta* class is characterized by an extreme overproduction of methane during digestion.                          |
-| Gamma  (DL-3) | medium             | medium               | high                 | A *Gamma* class Infected is characterized by their greater physical cohesion.                                         |
-| Beta   (DL-3) | high               | medium               | high                 | *Beta*                                                                                                                      |
-| Lambda (DL-4) | high               | high                 | medium               | *Lambda* class Inf                                                                                                                      |
-| Alpha  (DL-4) | high               | extreme              | high                 |                                                                                                                       |
-| Omega  (DL-5) | extreme            | high                 | extreme              | The *Omega* class is                                                                                                  |
+| Type Name     | Aggression / Sense | Acceleration / Speed | Ablativity / Stamina | Detail                                                                                                                                                  |
+| ------------- | ------------------ | -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zeta   (DL-1) | medium             | medium               | medium               | The most common class of Infected, *Zeta* spend the majority of their lifetime in horde with other stronger Infected.                                   |
+| Delta  (DL-2) | high               | high                 | low                  | *Delta* class Infected are characterized by their consistent self-consumption and incredible speeds.                                                    |
+| Theta  (DL-2) | low                | low                  | extreme              | The *Theta* class is characterized by an extreme overproduction of methane during digestion.                                                            |
+| Gamma  (DL-3) | medium             | medium               | high                 | A *Gamma* class Infected is characterized by their greater physical cohesion.                                                                           |
+| Beta   (DL-3) | high               | medium               | high                 | The *Beta* class Infected fail to present Host Degradation, and retain normal or above normal physical and mental ability.                              |
+| Lambda (DL-4) | high               | high                 | medium               | *Lambda* class Infected will gather and consume "lower" class Infected in a manner to repair or upgrade itself.                                         |
+| Alpha  (DL-4) | high               | extreme              | high                 | An *Alpha* class Infected is most similar to the *Delta* class, but the *Alpha* Infected will consume other Infected to maintain its physical cohesion. |
+| Omega  (DL-5) | extreme            | high                 | extreme              | The *Omega* class Infected are characterized by extreme physical growth, maintaining proportions while increasing physical ability.                     |
 

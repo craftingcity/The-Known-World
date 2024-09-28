@@ -19,7 +19,9 @@ The region of Littetavarse is a
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
 #### A4. Iron Cave
 	- A deep natural cave has small veins of iron throughout.
-#### A5.
+#### A5. Grey Bog
+	- The terrain here is muddy and rough, rolling even. A large pit has been contained by a rusting iron framework of beams and short walls.
+	- The area around the pit will occasionally 
 #### A6.
 #### B1.
 #### B2.
