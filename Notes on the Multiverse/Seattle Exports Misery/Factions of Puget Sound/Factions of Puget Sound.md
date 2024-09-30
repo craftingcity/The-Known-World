@@ -3,9 +3,8 @@ tags: folderfile
 aliases:
 ---
 
-Washington State had a population of roughly 7 million before the Bombings.
-
-Within Washington, there are a number of notable areas where Survivors have gathered since the bombings;
+Washington State had a population of roughly 7 million before the Bombings. The UN has estimated that less than five-hundred thousand individuals survived the immediate bombings in Washington State, and those among them who have continued to live beyond the immediate fallout have factionalized by location and association.
+.
 	- *North Seattle* (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
 		- [[Tourist Paramilitary]]
 		- [[Shadow Bandits]]
