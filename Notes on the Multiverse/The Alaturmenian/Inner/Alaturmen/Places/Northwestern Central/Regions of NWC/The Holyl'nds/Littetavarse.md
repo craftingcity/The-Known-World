@@ -26,13 +26,13 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 	- In the transition from forest to plains, a mound of grey flora hides an enscripted circle of infernal intent. Low-level creatures who are dead or die here are resurrected as Fallen of Minyostalma after 6 hours.
 #### B1. Rock Flower
 	- A small formation of overgrown rocks on the ground make the shape of a sunflower. The center of the flower can be reached through into the ground, where a small pocket of warm yellow sand rests.
-#### B2. Ancient Sentinel (visible)
+#### B2. Ancient Sentinel
 #### B3. Scrollhouse
-#### B4. Spearhunter Clanhouse (visible)
+#### B4. Spearhunter Clanhouse
 #### B5. Comman's Tower (visible)
 #### C2. Warning Board
 #### C3. Bonefort (visible)
-#### C4. Massive Skull (visible)
+#### C4. Massive Skull
 #### C5. Bonesheet
 	- A sheet of petrified bone is covered in ash. On it's face a complex circular rune is embossed from this sheet in a deep red transparent substance. When a life is taken in the center of this rune, the petrified bone inside of the rune becomes insubstantial for an hour. The space below this circular section of the Bonesheet has been hollowed.
 	- **Treasure.** In the hollowed space behind the Bonesheet, an adventurer has hidden their horde. The contents include:
@@ -58,13 +58,13 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 		- A thick iron key.
 #### D1. Palm of Tauruin
 	-  A group of large mossy stones forms a rough image of a palm and five fingers reaching upwards.
-#### D2. Molting Swamp (visible)
+#### D2. Molting Swamp
 #### D3. White Rose Tree (visible)
-	- A small group of white roses grow along and out of the husk of a burnt out tree.
+	- A large group of white roses grow along and out of the husk of a massive burnt out tree.
 	- A camp has been made here by a group of 6 Guilded Rangers.
 #### D4. Wayshrine (visible)
-#### E2. Boiled Sands (visible)
-#### E3. 
+#### E2. Boiled Sands
+#### E3. Hot Hideout
 
 ## Tables
 ### Encounter
