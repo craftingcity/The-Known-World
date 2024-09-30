@@ -11,7 +11,9 @@ Since the beginning of 2016, a number of militants have begun to appear in small
 
 
 ## Governance
-The Paramilitary is composed of a large array of soldiers, but a number of nations provide more focus and support than others - predominantly China, Japan, Russia, Germany, France, and the United Kingdom. These nations will recruit from 
+The Paramilitary is composed of a large array of soldiers, but a number of nations provide more focus and support than others - predominantly China, Japan, Russia, Germany, France, and the United Kingdom. 
+
+These nations have sectioned portions of their official militaries into off-record recruitment and training operations. In an attempt to support unity between nations, these paramilitary soldiers will often transfer between military trainings and operations.
 
 ## Culture
 #### Heritage
@@ -20,6 +22,10 @@ The Paramilitary is composed of a large array of soldiers, but a number of natio
 #### Theology
 #### Economics
 ### Symbolism
+The Tourist Paramilitary primarily will use symbology from their home countries or a more generic (or unifying) United Nations symbology.
 
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

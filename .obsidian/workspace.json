@@ -68,8 +68,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "99ba166ce94d1833",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md"
               }
             }
           }
@@ -346,8 +368,10 @@
       }
     ]
   },
-  "active": "047660eea62a1385",
+  "active": "99ba166ce94d1833",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
@@ -373,8 +397,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Greenhilles.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Grumbling Hills.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Southern Third.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
