@@ -7,10 +7,13 @@ Washington State had a population of roughly 7 million before the Bombings.
 
 Within Washington, there are a number of notable areas where Survivors have gathered since the bombings;
 	- *North Seattle* (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
+		- [[Tourist Paramilitary]]
+		- [[Shadow Bandits]]
 	- *Ruins of Seattle* (White Center, Seattle Proper, Bellevue, Issaquah)
 		- [[Shadow Bandits]]
 		- [[Wasters of White Center]]
 		- [[Sainthood Order of Seattle]]
+		- [[Tourist Paramilitary]]
 	- *South Seattle* (Burien, Des Moines, Tukwila, Kent, Renton)
 		- [[Sainthood Order of Seattle]]
 		- [[Overwatch Airport Security]]
@@ -20,16 +23,31 @@ Within Washington, there are a number of notable areas where Survivors have gath
 	- *Enumclaw Safe Zone* (Enumclaw)
 		- [[Enumclaw Civilized Safe Zone]]
 		- [[Shadow Bandits]]
+		- [[Kent Rangers Corps]]
 		- [[Druids of Covington]]
 		- [[Muckleshoot Gamblers]]
 	- *Ruins of Tacoma* (Federal Way, Tacoma, Puyallup)
 		- [[Kent Rangers Corps]]
 		- [[Fedway Scavs]]
 		- [[Aria Edges]]
+		- [[Tourist Paramilitary]]
 	- *South Tacoma* (Spanaway, JBLM)
+		- [[Fedway Scavs]]
+		- [[Aria Edges]]
+		- [[Washington State Remnants]]
 	- *Battlefield Olympia* (Tumwater, Olympia, Lacey)
+		- [[Aria Edges]]
+		- [[Washington State Remnants]]
+		- [[Tourist Paramilitary]]
 	- *Western Sound* (Bangor Base, Gig Harbor)
+		- [[Shadow Bandits]]
+		- [[Community of Vashon]]
+		- [[Washington State Remnants]]
+		- [[Tourist Paramilitary]]
 	- *Shock Islands* (Whidbery, Bainbridge, Vashon)
+		- [[Community of Vashon]]
+		- [[Washington State Remnants]]
+		- [[Tourist Paramilitary]]
 
 %% Begin Waypoint %%
 - **Enumclaw Safe Zone**
