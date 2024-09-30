@@ -13,8 +13,13 @@ Formed as a business response to the Infection of 2012, the Shadow Bandits have 
 
 ```
 	- Microsoft
+	- Starbucks
+	- Costco
+	- Nintendo of America
+	- Wizards of the Coast
 	- Russian-American Mob
-	- 
+	- Irish-American Mob
+	- Mexican-American Mob
 ```
 
 ## Culture
