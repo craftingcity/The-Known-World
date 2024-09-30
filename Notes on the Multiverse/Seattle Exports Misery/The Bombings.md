@@ -7,4 +7,4 @@
 xx/xx/14 - Washington D.C. falls to the Infection. The official National Emergency Broadcasting throughout the States remains the same until it finally ceases some months later.
 07/20/15 - A series of nuclear bombs of varying design are released throughout the world targeting North America. You survived.
 
-Within the Puget Sound, 5 major bombs were dropped, targeting the cities of Seattle, Issaquah, Tacoma, Glenwood, and the Bangor Base north of Bremerton.
+Within the Puget Sound, 5 major bombs were dropped, targeting the cities of Seattle, Issaquah, Tacoma, Glenwood, and the Bangor Base north of Bremerton. On the day these bombs were dropped, Washington State was experiencing the most persistent rain it has ever faced. As if it had a purpose here, again. But today it did - the firestorms of the bombings faced significant resistance in overflown rivers, flooded streets and buildings, and consistent dousing rain. While it could do nothing for the blasts themselves, the rain and the flood saved what it could of the Puget Sound and it's residents.

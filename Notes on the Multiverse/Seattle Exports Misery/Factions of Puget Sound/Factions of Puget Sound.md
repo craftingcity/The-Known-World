@@ -20,6 +20,7 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Sainthood Order of Seattle]]
 		- [[Tourist Paramilitary]]
 	- *South Seattle* (Burien, Des Moines, Tukwila, Kent, Renton)
+			- *South Seattle* is the second calmest and yet most fractured area of the Puget Sound. The northern region has been heavily damaged, but much of the rest of the region has been relatively spared from both the immediate pulverization and the following firestorms.
 		- [[Sainthood Order of Seattle]]
 		- [[Overwatch Airport Security]]
 		- [[Shadow Bandits]]
