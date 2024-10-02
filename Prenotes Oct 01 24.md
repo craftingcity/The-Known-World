@@ -31,10 +31,19 @@ Finding where these people live and work isn't hard, but it's also mostly unrela
 18 - Eve
 17 - Bhodi
 16 - Cooks
+	G
+	H
 12 - Marylynn
 8 - Thomas
 7 - Gangsters
+	~~A. 9, 11, 18, 28~~
+	B
+	C
+	D
+	E
+	F
 4 - Rowan
+
 
 
 
