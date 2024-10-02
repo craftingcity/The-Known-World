@@ -21,6 +21,7 @@ When last we left our heroes, they had gathered rumors and information in the ci
 
 ### What does the World Know?
 
+Finding where these people live and work isn't hard, but it's also mostly unrelated. The fires were started as a commitment bit from Church-leaning members of the Troopers. W
 
 ### What happened?
 
