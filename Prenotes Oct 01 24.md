@@ -13,15 +13,17 @@ aliases:
 	- [ ] encounters / monsters?
 	- [ ] intro / recap?
 
+Maybe we can do a little accounting bc apparently some folks dont have their money?
+
 ### Intro
 
-When last we left our heroes, they had gathered rumors and information in the city of [[Bandeer]] that has culminated in a loose list of suspects. As some members of the party felt withdraws of combat, seeking work with the Duche of a more physical nature than their current expedition into political mystery - to which he gave a list of heads to roll who are associated with the Black Swans.
+When last we left our heroes, they had gathered rumors and information in the city of [[Bandeer]] that has culminated in a hard list of suspects, the Son, or the Gang. As some members of the party felt withdraws of combat, seeking work with the Duche of a more physical nature than their current expedition into political mystery - to which he gave a list of heads to roll who are associated with the Black Swans - a two-for-one in waiting if they were in fact responsible.
 
 
 
 ### What does the World Know?
 
-Finding where these people live and work isn't hard, but it's also mostly unrelated. The fires were started as a commitment bit from Church-leaning members of the Troopers. W
+Finding where these people live and work isn't hard, but it's also mostly unrelated. The fires were started as a commitment bit from Church-leaning members of the Troopers. While he hasn't heard from them in a while, he's willing to head to Mountain Hall and try to find his "Sargent Alabaster", and has been using his dad's old connections to the Black Swans to make the money to do that.
 
 ### What happened?
 
