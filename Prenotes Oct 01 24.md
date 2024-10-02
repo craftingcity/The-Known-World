@@ -33,15 +33,15 @@ Finding where these people live and work isn't hard, but it's also mostly unrela
 16 - Cooks
 	G
 	H
-12 - Marylynn (-5)
+12 - Marylynn
 8 - Thomas
 7 - Gangsters
 	~~A. 9, 11, 18, 28~~
 	~~B. 10, 35~~
 	C. 11, 
-	D.
-	E.
-	F. 7
+	~~D. 14, 27, ~~
+	~~E. 4, 14, 26~~
+	F. 7, 11, 22, 33
 4 - Rowan
 
 
