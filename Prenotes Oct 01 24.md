@@ -27,5 +27,15 @@ Finding where these people live and work isn't hard, but it's also mostly unrela
 
 ### What happened?
 
+###### Black Swan Fight
+18 - Eve
+17 - Bhodi
+16 - Cooks
+12 - Marylynn
+8 - Thomas
+7 - Gangsters
+4 - Rowan
+
+
 
 We leave our heroes on the date of ... AF, as they ...
