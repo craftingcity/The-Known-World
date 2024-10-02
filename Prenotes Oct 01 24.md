@@ -19,7 +19,7 @@ Maybe we can do a little accounting bc apparently some folks dont have their mon
 
 When last we left our heroes, they had gathered rumors and information in the city of [[Bandeer]] that has culminated in a hard list of suspects, the Son, or the Gang. As some members of the party felt withdraws of combat, seeking work with the Duche of a more physical nature than their current expedition into political mystery - to which he gave a list of heads to roll who are associated with the Black Swans - a two-for-one in waiting if they were in fact responsible.
 
-
+With many options ahead, and many hours in the day, what do you do?
 
 ### What does the World Know?
 
