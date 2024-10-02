@@ -36,9 +36,9 @@ They don't need to travel much further before they will arrive in [[Bandeer]]. [
 #### Black Swans
 Ubrik Banks
 Gren Judge
-Lodeav Riven
+Lodeav Riven 
 #### Bandeer Farmhand Union
-Forage Estatses - primarily an orchard, but has significant stake in local cannabis
+Forage Estates - primarily an orchard, but has significant stake in local cannabis
 Banks Farm - primarily a rye/wheat farm
 Whyre Blackacid - a huge rye/wheat farm that also has a significant stake in local cannabis
 ### What happened?
