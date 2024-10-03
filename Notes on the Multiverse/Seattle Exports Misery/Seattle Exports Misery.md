@@ -44,6 +44,10 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
 - **Important NPCs**
+	- **Faction Heads**
+	- **Traders**
+		- [[Peacemaker]]
+		- [[The Man Upstairs]]
 - [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
