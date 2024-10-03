@@ -47,4 +47,6 @@ Finding where these people live and work isn't hard, but it's also mostly unrela
 
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they loot the traphouse.
+
+If pushing towards Minyostalma, use *methods* or King Arthur through Duche a'Alden.
