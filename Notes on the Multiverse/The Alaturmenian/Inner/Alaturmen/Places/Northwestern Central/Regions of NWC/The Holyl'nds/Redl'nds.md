@@ -15,14 +15,15 @@ aliases:
 #### G4.
 #### H1.
 #### H2.
-#### H3.
+#### H3. Macht's Reclaimage
 #### H4. Broken Markings of [[Sylas, Winter Monarch]]
 	- A large in-earth marking has been ruined. The remaining stones are carved with script ([[Sylvan (language)]]) that impresses a religious use, but little detail can be gleaned. The wear of the script on the stones also suggests that this marking is old; these stones were considered worn long before they were broken.  
 #### I2. Reality Acid
-#### I3.
-#### I4.
-#### I5.
-#### J1.
+#### I3. Molten Mountain
+#### I4. Giant's Hold
+	- A large steel boulder is cored and has been made a small shelter for a now dead Giant. Marked in Primordial, it describes the life of the Giant who lived here.
+#### I5. Warming Fields
+#### J1. Deep Mine
 
 ## Tables
 ### Encounter

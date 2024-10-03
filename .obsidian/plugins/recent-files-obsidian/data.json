@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "The Bombings",
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Guild of Adventurers",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md"
-    },
-    {
-      "basename": "Guild of Merchants",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
     }
   ],
   "omittedPaths": [],
