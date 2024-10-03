@@ -46,6 +46,7 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - **Important NPCs**
 	- **Faction Heads**
 	- **Traders**
+		- [[Father Patrick]]
 		- [[Peacemaker]]
 		- [[The Man Upstairs]]
 - [[Seattle's Environmental Hazards]]

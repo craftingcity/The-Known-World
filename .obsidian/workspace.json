@@ -33,45 +33,15 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "09b34d51ec53d8a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Enumclaw Civilized Safe Zone",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Peacemaker",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Peacemaker.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":135},\"to\":{\"line\":12,\"ch\":135}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "01afaf2ca066d3a1",
+        "id": "e9b46917999e80d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a09fcbc0f311227",
+            "id": "f22df3fb00bb9f2c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -85,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
                 "mode": "source",
                 "source": true
               }
@@ -210,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md"
               }
             }
           }
@@ -323,10 +293,11 @@
   },
   "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Peacemaker.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Traders.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
@@ -351,7 +322,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
