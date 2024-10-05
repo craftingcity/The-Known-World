@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Father Patrick",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md"
+      "basename": "Fiction Exposition Broadcast Script",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+    },
+    {
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "Factions of Puget Sound",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+    },
+    {
+      "basename": "Father Patrick",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md"
     },
     {
       "basename": "The Man Upstairs",
@@ -61,10 +69,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
     },
     {
-      "basename": "Fiction Exposition Broadcast Script",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
-    },
-    {
       "basename": "Sainthood Order of Seattle",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Kent Rangers Corps",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md"
-    },
-    {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     },
     {
       "basename": "The Infection",
@@ -195,10 +195,6 @@
     {
       "basename": "Merchant Companies and their Routes",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
-    },
-    {
-      "basename": "Economics of Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md"
     }
   ],
   "omittedPaths": [],
