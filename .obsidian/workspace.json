@@ -35,33 +35,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e9b46917999e80d5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f22df3fb00bb9f2c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
               }
             }
           }
@@ -291,10 +264,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32a1ca7a8d6ec426",
+  "active": "b6deb3886dc45f23",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Peacemaker.md",
@@ -303,7 +277,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",

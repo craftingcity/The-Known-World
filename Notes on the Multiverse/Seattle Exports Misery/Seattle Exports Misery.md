@@ -44,7 +44,6 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
 - **Important NPCs**
-	- **Faction Heads**
 	- **Traders**
 		- [[Father Patrick]]
 		- [[Peacemaker]]
