@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b699763ee58dc06",
+        "id": "bc4d1b8fbd9b8d6d",
         "type": "tabs",
         "children": [
           {
-            "id": "8da8c25c20fe58dc",
+            "id": "4c12057c4f055ba2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,28 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":482},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":5.680659899952465}"
-                },
-                {
-                  "title": "Fiction Exposition Broadcast Script",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":5},\"to\":{\"line\":75,\"ch\":5}},\"scroll\":64.29405997263231}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -159,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +228,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -270,10 +250,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8da8c25c20fe58dc",
+  "active": "4c12057c4f055ba2",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
     "conflict-files-obsidian-git.md",
