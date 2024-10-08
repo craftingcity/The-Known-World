@@ -141,6 +141,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "General Hienz",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":80},\"to\":{\"line\":11,\"ch\":80}}}"
+                },
+                {
+                  "title": "Rat King",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":96},\"to\":{\"line\":13,\"ch\":96}}}"
+                },
+                {
                   "title": "The Man Upstairs",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md\",\"mode\":\"source\",\"source\":true}}",
@@ -163,7 +175,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
                 "mode": "source",
                 "source": true
               }
@@ -334,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +372,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md"
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md"
               }
             }
           }
@@ -447,8 +459,10 @@
   },
   "active": "98e0c612a50043fe",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Peacemaker.md",
@@ -473,8 +487,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Overwatch Airport Security.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Central Third.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Reugb Marshes.md",
-    "Untitled 1.md",
-    "North Twinlake.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",

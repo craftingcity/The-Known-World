@@ -49,8 +49,10 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - [[The Infection]]
 - **Traders**
 	- [[Father Patrick]]
+	- [[General Hienz]]
 	- [[Peacemaker]]
 	- [[Rat King]]
 	- [[The Man Upstairs]]
+	- [[Tyler Otis]]
 
 %% End Waypoint %%
