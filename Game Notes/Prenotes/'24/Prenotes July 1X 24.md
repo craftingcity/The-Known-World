@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for *date*
-## Party of Interest: /*LINK*/
+## Party of Interest: Ash
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
