@@ -25,6 +25,7 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Normandy Guerilla Army]]
 		- [[Kent Rangers Corps]]
 	- *Enumclaw Safe Zone* (Enumclaw)
+			- The *ECSZ* is the calmest area of the Puget Sound, where Enumclaw keeps peace and trade.
 		- [[Enumclaw Civilized Safe Zone]]
 		- [[Shadow Bandits]]
 		- [[Kent Rangers Corps]]

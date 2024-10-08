@@ -6,11 +6,14 @@ aliases:
 # Peacemaker
 ## German Dealer
 ### he/him
+
 > Boxtext for an action, outfit, and a physical trait.
 
 Peacekeeper is a member of INTERPOL, a subsidiary of the UN nowadays, and has deployed to the North American Wasteland, specifically Seattle, with a handful of contacts in Armories across the world. Being the man responsible for ordering the collection of airdrops and maintenance of armories, he is a powerful figure in Washington's Arms dealings.
 
 Officially, he runs with members of the [[Tourist Paramilitary]], but his people maintain neutrality until otherwise requested of them.
+
+Peacemaker can be found at his compound in *North Seattle*.
 
 ## Roleplaying
 ### Quote
