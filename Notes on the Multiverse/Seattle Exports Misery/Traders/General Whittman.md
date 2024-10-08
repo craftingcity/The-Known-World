@@ -3,13 +3,13 @@ tags:
   - npc
 aliases:
 ---
-# Tyler Otis
-## Vashon Armorer
+# Name
+## Titles
 ### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.
 
-Tyler Otis runs the Vashon Community Armory in the *Shock Islands*.
+General Whittman is the head of the [[Kent Rangers Corps]] in the *Ruins of Tacoma*.
 
 ## Roleplaying
 ### Quote

@@ -3,13 +3,13 @@ tags:
   - npc
 aliases:
 ---
-# Tyler Otis
-## Vashon Armorer
-### pronouns
+# Savage
+## Top Dog
+### she/her
 
 > Boxtext for an action, outfit, and a physical trait.
 
-Tyler Otis runs the Vashon Community Armory in the *Shock Islands*.
+Savage is the Top Dog of the [[Fedway Scavs]] and can be found in her compound in *South Tacoma*.
 
 ## Roleplaying
 ### Quote
