@@ -49,6 +49,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[Hoggak Cander-Wheernat]]
 - [[List of Names]]
 - **Mild Power**
+	- [[Blurfurmgur]]
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Borhain a'Huruuc]]

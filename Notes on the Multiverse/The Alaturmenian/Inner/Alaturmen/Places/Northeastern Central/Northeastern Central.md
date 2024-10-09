@@ -105,6 +105,8 @@ aliases:
 	- [[Greenhilles]]
 	- [[Gumlpin]]
 	- [[Illburn Forest]]
+	- [[North Twinlake]]
+	- [[South Twinlake]]
 - **Specific Places**
 	- [[Archmage Barrowinch's Tower]]
 	- [[Brandle Wrench]]
