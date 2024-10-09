@@ -143,6 +143,8 @@ INIT
 4 - Locus
 ~~x - F (29, 46, 65)~~
 
+6 Kills, we can give 6 Refined Carbines, 6 Combat Press., and 44x Clear DRM
+
 The basement is a series of storage rooms and equipment halls. Each one of these rooms has been occupied by a number of Demon.
 
 ###### Fountain Park -> Office

@@ -4,6 +4,8 @@ tags: notes
 # Notes
 #### Bubble's Mercs - Delta 3
 ##### "Bubble" - Team Lead
+> Triton, Rogue Swashbuckler (8), Fighter Battlemaster (5)
+
 AC: 21 (Press. Combat Armor (18+3))
 HP: 91 (7d10 hit die) / Speed: 30
 
@@ -31,6 +33,7 @@ Artifacts:
 	- Vault Key
 
 ##### "Screw" Team Specialist
+> Gnoll, Fighter Banneret (3), Barbarian Berserker (8)
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
 
@@ -58,6 +61,7 @@ Artifacts:
 	- None
 
 ##### "Astro" Team Specialist
+> Spring Elf, Bard Lore (11)
 AC: 20 (Press. Combat Armor (18+2))
 HP: 81 (6d10 hit die) / Speed: 35
 
@@ -65,7 +69,7 @@ STR: 11 (+0)
 CON: 14 (+2)
 DEX: 15 (+2)
 INT: 14 (+2)
-WIS: 10 (+0)
+WIS: 10 (+0) (Adv. Perception)
 CHA: 14 (+2)
 
 *Extra Attack* - You attack twice when you take the attack action on your turn.
@@ -85,6 +89,7 @@ Artifacts:
 	- None
 
 ##### "Dom" Team Member
+> Human, Fighter (2), Cleric War (7)
 AC: 18 (Press. Scout Armor (16+2))
 HP: 71 (5d10 hit die) / Speed: 30
 
@@ -111,6 +116,7 @@ Artifacts:
 	- None
 
 ##### "Locus" Team Member
+> Autumn Elf, Rogue Assassin (9)
 AC: 18 (Press. Scout Armor (16+2))
 HP: 71 (5d10 hit die) / Speed: 30
 

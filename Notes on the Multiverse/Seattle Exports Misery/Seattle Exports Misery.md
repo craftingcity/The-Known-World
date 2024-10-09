@@ -26,7 +26,7 @@ Six years later, on December 21st, 2012, while people around the world were cele
 
 As the government responded, they found that this was no simple explosive; whatever these chemicals were, they changed people into monsters, where their consciousness was supplanted by hunger. The Kentucky National Guard began attempts to contain the hazard, firing upon anything within the Quarantine Zone - including uninfected survivors. Months passed, and eventually the Zone was breached. Kentucky was infected, and it was spreading this disease across the States.
 
-Once the Kentucky Quarantine Breach reached international headlines, countries quickly revoked the privalige of transportation into or out of the States. Within the year, the international community had abandoned North America wholly.
+Once the Kentucky Quarantine Breach reached international headlines, countries quickly revoked the privilege of transportation into or out of the States. Within the year, the international community had abandoned North America wholly.
 
 As the infection spread, news from the East Coast came slower and slower, before stopping entirely. For almost two years, the States west of the Mississippi River were a remnant of America as it was before, but...
 
@@ -44,12 +44,17 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
 - **Important NPCs**
-	- **Traders**
-		- [[Father Patrick]]
-		- [[Peacemaker]]
-		- [[The Man Upstairs]]
 - [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
+- **Traders**
+	- [[Father Patrick]]
+	- [[General Hienz]]
+	- [[General Whittman]]
+	- [[Peacemaker]]
+	- [[Rat King]]
+	- [[Savage]]
+	- [[The Man Upstairs]]
+	- [[Tyler Otis]]
 
 %% End Waypoint %%
