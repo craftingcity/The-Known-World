@@ -4,87 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "eed287593d226ccb",
-        "type": "split",
+        "id": "45a9f54e9320d572",
+        "type": "tabs",
         "children": [
           {
-            "id": "f0dc847a2853246e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "932d5f769f4b67f8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
+            "id": "07726722ce363b13",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              },
-              {
-                "id": "043e9cfa9aefe25c",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "0cc3225cfd878fb7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4be9ce16b1078273",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wunkacklin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,9 +229,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -314,37 +251,81 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "043e9cfa9aefe25c",
+  "floating": {
+    "id": "14c73db712682da5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8c9126502cba33cf",
+        "type": "window",
+        "children": [
+          {
+            "id": "f5fb91a44266b4ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57509bd81000b672",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1271,
+        "y": 254,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "07726722ce363b13",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/South Twinlake.md",
+    "Prenotes Oct 08 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Wunkacklin.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
-    "Game Notes/Campaigns.md",
+    "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/North Twinlake.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Minyostalman Artifacts; A Theory.md",
     "Game Notes/NPCs/Mild Power/Blurfurmgur.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
+    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Prenotes Oct 01 24.md",
+    "Prenotes Sept 10 24.md",
+    "Prenotes Sept 24 24.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/General Whittman.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Savage.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Peacemaker.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/General Whittman.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
@@ -352,6 +333,8 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
