@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4d1b8fbd9b8d6d",
+        "id": "58d38782b75474c1",
         "type": "tabs",
         "children": [
           {
-            "id": "4c12057c4f055ba2",
+            "id": "fc70c65660185e4f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +234,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -250,13 +258,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c12057c4f055ba2",
+  "active": "fc70c65660185e4f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Father Patrick.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders/Peacemaker.md",
