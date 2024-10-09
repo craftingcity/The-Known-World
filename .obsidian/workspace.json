@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "280a6b6de589361f",
+        "id": "45a9f54e9320d572",
         "type": "tabs",
         "children": [
           {
-            "id": "26343ccaa36f53a4",
+            "id": "07726722ce363b13",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,140 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0afee267ecd99fe6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49fb8f2d97a43401",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4458876081eb9988",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "15d70b198493fd4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f811d5c7d99f0a63",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5efbb1e7d4da51ab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes Oct 08 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes Oct 08 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Prenotes Oct 08 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Grand Notepad.md"
+                "file": "Prenotes Oct 08 24.md"
               }
             }
           }
@@ -432,17 +305,18 @@
       }
     ]
   },
-  "active": "5efbb1e7d4da51ab",
+  "active": "07726722ce363b13",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "A Grand Notepad.md",
-    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
-    "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
+    "Prenotes Oct 08 24.md",
     "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
     "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
+    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+    "Game Notes/Prenotes/Prenotes.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Prenotes Oct 01 24.md",
     "Prenotes Sept 10 24.md",
@@ -461,7 +335,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
-    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
