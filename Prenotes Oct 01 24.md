@@ -44,7 +44,7 @@ Finding where these people live and work isn't hard, but it's also mostly unrela
 	F. 7, 11, 22, 33
 4 - Rowan
 
-
+The Black Swans have maybe 8 crate-totes of 
 
 
 We leave our heroes on the date of ... AF, as they loot the traphouse.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58d38782b75474c1",
+        "id": "48b11a78320bb4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc70c65660185e4f",
+            "id": "4be9ce16b1078273",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,13 +22,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 08 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "f0dc847a2853246e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "932d5f769f4b67f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Sept 24 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "043e9cfa9aefe25c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 01 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 01 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prenotes Oct 01 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Prenotes Oct 01 24.md"
               }
             }
           }
@@ -258,8 +307,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fc70c65660185e4f",
+  "active": "043e9cfa9aefe25c",
   "lastOpenFiles": [
+    "Prenotes Oct 08 24.md",
+    "Prenotes Oct 01 24.md",
+    "Prenotes Sept 24 24.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Savage.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Rat King.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Peacemaker.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/General Whittman.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
@@ -277,25 +338,13 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Seattle/Wasters of White Center.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Shadow Bandits.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Overwatch Airport Security.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Normandy Guerilla Army.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
-    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Non-Human Threats.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Westlick Mossland.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Eastlick Mossland.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Great Southern Mossland/Centerlick Mossland/Northern Third.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
