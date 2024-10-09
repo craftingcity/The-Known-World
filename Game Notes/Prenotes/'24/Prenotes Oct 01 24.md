@@ -52,7 +52,7 @@ Bulbkiss (18.0sp/lb X 12lb = 216sp)
 Isiopara (63.0/lb X 12lb = 756sp)
 Cannabis (3.6sp/lb X 12lb = 42.2sp)
 
-~2200sp worth of Drugs (22pp)
+~2200sp worth of Drugs (22pp) at ~100lbs
 
 
 We leave our heroes on the date of ... AF, as they loot the traphouse.
