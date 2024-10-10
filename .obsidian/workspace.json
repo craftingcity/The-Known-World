@@ -114,30 +114,8 @@
                     "source": true
                   }
                 }
-              },
-              {
-                "id": "5b176261d8790325",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -260,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md"
               }
             }
           }
@@ -371,12 +349,58 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4be9ce16b1078273",
+  "floating": {
+    "id": "25a74f1270510a46",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0df86aa29a04ce4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "006e8bced70c6399",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c2d066dc63f0d01",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "9c2d066dc63f0d01",
   "lastOpenFiles": [
-    "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
+    "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
+    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/South Twinlake.md",
@@ -408,7 +432,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
