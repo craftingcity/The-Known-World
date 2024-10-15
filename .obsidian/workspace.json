@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c27dc665465e57e0",
+        "id": "f7ae17b47dc60c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "69cb8e6292aa74f8",
+            "id": "4be9ce16b1078273",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,74 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Knights in Red",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dampguard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deep-Guardian Tactical Security Company",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dampguard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Knights in Red",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Democratic Combine of Peoples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kingdom of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prenotes Oct 14 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Oct 14 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":3},\"to\":{\"line\":31,\"ch\":3}},\"scroll\":12.043428470228303}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c9ddf6eb8a9af41a",
+            "id": "a2ade449a7785a9a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,20 +91,78 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Sept 24 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Sept 24 24.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":37},\"to\":{\"line\":7,\"ch\":37}},\"scroll\":4.075418002997666}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
+                "file": "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "5215f784220b77a7"
+          }
+        ]
+      },
+      {
+        "id": "94f370e47cf829ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29968e4ab3debe6a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "5215f784220b77a7"
           },
           {
-            "id": "00f66ec5137024bf",
+            "id": "a01dfea58ce47a9a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -64,14 +176,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ar'k",
+                "query": "company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055,
-    "collapsed": true
+    "width": 287.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -191,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md"
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
               }
             }
           }
@@ -302,44 +413,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00f66ec5137024bf",
+  "active": "32a1ca7a8d6ec426",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
-    "conflict-files-obsidian-git.md",
-    "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Prenotes Oct 08 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
-    "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Oct 08 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Untitled",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Deep-Guardian Tactical Security Company.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
-    "Game Notes/NPCs/Mild Power/Blurfurmgur.md",
-    "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
-    "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
+    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
+    "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 22 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 31st 24.md",
-    "Game Notes/Prenotes/'24/Prenotes May 26 24.md",
-    "A Grand Notepad.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Prenotes Oct 01 24.md",
-    "Prenotes Sept 10 24.md",
-    "Prenotes Sept 24 24.md",
+    "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/South Twinlake.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Wunkacklin.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Game Notes/Campaigns.md",
+    "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/North Twinlake.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Minyostalman Artifacts; A Theory.md",
+    "Game Notes/NPCs/Mild Power/Blurfurmgur.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Tyler Otis.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
+    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
+    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Ruins of Tacoma",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]

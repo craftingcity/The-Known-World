@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for July 16th
-## Party of Interest: [[NewSarahouse Game]]
+## Party of Interest: [[Sarahouse Deakred Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

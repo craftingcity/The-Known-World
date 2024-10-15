@@ -39,6 +39,7 @@ aliases:
 		- [[Mossburg Enforcers]]
 		- [[Riphounds]]
 		- [[Slimknives]]
+		- **Untitled**
 	- **Local Lore**
 		- [[Annual Boneborn Bash]]
 		- [[Darwine's Expulsion]]
@@ -52,14 +53,6 @@ aliases:
 		- [[Northstone Family Trading Company]]
 		- [[Simonson Clan]]
 		- [[The Arstoviches]]
-	- **Local Lore**
-		- [[Bandit Lords]]
-		- [[Carta Prosperitatis]]
-		- [[Nobles of Prosper]]
-		- [[Northern Conflicts of 105AF]]
-		- [[Order of Arthurian Saints]]
-		- [[Simonson's Adventuring Party]]
-		- [[The Legend of the Bandit Lords]]
-		- [[Unification]]
+	- **[[Local Lore]]**
 
 %% End Waypoint %%

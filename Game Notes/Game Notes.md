@@ -6,12 +6,12 @@ connect to [[Notes on the Multiverse]]
 	- [[Cathouse Game]]
 	- [[GavinHouse Game]]
 	- [[Milliehouse Game]]
-	- [[NewSarahouse Game]]
+	- [[Sarahouse Deakred Game]]
 	- [[The Hatdroppers]]
 - [[Campaigns]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 - [[The Bucket List]]
 
 %% End Waypoint %%
