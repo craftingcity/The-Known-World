@@ -11,4 +11,16 @@ aliases:
 
 ## Index
 	* The Old City
-	* Anomalies & Arti
+		- Getting In
+		- Living Here
+		- Getting Out
+		- Disconnected
+	* Organized People
+		- They Do Not Care
+		- Gangs v Groups
+	* Anomalies & Artifacts
+		- 
+	* Prepartion & Maintenance
+		- Why you Need
+		- 
+
