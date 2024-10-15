@@ -38,8 +38,8 @@ aliases:
 		- [[Mossburg Corporation]]
 		- [[Mossburg Enforcers]]
 		- [[Riphounds]]
+		- **[[SEASEC]]**
 		- [[Slimknives]]
-		- **Untitled**
 	- **Local Lore**
 		- [[Annual Boneborn Bash]]
 		- [[Darwine's Expulsion]]

@@ -29,7 +29,7 @@ Other plots include...
 	- What does Duche Hedwig want next for us?
 	- How do we deal with the drugs?
 	- What is Web Spun Solutions doing? Is [[Mountain Hall]] okay?
-	- 
+	- (Does SeaSec care about the party?)
 
 ### What happened?
 
