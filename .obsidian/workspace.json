@@ -115,9 +115,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "10dbd905b308e284",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "94f370e47cf829ee",
@@ -237,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "company",
+                "query": "judge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -280,7 +301,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -309,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md"
               }
             }
           }
@@ -420,8 +442,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a01dfea58ce47a9a",
+  "active": "10dbd905b308e284",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
@@ -432,7 +455,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
-    "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
