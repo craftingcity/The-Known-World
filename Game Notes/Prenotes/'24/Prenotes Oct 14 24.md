@@ -33,5 +33,9 @@ Other plots include...
 
 ### What happened?
 
+Duche Hedwig asked them to pursue their personal interest in [[The Old|Minyostalma]], specifically mentioning a 'secret' of the White Flame there.
+
+Hedwig also promised to equip and inform the party - if Eve doesn't suggest stopping in [[Cenva Minyo]], Hedwig will.
+
 
 We leave our heroes on the date of ... AF, as they ...
