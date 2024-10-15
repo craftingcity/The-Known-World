@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "94f370e47cf829ee",
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
+                "file": "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -419,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md"
+                "file": "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md"
               }
             }
           }
@@ -442,10 +442,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "714db6dfe86116bc",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
