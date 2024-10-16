@@ -19,8 +19,12 @@ aliases:
 		- They Do Not Care
 		- Gangs v Groups
 	* Anomalies & Artifacts
-		- 
+		- Fire
+		- Force
+		- Acid
+		- Electricity
+		- Radiation
 	* Prepartion & Maintenance
-		- Why you Need
-		- 
+		- Arms
+		- Armors
 
