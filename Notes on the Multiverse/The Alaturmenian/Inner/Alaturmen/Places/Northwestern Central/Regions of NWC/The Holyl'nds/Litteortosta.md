@@ -8,7 +8,7 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### J2. 
+#### J2. Burnt-out Settlement
 #### J3. Church Outpost 'Redwatch'
 #### J4. Loam Well
 #### K2.
