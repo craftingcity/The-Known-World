@@ -33,8 +33,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "259603c9de2b1908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1b1ae7f41e9450b1",
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -292,10 +305,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "714db6dfe86116bc",
+  "active": "259603c9de2b1908",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
@@ -321,7 +335,6 @@
     "Game Notes/Campaigns.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/North Twinlake.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Minyostalman Artifacts; A Theory.md",
-    "Game Notes/NPCs/Mild Power/Blurfurmgur.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
