@@ -34,14 +34,14 @@ aliases:
 #### M6.
 #### M7.
 #### M8.
-#### N2.
-#### N3.
-#### N4. 
-#### N5.
-#### N6.
-#### N7.
-#### N8.
-#### O4.
+#### N2. Alagrashi's Lair
+#### N3. 
+#### N4. Katz Clan Homesteads, West (visible)
+#### N5. Katz Clan Homesteads, East (visible)
+#### N6. Silverfish Pools
+#### N7. Twin Shacks
+#### N8. Curated Campgrounds
+#### O4. Bordercross Rock
 #### O5. Way-Spirit Clearing
 #### O7. Abnormally Large Tree (visible)
 

@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ar'k",
+                "query": "clan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,12 +161,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055,
-    "collapsed": true
+    "width": 287.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -302,7 +302,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00f66ec5137024bf",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
