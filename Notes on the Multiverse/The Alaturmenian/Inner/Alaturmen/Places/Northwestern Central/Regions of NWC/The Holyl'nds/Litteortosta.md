@@ -8,19 +8,19 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### J2. Burnt-out Settlement
-#### J3. Church Outpost 'Redwatch'
+#### J2. Burnt-out Settlement (visible)
+#### J3. Church Outpost 'Redwatch' (visible)
 #### J4. Loam Well
-#### K2.
-#### K3.
-#### K4.
+#### K2. The Ashgorgers' Falls (visible)
+#### K3. Silk Cave
+#### K4. [[Kohnstamm]] (visible)
 #### K5. The Hunter's Siltdrop
 	- A 10ft diameter circle of silt is barely held aloft above a 15ft natural conical hole.
 	- A group of four Patron laborers and three Tendered guarding them are attempting to harvest a large catch from the Siltdrop and return to their village south of here; XXXXXXXXX
 		- If pressed, the Patrons will reveal a local superstition that any human who enters the siltdrop is murdered by the spirit of an elf who used this hole to survive the great fires, who is known only as The Hunter.
 		- The Tendered disavow such a tale.
-#### K6. Kohnstamm Roadblock
-#### L1.
+#### K6. Kohnstamm Roadblock (visible)
+#### L1. Standpeak Mines (visible)
 #### L2.
 #### L3.
 #### L4.
@@ -43,7 +43,7 @@ aliases:
 #### N8.
 #### O4.
 #### O5. Way-Spirit Clearing
-#### O7. 
+#### O7. Abnormally Large Tree (visible)
 
 ## Tables
 ### Encounter
