@@ -3,8 +3,8 @@ The primary business within the Old is death. Death as business is fueled by amm
 
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
 
-> Ancient Coin is worth 200gp or more outside the Old to some collectors, but within the Old, it can be exchanged for only some 50gp of equipment.
-> Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, three Pineapple Grenades, or a Carbine and some are generally acceptable alternatives.
+> Ancient Coin is worth 200sp or more outside the Old to some collectors, but within the Old, it can be exchanged for only some 50sp of equipment.
+> Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, three Pineapple Grenades, or a Carbine and some RDM are generally acceptable alternatives.
 
 
 ### Arms
@@ -109,9 +109,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Wineskin | leather | 1 gal | 0.1        |
 
 #### SOLIDS STORAGE
-| Name | Type | Space | Cost in AC |
-| ---- | ---- | ----- | ---------- |
-| x    | x    |       |            |
+| Name        | Type | Space | Cost in AC |
+| ----------- | ---- | ----- | ---------- |
+| Backpack    | x    |       |            |
+| Crate       |      |       |            |
+| Black Crate |      |       |            |
 
 #### ARTIFACTS STORAGE
 | Name                  | Type    | Reduction | Space   | Cost in AC |

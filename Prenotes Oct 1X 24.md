@@ -20,7 +20,7 @@ As they ascended into the second floor, they encountered a small group of Fallen
 
 You and the other members of Delta 3 organized and inserted the items into your Bag of Holding, being the quickest way you could carry any more equipment than you already have, and fell into defense as you began to rest.
 
-Bubbles 
+The morning comes, the sun lights the hallway outside, and Bubbles outlines the day's operation; pack up, move east, and hunt down Wolf. Moving through the Apartments will be the quickest, and hopefully safest, path into the Village.
 
 ### What does the World Know?
 
