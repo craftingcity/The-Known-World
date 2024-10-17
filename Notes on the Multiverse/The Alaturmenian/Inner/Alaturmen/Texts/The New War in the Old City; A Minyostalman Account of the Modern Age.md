@@ -19,12 +19,13 @@ aliases:
 		- They Do Not Care
 		- Gangs v Groups
 	* Anomalies & Artifacts
-		- Fire
-		- Force
-		- Acid
-		- Electricity
 		- Radiation
+		- Anomalies
+		- Artifacts
 	* Prepartion & Maintenance
 		- Arms
 		- Armors
+		- Provisions
+		- Supplies
+		- 
 
