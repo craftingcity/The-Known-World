@@ -50,7 +50,11 @@ aliases:
 ```
 	I would be perfoming a disservice if I failed to mention the effects of being here, especially for the theocratically inclined. As you pass the Wall, you are entering another world - disconnected from the one you knew.
 
-	In this world, our Gods cannot hear us. The Idols have no power here, nor the Ancients of beyond. In a conversation of our experience, a comrade described this disconnection; "I know that I"
+	In this world, our Gods cannot hear us. The Idols have no power here, nor the Ancients of beyond. In a conversation of our experience, a comrade of mine with experience in the subject described this disconnection; "I know that I am not lost. I feel [it], [it] knows I have not strayed. I am not alone, but I am not with my savior, my patron, my lord. [It] gave me gifts, before. Like [it], my gifts are not gone, but I cannot have them."
+
+	In a similar vein of thought, the arcanists too are disconnected - less so than our theocratics. Again, I am not an expert on the subject, but my witnessed experience leads me to believe that those of you who understand the Weave will not be able to harness it as you did before. Often I saw catastrophic, destructive, unexpected results, and even for the most capable casters, the manipulation would cost them physically.
+
+	Finally, I must warn you of the Call. There is something here, likely within the Temple district, and *it* is the voice in your head, not your God. It will tempt and promise and lie. Do not heed the Call.
 ```
 ## Organized People
 ### They Do Not Care

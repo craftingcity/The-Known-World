@@ -7,6 +7,14 @@ A collective name for the individuals and groups without a greater affiliation t
 ###### Equipment
 The Scavs are very likely underequipped.
 
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Tourist     |     |     |     |
+| Scavenger   |     |     |     |
+| Bandit      |     |     |     |
+| Seeker      |     |     |     |
+| Veteran     |     |     |     |
+
 ###### Areas of Operation
 - [[#The Haven]]
 	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
@@ -30,6 +38,14 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for their task, but undersupplied for deep exploration.
 
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Ensign      |     |     |     |
+| Private     |     |     |     |
+| Corporal    |     |     |     |
+| Captain     |     |     |     |
+| Major       |     |     |     |
+
 ###### Areas of Operation
 - [[#The Cordon]]
 - [[#The Factory]]
@@ -39,6 +55,14 @@ The WFM are reasonably equipped for their task, but undersupplied for deep explo
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
+
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Team Prospect      |     |     |     |
+| Team Specialist     |     |     |     |
+| Team Lead    |     |     |     |
+| Captain     |     |     |     |
+| Major       |     |     |     |
 
 ###### Equipment
 The Mercenaries are well equipped.
