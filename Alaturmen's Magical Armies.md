@@ -17,7 +17,7 @@ In an attempt at reasonable consistency, the following is assumed about Alaturme
 	- Characters of greater ability are considered "heroes", and cannot reasonably be included in a generic accounting of warfare.
 
 ### Organization & Logistics
-The traditional aspects of Organization & Logistics apply to a mystical military, keeping your army fed and equipped does not significantly change, but with the addition of magic
+The traditional aspects of Organization & Logistics apply to a mystical military. Keeping your army fed and equipped for battle is necessary, and as such, so too is a significant logistics network. 
 
 ### Tactics & Strategy
 ### Culture & Law
