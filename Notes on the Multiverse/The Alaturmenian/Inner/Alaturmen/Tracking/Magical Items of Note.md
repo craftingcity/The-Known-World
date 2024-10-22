@@ -37,7 +37,7 @@ aliases:
 - [[Tubric's Bag of Rooms]]
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use. Crafted by [[The Old Man]].
 	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.* (See [[Tubric's Bag of Rooms]])
-	- Currently possessed by [[Nala]]
+	- Currently possessed by Jerran, of [[The Hatdroppers]]
 
 - Inception
 	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by Elder [[]] of the [[Druids of Aquan]]
