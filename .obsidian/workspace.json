@@ -110,11 +110,55 @@
             "id": "b4ada4015b8d3355",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 11,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.600093617208904}"
+                },
+                {
+                  "title": "Immortal Dragons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Immortal Dragons.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Immortal Dragons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "How the Weave becomes Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/How the Weave becomes Magic.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"How the Weave becomes Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Blood Wars of Fiends",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Blood Wars of Fiends\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Big Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Big Lore\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ancoris Templum",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Ancoris Templum.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ancoris Templum\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Big Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Big Lore\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mechanics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Game Notes",
@@ -135,22 +179,20 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Alaturmen's Magical Armies",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alaturmen's Magical Armies.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen's Magical Armies\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":242},\"to\":{\"line\":9,\"ch\":242}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Mechanics.md",
+                "file": "Alaturmen's Magical Armies.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Alaturmen's Magical Armies"
             }
           }
         ],
@@ -203,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jerran",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,11 +294,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -281,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/Mechanics/Mechanics.md",
+                "file": "Alaturmen's Magical Armies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +335,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mechanics"
+              "title": "Backlinks for Alaturmen's Magical Armies"
             }
           },
           {
@@ -309,12 +353,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/Mechanics/Mechanics.md",
+                "file": "Alaturmen's Magical Armies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mechanics"
+              "title": "Outgoing links from Alaturmen's Magical Armies"
             }
           },
           {
@@ -377,10 +421,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/Mechanics/Mechanics.md"
+                "file": "Alaturmen's Magical Armies.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanics"
+              "title": "Outline of Alaturmen's Magical Armies"
             }
           }
         ]
@@ -404,9 +448,16 @@
   },
   "active": "b4ada4015b8d3355",
   "lastOpenFiles": [
-    "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Ancoris Templum.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/How the Weave becomes Magic.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Immortal Dragons.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Alaturmen's Magical Armies.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
@@ -423,13 +474,6 @@
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'24/Prenotes Oct 01 24.md",
     "Game Notes/Prenotes/'24/Prenotes Sept 10 24.md",
-    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
-    "Game Notes/Prenotes/'24/Prenotes Oct 14 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
