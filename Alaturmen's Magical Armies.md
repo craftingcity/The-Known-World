@@ -17,7 +17,10 @@ In an attempt at reasonable consistency, the following is assumed about Alaturme
 	- Characters of greater ability are considered "heroes", and cannot reasonably be included in a generic accounting of warfare.
 
 ### Organization & Logistics
-The traditional aspects of Organization & Logistics apply to a mystical military. Keeping your army fed and equipped for battle is necessary, and as such, so too is a significant logistics network. 
+The traditional aspects of Organization & Logistics apply to a mystical military. Keeping your army fed and equipped for battle is necessary, and as such, so too is a significant logistics network. The majority of magical effects within the given restrictions provide insignificant change from a conventional organizational structure or that structure's logistics operations.
+
+- *Message*; Given the range restriction on the generic invocation of this spell, Message is primarily used for internal squad communications.
+- *Force Disk*, *Mage Hand*, *Unseen Servant*; Engineering & Logistics squads use a variety of minor magical effects to move larger volumes of equipment or materials as quickly as they could smaller volumes.
 
 ### Tactics & Strategy
 ### Culture & Law
