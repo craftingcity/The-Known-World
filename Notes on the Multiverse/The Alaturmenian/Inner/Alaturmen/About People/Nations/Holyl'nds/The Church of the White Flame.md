@@ -20,9 +20,20 @@ The Spoken of [[Its Greatness]] are the few who have claimed to have literally c
 ##### Firstchurch
 The Firstchurch are the high priests of the Church and act as the main members of the governmental body of the Church. Firstchurch are born and raised into the position, most of the caste has never left [[The Holy City of Kanielkiln]], allowing the previous generation to imbed the fascistic hate of their lessers into the new one.
 
-Beyond their lawmaking and propaganda obligations
+Beyond their lawmaking, educating, and propagandizing obligations, certain members of the Firstchurch are granted the titles of higher responsibilities.
+
+###### Guardians
+The Guardians are responsible for the safety of the Young Tendered within Kanielkiln. They are not considered a primary educator for the purposes of formal education - although many choose to perform tutoring duties - but for enforcing the rigid control of the body and minds of the Young Tendered in their care.
+
+###### Imparteers
+Imparteers are the members of Firstchurch blessed with the duty of carrying a portion of *The First Removed* ('Minyoranta' - first shared) and imparting it upon Tendered of the Church.
+
+###### Collectors
+The Collectors use their connection to discern absolute truth of Tendered and Patrons, most particularly in the case of Law Enforcement and Revenue Collections.
 
 ##### Tendered
+The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples.
+
 ##### Patron
 ##### Unseen & Undesireables
 
