@@ -5,6 +5,7 @@ aliases:
 
 # Big Lore
 %% Begin Waypoint %%
+- [[Alaturmen's Magical Armies]]
 - [[Ancoris Templum]]
 - [[Blood Wars of Fiends]]
 - [[How the Weave becomes Magic]]

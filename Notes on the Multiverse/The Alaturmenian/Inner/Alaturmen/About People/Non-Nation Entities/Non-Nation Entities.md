@@ -8,7 +8,10 @@ aliases:
 - **[[Blood Clans]]**
 	- [[Blood-Hobgoblin Clan Pact]]
 	- [[Bulgpim Clan]]
+	- [[Emorin Clan]]
 	- [[Garqwak Clan]]
+	- [[Hurraquk Clan]]
+	- [[Scrivin Clan]]
 	- [[Wakquk Twins]]
 	- [[Wheernat Clan]]
 - [[Bodaim's Bandits]]

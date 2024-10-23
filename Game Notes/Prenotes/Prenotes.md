@@ -61,6 +61,8 @@
 	- [[Prenotes May 28 24]]
 	- [[Prenotes May 31st 24]]
 	- [[Prenotes Oct 01 24]]
+	- [[Prenotes Oct 1X 24]]
+	- [[Prenotes Oct 14 24]]
 	- [[Prenotes Sept 10 24]]
 	- [[Prenotes Sept 24 24]]
 
