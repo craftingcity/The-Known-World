@@ -1,6 +1,7 @@
 ---
 tags:
   - groups
+  - meta-faction
 aliases:
 ---
 

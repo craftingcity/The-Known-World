@@ -1,5 +1,5 @@
 ---
-tags: groups, elven
+tags: groups, elven, faction, military
 aliases:
 ---
 

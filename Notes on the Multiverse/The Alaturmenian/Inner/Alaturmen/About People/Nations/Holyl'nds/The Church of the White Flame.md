@@ -1,6 +1,6 @@
 ---
 aliases: [Church of Flame, White Church, Holy Nation of Flame, The Church]
-tags: nation_page
+tags: nation_page, groups, faction, military
 ---
 
 # The Church of the White Flame

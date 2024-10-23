@@ -1,7 +1,10 @@
 ---
-tags: groups, 
+tags:
+  - groups
+  - faction
 aliases:
 ---
+
 
 # Group Name
 ## History
@@ -9,8 +12,12 @@ aliases:
 ## Culture
 #### Heritage
 #### Language
-#### Belief
+#### Values
+#### Theology
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic
