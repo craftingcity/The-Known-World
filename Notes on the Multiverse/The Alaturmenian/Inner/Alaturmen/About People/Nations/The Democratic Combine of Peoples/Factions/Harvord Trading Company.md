@@ -1,6 +1,7 @@
 ---
 tags:
   - groups
+  - company
 aliases:
 ---
 

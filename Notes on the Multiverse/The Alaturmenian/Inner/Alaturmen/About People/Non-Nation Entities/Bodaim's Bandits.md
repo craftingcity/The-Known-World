@@ -1,5 +1,5 @@
 ---
-tags: stub
+tags: stub, group, faction, military
 aliases:
 ---
 

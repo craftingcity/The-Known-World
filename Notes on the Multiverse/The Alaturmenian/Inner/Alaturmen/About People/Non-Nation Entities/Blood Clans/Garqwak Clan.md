@@ -1,16 +1,22 @@
 ---
-tags: groups, 
+tags:
+  - groups
+  - faction
 aliases:
 ---
 
-# Garqwak Clan
+# Group Name
 ## History
 ## Governance
 ## Culture
 #### Heritage
 #### Language
-#### Belief
+#### Values
+#### Theology
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

@@ -1,5 +1,7 @@
 ---
-tags: groups, 
+tags:
+  - groups
+  - faction
 aliases:
 ---
 
@@ -20,4 +22,7 @@ Typically, recruited Dampguard members are Triton or otherwise have previous his
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

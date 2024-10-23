@@ -1,10 +1,11 @@
 ---
 tags:
   - groups
+  - faction
 aliases:
 ---
 
-# Group Name
+# Emorin Clan
 ## History
 ## Governance
 ## Culture

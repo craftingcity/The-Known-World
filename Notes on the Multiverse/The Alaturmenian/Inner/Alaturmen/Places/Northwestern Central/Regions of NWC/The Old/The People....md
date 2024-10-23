@@ -7,6 +7,14 @@ A collective name for the individuals and groups without a greater affiliation t
 ###### Equipment
 The Scavs are very likely underequipped.
 
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Tourist     |     |     |     |
+| Scavenger   |     |     |     |
+| Bandit      |     |     |     |
+| Seeker      |     |     |     |
+| Veteran     |     |     |     |
+
 ###### Areas of Operation
 - [[#The Haven]]
 	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
@@ -30,6 +38,14 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for their task, but undersupplied for deep exploration.
 
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Ensign      |     |     |     |
+| Private     |     |     |     |
+| Corporal    |     |     |     |
+| Captain     |     |     |     |
+| Major       |     |     |     |
+
 ###### Areas of Operation
 - [[#The Cordon]]
 - [[#The Factory]]
@@ -39,6 +55,14 @@ The WFM are reasonably equipped for their task, but undersupplied for deep explo
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
+
+| Class (lvl)     | AC  | Atk | Dmg |
+| --------------- | --- | --- | --- |
+| Team Prospect   |     |     |     |
+| Team Member     |     |     |     |
+| Team Specialist |     |     |     |
+| Team Leader     |     |     |     |
+| Solo Operator   |     |     |     |
 
 ###### Equipment
 The Mercenaries are well equipped.
@@ -56,6 +80,14 @@ Extramis is a loose collective of ex-soldiers and experienced seekers that claim
 ###### Equipment
 Extramis is underequipped, but knowledgeable.
 
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Fratrem     |     |     |     |
+| Patruus     |     |     |     |
+| Redigo      |     |     |     |
+| Produco     |     |     |     |
+| Ratiocinor  |     |     |     |
+
 ###### Areas of Operation
 - [[#The Haven]]
 - [[#The Sticks]]
@@ -69,6 +101,14 @@ Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers a
 
 ###### Equipment
 The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
+
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Ensign      |     |     |     |
+| Private     |     |     |     |
+| Corporal    |     |     |     |
+| Captain     |     |     |     |
+| Major       |     |     |     |
 
 ###### Areas of Operation
 - [[#The Factory]]
@@ -85,6 +125,14 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 
 ###### Equipment
 The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
+
+| Class (lvl) | AC  | Atk | Dmg |
+| ----------- | --- | --- | --- |
+| Alpha       |     |     |     |
+| Beta        |     |     |     |
+| Epsilon     |     |     |     |
+| Omega       |     |     |     |
+| Omnicron    |     |     |     |
 
 ###### Areas of Operation
 - [[#The City]]

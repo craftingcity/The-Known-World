@@ -1,10 +1,11 @@
 ---
 tags:
   - groups
+  - faction
 aliases:
 ---
 
-# Group Name
+# Bulgpim Clan
 ## History
 ## Governance
 ## Culture
@@ -15,4 +16,7 @@ aliases:
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

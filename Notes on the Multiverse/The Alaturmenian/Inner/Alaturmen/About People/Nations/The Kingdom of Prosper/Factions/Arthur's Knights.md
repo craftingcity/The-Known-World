@@ -1,5 +1,5 @@
 ---
-tags: groups, 
+tags: groups, military
 aliases:
 ---
 
@@ -39,4 +39,7 @@ aliases:
 ### Symbolism
 - sword, shield, and crown
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

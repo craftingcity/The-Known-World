@@ -1,5 +1,5 @@
 ---
-tags: groups
+tags: groups, faction
 aliases: FuckThePigs
 ---
 
@@ -28,10 +28,14 @@ The guards of the city are the cultural superiors of all citizens of [[The Golde
 In the bowels of the Golden City, there are many rough and tough young and unmissed children who have been indoctrinated into a secret military cult that operates outside the Deserts with extreme secrecy.
 
 #### Language
-#### Belief
+#### Values
+#### Theology
 #### Economics
 ### Symbolism
 #### The Golden Claw
 A 5 fingered golden claw flattenned into a fist with long black nails extending.
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

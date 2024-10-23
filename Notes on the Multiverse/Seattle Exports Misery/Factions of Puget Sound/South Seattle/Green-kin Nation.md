@@ -1,10 +1,11 @@
 ---
 tags:
   - groups
+  - faction
 aliases:
 ---
 
-# Group Name
+# Green-kin Nation
 ## History
 ## Governance
 ## Culture
