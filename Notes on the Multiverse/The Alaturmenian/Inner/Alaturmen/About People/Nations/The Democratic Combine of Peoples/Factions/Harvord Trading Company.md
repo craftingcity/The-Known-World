@@ -10,6 +10,7 @@ aliases:
 The Harvord Trading Company was established in xx AF by [[Baron Harvord]]. The Harvord Trading Company was very profitable during it's early years, and Bonj made the executive decision to settle a new holding; [[New Quillbuck]].
 
 ## Governance
+#### Harvord Contracting
 ## Culture
 #### Heritage
 #### Language
