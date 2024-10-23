@@ -48,3 +48,7 @@ The majority of the weapons of a mystical war are simply more effective than tho
 
 A prepared soldier may have access to slightly improved weapons and armor of their doctrine, and significantly more effective medicine and communication than their Levee counterparts.
 
+Siege units could be equipped with improved equipment, or simply a powerful mystic.
+
+Engineering and Medical Corps have efficient and effective equipment, allowing them to continue the war-machine for longer.
+
