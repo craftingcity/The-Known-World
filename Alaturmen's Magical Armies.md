@@ -29,17 +29,22 @@ These simple effects allow for a mystical army to act in similarity to an army i
 ### Tactics & Strategy
 In truth, 'Heroes' win wars. A Hero changes the tide of the most important engagement for their choice of victor. A Hero systemically removes key opposition, dismantling an enemy operation by removing it's leaders. Without 'Heroes', war is attritious, and long lasting. Communication and Divination foils operations moments before they become valuable, mystical healing allows soldiers to regain effect only hours after they were disabled, and the composition of the opposing force is predictable, but nearly always uncertain.
 
-While a 'Hero' is present on the battlefield, the tactics of the opposing force must become irregularly adaptive, or they will falter. 
+While a 'Hero' is present on the battlefield, the tactics of the opposing force must become irregularly adaptive, or they will falter and eventually fail. 
 
 ### Battlespace
 #### Ground Warfare
-The majority of wars fought on Alaturmen are fought on the ground. Most nations do not have access or need for naval warfare, and use Aerial combat as a supplementary force to a Ground assault.
+The majority of wars fought on Alaturmen are fought on the ground. Armies take advantage of their local fauna, adopting cavalry units in their own style, or using combat-trained beasts alongside humanoid infantry.
+
+Siege Equipment is the area of Ground Warfare that the presence of mysticism affects most, acting as a force multiplier for already effective equipment. 
 
 #### Aerial Warfare
-In Alaturmen, Aerial
+In Alaturmen, Aerial combat is a rarity. The majority of nations do not have access to the technology required to apply 'true' aerial doctrine. The most notable exception are the [[Golden Claws]], who do commonly employ Wyvern Riders as bombardiers, patrols, or conventional air-to-ground support units.
 
 #### Naval Warfare
+As compared to Aerial Warfare, Naval Warfare does not exist. Boats and Ships have defenses, but there has yet to be a true need for a navy for any major nation.
 
 ### Weapons of War
+The majority of the weapons of a mystical war are simply more effective than those in conventional one. Blades remain sharper for longer, leverage is easier to apply, and unconventional weaponry is more conventional.
 
+A prepared soldier may have access to slightly improved weapons and armor of their doctrine, and significantly more effective medicine and communication than their Levee counterparts.
 
