@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Venclaw
+# Houran Venclaw
 ## High Ambassador of the Golden Claws
 ### they/them
 #### VO EXAMPLE:
