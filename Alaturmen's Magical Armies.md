@@ -14,7 +14,7 @@ In an attempt at reasonable consistency, the following is assumed about Alaturme
 	- Given a population, a leader has employed 0.5-3% of them as soldiers.
 	- A leader will prepare their soldiers significantly more than their levees.
 	- A leader can only consistently supply spells and magical effects of 2nd level or lower.
-	- Characters of greater ability are considered "heroes", and cannot reasonably be included in a generic accounting of warfare.
+	- Characters of greater ability are considered 'Heroes, and cannot reasonably be included in a generic accounting of warfare.
 
 ### Organization & Logistics
 The traditional aspects of Organization & Logistics apply to a mystical military. Keeping your army fed and equipped for battle is necessary, and as such, so too is a significant logistics network. The majority of magical effects within the given restrictions provide insignificant change from a conventional organizational structure or that structure's logistics operations.
@@ -27,12 +27,19 @@ The traditional aspects of Organization & Logistics apply to a mystical military
 These simple effects allow for a mystical army to act in similarity to an army in our modern world - consistent communication, power-tooled logistics units, and life-saving medicines (or spells).
 
 ### Tactics & Strategy
+In truth, 'Heroes' win wars. A Hero changes the tide of the most important engagement for their choice of victor. A Hero systemically removes key opposition, dismantling an enemy operation by removing it's leaders. Without 'Heroes', war is attritious, and long lasting. Communication and Divination foils operations moments before they become valuable, mystical healing allows soldiers to regain effect only hours after they were disabled, and the composition of the opposing force is predictable, but nearly always uncertain.
 
-
-### Culture & Law
+While a 'Hero' is present on the battlefield, the tactics of the opposing force must become irregularly adaptive, or they will falter. 
 
 ### Battlespace
 #### Ground Warfare
+The majority of wars fought on Alaturmen are fought on the ground. Most nations do not have access or need for naval warfare, and use Aerial combat as a supplementary force to a Ground assault.
+
+#### Aerial Warfare
+In Alaturmen, Aerial
+
+#### Naval Warfare
+
 ### Weapons of War
 
 
