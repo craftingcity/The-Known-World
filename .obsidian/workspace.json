@@ -121,18 +121,24 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Sivir Bagwell",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sivir Bagwell.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sivir Bagwell\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":15},\"to\":{\"line\":5,\"ch\":15}},\"scroll\":0}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sivir Bagwell.md",
+                    "file": "Boris Farrinik.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Sivir Bagwell"
+                  "title": "Boris Farrinik"
                 }
               }
             ]
@@ -266,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sivir Bagwell.md",
+                "file": "Boris Farrinik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sivir Bagwell"
+              "title": "Backlinks for Boris Farrinik"
             }
           },
           {
@@ -294,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sivir Bagwell.md",
+                "file": "Boris Farrinik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sivir Bagwell"
+              "title": "Outgoing links from Boris Farrinik"
             }
           },
           {
@@ -362,10 +368,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sivir Bagwell.md"
+                "file": "Boris Farrinik.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sivir Bagwell"
+              "title": "Outline of Boris Farrinik"
             }
           }
         ]
@@ -390,7 +396,9 @@
   "active": "e0ae6c5ab0a3d8e9",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Boris Farrinik.md",
     "Sivir Bagwell.md",
+    "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
@@ -413,8 +421,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Elemental Planes.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md",
     "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",

@@ -5,11 +5,11 @@ aliases:
 ---
 # Sivir Bagwell
 ## Leader of the [[Sand Sores]]
-### she/her
+### he/him
 
-> Boxtext for an action, outfit, and a physical trait.
+> A stout dwarf of many scars, Sivir is a man who stays ready. He carries himself in a manner that suggests that if he wished it, you could be dead.
 
-A description of their function in the world.
+Sivir Bagwell runs a Tavern on the edges of the Golden City, and from there, he runs a large portion of the black-market's weapon and alcohol sales.
 
 ## Roleplaying
 ### Quote
