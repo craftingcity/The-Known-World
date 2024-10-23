@@ -21,12 +21,18 @@ The traditional aspects of Organization & Logistics apply to a mystical military
 
 - *Message*; Given the range restriction on the generic invocation of this spell, Message is primarily used for internal squad communications.
 - *Force Disk*, *Mage Hand*, *Unseen Servant*; Engineering & Logistics squads use a variety of minor magical effects to move larger volumes of equipment or materials as quickly as they could smaller volumes.
+- *Local Sending*, *Skywrite*; Used by Field Commanders and Generals alike, the combination of a (non-extradimensional) Sending network for instant, long-range communications and Skywrite for mass information dissemination allows for consistent upkeep of important operational information.
+- *Spare the Dying*, *Cure Wounds*, *Healing Spirit*, *Lesser Restoration*; Used by Medical personnel, magical healing - even within the consistency restrictions - allow for a dramatic decrease in the loss of 'true manpower' in a given army. While this can elongate the length of an individual battle, it's effect is most noticeable on the grand-strategy stage.
+
+These simple effects allow for a mystical army to act in similarity to an army in our modern world - consistent communication, power-tooled logistics units, and life-saving medicines (or spells).
 
 ### Tactics & Strategy
+
+
 ### Culture & Law
 
 ### Battlespace
 #### Ground Warfare
-### Weapons
+### Weapons of War
 
 
