@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Scrivin Clan
 ## History
 ## Governance
 ## Culture

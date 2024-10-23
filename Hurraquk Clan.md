@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Hurraquk Clan
 ## History
 ## Governance
 ## Culture

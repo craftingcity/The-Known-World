@@ -15,7 +15,6 @@ In 032AF, Mengugu [[Grokank Wheernat]] signed the [[Blood-Hobgoblin Clan Pact]],
 Over the next thirty years, the Wheernat Clan was instrumental in the downfall of the [[Bandit Lords]]
 
 ## Governance
-
 ## Culture
 #### Heritage
 #### Language
@@ -24,4 +23,7 @@ Over the next thirty years, the Wheernat Clan was instrumental in the downfall o
 #### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic
