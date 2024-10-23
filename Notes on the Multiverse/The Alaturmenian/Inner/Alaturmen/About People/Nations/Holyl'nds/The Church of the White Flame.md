@@ -26,17 +26,24 @@ Beyond their lawmaking, educating, and propagandizing obligations, certain membe
 The Guardians are responsible for the safety of the Young Tendered within Kanielkiln. They are not considered a primary educator for the purposes of formal education - although many choose to perform tutoring duties - but for enforcing the rigid control of the body and minds of the Young Tendered in their care.
 
 ###### Imparteers
-Imparteers are the members of Firstchurch blessed with the duty of carrying a portion of *The First Removed* ('Minyoranta' - first shared) and imparting it upon Tendered of the Church.
+Imparteers are the members of Firstchurch blessed with the duty of carrying a portion of *The First Removed* ('Minyosat' - flame shared) and imparting it upon Tendered of the Church.
 
 ###### Collectors
 The Collectors use their connection to discern absolute truth of Tendered and Patrons, most particularly in the case of Law Enforcement and Revenue Collections.
 
 ##### Tendered
-The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples.
+The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples. The major portion of revenue any Tendered collects is given to the Church, either in the form of local developments or genuine monetary tithe. Some Tendered, like their betters, undertake extra responsibility in the management of the *Unseen*, detaining unclaimed *Undesireables* and 'training' them into compliance under [[#The Ideology Correction Corps]].
 
 ##### Patron
-##### Unseen & Undesireables
+The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are required to attend or provide compensation of greater value under threat of law.
 
+##### Unseen & Undesirables
+The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
+
+Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered.
+
+
+```
 Ranking from highest to lowest in station:
 - Spoken (the few who draw holy power from White Flame, no matter their race, but we're still gonna look at them with *that* look)
 - Firstchurch (high-priest, only based in the [[Holy City of Kanielkiln]], excelling members of Tendered *can* be brought into the ranks of the Firstchurch by a council of Spoken, although **typically** only people of human or elven heritage *may* become Firstchurch)
@@ -57,6 +64,7 @@ Ranking from highest to lowest in station:
 - (undesirable) (unclaimed / undefended Goblinoid, Orc, Halfling, Winter-Elves)
 	- while their name suggests that one might get rid of them, the (undesirable) are a group that, when captured and enslaved, make wonderful Unseen. 
 		- This is the job of select few *Tended*, known as *Keepers*.
+```
 
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
