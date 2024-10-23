@@ -55,7 +55,6 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Tourist Paramilitary]]
 
 %% Begin Waypoint %%
-- **Battlefield Olympia**
 - **Enumclaw Safe Zone**
 	- [[Druids of Covington]]
 	- [[Enumclaw Civilized Safe Zone]]
@@ -64,7 +63,6 @@ The following areas are occupied by their indicated factions - but some members 
 	- [[Cult in Annihilation]]
 	- [[Tourist Paramilitary]]
 	- [[Washington State Remnants]]
-- **North Seattle**
 - [[Overwatch Airport Security]]
 - **Ruins of Seattle**
 	- [[Wasters of White Center]]
@@ -84,6 +82,5 @@ The following areas are occupied by their indicated factions - but some members 
 	- [[Sea-Tac Overwatch]]
 	- [[Shadow Bandits]]
 	- [[Three-tree Ballers]]
-- **Western Sound**
 
 %% End Waypoint %%

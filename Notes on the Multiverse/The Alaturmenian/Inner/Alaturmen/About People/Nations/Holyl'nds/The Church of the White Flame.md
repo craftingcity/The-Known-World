@@ -12,9 +12,10 @@ The [[#The Church of the White Flame]] is the main body of government in the [[T
 
 ## Governance
 ### Castes
-The Church of the White flame practices Power-Imbalance-Gaslighting as mechanics of its culture and as in defiance to its genuine god [[Its Greatness]], who wills this to be the way the church is run, as his Spoken have indicated though their words and powers.
+The Church of the White flame practices Power-Imbalance-Gaslighting as mechanics of its culture and as in deference to its genuine god [[Its Greatness]], who wills this to be the way the church is run, as his Spoken have indicated though their words and powers.
 
-It also practices Slavery as a mechanic of its Economy.
+##### Spoken
+The Spoken of [[Its Greatness]] are the few who have claimed to have literally communicated with their patron deity. They 
 
 Ranking from highest to lowest in station:
 - Spoken (the few who draw holy power from White Flame, no matter their race, but we're still gonna look at them with *that* look)
