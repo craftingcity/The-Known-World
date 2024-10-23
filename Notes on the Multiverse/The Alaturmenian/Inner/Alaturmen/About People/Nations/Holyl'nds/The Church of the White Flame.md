@@ -37,6 +37,11 @@ Ranking from highest to lowest in station:
 	- while their name suggests that one might get rid of them, the (undesirable) are a group that, when captured and enslaved, make wonderful Unseen. 
 		- This is the job of select few *Tended*, known as *Keepers*.
 
+#### Holy Crusaders of Truth and Light
+#### The Homeland Force
+#### The Ideology Correction Corps
+#### White Flame Militants for MBED
+
 ## Culture
 ### The Truth
  > "The Great White Flame is not a "god" as you put it. When The Great Flame made armageddon of our holyl'nd many perished as non-believers. We are not fools. It is our master, not our god." - [[Gimish, of Firstchurch]]

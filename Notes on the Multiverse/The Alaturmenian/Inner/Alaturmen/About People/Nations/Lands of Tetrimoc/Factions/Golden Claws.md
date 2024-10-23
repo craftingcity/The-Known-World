@@ -27,6 +27,10 @@ The guards of the city are the cultural superiors of all citizens of [[The Golde
 ### The Black Hand Killteams
 In the bowels of the Golden City, there are many rough and tough young and unmissed children who have been indoctrinated into a secret military cult that operates outside the Deserts with extreme secrecy.
 
+#### Gleeming Wyvern Riders
+#### Breakers in Tooth and Claw
+#### Golden Merchant's Company
+
 #### Language
 #### Values
 #### Theology
