@@ -15,7 +15,16 @@ The [[#The Church of the White Flame]] is the main body of government in the [[T
 The Church of the White flame practices Power-Imbalance-Gaslighting as mechanics of its culture and as in deference to its genuine god [[Its Greatness]], who wills this to be the way the church is run, as his Spoken have indicated though their words and powers.
 
 ##### Spoken
-The Spoken of [[Its Greatness]] are the few who have claimed to have literally communicated with their patron deity. They 
+The Spoken of [[Its Greatness]] are the few who have claimed to have literally communicated with their patron deity. They are the most proficient divine casters of the nation, but this is the only evidence of their connection with [[Its Greatness]], as this communication cannot be verified in public. These people act as the highest level of government, who demand and receive immediate and unending reverence. Roughly a dozen individuals claim and hold the title at any given time.
+
+##### Firstchurch
+The Firstchurch are the high priests of the Church and act as the main members of the governmental body of the Church. Firstchurch are born and raised into the position, most of the caste has never left [[The Holy City of Kanielkiln]], allowing the previous generation to imbed the fascistic hate of their lessers into the new one.
+
+Beyond their lawmaking and propaganda obligations
+
+##### Tendered
+##### Patron
+##### Unseen & Undesireables
 
 Ranking from highest to lowest in station:
 - Spoken (the few who draw holy power from White Flame, no matter their race, but we're still gonna look at them with *that* look)
