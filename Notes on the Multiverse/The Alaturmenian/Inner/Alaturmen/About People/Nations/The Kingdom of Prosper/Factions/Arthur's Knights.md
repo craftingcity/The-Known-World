@@ -8,6 +8,16 @@ aliases:
 ## History
 ## Governance
 ### Chapters
+##### Chapter Proprius
+The Chapter Proprius is held in the highest regard among Arthur's Knights. They stand in defense of [[Castle Prosper]], and [[Arthur Simonson|The Great Adventurer King]] himself.
+
+They bear a flag and tabard of their crest, a four-pointed star contained by four solid dots implying a square on a 
+
+##### Chapter Constantia
+##### Chapter Delectus
+##### Chapter Fides
+##### Chapter Probitas
+##### Chapter Rectio
 - Proprius
 	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
 - Constantia (K26)

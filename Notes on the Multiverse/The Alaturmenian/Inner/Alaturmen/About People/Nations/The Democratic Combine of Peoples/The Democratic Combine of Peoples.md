@@ -54,16 +54,17 @@ The Slimknives are rouges, schemers, and power-brokers. Rumored to be the remnan
 
 ## Culture
 #### Heritage
-The People in the Democratic Combine of People are typically Goblin, Human, Triton, or any one else. While there are a lare percentage of these people here, anyone could be found in the Combine, as anyone could find use in the Combine.
+The People in the Democratic Combine of People are typically Goblin, Human, or Triton While there are a large percentage of these people here, anyone could be found in the Combine, as anyone could be used for the Combine.
+
 #### Language
-The Combine's national language is [[Golopak (language)]], a blending of Triton and Human, with some syntax and grammar taken from Ancient Goblin and Elven.
+The Combine's national language is [[Golopak (language)]], a blending of Aquatic Primordial and Human, with some syntax and grammar taken from Ancient Goblin and Elven.
 
 #### Belief
-Anyone can do anything in the Combine. This leads most people to have a I-mind-my-business-you-mind-yours attitude, with a dash of hope or despair, depending on who their loyal to and how their doing. 
+Anyone can do anything in the Combine. This leads most people to have a I-mind-my-business-you-mind-yours attitude, with a dash of hope or despair, depending on who their loyal to and how they're doing. 
 
 People in the Combine respect their Barons only because the alternative is worse. The shift from one Baron to another can be clean or bloody, and it generally depends on the Baron. These people are Baron only because they can hold that position by force, somehow, because some people would take it from them by force if they could.
 
-Many people in the Combine worship the Physical Idols as well as the Emotional Gods. The land in the Combine is a melting pot of theism as much as people. 
+Many people in the Combine worship the Physical Idols as well as the Emotional Gods. The land in the Combine is a melting pot of theism as much as it is people. 
 
 #### Economics
 See also [[Economics of Combine]]
