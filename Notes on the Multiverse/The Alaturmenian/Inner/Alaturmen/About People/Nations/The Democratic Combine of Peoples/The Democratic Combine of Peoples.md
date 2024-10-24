@@ -17,7 +17,11 @@ When push comes to shove, the attitude of the Barons turn from competitor to def
 
 ### Notable Factions
 #### Knights in Red
+In the wake of the era of the [[Bandit Lords]], the [[Huntyr Swamp]] came to be ruled by a young dragon - [[Detraminx]]. Issac Filip and small group of trusted allies fought and slew her in the 62nd year, and have since controlled the area. Under the rein of the newly formed [[Knights in Red]], great prosperity came to the people of the [[Huntyr Swamp]]. Issac is an authority not because he is feared, but because he, and those he calls his Knights, are respected.
+
 #### Dampguard
+The Dampguard have been an aquatic authority for most of recorded history. Their businesses were so influential that a young [[Captain Corprian]] came to assault and capture [[Goldfield]] in 038AF, which has operated as the capital city of the Dampguard Territories since.
+
 #### Riphounds
 #### Slimknives
 #### Harvord Trading Company
