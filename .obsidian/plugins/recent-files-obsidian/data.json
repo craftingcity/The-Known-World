@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "Boris Farrinik",
-      "path": "Boris Farrinik.md"
-    },
-    {
-      "basename": "Sivir Bagwell",
-      "path": "Sivir Bagwell.md"
-    },
-    {
-      "basename": "Ginger Ak-kizi",
-      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md"
-    },
-    {
-      "basename": "Houran Venclaw",
-      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
     {
       "basename": "Lands of Tetrimoc",
@@ -45,10 +25,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
     },
     {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
-    },
-    {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
     },
@@ -59,6 +35,34 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Boris Farrinik",
+      "path": "Boris Farrinik.md"
+    },
+    {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
+      "basename": "Sivir Bagwell",
+      "path": "Sivir Bagwell.md"
+    },
+    {
+      "basename": "Ginger Ak-kizi",
+      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md"
+    },
+    {
+      "basename": "Houran Venclaw",
+      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
     },
     {
       "basename": "Prenotes Oct 1X 24",
@@ -129,10 +133,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
       "basename": "Knights in Red",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Blurfurmgur",
       "path": "Game Notes/NPCs/Mild Power/Blurfurmgur.md"
-    },
-    {
-      "basename": "Fiction Exposition Broadcast Script",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
     }
   ],
   "omittedPaths": [],

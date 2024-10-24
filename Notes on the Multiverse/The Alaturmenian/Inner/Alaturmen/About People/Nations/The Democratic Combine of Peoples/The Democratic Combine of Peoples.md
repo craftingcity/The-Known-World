@@ -16,7 +16,18 @@ The Barons of the Democratic Combine of Peoples conference often, and form their
 When push comes to shove, the attitude of the Barons turn from competitor to defender - no-one hurts my sibling but me.
 
 ### Notable Factions
+#### Knights in Red
+#### Dampguard
+#### Riphounds
+#### Slimknives
+#### Harvord Trading Company
+#### Beasts Righteous
+#### Grovetenders
+#### Hillkeep Loyalists
+#### Five Pike
+#### Mossburg Enforcers
 
+```
 - The [[Knights in Red]], led by [[Baron Filip]], are a group of well meaning knights that maintain tight control of the [[Huntyr Swamp]]
 - The [[Dampguard]], led by [[Baron Shimmer]], are a rich group of privateers that control much of the [[Alvalini River]] – to the [[Guild of Merchants]]' chagrin.
 - The [[Riphounds]] are a group of ruthless raider-knights led by the "Honorable" [[Baron Glask]] that control the [[Eastlick Mossland]] and have a "calming" rivalry with the [[Ranger's Guild]] that keep their borders.
@@ -27,6 +38,8 @@ When push comes to shove, the attitude of the Barons turn from competitor to def
 - [[Baron Jammu]] and the [[Hillkeep Loyalists]] keep the [[Grumbling Hills]] and the [[Northern Third]].
 - [[Five Pike]] is a group of dedicated healer-guardians of the [[Wetfoot Greenland]]. They are under the political rule of [[Baron J'Tail]], but they are the true force of power in the Wetfoots.
 - The [[Central Third]] is controlled by the [[Baron Vannis]] and his [[Mossburg Enforcers]]. While they are praised in [[Mossburg]], the other holdings of [[Baron Vannis]] are much less pleased with the [[Mossburg Enforcers]]' work.
+```
+
 ## Culture
 #### Heritage
 The People in the Democratic Combine of People are typically Goblin, Human, Triton, or any one else. While there are a lare percentage of these people here, anyone could be found in the Combine, as anyone could find use in the Combine.
