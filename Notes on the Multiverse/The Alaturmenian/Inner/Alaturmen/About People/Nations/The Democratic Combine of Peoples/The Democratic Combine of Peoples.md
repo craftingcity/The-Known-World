@@ -22,8 +22,16 @@ In the wake of the era of the [[Bandit Lords]], the [[Huntyr Swamp]] came to be 
 #### Dampguard
 The Dampguard have been an aquatic authority for most of recorded history. Their businesses were so influential that a young [[Captain Corprian]] came to assault and capture [[Goldfield]] in 038AF, which has operated as the capital city of the Dampguard Territories since.
 
+In recent history, the Dampguard has offered the services of a competitive mercenary company, the [[Deep-Guardian Tactical Security Company]], which has since been incorporated into [[SEASEC]].
+
 #### Riphounds
+The [[Eastlick Mossland]] is a brutal place. The [[Riphounds]] have thrived in this brutality. What was once a series of unrelated and warring townships became a united culture in the manner of might making right. The weak are weeded, if not by nature, than by the hand of an Initiate.
+
+The Riphounds make a significant portion of the manpower employed by [[SEASEC]], and have since received reciprocity in the form of improved national security.
+
 #### Slimknives
+The Slimknives are rouges, schemers, and power-brokers. Rumored to be the remnants of the [[Bandit Lords]], they are the hand in the shadows who pulls the strings of their quarter of the world. The Slimknives rule the [[Westlick Mossland]] through a series of disconnected front companies, violent takeover, and simple extortion, and have since expanded their information networks and public relations in the form of the South East Alliance Security Company (aka [[SEASEC]], or The Company).
+
 #### Harvord Trading Company
 #### Beasts Righteous
 #### Grovetenders
