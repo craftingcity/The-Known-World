@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3bcd3147fdcae3",
+        "id": "29b1b35f62db6ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "16ffc628ccea56c3",
+            "id": "6d70a34cffcc85c5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,15 +22,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Campaigns.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Campaigns"
+              "title": "The Church of the White Flame"
+            }
+          },
+          {
+            "id": "a120a54804d9e08d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Heritages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,8 +303,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "16ffc628ccea56c3",
+  "active": "a120a54804d9e08d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
+    "Game Notes/Campaigns.md",
     "Boris Farrinik.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
@@ -289,7 +316,6 @@
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Ginger Ak-kizi.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Scrivin Clan.md",
     "Prenotes Oct 1X 24.md",
     "Hurraquk Clan.md",
@@ -305,8 +331,6 @@
     "Game Notes/Prenotes/'24/Prenotes Oct 1X 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Elemental Planes.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",

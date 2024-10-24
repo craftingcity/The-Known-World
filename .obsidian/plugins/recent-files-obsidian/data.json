@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
+    },
+    {
       "basename": "Campaigns",
       "path": "Game Notes/Campaigns.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
     {
       "basename": "Non-Nation Entities",
@@ -191,10 +199,6 @@
     {
       "basename": "Minyostalman Artifacts; A Theory",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Minyostalman Artifacts; A Theory.md"
-    },
-    {
-      "basename": "Blurfurmgur",
-      "path": "Game Notes/NPCs/Mild Power/Blurfurmgur.md"
     }
   ],
   "omittedPaths": [],
