@@ -5,12 +5,22 @@ aliases:
 
 # Magical Items by Era
 ### Prehistorical c.000AF
-#### Faerie Imports
 #### Druidic Relics
-### Rule of the Bandit Lords
-### Post Great Fires
-### Rule of the Coalition
-### Northern Conflicts
+#### Draconic Gifts
+#### Elven Exports
+### Rule of the Bandit Lords c.020AF
+#### Bandit Crafts
+### Post Great Fires c.050AF
+#### Relics of the U
+#### Divine Favors
+#### Relics of the Grey Ordeal
+### Rule of the Coalition c.080AF
+#### Arcane Exports
+#### Relics of Kakurak's Chosen
+#### Relics of The Hatdroppers
+#### Relics of The Shikago Bulls
+### Northern Conflicts c.105AF
+#### Relics of Wartime
 
 # Crafted Items
 ## Armor
