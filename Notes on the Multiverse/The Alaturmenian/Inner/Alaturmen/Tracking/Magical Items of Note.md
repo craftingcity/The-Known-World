@@ -3,6 +3,15 @@ tags: bookkeeping, loreful
 aliases:
 ---
 
+# Magical Items by Era
+### Prehistorical c.000AF
+#### Faerie Imports
+#### Druidic Relics
+### Rule of the Bandit Lords
+### Post Great Fires
+### Rule of the Coalition
+### Northern Conflicts
+
 # Crafted Items
 ## Armor
 - The White Cloak of Waywalket Turring
