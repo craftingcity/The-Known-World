@@ -4,6 +4,7 @@ tags:
 aliases:
 ---
 # Janice Austra
+## The Righteous Warrior
 ## Hero of [[Janesland]]
 ## First Saint of the [[Order of Arthurian Saints]]
 ### she/her

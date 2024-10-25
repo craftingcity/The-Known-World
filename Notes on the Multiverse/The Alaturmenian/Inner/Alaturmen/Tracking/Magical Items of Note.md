@@ -25,11 +25,26 @@ aliases:
 ###### Dawnpike
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
-#### Crafts 
+###### The Ring of False Wishes
+###### The Token of Indestructability
+###### The Necklace of Compulsion
+###### The Mask of the Fallen Jester
+###### The Axe of the Berserker
+###### The Compalati
+#### Crafts of Dwarvenkind
+###### Mithril
+###### Darksteel
+###### Void-tie Chains
+###### Adjust Bronze
+###### Durandurm
 ### Post Great Fires c.050AF
 #### Relics of the Unification
 ###### Ring of the Undying King
 ###### Magni Liberatoris Nostri Temporis
+###### Staff of the War-Wizard
+###### Blade of the Righteous Warrior
+###### Platemail of the Righteous Warrior
+###### Bow of the 
 #### Favors of the Divine
 ###### Bright Symbol of Ar'Kraven
 ###### The Atlas of Yamisch
