@@ -74,6 +74,7 @@ aliases:
 ###### Amulet of the Closed Mind
 ###### Stone Totem of the Heratic
 #### Council Mages' Arcane Possessions
+###### 
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
 
