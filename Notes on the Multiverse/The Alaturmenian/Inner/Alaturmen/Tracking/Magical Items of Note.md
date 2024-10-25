@@ -6,31 +6,35 @@ aliases:
 # Magical Items by Era
 ### Prehistorical c.000AF
 #### Artifacts of Planar Conception
-##### The Worldbindings
+In the wake of the Titanic battle between [[Tetrimoc]] & [[All-Father Annam]], Alaturmen and these Artifacts were made...
+
+###### The Worldbindings
 #### Relics of the Druids
-##### Inception
+###### Inception
 #### Gifts of the Dragons
 #### Exports of the Elven Empire
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
 ### Post Great Fires c.050AF
 #### Relics of the Unification
-##### Ring of the Undying King
-##### Magni Liberatoris Nostri Temporis
+###### Ring of the Undying King
+###### Magni Liberatoris Nostri Temporis
 #### Favors of the Divine
+###### Bright Symbol of Ar'Kraven
+###### The Atlas of Yamisch
 #### Relics of the Grey Ordeal
-##### Turing's White Cloak
-##### Tubric's Gleeming Platemail
-##### Tubric's 'The Tuber'
-##### Greystone's Long Arm
-##### The Bag of Many Rooms
+###### Turing's White Cloak
+###### Tubric's Gleeming Platemail
+###### Tubric's 'The Tuber'
+###### Greystone's Long Arm
+###### The Bag of Many Rooms
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
 #### Relics of Kakurak's Chosen
 #### Relics of The Hatdroppers
 #### Relics of The Shikago Bulls
-##### Amulet of the Closed Mind
-##### Stone Totem of the Heratic
+###### Amulet of the Closed Mind
+###### Stone Totem of the Heratic
 #### Council Mages' Arcane Possessions
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
