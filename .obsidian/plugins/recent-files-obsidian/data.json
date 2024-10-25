@@ -5,8 +5,24 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
+    },
+    {
+      "basename": "Kakurak's Lair",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
+    },
+    {
+      "basename": "On Peoples Involved with Arthur Simonson",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -21,20 +37,12 @@
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
-      "basename": "On Peoples Involved with Arthur Simonson",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md"
-    },
-    {
       "basename": "Janice Austra",
       "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md"
     },
     {
       "basename": "Guraxlog",
       "path": "Game Notes/NPCs/zDeceased/Guraxlog.md"
-    },
-    {
-      "basename": "Kakurak's Lair",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
     },
     {
       "basename": "Arthur's Knights",
@@ -191,14 +199,6 @@
     {
       "basename": "SEASEC",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md"
-    },
-    {
-      "basename": "Prenotes Sept 24 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Sept 24 24.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     }
   ],
   "omittedPaths": [],

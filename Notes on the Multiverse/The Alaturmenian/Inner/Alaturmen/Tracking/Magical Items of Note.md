@@ -53,13 +53,18 @@ aliases:
 ###### Sophian Locket
 ###### Frerician Ring
 ###### Lace Mask of the Plague Bearer
-###### 
+###### The Ring of Sama
 ###### The Atlas of Yamisch
+###### The Helmet of Certi'alikor
+###### The Staff of Burraw
+###### The Lute of Paulo San Tymiq
 #### Relics of the Grey Ordeal
+###### Turing's Tinkering Staff
 ###### Turing's White Cloak
 ###### Tubric's Gleeming Platemail
 ###### Tubric's 'The Tuber'
 ###### Greystone's Long Arm
+###### Greystone's Dodging Shoes
 ###### The Bag of Many Rooms
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
