@@ -44,7 +44,8 @@ aliases:
 ###### Staff of the War-Wizard
 ###### Blade of the Righteous Warrior
 ###### Platemail of the Righteous Warrior
-###### Bow of the 
+###### Bow of the Kind Shooter
+###### The Wartime Reliefs
 #### Favors of the Divine
 ###### Bright Symbol of Ar'Kraven
 ###### The Atlas of Yamisch
