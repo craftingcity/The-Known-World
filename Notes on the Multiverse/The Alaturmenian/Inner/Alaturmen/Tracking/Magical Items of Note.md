@@ -6,15 +6,26 @@ aliases:
 # Magical Items by Era
 ### Prehistorical c.000AF
 #### Artifacts of Planar Conception
-In the wake of the Titanic battle between [[Tetrimoc]] & [[All-Father Annam]], Alaturmen and these Artifacts were made...
-
 ###### The Worldbindings
+###### The Growth Heart
 #### Relics of the Druids
 ###### Inception
+###### Ablation
+###### Litigation
+###### Fixation
+###### Emulation
 #### Gifts of the Dragons
+###### Dragonfang Dagger
+###### Primalloy Scalemail
+###### Bloodrite Tomes
+###### Chaotic Gold
 #### Exports of the Elven Empire
+###### Glimmering Moonbow
+###### Elvenfibre
+###### Dawnpike
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
+#### Crafts 
 ### Post Great Fires c.050AF
 #### Relics of the Unification
 ###### Ring of the Undying King
@@ -130,7 +141,7 @@ Raining Crossbow
 
 # Divine Creation
 ## Artifacts
-- Worldbinding 
+- *Worldbinding* 
 	- > A set of 9 looped iron chains, each simple enough to seem largely mundane, but holding a dire power. Each of these 9 chains when crossed upon itself into a figure-8 will create a stable gate between one of the 9 major-non-material planes and Alaturmen.
 	- The Worldbinding to the [[Plane of Fire]] is held in [[Kakurak]]'s [[Who has a Horde|horde]].
 	- The Worldbinding to the [[Abyss]] is held by [[The Hatdroppers]].
@@ -138,17 +149,17 @@ Raining Crossbow
 
 ## Armor
 ## Weapons
-- Glimmering Moonbow
+- *Glimmering Moonbow*
 	- >
 	- 2d8 piercing + 1d6 radiant, free +0 ammo, 1x charge per dawn, max 1
 	- As an action, you may spend a charge. When you do, you enter the etherial plane until the beginning of your next turn.
 
 ## Wonderous Items
-- [[The Holy Atlas of Yamisch]]
+- *[[The Holy Atlas of Yamisch]]*
 	- > A prophetic atlas of Alaturmen. Author unknown, but the divinally inclined believe this item to be a work of Yamasch.
 	- Currently in Temple Yamasch in [[Aeberu]]
 
-- Ar'Kraven's Bright Symbol
+- *Ar'Kraven's Bright Symbol*
 	- > A black-steel vulture on a thin chain. It feels cold against your skin.
 	- Divine spellcasting implement +1, or if you worship Ar'Kraven, and are in good theocratic standing, +2.
 	- Currently possessed by [[Nala]] of [[The Hatdroppers]]
