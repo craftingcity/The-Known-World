@@ -9,4 +9,9 @@
 	Entry Description: ...
 ```
 
-#### Threat Levels
+### Entry Number & Name
+Numbered in the order in which the Guild became 
+### Threat Levels
+### Entry Classes
+### Source & Last Known Keeper
+### Entry Descriptions

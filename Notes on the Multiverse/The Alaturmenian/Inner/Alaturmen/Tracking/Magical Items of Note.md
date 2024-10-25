@@ -8,7 +8,13 @@ aliases:
 #### Artifacts of Planar Conception
 ###### The Worldbindings
 ```
-	
+	GME-000 "WORLDBINDINGS"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
 ```
 ###### The Growth Heart
 #### Relics of the Druids
