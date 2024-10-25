@@ -124,7 +124,13 @@
               "icon": "lucide-file",
               "title": "A Grand Notepad"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8a0c8866cfe05139",
+        "type": "tabs",
+        "children": [
           {
             "id": "cb3f54ddc1e8c24e",
             "type": "leaf",
