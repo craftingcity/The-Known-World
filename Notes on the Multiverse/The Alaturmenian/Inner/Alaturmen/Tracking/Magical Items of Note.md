@@ -5,26 +5,39 @@ aliases:
 
 # Magical Items by Era
 ### Prehistorical c.000AF
-#### Druidic Relics
-#### Draconic Gifts
-#### Elven Exports
+#### Artifacts of Planar Conception
+##### The Worldbindings
+#### Relics of the Druids
+##### Inception
+#### Gifts of the Dragons
+#### Exports of the Elven Empire
 ### Rule of the Bandit Lords c.020AF
-#### Bandit Crafts
+#### Crafts of the Bandits
 ### Post Great Fires c.050AF
-#### Relics of the U
-#### Divine Favors
+#### Relics of the Unification
+##### Ring of the Undying King
+##### Magni Liberatoris Nostri Temporis
+#### Favors of the Divine
 #### Relics of the Grey Ordeal
+##### Turing's White Cloak
+##### Tubric's Gleeming Platemail
+##### Tubric's 'The Tuber'
+##### Greystone's Long Arm
+##### The Bag of Many Rooms
 ### Rule of the Coalition c.080AF
-#### Arcane Exports
+#### Exports of Coalition
 #### Relics of Kakurak's Chosen
 #### Relics of The Hatdroppers
 #### Relics of The Shikago Bulls
+##### Amulet of the Closed Mind
+##### Stone Totem of the Heratic
+#### Council Mages' Arcane Possessions
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
 
 # Crafted Items
 ## Armor
-- The White Cloak of Waywalket Turring
+- *The White Cloak of Waywalket Turring *
 	- > A white dragonhide cloak crafted by [[The Old Man]]. 
 	- It provides the attuned a +3 to AC and resistance to cold damage.
 	- While unequipped, the cloak slowly shrinks to fit a small humanoid, but quickly grows or shrinks to fit it's wearer.
@@ -40,7 +53,7 @@ aliases:
 	- This cloak provides the attuned +5' per round to their walking speed.
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
 
-- Tubric's Armor
+- *Tubric's Armor*
 	- Currently located in a [[Guild of Adventurers]] museum
 
 ## Wonderous Items
@@ -48,27 +61,27 @@ aliases:
 	- > A small hourglass that has major chronomantic power. Crafted by the one and only [[Alergra Barrowinch]], with major assistance from [[The Wizard In Blue]].
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
-- Arthur's Ring of Regeneration
+- *Arthur's Ring of Regeneration*
 	- > A simple golden ring that contains a very powerful incantation that grants the attuned regeneration from injury and immunity to age. Crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]].
 	- >> This ring is effectively cursed. Once attuned, it cannot be removed. It provides a minor effect of lethargy during regeneration. Every one hundred years it applies a permanent level of exhaustion.
 	- Currently possessed by [[Arthur Simonson]] of [[The Kingdom of Prosper|Prosper]]
 
-- [[Tubric's Bag of Rooms]]
+- *[[Tubric's Bag of Rooms]]*
 	- > This simple leather purse contains many dozens of door-handles, each of which open into a demi-plane of rooms of particular use. Crafted by [[The Old Man]].
 	- *The rules of navigation for this space is restrictive. One must enter and exit each room individually, during which time, the Bag becomes on the user's person during use.* (See [[Tubric's Bag of Rooms]])
 	- Currently possessed by Jerran, of [[The Hatdroppers]]
 
-- Inception
+- *Inception*
 	- > A palm-sized lens of solid water. Its center seems to slowly churn as you hold it. Crafted by Elder [[]] of the [[Druids of Aquan]]
 	- This gem can hold one charge, which can be spent to cast the Scrying spell. The gem regains it's charge seven days after use.
 	- Currently located in Wheernat, with a high ranking official.
 
-- The Amulet of Closed Mindedness
+- *The Amulet of Closed Mindedness*
 	- > A beautiful silver chain on which rests a silver locket. With minimal force, the locket is opened to reveal a shining black opal. Created by [[Qiell Tilemundon]].
 	- This amulet provides advantage and a +1 bonus on Intelligence Saving Throws to the attuned.
 	- Currently possessed by [[Gringold, Bard of Poor Renown]] of [[Cathouse Game]]
 
-- Heretical Stone
+- *Heretical Stone*
 	- > A dark black sphere of unmarked obsidian. The center seems to dully pulse, but it must be a trick of the light. Created by [[Qiell Tilemundon]].
 	- As an action, you may enable or disable the stone's field. 
 		- This field extends ten feet in every direction around the stone. This field is not visible without magical means of detection.
@@ -77,12 +90,12 @@ aliases:
 	- Currently possessed by [[Shu Ameda]] of [[Cathouse Game]]
 
 ## Weapons
-- Magni Liberatoris Nostri Temporis
+- *Magni Liberatoris Nostri Temporis*
 	- A shining +3 longsword, crafted by [[Guraxlog]] for [[Arthur Simonson]] during the [[Unification]]
 	- This sword is cursed. The attuned emotionally **needs** it to be close at hand at all times.
 	- Currently possessed by [[Arthur Simonson]] of [[The Kingdom of Prosper|Prosper]]
 
-- Greystone's Arm
+- *Greystone's Arm*
 	- A +3 longbow, crafted by [[The Old Man]]
 	- Currently, it's location is unknown
 
@@ -92,7 +105,7 @@ aliases:
 		- As an action, you may expend a charge and cast your choice of the following spells without expending a spell slot: **
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
-- The Tuber
+- *The Tuber*
 	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]], the Tuber has been used to stop Orcus' coming to Alaturmen. Twice.
 	- Currently possessed by [[Breenabelle]] of [[The Hatdroppers]]
 
