@@ -48,6 +48,12 @@ aliases:
 ###### The Wartime Reliefs
 #### Favors of the Divine
 ###### Bright Symbol of Ar'Kraven
+###### The Sunnite Grimoire
+###### Violent Knuclebones
+###### Sophian Locket
+###### Frerician Ring
+###### Lace Mask of the Plague Bearer
+###### 
 ###### The Atlas of Yamisch
 #### Relics of the Grey Ordeal
 ###### Turing's White Cloak
