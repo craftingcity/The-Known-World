@@ -105,8 +105,32 @@
                   "icon": "lucide-file",
                   "title": "Magical Items of Note"
                 }
+              },
+              {
+                "id": "1633719e35880e2c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Gear..."
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "791550740eaa68eb",
@@ -300,7 +324,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Guraxlog",
+                "query": "handblaster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -500,11 +524,61 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "floating": {
+    "id": "1d40b6deb42b702c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ccfab5f724ae960",
+        "type": "window",
+        "children": [
+          {
+            "id": "f902dedc992772f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35cb432df06018a5",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Gear..."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 56,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "35cb432df06018a5",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/NPCs/zDeceased/Guraxlog.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
@@ -526,8 +600,6 @@
     "Sivir Bagwell.md",
     "Boris Farrinik.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Scrivin Clan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Hurraquk Clan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Emorin Clan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
