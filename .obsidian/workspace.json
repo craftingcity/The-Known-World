@@ -313,7 +313,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -463,7 +463,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "active": "b0476f4dd748fe52",
   "lastOpenFiles": [
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "A Grand Notepad.md",
