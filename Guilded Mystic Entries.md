@@ -22,7 +22,7 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
 	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
-	- **FORM** ; The entry is a physical entity with sentience.
+	- **FORM** ; The entry is a physical item or entity deemed blessed with sentience.
 	- **KNACK** ; The entry is a physical item that cannot be worn or carried by or on a person.
 	- **SIGNAL** ; The entry is a non-physical item or entity.
 
@@ -32,6 +32,5 @@ The Source and LKK are the original author and current or last known keeper(s) o
 ### Entry Descriptions
 The Description of the Entry must include the following information about the object of Entry;
 	- a description of containment or LKK
-	- a description of 'first-contact' if information
 	- a description of the object
-	- a description of the object's mystical effects
+	- a description of 'first-contact' if known

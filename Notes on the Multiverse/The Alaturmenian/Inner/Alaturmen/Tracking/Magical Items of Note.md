@@ -14,7 +14,9 @@ aliases:
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
 	Last Known Keeper: see Entry Description.
 
-	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x7.5'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior extends the rods such that the instance is pulled taught.
+	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x7.5'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a crossed, hour-glass shape.
+
+		GME-000 is a set of 9 loops of iron chain
 ```
 ###### The Growth Heart
 #### Relics of the Druids
