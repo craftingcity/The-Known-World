@@ -7,6 +7,37 @@ aliases:
 ### Prehistorical c.000AF
 #### Artifacts of Planar Conception
 ###### The Worldbindings
+```
+	GME-000 "WORLDBINDINGS"
+	Threat Level: ORANGE
+	Entry Class: TRINKET SET
+	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
+	Last Known Keeper: see Entry Description.
+
+	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
+
+		GME-000 is a set of 9 loops of iron chain, each of which is assumedly attuned to one of the nine most distant planes of the universe. The Guild controls of 2 of the total 9 instances of GME-000. While the GME-000 instance is not crossed into a lemniscate, a 'figure eight' or 'hourglass' shape, the instance is non-active, and will act as assumed. If the instance is crossed into a lemniscate, it becomes active, and creates a pair of Type-4 Planar Gates of the attuned plane in the circular sections of the leminscate.
+
+		Descriptions of the instances are named GME-000-1 through -9, and are described as follows;
+		
+		- GME-000-1 is an identical instance to the others, excepting it is attuned to 'The Plane of Earth', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-2 is an identical instance to the others, excepting it is attuned to 'The Plane of Fire', and when activated will begin to steam and smoke as they heat to a white hot, and display the sight of a brass plated room, decorated as a grand entrance hall for a humanoid creature at least 12' tall, as indicated by the visible doors and distorted magnification of the circlular pairs of the instance. GME-000-2 was delivered to the Guild by 'Marcus, the Partnered' on behalf of Kakurak at Containment Conference 000, alongside it's history with Kakurak's Chosen.
+
+		- GME-000-3 is an identical instance to the others, excepting it is attuned to 'The Plane of Air', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-4 is an identical instance to the others, excepting it is attuned to 'The Plane of Water', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-5 is an identical instance to the others, excepting it is attuned to 'Mechanis', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-6 is an identical instance to the others, excepting it is attuned to 'The Abyss', and when activated will emit a dark putrid fog, and display the sight of a huge stone-brick bridge. The fog is toxic, and will cause significant internal damage. GME-000-6 was delivered to the Guild by 'the Hatdroppers' at Containment Conference 000.
+
+		- GME-000-7 is an identical instance to the others, excepting it is attuned to 'Baator', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-8 is an identical instance to the others, excepting it is attuned to 'Elysium', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+
+		- GME-000-9 is an identical instance to the others, excepting it is attuned to 'Limbo', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+```
 ###### The Growth Heart
 #### Relics of the Druids
 ###### Inception
@@ -36,6 +67,7 @@ aliases:
 ###### Darksteel
 ###### Void-tie Chains
 ###### Adjust Bronze
+###### Gunpowder
 ###### Durandurm
 ### Post Great Fires c.050AF
 #### Relics of the Unification
@@ -62,7 +94,7 @@ aliases:
 ###### Turing's Tinkering Staff
 ###### Turing's White Cloak
 ###### Tubric's Gleeming Platemail
-###### Tubric's 'The Tuber'
+###### Tubric's 'The Tuber' Greathammer
 ###### Greystone's Long Arm
 ###### Greystone's Dodging Shoes
 ###### The Bag of Many Rooms
@@ -70,11 +102,17 @@ aliases:
 #### Exports of Coalition
 #### Relics of Kakurak's Chosen
 #### Relics of The Hatdroppers
+###### Prismatic Crossbow
+###### Righteous Bolts of Fury
 #### Relics of The Shikago Bulls
 ###### Amulet of the Closed Mind
 ###### Stone Totem of the Heratic
+###### Dank Robe of Fluidity
+###### Trophied Tail of a Horrible Beast
 #### Council Mages' Arcane Possessions
-###### 
+###### Alergra's Cloak of Diversion
+###### Alergra's Pinksand Hourglass
+###### Alergra's Staff of Evocation
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
 
@@ -86,12 +124,12 @@ aliases:
 	- While unequipped, the cloak slowly shrinks to fit a small humanoid, but quickly grows or shrinks to fit it's wearer.
 	- Currently possessed by [[Varis]] of [[Kakurak's Chosen]]
 
-- Alergra's Cloak of Diversion
+- *Alergra's Cloak of Diversion*
 	- > A red robe that slowly shimmers in the light like a dancing fire. Crafted by Alergra herself.
 	- Alergra's cloak provides a +1 to AC and creates duplicates of the attuned according to the *mirror image* spell.
 	- Currently possessed by [[Breenabelle]] of the [[The Hatdroppers]]
 
-- Highest Form of Flattery
+- *Highest Form of Flattery*
 	- > A simple grey robe. Impressively, wearing it feels like you are wearing a second skin. Crafted by [[Qiell Tilemundon]].
 	- This cloak provides the attuned +5' per round to their walking speed.
 	- In addition, when the attuned spends a ki point, they may roll a d6. If the result is a 5 or 6, they regain a ki point.
@@ -100,7 +138,7 @@ aliases:
 	- Currently located in a [[Guild of Adventurers]] museum
 
 ## Wonderous Items
-- The Quick Time
+- *The Quick Time*
 	- > A small hourglass that has major chronomantic power. Crafted by the one and only [[Alergra Barrowinch]], with major assistance from [[The Wizard In Blue]].
 	- Currently possessed by [[Alergra Barrowinch]] of the [[Guild of Wizards]]
 
@@ -142,7 +180,7 @@ aliases:
 	- A +3 longbow, crafted by [[The Old Man]]
 	- Currently, it's location is unknown
 
-- Alergra's Staff of Power
+- *Alergra's Staff of Power*
 	- Alergra's own Staff of Power, created by her and enchanted with her most common spells. It holds up to 12 charges. 
 		- As an action, you may expend a second level spell slot to regain one charge, a fourth level spell slot to regain 2 charges, or a sixth level spell slot to regain 3 charges.
 		- As an action, you may expend a charge and cast your choice of the following spells without expending a spell slot: **
@@ -152,17 +190,17 @@ aliases:
 	- A massive dwarven hammer, created by [[The Old Man]] and [[Tubric Millstone Wrinsmith]], the Tuber has been used to stop Orcus' coming to Alaturmen. Twice.
 	- Currently possessed by [[Breenabelle]] of [[The Hatdroppers]]
 
-- A Trophied Tail of a Horrible Beast
+- *A Trophied Tail of a Horrible Beast*
 	- > A ten-foot long black tail pointed into a sharp pointed barb at the end, the upper half of this terrifying spear is covered in small black needles. Two sections of the lower half have been carved away to fit a pair of gauntleted hands snugly in their grips. Enchanted by [[Qiell Tilemundon]].
 	- This is a +2 spear. It has a 10' reach. If this weapon would be used to deal a type of damage other than necrotic, you may have it deal necrotic damage instead.
 	- Currently possessed by the Chicago Bulls of [[Cathouse Game#Millie-Side]]
 
-- Bolts of Righteous Fury
+- *Bolts of Righteous Fury*
 	- > A bundle of fine bronze bolts gleaming with radiant energy.
 	- The Bolts of Righteous Fury are a +2 ammunition that deals radiant damage.
 	- Currently possessed by [[Breenabelle]] of [[The Hatdroppers]]
 
-Raining Crossbow
+- *Raining Crossbow*
 	- > A brilliant colorful rainbow of wood and metal, this crossbow is covered in gems.
 	- A +3 crossbow.
 	- 8 charges, recharge 1 for 100sp in gem-dust. spend a charge for +3d4 of any element.

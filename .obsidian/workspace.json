@@ -101,9 +101,15 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9f23d7a154f2279b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7ccc3dfd59b689c5",
+            "id": "3caccf1b93889c01",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,20 +123,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Guilded Mystic Entries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
+              "title": "Guilded Mystic Entries"
             }
           },
           {
-            "id": "cb3f54ddc1e8c24e",
+            "id": "fb6881514266889a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Planes of Existence"
+            }
+          },
+          {
+            "id": "c0e258c7e8fbcf55",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "APGtAv1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"APGtAv1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"APGtAv1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":685,\"ch\":133},\"to\":{\"line\":685,\"ch\":133}},\"scroll\":677.041117678388}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -465,9 +500,13 @@
   },
   "active": "b0476f4dd748fe52",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "A Grand Notepad.md",
+    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+    "A Grand Notepad.md",
+    "Delta 3 Mercenary Squad.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "APGtAv1.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md",
@@ -488,9 +527,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
