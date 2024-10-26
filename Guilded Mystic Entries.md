@@ -40,3 +40,4 @@ The Description of the Entry must include the following information about the ob
 - A *Vault* is a safe and hidden site at which Items of Note are Kept.
 	- *Vault 0* is a Guild operated site deep below Coalition City.
 	- *Vault 3* is the Lair of the Brass Dragon, Kakurak.
+- A *Containment Conference* is a date and location at which the Guild gained control of a given entry.
