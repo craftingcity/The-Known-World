@@ -1,4 +1,4 @@
-## Guide
+## Entry Guide
 ```
 	GME-XXX "Item or Entity Name"
 	Threat Level: COLOR
@@ -19,6 +19,7 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 	- **PURPLE** ; The entry displays potential harmful effects on an individual scale.
 	- **RED** ; The entry displays potential harmful effects on a wide scale.
 	- **ORANGE** ; The entry displays potential harmful effects on a planar scale.
+	- White, Grey, and Blue threats are in *Cold Group*, while Purple, Red, and Orange threats are in *Warm Group*.
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
 	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
@@ -34,3 +35,6 @@ The Description of the Entry must include the following information about the ob
 	- a description of containment or LKK
 	- a description of the object
 	- a description of 'first-contact' if known
+
+## Entry Glossaries
+- A *Vault* is a safe and hidden site at which 

@@ -14,9 +14,9 @@ aliases:
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
 	Last Known Keeper: see Entry Description.
 
-	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x7.5'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a crossed, hour-glass shape.
+	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x7.5'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
 
-		GME-000 is a set of 9 loops of iron chain
+		GME-000 is a set of 9 loops of iron chain, each of which is attuned to one of the nine other planes of the universe. The Guild knows of 3 of the total 9 instances of GME-000. While the GME-000 instance is not crossed into a lemniscate, a 'figure eight' or 'hourglass' shape, the instance is non-active. If the instance is crossed into a lemniscate, it becomes active, and creates a Type-4 Planar Gate 
 ```
 ###### The Growth Heart
 #### Relics of the Druids
