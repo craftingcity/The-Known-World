@@ -10,7 +10,7 @@ The **Delta 3** squadron is a tightknit cohort of mercenaries employed by [[SEAS
 
 ##### DELTA-3-1 'Bubbles'
 ##### DELTA-3-2 'Screw'
-##### DELTA-3-1 'Astro'
-##### DELTA-3-1 'Dom'
-##### DELTA-3-1 'Locus'
-##### DELTA-3-1 'Bubbles'
+##### DELTA-3-3 'Astro'
+##### DELTA-3-4 'Dom'
+##### DELTA-3-5 'Locus'
+##### DELTA-3-6 'Ash'
