@@ -21,12 +21,17 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 	- **ORANGE** ; The entry displays potential harmful effects on a planar scale.
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
-	- **ARM** ; The entry is a physical item that can be carried or worn by or on a person.
+	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
 	- **FORM** ; The entry is a physical entity with sentience.
-	- **HEART** ; The entry is a physical item that cannot be worn or carried by or on a person.
-	- **IDEO** ; The entry is a non-physical item or entity.
+	- **KNACK** ; The entry is a physical item that cannot be worn or carried by or on a person.
+	- **SIGNAL** ; The entry is a non-physical item or entity.
 
 ### Source & Last Known Keeper
-The Source and LKK are the original author and current or last known keeper(s) of the entry.
+The Source and LKK are the original author and current or last known keeper(s) of the entry. If the author or keeper is unknown or non-applicable, that information will be indicated.
 
 ### Entry Descriptions
+The Description of the Entry must include the following information about the object of Entry;
+	- a description of containment or LKK
+	- a description of 'first-contact' if information
+	- a description of the object
+	- a description of the object's mystical effects
