@@ -101,8 +101,38 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
+          },
+          {
+            "id": "f56ca6f4ec9ec2e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":208,\"ch\":0},\"to\":{\"line\":208,\"ch\":0}},\"scroll\":140.69018662778672}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Old"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9f23d7a154f2279b",
@@ -250,6 +280,29 @@
             }
           },
           {
+            "id": "8dc4f06268fdbd25",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORGANIZATION/TEMPLATES/Holdings.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Holdings"
+            }
+          },
+          {
             "id": "81927bce67426450",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -269,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -318,7 +371,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entry",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -518,12 +571,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "active": "f56ca6f4ec9ec2e6",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Holdings.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Guilded Mystic Entries.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
-    "A Grand Notepad.md",
     "Delta 3 Mercenary Squad.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -545,8 +600,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
