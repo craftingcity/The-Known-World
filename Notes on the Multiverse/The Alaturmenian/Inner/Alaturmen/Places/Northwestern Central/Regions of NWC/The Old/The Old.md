@@ -25,7 +25,11 @@ Minyostalma is a collective name for the villages and townships that surround th
 The Ruins to the west and north of the central city are the most picked over, as scavengers have frequented the area for dozens of years at this point. As you come closer and closer to the central Temple structure in the walled city-proper, the more dangerous the scavenging becomes, and even the most prepared scavengers do not spend long inside The Old.
 
 ### Background
-The common name for The Old - Minyostalma - translates into 'the first city' or 'the important place', as it was to be both the most important and the first of many cities in the sweeping elven empire. This would never come to pass. When the first elves came to Alaturmen, those who came to make Minyostalma an honorable attempt at an empire came with made plans. 
+The common name for The Old - Minyostalma - translates into 'the first city' or 'the important place', as it was to be both the most important and the first of many cities in the sweeping elven empire. This would never come to pass. 
+
+When the first elves came to Alaturmen, those who came to make Minyostalma an honorable attempt at an empire came with informed plans on agriculture, engineering, and the spectrum of sciences - but the particular area of interest that caused the troubles here is applied nuclear physics. Curious sorcerers do not mix well with radioactive technologies. A thrice stated rule willfully ignored, an unknown person cast an overachieving *identify* and caused an 
+
+
 
 
 %% Begin Waypoint %%
