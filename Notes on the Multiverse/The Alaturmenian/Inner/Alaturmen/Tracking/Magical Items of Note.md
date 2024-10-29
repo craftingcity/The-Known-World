@@ -38,66 +38,493 @@ aliases:
 
 		- GME-000-9 is an identical instance to the others, excepting it is attuned to 'Limbo', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 ```
+
 ###### The Growth Heart
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 #### Relics of the Druids
 ###### Inception
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Ablation
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Litigation
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Fixation
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Emulation
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 #### Gifts of the Dragons
 ###### Dragonfang Dagger
+
 ###### Primalloy Scalemail
+
 ###### Bloodrite Tomes
+
 ###### Chaotic Gold
+
 #### Exports of the Elven Empire
 ###### Glimmering Moonbow
+
 ###### Elvenfibre
-###### Dawnpike
+
+###### Dawnblade
+
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
 ###### The Ring of False Wishes
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Token of Indestructability
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Necklace of Compulsion
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Mask of the Fallen Jester
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Axe of the Berserker
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Compalati
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 #### Crafts of Dwarvenkind
 ###### Mithril
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Darksteel
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Void-tie Chains
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Adjust Bronze
-###### Gunpowder
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
+###### Firepowder
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Durandurm
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ### Post Great Fires c.050AF
 #### Relics of the Unification
 ###### Ring of the Undying King
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Magni Liberatoris Nostri Temporis
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Staff of the War-Wizard
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Blade of the Righteous Warrior
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Platemail of the Righteous Warrior
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Bow of the Kind Shooter
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Wartime Reliefs
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 #### Favors of the Divine
 ###### Bright Symbol of Ar'Kraven
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Sunnite Grimoire
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Violent Knuclebones
-###### Sophian Locket
-###### Frerician Ring
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
+###### Sophian Locket & Frerician Ring
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Lace Mask of the Plague Bearer
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Ring of Sama
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Atlas of Yamisch
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Helmet of Certi'alikor
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Staff of Burraw
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Lute of Paulo San Tymiq
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 #### Relics of the Grey Ordeal
 ###### Turing's Tinkering Staff
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Turing's White Cloak
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Tubric's Gleeming Platemail
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Tubric's 'The Tuber' Greathammer
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Greystone's Long Arm
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Greystone's Dodging Shoes
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### The Bag of Many Rooms
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+==$==
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
 #### Relics of Kakurak's Chosen

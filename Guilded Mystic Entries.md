@@ -1,4 +1,5 @@
 ## Entry Guide
+
 ```
 	GME-XXX "Item or Entity Name"
 	Threat Level: COLOR
@@ -8,6 +9,7 @@
 
 	Entry Description: ...
 ```
+
 
 ### Entry Number & Name
 Entries are numbered in the order of their discovery, and are generally given names by their authors or communities.
@@ -19,7 +21,7 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 	- **PURPLE** ; The entry displays potential harmful effects on an individual scale.
 	- **RED** ; The entry displays potential harmful effects on a wide scale.
 	- **ORANGE** ; The entry displays potential harmful effects on a planar scale.
-	- White, Grey, and Blue threats are in *Cold Group*, while Purple, Red, and Orange threats are in *Warm Group*.
+		- White, Grey, and Blue threats are in *Cold Group*, while Purple, Red, and Orange threats are in *Warm Group*.
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
 	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
