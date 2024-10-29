@@ -26,6 +26,7 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
 	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
+	- **MATERIAL** ; The entry is a physical material from which many items can be created.
 	- **FORM** ; The entry is a physical item or entity deemed blessed with sentience.
 	- **KNACK** ; The entry is a physical item that cannot be worn or carried by or on a person.
 	- **SIGNAL** ; The entry is a non-physical item or entity.

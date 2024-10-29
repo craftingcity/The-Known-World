@@ -113,29 +113,29 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET SET
 	Source: Ty'kyta
-	Last Known Keeper: KEEPER
+	Last Known Keeper: See Entry Desciption.
 
 	Entry Description: ...
 ```
 
 ###### Primalloy Scalemail
 ```
-	GME-013 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-013 "PRIMALLOY SCALEMAIL"
+	Threat Level: WHITE
+	Entry Class: TRINKET
+	Source: Fyu-Friew
+	Last Known Keeper: Quartermaster, Vault 0.
 
 	Entry Description: ...
 ```
 
 ###### Bloodrite Tomes
 ```
-	GME-011 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-011 "BLOODRITE TOMES"
+	Threat Level: BLUE
+	Entry Class: TRINKET
+	Source: Malkain
+	Last Known Keeper: Quartermaster, Vault 0.
 
 	Entry Description: ...
 ```
@@ -143,10 +143,10 @@ aliases:
 ###### Chaotic Gold
 ```
 	GME-010 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Threat Level: PURPLE
+	Entry Class: MATERIAL
+	Source: Luzikiemal
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
