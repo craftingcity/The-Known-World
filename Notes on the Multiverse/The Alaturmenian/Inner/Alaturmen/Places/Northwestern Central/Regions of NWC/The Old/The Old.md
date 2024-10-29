@@ -31,10 +31,8 @@ When the first elves came to Alaturmen, those who came to make Minyostalma an ho
 
 The results of this were, as stated, cataclysmic - but the [[Great Fires]] and the [[Its Greatness|White Flame]] began in obsessive curiosity, and too shall they be ended. Radioactivity is where focused magic becomes drastically unpredictable, and the effects present in Minyostalma today are the results of attempting to brute force knowledge. The secrets of the Ancient Empire come slowly to the explorers of today.
 
-#### Faerun 
-
-
-
+#### Faerun Radiothermal Generator
+The 'faerun radiothermal generator' is a mechanical device that uses a small radioactive element to heat water into steam, where a turbine turns that steam into energy for a given system. The FRG was so common in the second decade that it graduated beyond military application and into simple civil life - it replaced the more common (and more easily understood) wood or coal fire as the source of choice for Minyostalma's energy.
 
 %% Begin Waypoint %%
 - [[The Artifacts...]]

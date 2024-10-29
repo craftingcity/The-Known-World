@@ -12,7 +12,7 @@ aliases:
 	Threat Level: ORANGE
 	Entry Class: TRINKET SET
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
-	Last Known Keeper: see Entry Description.
+	Last Known Keeper: See Entry Description.
 
 	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
 
@@ -22,7 +22,7 @@ aliases:
 		
 		- GME-000-1 is an identical instance to the others, excepting it is attuned to 'The Plane of Earth', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
-		- GME-000-2 is an identical instance to the others, excepting it is attuned to 'The Plane of Fire', and when activated will begin to steam and smoke as they heat to a white hot, and display the sight of a brass plated room, decorated as a grand entrance hall for a humanoid creature at least 12' tall, as indicated by the visible doors and distorted magnification of the circlular pairs of the instance. GME-000-2 was delivered to the Guild by 'Marcus, the Partnered' on behalf of Kakurak at Containment Conference 000, alongside it's history with Kakurak's Chosen.
+		- GME-000-2 is an identical instance to the others, excepting it is attuned to 'The Plane of Fire', and when activated will begin to steam and smoke as they heat to a white hot, requiring specialized disentanglement. The image visible is of a brass plated room seeming decorated as a grand entrance hall for a humanoid creature at least 12' tall, as indicated by the visible doors and distorted magnification of the circlular pairs of the instance. GME-000-2 was delivered to the Guild by 'Marcus, the Partnered' on behalf of Kakurak at Containment Conference 000, alongside it's history with Kakurak's Chosen.
 
 		- GME-000-3 is an identical instance to the others, excepting it is attuned to 'The Plane of Air', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
@@ -41,11 +41,11 @@ aliases:
 
 ###### The Growth Heart
 ```
-	GME-XXX "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-00X "GROWTH-HEART"
+	Threat Level: WHITE
+	Entry Class: KNACK
+	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -164,8 +164,38 @@ aliases:
 ```
 
 ###### Elvenfibre
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ###### Dawnblade
-###### 
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
+###### Faerun Radiothermal Generator
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
 ###### The Ring of False Wishes
