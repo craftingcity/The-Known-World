@@ -45,4 +45,8 @@ The Description of the Entry must include the following information about the ob
 	- *Vault 0* is a Guild operated site deep below Coalition City.
 	- *Vault 3* is the Lair of the Brass Dragon, Kakurak.
 - A *Containment Conference* is a date and location at which the Guild gained control of a given entry.
-- The Planar Gate Types are as follows;
+- The *Planar Gate Types* are as follows;
+	- Type-1 Planar Gates are temporary 
+	- Type-2 Planar Gates 
+	- Type-3 Planar Gates 
+	- Type-4 Planar Gates 

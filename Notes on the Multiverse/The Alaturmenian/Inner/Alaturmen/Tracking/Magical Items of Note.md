@@ -598,7 +598,7 @@ aliases:
 
 	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is currently uncontained, and being used as a extraplanar base of operations by Jerran, of the Hatdroppers. Information suggests his current pattern of use is an effective method of meta-containment.
 
-	GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-3 Planar Gate
+	GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-3 Planar Gate in the bag contains an unknown number of door-handles of different shapes and sizes, each of which will, when pulled or pushed to open, will become a Type-2 Planar Gate. The interior of the bag appears empty, but manipulation of its contents indicates otherwise. GME-001 contains an unknown number of door-handles of different shapes and sizes, each of which will, when pulled or pushed to open, shift the person manipulating the handle and any items or persons physically connected to them (with a degree or range?) into 
 ```
 ==$==
 ### Rule of the Coalition c.080AF
