@@ -108,20 +108,64 @@ aliases:
 
 #### Gifts of the Dragons
 ###### Dragonfang Dagger
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
 
 ###### Primalloy Scalemail
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
 
 ###### Bloodrite Tomes
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
 
 ###### Chaotic Gold
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
 
 #### Exports of the Elven Empire
 ###### Glimmering Moonbow
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
 
 ###### Elvenfibre
-
 ###### Dawnblade
-
+###### 
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
 ###### The Ring of False Wishes
