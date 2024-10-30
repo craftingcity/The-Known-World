@@ -542,6 +542,8 @@ aliases:
 	Last Known Keeper: Kakurak
 
 	Entry Description: GME-002 is stored on a hanging rack within Vault 3.
+
+		GME-002 is a small white-dragonhide cloak with a sapphire clasp. While worn, GME-002 provides the user with a personal atmosphere 
 ```
 
 ###### Tubric's Gleeming Platemail
@@ -598,9 +600,9 @@ aliases:
 
 	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is currently uncontained, and being used as a extraplanar base of operations by Jerran, of the Hatdroppers. Information suggests his current pattern of use is an effective method of meta-containment, and he is located somewhere in the eastern Illburn Forest.
 
-	GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-2 Planar Gate in the bag, containing an unknown number of door-handles of different shapes and sizes, GME-001-X. When pulled or pushed to open, a GME-001-X will act as its own Type-2 Planar Gate, pointed at a particular Consistent Extraplanar Instance. Once GME-001-X has been activated, GME-001 ceases to physically exist until that GME-001-X is activated again. This particular feature of GME-001 presents the hazardous possibility of any number of users being left stranded in GME-001-X CEIs where they cannot naturally survive.
+		GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-2 Planar Gate in the bag, containing an unknown number of door-handles of different shapes and sizes, GME-001-X. When pulled or pushed to open, a GME-001-X will act as its own Type-2 Planar Gate, pointed at a particular Consistent Extraplanar Instance. Once GME-001-X has been activated, GME-001 ceases to physically exist until that GME-001-X is activated again. This particular feature of GME-001 presents the hazardous possibility of any number of users being left stranded in GME-001-X CEIs where they cannot naturally survive.
 
-	GME-001 has been, to our knowledge, the host of exactly two adventuring parties to date, those being first the Grey Ordeal, and second the Hatdroppers. In both the parties' time with GME-001, they have made additions to the assosiated CEIs in such a manner that they together act as a mobile base of operations, including a barracks, a kitchen, a storage room, a garden, an alchemistry labratory, a tinker's workshop, a prison, and a spa.
+		GME-001 has been, to our knowledge, the host of exactly two adventuring parties to date, those being first the Grey Ordeal, and second the Hatdroppers. In both the parties' time with GME-001, they have made additions to the assosiated CEIs in such a manner that they together act as a mobile base of operations, including a barracks, a kitchen, a storage room, a garden, an alchemistry labratory, a tinker's workshop, a prison, and a spa.
 ```
 
 ==$==
