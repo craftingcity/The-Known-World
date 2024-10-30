@@ -341,7 +341,7 @@ aliases:
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Arthur Simonson
 
-	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square cloth bag, which then is to be 
+	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is currently uncontained, and is being used by it's current Keeper.
 ```
 
 ###### Magni Liberatoris Nostri Temporis
