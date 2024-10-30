@@ -479,9 +479,9 @@ aliases:
 
 ###### The Atlas of Yamisch
 ```
-	GME-003 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	GME-003 "ATLAS OF YAMISCH"
+	Threat Level: WHITE
+	Entry Class: TRINKET
 	Source: AUTHOR
 	Last Known Keeper: KEEPER
 
@@ -543,7 +543,7 @@ aliases:
 
 	Entry Description: GME-002 is stored on a hanging rack within Vault 3.
 
-		GME-002 is a small white-dragonhide cloak with a sapphire clasp. While worn, GME-002 provides the user with a personal atmosphere 
+		GME-002 is a small white-dragonhide cloak with a sapphire clasp. While worn, GME-002 provides the user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
 ```
 
 ###### Tubric's Gleeming Platemail
