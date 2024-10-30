@@ -14,7 +14,7 @@ aliases:
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
 	Last Known Keeper: See Entry Description.
 
-	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
+	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells, and must change monthly - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
 
 		GME-000 is a set of 9 identical 16' loops of iron chain, each of which is *assumedly* attuned to one of the nine most distant planes of the universe. The Guild controls of 2 of the total 9 instances of GME-000. While the GME-000 instance is not crossed into a lemniscate, a 'figure eight' or 'hourglass' shape, the instance is non-active, and will act as assumed. If the instance is crossed into a lemniscate, it becomes active, and creates a pair of Type-4 Planar Gates of the attuned plane in the circular sections of the leminscate.
 
@@ -482,10 +482,12 @@ aliases:
 	GME-003 "ATLAS OF YAMISCH"
 	Threat Level: WHITE
 	Entry Class: TRINKET
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Source: Yamisch
+	Last Known Keeper: Quartermaster, Vault 0.
 
-	Entry Description: ...
+	Entry Description: GME-003 is stored within Vault 0's Cold Storage sector, in Lounge 3's open bookshelf.
+
+		GME-003 is a large atlas bound in a furred green hide containing over a thousand pages. Each of 
 ```
 
 ###### The Helmet of Certi'alikor
