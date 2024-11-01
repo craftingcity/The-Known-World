@@ -343,7 +343,7 @@ aliases:
 
 	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-003 is a thick, flat ring of gold with enscribed Draconic. 
+		GME-003 is a thick, flat ring of gold with a Draconic phrase enscribed on its outer face. 
 ```
 
 ###### Magni Liberatoris Nostri Temporis
