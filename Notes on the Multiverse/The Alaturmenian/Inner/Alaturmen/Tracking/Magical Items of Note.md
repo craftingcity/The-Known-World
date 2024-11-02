@@ -343,7 +343,9 @@ aliases:
 
 	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-003 is a thick, flat ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-003 is rendered imperceptable to non-arcane perceptions, and imbues its user 
+		GME-004 is a thick, flat ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
+
+		GME-004 is the final creation of Tianna Moore before her very public suicide. In the era of the Bandit Lords, GME-004 traded hands between high-level commanders and soldiers before it was claimed by Arthur Simonson during the Battle for Magius c.054AF.
 ```
 
 ###### Magni Liberatoris Nostri Temporis

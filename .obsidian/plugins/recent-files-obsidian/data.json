@@ -5,6 +5,14 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
+    },
+    {
       "basename": "Guilded Mystic Entries",
       "path": "Guilded Mystic Entries.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "The Old",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "The Planes of Existence",
@@ -195,10 +199,6 @@
     {
       "basename": "Redl'nds",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Litteortosta",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md"
     }
   ],
   "omittedPaths": [],
