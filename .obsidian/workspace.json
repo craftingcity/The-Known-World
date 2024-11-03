@@ -6,6 +6,7 @@
       {
         "id": "57e5a5195cb2c539",
         "type": "tabs",
+        "dimension": 45.56962025316456,
         "children": [
           {
             "id": "d07cd51c26589513",
@@ -100,16 +101,18 @@
               },
               "icon": "lucide-file",
               "title": "Magical Items of Note"
-            }
+            },
+            "group": "b9343cadd6cdf9bc"
           }
         ]
       },
       {
-        "id": "9f23d7a154f2279b",
+        "id": "efc3673f82c005d8",
         "type": "tabs",
+        "dimension": 16.860759493670884,
         "children": [
           {
-            "id": "fb6881514266889a",
+            "id": "7cc5527713090845",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,26 +120,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "The Planes of Existence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
               },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
+              "icon": "lucide-list",
+              "title": "Outline of Magical Items of Note"
+            },
+            "group": "b9343cadd6cdf9bc"
+          }
+        ]
+      },
+      {
+        "id": "9f23d7a154f2279b",
+        "type": "tabs",
+        "dimension": 37.56962025316456,
+        "children": [
           {
             "id": "c0e258c7e8fbcf55",
             "type": "leaf",
@@ -279,6 +282,35 @@
             }
           },
           {
+            "id": "fb6881514266889a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Planes of Existence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
             "id": "1d92d4245b9c51fe",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -301,7 +333,8 @@
               "title": "Magic Item Authors"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -404,7 +437,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -550,12 +584,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0476f4dd748fe52",
+  "active": "7cc5527713090845",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Guilded Mystic Entries.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Growth Heart.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",

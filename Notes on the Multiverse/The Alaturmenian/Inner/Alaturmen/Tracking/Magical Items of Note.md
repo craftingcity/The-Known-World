@@ -169,7 +169,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -271,7 +271,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -282,7 +282,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -293,7 +293,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -304,7 +304,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -315,7 +315,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -345,7 +345,7 @@ aliases:
 
 		GME-004 is a thick, flat ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
 
-		GME-004 is the final creation of Tianna Moore before her very public suicide. In the era of the Bandit Lords, GME-004 traded hands between high-level commanders and soldiers before it was claimed by Arthur Simonson during the Battle for Magius c.054AF.
+		GME-004 is the final creation of Tianna Moore before her very public suicide. In the era of the Bandit Lords, GME-004 traded hands between high-level commanders and soldiers before it was claimed by Arthur Simonson during the Battle for Magius c.054AF. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
 
 ###### Magni Liberatoris Nostri Temporis
@@ -356,7 +356,11 @@ aliases:
 	Source: Guraxlog (TL-B contained, confirmed deceased)
 	Last Known Keeper: Arthur Simonson
 
-	Entry Description: ...
+	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is currently uncontained, and is being used by it's current Keeper.
+
+		GME-005 is a straight-blade mithryl longsword. The blade is just over 4' long seeminlh becomes sharper as it is used - rather than duller. In addition to the material properties, GME-005 exhibits an emotional influence on it's user, creating or increasing a sense of communal justice - a passion for the good of people.
+
+		GME-005 was crafted sometime before the beginning of the Unification Wars, c.056AF, and has been held by King Arthur Simonson since it's creation. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
 
 ###### Staff of the War-Wizard
