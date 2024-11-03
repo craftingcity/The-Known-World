@@ -37,7 +37,7 @@ JAMES, Frank - 6+ years of registry, "Business Profits"
 	- identification documents for a "Alab Hanz" of the Church of the White Flame
 KILLFISH, The - 1+ years of registry, "Storage"
 	- 1138sp
-	- 6 bars of Mythril
+	- 6 bars of Mithril
 	- 18 bars of Dark Steel
 	- 1 Bar of Chaos Gold
 	- 24 Purple Chitin

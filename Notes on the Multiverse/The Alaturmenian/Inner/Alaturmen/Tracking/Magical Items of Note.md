@@ -112,7 +112,7 @@ aliases:
 	GME-012 "DRAGONFANG DAGGER"
 	Threat Level: PURPLE
 	Entry Class: TRINKET SET
-	Source: Ty'kyta
+	Source: Ty'kyta (TL-G contained, confimed deceased)
 	Last Known Keeper: See Entry Desciption.
 
 	Entry Description: ...
@@ -123,7 +123,7 @@ aliases:
 	GME-013 "PRIMALLOY SCALEMAIL"
 	Threat Level: WHITE
 	Entry Class: TRINKET
-	Source: Fyu-Friew
+	Source: Fyu-Friew (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
 	Entry Description: ...
@@ -134,7 +134,7 @@ aliases:
 	GME-011 "BLOODRITE TOMES"
 	Threat Level: BLUE
 	Entry Class: TRINKET
-	Source: Malkain
+	Source: Malkain (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
 	Entry Description: ...
@@ -145,7 +145,7 @@ aliases:
 	GME-010 "Item or Entity Name"
 	Threat Level: PURPLE
 	Entry Class: MATERIAL
-	Source: Luzikiemal
+	Source: Luzikiemal (TL-P uncontained, unconfirmed undead/undying)
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
@@ -267,13 +267,15 @@ aliases:
 #### Crafts of Dwarvenkind
 ###### Mithril
 ```
-	GME-006 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	GME-006 "MITHRIL"
+	Threat Level: BLUE
+	Entry Class: MATERIAL
+	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-006 is a naturally occuring metallic material discovered first by a group of miners in Mountain Hall's 3rd Mining Colony, but Frin Copperhammer is recognized for the popularization of its military applications.
+
+		GME-006 exhibits a number of qualities, but in particular, its ability to retain or gain sharpness as a blade and its hardness decreasing the chance for armor to be penetrated are the two most attractive qualities GME-006 presents in a military 
 ```
 
 ###### Darksteel
@@ -326,7 +328,7 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
 ```
@@ -358,7 +360,7 @@ aliases:
 
 	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-005 is a straight-blade mithryl longsword. The blade is just over 4' long seeminlh becomes sharper as it is used - rather than duller. In addition to the material properties, GME-005 exhibits an emotional influence on it's user, creating or increasing a sense of communal justice - a passion for the good of people.
+		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long seeminlh becomes sharper as it is used - rather than duller. In addition to the material properties, GME-005 exhibits an emotional influence on it's user, creating or increasing a sense of communal justice - a passion for the good of people.
 
 		GME-005 was crafted sometime before the beginning of the Unification Wars, c.056AF, and has been held by King Arthur Simonson since it's creation. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
