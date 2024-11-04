@@ -283,7 +283,7 @@ aliases:
 	GME-021 "Item or Entity Name"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
@@ -327,7 +327,7 @@ aliases:
 	GME-007 "DURANDURM"
 	Threat Level: PURPLE
 	Entry Class: MATERIAL
-	Source: AUTHOR
+	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: ...
