@@ -275,7 +275,7 @@ aliases:
 
 	Entry Description: GME-006 is a naturally occuring metallic material discovered first by a group of miners in Mountain Hall's 3rd Mining Colony, but Frin Copperhammer is recognized for the popularization of its military applications.
 
-		GME-006 exhibits a number of qualities, but in particular, its ability to retain or gain sharpness as a blade and its hardness decreasing the chance for armor to be penetrated are the two most attractive qualities GME-006 presents in a military 
+		GME-006 exhibits a number of qualities, but in particular, its ability to retain or gain sharpness as a blade and its hardness decreasing the chance for armor to be penetrated are the two most attractive qualities GME-006 presents in a military context.
 ```
 
 ###### Darksteel
@@ -324,9 +324,9 @@ aliases:
 
 ###### Durandurm
 ```
-	GME-007 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	GME-007 "DURANDURM"
+	Threat Level: PURPLE
+	Entry Class: MATERIAL
 	Source: AUTHOR
 	Last Known Keeper: None, see Entry Description.
 
