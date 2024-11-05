@@ -275,7 +275,7 @@ aliases:
 
 	Entry Description: GME-006 is a naturally occuring metallic material discovered first by a group of miners in Mountain Hall's 3rd Mining Colony, but Frin Copperhammer is individually recognized for the popularization of its military applications.
 
-		GME-006 is a 'baby blue' colored metallic material that exhibits atypical structual solidarity and hardness. While this presents theoretical manufacturing issues, the products formed of or with this material benefit from this property. GME-006 has no known 'melting point', information gathered from reliable sources and internal testing has led to the belief that GME-006 in fact has no 'melting point' and is a wholly solid material.
+		GME-006 is a 'baby blue' colored metallic material that exhibits atypical structual solidarity and hardness. GME-006 has no known 'melting point', information gathered from reliable sources and internal testing has led to the belief that GME-006 in fact has no 'melting point' and is a wholly solid material. While this presents theoretical manufacturing issues, the products formed of or with this material benefit from this property, typically failing to bend, break, or blunt in even the most stressful scenarios. 
 ```
 
 ###### Darksteel
@@ -332,7 +332,7 @@ aliases:
 
 	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Frin Copperhammer is individually recognized for the popularization of its military applications.
 
-		GME-007 
+		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Test Report 007-1 through -x), entering it's 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. After this period, GME-007 enters its 'inert' phase, and will cease to exhibit 'attuned' affects and will slowly begin to dull into a light grey.
 ```
 
 ### Post Great Fires c.050AF
