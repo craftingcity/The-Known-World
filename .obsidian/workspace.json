@@ -310,8 +310,7 @@
               "title": "Magic Item Authors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -560,7 +559,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "active": "c0e258c7e8fbcf55",
   "lastOpenFiles": [
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",

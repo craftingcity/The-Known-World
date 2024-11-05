@@ -273,9 +273,9 @@ aliases:
 	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-006 is a naturally occuring metallic material discovered first by a group of miners in Mountain Hall's 3rd Mining Colony, but Frin Copperhammer is recognized for the popularization of its military applications.
+	Entry Description: GME-006 is a naturally occuring metallic material discovered first by a group of miners in Mountain Hall's 3rd Mining Colony, but Frin Copperhammer is individually recognized for the popularization of its military applications.
 
-		GME-006 exhibits a number of qualities, but in particular, its ability to retain or gain sharpness as a blade and its hardness decreasing the chance for armor to be penetrated are the two most attractive qualities GME-006 presents in a military context.
+		GME-006 is a 'baby blue' colored metallic material that exhibits atypical structual solidarity and hardness. While this presents theoretical manufacturing issues, the products formed of or with this material benefit from this property. GME-006 has no known 'melting point', information gathered from reliable sources and internal testing has led to the belief that GME-006 in fact has no 'melting point' and is a wholly solid material.
 ```
 
 ###### Darksteel
@@ -330,7 +330,9 @@ aliases:
 	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Frin Copperhammer is individually recognized for the popularization of its military applications.
+
+		GME-007 
 ```
 
 ### Post Great Fires c.050AF
