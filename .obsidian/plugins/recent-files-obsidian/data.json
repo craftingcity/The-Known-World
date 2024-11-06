@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+      "basename": "Bandit Lords",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
     },
     {
       "basename": "Magic Item Authors",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Guilded Mystic Entries",
@@ -195,10 +199,6 @@
     {
       "basename": "Game Notes",
       "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "Alaturmen's Magical Armies",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md"
     }
   ],
   "omittedPaths": [],
