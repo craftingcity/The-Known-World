@@ -247,7 +247,7 @@ aliases:
 	GME-008 "AXE OF THE BERSERKER KING"
 	Threat Level: PURPLE
 	Entry Class: TRINKET
-	Source: AUTHOR
+	Source: Sarhin Bodaim (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...

@@ -164,6 +164,64 @@
         "dimension": 37.56962025316456,
         "children": [
           {
+            "id": "925d2815efb1c7a3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bandit Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Bandit Lords\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":6},\"to\":{\"line\":18,\"ch\":12}},\"scroll\":7.310796739828794}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "fb6881514266889a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Planes of Existence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
             "id": "c0e258c7e8fbcf55",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -259,35 +317,6 @@
             }
           },
           {
-            "id": "fb6881514266889a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Planes of Existence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "1d92d4245b9c51fe",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -309,32 +338,8 @@
               "icon": "lucide-file",
               "title": "Magic Item Authors"
             }
-          },
-          {
-            "id": "925d2815efb1c7a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Bandit Lords"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "Bodaim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -583,11 +588,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "d07cd51c26589513",
   "lastOpenFiles": [
+    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -611,7 +617,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",

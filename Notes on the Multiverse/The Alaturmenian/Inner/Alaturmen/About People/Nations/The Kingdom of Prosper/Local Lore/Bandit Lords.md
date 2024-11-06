@@ -21,7 +21,7 @@ The Northern Lords were the greatest powers of the era. Before the [[Unification
 ##### Arstovich
 ##### Moore
 ##### Hollyanne
-##### Malcovich
+##### Malkovich
 
 ### Southern Lords
 
