@@ -4,23 +4,15 @@ aliases:
 ---
 
 # Authors
-These people are the authors of magic items.
+The following is a reference sheet for the Authors of all [[Magical Items of Note]], sorted first by Threat Level, then by relevant Entry identification numbers.
 
-## Few, but Powerful
-The following authors are responsible for very rare and legendary items, but due to their power, they are quite hard to come by. These authors create items that could rival the gods. (*+3 weapons*, unique items, great spellbooks and tomes)
+## TL-WHITE
+## TL-GREY
+## TL-BLUE
+## TL-PURPLE
+## TL-RED
+## TL-ORANGE
+### The Progenitor
+"The Progenitor" is an entity of immeasurable arcane ability. The 'true' identity of "The Progenitor" is unknown, and purposefully obfuscated. Intense investigation, including high-level divination rituals, have failed to gather consistent and valuable information regarding the origin, age, or current location and status of "The Progenitor". Given the relevant Entries, "The Progenitor" is deemed to be Threat Level Orange.
 
-[[Alergra Barrowinch]] - created her own magical items
-[[The Old Man]] - created [[The Grey Ordeal]]'s magical items
-[[Guraxlog]] - created [[Arthur Simonson]]'s magical items
-
-## Many, and Mild
-The following authors are responsible for much of the bulk of what our adventurers seek, the items that can be quested for but one might encounter at a highly-powerful political party.
-
-[[Frin Copperhammer]] - created many of the "dwarven made" magical items
-[[Jelethralel Yandirimsh]] - sibling and co-author of elven made items
-[[Buervar Wum Yandirimsh]] - sibling and co-author of elven made items
-## Masses, and Minor
-These authors are responsible for the bulk of magical items in the world, if a commoner has encountered an item, it likely was made by one of these artificers.
-
-[[Sally Seashell]] - known for non-weapons, wonderous and quality of life items are her specialty
-[[]]
+Relevant Entries include; 

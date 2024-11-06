@@ -11,7 +11,7 @@ aliases:
 	GME-000 "WORLDBINDINGS"
 	Threat Level: ORANGE
 	Entry Class: TRINKET SET
-	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
+	Source: 'The Progenitor' (TL-O uncontained unidentified)
 	Last Known Keeper: See Entry Description.
 
 	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells, and must change monthly - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
@@ -242,11 +242,11 @@ aliases:
 	Entry Description: ...
 ```
 
-###### The Axe of the Berserker
+###### The Axe of the Berserker King
 ```
-	GME-008 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	GME-008 "AXE OF THE BERSERKER KING"
+	Threat Level: PURPLE
+	Entry Class: TRINKET
 	Source: AUTHOR
 	Last Known Keeper: KEEPER
 

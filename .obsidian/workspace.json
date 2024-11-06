@@ -132,6 +132,29 @@
               "title": "Outline of Magical Items of Note"
             },
             "group": "b9343cadd6cdf9bc"
+          },
+          {
+            "id": "c22e0608f9d11155",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
           }
         ]
       },
@@ -236,29 +259,6 @@
             }
           },
           {
-            "id": "c22e0608f9d11155",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          },
-          {
             "id": "fb6881514266889a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -310,7 +310,8 @@
               "title": "Magic Item Authors"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -413,7 +414,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -559,11 +561,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c0e258c7e8fbcf55",
+  "active": "1d92d4245b9c51fe",
   "lastOpenFiles": [
-    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Guilded Mystic Entries.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
