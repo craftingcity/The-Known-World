@@ -35,7 +35,7 @@ The Collectors use their connection to discern absolute truth of Tendered and Pa
 The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples. The major portion of revenue any Tendered collects is given to the Church, either in the form of local developments or genuine monetary tithe. Some Tendered, like their betters, undertake extra responsibility in the management of the *Unseen*, detaining unclaimed *Undesireables* and 'training' them into compliance under [[#The Ideology Correction Corps]].
 
 ##### Patron
-The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are required to attend or provide compensation of greater value under threat of law.
+The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are forcebly required to attend to those duties or provide compensation of greater value under threat of law.
 
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
