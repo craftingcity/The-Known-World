@@ -252,7 +252,7 @@ aliases:
 
 	Entry Description: GME-008  is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. 
+		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a blood-fueled rage.
 ```
 
 ###### The Compalati
@@ -366,7 +366,7 @@ aliases:
 
 	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long seeminlh becomes sharper as it is used - rather than duller. In addition to the material properties, GME-005 exhibits an emotional influence on it's user, creating or increasing a sense of communal justice - a passion for the good of people.
+		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long seemingly becomes sharper as it is used - rather than duller. In addition to its material properties, GME-005 exhibits an emotional influence on its user, creating or increasing a sense of communal justice - a passion for the good of people.
 
 		GME-005 was crafted sometime before the beginning of the Unification Wars, c.056AF, and has been held by King Arthur Simonson since it's creation. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
