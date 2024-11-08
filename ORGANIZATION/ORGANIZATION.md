@@ -1,7 +1,6 @@
 # ORGANIZATION Overview
 %% Begin Waypoint %%
 - [[Books To Write]]
-- [[Faction Turn]]
 - [[Holding Rules]]
 - [[Methods of Organization]]
 - [[Notes From Grain Into Gold]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "Delta 3 Mercenary Squad",
@@ -195,10 +195,6 @@
     {
       "basename": "Big Lore",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     }
   ],
   "omittedPaths": [],

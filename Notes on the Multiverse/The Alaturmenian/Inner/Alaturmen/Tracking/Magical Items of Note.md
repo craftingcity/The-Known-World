@@ -185,7 +185,7 @@ aliases:
 	Entry Description: ...
 ```
 
-###### Faerun Radiothermal Generator
+###### Fae-run Radiothermal Generator
 ```
 	GME-XXX "Item or Entity Name"
 	Threat Level: COLOR

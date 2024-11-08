@@ -197,12 +197,14 @@ alchemy
 magical items
 
 # Open Projects
+- [[Timeline]]
 - Population Centers (ods)
-- [[Merchant Companies and their Routes]]
+	- Specifically, creating NPCs with relevant titles
 - [[Economy Pages]]
-- [[Magical Items of Note]]
+	- [[Merchant Companies and their Routes]]
 - [[Books To Write]]
-- [[Faction Turn]]
-- [[Kaliqeill, Lich of Orcus]]
+	- [[Magical Items of Note]] & [[Magic Item Authors]]
+	- [[The Progress of Technology]]
+	- [[Alaturmen's Magical Armies]]
 - [[Campaigns]]
-- [[Alaturmen's Magical Armies]]
+	- [[Kaliqeill, Lich of Orcus]]
