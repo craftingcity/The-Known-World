@@ -148,7 +148,9 @@ aliases:
 	Source: Luzikiemal (TL-P uncontained, unconfirmed undead/undying)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-010 is a naturally processed metallic material that was first discovered by an adventurer who claims to have survived the 'Hells of Kailkeep', and gathered the GME-010 instance from the horde of Luzikiemal
+	Entry Description: GME-010 is a naturally processed metallic material that was first discovered by an adventurer who claims to have survived the 'Hells of Kailkeep', and gathered the GME-010 instance from the horde of Luzikiemal.
+
+		GME-010 is natural gold that has been collected and claimed by an adult dragon, who has taken at least one humanoid life in the defense of their horde. As GME-010 is processed, it exhibits inconsistent elemental attunement and affects. GME-010 has been since used as an alchemical tool to evoke this 'chaos' unto another material or object.
 ```
 
 #### Exports of the Elven Empire
