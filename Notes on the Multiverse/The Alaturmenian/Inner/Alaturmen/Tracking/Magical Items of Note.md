@@ -142,13 +142,13 @@ aliases:
 
 ###### Chaotic Gold
 ```
-	GME-010 "Item or Entity Name"
+	GME-010 "CHAOTIC GOLD"
 	Threat Level: PURPLE
 	Entry Class: MATERIAL
 	Source: Luzikiemal (TL-P uncontained, unconfirmed undead/undying)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-010 is a naturally processed metallic material that was first discovered by an adventurer who claims to have survived the 'Hells of Kailkeep', and gathered the GME-010 instance from the horde of Luzikiemal
 ```
 
 #### Exports of the Elven Empire
@@ -165,13 +165,15 @@ aliases:
 
 ###### Elvenfibre
 ```
-	GME-009 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	GME-009 "ELVENFIBRE"
+	Threat Level: WHITE
+	Entry Class: MATERIAL
+	Source: Unknown
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-009 is a crafted alchemical material that has been seen to be created in areas of significant population of Faefolk.
+
+		GME-009 is a glimmering gold-green colored fabric with a texture similar to silk. While GME-009 is very light-weight and flexible, it has a similar material hardness as a strong metal, such as cast-iron or steel.
 ```
 
 ###### Dawnblade
@@ -254,7 +256,7 @@ aliases:
 
 		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a murderous rage. Investigation into this property has concluded that this 'rage' is continually and exponentially increasing, but is seriously quelled by its user causing the death of an intelligent humanoid experiencing fear of the user or GME-008 itself.
 
-		GME-008 
+		GME-008 was crafted by the late Sarhin Bodaim while under the service of her patriarch, Edward Bodaim, who used GME-008 during his rule of the Greenhilles and the surrounding holdings. Since its creation, GME-008 has passed through an unknown number of hands before it was taken off the corpse of its previous Keeper by Killrick Em Glask, who now actively wields GME-008.
 ```
 
 ###### The Compalati
