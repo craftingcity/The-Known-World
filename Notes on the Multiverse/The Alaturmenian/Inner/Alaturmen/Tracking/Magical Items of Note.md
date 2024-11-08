@@ -252,7 +252,7 @@ aliases:
 
 	Entry Description: GME-008  is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-008 is a dual-headed greataxe primarily composed of steel. The heads are 
+		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. 
 ```
 
 ###### The Compalati
