@@ -250,9 +250,11 @@ aliases:
 	Source: Sarhin Bodaim (TL-G contained, confirmed deceased)
 	Last Known Keeper: Killrick Em Glask
 
-	Entry Description: GME-008  is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
+	Entry Description: GME-008 is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a blood-fueled rage.
+		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a murderous rage. Investigation into this property has concluded that this 'rage' is continually and exponentially increasing, but is seriously quelled by its user causing the death of an intelligent humanoid experiencing fear of the user or GME-008 itself.
+
+		GME-008 
 ```
 
 ###### The Compalati
