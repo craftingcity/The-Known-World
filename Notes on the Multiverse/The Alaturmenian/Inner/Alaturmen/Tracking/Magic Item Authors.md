@@ -9,6 +9,7 @@ The following is a reference sheet for the Authors of all [[Magical Items of Not
 ## TL-WHITE
 ### Frin Copperhammer
 ## TL-GREY
+### Sarhin Bodaim
 ## TL-BLUE
 ### Tianna Moore
 ### Guraxlog

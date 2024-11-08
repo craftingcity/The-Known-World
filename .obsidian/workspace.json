@@ -6,7 +6,7 @@
       {
         "id": "57e5a5195cb2c539",
         "type": "tabs",
-        "dimension": 45.56962025316456,
+        "dimension": 56.694312796208536,
         "children": [
           {
             "id": "d07cd51c26589513",
@@ -101,59 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "Magical Items of Note"
-            },
-            "group": "b9343cadd6cdf9bc"
-          }
-        ]
-      },
-      {
-        "id": "efc3673f82c005d8",
-        "type": "tabs",
-        "dimension": 16.860759493670884,
-        "children": [
-          {
-            "id": "7cc5527713090845",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Magical Items of Note"
-            },
-            "group": "b9343cadd6cdf9bc"
-          },
-          {
-            "id": "c22e0608f9d11155",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
             }
           }
         ]
@@ -161,8 +108,103 @@
       {
         "id": "9f23d7a154f2279b",
         "type": "tabs",
-        "dimension": 37.56962025316456,
+        "dimension": 43.30568720379147,
         "children": [
+          {
+            "id": "6dbcea2453dc60b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "APGtAv1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"APGtAv1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"APGtAv1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":685,\"ch\":133},\"to\":{\"line\":685,\"ch\":133}},\"scroll\":677.041117678388}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Arthur's Knights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arthur's Knights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":2.1930649358125995}"
+                },
+                {
+                  "title": "The Kingdom of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":130},\"to\":{\"line\":20,\"ch\":130}},\"scroll\":8.344149252535578}"
+                },
+                {
+                  "title": "The Democratic Combine of Peoples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Democratic Combine of Peoples\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":153},\"to\":{\"line\":66,\"ch\":153}},\"scroll\":27.91346335490876}"
+                },
+                {
+                  "title": "Lands of Tetrimoc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lands of Tetrimoc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":204},\"to\":{\"line\":6,\"ch\":204}}}"
+                },
+                {
+                  "title": "The Church of the White Flame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Church of the White Flame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.805010212012217}"
+                },
+                {
+                  "title": "Non-Nation Entities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Non-Nation Entities\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Nations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "About People",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"About People\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Notes on the Multiverse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          },
           {
             "id": "925d2815efb1c7a3",
             "type": "leaf",
@@ -588,11 +630,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "active": "6dbcea2453dc60b3",
   "lastOpenFiles": [
-    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
@@ -616,7 +659,6 @@
     "Game Notes/NPCs/zDeceased/Guraxlog.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
     "Notes on the Multiverse/Seattle Exports Misery/Traders",

@@ -248,9 +248,11 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Sarhin Bodaim (TL-G contained, confirmed deceased)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Killrick Em Glask
 
-	Entry Description: ...
+	Entry Description: GME-008  is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
+
+		GME-008 is a dual-headed greataxe primarily composed of steel. The heads are 
 ```
 
 ###### The Compalati
@@ -349,7 +351,7 @@ aliases:
 
 	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is currently uncontained, and is being used by it's current Keeper.
 
-		GME-004 is a thick, flat ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
+		GME-004 is a thick ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
 
 		GME-004 is the final creation of Tianna Moore before her very public suicide. In the era of the Bandit Lords, GME-004 traded hands between high-level commanders and soldiers before it was claimed by Arthur Simonson during the Battle for Magius c.054AF. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
@@ -557,7 +559,7 @@ aliases:
 	Threat Level: BLUE
 	Entry Class: TRINKET
 	Source: The Old Man (TL-O uncontained, assumed deceased)
-	Last Known Keeper: Kakurak
+	Last Known Keeper: Kakurak & Marcus
 
 	Entry Description: GME-002 is stored on a hanging rack within Vault 3.
 
@@ -623,7 +625,10 @@ aliases:
 		GME-001 has been, to our knowledge, the host of exactly two adventuring parties to date, those being first the Grey Ordeal, and second the Hatdroppers. In both the parties' time with GME-001, they have made additions to the assosiated CEIs in such a manner that they together act as a mobile base of operations, including a barracks, a kitchen, a storage room, a garden, an alchemistry labratory, a tinker's workshop, a prison, and a spa.
 ```
 
+
 ==$==
+
+
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
 #### Relics of Kakurak's Chosen
