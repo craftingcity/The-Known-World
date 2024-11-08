@@ -200,19 +200,27 @@ magical items
 - [[Timeline]]
 - Population Centers (ods)
 	- Specifically, creating NPCs with relevant titles
+- [[Methods of Organization]]
 - [[Economy Pages]]
 	- [[Merchant Companies and their Routes]]
-- [[Books To Write]]
+- Books to Write
 	- [[Magical Items of Note]] & [[Magic Item Authors]]
 		- [[Kalariel's Grimoire]]
 	- [[The Progress of Technology]]
 	- [[Alaturmen's Magical Armies]]
 	- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
-	- Culture Books;
 		- [[An Account of Our Fallen]]
-		- [[Arthur's Journal]]
+		- [[Arthur's Journal]] & [[His Greater Plan]]
 		- [[First Crusade of the Fire's Will]]
-		- [[First Invasion of Orcus]]
-		- [[His Greater Plan]]
+
+		- [[Laws of Adventuring]] & [[Coalition's Founding Document]]
+		- [[Minyostalman Artifacts; A Theory]] & [[The New War in the Old City; A Minyostalman Account of the Modern Age]]
+		- [[Tetrimoc's Journal]] & [[Tetrimoc's Journal (Propaganda)]]
+		- [[The Axioms, Theories, and Philosophies of Mages of the First Century]]
+		- [[The Code of Thieves]]
+		- [[The Legend of the Bandit Lords]]
+		- [[The Return of Moses the Brave]]
+		- [[The Tome of Gannon]]
+		- [[Wargods without War]]
 - [[Campaigns]]
 	- [[Kaliqeill, Lich of Orcus]]

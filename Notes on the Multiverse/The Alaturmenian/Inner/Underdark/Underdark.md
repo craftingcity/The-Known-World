@@ -1,5 +1,5 @@
 ---
-tags: planes, folerfile
+tags: planes, folderfile
 aliases: The Deep Below, Deep Below
 ---
 
