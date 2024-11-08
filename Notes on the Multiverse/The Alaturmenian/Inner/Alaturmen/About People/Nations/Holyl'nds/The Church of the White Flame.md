@@ -45,6 +45,8 @@ Undesirables are non-human, non-elven people who are in territories of the Churc
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
 #### The Ideology Correction Corps
+`orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
+
 #### White Flame Militants for MBED
 
 ## Culture
