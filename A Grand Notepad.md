@@ -198,27 +198,28 @@ magical items
 
 # Open Projects
 - [[Timeline]]
+	- [[The Legend of the Bandit Lords]]
+	- [[First Invasion of Orcus]]
+	- [[First Crusade of the Fire's Will]]
 - Population Centers (ods)
 	- Specifically, creating NPCs with relevant titles
-- [[Methods of Organization]]
 - [[Economy Pages]]
 	- [[Merchant Companies and their Routes]]
-- Books to Write
+	- [[Notes From Grain Into Gold]] (redo)
+- Books to Write > [[Books To Write]]
 	- [[Magical Items of Note]] & [[Magic Item Authors]]
 		- [[Kalariel's Grimoire]]
 	- [[The Progress of Technology]]
 	- [[Alaturmen's Magical Armies]]
 	- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
 		- [[An Account of Our Fallen]]
-		- [[Arthur's Journal]] & [[His Greater Plan]]
-		- [[First Crusade of the Fire's Will]]
-
+		- [[Arthur's Journal]], [[His Greater Plan]], & [[Carta Prosperitatis]]
+		- [[Blood-Hobgoblin Clan Pact]]
 		- [[Laws of Adventuring]] & [[Coalition's Founding Document]]
 		- [[Minyostalman Artifacts; A Theory]] & [[The New War in the Old City; A Minyostalman Account of the Modern Age]]
 		- [[Tetrimoc's Journal]] & [[Tetrimoc's Journal (Propaganda)]]
 		- [[The Axioms, Theories, and Philosophies of Mages of the First Century]]
-		- [[The Code of Thieves]]
-		- [[The Legend of the Bandit Lords]]
+		- [[The Code of Thieves]], [[Mountain Hall's Constitution]], & [[Actstow's Constitution]]
 		- [[The Return of Moses the Brave]]
 		- [[The Tome of Gannon]]
 		- [[Wargods without War]]
