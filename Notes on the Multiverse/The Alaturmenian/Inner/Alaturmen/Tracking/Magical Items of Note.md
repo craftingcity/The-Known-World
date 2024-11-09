@@ -115,7 +115,7 @@ aliases:
 	Source: Ty'kyta (TL-G contained, confimed deceased)
 	Last Known Keeper: See Entry Desciption.
 
-	Entry Description: ...
+	Entry Description: GME-012 is 
 ```
 
 ###### Primalloy Scalemail
