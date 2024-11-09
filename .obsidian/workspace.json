@@ -478,7 +478,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scrivin",
+                "query": "language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
