@@ -405,7 +405,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -454,7 +454,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ideology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -654,8 +654,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d92d4245b9c51fe",
+  "active": "d07cd51c26589513",
   "lastOpenFiles": [
+    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
@@ -669,7 +670,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md",
     "ORGANIZATION/Faction Turn.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
-    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",

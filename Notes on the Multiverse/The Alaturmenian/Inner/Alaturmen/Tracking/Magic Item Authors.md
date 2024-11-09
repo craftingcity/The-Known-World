@@ -17,7 +17,7 @@ The following is a reference sheet for the Authors of all [[Magical Items of Not
 ## TL-RED
 ## TL-ORANGE
 ### The Progenitor
-"The Progenitor" is an entity of immeasurable arcane or divine ability, and as implied . 
+"The Progenitor" is an entity of immeasurable arcane or divine ability, and as implied by the name is very likely one of the first entities to exist. 
 
 The 'true' identity of "The Progenitor" is unknown, and purposefully obfuscated. Intense investigation, including high-level divination rituals, have failed to gather consistent and valuable information regarding the origin, age, or current location and status of "The Progenitor".
 

@@ -137,7 +137,9 @@ aliases:
 	Source: Malkain (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
-	Entry Description: ...
+	Entry Description: GME-011 is stored within Vault 0's Cold Storage sector, in Lounge 1's locked bookshelves.
+
+		GME-011 is a set of identical grimoires, GME-011-1 through GME-011-40, each of which are bound in a once white bloodstained leather. The title and contents of the grimoires are written in Draconic, and then again in Arthurian. GME-011 is a complex manual that describes a path of understanding Of the original set of 40, two have been destroyed.
 ```
 
 ###### Chaotic Gold
