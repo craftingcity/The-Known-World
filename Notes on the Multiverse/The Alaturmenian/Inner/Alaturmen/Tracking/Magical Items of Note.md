@@ -133,7 +133,7 @@ aliases:
 ```
 	GME-011 "BLOODRITE TOMES"
 	Threat Level: BLUE
-	Entry Class: TRINKET
+	Entry Class: TRINKET SET
 	Source: Malkain (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
@@ -141,7 +141,7 @@ aliases:
 
 		GME-011 is a set of identical grimoires, GME-011-1 through GME-011-40, each of which are bound in a once white, now brown, bloodstained leather. The title and contents of the grimoires are written in Draconic, and then again in Arthurian. GME-011 is a complex manual that describes many arcane concepts, rules, and processes that overall describes a relationship and access to significant arcane ability.
 
-		Of the total 40 created, exactly 17 have survived to the present day, as a potential concequence of pursuing the path presented by a GME-011 instance is an intense explosion, typically resulting in the death of the user and the destruction of the GME-011 instance. Of these 23 (specifically -2, -3, -8, -9, -10, -11, -12, -14, -16, -22, -23, -28, -34, -37, -38, -39, and -40), GME-011-2, -3, -8, -9, and -22 are held personally by the members of the Council of Mages.
+		Of the total 40 created, exactly 17 (specifically -2, -3, -8, -9, -10, -11, -12, -14, -16, -22, -23, -28, -34, -37, -38, -39, and -40) have survived to the present day, as a potential concequence of pursuing the path presented by a GME-011 instance is an intense explosion, typically resulting in the death of the user and the destruction of the GME-011 instance. Of these 17, GME-011-2, -3, -8, -9, and -22 are held personally by the members of the Council of Mages.
 ```
 
 ###### Chaotic Gold
