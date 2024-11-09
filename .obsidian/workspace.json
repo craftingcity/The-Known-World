@@ -102,6 +102,29 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
+          },
+          {
+            "id": "66d4714ab5f619ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Church of the White Flame"
+            }
           }
         ]
       },
@@ -431,7 +454,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bodaim",
+                "query": "ideology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -631,12 +654,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07cd51c26589513",
+  "active": "1d92d4245b9c51fe",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "A Grand Notepad.md",
     "The Progress of Technology.md",
     "ORGANIZATION/ORGANIZATION.md",
@@ -646,6 +669,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md",
     "ORGANIZATION/Faction Turn.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
+    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
@@ -668,7 +692,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Western Sound",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Battlefield Olympia",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
