@@ -115,7 +115,7 @@ aliases:
 	Source: Ty'kyta (TL-G contained, confimed deceased)
 	Last Known Keeper: See Entry Desciption.
 
-	Entry Description: GME-012 is 
+	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector
 ```
 
 ###### Primalloy Scalemail
