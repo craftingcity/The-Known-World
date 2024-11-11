@@ -33,7 +33,7 @@ Other plots include...
 
 ### What happened?
 
-Duche Hedwig asked them to pursue their personal interest in [[The Old|Minyostalma]], specifically mentioning a 'secret' of the White Flame there.
+Duche Hedwig asked them to pursue their personal interest in [[The Old|Minyostalma]], specifically mentioning a 'secret' of the White Flame there. `mentioning the magic that isnt magic, this is a referance to the fae-run RTG`
 
 Hedwig also promised to equip and inform the party - if Eve doesn't suggest stopping in [[Cenva Minyo]], Hedwig will.
 
