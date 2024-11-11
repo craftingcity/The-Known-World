@@ -19,7 +19,7 @@ On the morning of the 3rd, forces from the Delectus Chapter of [[Arthur's Knight
 
 The Arthurian Push continued westward, towards [[Kohnstamm]] and it's surrounding area. The Delectus Chapter Knights were reportedly joined by the '1st Revolution Infantry' of [[Wychway]]. Upon reaching the surrounding settlements, the Arthurian Forces faced significant resistance. The Church's soldiers would ambush the incoming force by using the previously evacuated civilian buildings and having a portion of their own forces disguise as civilians.
 
-The Arthurian forces attempted to rally and centralize their force, but the Church had already done massive damage to them, and would instead flee from the battle.
+The Arthurian forces attempted to rally and centralize their force, but the Church had already done too much damage to them, and the survivors would instead flee from the battle.
 
 ## Battle of the Bridge, Wychway
 #### 105AF/05/18 - 05/20
@@ -28,11 +28,17 @@ As quickly as the Arthurians struck, so too did the Church strike back. The Chur
 
 As Syr Grain spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We got to shoot down the runners too, thank the Gods. We cleared all of 'em after too, with their idol-worship bullshit."
 
-## Battle of the Centers
+## First Battle for the Centers (11)
 #### 105AF/06/02 - 07/08
 
-## Second Battle of Kohnstamm
+After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While 
+
+## Second Battle of Kohnstamm (1)
 #### 105AF/07/24 - 09/07
+
+## Battle of Wychway (11)
+
+## Second Battle for the Centers
 
 ## Winter Still
 

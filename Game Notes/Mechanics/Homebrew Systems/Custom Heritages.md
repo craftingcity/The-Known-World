@@ -192,18 +192,6 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 		- You have immunity against poison damage and the poisoned condition.
 		- Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
 
-## Tiefling
-
-![[tiefling.png]]
-
-People with a heavy Fiendish heritage find themselves in possession of a magically influenced biology, and may find themselves using their internal magics throughout their life. The origin of Tieflings on Alaturmen is directly tied to the [[Second Invasion of Orcus]], which has led to an unearned persecution by most cultures in the world.
-
-- *Age* You may live up to 80 years without feeding on another Humanoid.
-- *Weight* You may weigh anywhere from 120 to 220 pounds.
-- You may be anywhere from 4 to 7 feet tall. Your size is Medium.
-- Your base walking speed is 30 feet per round.
-- Your 
-
 # Fey Folk
 
 The Fey Folk share many features absent in Alaturmenian peoples;
@@ -264,17 +252,3 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 - You have advantage on all Intelligence, Wisdom, and Charisma Saving Throws against spells and magical effects. 
 - Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. 
 - Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
-
-
-## Piskie
-
-![[pisky.png]]
-
-People with a heavy Pisky heritage find themselves in possession of what seems to be miniaturized version of a human's biology. The origins of Pisky people on Alaturmen is truthfully unknown, but legends claim that the Ceelie Courts task the Pisky with infiltration of "valuable communities" for an as-of-yet unknown purpose.
-
-- *Weight* You may weigh anywhere from 15 to 25 pounds.
-- You may be 2 to 3 feet tall. Your size is Small.
-- You base walking speed is 25 feet per round.
-- You have a hover speed equal to your walking speed, and a flying speed of 10 feet per round. You cannot use either this hovering speed or flying speed while you are wearing heavy armor. 
-- You may move through the space of any creature that is of a size larger than yours.
-- You may cast the *charm person* spell once without using a spell slot. You regain the use of this feature after a long rest.
