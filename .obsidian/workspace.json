@@ -149,7 +149,8 @@
               "title": "Blood Clans"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9f23d7a154f2279b",
@@ -249,27 +250,6 @@
               },
               "icon": "lucide-file",
               "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "81f625122170e28c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
             }
           },
           {
@@ -448,8 +428,7 @@
               "title": "Magic Item Authors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -698,10 +677,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0476f4dd748fe52",
+  "active": "66d4714ab5f619ec",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",

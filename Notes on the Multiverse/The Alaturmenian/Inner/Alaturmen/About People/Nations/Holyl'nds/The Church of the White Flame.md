@@ -40,7 +40,7 @@ The Patron are those who attend the establishments of their Tendered. They atten
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
 
-Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered.
+Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered and reprocessed into feed for the others.
 
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
@@ -75,6 +75,7 @@ The members of the Church are lawfully required to speak [[Fanyaquestan (languag
 ### Symbolism
 ## Technology
 ### Food & Water
+
 ### Shelter
 ### Arms & Armor
 ### Magic
