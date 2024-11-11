@@ -44,7 +44,7 @@ aliases:
 ```
 ### Getting Out
 ```
-	Once you have finished in this place, you will find that exiting Minyostalma is more difficult than entering it. First and foremost, there is an express socio-economic jealousy in the people that can become violent. The down-on-their-luck will abandon any morality that remains within themselves and attempt to pry your 'ticket out' from your dying grasp.
+	Once you have finished in this place, you will find that exiting Minyostalma is more difficult than entering it. First and foremost, there is an express socio-economic jealousy in the people that can and does become violent. The down-on-their-luck will abandon any morality that remains within themselves and attempt to pry your 'ticket out' from your dying grasp.
 ```
 ### Disconnection
 ```

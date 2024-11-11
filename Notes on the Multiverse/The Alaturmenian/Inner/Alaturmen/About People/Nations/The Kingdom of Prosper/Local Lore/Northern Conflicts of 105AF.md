@@ -28,13 +28,15 @@ As quickly as the Arthurians struck, so too did the Church strike back. The Chur
 
 As Syr Grain spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We got to shoot down the runners too, thank the Gods. We cleared all of 'em after too, with their idol-worship bullshit."
 
-## First Battle for the Centers (11)
+## First Battle for the Centers
 #### 105AF/06/02 - 07/08
 
-After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While 
+After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While there were minor victories over the course of many battles, the First Battle for the Centers ended with more lost than gained on either side. The Arthurian forces would fall back into the [[South Littemotto]], where they would regroup, preparing for further conflict.
 
 ## Second Battle of Kohnstamm (1)
 #### 105AF/07/24 - 09/07
+
+
 
 ## Battle of Wychway (11)
 
