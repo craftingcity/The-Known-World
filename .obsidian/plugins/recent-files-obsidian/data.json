@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Guild of Adventurers",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
       "basename": "The New War in the Old City; A Minyostalman Account of the Modern Age",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Boris Farrinik",
-      "path": "Boris Farrinik.md"
-    },
-    {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     }
   ],
   "omittedPaths": [],

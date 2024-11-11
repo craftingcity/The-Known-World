@@ -198,7 +198,7 @@ Class III equipment is considered by most parties and patrons to be the best pow
 Class IV
 
 #### GAP-4a
-##### "Prime Care"
+##### "Expert Care"
 
 #### GAP-4b
 ##### "Survivalist Care"

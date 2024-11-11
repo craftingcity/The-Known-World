@@ -52,7 +52,7 @@ Arhur's Prairie is bound by [[The Holyl'nds]] to it's west, the [[Illburn Forest
 #### H18.
 #### H19.
 #### H20.
-#### H21.
+#### H21. Pirate Camp
 #### H22.
 #### H23.
 #### H24.
