@@ -59,11 +59,15 @@ aliases:
 ## Organized People
 ### They Do Not Care
 ```
+	Few organizations acting within The Old City do so with empathy. Most of the people here care only for themselves. Their money, their health, their glory. This place is ruled by the laws of Power. If you cannot defend it, it is not yours. Empathy is abused as a tool of Power. 
 
+	As you are defenseless to your closest allies, they may become your strongest enemies.
 ```
 ### Gangs v. Groups
 ```
+	The people who act alone in this City are the first to fall. You need someone to watch your back here. Come with a Gang you trust. Never betray them, never scorn them, because you need them.
 
+	The individual coalition of your Gang is important, but having a Group to watch your back is even better. There are settlements in this place, where like-minded scavs gather together and form grander organizations. Ondo, 
 ```
 ## Anomalies & Artifacts
 ### Radiation

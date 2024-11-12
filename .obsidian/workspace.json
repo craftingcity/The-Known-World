@@ -137,6 +137,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Nov xx 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov xx 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov xx 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":52},\"to\":{\"line\":23,\"ch\":52}},\"scroll\":9.760112784010872}"
+                },
+                {
                   "title": "conflict-files-obsidian-git",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
@@ -147,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov xx 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov xx 24"
+              "title": "The New War in the Old City; A Minyostalman Account of the Modern Age"
             }
           },
           {
@@ -730,10 +736,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "64cfdc6fdb16ea0a",
   "lastOpenFiles": [
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
     "Prenotes Nov xx 24.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts of 105AF.md",
