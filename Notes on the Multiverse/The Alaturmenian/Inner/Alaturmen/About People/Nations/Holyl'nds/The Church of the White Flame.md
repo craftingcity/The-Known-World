@@ -40,12 +40,18 @@ The Patron are those who attend the establishments of their Tendered. They atten
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
 
-Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered and reprocessed into feed for the others.
+Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered.
 
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
 #### The Ideology Correction Corps
+Founded in the early 070AF, the Ideology Correction Corps serves as a 
+
+The purpose of the ICC is two-fold. First and foremost, the ICC acquires, trains, and then sells slaves. They act as a major middleman in the business, and serve to fuel the Church's economy. 
+
 `orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
+
+vat grown slave fighters for 30+ years, later we incorperated fucking demon blood>????????? from the [[First Invasion of Orcus]]. thats gen 2, they're coming into active service bc they're 16 rn
 
 #### White Flame Militants for MBED
 
@@ -75,7 +81,6 @@ The members of the Church are lawfully required to speak [[Fanyaquestan (languag
 ### Symbolism
 ## Technology
 ### Food & Water
-
 ### Shelter
 ### Arms & Armor
 ### Magic

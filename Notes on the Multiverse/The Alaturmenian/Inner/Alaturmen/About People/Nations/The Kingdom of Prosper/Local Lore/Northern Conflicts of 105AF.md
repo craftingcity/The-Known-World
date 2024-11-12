@@ -34,7 +34,7 @@ As Syr Grain spoke on the event, he said "[the Church's force] kept running afte
 After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While there were minor victories over the course of many battles, the First Battle for the Centers ended with more lost than gained on either side. The Arthurian forces would fall back into the [[South Littemotto]], where they would regroup, preparing for further conflict.
 
 ## Second Battle of Kohnstamm (1)
-#### 105AF/07/24 - 09/07
+#### 105AF/07/24 - 
 
 
 
