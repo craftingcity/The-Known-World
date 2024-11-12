@@ -18,7 +18,7 @@ The Killing Fields are directly north of [[#The Depot]]. The WFM have a secure p
 The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
 #### The Mudhouse
-Northeast of the Depot, a mudbrick outhousehouse stands out as a lone survivor amidst the desolation surrounding it. Surrounding the outhouse are the ruins of other abandoned structures, their walls crumbling, serving as eerie reminders of a home long lost.
+Northeast of the Depot, a mudbrick outhouse stands out as a lone survivor amidst the desolation surrounding it. Surrounding the outhouse are the ruins of other abandoned structures, their walls crumbling, serving as eerie reminders of a home long lost.
 
 #### The Reserve
 A series of large tents and semi-permanent structures form a small military town. WFM use the Reserve and the surrounding areas as their primary base of operations within the Old.

@@ -45,7 +45,7 @@ Undesirables are non-human, non-elven people who are in territories of the Churc
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
 #### The Ideology Correction Corps
-Founded in the early 070AF, the Ideology Correction Corps serves as a 
+Founded in the early 070AF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. 
 
 The purpose of the ICC is two-fold. First and foremost, the ICC acquires, trains, and then sells slaves. They act as a major middleman in the business, and serve to fuel the Church's economy. 
 
