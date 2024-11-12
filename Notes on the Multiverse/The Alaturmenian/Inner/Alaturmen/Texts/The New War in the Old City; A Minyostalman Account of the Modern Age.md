@@ -67,7 +67,7 @@ aliases:
 ```
 	The people who act alone in this City are the first to fall. You need someone to watch your back here. Come with a Gang you trust. Never betray them, never scorn them, because you need them.
 
-	The individual coalition of your Gang is important, but having a Group to watch your back is even better. There are settlements in this place, where like-minded scavs gather together and form grander organizations. Ondo, 
+	The individual coalition of your Gang is important, but having a Group to watch your back is even better. There are settlements in this place, where like-minded scavs gather together and form grander organizations. The Rookies, for example, occupy the village area near the northern entrance. The Rookies are supplied and managed by a man named Ondo. 
 ```
 ## Anomalies & Artifacts
 ### Radiation
