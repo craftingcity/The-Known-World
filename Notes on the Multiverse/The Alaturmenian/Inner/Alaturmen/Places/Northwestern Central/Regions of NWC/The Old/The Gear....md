@@ -45,8 +45,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | WhiteTech Detector                       | Arti. / Anom. Detector | 60-foot radius                | WFM         | 10.0       |
 | Sukari Style Detector                    | Arti. Detector         | 60-foot radius, +10 Detection | Mercs       | 12.5       |
 | Camelot Style Detector                   | Arti. / Anom. Detector | 75-foot radius, +5 Detection  | Mercs, M.T. | 22.8       |
-| Extreme Weave Distortion Handheld Mark 1 | Anom. Detector         | 20-foot radius                | All         | 0.6        |
-| Extreme Weave Distortion Handheld Mark 2 | Anom. Detector         | 35-foot radius                | All         | 3.6        |
+| Extreme Weave Distortion Device Mark 1 | Anom. Detector         | 20-foot radius                | All         | 0.6        |
+| Extreme Weave Distortion Device Mark 2 | Anom. Detector         | 35-foot radius                | All         | 3.6        |
 | Tuned Hazardous Location Alert System    | Rad. Detector          | 45-foot radius                | Mercs       | 15.0       |
 
 ### Armors
