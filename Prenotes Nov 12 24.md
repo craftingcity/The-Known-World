@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 
-# Prenotes for *date*
-## Party of Interest: /*LINK*/
+# Prenotes for November 12th
+## Party of Interest: [[Sarahouse Deakred Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -14,8 +14,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
-When last we left our heroes, they were working in the Arthurian township of [[Bandeer]], earning the trust of the local authority, Duche Hedwig a'Alden, by investigating an incident of arson. While you failed to reveal a solid motive for the crime, your investigations led you to a drug-dealing gang and a young boy. After attacking the gangsters, you returned to the Duche, where he told you the issue is resolved, and Jonas, the young boy in question, had gone away - a satisfactory ending for the time being.
+When last we left our heroes, they were working in the Arthurian township of [[Bandeer]], earning the trust of the local authority, Duche Hedwig a'Alden, by investigating an incident of arson. While you failed to reveal a solid motive for the crime, your investigations led you to lay blame on your choice a drug-dealing gang or a young boy. After attacking the gangsters, you returned to the Duche, where he told you the issue is resolved, and Jonas, the young boy in question, had gone away - a satisfactory ending for the time being.
 
 As agreed, your relative completion of the assigned task has led to more work from the Duche; a personal interest in the mysteries presented by [[The Old|Minyostalma]], the Ancient Empire that never was - specifically, as he recounted, the Duche is interested in the non-magical technology present in the region. You are to be prepared and equipped for the expedition, where you will seek information or examples of this ancient technology, and return to the Duche with your findings.
 
