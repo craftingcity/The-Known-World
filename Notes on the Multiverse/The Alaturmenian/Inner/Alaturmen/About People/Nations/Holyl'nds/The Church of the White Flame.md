@@ -44,10 +44,12 @@ Undesirables are non-human, non-elven people who are in territories of the Churc
 
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
+The Homeland Force acts in the defense of the townships and cities of the Church as a volunteer 
+
 #### The Ideology Correction Corps
 Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
 
-The ICC has made progress in both fields since its founding; the majority of the population
+The ICC has become a monopoly since its founding. The majority of the slave-owning population purchased the people they own from the ICC itself, or a "competing" company they've bought out. Developments in their second purpose include "Caloric Recycling", "Integrated Ideology", and most recently "Ritual Repopulation".
 
 `orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
 
