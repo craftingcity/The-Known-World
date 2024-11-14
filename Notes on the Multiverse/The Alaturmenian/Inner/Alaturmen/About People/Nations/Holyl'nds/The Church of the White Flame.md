@@ -40,16 +40,14 @@ The Patron are those who attend the establishments of their Tendered. They atten
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
 
-Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered.
+Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered, reprocessed, and then fed to the more obedient.
 
 #### Holy Crusaders of Truth and Light
 #### The Homeland Force
 #### The Ideology Correction Corps
-Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. 
+Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
 
-The purpose of the ICC is two-fold. First and foremost, the ICC acquires, trains, and then sells slaves. They act as a major middleman in the business of slave-labor, and serve to fuel the Church's economy and class disparity. Secondarily, the ICC investigates avenues of atheocratic processes, such as alchemy or biology.
-
-Since its founding, the ICC has 
+The ICC has made progress in both fields since its founding; the majority of the population
 
 `orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
 
