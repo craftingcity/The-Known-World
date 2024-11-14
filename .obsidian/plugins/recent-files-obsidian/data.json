@@ -5,12 +5,32 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
     {
-      "basename": "Northern Conflicts, c.105af",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
-    },
-    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Grey Ordeal",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md"
+    },
+    {
+      "basename": "Orcish Shamans",
+      "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Orcish Shamans.md"
+    },
+    {
+      "basename": "The Assault of the Giant Dissenters",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md"
+    },
+    {
+      "basename": "Macht",
+      "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Macht.md"
+    },
+    {
+      "basename": "Macht's Brood",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md"
+    },
+    {
+      "basename": "Northern Conflicts, c.105af",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
     },
     {
       "basename": "Notes From Grain Into Gold",
@@ -179,26 +199,6 @@
     {
       "basename": "Lands of Tetrimoc",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],

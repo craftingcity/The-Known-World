@@ -46,8 +46,14 @@
             "id": "ad8129d6e0ded427",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "The Grey Ordeal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Grey Ordeal\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -317,9 +323,14 @@
   },
   "active": "f38169cb0de980fc",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Game Notes/NPCs/Weak Power/Orcish Shamans/Orcish Shamans.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
+    "Game Notes/NPCs/Weak Power/Orcish Shamans/Macht.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
     "Prenotes Nov 12 24.md",
@@ -339,11 +350,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md",
-    "ORGANIZATION/Faction Turn.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",

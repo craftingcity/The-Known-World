@@ -59,9 +59,9 @@ Founded circa 07XAF, the Ideology Correction Corps serves as a core function of 
 
 The ICC has become a monopoly since its founding. The majority of the slave-owning population purchased the people they own from the ICC itself, or a "competing" company they've bought out. Developments in their second purpose include "Caloric Recycling", "Integrated Ideology", and most recently "Ritual Repopulation".
 
-`orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
+In addition to the "traditional generating slave population", the ICC has been trying to generate a supply of "perfect slaves". [[The Assault of the Giant Dissenters]] has solved a severe issue in this regard in the Orcish people, who are created by ritual - an inherently replicable and mutable process.
 
-vat grown slave fighters for 30+ years, later we incorperated fucking demon blood>????????? from the [[First Invasion of Orcus]]. thats gen 2, they're coming into active service bc they're 16 rn
+Since this development, over the course of hundreds of rituals - experiments have since produced two "viable" clutches. The first clutch was created circa 103AF while using the tendrils of [[Its Greatness]] to heat the caldron for the ritual. This clutch 
 
 #### White Flame Militants for MBED
 
