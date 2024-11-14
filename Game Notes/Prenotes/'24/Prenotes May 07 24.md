@@ -26,7 +26,7 @@ We look onto the party. A clear blue sky welcomes you as you travel through the 
 
 ### What does the World Know?
 "Mining Colony 15" is 11 miles west-north-west of [[Mountain Hall]].
-The caravan will be halted and accosted by the [[Northern Liberationists]] for the purposes of disrupting the [[Web Spun Solutions]] company's ability to supply the [[Northern Conflicts of 105AF]].
+The caravan will be halted and accosted by the [[Northern Liberationists]] for the purposes of disrupting the [[Web Spun Solutions]] company's ability to supply the [[Northern Conflicts, c.105af]].
 
 They will first try to reason with the driver, and will inevitably fail, leading them to move in and forcibly halt and redirect the caravan.
 

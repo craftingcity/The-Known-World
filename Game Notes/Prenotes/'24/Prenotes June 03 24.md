@@ -28,7 +28,7 @@ Hey gamers, lets see what we're working with.
 - Someone's important person has been yoinked by the [[Mossburg Enforcers]]
 - [[Riphounds]], [[Slimknives]], and [[Dampguard]] all have their reason, but they hurt someone close.
 - You know or work with someone in the above factions.
-- Many people are headed North to fight in the [[Northern Conflicts of 105AF]], did you know someone who left? Why did they stop mailing you?
+- Many people are headed North to fight in the [[Northern Conflicts, c.105af]], did you know someone who left? Why did they stop mailing you?
 - Rumors still rumble about the treasures of [[Kailkeep]].
 - You know someone who was hurt at the recent **Garrison Explosion**.
 

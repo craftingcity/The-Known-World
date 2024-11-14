@@ -43,12 +43,16 @@ The Unseen are slaves. They perform duties requested of them by their betters un
 Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered, reprocessed, and then fed to the more obedient.
 
 #### The Homeland Force
-The Homeland Force acts as the reserve military of the Church. The Homeland Force is an attractive option for many, as it offers piety and prosperity for commitment and training. While attending to their training or otherwise 'inactive', members of the Homeland Force act in their typical duties.
+The **Homeland Force** acts as the reserve military of the Church. The **Homeland Force** is an attractive option for many, as it offers piety and prosperity for commitment and training. While attending to their training or otherwise 'inactive', members of the **Homeland Force** act in their typical duties.
 
-The Homeland Force is one of the few ways that an Unseen or Undesirable can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which for some is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
+The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
 
 #### Holy Crusaders of Truth and Light
-The Holy Crusaders of Truth and Light is the active military branch of the Church. Led by the Spoken themselves, the Crusaders pursue invasions against heretics, loose casters, and other enemies of the . Service under the Holy Crusaders is a privilege, 
+The **Holy Crusaders of Truth and Light** is the active military branch of the Church. Led by the *Spoken* themselves, the **Holy Crusaders** pursue invasions against heretics, loose casters, and other enemies of the Church. 
+
+Service under the **Holy Crusaders** is a privilege. The best of the **Homeland Force** are recruited, trained further, and integrated into an army led by one of four *Spoken*-Generals. While historical planar invasions have slowed the progress against their mortal enemies, the Crusaders have claimed victory against the [[Bandit Lords]], and are currently participating in the [[Northern Conflicts, c.105af]] and attacks against the 'heretical' presences in the far west.
+
+Given that war is not a truly public affair in the Church's culture, the presence of the **Slave Corps** is notably omitted from history despite their necessary and grand contributions in the Holy Crusader's victories.
 
 #### The Ideology Correction Corps
 Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
