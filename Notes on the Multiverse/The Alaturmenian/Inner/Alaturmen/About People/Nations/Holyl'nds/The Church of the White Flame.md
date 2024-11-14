@@ -35,7 +35,7 @@ The Collectors use their connection to discern absolute truth of Tendered and Pa
 The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples. The major portion of revenue any Tendered collects is given to the Church, either in the form of local developments or genuine monetary tithe. Some Tendered, like their betters, undertake extra responsibility in the management of the *Unseen*, detaining unclaimed *Undesireables* and 'training' them into compliance under [[#The Ideology Correction Corps]].
 
 ##### Patron
-The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are forcebly required to attend to those duties or provide compensation of greater value under threat of law.
+The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are forcibly required to attend to those duties or provide compensation of greater value under threat of law.
 
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
@@ -43,8 +43,10 @@ The Unseen are slaves. They perform duties requested of them by their betters un
 Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered, reprocessed, and then fed to the more obedient.
 
 #### Holy Crusaders of Truth and Light
+The Holy Crusaders of Truth and Light, or simply the Crusaders
+
 #### The Homeland Force
-The Homeland Force acts in the defense of the townships and cities of the Church as a volunteer 
+The Homeland Force acts in the defense of the townships and cities of the Church as a reserve military. The Homeland Force is an attractive option for many, as it offers piety and prosperity for commitment and training. The Homeland Force is one of the few ways that an Unseen or Undesirable can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which for some carries life-changing social and legal status.
 
 #### The Ideology Correction Corps
 Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
