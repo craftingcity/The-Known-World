@@ -61,7 +61,7 @@ The ICC has become a monopoly since its founding. The majority of the slave-owni
 
 In addition to the "traditional generating slave population", the ICC has been trying to generate a supply of "perfect slaves". [[The Assault of the Giant Dissenters]] has solved a severe issue in this regard in the Orcish people, who are created by ritual - an inherently replicable and mutable process.
 
-Since this development, over the course of hundreds of rituals - experiments have since produced two "viable" clutches. The first clutch was created circa 103AF while using the tendrils of [[Its Greatness]] to heat the caldron for the ritual. This clutch 
+Since this development, over the course of hundreds of rituals - experiments have since produced two "viable" clutches. The first clutch was created circa 103AF while using the tendrils of [[Its Greatness]] to heat the caldron for the ritual. This clutch aged abnormally quickly, presenting a stark contrast between those who could accept and adapt to their circumstances and those who could not. Graduates of the first clutch have been granted 'Silver Medals' and released into the public under constant surveillance. The second clutch was created three years later, c. 106AF, where the first successful ritual was reproduced with the addition of fiendish blood. While the second clutch failed to produce obedient slave population, it was successful in creating a series of powerful military assets.
 
 #### White Flame Militants for MBED
 
