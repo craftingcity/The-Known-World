@@ -35,23 +35,33 @@ The Collectors use their connection to discern absolute truth of Tendered and Pa
 The Tendered of the Church are the middle class of the Church, acting as the owners and masters of business or the local leaders of temples. The major portion of revenue any Tendered collects is given to the Church, either in the form of local developments or genuine monetary tithe. Some Tendered, like their betters, undertake extra responsibility in the management of the *Unseen*, detaining unclaimed *Undesireables* and 'training' them into compliance under [[#The Ideology Correction Corps]].
 
 ##### Patron
-The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are forcebly required to attend to those duties or provide compensation of greater value under threat of law.
+The Patron are those who attend the establishments of their Tendered. They attended to duties assigned to them by those Tendered. While the Patron are considered free folks, they are forcibly required to attend to those duties or provide compensation of greater value under threat of law.
 
 ##### Unseen & Undesirables
 The Unseen are slaves. They perform duties requested of them by their betters under threat of torture and death. They are typically claimed by a particular house sigil and an identification code.
 
-Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered.
+Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered, reprocessed, and then fed to the more obedient.
+
+#### The Homeland Force
+The **Homeland Force** acts as the reserve military of the Church. The **Homeland Force** is an attractive option for many, as it offers piety and prosperity for commitment and training. While attending to their training or otherwise 'inactive', members of the **Homeland Force** act in their typical duties.
+
+The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
 
 #### Holy Crusaders of Truth and Light
-#### The Homeland Force
+The **Holy Crusaders of Truth and Light** is the active military branch of the Church. Led by the *Spoken* themselves, the **Holy Crusaders** pursue invasions against heretics, loose casters, and other enemies of the Church. 
+
+Service under the **Holy Crusaders** is a privilege. The best of the **Homeland Force** are recruited, trained further, and integrated into an army led by one of four *Spoken*-Generals. While historical planar invasions have slowed the progress against their mortal enemies, the Crusaders have claimed victory against the [[Bandit Lords]], and are currently participating in the [[Northern Conflicts, c.105af]] and attacks against the 'heretical' presences in the far west.
+
+Given that war is not a truly public affair in the Church's culture, the presence of the **Slave Corps** is notably omitted from history despite their necessary and grand contributions in the Holy Crusader's victories.
+
 #### The Ideology Correction Corps
-Founded in the early 070AF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. 
+Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
 
-The purpose of the ICC is two-fold. First and foremost, the ICC acquires, trains, and then sells slaves. They act as a major middleman in the business, and serve to fuel the Church's economy. 
+The ICC has become a monopoly since its founding. The majority of the slave-owning population purchased the people they own from the ICC itself, or a "competing" company they've bought out. Developments in their second purpose include "Caloric Recycling", "Integrated Ideology", and most recently "Ritual Repopulation".
 
-`orcish ritual-born suppluments, some killed, some turned unseen, some graduate into patrons -- Zipper (22), Flourence (04)`
+In addition to the "traditional generating slave population", the ICC has been trying to generate a supply of "perfect slaves". [[The Assault of the Giant Dissenters]] has solved a severe issue in this regard in the Orcish people, who are created by ritual - an inherently replicable and mutable process.
 
-vat grown slave fighters for 30+ years, later we incorperated fucking demon blood>????????? from the [[First Invasion of Orcus]]. thats gen 2, they're coming into active service bc they're 16 rn
+Since this development, over the course of hundreds of rituals - experiments have since produced two "viable" clutches. The first clutch was created circa 103AF while using the tendrils of [[Its Greatness]] to heat the caldron for the ritual. This clutch aged abnormally quickly, presenting a stark contrast between those who could accept and adapt to their circumstances and those who could not. Graduates of the first clutch have been granted 'Silver Medals' and released into the public under constant surveillance. The second clutch was created three years later, c. 106AF, where the first successful ritual was reproduced with the addition of fiendish blood. While the second clutch failed to produce obedient slave population, it was successful in creating a series of powerful military assets.
 
 #### White Flame Militants for MBED
 
