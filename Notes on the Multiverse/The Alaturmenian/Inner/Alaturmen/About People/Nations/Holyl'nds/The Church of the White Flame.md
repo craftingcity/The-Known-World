@@ -42,19 +42,22 @@ The Unseen are slaves. They perform duties requested of them by their betters un
 
 Undesirables are non-human, non-elven people who are in territories of the Church and are unclaimed as Unseen. These people will be tortured into compliance by [[#The Ideology Correction Corps]], or murdered, reprocessed, and then fed to the more obedient.
 
-#### The Homeland Force
+### The Homeland Force
 The **Homeland Force** acts as the reserve military of the Church. The **Homeland Force** is an attractive option for many, as it offers piety and prosperity for commitment and training. While attending to their training or otherwise 'inactive', members of the **Homeland Force** act in their typical duties.
 
 The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
 
-#### Holy Crusaders of Truth and Light
+#### White Flame Militants
+The **White Flame Militants** are a selective sub-branch of the **Homeland Force** that is responsible for the containment and minimization of any and all threats posed by [[The Old]].
+
+### Holy Crusaders of Truth and Light
 The **Holy Crusaders of Truth and Light** is the active military branch of the Church. Led by the *Spoken* themselves, the **Holy Crusaders** pursue invasions against heretics, loose casters, and other enemies of the Church. 
 
 Service under the **Holy Crusaders** is a privilege. The best of the **Homeland Force** are recruited, trained further, and integrated into an army led by one of four *Spoken*-Generals. While historical planar invasions have slowed the progress against their mortal enemies, the Crusaders have claimed victory against the [[Bandit Lords]], and are currently participating in the [[Northern Conflicts, c.105af]] and attacks against the 'heretical' presences in the far west.
 
 Given that war is not a truly public affair in the Church's culture, the presence of the **Slave Corps** is notably omitted from history despite their necessary and grand contributions in the Holy Crusader's victories.
 
-#### The Ideology Correction Corps
+### The Ideology Correction Corps
 Founded circa 07XAF, the Ideology Correction Corps serves as a core function of the ecosystem of the Church. The purpose of the ICC is two-fold. First and foremost, the ICC was founded as a business dealing in slave-labor. Secondarily, the ICC investigates avenues towards increasing the quality, efficiency, and supply of that slave-labor.
 
 The ICC has become a monopoly since its founding. The majority of the slave-owning population purchased the people they own from the ICC itself, or a "competing" company they've bought out. Developments in their second purpose include "Caloric Recycling", "Integrated Ideology", and most recently "Ritual Repopulation".
@@ -62,8 +65,6 @@ The ICC has become a monopoly since its founding. The majority of the slave-owni
 In addition to the "traditional generating slave population", the ICC has been trying to generate a supply of "perfect slaves". [[The Assault of the Giant Dissenters]] has solved a severe issue in this regard in the Orcish people, who are created by ritual - an inherently replicable and mutable process.
 
 Since this development, over the course of hundreds of rituals - experiments have since produced two "viable" clutches. The first clutch was created circa 103AF while using the tendrils of [[Its Greatness]] to heat the caldron for the ritual. This clutch aged abnormally quickly, presenting a stark contrast between those who could accept and adapt to their circumstances and those who could not. Graduates of the first clutch have been granted 'Silver Medals' and released into the public under constant surveillance. The second clutch was created three years later, c. 106AF, where the first successful ritual was reproduced with the addition of fiendish blood. While the second clutch failed to produce obedient slave population, it was successful in creating a series of powerful military assets.
-
-#### White Flame Militants for MBED
 
 ## Culture
 ### The Truth
