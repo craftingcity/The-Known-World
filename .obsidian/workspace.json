@@ -127,6 +127,27 @@
             }
           },
           {
+            "id": "c20ded7613717df1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "b99cef4aef1390e6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -173,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9f23d7a154f2279b",
@@ -701,7 +722,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66d4714ab5f619ec",
+  "active": "c20ded7613717df1",
   "lastOpenFiles": [
     "Prenotes Nov xx 24.md",
     "Prenotes Nov 12 24.md",
