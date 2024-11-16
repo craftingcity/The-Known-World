@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -321,7 +321,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f38169cb0de980fc",
+  "active": "b0476f4dd748fe52",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
