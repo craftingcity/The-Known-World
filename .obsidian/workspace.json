@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e510299be6c50ef8",
+        "id": "842a7b41bc9810b8",
         "type": "tabs",
         "children": [
           {
-            "id": "f38169cb0de980fc",
+            "id": "c59744bb7048fb18",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,59 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+                "file": "Prenotes Nov 16 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Church of the White Flame"
-            }
-          }
-        ]
-      },
-      {
-        "id": "643284b3a72261c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad8129d6e0ded427",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "The Grey Ordeal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Grey Ordeal\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Prenotes Nov 16 24"
             }
           }
         ]
@@ -120,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thlas",
+                "query": "\"first meet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,33 +108,13 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "b0476f4dd748fe52",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055,
-    "collapsed": true
+    "width": 287.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -321,12 +260,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0476f4dd748fe52",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Prenotes Nov 16 24.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Orcish Shamans.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Macht.md",
@@ -349,7 +289,6 @@
     "ORGANIZATION/Methods of Organization.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
