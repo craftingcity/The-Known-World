@@ -29,6 +29,29 @@
               "icon": "lucide-file",
               "title": "Prenotes Nov 16 24"
             }
+          },
+          {
+            "id": "e958f9b7a49e94c7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Grand Pantheon"
+            }
           }
         ]
       }
@@ -262,9 +285,10 @@
   },
   "active": "c59744bb7048fb18",
   "lastOpenFiles": [
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Prenotes Nov 16 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
     "Noble House a'Nyrk.md",
-    "Prenotes Nov 16 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -288,7 +312,6 @@
     "A Grand Notepad.md",
     "The Progress of Technology.md",
     "ORGANIZATION/ORGANIZATION.md",
-    "ORGANIZATION/Methods of Organization.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
