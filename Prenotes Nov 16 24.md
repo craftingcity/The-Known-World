@@ -30,4 +30,17 @@ What do you do?
 ### What happened?
 
 
+PIRATE FIGHT
+
+Zipper
+(A)
+Wren
+(B)
+Roan
+(C)
+Saoirse
+(D)
+Cedric
+(E)fvfvfvvfvv
+
 We leave our heroes on the date of ... AF, as they ...
