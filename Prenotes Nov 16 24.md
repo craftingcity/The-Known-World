@@ -33,13 +33,13 @@ What do you do?
 PIRATE FIGHT
 
 Zipper
-(A)
+~~(A) - 4~~
 Wren
-(B, 1 minute marked)
-Roan (react)
-(C)
+~~(B, 1 minute marked) ~~
+Roan
+~~(C) - 7~~
 Saoirse
-(D)
+~~(D)~~
 Cedric
 (E)
 
