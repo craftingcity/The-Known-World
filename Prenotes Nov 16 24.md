@@ -35,12 +35,12 @@ PIRATE FIGHT
 Zipper
 (A)
 Wren
-(B)
-Roan
+(B, 1 minute marked)
+Roan (react)
 (C)
 Saoirse
 (D)
 Cedric
-(E)fvfvfvvfvv
+(E)
 
 We leave our heroes on the date of ... AF, as they ...
