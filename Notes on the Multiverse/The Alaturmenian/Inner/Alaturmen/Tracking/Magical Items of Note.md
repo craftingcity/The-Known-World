@@ -119,7 +119,7 @@ aliases:
 
 		GME-012 is a set of 6 unique daggers, where each of the instances have their own apperance and properties. Descriptions of the instances, named GME-012-1 through -6, are as follows;
 
-		- GME-012-1 is a 9" traditional wide-blade dagger made of an unknown metallic material
+		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. 
 
 		- GME-012-2
 
