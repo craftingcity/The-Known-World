@@ -115,7 +115,9 @@ aliases:
 	Source: Ty'kyta (TL-G contained, confimed deceased)
 	Last Known Keeper: See Entry Desciption.
 
-	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with 
+	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with six equidistant pairs of display rods. Each GME-012 instance is to be placed in one of these six 'holding spaces' within the closet.
+
+		GME-012 is a set of 6 unique daggers, where each of the GME-012 instances (GME-012-1 through ) have their own apperance and proporties. 
 ```
 
 ###### Primalloy Scalemail

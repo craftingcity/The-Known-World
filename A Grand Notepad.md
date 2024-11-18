@@ -203,9 +203,10 @@ magical items
 	- [[First Crusade of the Fire's Will]]
 - Population Centers (ods)
 	- Specifically, creating NPCs with relevant titles
-	- [[The Progress of Technology]]
 	- [[Economy Pages]]
-	- [[Alaturmen's Magical Armies]]
+		- [[The Progress of Technology]]
+		- [[Alaturmen's Magical Armies]]
+		- [[Magical Items of Note]] & [[Magic Item Authors]]
 		- [[Merchant Companies and their Routes]]
 		- [[Notes From Grain Into Gold]] (redo towards faq & goods lists)
 - Books to Write > [[Books To Write]]

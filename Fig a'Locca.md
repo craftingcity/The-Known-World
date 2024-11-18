@@ -3,14 +3,13 @@ tags:
   - npc
 aliases:
 ---
-# Courtney a'LeQuinn
-## Third Count of Kingshold
-### she/her
+# Fig a'Locca
+## Fourth Duche of Yerba
+### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A description of their function in the world.
-Courtney is the Count of [[Oezand]] and a member of [[Noble House a'LeQuinn]].
+Duche of [[Anchansheen]]
 
 ## Roleplaying
 ### Quote

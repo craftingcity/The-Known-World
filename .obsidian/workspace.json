@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "842a7b41bc9810b8",
+        "id": "5ab812e734aa60c5",
         "type": "tabs",
+        "dimension": 62.955465587044536,
         "children": [
           {
-            "id": "c59744bb7048fb18",
+            "id": "0c04a29e2796250a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,68 +17,158 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Nov 16 24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Nov 16 24"
-            }
-          },
-          {
-            "id": "86a6624fb6fc6c1c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Nov 21 24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Nov 21 24"
-            }
-          },
-          {
-            "id": "e958f9b7a49e94c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":208,\"ch\":22},\"to\":{\"line\":208,\"ch\":22}},\"scroll\":48.36952180807696}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Erika a'Valim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Erika a'Valim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lou a'Locca",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lou a'Locca\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Courtney a'LeQuinn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Courtney a'LeQuinn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
+                },
+                {
+                  "title": "Gooblot a'Chrim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Gooblot a'Chrim.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gooblot a'Chrim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gurrak a'Fen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gurrak a'Fen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":34},\"to\":{\"line\":206,\"ch\":34}},\"scroll\":70.39007019717661}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grand Pantheon"
+              "title": "Magical Items of Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ca8d9362323b2f58",
+        "type": "tabs",
+        "dimension": 37.044534412955464,
+        "children": [
+          {
+            "id": "a4f1cfaafebcbda6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":208,\"ch\":22},\"to\":{\"line\":208,\"ch\":22}},\"scroll\":48.36952180807696}"
+                },
+                {
+                  "title": "Erika a'Valim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Erika a'Valim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lou a'Locca",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lou a'Locca\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Courtney a'LeQuinn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Courtney a'LeQuinn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
+                },
+                {
+                  "title": "Gooblot a'Chrim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Gooblot a'Chrim.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gooblot a'Chrim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gurrak a'Fen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gurrak a'Fen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":34},\"to\":{\"line\":206,\"ch\":34}},\"scroll\":70.39007019717661}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "51f158efaa8f0b06",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 287.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -326,8 +418,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86a6624fb6fc6c1c",
+  "active": "a4f1cfaafebcbda6",
   "lastOpenFiles": [
+    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md",
+    "Viliuam a'Huruuc.md",
+    "Joss a'Fen.md",
+    "Dorkanna a'LeQuinn.md",
+    "Fig a'Locca.md",
+    "Gnether a'Alden.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gooblot a'Chrim.md",
+    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Prenotes Nov 16 24.md",
     "Prenotes Nov 21 24.md",
@@ -339,22 +446,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Orcish Shamans.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Local Lore/The Assault of the Giant Dissenters.md",
-    "Game Notes/NPCs/Weak Power/Orcish Shamans/Macht.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/Factions/Macht's Brood.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/The New War in the Old City; A Minyostalman Account of the Modern Age.md",
-    "Prenotes Nov 12 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Hedwig a'Alden.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
-    "A Grand Notepad.md",
-    "The Progress of Technology.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
     "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
