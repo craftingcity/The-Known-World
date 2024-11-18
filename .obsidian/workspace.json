@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"first meet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -418,7 +418,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a4f1cfaafebcbda6",
+  "active": "0c04a29e2796250a",
   "lastOpenFiles": [
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",

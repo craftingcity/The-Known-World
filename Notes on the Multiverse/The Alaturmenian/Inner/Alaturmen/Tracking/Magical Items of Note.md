@@ -18,7 +18,7 @@ aliases:
 
 		GME-000 is a set of 9 identical 16' loops of iron chain, each of which is *assumedly* attuned to one of the nine most distant planes of the universe. The Guild controls of 2 of the total 9 instances of GME-000. While the GME-000 instance is not crossed into a lemniscate, a 'figure eight' or 'hourglass' shape, the instance is non-active, and will act as assumed. If the instance is crossed into a lemniscate, it becomes active, and creates a pair of Type-4 Planar Gates of the attuned plane in the circular sections of the leminscate.
 
-		Descriptions of the instances are named GME-000-1 through -9, and are described as follows;
+		Descriptions of the instances, named GME-000-1 through -9, are as follows;
 		
 		- GME-000-1 is an identical instance to the others, excepting it is attuned to 'The Plane of Earth', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
@@ -113,11 +113,23 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET SET
 	Source: Ty'kyta (TL-G contained, confimed deceased)
-	Last Known Keeper: See Entry Desciption.
+	Last Known Keeper: Quartermaster, Vault 0
 
-	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with six equidistant pairs of display rods. Each GME-012 instance is to be placed in one of these six 'holding spaces' within the closet.
+	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with six equidistant pairs of display rods. Each GME-012 instance is to be placed in one of these six 'holding spaces' within the closet. No instance of GME-012 has been used at the time of article completion, as the entire set was delivered to a member of the Guild by their direct Source during Containment Conference 001.
 
-		GME-012 is a set of 6 unique daggers, where each of the GME-012 instances (GME-012-1 through ) have their own apperance and proporties. 
+		GME-012 is a set of 6 unique daggers, where each of the instances have their own apperance and properties. Descriptions of the instances, named GME-012-1 through -6, are as follows;
+
+		- GME-012-1 is a 9" traditional wide-blade dagger made of an unknown metallic material
+
+		- GME-012-2
+
+		- GME-012-3
+
+		- GME-012-4
+
+		- GME-012-5
+
+		- GME-012-6
 ```
 
 ###### Primalloy Scalemail
