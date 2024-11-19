@@ -14,7 +14,9 @@ In an attempt at reasonable consistency, the following is assumed about Alaturme
 	- Given a population, a leader has employed 0.5-3% of them as soldiers.
 	- A leader will prepare their soldiers significantly more than their levees.
 	- A leader can only consistently supply spells and magical effects of 2nd level or lower.
-	- Characters of greater ability are considered 'Heroes, and cannot reasonably be included in a generic accounting of warfare.
+	- Characters of greater ability are considered 'Heroes', and cannot reasonably be included in a generic accounting of warfare.
+
+Given the mechanics of our game-system, large-scale combats are simulated as a single, ratioed combat, where the grand conflict is reduced by the common denominator.
 
 ### Organization & Logistics
 The traditional aspects of Organization & Logistics apply to a mystical military. Keeping your army fed and equipped for battle is necessary, and as such, so too is a significant logistics network. The majority of magical effects within the given restrictions provide insignificant change from a conventional organizational structure or that structure's logistics operations.

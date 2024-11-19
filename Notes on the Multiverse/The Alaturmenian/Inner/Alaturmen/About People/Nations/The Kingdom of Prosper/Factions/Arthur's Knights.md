@@ -14,7 +14,7 @@ The Chapter Proprius is held in the highest regard among Arthur's Knights. They 
 They bear a flag and tabard of their crest, a four-pointed star contained by four solid dots implying a square on a deep red background, and are adorned in tall, long-tipped armors.
 
 ##### Chapter Constantia
-
+The Chapter Constantia stands in defense of the the Majority of the Kingdom's Relics in 
 
 ##### Chapter Delectus
 ##### Chapter Fides

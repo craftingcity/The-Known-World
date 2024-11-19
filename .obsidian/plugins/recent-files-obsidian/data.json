@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "Guilded Mystic Entries",
+      "path": "Guilded Mystic Entries.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
+    },
+    {
+      "basename": "The Monsters...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
+    },
+    {
       "basename": "Prenotes Nov 21 24",
       "path": "Prenotes Nov 21 24.md"
+    },
+    {
+      "basename": "Alaturmen's Magical Armies",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md"
     },
     {
       "basename": "Prenotes Nov 16 24",
@@ -11,14 +35,6 @@
     {
       "basename": "Prenotes Nov 12 24",
       "path": "Prenotes Nov 12 24.md"
-    },
-    {
-      "basename": "The Monsters...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
     },
     {
       "basename": "ParaeducatorGame",
@@ -53,24 +69,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "Guilded Mystic Entries",
-      "path": "Guilded Mystic Entries.md"
-    },
-    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
     {
       "basename": "Merchant Companies and their Routes",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md"
-    },
-    {
-      "basename": "Alaturmen's Magical Armies",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md"
     },
     {
       "basename": "Erika a'Valim",
@@ -195,10 +199,6 @@
     {
       "basename": "Delta 3 Mercenary Squad",
       "path": "Delta 3 Mercenary Squad.md"
-    },
-    {
-      "basename": "Guild Admin",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md"
     }
   ],
   "omittedPaths": [],
