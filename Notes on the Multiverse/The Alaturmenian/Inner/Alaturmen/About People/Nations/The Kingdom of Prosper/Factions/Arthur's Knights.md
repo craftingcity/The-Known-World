@@ -16,9 +16,11 @@ They bear a flag and tabard of their crest, a four-pointed star contained by fou
 ##### Chapter Constantia
 The **Chapter Constantia** stands in defense of the area east of [[Castle Prosper]] and south of [[Magius]]. In their public capacity, they act as an '*Auxiliary Support Chapter*' in the case that either **Chapter Proprius** or **Chapter Fides** are called to action, leaving time to care for a large portion of the relics of the [[Unification]]. In their private capacity, they keep and care for the Guild Containment Vault 2.
 
-They bear a flag and tabard of their crest, a sword crossing a shield below the thin crown of their King, and the Chapter is adorned in curt, flexible 
+They bear a flag and tabard of their crest, a sword crossing a shield below the thin crown of their King, and the Chapter is adorned in curt, modular armors.
 
 ##### Chapter Delectus
+The **Chapter Delectus** defends the city of [[Yerba]], and is the Chapter with the most commonly experiencing 'peace-time' conflict in the form of border skirmishing, bandit 
+
 ##### Chapter Fides
 ##### Chapter Probitas
 ##### Chapter Rectio
