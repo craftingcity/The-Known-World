@@ -19,11 +19,15 @@ The **Chapter Constantia** stands in defense of the area east of [[Castle Prospe
 They bear a flag and tabard of their crest, a sword crossing a shield below the thin crown of their King, and the Chapter is adorned in curt, modular armors.
 
 ##### Chapter Delectus
-The **Chapter Delectus** defends the city of [[Yerba]], and is the Chapter with the most commonly experiencing 'peace-time' conflict in the form of border skirmishing, bandit 
+The **Chapter Delectus** defends the city of [[Yerba]], and is the Chapter with the most commonly experiencing 'peace-time' conflict in the form of border skirmishing, bandit hunting, and wrangling adventurers.
+
+They bear a flag and tabard of their crest, a skull and crossbones wearing the thin crown of their King, and the Chapter is adorned in thick, spiked armors.
 
 ##### Chapter Fides
 ##### Chapter Probitas
 ##### Chapter Rectio
+
+
 - Proprius
 	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
 - Constantia (K26)
