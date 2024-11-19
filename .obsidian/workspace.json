@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "Arthur's Knights"
             }
+          },
+          {
+            "id": "3a8da3066de3adc1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Containment",
+                "query": "vault",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,8 +303,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "3a8da3066de3adc1",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
@@ -306,7 +331,6 @@
     "Fig a'Locca.md",
     "Gnether a'Alden.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
