@@ -42,10 +42,10 @@ The Description of the Entry must include the following information about the ob
 
 ## Entry Glossaries
 - A *Vault* is a safe and hidden site at which Items of Note are Kept.
-	- *Vault 0* is a Guild operated site deep below Coalition City.
+	- *Vault 0* is a Guild operated site deep below [[Coalition City]].
 	- *Vault 1* is a Guild operated site below the city of [[Kamarios]].
 	- *Vault 2* is a Prosper operated site underground, south-west of [[Magius]].
-	- *Vault 3* is the Lair of the Brass Dragon, Kakurak.
+	- *Vault 3* is the Lair of the Brass Dragon, Kakurak, near the [[Firelight Sea]].
 	- *Vault 4* is a Guild operated site below the city of [[Mossburg]].
 - A *Containment Conference* is a date and location at which the Guild gained control of a given entry.
 - The *Planar Gate Types* are as follows;
