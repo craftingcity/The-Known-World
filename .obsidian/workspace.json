@@ -136,22 +136,28 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Nov 16 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 16 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 16 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":6.069549176551735}"
+                },
+                {
                   "title": "Prenotes Nov 12 24",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 12 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 12 24\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 16 24.md",
+                "file": "Prenotes Nov 21 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov 16 24"
+              "title": "Prenotes Nov 21 24"
             }
           }
         ],
@@ -502,11 +508,11 @@
   },
   "active": "6c4606198662fef7",
   "lastOpenFiles": [
+    "Prenotes Nov 16 24.md",
+    "Prenotes Nov 12 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Prenotes Nov 21 24.md",
-    "Prenotes Nov 16 24.md",
-    "Prenotes Nov 12 24.md",
     "ParaeducatorGame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",

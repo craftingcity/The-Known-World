@@ -24,6 +24,8 @@ What do you do?
 
 The Blue Babyfoot lookin thing is the [[The Artifacts...#Sickly Sapphire]]. The NFTC was contracted by the Rookies of [[The Old|Minyostalma]] to sell and deliver their artifacts at auction in [[Coalition City]], the NFTC will notice their caravan was sacked, and will definitely put out a contract for the party.
 
+If Cedric keeps causing trouble, he might have to dip away for a while. He might be interested in the secrets the party comes to know, but not their methods.
+
 ### What happened?
 
 
