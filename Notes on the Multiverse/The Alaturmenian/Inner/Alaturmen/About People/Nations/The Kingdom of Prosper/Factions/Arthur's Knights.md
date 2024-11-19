@@ -34,8 +34,11 @@ The **Chapter Probitas** defends [[Janesland]] and the agreed borders with the [
 They bear a flag and tabard of their crest, a skull imposed over a four pointed star wearing the crown of their King, and the Chapter is adorned in strong, straight armors.
 
 ##### Chapter Rectio
-The **Chapter Rectio** defends [[Gambleum]], and thusly is held in the lowest regard among Arthur's Knights. Untrusted in significant active duties, the Chapter has slowly and secretly taken to performing duties for the [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]].
+The **Chapter Rectio** stands in defense of both [[Gambleum]] and [[Moonlight]], and yet is held in the lowest regard among Arthur's Knights. Untrusted in significant active duties, the Chapter has slowly and secretly taken to performing duties for the [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]].
 
+They bear a flag and tabard of their crest, a black bull's head over a dimpled field, and the chapter is adorned in heavy, brutish armors. 
+
+```
 - Proprius
 	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
 - Constantia (K26)
@@ -51,7 +54,7 @@ The **Chapter Rectio** defends [[Gambleum]], and thusly is held in the lowest re
 	- chapter in defense of [[Janesland]]
 - Rectio
 	- chapter in defense of [[Gambleum]]
-
+```
 
 ## Culture
 #### Heritage
