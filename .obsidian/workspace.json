@@ -72,8 +72,32 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
+          },
+          {
+            "id": "a57dcaf9aad9a4cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Nov 21 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Nov 21 24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ca8d9362323b2f58",
@@ -418,10 +442,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0c04a29e2796250a",
+  "active": "a57dcaf9aad9a4cb",
   "lastOpenFiles": [
-    "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Guilded Mystic Entries.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
