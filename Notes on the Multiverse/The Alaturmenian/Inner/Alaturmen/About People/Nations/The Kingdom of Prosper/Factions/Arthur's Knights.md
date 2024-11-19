@@ -26,15 +26,15 @@ They bear a flag and tabard of their crest, a skull and crossbones wearing the t
 ##### Chapter Fides
 The **Chapter Fides** stands in defense of the city of [[Magius]], and is often the Chapter granted the obtrusive luxury of performing experimental warfare, both in simulation and in practice. 
 
-They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in simple, curving armors.
+They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in gothic, curving armors.
 
 ##### Chapter Probitas
 The **Chapter Probitas** defends [[Janesland]] and the agreed borders with the [[Blood Clans]]. They are held in high regard for their historic participation during the [[Unification]].
 
-They bear a flag and tabard of their crest, a skull imposed over a four pointed star wearing the crown of their King, and the 
+They bear a flag and tabard of their crest, a skull imposed over a four pointed star wearing the crown of their King, and the Chapter is adorned in strong, straight armors.
 
 ##### Chapter Rectio
-The **Chapter Rectio**
+The **Chapter Rectio** defends [[Gambleum]], and thusly is held in the lowest regard among Arthur's Knights. Untrusted in significant active duties, the Chapter has slowly and secretly taken to performing duties for the [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]].
 
 - Proprius
 	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
