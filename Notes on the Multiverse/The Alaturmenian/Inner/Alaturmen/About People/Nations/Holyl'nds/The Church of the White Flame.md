@@ -45,7 +45,7 @@ Undesirables are non-human, non-elven people who are in territories of the Churc
 ### The Homeland Force
 The **Homeland Force** acts as the reserve military of the Church. The **Homeland Force** is an attractive option for many, as it offers piety and prosperity for commitment and training. While attending to their training or otherwise 'inactive', members of the **Homeland Force** act in their typical duties.
 
-The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the Homeland Force a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
+The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the **Homeland Force** a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
 
 #### White Flame Militants
 The **White Flame Militants** are a selective sub-branch of the **Homeland Force** that is responsible for the containment and minimization of any and all threats posed by [[The Old]].

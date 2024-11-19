@@ -82,22 +82,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Nov 21 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 21 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 21 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":312},\"to\":{\"line\":24,\"ch\":312}},\"scroll\":4.6290508485241615}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 21 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov 21 24"
+              "title": "The Church of the White Flame"
             }
           },
           {
-            "id": "ba93b9539388bfb5",
+            "id": "f0a41ddd7b136776",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -111,16 +117,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The People..."
+              "title": "The Monsters..."
             }
           },
           {
-            "id": "5cb9d64bef63c989",
+            "id": "6c4606198662fef7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -130,22 +136,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Things Aren't Right Here...",
+                  "title": "Prenotes Nov 12 24",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Things Aren't Right Here...\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":317},\"to\":{\"line\":3,\"ch\":317}},\"scroll\":89.23236850770151}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 12 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 12 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "file": "Prenotes Nov 16 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Artifacts..."
+              "title": "Prenotes Nov 16 24"
             }
           }
         ],
@@ -494,11 +500,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5cb9d64bef63c989",
+  "active": "6c4606198662fef7",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Prenotes Nov 21 24.md",
+    "Prenotes Nov 16 24.md",
+    "Prenotes Nov 12 24.md",
+    "ParaeducatorGame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Game Notes/Prenotes/'24/Prenotes July 2X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 0X 24.md",
+    "Game Notes/Prenotes/'24/Prenotes July 1X 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Guilded Mystic Entries.md",
     "A Grand Notepad.md",
@@ -512,16 +528,6 @@
     "Gnether a'Alden.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Lou a'Locca.md",
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Courtney a'LeQuinn.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gooblot a'Chrim.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Prenotes Nov 16 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
-    "Noble House a'Nyrk.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/The Grey Ordeal.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
