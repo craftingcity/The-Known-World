@@ -26,13 +26,13 @@ They bear a flag and tabard of their crest, a skull and crossbones wearing the t
 ##### Chapter Fides
 The **Chapter Fides** stands in defense of the city of [[Magius]], and is often the Chapter granted the obtrusive luxury of performing experimental warfare, both in simulation and in practice. 
 
-They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in simple
+They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in simple, star motif armors.
 
 ##### Chapter Probitas
-
+The **Chapter Probitas** defends [[Janesland]] and the agreed borders with the [[Blood Clans]]. 
 
 ##### Chapter Rectio
-
+The **Chapter Rectio**
 
 - Proprius
 	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
