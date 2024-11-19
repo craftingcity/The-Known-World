@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fides",
+                "query": "Probitas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 200
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -279,7 +279,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3987b496be09d044",
+  "active": "2184e1c918f777a3",
   "lastOpenFiles": [
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",

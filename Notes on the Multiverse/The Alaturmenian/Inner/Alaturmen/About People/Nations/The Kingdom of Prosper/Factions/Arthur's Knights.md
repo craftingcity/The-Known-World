@@ -26,10 +26,12 @@ They bear a flag and tabard of their crest, a skull and crossbones wearing the t
 ##### Chapter Fides
 The **Chapter Fides** stands in defense of the city of [[Magius]], and is often the Chapter granted the obtrusive luxury of performing experimental warfare, both in simulation and in practice. 
 
-They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in simple, star motif armors.
+They bear a flag and tabard of their crest, an eight-pointed star, where the cardinal points are half the size of the diagonals, and the Chapter is adorned in simple, curving armors.
 
 ##### Chapter Probitas
-The **Chapter Probitas** defends [[Janesland]] and the agreed borders with the [[Blood Clans]]. 
+The **Chapter Probitas** defends [[Janesland]] and the agreed borders with the [[Blood Clans]]. They are held in high regard for their historic participation during the [[Unification]].
+
+They bear a flag and tabard of their crest, a skull imposed over a four pointed star wearing the crown of their King, and the 
 
 ##### Chapter Rectio
 The **Chapter Rectio**
