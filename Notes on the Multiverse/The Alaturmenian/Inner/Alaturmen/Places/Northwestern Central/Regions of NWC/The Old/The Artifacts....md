@@ -119,11 +119,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Sickly Sapphire
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ###### Small Tower
 > 'This is the physical description.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
@@ -384,7 +379,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Bloody Dunes* is a passive artifact, and holds up to 7 charges. When you deal a total of 35 or more damage during a turn, this artifact gains a charge at the end of that turn. When you deal damage on your turn, you may spend any number of charges to re-roll that number of damage die. You may not activate this ability more than once in a turn.
 
 ##### Electric
-< 0 common, 2 uncommon, 0 rare >
+< 1 common, 2 uncommon, 0 rare >
+###### Sickly Sapphire
+> 'A small blue gemstone in a shape resembling a baby's foot. White whisps of mist irregularly orbit the stone, passing over your hand as you hold it.'
+> *Sickly Sapphire* is a **common** artifact, and incurs 1d6 (4) radiation.
+> A *Sickly Sapphire* artifact has this effect...
+
 ###### Duram Battery
 > 'A large white rock striped with gold inlays. It hums with potential.'
 > *Duram Battery* are a **uncommon** artifact, and incurs 2d4 (5) Radiation. 
