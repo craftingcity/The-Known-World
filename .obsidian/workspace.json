@@ -87,18 +87,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Nov 19 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Nov 19 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 19 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":176},\"to\":{\"line\":17,\"ch\":176}},\"scroll\":2.820515601183268}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 19 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov 19 24"
+              "title": "Central Alaturmen"
             }
           }
         ],
@@ -204,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.51240158081055
+    "width": 319.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -352,8 +359,8 @@
   },
   "active": "d686ec831277b6d0",
   "lastOpenFiles": [
-    "Noble House a'Nyrk.md",
     "Prenotes Nov 19 24.md",
+    "Noble House a'Nyrk.md",
     "MEDIA/duarndurmTheory.pdn",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Viliuam a'Huruuc.md",
