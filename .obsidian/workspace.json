@@ -108,6 +108,29 @@
             }
           },
           {
+            "id": "179372eee1f93aa2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dwarven Kingdom Suremantle"
+            }
+          },
+          {
             "id": "000019069518611b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -137,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -387,11 +410,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d686ec831277b6d0",
+  "active": "179372eee1f93aa2",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Prenotes Nov 19 24.md",
     "Noble House a'Nyrk.md",
     "MEDIA/duarndurmTheory.pdn",
