@@ -20,7 +20,15 @@ When last we left our heroes, they were staying in the manor of [[Bandeer]]'s Du
 What do you do?
 
 ### What does the World Know?
-
+##### the fight
+Marylynn
+Rowan
+Baddies 
+R 11, 15
+G 11, 15
+B 11, 15
+Bhodi
+Thomas
 
 ### What happened?
 
