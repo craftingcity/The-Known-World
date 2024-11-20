@@ -51,6 +51,7 @@ for the graph: [[Here lie my suppliments...]]
 - [[List of Names]]
 - **Mild Power**
 	- [[Blurfurmgur]]
+	- **Employees of Golden Claw**
 	- **[[Folk of Business]]**
 	- **Knights & Nobles**
 		- [[Borhain a'Huruuc]]
@@ -82,6 +83,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Thief Lords of the Desert]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]
