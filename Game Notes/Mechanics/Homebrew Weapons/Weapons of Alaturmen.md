@@ -161,7 +161,9 @@ War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 ### Ranged Ammunition
 ##### Stones
-Stones are small, less-than palm-sized rocks.
+Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sling.
+
+Stones deal 1d4 bludgeoning damage.
 
 ##### Bolts
 Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
