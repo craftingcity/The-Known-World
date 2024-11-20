@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f23d7a154f2279b",
+        "id": "0b696335cdab3946",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbcea2453dc60b3",
+            "id": "af0cbc26986af8d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,75 +18,51 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Magical Items of Note",
+                  "title": "Sivir Bagwell",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Magical Items of Note\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sivir Bagwell\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Arthur's Knights",
+                  "title": "Viliuam a'Huruuc",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arthur's Knights\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":2.1930649358125995}"
-                },
-                {
-                  "title": "The Kingdom of Prosper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":130},\"to\":{\"line\":20,\"ch\":130}},\"scroll\":8.344149252535578}"
-                },
-                {
-                  "title": "The Democratic Combine of Peoples",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Democratic Combine of Peoples\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":153},\"to\":{\"line\":66,\"ch\":153}},\"scroll\":27.91346335490876}"
-                },
-                {
-                  "title": "Lands of Tetrimoc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lands of Tetrimoc\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":204},\"to\":{\"line\":6,\"ch\":204}}}"
-                },
-                {
-                  "title": "The Church of the White Flame",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Church of the White Flame\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.805010212012217}"
-                },
-                {
-                  "title": "Non-Nation Entities",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Non-Nation Entities\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Viliuam a'Huruuc.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Viliuam a'Huruuc\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Nations",
+                  "title": "Joss a'Fen",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Nations\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Joss a'Fen\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "About People",
+                  "title": "Gnether a'Alden",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"About People\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Gnether a'Alden.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gnether a'Alden\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Alaturmen",
+                  "title": "Boris Farrinik",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Boris Farrinik\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Inner",
+                  "title": "Fig a'Locca",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Fig a'Locca.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fig a'Locca\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Notes on the Multiverse",
+                  "title": "Dorkanna a'LeQuinn",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Dorkanna a'LeQuinn.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dorkanna a'LeQuinn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Delta 3 Mercenary Squad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Delta 3 Mercenary Squad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Delta 3 Mercenary Squad\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -94,15 +70,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Noble House a'Nyrk.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
+              "title": "Noble House a'Nyrk"
+            }
+          },
+          {
+            "id": "d686ec831277b6d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Nov 19 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Nov 19 24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "d41ee7e70d03995f",
+            "id": "bdd2955038837e0b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -182,7 +182,7 @@
             }
           },
           {
-            "id": "b0476f4dd748fe52",
+            "id": "ed93c1539ab43d01",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -200,12 +200,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 319.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -351,35 +350,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6dbcea2453dc60b3",
+  "active": "d686ec831277b6d0",
   "lastOpenFiles": [
+    "Noble House a'Nyrk.md",
+    "Prenotes Nov 19 24.md",
     "MEDIA/duarndurmTheory.pdn",
-    "MEDIA/duarndurmTheory.pdn.0.pdnSave",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Delta 3 Mercenary Squad.md",
+    "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Viliuam a'Huruuc.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Gnether a'Alden.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Fig a'Locca.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Dorkanna a'LeQuinn.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Viliuam a'Huruuc.md",
-    "Prenotes Nov 21 24.md",
-    "Prenotes Nov 16 24.md",
-    "ParaeducatorGame.md",
-    "Noble House a'Nyrk.md",
-    "Joss a'Fen.md",
-    "Gnether a'Alden.md",
-    "Fig a'Locca.md",
-    "Dorkanna a'LeQuinn.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Delta 3 Mercenary Squad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
+    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
