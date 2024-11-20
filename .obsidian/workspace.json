@@ -116,22 +116,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Currency of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Currency of Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":48},\"to\":{\"line\":85,\"ch\":48}},\"scroll\":62.18626125368962}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Currency of Alaturmen"
+              "title": "Homebrew Alchemy System"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.51240158081055
+    "width": 319.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -380,8 +387,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "000019069518611b",
+  "active": "d686ec831277b6d0",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Prenotes Nov 19 24.md",
     "Noble House a'Nyrk.md",
@@ -407,8 +416,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
-    "Guilded Mystic Entries.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
