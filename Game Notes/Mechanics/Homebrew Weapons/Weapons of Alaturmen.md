@@ -24,7 +24,7 @@ Knuckle Dusters deal 1d3 bludgeoning damage.
 Knuckle Dusters are *light* and *stashable*. Once per rest, you may use the weapon's special ability; **Pummel**.
 
 #### Simple Club 
-Simple Clubs are sturdy shafts of simple and straight forward design that are easily crafted and wielded. 
+Simple Clubs are sturdy, simple, and straight shafts of material that are easily crafted and wielded. 
 
 Simple Clubs deal 1d4 bludgeoning damage.
 Simple Clubs are *quick* and *light*. Once per rest, you may use this weapon's special ability; **Cross-lock Grab**.
@@ -66,17 +66,11 @@ Light Daggers are small metal blades of any kind. Most light daggers, or "knives
 Light Daggers deal 1d4 slashing or piercing damage.
 Light Daggers are *light*, *quick*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
-#### Heavy Dagger
-Heavy Daggers are small blades built with the intent that it is used both offensively and defensively in combat over long periods of continued conflict. 
-
-Heavy Daggers deal 1d6 slashing or piercing damage.
-Once per rest, you may use this weapon's special ability;
-
 #### Shortsword
 Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. 
 
 Shortswords deal 1d6 slashing or piercing damage.
-Shortswords are . Once per rest, you may use this weapon's special ability;
+Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
 Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly as it enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
@@ -89,6 +83,11 @@ Martial Weapons are designed for a trained soldier to wield. To effectively use 
 
 ##### Blunts
 #### War Club
+War Clubs are sturdy, reliable weapons made of a solid material, characterized by a heavy head and a tight grip.
+
+War Clubs deal 1d6 bludgeoning damage.
+War Clubs are *light*. Once per rest, you may use this weapon's special ability;
+
 #### Warhammer
 #### Warpick
 #### Flail
@@ -148,12 +147,12 @@ Martial Weapons are designed for a trained soldier to wield. To effectively use 
 #### Compound Bow
 ##### Durandurm Operated
 #### Durandurm Longblaster
-#### Durandurm Repeater
+#### Durandurm Carbine
 #### Durandurm Rotary Repeater
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Repeater
+#### Firepowder Blaster
 #### Firepowder Rotary Repeater
 #### Firepowder Scatterblaster
 #### Firepowder Cannon
@@ -163,6 +162,10 @@ Martial Weapons are designed for a trained soldier to wield. To effectively use 
 ##### Bolts
 ##### Arrows
 ##### Durandurm Magazines
+Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active durandurm charge.
+
+Durandurm Magazines typically deal 1d6 typed damage, but is a variable ammunition.
+
 ##### Firepowder Shot
 
 
