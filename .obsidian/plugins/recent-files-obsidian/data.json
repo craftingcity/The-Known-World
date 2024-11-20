@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Texts",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md"
+    },
+    {
       "basename": "Arms and Armor - North East",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md"
+    },
+    {
+      "basename": "Arms and Armor - South East",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md"
+    },
+    {
+      "basename": "Arms and Armor - North West",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md"
     },
     {
       "basename": "Equipment",
@@ -183,22 +199,6 @@
     {
       "basename": "Gooblot a'Chrim",
       "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Gooblot a'Chrim.md"
-    },
-    {
-      "basename": "Gurrak a'Fen",
-      "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Gurrak a'Fen.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     }
   ],
   "omittedPaths": [],
