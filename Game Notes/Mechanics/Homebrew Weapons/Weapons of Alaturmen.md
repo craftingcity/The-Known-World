@@ -89,6 +89,8 @@ War Clubs deal 1d6 bludgeoning damage.
 War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 #### Warhammer
+
+
 #### Warpick
 #### Flail
 #### Morning Star
@@ -159,14 +161,27 @@ War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 ### Ranged Ammunition
 ##### Stones
-##### Bolts
-##### Arrows
-##### Durandurm Magazines
-Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active durandurm charge.
+Stones are small, less-than palm-sized rocks.
 
-Durandurm Magazines typically deal 1d6 typed damage, but is a variable ammunition.
+##### Bolts
+Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
+
+Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
+
+##### Arrows
+Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
+
+Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
+
+##### Durandurm Magazines
+Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Magazines.
+
+Durandurm Magazines typically deal 1d6 typed damage, but are a variable ammunition.
 
 ##### Firepowder Shot
+Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
+
+Firepowder Shot typically deal 2d4 piercing damage, but are a variable ammunition.
 
 
 ## Cultural Weaponry

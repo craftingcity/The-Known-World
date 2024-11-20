@@ -110,11 +110,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Wineskin | leather | 1 gal | 0.1        |
 
 #### SOLIDS STORAGE
-| Name        | Type | Space | Cost in AC |
-| ----------- | ---- | ----- | ---------- |
-| Backpack    | x    |       |            |
-| Crate       |      |       |            |
-| Black Crate |      |       |            |
+| Name                  | Type | Space | Cost in AC |
+| --------------------- | ---- | ----- | ---------- |
+| Backpack              | x    |       |            |
+| Simple Crate          |      |       |            |
+| Black Arti-lock Crate |      |       |            |
 
 #### ARTIFACTS STORAGE
 | Name                  | Type    | Reduction | Space   | Cost in AC |
