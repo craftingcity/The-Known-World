@@ -101,6 +101,88 @@
               "icon": "lucide-file",
               "title": "A Grand Notepad"
             }
+          },
+          {
+            "id": "2eae846553a56318",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Arms and Armor - North West",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arms and Armor - North West\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Arms and Armor - North East"
+            }
+          },
+          {
+            "id": "20c384117a30b911",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Weapons of Alaturmen"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "bd97b691946ae1d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882860dea68aeb49",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Weapon Mechanics"
+            }
           }
         ]
       }
@@ -151,7 +233,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language",
+                "query": "durandurm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,8 +282,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -351,8 +432,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6dbcea2453dc60b3",
+  "active": "20c384117a30b911",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
+    "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
+    "A Grand Notepad.md",
     "MEDIA/duarndurmTheory.pdn",
     "MEDIA/duarndurmTheory.pdn.0.pdnSave",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Delta 3 Mercenary Squad.md",
@@ -364,7 +451,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
@@ -376,10 +462,6 @@
     "Joss a'Fen.md",
     "Gnether a'Alden.md",
     "Fig a'Locca.md",
-    "Dorkanna a'LeQuinn.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
@@ -388,7 +470,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Shock Islands",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
