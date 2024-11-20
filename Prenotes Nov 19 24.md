@@ -24,9 +24,9 @@ What do you do?
 Marylynn
 Rowan
 Baddies 
-R 11, 15
-G 11, 15
-B 11, 15
+R 11, 15, 25
+G 11, 15, 25
+B 11, 15, 25
 Bhodi
 Thomas
 
