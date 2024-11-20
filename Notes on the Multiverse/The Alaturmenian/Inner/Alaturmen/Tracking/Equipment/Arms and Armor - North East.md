@@ -18,7 +18,7 @@
 | Glaive       | 2d4    | two-handed, long            | 25sp  |
 | Halberd      | 2d6    | two-handed, long            | 36sp  |
 | Spear        | 1d6    | versatile (1d10)            | 42sp  |
-| Javelin      | 1d6    | thrown ()                   |       |
+| Javelin      | 1d6    | thrown (30'/60')            | 21sp  |
 
 ## Ranged Weapons
 | Weapon | Range | Damage | Tags | Cost |

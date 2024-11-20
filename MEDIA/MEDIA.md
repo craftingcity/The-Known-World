@@ -21,8 +21,6 @@
 
 	- **SPREADS**
 
-	- **SPREADS - Copy**
-
 	- **YOINKAGE**
 
 
