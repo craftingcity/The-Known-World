@@ -106,9 +106,32 @@
               "icon": "lucide-file",
               "title": "Central Alaturmen"
             }
+          },
+          {
+            "id": "000019069518611b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Currency of Alaturmen"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"ancient coin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,12 +229,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 319.51240158081055,
-    "collapsed": true
+    "width": 319.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -357,8 +380,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d686ec831277b6d0",
+  "active": "000019069518611b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Prenotes Nov 19 24.md",
     "Noble House a'Nyrk.md",
     "MEDIA/duarndurmTheory.pdn",
@@ -385,7 +409,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
