@@ -73,7 +73,7 @@ Shortswords deal 1d6 slashing or piercing damage.
 Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
-Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly as it enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
+Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
 
 Handaxes deal 2d4 slashing damage.
 Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
@@ -89,14 +89,23 @@ War Clubs deal 1d6 bludgeoning damage.
 War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 #### Warhammer
-Warhammers are reliable tools of battle, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
+Warhammers are reliable tools of war, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
 
 Warhammers deal 2d8 bludgeoning damage.
-Warhammers are *two-handed*. Once per rest, you may use this weapon's special ability;
+Warhammers are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Warpick
+Warpicks are atypical weapons, filling a similar use-case as the Warhammer in urban conflict, but preferring a piercing action over the blunt of a hammer.
+
+Warpicks deal 2d6 piercing damage.
+Warpicks are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
+
 #### Flail
+
+
 #### Morning Star
+
+
 ##### Blades
 #### Push Dagger
 #### Longsword
