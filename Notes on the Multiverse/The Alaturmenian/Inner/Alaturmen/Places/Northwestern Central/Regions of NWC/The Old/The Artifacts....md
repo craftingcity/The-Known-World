@@ -383,7 +383,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Sickly Sapphire
 > 'A small blue gemstone in a shape resembling a baby's foot. White whisps of mist irregularly orbit the stone, passing over your hand as you hold it.'
 > *Sickly Sapphire* is a **common** artifact, and incurs 1d6 (4) radiation.
-> A *Sickly Sapphire* artifact has this effect...
+> A *Sickly Sapphire* is a passive artifact that holds up to ten charges and has a triggered effect. When you make a melee attack on your turn, if you do not already have advantage on this attack, you expend a charge and gain advantage.
 
 ###### Duram Battery
 > 'A large white rock striped with gold inlays. It hums with potential.'
