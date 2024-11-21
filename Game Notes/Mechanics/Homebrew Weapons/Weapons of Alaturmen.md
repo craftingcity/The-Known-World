@@ -101,7 +101,10 @@ Warpicks deal 2d6 piercing damage.
 Warpicks are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Flail
+Flails are a curious tactical choice of weapon, consisting of a leveraging shaft and a heavy head attached by some short flexible material, allowing the head to swing loose.
 
+Flails deal 1d8 bludgeoning damage.
+Flails are *two-handed*, *long* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Morning Star
 
