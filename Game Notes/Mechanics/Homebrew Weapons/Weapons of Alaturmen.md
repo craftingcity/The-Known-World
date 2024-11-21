@@ -6,68 +6,76 @@ Simple weapons can be used by most people. There is no extensive training requir
 
 ##### Natural
 #### Improvised Weapon
-Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". Improvised Weapons deal 1d4 weapon (slashing, bludgeoning, or piercing as applicable) damage.
+Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". 
 
+Improvised Weapons deal 1d4 weapon (slashing, bludgeoning, or piercing as applicable) damage.
 Within reason, most Improvised Weapons are *light*.
 
 #### Environmental Damage
-Environmental Damage is the damage done to creatures as they are pushed into walls, dropped into tables, and crushed beneath crates. Environmental Damage deals 1d6 bludgeoning damage.
+Environmental Damage is the damage done to creatures as they are pushed into walls, dropped into tables, and crushed beneath crates. 
+
+Environmental Damage deals 1d6 bludgeoning damage.
 
 ##### Blunts
 #### Knuckle Dusters
-Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat. Knuckle Dusters deal 1d3 bludgeoning damage.
+Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat.
 
+Knuckle Dusters deal 1d3 bludgeoning damage.
 Knuckle Dusters are *light* and *stashable*. Once per rest, you may use the weapon's special ability; **Pummel**.
 
 #### Simple Club 
-Simple Clubs are sturdy shafts of simple and straight forward design that are easily crafted and wielded. Simple Clubs deal 1d4 bludgeoning damage.
+Simple Clubs are sturdy, simple, and straight shafts of material that are easily crafted and wielded. 
 
+Simple Clubs deal 1d4 bludgeoning damage.
 Simple Clubs are *quick* and *light*. Once per rest, you may use this weapon's special ability; **Cross-lock Grab**.
 
 #### Mace
-Maces are characterized by their heavy head. Attached to a sturdy handle, the head is populated by ribs or spikes deliberately designed to cause damage through armors. Maces deal 2d4 bludgeoning damage.
+Maces are characterized by their heavy head. Attached to a sturdy handle, the head is populated by ribs or spikes deliberately designed to cause damage through armors. 
 
+Maces deal 2d4 bludgeoning damage.
 Maces are *heavy* and *versatile (d6)*. Once per rest, you may use this weapon's special ability; **Sunder**.
 
 #### Maul
-Mauls are crafted with a massive head atop a sturdy handle, and are generally designed to deliver devastating impact via leverage. Mauls deal 3d6 bludgeoning damage.
+Mauls are crafted with a massive head atop a sturdy handle, and are generally designed to deliver devastating impact via leverage. 
 
+Mauls deal 3d6 bludgeoning damage.
 Mauls are *two-handed* and *very heavy*. Once per rest, you may use this weapon's special ability; **Bash**.
 
 #### Carved Staff
-Carved Staves are simple and elegant weapons, typically carved from the branch of a sturdy wood, they are most effectively used by a skilled fighter. Carved Staves deal 1d6 bludgeoning damage.
+Carved Staves are simple and elegant weapons, typically carved from the branch of a sturdy wood, they are most effectively used by a skilled fighter. 
 
+Carved Staves deal 1d6 bludgeoning damage.
 Carved Staves are *quick*, *versatile (d8)* and *long*. Once per rest, you may use this weapon's special ability;
 
 #### Capped Staff
-Capped Staves are a simple improvement on the design of the Carved Staff, electing to sacrifice mobility for increased striking power. Capped Staves deal 2d4 bludgeoning damage.
+Capped Staves are a simple improvement on the design of the Carved Staff, electing to sacrifice mobility for increased striking power. 
 
+Capped Staves deal 2d4 bludgeoning damage.
 Capped Staves are *versatile (d6)* and *long*. Once per rest, you may use this weapon's special ability;
 
 ##### Blades
 #### Metal Fan
-Metal Fans are small sheets of metal sharpened to a blade on it's edge carried in a safe, flip-open container. These blades are most commonly used where true blades or other offensive weapons are disapproved of. Metal Fans deal 1d4 slashing damage.
+Metal Fans are small sheets of metal sharpened to a blade on it's edge carried in a safe, flip-open container. These blades are most commonly used where true blades or other offensive weapons are disapproved of. 
 
+Metal Fans deal 1d4 slashing damage.
 Metal Fans are *quick* and *finesse*. Once per rest, you may use this weapon's special ability;
 
 #### Light Dagger
-Light Daggers are small metal blades of any kind. Most light daggers, or "knives", are personal to their user, and are kept at hand or within reach at all times to be used in simple daily tasks. Light Daggers deal 1d4 slashing or piercing damage.
+Light Daggers are small metal blades of any kind. Most light daggers, or "knives", are personal to their user, and are kept at hand or within reach at all times to be used in simple daily tasks. 
 
+Light Daggers deal 1d4 slashing or piercing damage.
 Light Daggers are *light*, *quick*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
-#### Heavy Dagger
-Heavy Daggers are small blades built with the intent that it is used both offensively and defensively in combat over long periods of continued conflict. Heavy Daggers deal 1d6 slashing or piercing damage.
+#### Shortsword
+Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. 
 
+Shortswords deal 1d6 slashing or piercing damage.
 Once per rest, you may use this weapon's special ability;
 
-#### Shortsword
-Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. Shortswords deal 1d6 slashing or piercing damage.
-
-Shortswords are *heavy*. Once per rest, you may use this weapon's special ability;
-
 #### Handaxe
-Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly as it enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. Handaxes deal 2d4 slashing damage.
+Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
 
+Handaxes deal 2d4 slashing damage.
 Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Melee Weapons
@@ -75,11 +83,35 @@ Martial Weapons are designed for a trained soldier to wield. To effectively use 
 
 ##### Blunts
 #### War Club
+War Clubs are sturdy, reliable weapons made of a solid material, characterized by a heavy head and a tight grip.
+
+War Clubs deal 1d6 bludgeoning damage.
+War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 #### Warhammer
+Warhammers are reliable tools of war, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
+
+Warhammers deal 2d8 bludgeoning damage.
+Warhammers are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
+
 #### Warpick
+Warpicks are atypical weapons, filling a similar use-case as the Warhammer in urban conflict, but preferring a piercing action over the blunt of a hammer.
+
+Warpicks deal 2d6 piercing damage.
+Warpicks are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
+
 #### Flail
+Flails are a curious tactical choice of weapon, consisting of a leveraging shaft and a heavy head attached by some short flexible material, allowing the head to swing loose.
+
+Flails deal 1d8 bludgeoning damage.
+Flails are *two-handed*, *long* and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Morning Star
+Morning Stars are another curious choice, very similar in construction to the Flail, excepting the majority of the shaft has been replaced by the flexible material, allowing the weapon to be wielded in one hand.
+
+Morning Stars deal 1d6 bludgeoning damage.
+Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 ##### Blades
 #### Push Dagger
 #### Longsword
@@ -135,29 +167,49 @@ Martial Weapons are designed for a trained soldier to wield. To effectively use 
 #### Compound Bow
 ##### Durandurm Operated
 #### Durandurm Longblaster
-#### Durandurm Repeater
+#### Durandurm Carbine
 #### Durandurm Rotary Repeater
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Repeater
+#### Firepowder Blaster
 #### Firepowder Rotary Repeater
 #### Firepowder Scatterblaster
 #### Firepowder Cannon
 
 ### Ranged Ammunition
 ##### Stones
+Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sling.
+
+Stones deal 1d4 bludgeoning damage.
+
 ##### Bolts
+Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
+
+Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
+
 ##### Arrows
+Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
+
+Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
+
 ##### Durandurm Magazines
+Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Magazines.
+
+Durandurm Magazines typically deal 1d6 typed damage, but are a variable ammunition.
 
 ##### Firepowder Shot
+Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
+
+Firepowder Shot typically deal 2d4 piercing damage, but are a variable ammunition.
 
 
 ## Cultural Weaponry
+
 ## Specialized Weaponry
 ### Weave-Manipulation Instruments
 #### Arcane Implement
 #### Divine Implement
 #### Elemental Implement
+
 ## Common Weave Patches

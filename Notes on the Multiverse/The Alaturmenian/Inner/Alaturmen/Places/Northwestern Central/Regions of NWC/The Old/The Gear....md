@@ -27,15 +27,16 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Magazine Belt Feeder                | -      | upg       | 12x mag cap         | n/a       | all                  | 5.6        |
 
 #### IMPORTED / FORGED
-| Name                        | Range  | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
-| --------------------------- | ------ | ------------- | -------------------- | --------- | --------- | ---------- |
-| Handblaster                 | 45/120 | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
-| Repeating Blaster / Carbine | 90/360 | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
-| Machine Repeater            | 45/120 | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
-| Pineapple Grenade           | 0-20   | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
-| Fire Grenade                | 0-20   | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
-| Shoebox Anti-Personnel Mine | -      | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
-| Hillsight Shaped Mine       | -      | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
+| Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
+| --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- |
+| Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
+| Longblaster                 | 120/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
+| Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
+| Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
+| Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
+| Fire Grenade                | 0-20    | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
+| Shoebox Anti-Personnel Mine | -       | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
+| Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
 
 #### EQUIPMENT
 | Name                                   | Type                   | Use                           | Importers   | Cost in AC |
@@ -109,11 +110,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Wineskin | leather | 1 gal | 0.1        |
 
 #### SOLIDS STORAGE
-| Name        | Type | Space | Cost in AC |
-| ----------- | ---- | ----- | ---------- |
-| Backpack    | x    |       |            |
-| Crate       |      |       |            |
-| Black Crate |      |       |            |
+| Name                  | Type | Space | Cost in AC |
+| --------------------- | ---- | ----- | ---------- |
+| Backpack              | x    |       |            |
+| Simple Crate          |      |       |            |
+| Black Arti-lock Crate |      |       |            |
 
 #### ARTIFACTS STORAGE
 | Name                  | Type    | Reduction | Space   | Cost in AC |
