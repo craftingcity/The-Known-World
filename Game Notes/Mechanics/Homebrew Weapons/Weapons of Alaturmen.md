@@ -89,7 +89,10 @@ War Clubs deal 1d6 bludgeoning damage.
 War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 #### Warhammer
-Warhammers are 
+Warhammers are reliable tools of battle, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
+
+Warhammers deal 2d8 bludgeoning damage.
+Warhammers are *two-handed*. Once per rest, you may use this weapon's special ability;
 
 #### Warpick
 #### Flail
