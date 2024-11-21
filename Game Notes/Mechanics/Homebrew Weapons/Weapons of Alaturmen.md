@@ -107,7 +107,10 @@ Flails deal 1d8 bludgeoning damage.
 Flails are *two-handed*, *long* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Morning Star
+Morning Stars are another curious choice, very similar in construction to the Flail, excepting the majority of the shaft has been replaced by the flexible material, allowing the weapon to be wielded in one hand.
 
+Morning Stars deal 1d6 bludgeoning damage.
+Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 ##### Blades
 #### Push Dagger
