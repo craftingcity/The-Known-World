@@ -89,7 +89,7 @@ War Clubs deal 1d6 bludgeoning damage.
 War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 
 #### Warhammer
-
+Warhammers are 
 
 #### Warpick
 #### Flail
