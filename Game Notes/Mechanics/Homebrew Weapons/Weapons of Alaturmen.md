@@ -70,13 +70,13 @@ Light Daggers are *light*, *quick*, and *stashable*. Once per rest, you may use 
 Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. 
 
 Shortswords deal 1d6 slashing or piercing damage.
-Once per rest, you may use this weapon's special ability;
+Shortswords are have no tags. Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
 Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
 
 Handaxes deal 2d4 slashing damage.
-Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
+Handaxes are *light*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Melee Weapons
 Martial Weapons are designed for a trained soldier to wield. To effectively use a Martial weapon, significant practice or experience is required.
@@ -91,7 +91,7 @@ War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 #### Warhammer
 Warhammers are reliable tools of war, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
 
-Warhammers deal 2d8 bludgeoning damage.
+Warhammers deal 2d6 bludgeoning damage.
 Warhammers are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Warpick
@@ -109,22 +109,67 @@ Flails are *two-handed*, *long* and *unwieldy*. Once per rest, you may use this 
 #### Morning Star
 Morning Stars are another curious choice, very similar in construction to the Flail, excepting the majority of the shaft has been replaced by the flexible material, allowing the weapon to be wielded in one hand.
 
-Morning Stars deal 1d6 bludgeoning damage.
+Morning Stars deal 2d4 bludgeoning damage.
 Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 ##### Blades
 #### Push Dagger
+Push Daggers are daggers made to be gripped in a closed fist such that the blade is at the face of your fist.
+
+Push Daggers deal 1d6 piercing damage.
+Push Daggers are *light* and *quick*. Once per rest, you may use this weapon's special ability;
+
 #### Longsword
-#### Broadsword
-#### Claymore
+Longswords are straight, hilted blades. Being larger than the Shortsword, but smaller than the Greatsword, the Longsword nestles perfectly into a niche of one- or two-handed versatility.
+
+Longswords deal 1d8 slashing damage.
+Longswords are *heavy* and *versatile (d10)*. Once per rest, you may use this weapon's special ability;
+
+#### Greatsword
+Broadswords are large, straight, hilted blades that must be wielded in two hands due to their size. They are a favorite among brutes, as their size lends authority to their intimidations.
+
+Greatswords deal 2d8 slashing damage.
+Greatswords are *heavy* and *two-handed*. Once per rest, you may use this weapon's special ability;
+
 #### Rapier
+Rapiers are thin, straight, basket-hilted blades that are more effective while wielded with more precision than strength.
+
+Rapiers deal 1d8 piercing damage.
+Rapiers are *finesse* and *quick*. Once per rest, you may use this weapon's special ability;
+
+#### Claymore
+Claymores are large, straight, basket-hilted blades that are designed to be wielded in two hands by a precise user.
+
+Claymore deal 2d6 piercing damage.
+Claymores are *finesse*, *heavy*, and *two-handed*. Once per rest, you may use this weapon's special ability;
+
 #### Sabre
+Sabres are curved, single-sided blades, designed to be used by members of a cavalry force. 
+
+Sabres deal 1d6 slashing damage.
+Sabres are *quick* and *finesse*. Once per rest, you may use this weapon's special ability;
+
 #### Hooksword
+Hookswords are a variation of the Longsword, where the tip of the blade is curved back towards its wielder to aid in the unarming of opponents.
+
+Hookswords deal 1d6 slashing damage.
+Hookswords are *versatile (d8)*. Once per rest, you may use this weapon's special ability;
+
 #### Battleaxe
+Battleaxes are weapons of brutal finality, where the head of your weapon takes chunks of material with every solid strike.
+
+Battleaxes deal 2d6 slashing damage.
+Battleaxes are *heavy*, and *versatile (d8)*. Once per rest, you may use this weapon's special ability;
+
 #### Greataxe
+Greataxes are gaudy implements of death used by the arrogant or the effective. Sporting two massive axeheads on a shaft, the Greataxe reeks of danger.
+
+Greataxes deal 3d8 slashing damage.
+Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 ##### Polearms
 #### Glaive
-#### Haldberd
+#### Halberd
 #### Spear
 #### Lance
 #### Warscythe
