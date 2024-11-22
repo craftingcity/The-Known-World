@@ -70,7 +70,7 @@ Light Daggers are *light*, *quick*, and *stashable*. Once per rest, you may use 
 Shortswords are blades designed to be wielded in one hand during long-term combat. Usable by anyone who can identify the sharp and pointy parts, the shortsword is a staple of guards, mercenaries, and first-time adventurers. 
 
 Shortswords deal 1d6 slashing or piercing damage.
-Once per rest, you may use this weapon's special ability;
+Shortswords are have no tags. Once per rest, you may use this weapon's special ability;
 
 #### Handaxe
 Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
@@ -141,7 +141,7 @@ Rapiers are *finesse* and *quick*. Once per rest, you may use this weapon's spec
 Claymores are large, straight, basket-hilted blades that are designed to be wielded in two hands by a precise user.
 
 Claymore deal 2d6 piercing damage.
-Claymores are *finesse* and *two-handed*. Once per rest, you may use this weapon's special ability;
+Claymores are *finesse*, *heavy*, and *two-handed*. Once per rest, you may use this weapon's special ability;
 
 #### Sabre
 Sabres are curved, single-sided blades, designed to be used by members of a cavalry force. 
@@ -150,10 +150,23 @@ Sabres deal 1d6 slashing damage.
 Sabres are *quick* and *finesse*. Once per rest, you may use this weapon's special ability;
 
 #### Hooksword
+Hookswords are a variation of the Longsword, where the tip of the blade is curved back towards its wielder to aid in the unarming of opponents.
 
+Hookswords deal 1d6 slashing damage.
+Hookswords are *versatile (d8)*. Once per rest, you may use this weapon's special ability;
 
 #### Battleaxe
+Battleaxes are weapons of brutal finality, where the head of your weapon takes chunks of material with every solid strike.
+
+Battleaxes deal 2d6 slashing damage.
+Battleaxes are *heavy*, and *versatile (d8)*. Once per rest, you may use this weapon's special ability;
+
 #### Greataxe
+Greataxes are gaudy implements of death used by the arrogant or the effective. Sporting two massive axeheads on a shaft, the Greataxe reeks of danger.
+
+Greataxes deal 3d8 slashing damage.
+Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 ##### Polearms
 #### Glaive
 #### Halberd
