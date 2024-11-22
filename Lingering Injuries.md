@@ -17,7 +17,7 @@ Superficial Injuries can be ignored in the short term, and are typically tempora
 Severe Injuries can be ignored at significant expense, and could become threatening if left unresolved. The following spells resolve Severe Injuries: *lesser restoration* and *prayer of healing*.
 
 ##### Debilitating
-Debilitating Injuries are the most major Tier, presenting the genuine threat of death if left unresolved. The following spells resolve Debilitating Injuries: *greater restoration*, *heal*
+Debilitating Injuries are the most major Tier, presenting the genuine threat of death if left unresolved. The following spells resolve Debilitating Injuries: *greater restoration*, *heal*, and *mass heal*. Additionally, *power word: heal* resolves 3 **Lasting Injuries**, and *regenerate* or *wish* resolves all **Lasting Injuries**.
 
 ### Injury Tables by Damage Type
 #### Bludgeoning
