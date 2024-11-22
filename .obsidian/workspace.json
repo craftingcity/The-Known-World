@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7726c444f50a4c56",
+        "id": "7c3deb157a5ec082",
         "type": "tabs",
-        "dimension": 59.51417004048584,
         "children": [
           {
-            "id": "7d8b52e442743b3a",
+            "id": "efed415175126914",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,16 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 21 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov 21 24"
+              "title": "Things Aren't Right Here..."
             }
           },
           {
-            "id": "6bf59d62088c7edb",
+            "id": "4dce3247a4c8ceb4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -40,28 +39,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Weapons of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":167,\"ch\":110},\"to\":{\"line\":167,\"ch\":110}},\"scroll\":211.18925399467665}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Nov 21 24.md",
+                "file": "Lingering Injuries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Nov 21 24"
+              "title": "Lingering Injuries"
             }
           },
           {
-            "id": "785872a7904a604b",
+            "id": "b81def3c7f66a260",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,105 +68,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilded Mystic Entries.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          },
-          {
-            "id": "4e0c32d80f9fd7be",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
+              "title": "The Artifacts..."
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "1da9f12b8e612255",
-        "type": "split",
-        "dimension": 40.48582995951416,
-        "children": [
-          {
-            "id": "acb937aa66f3c729",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd0c1755fa894ea5",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Weapons of Alaturmen"
-                }
-              }
-            ]
-          },
-          {
-            "id": "04acdd40eaf99b9e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff67e70ed1882c07",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Weapon Mechanics"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.51240158081055
+    "width": 465.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -422,14 +327,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e0c32d80f9fd7be",
+  "active": "4dce3247a4c8ceb4",
   "lastOpenFiles": [
-    "Guilded Mystic Entries.md",
-    "Prenotes Nov 21 24.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
+    "Lingering Injuries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Prenotes Nov 21 24.md",
+    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md",
@@ -444,14 +356,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Noble House a'Nyrk.md",
     "MEDIA/duarndurmTheory.pdn",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Viliuam a'Huruuc.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Gnether a'Alden.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
