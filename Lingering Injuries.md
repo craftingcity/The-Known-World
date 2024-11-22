@@ -21,7 +21,16 @@ Debilitating Injuries are the most major Tier, presenting the genuine threat of 
 
 ### Injury Tables by Damage Type
 #### Bludgeoning
-| #     | %   | Tier | Injury         | Effect |
-| ----- | --- | ---- | -------------- | ------ |
-| 3 - 4 | 2%  |      | Cranial Trauma |        |
-|       |     |      |                |        |
+| #       | %   | Tier | Injury         | Effect |
+| ------- | --- | ---- | -------------- | ------ |
+| 3 - 4   | 2%  |      | Cranial Trauma |        |
+| 5       | 3%  |      |                |        |
+| 6       | 4%  |      |                |        |
+| 7 - 8   | 16% |      |                |        |
+| 9       | 11% |      |                |        |
+| 10      | 13% |      |                |        |
+| 11      | 13% | M     |                |        |
+| 12 - 13 | 21% | M     |                |        |
+| 14 - 15 | 11% | S     |                |        |
+| 16      | 3%  | S     |                |        |
+| 17 - 18 | 2%  | S     |                |        |
