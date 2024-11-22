@@ -5,4 +5,5 @@ The most dire consequences of combat are the **Lingering Injuries** the survivor
 	- are Critically Hit by any Attack.
 	- are reduced to 0 Hit Points.
 	- fail a Death Save.
-When you take a **Lingering Injury**, you will roll 3d6 to determine the injury your character receives. Your character will receive 
+When you take a **Lingering Injury**, you will roll 3d6 and compare the result to the relevant table below. When you do, *record your injury, where on your body it is, and how you got it.* ***Every scar has a story***.
+
