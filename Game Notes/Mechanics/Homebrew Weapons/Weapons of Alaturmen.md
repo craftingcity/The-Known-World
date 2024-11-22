@@ -120,16 +120,24 @@ Push Daggers deal 1d6 piercing damage.
 Push Daggers are *light* and *quick*. Once per rest, you may use this weapon's special ability;
 
 #### Longsword
-Longswords are straight, hilted blades. Being larger than the Shortsword, but smaller than the Broadsword or Claymore, the Longsword nestles perfectly into a niche of one- or two-handed versatility.
+Longswords are straight, hilted blades. Being larger than the Shortsword, but smaller than the Greatsword, the Longsword nestles perfectly into a niche of one- or two-handed versatility.
 
 Longswords deal 1d8 slashing damage.
-Longswords are *heavy* and *versatile (d10)*.
+Longswords are *heavy* and *versatile (d10)*. Once per rest, you may use this weapon's special ability;
 
-#### Broadsword
-Broadswords are large, straight, hilted blades. 
+#### Greatsword
+Broadswords are large, straight, hilted blades that must be wielded in two hands due to their size.
+
+Greatswords deal 2d8 slashing damage.
+Greatswords are *heavy* and *two-handed*. Once per rest, you may use this weapon's special ability;
+
+#### Rapier
+Rapiers are straight, thin, basket-hilted blades that are more effective 
 
 #### Claymore
-#### Rapier
+Claymores are 
+
+
 #### Sabre
 #### Hooksword
 #### Battleaxe
