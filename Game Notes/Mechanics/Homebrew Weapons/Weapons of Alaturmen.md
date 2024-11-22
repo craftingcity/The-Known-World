@@ -114,6 +114,11 @@ Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon
 
 ##### Blades
 #### Push Dagger
+Push Daggers are daggers made to be gripped in a closed fist such that the blade is at the face of your fist.
+
+Push Daggers deal 1d6 piercing damage.
+Push Daggers are *light* and *quick*. Once per rest, you may use this weapon's special ability;
+
 #### Longsword
 #### Broadsword
 #### Claymore

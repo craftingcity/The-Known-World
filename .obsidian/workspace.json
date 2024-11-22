@@ -6,6 +6,7 @@
       {
         "id": "7726c444f50a4c56",
         "type": "tabs",
+        "dimension": 59.51417004048582,
         "children": [
           {
             "id": "7d8b52e442743b3a",
@@ -20,10 +21,68 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Nov 21 24.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prenotes Nov 21 24"
+            }
+          },
+          {
+            "id": "6bf59d62088c7edb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Weapons of Alaturmen"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "510863005cb9ee8a",
+        "type": "tabs",
+        "dimension": 40.48582995951417,
+        "children": [
+          {
+            "id": "ff67e70ed1882c07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Weapon Mechanics"
             }
           }
         ]
@@ -124,12 +183,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 465.51240158081055
+    "width": 465.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -275,8 +334,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ed93c1539ab43d01",
+  "active": "6bf59d62088c7edb",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Prenotes Nov 21 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
@@ -302,9 +364,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Dorkanna a'LeQuinn.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Delta 3 Mercenary Squad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
