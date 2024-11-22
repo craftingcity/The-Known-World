@@ -7,3 +7,15 @@ The most dire consequences of combat are the **Lingering Injuries** the survivor
 	- fail a Death Save.
 When you take a **Lingering Injury**, you will roll 3d6 and compare the result to the relevant table below. When you do, *record your injury, where on your body it is, and how you got it.* ***Every scar has a story***.
 
+### Injury Tiers & Magical Healing
+More significant injuries require more significant healing. **Lingering Injuries** and Magical Healing are both categorized into *Injury Tiers*. Spells listed in a given *Injury Tiers* resolve one **Lingering Injury** in the same tier or lower. The *Injury Tiers*, in ascending order, are as follows; Superficial, Severe, and Debilitating.
+
+##### Superficial
+#####
+
+### Injury Tables by Damage Type
+#### Bludgeoning
+| #     | %   | Tier | Injury         | Effect |
+| ----- | --- | ---- | -------------- | ------ |
+| 3 - 4 | 2%  |      | Cranial Trauma |        |
+|       |     |      |                |        |
