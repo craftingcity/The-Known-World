@@ -109,7 +109,7 @@ Flails are *two-handed*, *long* and *unwieldy*. Once per rest, you may use this 
 #### Morning Star
 Morning Stars are another curious choice, very similar in construction to the Flail, excepting the majority of the shaft has been replaced by the flexible material, allowing the weapon to be wielded in one hand.
 
-Morning Stars deal 1d6 bludgeoning damage.
+Morning Stars deal 2d4 bludgeoning damage.
 Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 ##### Blades
@@ -126,17 +126,19 @@ Longswords deal 1d8 slashing damage.
 Longswords are *heavy* and *versatile (d10)*. Once per rest, you may use this weapon's special ability;
 
 #### Greatsword
-Broadswords are large, straight, hilted blades that must be wielded in two hands due to their size.
+Broadswords are large, straight, hilted blades that must be wielded in two hands due to their size. They are a favorite among brutes, as their size lends authority to their intimidations.
 
 Greatswords deal 2d8 slashing damage.
 Greatswords are *heavy* and *two-handed*. Once per rest, you may use this weapon's special ability;
 
 #### Rapier
-Rapiers are straight, thin, basket-hilted blades that are more effective 
+Rapiers are thin, straight, basket-hilted blades that are more effective while wielded with more precision than strength.
+
+Rapiers deal 1d8 piercing damage.
+Rapiers are *finesse* and *quick*. Once per rest, you may use this weapon's special ability;
 
 #### Claymore
-Claymores are 
-
+Claymores are large
 
 #### Sabre
 #### Hooksword
