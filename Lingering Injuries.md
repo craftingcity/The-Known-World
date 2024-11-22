@@ -13,7 +13,7 @@ More significant injuries require more significant healing. **Lingering Injuries
 ### Injury Tables by Damage Type
 `bludgeoning, slashing, peircing, acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, thunder`
 
-#### Bludgeoning
+#### Bludgeoning / Force
 | #       | %   | Tier | Injury           | Effect |
 | ------- | --- | ---- | ---------------- | ------ |
 | 3 - 4   | 2%  | D    | Cranial Trauma   |        |
@@ -70,46 +70,32 @@ More significant injuries require more significant healing. **Lingering Injuries
 | 16 - 18 | 5%  | -    | Minor Acid Scarring |        |
 
 #### Cold
-| #       | %   | Tier | Injury             | Effect |
-| ------- | --- | ---- | ------------------ | ------ |
-| 3 - 4   | 2%  | D    | Damaged Eye        |        |
-| 5       | 3%  | D    | Maimed Arm/Hand    |        |
-| 6       | 4%  | D    | Maimed Leg/Foot    |        |
-| 7       | 7%  | D    | Major Nerve Damage |        |
-| 8 - 9   | 21% | M    | Minor Nerve Damage |        |
-| 10      | 13% | M    | Misc. Organ Damage |        |
-| 11      | 13% | S    | Major Frostbite   |        |
-| 12 - 13 | 21% | S    | Minor Frostbite    |        |
-| 14 - 15 | 11% | S    | Low Core Tempurature      |        |
-| 16 - 18 | 5%  | S    | Shivers      |        |
+| #       | %   | Tier | Injury               | Effect |
+| ------- | --- | ---- | -------------------- | ------ |
+| 3 - 4   | 2%  | D    | Damaged Eye          |        |
+| 5       | 3%  | D    | Maimed Arm/Hand      |        |
+| 6       | 4%  | D    | Maimed Leg/Foot      |        |
+| 7       | 7%  | D    | Major Nerve Damage   |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage   |        |
+| 10      | 13% | M    | Misc. Organ Damage   |        |
+| 11      | 13% | S    | Major Frostbite      |        |
+| 12 - 13 | 21% | S    | Minor Frostbite      |        |
+| 14 - 15 | 11% | S    | Low Core Temperature |        |
+| 16 - 18 | 5%  | S    | Shivers              |        |
 
 #### Fire
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
-
-#### Force
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury             | Effect |
+| ------- | --- | ---- | ------------------ | ------ |
+| 3 - 4   | 2%  | D    | Lose an Eye        |        |
+| 5       | 3%  | D    | Damaged Eye        |        |
+| 6       | 4%  | D    | Major Nerve Damage |        |
+| 7       | 7%  | M    | 3rd Degree Burn    |        |
+| 8 - 9   | 21% | M    | 2nd Degree Burn    |        |
+| 10      | 13% | M    | Minor Nerve Damage |        |
+| 11      | 13% | S    | First Degree Burn  |        |
+| 12 - 13 | 21% | S    | Severe Blisters    |        |
+| 14 - 15 | 11% | S    | Minor Blisters     |        |
+| 16 - 18 | 5%  | S    | Hair Loss          |        |
 
 #### Lightning
 | #       | %   | Tier | Injury           | Effect |
