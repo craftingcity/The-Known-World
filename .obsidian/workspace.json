@@ -155,6 +155,20 @@
             }
           },
           {
+            "id": "975b43957d951202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "0e74f7e4bc5c4b8a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -201,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bd03dc5daee59ed5",
@@ -538,11 +552,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "20c384117a30b911",
+  "active": "975b43957d951202",
   "lastOpenFiles": [
-    "MEDIA/SUPP/duarndurmTheory.pdn",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "conflict-files-obsidian-git.md",
+    "MEDIA/SUPP/duarndurmTheory.pdn",
     "Prenotes Nov 19 24.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -575,7 +589,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
