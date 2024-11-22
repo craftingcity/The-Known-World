@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandurm",
+                "query": "apple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,12 +225,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 465.51240158081055,
-    "collapsed": true
+    "width": 465.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -376,7 +376,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6bf59d62088c7edb",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
