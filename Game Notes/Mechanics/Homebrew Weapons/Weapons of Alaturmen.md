@@ -138,15 +138,25 @@ Rapiers deal 1d8 piercing damage.
 Rapiers are *finesse* and *quick*. Once per rest, you may use this weapon's special ability;
 
 #### Claymore
-Claymores are large
+Claymores are large, straight, basket-hilted blades that are designed to be wielded in two hands by a precise user.
+
+Claymore deal 2d6 piercing damage.
+Claymores are *finesse* and *two-handed*. Once per rest, you may use this weapon's special ability;
 
 #### Sabre
+Sabres are curved, single-sided blades, designed to be used by members of a cavalry force. 
+
+Sabres deal 1d6 slashing damage.
+Sabres are *quick* and *finesse*. Once per rest, you may use this weapon's special ability;
+
 #### Hooksword
+
+
 #### Battleaxe
 #### Greataxe
 ##### Polearms
 #### Glaive
-#### Haldberd
+#### Halberd
 #### Spear
 #### Lance
 #### Warscythe
