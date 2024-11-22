@@ -59,9 +59,55 @@
               "icon": "lucide-file",
               "title": "Prenotes Nov 21 24"
             }
+          },
+          {
+            "id": "785872a7904a604b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "4e0c32d80f9fd7be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1da9f12b8e612255",
@@ -176,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apple",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -376,13 +422,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6bf59d62088c7edb",
+  "active": "4e0c32d80f9fd7be",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
+    "Guilded Mystic Entries.md",
     "Prenotes Nov 21 24.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
@@ -404,8 +452,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Gnether a'Alden.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Boris Farrinik.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Fig a'Locca.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Dorkanna a'LeQuinn.md",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
