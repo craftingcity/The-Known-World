@@ -76,7 +76,7 @@ Once per rest, you may use this weapon's special ability;
 Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal edge that will quickly enters its target and leave a gaping wound. Designed to make chunks of tougher material than flesh, the handaxe is a brutal weapon when used effectively. 
 
 Handaxes deal 2d4 slashing damage.
-Handaxes are *heavy*. Once per rest, you may use this weapon's special ability;
+Handaxes are *light*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Melee Weapons
 Martial Weapons are designed for a trained soldier to wield. To effectively use a Martial weapon, significant practice or experience is required.
@@ -91,7 +91,7 @@ War Clubs are *light*. Once per rest, you may use this weapon's special ability;
 #### Warhammer
 Warhammers are reliable tools of war, where a shaft applies leverage to a heavy head. Often used as a breaching tool, the Warhammer is a staple of urban conflicts.
 
-Warhammers deal 2d8 bludgeoning damage.
+Warhammers deal 2d6 bludgeoning damage.
 Warhammers are *two-handed* and *heavy*. Once per rest, you may use this weapon's special ability;
 
 #### Warpick
@@ -120,7 +120,14 @@ Push Daggers deal 1d6 piercing damage.
 Push Daggers are *light* and *quick*. Once per rest, you may use this weapon's special ability;
 
 #### Longsword
+Longswords are straight, hilted blades. Being larger than the Shortsword, but smaller than the Broadsword or Claymore, the Longsword nestles perfectly into a niche of one- or two-handed versatility.
+
+Longswords deal 1d8 slashing damage.
+Longswords are *heavy* and *versatile (d10)*.
+
 #### Broadsword
+Broadswords are large, straight, hilted blades. 
+
 #### Claymore
 #### Rapier
 #### Sabre
