@@ -169,6 +169,8 @@ Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use 
 
 ##### Polearms
 #### Glaive
+Glaives are tall polearms with a single-edged blade affixed on its end. Used as a slashing implement, the Glaive is a 
+
 #### Halberd
 #### Spear
 #### Lance
