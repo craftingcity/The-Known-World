@@ -28,5 +28,6 @@ If Cedric keeps causing trouble, he might have to dip away for a while. He might
 
 ### What happened?
 
+Soairse & Roan got out of jail, and then told the truth. We stole 6 boxes of Guilded gear, and got the hell out of [[Moonlight]]. Roan still has 375sp in the bag.
 
 We leave our heroes on the date of ... AF, as they ...
