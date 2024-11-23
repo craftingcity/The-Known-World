@@ -6,7 +6,7 @@
       {
         "id": "7c3deb157a5ec082",
         "type": "tabs",
-        "dimension": 53.69458128078818,
+        "dimension": 68.96551724137932,
         "children": [
           {
             "id": "efed415175126914",
@@ -83,7 +83,7 @@
       {
         "id": "5674fefaa05af7bb",
         "type": "tabs",
-        "dimension": 46.30541871921182,
+        "dimension": 31.03448275862069,
         "children": [
           {
             "id": "c4fe6e5ecd812ffb",
@@ -358,7 +358,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c4fe6e5ecd812ffb",
+  "active": "4dce3247a4c8ceb4",
   "lastOpenFiles": [
     "MEDIA/SUPP/SPREADS/PermanentInjuries.ods",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",

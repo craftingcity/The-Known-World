@@ -142,28 +142,28 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Tetanus           |        |
 
 #### Psychic
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury              | Effect |
+| ------- | --- | ---- | ------------------- | ------ |
+| 3 - 4   | 2%  | D    | Brain Death         |        |
+| 5       | 3%  | D    | Lobotomization      |        |
+| 6       | 4%  | D    | Severe Memory Loss  |        |
+| 7       | 7%  | D    | Lasting Migraine    |        |
+| 8 - 9   | 21% | M    | Weakened Persona    |        |
+| 10      | 13% | M    | Major Concussion    |        |
+| 11      | 13% | M    | Disturbed Sleep     |        |
+| 12 - 13 | 21% | S    | Temporary Blindness |        |
+| 14 - 15 | 11% | S    | Severe Nausea       |        |
+| 16 - 18 | 5%  | S    | Minor Nausea        |        |
 
 #### Radiant
 | #       | %   | Tier | Injury           | Effect |
 | ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
+| 3 - 4   | 2%  | D    | Cancerous Tumors   |        |
+| 5       | 3%  | D    | Blindness       |        |
+| 6       | 4%  | D    | Spiritual Trauma       |        |
+| 7       | 7%  | D    | 3rd Degree Burn      |        |
+| 8 - 9   | 21% | M    | 2nd Degree Burn     |        |
+| 10      | 13% | M    | Minor Nerve Damage |        |
 | 11      | 13% | s    | Minor Concussion |        |
 | 12 - 13 | 21% | S    | Severe Bruising  |        |
 | 14 - 15 | 11% | S    | Missing Teeth    |        |
@@ -219,6 +219,8 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Cardiac Injury
 	- Liver Damage
 	- Minor Disease
+	- Disturbed Sleep
+	- Weakened Persona
 #### Debilitating
 	- Missing Tooth
 	- Broken Ribs
@@ -237,3 +239,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Severe Disease
 	- Liver Failure
 	- Immunocompromised
+	- Severe Memory Loss
+	- Lasting Migrane
+	- Lobotomization
+	- Brain Death
