@@ -89,7 +89,7 @@ More significant injuries require more significant healing. **Lingering Injuries
 | 3 - 4   | 2%  | D    | Lose an Eye        |        |
 | 5       | 3%  | D    | Damaged Eye        |        |
 | 6       | 4%  | D    | Major Nerve Damage |        |
-| 7       | 7%  | M    | 3rd Degree Burn    |        |
+| 7       | 7%  | D    | 3rd Degree Burn    |        |
 | 8 - 9   | 21% | M    | 2nd Degree Burn    |        |
 | 10      | 13% | M    | Minor Nerve Damage |        |
 | 11      | 13% | S    | First Degree Burn  |        |
@@ -98,32 +98,32 @@ More significant injuries require more significant healing. **Lingering Injuries
 | 16 - 18 | 5%  | S    | Hair Loss          |        |
 
 #### Lightning
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury              | Effect |
+| ------- | --- | ---- | ------------------- | ------ |
+| 3 - 4   | 2%  | D    | Cranial Trauma      |        |
+| 5       | 3%  | D    | Severed Arm/Hand    |        |
+| 6       | 4%  | D    | Severed Leg/Foot    |        |
+| 7       | 7%  | D    | Major Nerve Damage  |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage  |        |
+| 10      | 13% | M    | Kidney Failure      |        |
+| 11      | 13% | M    | Cardiac Injury      |        |
+| 12 - 13 | 21% | S    | Temporary Blindness |        |
+| 14 - 15 | 11% | S    | Muscular Damage     |        |
+| 16 - 18 | 5%  | S    | Shivers             |        |
 
 #### Necrotic
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury               | Effect |
+| ------- | --- | ---- | -------------------- | ------ |
+| 3 - 4   | 2%  | D    | Spiritual Trauma     |        |
+| 5       | 3%  | D    | Damaged Eye |        |
+| 6       | 4%  | D    | Major Orgon Necrosis           |        |
+| 7       | 7%  | D    | Major Nerve Damage          |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage         |        |
+| 10      | 13% | M    | Misc. Organ Damage     |        |
+| 11      | 13% | M    | Festering Wound     |        |
+| 12 - 13 | 21% | S    | Severe Bruising      |        |
+| 14 - 15 | 11% | S    | Shivers        |        |
+| 16 - 18 | 5%  | S    | Popped Socket        |        |
 
 #### Poison
 | #       | %   | Tier | Injury           | Effect |
