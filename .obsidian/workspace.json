@@ -157,6 +157,15 @@
           {
             "id": "100bcf64b9bb6f54",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -166,6 +175,27 @@
               },
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "287bd6ebc02925fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -215,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "bd03dc5daee59ed5",
@@ -402,7 +432,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -552,7 +582,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "100bcf64b9bb6f54",
+  "active": "b0476f4dd748fe52",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "conflict-files-obsidian-git.md",
