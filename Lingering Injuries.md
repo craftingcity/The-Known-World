@@ -115,14 +115,14 @@ More significant injuries require more significant healing. **Lingering Injuries
 | #       | %   | Tier | Injury               | Effect |
 | ------- | --- | ---- | -------------------- | ------ |
 | 3 - 4   | 2%  | D    | Spiritual Trauma     |        |
-| 5       | 3%  | D    | Damaged Eye |        |
-| 6       | 4%  | D    | Major Orgon Necrosis           |        |
-| 7       | 7%  | D    | Major Nerve Damage          |        |
-| 8 - 9   | 21% | M    | Minor Nerve Damage         |        |
-| 10      | 13% | M    | Misc. Organ Damage     |        |
-| 11      | 13% | M    | Festering Wound     |        |
-| 12 - 13 | 21% | S    | Severe Bruising      |        |
-| 14 - 15 | 11% | S    | Shivers        |        |
+| 5       | 3%  | D    | Damaged Eye          |        |
+| 6       | 4%  | D    | Major Orgon Necrosis |        |
+| 7       | 7%  | D    | Major Nerve Damage   |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage   |        |
+| 10      | 13% | M    | Misc. Organ Damage   |        |
+| 11      | 13% | M    | Festering Wound      |        |
+| 12 - 13 | 21% | S    | Minor Blisters       |        |
+| 14 - 15 | 11% | S    | Shivers              |        |
 | 16 - 18 | 5%  | S    | Popped Socket        |        |
 
 #### Poison
