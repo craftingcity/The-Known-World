@@ -13,8 +13,6 @@ More significant injuries require more significant healing. **Lingering Injuries
 The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wounds* & *healing word*), 'Major' (*lesser restoration* & *prayer of healing*), and 'Debilitating' (*greater restoration* & *heal*). 
 
 ### Injury Tables by Damage Type
-`bludgeoning, slashing, peircing, acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, thunder`
-
 #### Bludgeoning / Force
 | #       | %   | Tier | Injury           | Effect |
 | ------- | --- | ---- | ---------------- | ------ |
@@ -156,32 +154,32 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Minor Nausea        |        |
 
 #### Radiant
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cancerous Tumors   |        |
-| 5       | 3%  | D    | Blindness       |        |
-| 6       | 4%  | D    | Spiritual Trauma       |        |
-| 7       | 7%  | D    | 3rd Degree Burn      |        |
+| #       | %   | Tier | Injury              | Effect |
+| ------- | --- | ---- | ------------------- | ------ |
+| 3 - 4   | 2%  | D    | Cancerous Tumors    |        |
+| 5       | 3%  | D    | Blindness           |        |
+| 6       | 4%  | D    | Spiritual Trauma    |        |
+| 7       | 7%  | D    | 3rd Degree Burn     |        |
 | 8 - 9   | 21% | M    | 2nd Degree Burn     |        |
-| 10      | 13% | M    | Minor Nerve Damage |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| 10      | 13% | M    | Minor Nerve Damage  |        |
+| 11      | 13% | M    | Illuminated         |        |
+| 12 - 13 | 21% | S    | Temporary Blindness |        |
+| 14 - 15 | 11% | S    | Color Blindness     |        |
+| 16 - 18 | 5%  | S    | Color Loss          |        |
 
 #### Thunder
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | s    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury            | Effect |
+| ------- | --- | ---- | ----------------- | ------ |
+| 3 - 4   | 2%  | D    | Cranial Trauma    |        |
+| 5       | 3%  | D    | Broken Arm        |        |
+| 6       | 4%  | D    | Broken Leg        |        |
+| 7       | 7%  | D    | Broken Ribs       |        |
+| 8 - 9   | 21% | M    | Deafened          |        |
+| 10      | 13% | M    | Major Concussion  |        |
+| 11      | 13% | M    | Sound Sensitivity |        |
+| 12 - 13 | 21% | S    | Tinnitus          |        |
+| 14 - 15 | 11% | S    | Severe Nausea     |        |
+| 16 - 18 | 5%  | S    | Popped Socket     |        |
 
 ### Lingering Injuries by Tier
 #### Superficial
@@ -206,6 +204,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Color Loss
 	- Severe Nausea
 	- Minor Nausea
+	- Color Blindness
 #### Major
 	- Major Concussion
 	- Bruised Ribs
@@ -221,6 +220,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Minor Disease
 	- Disturbed Sleep
 	- Weakened Persona
+	- Illuminated
 #### Debilitating
 	- Missing Tooth
 	- Broken Ribs
@@ -231,6 +231,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Lose a Finger
 	- Lose an Eye
 	- Damaged Eye
+	- Blindness
 	- Major Nerve Damage
 	- 3rd Degree Burn
 	- Spiritual Trauma
@@ -243,3 +244,5 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Lasting Migrane
 	- Lobotomization
 	- Brain Death
+	- Blindness
+	- Cancerous Tumors
