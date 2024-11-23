@@ -49,7 +49,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 3 - 4   | 2%  | D    | Lose an Eye        |        |
 | 5       | 3%  | D    | Maimed Arm/Hand    |        |
 | 6       | 4%  | D    | Maimed Leg/Foot    |        |
-| 7       | 7%  | M    | Disabled Lung     |        |
+| 7       | 7%  | M    | Disabled Lung      |        |
 | 8 - 9   | 21% | M    | Misc. Organ Damage |        |
 | 10      | 13% | M    | Deep Wound         |        |
 | 11      | 13% | M    | Festering Wound    |        |
@@ -58,32 +58,32 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Major Scarring     |        |
 
 #### Acid
-| #       | %   | Tier | Injury              | Effect |
-| ------- | --- | ---- | ------------------- | ------ |
-| 3 - 4   | 2%  | D    | Lose an Eye         |        |
-| 5       | 3%  | D    | Maimed Arm/Hand     |        |
-| 6       | 4%  | D    | Maimed Leg/Foot     |        |
-| 7       | 7%  | D    | Major Nerve Damage  |        |
-| 8 - 9   | 21% | M    | Minor Nerve Damage  |        |
-| 10      | 13% | M    | Disabled Lung       |        |
-| 11      | 13% | S    | Severe Blisters     |        |
-| 12 - 13 | 21% | S    | Minor Blisters      |        |
-| 14 - 15 | 11% | -    | Major Acid Scarring |        |
-| 16 - 18 | 5%  | -    | Minor Acid Scarring |        |
+| #       | %   | Tier | Injury             | Effect |
+| ------- | --- | ---- | ------------------ | ------ |
+| 3 - 4   | 2%  | D    | Lose an Eye        |        |
+| 5       | 3%  | D    | Maimed Arm/Hand    |        |
+| 6       | 4%  | D    | Maimed Leg/Foot    |        |
+| 7       | 7%  | D    | Major Nerve Damage |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage |        |
+| 10      | 13% | M    | Disabled Lung      |        |
+| 11      | 13% | S    | Severe Blisters    |        |
+| 12 - 13 | 21% | S    | Minor Blisters     |        |
+| 14 - 15 | 11% | S    | Major Scarring     |        |
+| 16 - 18 | 5%  | S    | Minor Scarring     |        |
 
 #### Cold
-| #       | %   | Tier | Injury               | Effect |
-| ------- | --- | ---- | -------------------- | ------ |
-| 3 - 4   | 2%  | D    | Damaged Eye          |        |
-| 5       | 3%  | D    | Maimed Arm/Hand      |        |
-| 6       | 4%  | D    | Maimed Leg/Foot      |        |
-| 7       | 7%  | D    | Major Nerve Damage   |        |
-| 8 - 9   | 21% | M    | Minor Nerve Damage   |        |
-| 10      | 13% | M    | Misc. Organ Damage   |        |
-| 11      | 13% | S    | Major Frostbite      |        |
-| 12 - 13 | 21% | S    | Minor Frostbite      |        |
-| 14 - 15 | 11% | S    | Low Core Temperature |        |
-| 16 - 18 | 5%  | S    | Shivers              |        |
+| #       | %   | Tier | Injury             | Effect |
+| ------- | --- | ---- | ------------------ | ------ |
+| 3 - 4   | 2%  | D    | Damaged Eye        |        |
+| 5       | 3%  | D    | Maimed Arm/Hand    |        |
+| 6       | 4%  | D    | Maimed Leg/Foot    |        |
+| 7       | 7%  | D    | Major Nerve Damage |        |
+| 8 - 9   | 21% | M    | Minor Nerve Damage |        |
+| 10      | 13% | M    | Misc. Organ Damage |        |
+| 11      | 13% | S    | Severe Frostbite   |        |
+| 12 - 13 | 21% | S    | Minor Frostbite    |        |
+| 14 - 15 | 11% | S    | Low Core Temp.     |        |
+| 16 - 18 | 5%  | S    | Shivers            |        |
 
 #### Fire
 | #       | %   | Tier | Injury             | Effect |
@@ -94,7 +94,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 7       | 7%  | D    | 3rd Degree Burn    |        |
 | 8 - 9   | 21% | M    | 2nd Degree Burn    |        |
 | 10      | 13% | M    | Minor Nerve Damage |        |
-| 11      | 13% | S    | First Degree Burn  |        |
+| 11      | 13% | S    | 1st Degree Burn    |        |
 | 12 - 13 | 21% | S    | Severe Blisters    |        |
 | 14 - 15 | 11% | S    | Minor Blisters     |        |
 | 16 - 18 | 5%  | S    | Hair Loss          |        |
@@ -182,3 +182,50 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 12 - 13 | 21% | S    | Severe Bruising  |        |
 | 14 - 15 | 11% | S    | Missing Teeth    |        |
 | 16 - 18 | 5%  | S    | Popped Socket    |        |
+
+### Lingering Injuries by Tier
+#### Superficial
+	- Popped Socket
+	- Severe Bruising
+	- Minor Concussion
+	- Open Wound
+	- Major Scarring
+	- Minor Scarring
+	- Tetanus
+	- Severe Blisters
+	- Minor Blisters
+	- Severe Frostbite
+	- Minor Frostbite
+	- Low Core Temp.
+	- Shivers
+	- 1st Degree Burn
+	- Hair Loss
+	- Temporary Blindness
+	- Muscular Damage
+	- Jitters
+	- Color Loss
+#### Major
+	- Major Concussion
+	- Bruised Ribs
+	- Deep Wound
+	- Festering Wound
+	- Disabled Lung
+	- Misc. Organ Damage
+	- Minor Nerve Damage
+	- 2nd Degree Burn
+	- Kidney Failure
+	- Cardiac Injury
+#### Debilitating
+	- Missing Tooth
+	- Broken Ribs
+	- Broken/Severed/Maimed Leg/Foot
+	- Broken/Severed/Maimed Arm/Hand
+	- Cranial Trauma
+	- Severed Ear
+	- Lose a Finger
+	- Lose an Eye
+	- Damaged Eye
+	- Major Nerve Damage
+	- 3rd Degree Burn
+	- Spiritual Trauma
+	- Organ Necrosis
