@@ -128,18 +128,18 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Color Loss         |        |
 
 #### Poison
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm       |        |
-| 6       | 4%  | D    | Broken Leg       |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | S    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | S    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury            | Effect |
+| ------- | --- | ---- | ----------------- | ------ |
+| 3 - 4   | 2%  | D    | Systemic Toxicity |        |
+| 5       | 3%  | D    | Severe Disease    |        |
+| 6       | 4%  | D    | Liver Failure     |        |
+| 7       | 7%  | D    | Immunocompromised |        |
+| 8 - 9   | 21% | M    | Liver Damage      |        |
+| 10      | 13% | M    | Disabled Lung     |        |
+| 11      | 13% | M    | Minor Disease     |        |
+| 12 - 13 | 21% | S    | Severe Nausea     |        |
+| 14 - 15 | 11% | S    | Minor Nausea      |        |
+| 16 - 18 | 5%  | S    | Tetanus           |        |
 
 #### Psychic
 | #       | %   | Tier | Injury           | Effect |
@@ -204,6 +204,8 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- Muscular Damage
 	- Jitters
 	- Color Loss
+	- Severe Nausea
+	- Minor Nausea
 #### Major
 	- Major Concussion
 	- Bruised Ribs
@@ -215,6 +217,8 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- 2nd Degree Burn
 	- Kidney Failure
 	- Cardiac Injury
+	- Liver Damage
+	- Minor Disease
 #### Debilitating
 	- Missing Tooth
 	- Broken Ribs
@@ -229,3 +233,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 	- 3rd Degree Burn
 	- Spiritual Trauma
 	- Organ Necrosis
+	- Systemic Toxicity
+	- Severe Disease
+	- Liver Failure
+	- Immunocompromised
