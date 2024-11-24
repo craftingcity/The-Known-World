@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Lingering Injuries",
+      "path": "Lingering Injuries.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
       "basename": "Pirre Tald",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
     },
     {
       "basename": "Nicolas Talaveem",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -191,14 +195,6 @@
     {
       "basename": "Nations",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
     }
   ],
   "omittedPaths": [],

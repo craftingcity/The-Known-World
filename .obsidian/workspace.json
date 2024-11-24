@@ -1,138 +1,14 @@
 {
   "main": {
-    "id": "5f52aa261a79bdc8",
+    "id": "80326dbbbf5b4a03",
     "type": "split",
     "children": [
       {
-        "id": "9f23d7a154f2279b",
+        "id": "2a027772a34f2612",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbcea2453dc60b3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Magical Items of Note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Magical Items of Note\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arthur's Knights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arthur's Knights\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":2.1930649358125995}"
-                },
-                {
-                  "title": "The Kingdom of Prosper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":130},\"to\":{\"line\":20,\"ch\":130}},\"scroll\":8.344149252535578}"
-                },
-                {
-                  "title": "The Democratic Combine of Peoples",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Democratic Combine of Peoples\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":153},\"to\":{\"line\":66,\"ch\":153}},\"scroll\":27.91346335490876}"
-                },
-                {
-                  "title": "Lands of Tetrimoc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lands of Tetrimoc\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":204},\"to\":{\"line\":6,\"ch\":204}}}"
-                },
-                {
-                  "title": "The Church of the White Flame",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Church of the White Flame\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.805010212012217}"
-                },
-                {
-                  "title": "Non-Nation Entities",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Non-Nation Entities\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Nations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "About People",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"About People\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Inner",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Notes on the Multiverse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
-            "id": "2eae846553a56318",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Arms and Armor - North West",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arms and Armor - North West\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arms and Armor - North East"
-            }
-          },
-          {
-            "id": "20c384117a30b911",
+            "id": "ad2d33edf35ea692",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -146,243 +22,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Lingering Injuries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
-            }
-          },
-          {
-            "id": "9c22f423b44d38ce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "ecf05a5536d94eb7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Pirre Tald"
-            }
-          },
-          {
-            "id": "47fa6750ef9aabce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nicolas Talaveem"
-            }
-          },
-          {
-            "id": "0e74f7e4bc5c4b8a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/The Hatdroppers.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Hatdroppers"
-            }
-          },
-          {
-            "id": "3205b75c360d6730",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jerran Stormwind.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jerran Stormwind"
+              "title": "Lingering Injuries"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "bd03dc5daee59ed5",
-        "type": "split",
-        "children": [
-          {
-            "id": "bd97b691946ae1d2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "882860dea68aeb49",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Weapon Mechanics"
-                }
-              },
-              {
-                "id": "7361ed3cdaccee8d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Gear..."
-                }
-              }
-            ]
-          },
-          {
-            "id": "ca613edba9ae3c09",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e91ecf762fedc8b5",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Weapons of Alaturmen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a18deb3adc33bcf",
+    "id": "0779bfc4490c9b6b",
     "type": "split",
     "children": [
       {
-        "id": "69b9e4e3788e0230",
+        "id": "2e1b603a06df7722",
         "type": "tabs",
         "children": [
           {
-            "id": "32a1ca7a8d6ec426",
+            "id": "dafe8404df17708b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -393,21 +56,12 @@
             }
           },
           {
-            "id": "3987b496be09d044",
+            "id": "17bba7903284a409",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
-                "query": "\"yellow mage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -419,17 +73,8 @@
             }
           },
           {
-            "id": "d41ee7e70d03995f",
+            "id": "4a80674af177abd3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -438,7 +83,7 @@
             }
           },
           {
-            "id": "b0476f4dd748fe52",
+            "id": "298c7d20ae26fdd8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -457,36 +102,27 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.51240158081055
+    "width": 300
   },
   "right": {
-    "id": "da0e5aa812cd01d8",
+    "id": "f2489dfa6d1ed691",
     "type": "split",
     "children": [
       {
-        "id": "18603e72bfb94e49",
+        "id": "5bf5572624a0ec7f",
         "type": "tabs",
         "children": [
           {
-            "id": "7d42013b695a19bf",
+            "id": "8b54bb0f66e6f5c8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+                "file": "Lingering Injuries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,44 +132,26 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arthur's Knights"
+              "title": "Backlinks for Lingering Injuries"
             }
           },
           {
-            "id": "2226593058a66b15",
+            "id": "b978224cf709b65c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+                "file": "Lingering Injuries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arthur's Knights"
+              "title": "Outgoing links from Lingering Injuries"
             }
           },
           {
-            "id": "0a6d42b415aae950",
+            "id": "f05030d0945b2e54",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -545,17 +163,8 @@
             }
           },
           {
-            "id": "b73fb4040350d53c",
+            "id": "270e9f40f5ca1a28",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -568,24 +177,15 @@
             }
           },
           {
-            "id": "73a9c33238efbb2d",
+            "id": "ebcd1cdda0cfcfe9",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+                "file": "Lingering Injuries.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arthur's Knights"
+              "title": "Outline of Lingering Injuries"
             }
           }
         ]
@@ -597,55 +197,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecf05a5536d94eb7",
+  "active": "ad2d33edf35ea692",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Junie's Characters/Dante Fukili.md",
-    "Junie's Characters/Kamili.md",
-    "Junie's Characters/Erin 'Fox' Bathal.md",
-    "Junie's Characters/Junie's Characters.md",
-    "Junie's Characters/Grekk.md",
-    "Junie's Characters/Eliza 'Elliot' O'Brien.md",
-    "Junie's Characters/Amelia Hawkford, the Red.md",
-    "Junie's Characters",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)",
-    "MEDIA/SUPP/SPREADS/PermanentInjuries.ods",
-    "Lingering Injuries.md",
-    "MEDIA/SUPP/duarndurmTheory.pdn",
-    "Prenotes Nov 19 24.md",
-    "MEDIA/duarndurmTheory.pdn",
-    "MEDIA/duarndurmTheory.pdn.0.pdnSave",
-    "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "MEDIA/MAPS/WORLD/underdark.png"
+    "conflict-files-obsidian-git.md"
   ]
 }

@@ -14,18 +14,18 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 
 ### Injury Tables by Damage Type
 #### Bludgeoning / Force
-| #       | %   | Tier | Injury           | Effect                                                                            |
-| ------- | --- | ---- | ---------------- | --------------------------------------------------------------------------------- |
-| 3 - 4   | 2%  | D    | Cranial Trauma   | You have sustained significant Cranial Trauma. Roll again on the *Psychic* table. |
-| 5       | 3%  | D    | Broken Arm/Hand  | You have                                                                                   |
-| 6       | 4%  | D    | Broken Leg/Foot  |                                                                                   |
-| 7       | 7%  | D    | Broken Ribs      |                                                                                   |
-| 8 - 9   | 21% | M    | Bruised Ribs     |                                                                                   |
-| 10      | 13% | M    | Major Concussion |                                                                                   |
-| 11      | 13% | S    | Minor Concussion |                                                                                   |
-| 12 - 13 | 21% | S    | Severe Bruising  |                                                                                   |
-| 14 - 15 | 11% | D    | Missing Teeth    |                                                                                   |
-| 16 - 18 | 5%  | S    | Popped Socket    |                                                                                   |
+| #       | %   | Tier | Injury           | Effect                                                                                                                                                                                                         | Resolving |
+| ------- | --- | ---- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 3 - 4   | 2%  | D    | Cranial Trauma   | You have sustained significant Cranial Trauma. Roll again on the *Psychic* table.                                                                                                                              | -         |
+| 5       | 3%  | D    | Broken Arm/Hand  | You have broken major bones in one of your arms. You have Disadvantage on Strength Checks and Saving Throws, you can no longer hold anything in two hands, and you can only hold one object or item at a time. |           |
+| 6       | 4%  | D    | Broken Leg/Foot  | You have broken major bones in one of your legs. Your speed is reduced by 15', and for every 5' you move, you take 1d4 necrotic damage.                                                                        |           |
+| 7       | 7%  | D    | Broken Ribs      | You have broken a number of ribs. You have Disadvantage on Strength Checks and Saving Throws                                                                                                                   |           |
+| 8 - 9   | 21% | M    | Bruised Ribs     |                                                                                                                                                                                                                |           |
+| 10      | 13% | M    | Major Concussion |                                                                                                                                                                                                                |           |
+| 11      | 13% | S    | Minor Concussion |                                                                                                                                                                                                                |           |
+| 12 - 13 | 21% | S    | Severe Bruising  |                                                                                                                                                                                                                |           |
+| 14 - 15 | 11% | D    | Missing Teeth    |                                                                                                                                                                                                                |           |
+| 16 - 18 | 5%  | S    | Popped Socket    |                                                                                                                                                                                                                |           |
 
 #### Slashing
 | #       | %   | Tier | Injury           | Effect |
