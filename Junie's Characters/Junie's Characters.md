@@ -3,8 +3,8 @@
 - [[Amelia Hawkford, the Red]]
 - [[Eliza 'Elliot' O'Brien]]
 - [[Erin 'Fox' Bathal]]
-- [[Extra Credit]]
 - [[Grekk]]
+- [[Kamili]]
 
 %% End Waypoint %%
 

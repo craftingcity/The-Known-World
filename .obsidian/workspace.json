@@ -55,6 +55,41 @@
             }
           },
           {
+            "id": "167d9305cb8422b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Grekk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Grekk.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Grekk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0.2928767061987589}"
+                },
+                {
+                  "title": "Junie's Characters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Kamili.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kamili"
+            }
+          },
+          {
             "id": "b81def3c7f66a260",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -78,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5674fefaa05af7bb",
@@ -157,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "desert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.51240158081055,
-    "collapsed": true
+    "width": 465.51240158081055
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -358,11 +392,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4dce3247a4c8ceb4",
+  "active": "3987b496be09d044",
   "lastOpenFiles": [
+    "Junie's Characters/Grekk.md",
+    "Junie's Characters/Kamili.md",
+    "Junie's Characters/Extra Credit.md",
+    "Junie's Characters/Junie's Characters.md",
+    "Lingering Injuries.md",
     "MEDIA/SUPP/SPREADS/PermanentInjuries.ods",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "Lingering Injuries.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md",
@@ -384,9 +422,6 @@
     "MEDIA/SUPP/duarndurmTheory.pdn",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Equipment.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Prenotes Nov 19 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "MEDIA/duarndurmTheory.pdn",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -395,7 +430,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Traders",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
     "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]
