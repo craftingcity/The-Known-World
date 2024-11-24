@@ -18,10 +18,11 @@ When you reduce a creature to 0 hitpoints that you have not affected with a *blo
 ##### Fate's Bargain
 You take this feature instead of the **Brand of the Sapping Scar** feature at 11th level.
 
-	Your soul is your own again.qa
+Your soul is your own again.
 
 ## Blood Curses
 ##### Curse of the Warrior
-As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature.
+As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*.
+
 *Amplify*. You may choose any creature instead. 
 

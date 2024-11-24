@@ -65,6 +65,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Skills of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Skills of Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Combat Mechanics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.295720058989346}"
+                },
+                {
+                  "title": "Custom Class - Blood Hunter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Blood Hunter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":48},\"to\":{\"line\":26,\"ch\":48}},\"scroll\":0.18806152208194782}"
+                },
+                {
                   "title": "Mechanics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanics\"}",
@@ -99,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Class - Blood Hunter"
+              "title": "Untitled"
             }
           },
           {
@@ -411,8 +429,11 @@
   },
   "active": "167d9305cb8422b7",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Untitled.md",
+    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md",
+    "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
     "Junie's Characters/Kamili.md",
     "Junie's Characters/Grekk.md",
@@ -435,9 +456,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - South East.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md",
     "MEDIA/SUPP/duarndurmTheory.pdn",
     "MEDIA/duarndurmTheory.pdn",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
