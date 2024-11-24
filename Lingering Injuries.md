@@ -14,18 +14,18 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 
 ### Injury Tables by Damage Type
 #### Bludgeoning / Force
-| #       | %   | Tier | Injury           | Effect |
-| ------- | --- | ---- | ---------------- | ------ |
-| 3 - 4   | 2%  | D    | Cranial Trauma   |        |
-| 5       | 3%  | D    | Broken Arm/Hand  |        |
-| 6       | 4%  | D    | Broken Leg/Foot  |        |
-| 7       | 7%  | D    | Broken Ribs      |        |
-| 8 - 9   | 21% | M    | Bruised Ribs     |        |
-| 10      | 13% | M    | Major Concussion |        |
-| 11      | 13% | S    | Minor Concussion |        |
-| 12 - 13 | 21% | S    | Severe Bruising  |        |
-| 14 - 15 | 11% | D    | Missing Teeth    |        |
-| 16 - 18 | 5%  | S    | Popped Socket    |        |
+| #       | %   | Tier | Injury           | Effect                                                                            |
+| ------- | --- | ---- | ---------------- | --------------------------------------------------------------------------------- |
+| 3 - 4   | 2%  | D    | Cranial Trauma   | You have sustained significant Cranial Trauma. Roll again on the *Psychic* table. |
+| 5       | 3%  | D    | Broken Arm/Hand  | You have                                                                                   |
+| 6       | 4%  | D    | Broken Leg/Foot  |                                                                                   |
+| 7       | 7%  | D    | Broken Ribs      |                                                                                   |
+| 8 - 9   | 21% | M    | Bruised Ribs     |                                                                                   |
+| 10      | 13% | M    | Major Concussion |                                                                                   |
+| 11      | 13% | S    | Minor Concussion |                                                                                   |
+| 12 - 13 | 21% | S    | Severe Bruising  |                                                                                   |
+| 14 - 15 | 11% | D    | Missing Teeth    |                                                                                   |
+| 16 - 18 | 5%  | S    | Popped Socket    |                                                                                   |
 
 #### Slashing
 | #       | %   | Tier | Injury           | Effect |
@@ -150,7 +150,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 10      | 13% | M    | Major Concussion    |        |
 | 11      | 13% | M    | Disturbed Sleep     |        |
 | 12 - 13 | 21% | S    | Temporary Blindness |        |
-| 14 - 15 | 11% | S    | Severe Nausea       |        |
+| 14 - 15 | 11% | S    | Minor Concussion    |        |
 | 16 - 18 | 5%  | S    | Minor Nausea        |        |
 
 #### Radiant
