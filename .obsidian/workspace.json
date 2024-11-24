@@ -65,21 +65,27 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Skillbooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Skillbooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":170},\"to\":{\"line\":0,\"ch\":170}}}"
+                },
+                {
                   "title": "Skills of Alaturmen",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Skills of Alaturmen\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Skills of Alaturmen\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Combat Mechanics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.295720058989346}"
                 },
                 {
                   "title": "Custom Class - Blood Hunter",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Blood Hunter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Blood Hunter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":48},\"to\":{\"line\":26,\"ch\":48}},\"scroll\":0.18806152208194782}"
                 },
                 {
@@ -117,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Untitled.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Custom Features"
             }
           },
           {
@@ -149,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5674fefaa05af7bb",
@@ -228,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desert",
+                "query": "\"Company Arms Training\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +283,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -427,12 +434,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "167d9305cb8422b7",
+  "active": "4dce3247a4c8ceb4",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Untitled.md",
-    "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame",
+    "Game Notes/Mechanics/Homebrew Systems/Lore",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Untitled",
+    "Game Notes/Mechanics/Homebrew Systems/Classes",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
     "Junie's Characters/Kamili.md",
@@ -453,18 +468,10 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Merchant Companies and their Routes.md",
-    "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Texts.md",
     "MEDIA/SUPP/duarndurmTheory.pdn",
     "MEDIA/duarndurmTheory.pdn",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC",
-    "MEDIA/SUPP/SPREADS/AshCompanyLedger.ods",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Faction Heads",
-    "Notes on the Multiverse/Seattle Exports Misery/Important NPCs/Traders",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/underdark.png"
   ]

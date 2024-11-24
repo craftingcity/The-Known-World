@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Untitled.md"
+      "basename": "Lingering Injuries",
+      "path": "Lingering Injuries.md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Skillbooks",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
+    },
+    {
+      "basename": "Alchemy Products",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Products.md"
     },
     {
       "basename": "Skills of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Skills of Alaturmen.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md"
     },
     {
       "basename": "Combat Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Combat Mechanics.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md"
     },
     {
       "basename": "Custom Class - Blood Hunter",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     },
     {
       "basename": "Mechanics",
@@ -35,10 +51,6 @@
     {
       "basename": "Junie's Characters",
       "path": "Junie's Characters/Junie's Characters.md"
-    },
-    {
-      "basename": "Lingering Injuries",
-      "path": "Lingering Injuries.md"
     },
     {
       "basename": "The Monsters...",
@@ -90,7 +102,7 @@
     },
     {
       "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Heritages.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Places",
@@ -138,7 +150,7 @@
     },
     {
       "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Homebrew Alchemy System.md"
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -187,18 +199,6 @@
     {
       "basename": "The Deserts of Tetrimoc",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/The Deserts of Tetrimoc/The Deserts of Tetrimoc.md"
-    },
-    {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "Tetrimoc",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
     }
   ],
   "omittedPaths": [],

@@ -10,18 +10,23 @@ aliases:
 	- [[Custom Armor Mechanics]]
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
-	- [[Alaturmenian Travel Table]]
-	- [[Alchemy Products]]
-	- [[Combat Mechanics]]
-	- [[Custom Class - Blood Hunter]]
-	- [[Custom Class - Psion]]
-	- [[Custom Cultures]]
-	- [[Custom Heritages]]
-	- [[Custom Languages]]
-	- [[Homebrew Alchemy System]]
-	- [[Mechanics of Plane-walking]]
-	- [[Skills of Alaturmen]]
-	- [[Untitled]]
+	- **Ancient (depreciated)**
+		- [[Combat Mechanics]]
+		- [[Skills of Alaturmen]]
+	- **Classes**
+		- [[Custom Class - Blood Hunter]]
+		- [[Custom Class - Psion]]
+	- **Ingame**
+		- [[Alaturmenian Travel Table]]
+		- [[Alchemy Products]]
+		- [[Homebrew Alchemy System]]
+		- [[Mechanics of Plane-walking]]
+		- [[Skillbooks]]
+	- **Lore**
+		- [[Custom Cultures]]
+		- [[Custom Features]]
+		- [[Custom Heritages]]
+		- [[Custom Languages]]
 - **Homebrew Weapons**
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]
