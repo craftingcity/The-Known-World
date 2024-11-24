@@ -155,6 +155,75 @@
             }
           },
           {
+            "id": "9c22f423b44d38ce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "ecf05a5536d94eb7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pirre Tald"
+            }
+          },
+          {
+            "id": "47fa6750ef9aabce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nicolas Talaveem"
+            }
+          },
+          {
             "id": "0e74f7e4bc5c4b8a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -201,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "bd03dc5daee59ed5",
@@ -338,7 +407,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandurm",
+                "query": "\"yellow mage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -388,7 +457,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -538,8 +607,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "20c384117a30b911",
+  "active": "ecf05a5536d94eb7",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Junie's Characters/Dante Fukili.md",
     "Junie's Characters/Kamili.md",
     "Junie's Characters/Erin 'Fox' Bathal.md",
     "Junie's Characters/Junie's Characters.md",
@@ -566,13 +640,8 @@
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)",
     "MEDIA/SUPP/SPREADS/PermanentInjuries.ods",
     "Lingering Injuries.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "conflict-files-obsidian-git.md",
     "MEDIA/SUPP/duarndurmTheory.pdn",
     "Prenotes Nov 19 24.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "A Grand Notepad.md",
     "MEDIA/duarndurmTheory.pdn",
     "MEDIA/duarndurmTheory.pdn.0.pdnSave",
     "MEDIA/SUPP/Character Sheet - Alternative - Form Fillable.pdf",
