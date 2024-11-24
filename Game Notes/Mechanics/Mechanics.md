@@ -13,6 +13,7 @@ aliases:
 	- [[Alaturmenian Travel Table]]
 	- [[Alchemy Products]]
 	- [[Combat Mechanics]]
+	- [[Custom Class - Blood Hunter]]
 	- [[Custom Class - Psion]]
 	- [[Custom Cultures]]
 	- [[Custom Heritages]]

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Custom Class - Blood Hunter.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "Kamili",
       "path": "Junie's Characters/Kamili.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "The Monsters...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
     },
     {
       "basename": "Armors of Alaturmen",
@@ -191,14 +199,6 @@
     {
       "basename": "Alaturmen's Magical Armies",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md"
-    },
-    {
-      "basename": "Prenotes Nov 16 24",
-      "path": "Prenotes Nov 16 24.md"
-    },
-    {
-      "basename": "Prenotes Nov 12 24",
-      "path": "Prenotes Nov 12 24.md"
     }
   ],
   "omittedPaths": [],
