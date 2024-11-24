@@ -33,11 +33,11 @@ A description of their function in the world.
 | CHA |     |     |     |
 
 #### Level Plan
-1. F1
-2. F2
-3. F2, R1
-4. F2, R2
-5. F2, R3
-6. F3, R3
-7. F4, R3
-8. F5, R3
+1. F1 - Fighting Style, Second Wind
+2. F2 - Action Surge (x1)
+3. F2, R1 - Expertise, Sneak Attack, Thieves' Cant
+4. F2, R2 - Cunning Action
+5. F2, R3 - Roguish Archetype: Scout, Skirmisher, Survivalist
+6. F3, R3 - Martial Archetype
+7. F4, R3 - Ability Score Improvement
+8. F5, R3 - Extra Attack (x1)

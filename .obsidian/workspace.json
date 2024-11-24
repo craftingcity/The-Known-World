@@ -288,7 +288,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.51240158081055
+    "width": 465.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "da0e5aa812cd01d8",
@@ -434,7 +435,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "167d9305cb8422b7",
+  "floating": {
+    "id": "13c9f894fc5b1595",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a66c58c7fe926106",
+        "type": "window",
+        "children": [
+          {
+            "id": "9bbff41cbbe2ce41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "811e85f0127a022e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Dante Fukili.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dante Fukili"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "811e85f0127a022e",
   "lastOpenFiles": [
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Mechanics.md",
