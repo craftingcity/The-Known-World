@@ -1,10 +1,10 @@
 # Spike's Characters Overview
 %% Begin Waypoint %%
 - [[Amelia Hawkford, the Red]]
+- [[Dante Fukili]]
 - [[Eliza 'Elliot' O'Brien]]
 - [[Erin 'Fox' Bathal]]
 - [[Grekk]]
-- [[Kamili]]
 
 %% End Waypoint %%
 

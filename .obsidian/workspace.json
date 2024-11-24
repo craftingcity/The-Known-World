@@ -58,11 +58,13 @@
             "id": "167d9305cb8422b7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 7,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Custom Features",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Features\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":90},\"to\":{\"line\":1,\"ch\":90}}}"
                 },
                 {
                   "title": "Skillbooks",
@@ -80,7 +82,7 @@
                   "title": "Combat Mechanics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.295720058989346}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.083490948428505}"
                 },
                 {
                   "title": "Custom Class - Blood Hunter",
@@ -92,7 +94,7 @@
                   "title": "Mechanics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Game Notes",
@@ -101,10 +103,8 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Kamili",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Kamili.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kamili\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Grekk",
@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                "file": "Junie's Characters/Dante Fukili.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Features"
+              "title": "Dante Fukili"
             }
           },
           {
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5674fefaa05af7bb",
@@ -434,27 +434,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4dce3247a4c8ceb4",
+  "active": "167d9305cb8422b7",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "A Grand Notepad.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Lingering Injuries.md",
+    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame",
     "Game Notes/Mechanics/Homebrew Systems/Lore",
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Untitled",
     "Game Notes/Mechanics/Homebrew Systems/Classes",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Game Notes.md",
-    "Junie's Characters/Kamili.md",
+    "Junie's Characters/Dante Fukili.md",
     "Junie's Characters/Grekk.md",
     "Junie's Characters/Extra Credit.md",
     "Junie's Characters/Junie's Characters.md",
-    "Lingering Injuries.md",
     "MEDIA/SUPP/SPREADS/PermanentInjuries.ods",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
