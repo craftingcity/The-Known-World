@@ -4,29 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "31dc80da54891dd1",
-        "type": "tabs",
+        "id": "d906ec3cf06e5f55",
+        "type": "split",
         "children": [
           {
-            "id": "47334e5f03356034",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "31dc80da54891dd1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47334e5f03356034",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lingering Injuries.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lingering Injuries"
                 }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+              }
+            ]
+          },
+          {
+            "id": "14d61483ea6ed0cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44c21076381c5036",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lingering Injuries.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lingering Injuries"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -124,12 +164,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -275,7 +315,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298c7d20ae26fdd8",
+  "active": "44c21076381c5036",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "The Progress of Technology.md",
