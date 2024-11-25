@@ -6,9 +6,40 @@
       {
         "id": "2a027772a34f2612",
         "type": "tabs",
+        "dimension": 60.526315789473685,
         "children": [
           {
             "id": "ad2d33edf35ea692",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lingering Injuries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lingering Injuries"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aac8a05fffa1c59f",
+        "type": "tabs",
+        "dimension": 39.473684210526315,
+        "children": [
+          {
+            "id": "63bca1d17223d0ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -106,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -207,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad2d33edf35ea692",
+  "active": "63bca1d17223d0ef",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "conflict-files-obsidian-git.md"
