@@ -34,6 +34,7 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
+- [[Minyostalman Artifacts; A Theory]]
 - [[On the Hum Arcani; Independent Position]]
 - [[Romeo's Party's Journals]]
 - [[Tetrimoc's Journal (Propaganda)]]

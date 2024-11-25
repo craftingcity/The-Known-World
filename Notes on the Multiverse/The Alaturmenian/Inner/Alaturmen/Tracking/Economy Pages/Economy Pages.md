@@ -15,5 +15,6 @@ aliases:
 - [[Economics of Tetrimoc's Desert]]
 - [[Economics of the Hobgoblin Territories]]
 - [[Economics of The Holyl'nds]]
+- [[Merchant Companies and their Routes]]
 
 %% End Waypoint %%

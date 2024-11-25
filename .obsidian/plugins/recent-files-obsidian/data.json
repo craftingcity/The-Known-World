@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "General Texts",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
@@ -38,7 +42,7 @@
     },
     {
       "basename": "Arms and Armor - North East",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North East.md"
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - North East.md"
     },
     {
       "basename": "Jerran Stormwind",
@@ -50,7 +54,7 @@
     },
     {
       "basename": "Arms and Armor - North West",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Equipment/Arms and Armor - North West.md"
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - North West.md"
     },
     {
       "basename": "Magical Items of Note",
@@ -90,7 +94,7 @@
     },
     {
       "basename": "Coalition's Founding Document",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md"
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md"
     },
     {
       "basename": "Underdark",
@@ -154,7 +158,7 @@
     },
     {
       "basename": "On Peoples Involved with Arthur Simonson",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md"
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -195,10 +199,6 @@
     {
       "basename": "Non-Nation Entities",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
     }
   ],
   "omittedPaths": [],

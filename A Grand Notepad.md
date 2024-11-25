@@ -143,7 +143,7 @@ Artifacts:
 	- Fire Heart-Ruby (3/10)
 
 
-## RHOD
+## RHOD (depreciated)
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
 - Sources & Delins
@@ -196,10 +196,14 @@ creativity
 alchemy
 magical items
 
+# Layering Lore
 ## Economy
 - [[Economy Pages]]
 	- [[GrainIntoGold.pdf]]
 	- [[The Progress of Technology]]
+	- [[Merchant Companies and their Routes]]
+- [[Alaturmen's Magical Armies]] (`may need work`)
+- [[Magical Items of Note]] & [[Magic Item Authors]] (`guild pov of all semi-public magical items/people of interest`)
 - Food & Drink
 	- [[Food and Drink - South West]]
 	- [[Food and Drink - South East]]
@@ -210,33 +214,30 @@ magical items
 	- [[Arms and Armor - South East]]
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
+## Factions
+### Big Four
+### Smaller Communities
+## Books to Write
+- [[Books To Write]]
+	- [[Kalariel's Grimoire]] (`could be dark artifact`)
+	- [[Guild of Adventurers Admission of Knowledge Assessment 1]] (`for hannah`)
+	- [[An Account of Our Fallen]] (`gather snippets`)
+	- [[Arthur's Journal]], [[His Greater Plan]], & [[Carta Prosperitatis]] (`prosperian lore`)
+	- [[Blood-Hobgoblin Clan Pact]] (`blood clan lore`)
+	- [[Laws of Adventuring]] & [[Coalition's Founding Document]] (`coalition lore`)
+	- [[Minyostalman Artifacts; A Theory]] & [[The New War in the Old City; A Minyostalman Account of the Modern Age]] (`minyostalma lore`)
+	- [[Tetrimoc's Journal]] & [[Tetrimoc's Journal (Propaganda)]] (`tetrimoc lore`)
+	- [[The Axioms, Theories, and Philosophies of Mages of the First Century]] / [[How the Weave becomes Magic]] (`magic lore`)
+	- [[The Code of Thieves]], [[Mountain Hall's Constitution]], & [[Actstow's Constitution]] (`smaller nation lore`)
+	- [[The Return of Moses the Brave]] (`specify at timeline?`)
+	- [[The Tome of Gannon]] (`white chruch lore`)
+	- [[Wargods without War]] (`theocracy in wargods pre-war-era`)
 # Open Projects
-- [[Timeline]]
+- [[Timeline]] (`can get more specific, especially @ era 0`)
 	- [[The Legend of the Bandit Lords]]
 	- [[First Invasion of Orcus]]
 	- [[First Crusade of the Fire's Will]]
 - Population Centers (ods)
 	- Specifically, creating NPCs with relevant titles
-	- [[Economy Pages]]
-		- [[The Progress of Technology]]
-		- [[Alaturmen's Magical Armies]]
-		- [[Magical Items of Note]] & [[Magic Item Authors]]
-		- [[Merchant Companies and their Routes]]
-		- [[Notes From Grain Into Gold]] (redo towards faq & goods lists)
-- Books to Write > [[Books To Write]]
-	- [[Magical Items of Note]] & [[Magic Item Authors]]
-		- [[Kalariel's Grimoire]]
-	- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
-	- [[An Account of Our Fallen]]
-	- [[Arthur's Journal]], [[His Greater Plan]], & [[Carta Prosperitatis]]
-	- [[Blood-Hobgoblin Clan Pact]]
-	- [[Laws of Adventuring]] & [[Coalition's Founding Document]]
-	- [[Minyostalman Artifacts; A Theory]] & [[The New War in the Old City; A Minyostalman Account of the Modern Age]]
-	- [[Tetrimoc's Journal]] & [[Tetrimoc's Journal (Propaganda)]]
-	- [[The Axioms, Theories, and Philosophies of Mages of the First Century]]
-	- [[The Code of Thieves]], [[Mountain Hall's Constitution]], & [[Actstow's Constitution]]
-	- [[The Return of Moses the Brave]]
-	- [[The Tome of Gannon]]
-	- [[Wargods without War]]
 - [[Campaigns]]
-	- [[Kaliqeill, Lich of Orcus]]
+	- [[Kaliqeill, Lich of Orcus]] (`hes still floating around the outer planes trying to fuck shit up`)

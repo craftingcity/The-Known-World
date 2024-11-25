@@ -6,10 +6,14 @@ aliases:
 # Tracking
 %% Begin Waypoint %%
 - **[[Economy Pages]]**
-- **[[Equipment]]**
+- **Items by Region**
+	- [[Arms and Armor - North East]]
+	- [[Arms and Armor - North West]]
+	- [[Arms and Armor - South East]]
+	- [[Arms and Armor - South West]]
+	- [[Equipment]]
 - [[Magic Item Authors]]
 - [[Magical Items of Note]]
-- [[Merchant Companies and their Routes]]
 - [[Population Center Data]]
 - [[Population Data]]
 - [[Who has a Horde]]
