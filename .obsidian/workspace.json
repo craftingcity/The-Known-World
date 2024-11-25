@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lingering Injuries",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lingering Injuries.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lingering Injuries\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":317},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":15.789056101996874}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lingering Injuries.md",
+                "file": "Junie's Characters/Dante Fukili.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lingering Injuries"
+              "title": "Dante Fukili"
             }
           }
         ]
@@ -208,56 +214,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "35b4ce79e9dac7df",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bc7ade272c972e17",
-        "type": "window",
-        "children": [
-          {
-            "id": "723dd3c3e6a66137",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "45c71effee97fd73",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lingering Injuries.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lingering Injuries"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "45c71effee97fd73",
+  "active": "ad2d33edf35ea692",
   "lastOpenFiles": [
+    "Lingering Injuries.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "conflict-files-obsidian-git.md"
   ]
