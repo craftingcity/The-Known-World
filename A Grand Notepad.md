@@ -215,8 +215,21 @@ magical items
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
 ## Factions
+- [[Custom Cultures]] (`everyone needs more specific detail`)
 ### Big Four
+- [[The Church of the White Flame]] (`finish government bodies`)
+- [[Golden Claws]] (`solidify classes & organization, commit government bodies`) & [[Tetrimocal Congregation]] (`rn this one is full empty`)
+- [[The Kingdom of Prosper]] (`solidify classes & organization, commit government bodies`)
+- [[The Democratic Combine of Peoples]] (`everyone needs more detail`)
 ### Smaller Communities
+- [[Blood Clans]] (`everyone needs more detail`)
+- [[Cenva Minyo]] & [[Dwarven Kingdom Actstow]] (`everyone needs more detail`)
+- [[Guilds of Coalition]]  (`solidify classes & organization, commit government bodies`) 
+- [[Dwarven Kingdom Suremantle]] / [[Mountain Hall]] (`solidify classes & organization, commit government bodies`) 
+- The Druids
+### Bandit Gangs
+- [[Bodaim's Bandits]]
+- [[Cult of Reborn Glory]]
 ## Books to Write
 - [[Books To Write]]
 	- [[Kalariel's Grimoire]] (`could be dark artifact`)

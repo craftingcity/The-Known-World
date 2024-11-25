@@ -5,14 +5,6 @@ aliases:
 
 # Nations
 %% Begin Waypoint %%
-- **Holyl'nds**
-	- **Factions**
-		- [[Macht's Brood]]
-	- **Local Lore**
-		- [[Great Fires]]
-		- [[Marked By the Fire]]
-		- [[The Assault of the Giant Dissenters]]
-	- [[The Church of the White Flame]]
 - **[[Lands of Tetrimoc]]**
 	- **Factions**
 		- [[Agrandica's Thieves]]
@@ -21,10 +13,24 @@ aliases:
 		- [[Golden Claws]]
 		- [[Golden Merchant's Company]]
 		- [[Nobles of Mountain Hall]]
-		- [[Tetramocal Congregation]]
+		- [[Tetrimocal Congregation]]
 	- **Local Lore**
 		- [[First Invasion of Orcus]]
 		- [[Tetrimoc's Tournament of Glory]]
+- **[[The Church of the White Flame]]**
+	- **Factions**
+		- [[Macht's Brood]]
+	- **Local Lore**
+		- [[First Crusade of the Fire's Will]]
+		- [[Great Fires]]
+		- [[Marked By the Fire]]
+		- **Minyostalma**
+			- [[Minyostalman Artifacts; A Theory]]
+			- [[Romeo's Party's Journals]]
+			- [[The New War in the Old City; A Minyostalman Account of the Modern Age]]
+		- [[The Assault of the Giant Dissenters]]
+		- [[The Return of Moses the Brave]]
+		- [[The Tome of Gannon]]
 - **[[The Democratic Combine of Peoples]]**
 	- **Factions**
 		- [[Beasts Righteous]]

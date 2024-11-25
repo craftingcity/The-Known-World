@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "General Texts",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
+      "basename": "Non-Nation Entities",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
+    },
+    {
+      "basename": "The Progress of Technology",
+      "path": "The Progress of Technology.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Tetrimocal Congregation",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Tetrimocal Congregation.md"
+    },
+    {
+      "basename": "Lands of Tetrimoc",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Southeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
+      "basename": "Ammarin Transportation",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Ammarin Transportation.md"
+    },
+    {
+      "basename": "World Wide Happenings",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "About People",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
+    },
+    {
+      "basename": "General Texts",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
     },
     {
       "basename": "Dante Fukili",
@@ -73,16 +145,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md"
     },
     {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Holyl'nds/The Church of the White Flame.md"
-    },
-    {
       "basename": "Blood Clans",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
-    },
-    {
-      "basename": "The Progress of Technology",
-      "path": "The Progress of Technology.md"
     },
     {
       "basename": "ORGANIZATION",
@@ -135,70 +199,6 @@
     {
       "basename": "The Old",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "The Planes of Existence",
-      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
-    },
-    {
-      "basename": "Guild Admin",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md"
-    },
-    {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "APGtAv1",
-      "path": "APGtAv1.md"
-    },
-    {
-      "basename": "Kakurak's Lair",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
-    },
-    {
-      "basename": "On Peoples Involved with Arthur Simonson",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On Peoples Involved with Arthur Simonson.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Janice Austra",
-      "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Janice Austra.md"
-    },
-    {
-      "basename": "Guraxlog",
-      "path": "Game Notes/NPCs/zDeceased/Guraxlog.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
-      "basename": "The Democratic Combine of Peoples",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
-    },
-    {
-      "basename": "Dampguard",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Dampguard/Dampguard.md"
-    },
-    {
-      "basename": "Knights in Red",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
-    },
-    {
-      "basename": "Lands of Tetrimoc",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
-    },
-    {
-      "basename": "Non-Nation Entities",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
     }
   ],
   "omittedPaths": [],

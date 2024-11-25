@@ -7,24 +7,23 @@ aliases:
 %% Begin Waypoint %%
 - **Faith-based Texts**
 	- [[Wargods without War]]
-- [[First Crusade of the Fire's Will]]
 - **Guild Texts**
 	- **Bueracracy and Forms**
 		- [[Coalition's Founding Document]]
+		- [[Emergency Communicae c. 105AF]]
 		- [[Genereric Party Formation Contract]]
 		- [[Guild Associates Agreement]]
 		- [[Guild Equipment Requisition Form]]
+		- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
 		- [[Laws of Adventuring]]
-	- [[Emergency Communicae c. 105AF]]
-	- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
-	- [[Politics of Coalition c. 093AF - XXXAF]]
+		- [[Politics of Coalition c. 093AF - XXXAF]]
 	- **Recordkeeping**
 		- [[Emergency Communicae c. 103AF]]
 		- [[On Peoples Involved with Arthur Simonson]]
 		- [[On the Hum Arcani; Guild Position]]
+		- [[On the Hum Arcani; Independent Position]]
 		- [[On The Text of Tetrimoc; Guild Position]]
 		- [[Politics of Coalition c. 078AF - 092AF]]
-- [[His Greater Plan]]
 - **Major World Texts**
 	- [[An Account of Our Fallen]]
 	- [[Arthur's Journal]]
@@ -34,13 +33,6 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
-- [[Minyostalman Artifacts; A Theory]]
-- [[On the Hum Arcani; Independent Position]]
-- [[Romeo's Party's Journals]]
 - [[Tetrimoc's Journal (Propaganda)]]
-- [[The New War in the Old City; A Minyostalman Account of the Modern Age]]
-- [[The Return of Moses the Brave]]
-- [[The Tales of Big Buster Badass]]
-- [[The Tome of Gannon]]
 
 %% End Waypoint %%

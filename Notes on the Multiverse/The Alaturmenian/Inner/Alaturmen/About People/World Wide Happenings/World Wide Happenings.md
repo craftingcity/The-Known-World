@@ -7,8 +7,10 @@ aliases:
 %% Begin Waypoint %%
 - [[The Great Game]]
 - **Worldknown Groups**
-	- [[Ammarin Transportation]]
-	- [[Delta 3 Mercenary Squad]]
-	- [[The Grey Ordeal]]
+	- **Adventuring Groups**
+		- [[Delta 3 Mercenary Squad]]
+		- [[The Grey Ordeal]]
+	- **Merchant Companies**
+		- [[Ammarin Transportation]]
 
 %% End Waypoint %%
