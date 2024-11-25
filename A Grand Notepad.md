@@ -143,7 +143,7 @@ Artifacts:
 	- Fire Heart-Ruby (3/10)
 
 
-### RHOD
+## RHOD
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
 - Sources & Delins
@@ -196,6 +196,20 @@ creativity
 alchemy
 magical items
 
+## Economy
+- [[Economy Pages]]
+	- [[GrainIntoGold.pdf]]
+	- [[The Progress of Technology]]
+- Food & Drink
+	- [[Food and Drink - South West]]
+	- [[Food and Drink - South East]]
+	- [[Food and Drink - North West]]
+	- [[Food and Drink - North East]]
+- Arms & Armors
+	- [[Arms and Armor - South West]]
+	- [[Arms and Armor - South East]]
+	- [[Arms and Armor - North West]]
+	- [[Arms and Armor - North East]]
 # Open Projects
 - [[Timeline]]
 	- [[The Legend of the Bandit Lords]]

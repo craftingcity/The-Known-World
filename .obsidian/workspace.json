@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dante Fukili",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Dante Fukili.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dante Fukili\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":50},\"to\":{\"line\":37,\"ch\":50}},\"scroll\":22.337817514588348}"
+                },
+                {
                   "title": "Lingering Injuries",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lingering Injuries.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lingering Injuries\"}",
@@ -28,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Dante Fukili.md",
+                "file": "A Grand Notepad.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dante Fukili"
+              "title": "A Grand Notepad"
             }
           }
         ]
@@ -216,6 +222,7 @@
   },
   "active": "ad2d33edf35ea692",
   "lastOpenFiles": [
+    "Junie's Characters/Dante Fukili.md",
     "Lingering Injuries.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "conflict-files-obsidian-git.md"
