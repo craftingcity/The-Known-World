@@ -42,18 +42,18 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Minor Scarring   | You have been scarred.                                                                                                                                                                                                                                              | Apply Scar Balm regularly for 7 days.                                                                                     |
 
 #### Piercing
-| #       | %   | Tier | Injury             | Effect | Resolving |
-| ------- | --- | ---- | ------------------ | ------ | --------- |
-| 3 - 4   | 2%  | D    | Lose an Eye        |        |           |
-| 5       | 3%  | D    | Maimed Arm/Hand    |        |           |
-| 6       | 4%  | D    | Maimed Leg/Foot    |        |           |
-| 7       | 7%  | M    | Disabled Lung      |        |           |
-| 8 - 9   | 21% | M    | Misc. Organ Damage |        |           |
-| 10      | 13% | M    | Deep Wound         |        |           |
-| 11      | 13% | M    | Festering Wound    |        |           |
-| 12 - 13 | 21% | S    | Open Wound         |        |           |
-| 14 - 15 | 11% | S    | Tetanus            |        |           |
-| 16 - 18 | 5%  | S    | Major Scarring     |        |           |
+| #       | %   | Tier | Injury             | Effect                                                                                                                                                                                                                                                              | Resolving |
+| ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 3 - 4   | 2%  | D    | Lose an Eye        | Your have lost the use of one of your eyes. You have Disadvantage on Ranged Attacks, and Perception or Investigation Checks that rely on sight.                                                                                                                     |           |
+| 5       | 3%  | D    | Maimed Arm/Hand    | You have lost a significant portion of one of your arms. In addition to the effects of an Deep Wound, you have Disadvantage on Strength Checks and Saving Throws, you can no longer hold anything in two hands, and you can only hold one object or item at a time. |           |
+| 6       | 4%  | D    | Maimed Leg/Foot    |                                                                                                                                                                                                                                                                     |           |
+| 7       | 7%  | M    | Disabled Lung      |                                                                                                                                                                                                                                                                     |           |
+| 8 - 9   | 21% | M    | Misc. Organ Damage |                                                                                                                                                                                                                                                                     |           |
+| 10      | 13% | M    | Deep Wound         |                                                                                                                                                                                                                                                                     |           |
+| 11      | 13% | M    | Festering Wound    |                                                                                                                                                                                                                                                                     |           |
+| 12 - 13 | 21% | S    | Open Wound         |                                                                                                                                                                                                                                                                     |           |
+| 14 - 15 | 11% | S    | Tetanus            |                                                                                                                                                                                                                                                                     |           |
+| 16 - 18 | 5%  | S    | Major Scarring     |                                                                                                                                                                                                                                                                     |           |
 
 #### Acid
 | #       | %   | Tier | Injury             | Effect | Resolving |

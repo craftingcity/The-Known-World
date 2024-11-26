@@ -209,7 +209,7 @@ magical items
 	- [[Food and Drink - South East]]
 	- [[Food and Drink - North West]]
 	- [[Food and Drink - North East]]
-- Arms & Armors
+- Arms & Armors ([[Weapons of Alaturmen]] & [[Armors of Alaturmen]])
 	- [[Arms and Armor - South West]]
 	- [[Arms and Armor - South East]]
 	- [[Arms and Armor - North West]]

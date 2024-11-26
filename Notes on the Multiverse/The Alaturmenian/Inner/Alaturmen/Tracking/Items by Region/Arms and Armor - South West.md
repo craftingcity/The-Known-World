@@ -30,10 +30,6 @@
 |           |      |        |      |
 
 # Commodities
-## Vices
-| Vice | Type | Effect | Cost |
-| ---- | ---- | ------ | ---- |
-|      |      |        |      |
 
 ## Medical Equipment
 | Medicine | Type | Effect | Cost |
