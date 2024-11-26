@@ -22,15 +22,21 @@ We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, 
 Goats milk! Some city folk can get imported Cow Cheese, but its rare. So is nuts milk, we just dont get a lot of dairy tbh.
 
 #### Grain
-Nearly only corn, some folks can get 
+Nearly only corn, some folks can get light grains in the wetter areas, but we get to sell that, so we eat corn.
+
 #### Fruit
-Cactus!
+Cactus! Oranges, lemons, limes, cherries, berries, bananas, and coconuts.
+
 #### Vegetable
+We import cheap mushrooms & potatoes, but we can grow corn, carrots, and sometimes tomatoes.
+
 #### Spice and Oil
 Rosemary, Lavender, Oregano,
 
 Olives and Almonds grow on the West bank of the [[Alvalini River]].
+
 #### Delicacy
+Chevron & Fruit salad.
 
 ### Vices
 What do people do for *fun*?
