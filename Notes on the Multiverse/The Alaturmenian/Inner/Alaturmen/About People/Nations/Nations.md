@@ -13,7 +13,6 @@ aliases:
 		- [[Golden Claws]]
 		- [[Golden Merchant's Company]]
 		- [[Nobles of Mountain Hall]]
-		- [[Tetrimocal Congregation]]
 	- **Local Lore**
 		- [[First Invasion of Orcus]]
 		- [[Tetrimoc's Tournament of Glory]]

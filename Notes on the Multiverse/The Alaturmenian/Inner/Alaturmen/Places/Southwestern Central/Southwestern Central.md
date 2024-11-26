@@ -7,7 +7,7 @@ aliases:
 ## Boundaries
 ## Contents
 ### Factions
-- [[Golden Claws]] & [[Tetrimocal Congregation]]
+- [[Golden Claws]]
 	- brash and harsh
 - [[Agrandica's Thieves]]
 - [[Barthalmule's Thieves]]
