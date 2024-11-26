@@ -217,8 +217,8 @@ magical items
 ## Factions
 - [[Custom Cultures]] (`everyone needs more specific detail`)
 ### Big Four
-- [[The Church of the White Flame]] (`finish government bodies`)
-- [[Golden Claws]] (`solidify classes & organization, commit government bodies`) & [[Tetrimocal Congregation]] (`rn this one is full empty`)
+- [[The Church of the White Flame]] (`good, move next econ`)
+- [[Golden Claws]] (`solidify classes & organization, commit government bodies`) & [[Tetrimocal Congregation]] (`rn this one is full empty, we can prune it if we move the refrerences towards GC`)
 - [[The Kingdom of Prosper]] (`solidify classes & organization, commit government bodies`)
 - [[The Democratic Combine of Peoples]] (`everyone needs more detail`)
 ### Smaller Communities

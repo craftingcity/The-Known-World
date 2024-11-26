@@ -5,13 +5,18 @@ aliases: FuckThePigs
 
 # Golden Claws
 ## History
-The Golden Claws have been the enforcement structure of [[The Golden City]] and the surrounding territories since the rise of [[Tetrimoc]] in the earliest years of Alaturmen's history. For a significant portion of time, they had direct evidence that they were performing the will of their master, but since his last appearance in 092AF, there has been no such evidence, and they have been willingly following the voice of their Ambassador, [[Houran Venclaw]], in his place, and quickly the city has turned to corruption.
+The Golden Claws have been the enforcement structure of [[The Golden City]] and the surrounding territories since the rise of [[Tetrimoc]] in the earliest years of Alaturmen's history. For a significant portion of time, they had direct evidence that they were performing the will of their master, but since his last appearance in 092AF, there has been no such evidence, and they have been willingly following the voice of their Ambassador, [[Houran Venclaw]], in his place, and quickly turned to corruption.
 
 ## Governance
+### Class Capitalism
+The Rule of Tetrimoc is a brutal capitalist class structure that keeps a select few people in power, [[#The Council of Eight]] specifically, and enforces their rules equally and explicitly non-equitably with the purpose of separating their people into incommunicable classes. 
+
+##### City Dweller
+The City Dwellers
+##### T
+
 The public government begins with the Golden Claw Enforces; the boots on the ground. They report to their Captains at their Garrisons throughout [[The Golden City]] and the holdings under their protection. Those Captains report to [[Boris Farrinik]] of [[#The Council of Eight]]. 
 
-## Culture
-#### Heritage
 ### The Council of Eight
 The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands of Tetrimoc]]. They are an oligarchy of eight people;
 - [[Houran Venclaw]] ; High Ambassador / Public Control
@@ -33,9 +38,12 @@ The guards of the city are the cultural superiors of all citizens of [[The Golde
 ### The Black Hand Killteams
 In the bowels of the Golden City, there are many rough and tough young and unmissed children who have been indoctrinated into a secret military cult that operates outside the Deserts with extreme secrecy.
 
+## Culture
+#### Heritage
 #### Language
 #### Values
 #### Theology
+##### Tetrimocal Congregation
 #### Economics
 ##### Golden Merchant's Company
 ### Symbolism
