@@ -386,19 +386,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": -8,
         "y": 0,
-        "width": 869,
-        "height": 912,
-        "maximize": true,
+        "width": 1842,
+        "height": 1416,
+        "maximize": false,
         "zoom": -1.5
       }
     ]
   },
-  "active": "f8e5487b488fbe02",
+  "active": "7f37c0dd2781c63d",
   "lastOpenFiles": [
-    "Lingering Injuries.md",
     "Junie's Characters/Dante Fukili.md",
+    "Lingering Injuries.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md",
     "Food and Drink - South West.md",
