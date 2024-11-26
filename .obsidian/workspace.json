@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,12 +204,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -357,8 +357,9 @@
   },
   "active": "39bfaa4cd90cd53e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Food and Drink - South West.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md",
     "Lingering Injuries.md",
@@ -384,7 +385,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
-    "Junie's Characters/Dante Fukili.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    "Junie's Characters/Dante Fukili.md"
   ]
 }
