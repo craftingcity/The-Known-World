@@ -12,18 +12,18 @@
 
 
 ## Drink
-| Drink                | Type  | Desc. | Cost |
-| -------------------- | ----- | ----- | ---- |
-| Pulped Cactus         | juice |       |      |
-| Grey Tea             | tea   |       |      |
-| Goat's Milk          | milk  |       |      |
-| Green Tea            | tea   |       |      |
-| Black Tea            | tea   |       |      |
-| Orange Juice         | juice |       |      |
-| Spiced Corn Beer     | alch  |       |      |
-| Sweet Citrus Spirits | alch  |       |      |
-| Cherry / Berry Wine  | alch  |       |      |
-| Grape Wine           | alch  |       |      |
+| Drink                | Type  | Desc.                    | Cost |
+| -------------------- | ----- | ------------------------ | ---- |
+| Pulped Cactus        | juice | juiced and mashed cactus |      |
+| Grey Tea             | tea   | mushroom tea             |      |
+| Goat's Milk          | milk  | -                        |      |
+| Green Tea            | tea   | -                        |      |
+| Black Tea            | tea   | -                        |      |
+| Orange Juice         | juice | -                        |      |
+| Spiced Corn Beer     | alch  | -                        |      |
+| Sweet Citrus Spirits | alch  | Lemon, Orange            |      |
+| Cherry / Berry Wine  | alch  | -                        |      |
+| Grape Wine           | alch  | -                        |      |
 
 ## Vices
 | Vice | Type | Effect | Cost |

@@ -254,3 +254,4 @@ magical items
 	- Specifically, creating NPCs with relevant titles
 - [[Campaigns]]
 	- [[Kaliqeill, Lich of Orcus]] (`hes still floating around the outer planes trying to fuck shit up`)
+- [[Lingering Injuries]]
