@@ -18,7 +18,7 @@ The City Dwellers have the best life one can have under the *Golden Claws*; with
 The Topsiders live around [[The Golden City]], but not in it. Their life is work, and fight, and work again. Few Topsiders can afford to enter the City, let alone move into it and survive there. Instead, they find work in scavenging, hunting, and harvesting with a business they do not own. You have community, but little comfort, and the *Golden Claws* make your life harder than it has to be when they shake you down and take your hard-earned money.
 
 ##### Outlander
-The Outlanders are the Enemy. They defy the Rule of Tetrimoc
+The Outlanders are the Enemy. They defy the Rule of Tetrimoc by living without the rules He has placed onto us.
 
 The public government begins with the Golden Claw Enforces; the boots on the ground. They report to their Captains at their Garrisons throughout [[The Golden City]] and the holdings under their protection. Those Captains report to [[Boris Farrinik]] of [[#The Council of Eight]]. 
 
