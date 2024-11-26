@@ -16,8 +16,13 @@ Most people turn this into a basic bread or cake.
 ### Food
 What lives here?
 #### Meat
+We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, if you have to...
+
 #### Dairy
+Goats milk! Some city folk can get imported Cow Cheese, but its rare. So is nuts milk, we just dont get a lot of dairy tbh.
+
 #### Grain
+Nearly only corn, some folks can get 
 #### Fruit
 Cactus!
 #### Vegetable
