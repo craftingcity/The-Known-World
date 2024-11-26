@@ -363,69 +363,64 @@
         "type": "window",
         "children": [
           {
-            "id": "356120c8fbcfb646",
-            "type": "split",
+            "id": "7448e2866d3cf2ba",
+            "type": "tabs",
+            "dimension": 45.71678321678322,
             "children": [
               {
-                "id": "5cbe5e232100f4e3",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "a9e9366710b4f259",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Lingering Injuries.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Lingering Injuries"
+                "id": "7f37c0dd2781c63d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
                     }
-                  }
-                ]
-              },
-              {
-                "id": "0b6dfda4d2f8b74d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7f37c0dd2781c63d",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Lingering Injuries.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Lingering Injuries"
-                    }
-                  }
-                ]
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lingering Injuries.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lingering Injuries"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
+          },
+          {
+            "id": "5cbe5e232100f4e3",
+            "type": "tabs",
+            "dimension": 54.28321678321678,
+            "children": [
+              {
+                "id": "a9e9366710b4f259",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lingering Injuries.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lingering Injuries"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical",
