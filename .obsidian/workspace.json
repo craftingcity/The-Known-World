@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -368,7 +368,7 @@
           {
             "id": "7448e2866d3cf2ba",
             "type": "tabs",
-            "dimension": 45.71678321678322,
+            "dimension": 45.71678321678323,
             "children": [
               {
                 "id": "7f37c0dd2781c63d",
@@ -398,7 +398,7 @@
           {
             "id": "5cbe5e232100f4e3",
             "type": "tabs",
-            "dimension": 54.28321678321678,
+            "dimension": 54.28321678321677,
             "children": [
               {
                 "id": "a9e9366710b4f259",
@@ -436,7 +436,7 @@
       }
     ]
   },
-  "active": "02ba590d6ab7363a",
+  "active": "298c7d20ae26fdd8",
   "lastOpenFiles": [
     "Food and Drink - South West.md",
     "A Grand Notepad.md",
