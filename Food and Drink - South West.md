@@ -7,12 +7,16 @@
 | Goat Cheese     |      |                                                                                            |      |
 | Fruit Salad     |      | Oranges, Cherries, Berries, & Grapes, topped with Diced Almonds & Lavender                 |      |
 | Chevron Shrooms |      | Goat's meat & mushrooms, spiced with salt, pepper, rosemary, & oregano, fried in olive oil |      |
-| Creamy Potatoes |      | Potatoes + meat/veggies, goat milk & cheese                                                                                           |      |
+| Creamy Potatoes |      | Potatoes + meat/veggies, goat milk & cheese                                                |      |
+| Fried People    |      | Meat? spiced, fried, serve with veggies                                                                                        |      |
+
 
 ## Drink
-| Drink | Type | Desc. | Cost |
-| ----- | ---- | ------ | ---- |
-|       |      |        |      |
+| Drink        | Type | Desc. | Cost |
+| ------------ | ---- | ----- | ---- |
+| Cactus Water |      |       |      |
+| Grey Tea     |      |       |      |
+|              |      |       |      |
 
 ## Vices
 | Vice | Type | Effect | Cost |
