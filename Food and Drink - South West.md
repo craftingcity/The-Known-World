@@ -1,22 +1,29 @@
 # Commodities
 ## Food
-| Food            | Type | Desc.                                                                                      | Cost |
-| --------------- | ---- | ------------------------------------------------------------------------------------------ | ---- |
-| Cornbread       |      |                                                                                            |      |
-| Desert Stew     |      | Worm Meat & Cactus Fruit stewed with cornmeal, spice to taste                              |      |
-| Goat Cheese     |      |                                                                                            |      |
-| Fruit Salad     |      | Oranges, Cherries, Berries, & Grapes, topped with Diced Almonds & Lavender                 |      |
-| Chevron Shrooms |      | Goat's meat & mushrooms, spiced with salt, pepper, rosemary, & oregano, fried in olive oil |      |
-| Creamy Potatoes |      | Potatoes + meat/veggies, goat milk & cheese                                                |      |
-| Fried People    |      | Meat? spiced, fried, serve with veggies                                                                                        |      |
+| Food            | Type   | Desc.                                                                      | Cost |
+| --------------- | ------ | -------------------------------------------------------------------------- | ---- |
+| Cornbread       | grain  | Corn flour bread                                                           |      |
+| Desert Stew     | meat   | Worm Meat & Cactus Fruit                                                   |      |
+| Goat Cheese     | dairy  | Aged goat milk                                                             |      |
+| Fruit Salad     | fruit  | Oranges, Cherries, Berries, & Grapes, topped with Diced Almonds & Lavender |      |
+| Chevron Shrooms | meat   | Goat's meat & mushrooms,                                                   |      |
+| Creamy Potatoes | veggie | Potatoes + meat/veggies, goat milk & cheese                                |      |
+| Fried People    | meat   | Meat? spiced, fried, serve with veggies                                    |      |
 
 
 ## Drink
-| Drink        | Type | Desc. | Cost |
-| ------------ | ---- | ----- | ---- |
-| Cactus Water |      |       |      |
-| Grey Tea     |      |       |      |
-|              |      |       |      |
+| Drink                | Type  | Desc. | Cost |
+| -------------------- | ----- | ----- | ---- |
+| Pulped Cactus         | juice |       |      |
+| Grey Tea             | tea   |       |      |
+| Goat's Milk          | milk  |       |      |
+| Green Tea            | tea   |       |      |
+| Black Tea            | tea   |       |      |
+| Orange Juice         | juice |       |      |
+| Spiced Corn Beer     | alch  |       |      |
+| Sweet Citrus Spirits | alch  |       |      |
+| Cherry / Berry Wine  | alch  |       |      |
+| Grape Wine           | alch  |       |      |
 
 ## Vices
 | Vice | Type | Effect | Cost |
