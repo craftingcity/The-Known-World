@@ -18,7 +18,7 @@ aliases:
 		- [[Custom Class - Psion]]
 	- **Ingame**
 		- [[Alaturmenian Travel Table]]
-		- [[Alchemy Products]]
+		- [[Alchemy Processes & Products]]
 		- [[Homebrew Alchemy System]]
 		- [[Mechanics of Plane-walking]]
 		- [[Skillbooks]]
