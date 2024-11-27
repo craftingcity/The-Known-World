@@ -140,18 +140,18 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 16 - 18 | 5%  | S    | Tetanus           | You have contracted Tetanus. Your speed is reduced by 5', and you have Disadvantage on Dexterity Checks and Saving Throws.                                                           | The infection heals naturally in 7 days, or 3 days if supplemented with Antibiotics.           |
 
 #### Psychic
-| #       | %   | Tier | Injury              | Effect | Resolving |
-| ------- | --- | ---- | ------------------- | ------ | --------- |
-| 3 - 4   | 2%  | D    | Brain Death         |        |           |
-| 5       | 3%  | D    | Lobotomization      |        |           |
-| 6       | 4%  | D    | Severe Memory Loss  |        |           |
-| 7       | 7%  | D    | Lasting Migraine    |        |           |
-| 8 - 9   | 21% | M    | Weakened Persona    |        |           |
-| 10      | 13% | M    | Major Concussion    |        |           |
-| 11      | 13% | M    | Disturbed Sleep     |        |           |
-| 12 - 13 | 21% | S    | Temporary Blindness |        |           |
-| 14 - 15 | 11% | S    | Minor Concussion    |        |           |
-| 16 - 18 | 5%  | S    | Minor Nausea        |        |           |
+| #       | %   | Tier | Injury              | Effect                                                                                                                                                                                   | Resolving |
+| ------- | --- | ---- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 3 - 4   | 2%  | D    | Brain Death         | Your brain is failing. You have disadvantage on Death Saves, Attack Rolls, Ability Checks, and Saving Throws.                                                                            |           |
+| 5       | 3%  | D    | Lobotomization      | Your frontal lobe is severely damaged. Your Intelligence and Wisdom Scores are both reduced by 8, and you have Disadvantage on Intelligence and Wisdom Ability Checks and Saving Throws. |           |
+| 6       | 4%  | D    | Severe Memory Loss  | You have forgotten an important memory (or series of memories) that makes you who you are. Adjust your alignment if applicable.                                                          |           |
+| 7       | 7%  | D    | Lasting Migraine    | You have a constant and painful migraine. You have disadvantage on Intelligence and Wisdom Ability Checks and Saving Throws.                                                             |           |
+| 8 - 9   | 21% | M    | Major Depression    | You experie                                                                                                                                                                                         |           |
+| 10      | 13% | M    | Major Concussion    |                                                                                                                                                                                          |           |
+| 11      | 13% | M    | Disturbed Sleep     |                                                                                                                                                                                          |           |
+| 12 - 13 | 21% | S    | Temporary Blindness |                                                                                                                                                                                          |           |
+| 14 - 15 | 11% | S    | Minor Concussion    |                                                                                                                                                                                          |           |
+| 16 - 18 | 5%  | S    | Minor Nausea        |                                                                                                                                                                                          |           |
 
 #### Radiant
 | #       | %   | Tier | Injury              | Effect | Resolving |
