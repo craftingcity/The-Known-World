@@ -128,7 +128,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 #### Poison
 | #       | %   | Tier | Injury            | Effect | Resolving |
 | ------- | --- | ---- | ----------------- | ------ | --------- |
-| 3 - 4   | 2%  | D    | Systemic Toxicity |        |           |
+| 3 - 4   | 2%  | D    | Systemic Toxicity |Your organs have become |           |
 | 5       | 3%  | D    | Severe Disease    |        |           |
 | 6       | 4%  | D    | Liver Failure     |        |           |
 | 7       | 7%  | D    | Immunocompromised |        |           |
