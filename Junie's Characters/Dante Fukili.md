@@ -3,7 +3,7 @@ tags:
   - npc
 aliases:
 ---
-# Dante Kukili
+# Dante 'the Reaper' Kukili
 ## Gnoll Thief, Gunslinger (Fighter 2, Rouge Scout 3)
 ### she/her
 
@@ -36,11 +36,14 @@ Shooting something until it's dead is, for her, better than sex. Operating a bla
 #### Leaving Cobalt
 The eventual death of her parents left Dante little reason to stay in [[Wabys]], and her trainings left her feeling unchallenged, underutilized, and bored. She had the opportunity to join the monotonous struggle that is life in the desert, but recalling the stories of her mentor, she decided to leave [[Cobalt's Thieves]] in search of her of stories to tell, her own trainings to lead, and the fabled 'Old City' her mentor once came from.
 
-She bought her way east, across the [[Alvalini River]] and into [[The Democratic Combine of Peoples]], where she has worked as a hired gun since
+She bought her way east, across the [[Alvalini River]] and into [[The Democratic Combine of Peoples]], where she has worked as a mercenary since.
 
+Day to day, she spends most of her money on ammunition. Food and Water are things she can scavenge or hunt for, but her need for drugs, supplies, and jobs mean she's been working her way from town to town, where she'll spend a few days to scavenge and hunt before committing to another job or set of jobs. 
 
 ## Important Knowledge
-
+- Dante is the sexy, gay, bandito/villainess from the dark-western that is the Desert. She's proud that she's scary, but it really is isolating and lonely...
+- Her mentor worked in 'the Old City', which is very interesting to her, and something she might get really committed to.
+- 
 
 ## Stats
 |     |     |     |     |
