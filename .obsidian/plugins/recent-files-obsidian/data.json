@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
+    },
+    {
+      "basename": "Cobalt",
+      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Cobalt.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Custom Heritages",
@@ -195,10 +199,6 @@
     {
       "basename": "Underdark",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Bodaim's Bandits",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md"
     }
   ],
   "omittedPaths": [],

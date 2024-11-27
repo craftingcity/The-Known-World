@@ -4,17 +4,18 @@ tags:
 aliases:
 ---
 # Dante Kukili
-## Gnoll Gunslinger (Fighter 2, Rouge Scout 3)
+## Gnoll Thief, Gunslinger (Fighter 2, Rouge Scout 3)
 ### she/her
 
 > Standing at 4'10", Dante is not a physically imposing Gnoll, but the Durandurm Carbine slung across her back and the dozen tactical pouches suggest she's still a threat. In a world where size is strength, and strength is power, Dante breaks the mold with her prowess in tactics and marksmanship. 
 
-A description of their function in the world.
+Dante is a Gnoll Gunslinger with lifelong allegiance to Cobalt and his Noble Thieves. 
 
 ## Roleplaying
-### Quote
-
+###### "Fuck this, move already!"
 ### Mannerism & Disposition
+Dante is...
+	- BOLD; the first to leave 
 
 ### Background
 #### Early Life
