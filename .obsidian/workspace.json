@@ -59,9 +59,38 @@
               "icon": "lucide-file",
               "title": "Slimknives"
             }
+          },
+          {
+            "id": "6ffb34d01ee7d4da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "conflict-files-obsidian-git",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":3},\"to\":{\"line\":17,\"ch\":3}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Dante Fukili.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dante Fukili"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "990dae174780a625",
@@ -443,7 +472,7 @@
       }
     ]
   },
-  "active": "6ea56ebf09c5837d",
+  "active": "6ffb34d01ee7d4da",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
