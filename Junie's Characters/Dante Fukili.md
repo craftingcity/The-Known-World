@@ -15,7 +15,9 @@ Dante is a Gnoll Gunslinger with lifelong allegiance to Cobalt and his Noble Thi
 ###### "Fuck this, move already!"
 ### Mannerism & Disposition
 Dante is...
-	- BOLD; the first to leave 
+	- BOLD; the first to leave her post in overconfidence
+	- LOYAL; the last to leave a bad situation
+	- CONNIVING; a lair and a cheat
 
 ### Background
 #### Early Life
