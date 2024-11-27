@@ -41,23 +41,23 @@ She bought her way east, across the [[Alvalini River]] and into [[The Democratic
 Day to day, she spends most of her money on ammunition. Food and Water are things she can scavenge or hunt for, but her need for drugs, supplies, and jobs mean she's been working her way from town to town, where she'll spend a few days to scavenge and hunt before committing to another job or set of jobs. 
 
 ## Important Knowledge
-- Dante is the sexy, gay, bandito/villainess from the dark-western that is the Desert. She's proud that she's scary, but it really is isolating and lonely...
+- Dante is the sexy, gay, bandito/villainess from the dark-western that is the Desert. She's proud that she's scary, but it can be really isolating and lonely...
 - Her mentor worked in 'the Old City', which is very interesting to her, and something she might get really committed to.
 - 
 
 ## Stats
-|     |      |     |           |
-| --- | ---- | --- | --------- |
-| STR | ^    | PRF | +3        |
-| CON | ^    | MHP |           |
-| DEX | (+2) | AC  |           |
-| INT |      |     |           |
-| WIS |      | HD  | 3d8, 2d10 |
-| CHA | (+1) |     |           |
+|     |      |     |              |
+| --- | ---- | --- | ------------ |
+| STR | ^    | PRF | +3           |
+| CON | ^    | MHP | (31 + 5xCON) |
+| DEX | (+2) | AC  | 16           |
+| INT |      | CHP | x            |
+| WIS |      | HD  | 3d8, 2d10    |
+| CHA | (+1) | SPD | 35'          |
 
 ##### Features
 ###### Gnoll Heritage (T)
-When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the damage you would normally deal. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
+When you hit with an unarmed melee attack, you may add 1d4 slashing damage to the damage you would normally deal. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
 ###### Second Wind (BA)
 On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + your fighter level.
@@ -112,7 +112,7 @@ SKILLS;
 	- Intimidation
 	- Perception (^)
 	- Deception
-	- Stealth (^)
+	- Stealth (^) (Disadvantage for Chainmail)
 	- Nature (^)
 	- Survival (^)
 EQUIP;
@@ -129,22 +129,22 @@ LANG;
 #### Level Plan
 1. F1 - Fighting Style (*Archery*), Second Wind
 2. F2 - Action Surge (x1)
-3. F2, R1 - Expertise, Sneak Attack, Thieves' Cant
+3. F2, R1 - Expertise, Sneak Attack (1d6), Thieves' Cant
 4. F2, R2 - Cunning Action
-5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*), Sneak Attack+
+5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*), Sneak Attack (2d6)
 `*?*`
-6. F3, R3 - Martial Archetype: Battlemaster (*Manuevering*, *Precision*, and *Pushing*)
-7. F4, R3 - Ability Score Improvement -> Feat (*Sharpshooter*)
+6. F3, R3 - Martial Archetype: Battlemaster (4d8, *Maneuvering*, *Precision*, and *Pushing*)
+7. F4, R3 - Ability Score Improvement -> 
 8. F5, R3 - Extra Attack (x1)
 9. F5, R4 - Ability Score Improvement -> 
-10. F5, R5 - Uncanny Dodge, Sneak Attack+
+10. F5, R5 - Uncanny Dodge, Sneak Attack (3d6)
 11. F6, R5 - Ability Score Improvement ->
-12. F7, R5
-13. F8, R5
-14. F9, R5
-15. F10, R5
-16. F11, R5
-17. F11, R6
-18. F11, R7
-19. F11, R8
-20. F11, R9
+12. F7, R5 - Know Your Enemy, Combat Superiority (5d8, *+*, *+*)
+13. F8, R5 - Ability Score Improvement ->
+14. F9, R5 - Indomitable (x1)
+15. F10, R5 - Improved Combat Superiority (5d10, *+*, *+*)
+16. F11, R5 - Extra Attack (x2)
+17. F11, R6 - Expertise+
+18. F11, R7 - Evasion, Sneak Attack (4d6)
+19. F11, R8 - Ability Score Improvement ->
+20. F11, R9 - Superior Mobility (+10'), Sneak Attack (5d6)

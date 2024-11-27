@@ -88,32 +88,9 @@
               "icon": "lucide-file",
               "title": "Dante Fukili"
             }
-          },
-          {
-            "id": "21d342614e31b929",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lingering Injuries.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lingering Injuries"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "990dae174780a625",
@@ -416,11 +393,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21d342614e31b929",
+  "floating": {
+    "id": "4d8fbe3de27edf49",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3281350809cc045a",
+        "type": "window",
+        "children": [
+          {
+            "id": "4fa848cd12e2ae81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1219887c4b7e8dc3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Dante Fukili.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dante Fukili"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "1219887c4b7e8dc3",
   "lastOpenFiles": [
+    "Lingering Injuries.md",
     "MEDIA/SUPP/Lingering Injuries.pdf",
     "Junie's Characters/Dante Fukili.md",
-    "Lingering Injuries.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
