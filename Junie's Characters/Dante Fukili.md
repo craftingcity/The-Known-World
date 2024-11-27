@@ -9,18 +9,20 @@ aliases:
 
 > Standing at 4'10", Dante is not a physically imposing Gnoll, but the Durandurm Carbine slung across her back and the dozen tactical pouches suggest she's still a threat. In a world where size is strength, and strength is power, Dante breaks the mold with her prowess in tactics and marksmanship. 
 
-Dante is a Gnoll Gunslinger with lifelong allegiance to Cobalt and his Noble Thieves. 
+Dante is a 20-year-old Gnoll Gunslinger with lifelong allegiance to Cobalt and his Noble Thieves. 
 
 ## Roleplaying
 ###### "Fuck this, move already!"
 ### Mannerism & Disposition
 Dante is...
-	- BOLD; the first to leave her post in overconfidence
+	- AMBITIOUS; always progressing her goals
 	- LOYAL; the last to leave a bad situation
 	- CONNIVING; a lair and a cheat
+	- RESOURCEFUL; always going to find a way to win
 
 ### Background
 #### Early Life
+Dante was born in the summer of 095AF into the [[Wabys]] community of [[Cobalt's Thieves]] in the southern reaches of [[The Deserts of Tetrimoc]]. Dante was not raised by her parents, who were fighting for the survival of their home, but rather the permanent residents of [[Wabys]]. She found mentorship with a man who had come from the north, 
 
 ## Important Knowledge
 
