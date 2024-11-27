@@ -36,8 +36,8 @@ A description of their function in the world.
 1. F1 - Fighting Style (*Archery*), Second Wind
 2. F2 - Action Surge (x1)
 3. F2, R1 - Expertise, Sneak Attack, Thieves' Cant
-4. F2, R2 - Cunning Action
-5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*)
-6. F3, R3 - Martial Archetype: Battlemaster (*Manuevering*, *Precision*, and *Pushing*)
+4. F3, R1 - Martial Archetype: Battlemaster (*Manuevering*, *Precision*, and *Pushing*)
+5. F3, R2 - Cunning Action
+6. F3, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*)
 7. F4, R3 - Ability Score Improvement -> Feat (*Sharpshooter*)
 8. F5, R3 - Extra Attack (x1)

@@ -36,8 +36,32 @@
               "icon": "lucide-file",
               "title": "Dante Fukili"
             }
+          },
+          {
+            "id": "6ea56ebf09c5837d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Slimknives"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "990dae174780a625",
@@ -66,8 +90,32 @@
               "icon": "lucide-file",
               "title": "Economics of Tetrimoc's Desert"
             }
+          },
+          {
+            "id": "cf12cd38b377695e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,22 +436,24 @@
         "direction": "vertical",
         "x": -8,
         "y": 0,
-        "width": 1536,
-        "height": 912,
+        "width": 1842,
+        "height": 1400,
         "maximize": false,
         "zoom": -1.5
       }
     ]
   },
-  "active": "f8e5487b488fbe02",
+  "active": "6ea56ebf09c5837d",
   "lastOpenFiles": [
-    "Lingering Injuries.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Junie's Characters/Dante Fukili.md",
+    "Lingering Injuries.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md",
     "Food and Drink - South West.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "The Progress of Technology.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
@@ -423,8 +473,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
   ]
 }
