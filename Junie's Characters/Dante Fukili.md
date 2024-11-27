@@ -48,20 +48,29 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 ## Stats
 |     |      |     |           |
 | --- | ---- | --- | --------- |
-| STR | *    | PRF | +3        |
-| CON | *    | MHP |           |
+| STR | ^    | PRF | +3        |
+| CON | ^    | MHP |           |
 | DEX | (+2) | AC  |           |
 | INT |      |     |           |
 | WIS |      | HD  | 3d8, 2d10 |
 | CHA | (+1) |     |           |
 
+##### Features
+###### Gnoll Heritage
+When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the normal damage of the attack. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
+
+###### Noble Thief Culture
+You gain Expertise in your choice of *Stealth* or *Survival*.
+
 ##### Proficiencies
 SKILLS;
-	- Insight
+	- Insight (^)
 	- Intimidation
-	- Perception
+	- Perception (^)
 	- Deception
-	- Stealth
+	- Stealth (^)
+	- Nature (^)
+	- Survival (^)
 EQUIP;
 	- Armor (L., M., H.)
 	- Weapons (S., M.)
@@ -74,8 +83,29 @@ LANG;
 
 ##### Equipment
 (15.0sp)
-- 1x Steel Breakerbar
-- 1x Dark Common Clothes
+
+Hands:
+	Leather Gloves
+Arms:
+	Chainmail
+Torso:
+	Chainmail
+	Adjustable Leather Sling (Durandurm Carbine)
+	Backpack (50' Rope, Steel Crowbar, Steel Canteen)
+		- Bedroll
+		- Common Clothes (dark, hooded)
+		- Journal
+		- 10x Torch
+		- 10x Generic Ration
+Groin:
+	Leather Combat Belt
+		- Sheath (Dagger)
+		- Scabbard (Shortsword)
+		- TacPouch (20 DRM, EY)
+Legs:
+	Chainmail
+Feet:
+	Irontoe Boots
 
 
 #### Level Plan
