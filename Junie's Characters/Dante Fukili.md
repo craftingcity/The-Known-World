@@ -26,7 +26,16 @@ Dante was born in the summer of 095AF into the [[Wabys]] community of [[Cobalt's
 
 Dante was not raised by her parents, who were fighting for the survival of their home, but rather the permanent residents of [[Wabys]]. She found mentorship with a man who had come from the north, a place he called 'the Old City', where he fought and survived a daily war, much as her parents and some day she would do.
 
-She would come to be enamored by his stories, and would quietly watch and perform the trainings he led for the graduating Thieves. She loved live fire exercises the most; the sound of the blaster fire, the synchronous click and pop of the troops reloading, and the uniquely altered smell of the air after the day is done, it was almost intoxicating. It wasn't until she held her own blaster that she knew that this was it - the Obsession. A
+She would come to be enamored by his stories, and would quietly watch and perform the trainings he led for the graduating Thieves. She loved live fire exercises the most; the sound of the blaster fire, the synchronous click and pop of the troops reloading, and the uniquely altered smell of the air after the day is done, it was almost intoxicating. 
+
+#### The Obsession
+It wasn't until she held her own blaster that she knew. She had her Obsession. Aim, shoot, count, reload, reposition, rally, push, call, it was in those moments that she felt whole, that she felt worthy. 
+
+Shooting something until it's dead is, for her, better than sex. Operating a blaster is better than drugs, better than gambling, better than love. Those things are great, but she'd give *the world* for a gun and something to shoot.
+
+#### Leaving Cobalt
+
+
 
 ## Important Knowledge
 
