@@ -46,21 +46,45 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 - 
 
 ## Stats
-|     |     |     |     |
-| --- | --- | --- | --- |
-| STR |     | PRF | +2  |
-| CON |     | MHP |     |
-| DEX |     | AC  |     |
-| INT |     |     |     |
-| WIS |     |     |     |
-| CHA |     |     |     |
+|     |      |     |           |
+| --- | ---- | --- | --------- |
+| STR | *    | PRF | +3        |
+| CON | *    | MHP |           |
+| DEX | (+2) | AC  |           |
+| INT |      |     |           |
+| WIS |      | HD  | 3d8, 2d10 |
+| CHA | (+1) |     |           |
+
+##### Proficiencies
+SKILLS;
+	- Insight
+	- Intimidation
+	- Perception
+	- Deception
+	- Stealth
+EQUIP;
+	- Armor (L., M., H.)
+	- Weapons (S., M.)
+	- Thieves Tools
+	- Deck o' Cards
+LANG;
+	- [[Desertspeech (language)]]
+	- [[Infernal (language)]]
+	- [[Golopak (language)]]
+
+##### Equipment
+(15.0sp)
+- 1x Steel Breakerbar
+- 1x Dark Common Clothes
+
 
 #### Level Plan
 1. F1 - Fighting Style (*Archery*), Second Wind
 2. F2 - Action Surge (x1)
 3. F2, R1 - Expertise, Sneak Attack, Thieves' Cant
 4. F2, R2 - Cunning Action
-5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*)
+5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*) 
+`*?*`
 6. F3, R3 - Martial Archetype: Battlemaster (*Manuevering*, *Precision*, and *Pushing*)
 7. F4, R3 - Ability Score Improvement -> Feat (*Sharpshooter*)
 8. F5, R3 - Extra Attack (x1)
