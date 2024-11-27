@@ -4,10 +4,10 @@ tags:
 aliases:
 ---
 # Dante Kukili
-## Gnoll Gunslinger
+## Gnoll Gunslinger (Fighter 2, Rouge Scout 3)
 ### she/her
 
-> Boxtext for an action, outfit, and a physical trait.
+> Standing at 5'4"
 
 A description of their function in the world.
 

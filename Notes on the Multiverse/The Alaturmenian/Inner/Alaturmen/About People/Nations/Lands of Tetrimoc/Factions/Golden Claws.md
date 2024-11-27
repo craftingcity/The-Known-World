@@ -20,8 +20,6 @@ The Topsiders live around [[The Golden City]], but not in it. Their life is work
 ##### Outlander
 The Outlanders are the Enemy. They defy the Rule of Tetrimoc by living without the rules He has placed onto us. These people occupy the spaces away from the City, away from the light of our Lord. Often these people will lie, cheat, and steal, and some will go as far as to eat your body while you are still alive.
 
-The public government begins with the Golden Claw Enforces; the boots on the ground. They report to their Captains at their Garrisons throughout [[The Golden City]] and the holdings under their protection. Those Captains report to [[Boris Farrinik]] of [[#The Council of Eight]]. 
-
 ### The Council of Eight
 The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands of Tetrimoc]]. They are an oligarchy of eight people;
 - [[Houran Venclaw]], Department of Relations; High Ambassador / Public Control
@@ -31,17 +29,21 @@ The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands
 - [[Sakharov Yosimmite]] Department of Ecology; High Ecologist / Fuel Control
 - [[Henrik Flour]] Department of Labor; Mine Baron / Metal Control
 - [[Alaster Kobain]] Department of Warfare; Wyvern Keeper / Wyvern Control
-- [[Porman Gwanna]] Department of Economics; District Manager / Wealth Control
+- [[Porman Gwanna]] Department of Labor; District Manager / Wealth Control
 
 ### The Golden Claw Guard
-The guards of the city are the cultural superiors of all citizens of [[The Golden City]] and [[The Deserts of Tetrimoc]] and their physical and lawful protectors and enforcers. Typically, guards are recruited from the upper middle class, lending precedent to the poor treatment of the lower classes throughout the south-west.
+The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground. 
 
-#### Gleeming Wyvern Riders
-
-#### Breakers in Tooth and Claw
+#### Department of Relations
+#### Department of Ecology
+#### Department of Labor
+#### Department of Warfare
+##### Gleeming Wyvern Riders
+##### Breakers in Tooth and Claw
 
 ### The Black Hand Killteams
-In the bowels of the Golden City, there are many rough and tough young and unmissed children who have been indoctrinated into a secret military cult that operates outside the Deserts with extreme secrecy.
+In the bowels of the Golden City, there are many rough, tough, young, and unmissed children who have been indoctrinated into a military cult that operates outside the Deserts with extreme secrecy.
+
 
 ## Culture
 #### Heritage
