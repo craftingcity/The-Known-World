@@ -31,10 +31,12 @@ She would come to be enamored by his stories, and would quietly watch and perfor
 #### The Obsession
 It wasn't until she held her own blaster that she knew. She had her Obsession. Aim, shoot, count, reload, reposition, rally, push, call, it was in those moments that she felt whole, that she felt worthy. 
 
-Shooting something until it's dead is, for her, better than sex. Operating a blaster is better than drugs, better than gambling, better than love. Those things are great, but she'd give *the world* for a gun and something to shoot.
+Shooting something until it's dead is, for her, better than sex. Operating a blaster is better than any drug. To Dante, the thrill of pulling the trigger eclipses all other pleasures, a singular devotion that makes her feel alive, powerful, and undeniably significant in a world fraught with danger.
 
 #### Leaving Cobalt
+The eventual death of her parents left Dante little reason to stay in [[Wabys]], and her trainings left her feeling unchallenged, underutilized, and bored. She had the opportunity to join the monotonous struggle that is life in the desert, but recalling the stories of her mentor, she decided to leave [[Cobalt's Thieves]] in search of her of stories to tell, her own trainings to lead, and the fabled 'Old City' her mentor once came from.
 
+She bought her way east, across the [[Alvalini River]] and into [[The Democratic Combine of Peoples]], where she has worked as a hired gun since
 
 
 ## Important Knowledge
