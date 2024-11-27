@@ -7,7 +7,7 @@ aliases:
 ## Gnoll Gunslinger (Fighter 2, Rouge Scout 3)
 ### she/her
 
-> Standing at 5'4"
+> Standing at 4'10", Dante is not a physically imposing Gnoll, but the Durandurm Carbine slung across her back and the dozen tactical pouches suggest she's still a threat. In a world where size is strength, and strength is power, Dante breaks the mold with her prowess in tactics and marksmanship. 
 
 A description of their function in the world.
 
