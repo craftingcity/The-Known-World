@@ -27,6 +27,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | D    | Missing Teeth    | You have lost 1d3 teeth. Ouch.                                                                                                                                                                                 | Your bones can be surgically replaced. You will recover from the operation in 3 days. |
 | 16 - 18 | 5%  | S    | Popped Socket    | You have dislocated a joint. You have Disadvantage on Strength Checks and Saving Throws.                                                                                                                       | Spend an Action re-placing your joint.                                                |
 
+---
 #### Slashing
 | #       | %   | Tier | Injury           | Effect                                                                                                                                                                                                                                                             | Resolving                                                                            |
 | ------- | --- | ---- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -41,6 +42,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Major Scarring   | You have been severely scarred.                                                                                                                                                                                                                                    | Apply Scar Balm regularly for 21 days.                                               |
 | 16 - 18 | 5%  | S    | Minor Scarring   | You have been scarred.                                                                                                                                                                                                                                             | Apply Scar Balm regularly for 7 days.                                                |
 
+---
 #### Piercing
 | #       | %   | Tier | Injury             | Effect                                                                                                                                                                                                                                                             | Resolving                                                                            |
 | ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -55,6 +57,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Tetanus            | You have contracted Tetanus. Your speed is reduced by 5', and you have Disadvantage on Dexterity Checks and Saving Throws.                                                                                                                                         | The infection heals naturally in 7 days, or 3 days if supplemented with Antibiotics. |
 | 16 - 18 | 5%  | S    | Major Scarring     | You have been severely scarred.                                                                                                                                                                                                                                    | Apply Scar Balm regularly for 21 days.                                               |
 
+---
 #### Acid
 | #       | %   | Tier | Injury             | Effect                                                                                                                                                                                                                                                             | Resolving                                                                                          |
 | ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
@@ -69,6 +72,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Major Scarring     | You have been severely scarred.                                                                                                                                                                                                                                    | Apply Scar Balm regularly for 21 days.                                                             |
 | 16 - 18 | 5%  | S    | Minor Scarring     | You have been scarred.                                                                                                                                                                                                                                             | Apply Scar Balm regularly for 7 days.                                                              |
 
+---
 #### Cold
 | #       | %   | Tier | Injury             | Effect                                                                                                                                                                                                                                                             | Resolving                                                                                          |
 | ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
@@ -83,6 +87,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Low Core Temp.     | Your body is too cold. When you take cold damage, you take an additional 1d4 cold damage.                                                                                                                                                                          | Spend 4 hours in a warm place.                                                                     |
 | 16 - 18 | 5%  | S    | Shivers            | You are shivering uncontrollably. You have -1 on Ranged Attacks and Dexterity Checks.                                                                                                                                                                              | Spend 1 hour in a warm place.                                                                      |
 
+---
 #### Fire
 | #       | %   | Tier | Injury             | Effect                                                                                                                                                                                      | Resolving                                                                                          |
 | ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -97,6 +102,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Minor Blisters     | You have blistering on a portion of your body. You have disadvantage on Dexterity Checks.                                                                                                   | The blisters heal naturally in 21 days, or 7 days if supplemented with Heamox Balm.                |
 | 16 - 18 | 5%  | S    | Hair Loss          | You have burnt away some or all of your hair.                                                                                                                                               | Your hair will regrow naturally.                                                                   | 
 
+---
 #### Lightning
 | #       | %   | Tier | Injury              | Effect                                                                                                                                                                                                                                                             | Resolving                                                                                          |
 | ------- | --- | ---- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
@@ -111,6 +117,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Muscular Damage     | You have sustained damage to a portion of your muscular system. You have disadvantage on Strength Checks and Saving Throws.                                                                                                                                        | Your muscular structure will heal in 21 days, or 7 days if supplemented with Heamox Balm.          |
 | 16 - 18 | 5%  | S    | Shivers             | You are shivering uncontrollably. You have -1 on Ranged Attacks and Dexterity Checks.                                                                                                                                                                              | Spend 1 hour in a warm place.                                                                      |
 
+---
 #### Necrotic
 | #       | %   | Tier | Injury             | Effect                                                                                                                                                                    | Resolving                                                                                          |
 | ------- | --- | ---- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -125,6 +132,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Muscular Damage    | You have sustained damage to a portion of your muscular system. You have disadvantage on Strength Checks and Saving Throws.                                               | Your muscular structure will heal in 21 days, or 7 days if supplemented with Heamox Balm.          |
 | 16 - 18 | 5%  | S    | Color Loss         | Your body has become discolored. Interesting.                                                                                                                             | Your color will return in 3 days.                                                                  |
 
+---
 #### Poison
 | #       | %   | Tier | Injury            | Effect                                                                                                                                                                               | Resolving                                                                                      |
 | ------- | --- | ---- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -139,6 +147,7 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Minor Nausea      | You are experiencing minor nausea. At the beginning of your turn, make a DC 12 Constitution Saving Throw. If you fail, you spend your Main Action vomiting.                          | Your nausea will desist in 3 days.                                                                                               |
 | 16 - 18 | 5%  | S    | Tetanus           | You have contracted Tetanus. Your speed is reduced by 5', and you have Disadvantage on Dexterity Checks and Saving Throws.                                                           | The infection heals naturally in 7 days, or 3 days if supplemented with Antibiotics.           |
 
+---
 #### Psychic
 | #       | %   | Tier | Injury              | Effect                                                                                                                                                                                                                                         | Resolving                                 |
 | ------- | --- | ---- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
@@ -153,96 +162,32 @@ The *Injury Tiers*, in ascending order, are as follows; 'Superficial' (*cure wou
 | 14 - 15 | 11% | S    | Minor Concussion    | You have sustained a minor concussion. You have Disadvantage on Wisdom Checks and Saving Throws.                                                                                                                                               | The concussion heals naturally in 3 days. |
 | 16 - 18 | 5%  | S    | Minor Nausea        | You are experiencing minor nausea. At the beginning of your turn, make a DC 12 Constitution Saving Throw. If you fail, you spend your Main Action vomiting.                                                                                    | Your nausea will desist in 3 days.        |
 
+---
 #### Radiant
-| #       | %   | Tier | Injury              | Effect                                                                                                                                                                                      | Resolving                                                                                          |
-| ------- | --- | ---- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 3 - 4   | 2%  | D    | Cancerous Tumors    | You have a number of cancerous tumors within your body. Every 24 hours, your Hit Point Maximum is reduced by 2.                                                                             | Magic is your only hope.                                                                           |
-| 5       | 3%  | D    | Blindness           | Your eyes have been severely damaged. You are Blinded.                                                                                                                                      |                                                                                                    |
-| 6       | 4%  | D    | Spiritual Trauma    | Your soul's connection to your body is weakened. You have disadvantage on Death Saves, and when you regain Hit Points, you gain half as many.                                               | Become anew.                                                                                       |
-| 7       | 7%  | D    | 3rd Degree Burn     | You have sustained major burns on a portion of your body. You are vulnerable to fire damage, and you have disadvantage on Ability Checks and Constitution Saving Throws.                    | Your burns will heal naturally in 3 years, or 1 year if supplemented with Burn Cream.              |
-| 8 - 9   | 21% | M    | 2nd Degree Burn     | You have sustained significant burns on a portion of your body. You have disadvantage on Constitution Saving Throws, and when you take fire damage, you take an additional 1d4 fire damage. | Your burns will heal naturally in 21 days, or 7 days if supplemented with Burn Cream.              |
-| 10      | 13% | M    | Minor Nerve Damage  | You have sustained damage to your nervous system. You have disadvantage on Dexterity Checks and Constitution Saving Throws.                                                                 | Your nervous structure will heal naturally in 21 days, or 7 days if supplemented with Heamox Balm. |
-| 11      | 13% | M    | Illuminated         | You are emitting a powerful light across and throughout your body. You illumin                                                                                                                                                                                            |                                                                                                    |
-| 12 - 13 | 21% | S    | Temporary Blindness | Your eyes are failing. You are Blinded.                                                                                                                                                     | Your eyes will clear in an hour.                                                                   |
-| 14 - 15 | 11% | S    | Color Blindness     |                                                                                                                                                                                             |                                                                                                    |
-| 16 - 18 | 5%  | S    | Color Loss          | Your body has become discolored. Interesting.                                                                                                                                               | Your color will return in 3 days.                                                                  |
+| #       | %   | Tier | Injury              | Effect                                                                                                                                                                                              | Resolving                                                                                          |
+| ------- | --- | ---- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 3 - 4   | 2%  | D    | Cancerous Tumors    | You have a number of cancerous tumors within your body. Every 24 hours, your Hit Point Maximum is reduced by 2.                                                                                     | Magic is your only hope.                                                                           |
+| 5       | 3%  | D    | Blindness           | Your eyes have been severely damaged. You are Blinded.                                                                                                                                              | Your eyes can be replaced. You will recover from the operation in 21 days.                         |
+| 6       | 4%  | D    | Spiritual Trauma    | Your soul's connection to your body is weakened. You have disadvantage on Death Saves, and when you regain Hit Points, you gain half as many.                                                       | Become anew.                                                                                       |
+| 7       | 7%  | D    | 3rd Degree Burn     | You have sustained major burns on a portion of your body. You are vulnerable to fire damage, and you have disadvantage on Ability Checks and Constitution Saving Throws.                            | Your burns will heal naturally in 3 years, or 1 year if supplemented with Burn Cream.              |
+| 8 - 9   | 21% | M    | 2nd Degree Burn     | You have sustained significant burns on a portion of your body. You have disadvantage on Constitution Saving Throws, and when you take fire damage, you take an additional 1d4 fire damage.         | Your burns will heal naturally in 21 days, or 7 days if supplemented with Burn Cream.              |
+| 10      | 13% | M    | Minor Nerve Damage  | You have sustained damage to your nervous system. You have disadvantage on Dexterity Checks and Constitution Saving Throws.                                                                         | Your nervous structure will heal naturally in 21 days, or 7 days if supplemented with Heamox Balm. |
+| 11      | 13% | M    | Illuminated         | You are emitting a powerful light across and throughout your body. You emit a 20' radius of 'bright light', and a 20' radius of 'dim light' beyond that. If you have 'darkvision', you are Blinded. | Your illumination will desist in 7 days.                                                           |
+| 12 - 13 | 21% | S    | Temporary Blindness | Your eyes are failing. You are Blinded.                                                                                                                                                             | Your eyes will clear in an hour.                                                                   |
+| 14 - 15 | 11% | S    | Color Blindness     | Your perception of color is failing. You have disadvantage on Perception and Investigation Checks.                                                                                                  | Your colorblindness will desist in a day.                                                          |
+| 16 - 18 | 5%  | S    | Color Loss          | Your body has become discolored. Interesting.                                                                                                                                                       | Your color will return in 3 days.                                                                  |
 
+---
 #### Thunder
-| #       | %   | Tier | Injury            | Effect | Resolving |
-| ------- | --- | ---- | ----------------- | ------ | --------- |
-| 3 - 4   | 2%  | D    | Cranial Trauma    |        |           |
-| 5       | 3%  | D    | Broken Arm        |        |           |
-| 6       | 4%  | D    | Broken Leg        |        |           |
-| 7       | 7%  | D    | Broken Ribs       |        |           |
-| 8 - 9   | 21% | M    | Deafened          |        |           |
-| 10      | 13% | M    | Major Concussion  |        |           |
-| 11      | 13% | M    | Sound Sensitivity |        |           |
-| 12 - 13 | 21% | S    | Tinnitus          |        |           |
-| 14 - 15 | 11% | S    | Severe Nausea     |        |           |
-| 16 - 18 | 5%  | S    | Popped Socket     |        |           |
-
-### Lingering Injuries by Tier
-#### Superficial
-	- Popped Socket
-	- Severe Bruising
-	- Minor Concussion
-	- Open Wound
-	- Major Scarring
-	- Minor Scarring
-	- Tetanus
-	- Severe Blisters
-	- Minor Blisters
-	- Severe Frostbite
-	- Minor Frostbite
-	- Low Core Temp.
-	- Shivers
-	- 1st Degree Burn
-	- Hair Loss
-	- Temporary Blindness
-	- Muscular Damage
-	- Jitters
-	- Color Loss
-	- Severe Nausea
-	- Minor Nausea
-	- Color Blindness
-#### Major
-	- Major Concussion
-	- Bruised Ribs
-	- Deep Wound
-	- Festering Wound
-	- Disabled Lung
-	- Misc. Organ Damage
-	- Minor Nerve Damage
-	- 2nd Degree Burn
-	- Kidney Failure
-	- Cardiac Injury
-	- Liver Damage
-	- Minor Disease
-	- Disturbed Sleep
-	- Weakened Persona
-	- Illuminated
-#### Debilitating
-	- Missing Tooth
-	- Broken Ribs
-	- Broken/Severed/Maimed Leg/Foot
-	- Broken/Severed/Maimed Arm/Hand
-	- Cranial Trauma
-	- Severed Ear
-	- Lose a Finger
-	- Lose an Eye
-	- Damaged Eye
-	- Blindness
-	- Major Nerve Damage
-	- 3rd Degree Burn
-	- Spiritual Trauma
-	- Organ Necrosis
-	- Systemic Toxicity
-	- Severe Disease
-	- Liver Failure
-	- Immunocompromised
-	- Severe Memory Loss
-	- Lasting Migrane
-	- Lobotomization
-	- Brain Death
-	- Blindness
-	- Cancerous Tumors
+| #       | %   | Tier | Injury            | Effect                                                                                                                                                                                                         | Resolving                                                                   |
+| ------- | --- | ---- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 3 - 4   | 2%  | D    | Cranial Trauma    | You have sustained significant Cranial Trauma. Roll again on the *Psychic* table.                                                                                                                              | -                                                                           |
+| 5       | 3%  | D    | Broken Arm/Hand   | You have broken major bones in one of your arms. You have Disadvantage on Strength Checks and Saving Throws, you can no longer hold anything in two hands, and you can only hold one object or item at a time. | Your bones can be replaced. You will recover from the operation in 21 days. |
+| 6       | 4%  | D    | Broken Leg/Foot   | You have broken major bones in one of your legs. Your speed is reduced by 15', and for every 5' you move, you take 1d4 necrotic damage.                                                                        | Your bones can be replaced. You will recover from the operation in 21 days. |
+| 7       | 7%  | D    | Broken Ribs       | You have broken a number of ribs. You have disadvantage on Strength Checks and Saving Throws, and for every 5' you move, you take 1d4 necrotic damage.                                                         | Your bones can be replaced. You will recover from the operation in 21 days. |
+| 8 - 9   | 21% | M    | Deafened          | You have sustained significant damage to your eardrums. You cannot hear.                                                                                                                                       | Magic is your only hope.                                                    |
+| 10      | 13% | M    | Major Concussion  | You have sustained a major concussion. You have disadvantage on Intelligence and Wisdom Checks and Saving Throws.                                                                                              | The concussion heals naturally in 7 days.                                   |
+| 11      | 13% | M    | Sound Sensitivity | You have sustained significant damage to your eardrums. You are vulnerable to thunder damage, and you have advantage on Perception Checks that rely on hearing.                                                | Your ears will heal naturally in 21 days.                                   |
+| 12 - 13 | 21% | S    | Tinnitus          | You have sustained damage to your eardrums. You have disadvantage on Perception Checks that rely on hearing.                                                                                                   | Your ears will heal naturally in 7 days.                                    |
+| 14 - 15 | 11% | S    | Severe Nausea     | You are experiencing severe nausea. At the beginning of your turn, make a DC 16 Constitution Saving Throw. If you fail, you spend your Main Action vomiting.                                                   | Your nausea will desist in 7 days.                                          |
+| 16 - 18 | 5%  | S    | Popped Socket     | You have dislocated a joint. You have Disadvantage on Strength Checks and Saving Throws.                                                                                                                       | Spend an Action re-placing your joint.                                      |
