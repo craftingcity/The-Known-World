@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "The Progress of Technology",
+      "path": "The Progress of Technology.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Economics of Tetrimoc's Desert",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+    },
+    {
+      "basename": "Alchemy Processes & Products",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
+    },
+    {
+      "basename": "Food and Drink - South West",
+      "path": "Food and Drink - South West.md"
+    },
+    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "Custom Cultures",
@@ -41,10 +61,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
       "basename": "On The Text of Tetrimoc; Guild Position",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On The Text of Tetrimoc; Guild Position.md"
     },
@@ -65,24 +81,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
-      "basename": "Economics of Tetrimoc's Desert",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
-    },
-    {
       "basename": "Arms and Armor - South West",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md"
     },
     {
-      "basename": "Food and Drink - South West",
-      "path": "Food and Drink - South West.md"
-    },
-    {
       "basename": "Non-Nation Entities",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md"
-    },
-    {
-      "basename": "The Progress of Technology",
-      "path": "The Progress of Technology.md"
     },
     {
       "basename": "The Democratic Combine of Peoples",
@@ -195,10 +199,6 @@
     {
       "basename": "Methods of Organization",
       "path": "ORGANIZATION/Methods of Organization.md"
-    },
-    {
-      "basename": "Coalition's Founding Document",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md"
     }
   ],
   "omittedPaths": [],
