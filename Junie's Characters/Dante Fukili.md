@@ -60,7 +60,7 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 #### Features
 ##### Gnoll Heritage (T)
 When you hit with an unarmed melee attack, you may add 1d4 slashing damage to the damage you would normally deal. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
-
+[]
 ##### Second Wind (BA)
 On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + your fighter level.
 
