@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "The Progress of Technology",
       "path": "The Progress of Technology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ORGANIZATION",
       "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "Methods of Organization",
-      "path": "ORGANIZATION/Methods of Organization.md"
     }
   ],
   "omittedPaths": [],

@@ -48,14 +48,15 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 ## Important Knowledge
 
 ## Stats
-|     |      |     |              |
-| --- | ---- | --- | ------------ |
-| STR | ^    | PRF | +3           |
-| CON | ^    | MHP | (31 + 5xCON) |
-| DEX | (+2) | AC  | 16           |
-| INT |      | CHP | x            |
-| WIS |      | HD  | 3d8, 2d10    |
-| CHA | (+1) | SPD | 35'          |
+
+|     |          |     |           |
+| --- | -------- | --- | --------- |
+| STR | 12 (+1)^ | PRF | +3        |
+| CON | 17 (+3)^ | MHP | 46        |
+| DEX | 20 (+5)  | AC  | 16        |
+| INT | 10 (+0)  | CHP | 46        |
+| WIS | 11 (+0)  | HD  | 3d8, 2d10 |
+| CHA | 14 (+2)  | SPD | 35'       |
 
 #### Features
 ##### Gnoll Heritage (T)
