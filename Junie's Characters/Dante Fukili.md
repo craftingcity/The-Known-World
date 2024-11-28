@@ -34,7 +34,7 @@ Dante was not raised by her parents, who were fighting for the survival of their
 She would come to be enamored by his stories, and would quietly watch and perform the trainings he led for the graduating Thieves. She loved live fire exercises the most; the sound of the blaster fire, the synchronous click and pop of the troops reloading, and the uniquely altered smell of the air after the day is done, it was almost intoxicating. 
 
 #### The Obsession (c. 101AF)
-It wasn't until she held her own blaster that she knew. She had her Obsession. Aim, shoot, count, reload, reposition, rally, push, call, it was in those moments that she felt whole, that she felt worthy. 
+It wasn't until she held her own blaster that she knew. She had her Obsession; aim, shoot, count, reload, reposition, rally, push, call, it was in those moments that she felt whole, that she felt worthy. 
 
 Shooting something until it's dead is, for her, better than sex. Operating a blaster is better than any drug. To Dante, the thrill of pulling the trigger eclipses all other pleasures, a singular devotion that makes her feel alive, powerful, and undeniably significant in a world fraught with danger.
 
