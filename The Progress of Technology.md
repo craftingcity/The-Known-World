@@ -12,11 +12,11 @@ date: c. 020-050AF
 title: Era of the Bandit Lord
 content:
 
-date: c. 050-030AF
-title: Era of the Druid
+date: c. 050-080AF
+title: Era of the Alchemist
 content:
 
-date: c. 000-030AF
-title: Era of the Druid
+date: c. 080-100AF
+title: Era of the Diplomat
 content:
 ```
