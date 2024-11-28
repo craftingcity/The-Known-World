@@ -12,7 +12,7 @@ date: c. 020-050AF
 title: Era of the Bandit Lord
 content:
 
-date: c. 000-030AF
+date: c. 050-030AF
 title: Era of the Druid
 content:
 
