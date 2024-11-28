@@ -18,15 +18,21 @@ content:
 
 	In the Era of the Bandit Lord, technology had began to be powered towards capitalistic merchantalism, advancing manufacturing processes and experimentation in material extration or generations. Additionally, the beginnings of an understanding of magic had turned many scholars towards wizardry, alchemistry, or theology, and brought the marriage of magic and mechanic.
 
-	The technology in this time is roughly equivilent to our real-life 'Age of the Second Industrial Revolution'.
+	The technology in this time is roughly equivilent to a range from the 'Copper Age' to the 'Age of the Second Industrial Revolution'.
 
 date: c. 050-080AF
 title: Era of the Alchemist
 content:
 
-	In the Era of the Alchemist, technologies have advanced significantly
+	In the Era of the Alchemist, metallurgy and magic had become significantly married in the production of specialized materials, such as Darksteel, Mithril, and Pressigen.
+
+	The technology in this time is roughly equivilent to a range from the 'Iron Age' to the 'Age of the Machine'.
 
 date: c. 080-100AF
-title: Era of the Diplomat
+title: Era of the Warrior
 content:
+
+	In the Era of the Warrior, the progression of technology has slowed, in the general sense, but the advancements in military technology have progressed significantly due to the social-communial tension that now wafts across the world.
+
+	The technology in this time is roughly equivilent to a range from the 'Age of the Proto-Industrial Revolution' to the 'Age of the Atom'.
 ```

@@ -11,17 +11,17 @@
             "id": "16b88ef549736abf",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Timeline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Timeline\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Progress of Technology",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Progress of Technology.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Progress of Technology\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":234},\"to\":{\"line\":34,\"ch\":234}},\"scroll\":0}"
                 },
                 {
                   "title": "A Grand Notepad",
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Progress of Technology.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Progress of Technology"
+              "title": "Alchemy Processes & Products"
             }
           }
         ]
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,8 +294,8 @@
   },
   "active": "16b88ef549736abf",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "The Progress of Technology.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
