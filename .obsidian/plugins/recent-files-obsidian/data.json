@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Alchemy Processes & Products",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ORGANIZATION",
       "path": "ORGANIZATION/ORGANIZATION.md"
-    },
-    {
-      "basename": "Methods of Organization",
-      "path": "ORGANIZATION/Methods of Organization.md"
     }
   ],
   "omittedPaths": [],
