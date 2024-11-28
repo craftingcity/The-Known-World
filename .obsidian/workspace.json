@@ -43,35 +43,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "52ee6fd645bdda1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8b915f7bdffc70c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -321,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298c7d20ae26fdd8",
+  "active": "16b88ef549736abf",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "The Progress of Technology.md",
