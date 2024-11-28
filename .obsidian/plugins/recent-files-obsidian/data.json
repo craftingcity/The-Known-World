@@ -1,40 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Alchemy Processes & Products",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
-    },
-    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
-    },
-    {
-      "basename": "Food and Drink - South West",
-      "path": "Food and Drink - South West.md"
-    },
-    {
-      "basename": "Slimknives",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "Lingering Injuries",
       "path": "Lingering Injuries.md"
     },
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "Cobalt's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
+    },
+    {
+      "basename": "Cobalt",
+      "path": "Game Notes/NPCs/Mild Power/Thief Lords of the Desert/Cobalt.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
+      "basename": "Central Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "On The Text of Tetrimoc; Guild Position",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On The Text of Tetrimoc; Guild Position.md"
+    },
+    {
+      "basename": "Tetrimoc's Journal (Propaganda)",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Tetrimoc's Journal (Propaganda).md"
+    },
+    {
+      "basename": "Nations",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
+    },
+    {
+      "basename": "Tetrimoc",
+      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Economics of Tetrimoc's Desert",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
     },
     {
       "basename": "Arms and Armor - South West",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md"
     },
     {
-      "basename": "Economics of Tetrimoc's Desert",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
+      "basename": "Food and Drink - South West",
+      "path": "Food and Drink - South West.md"
     },
     {
       "basename": "Non-Nation Entities",
@@ -49,16 +89,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
     },
     {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
-    },
-    {
       "basename": "Lands of Tetrimoc",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Lands of Tetrimoc.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
     },
     {
       "basename": "Northwestern Central",
@@ -67,10 +99,6 @@
     {
       "basename": "Southeastern Central",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
     },
     {
       "basename": "World Features",
@@ -107,10 +135,6 @@
     {
       "basename": "General Texts",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Pirre Tald",
@@ -175,30 +199,6 @@
     {
       "basename": "Coalition's Founding Document",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Coalition's Founding Document.md"
-    },
-    {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Bodaim's Bandits",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Bodaim's Bandits.md"
-    },
-    {
-      "basename": "Riphounds",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
-    },
-    {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
-    },
-    {
-      "basename": "Prenotes Aug 31 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md"
-    },
-    {
-      "basename": "Prenotes Aug 10 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Aug 10 24.md"
     }
   ],
   "omittedPaths": [],
