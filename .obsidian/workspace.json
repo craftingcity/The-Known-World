@@ -8,6 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e47cb5dc33a07d7c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Gear..."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ebbc88dceb3379d1",
+        "type": "tabs",
+        "children": [
+          {
             "id": "16b88ef549736abf",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -292,10 +321,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16b88ef549736abf",
+  "active": "e47cb5dc33a07d7c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "conflict-files-obsidian-git.md",
     "The Progress of Technology.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "A Grand Notepad.md",
@@ -322,7 +352,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Minyostalma",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
   ]
 }
