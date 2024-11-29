@@ -71,6 +71,7 @@ The Mechanical Press is a lab-grade force-application configuration; composed of
 ##### Mithril
 ##### Darksteel
 ##### Chaotic Gold
+##### Adjust Bronze
 ##### Bituitem
 ##### Pure Force
 #### Textiles
