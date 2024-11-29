@@ -54,11 +54,18 @@ The Mechanical Press is a lab-grade force-application configuration; composed of
 ### Tools
 #### Equipment
 ##### Witch Sticks
+##### Miner's Savior
 ##### Alchemical Explosive
 #### Mechanics
 ##### Turbine Engine
 #### Information
 ##### Auspex Lense
+##### Assassin's Ink
+#### Weaponry
+##### Assassin's Slick
+##### King's Last Drink
+##### Flashpellet
+##### Torrin's Bane
 ### Materials
 #### Hard Solids
 ##### Mithril
@@ -74,9 +81,11 @@ The Mechanical Press is a lab-grade force-application configuration; composed of
 ##### Alchemical Chalk
 #### Liquids & Oils
 ##### Enchanter's Acid
+##### Royal Water
 ##### Gravel Grease
 ##### Hummpo
 ##### Darkoil
+##### Nalasculas
 ##### Kylao Gel
 #### Powders
 ##### Firepowder
@@ -97,4 +106,7 @@ The Mechanical Press is a lab-grade force-application configuration; composed of
 ##### Dareanamon
 ### Others
 #### Magical Imitation
+##### Spell Gems
 #### Magical Inscription
+##### Patch Rune
+##### Scrolls
