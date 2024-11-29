@@ -37,6 +37,7 @@ The Claciner Kiln is a lab-grade calcination configuration, where a subject is p
 ##### Grinder
 The Grinder is a lab-grade ablation configuration; composed of two grinding wheels atop a powder hopper and a vessel for containing your result material.
 ##### Mechanical Press
+The Mechanical Press is a lab-grade force-application configuration; composed of two moving walls and two solid ones, providing energy to the press pushes the walls together, resulting in a crushed subject.
 ##### Driven Mixer
 ##### Mass Filter
 ##### Rotating Centrifuge
@@ -52,17 +53,47 @@ The Grinder is a lab-grade ablation configuration; composed of two grinding whee
 ## Common Productions
 ### Tools
 #### Equipment
+##### Witch Sticks
+##### Alchemical Explosive
 #### Mechanics
 #### Information
+##### Auspex Lense
 ### Materials
-#### Metallics
+#### Hard Solids
+##### Mithril
+##### Darksteel
+##### Chaotic Gold
+##### Bituitem
+##### Pure Force
 #### Textiles
+##### Elvenfibre
+##### Pressigen
 #### Composites
+##### Alchemical Clay
+##### Alchemical Chalk
 #### Liquids & Oils
+##### Enchanter's Acid
+##### Gravel Grease
+##### Hummpo
+##### Darkoil
+##### Kylao Gel
+#### Powders
+##### Firepowder
 ### Consumables
 #### Potions
 #### Salves
+##### Scar Balm
+##### Heamoc Balm
 #### Medicine
+##### Isiopara
+##### Secreclude Propaterol
+##### Pretokarin
+##### Ambebamol
+##### Aerotide
+#### Vices
+##### Bulbkiss
+##### Nova
+##### Dareanamon
 ### Others
 #### Magical Imitation
 #### Magical Inscription
