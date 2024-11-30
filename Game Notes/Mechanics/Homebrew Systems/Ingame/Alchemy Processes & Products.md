@@ -51,21 +51,26 @@ The Sink Polisher is a lab-grade polishing configuration; composed of a pair of 
 ##### Chilled Safe
 The Chilled Safe is a magical lab-grade freezing or cooling equipment, usually a simple front-opening box, locker, or safe.
 ##### Pyrosymile Crucible
-The Pyrosymile Crucible is a magical lab-grade heating equipment, usually dwa
+The Pyrosymile Crucible is a magical lab-grade heating equipment, usually a cauldron or crucible.
 ##### Hyper Pressure Locker
+The Hyper Pressure Locker is a magical lab-grade pressurization equipment, usually a simple front-opening box, locker, or safe.
 ##### Electrolysistem
+The Electrolysistem is a magical lab-grade electrolysis equipment, usually a specialized vessel with two conductive rods in the center.
 ##### Auspex Scope
+The Auspex Scope is a magical lab-grade identification equipment, usually a set of two or more auspex lenses in a stable rotating cylinder.
 
 ## Common Productions
 ### Tools
 #### Equipment
 ##### Witch Sticks
+Witch Sticks begin 
 ##### Miner's Savior
 ##### Alchemical Explosive
 #### Mechanics
 ##### Turbine Engine
 #### Information
 ##### Auspex Lense
+##### Stone of Far Speech
 ##### Assassin's Ink
 #### Weaponry
 ##### Assassin's Slick
@@ -75,6 +80,7 @@ The Pyrosymile Crucible is a magical lab-grade heating equipment, usually dwa
 ### Materials
 #### Hard Solids
 ##### Mithril
+##### Adamantine
 ##### Darksteel
 ##### Chaotic Gold
 ##### Adjust Bronze

@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oliver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -298,14 +297,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298c7d20ae26fdd8",
+  "active": "16b88ef549736abf",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+    "Prenotes Nov 30 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
@@ -325,8 +326,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Lingering Injuries.md",
     "MEDIA/SUPP/Lingering Injuries.pdf",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Adventuring Groups",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Minyostalma"
