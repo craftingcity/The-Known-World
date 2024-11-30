@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37e575130a6e3007",
+        "id": "1867665842a8aae3",
         "type": "tabs",
         "children": [
           {
-            "id": "2d39b7d1a65dc5b4",
+            "id": "4d399911f4aa8172",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,59 +20,14 @@
               ]
             },
             "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-              },
-              "icon": "lucide-image",
-              "title": "AlchemicalComponentMotifs"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ebbc88dceb3379d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16b88ef549736abf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Prenotes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ORGANIZATION/TEMPLATES/Prenotes.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Progress of Technology",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Progress of Technology.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Progress of Technology\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":234},\"to\":{\"line\":34,\"ch\":234}},\"scroll\":0}"
-                },
-                {
-                  "title": "A Grand Notepad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":202,\"ch\":26},\"to\":{\"line\":202,\"ch\":26}}}"
-                }
-              ]
-            },
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+                "file": "Junie's Characters/Dante Fukili.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Dante Fukili"
             }
           }
         ]
@@ -324,8 +279,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16b88ef549736abf",
+  "active": "4d399911f4aa8172",
   "lastOpenFiles": [
+    "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
