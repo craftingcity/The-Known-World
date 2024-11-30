@@ -39,7 +39,9 @@ The Grinder is a lab-grade ablation configuration; composed of two grinding whee
 ##### Mechanical Press
 The Mechanical Press is a lab-grade force-application configuration; composed of two moving walls and two solid ones, providing energy to the press pushes the walls together, resulting in a crushed subject.
 ##### Driven Mixer
+The Driven Mixer is a lab-grade combination configuration; composed of a single vessel for the subjects and a rotating whisk upon an arm.
 ##### Mass Filter
+The Mass Filter is a lab-grade filtration configuration; composed of dozens filtration planes of descending size, where each plane sends its subject to their own vessels. 
 ##### Rotating Centrifuge
 ##### Sink Polisher
 
