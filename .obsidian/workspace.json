@@ -146,7 +146,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -345,7 +346,7 @@
       }
     ]
   },
-  "active": "16b88ef549736abf",
+  "active": "298c7d20ae26fdd8",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
