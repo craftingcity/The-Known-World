@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     },
     {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
       "basename": "Prenotes Aug 31 24",
       "path": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tracking",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Pirre Tald",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
     }
   ],
   "omittedPaths": [],

@@ -63,7 +63,13 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ### Tools
 #### Equipment
 ##### Witch Sticks
-Witch Sticks begin 
+> Witch Sticks begin as simple twigs before spending time in a well-mixed solution bath of Arcana and Bane essences. After the twigs have soaked in the solution, they are coated in powdered pewter, and calcified. 
+
+When set aflame, the Witch Sticks produce a smoke with magical-dissociative properties. Witch Sticks are typically bundled into 8 sticks before they are sold as a set.
+
+*Witchweed* is the typical choice for production of Bane Essence. *Polypore* is the typical choice for production of Arcana Essence. 
+
+
 ##### Miner's Savior
 ##### Alchemical Explosive
 #### Mechanics
