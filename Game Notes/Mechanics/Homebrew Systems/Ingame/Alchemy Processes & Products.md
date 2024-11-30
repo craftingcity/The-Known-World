@@ -67,7 +67,7 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 
 When set aflame, the Witch Sticks produce a smoke with magical-dissociative properties. Witch Sticks are typically bundled into 8 sticks before they are sold as a set.
 
-*Witchweed* is the typical choice for production of Bane Essence. *Polypore* is the typical choice for production of Arcana Essence. 
+*Witchweed* is the typical choice for production of Bane Essence. *Polypore* is the typical choice for production of Arcana Essence. A cup of Essence will coat 8 sticks.
 
 
 ##### Miner's Savior
