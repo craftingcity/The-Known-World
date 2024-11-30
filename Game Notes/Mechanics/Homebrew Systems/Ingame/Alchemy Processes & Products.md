@@ -43,11 +43,15 @@ The Driven Mixer is a lab-grade combination configuration; composed of a single 
 ##### Mass Filter
 The Mass Filter is a lab-grade filtration configuration; composed of dozens filtration planes of descending size, where each plane sends its subject to their own vessels. 
 ##### Rotating Centrifuge
+The Rotating Centrifuge is a lab-grade separation configuration; composed of a half-dozen specialized vessels stored equidistantly on a rotating plane.
 ##### Sink Polisher
+The Sink Polisher is a lab-grade polishing configuration; composed of a pair of soft, shifting cloths that polish the subject placed between.
 
 ### Alchemical/Magical Laboratory Equipment
 ##### Chilled Safe
-##### Pyrosymile Cauldron
+The Chilled Safe is a magical lab-grade freezing or cooling equipment, usually a simple front-opening box, locker, or safe.
+##### Pyrosymile Crucible
+The Pyrosymile Crucible is a magical lab-grade heating equipment, usually dwa
 ##### Hyper Pressure Locker
 ##### Electrolysistem
 ##### Auspex Scope
