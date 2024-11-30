@@ -69,8 +69,11 @@ When set aflame, the Witch Sticks produce a smoke with magical-dissociative prop
 
 *Witchweed* is the typical choice for production of Bane Essence. *Polypore* is the typical choice for production of Arcana Essence. A cup of Essence will coat 8 sticks.
 
+Production of a bundle of Witch Sticks costs 2sp, and can be sold for 3-5sp.
 
 ##### Miner's Savior
+> Miner's Savior is a complex solution that, when exposed to air, creates a strong hexagonal structure of solid stone-like material. It is composed of ...
+
 ##### Alchemical Explosive
 #### Mechanics
 ##### Turbine Engine
