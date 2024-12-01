@@ -72,7 +72,7 @@ When set aflame, the Witch Sticks produce a smoke with magical-dissociative prop
 Production of a bundle of Witch Sticks costs 2sp, and can be sold for 3-5sp.
 
 ##### Miner's Savior
-> Miner's Savior is a complex alchemical solution composed of 
+> Miner's Savior begins as a powdered stone which is integrated into a 
 
 ##### Alchemical Explosive
 #### Mechanics
