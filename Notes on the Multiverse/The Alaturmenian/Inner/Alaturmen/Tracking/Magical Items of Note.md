@@ -121,7 +121,7 @@ aliases:
 
 		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. 
 
-		- GME-012-2
+		- GME-012-2 is a
 
 		- GME-012-3
 
