@@ -3,12 +3,21 @@
   "disableWorkingLinks": true,
   "directoriesToIgnore": [],
   "filesToIgnore": [],
-  "fileTypesToIgnore": [],
+  "fileTypesToIgnore": [
+    "pdf",
+    "ods",
+    "odt",
+    "drawio",
+    "png",
+    "jpeg",
+    "pdn"
+  ],
   "linksToIgnore": [],
   "tagsToIgnore": [],
   "fileTypesToDelete": [],
   "ignoreFileTypes": true,
   "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
   "unresolvedLinksOutputFileName": "UNRESOLVED",
   "unresolvedLinksDirectoriesToIgnore": [],
   "unresolvedLinksFilesToIgnore": [],
@@ -17,5 +26,10 @@
   "unresolvedLinksTagsToIgnore": [],
   "withoutTagsDirectoriesToIgnore": [],
   "withoutTagsFilesToIgnore": [],
-  "withoutTagsOutputFileName": "UNTAGGED"
+  "withoutTagsOutputFileName": "UNTAGGED",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": true
 }
