@@ -40,8 +40,7 @@ The guards of the city are the cultural superiors of all people of [[The Deserts
 #### Department of Warfare
 ##### Gleeming Wyvern Riders
 ##### Breakers in Tooth and Claw
-
-### The Black Hand Killteams
+##### The Black Hand Killteams
 In the bowels of the Golden City, there are many rough, tough, young, and unmissed children who have been indoctrinated into a military cult that operates outside the Deserts with extreme secrecy.
 
 

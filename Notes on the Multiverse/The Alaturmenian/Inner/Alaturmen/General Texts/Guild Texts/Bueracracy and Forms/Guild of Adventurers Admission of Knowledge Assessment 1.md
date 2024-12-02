@@ -53,6 +53,6 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 10. Name or describe a major commodity exported by a member-faction of the Democratic Combine of Peoples (1 point)? 
 
 ## Important People
-11. 
+11.
 
-## Major History
+## Mechanics Mastery
