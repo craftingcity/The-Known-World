@@ -1,42 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Golden Claws",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Prenotes Nov 12 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md"
-    },
-    {
-      "basename": "Prenotes Nov 16 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md"
-    },
-    {
-      "basename": "Prenotes Nov 19 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md"
-    },
-    {
-      "basename": "Prenotes Nov 21 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md"
-    },
-    {
-      "basename": "Prenotes Nov 30 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md"
-    },
-    {
-      "basename": "Guild of Adventurers Admission of Knowledge Assessment 1",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
       "basename": "Alchemy Processes & Products",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     },
@@ -51,6 +15,10 @@
     {
       "basename": "Prenotes Aug 31 24",
       "path": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
       "basename": "About People",
@@ -113,6 +81,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Economics of Tetrimoc's Desert",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
     },
@@ -143,6 +115,10 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
     },
     {
       "basename": "Central Alaturmen",
@@ -199,11 +175,29 @@
     {
       "basename": "Ammarin Transportation",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Ammarin Transportation.md"
+    },
+    {
+      "basename": "World Wide Happenings",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/World Wide Happenings.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Places",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
+    },
+    {
+      "basename": "Tracking",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
     }
   ],
   "omittedPaths": [],
-  "omittedTags": [],
-  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

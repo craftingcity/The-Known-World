@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4053786f0e2c2f",
+        "id": "48e0a6efa3202363",
         "type": "tabs",
         "children": [
           {
-            "id": "aa6a75b840d57943",
+            "id": "dd2d9bfae1ed822d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,39 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
-            "id": "13c07c899a5b1f6a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Golden Claws"
+              "title": "Alchemy Processes & Products"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oliver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +128,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -299,26 +276,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13c07c899a5b1f6a",
+  "active": "dd2d9bfae1ed822d",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
-    "UNLINKED.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
     "Junie's Characters/Dante Fukili.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
+    "Prenotes Nov 30 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
@@ -333,6 +307,8 @@
     "Game Notes/Prenotes/'22/'22.md",
     "ORGANIZATION/TEMPLATES/Prenotes.md",
     "conflict-files-obsidian-git.md",
+    "The Progress of Technology.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "MEDIA/SUPP/Lingering Injuries.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Adventuring Groups",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies",
