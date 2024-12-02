@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "941b8f6e30b44f55",
+        "id": "8a794fbf969fe297",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8d4bf9b726cb3e",
+            "id": "1cdb316ea6ef282a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Magical Items of Note"
+              "title": "New tab"
             }
           }
         ]
@@ -128,8 +124,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,15 +274,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b8d4bf9b726cb3e",
+  "active": "dafe8404df17708b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Junie's Characters/Dante Fukili.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
     "Prenotes Nov 30 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
