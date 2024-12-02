@@ -18,7 +18,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Golden Claws of Tetrimoc
 	D. The Church of White Flame
 
-2. Which of the following is the event that is most responsible for the creation of The Church of White Flame?
+2. Which of the following is the event that is most responsible for the formation of The Church of White Flame?
 	A. The Great Fires
 	B. The First Crusade of the Fire's Will
 	C. The Assault of the Giant Dissenters
@@ -42,13 +42,17 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Dragon
 	D. Worm
 
-6. There are many sub-factions that make up the Combine. Please name a faction of the Combine, their Baron, and explain what you know about the faction's ideology & operations.
+6. There are many sub-factions that make up the Combine. Please name a faction of the Combine, their Baron, and explain what you know about the faction's ideology & operations (2+ points).
 
-7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material?
+7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material (1 point)?
 
-8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward, which serves as overflow from the other wards and the central pathway through the city?
+8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward, which serves as overflow from the other wards and the central pathway through the city (1 point)?
 
-9. 
+9. The Kingdom of Prosper is an empire with a brutal history of war. What do the people call the first war the Kingdom waged (1 point)?
+
+10. Name or describe a major commodity exported by a member-faction of the Democratic Combine of Peoples (1 point)? 
 
 ## Important People
+11. 
+
 ## Major History
