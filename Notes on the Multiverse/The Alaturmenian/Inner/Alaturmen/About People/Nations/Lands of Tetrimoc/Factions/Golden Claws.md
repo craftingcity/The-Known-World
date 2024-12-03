@@ -31,20 +31,20 @@ The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands
 - [[Alaster Kobain]] Department of Warfare; Wyvern Keeper / Wyvern Control
 - [[Porman Gwanna]] Department of Labor; District Manager / Wealth Control
 
-### The Golden Claw Guard
-The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground, and trained by members who have seen active duty.
-
 #### Department of Relations
 The Department of Relations is responsible for the communication of information between departments, cities, and other nations. The Department of Relations also acts as the 'internal affairs' service when complaints are officially raised against a Department.
 
 #### Department of Ecology
-The Department of Ecology is responsible for the production of food and drink for the population of [[The Golden City]], as well as performing research into
+The Department of Ecology is responsible for the production of food and drink for the population of [[The Golden City]], as well as performing research into the flora and fauna of [[The Deserts of Tetrimoc]]. They are additionally responsible for the management of the communal needs of the society, such as waste disposal and water management.
 
 #### Department of Labor
-The Department of Labor 
+The Department of Labor is responsible for the importation, exportation, or production of any non-food, non-water commodities, and the management and expansion of the physical structures of [[The Golden City]].
 
 #### Department of Warfare
 The Department of Warfare 
+
+##### The Golden Claw Guard
+The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground, and trained by members who have seen active duty.
 
 ##### Gleeming Wyvern Riders
 ##### Breakers in Tooth and Claw
