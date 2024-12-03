@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48e0a6efa3202363",
+        "id": "4060815c715148fc",
         "type": "tabs",
         "children": [
           {
-            "id": "dd2d9bfae1ed822d",
+            "id": "29000ba78a02ae23",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+                "file": "Prenotes Dec 03 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Prenotes Dec 03 24"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9a74fcf0a6629f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d71879390ea735",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Nov 19 24"
             }
           }
         ]
@@ -79,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oliver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +157,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,23 +304,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd2d9bfae1ed822d",
+  "active": "29000ba78a02ae23",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
+    "Prenotes Dec 03 24.md",
+    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+    "UNLINKED.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Junie's Characters/Dante Fukili.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md",
-    "Prenotes Nov 30 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
@@ -304,11 +338,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Prenotes/'21/'21.md",
-    "Game Notes/Prenotes/'22/'22.md",
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
-    "conflict-files-obsidian-git.md",
-    "The Progress of Technology.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "MEDIA/SUPP/Lingering Injuries.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Adventuring Groups",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies",
