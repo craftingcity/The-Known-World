@@ -32,12 +32,20 @@ The Council of Eight is the true ruling force of [[The Golden City]] and [[Lands
 - [[Porman Gwanna]] Department of Labor; District Manager / Wealth Control
 
 ### The Golden Claw Guard
-The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground. 
+The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground, and trained by members who have seen active duty.
 
 #### Department of Relations
+The Department of Relations is responsible for the communication of information between departments, cities, and other nations. The Department of Relations also acts as the 'internal affairs' service when complaints are officially raised against a Department.
+
 #### Department of Ecology
+The Department of Ecology is responsible for the production of food and drink for the population of [[The Golden City]], as well as performing research into
+
 #### Department of Labor
+The Department of Labor 
+
 #### Department of Warfare
+The Department of Warfare 
+
 ##### Gleeming Wyvern Riders
 ##### Breakers in Tooth and Claw
 ##### The Black Hand Killteams
