@@ -29,29 +29,6 @@
               "icon": "lucide-file",
               "title": "Prenotes Dec 03 24"
             }
-          },
-          {
-            "id": "431e32aab98a8435",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Aug 13 24"
-            }
           }
         ]
       },
@@ -81,8 +58,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Nov 19 24"
             }
+          },
+          {
+            "id": "431e32aab98a8435",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Aug 13 24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,12 +333,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29000ba78a02ae23",
+  "active": "431e32aab98a8435",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
     "Prenotes Dec 03 24.md",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
