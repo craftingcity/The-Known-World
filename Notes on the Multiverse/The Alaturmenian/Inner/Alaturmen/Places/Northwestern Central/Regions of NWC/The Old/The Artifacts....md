@@ -314,11 +314,6 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Fun Guy
-> 'A shifting cube of orange liquid, its surface bubbles and waves with excitement.'
-> *Fun Guy* is a **CLASS** artifact, and incurs xdX (y) radiation.
-> A *NAME* artifact has this effect...
-
 ##### All
 < 3 common, 4 uncommon, 2 rare >
 ###### Corebent Duram
@@ -365,6 +360,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
 > *Jasper's Twin* are a **rare** artifact and incurs 4d12 (27) Radiation.
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
+
+###### Fun Guy
+> 'A shifting cube of orange liquid, its surface bubbles and waves with excitement.'
+> *Fun Guy* is a **rare** artifact, and incurs 3d6 (13) radiation.
+> A *Fun Guy* is a passive artifact. When disturbed, the artifact deals 1d6 necrotic damage to its user.
 
 ##### Acid
 < 0 common, 0 uncommon, 3 rare >
