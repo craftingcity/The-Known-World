@@ -314,6 +314,11 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
+###### Fun Guy
+> 'A shifting cube of orange liquid, its surface bubbles and waves with excitement.'
+> *Fun Guy* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> A *NAME* artifact has this effect...
+
 ##### All
 < 3 common, 4 uncommon, 2 rare >
 ###### Corebent Duram
