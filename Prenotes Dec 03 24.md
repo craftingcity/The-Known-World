@@ -27,8 +27,9 @@ What do you do?
 
 See [[Prenotes Aug 13 24#What does the World Know?]]. 
 
-The Troopers really don't want to chase down the party without backup, even though they probably could win the fight.
+The Troopers really don't want to chase down the party without backup, even though they probably could win the fight, so they're gonna let them run off easy; "back where they came from".
 
+The more genuine threats will come from disturbing the interior of the bore-pit, where a pseudo-brain rests and grows. The Barracks is occupied by too many dwarves, all bloodied and static. Their perception is disabled to preserve power for the growth of the pseudo-brain, excepting one, Ayoyt Gruikaine, a transport merc working with [[Web Spun Solutions]], delivering Metallics to the Plots of the Mining Colonies, who came to this plot after the destruction of their caravan in Plot 7 by another of the mercs.
 
 ### What happened?
 
