@@ -32,5 +32,6 @@ The more genuine threats will come from disturbing the interior of the bore-pit,
 
 ### What happened?
 
+At the plot, they sprung the pseudo-brain's trap! By interacting with Ayoyt, they've captured 
 
 We leave our heroes on the date of ... AF, as they ...
