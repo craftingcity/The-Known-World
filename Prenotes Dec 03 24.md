@@ -32,6 +32,10 @@ The more genuine threats will come from disturbing the interior of the bore-pit,
 
 ### What happened?
 
-At the plot, they sprung the pseudo-brain's trap! By interacting with Ayoyt, they've captured 
+At the plot, they sprung the pseudo-brain's trap! By interacting with Ayoyt, they've captured the psywaves of the local fauna;
+20 - PSEUDO-BRAIN
+10 - Psy Pawns
+8 - Spaceteam
+1 - The Innocent
 
 We leave our heroes on the date of ... AF, as they ...
