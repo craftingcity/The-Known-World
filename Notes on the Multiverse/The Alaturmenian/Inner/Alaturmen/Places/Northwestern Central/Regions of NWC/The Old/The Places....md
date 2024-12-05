@@ -218,6 +218,13 @@ The Stamping Line is a Ground Level with access to the Upper at [[#The Rafters]]
 
 ## The City
 #### The Offices, North (6/rr)
+West of [[#The Arched Road (4/rr)]] & [[#The Fountain Park (8/rr)]], a large cluster of relatively stable-looking four-story buildings remain standing above the surrounding ruins. The interior of the Offices is crusty, dirty, and largely undisturbed; many rooms are divided into cubicles, each keeping a powerless workstation, a set of writing utensils, and a swath of unintelligible documentation rests, covered in years of dust.
+
+A select few of the cubicles have become overgrown with dark green vines and leaves, and attract small insects or rodents into the Offices.
+
+The spaces that have been disturbed here are obvious, where bloodstains and strewn furniture suggest that the most common travelers here are either injured, and looking to camp, or hunting for easy prey.
+
+
 
 #### The Arched Road (4/rr)
 
@@ -226,11 +233,14 @@ The Construction Site is a
 
 
 #### The Offices, South (4/rr)
+See [[#The Offices, North (6/rr)]]
 
 #### The Fountain Park (8/rr)
 
 #### The Mall (6/rr)
+East of [[#The Fountain Park (8/rr)]] and south of [[#The Construction Site (4/rr)]], the largest building in the city stands tall and wide. Three stories of carved stone, each over 1000 square feet of dense halls, stores, and backrooms, most all of which has been taken and shaped into a tactical symphony.
 
+This place was once 
 
 #### The Apartments, West (4/rr)
 
