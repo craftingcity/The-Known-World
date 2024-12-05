@@ -74,7 +74,10 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 
 ##### Alchemical Explosive
 ##### Alchemical Thermite
-##### Grade 3 Bag of Holding
+##### Bag of Holding, Grade 3
+##### Everlight Candle / Torch
+##### Lasting Flask
+##### Seashell Personal Shelter
 #### Mechanics
 ##### Turbine Engine
 #### Information
