@@ -28,8 +28,8 @@ aliases:
 #### L6. Den of the Ashen Winders
 #### L7. Arch Pass (visible)
 #### M2. Broken Marker Columns
-#### M3. 
-#### M4.
+#### M3. Unnatural Symmetry
+#### M4. White Lake
 #### M5. Druidhold Ventasia
 #### M6. Tonk's Museum
 #### M7. Fort Curio (visible)
