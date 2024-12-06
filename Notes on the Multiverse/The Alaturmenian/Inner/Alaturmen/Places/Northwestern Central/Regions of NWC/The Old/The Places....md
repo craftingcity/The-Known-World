@@ -225,7 +225,7 @@ A select few of the cubicles have become overgrown with dark green vines and lea
 The spaces that have been disturbed here are obvious, where bloodstains and strewn furniture suggest that the most common travelers here are either injured, and looking to camp, or hunting for easy prey.
 
 #### The Arched Road (4/rr)
-The entrance to this city is a massive carved arch, standing over a once glorious road, which has overgrown into a thick, impassable, wall of foliage. 
+The entrance to this city is a massive carved arch, standing over a once glorious road, which has overgrown into a thick, impassable, wall of foliage. Nature has aggressively reclaimed this place, leaving worn cobblestone and grand carving buried in dense green life.
 
 #### The Construction Site (4/rr)
 The Construction Site is east of [[#The Arched Road (4/rr)]], and north of [[#The Mall (6/rr)]]. The site is composed of a few tall tower-cranes, a few dozen foundations, and tons of construction material. The area is spaced as all the other buildings in the city are, but the buildings themselves are missing, leaving the area very open to visual inspections.
@@ -234,7 +234,7 @@ The Construction Site is east of [[#The Arched Road (4/rr)]], and north of [[#Th
 See [[#The Offices, North (6/rr)]].
 
 #### The Fountain Park (8/rr)
-...
+South of [[#The Arched Road (4/rr)]], a grand cobblestone square is centered around a large bowl fountain that has since ceased flowing. Much of the northern section of the park is succumbing to nature, leaving the majority of the park bare of life. 
 
 #### The Mall (6/rr)
 East of [[#The Fountain Park (8/rr)]] and south of [[#The Construction Site (4/rr)]], the largest building in the city stands tall and wide. Three stories of carved stone, each over 1000 square feet of dense halls, stores, and backrooms, most all of which has been taken and shaped into a tactical symphony.
