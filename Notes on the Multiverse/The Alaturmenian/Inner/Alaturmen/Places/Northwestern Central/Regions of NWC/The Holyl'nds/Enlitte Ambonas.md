@@ -9,19 +9,19 @@ aliases:
 ### Flora
 ### Scenarios
 #### C15. Frost Giant Haven
-#### C16.
-#### C17.
-#### D13.
-#### D14.
-#### D15.
-#### D16.
-#### E14.
-#### E15.
-#### E16.
-#### E17.
-#### F14.
-#### F15.
-#### F16.
+#### C16. Silverfish Delta
+#### C17. Dark Hardcut (visible)
+#### D13. Wet Gold Mine
+#### D14. Fort Seaside (visible)
+#### D15. Kalix Cave
+#### D16. Grey Creep Fog
+#### E14. 
+#### E15. 
+#### E16. Danger Hill
+#### E17. Light Hardcut (visible)
+#### F14. Ashen Swamp-slime
+#### F15. Frontier Bivouac
+#### F16. Open Battlefield (visible)
 
 
 ## Tables
