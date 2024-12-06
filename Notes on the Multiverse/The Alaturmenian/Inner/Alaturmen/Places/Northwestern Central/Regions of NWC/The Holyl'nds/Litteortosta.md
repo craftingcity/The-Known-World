@@ -21,19 +21,19 @@ aliases:
 		- The Tendered disavow such a tale.
 #### K6. Kohnstamm Roadblock (visible)
 #### L1. Standpeak Mines (visible)
-#### L2. 
-#### L3. 
-#### L4. Fort Hillside (visible)
-#### L5.
-#### L6.
-#### L7.
-#### M2. 
-#### M3.
+#### L2. Hilltrack
+#### L3. Stump Gardens (visible)
+#### L4. Staging Grounds (visible)
+#### L5. Runic Cave
+#### L6. Den of the Ashen Winders
+#### L7. Arch Pass (visible)
+#### M2. Broken Marker Columns
+#### M3. 
 #### M4.
-#### M5.
-#### M6.
+#### M5. Druidhold Ventasia
+#### M6. Tonk's Museum
 #### M7. Fort Curio (visible)
-#### M8.
+#### M8. Burnt Altars (visible)
 #### N2. Alagrashi's Lair
 #### N3. Stone Cut Hills
 #### N4. Katz Clan Homesteads, West (visible)
