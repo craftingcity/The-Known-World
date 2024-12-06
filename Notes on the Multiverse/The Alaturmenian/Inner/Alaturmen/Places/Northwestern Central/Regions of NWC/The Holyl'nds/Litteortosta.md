@@ -16,26 +16,26 @@ aliases:
 #### K4. [[Kohnstamm]] (visible)
 #### K5. The Hunter's Siltdrop
 	- A 10ft diameter circle of silt is barely held aloft above a 15ft natural conical hole.
-	- A group of four Patron laborers and three Tendered guarding them are attempting to harvest a large catch from the Siltdrop and return to their village south of here; XXXXXXXXX
+	- A group of four Patron laborers and three Tendered guarding them are attempting to harvest a large catch from the Siltdrop and return to their village south of here; [[Kosh A'afi]].
 		- If pressed, the Patrons will reveal a local superstition that any human who enters the siltdrop is murdered by the spirit of an elf who used this hole to survive the great fires, who is known only as The Hunter.
 		- The Tendered disavow such a tale.
 #### K6. Kohnstamm Roadblock (visible)
 #### L1. Standpeak Mines (visible)
-#### L2.
-#### L3.
-#### L4.
+#### L2. 
+#### L3. 
+#### L4. Fort Hillside (visible)
 #### L5.
 #### L6.
 #### L7.
-#### M2.
+#### M2. 
 #### M3.
 #### M4.
 #### M5.
 #### M6.
-#### M7.
+#### M7. Fort Curio (visible)
 #### M8.
 #### N2. Alagrashi's Lair
-#### N3. 
+#### N3. Stone Cut Hills
 #### N4. Katz Clan Homesteads, West (visible)
 #### N5. Katz Clan Homesteads, East (visible)
 #### N6. Silverfish Pools
