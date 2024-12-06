@@ -225,7 +225,7 @@ A select few of the cubicles have become overgrown with dark green vines and lea
 The spaces that have been disturbed here are obvious, where bloodstains and strewn furniture suggest that the most common travelers here are either injured, and looking to camp, or hunting for easy prey.
 
 #### The Arched Road (4/rr)
-...
+The entrance to this city is a massive carved arch, standing over a once glorious road, which has overgrown into a thick, impassable, wall of foliage. 
 
 #### The Construction Site (4/rr)
 The Construction Site is east of [[#The Arched Road (4/rr)]], and north of [[#The Mall (6/rr)]]. The site is composed of a few tall tower-cranes, a few dozen foundations, and tons of construction material. The area is spaced as all the other buildings in the city are, but the buildings themselves are missing, leaving the area very open to visual inspections.
@@ -242,7 +242,7 @@ East of [[#The Fountain Park (8/rr)]] and south of [[#The Construction Site (4/r
 This place was once under the control of a savage gang of bandit-scavs following the leadership of one 'Bloody Nial', who doused the area in visual and psychological horrors in an attempt to maintain their control, but has since been liberated into the control of [[The People...#Mercenaries]], thanks to 'Ash' and the rest of 'Delta 3'.
 
 #### The Apartments, West (4/rr)
-South of [[#The Offices, North (6/rr)]] and [[#The Fountain Park (8/rr)]], the Apartments look skeletal and decrepit, where patios and balconies are broken off and away, major portions of wall are blown out, and pieces of furniture block the windows, as if trying to hide the interior of this bleeding ruin.
+South of [[#The Offices, North (6/rr)]] and [[#The Fountain Park (8/rr)]], the Apartments look skeletal and decrepit, where patios and balconies are broken off and away, major portions of wall are blown out. Pieces of furniture or boards block out the windows, as if trying to hide the interior of this bleeding ruin.
 
 #### The Apartments, East (4/rr)
 See [[#The Apartments, West (4/rr)]].
