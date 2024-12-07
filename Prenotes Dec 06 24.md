@@ -17,7 +17,7 @@ aliases:
 
 When last we left our heroes, they committed murder in [[Moonlight]], were taken to and had broken out of jail, robbed a Guild of Merchants' caravan, and escaped into the night, leaving Cedric and his morals to explain the situation in the morning. 
 
-You four have begun your journey as adventurers; you have money, goods, and a mystery to solve. There are places to go, things to take, and people to kill.
+You four have begun your journey as genuine adventurers; you have money, you've committed crimes, and you have a mystery to solve. There are places to go, things to take, and people to kill. If you have an interest, you have a manner of pursuing it.
 
 What do you do?
 
