@@ -3,17 +3,18 @@ tags:
   - holding
 aliases:
 ---
-# Name
+# Golden Ward
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Guilds of Coalition]]
+### Located in [[Deakred Range]], X:Y
 ## Description
-### "Quote"
+### "Where nothing cant be found!"
 
 ### General Public Disposition
 
 ### Background
 ## Important Places & Symbolism
+##### The Arms Dealer
 
 ## Economics
 |     | # of Traders |
