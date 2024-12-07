@@ -31,6 +31,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "5e7dccd209f1de7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1b0dfd09213f9a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Coalition City"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "package",
+                "query": "carbine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +157,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -282,8 +311,9 @@
   },
   "active": "3e69acd49b1111ad",
   "lastOpenFiles": [
-    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes Dec 06 24.md",
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
@@ -308,7 +338,6 @@
     "Prenotes Dec 03 24.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
-    "A Grand Notepad.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/Lingering Injuries.pdf",

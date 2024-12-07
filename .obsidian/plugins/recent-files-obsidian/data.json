@@ -5,6 +5,10 @@
       "path": "Prenotes Dec 06 24.md"
     },
     {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
       "basename": "Prenotes",
       "path": "ORGANIZATION/TEMPLATES/Prenotes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Economics of Tetrimoc's Desert",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
-    },
-    {
-      "basename": "Food and Drink - South West",
-      "path": "Food and Drink - South West.md"
     }
   ],
   "omittedPaths": [],
