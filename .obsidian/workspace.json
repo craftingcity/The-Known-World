@@ -29,84 +29,8 @@
               "icon": "lucide-file",
               "title": "Prenotes Dec 06 24"
             }
-          },
-          {
-            "id": "0b6414ef0a6c411a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Central Alaturmen"
-            }
-          },
-          {
-            "id": "644ced2dd145f052",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Litteortosta",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Litteortosta\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":39},\"to\":{\"line\":10,\"ch\":39}},\"scroll\":5.905209678318458}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Enlitte Ambonas"
-            }
-          },
-          {
-            "id": "62c7ab7e6882e1d1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Firelight Sea"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,61 +280,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "de1b23422322b487",
-    "type": "floating",
-    "children": [
-      {
-        "id": "345a4656f395cff0",
-        "type": "window",
-        "children": [
-          {
-            "id": "3da389ee971ce3b1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4e62264e6de82187",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Central Alaturmen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "4e62264e6de82187",
+  "active": "3e69acd49b1111ad",
   "lastOpenFiles": [
+    "ORGANIZATION/TEMPLATES/Prenotes.md",
+    "Prenotes Dec 06 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Enlitte Ambonas.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Prenotes Dec 06 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
@@ -421,18 +303,12 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
     "Game Notes/Prenotes/'24/Prenotes Aug 13 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes Dec 03 24.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
-    "Game Notes/Prenotes/'24/Prenotes Nov 30 24.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/Lingering Injuries.pdf",
