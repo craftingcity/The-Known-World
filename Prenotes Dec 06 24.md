@@ -54,11 +54,13 @@ What do you do?
 The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [[Coalition City]], where they expect a number of carts, but the one our party delivers is notably suspect, - missing a manifest and a driver, and carrying goods that are explicitly not ours to transport - something has gone wrong. Divinatory investigation would reveal that it was our party and not an outside influence that borked this job.
 
 ##### The Arms Dealer
-In Coalition City, there are a few smaller shops and centers that deal in firearms, but 'The Arms Dealer' is the best in both volume and quality of firearms and ammunition, in firepowder, durandurm, and other experimental variants.
+[[Golden Ward#The Arms Dealer]]
 
 ##### The Slimknives
+[[Ruby Ward#The Obra Dinn]]
+
 ##### The Library
-##### The Center of Arcane Education
+[[Jade Ward#The Center of Arcane Education]]
 
 ### What happened?
 

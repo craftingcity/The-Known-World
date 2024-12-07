@@ -3,10 +3,10 @@ tags:
   - holding
 aliases:
 ---
-# Name
+# Stone Ward
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Guilds of Coalition]]
+### Located in [[Deakred Range]], X:Y
 ## Description
 ### "Quote"
 
@@ -14,6 +14,8 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
+- [[Qipaal Cork]] is a smith that works well with leather and chiton here in the Stone Ward.
+
 
 ## Economics
 |     | # of Traders |
