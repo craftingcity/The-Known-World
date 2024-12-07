@@ -4,46 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77a0810745484642",
+        "id": "5e919f69c01e6899",
         "type": "tabs",
         "children": [
           {
-            "id": "3e69acd49b1111ad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Folk of Business",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Folk of Business/Folk of Business.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Folk of Business\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Dec 06 24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Dec 06 24"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e7dccd209f1de7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1372bc41cf36af2",
+            "id": "81474033f9a62e45",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,30 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Jade Ward",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Jade Ward.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jade Ward\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":120},\"to\":{\"line\":19,\"ch\":120}}}"
-                },
-                {
-                  "title": "Golden Ward",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Golden Ward\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":163},\"to\":{\"line\":19,\"ch\":163}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grand Pantheon"
+              "title": "The Gear..."
             }
           }
         ]
@@ -204,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prenotes Dec 06 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prenotes Dec 06 24"
+              "title": "Backlinks for The Gear..."
             }
           },
           {
@@ -325,11 +278,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e69acd49b1111ad",
+  "active": "81474033f9a62e45",
   "lastOpenFiles": [
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Jade Ward.md",
     "Prenotes Dec 06 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Jade Ward.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
