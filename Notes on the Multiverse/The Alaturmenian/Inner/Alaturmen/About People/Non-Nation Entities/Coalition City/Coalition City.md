@@ -47,7 +47,7 @@ The [[Stone Ward]] was the first residential ward to be built, although few folk
 #### The Jade Ward
 The [[Jade Ward]] houses new money merchants, and is a common mark for the thieves of the City. 
 
-#### The Steel Wards
+#### The Steel Ward
 Much of the industry that supplies the city is contained within the [[Steel Ward]]. 
 
 #### The Ruby Ward

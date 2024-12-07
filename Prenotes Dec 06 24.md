@@ -51,7 +51,14 @@ What do you do?
 ### What does the World Know?
 
 ##### The Delivery
-##### 
+The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [[Coalition City]], where they expect a number of carts, but the one our party delivers is notably suspect, - missing a manifest and a driver, and carrying goods that are explicitly not ours to transport - something has gone wrong. Divinatory investigation would reveal that it was our party and not an outside influence that borked this job.
+
+##### The Arms Dealer
+
+
+##### The Slimknives
+##### The Library
+##### The Center of Arcane Education
 
 ### What happened?
 
