@@ -61,6 +61,8 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 
 ##### The Library
 [[Jade Ward#The Center of Arcane Education]]
+	- In the search of the creature from Saoirse's encounter, they'll find information about demons, devils, and more recently, the Undead.
+	- To be more intriguing, they might find a book that talks about divination identification for dreams and fears - 'but its only a theory'...
 
 ### What happened?
 
