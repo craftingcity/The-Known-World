@@ -11,8 +11,8 @@ While many of the most common spellcasters draw on divine or natural powers, tho
 Where their Divine companions are personally punished for their casting, and may be unable to safely cast spells at all, Arcane spellcasters are often overwhelmed with the effectiveness of their spells while they are cast within the Old.
 
 	> When a "arcane" caster attempts to cast a spell, they make a Arcana check equal to five plus the value of the spell slot spent times five. 
-	> 	If they succeed, they take a number of d6 psycic damage equal to the spell's level, and the spell is cast as per usual. Then, they roll on the Wild Magic table. 
-	> 	If they fail, they take a number of 2d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot).
+	> 	If they succeed, they take a number of d6 psycic damage equal to the spell's level, and the spell is cast as per usual. 
+	> 	If they fail, they take a number of 2d12 psycic damage equal to the spell's level, and then spell's effective level is doubled (as if it was cast with a spell slot twice the value of the spent slot). Then, they roll on the Hazardous Wild Magic table, unless you are casting a Cantrip, in which case they roll on the Normal Wild Magic table.
 	> The following dnd5e spellcaster classes are efffected; Artificer, Bard, Eldritch Knight, Arcane Trickster, Sorcerer, Wizard
 
 ### Hazards
