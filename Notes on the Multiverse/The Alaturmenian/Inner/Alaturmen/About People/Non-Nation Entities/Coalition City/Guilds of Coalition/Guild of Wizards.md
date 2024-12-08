@@ -36,3 +36,7 @@ The elvish word in the title of the Guild's courier service translates roughly t
 ### Symbolism
 ## Technology
 ### Magic
+##### Turing Communication Tides
+Waywalket Turing provided the Guild of Wizards with a large section of research regarding the field of communication. The most important finding was the 'Tide Effect' of divination-communication, such as performed even by minor mages. The 'Tide Effect' describes the phenomena occurring in the local area of the Weave when divination-communication is invoked; a ripple of interruption can occur when a practitioner does not specifically protect from the 'Tide Effect', which can lead to communication losses when a significant number of divination-communications occur in a local area, such as a communication center. 
+
+The Guild of Wizards has constructed Luh'turiñgolë Towers in many areas of the world to expand the range of these protected divination-communications.

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Guilds of Coalition",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+    },
+    {
+      "basename": "The Progress of Technology",
+      "path": "The Progress of Technology.md"
+    },
+    {
+      "basename": "Prenotes Dec 06 24",
+      "path": "Prenotes Dec 06 24.md"
+    },
+    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Prenotes Dec 06 24",
-      "path": "Prenotes Dec 06 24.md"
     },
     {
       "basename": "Jade Ward",
@@ -187,18 +199,6 @@
     {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],

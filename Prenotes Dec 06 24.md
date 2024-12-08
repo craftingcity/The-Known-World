@@ -42,9 +42,9 @@ They made their way into Coalition City, were they plan to falsify the delivery 
 
 ### Intro
 
-When last we left our heroes, they had completed their journey at haste, having travelled from the city of [[Gambleum]] to their destination in [[Coalition City]] in just over two days. Having investigated the contents of your caravan, you decided to keep the mysterious, glowing blue, baby-foot-like stone, and supplement your delivery with the contents of another caravan. You know where the cart is supposed to be when you finish your delivery, but you know to that you are here much earlier than you were scheduled to be - the documents you took from the corpse of your driver, John, indicate that you're over 30 hours early. You have caused damage in your wake, and for as much as you swear otherwise, you will one day face the consequences of your actions.
+When last we left our heroes, they had completed their journey at haste, having travelled from the city of [[Gambleum]] to their destination in [[Coalition City]] in just over two days. Having investigated the contents of your caravan, you decided to keep the mysterious, glowing blue, baby-foot-like stone, you elected to supplement your delivery with the contents of another caravan. You know where the cart is supposed to be when you finish your delivery, but you know to that you are here much earlier than you were scheduled to be - the documents you took from the corpse of your driver, John, indicate that you're over 30 hours early.
 
-For now, you have time. Time to shop, time to talk, time to learn. Time to get a new job? This is the grandest city in the world, or so they say...
+You have caused damage in your wake, and for as much as you swear otherwise, you will one day face the consequences of your actions. For now, though, you have time. Time to shop, time to talk, time to learn. Time to get a new job? This is the grandest city in the world, or so they say, so...
 
 What do you do?
 
