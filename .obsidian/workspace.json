@@ -60,6 +60,29 @@
             }
           },
           {
+            "id": "6fd25222b7fd9a37",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Currency of Alaturmen"
+            }
+          },
+          {
             "id": "085fc45b82de7fb2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -198,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -448,8 +471,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0310654b2a71cf68",
+  "active": "6fd25222b7fd9a37",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Iron Ward.md",
     "Prenotes Dec 06 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "ParaeducatorGame.md",
@@ -475,7 +499,6 @@
     "Game Notes/Prenotes/'24/Prenotes Nov 19 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 12 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 16 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/Firelight Sea.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
