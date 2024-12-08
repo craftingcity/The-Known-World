@@ -2,6 +2,9 @@
 tags: notes
 ---
 # Notes
+
+
+
 #### Bubble's Mercs - Delta 3
 ##### "Bubble" - Team Lead
 > Triton, Rogue Swashbuckler (8), Fighter Battlemaster (5)

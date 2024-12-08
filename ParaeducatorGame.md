@@ -10,3 +10,5 @@ aliases:
 ### Faction Reputation
 ## Places
 ### Scenarios Changed
+## Notes
+Black Blood Curse / Demons, Devils, and Fey
