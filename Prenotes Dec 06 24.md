@@ -66,5 +66,7 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 
 ### What happened?
 
+Sercha & Niko went to the restricted section on the 3rd floor of the Library, Wren is looking for more info on who and what they are, 22 is chillin with Wren, Roan went to [[Ruby Ward#The Obra Dinn]].
+
 
 We leave our heroes on the date of ... AF, as they ...
