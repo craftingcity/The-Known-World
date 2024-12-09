@@ -5,6 +5,22 @@
       "path": "ParaeducatorGame.md"
     },
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
+      "basename": "Abyss",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Abyss.md"
+    },
+    {
+      "basename": "Prenotes Dec 06 24",
+      "path": "Prenotes Dec 06 24.md"
+    },
+    {
       "basename": "The People...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
     },
@@ -49,20 +65,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Jade Ward.md"
     },
     {
-      "basename": "Prenotes Dec 06 24",
-      "path": "Prenotes Dec 06 24.md"
-    },
-    {
       "basename": "The Progress of Technology",
       "path": "The Progress of Technology.md"
     },
     {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Ruby Ward",
@@ -191,14 +199,6 @@
     {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-    },
-    {
-      "basename": "Prenotes Aug 31 24",
-      "path": "Game Notes/Prenotes/'24/Prenotes Aug 31 24.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     }
   ],
   "omittedPaths": [],
