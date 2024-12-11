@@ -21,6 +21,7 @@ Having resolved the situation for now, Ayoyt took a moment to introduce themself
 
 ### What does the World Know?
 
+Ayoyt is confused, and doesn't remember what happened to their caravan, but they remember 
 
 ### What happened?
 
