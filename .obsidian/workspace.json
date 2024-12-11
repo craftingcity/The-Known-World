@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "439d98dbe59acda5",
+        "id": "1c4d0b4066652041",
         "type": "tabs",
         "children": [
           {
-            "id": "963a8e783274e5a1",
+            "id": "e02da58f4e7b9522",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,52 +16,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "A Grand Notepad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":236,\"ch\":20},\"to\":{\"line\":236,\"ch\":20}},\"scroll\":224.74857202087836}"
-                },
-                {
-                  "title": "Nations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Nations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":26},\"to\":{\"line\":31,\"ch\":26}},\"scroll\":9.108486462106285}"
-                },
-                {
-                  "title": "Minyostalman Artifacts; A Theory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Minyostalma/Minyostalman Artifacts; A Theory.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Minyostalman Artifacts; A Theory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":5},\"to\":{\"line\":41,\"ch\":5}},\"scroll\":24.109013500439524}"
-                },
-                {
-                  "title": "ParaeducatorGame",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ParaeducatorGame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"ParaeducatorGame\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":22},\"to\":{\"line\":13,\"ch\":22}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+                "file": "Prenotes Dec 10 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Old"
+              "title": "Prenotes Dec 10 24"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2ad3bd9646543ab7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "fc0e2f9fe60f8515",
+            "id": "7b2eddeccb69fd78",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "file": "Prenotes Dec 03 24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Artifacts..."
+              "title": "Prenotes Dec 03 24"
             }
           }
         ]
@@ -333,8 +309,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "963a8e783274e5a1",
+  "active": "e02da58f4e7b9522",
   "lastOpenFiles": [
+    "Prenotes Dec 03 24.md",
+    "Prenotes Dec 10 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "A Grand Notepad.md",
@@ -359,8 +337,6 @@
     "The Progress of Technology.md",
     "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Stone Ward.md",
-    "Game Notes/NPCs/Mild Power/Folk of Business/Folk of Business.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
