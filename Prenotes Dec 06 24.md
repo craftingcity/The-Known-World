@@ -61,7 +61,7 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 
 ##### The Library
 [[Jade Ward#The Center of Arcane Education]]
-	- In the search of the creature from Saoirse's encounter, they'll find information about demons, devils, the *fey*, and more recently, the Undead. (the fey is perfect, its like the reverse of the call home??) (black blood)
+	- In the search of the creature from Saoirse's encounter, they'll find information about demons, devils, the *fey*, and more recently, the Undead. (the fey is perfect, its like the reverse of the call home??) (black blood might connect everyone better though, maybe even kalquiell)
 	- To be more intriguing, they might find a book that talks about divination identification for dreams and fears - 'but its only a theory'...
 
 ### What happened?
