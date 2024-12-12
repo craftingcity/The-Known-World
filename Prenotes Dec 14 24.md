@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 
-# Prenotes for Dec 13th
+# Prenotes for Dec 14th
 ## Party of Interest: [[ParaeducatorGame]]
 - [ ] DM Screen
 - [ ] Notepaper
