@@ -22,7 +22,22 @@ After a full-party trip to 'The Arms Dealer', the majority of you have travelled
 What do you do?
 
 ### What does the World Know?
+##### The Library
+Much of the content that the party is really interested in is 'restricted', meaning that the party needs to do *something* to gain access, such as sign up as a Guilded Party, have a student or faculty gather the requested materials, or try to break the magical protections that the Arcane Center of Education keeps on it's Library.
 
+##### The Delivery
+The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [[Coalition City]], where they expect a number of carts, but the one our party delivers is notably suspect, - missing a manifest and a driver, and carrying goods that are explicitly not ours to transport - something has gone wrong. Divinatory investigation would reveal that it was our party and not an outside influence that borked this job.
+
+##### The Jobs
+###### At the Silver Unicorn
+- Alchemical Procurement
+	- Harrada x35 (@)
+- Enforce Justice
+	- Abraham Venti (tax evasion, 500sp reward)
+	- Tinon Watcha (assault, theft of property, 1200sp reward)
+	- Simone Avaati (assault, murder, theft of property, 3750sp)
+
+###### At the Obra Dinn
 
 ### What happened?
 
