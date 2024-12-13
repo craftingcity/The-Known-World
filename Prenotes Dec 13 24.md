@@ -42,10 +42,10 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 	- Simone Avaati (assault, murder, theft of property, 3750sp)
 
 ###### At the Obra Dinn
-- "Fire Sale" at Sanctorum Cabrili (in [[Janesland]], 6500sp)
-- "Termination" for Abraham Venti (in [[Red Throne]])
-- "Repossession" vs Syther Malkovich ([[Magical Items of Note#The Mask of the Fallen Jester]])
-- "Fire Sale" at 
+- "Fire Sale" at Sanctorum Cabrili (magic shop in [[Janesland]], 6500sp)
+- "Termination" for Abraham Venti (in [[Red Throne]], 5500sp)
+- "Repossession" vs Syther Malkovich ([[Magical Items of Note#The Mask of the Fallen Jester]] in [[Emorin's Plots]], 12500sp)
+- "Fire Sale" at Solvien (in [[Lakeview]], 4500sp)
 
 ### What happened?
 
