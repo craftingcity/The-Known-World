@@ -30,14 +30,22 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 
 ##### The Jobs
 ###### At the Silver Unicorn
-- Alchemical Procurement
-	- Harrada x35 (@)
+- Alchemical Procurement (for )
+	- Harrada x35 (@ 6sp = 210sp)
+	- Mandrake x60 (@ 3sp = 180sp)
+	- Momma Moss x20 (@ 30sp = 600sp)
+	- Elemental Salts x32 (@ 25sp = 1600sp)
+	- Great Wurm Fang x16 (@ 1500 = 24000sp)
 - Enforce Justice
 	- Abraham Venti (tax evasion, 500sp reward)
 	- Tinon Watcha (assault, theft of property, 1200sp reward)
 	- Simone Avaati (assault, murder, theft of property, 3750sp)
 
 ###### At the Obra Dinn
+- "Fire Sale" at Sanctorum Cabrili (in [[Janesland]], 6500sp)
+- "Termination" for Abraham Venti (in [[Red Throne]])
+- "Repossession" vs Syther Malkovich ([[Magical Items of Note#The Mask of the Fallen Jester]])
+- "Fire Sale" at 
 
 ### What happened?
 
