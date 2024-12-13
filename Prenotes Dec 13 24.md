@@ -17,7 +17,11 @@ aliases:
 
 When last we left our heroes, they had arrived in Coalition City to deliver a collection of fake packages in an attempt to disguise your murderous burglary of your own caravan. You all arrived early, however, and have decided to pursue information and equipment that will further fuel your adventures.
 
-After a full-party trip to 'The Arms Dealer', the majority
+After a full-party trip to 'The Arms Dealer', the majority of you have travelled to the Center of Arcane Education, also known as the Library, on the hunt for personally important information. Sadly, the information you're after isn't available to the public. It's 'restricted', but you've been directed to the third floor's western wing, where you quickly found a set of doors labeled "Restricted Demonology".
+
+You are alone here, it seems, 
+
+
 
 ### What does the World Know?
 
