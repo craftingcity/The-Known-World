@@ -55,5 +55,8 @@ The Manual of Jeraxus
 Essay on the Black Blood Curse
 Bloodrite Tome-16 (Niko got 25 Arcana)
 
+###### Otto Malkovich
+Has housekeepers and the like, one of whom leaves the kitchen window open at night.
+Niko was with him as a young/middle teenager and got kicked out because of drugs mostly, but they have grown apart. Niko saw him like 2 years ago.
 
 We leave our heroes on the date of ... AF, as they ...
