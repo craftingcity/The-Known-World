@@ -61,14 +61,14 @@ Niko was with him as a young/middle teenager and got kicked out because of drugs
 
 ###### I Need To Fight, lets talk Bodaims?
 17 - Roan
-D
-13 - 22
+D // 13
+13 - Twenty Two
 13 - Wren
 F
 E
 9 - Niko
 G
 8 - Saoirse
-H
+~~H // 13~~
 
 We leave our heroes on the date of ... AF, as they ...
