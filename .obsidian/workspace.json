@@ -49,6 +49,29 @@
             }
           },
           {
+            "id": "91177112dd8c994a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alaturmenian Travel Table"
+            }
+          },
+          {
             "id": "999591158d6516f5",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -140,7 +163,8 @@
               "title": "Magical Items of Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,10 +414,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f2d9af78eeec8fd",
+  "active": "91177112dd8c994a",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Prenotes Dec 13 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
