@@ -253,7 +253,7 @@ aliases:
 	Entry Description: ...
 ```
 
-###### The Mask of the Fallen Jester
+###### The Mask of the Fallen Jester /moore/
 ```
 	GME-019 "Item or Entity Name"
 	Threat Level: COLOR
