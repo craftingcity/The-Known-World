@@ -48,6 +48,12 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 - "Fire Sale" at Solvien (in [[Lakeview]], 4500sp)
 
 ### What happened?
+###### The Libraries
+They got the following books;
+
+The Manual of Jeraxus
+Essay on the Black Blood Curse
+Bloodrite Tome-16
 
 
 We leave our heroes on the date of ... AF, as they ...
