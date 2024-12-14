@@ -30,7 +30,7 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 
 ##### The Jobs
 ###### At the Silver Unicorn
-- Alchemical Procurement (for )
+- Alchemical Procurement (for [[Guild of Adventurers]])
 	- Harrada x35 (@ 6sp = 210sp)
 	- Mandrake x60 (@ 3sp = 180sp)
 	- Momma Moss x20 (@ 30sp = 600sp)
