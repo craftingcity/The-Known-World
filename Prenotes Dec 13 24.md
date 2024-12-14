@@ -53,7 +53,7 @@ They got the following books;
 
 The Manual of Jeraxus
 Essay on the Black Blood Curse
-Bloodrite Tome-16
+Bloodrite Tome-16 (Niko got 25 Arcana)
 
 
 We leave our heroes on the date of ... AF, as they ...
