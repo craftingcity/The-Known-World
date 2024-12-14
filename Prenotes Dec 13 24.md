@@ -64,7 +64,7 @@ Niko was with him as a young/middle teenager and got kicked out because of drugs
 ~~D // 13~~
 13 - Twenty Two
 13 - Wren
-F
+F - 
 ~~E~~
 9 - Niko
 ~~G -13~~
