@@ -60,6 +60,15 @@ Has housekeepers and the like, one of whom leaves the kitchen window open at nig
 Niko was with him as a young/middle teenager and got kicked out because of drugs mostly, but they have grown apart. Niko saw him like 2 years ago.
 
 ###### I Need To Fight, lets talk Bodaims?
-
+17 - Roan
+D
+13 - 22
+13 - Wren
+F
+E
+9 - Niko
+G
+8 - Saoirse
+H
 
 We leave our heroes on the date of ... AF, as they ...
