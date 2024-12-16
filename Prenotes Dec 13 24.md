@@ -54,12 +54,12 @@ They got the following books;
 The Manual of Jeraxus
 Essay on the Black Blood Curse
 Bloodrite Tome-16 (Niko got 25 Arcana)
-	You hold the black-scaled book in your hands. It's heavy. Thick. Opening the cover, you find a sheet of parchment listing the title and author; "The Bloodrite Tome, Malkain the Wise". As you continue into the book, you find the text is *draconic*, and written in a dark brownish-red ink. It might be blood.
-	Scanning the majority of the book, you are 
+	*You hold the black-scaled book in your hands. It's heavy. Thick. Opening the cover, you find a sheet of parchment listing the title and author; "The Bloodrite Tome, Malkain the Wise". As you continue into the book, you find the text is **draconic**, and written in a dark brownish-red ink. It might be blood.*
 
 ###### Otto Malkovich
 Has housekeepers and the like, one of whom leaves the kitchen window open at night.
-Niko was with him as a young/middle teenager and got kicked out because of drugs mostly, but they have grown apart. Niko saw him like 2 years ago.
+Niko was with him as a young/middle teenager and got kicked out because of drugs mostly, but they have grown apart. Niko saw him like 2 years ago. 
+
 
 ###### I Need To Fight, lets talk Bodaims?
 17 - Roan
