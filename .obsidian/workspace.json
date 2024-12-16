@@ -40,17 +40,17 @@
             "id": "1f2d9af78eeec8fd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Guild of Adventurers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guild of Adventurers\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":6},\"to\":{\"line\":80,\"ch\":6}},\"scroll\":59.787420012598496}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Dec 13 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 13 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 13 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":4},\"to\":{\"line\":72,\"ch\":11}},\"scroll\":56.020295763437446}"
                 },
                 {
                   "title": "Custom Features",
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Dec 13 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Dec 13 24"
+              "title": "Guild of Adventurers"
             }
           },
           {
@@ -98,29 +98,6 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Dec 13 24"
-            }
-          },
-          {
-            "id": "999591158d6516f5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
             }
           },
           {
@@ -192,7 +169,8 @@
               "title": "Magical Items of Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BLOODRITE",
+                "query": "Malkovich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -442,16 +420,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0cc310927f044ca",
+  "active": "d493b63731f35ce9",
   "lastOpenFiles": [
-    "Prenotes Dec 13 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Prenotes Dec 13 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "A Grand Notepad.md",

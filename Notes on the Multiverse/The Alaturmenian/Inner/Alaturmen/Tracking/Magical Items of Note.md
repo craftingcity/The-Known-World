@@ -157,7 +157,7 @@ aliases:
 
 		Of the total 40 created, exactly 17 (specifically -2, -3, -8, -9, -10, -11, -12, -14, -16, -22, -23, -28, -34, -37, -38, -39, and -40) have survived to the present day, as a potential concequence of pursuing the path presented by a GME-011 instance is an intense explosion, typically resulting in the death of the user and the destruction of the GME-011 instance. 
 		
-		Of these 17, GME-011-2, -3, -8, -9, and -22 are held personally by the members of the Council of Mages. GME-011-16 was held erroneously in the Demonology section of the Center of Arcane Education, and was stolen by the pair of Saoirse and Nikolai
+		Of these 17, GME-011-2, -3, -8, -9, and -22 are held personally by the members of the Council of Mages. GME-011-16 was held erroneously in the Demonology section of the Center of Arcane Education, and was stolen by the pair of Saoirse and Nikolai in the spring of 105AF.
 ```
 
 ###### Chaotic Gold
@@ -255,13 +255,13 @@ aliases:
 	Entry Description: ...
 ```
 
-###### The Mask of the Fallen Jester /moore/
+###### The Mask of the Fallen Jester
 ```
 	GME-019 "Item or Entity Name"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Source: AUTHOR //moore//
+	Last Known Keeper: KEEPER //Syther Malkovich//
 
 	Entry Description: ...
 ```
