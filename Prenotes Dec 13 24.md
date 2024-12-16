@@ -56,7 +56,8 @@ Essay on the Black Blood Curse
 Bloodrite Tome-16 (Niko got 25 Arcana)
 	You hold the black-scaled book in your hands. It's heavy. Thick. Opening the cover, you find a sheet of parchment listing the title and author; "The Bloodrite Tome, Malkain the Wise". As you continue into the book, you find the text is first written in **draconic** and then again in **arthurian**. The texts are written in a dark brownish-red ink. It might be blood.
 	Scanning the majority of the book, you are satisfied to see that much of the actual spell-work in this grimoire is described visually in 28-Point Notation alongside the accompanying **draconic** text, and then translated into **arthurian** on the following page.
-	Many of the spells are incredibly complex, and 
+	Many of the spells are incredibly complex, and would require significant time and dedication to understand - 'vocatio bothynus', 'ignis conus', 'tuito exardesco', all interesting and more complex than your studies have prepared you to understand.
+	Your eyes linger over the page for but a moment in this scan, but 'flammo obex'... is easy. You get it, you can make the motions and say the words and the flame appears in your hand, boiling with potential. You close your hand and it is gone. Easy.
 
 ###### Otto Malkovich
 Has housekeepers and the like, one of whom leaves the kitchen window open at night.
