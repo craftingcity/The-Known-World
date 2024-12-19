@@ -44,10 +44,12 @@ The [[Northstone Family Trading Company]] has a depot in the [[Wheel Ward]] of [
 ###### At the Obra Dinn
 - "Fire Sale" at Sanctorum Cabrili (magic shop in [[Janesland]], 6500sp)
 - "Termination" for Abraham Venti (in [[Red Throne]], 5500sp)
-- "Repossession" vs Syther Malkovich ([[Magical Items of Note#The Mask of the Fallen Jester]] in [[Emorin's Plots]], 12500sp)
+- =="Repossession" vs Syther Malkovich ([[Magical Items of Note#The Mask of the Fallen Jester]] in [[Emorin's Plots]], 12500sp)==
 - "Fire Sale" at Solvien (in [[Lakeview]], 4500sp)
 
 ### What happened?
+Did the Delivery, and picked up a job at the Obra Dinn
+
 ###### The Libraries
 They got the following books;
 
@@ -63,7 +65,7 @@ Bloodrite Tome-16 (Niko got 25 Arcana)
 Has housekeepers and the like, one of whom leaves the kitchen window open at night.
 Niko was with him as a young/middle teenager and got kicked out because of drugs mostly, but they have grown apart. Niko saw him like 2 years ago.
 
-###### I Need To Fight, lets talk Bodaims?
+###### I Need To Fight, lets talk Bandits
 17 - Roan
 ~~D // 13~~
 13 - Twenty Two

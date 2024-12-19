@@ -29,13 +29,7 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
-          }
-        ]
-      },
-      {
-        "id": "d8f95aecd1e46a0e",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1f2d9af78eeec8fd",
             "type": "leaf",
@@ -77,6 +71,36 @@
               "title": "Guild of Adventurers"
             }
           },
+          {
+            "id": "2a60056d36ce1bbf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Dec 20 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Dec 20 24"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d8f95aecd1e46a0e",
+        "type": "tabs",
+        "children": [
           {
             "id": "d493b63731f35ce9",
             "type": "leaf",
@@ -169,8 +193,7 @@
               "title": "Magical Items of Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -420,12 +443,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d493b63731f35ce9",
+  "active": "2a60056d36ce1bbf",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Prenotes Dec 13 24.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+    "Prenotes Dec 20 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
