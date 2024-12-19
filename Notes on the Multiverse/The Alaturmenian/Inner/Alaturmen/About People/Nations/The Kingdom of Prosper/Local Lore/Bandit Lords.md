@@ -28,6 +28,8 @@ The Northern Lords were the greatest powers of the era. Before the [[Unification
 The Southern Lords were a splinter group of Bandit Lords that acted under the orders of the Northern families before they fell to infighting and lost cohesion as a "colony".
 
 ##### Guir
+##### Vannis
+##### Evon
 
 ## Culture
 #### Heritage

@@ -22,7 +22,8 @@ After spending some time in [[Coalition City]], purchasing equipment and investi
 On your travels east, along the mountain-range-trails, you were accosted by an underprepared gang of bandits. You made quick work of them, took what little valuables they had, and moved on.
 
 ### What does the World Know?
-
+#### [[Emorin's Plots]]
+A grand bazaar of a city, people move between wide-spaced tents and cabins, buying, selling, trading, and transporting goods. The buildings become larger and more permanent as they come closer to the center of the city.
 
 ### What happened?
 

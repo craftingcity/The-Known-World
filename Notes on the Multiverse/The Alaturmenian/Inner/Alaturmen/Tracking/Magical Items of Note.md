@@ -257,11 +257,11 @@ aliases:
 
 ###### The Mask of the Fallen Jester
 ```
-	GME-019 "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	GME-019 "MASK OF THE FALLEN JESTER"
+	Threat Level: PURPLE
+	Entry Class: TRINKET
 	Source: AUTHOR //moore//
-	Last Known Keeper: KEEPER //Syther Malkovich//
+	Last Known Keeper: Syther Malkovich
 
 	Entry Description: ...
 ```
