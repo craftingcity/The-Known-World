@@ -260,7 +260,7 @@ aliases:
 	GME-019 "MASK OF THE FALLEN JESTER"
 	Threat Level: PURPLE
 	Entry Class: TRINKET
-	Source: AUTHOR //moore//
+	Source: AUTHOR //moore// //maxim?//
 	Last Known Keeper: Syther Malkovich
 
 	Entry Description: ...

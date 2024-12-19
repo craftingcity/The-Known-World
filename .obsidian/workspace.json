@@ -94,7 +94,8 @@
               "title": "Prenotes Dec 20 24"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d8f95aecd1e46a0e",
@@ -192,8 +193,7 @@
               "title": "Guilded Mystic Entries"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -443,15 +443,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d8ea0dba56c9c38",
+  "active": "2a60056d36ce1bbf",
   "lastOpenFiles": [
+    "Prenotes Dec 13 24.md",
+    "Prenotes Dec 20 24.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Arrek Bozkin.md",
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-    "Prenotes Dec 20 24.md",
-    "Prenotes Dec 13 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
