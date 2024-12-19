@@ -32,6 +32,9 @@ aliases:
 #### Q29.
 #### Q30.
 #### R27. Old Malkovich Stronghold
+	- The Old Malkovich Stronghold is an underground stronghold that was the major headquarters for the Lords Malkovich during their time ruling the region.
+	- Since it's abandonment, the Old Malkovich Stronghold has been used by a number of traveling parties, but as time progressed, a growth of moss and mold has led to an infestation of insects and vermin.
+	- [[Syther Malkovich]] and their new gang have attempted to reclaim the Stronghold, and are fighting to contain the infestations while they restore the stronghold's condition.
 #### R28.
 #### R29.
 #### R30.
