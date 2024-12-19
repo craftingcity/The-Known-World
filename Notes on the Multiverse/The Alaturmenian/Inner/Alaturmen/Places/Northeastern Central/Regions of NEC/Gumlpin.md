@@ -31,7 +31,7 @@ aliases:
 #### Q28.
 #### Q29.
 #### Q30.
-#### R27.
+#### R27. Old Malkovich Stronghold
 #### R28.
 #### R29.
 #### R30.

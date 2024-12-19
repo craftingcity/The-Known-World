@@ -25,6 +25,9 @@ On your travels east, along the mountain-range-trails, you were accosted by an u
 #### [[Emorin's Plots]]
 A grand bazaar of a city, people move between wide-spaced tents and cabins, buying, selling, trading, and transporting goods. The buildings become larger and more permanent as they come closer to the center of the city.
 
+##### [[Gumlpin#R27. Old Malkovich Stronghold]]
+The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich]] and their newly reformed gang of Bandits.
+
 ### What happened?
 
 
