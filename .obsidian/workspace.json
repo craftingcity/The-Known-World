@@ -490,54 +490,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "d71c238e092f604a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b3f8d154e0e057a8",
-        "type": "window",
-        "children": [
-          {
-            "id": "a05d25e214c0d999",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2b2b5e3ef80400d3",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Central Alaturmen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
   "active": "e53a7b24d645d0c1",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
