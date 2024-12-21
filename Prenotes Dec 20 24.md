@@ -32,11 +32,11 @@ The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich
 
 (22) Niko
 (17) Roan
-(15) Syther - 35
+~~(15) Syther - 35~~
 (12) Saorsie
 (10) Captains
 	A
-	B
+	B - 9
 	C
 	D
 	E
