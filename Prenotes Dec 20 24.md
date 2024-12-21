@@ -45,4 +45,4 @@ The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich
 (1) Goons
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of the 19th of Producing (06/19) 105AF, as they have just killed [[Syther Malkovich]], grenaded his goons and his hideout, and ran the fuck out of dodge, likely back into town. [[Syther Malkovich]]'s body has been destroyed. Other than [[Magical Items of Note#The Mask of the Fallen Jester]], no loot was recovered - but that payday (or the item if they ID it) doe.
