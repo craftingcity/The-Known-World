@@ -35,6 +35,11 @@ The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich
 (15) Syther - 35
 (12) Saorsie
 (10) Captains
+	A
+	B
+	C
+	D
+	E
 (10) 22
 (5) Wren
 (1) Goons
