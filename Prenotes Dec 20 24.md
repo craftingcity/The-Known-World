@@ -28,6 +28,16 @@ A grand bazaar of a city, people move between wide-spaced tents and cabins, buyi
 The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich]] and their newly reformed gang of Bandits.
 
 ### What happened?
+#### They just Walked In
+
+(22) Niko
+(17) Roan
+(15) Syther - 35
+(12) Saorsie
+(10) Captains
+(10) 22
+(5) Wren
+(1) Goons
 
 
 We leave our heroes on the date of ... AF, as they ...
