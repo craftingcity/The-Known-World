@@ -14,7 +14,6 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
 When last we left our heroes, they had completed their first contract as an informal adventuring party delivering *a caravan* to it's destination. There is nothing to be said about the driver or the contents, it was simply - as you say - not your fault. 
 
 After spending some time in [[Coalition City]], purchasing equipment and investigating opportunities, you have elected to pursue a contract Roan acquired during your time at the Library - you will travel to [[Emorin's Plots]], where you will find [[Syther Malkovich]] and relieve them of their '*Mask of the Fallen Jester*'. If completed in honor, you stand to gain 2,500 silver each, for a total of 12,500 silver - and an increased reputation with the members of the Obra Dinn.
