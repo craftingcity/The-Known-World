@@ -52,7 +52,16 @@ The "Magician" equipment package includes items and equipment that most spellcas
 
 ```
 - GAC-1 Magician Package;
-	- xxx
+	- 1x Arcane Implement or 1x Divine Implement
+		- (+1 Spell Implement of Choice)
+	- 1x Amourphous Ring
+		- (once per day, cause disadvantage one an attack that hits)
+	- 3x Arcanist Ambrosia
+		- (damage < 10 that reduces to 0 reduces to 1 instead)
+	- 1x Mages' Stone (3/3)
+		- (1 hour > L1 spell stored)
+	- 1x Component Pouch
+	- 1x Dark Grey Robes
 ```
 
 #### GAB-1

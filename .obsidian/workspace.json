@@ -31,6 +31,35 @@
             }
           },
           {
+            "id": "f88f1b78708d2123",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lingering Injuries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lingering Injuries"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ade2df16ff40e184",
+        "type": "tabs",
+        "children": [
+          {
             "id": "1f2d9af78eeec8fd",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -70,32 +99,8 @@
               "icon": "lucide-file",
               "title": "Guild of Adventurers"
             }
-          },
-          {
-            "id": "f88f1b78708d2123",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lingering Injuries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lingering Injuries"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
