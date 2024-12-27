@@ -1,0 +1,405 @@
+{
+  "main": {
+    "id": "80326dbbbf5b4a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "606a794eb0a7215a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64143a52567bbc51",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Class - Blood Hunter"
+            }
+          },
+          {
+            "id": "08c7e9195e5498c4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Central Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Central Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prenotes Dec 20 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 20 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 20 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":337},\"to\":{\"line\":49,\"ch\":337}},\"scroll\":32.050041604494226}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "North Littemotto"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0779bfc4490c9b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e1b603a06df7722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafe8404df17708b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17bba7903284a409",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "duran",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a80674af177abd3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "298c7d20ae26fdd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.51240158081055
+  },
+  "right": {
+    "id": "f2489dfa6d1ed691",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bf5572624a0ec7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b54bb0f66e6f5c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lingering Injuries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lingering Injuries"
+            }
+          },
+          {
+            "id": "b978224cf709b65c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lingering Injuries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lingering Injuries"
+            }
+          },
+          {
+            "id": "f05030d0945b2e54",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "270e9f40f5ca1a28",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ebcd1cdda0cfcfe9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lingering Injuries.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lingering Injuries"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "ed839b447db70e1d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aa3ec5e00acb75af",
+        "type": "window",
+        "children": [
+          {
+            "id": "348757bd9fef0cd4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb47e8cbdff751d8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Central Alaturmen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "17bba7903284a409",
+  "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Prenotes Dec 20 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Lingering Injuries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "Prenotes Dec 13 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Gumlpin.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
+    "MEDIA/SUPP/SPREADS/metalics.ods",
+    "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Arrek Bozkin.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md",
+    "Prenotes Dec 06 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
+    "Prenotes Dec 14 24.md",
+    "MEDIA/CHAR/danteFinal.jpg",
+    "MEDIA/SUPP/Lingering Injuries.pdf",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Adventuring Groups",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Minyostalma"
+  ]
+}
