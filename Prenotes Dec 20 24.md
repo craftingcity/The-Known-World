@@ -46,3 +46,5 @@ The Old Malkovich Stronghold has been recently re-occupied by [[Syther Malkovich
 
 
 We leave our heroes on the date of the 19th of Producing (06/19) 105AF, as they have just killed [[Syther Malkovich]], grenaded his goons and his hideout, and ran the fuck out of dodge, likely back into town. [[Syther Malkovich]]'s body has been destroyed. Other than [[Magical Items of Note#The Mask of the Fallen Jester]], no loot was recovered - but that payday (or the item if they ID it) doe.
+
+Looking forward, the [[Northstone Family Trading Company]] has beef with the party, and they have been low-level wanted by [[The Kingdom of Prosper]] and associates - but, they've gained some significant reputation for stealing the Mask of the Fallen Jester, but with the caveat that they were not stealthy - they fucking killed the guy.
