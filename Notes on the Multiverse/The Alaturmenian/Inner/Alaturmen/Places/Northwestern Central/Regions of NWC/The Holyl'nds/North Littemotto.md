@@ -29,7 +29,7 @@ aliases:
 #### D10.
 #### D11.
 #### D12.
-#### E4.
+#### E4. Wanton Graveyard
 #### E5.
 #### E6.
 #### E7.
@@ -39,8 +39,8 @@ aliases:
 #### E11.
 #### E12.
 #### E13.
-#### F3. Broke
-#### F4.
+#### F3. Broken Hills
+#### F4. North Faithroad Checkpoint
 #### F5.
 #### F6.
 #### F7.
