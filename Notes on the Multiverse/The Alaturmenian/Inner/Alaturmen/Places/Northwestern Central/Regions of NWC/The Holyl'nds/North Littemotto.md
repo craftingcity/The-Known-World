@@ -8,8 +8,8 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### A7.
-#### A8.
+#### A7. Slipping Hill
+#### A8. Bounding Dens
 #### A9.
 #### B6.
 #### B7.
@@ -21,7 +21,7 @@ aliases:
 #### C9.
 #### C10.
 #### C11.
-#### D5.
+#### D5. 
 #### D6.
 #### D7.
 #### D8.
