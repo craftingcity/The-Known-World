@@ -25,12 +25,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ### Known and Named Artifacts
 ###### Palm of Glass
-> 'A transparent ovoid glimmers with pink and red .'
+> 'A transparent ovoid glimmers with pink and red sparkles in the sunlight.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Amethyst Disk
-> 'This is the physical description.'
+> 'A flat disk smaller than a coin made of some translucent purple material. .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -427,7 +427,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Space Bubbles
 > 'A small structure of clear marbles connected by spiney black veins. It bears an uncanny resemblance to a branch of grapes or berries, and you must consciously prevent yourself from attempting to consume a bubble.'
 > *Space Bubbles* is a **uncommon** artifact, and incurs 4d4 (10) radiation.
-> A *Space Bubbles* holds up to 6 charges. As an action, you may spend a charge to immediately surround yourself in a small personal bubble until the beginning of your next turn. While you are surrounded by your bubble, you are Restrained, and you cannot be the target of and have invulnerability to attacks or effects that originate from outside the bubble.
+> A *Space Bubbles* holds up to 6 charges. As an action, you may spend a charge to immediately surround yourself in a small personal bubble until the beginning of your next turn. While you are surrounded by your bubble, you are Restrained, and you cannot be targeted by to attacks or effects that originate from outside the bubble.
 
 ###### Artyom's Skin
 > 'A small curve of yellow amber. It tingles with warmth.'
