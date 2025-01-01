@@ -25,7 +25,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ### Known and Named Artifacts
 ###### Palm of Glass
-> 'This is the physical description.'
+> 'A transparent ovoid glimmers with pink and red .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
