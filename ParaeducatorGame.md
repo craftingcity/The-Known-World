@@ -6,8 +6,9 @@ aliases:
 # Adventures of 'The Paraeducators?'
 ## People
 ##### Zipper, the 22nd Subject
-##### Wren, the Water Genasi
-##### Roan, the Slimknife
+##### Wren, the Water Genasi Scout
+
+##### Roan, the Slimknife Agent
 ##### Nikolai, the Researcher's Son
 ##### Saoirse, the Cursed
 ### Trusted Allies
@@ -20,6 +21,7 @@ aliases:
 [[Otto Malkovich]] is the 
 
 ##### The White Flame Geneticists
+
 ### Faction Reputation
 (-) [[Northstone Family Trading Company]]
 ## Places
