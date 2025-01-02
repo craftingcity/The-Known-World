@@ -13,8 +13,11 @@ aliases:
 - gotta find dad and or the rest of my family
 - literally why am i out here
 ##### Roan, the Slimknife Agent
+- lets get that bread!!
 ##### Nikolai, the Researcher's Son
+- what happened to my family, and or my adoptive father figure, but very specifically the research they were doing together
 ##### Saoirse, the Cursed
+- what the fuck really happened, what is the NotADeer, how do I stop it?
 
 ### Trusted Allies
 ### Mortal Adversaries
@@ -25,9 +28,10 @@ aliases:
 ##### The Research Partner
 [[Otto Malkovich]] is a 3rd generation Malkovich, and has distanced himself from the family history to the best of his ability. Instead, he has joined [[The Church of the White Flame]]'s ICC research and development department. 
 
-Otto would eventually meet with Victor and Anna, the parents of Nikolai, and come to convince them to join in his research. Victor would come to develop a line of research regarding the extension of mortal life via transference into a viable non-mortal vessel (similarly to [[Kaliqeill, Lich of Orcus]]). As Otto reported on the team's research, he would come to find himself restricted and eventually imprisoned within the [[The Holy City of Kanielkiln|Kanielkiln]], where he continues to develop and experiment with the concept of 
+Otto would eventually meet with Victor and Anna, the parents of Nikolai, and come to convince them to join in his research. Victor would come to develop a line of research regarding the extension of mortal life via transference into a viable non-mortal vessel (similarly to [[Kaliqeill, Lich of Orcus]]). As Otto reported on the team's research, he would come to find himself restricted and eventually imprisoned within the [[The Holy City of Kanielkiln|Kanielkiln]], where he continues to develop and experiment with the concept of Soul Transferance.
 
 ##### The White Flame Geneticists
+
 
 ### Faction Reputation
 (-) [[Northstone Family Trading Company]]
