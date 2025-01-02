@@ -65,17 +65,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Jade Pox
-> 'A dark green crystal with a dark black center.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A dark green crystal with a deep black center. As you hold it, your stomach turns and gurgles as if you haven't eaten in days.'
+> *Jade Pox* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Tunneled Jade
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A dark green crystal in the form of a torus.'
+> *Tunneled Jade* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Iridescent Brick
-> 'This is the physical description.'
+> 'A thick rectangular brick of some iridescent material.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
