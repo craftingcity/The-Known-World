@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ParaeducatorGame",
-      "path": "ParaeducatorGame.md"
-    },
-    {
       "basename": "Kohnstamm",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "ParaeducatorGame",
+      "path": "ParaeducatorGame.md"
     },
     {
       "basename": "The Artifacts...",
@@ -195,10 +199,6 @@
     {
       "basename": "Nylan Roul",
       "path": "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md"
-    },
-    {
-      "basename": "Golden Ward",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md"
     }
   ],
   "omittedPaths": [],
