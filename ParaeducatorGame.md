@@ -6,11 +6,16 @@ aliases:
 # Adventures of 'The Paraeducators?'
 ## People
 ##### Zipper, the 22nd Subject
+- born into the Ideology Correction Corps [[Kohnstamm]] Experimental Genetics program
+- boy do we fucking hate those guys, killed all my homies growing up - ive seen my closest friend butchered, and i was forced to eat them
+- military man with a military plan
 ##### Wren, the Water Genasi Scout
-
+- gotta find dad and or the rest of my family
+- literally why am i out here
 ##### Roan, the Slimknife Agent
 ##### Nikolai, the Researcher's Son
 ##### Saoirse, the Cursed
+
 ### Trusted Allies
 ### Mortal Adversaries
 ##### The Not A Deer
