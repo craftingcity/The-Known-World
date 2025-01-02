@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Northwestern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northwestern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":29},\"to\":{\"line\":5,\"ch\":29}}}"
+                },
+                {
+                  "title": "The Holyl'nds",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Holyl'nds\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":27},\"to\":{\"line\":5,\"ch\":27}}}"
+                },
+                {
+                  "title": "North Littemotto",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"North Littemotto\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":25},\"to\":{\"line\":5,\"ch\":25}}}"
+                },
+                {
                   "title": "Central Alaturmen",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Central Alaturmen\"}",
@@ -34,39 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "North Littemotto"
-            }
-          },
-          {
-            "id": "19840f5ac7daf7c9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Artifacts..."
+              "title": "Central Alaturmen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,107 +310,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "ed839b447db70e1d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aa3ec5e00acb75af",
-        "type": "window",
-        "children": [
-          {
-            "id": "348757bd9fef0cd4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fb47e8cbdff751d8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Central Alaturmen"
-                }
-              },
-              {
-                "id": "f89d397f15a3f535",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Dec 20 24.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Dec 20 24"
-                }
-              },
-              {
-                "id": "1a47f6b6179e67ac",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Artifacts..."
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "17bba7903284a409",
+  "active": "08c7e9195e5498c4",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Prenotes Dec 20 24.md",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Lingering Injuries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
@@ -440,9 +342,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Wetfoot Greenland.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron J'Tail.md",
-    "Prenotes Dec 06 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Ruby Ward.md",
     "MEDIA/CHAR/danteFinal.jpg",
     "MEDIA/SUPP/Lingering Injuries.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Adventuring Groups",
