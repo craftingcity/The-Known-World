@@ -23,7 +23,9 @@ aliases:
 > "...and is greeted by a strong smell of sulfur. There on the floor of the cabin, is the body of Naima. It takes Saorise a moment to recognize that it is Naima, as her body is mangled and broken. Her mouth ran with some sort of black fluid and her once deep brown eyes were replaced with a dark black color, that same void that belonged to the deer."
 - NotADeer needs to come back and do it to someone else too
 ##### The Research Partner
-[[Otto Malkovich]] is the 
+[[Otto Malkovich]] is a 3rd generation Malkovich, and has distanced himself from the family history to the best of his ability. Instead, he has joined [[The Church of the White Flame]]'s ICC research and development department. 
+
+Otto would eventually meet with Victor and Anna, the parents of Nikolai, and come to convince them to join in his research. Victor would come to develop a line of research regarding the extension of mortal life via transference into a viable non-mortal vessel (similarly to [[Kaliqeill, Lich of Orcus]]). As Otto reported on the team's research, he would come to find himself restricted and eventually imprisoned within the [[The Holy City of Kanielkiln|Kanielkiln]], where he continues to develop and experiment with the concept of 
 
 ##### The White Flame Geneticists
 

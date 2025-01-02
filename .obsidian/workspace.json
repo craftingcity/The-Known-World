@@ -73,29 +73,6 @@
             }
           },
           {
-            "id": "37b27c3b9dbe6214",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kohnstamm"
-            }
-          },
-          {
             "id": "a9c5ac4f6caa217d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -118,8 +95,7 @@
               "title": "The Church of the White Flame"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -369,11 +345,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37b27c3b9dbe6214",
+  "active": "08c7e9195e5498c4",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "ParaeducatorGame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-    "ParaeducatorGame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
@@ -383,7 +360,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Prenotes Dec 20 24.md",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Lingering Injuries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",

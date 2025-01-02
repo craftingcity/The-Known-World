@@ -22,7 +22,7 @@ Your soul is your own again.
 
 ## Blood Curses
 ##### Curse of the Warrior
-As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*.
+As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. You regain the uses of this feature after a long rest.
 
 *Amplify*. You may choose any creature instead. 
 
