@@ -75,7 +75,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Iridescent Brick
-> 'A thick rectangular brick of some iridescent material.'
+> 'A thick rectangular brick of some iridescent material. It squishes and forms to your grip, and then regains it's rectangular shape as you let it be.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
