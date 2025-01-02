@@ -40,12 +40,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Cracked Mountain
-> 'A set of red chunks of stone are seemingly grafted together to resemble a lone mountain. Although it is covered in cracks and breaks, you hold these pieces as a single stone.'
+> 'These red chunks of stone are grafted together to resemble a lone mountain. Although it is covered in cracks and breaks, you hold these pieces as a single stone.'
 > *Cracked Mountain* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Shifting Salt
-> 'This is the physical description.'
+> 'A .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
