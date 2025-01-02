@@ -45,27 +45,27 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Shifting Salt
-> 'A .'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A white and pink salt-lick. Your eyes begin to itch and dry as you continue to stare at the oddly ordinary stone.'
+> *Shifting Salt* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Ripple
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A blue disk covered in dips and rises, this stone looks like the surface of a lake into which you just tossed a stone. It continues to settle back and forth.'
+> *Ripple* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Petrified Glass
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A shard of cloudy white glass, as thick as a dagger. It feels so very comfortable in your palm.'
+> *Petrified Glass* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Burning Jade
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A dark green crystal houses and contains a violent raging fire. Your hand begins to warm beyond comfort, stinging your skin through your gloves.'
+> *Burning Jade* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Jade Pox
-> 'This is the physical description.'
+> 'A dark green crystal with a dark black center.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
