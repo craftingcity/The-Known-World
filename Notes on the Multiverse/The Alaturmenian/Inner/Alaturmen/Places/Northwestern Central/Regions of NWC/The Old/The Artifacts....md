@@ -146,41 +146,41 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Blue Blood
 > 'A small blue crystal in the shape of a teardrop. Your confidence grows as you look upon this - your badge of honor and courage.'
-> *Blue Blood* is ana **uncommon** artifact, and incurs xdX (y) radiation.
+> *Blue Blood* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Glowing Obelisk
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A prism of pure black crystal quietly breaths a dim purple light from its heads.'
+> *Glowing Obelisk* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Hornet's Nest
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A chunky yellow stone wrapped in grey ridges and stripes. There is a small, finger-sized hole one one side, where no light penetrates. You wonder what it would feel like inside...'
+> *Hornet's Nest* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Trypophobia
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+###### Tropophobia
+> 'A grey sphere of stone covered in small holes of varying sizes. It is incredibly uncomfortable to behold.'
+> *Tropophobia* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Soft Emerald
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A slimy green gem. It's sticky.'
+> *Soft Emerald* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Furry Slurry
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A conical mass of shifting brown fur, it resembles a dog, curled and sleeping in your palm.'
+> *Furry Slurry* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Golden Slide
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A beautiful gold curl. You can't help but idly run your fingers up and down it's center while you hold it.'
+> *Golden Slide* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Silver Slip
-> 'This is the physical description.'
+> 'A small shard of shining silver. While you '
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
