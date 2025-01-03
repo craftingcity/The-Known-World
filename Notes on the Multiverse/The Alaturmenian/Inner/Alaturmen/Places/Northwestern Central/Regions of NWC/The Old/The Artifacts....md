@@ -90,7 +90,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Chipped Copper
-> 'A rough asymmetric chunk of redish orange and tight .'
+> 'A rough asymmetric chunk of orange and turquoise, this stone is .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
