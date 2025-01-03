@@ -130,12 +130,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Meaty Wing
-> 'A triangular chunk of blood red stone. The ridges throughout look like the bones or feathers of an avian.
+> 'A triangular chunk of blood red stone. The ridges throughout look like the bones or feathers of an avian.'
 > *Meaty Wing* is a **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Flexing Growth
-> 'This is the physical description.'
+> 'A pale peach orb that seems to flex.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
