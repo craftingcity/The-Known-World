@@ -81,16 +81,16 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Shiny Chalk
 > 'A thin rod of dull white stone is wrapped in veins of shining gold. It gently hums and shakes with potential.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> *Shiny Chalk* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Gold Cube
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A perfect cube of bright yellow gold. It is difficult to carry in one hand, slowly slipping away from your grip.'
+> *Gold Cube* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Chipped Copper
-> 'This is the physical description.'
+> 'A rough asymmetric chunk of redish orange and tight .'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
