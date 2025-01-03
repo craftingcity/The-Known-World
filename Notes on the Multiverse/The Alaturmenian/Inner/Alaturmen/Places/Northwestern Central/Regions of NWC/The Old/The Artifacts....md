@@ -145,8 +145,8 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Blue Blood
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A small blue crystal in the shape of a teardrop. Your confidence grows as you look upon this - your badge of honor and courage.'
+> *Blue Blood* is ana **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Glowing Obelisk
