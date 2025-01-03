@@ -90,32 +90,32 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Chipped Copper
-> 'A rough asymmetric chunk of orange and turquoise, this stone is .'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A rough asymmetric chunk of orange and turquoise, this stone is sharp, cutting into your gloves and your skin.'
+> *Chipped Copper* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Glass Box
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A cube of clear crystal. It's hefty weight suggests it's completely solid, but the center looks... empty, somehow.'
+> *Glass Box* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Spiraling Squares
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A bristling rod of green and blue square sheets of varying sizes are stacked atop one another such that no corners overlap.'
+> *Spiraling Squares* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Bleeding Marble
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A perfect sphere of brown fur. It molds to your grip, feeling comfortable in your hands, though it begins to leak a thin reddish liquid wherever you touch it.'
+> *Bleeding Marble* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Stinking Alum
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A light grey chunky stone. As you hold it, the smell of putrid, rotting death permeates your gas-mask, filling your nose and turning your stomach.'
+> *Stinking Alum* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Growing Ruby
-> 'This is the physical description.'
+> 'A small red crystal. You look into your hand and see it is bigger now, just barel'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
