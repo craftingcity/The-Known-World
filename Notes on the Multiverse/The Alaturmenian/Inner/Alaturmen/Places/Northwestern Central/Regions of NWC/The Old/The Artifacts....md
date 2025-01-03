@@ -115,13 +115,13 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Growing Ruby
-> 'A small red crystal. You look into your hand and see it is bigger now, just barel'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A small red crystal. You look into your hand and see it is bigger now, just barely. Or, it looks that way at least. You check again and find it looking bigger still, but it feels no heavier in your palm.'
+> *Growing Ruby* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Small Tower
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A finger sized cylinder that looks as if it was constructed of very small cut bricks. As you hold it, it radiates a deep chill through your bones.'
+> *Small Tower* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Crab Meat
