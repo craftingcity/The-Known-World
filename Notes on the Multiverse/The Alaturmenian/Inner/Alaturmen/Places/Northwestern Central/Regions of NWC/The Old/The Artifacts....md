@@ -70,17 +70,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Tunneled Jade
-> 'A dark green crystal in the form of a torus.'
+> 'A dark green crystal in the form of a torus. Interesting...'
 > *Tunneled Jade* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Iridescent Brick
-> 'A thick rectangular brick of some iridescent material. It squishes and forms to your grip, and then regains it's rectangular shape as you let it be.'
+> 'A thick rectangular brick of some iridescent material. It squishes and forms to your grip, and then reforms into its rectangular shape as you let it be.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Shiny Chalk
-> 'This is the physical description.'
+> 'A thin rod of dull white stone is wrapped in veins of shining gold. It gently hums and shakes with potential.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 

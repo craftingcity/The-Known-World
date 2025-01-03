@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ParaeducatorGame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ParaeducatorGame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"ParaeducatorGame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":15.931743980901034}"
+                },
+                {
                   "title": "The Artifacts...",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Artifacts...\"}",
@@ -64,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ParaeducatorGame.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ParaeducatorGame"
+              "title": "The Artifacts..."
             }
           },
           {
@@ -93,6 +99,83 @@
               },
               "icon": "lucide-file",
               "title": "The Church of the White Flame"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c4a91e614cc2e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f3252ed2b46ab6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ParaeducatorGame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ParaeducatorGame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"ParaeducatorGame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":15.931743980901034}"
+                },
+                {
+                  "title": "The Artifacts...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Artifacts...\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":63},\"to\":{\"line\":78,\"ch\":63}},\"scroll\":59.578876966506876}"
+                },
+                {
+                  "title": "Central Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Central Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.514753008529203}"
+                },
+                {
+                  "title": "Northwestern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northwestern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":29},\"to\":{\"line\":5,\"ch\":29}}}"
+                },
+                {
+                  "title": "The Holyl'nds",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Holyl'nds\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":27},\"to\":{\"line\":5,\"ch\":27}}}"
+                },
+                {
+                  "title": "North Littemotto",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"North Littemotto\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":25},\"to\":{\"line\":5,\"ch\":25}}}"
+                },
+                {
+                  "title": "Central Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Central Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prenotes Dec 20 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 20 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 20 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":337},\"to\":{\"line\":49,\"ch\":337}},\"scroll\":32.050041604494226}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Artifacts..."
             }
           }
         ]
@@ -144,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elvenfi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -345,10 +428,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08c7e9195e5498c4",
+  "active": "d9f3252ed2b46ab6",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "ParaeducatorGame.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
