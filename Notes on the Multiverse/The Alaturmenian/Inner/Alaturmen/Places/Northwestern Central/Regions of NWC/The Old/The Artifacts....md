@@ -135,13 +135,13 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Flexing Growth
-> 'A pale peach orb that seems to flex.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A pale peach orb that seems to flex and boil as it grows and shrinks in your hand. You instinctually flex your muscles to its beat.'
+> *Flexing Growth* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Bone Cut
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'An egg white hunk of some metallic material. It resembles a crude dagger. The tang is comfortable in your hand. You really should be cutting some kind of meat with this.'
+> *Bone Cut* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Blue Blood
