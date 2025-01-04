@@ -210,12 +210,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Amber Jelly
-> 'This is the physical description.'
+> 'A thick yet short cylinder of translucent orange crystal. Something black lies frozen inside, but you would swear you just saw it twitch.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Sweet Treat
-> 'This is the physical description.'
+> 'A small, coin-shaped cylinder of white and red pinstripes. It looks cold.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
