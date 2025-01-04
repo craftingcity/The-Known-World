@@ -225,13 +225,13 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Snake Stone
-> 'A curled spiral of ever-shrinking circumference.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A curled spiral of ever-shrinking circumference, it has a thick green head and two small cuts that look very much like the eyes of a snake.'
+> *Snake Stone* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Cubed Sphere
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'An impossibility - without color or form, this *thing* is a cube and a sphere at the same time. You cannot mentally withstand observing this for more than a moment.'
+> *Cubed Sphere* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Half Shell
@@ -318,17 +318,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 3 common, 4 uncommon, 2 rare >
 ###### Corebent Duram
 > 'A dull white stone with small veins of shimmering gold.'
-> *Corebent Duram* are a **common** artifact, and incurs 1d4 (2) Radiation. 
+> *Corebent Duram* is a **common** artifact, and incurs 1d4 (2) Radiation. 
 > A *Corebent Duram* holds one charge, and can be used to recharge one charge of a manufactured spell-gem, any artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine. 
 
 ###### Petrified Mercury
 > 'A teardrop shape of silver-grey, you see a shining reflection of yourself within.'
-> *Petrified Mercury* are a **common** artifact, and incurs 1d4 (2) Radiation.
+> *Petrified Mercury* is a **common** artifact, and incurs 1d4 (2) Radiation.
 > A *Petrified Mercury* is a passive artifact with one charge and a triggered effect. When you next make a Saving Throw, the charge is used, and you add 2 to that save.
 
 ###### Glass Thumb
 > 'A glass cylinder chipped and cut in such a way that it vaguely resembles a humanoid thumb. As you hold it, you can feel a slow dull pulse, as if it was still being pumped with blood.'
-> *Glass Thumb* are a **common** artifact that incurs 1d8 (4) radiation.
+> *Glass Thumb* is a **common** artifact that incurs 1d8 (4) radiation.
 > A *Glass Thumb* is a passive artifact, and provides a +1 to your Attack Rolls and -1 to your Armor Class.
 
 ###### Crystalized Vein
@@ -337,17 +337,17 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Crystalized Vein* is a passive artifact and provides a +3 bonus to your STR score.
 
 ###### Inspiring Heart
-> 'A chunky round stone of shimmering silver. It slowly pulses, slowly lining up with your heartbeat.'
+> 'A chunky round stone of shimmering silver. It slowly pulses, eventually matching pace with your heartbeat.'
 > *Inspiring Heart* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
 > A *Inspiring Heart* is a passive artifact and provides a +3 bonus to your CON score.
 
 ###### Wurm Spine
-> 'A small spine-like structure made of a translucent blue glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of blue shards, then back again.'
+> 'A small spine-like structure made of a translucent yellow glass. It slowly tenses and relaxes from a straight cylinder to a curled mess of shards, then back again.'
 > *Wurm Spine* is an **uncommon** artifact, and incurs 2d10 (11) radiation.
 > A *Wurm Spine* is a passive artifact and provides a +3 bonus to your DEX score.
 
 ###### Spiral Eye
-> 'A palm sized almond shape made of an iridescent gem, which colorfully shines a spinning web of light inside itself. As you look at it, you realize suddenly you have been staring for far too long.'
+> 'A palm sized almond shape made of an iridescent gem, which colorfully shines a spinning web of light inside itself. As you look at it, you realize suddenly you have been staring for far longer than you thought you had.'
 > *Spiral Eye* is a **uncommon** artifact, and incurs 2d10 (11) radiation.
 > A *Spiral Eye* is a passive artifact and provides a +3 bonus to your CHA score.
 
@@ -358,7 +358,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Jasper's Twin
 > 'One half of a helix formed of dull blue stone, slowly turning and grinding against its non-existent other half.'
-> *Jasper's Twin* are a **rare** artifact and incurs 4d12 (27) Radiation.
+> *Jasper's Twin* is a **rare** artifact and incurs 4d12 (27) Radiation.
 > A *Jasper's Twin* is a passive artifact with a triggered effect. When you take slashing, bludgeoning, or piercing damage, you take half that damage as Radiation instead.
 
 ###### Fun Guy
@@ -370,12 +370,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 < 0 common, 0 uncommon, 3 rare >
 ###### Emerald Liver
 > 'A thick chunk of beautifully clear emerald.'
-> *Emerald Liver* are a **rare** artifact. 
+> *Emerald Liver* is a **rare** artifact. 
 > A *Emerald Liver* is a passive artifact, and provides six Radiation Reduction.
 
 ###### Crystal Knee
 > 'A thick curved piece of clear crystal, bent in such a manner that your first thought while holding it is that this was once a small creature's knee.'
-> *Crystal Knee* are a **rare** artifact, and incurs 4d12 (27) Radiation.
+> *Crystal Knee* is a **rare** artifact, and incurs 4d12 (27) Radiation.
 > A *Crystal Knee* holds up to three charges. As an action, you may spend a charge to immediately regain a number of hp by rolling any number hit-die and adding your CON mod each time, as per a "short rest". This does not effect any other "short-rest" related features or effects.
 
 ###### Bloody Dunes
@@ -396,7 +396,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Duram Battery* holds up to five charges, and as an action, you may spend a charge to recharge one charge of a manufactured spell-gem, any other artifact with a Charge value, or ten charges of a Durandurm Blaster Magazine.
 
 ###### Vorpal Shoreline
-> 'A fine sheet of deep blue gemstone, which turns sharp and black at the edges. It does not allow you to touch it, moving with as much force as you supply.'
+> 'A fine sheet of deep blue gemstone, which turns sharp and black at the edges. It does not allow you to touch it, moving with as much force as you apply.'
 > *Vorpal Shoreline* is a **uncommon** artifact, and incurs 4d6 (14) radiation.
 > A *Vorpal Shoreline* is a passive artifact with a triggered effect. When you fall prone involuntarily, including going unconscious, you instead roll 2d8. The first d8 is direction in which you teleport, where 1 is north, and continuing clockwise. The second d8 is the number of 5ft spaces you teleport in that direction.
 
@@ -405,19 +405,19 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 ###### Ruby Pyramid
 > 'A light red ruby cut to a pyramidic shape. Deep within, the embers of a fire still glow.'
 > *Ruby Pyramid* is a **common** artifact, and incurs 2d8 (9) radiation.
-> A *Ruby Pyramid* is a passive artifact with one charge and a triggered effect. When you would next make a death saving throw, the charge is used, you regain 10d4hp, and you become conscious.
+> A *Ruby Pyramid* is a passive artifact with one charge and a triggered effect. When you would next make a death saving throw, the charge is used, you regain 3d4hp, and you become conscious.
 
 ###### Fire-Heart Ruby
 > 'A large heart shaped ruby, inside of which a small roiling flame can be seen against the walls.'
 > *Fire-Heart Ruby* is a **rare** artifact, and incurs 2d8 (9) Radiation.
-> A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to gain 1d4+1hp or 1d4+1 fire damage to your next attack.
+> A *Fire-Heart Ruby* holds up to ten charges. As a bonus action, you may spend a charge to regain 1d4+1hp or 1d4+1 fire damage to your next attack.
 
 ##### Force
 < 1 common, 3 uncommon, 2 rare >
 ###### Small World
 > 'A sphere of swirling green, blue, and brown glass. It is etched with a switching web of dark strips and bumps.'
 > *Small World* is a **common** artifact, and incurs 2d12 (13) radiation.
-> A *Small World* is a passive artifact with one charge and a triggered effect. When you are next the target of an attack, the charge is used, and your AC increases by 8.
+> A *Small World* is a passive artifact with one charge and a triggered effect. When you are next the target of an attack, the charge is used, and your AC increases by 8 until the beginning of your next turn.
 
 ###### Glass Dreams
 > 'A fist-sized sphere of light pink glass, where a small amount of purple gas slowly bubbles and conglomerates towards the bottom of the sphere. As you hold it in your hand, you can swear you just heard it whisper something to you.'
@@ -425,14 +425,14 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *Glass Dreams* is a passive artifact and provides Advantage on Saving Throws against effects that Charm, Fear, or Confuse.
 
 ###### Space Bubbles
-> 'A small structure of clear marbles connected by spiney black veins. It bears an uncanny resemblance to a branch of grapes or berries, and you must consciously prevent yourself from attempting to consume a bubble.'
+> 'A small structure of clear marbles connected by spiney black veins. It bears an uncanny resemblance to a branch of grapes or berries, and you must consciously prevent yourself from attempting to pluck and consume a bubble.'
 > *Space Bubbles* is a **uncommon** artifact, and incurs 4d4 (10) radiation.
 > A *Space Bubbles* holds up to 6 charges. As an action, you may spend a charge to immediately surround yourself in a small personal bubble until the beginning of your next turn. While you are surrounded by your bubble, you are Restrained, and you cannot be targeted by attacks or effects that originate from outside the bubble.
 
 ###### Artyom's Skin
-> 'A small curve of yellow amber. It tingles with warmth.'
+> 'A small thin curve of yellow amber. It tingles with warmth.'
 > *Artyom's Skin* is a **uncommon** artifact, and incurs 3d10 (17) radiation.
-> A *Artyom's Skin* hold up to 4 charges. As an action, you may spend a charge. When you do, target creature within 45ft of you must succeed on a DC 17 Constitution Saving Throw or be knocked Prone and take 4d10 psychic damage on a failed save, or half damage on a successful one.
+> A *Artyom's Skin* hold up to 4 charges. As an action, you may spend a charge. When you do, target creature within 45ft of you must succeed on a DC 17 Constitution Saving Throw or be knocked Prone and take 4d4 psychic damage on a failed save, or half damage on a successful one.
 
 ###### Space-Jolt Diamond
 > 'A perfect sphere of diamond, inside of which a tiny storm rages with untapped potential. It continually rumbles and hums in your hand.'
