@@ -211,12 +211,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Amber Jelly
 > 'A thick yet short cylinder of translucent orange crystal. Something black lies frozen inside, but you would swear you just saw it twitch.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> *NAME* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Sweet Treat
-> 'A small, coin-shaped cylinder of white and red pinstripes. It looks cold.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A small, coin-shaped cylinder of white and red pinstripes. It looks cold, but still appealing.'
+> *Sweet Treat* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Turtle Shell
