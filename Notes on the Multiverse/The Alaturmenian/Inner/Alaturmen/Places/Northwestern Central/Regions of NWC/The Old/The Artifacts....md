@@ -180,12 +180,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Silver Slip
-> 'A small shard of shining silver. While you '
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A small shard of shining silver. While you feel no pain, the sharp edges of it make holding this comfortably entirely impossible.'
+> *Silver Slip* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Tesseract
-> 'This is the physical description.'
+> 'A blueish black cube barely and inch in each dimension. A crackling pink energy roils inside the center.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
