@@ -150,7 +150,7 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Glowing Obelisk
-> 'A prism of pure black crystal quietly breaths a dim purple light from its heads.'
+> 'A prism of pure black crystal quietly breathes a dim purple light from its heads. You feel a connection to it... You hope it fades, but you know it won't.'
 > *Glowing Obelisk* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -165,12 +165,12 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 > A *NAME* artifact has this effect...
 
 ###### Soft Emerald
-> 'A slimy green gem. It's sticky.'
+> 'A small and slimy green gem. It's sticky.'
 > *Soft Emerald* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Furry Slurry
-> 'A conical mass of shifting brown fur, it resembles a dog, curled and sleeping in your palm.'
+> 'A conical mass of shifting brown fur, it vaguely resembles a dog, curled and sleeping in your palm.'
 > *Furry Slurry* is a **common** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
@@ -186,27 +186,27 @@ When a character wielding an Artifact Detector succeeds on a DC 17 Detection (Pe
 
 ###### Tesseract
 > 'A blueish black cube barely and inch in each dimension. A crackling pink energy roils inside the center.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> *Tesseract* is a **rare** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Black Cut Diamond
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+> 'A beautiful blue crystalline stone, it's cuts create a black lining around and inside the gem. This thing should be revered, you think.'
+> *Black Cut Diamond* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Pink Onyx
-> 'This is the physical description.'
+> 'A smooth pink pebble is inlayed with beautiful shifting iridescent patterns. It's so cute!'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Ruby Ring
-> 'This is the physical description.'
+> 'A red crystal torus smaller than a silver coin.'
 > *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
-###### Dark Blue Cloud
-> 'This is the physical description.'
-> *NAME* is a **CLASS** artifact, and incurs xdX (y) radiation.
+###### Dark Cloud
+> 'A bubbling grey cloud of somehow solid mist.'
+> *Dark Cloud* is an **uncommon** artifact, and incurs xdX (y) radiation.
 > A *NAME* artifact has this effect...
 
 ###### Amber Jelly

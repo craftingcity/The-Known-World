@@ -14,6 +14,7 @@ aliases:
 - literally why am i out here
 ##### Roan, the Slimknife Agent
 - lets get that bread!!
+- i'd like to go back home at some point
 ##### Nikolai, the Researcher's Son
 - what happened to my family, and or my adoptive father figure, but very specifically the research they were doing together
 ##### Saoirse, the Cursed
