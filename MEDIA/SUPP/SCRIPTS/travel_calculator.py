@@ -1,23 +1,25 @@
-global speedOnHorse
-global speedOnBoat
-global speedOnFoot
 
+cityTable = {}
 
-def calculate():
-    pass
+global cityTable
 
-def IntraCityCheck():
+def IntraCityTravelCheck():
     print("Are you heading from one city to another (y/n)?")
-    keypress = input()
-    match keypress:
+    cityCheck = input()
+    match cityCheck:
         case "y":
-            pass
+            IntraCityCalculate()
         case "n":
-            pass
-    pass
+            HexCalculate()
+    main()
 
 def IntraCityCalculate():
-    pass
+    print("Where are you travelling from?")
+    fromCity = input()
+
+    print("And where to?")
+    toCity = input()
+
 
 def HexCalculate():
     print("How many Hexes to calculate?")
@@ -37,10 +39,10 @@ def HexCalculate():
                 case "y":
                     daysOfTravel = numToCalc / 4
                     numCartPrice = daysOfTravel * 12
-                    giveCartPrice = True
+                    givePrice = True
                 case "n":
                     daysOfTravel = numToCalc / 3
-                    giveCartPrice = False
+                    givePrice = False
         case "h":
             print("Are you travelling the Highways (y/n)?")
             highwayCheck = input()
@@ -58,14 +60,15 @@ def HexCalculate():
                 case "n":
                     daysOfTravel = numToCalc / 3
             numBoatPrice = daysOfTravel * 20
+            givePrice = True
     print(f"Your trip will take {daysOfTravel} days.")
-    if giveCartPrice:
+    if givePrice:
         print(f"A vic can be chartared at ~{numCartPrice}sp for the trip.")
-        giveCartPrice = False
+        givePrice = False
     main()
 
 def main():
-    IntraCityCheck()
+    IntraCityTravelCheck()
 
 if __name__ == "__main__":
     main()

@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "GrainIntoGold",
-      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Alaturmenian Travel Table",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md"
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
     {
       "basename": "The Artifacts...",
@@ -19,6 +11,22 @@
     {
       "basename": "ParaeducatorGame",
       "path": "ParaeducatorGame.md"
+    },
+    {
+      "basename": "MEDIA",
+      "path": "MEDIA/MEDIA.md"
+    },
+    {
+      "basename": "Alaturmenian Travel Table",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md"
+    },
+    {
+      "basename": "GrainIntoGold",
+      "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
     },
     {
       "basename": "Custom Class - Blood Hunter",
@@ -191,14 +199,6 @@
     {
       "basename": "Iron Ward",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Iron Ward.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "Nylan Roul",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md"
     }
   ],
   "omittedPaths": [],
