@@ -22,10 +22,10 @@ cityTable = {
     "Mountain Hall": "",
     "Golden City": "",
     "Kohnstamm": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "Odaya": "",
+    "Kanielkiln": "",
+    "Wychway": "",
+    "Yagil": "",
 }
 
 def IntraCityTravelCheck():
