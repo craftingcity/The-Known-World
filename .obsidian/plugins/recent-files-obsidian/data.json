@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "Southwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
+    },
+    {
+      "basename": "Southeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
       "basename": "The Kingdom of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
       "basename": "The Holyl'nds",
@@ -183,22 +199,6 @@
     {
       "basename": "Abyss",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "Guilds of Coalition",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
-      "basename": "Iron Ward",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Iron Ward.md"
     }
   ],
   "omittedPaths": [],

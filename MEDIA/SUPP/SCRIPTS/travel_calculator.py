@@ -1,7 +1,32 @@
-
-cityTable = {}
-
-global cityTable
+cityTable = {
+    "Castle Prosper": "",
+    "Gambleum": "",
+    "Janesland": "",
+    "Magius": "",
+    "Moonlight": "",
+    "Yerba": "",
+    "Amyl Dother": "",
+    "Barkryn": "",
+    "Beacon": "",
+    "Boneborn": "",
+    "Darnt Hillkeep": "",
+    "Goldfield": "",
+    "Lakeview": "",
+    "Mossburg": "",
+    "New Quillbuck": "",
+    "Red Throne": "",
+    "Zalfari": "",
+    "Groundiki": "",
+    "Kickoff": "",
+    "Low Hornrock": "",
+    "Mountain Hall": "",
+    "Golden City": "",
+    "Kohnstamm": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+}
 
 def IntraCityTravelCheck():
     print("Are you heading from one city to another (y/n)?")
