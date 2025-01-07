@@ -99,6 +99,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Northwestern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northwestern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.536824187309226}"
+                },
+                {
                   "title": "Northeastern Central",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northeastern Central\"}",
@@ -109,12 +115,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Northwestern Central"
+              "title": "The Gear..."
             }
           }
         ],
@@ -167,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jerran",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,12 +222,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.51240158081055,
-    "collapsed": true
+    "width": 255.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -368,12 +374,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f701f029d943ba5",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",

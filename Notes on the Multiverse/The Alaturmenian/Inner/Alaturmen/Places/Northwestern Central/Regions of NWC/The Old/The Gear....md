@@ -16,21 +16,13 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Scavenged Repeating Blaster         | 60/180 | dunam     | 3d6+DEX             | durandurm | all                  | 0.5        |
 | Pipe Grenade                        | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all                  | 0.2        |
 | Homemade Fire-Bomb                  | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all                  | 0.1        |
-| Refined Handblaster Receiver        | -      | upg.      | +1 to hit, +1 dam   | n/a       | mercs, troopers      | 2.0        |
-| Blessed Handblaster Receiver        | -      | upg.      | +1d4 to hit, +1d4   | n/a       | wfm, extramis        | 2.0        |
-| Extended Handblaster Barrel         | +5/+30 | upg.      | +1d6                | n/a       | all                  | 4.0        |
-| Refined Carbine Receiver            | -      | upg       | +2 to hit, +2 dam   | n/a       | mercs                | 3.2        |
-| Dual-pop Carbine Receiver           | -      | upg       | +1 to hit, +1d6     | n/a       | mercs, troopers, wfm | 4.0        |
-| Ares Manual-Switch Carbine Receiver | 45/120 | upg.      | multishot per d6    | n/a       | scavs, troopers      | 1.5        |
-| Magazine Extender, 20-shot          | -      | upg.      | 2x mag cap          | n/a       | all                  | 0.8        |
-| Magazine Extender, 40-shot          | -      | upg.      | 4x mag cap          | n/a       | all                  | 2.4        |
-| Magazine Belt Feeder                | -      | upg       | 12x mag cap         | n/a       | all                  | 5.6        |
 
 #### IMPORTED / FORGED
 | Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
 | --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- |
 | Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
 | Longblaster                 | 120/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
+| Scatterblaster              |         |               |                      |           |           |            |
 | Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
 | Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
 | Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
@@ -38,19 +30,50 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Shoebox Anti-Personnel Mine | -       | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
 | Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
 
+###### Durandurm Upgrades
+| Name                                | Range  | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
+| ----------------------------------- | ------ | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
+| Loose Trigger                       | -      | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
+| Advanced Sight Scope                | -      | upg. |                                            |       |                      |            |
+| Refined Handblaster Receiver        | -      | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
+| Blessed Handblaster Receiver        | -      | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
+| Extended Handblaster Barrel         | +5/+30 | upg. | +1d6                                       | n/a   | all                  | 4.0        |
+| Refined Carbine Receiver            | -      | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
+| Dual-pop Carbine Receiver           | -      | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
+| Ares Manual-Switch Carbine Receiver | 45/120 | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
+| Magazine Extender, 20-shot          | -      | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
+| Magazine Extender, 40-shot          | -      | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
+| Magazine Belt Feeder                | -      | upg. | 12x mag cap                                | n/a   | all                  | 5.6        |
+| TacLight! Cone Lamp                 | 45/90  | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
+| TacLight! Prefire Tracer Module     | 30/90  | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
+
 #### EQUIPMENT
-| Name                                       | Type                   | Use                           | Importers   | Cost in AC |
-| ------------------------------------------ | ---------------------- | ----------------------------- | ----------- | ---------- |
-| Pro-Finder Mark 1                          | Arti. Detector         | 45-foot radius                | All         | 2.5        |
-| Pro-Finder Mark 2                          | Arti. Detector         | 60-foot radius, +5 Detection  | All         | 7.0        |
-| WhiteTech Detector                         | Arti. / Anom. Detector | 60-foot radius                | WFM         | 10.0       |
-| Sukari Style Detector                      | Arti. Detector         | 60-foot radius, +10 Detection | Mercs       | 12.5       |
-| Camelot Style Detector                     | Arti. / Anom. Detector | 75-foot radius, +5 Detection  | Mercs, M.T. | 22.8       |
-| Extreme Weave Distortion Device Mark 1     | Anom. Detector         | 20-foot radius                | All         | 0.6        |
-| Extreme Weave Distortion Device Mark 2     | Anom. Detector         | 35-foot radius                | All         | 3.6        |
-| Tuned Hazardous Location Alert System      | Rad. Detector          | 45-foot radius                | Mercs       | 15.0       |
-| Personal Obsidian Communications Slab v1.4 | Comms PDA              |                               |             |            |
-| Blue Scan v.11                             | PDA Upgrade            |                               |             |            |
+| Name                                   | Type                   | Use                             | Importers   | Cost in AC |
+| -------------------------------------- | ---------------------- | ------------------------------- | ----------- | ---------- |
+| Pro-Finder Mark 1                      | Arti. Detector         | 45-foot radius                  | all         | 2.5        |
+| Pro-Finder Mark 2                      | Arti. Detector         | 60-foot radius, +5 Detection    | all         | 7.0        |
+| WhiteTech Detector                     | Arti. / Anom. Detector | 60-foot radius                  | WFM         | 10.0       |
+| Sukari Style Detector                  | Arti. Detector         | 60-foot radius, +10 Detection   | Mercs       | 12.5       |
+| Camelot Style Detector                 | Arti. / Anom. Detector | 75-foot radius, +5 Detection    | Mercs, M.T. | 22.8       |
+| Extreme Weave Distortion Device Mark 1 | Anom. Detector         | 20-foot radius                  | all         | 0.6        |
+| Extreme Weave Distortion Device Mark 2 | Anom. Detector         | 35-foot radius                  | all         | 3.6        |
+| Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                  | Mercs       | 15.0       |
+
+###### Tactical Equipment
+| Name                                  | Type        | Use                             | Importers | Cost in AC |
+| ------------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
+| Goggles of Night-Vision               | Goggles     |                                 | all       |            |
+
+###### Communications
+| Name                                  | Type        | Use                             | Importers | Cost in AC |
+| ------------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
+| Personal Obsidian Communications Slab | Comms PDA   |                                 | all       |            |
+| Blue Scan Archive v.11                | PDA Upgrade | Artifact Dictionary (Common)    | mercs     |            |
+| Blue Scan Archive v.26                | PDA Upgrade | Artifact Dictionary (Uncommon)  | mercs     |            |
+| Blue Scan Archive v.34                | PDA Upgrade | Artifact Dictionary (Rare)      | mercs     |            |
+| Astronomy Architecture                | PDA Upgrade | Mercenary Communication Network | mercs     |            |
+| Spirt Chain Architecture              | PDA Upgrade | Militant Communication Network  | WFM       |            |
+|                                       |             |                                 |           |            |
 
 ### Armors
 #### SCAVANGED / REFIT
