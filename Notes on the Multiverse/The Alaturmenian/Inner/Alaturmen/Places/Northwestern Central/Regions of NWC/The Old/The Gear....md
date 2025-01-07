@@ -49,6 +49,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Extreme Weave Distortion Device Mark 1 | Anom. Detector         | 20-foot radius                | All         | 0.6        |
 | Extreme Weave Distortion Device Mark 2 | Anom. Detector         | 35-foot radius                | All         | 3.6        |
 | Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                | Mercs       | 15.0       |
+| Personal Obsidian Communications Slab  |                        |                               |             |            |
 
 ### Armors
 #### SCAVANGED / REFIT
