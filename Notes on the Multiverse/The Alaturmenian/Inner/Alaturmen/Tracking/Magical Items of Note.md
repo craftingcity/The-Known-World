@@ -666,12 +666,15 @@ aliases:
 ###### Stone Totem of the Heratic
 ###### Dank Robe of Fluidity
 ###### Trophied Tail of a Horrible Beast
+###### Ash's Cursed Bloodsword
 #### Council Mages' Arcane Possessions
 ###### Alergra's Cloak of Diversion
 ###### Alergra's Pinksand Hourglass
 ###### Alergra's Staff of Evocation
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
+#### xxxxx
+###### Zipper's Silver Medal
 
 # Crafted Items
 ## Armor

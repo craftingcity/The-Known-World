@@ -39,17 +39,18 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
 
 #### EQUIPMENT
-| Name                                   | Type                   | Use                           | Importers   | Cost in AC |
-| -------------------------------------- | ---------------------- | ----------------------------- | ----------- | ---------- |
-| Pro-Finder Mark 1                      | Arti. Detector         | 45-foot radius                | All         | 2.5        |
-| Pro-Finder Mark 2                      | Arti. Detector         | 60-foot radius, +5 Detection  | All         | 7.0        |
-| WhiteTech Detector                     | Arti. / Anom. Detector | 60-foot radius                | WFM         | 10.0       |
-| Sukari Style Detector                  | Arti. Detector         | 60-foot radius, +10 Detection | Mercs       | 12.5       |
-| Camelot Style Detector                 | Arti. / Anom. Detector | 75-foot radius, +5 Detection  | Mercs, M.T. | 22.8       |
-| Extreme Weave Distortion Device Mark 1 | Anom. Detector         | 20-foot radius                | All         | 0.6        |
-| Extreme Weave Distortion Device Mark 2 | Anom. Detector         | 35-foot radius                | All         | 3.6        |
-| Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                | Mercs       | 15.0       |
-| Personal Obsidian Communications Slab  |                        |                               |             |            |
+| Name                                       | Type                   | Use                           | Importers   | Cost in AC |
+| ------------------------------------------ | ---------------------- | ----------------------------- | ----------- | ---------- |
+| Pro-Finder Mark 1                          | Arti. Detector         | 45-foot radius                | All         | 2.5        |
+| Pro-Finder Mark 2                          | Arti. Detector         | 60-foot radius, +5 Detection  | All         | 7.0        |
+| WhiteTech Detector                         | Arti. / Anom. Detector | 60-foot radius                | WFM         | 10.0       |
+| Sukari Style Detector                      | Arti. Detector         | 60-foot radius, +10 Detection | Mercs       | 12.5       |
+| Camelot Style Detector                     | Arti. / Anom. Detector | 75-foot radius, +5 Detection  | Mercs, M.T. | 22.8       |
+| Extreme Weave Distortion Device Mark 1     | Anom. Detector         | 20-foot radius                | All         | 0.6        |
+| Extreme Weave Distortion Device Mark 2     | Anom. Detector         | 35-foot radius                | All         | 3.6        |
+| Tuned Hazardous Location Alert System      | Rad. Detector          | 45-foot radius                | Mercs       | 15.0       |
+| Personal Obsidian Communications Slab v1.4 | Comms PDA              |                               |             |            |
+| Blue Scan v.11                             | PDA Upgrade            |                               |             |            |
 
 ### Armors
 #### SCAVANGED / REFIT
