@@ -19,13 +19,14 @@ cityTable = {
     "Groundiki": "AA16",
     "Kickoff": "0Y10",
     "Low Hornrock": "0T07",
-    "Mountain Hall": ")R10",
-    "Golden City": "",
-    "Kohnstamm": "",
-    "Odaya": "",
-    "Kanielkiln": "",
-    "Wychway": "",
-    "Yagil": "",
+    "Mountain Hall": "0R10",
+    "Golden City": "AD07",
+    "Kohnstamm": "0K04",
+    "Odaya": "0F06",
+    "Kanielkiln": "0I10",
+    "Wychway": "0N12",
+    "Yagil": "0D10",
+    "default": "FAIL"
 }
 
 def IntraCityTravelCheck():
@@ -41,6 +42,8 @@ def IntraCityTravelCheck():
 def IntraCityCalculate():
     print("Where are you travelling from?")
     fromCity = input()
+    if fromCity in cityTable.keys():
+        fromCityCoords = cityTable.get(fromCity)
 
     print("And where to?")
     toCity = input()
