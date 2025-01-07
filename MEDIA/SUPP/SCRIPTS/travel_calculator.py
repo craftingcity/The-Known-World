@@ -44,6 +44,13 @@ def IntraCityCalculate():
     fromCity = input()
     if fromCity in cityTable.keys():
         fromCityCoords = cityTable.get(fromCity)
+        for c in fromCityCoords:
+            match c:
+                case "0":
+                    pass
+    else:
+        ## You spelled it wrong?
+        pass
 
     print("And where to?")
     toCity = input()
