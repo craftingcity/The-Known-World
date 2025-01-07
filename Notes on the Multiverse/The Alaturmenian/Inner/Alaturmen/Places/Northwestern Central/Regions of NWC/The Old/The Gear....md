@@ -9,13 +9,14 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name                                | Range  | Type      | Dam.                | Ammo      | Crafters             | Cost in AC |
-| ----------------------------------- | ------ | --------- | ------------------- | --------- | -------------------- | ---------- |
-| Homemade Machete                    | 5ft    | slashing  | 2d4+STR             | none      | all                  | 0.1        |
-| Scavenged Handblaster               | 30/90  | dunam     | 1d6+DEX             | durandurm | all                  | 0.25       |
-| Scavenged Repeating Blaster         | 60/180 | dunam     | 3d6+DEX             | durandurm | all                  | 0.5        |
-| Pipe Grenade                        | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all                  | 0.2        |
-| Homemade Fire-Bomb                  | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all                  | 0.1        |
+| Name                        | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
+| --------------------------- | ------ | --------- | ------------------- | --------- | -------- | ---------- |
+| Homemade Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
+| Scavenged Handblaster       | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
+| Scavended Scatterblaster    |        |           |                     |           |          |            |
+| Scavenged Repeating Blaster | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
+| Pipe Grenade                | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        |
+| Homemade Fire-Bomb          | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        |
 
 #### IMPORTED / FORGED
 | Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
@@ -60,20 +61,14 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                  | Mercs       | 15.0       |
 
 ###### Tactical Equipment
-| Name                                  | Type        | Use                             | Importers | Cost in AC |
-| ------------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
-| Goggles of Night-Vision               | Goggles     |                                 | all       |            |
+| Name                       | Type    | Use | Importers | Cost in AC |
+| -------------------------- | ------- | --- | --------- | ---------- |
+| TacLight! Pouch of Holding | Belt    |     |           |            |
+| Flexing Combat Vest        | Vest    |     |           |            |
+| Goggles of Night-Vision    | Goggles |     | all       |            |
+| Longshot Headgear          | Goggles |     |           |            |
 
-###### Communications
-| Name                                  | Type        | Use                             | Importers | Cost in AC |
-| ------------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
-| Personal Obsidian Communications Slab | Comms PDA   |                                 | all       |            |
-| Blue Scan Archive v.11                | PDA Upgrade | Artifact Dictionary (Common)    | mercs     |            |
-| Blue Scan Archive v.26                | PDA Upgrade | Artifact Dictionary (Uncommon)  | mercs     |            |
-| Blue Scan Archive v.34                | PDA Upgrade | Artifact Dictionary (Rare)      | mercs     |            |
-| Astronomy Architecture                | PDA Upgrade | Mercenary Communication Network | mercs     |            |
-| Spirt Chain Architecture              | PDA Upgrade | Militant Communication Network  | WFM       |            |
-|                                       |             |                                 |           |            |
+
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -248,6 +243,21 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Base, Infirmary - City, Hospital        | mercs |       |            |
 | Village, N. Outskirts - City, N. Office |       |       |            |
 | Village, S. Outskirts - City, W. Apts.  |       |       |            |
+
+#### COMMS / PDA
+| Name                            | Type        | Use                             | Importers | Cost in AC |
+| ------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
+| Peirce of Messaging             | Comms       |                                 |           |            |
+| Obsidian Communications Slab    | Comms PDA   |                                 | all       |            |
+| Blue Scan Archive v.11          | PDA Upgrade | Artifact Dictionary (Common)    | mercs     |            |
+| Blue Scan Archive v.26          | PDA Upgrade | Artifact Dictionary (Uncommon)  | mercs     |            |
+| Blue Scan Archive v.34          | PDA Upgrade | Artifact Dictionary (Rare)      | mercs     |            |
+| WhiteTech Identification Module | PDA Upgrade | Artifact Dictionary (Uncommon)  | WFM       |            |
+| House Commons Librarian         | PDA Upgrade | Artifact Dictionary (Rare)      | troopers  |            |
+| Astronomy Architecture          | PDA Upgrade | Mercenary Communication Network | mercs     |            |
+| Spirt Chain Architecture        | PDA Upgrade | Militant Communication Network  | WFM       |            |
+| House Commons Architecture      | PDA Upgrade | Trooper Communication Network   | troopers  |            |
+| Honor Architecture              | PDA Upgrade | Extramis Communication Network  | extramis  |            |
 
 ### Medical
 #### PROTECTION

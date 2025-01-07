@@ -47,8 +47,10 @@ The **Homeland Force** acts as the reserve military of the Church. The **Homelan
 
 The **Homeland Force** is one of the few ways that an *Unseen* or *Undesirable* can acquire a legal status that regards them as a real and full person. Acceptable service for four constant years grants a member of the **Homeland Force** a 'Silver Medal', which, for some, is redeemed for wealth, but for others carries life-changing social and legal status while carried. 
 
-#### White Flame Militants
+#### White Flame Militants & WhiteTech
 The **White Flame Militants** are a selective sub-branch of the **Homeland Force** that is responsible for the containment and minimization of any and all threats posed by [[The Old]].
+
+A section of their bugeting goes to research and development of technology for and of [[The Old|Minyostalma]] under the name **WhiteTech**.
 
 ### Holy Crusaders of Truth and Light
 The **Holy Crusaders of Truth and Light** is the active military branch of the Church. Led by the *Spoken* themselves, the **Holy Crusaders** pursue invasions against heretics, loose casters, and other enemies of the Church. 
