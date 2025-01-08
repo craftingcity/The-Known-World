@@ -44,7 +44,7 @@ fight a chuul!
 19 - Rowan
 15 - Bhodi
 12 - Thomas
-8 - Chuul
+8 - Chuul (11, 20, 28, 36, 47)
 4 - Mary
 
 We leave our heroes on the date of ... AF, as they ...
