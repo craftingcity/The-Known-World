@@ -48,5 +48,6 @@ fight a chuul!
 4 - Mary
 
 Chuul had an Iron Box, Mary got 6 Rations
+Rowan pushed it into the other side, and thomas got across, Mary jumped in after Rowan got swept up in the flow trying to farry people across.
 
 We leave our heroes on the date of ... AF, as they ...
