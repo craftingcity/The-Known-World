@@ -25,7 +25,7 @@ What do you do?
 
 ### What does the World Know?
 
-The pathways are labeled in [[Montal (language)]] & [[Giant (language)]].
+The pathways are labeled in [[Montal (language)]] & [[Giant (language)]] - North is [[Grazing Fields]], East is [[Forgehome]] but paths are fucked, South is [[Growth Heart]], West is [[Fungal Forests]]. A repeating phrase warns the reader they are entering a new place.
 
 ### What happened?
 
