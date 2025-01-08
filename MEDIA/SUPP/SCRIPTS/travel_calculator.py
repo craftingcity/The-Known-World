@@ -44,10 +44,15 @@ def IntraCityCalculate():
     fromCity = input()
     if fromCity in cityTable.keys():
         fromCityCoords = cityTable.get(fromCity)
+        countIterate = 0
         for c in fromCityCoords:
+            countIterate += 1
             match c:
                 case "0":
                     pass
+                case "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9":
+                    pass
+
     else:
         ## You spelled it wrong?
         pass
