@@ -39,6 +39,12 @@ B > T > R > M
 6 Treasure
 4 Magic
 
+fight a chuul!
 
+19 - Rowan
+15 - Bhodi
+12 - Thomas
+8 - Chuul
+4 - Mary
 
 We leave our heroes on the date of ... AF, as they ...
