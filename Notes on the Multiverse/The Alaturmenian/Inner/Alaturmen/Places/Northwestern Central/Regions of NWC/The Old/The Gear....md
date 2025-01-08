@@ -61,12 +61,12 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                  | Mercs       | 15.0       |
 
 ###### Tactical Equipment
-| Name                       | Type    | Use | Importers | Cost in AC |
-| -------------------------- | ------- | --- | --------- | ---------- |
-| TacLight! Pouch of Holding | Belt    |     |           |            |
-| Flexing Combat Vest        | Vest    |     |           |            |
-| Goggles of Night-Vision    | Goggles |     | all       |            |
-| Longshot Headgear          | Goggles |     |           |            |
+| Name                       | Type    | Use             | Importers | Cost in AC |
+| -------------------------- | ------- | --------------- | --------- | ---------- |
+| TacLight! Pouch of Holding | Belt    |                 |           |            |
+| Flexing Combat Vest        | Vest    |                 |           |            |
+| Goggles of Night-Vision    | Goggles | 300' darkvision | all       |            |
+| Longshot Headgear          | Goggles |                 |           |            |
 
 
 

@@ -28,6 +28,17 @@ What do you do?
 The pathways are labeled in [[Montal (language)]] & [[Giant (language)]] - North is [[Grazing Fields]], East is [[Forgehome]] but paths are fucked, South is [[Growth Heart]], West is [[Fungal Forests]]. A repeating phrase warns the reader they are entering a new place.
 
 ### What happened?
+##### Underdark
+
+(rear > front)
+B > T > R > M
+
+2 Small
+7 River
+1 No Food
+6 Treasure
+4 Magic
+
 
 
 We leave our heroes on the date of ... AF, as they ...
