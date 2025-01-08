@@ -44,7 +44,9 @@ fight a chuul!
 19 - Rowan
 15 - Bhodi
 12 - Thomas
-8 - Chuul (11, 20, 28, 36, 47)
+8 - Chuul (11, 20, 28, 36, 47, 52, 69, 76, 91, 101)
 4 - Mary
+
+Chuul had an Iron Box, Mary got 6 Rations
 
 We leave our heroes on the date of ... AF, as they ...
