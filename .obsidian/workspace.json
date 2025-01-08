@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68bb0ebfd7ed52c0",
+        "id": "23f4c8f6dfddd413",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4e0db5380e0869",
+            "id": "cd9268a4fc2dde15",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Arthur's Prairie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arthur's Prairie\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":28},\"to\":{\"line\":5,\"ch\":28}}}"
+                },
+                {
+                  "title": "The Kingdom of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Dec 10 24.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Dec 10 24"
+              "title": "Northeastern Central"
             }
           },
           {
-            "id": "ea268bda59cfea37",
+            "id": "ea3c314d82bff8cc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,16 +57,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jan 07 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 07 25"
+              "title": "Southeastern Central"
+            }
+          },
+          {
+            "id": "fa03a0117b86fcf6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Southwestern Central"
+            }
+          },
+          {
+            "id": "8f701f029d943ba5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Northeastern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northeastern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Northwestern Central"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gas-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,12 +216,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.51240158081055
+    "width": 255.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -304,19 +368,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea268bda59cfea37",
+  "active": "8f701f029d943ba5",
   "lastOpenFiles": [
-    "Prenotes Dec 10 24.md",
     "Prenotes Jan 07 25.md",
-    "Prenotes Dec 20 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
-    "Junie's Characters/Dante Fukili.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
@@ -324,6 +383,7 @@
     "MEDIA/MEDIA.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "MEDIA/SUPP/SCRIPTS/travel_calculator.py",
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
@@ -334,10 +394,14 @@
     "MEDIA/SUPP/SPREADS/moodboards.odp",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Prenotes Dec 20 24.md",
     "ORGANIZATION/TEMPLATES/Artifact Template.md",
     "Lingering Injuries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Guilded Mystic Entries.md",
     "MEDIA/SUPP/SPREADS/metalics.ods",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
