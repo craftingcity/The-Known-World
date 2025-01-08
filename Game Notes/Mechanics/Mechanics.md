@@ -11,7 +11,7 @@ aliases:
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
 	- **Ancient (depreciated)**
-		- [[Combat Mechanics]]
+		- [[Combat Mechanics (dep.)]]
 		- [[Skills of Alaturmen]]
 	- **Classes**
 		- [[Custom Class - Blood Hunter]]
@@ -19,6 +19,7 @@ aliases:
 	- **Ingame**
 		- [[Alaturmenian Travel Table]]
 		- [[Alchemy Processes & Products]]
+		- [[Combat Mechanics and Positioning]]
 		- [[Homebrew Alchemy System]]
 		- [[Mechanics of Plane-walking]]
 		- [[Skillbooks]]
