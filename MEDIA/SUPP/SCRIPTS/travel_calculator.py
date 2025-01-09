@@ -52,6 +52,8 @@ def IntraCityCalculate():
                     pass
                 case "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9":
                     pass
+                case "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I" | "J" | "K" | "L" | "M" | "N" | "M" | "L" | "O" | "P" |"Q" | "R" | "S" | "T" | "U" | "V" | "W" | "X" | "Y" | "Z" :
+                    pass
 
     else:
         ## You spelled it wrong?
