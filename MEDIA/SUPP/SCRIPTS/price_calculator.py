@@ -1,3 +1,8 @@
+### GLOBAL
+selectedItem = 0
+selectedMaterial = 0
+isCompatable = False
+
 ### CLASS
 
 ### LOCAL DEF
@@ -26,6 +31,7 @@ def TellItemCategories():
     pass
 
 def TellMaterialCategories():
+    print("Textile, Mettalic, ")
     pass
 
 def Start():
