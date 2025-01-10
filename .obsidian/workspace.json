@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68bb0ebfd7ed52c0",
+        "id": "e0e3223a65b7666f",
         "type": "tabs",
         "children": [
           {
-            "id": "98429d4b8d006f76",
+            "id": "60d77d506534a171",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,30 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Combat Mechanics (dep.)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics (dep.)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Gear...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Gear...\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
+              "title": "The Gear..."
             }
           }
         ]
@@ -144,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.51240158081055
+    "width": 383.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -291,10 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98429d4b8d006f76",
+  "active": "60d77d506534a171",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Fungal Forests.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
