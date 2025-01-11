@@ -14,10 +14,11 @@ class BaseItem:
         pass
 
 class BaseMaterial:
-    def __init__(self, name, cost, note):
+    def __init__(self, name, cost, materialbonus, note):
         self.name = name                #   name of specific item
         self.cost = cost                #   silver per lb of material
-        self.note = note
+        self.materialbonus = materialbonus  #   int
+        self.note = note                #   str
         pass
 
 ##### ITEMS
@@ -92,15 +93,15 @@ HazSuit = TypeArmor("PSUPI", 16, 36, 14, "9+DEX(2)", medium, 11, "D")
 ## MELEE
 SimpleClub = TypeMelee("Club", 2, 4, 11, "1d4", "+S/D")
 BigClub = TypeMelee("Greatclub", 11, 6, 11, "1d8", "+STR")
-Maul = TypeMelee()
+Maul = TypeMelee("Maul", 18, 8, 11, "2d6", "+STR")
 Dagger = TypeMelee("Dagger", 1, 8, 11, "1d4", "+S/D")
 SmallAxe = TypeMelee("Handaxe", 2, 8, 11, "1d6", "+S/D")
 BattleAxe = TypeMelee("Battle Axe", 6, 12, 14, "1d8", "+STR")
-GreatAxe = TypeMelee()
+GreatAxe = TypeMelee("Great Axe", 12, 12, 14, "+STR")
 Mace = TypeMelee("Mace", 4, 6, 11, "1d6", "+STR")
 Staff = TypeMelee("Quarterstaff", 2, 4, 14, "1d6", "+STR")
-Flail = TypeMelee()
-Spear = TypeMelee()
+Flail = TypeMelee("Flail", 3, 8, 14, "1d8", "+STR")
+Spear = TypeMelee("Spear", 3, 6, 11, "1d6", "+STR")
 Glaive = TypeMelee()
 Halberd = TypeMelee()
 Lance = TypeMelee()
