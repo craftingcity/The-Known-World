@@ -14,9 +14,10 @@ class BaseItem:
         pass
 
 class BaseMaterial:
-    def __init__(self, name, cost):
+    def __init__(self, name, cost, note):
         self.name = name                #   name of specific item
         self.cost = cost                #   silver per lb of material
+        self.note = note
         pass
 
 ##### ITEMS
@@ -64,29 +65,66 @@ class TypeProduct(BaseItem):
         self.charges = charges          # int
         pass
 
-##### MATERIALS
-class TypeTextile(BaseMaterial):
-    def __init__(self, name, cost):
-        super().__init__(name, cost)
-
-class TypeMetalic(BaseMaterial):
-    def __init__(self, name, cost):
-        super().__init__(name, cost)
-
-class TypeGem(BaseMaterial):
-    def __init__(self, name, cost):
-        super().__init__(name, cost)
-
-class TypeFlora(BaseMaterial):
-    def __init__(self, name, cost):
-        super().__init__(name, cost)
-
-class TypeFauna(BaseMaterial):
-    def __init__(self, name, cost):
-        super().__init__(name, cost)
-
 
 ### LOCAL DEF
+##### HARDWRITE BASE ITEMS
+## ARMOR
+light = "LIGHT"
+medium = "MEDIUM"
+heavy = "HEAVY"
+LeatherArmor = TypeArmor("Underarmor", 10, 12, 11, "11+DEX", light, 2, "0")
+StuddedLeather = TypeArmor("Studded", 13, 18, 11, "12+DEX", light, 5, "0")
+HideArmor = TypeArmor("Hide Armor", 12, 16, 11, "12+DEX(2)", medium, 5, "0")
+ChainShirt = TypeArmor("Chain Shirt", 20, 16, 14, "13+DEX(2)", medium, 8, "-2")
+ScaleArmor = TypeArmor("Scalemail", 45, 24, 14, "14+DEX(2)", medium, 11, "D")
+PlateShirt = TypeArmor("Breastplate", 20, 16, 14, "14+DEX(2)", medium, 11, "0")
+HalfPlateArmor = TypeArmor("Halfplate", 40, 24, 14, "15+DEX(2)", medium, 13, "D")
+RingArmor = TypeArmor("Ringmail", 40, 36, 14, "14", heavy, 11, "D")
+ChainArmor = TypeArmor("Chain Armor", 55, 24, 14, "16", heavy, 13, "D")
+SplintArmor = TypeArmor("Splintmail", 60, 40, 14, "17", heavy, 15, "D")
+PlateArmor = TypeArmor("Platemail", 65, 48, 14, "18", heavy, 15, "D")
+Shield = TypeArmor("Shield", 6, 8, 14, "+2", medium, 11, "D")
+ScoutSuit = TypeArmor("Scout Armor", 16, 12, 20, "16+DEX", light, 8, "+2")
+CombatSuit = TypeArmor("Combat Armor", 24, 18, 20, "18+DEX", light, 11, "0")
+TankPlate = TypeArmor("Tank Plate", 100, 48, 26, "19, DR1")
+PowerPlate = TypeArmor("Power Plate", 120, 60, 26, "21 DR3", "POWER", 15, "D")
+HazSuit = TypeArmor("PSUPI", 16, 36, 14, "9+DEX(2)", medium, 11, "D")
+## MELEE
+SimpleClub = TypeMelee("Club", 2, 4, 11, "1d4", "+S/D")
+BigClub = TypeMelee("Greatclub", 11, 6, 11, "1d8", "+STR")
+Maul = TypeMelee()
+Dagger = TypeMelee("Dagger", 1, 8, 11, "1d4", "+S/D")
+SmallAxe = TypeMelee("Handaxe", 2, 8, 11, "1d6", "+S/D")
+BattleAxe = TypeMelee("Battle Axe", 6, 12, 14, "1d8", "+STR")
+GreatAxe = TypeMelee()
+Mace = TypeMelee("Mace", 4, 6, 11, "1d6", "+STR")
+Staff = TypeMelee("Quarterstaff", 2, 4, 14, "1d6", "+STR")
+Flail = TypeMelee()
+Spear = TypeMelee()
+Glaive = TypeMelee()
+Halberd = TypeMelee()
+Lance = TypeMelee()
+Pike = TypeMelee()
+Greatsword = TypeMelee()
+Longsword = TypeMelee()
+Rapier = TypeMelee()
+Scimitar = TypeMelee()
+Shortsword = TypeMelee()
+Warhammer = TypeMelee()
+WarPick = TypeMelee()
+
+
+## RANGED & FIREARM
+## CASTING
+## TOOL
+## PRODUCT
+##### HARDWRITE BASE MATERIALS
+## TEXTILE
+## METAL
+## GEM
+## FLORA
+## FAUNA
+    
 
 def TellItemCategories():
     print("(A)rmors, (M)elee, (R)ange, (C)asting, (F)irearms, (T)ools, Alchemical (P)roducts")
@@ -129,16 +167,6 @@ def TellMaterialCategories():
             pass
     pass
 
-def MakeBaseItems():
-    pass
-
-def MakeBaseMaterial():
-    pass
-
-def GenerateBases():
-    MakeBaseItems()
-    MakeBaseMaterial()
-
 def Start():
     print("Looking at (I)tems or (M)aterials?")
     answer = input()
@@ -153,7 +181,6 @@ def Start():
 ### MAIN
 
 def main():
-    GenerateBases()
     Start()
     pass
 
