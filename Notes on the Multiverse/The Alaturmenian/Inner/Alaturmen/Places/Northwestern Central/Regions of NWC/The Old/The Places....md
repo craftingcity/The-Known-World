@@ -8,12 +8,12 @@ The Western Entrance is one of the three formally operated gates in the walls th
 Entering this gate leads directly to the area within the Cordon known as the Reserve.
 
 #### The Recreations Camp (1/rr)
-The Recreation Camp is directly north of [[#The Reserve]]. The WFM in the area use the Recreations Camp to relieve the stress of operating within the Old.
+The Recreation Camp is directly north of [[#The Reserve (1/rr)]]. The WFM in the area use the Recreations Camp to relieve the stress of operating within the Old.
 
 Alongside physical recreation games, such as ringtoss or kickball, there are small cabins for warmth, table games, drug use, and sexual recreation.
 
 #### The Killing Fields (1/rr)
-The Killing Fields are directly north of [[#The Depot]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
+The Killing Fields are directly north of [[#The Depot (1/rr)]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
 
 The name "Killing Fields" was given to this area of their perimeter due to the number of Scavs that attempt to breach the Cordon from the north.
 
@@ -26,18 +26,18 @@ A series of large tents and semi-permanent structures form a small military town
 Trails lead from the Reserve throughout the Cordon, connecting the dispirit settlements into one grander area.
 
 #### The Depot (1/rr)
-The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of [[#The Reserve]], and west of [[#The Hunting Slots]].
+The largest and most-well protected area within the Cordon, the Depot is a warehouse used by the WFM as storage for their resources and equipment that is exclusively for WFM members only. It is located east of [[#The Reserve (1/rr)]], and west of [[#The Hunting Slots (2/rr)]].
 
 #### The Hunting Slots (2/rr)
-The Hunting Slots are directly east of [[#The Depot]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
+The Hunting Slots are directly east of [[#The Depot (1/rr)]]. The WFM have a secure perimeter around this area, and have used the area as a "killzone" against the natural dangers and other factions within the Old. 
 
 The name "Hunting Slots" was given to this area of their perimeter due to the number of natural mutant threats that attempt to breach the Cordon from the east. Much of the food supply the WFM eat comes from these mutants.
 
 #### The Barracks (1/rr)
-The sparse activity within the Reserve continues south into the Barracks. This area stands in stark contrast to [[#The Recreations Camp]] for it's somber air. Made of bare walls surely reinforced by layers of metal and mortar, the Barracks are used exclusively for sleep and the storage of personal accoutrement. 
+The sparse activity within the Reserve continues south into the Barracks. This area stands in stark contrast to [[#The Recreations Camp (1/rr)]] for it's somber air. Made of bare walls surely reinforced by layers of metal and mortar, the Barracks are used exclusively for sleep and the storage of personal accoutrement. 
 
 #### The Training Grounds (1/rr)
-South of [[#The Depot]] and East of [[#The Barracks]], the Training Grounds is an area filled with obstacles, shooting ranges, and combat simulations to hone and test the skills of both new recruits and veterans.
+South of [[#The Depot (1/rr)]] and East of [[#The Barracks (1/rr)]], the Training Grounds is an area filled with obstacles, shooting ranges, and combat simulations to hone and test the skills of both new recruits and veterans.
 
 #### The Forward Post (2/rr)
 South-east of [[#The Depot (1/rr)]], a single rusting metal watch-tower serves as lookout for the surrounding tents and reinforced ruins. The soldiers stationed here know that they are the first line of defense against anything that Minyostalma will throw at them.
@@ -280,7 +280,7 @@ The Hospital lies host to a clutch of [[The Monsters...#The Demon]] in its basem
 #### The Open Cloister (10/rr)
 A beautiful garden ends [[#The City]]'s road south. Spotted with finely crafted benches, tables, and chairs, the Open Cloister plays host to a fun party game; the hedge maze. It remains meticulously maintained.
 
-Passing the tables and chairs east will lead to [[#The North Gate (3d6 RADS)]], while passing through the hedge maze will lead south, into [[#The Graveyard (4d6 RADS)]] and which will [[#The Dormitories (3d6 RADS)]].
+Passing the tables and chairs east will lead to [[#The North Gate (10/rr)]], while passing through the hedge maze will lead south, into [[#The Graveyard (14/rr)]] and which will [[#The Dormitories (14/rr)]].
 
 #### The North Gate (10/rr)
 The Obelisk has claimed the North Gate with thick vines and foliage, making passage North inaccessible from here. The space around the gate was once a beautiful work of marble or concrete - pristine fountains and statues of heroes - but time has added grunge, grime, and damage. Bags of sand, empty magazines, and bloodied bricks mark the battles that occurred here clearly.
@@ -307,39 +307,39 @@ Following the pathways East or West will lead to [[#The Open Cloister (10/rr)]] 
 
 ## The Base
 #### The Importing Pallets (2/rr)
-East of [[#The Front Gate (2d6 RADS)]], a large garage door stinks offensively of death and gunpowder. The Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]], as a large portion of the furniture and pallets within this space have been refit into a thin maze. 
+East of [[#The Front Gate (2/rr)]], a large garage door stinks offensively of death and gunpowder. The Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]], as a large portion of the furniture and pallets within this space have been refit into a thin maze. 
 
 #### The Front Gate (2/rr)
-The path leading south from the [[#Grey Forest]] leads directly to the Base's Front Gate, where a large lawn makes for a beautiful scene in the front of the brutalist military compound.
+The path leading south from the [[#Grey Forest (4/rr)]] leads directly to the Base's Front Gate, where a large lawn makes for a beautiful scene in the front of the brutalist military compound.
 
-Entering the building and heading West, [[#The Importing Pallets]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall]].
+Entering the building and heading West, [[#The Importing Pallets (2/rr)]] await the unsuspecting Scav, and on the opposite side, doors lead into [[#The Mess Hall (2/rr)]].
 
 #### The Mess Hall (2/rr)
-West of [[#The Front Gate (2d6 RADS)]], the Mess Hall is a bloody mess of a cafeteria, covered in dry blood, ruined food-stuff, and human waste.
+West of [[#The Front Gate (2/rr)]], the Mess Hall is a bloody mess of a cafeteria, covered in dry blood, ruined food-stuff, and human waste.
 
-A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars]].
+A small kitchen is attached, but has been since looted and fairly obstructed, but those who can slip through would a storage room. On a wall of this cellar, a large vault-style door is locked under anomalous key. Behind this door lies a safe passage to [[#The Factory]]'s [[#The Cellars (6/rr)]].
 
 #### The Broken Gate (3/rr)
-West of [[#The Intelligence Center (1d6 RADS)]], outside, a grass strip behind the building has been covered in broken glass and snapped metals. The gate surrounding [[#The Base]] has been broken here, but provides little egress, as one must blaze a trail through [[#Grey Forest]] before finding their way - a dangerous task.
+West of [[#The Intelligence Center (4/rr)]], outside, a grass strip behind the building has been covered in broken glass and snapped metals. The gate surrounding [[#The Base]] has been broken here, but provides little egress, as one must blaze a trail through [[#Grey Forest (4/rr)]] before finding their way - a dangerous task.
 
 #### The Intelligence Center (4/rr)
-In the center of [[#The Base]], south of [[#The Front Gate (2d6 RADS)]] & north of [[#The Old Barracks (1d6 RADS)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, strewn papers, and covered in blood and blaster marks.
+In the center of [[#The Base]], south of [[#The Front Gate (2/rr)]] & north of [[#The Old Barracks (2/rr)]], the Intelligence Center was once the headquarters of the Ancient Elven Military. A large circular room is scattered with dozens of broken machines, strewn papers, and covered in blood and blaster marks.
 
 A claustrophobic series of halls and blast doors connect The Intelligence Center and the rest of [[#The Base]].
 
 #### The Armory (4/rr)
-East of [[#The Intelligence Center (1d6 RADS)]], the path to the Armory descends into gated sections of boxed goods, weapon racks, and armor stands. The majority of the gates have been opened, and their contents looted, but one locked section remains unlooted.
+East of [[#The Intelligence Center (4/rr)]], the path to the Armory descends into gated sections of boxed goods, weapon racks, and armor stands. The majority of the gates have been opened, and their contents looted, but one locked section remains unlooted.
 
 #### The Infirmary (3/rr)
-West of [[#The Old Barracks (1d6 RADS)]], the Infirmary is a small section of [[#The Base]] where separated each of the rooms contain a couple beds and medical equipment, but they are all in great disarray.
+West of [[#The Old Barracks (2/rr)]], the Infirmary is a small section of [[#The Base]] where separated each of the rooms contain a couple beds and medical equipment, but they are all in great disarray.
 
 #### The Old Barracks (2/rr)
-South of [[#The Intelligence Center (1d6 RADS)]], the Old Barracks is seperated from the main building by a small dirt path. In it's time, it was once a warehouse of bunks and lockers, but in the half-century that has passed since it has become re-occupied, the Barracks has genuinely exploded. 
+South of [[#The Intelligence Center (4/rr)]], the Old Barracks is seperated from the main building by a small dirt path. In it's time, it was once a warehouse of bunks and lockers, but in the half-century that has passed since it has become re-occupied, the Barracks has genuinely exploded. 
 
 Of what remains, the foundation and a portion of the southern walls remain, but the entire north side of the building has been sundered, and leaves the area more difficult than worthwhile in a tactical situation.
 
 #### The Hangars (4/rr)
-South of [[#The Armory (1d6 RADS)]], three large garages stand suspiciously intact. While they are each and all covered in evidence of a firefight, there is no damage to the buildings themselves.
+South of [[#The Armory (4/rr)]], three large garages stand suspiciously intact. While they are each and all covered in evidence of a firefight, there is no damage to the buildings themselves.
 
 The westernmost hangar is larger than the others, and each of the two personnel doors remain impassable. The hangar door however, can be forced open. This has led a series of groups to lay claim to this hangar as their hideout - and evidence of this inhabitance remains. 
 
