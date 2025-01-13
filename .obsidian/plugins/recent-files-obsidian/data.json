@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Southwestern Central",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Northwestern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
     },
     {
       "basename": "The Church of the White Flame",
@@ -195,10 +199,6 @@
     {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-    },
-    {
-      "basename": "AlchemicalComponentsChart",
-      "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
     }
   ],
   "omittedPaths": [],
