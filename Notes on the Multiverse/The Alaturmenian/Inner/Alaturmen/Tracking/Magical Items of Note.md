@@ -214,10 +214,14 @@ aliases:
 	GME-XXX "RADIATION"
 	Threat Level: ORANGE
 	Entry Class: SIGNAL
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Source: Syther ben Yarom, Architect
+	Last Known Keeper: None, see Entry Description
 
-	Entry Description: ...
+	Entry Description: GME-XXX is, at the time of record, uncontainable, ~~but stable~~ and unstable. GME-XXX is located with the Church of Flame's Minyostalma Blockade and Exclusion District (MBED).
+
+	GME-XXX is a material infection that is particularly potent against metallic materials. Over time, an object or material infected with GME-XXX will emit an aura within which the infection will spread across subjects in the area. When the infected material is moved, so too will the aura. For unknown reasons, the Fabric of the Weave becomes loosened in this aura, which can hamper or outright prevent manipulation of the Weave via spellcasting within the area.
+
+	The emmition of the aura is blocked in both transmittion and reception by the presence of lead or darksteel, which should be investigated further for the purposes of reducing personnel losses during experimentation and analysis of GME-XXX and related entries.
 ```
 
 ###### Fae-run Radiothermal Generator
@@ -389,7 +393,7 @@ aliases:
 
 	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Frin Copperhammer is individually recognized for the popularization of its military applications.
 
-		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Test Report 007-1 through -4). This is known as the 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. 
+		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Experiment Log 007-1 through -4). This is known as the 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. 
 		
 		After this period, GME-007 enters its 'inert' phase, and will cease to exhibit 'attuned' affects and will slowly begin to dull into a light grey. GME-007 that is 'inert' can be recycled and reprocessed into another instance in the 'seeking' phase.
 ```
