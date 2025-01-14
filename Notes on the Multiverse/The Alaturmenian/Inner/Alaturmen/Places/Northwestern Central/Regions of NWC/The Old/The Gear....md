@@ -245,19 +245,22 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Village, S. Outskirts - City, W. Apts.  |       |       |            |
 
 #### COMMS / PDA
-| Name                            | Type        | Use                             | Importers | Cost in AC |
-| ------------------------------- | ----------- | ------------------------------- | --------- | ---------- |
-| Peirce of Messaging             | Comms       |                                 |           |            |
-| Obsidian Communications Slab    | Comms PDA   |                                 | all       |            |
-| Blue Scan Archive v.11          | PDA Upgrade | Artifact Dictionary (Common)    | mercs     |            |
-| Blue Scan Archive v.26          | PDA Upgrade | Artifact Dictionary (Uncommon)  | mercs     |            |
-| Blue Scan Archive v.34          | PDA Upgrade | Artifact Dictionary (Rare)      | mercs     |            |
-| WhiteTech Identification Module | PDA Upgrade | Artifact Dictionary (Uncommon)  | WFM       |            |
-| House Commons Librarian         | PDA Upgrade | Artifact Dictionary (Rare)      | troopers  |            |
-| Astronomy Architecture          | PDA Upgrade | Mercenary Communication Network | mercs     |            |
-| Spirt Chain Architecture        | PDA Upgrade | Militant Communication Network  | WFM       |            |
-| House Commons Architecture      | PDA Upgrade | Trooper Communication Network   | troopers  |            |
-| Honor Architecture              | PDA Upgrade | Extramis Communication Network  | extramis  |            |
+| Name                            | Type        | Use                                   | Importers | Cost in AC |
+| ------------------------------- | ----------- | ------------------------------------- | --------- | ---------- |
+| Earring of Communication        | Comms       |                                       |           |            |
+| Purple District Actor           | Comms PDA   |                                       | all       |            |
+| Blue Scan Archive v.11          | PDA Dict.   | Artifact Dictionary (Common)          | mercs     |            |
+| Blue Scan Archive v.26          | PDA Dict.   | Artifact Dictionary (Uncommon)        | mercs     |            |
+| Blue Scan Archive v.34          | PDA Dict.   | Artifact Dictionary (Rare)            | mercs     |            |
+| WhiteTech Identification Module | PDA Dict.   | Artifact Dictionary (Uncommon)        | WFM       |            |
+| House Commons Librarian         | PDA Dict.   | Artifact Dictionary (Rare)            | troopers  |            |
+| Astronomy Architecture          | PDA Network | Mercenary Communication Network       | mercs     |            |
+| WhiteTech Comms Architecture    | PDA Network | Militant Communication Network        | WFM       |            |
+| HouseCommons Architecture       | PDA Network | Trooper Communication Network         | troopers  |            |
+| KingsNet Architecture           | PDA Network | Extramis Communication Network        | extramis  |            |
+| PinkSweet Crack v.09            | PDA App     | Mercenary USB Cracker                 | merc      |            |
+| Observative
+| Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
 ### Medical
 #### PROTECTION

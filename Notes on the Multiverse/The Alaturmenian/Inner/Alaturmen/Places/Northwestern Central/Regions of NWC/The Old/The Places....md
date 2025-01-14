@@ -292,6 +292,8 @@ East of [[#The North Gate (10/rr)]], the Broken Tower stands tall and bold, cast
 
 Whatever anomalous effect holds the tower in its state of immutability has no effect on living things, as evidenced by the newly overgrown sections around the base of the rip-scar and by the vermin rushing to hide from your sight.
 
+A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/rr)]].
+
 #### The Graveyard (14/rr)
 
 #### The Temple Proper (20/rr)

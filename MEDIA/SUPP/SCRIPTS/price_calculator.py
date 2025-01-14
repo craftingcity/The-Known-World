@@ -130,9 +130,29 @@ DRMScatter = TypeRange()
 DRMLonggun = TypeRange()
 DRMRotator = TypeRange()
 DRMCarbine = TypeRange()
-
 ## CASTING
+Wand = TypeCasting()
+Rod = TypeCasting()
+Orb = TypeCasting()
+Icon = TypeCasting()
+Charm = TypeCasting()
 ## TOOL
+RopeOrChain = TypeTools()
+Hook = TypeTools()
+HandHammer = TypeTools()
+Lock = TypeTools()
+Handcuff = TypeTools()
+PickTool = TypeTools()
+Pole = TypeTools()
+HandRam = TypeTools()
+Shovel = TypeTools()
+Hook = TypeTools()
+SledgeHammer = TypeTools()
+Caltrops = TypeTools()
+ClimberKit = TypeTools()
+Crowbar = TypeTools()
+BearTrap = TypeTools()
+Backpack = TypeTools()
 ## PRODUCT
 ##### HARDWRITE BASE MATERIALS
 ## TEXTILE

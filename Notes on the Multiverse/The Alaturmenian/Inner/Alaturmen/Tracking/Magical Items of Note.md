@@ -220,6 +220,18 @@ aliases:
 	Entry Description: ...
 ```
 
+###### Purple District Actor et. al.
+```
+	GME-XXX "Item or Entity Name"
+	Threat Level: COLOR
+	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
+
 ### Rule of the Bandit Lords c.020AF
 #### Crafts of the Bandits
 ###### The Ring of False Wishes
