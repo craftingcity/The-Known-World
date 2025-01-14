@@ -220,6 +220,8 @@ aliases:
 	Entry Description: GME-XXX is to be stored within Vault 1's Warm Storage Sector at least 500' away from any other TL-O cells in a 20'x30'x15' lead storage container which itself is stored with a 30'x40'x20' darksteel storage container. This cell is to be stationed by a rotating 2-hour guard of at least 2 personnel at a time. Stationed personnel may spend participate in no more than 3 shifts in a 24-hour period.
 
 	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and [REDACTED] within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
+
+	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22. As of [REDACTED], experiments 
 ```
 
 ###### Purple District & Actors
