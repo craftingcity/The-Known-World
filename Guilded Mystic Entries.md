@@ -18,7 +18,7 @@ Entries are numbered in the order of their discovery, and are generally given na
 All entries are given a Threat Level based on its most harmful potential. The Threat Levels are as follows;
 	- **WHITE** ; The entry has no potential effects that could be considered harmful or threatening, but it is mystical and interesting.
 	- **GREY** ; The entry has been deemed or made inert, but still holds valuable mystical information.
-	- **BLUE** ; The entry displayed shown potential harmful effects, but is currently deemed inert or safe.
+	- **BLUE** ; The entry at one point displayed potential harmful effects, but is currently deemed inert or safe.
 	- **PURPLE** ; The entry displays potential harmful effects on an individual scale.
 	- **RED** ; The entry displays potential harmful effects on a wide scale.
 	- **ORANGE** ; The entry displays potential harmful effects on a planar scale.

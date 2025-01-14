@@ -11,7 +11,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### SCAVANGED / REFIT
 | Name                        | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
 | --------------------------- | ------ | --------- | ------------------- | --------- | -------- | ---------- |
-| Homemade Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
+| Steel Machete               | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
 | Scavenged Handblaster       | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
 | Scavended Scatterblaster    |        |           |                     |           |          |            |
 | Scavenged Repeating Blaster | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |

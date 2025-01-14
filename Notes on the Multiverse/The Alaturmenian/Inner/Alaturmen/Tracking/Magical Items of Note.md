@@ -220,15 +220,15 @@ aliases:
 	Entry Description: ...
 ```
 
-###### Purple District Actor et. al.
+###### Purple District & Actors
 ```
-	GME-XXX "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-XXX "PURPLE DISTRICT"
+	Threat Level: WHITE
+	Entry Class: SIGNAL
+	Source: Syther ben Yarom, Architect
+	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-XXX is, at the time of record, uncontainable, but stable. GME-XXX is located at {}
 ```
 
 
