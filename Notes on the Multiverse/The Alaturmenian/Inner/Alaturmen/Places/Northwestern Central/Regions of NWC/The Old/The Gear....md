@@ -258,8 +258,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | WhiteTech Comms Architecture    | PDA Network | Militant Communication Network        | WFM       |            |
 | HouseCommons Architecture       | PDA Network | Trooper Communication Network         | troopers  |            |
 | KingsNet Architecture           | PDA Network | Extramis Communication Network        | extramis  |            |
-| PinkSweet Crack v.09            | PDA App     | Mercenary USB Cracker                 | merc      |            |
-| Observative
+| PinkSweet Brooch Crack v.09     | PDA App     | Mercenary USB Cracker                 | merc      |            |
+| 
+| ObservativePipit v4.0           | PDA Tracker | Mercenary Tracker                     | merc      |            |
+| WhiteTech Radar v1.3            | PDA Tracker | Militant Tracker                      |           |            |
+| Hunter Tracker v.82             | PDA Tracker | Trooper Tracker                       |           |            |
 | Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
 ### Medical
