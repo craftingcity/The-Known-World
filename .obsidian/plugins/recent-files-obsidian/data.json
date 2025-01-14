@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Arthur's Knights",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     }
   ],
   "omittedPaths": [],
