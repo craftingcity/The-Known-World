@@ -152,8 +152,7 @@
               "title": "Magic Item Authors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mbed",
+                "query": "mythr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -403,7 +402,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50c5525c5aaf6d25",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
