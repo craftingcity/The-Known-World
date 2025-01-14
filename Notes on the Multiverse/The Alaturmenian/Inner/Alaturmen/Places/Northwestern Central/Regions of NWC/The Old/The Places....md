@@ -285,9 +285,14 @@ Passing the tables and chairs east will lead to [[#The North Gate (10/rr)]], whi
 #### The North Gate (10/rr)
 The Obelisk has claimed the North Gate with thick vines and foliage, making passage North inaccessible from here. The space around the gate was once a beautiful work of marble or concrete - pristine fountains and statues of heroes - but time has added grunge, grime, and damage. Bags of sand, empty magazines, and bloodied bricks mark the battles that occurred here clearly.
 
-Following the pathways East or West will lead to [[#The Open Cloister (10/rr)]] and [[#The Broken Tower (10/rr)]] respectively, but above all else, the North Gate is an entryway to [[#The Temple Proper (20/rr)]], a grand but broken beast of a building.
+Following the pathways East or West will lead to [[#The Broken Tower (10/rr)]] and [[#The Open Cloister (10/rr)]] respectively, but above all else, the North Gate is an entryway to [[#The Temple Proper (20/rr)]], a grand but broken beast of a building.
 
 #### The Broken Tower (10/rr)
+East of [[#The North Gate (10/rr)]], the Broken Tower stands tall and bold, casting a tall shadow upon the horizon. In a courtyard of eroded stone columns and faded carvings, a thick white tower stands frozen in time; in most places, this grand tower is breaking apart, bricks are cracked and falling from the rest of the building, and a massive rupture scales the northern side of the tower, leaving portions of the interior quite visible. Once wonderous stained glass windows are blown out, covering the area in polychrome beams and shadows.
+
+Whatever anomalous effect holds the tower in its state of immutability has no effect on living things, as evidenced by the newly overgrown sections around the base of the rip-scar and by the vermin rushing to hide from your sight.
+
+A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/rr)]].
 
 #### The Graveyard (14/rr)
 
