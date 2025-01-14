@@ -176,7 +176,7 @@ aliases:
 #### Exports of the Elven Empire
 ###### Glimmering Moonbow
 ```
-	GME-014 "Item or Entity Name"
+	GME-014 "GLIMMERING MOONBOW"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -200,9 +200,20 @@ aliases:
 
 ###### Dawnblade
 ```
-	GME-015 "Item or Entity Name"
+	GME-015 "DAWNBLADE"
 	Threat Level: COLOR
 	Entry Class: CLASS
+	Source: AUTHOR
+	Last Known Keeper: KEEPER
+
+	Entry Description: ...
+```
+
+###### Radiation
+```
+	GME-XXX "RADIATION"
+	Threat Level: ORANGE
+	Entry Class: SIGNAL
 	Source: AUTHOR
 	Last Known Keeper: KEEPER
 
@@ -221,7 +232,7 @@ aliases:
 
 	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and [REDACTED] within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
 
-	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22. As of [REDACTED], experiments 
+	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22.  
 ```
 
 ###### Purple District & Actors
@@ -242,7 +253,7 @@ aliases:
 #### Crafts of the Bandits
 ###### The Ring of False Wishes
 ```
-	GME-016 "Item or Entity Name"
+	GME-016 "RING OF FALSE WISHES"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -253,7 +264,7 @@ aliases:
 
 ###### The Token of Indestructability
 ```
-	GME-018 "Item or Entity Name"
+	GME-018 "TOKEN OF INDESTRUCTABILITY"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -264,7 +275,7 @@ aliases:
 
 ###### The Necklace of Compulsion
 ```
-	GME-017 "Item or Entity Name"
+	GME-017 "NECKLACE OF COMPULSION"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -301,7 +312,7 @@ aliases:
 
 ###### The Compalati
 ```
-	GME-020 "Item or Entity Name"
+	GME-020 "COMPALATI"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -326,7 +337,7 @@ aliases:
 
 ###### Darksteel
 ```
-	GME-021 "Item or Entity Name"
+	GME-021 "DARKSTEEL"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
@@ -337,7 +348,7 @@ aliases:
 
 ###### Void-tie Chains
 ```
-	GME-023 "Item or Entity Name"
+	GME-023 "VOID-TIE CHAINS"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -348,7 +359,7 @@ aliases:
 
 ###### Adjust Bronze
 ```
-	GME-022 "Item or Entity Name"
+	GME-022 "ADJUST BRONZE"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -359,7 +370,7 @@ aliases:
 
 ###### Firepowder
 ```
-	GME-024 "Item or Entity Name"
+	GME-024 "FIREPOWDER"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -417,7 +428,7 @@ aliases:
 
 ###### Staff of the War-Wizard
 ```
-	GME-025 "Item or Entity Name"
+	GME-025 "STAFF OF THE WAR-WIZARD"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -428,7 +439,7 @@ aliases:
 
 ###### Blade of the Righteous Warrior
 ```
-	GME-028 "Item or Entity Name"
+	GME-028 "BLADE OF THE RIGHTEOUS WARRIOR"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -439,7 +450,7 @@ aliases:
 
 ###### Platemail of the Righteous Warrior
 ```
-	GME-029 "Item or Entity Name"
+	GME-029 "PLATE OF THE RIGHTEOUS WARRIOR"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -450,7 +461,7 @@ aliases:
 
 ###### Bow of the Kind Shooter
 ```
-	GME-027 "Item or Entity Name"
+	GME-027 "BOW OF THE KIND SHOOTER"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -459,9 +470,9 @@ aliases:
 	Entry Description: ...
 ```
 
-###### The Wartime Reliefs
+###### The Unification Reliefs
 ```
-	GME-026 "Item or Entity Name"
+	GME-026 "UNFICATION RELIEFS"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -473,7 +484,7 @@ aliases:
 #### Favors of the Divine
 ###### Bright Symbol of Ar'Kraven
 ```
-	GME-043 "Item or Entity Name"
+	GME-043 "BRIGHT SYMBOL OF AR'KRAVEN"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -484,7 +495,7 @@ aliases:
 
 ###### The Sunnite Grimoire
 ```
-	GME-030 "Item or Entity Name"
+	GME-030 "SUNNITE GRIMOIRE"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -495,7 +506,7 @@ aliases:
 
 ###### Violent Knuclebones
 ```
-	GME-042 "Item or Entity Name"
+	GME-042 "VIOLENT KNUCLEBONES"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -506,7 +517,7 @@ aliases:
 
 ###### Sophian Locket & Frerician Ring
 ```
-	GME-031 "Item or Entity Name"
+	GME-031 "SOPHIAN LOCKET // FRERICIAN RING"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -517,7 +528,7 @@ aliases:
 
 ###### Lace Mask of the Plague Bearer
 ```
-	GME-041 "Item or Entity Name"
+	GME-041 "LACE MASK OF THE PLAGUE BEARER"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -528,7 +539,7 @@ aliases:
 
 ###### The Ring of Sama
 ```
-	GME-039 "Item or Entity Name"
+	GME-039 "RING OF SAMA"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -554,7 +565,7 @@ aliases:
 
 ###### The Helmet of Certi'alikor
 ```
-	GME-040 "Item or Entity Name"
+	GME-040 "HELM OF CERTI'ALIKOR"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -565,7 +576,7 @@ aliases:
 
 ###### The Staff of Burraw
 ```
-	GME-038 "Item or Entity Name"
+	GME-038 "STAFF OF BURRAW"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -576,7 +587,7 @@ aliases:
 
 ###### The Lute of Paulo San Tymiq
 ```
-	GME-032 "Item or Entity Name"
+	GME-032 "LUTE OF PAULO SAN TYMIQ"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -588,7 +599,7 @@ aliases:
 #### Relics of the Grey Ordeal
 ###### Turing's Tinkering Staff
 ```
-	GME-033 "Item or Entity Name"
+	GME-033 "TURING'S TINKERING STAGG"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -599,7 +610,7 @@ aliases:
 
 ###### Turing's White Cloak
 ```
-	GME-002 "TURING WHITE CLOAK"
+	GME-002 "TURING'S WHITE CLOAK"
 	Threat Level: BLUE
 	Entry Class: TRINKET
 	Source: The Old Man (TL-O uncontained, assumed deceased)
@@ -612,7 +623,7 @@ aliases:
 
 ###### Tubric's Gleeming Platemail
 ```
-	GME-034 "Item or Entity Name"
+	GME-034 "TUBRIC'S GLEEMING PLATE"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -623,7 +634,7 @@ aliases:
 
 ###### Tubric's 'The Tuber' Greathammer
 ```
-	GME-035 "Item or Entity Name"
+	GME-035 "THE TUBER"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -634,7 +645,7 @@ aliases:
 
 ###### Greystone's Long Arm
 ```
-	GME-036 "Item or Entity Name"
+	GME-036 "GREYSTONE'S LONG ARM"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -643,9 +654,9 @@ aliases:
 	Entry Description: ...
 ```
 
-###### Greystone's Dodging Shoes
+###### Greystone's Dancing Shoes
 ```
-	GME-037 "Item or Entity Name"
+	GME-037 "GREYSTONE'S DANCING SHOES"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
