@@ -5,12 +5,16 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md"
     },
     {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md"
-    },
-    {
       "basename": "Guilded Mystic Entries",
       "path": "Guilded Mystic Entries.md"
+    },
+    {
+      "basename": "The Old",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
+    },
+    {
+      "basename": "Magic Item Authors",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md"
     },
     {
       "basename": "The Gear...",
@@ -195,10 +199,6 @@
     {
       "basename": "Emorin's Plots",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md"
-    },
-    {
-      "basename": "Arrek Bozkin",
-      "path": "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Arrek Bozkin.md"
     }
   ],
   "omittedPaths": [],

@@ -211,9 +211,9 @@ aliases:
 
 ###### Fae-run Radiothermal Generator
 ```
-	GME-XXX "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	GME-XXX "FAE-RUN RADIOTHERMAL GENERATOR"
+	Threat Level: ORANGE
+	Entry Class: KNACK
 	Source: AUTHOR
 	Last Known Keeper: KEEPER
 
@@ -228,7 +228,9 @@ aliases:
 	Source: Syther ben Yarom, Architect
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-XXX is, at the time of record, uncontainable, but stable. GME-XXX is located at {}
+	Entry Description: GME-XXX is, at the time of record, uncontainable, but stable. GME-XXX is located within the Church of Flame's Minyostalma Blockade and Exclusion District (MBED). 
+
+	GME-XXX is an immaterial field that translates incredibly minor changes within a very specific section of the Fabric of the Weave, known as 'Purple District', into tangeble physical changes to objects and beings within the area the field permiates that are susceptable to this effect. Expeditions into the MBED have produced additional objects of interest (GME-XXX-1) that are reliably susceptable to GME-XXX effects, known as 'Purple District Actors' or 'PDAs'. These objects are used frequently by the population of the MBED to display, transmit, or modify the information via interaction with GME-XXX.
 ```
 
 
