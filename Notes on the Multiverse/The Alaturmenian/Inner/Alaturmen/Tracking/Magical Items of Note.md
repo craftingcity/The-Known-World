@@ -211,24 +211,30 @@ aliases:
 
 ###### Fae-run Radiothermal Generator
 ```
-	GME-XXX "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-XXX "FAE-RUN RADIOTHERMAL GENERATOR"
+	Threat Level: ORANGE
+	Entry Class: KNACK
+	Source: Syther ben Yarom, Architect
+	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-XXX is to be stored within Vault 1's Warm Storage Sector at least 500' away from any other TL-O cells in a 20'x30'x15' lead storage container which itself is stored with a 30'x40'x20' darksteel storage container. This cell is to be stationed by a rotating 2-hour guard of at least 2 personnel at a time. Stationed personnel may spend participate in no more than 3 shifts in a 24-hour period.
+
+	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and [REDACTED] within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
+
+	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22. As of [REDACTED], experiments 
 ```
 
-###### Purple District Actor et. al.
+###### Purple District & Actors
 ```
-	GME-XXX "Item or Entity Name"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	GME-XXX "PURPLE DISTRICT"
+	Threat Level: WHITE
+	Entry Class: SIGNAL
+	Source: Syther ben Yarom, Architect
+	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-XXX is, at the time of record, uncontainable, but stable. GME-XXX is located within the Church of Flame's Minyostalma Blockade and Exclusion District (MBED). 
+
+	GME-XXX is an immaterial field that translates incredibly minor changes within a very specific section of the Fabric of the Weave, known as 'Purple District', into tangeble physical changes to objects and beings within the area the field permiates that are susceptable to this effect. Expeditions into the MBED have produced additional objects of interest (GME-XXX-1) that are reliably susceptable to GME-XXX effects, known as 'Purple District Actors' or 'PDAs'. These objects are used frequently by the population of the MBED to display, transmit, or modify the information via interaction with GME-XXX.
 ```
 
 

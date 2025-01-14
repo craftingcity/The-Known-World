@@ -11,7 +11,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### SCAVANGED / REFIT
 | Name                        | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
 | --------------------------- | ------ | --------- | ------------------- | --------- | -------- | ---------- |
-| Homemade Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
+| Steel Machete               | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
 | Scavenged Handblaster       | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
 | Scavended Scatterblaster    |        |           |                     |           |          |            |
 | Scavenged Repeating Blaster | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
@@ -259,10 +259,10 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | HouseCommons Architecture       | PDA Network | Trooper Communication Network         | troopers  |            |
 | KingsNet Architecture           | PDA Network | Extramis Communication Network        | extramis  |            |
 | PinkSweet Brooch Crack v.09     | PDA App     | Mercenary USB Cracker                 | merc      |            |
-| 
 | ObservativePipit v4.0           | PDA Tracker | Mercenary Tracker                     | merc      |            |
 | WhiteTech Radar v1.3            | PDA Tracker | Militant Tracker                      |           |            |
 | Hunter Tracker v.82             | PDA Tracker | Trooper Tracker                       |           |            |
+| Hunter Cloack v.1.70            | PDA Cloaker | Trooper Cloaker                       |           |            |
 | Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
 ### Medical
