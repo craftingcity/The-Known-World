@@ -5,6 +5,10 @@
       "path": "Prenotes Jan 14 25.md"
     },
     {
+      "basename": "underdark",
+      "path": "MEDIA/MAPS/WORLD/underdark.png"
+    },
+    {
       "basename": "Prenotes Jan 07 25",
       "path": "Prenotes Jan 07 25.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Grazing Fields",
       "path": "Grazing Fields.md"
-    },
-    {
-      "basename": "underdark",
-      "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
       "basename": "Underdark",

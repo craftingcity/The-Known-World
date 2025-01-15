@@ -25,5 +25,11 @@ The Grazing Fields are home to many threats, but we rolled up some Spiders who a
 
 ### What happened?
 
+Fight a Spider bih!
+##### INIT
+A - 
+B - 
+C -
+
 
 We leave our heroes on the date of ... AF, as they ...
