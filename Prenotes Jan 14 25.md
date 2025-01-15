@@ -27,19 +27,19 @@ The Grazing Fields are home to many threats, but we rolled up some Spiders who a
 
 Fight a Spider bih!
 ##### INIT
-A (TANK)- 15
+A (TANK)- 15, 26
 22 - Bhodi
 21 - Marylynn
-B (CURSE)- 
-C (SPELL)- 
+B (CURSE)- 22, 
+C (SPELL)- 9, 21
 11 - Thomas
 5 - Rowan
 Goobers
 	A.
 	B.
-	C.
+	C. 22
 	D.
-	E.
+	E. 22
 
 
 We leave our heroes on the date of ... AF, as they ...
