@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
     },
     {
+      "basename": "The Monsters...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
+    },
+    {
       "basename": "underdark",
       "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
     }
   ],
   "omittedPaths": [],
