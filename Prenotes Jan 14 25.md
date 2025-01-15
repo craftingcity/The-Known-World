@@ -31,11 +31,11 @@ A (TANK)- 15, 26
 22 - Bhodi
 21 - Marylynn
 B (CURSE)- 22, 
-C (SPELL)- 9, 21
+~~C (SPELL)- 9, 21~~
 11 - Thomas
 5 - Rowan
 Goobers
-	A.
+	A. 10, 
 	B.
 	C. 22
 	D.
