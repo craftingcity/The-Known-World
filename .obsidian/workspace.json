@@ -157,29 +157,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d7acc311830e794",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Threats.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Underdark Threats"
-            }
-          },
-          {
             "id": "7f1f88b6a1f69113",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -521,10 +498,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d7acc311830e794",
+  "active": "7f1f88b6a1f69113",
   "lastOpenFiles": [
-    "Grazing Fields.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Threats.md",
+    "Grazing Fields.md",
     "Prenotes Jan 14 25.md",
     "Prenotes Jan 07 25.md",
     "MEDIA/MAPS/WORLD/underdark.png",
