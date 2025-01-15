@@ -8,75 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5026b10f5c0bbb2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Gear..."
-            }
-          },
-          {
-            "id": "a5612d572310f413",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Old"
-            }
-          },
-          {
-            "id": "50c5525c5aaf6d25",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
             "id": "0569e49e98f0d226",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -97,29 +28,6 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Jan 07 25"
-            }
-          },
-          {
-            "id": "ca3780086366cb9e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grazing Fields.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Grazing Fields"
             }
           },
           {
@@ -148,14 +56,7 @@
               "icon": "lucide-image",
               "title": "underdark"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9983704269fd511b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "7f1f88b6a1f69113",
             "type": "leaf",
@@ -178,77 +79,9 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 14 25"
             }
-          },
-          {
-            "id": "69a920b5fe2957f3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "3f1fc4552f766619",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          },
-          {
-            "id": "1c0668acf7546b79",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magic Item Authors"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51240158081055
+    "width": 255.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -498,21 +332,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f1f88b6a1f69113",
+  "active": "0569e49e98f0d226",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
+    "Prenotes Jan 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Threats.md",
     "Grazing Fields.md",
-    "Prenotes Jan 14 25.md",
     "Prenotes Jan 07 25.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
     "conflict-files-obsidian-git.md",
     "Guilded Mystic Entries.md",
     "Prenotes Jan 18th 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
