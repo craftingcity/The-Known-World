@@ -19,7 +19,10 @@ When last we left our heroes, disaster struck - a swift river separated the tunn
 
 ### What does the World Know?
 
-The river feeds directly
+The river feeds directly into the grazing fields as a waterfall, so threats include Drowning on the way there `(1+CON minutes of air, then CON rounds of drowning, then Death Saves)` and dying of Fall Damage at the 120' `(12d6)` drop into the Grazing Fields.
+
+The Grazing Fields are home to six major threats;
+- 
 
 ### What happened?
 
