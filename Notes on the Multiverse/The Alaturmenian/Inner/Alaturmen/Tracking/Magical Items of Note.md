@@ -121,9 +121,9 @@ aliases:
 
 		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. 
 
-		- GME-012-2 is a
+		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip.
 
-		- GME-012-3
+		- GME-012-3 is a thin karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip.
 
 		- GME-012-4
 
