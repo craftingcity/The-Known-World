@@ -378,5 +378,7 @@ The central hangar's personnel doors are unlocked and openable. Inside, a large 
 #### Broken Swamps (2/rr)
 
 #### Grey Forest (4/rr)
+###### Stinking Swamps
+###### Uranium Dumping Lakes
 
 #### Flats (6/rr)
