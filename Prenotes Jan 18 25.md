@@ -51,7 +51,9 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Otto's Wonderous Wardrobe
 - Otto's Display Case
 ###### Wash & Source Room
-- Washbasin &
+- Washbasin & Tools
+- Bucket Funnel System
+- Privacy Chamber
 
 
 ### What happened?
