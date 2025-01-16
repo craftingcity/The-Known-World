@@ -19,11 +19,13 @@ When last we left our heroes...
 
 ### What does the World Know?
 
-- Coming off the back of the Fallen Mask raid, they want to head back to town and finish the mission for the reward
+- Coming off the back of the Fallen Mask raid, they want to head back to town and finish the mission for the reward -> 12,500 / 5 = 2,500
 - Looking into the future;
 	- Otto Malkovich is not occupying his house in [[Coalition City]], but he has research and gear there, specifically regarding his relationship and recent imprisonment within the ICC
 	- 22 looks back at [[The Old|Minyostalma]] for a potential job to take
 
+##### Dr. Otto M's House
+###### Kitchen
 
 ### What happened?
 

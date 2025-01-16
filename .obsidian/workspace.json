@@ -109,12 +109,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jan 18th 25.md",
+                "file": "Prenotes Jan 18 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 18th 25"
+              "title": "Prenotes Jan 18 25"
+            }
+          },
+          {
+            "id": "e3f05ab11daf1423",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "title": "ParaeducatorGame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ParaeducatorGame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"ParaeducatorGame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":2},\"to\":{\"line\":29,\"ch\":2}},\"scroll\":13.865045178281344}"
+                },
+                {
+                  "title": "Prenotes Dec 06 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 06 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 06 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.670755615059823}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Dec 13 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Dec 13 24"
             }
           },
           {
@@ -141,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Grazing Fields\"",
+                "query": "\"otto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51240158081055,
-    "collapsed": true
+    "width": 255.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -392,12 +426,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a7ddd3132b96b2b",
+  "active": "7f1f88b6a1f69113",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
+    "Prenotes Dec 13 24.md",
+    "Prenotes Dec 06 24.md",
+    "ParaeducatorGame.md",
+    "Prenotes Jan 18 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Prenotes Jan 18th 25.md",
     "Prenotes Jan 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes Jan 07 25.md",
@@ -418,9 +455,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "ParaeducatorGame.md",
-    "MEDIA/MEDIA.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SCRIPTS/travel_calculator.py",
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
