@@ -28,30 +28,30 @@ When last we left our heroes...
 A two-story stone brick house in the X Ward of [[Coalition City]], of the supposed 6 rooms within the building, the first 4 described here are viewable from the outside via large clear-glass windows.
 
 ###### Kitchen
-> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop, an array of*
+> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the far side of the counter. The shelves below the counter hold jarred goods and cast-iron cookwares.*
 
 - Alchemical Hotplate & Cooking Tools
 - Food & Spice Storage
 - Baking Oven
 ###### Library Lounge
-> *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen.*
+> *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen. Looking back, between the shelves, the central door leads into the Master's Quarters.*
 
 - Wrapping Bookshelves
 - Ostentatious Loveseats
 - Pale Wood Desk
 ###### Workroom Lab
-> **
+> *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine white, perfectly clean*
 
 - Liquids Production
 - Powder Assembly
 - Casting Closet
 - Overly Organized Closet
 ###### Apprentice's Quarters
-> **
+> *Above the Kitchen, accessible by a set of small stone stairs, is the Apprentice's Quarters - Anita Rewch currently occupies this room and this role, though she hasn't seen Master Otto in about a month, since his business in the Holyl'nds. These quarters are small, and spartan; there is room for one here, and one alone. A pale wood chest pushes up to foot of the beige bed, and opposing it, leaning against the other wall - only 3' away - a modest pale wood dresser is topped in the only personality the room has, a set of six brightly colored knitted character dolls. The third wall in this room is a massive bookshelf. It is clean, but obviously underused.*
 
 - Anita's Chest
 - Anita's Bed
-- Anita's Dresser
+- Anita's Dresser & Dolls
 - Anita's Bookshelf
 ###### Master Bedroom
 > **
