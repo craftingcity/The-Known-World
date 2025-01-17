@@ -40,7 +40,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Ostentatious Loveseats
 - Pale Wood Desk
 ###### Workroom Lab
-> *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine white, perfectly clean*
+> *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine white, perfectly clean, alchemist's dream lab.*
 
 - Liquids Production
 - Powder Assembly
