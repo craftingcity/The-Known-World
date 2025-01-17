@@ -308,8 +308,6 @@ A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/
 
 
 
-
-
 ## The Base
 #### The Importing Pallets (2/rr)
 East of [[#The Front Gate (2/rr)]], a large garage door stinks offensively of death and gunpowder. The Importing Pallets are functionally a kill-box for those coming from excursions through [[#The Factory]], as a large portion of the furniture and pallets within this space have been refit into a thin maze. 
@@ -378,5 +376,7 @@ The central hangar's personnel doors are unlocked and openable. Inside, a large 
 #### Broken Swamps (2/rr)
 
 #### Grey Forest (4/rr)
+###### Stinking Swamps
+###### Uranium Dumping Lakes
 
 #### Flats (6/rr)

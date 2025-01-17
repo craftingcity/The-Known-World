@@ -254,15 +254,15 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Blue Scan Archive v.34          | PDA Dict.   | Artifact Dictionary (Rare)            | mercs     |            |
 | WhiteTech Identification Module | PDA Dict.   | Artifact Dictionary (Uncommon)        | WFM       |            |
 | House Commons Librarian         | PDA Dict.   | Artifact Dictionary (Rare)            | troopers  |            |
-| Astronomy Architecture          | PDA Network | Mercenary Communication Network       | mercs     |            |
-| WhiteTech Comms Architecture    | PDA Network | Militant Communication Network        | WFM       |            |
-| HouseCommons Architecture       | PDA Network | Trooper Communication Network         | troopers  |            |
-| KingsNet Architecture           | PDA Network | Extramis Communication Network        | extramis  |            |
+| Astronomy Architecture          | PDA Network | Mercenary Communication Network / OS  | mercs     |            |
+| WhiteTech Comms Architecture    | PDA Network | Militant Communication Network / OS   | WFM       |            |
+| HouseCommons Architecture       | PDA Network | Trooper Communication Network / OS    | troopers  |            |
+| KingsNet Architecture           | PDA Network | Extramis Communication Network / OS   | extramis  |            |
 | PinkSweet Brooch Crack v.09     | PDA App     | Mercenary USB Cracker                 | merc      |            |
 | ObservativePipit v4.0           | PDA Tracker | Mercenary Tracker                     | merc      |            |
 | WhiteTech Radar v1.3            | PDA Tracker | Militant Tracker                      |           |            |
 | Hunter Tracker v.82             | PDA Tracker | Trooper Tracker                       |           |            |
-| Hunter Cloack v.1.70            | PDA Cloaker | Trooper Cloaker                       |           |            |
+| Hunter Cloak v.1.70             | PDA Cloaker | Trooper Cloaker                       |           |            |
 | Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
 ### Medical

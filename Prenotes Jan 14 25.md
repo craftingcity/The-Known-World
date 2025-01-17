@@ -21,10 +21,25 @@ When last we left our heroes, disaster struck - a swift river separated the tunn
 
 The river feeds directly into the grazing fields as a waterfall, so threats include Drowning on the way there `(1+CON minutes of air, then CON rounds of drowning, then Death Saves)` and dying of Fall Damage at the 120' `(12d6)` drop into the Grazing Fields.
 
-The Grazing Fields are home to six major threats;
-- 
+The Grazing Fields are home to many threats, but we rolled up some Spiders who are camping out near the waterfall - 5 Demon Spiders, an Ogre Spider, a Spell Spider, and a Cursed Spider.
 
 ### What happened?
+
+Fight a Spider bih!
+##### INIT
+A (TANK)- 15, 26
+22 - Bhodi
+21 - Marylynn
+B (CURSE)- 22, 
+~~C (SPELL)- 9, 21~~
+11 - Thomas
+5 - Rowan
+Goobers
+	A. 10, 
+	B.
+	C. 22
+	D.
+	E. 22
 
 
 We leave our heroes on the date of ... AF, as they ...

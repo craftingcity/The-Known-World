@@ -1,3 +1,5 @@
+#### Squirrel
+#### Bear
 ### The Monsters...
 #### The Cancer
 > *'To an undiscerning eye, the Cancer looks to be simply an obese hog, but this is not the case. The Cancer's squat and portly seeming legs expand to sharp long claws, the juicy pork of the beast is marked with boils and tumors, and its stout face is clipped back to a gross dripping maw.'*

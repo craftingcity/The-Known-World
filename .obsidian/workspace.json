@@ -52,9 +52,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 18th 25"
             }
+          },
+          {
+            "id": "31987d509c0e7f48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56cb191108be2e0a",
+  "active": "31987d509c0e7f48",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Prenotes Jan 18th 25.md",
+    "conflict-files-obsidian-git.md",
     "Grazing Fields.md",
     "Prenotes Jan 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
