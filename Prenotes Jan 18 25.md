@@ -26,31 +26,44 @@ When last we left our heroes...
 
 ##### Dr. Otto M's House
 A two-story stone brick house in the X Ward of [[Coalition City]], of the supposed 6 rooms within the building, the first 4 described here are viewable from the outside via large clear-glass windows.
+
 ###### Kitchen
+> *Off the left of the Lounge, *
+
 - Alchemical Hotplate & Cooking Tools
 - Food & Spice Storage
 - Baking Oven
 ###### Library Lounge
+> *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen.*
+
 - Wrapping Bookshelves
 - Ostentatious Loveseats
 - Pale Wood Desk
 ###### Workroom Lab
+> **
+
 - Liquids Production
 - Powder Assembly
 - Casting Closet
 - Overly Organized Closet
 ###### Apprentice's Quarters
+> **
+
 - Anita's Chest
 - Anita's Bed
 - Anita's Dresser
 - Anita's Bookshelf
 ###### Master Bedroom
+> **
+
 - Otto's Safe
 - Otto's Bed
 - Otto's Enchanting Table
 - Otto's Wonderous Wardrobe
 - Otto's Display Case
 ###### Wash & Source Room
+> **
+
 - Washbasin & Tools
 - Bucket Funnel System
 - Privacy Chamber
