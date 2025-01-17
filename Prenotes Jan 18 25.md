@@ -54,7 +54,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Anita's Dresser & Dolls
 - Anita's Bookshelf
 ###### Master Bedroom
-> **
+> *The central room of the house, securely invisible to the outside, is the Master Bedroom - the domain of Otto Malkovich, while he was a free man. In the center of the room, away from the walls, a large comfortable bed is flanked by a series of glass cases and a large wardrobe. Pushed against the far wall is a very large table adorned in ornate cloth, candles, and inscription.*
 
 - Otto's Safe
 - Otto's Bed
