@@ -28,7 +28,7 @@ When last we left our heroes...
 A two-story stone brick house in the X Ward of [[Coalition City]], of the supposed 6 rooms within the building, the first 4 described here are viewable from the outside via large clear-glass windows.
 
 ###### Kitchen
-> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attatched grey panel of dials and guages takes up the majority of the space. *
+> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop, an array of*
 
 - Alchemical Hotplate & Cooking Tools
 - Food & Spice Storage
