@@ -125,11 +125,11 @@ aliases:
 
 		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip.
 
-		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang that 
+		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel.
 
-		- GME-012-5
+		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. 
 
-		- GME-012-6
+		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip.
 ```
 
 ###### Primalloy Scalemail
