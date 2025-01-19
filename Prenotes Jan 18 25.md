@@ -76,7 +76,13 @@ They went to Minyostalma instead
 3 - Battle at Loading Bay
 3 - ==Exploration in Village==
 	- Cpl Lazarus
-	- Pvt Johian
-	- Pvt 
+	- Pvt Yohian
+	- Pvt Steward
+
+##### INIT
+17 - Roan
+11 - Soarsia
+11- Zipper
+7 - Wren
 
 We leave our heroes on the date of ... AF, as they ...
