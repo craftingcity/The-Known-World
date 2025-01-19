@@ -23,6 +23,7 @@ aliases:
 		- [[Homebrew Alchemy System]]
 		- [[Mechanics of Plane-walking]]
 		- [[Skillbooks]]
+	- [[Lingering Injuries]]
 	- **Lore**
 		- [[Custom Cultures]]
 		- [[Custom Features]]

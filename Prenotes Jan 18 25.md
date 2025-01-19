@@ -31,7 +31,11 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 > *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the far side of the counter. The shelves below the counter hold jarred goods and cast-iron cookwares.*
 
 - Alchemical Hotplate & Cooking Tools
+	- Castiron Cookware (10spx4)
+	- Installed Alchemical Hotplates (scavange ~20sp in copper wiring)
 - Food & Spice Storage
+	- Salt (10lb, 7.5sp)
+	- 
 - Baking Oven
 ###### Library Lounge
 > *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen. Looking back, between the shelves, the central door leads into the Master's Quarters.*
@@ -40,7 +44,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Ostentatious Loveseats
 - Pale Wood Desk
 ###### Workroom Lab
-> *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine white, perfectly clean, alchemist's dream lab. The room is split into four quarters by purpose. The first, the close corner on the right*
+> *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine white, perfectly clean, alchemist's dream lab. The room is split into four quarters by purpose. The first, the close corner on the right is stuffed full of metal shelves centering around a thick black door. To the left, a system of tubes, burners, and bottles form some kind of alchemical liquid production. Opposing the Liquids Production, a simple wooden door lies locked. In the far right and final corner, another alchemical rube-goldberg machine of funnels and grinders seem to be processing a solid into a powder. Between the Casting Closet and Powder Production, a spiral staircase in the wall leads up into the Wash & Source Room.*
 
 - Liquids Production
 - Powder Assembly
@@ -62,7 +66,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Otto's Wonderous Wardrobe
 - Otto's Display Case
 ###### Wash & Source Room
-> **
+> *Above the Workroom, a simple space holds a ceramic chair full of water, a set of sponges and soaps on a the edge of a large basin, and a encased water production system.*
 
 - Washbasin & Tools
 - Bucket Funnel System

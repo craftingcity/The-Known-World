@@ -5,6 +5,7 @@ aliases: The Deep Below, Deep Below
 
 # Underdark
 %% Begin Waypoint %%
+- [[Fungal Forests]]
 - **General**
 	- [[Lolth]]
 	- [[Underdark Air]]
@@ -15,6 +16,7 @@ aliases: The Deep Below, Deep Below
 	- [[Underdark Light]]
 	- [[Underdark Rock Formation]]
 	- [[Underdark Threats]]
+- [[Grazing Fields]]
 - **Groups**
 	- [[House Thoulca]]
 	- [[Kalix]]
