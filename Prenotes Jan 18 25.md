@@ -82,16 +82,16 @@ They went to Minyostalma instead
 ##### INIT
 17 - Roan
 Green (AC 17, 30hp)
-- A: 9, 12
+- A: 9, 12, 23, 29
 - B:
-- C: 18, 21
-- D: 18, 21
-- E: 20
+- ~~C: 18, 21, 31~~
+- D: 18, 21, 27
+- ~~E: 20, 33~~
 11 - Niko
 11 - Soarsia
 11- Zipper
 White
-- A: 24
+- A: 24, -9+
 - B: 10
 - C:
 7 - Wren
