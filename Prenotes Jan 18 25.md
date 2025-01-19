@@ -31,11 +31,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 > *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the far side of the counter. The shelves below the counter hold jarred goods and cast-iron cookwares.*
 
 - Alchemical Hotplate & Cooking Tools
-	- Castiron Cookware (10spx4)
-	- Installed Alchemical Hotplates (scavange ~20sp in copper wiring)
 - Food & Spice Storage
-	- Salt (10lb, 7.5sp)
-	- 
 - Baking Oven
 ###### Library Lounge
 > *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen. Looking back, between the shelves, the central door leads into the Master's Quarters.*
