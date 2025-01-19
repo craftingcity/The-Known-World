@@ -69,6 +69,14 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 
 
 ### What happened?
+They went to Minyostalma instead
 
+9 - Data at Intel Center (HARD, MANY STEPS)
+3 - Package to Flea Market
+3 - Battle at Loading Bay
+3 - ==Exploration in Village==
+	- Cpl Lazarus
+	- Pvt Johian
+	- Pvt 
 
 We leave our heroes on the date of ... AF, as they ...

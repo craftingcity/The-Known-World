@@ -4,6 +4,12 @@ tags: notes
 # Notes
 #### Paragame
 ###### ROAN
+AC: 21 (18+3)
+HP: 20 (3d8)
+
+Carbine (50 W): +3 to hit, 3d6+3 cold
+Inspire (1d6)
+
 +2500sp
 
 Press. Combat Armor (150sp)
@@ -14,7 +20,19 @@ Water Blue Durandurm Magazine (10sp x 5 = 50sp)
 = 2112sp
 
 ###### WREN
+AC: 19 (18+1)
+HP: 20 (3d8)
 
+Carbine (50 W): +1 to hit, 3d6+1 cold
+Inspire (5d6)
++2500sp
+
+Press. Combat Armor (150sp)
+Isiopara (6.3sp x 30 = 189sp)
+Water Blue Durandurm Magazine (10sp x 5 = 50sp)
+2x Fire, 5x Pineapple (200sp)
+
+= 2112sp
 
 #### Bubble's Mercs - Delta 3
 ##### "Bubble" - Team Lead
