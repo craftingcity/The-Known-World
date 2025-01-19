@@ -82,10 +82,10 @@ They went to Minyostalma instead
 ##### INIT
 17 - Roan
 Green (AC 17, 30hp)
-- A: 9, 12, 23, 29
-- B:
+- ~~A: 9, 12, 23, 29~~~
+- B: 7, 14, 25, 31
 - ~~C: 18, 21, 31~~
-- D: 18, 21, 27
+~~- D: 18, 21, 27~~
 - ~~E: 20, 33~~
 11 - Niko
 11 - Soarsia
@@ -95,5 +95,7 @@ White
 - B: 10
 - C:
 7 - Wren
+
+They won, we'll pick up next time right after the fight, where we reveal who the initial attackers were, and what loot the had - we know they were wearing chitin and had carbines.
 
 We leave our heroes on the date of ... AF, as they ...
