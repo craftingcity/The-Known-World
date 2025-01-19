@@ -81,11 +81,19 @@ They went to Minyostalma instead
 
 ##### INIT
 17 - Roan
-Green
+Green (AC 17, 30hp)
+- A: 9, 12
+- B:
+- C: 18, 21
+- D: 18, 21
+- E: 20
 11 - Niko
 11 - Soarsia
 11- Zipper
 White
+- A: 24
+- B: 10
+- C:
 7 - Wren
 
 We leave our heroes on the date of ... AF, as they ...
