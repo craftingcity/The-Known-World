@@ -11,7 +11,7 @@ When you make an attack with a blaster or firearm, add twice your Dexterity Modi
 *Prerequisite:* L11 Bloodhunter
 > "Your connection to entities of great power has begun to effect your organs. You will need to take from others, they have to be fresh."
 
-When you kill a humanoid who Fears you or is affected by your Brand of Castigation, their corpse becomes Creepered.
+When you kill a humanoid who is Frightened of you or is affected by your Brand of Castigation, their corpse becomes Creepered.
 
 If you spend an hour and 75sp of components to ritualisticly sacrifice a corpse that was Creepered within the last 24 hours, you may choose an organ to consume during the ritual and gain the corresponding benefit.
 
