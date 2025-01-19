@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Mechanics of Plane-walking",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md"
+    },
+    {
+      "basename": "Combat Mechanics (dep.)",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md"
+    },
+    {
+      "basename": "Skills of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md"
+    },
+    {
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
+    },
+    {
+      "basename": "Custom Class - Psion",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md"
+    },
+    {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
@@ -145,10 +173,6 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Untitled.md"
     },
     {
-      "basename": "Combat Mechanics (dep.)",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md"
-    },
-    {
       "basename": "Fungal Forests",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Fungal Forests.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Custom Languages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Abyssal (language)",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md"
-    },
-    {
-      "basename": "Prenotes Dec 10 24",
-      "path": "Prenotes Dec 10 24.md"
-    },
-    {
-      "basename": "Prenotes Dec 20 24",
-      "path": "Prenotes Dec 20 24.md"
-    },
-    {
-      "basename": "The Church of the White Flame",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Dante Fukili",
-      "path": "Junie's Characters/Dante Fukili.md"
     }
   ],
   "omittedPaths": [],

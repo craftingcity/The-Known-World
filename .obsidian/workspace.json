@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd9ee212eee45938",
+        "id": "e0bb2383993dc1bd",
         "type": "tabs",
         "children": [
           {
-            "id": "7520e9fcb2a3ab44",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          }
-        ]
-      },
-      {
-        "id": "aec1cd0989d6d880",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "11f1c12072b6b3fe",
+            "id": "cad26eaf2859fd25",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,26 +18,38 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "GrainIntoGold",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/GrainIntoGold.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"GrainIntoGold\"}",
-                  "eState": "{}"
+                  "title": "Mechanics of Plane-walking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanics of Plane-walking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Combat Mechanics (dep.)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics (dep.)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Skills of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Skills of Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "file": "Game Notes/Mechanics/Mechanics.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
+              "title": "Mechanics"
             }
           },
           {
-            "id": "d0b6b372af08a3e8",
+            "id": "8281ee95f5287cf4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -80,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Magic Item Authors"
+              "title": "Custom Features"
             }
           }
         ],
@@ -138,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#npc  ",
+                "query": "materials",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +170,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -339,36 +321,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7520e9fcb2a3ab44",
+  "active": "8281ee95f5287cf4",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Prenotes Dec 13 24.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
     "Prenotes Jan 18 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Grazing Fields.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Fungal Forests.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/The Progress of Technology.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",
-    "Game Notes/Mechanics/Homebrew Systems/Lingering Injuries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-    "Prenotes Dec 06 24.md",
-    "ParaeducatorGame.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
-    "MEDIA/MAPS/WORLD/underdark.png",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - North West.md",
     "Prenotes Jan 14 25.md",
-    "Prenotes Jan 07 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Threats.md",
-    "Grazing Fields.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South West.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - South East.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Arms and Armor - North East.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Prenotes Jan 18th 25.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Grazing Fields.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/SCRIPTS/travel_calculator.py",
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",

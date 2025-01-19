@@ -6,3 +6,21 @@ When you make an attack with a blaster or firearm, add 2 to your Attack Roll. If
 
 ##### Trooper Arms Training
 When you make an attack with a blaster or firearm, add twice your Dexterity Modifier to the Attack Roll instead.
+
+##### Organ Creeper
+*Prerequisite:* L11 Bloodhunter
+> "Your connection to entities of great power has begun to effect your organs. You will need to take from others, they have to be fresh."
+
+When you kill a humanoid who Fears you or is affected by your Brand of Castigation, their corpse becomes Creepered.
+
+If you spend an hour and 75sp of components to ritualisticly sacrifice a corpse that was Creepered within the last 24 hours, you may choose an organ to consume during the ritual and gain the corresponding benefit.
+
+(Tongue) -  +1/3 CHA
+(Stomach) - +1/3 CON
+(Liver) - For 48 hours, at the beginning of your turn, you gain 5d10 TempHP.
+(Lungs) - +1/3 DEX
+(Heart) - +1/3 STR
+(Spleen) - Resist poison, radiant, and necrotic damage for 48 hours.
+(Brain) - +1/6 INT & WIS
+(Eyes & Ocular Nerves) - +2 <stacking> to Perception, Investigation, and Survival for 48 hours.
+(Skin & Veins) - Resist "weapon" damage <bludgeoning, slashing, piercing> for 48 hours
