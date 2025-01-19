@@ -14,8 +14,7 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
-When last we left our heroes...
+When last we left our heroes, they had just laid ruin onto [[Syther Malkovich]] and the gangs of fighters he had gathered - a coincidence of timing in your favor. With commanding confidence, 22 made Wren pull and drop her grenade in the door after your escape. You sprint away, into the darkening night, back into the light of civilization. With the object of your mission in your grasp, and a potential bankroll of over two-thousand silver, each. Your return to town is easy. You arrive in [[Emorin's Plots]]. What do you do?
 
 ### What does the World Know?
 
