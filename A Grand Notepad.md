@@ -2,7 +2,18 @@
 tags: notes
 ---
 # Notes
+#### Paragame
+###### ROAN
++2500sp
 
+Press. Combat Armor (150sp)
+Isiopara (6.3sp x 30 = 189sp)
+Water Blue Durandurm Magazine (10sp x 5 = 50sp)
+2x Fire, 5x Pineapple (200sp)
+
+= 2112sp
+
+###### WREN
 
 
 #### Bubble's Mercs - Delta 3
