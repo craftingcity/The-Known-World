@@ -123,9 +123,9 @@ aliases:
 
 		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip.
 
-		- GME-012-3 is a thin karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip.
+		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip.
 
-		- GME-012-4
+		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang that 
 
 		- GME-012-5
 
