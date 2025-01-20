@@ -119,17 +119,17 @@ aliases:
 
 		GME-012 is a set of 6 unique daggers, where each of the instances have their own apperance and properties. Descriptions of the instances, named GME-012-1 through -6, are as follows;
 
-		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. 
+		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
 
-		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip.
+		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, 
 
-		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip.
+		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
 
-		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel.
+		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel. Once per day, when the wielder of this dagger speaks the command word, 
 
-		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. 
+		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, 
 
-		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip.
+		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
 ```
 
 ###### Primalloy Scalemail
