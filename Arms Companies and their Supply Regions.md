@@ -9,7 +9,7 @@ aliases:
 ## International Companies
 ### [[Guild of Crafters]]
 ## Northeastern Companies
-### [[The Kingdom of Prosper]]
+### [[The Kingdom of Prosper]] & [[Order of Arthurian Saints|Arthur's Order]]
 ## Northwestern Companies
 ### [[The Church of the White Flame#White Flame Militants & WhiteTech|White Flame Militants & WhiteTech]]
 ## Southeastern Companies
