@@ -19,6 +19,7 @@ When last we left our heroes, they had descended into the depths of the stone an
 
 You swim down, into the pool below the waterfall, and deeper. You find what you are looking for, the feed from this pool into the rest of the system, and you and your companions slip through and away, from this danger into whatever dark place you will come to.
 
+You swim with the current, into 
 
 ### What does the World Know?
 
