@@ -4,46 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aec1cd0989d6d880",
+        "id": "af71c97fad0df7c6",
         "type": "tabs",
         "children": [
           {
-            "id": "11f1c12072b6b3fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Guilded Mystic Entries",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guilded Mystic Entries\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "GrainIntoGold",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"MEDIA/SUPP/DOCS/GrainIntoGold.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"GrainIntoGold\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Dante Fukili.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dante Fukili"
-            }
-          },
-          {
-            "id": "b1edc69b0db9cdac",
+            "id": "fe8949657678ea6a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Custom Heritages"
+              "title": "New tab"
             }
           }
         ]
@@ -114,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gnoll",
+                "query": "durandurm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f1c12072b6b3fe",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Junie's Characters/Dante Fukili.md",
