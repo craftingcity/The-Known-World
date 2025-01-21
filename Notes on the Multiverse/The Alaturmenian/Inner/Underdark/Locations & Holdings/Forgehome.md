@@ -23,7 +23,12 @@ Forgehome keeps contact with the nearest dwarven kingdom, and much of the trade 
 
 The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep.
 ```
+
+##### The Town of Post
+While Forgehome has always been described as a "temporary" settlement, they have stayed long enough to populate an outpost between the [[Grazing Fields]], the prim
 ## Important Places & Symbolism
+#### The Forge
+#### The Mines
 
 ## Economics
 |     | # of Traders |

@@ -19,10 +19,12 @@ When last we left our heroes, they had descended into the depths of the stone an
 
 You swim down, into the pool below the waterfall, and deeper. You find what you are looking for, the feed from this pool into the rest of the system, and you and your companions slip through and away, from this danger into whatever dark place you will come to.
 
-You swim with the current, into 
+You swim with the current, into a wide riverbed. You gather with your companions, and navigate to the side of the river's bank with ease - this river is significantly less pressured than the tube-flow you were travelling through before - and after pulling yourself from the water, dripping with blood and freshwater, you look to your surroundings. 
+
+You've arrived in a similarly titanic cave, where even the furthest-sighted of you can only see the wall from which you came, the river at your feet, and - thankfully, finally - a light, many lights, a deep orange glow indicating the presence of civilization. What do you do?
 
 ### What does the World Know?
-
+#### The Town of Post
 
 ### What happened?
 
