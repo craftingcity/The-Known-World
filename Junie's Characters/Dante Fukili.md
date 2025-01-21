@@ -51,14 +51,19 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 
 ## Stats
 
-|     |          |     |           |
-| --- | -------- | --- | --------- |
-| STR | 12 (+1)^ | PRF | +3        |
-| CON | 17 (+3)^ | MHP | 46        |
-| DEX | 20 (+5)  | AC  | 16        |
-| INT | 10 (+0)  | CHP | 46        |
-| WIS | 11 (+0)  | HD  | 3d8, 2d10 |
-| CHA | 14 (+2)  | SPD | 35'       |
+| Stat | #         | Stat  | #         |
+| ---- | --------- | ----- | --------- |
+| STR  | 12 (+1) ^ | PRF   | +3        |
+| CON  | 17 (+3) ^ | M. HP | 46 M. HP  |
+| DEX  | 20 (+5)   | AC    | 16        |
+| INT  | 10 (+0)   | C. HP | 46 hp     |
+| WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
+| CHA  | 14 (+2)   | SPD   | 35' (7s)  |
+
+| Weapon                 | To Hit       | Damage         |
+| ---------------------- | ------------ | -------------- |
+| Dante's Carbine (20 Y) | +8 (DEX+PRF) | 3d6+5 thunder  |
+| Dante's Claws          | +8 (DEX+PRF) | 1d4+6 slashing |
 
 #### Features
 ##### Gnoll Heritage (T)
@@ -69,7 +74,7 @@ On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + 
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
-##### Action Surge (T, 1/1)
+##### Action Surge (FA, 1/1)
 On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
@@ -94,7 +99,7 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 	Chainmail
 *Torso*:
 	Chainmail
-	Adjustable Leather Sling (Durandurm Carbine)
+	Adjustable Cloth Sling (Durandurm Carbine)
 	Backpack (50' Rope, Steel Crowbar, Steel Canteen)
 		- Bedroll
 		- Common Clothes (dark, hooded)
@@ -105,7 +110,7 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 	Leather Combat Belt
 		- Sheath (Dagger)
 		- Scabbard (Shortsword)
-		- TacPouch (20 DRM, EY)
+		- Ammo Sack (20 DRM, EY)
 *Legs*:
 	Chainmail
 *Feet*:
