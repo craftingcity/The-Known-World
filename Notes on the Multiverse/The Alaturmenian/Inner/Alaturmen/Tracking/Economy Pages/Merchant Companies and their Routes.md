@@ -5,7 +5,7 @@ aliases:
 
 
 # Merchant Companies
-While almost all general stores could be considered merchant companies, we will not be discussing the hundreds of unique merchants and their routes, only the most popular or powerful.
+Merchant Companies are the conglomerate mercantile groups that have come to occupy and serve larger
 ## Northeastern Companies
 ### [[Guild of Merchants]]
 ### [[Northstone Family Trading Company]]
