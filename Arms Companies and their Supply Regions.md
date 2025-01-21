@@ -9,10 +9,12 @@ aliases:
 ## International Companies
 ### [[Guild of Crafters]]
 ## Northeastern Companies
+### [[The Kingdom of Prosper]]
 ## Northwestern Companies
 ### [[The Church of the White Flame#White Flame Militants & WhiteTech|White Flame Militants & WhiteTech]]
 ## Southeastern Companies
-### [[SEASEC]]
+### [[SEASEC]] & The Company
+### [[TacLight! Arms Co]]
 ## Southwestern Companies
 ### [[Dwarven Kingdom Suremantle#Department of Warfare and Defense]]
 ### [[Kickoff#Yosimmite Industries]]
