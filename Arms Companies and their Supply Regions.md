@@ -13,4 +13,5 @@ aliases:
 ## Southeastern Companies
 ### [[SEASEC]]
 ## Southwestern Companies
-### [[Nobles of Mountain Hall#]]
+### [[Dwarven Kingdom Suremantle#Department of Warfare and Defense]]
+### [[Kickoff]]
