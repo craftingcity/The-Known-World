@@ -250,14 +250,18 @@ Durandurm Magazines are complex ammunition storage modules that contain a number
 
 Durandurm Operated Firearms typically deal d6 elemental damage, but are a variable ammunition.
 
-| Name / Classification         | D. Type | Original Producer |
-| ----------------------------- | ------- | ----------------- |
-| Durandurm 'Fire Red' Magazine | fire    |                   |
+| Name / Classification         | D. Type | Original Producer | Note |
+| ----------------------------- | ------- | ----------------- | ---- |
+| Durandurm 'Fire Red' Magazine | fire    |                   |      |
 
 ##### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
 Firepowder Shot typically deal d4 piercing damage, but are a variable ammunition.
+
+| Name / Classification | Dam. | Original Producer | Note |
+| --------------------- | ---- | ----------------- | ---- |
+| -                     | -    |                   |      |
 
 ## Cultural Weaponry
 

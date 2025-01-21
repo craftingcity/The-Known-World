@@ -16,7 +16,7 @@ aliases:
 ### [[Wealth of the Chosen]]
 ### [[All Macht's Goods]]
 ## Southeastern Companies
-### [[Deep-Guardian Tactical Security Company]]
+### [[Deep-Guardian Tactical Security Company]] -> [[SEASEC]]
 ### [[Ammarin Transportation]]
 ### [[Harvord Trading Company]]
 ### [[Hillstone Trading Company]]
