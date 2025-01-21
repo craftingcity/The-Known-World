@@ -20,14 +20,17 @@ Kickoff's main industry is mining and exporting Durandurm crystal, a powerful ma
 
 ## Economics
 #### Kickoff's Great Durandrum Mines
-#### 
-
+#### Yosimmite Industries
+#### Ginger's Farm & the Bloodbraids
+#### Sivir's Bar & the Hardened Scales
+#### [[Golden]]
 
 |     | # of Traders |
 | --- | ------------ |
 |     |              |
 
 ## Governance
+#### [[Golden Claws]]
 
 ```
 # Description

@@ -7,6 +7,7 @@ aliases:
 *Arms Companies* are the alchemical and engineering conglomerates responsible for producing the weaponry needs of nations, counties, and other companies.
 
 ## International Companies
+### [[Guild of Crafters]]
 ## Northeastern Companies
 ## Northwestern Companies
 ### [[The Church of the White Flame#White Flame Militants & WhiteTech|White Flame Militants & WhiteTech]]
@@ -14,4 +15,4 @@ aliases:
 ### [[SEASEC]]
 ## Southwestern Companies
 ### [[Dwarven Kingdom Suremantle#Department of Warfare and Defense]]
-### [[Kickoff]]
+### [[Kickoff#Yosimmite Industries]]
