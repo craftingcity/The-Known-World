@@ -230,27 +230,31 @@ Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you m
 #### Firepowder Cannon
 
 ### Ranged Ammunition
-#### Stones
+##### Stones
 Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sling.
 
 Stones deal 1d4 bludgeoning damage.
 
-#### Bolts
+##### Bolts
 Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
 
 Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
 
-#### Arrows
+##### Arrows
 Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
 
 Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
 
-#### Durandurm Magazines
+##### Durandurm Magazines
 Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Operated Firearms.
 
 Durandurm Operated Firearms typically deal d6 elemental damage, but are a variable ammunition.
 
-#### Firepowder Shot
+| Name / Classification | D. Type | Company of Production |
+| --------------------- | ------- | --------------------- |
+|                       |         |                       |
+
+##### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
 Firepowder Shot typically deal d4 piercing damage, but are a variable ammunition.
@@ -261,7 +265,11 @@ Firepowder Shot typically deal d4 piercing damage, but are a variable ammunition
 ##### Explosives
 #### Clay Fire-Bomb
 #### Pipe Bomb
-#### Chile 
+#### Chili Grenade
+#### Pineapple Grenade
+#### Viper Grenade
+#### Skunk Grenade
+
 ##### Weave-Manipulation Instruments
 #### Arcane Implement
 #### Divine Implement
