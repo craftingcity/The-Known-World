@@ -50,4 +50,4 @@ The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; 
 ### The Mayorship
 As a city-state associated with a royal kingdom, Forgehome elects a Mayor once every eight years, of which the previous Mayor serves two, while the new Mayor travels to the [[Darnt Hillkeep]] to personally confirm their allegiance to the [[Dwarven Kingdom Jammu]].
 
-Mayors can serve be re-elected into their position without restriction to the number of terms served, as was the case in the incredible 64-year 
+Mayors can serve be re-elected into their position without restriction to the number of terms served, as was the case in the incredible consecutive re-election of [[Keldo the Sweet]] for 64 years.
