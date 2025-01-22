@@ -33,6 +33,7 @@ While Forgehome has always been described as a "temporary" settlement, they have
 #### The Drymoat
 #### The Forge
 #### The Mines
+#### Deepreach
 
 ## Economics
 |     | # of Traders |

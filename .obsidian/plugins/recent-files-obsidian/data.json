@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Underdark",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
+    },
+    {
+      "basename": "Inner",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
+    },
+    {
       "basename": "Upper Northwestern Underdark",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md"
     },
     {
-      "basename": "underdark",
-      "path": "MEDIA/MAPS/WORLD/underdark.png"
+      "basename": "Howling Warrens",
+      "path": "Howling Warrens.md"
+    },
+    {
+      "basename": "Durgg-Likin",
+      "path": "Durgg-Likin.md"
+    },
+    {
+      "basename": "Hraak Azul",
+      "path": "Hraak Azul.md"
+    },
+    {
+      "basename": "Hunting Grounds",
+      "path": "Hunting Grounds.md"
+    },
+    {
+      "basename": "Inverted Tower",
+      "path": "Inverted Tower.md"
+    },
+    {
+      "basename": "Crystal Sea",
+      "path": "Crystal Sea.md"
+    },
+    {
+      "basename": "Maelbrathyr",
+      "path": "Maelbrathyr.md"
     },
     {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
+    },
+    {
+      "basename": "underdark",
+      "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
       "basename": "Prenotes Jan 21 25",
@@ -163,42 +199,6 @@
     {
       "basename": "Tracking",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Population Data",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md"
-    },
-    {
-      "basename": "Population Center Data",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md"
-    },
-    {
-      "basename": "Prenotes Jan 07 25",
-      "path": "Prenotes Jan 07 25.md"
-    },
-    {
-      "basename": "Grazing Fields",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Grazing Fields.md"
-    },
-    {
-      "basename": "Underdark",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Northeastern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
-    },
-    {
-      "basename": "Southeastern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
-    },
-    {
-      "basename": "Southwestern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     }
   ],
   "omittedPaths": [],
