@@ -25,6 +25,7 @@ You've arrived in a similarly titanic cave, where even the furthest-sighted of y
 
 ### What does the World Know?
 #### The Town of Post
+#### Forgehome
 
 ### What happened?
 

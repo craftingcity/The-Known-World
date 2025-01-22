@@ -9,5 +9,6 @@ aliases:
 - [[Arms and Armor - North West]]
 - [[Arms and Armor - South East]]
 - [[Arms and Armor - South West]]
+- [[Food and Drink - South West]]
 
 %% End Waypoint %%

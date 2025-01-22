@@ -5,6 +5,7 @@ aliases:
 
 # Economy Pages
 %% Begin Waypoint %%
+- [[Arms Companies and their Supply Regions]]
 - [[Currency of Alaturmen]]
 - [[Economics of Actstow]]
 - [[Economics of Cenva Minyo]]

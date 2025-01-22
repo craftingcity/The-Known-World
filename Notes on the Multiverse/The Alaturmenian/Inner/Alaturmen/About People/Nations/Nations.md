@@ -54,6 +54,7 @@ aliases:
 		- [[Noble House a'Fen]]
 		- [[Noble House a'Haruuc]]
 		- [[Noble House a'LeQuinn]]
+		- [[Noble House a'Nyrk]]
 		- [[Noble House a'Valim]]
 		- [[Northstone Family Trading Company]]
 		- [[Simonson Clan]]

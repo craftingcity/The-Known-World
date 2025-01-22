@@ -15,6 +15,11 @@
 	- [[Prenotes Aug 13 24]]
 	- [[Prenotes Aug 20 24]]
 	- [[Prenotes Aug 31 24]]
+	- [[Prenotes Dec 03 24]]
+	- [[Prenotes Dec 06 24]]
+	- [[Prenotes Dec 10 24]]
+	- [[Prenotes Dec 13 24]]
+	- [[Prenotes Dec 20 24]]
 	- [[Prenotes Feb 01 24]]
 	- [[Prenotes Feb 06 24]]
 	- [[Prenotes Feb 09 24]]
@@ -70,6 +75,11 @@
 	- [[Prenotes Oct 14 24]]
 	- [[Prenotes Sept 10 24]]
 	- [[Prenotes Sept 24 24]]
+- **'25**
+	- [[Prenotes Jan 07 25]]
+	- [[Prenotes Jan 14 25]]
+	- [[Prenotes Jan 18 25]]
+	- [[Prenotes Jan 21 25]]
 
 %% End Waypoint %%
 
