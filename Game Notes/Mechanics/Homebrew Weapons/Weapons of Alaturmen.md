@@ -203,9 +203,11 @@ Durandurm Handblasters are small elemental firearms designed as a secondary weap
 Durandurm Handblasters deal 1d6 typed damage.
 Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer    | Note |
-| --------------------- | ----- | ------ | -------------------- | ---- |
-| YI-90A 'Shortgun'     | -     | -      | Yosimmite Industries |      |
+| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                                 |
+| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------------------ |
+| YI-A88 'Hand Cannon'  | 30/90  | 2d4 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.                        |
+| YI-A90 'Hand Blaster' | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare expanded it. |
+|                       |        |          |                      |                                                                                      |
 
 ##### Firepowder Operated
 #### Boltshot Firepowder Blaster
