@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md"
     },
     {
+      "basename": "Skillbooks",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
+    },
+    {
       "basename": "underdark",
       "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Jan 18 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md"
-    },
-    {
-      "basename": "The Artifacts...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
     }
   ],
   "omittedPaths": [],
