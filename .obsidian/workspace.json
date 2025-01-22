@@ -60,8 +60,7 @@
               "title": "Prenotes Jan 21 25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9b74c14ce5833b1c",
@@ -161,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "g",
+                "query": "lithel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -362,10 +361,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "fe8949657678ea6a",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -391,7 +391,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Hraak Azul.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Hunting Grounds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Inverted Tower.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Crystal Sea.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",
     "MEDIA/SUPP/SCRIPTS/travel_calculator.py",
