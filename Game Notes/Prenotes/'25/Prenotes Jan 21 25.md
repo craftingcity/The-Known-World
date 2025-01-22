@@ -25,7 +25,13 @@ You've arrived in a similarly titanic cave, where even the furthest-sighted of y
 
 ### What does the World Know?
 #### The Town of Post
+- scavenging outpost
+- heavy defenses, light guards (spike barriers)
+- as insular as Forgehome
 #### Forgehome
+- trade outpost turned permanent
+- heavy heavy defenses
+- insular against outsiders, but topsiders are okay!
 
 ### What happened?
 

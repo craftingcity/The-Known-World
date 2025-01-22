@@ -198,6 +198,15 @@ Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you m
 #### Long Bow
 ##### Durandurm Operated
 #### Durandurm Handblaster
+Durandurm Handblasters are small elemental firearms designed as a secondary weapon used during sustained firefights.
+
+Durandurm Handblasters deal 1d6 typed damage.
+Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
+
+| Name / Classification | Range | Damage | Original Producer    | Note |
+| --------------------- | ----- | ------ | -------------------- | ---- |
+| YI-90A 'Shortgun'     | -     | -      | Yosimmite Industries |      |
+
 ##### Firepowder Operated
 #### Boltshot Firepowder Blaster
 #### Boltshot Firepowder Scatterblaster
@@ -235,15 +244,27 @@ Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sli
 
 Stones deal 1d4 bludgeoning damage.
 
+| Name / Classification | Dam. | Original Producer | Note |
+| --------------------- | ---- | ----------------- | ---- |
+| -                     | -    |                   |      |
+
 ##### Bolts
 Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
 
 Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
 
+| Name / Classification | Dam. | Original Producer | Note |
+| --------------------- | ---- | ----------------- | ---- |
+| -                     | -    |                   |      |
+
 ##### Arrows
 Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
 
 Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
+
+| Name / Classification | Dam. | Original Producer | Note |
+| --------------------- | ---- | ----------------- | ---- |
+| -                     | -    |                   |      |
 
 ##### Durandurm Magazines
 Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Operated Firearms.

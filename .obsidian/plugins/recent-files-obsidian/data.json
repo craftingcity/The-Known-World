@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "Prenotes Jan 14 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
     },
     {
-      "basename": "underdark",
-      "path": "MEDIA/MAPS/WORLD/underdark.png"
-    },
-    {
       "basename": "Prenotes Jan 21 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md"
+    },
+    {
+      "basename": "underdark",
+      "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
       "basename": "Bandit Lords",
@@ -91,18 +107,6 @@
     {
       "basename": "Maelbrathyr",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Maelbrathyr.md"
-    },
-    {
-      "basename": "Prenotes Jan 14 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
-      "basename": "The Gear...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
     {
       "basename": "Merchant Companies and their Routes",
@@ -195,10 +199,6 @@
     {
       "basename": "The Artifacts...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "The Old",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     }
   ],
   "omittedPaths": [],
