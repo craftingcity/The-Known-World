@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yos",
+                "query": "g",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055,
-    "collapsed": true
+    "width": 322.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -363,7 +362,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f40a803ae240f02",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
