@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "underdark",
+      "path": "MEDIA/MAPS/WORLD/underdark.png"
+    },
+    {
       "basename": "Prenotes Jan 21 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Skillbooks",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
-    },
-    {
-      "basename": "underdark",
-      "path": "MEDIA/MAPS/WORLD/underdark.png"
     },
     {
       "basename": "Weapons of Alaturmen",
