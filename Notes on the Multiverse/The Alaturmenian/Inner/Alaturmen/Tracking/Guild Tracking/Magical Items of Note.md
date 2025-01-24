@@ -123,11 +123,11 @@ aliases:
 
 		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-2 will dematerialize. After exactly 1 minute elapses, or when the command word is spoken again, the wielder dematerializes and immediately rematerializes with GME-012-2 in the space in which GME-012-2 dematerialized.
 
-		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-3 begins to emit a thick black smoke, which will surround the wielder in a 10' radius, until GME-012-3 ceases to emit the smoke and it naturally dissapates. Extensive testing has revealed that this smoke is transparent to the wielder, and has no effect on range of vision or fine motor skills.  
+		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight black silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-3 begins to emit a thick black smoke, which will surround the wielder in a 10' radius, until GME-012-3 ceases to emit the smoke after 30 seconds and it naturally dissapates. Extensive testing has revealed that this smoke is transparent to the wielder, and has no effect on range of vision or fine motor skills.  
 
-		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel. Once per day, when the wielder of this dagger speaks the command word, GME-012-4 emits a 
+		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel. Once per day, when the wielder of this dagger speaks the command word, GME-012-4 emits a momentary violent sonic wave from the point of GME-012-4. Entities with audio-reception capabilities who are within a 15' cone originating from GME-012-4 suffer severe damage to the relevant organs.
 
-		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, 
+		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-5 begins to vibrate
 
 		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
 ```
