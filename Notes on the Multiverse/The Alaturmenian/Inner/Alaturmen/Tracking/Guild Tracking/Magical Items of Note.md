@@ -119,9 +119,9 @@ aliases:
 
 		GME-012 is a set of 6 unique daggers, where each of the instances have their own apperance and properties. Descriptions of the instances, named GME-012-1 through -6, are as follows;
 
-		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-1 
+		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-1 will extend to a total length of 13 inches. After a period of 50-70 minutes, the effect ceases, and the blade of GME-012-1 retracts to its uneffected length.
 
-		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, 
+		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-2 will dematerialize. After exactly 1 minute elapses, or when the command word is spoken again, the wielder dematerializes and immediately rematerializes with GME-012-2 in the space in which GME-012-2 dematerialized.
 
 		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
 
