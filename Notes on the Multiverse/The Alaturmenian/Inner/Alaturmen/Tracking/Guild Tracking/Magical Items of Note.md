@@ -47,7 +47,7 @@ aliases:
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the Underdark.
 ```
 
 #### Relics of the Druids
@@ -127,9 +127,9 @@ aliases:
 
 		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel. Once per day, when the wielder of this dagger speaks the command word, GME-012-4 emits a momentary violent sonic wave from the point of GME-012-4. Entities with audio-reception capabilities who are within a 15' cone originating from GME-012-4 suffer severe damage to the relevant organs.
 
-		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-5 begins to vibrate
+		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-5 begins to vibrate without causing damage to the form or discomfort to the user. The effect ceases after 3 minutes and 16 seconds.
 
-		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
+		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-6 quickly becomes covered in a stinking green liquid that has since been identified as 'Black Dragon Bile'.
 ```
 
 ###### Primalloy Scalemail
@@ -234,7 +234,7 @@ aliases:
 
 	Entry Description: GME-XXX is to be stored within Vault 1's Warm Storage Sector at least 500' away from any other TL-O cells in a 20'x30'x15' lead storage container which itself is stored with a 30'x40'x20' darksteel storage container. This cell is to be stationed by a rotating 2-hour guard of at least 2 personnel at a time. Stationed personnel may spend participate in no more than 3 shifts in a 24-hour period.
 
-	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and [REDACTED] within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
+	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and ///REDACTED/// within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
 
 	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22.  
 ```
@@ -307,7 +307,7 @@ aliases:
 	Source: Sarhin Bodaim (TL-G contained, confirmed deceased)
 	Last Known Keeper: Killrick Em Glask
 
-	Entry Description: GME-008 is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is currently uncontained, and is being used by it's current Keeper.
+	Entry Description: GME-008 is to be stored within Vault 0's Warm Storage sector in a 6'x2'x1' darksteel container lined with a soft textile. GME-008 is, at the time of record, uncontained and being used by it's current Keeper.
 
 		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a murderous rage. Investigation into this property has concluded that this 'rage' is continually and exponentially increasing, but is seriously quelled by its user causing the death of an intelligent humanoid experiencing fear of the user or GME-008 itself.
 
@@ -408,7 +408,7 @@ aliases:
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Arthur Simonson
 
-	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is currently uncontained, and is being used by it's current Keeper.
+	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is, at the time of record, uncontained and being used by it's current Keeper.
 
 		GME-004 is a thick ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
 
@@ -423,7 +423,7 @@ aliases:
 	Source: Guraxlog (TL-B contained, confirmed deceased)
 	Last Known Keeper: Arthur Simonson
 
-	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is currently uncontained, and is being used by it's current Keeper.
+	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is, at the time of record, uncontained and being used by it's current Keeper.
 
 		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long seemingly becomes sharper as it is used - rather than duller. In addition to its material properties, GME-005 exhibits an emotional influence on its user, creating or increasing a sense of communal justice - a passion for the good of people.
 
@@ -677,7 +677,7 @@ aliases:
 	Source: The Old Man (TL-O uncontained, assumed deceased)
 	Last Known Keeper: Jerran, of the Hatdroppers
 
-	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is currently uncontained, and being used as a extraplanar base of operations by Jerran, of the Hatdroppers. Information suggests his current pattern of use is an effective method of meta-containment, and he is located somewhere in the eastern Illburn Forest.
+	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is, at the time of record, uncontained and being used as a extraplanar base of operations by Jerran, of the Hatdroppers. Information suggests his current pattern of use is an effective method of meta-containment, and he is located somewhere in the eastern Illburn Forest.
 
 		GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-2 Planar Gate in the bag, containing an unknown number of door-handles of different shapes and sizes, GME-001-X. When pulled or pushed to open, a GME-001-X will act as its own Type-2 Planar Gate, pointed at a particular Consistent Extraplanar Instance. Once GME-001-X has been activated, GME-001 ceases to physically exist until that GME-001-X is activated again. This particular feature of GME-001 presents the hazardous possibility of any number of users being left stranded in GME-001-X CEIs where they cannot naturally survive.
 
