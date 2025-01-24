@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af71c97fad0df7c6",
+        "id": "c4323fd9d036dd8b",
         "type": "tabs",
-        "dimension": 57.641700404858305,
         "children": [
           {
-            "id": "fe8949657678ea6a",
+            "id": "e41612a46e273893",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,28 +16,51 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Weapons of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":263,\"ch\":2},\"to\":{\"line\":263,\"ch\":3}},\"scroll\":241.3776060044356}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 14 25"
+              "title": "Magical Items of Note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5058f8612f09e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dc9bb6b8d7fadd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
             }
           },
           {
-            "id": "9f40a803ae240f02",
+            "id": "aff37c1588540e98",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,67 +74,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 21 25"
+              "title": "Magic Item Authors"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "9b74c14ce5833b1c",
-        "type": "tabs",
-        "dimension": 42.358299595141695,
-        "children": [
-          {
-            "id": "262fb9ce6e956abe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/underdark.png"
-              },
-              "icon": "lucide-image",
-              "title": "underdark"
-            }
-          },
-          {
-            "id": "0f38b1f8a736f097",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Forgehome"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lithel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -362,17 +334,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "262fb9ce6e956abe",
+  "active": "e41612a46e273893",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+    "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
-    "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
@@ -389,9 +364,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Upper Northwestern Underdark.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Howling Warrens.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Durgg-Likin.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Hraak Azul.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Hunting Grounds.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Inverted Tower.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",
     "MEDIA/SUPP/SCRIPTS/travel_calculator.py",
