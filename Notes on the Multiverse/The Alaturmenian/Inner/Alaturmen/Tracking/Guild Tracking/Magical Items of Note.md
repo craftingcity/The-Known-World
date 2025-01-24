@@ -123,7 +123,7 @@ aliases:
 
 		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-2 will dematerialize. After exactly 1 minute elapses, or when the command word is spoken again, the wielder dematerializes and immediately rematerializes with GME-012-2 in the space in which GME-012-2 dematerialized.
 
-		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, 
+		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-3 begins to emit a thick black smoke, which will surround the wielder in a 10' radius, until GME-012-3 ceases to emit the smoke and it naturally dissapates. While this smoke is impermiable  
 
 		- GME-012-4 is a diamond-shaped dagger made of an unknown bone-white metallic material and a long wrapped tang, acting as the grip, that has an open circle of this metal as its pommel. Once per day, when the wielder of this dagger speaks the command word, 
 
