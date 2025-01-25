@@ -285,7 +285,9 @@ Passing the tables and chairs east will lead to [[#The North Gate (10/rr)]], whi
 #### The North Gate (10/rr)
 The Obelisk has claimed the North Gate with thick vines and foliage, making passage North inaccessible from here. The space around the gate was once a beautiful work of marble or concrete - pristine fountains and statues of heroes - but time has added grunge, grime, and damage. Bags of sand, empty magazines, and bloodied bricks mark the battles that occurred here clearly.
 
-Following the pathways East or West will lead to [[#The Broken Tower (10/rr)]] and [[#The Open Cloister (10/rr)]] respectively, but above all else, the North Gate is an entryway to [[#The Temple Proper (20/rr)]], a grand but broken beast of a building.
+Above this devastation, the face of [[#The Temple Proper (20/rr)]] rises to the south, a grandiose work of stone, steel, and glass - and rising further above, piercing the clouds with its tip, the Obelisk ominously hovers and spins.
+
+Following the pathways East or West will lead to [[#The Broken Tower (10/rr)]] and [[#The Open Cloister (10/rr)]] respectively, but above all else, the North Gate is an entryway to [[#The Temple Proper (20/rr)]], a broken beast of a building.
 
 #### The Broken Tower (10/rr)
 East of [[#The North Gate (10/rr)]], the Broken Tower stands tall and bold, casting a tall shadow upon the horizon. In a courtyard of eroded stone columns and faded carvings, a thick white tower stands frozen in time; in most places, this grand tower is breaking apart, bricks are cracked and falling from the rest of the building, and a massive rupture scales the northern side of the tower, leaving portions of the interior quite visible. Once wonderous stained glass windows are blown out, covering the area in polychrome beams and shadows.
@@ -295,6 +297,7 @@ Whatever anomalous effect holds the tower in its state of immutability has no ef
 A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/rr)]].
 
 #### The Graveyard (14/rr)
+South of [[#The Open Cloister (10/rr)]] a large graveyard sits within the gates of the Temple District, west of [[#The Temple Proper (20/rr)]]. The center of the graveyard is 
 
 #### The Temple Proper (20/rr)
 
