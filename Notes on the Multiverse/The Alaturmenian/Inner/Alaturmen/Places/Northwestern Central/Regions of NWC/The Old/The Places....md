@@ -297,7 +297,7 @@ Whatever anomalous effect holds the tower in its state of immutability has no ef
 A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/rr)]].
 
 #### The Graveyard (14/rr)
-South of [[#The Open Cloister (10/rr)]] a large graveyard sits within the gates of the Temple District, west of [[#The Temple Proper (20/rr)]], where a dense fog is constantly present. The graveyard is split into six sections by ornate stone walkways that are inscribed with the names of the families entombed in that section. Each of these sections is marked by a central crypt holding the cremated ashes of that family's most honored members. 
+South of [[#The Open Cloister (10/rr)]], north of [[#The Dormitories (14/rr)]], and west of [[#The Temple Proper (20/rr)]], a large graveyard sits within the gates of the Temple District, where a dense fog is constantly present. The graveyard is split into six sections by ornate stone walkways that are inscribed with the names of the families entombed in that section. Each of these sections is marked by a central crypt holding the cremated ashes of that family's most honored members. 
 
 Vines and mosses have grown to damage the finer details in the crypts and headstones, leaving much of the text illegible, even once cleared. The Graveyard is notably less battle-scarred than the other areas of the Temple District - blaster marks or explosive damage cannot be found here in quantity - as if something was intentionally preventing or deescalating the damage done to the environment during combats in this area. 
 
@@ -305,6 +305,7 @@ Vines and mosses have grown to damage the finer details in the crypts and headst
 
 
 #### The Temple Garden (14/rr)
+
 
 #### The Dormitories (14/rr)
 
