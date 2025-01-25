@@ -297,7 +297,7 @@ Whatever anomalous effect holds the tower in its state of immutability has no ef
 A cut path leaves the Tower south, heading towards the [[#The Temple Garden (14/rr)]].
 
 #### The Graveyard (14/rr)
-South of [[#The Open Cloister (10/rr)]] a large graveyard sits within the gates of the Temple District, west of [[#The Temple Proper (20/rr)]]. The center of the graveyard is 
+South of [[#The Open Cloister (10/rr)]] a large graveyard sits within the gates of the Temple District, west of [[#The Temple Proper (20/rr)]]. The graveyard is split into six sections by ornate stone walkways. These walkways are inscribed with the names of the families entombed there. Each of these sections is marked by a central crypt holding the cremated ashes of that family's most honored members. Vines and mosses have grown to damage the finer details in the crypts and headstones, leaving much of the text illegible, even once cleared.
 
 #### The Temple Proper (20/rr)
 
