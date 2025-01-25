@@ -48,6 +48,8 @@ aliases:
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the Underdark.
+
+	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essance, which aggresively encourages growth of local flora and provides the resources necessary to do so.
 ```
 
 #### Relics of the Druids
@@ -677,7 +679,7 @@ aliases:
 	Source: The Old Man (TL-O uncontained, assumed deceased)
 	Last Known Keeper: Jerran, of the Hatdroppers
 
-	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is, at the time of record, uncontained and being used as a extraplanar base of operations by Jerran, of the Hatdroppers. Information suggests his current pattern of use is an effective method of meta-containment, and he is located somewhere in the eastern Illburn Forest.
+	Entry Description: GME-001 is to be stored within Vault 0's Warm Storage sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-001 is, at the time of record, uncontained and being used as a extraplanar base of operations by its current Keeper. Information suggests his current pattern of use is an effective method of meta-containment, and he is located somewhere in the eastern Illburn Forest.
 
 		GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-2 Planar Gate in the bag, containing an unknown number of door-handles of different shapes and sizes, GME-001-X. When pulled or pushed to open, a GME-001-X will act as its own Type-2 Planar Gate, pointed at a particular Consistent Extraplanar Instance. Once GME-001-X has been activated, GME-001 ceases to physically exist until that GME-001-X is activated again. This particular feature of GME-001 presents the hazardous possibility of any number of users being left stranded in GME-001-X CEIs where they cannot naturally survive.
 
