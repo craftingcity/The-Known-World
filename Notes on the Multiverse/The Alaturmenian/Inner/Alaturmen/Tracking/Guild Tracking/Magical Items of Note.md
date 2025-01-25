@@ -181,12 +181,12 @@ aliases:
 ###### Glimmering Moonbow
 ```
 	GME-014 "GLIMMERING MOONBOW"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Threat Level: PURPLE
+	Entry Class: TRINKET
+	Source: Unknown
+	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-014 is a set of
 ```
 
 ###### Elvenfibre
