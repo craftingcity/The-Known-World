@@ -305,7 +305,7 @@ Vines and mosses have grown to damage the finer details in the crypts and headst
 
 
 #### The Temple Garden (14/rr)
-Between [[#The Broken Tower (10/rr)]] and [[#The Stable Tower (8/rr)]], east of [[#The Temple Proper (20/rr)]], 
+Laying between [[#The Broken Tower (10/rr)]] and [[#The Stable Tower (8/rr)]], east of [[#The Temple Proper (20/rr)]], a beautiful, curated garden of bright flowers and tall hedges of exotic shapes has become the resting place for an uncountable number of under-suspicious scavengers.
 
 #### The Dormitories (14/rr)
 
