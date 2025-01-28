@@ -310,6 +310,7 @@ Laying between [[#The Broken Tower (10/rr)]] and [[#The Stable Tower (8/rr)]], e
 The neat shapes of the hedges and the bright colors of the flowers should warn those who would enter here of its lurking dangers.
 
 #### The Dormitories (14/rr)
+West of [[#The South Gate (10/rr)]], and south of [[#The Graveyard (14/rr)]], a large 
 
 #### The South Gate (10/rr)
 
