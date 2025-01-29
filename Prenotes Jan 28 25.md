@@ -38,7 +38,10 @@ Jade (2)
 #### Forgehome
 Tobias is Guide
 Minora is a Miner, and Tobias' cousin
-Mining deeper is more profitable, but more dangerous
+Mining deeper is more profitable, but more dangerous. They've acquired other miners, and some equipment, and are splitting the profit 50/50 guards/miners.
+
+We still need to figure out what and how we're mining, but thats Minora's business, not the party.
+
 
 ###### Shopping List
 Aloe Vera (12s / unit)
