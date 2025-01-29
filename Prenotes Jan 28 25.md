@@ -38,4 +38,12 @@ Jade (2)
 #### Forgehome
 Tobias is Guide
 Minora is a Miner, and Tobias' cousin
+Mining deeper is more profitable, but more dangerous
+
+###### Shopping List
+Aloe Vera (12s / unit)
+Jade (8s / unit)
+
+
+
 We leave our heroes on the date of ... AF, as they ...

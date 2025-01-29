@@ -141,7 +141,8 @@
               "title": "Currency of Alaturmen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -412,7 +413,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c269d89129f5931",
+  "active": "0131fc16def37360",
   "lastOpenFiles": [
     "Prenotes Jan 28 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
