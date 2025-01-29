@@ -52,7 +52,14 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 28 25"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "30785c3f92fa5c99",
+        "type": "tabs",
+        "children": [
           {
             "id": "0131fc16def37360",
             "type": "leaf",
@@ -76,8 +83,7 @@
               "title": "Forgehome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

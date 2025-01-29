@@ -16,7 +16,7 @@ The dwarves of Forgehome have grown rightly suspect of outsiders, and will only 
 ### Background
 Forgehome is one of the largest settlements on this side of the surface, and primarily acts as a mining town. Forgehome is an extended outpost of [[Dwarven Kingdom Jammu]] & the [[Darnt Hillkeep]], although they are an autonomous city-state by law.
 
-When it was created, Forgehome was designed as a temporary settlement that would act in-between the [[Darnt Hillkeep]] or other members of the surface and [[#Deepreach]], though the latter's demise would leave Forgehome to uptake their responsibilities, and become expansive and permanent.
+When it was created in the early 20s, Forgehome was designed as a temporary settlement that would act in-between the [[Darnt Hillkeep]] or other members of the surface and [[#Deepreach]], though eventually the latter's demise would leave Forgehome to uptake their responsibilities - becoming a expansive and permanent city.
 
 ## Important Places & Symbolism
 #### The Dry Moat
@@ -27,7 +27,7 @@ When it was created, Forgehome was designed as a temporary settlement that would
 While Forgehome has always been described as a "temporary" settlement, they have stayed long enough to populate an outpost between itself and the [[Grazing Fields]], the primary source of scavenge for Forgehome. As an outpost of an outpost, Post is very insular and protective of it's people and goods. Although it cannot compare to the fortress known as Forgehome, Post is well defended by constructed spikewalls and active guard towers.
 
 #### Deepreach
-The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep.
+The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep. Halls, passages, and simple trails lead from the edges of Forgehome down to the entrance of Deepreach. 
 
 ## Economics
 |     | # of Traders |
