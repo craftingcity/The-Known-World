@@ -29,6 +29,10 @@ You've lost count of how long you've been down here, but it's been more than a c
 
 
 ### What happened?
-
+#### Alchemicy
+Aloe (2)
+Goodberry (2)
+Blood 
+Jade
 
 We leave our heroes on the date of ... AF, as they ...

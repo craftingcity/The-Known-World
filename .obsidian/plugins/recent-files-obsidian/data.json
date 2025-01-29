@@ -5,6 +5,10 @@
       "path": "Prenotes Jan 28 25.md"
     },
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Features",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
     }
   ],
   "omittedPaths": [],
