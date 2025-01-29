@@ -22,7 +22,10 @@ You've lost count of how long you've been down here, but its been more than a co
 ### What does the World Know?
 #### Forgehome
 - The denizens of Forgehome are not fond of Outlanders, which is anyone who isn't a dwarf from here in their connotation, but certain citizens legally capitalize on this discrimination by marking up goods and services twenty-fold
-- A majority of the work in Forgehome is Mining or Metallics Pro
+- A majority of the work in Forgehome is Mining or Metallics Processing - grueling and low-paid work - but the industry is kept alive by the legendary status of Deepreach and it's riches.
+	- Sometimes, a couple miners come back weird (see Elderbrain)
+	- Sometimes, a couple miners come back with stories of 'the Illithid'
+- 
 
 
 ### What happened?
