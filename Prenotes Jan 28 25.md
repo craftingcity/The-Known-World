@@ -35,4 +35,7 @@ Goodberry (2)
 Blood (1)
 Jade (2)
 
+#### Forgehome
+Tobias is Guide
+Minora is a Miner, and Tobias' cousin
 We leave our heroes on the date of ... AF, as they ...
