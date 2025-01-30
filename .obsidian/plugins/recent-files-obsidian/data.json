@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Prenotes Jan 28 25",
-      "path": "Prenotes Jan 28 25.md"
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Guilded Mystic Entries",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
+      "basename": "The Monsters...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
+    },
+    {
+      "basename": "Forgehome",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
     },
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     },
     {
-      "basename": "Forgehome",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
+      "basename": "Prenotes Jan 28 25",
+      "path": "Prenotes Jan 28 25.md"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -33,10 +53,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     },
     {
-      "basename": "The Monsters...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md"
-    },
-    {
       "basename": "The Artifacts...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "The Places...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "Guilded Mystic Entries",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
     },
     {
       "basename": "AlchemicalComponentMotifs",
@@ -83,10 +91,6 @@
     {
       "basename": "Skillbooks",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     },
     {
       "basename": "Timeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Dante Fukili",
-      "path": "Junie's Characters/Dante Fukili.md"
     }
   ],
   "omittedPaths": [],
