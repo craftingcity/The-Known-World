@@ -3,32 +3,32 @@ tags: Underdark
 aliases:
 ---
 
-In the northwest, the Howling Warrens.
+In the northwest, the [[Howling Warrens]] are a genuine danger, leavimg those who return from there insane, and those who do not to suffer exposure to [[Pandemonium]].
 
-To its east, Darklake, home of the Ziggurat Kou-toa.
+To the east of the Warrens, the [[Great Abadon Lake]] is home of the Ziggurat Kou-toa.
 
-Further, the old human mining colony of Ammyrian. The Duergar make their home here, and spread to the south in fewer numbers.
+Further east, the old human mining colony of [[Heilich-Muwwoq|New Ammyrain]] lays. The Duergar make their home here, and spread to the south in fewer numbers towards [[Blurkfraggir]].
 
-West of their southern reaches, the settlement of Ootool is said to have been made by the Illithid, but this sounds unlikely, as noone has seen one come forth from the ruins on which the settlement is built
+South of the Warrens, the Settlement of [[Durgg-Likin]] is a less than civilized, being the home to a population of Shallow Men, including ex- humans, goblins, and orc.
 
-West-south-west, the Settlement of Durgg-Likin is a goblin settlement.
+West of Durgg-Likin, the Long River connects the Howling warrens and the Kalix territory to the far south. Their territory spans west and south from [[Hraak Azul]].
 
-West further, the Long River. This connects the Howling warrens and the Troglodyte territory to its south.
+Northeast of the Kalix territory and their capital city, the old [[Inverted Tower]] remains untouched, as its wards and traps still take victims to this day.
 
-Northeast of the territory of troglodytes, the old Inverted Tower remains untouched, as its wards and traps still take victim.
+Northeast still, in what could be considered the center of the region, a large vault contains the Drow city of [[Ungaethram]]. 
 
-Northeast still, a large vault contains the Drow city of [[Ungaethram]]. 
+To their east, the [[Hunting Grounds]] house a community of young dragons.
 
-To their east, a dragon hunts.
+South-south-east, the settlement of [[Forgehome]] exports metals into the surface. While they are affiliated with the [[Dwarven Kingdom Jammu]], they are an autonomous entity. 
 
-South-south-east, a dwarven settlement in Deepburrow. They are of the [[Dwarven Kingdom Jammu]].
+Far to the south of Forgehome south, [[Ootool]] is a fungal city, home to the wary and lost. 
 
-Far to its south, [[Ootool]] is a fungal city, home to all in the underdark. This is where [[The Whitimores]] fled to after being exiled from [[Ungaethram]].
+`This is where [[The Whitimores]] fled to after being exiled from [[Ungaethram]].`
 
 Centered between the [[Inverted Tower]], [[Forgehome]], and [[Ungaethram]] is the [[Grazing Fields]]. This place is lush with growth, attracting hunter and gatherer alike. This area is fruitful, but very dangerous.
 
-South of the Fields, a fungal forest leeches some of the prosperity that the Fields see.
+Southwest of the Fields, the [[Fungal Forests]] leeches some of the prosperity that the Fields see.
 
-Slightly northeast is [[Growth Heart]]. A ruin of an old druid's attempts at making the underdark a more comfortable place.
+Southeast of the Forests is the [[Growth Heart]]. An organ of a dead titan. Still beating.
 
-South some, the crystal sea spans far.
+South some, the [[Crystal Sea]] spans far, and to its east, [[Maelbrathyr]] stands at the edge of a wide abyss, marking the edge of the region.

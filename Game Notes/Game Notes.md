@@ -6,9 +6,11 @@ connect to [[Notes on the Multiverse]]
 	- [[Cathouse Game]]
 	- [[GavinHouse Game]]
 	- [[Milliehouse Game]]
+	- [[ParaeducatorGame]]
 	- [[Sarahouse Deakred Game]]
 	- [[The Hatdroppers]]
 - [[Campaigns]]
+- [[GAAKA 1 Key]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
 - **[[Prenotes]]**

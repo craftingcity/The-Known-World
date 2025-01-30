@@ -5,7 +5,6 @@ aliases: The Deep Below, Deep Below
 
 # Underdark
 %% Begin Waypoint %%
-- [[Fungal Forests]]
 - **General**
 	- [[Lolth]]
 	- [[Underdark Air]]
@@ -16,7 +15,6 @@ aliases: The Deep Below, Deep Below
 	- [[Underdark Light]]
 	- [[Underdark Rock Formation]]
 	- [[Underdark Threats]]
-- [[Grazing Fields]]
 - **Groups**
 	- [[House Thoulca]]
 	- [[Kalix]]
@@ -24,10 +22,19 @@ aliases: The Deep Below, Deep Below
 	- [[Ungaethram Drow Houses]]
 - **Locations & Holdings**
 	- [[Blurkfraggir]]
+	- [[Crystal Sea]]
+	- [[Durgg-Likin]]
 	- [[Forgehome]]
+	- [[Fungal Forests]]
+	- [[Grazing Fields]]
 	- [[Great Abadon Lake]]
 	- [[Growth Heart]]
 	- [[Heilich-Muwwoq]]
+	- [[Howling Warrens]]
+	- [[Hraak Azul]]
+	- [[Hunting Grounds]]
+	- [[Inverted Tower]]
+	- [[Maelbrathyr]]
 	- [[Ootool]]
 	- [[Ungaethram]]
 	- [[Upper Northwestern Underdark]]

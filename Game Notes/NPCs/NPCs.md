@@ -44,6 +44,7 @@ for the graph: [[Here lie my suppliments...]]
 		- **[[Grey Ordeal]]**
 		- [[Hannah's Gnoll (NAME)]]
 		- [[Irenaus]]
+		- [[Jerran Stormwind]]
 		- **[[Kakurak's Chosen]]**
 		- [[Wyruq the Grave Presence]]
 	- **[[True Villian NPCs]]**
@@ -52,7 +53,6 @@ for the graph: [[Here lie my suppliments...]]
 - **[[Mild Power]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
-	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]
