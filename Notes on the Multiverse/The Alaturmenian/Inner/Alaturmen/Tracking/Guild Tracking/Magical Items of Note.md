@@ -190,7 +190,7 @@ aliases:
 	
 		GME-014 is a set of identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 instance speaks the command word, GME-014 creates an arrow-like projectile of white light in the firing position. This projectile slowly disipates after roughly a minute under bright light, or longer under less light.
 
-	Instances of GME-014 were first rediscovered when a recovered first-elven weapon master's journal was partially restored, describing the use of the weapon by a prestigious class of warriors in a ritualistic ceremony that would replecate the weapon. The major details of the ritual were not recorded in the recovered text. Additional contextual evidence gathered by cooperative agents of Cenva Minyo suggests that, at the time of record, at least three instances have been recovered and sold to auction, of which one, GME-014-1, is currently being held by one Jerran Stormwind of The Hatdroppers (see GME-001).
+	Instances of GME-014 were first rediscovered when a recovered first-elven weapon master's journal was partially restored, describing the use of the weapon by a prestigious class of warriors in a ritualistic ceremony that would replecate the weapon. The major details of the ritual were not recorded in the recovered text. Additional contextual evidence gathered by cooperative agents of Cenva Minyo suggests that, at the time of record, at least three GME-014 instances have been recovered and sold to auction, of which one, GME-014-1, is currently being held by one Jerran Stormwind of The Hatdroppers (see GME-001).
 ```
 
 ###### Elvenfibre
@@ -216,7 +216,9 @@ aliases:
 
 	Entry Description: GME-015 are to be stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused. Although the total number of GME-015 instances is unknown, informed estimates suggest less than 100 instances have been created.
 
-	GME-015 is a set of identical shortswords made of a yellow-tinted ivory. Their guards are beautifully carved with imagery of a rising sun and clound-layer, and their grips are wrapped in Elvenfibre. In addition to their material proporties, when the wielder of a GME-015 instance speaks the command word, GME-015 emits a brillian white light
+	GME-015 is a set of identical shortswords made of a yellow-tinted ivory. Their guards are beautifully carved with imagery of a rising sun and clound-layer, and their grips are wrapped in Elvenfibre. In addition to their material proporties, once a day, when the wielder of a GME-015 instance speaks the command word, GME-015 emits a shining white light from the center of it's blade that reaches exactly 35', and no further. The effect ends after 1 minute. If a creature that the wielder considers an ally is harmed within the light, the brightness intensifies, and the wound immediately begins to recover.
+
+	Instances of GME-015 were first rediscovered when a recovered first-elven weapon master's journal was partially restored, describing the use of the weapon by a prestigious class of warriors in a ritualistic ceremony that would replecate the weapon. The major details of the ritual were not recorded in the recovered text. Additional contextual evidence gathered by cooperative agents of Cenva Minyo suggests that, at the time of record, no GME-015 instances have been recovered.
 ```
 
 ###### Radiation
@@ -227,11 +229,11 @@ aliases:
 	Source: Syther ben Yarom, Architect
 	Last Known Keeper: None, see Entry Description
 
-	Entry Description: GME-XXX is, at the time of record, uncontainable, ~~but stable~~ and unstable. GME-XXX is located with the Church of Flame's Minyostalma Blockade and Exclusion District (MBED).
+	Entry Description: GME-XXX is, at the time of record, uncontainable, ~~but stable~~ and unstable. GME-XXX is located within the Church of Flame's Minyostalma Blockade and Exclusion District (MBED).
 
 	GME-XXX is a material infection that is particularly potent against metallic materials. Over time, an object or material infected with GME-XXX will emit an aura within which the infection will spread across subjects in the area. When the infected material is moved, so too will the aura. For unknown reasons, the Fabric of the Weave becomes loosened in this aura, which can hamper or outright prevent manipulation of the Weave via spellcasting within the area.
 
-	The emmition of the aura is blocked in both transmittion and reception by the presence of lead or darksteel, which should be investigated further for the purposes of reducing personnel losses during experimentation and analysis of GME-XXX and related entries.
+	The emmition of the aura is blocked in both transmittion and reception by the presence of lead or darksteel, which should be investigated further for the purposes of reducing the major personnel losses experienced during experimentation and analysis of GME-XXX and related entries.
 ```
 
 ###### Fae-run Radiothermal Generator
@@ -259,7 +261,7 @@ aliases:
 
 	Entry Description: GME-XXX is, at the time of record, uncontainable, but stable. GME-XXX is located within the Church of Flame's Minyostalma Blockade and Exclusion District (MBED). 
 
-	GME-XXX is an immaterial field that translates incredibly minor changes within a very specific section of the Fabric of the Weave, known as 'Purple District', into tangeble physical changes to objects and beings within the area the field permiates that are susceptable to this effect. Expeditions into the MBED have produced additional objects of interest (GME-XXX-1) that are reliably susceptable to GME-XXX effects, known as 'Purple District Actors' or 'PDAs'. These objects are used frequently by the population of the MBED to display, transmit, or modify the information via interaction with GME-XXX.
+	GME-XXX is an immaterial field that translates incredibly minor changes within a very specific section of the Fabric of the Weave, known as 'Purple District', into tangeble physical changes in certain objects or beings within the area that are susceptable to this effect. Expeditions into the MBED have produced additional objects of interest (GME-XXX-1) that are reliably susceptable to GME-XXX effects, known as 'Purple District Actors' or 'PDAs'. These objects are used frequently by the population of the MBED to display, transmit, or modify the information presented by the device via interaction with GME-XXX.
 ```
 
 
@@ -632,7 +634,7 @@ aliases:
 
 	Entry Description: GME-002 is stored on a hanging rack within Vault 3.
 
-		GME-002 is a small white-dragonhide cloak with a sapphire clasp. While worn, GME-002 provides the user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
+		GME-002 is a small white-dragonhide cloak with a sapphire clasp. In addition to its material proporties, GME-002 provides its user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
 ```
 
 ###### Tubric's Gleeming Platemail
