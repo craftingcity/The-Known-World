@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     }
   ],
   "omittedPaths": [],
