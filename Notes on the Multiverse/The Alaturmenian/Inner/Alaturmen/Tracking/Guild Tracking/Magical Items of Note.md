@@ -186,9 +186,9 @@ aliases:
 	Source: Unknown
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-014 are stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel container lined with a soft textile.
+	Entry Description: GME-014 are stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused.
 	
-		GME-014 is a set of 
+		GME-014 is a set of less than 100 identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 speaks the command word, GME-014 creates an arrow-like projectile of white light
 ```
 
 ###### Elvenfibre
