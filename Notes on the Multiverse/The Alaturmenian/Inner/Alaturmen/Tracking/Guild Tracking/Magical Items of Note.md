@@ -119,7 +119,7 @@ aliases:
 	Source: Ty'kyta (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0
 
-	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with six equidistant pairs of display rods. Each GME-012 instance is to be placed in one of these six 'holding spaces' within the closet. No instance of GME-012 has been used at the time of article completion, as the entire set was delivered to a member of the Guild by their direct Source during Containment Conference 001.
+	Entry Description: GME-012 is to be stored within Vault 0's Warm Storage sector in a 10'x8'x1' darksteel closet that has been fitted with six equidistant pairs of display rods. Each GME-012 instance is to be placed in one of these six 'holding spaces' within the closet. No instance of GME-012 has been used in combat at the time of article completion, as the entire set was delivered to a member of the Guild by their direct Source during Containment Conference 001 and immediately contained.
 
 		GME-012 is a set of 6 unique daggers, where each of the instances have their own apperance and properties. Descriptions of the instances, named GME-012-1 through -6, are as follows;
 
@@ -186,9 +186,11 @@ aliases:
 	Source: Unknown
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-014 are stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused.
+	Entry Description: GME-014 are to be stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused. Although the total number of GME-014 instances is unknown, informed estimates suggest less than 100 instances have been created.
 	
-		GME-014 is a set of less than 100 identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 speaks the command word, GME-014 creates an arrow-like projectile of white light
+		GME-014 is a set of identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 speaks the command word, GME-014 creates an arrow-like projectile of white light in the firing position. This projectile slowly disipates after roughly a minute under bright light, or longer under less light.
+
+	GME-014 is a 
 ```
 
 ###### Elvenfibre

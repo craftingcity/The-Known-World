@@ -10,6 +10,52 @@
             "type": "tabs",
             "children": [
               {
+                "id": "1650538dd8791a1b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Armors of Alaturmen"
+                }
+              },
+              {
+                "id": "cc4dadcc7e080e38",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Weapons of Alaturmen"
+                }
+              },
+              {
                 "id": "e41612a46e273893",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -32,7 +78,8 @@
                   "title": "Magical Items of Note"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "e5058f8612f09e6b",
@@ -128,8 +175,7 @@
                   "title": "Magic Item Authors"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -232,7 +278,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 322.51240158081055
+        "width": 322.51240158081055,
+        "collapsed": true
       },
       "right": {
         "id": "f2489dfa6d1ed691",
@@ -379,8 +426,8 @@
           "obsidian-git:Open Git source control": false
         }
       },
-      "active": "e41612a46e273893",
-      "mtime": "2025-01-24T21:58:21-08:00"
+      "active": "c025880ea6fb8c5c",
+      "mtime": "2025-01-29T19:32:50-08:00"
     },
     "Minyostalma Blockade and Exclusion District": {
       "main": {
