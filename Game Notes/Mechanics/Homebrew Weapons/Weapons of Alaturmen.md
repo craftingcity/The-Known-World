@@ -169,12 +169,17 @@ Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use 
 
 ##### Polearms
 #### Glaive
-Glaives are tall polearms with a single-edged blade affixed on its end. Used as a slashing implement, the Glaive is a fearsome reminder of authority.
+Glaives are tall polearms with a single-edged blade affixed on its end. Used as a slashing implement, the Glaive is a fearsome weapon of war, most often used by experienced cavalry units.
 
 Glaives deal 2d6 slashing damage.
 Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Halberd
+Halberds are tall polearms with an axe head and a vertical point on its long end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
+
+Halberds deal 2d8 slashing damage.
+Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Polehammer
 #### Spear
 #### Lance
