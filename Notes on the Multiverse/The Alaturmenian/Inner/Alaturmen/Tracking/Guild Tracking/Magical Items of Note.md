@@ -188,9 +188,9 @@ aliases:
 
 	Entry Description: GME-014 are to be stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused. Although the total number of GME-014 instances is unknown, informed estimates suggest less than 100 instances have been created.
 	
-		GME-014 is a set of identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 speaks the command word, GME-014 creates an arrow-like projectile of white light in the firing position. This projectile slowly disipates after roughly a minute under bright light, or longer under less light.
+		GME-014 is a set of identical longbows made of a curve of blue-tinted ivory roughly 5-feet long, and strung with a thread of Elvenibre. In addition to their material proporties, when the wielder of a GME-014 instance speaks the command word, GME-014 creates an arrow-like projectile of white light in the firing position. This projectile slowly disipates after roughly a minute under bright light, or longer under less light.
 
-	GME-014 is a 
+	Instances of GME-014 were first rediscovered when a recovered first-elven weapon master's journal was partially restored, describing the use of the weapon by a prestigious class of warriors in a ritualistic ceremony that would replecate the weapon. The major details of the ritual were not recorded in the recovered text. Additional contextual evidence gathered by cooperative agents of Cenva Minyo suggests that, at the time of record, at least three instances have been recovered and sold to auction, of which one, GME-014-1, is currently being held by one Jerran Stormwind of The Hatdroppers (see GME-001).
 ```
 
 ###### Elvenfibre
@@ -209,12 +209,14 @@ aliases:
 ###### Dawnblade
 ```
 	GME-015 "DAWNBLADE"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
-	Last Known Keeper: KEEPER
+	Threat Level: PURPLE
+	Entry Class: TRINKET
+	Source: Unknown
+	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-015 are to be stored within Vault 0's Warm Storage sector in a series of 6'x3'x1' darksteel containers, each of which is lined with a soft textile. GME-014 are, at the time, largely uncontained and unused. Although the total number of GME-015 instances is unknown, informed estimates suggest less than 100 instances have been created.
+
+	GME-015 is a set of identical shortswords made of a yellow-tinted ivory. Their guards are beautifully carved with imagery of a rising sun and clound-layer, and their grips are wrapped in Elvenfibre. In addition to their material proporties, when the wielder of a GME-015 instance speaks the command word, GME-015 emits a brillian white light
 ```
 
 ###### Radiation
