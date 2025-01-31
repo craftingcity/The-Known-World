@@ -193,7 +193,11 @@ Spears deal 2d4 peircing damage.
 Spears are *versatile (d6)* and *reach*. Once per rest, you may use this weapon's special ability;
 
 #### Lance
-Lances are generally 
+Lances are generally ceremonial weapons for competition, or disposable cavalry weaponry. A strong lance is most effective when used by an agile or mounted wielder.
+
+Lances deal 1d12 piercing damage.
+Lances are *very heavy*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Warscythe
 ##### Loose
 #### Bull Whip
