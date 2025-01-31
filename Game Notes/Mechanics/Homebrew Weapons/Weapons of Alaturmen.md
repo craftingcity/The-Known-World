@@ -175,12 +175,17 @@ Glaives deal 2d6 slashing damage.
 Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Halberd
-Halberds are tall polearms with an axe head and a vertical point on its long end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
+Halberds are tall polearms with an axe head and a vertical point on its working end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
 
 Halberds deal 2d8 slashing damage.
 Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Polehammer
+Polehammers are tall polearms with a large hammer head and a sharp claw on its working end. The polehammer is typically used to destroy or damage the armor of opponents.
+
+Polehammers deal 2d6 bludgeoning damage.
+Polehammers are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Spear
 #### Lance
 #### Warscythe
