@@ -169,20 +169,35 @@ Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use 
 
 ##### Polearms
 #### Glaive
-Glaives are tall polearms with a single-edged blade affixed on its end. Used as a slashing implement, the Glaive is a fearsome weapon of war, most often used by experienced cavalry units.
+Glaives are tall polearms with a single-edged blade affixed on its working end. Used as a slashing implement, the Glaive is a fearsome weapon of war, most often used by experienced cavalry units.
 
 Glaives deal 2d6 slashing damage.
 Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Halberd
-Halberds are tall polearms with an axe head and a vertical point on its long end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
+Halberds are tall polearms with an axe head and a vertical point on its working end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
 
 Halberds deal 2d8 slashing damage.
 Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Polehammer
+Polehammers are tall polearms with a large hammer head and a sharp claw on its working end. The polehammer is typically used to destroy or damage the armor of opponents.
+
+Polehammers deal 2d6 bludgeoning damage.
+Polehammers are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Spear
+Spears are the classical polearm, used en-mass by hunters, guards, and soldiers alike, the spear is a natural choice for a committed combatant.
+
+Spears deal 2d4 peircing damage.
+Spears are *versatile (d6)* and *reach*. Once per rest, you may use this weapon's special ability;
+
 #### Lance
+Lances are generally ceremonial weapons for competition, or disposable cavalry weaponry. A strong lance is most effective when used by an agile or mounted wielder.
+
+Lances deal 1d12 piercing damage.
+Lances are *very heavy*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Warscythe
 ##### Loose
 #### Bull Whip

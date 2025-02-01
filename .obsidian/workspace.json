@@ -435,7 +435,7 @@
           {
             "id": "6eeedb9a44eef89f",
             "type": "tabs",
-            "dimension": 84.6039603960396,
+            "dimension": 81.75438596491227,
             "children": [
               {
                 "id": "2fece335fbe8eee0",
@@ -466,7 +466,7 @@
           {
             "id": "711142cea1c359e4",
             "type": "tabs",
-            "dimension": 15.396039603960396,
+            "dimension": 18.24561403508772,
             "children": [
               {
                 "id": "a25b7890bccb8909",
@@ -494,19 +494,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 0,
+        "y": 0,
+        "width": 1084,
+        "height": 912,
+        "maximize": false,
+        "zoom": -1.5
+      },
+      {
+        "id": "6142eda334579237",
+        "type": "window",
+        "children": [
+          {
+            "id": "6e5752a10892e2ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7b4f3c69f0d30ce8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Weapon Mechanics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1083,
+        "y": 0,
+        "width": 453,
+        "height": 912,
+        "maximize": false,
         "zoom": -1.5
       }
     ]
   },
-  "active": "a25b7890bccb8909",
+  "active": "e41612a46e273893",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
@@ -533,7 +576,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",
