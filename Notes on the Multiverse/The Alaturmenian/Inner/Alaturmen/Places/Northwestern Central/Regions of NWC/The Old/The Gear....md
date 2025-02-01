@@ -87,7 +87,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | ----------------------- | ------ | -------------- | ------- | --------------------- | ---------- |
 | Chitin Studded          | Light  | 13+DEX         | 1x Arti | all                   | 0.2        |
 | Chitin Mail             | Medium | 14+DEX (max 3) | 1x Arti | all                   | 0.4        |
-| Chitin Plate            | Heavy  | 16+DEX (max 2) | 1x Arti | all                   | 0.75       |
+| Chitin Plate            | Heavy  | 16+DEX (max 3) | 1x Arti | all                   | 0.75       |
 | Pressigen Scout Armor   | Light  | 16+DEX         | 3x Arti | scavs, mercs          | 1.0        |
 | Pressigen Combat Armor  | Medium | 18+DEX         | 3x Arti | scavs, mercs          | 2.5        |
 | Blessed Half-plate      | Medium | 17+DEX (max 2) | 2x Arti | wfm, extramis         | 0.8        |

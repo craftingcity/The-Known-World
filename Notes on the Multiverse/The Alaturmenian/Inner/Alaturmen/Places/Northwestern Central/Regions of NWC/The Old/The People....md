@@ -1,7 +1,7 @@
 ### The People...
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 
-##### Scavengers / Seekers / Scavs
+##### Scavengers / Rookies
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
 
 ###### Equipment
@@ -9,34 +9,31 @@ The Scavs are very likely underequipped.
 
 | Class (lvl) | AC  | Atk | Dmg |
 | ----------- | --- | --- | --- |
-| Tourist     |     |     |     |
-| Scavenger   |     |     |     |
-| Bandit      |     |     |     |
-| Seeker      |     |     |     |
-| Veteran     |     |     |     |
+| Tourist     | (Leather) 13  |     |     |
+| Scavenger   | (Leather) 15  |     |     |
+| Bandit      | (Leather) 16  |     |     |
+| Seeker      | (P. Scou) 17  |     |     |
+| Veteran     | (P. Combat Armor) 20  |     |     |
 
 ###### Areas of Operation
-- [[#The Haven]]
-	- The Seekers within the Haven are united by their allegiance to [[Ondo]] and each other. 
-	- The Seekers use the Rookie Village as their Headquarters, and have a loose control over the surrounding area.
-- [[#The Sticks]]
-	- The Seekers within the Sticks leave with fewer friends than they entered with, and much more trauma.
-- [[#The Factory]]
-	- Most inexperienced Seekers avoid this area for fear of Mercs, and Hostile Scavs.
-- [[#The City]]
-	- Few Seekers operate in the City, and those who do are allied to many different and even conflicting Factions.
-- [[#The Village]]
-	- Few Seekers operate in the Village, and those who do are allied to many different and even conflicting Factions.
-- [[#The Base]]
-	- Most inexperienced Seekers avoid this area for fear of Mercs, and Hostile Scavs.
-- [[#The Dwarven Ship]]
-	- Most inexperienced Seekers avoid this area for fear of Troopers, and Hostile Scavs.
+- [[The Places...#The Haven]]
+	- The *Rookies* within the Haven are united by their allegiance to [[Ondo]] and each other. 
+	- *Rookies* and *Extramis* fight against the *Militants* coming from [[The Places...#The Cordon]].
+- [[The Places...#The Sticks]]
+	- The Scavs within the Sticks leave with fewer friends than they entered with, and much more trauma.
+	- *Rookies* fight against *Bandits* and *Militants* coming from [[The Places...#The Eastern Breach (1/rr)]] or the [[The Places...#Grey Forest (4/rr)]].
+- [[The Places...#The Factory]] & [[The Places...#The Base]]
+	- Most Scavs avoid this area for fear of *Bandits* or *Mercs*.
+- [[The Places...#The City]] & [[The Places...#The Village]]
+	- Few Scavs operate in the South, and those who do are allied to many different (and even conflicting) Factions.
+- [[The Places...#The Dwarven Ship]]
+	- The *Talons* within the Shipyard are united by their allegiance to [[Zarchen]] and each other.
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
 
 ###### Equipment
-The WFM are reasonably equipped for their task, but undersupplied for deep exploration.
+The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
 | Class (lvl) | AC  | Atk | Dmg |
 | ----------- | --- | --- | --- |
