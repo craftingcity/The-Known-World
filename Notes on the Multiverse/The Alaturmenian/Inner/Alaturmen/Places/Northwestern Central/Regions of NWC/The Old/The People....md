@@ -1,8 +1,9 @@
 ### The People...
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 
-##### Scavengers / Rookies
+##### Scavengers
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
+
 
 ###### Equipment
 The Scavs are very likely underequipped.
@@ -26,9 +27,16 @@ The Scavs are very likely underequipped.
 	- Most Scavs avoid this area for fear of *Bandits* or *Mercenaries*.
 - [[The Places...#The City]] & [[The Places...#The Village]]
 	- Few Scavs operate in the South, and those who do are allied to many different (and even conflicting) Factions.
-- [[The Places...#The Dwarven Ship]]
+- [[The Places...#The Shipyard]]
 	- The *Talons* within the Shipyard are united by their allegiance to [[Zarchen]] and each other.
 	- *Talons* and *Troopers* fight against *Fallen* coming from [[The Places...#The Temple]] or [[The Places...#Flats (6/rr)]].
+
+###### Politics
+- Other *Scavangers* can be shady, but the *Rookies* and *Talons* are good.
+- *Militants* try to shoot us on sight. We fight back.
+- *Mercenaries* are shady. They are worth dealing with.
+- *Extramis* are the good guys. They help us, we help them.
+- *Troopers* are shady. They usually try to fight us if we meet outside [[The Places...#The Shipyard]].
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
@@ -47,12 +55,19 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 ###### Areas of Operation
 - [[The Places...#The Cordon]]
 	- The *Militants* occupy and control the Cordon as a Command Headquarters for their extended operations.
-	- The *Militants* fight against *Rookies* and *Extramis* for control of [[The Places...#The Haven]]
+	- The *Militants* fight against *Rookies* and *Extramis* for control of [[The Places...#The Haven]].
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
-	- The *Militants* fight against *Bandits*, *Mercenaries*
-- [[The Places...#The City]]
-- [[The Places...#The Village]]
-- 
+	- The *Militants* fight against *Bandits* and *Mercenaries* for control of the Industrial Section.
+	- The additional presence of *Troopers*, *Extramis*, and/or *Fallen* makes this impossible, but not unprofitable.
+- [[The Places...#The City]] & [[The Places...#The Village]]
+	- The *Militants* fight against everyone in the south, and don't stay around for long.
+
+###### Politics
+- *Scavangers* are fugitives and heretics. They aren't worth the bullets, but we must.
+- Other *Militants* are good kin. We're all trying to do our duty.
+- *Mercenaries* are terrible. No better than Scavs, just harder to kill.
+- *Extramis* doesn't exist. Those are Scavs.
+- *Troopers* are terrible. No better than Scavs, just harder to kill.
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
@@ -67,13 +82,13 @@ Hired soldiers willing to keep their employer's identity secret, the Mercenary g
 
 ###### Equipment
 The Mercenaries are well equipped.
+
 ###### Areas of Operation
-- [[#The Factory]]
-- [[#The City]]
-- [[#The Village]]
-- [[#The Temple]]
-- [[#The Base]]
-- [[#The Dwarven Ship]]
+- [[The Places...#The Factory]]
+- [[The Places...#The Base]]
+- [[The Places...#The City]] & [[The Places...#The Village]]
+- [[The Places...#The Temple]]
+- [[The Places...#The Shipyard]]
 
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
