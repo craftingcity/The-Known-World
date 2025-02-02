@@ -72,23 +72,41 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
 
-| Class (lvl)     | AC  | Atk | Dmg |
-| --------------- | --- | --- | --- |
-| Team Prospect   |     |     |     |
-| Team Member     |     |     |     |
-| Team Specialist |     |     |     |
-| Team Leader     |     |     |     |
-| Solo Operator   |     |     |     |
+| Class (lvl)     | AC                          | ATK      | DMG                           |
+| --------------- | --------------------------- | -------- | ----------------------------- |
+| Team Prospect   | (Patched S. Armor) 17       | +5  (x2) | 3d6+4 dam  (D. Carbine)       |
+| Team Member     | (P. Scout Armor)   19       | +8  (x2) | 3d6+8 dam  (Refined Carbine)  |
+| Team Specialist | (P. Combat Armor)  22       | +8  (x2) | 4d6+8 dam  (Dual-pop Carbine) |
+| Team Leader     | (P. Combat Armor)  23       | +9  (x3) | 4d6+10 dam (Dual-pop Carbine) |
+| Solo Operator   | (D. Power Plate)   23, DR 5 | +10 (x3) | 4d6+10 dam (Dual-pop Carbine) |
 
 ###### Equipment
-The Mercenaries are well equipped.
+The Mercenaries are well-equipped.
 
 ###### Areas of Operation
 - [[The Places...#The Factory]]
+	- Home sweet home, Factory HQ.
+	- Chokepoints help *Mercenaries* fight against *Militants*, *Scavs*, and *Troopers* to maintain control of the area.
+	- Thankfully, *Fallen* don't come up this far.
 - [[The Places...#The Base]]
+	- The First Objective.
+	- *Mercenaries* fight against against everyone necessary to perform operations here.
 - [[The Places...#The City]] & [[The Places...#The Village]]
+	- The Second Objective.
+	- *Mercenaries* fight against everyone necessary to perform operations here.
+	- We try to leave *Extramis* alone, but it's no issue if they try us.
 - [[The Places...#The Temple]]
+	- The Final Objective.
+	- *Mercenaries* fight against everyone necessary to perform operations here.
 - [[The Places...#The Shipyard]]
+	- Sometimes, you need to buy more bullets. Sneak in, sneak out. *Troopers* don't like us sticking around too long.
+
+###### Politics
+- *Scavangers* are too inexperienced to survive here. May as well scam 'em first.
+- *Militants* can be trouble, but we always need them gone.
+- Other *Mercenaries* are good. We can all go home if we work together.
+- *Extramis* are fine, they don't mess with us, so we don't mess with them.
+- *Troopers* have a weird sense of honor. Sell you a gun only to hunt you with it's sister.
 
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
