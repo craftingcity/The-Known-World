@@ -124,10 +124,24 @@ Extramis is underequipped, but knowledgeable.
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
-	- Stay safe, turn Fresh Meat into *Rookies*, and *Rookies* into 
+	- Turn New-Bloods into *Rookies*, and *Rookies* into *Extramis*. Help where you can, but stay safe.
+	- *Rookies* and *Extramis* fight against the *Militants* coming from [[The Places...#The Cordon]].
 - [[The Places...#The Sticks]]
+	- Not a safe place, but a good place to hide.
+	- *Extramis* fight against the *Bandits* here.
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
+	- The *Mercenaries* rule around here. Be friendly, but be cautious.
+	- *Extramis* often work with the *Mercenaries* and fight against *Militants* and *Troopers* here.
 - [[The Places...#The City]] & [[The Places...#The Village]]
+	- For the bold, and the brave. Go with the Spirit of Arthur.
+	- *Extramis* work with either *Mercenaries* or *Scavengers* to fight against the other factions here.
+
+###### Politics
+- *Scavangers* can be honorable.
+- *Militants* are enemies to us, holding us all here.
+- *Mercenaries* are typically dishonorable, but not an enemy to us.
+- Other *Extramis* will help you if you need it.
+- *Troopers* are typically dishonorable. Fight them when you can.
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
