@@ -8,13 +8,13 @@ A collective name for the individuals and groups without a greater affiliation t
 ###### Equipment
 The Scavs are very likely underequipped.
 
-| Class (lvl) | AC                    | ATK           | DMG                              |
-| ----------- | --------------------- | ------------- | -------------------------------- |
-| Tourist     | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
-| Scavenger   | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
-| Bandit      | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
-| Seeker      | (P. Combat Armor)  20 | +7+1d4  (2x)  | 3d6+1d4+4 dam (Blessed Carbine)  |
-| Veteran     | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
+| Class (lvl) | HP  | AC                    | ATK           | DMG                              |
+| ----------- | --- | --------------------- | ------------- | -------------------------------- |
+| Tourist     | 35  | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
+| Scavenger   | 50  | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Bandit      | 65  | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Seeker      | 80  | (P. Combat Armor)  20 | +7+1d4  (2x)  | 3d6+1d4+4 dam (Blessed Carbine)  |
+| Veteran     | 95  | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
@@ -44,13 +44,13 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
-| Class (lvl) | AC                      | ATK         | DMG                                   |
-| ----------- | ----------------------- | ----------- | ------------------------------------- |
-| Ensign      | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 dam   (Blessed Handblaster) |
-| Private     | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 dam   (Blessed Carbine)     |
-| Corporal    | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 dam   (Blessed Carbine)     |
-| Captain     | (Blessed Platemail)  20 | +10    (x2) | 4d6+7 dam       (Dual-pop Carbine)    |
-| Major       | (Blessed Platemail)  20 | +11    (x3) | 4d6+8 dam       (Dual-pop Carbine)    |
+| Class (lvl) | HP  | AC                      | ATK         | DMG                                   |
+| ----------- | --- | ----------------------- | ----------- | ------------------------------------- |
+| Ensign      | 40  | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 dam   (Blessed Handblaster) |
+| Private     | 60  | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 dam   (Blessed Carbine)     |
+| Corporal    | 80  | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 dam   (Blessed Carbine)     |
+| Captain     | 100 | (Blessed Platemail)  20 | +10    (x2) | 4d6+7 dam       (Dual-pop Carbine)    |
+| Major       | 120 | (Blessed Platemail)  20 | +11    (x3) | 4d6+8 dam       (Dual-pop Carbine)    |
 
 ###### Areas of Operation
 - [[The Places...#The Cordon]]
@@ -72,13 +72,13 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
 
-| Class (lvl)     | AC                          | ATK      | DMG                           |
-| --------------- | --------------------------- | -------- | ----------------------------- |
-| Team Prospect   | (Patched S. Armor) 17       | +5  (x2) | 3d6+4 dam  (D. Carbine)       |
-| Team Member     | (P. Scout Armor)   19       | +8  (x2) | 3d6+8 dam  (Refined Carbine)  |
-| Team Specialist | (P. Combat Armor)  22       | +8  (x2) | 4d6+8 dam  (Dual-pop Carbine) |
-| Team Leader     | (P. Combat Armor)  23       | +9  (x3) | 4d6+10 dam (Dual-pop Carbine) |
-| Solo Operator   | (D. Power Plate)   23, DR 5 | +10 (x3) | 4d6+10 dam (Dual-pop Carbine) |
+| Class (lvl)     | HP  | AC                          | ATK      | DMG                           |
+| --------------- | --- | --------------------------- | -------- | ----------------------------- |
+| Team Prospect   | 45  | (Patched S. Armor) 17       | +5  (x2) | 3d6+4 dam  (D. Carbine)       |
+| Team Member     | 60  | (P. Scout Armor)   19       | +8  (x2) | 3d6+8 dam  (Refined Carbine)  |
+| Team Specialist | 80  | (P. Combat Armor)  22       | +8  (x2) | 4d6+8 dam  (Dual-pop Carbine) |
+| Team Leader     | 100 | (P. Combat Armor)  23       | +9  (x3) | 4d6+10 dam (Dual-pop Carbine) |
+| Solo Operator   | 125 | (D. Power Plate)   23, DR 5 | +10 (x3) | 4d6+10 dam (Dual-pop Carbine) |
 
 ###### Equipment
 The Mercenaries are well-equipped.
@@ -114,13 +114,13 @@ Extramis is a loose collective of ex-soldiers and experienced seekers that claim
 ###### Equipment
 Extramis is underequipped, but knowledgeable.
 
-| Class (lvl) | AC  | Atk | Dmg |
-| ----------- | --- | --- | --- |
-| Fratrem     |     |     |     |
-| Patruus     |     |     |     |
-| Redigo      |     |     |     |
-| Produco     |     |     |     |
-| Ratiocinor  |     |     |     |
+| Class (lvl) | HP  | AC  | ATK | DMG |
+| ----------- | --- | --- | --- | --- |
+| Fratrem     | 40  |     |     |     |
+| Patruus     | 60  |     |     |     |
+| Redigo      | 80  |     |     |     |
+| Produco     | 100 |     |     |     |
+| Ratiocinor  | 120 |     |     |     |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
@@ -134,21 +134,19 @@ Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers a
 ###### Equipment
 The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
 
-| Class (lvl) | AC  | Atk | Dmg |
-| ----------- | --- | --- | --- |
-| Ensign      |     |     |     |
-| Private     |     |     |     |
-| Corporal    |     |     |     |
-| Captain     |     |     |     |
-| Major       |     |     |     |
+| Class (lvl) | HP  | AC  | ATK | DMG |
+| ----------- | --- | --- | --- | --- |
+| Ensign      | 45  |     |     |     |
+| Private     | 60  |     |     |     |
+| Corporal    | 80  |     |     |     |
+| Captain     | 100 |     |     |     |
+| Major       | 125 |     |     |     |
 
 ###### Areas of Operation
-- [[#The Factory]]
-- [[#The City]]
-- [[#The Village]]
-- [[#The Temple]]
-- [[#The Base]]
-- [[#The Dwarven Ship]]
+- [[The Places...#The Factory]] & [[The Places...#The Base]]
+- [[The Places...#The City]] & [[The Places...#The Village]]
+- [[The Places...#The Temple]]
+- [[The Places...#The Shipyard]]
 
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
@@ -158,16 +156,16 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 ###### Equipment
 The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
 
-| Class (lvl) | AC  | Atk | Dmg |
-| ----------- | --- | --- | --- |
-| Alpha       |     |     |     |
-| Beta        |     |     |     |
-| Epsilon     |     |     |     |
-| Omega       |     |     |     |
-| Omnicron    |     |     |     |
+| Class (lvl) | HP  | AC                          | ATK      | DMG |
+| ----------- | --- | --------------------------- | -------- | --- |
+| Alpha       | 80  | (P. Scout Armor)   19       | +6  (x2) |     |
+| Beta        | 135 | (P. Combat Armor)  23       | +9  (x2) |     |
+| Epsilon     | 160 | (P. Combat Armor)  23       | +10 (x2) |     |
+| Omega       | 210 | (D. Power Plate)   23, DR 5 | +11 (x3) |     |
+| Omnicron    | 300 | (D. Power Plate)   23, DR 5 | +12 (x3) | 4d6+    |
 
 ###### Areas of Operation
-- [[#The City]]
-- [[#The Village]]
-- [[#The Temple]]
-- [[#The Base]]
+- [[The Places...#The Base]]
+- [[The Places...#The City]] & [[The Places...#The Village]]
+- [[The Places...#The Temple]]
+- [[The Places...#The Shipyard]]
