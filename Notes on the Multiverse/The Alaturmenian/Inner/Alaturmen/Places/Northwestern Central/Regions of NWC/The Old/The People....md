@@ -114,16 +114,17 @@ Extramis is a loose collective of ex-soldiers and experienced seekers that claim
 ###### Equipment
 Extramis is underequipped, but knowledgeable.
 
-| Class (lvl) | HP  | AC  | ATK | DMG |
-| ----------- | --- | --- | --- | --- |
-| Fratrem     | 40  |     |     |     |
-| Patruus     | 60  |     |     |     |
-| Redigo      | 80  |     |     |     |
-| Produco     | 100 |     |     |     |
-| Ratiocinor  | 120 |     |     |     |
+| Class (lvl) | HP  | AC                         | ATK           | DMG                          |
+| ----------- | --- | -------------------------- | ------------- | ---------------------------- |
+| Fratrem     | 40  | (Chitin Plate)    18       | +4 (15' Cone) | 5d6+2 dam (D. Scatter)       |
+| Patruus     | 60  | (P. Combat Armor) 21       | +7 (x2)       | 3d6+5 dam (Refined Carbine)  |
+| Redigo      | 80  | (P. Combat Armor) 22       | +7 (x2)       | 4d6+4 dam (Dual-pop Carbine) |
+| Produco     | 100 | (D. Tank Plate)   21, DR 2 | +8 (x2)       | 4d6+5 dam (Dual-pop Carbine) |
+| Ratiocinor  | 120 | (E. Power Plate)  22, DR 2 | +9 (x3)       | 4d6+6 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
+	- Stay safe, turn Fresh Meat into *Rookies*, and *Rookies* into 
 - [[The Places...#The Sticks]]
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
 - [[The Places...#The City]] & [[The Places...#The Village]]
@@ -134,13 +135,13 @@ Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers a
 ###### Equipment
 The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
 
-| Class (lvl) | HP  | AC  | ATK | DMG |
-| ----------- | --- | --- | --- | --- |
-| Ensign      | 45  |     |     |     |
-| Private     | 60  |     |     |     |
-| Corporal    | 80  |     |     |     |
-| Captain     | 100 |     |     |     |
-| Major       | 125 |     |     |     |
+| Class (lvl) | HP  | AC                         | ATK      | DMG                          |
+| ----------- | --- | -------------------------- | -------- | ---------------------------- |
+| Ensign      | 45  | (R. Tank Plate)   20, DR 1 | +8       | 3d6+4 dam (Refined Carbine)  |
+| Private     | 60  | (D. Tank Plate)   21, DR 2 | +9  (x2) | 4d6+2 dam (Dual-pop Carbine) |
+| Corporal    | 80  | (D. Tank Plate)   21, DR 2 | +11 (x2) | 4d6+3 dam (Dual-pop Carbine) |
+| Captain     | 100 | (E. Power Plate)  22, DR 2 | +12 (x2) | 4d6+3 dam (Dual-pop Carbine) |
+| Major       | 125 | (D. Power Plate)  23, DR 5 | +14 (x3) | 4d6+4 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
@@ -156,13 +157,13 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 ###### Equipment
 The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
 
-| Class (lvl) | HP  | AC                          | ATK      | DMG |
-| ----------- | --- | --------------------------- | -------- | --- |
-| Alpha       | 80  | (P. Scout Armor)   19       | +6  (x2) |     |
-| Beta        | 135 | (P. Combat Armor)  23       | +9  (x2) |     |
-| Epsilon     | 160 | (P. Combat Armor)  23       | +10 (x2) |     |
-| Omega       | 210 | (D. Power Plate)   23, DR 5 | +11 (x3) |     |
-| Omnicron    | 300 | (D. Power Plate)   23, DR 5 | +12 (x3) | 4d6+    |
+| Class (lvl) | HP  | AC                          | ATK      | DMG                          |
+| ----------- | --- | --------------------------- | -------- | ---------------------------- |
+| Alpha       | 80  | (P. Scout Armor)   19       | +8  (x2) | 4d6+6 dam (Dual-pop Carbine) |
+| Beta        | 135 | (P. Combat Armor)  23       | +9  (x2) | 4d6+7 dam (Dual-pop Carbine) |
+| Epsilon     | 160 | (P. Combat Armor)  23       | +10 (x2) | 4d6+7 dam (Dual-pop Carbine) |
+| Omega       | 210 | (D. Power Plate)   23, DR 5 | +11 (x3) | 4d6+7 dam (Dual-pop Carbine) |
+| Omnicron    | 300 | (D. Power Plate)   23, DR 5 | +12 (x3) | 4d6+8 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Base]]
