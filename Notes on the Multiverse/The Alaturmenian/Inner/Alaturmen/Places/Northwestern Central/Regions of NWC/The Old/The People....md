@@ -164,8 +164,18 @@ The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Pl
 	- Contracts between *Militants* and *Troopers* mean they work together here.
 	- *Troopers* and *Militants* fight against *Fallen*, *Mercenaries*, and *Extramis* here.
 - [[The Places...#The Temple]]
+	- *Troopers* fight against *Fallen* here.
+	- We have to defend ourselves against others sometimes, but we don't start fights here.
 - [[The Places...#The Shipyard]]
 	- Our beloved shipyard, the Trooper Commons Headquarters are within the Ship itself.
+	- We try to keep the peace here for the sake of our profits.
+
+###### Politics
+- *Scavangers* are fools, and poor ones at that. Don't let them pull anything.
+- *Militants* are reasonable, just trying to work. Sometimes, we need them gone, but usually we can leave them be.
+- *Mercenaries* are terrible. Greedy, sneaky bastards.
+- *Extramis* would be better off fighting against the Mercs, not with them. Shame we have to put them down too.
+- Other *Troopers* are good folk. Even if we're not cousins, the blood we spill pushes us together.
 
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
@@ -185,6 +195,11 @@ The Fallen are more than well equipped, sporting heavily modded Durandurm Carbin
 
 ###### Areas of Operation
 - [[The Places...#The Base]]
+	- <The infidels are holding out in this place, we will drive them back to their holes!>
 - [[The Places...#The City]] & [[The Places...#The Village]]
+	- <The hunting grounds of our heroes, where we slay intruders with swift glee.>
 - [[The Places...#The Temple]]
-- [[The Places...#The Shipyard]]
+	- <Blessed be the Obelisk. Ohum, Obelisk. Blessed be the Obelisk. Ohum, Obelisk.>
+
+###### Politics
+- Kill the heretic, burn the infidel, slay the invader.
