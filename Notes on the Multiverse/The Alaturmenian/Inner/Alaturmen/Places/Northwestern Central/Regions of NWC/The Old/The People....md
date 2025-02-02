@@ -23,7 +23,7 @@ The Scavs are very likely underequipped.
 	- The Scavs within the Sticks leave with fewer friends than they entered with, and much more trauma.
 	- *Rookies* fight against *Bandits* and *Militants* coming from [[The Places...#The Eastern Breach (1/rr)]] or the [[The Places...#Grey Forest (4/rr)]].
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
-	- Most Scavs avoid this area for fear of *Bandits* or *Mercs*.
+	- Most Scavs avoid this area for fear of *Bandits* or *Mercenaries*.
 - [[The Places...#The City]] & [[The Places...#The Village]]
 	- Few Scavs operate in the South, and those who do are allied to many different (and even conflicting) Factions.
 - [[The Places...#The Dwarven Ship]]
@@ -36,20 +36,23 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
-| Class (lvl) | AC                      | ATK         | DMG                             |
-| ----------- | ----------------------- | ----------- | ------------------------------- |
-| Ensign      | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 (Blessed Handblaster) |
-| Private     | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 (Blessed Carbine)     |
-| Corporal    | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 (Blessed Carbine)     |
-| Captain     | (Blessed Platemail)  20 | +10    (x2) | 4d6+7     (Dual-pop Carbine)    |
-| Major       | (Blessed Platemail)  20 | +11    (x3) | 4d6+8     (Dual-pop Carbine)    |
+| Class (lvl) | AC                      | ATK         | DMG                                   |
+| ----------- | ----------------------- | ----------- | ------------------------------------- |
+| Ensign      | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 dam   (Blessed Handblaster) |
+| Private     | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 dam   (Blessed Carbine)     |
+| Corporal    | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 dam   (Blessed Carbine)     |
+| Captain     | (Blessed Platemail)  20 | +10    (x2) | 4d6+7 dam       (Dual-pop Carbine)    |
+| Major       | (Blessed Platemail)  20 | +11    (x3) | 4d6+8 dam       (Dual-pop Carbine)    |
 
 ###### Areas of Operation
 - [[The Places...#The Cordon]]
-- [[The Places...#The Factory]]
+	- The *Militants* occupy and control the Cordon as a Command Headquarters for their extended operations.
+	- The *Militants* fight against *Rookies* and *Extramis* for control of [[The Places...#The Haven]]
+- [[The Places...#The Factory]] & [[The Places...#The Base]]
+	- The *Militants* fight against *Bandits*, *Mercenaries*
 - [[The Places...#The City]]
 - [[The Places...#The Village]]
-- [[The Places...#The Base]]
+- 
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
