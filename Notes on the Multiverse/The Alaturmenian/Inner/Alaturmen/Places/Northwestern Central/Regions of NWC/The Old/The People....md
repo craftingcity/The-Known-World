@@ -12,7 +12,7 @@ The Scavs are very likely underequipped.
 | Tourist     | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
 | Scavenger   | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
 | Bandit      | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
-| Seeker      | (P. Combat Armor)  20 | +1d4+7  (2x)  | 3d6+1d4+4 dam (Refined Carbine)  |
+| Seeker      | (P. Combat Armor)  20 | +7+1d4  (2x)  | 3d6+1d4+4 dam (Blessed Carbine)  |
 | Veteran     | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
 
 ###### Areas of Operation
@@ -36,20 +36,20 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
-| Class (lvl) | AC                      | ATK    | DMG |
-| ----------- | ----------------------- | ------ | --- |
-| Ensign      | (Half Plate)         17 | +6+1d4 | 1d6+1d4+4    |
-| Private     | (Blessed Half Plate) 19 |        |     |
-| Corporal    | (Blessed Half Plate) 19 |        |     |
-| Captain     | (Blessed Platemail)  20 |        |     |
-| Major       | (Blessed Platemail)  20 |        |     |
+| Class (lvl) | AC                      | ATK         | DMG                             |
+| ----------- | ----------------------- | ----------- | ------------------------------- |
+| Ensign      | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 (Blessed Handblaster) |
+| Private     | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 (Blessed Carbine)     |
+| Corporal    | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 (Blessed Carbine)     |
+| Captain     | (Blessed Platemail)  20 | +10    (x2) | 4d6+7     (Dual-pop Carbine)    |
+| Major       | (Blessed Platemail)  20 | +11    (x3) | 4d6+8     (Dual-pop Carbine)    |
 
 ###### Areas of Operation
-- [[#The Cordon]]
-- [[#The Factory]]
-- [[#The City]]
-- [[#The Village]]
-- [[#The Base]]
+- [[The Places...#The Cordon]]
+- [[The Places...#The Factory]]
+- [[The Places...#The City]]
+- [[The Places...#The Village]]
+- [[The Places...#The Base]]
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
