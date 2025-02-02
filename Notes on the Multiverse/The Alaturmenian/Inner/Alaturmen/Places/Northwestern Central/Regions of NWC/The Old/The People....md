@@ -7,13 +7,13 @@ A collective name for the individuals and groups without a greater affiliation t
 ###### Equipment
 The Scavs are very likely underequipped.
 
-| Class (lvl) | AC  | Atk | Dmg |
-| ----------- | --- | --- | --- |
-| Tourist     | (Leather) 13  |     |     |
-| Scavenger   | (Leather) 15  |     |     |
-| Bandit      | (Leather) 16  |     |     |
-| Seeker      | (P. Scou) 17  |     |     |
-| Veteran     | (P. Combat Armor) 20  |     |     |
+| Class (lvl) | AC                    | ATK           | DMG                              |
+| ----------- | --------------------- | ------------- | -------------------------------- |
+| Tourist     | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
+| Scavenger   | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Bandit      | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Seeker      | (P. Combat Armor)  20 | +1d4+7  (2x)  | 3d6+1d4+4 dam (Refined Carbine)  |
+| Veteran     | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
@@ -28,6 +28,7 @@ The Scavs are very likely underequipped.
 	- Few Scavs operate in the South, and those who do are allied to many different (and even conflicting) Factions.
 - [[The Places...#The Dwarven Ship]]
 	- The *Talons* within the Shipyard are united by their allegiance to [[Zarchen]] and each other.
+	- *Talons* and *Troopers* fight against *Fallen* coming from [[The Places...#The Temple]] or [[The Places...#Flats (6/rr)]].
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
@@ -35,13 +36,13 @@ The Scavs are very likely underequipped.
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
-| Class (lvl) | AC  | Atk | Dmg |
-| ----------- | --- | --- | --- |
-| Ensign      |     |     |     |
-| Private     |     |     |     |
-| Corporal    |     |     |     |
-| Captain     |     |     |     |
-| Major       |     |     |     |
+| Class (lvl) | AC                      | ATK    | DMG |
+| ----------- | ----------------------- | ------ | --- |
+| Ensign      | (Half Plate)         17 | +6+1d4 | 1d6+1d4+4    |
+| Private     | (Blessed Half Plate) 19 |        |     |
+| Corporal    | (Blessed Half Plate) 19 |        |     |
+| Captain     | (Blessed Platemail)  20 |        |     |
+| Major       | (Blessed Platemail)  20 |        |     |
 
 ###### Areas of Operation
 - [[#The Cordon]]
