@@ -47,6 +47,17 @@ She bought her way east, across the [[Alvalini River]] and into [[The Democratic
 
 Day to day, she spends most of her money on ammunition. Food and Water are things she can scavenge or hunt for, but her need for drugs, supplies, and jobs mean she's been working her way from town to town, where she'll spend a few days to scavenge and hunt before committing to another job or set of jobs. 
 
+#### Entering Minyostalma
+I met up with 'Jewels', my contact to get into Minyostalma. We'll go rock hunting eventually, but we need money first.
+
+Jewels introduced me to Ace, Mavarik, Goose, and Spitfire. Spitfire's a cutie.
+
+There's a contract out on a gang of Scavs who are hanging out in the *Showroom*, or we could go get supplies in the *Base*, or hunt for rocks in the *Forests*.
+
+After we buy some medical supplies, we are going to sleep, and then we're going to go kill the gang in the *Showroom*. Maverik picked up a glass artifact on our way. We made our way into the *Hangars* where Dante started investigating an open container-building. A blue tracer shot right where her head would be...
+
+#### ...
+
 ## Important Knowledge
 
 ## Stats
@@ -54,16 +65,36 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 | Stat | #         | Stat  | #         |
 | ---- | --------- | ----- | --------- |
 | STR  | 12 (+1) ^ | PRF   | +3        |
-| CON  | 17 (+3) ^ | M. HP | 46 M. HP  |
-| DEX  | 20 (+5)   | AC    | 16        |
-| INT  | 10 (+0)   | C. HP | 46 hp     |
+| CON  | 17 (+3) ^ | M. HP | 46 Max HP |
+| DEX  | 20 (+5)   | AC    | (16)      |
+| INT  | 10 (+0)   | C. HP | 46 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
-| Weapon                 | To Hit       | Damage         |
-| ---------------------- | ------------ | -------------- |
-| Dante's Carbine (20 Y) | +8 (DEX+PRF) | 3d6+5 thunder  |
-| Dante's Claws          | +8 (DEX+PRF) | 1d4+6 slashing |
+| Weapon                  | To Hit             | Damage         |
+| ----------------------- | ------------------ | -------------- |
+| Dante's Carbine (200 Y) | +10 (DEX+PRF+FS:A) | 3d6+5 thunder  |
+| Dante's Claws           | +8 (DEX+PRF)       | 1d4+6 slashing |
+
+#### Proficiencies
+SKILLS;
+	- Insight (^)
+	- Intimidation
+	- Perception (^)
+	- Deception
+	- Stealth (^) (Disadvantage for Chainmail)
+	- Nature (^)
+	- Survival (^)
+EQUIP;
+	- Armor (L., M., H.)
+	- Weapons (S., M.)
+	- Thieves Tools
+	- Herbalism Kit
+	- Deck o' Cards
+LANG;
+	- [[Desertspeech (language)]]
+	- [[Infernal (language)]]
+	- [[Golopak (language)]] 
 
 #### Features
 ##### Gnoll Heritage (T)
@@ -91,12 +122,14 @@ You can take a *bonus action* on each of your turns in combat. This action can b
 You can move up to half your speed as a *reaction* when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
 
 #### Equipment
-(15.0sp)
+(0.0sp)
 
 *Hands*:
 	Leather Gloves
 *Arms*:
 	Chainmail
+*Head*:
+	HEFP I      < +5 RR >
 *Torso*:
 	Chainmail
 	Adjustable Cloth Sling (Durandurm Carbine)
@@ -111,30 +144,11 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 		- Sheath (Dagger)
 		- Scabbard (Shortsword)
 		- Ammo Sack (20 DRM, EY)
+		- Medical Sack (2x Isiopara)
 *Legs*:
 	Chainmail
 *Feet*:
 	Irontoe Boots
-
-#### Proficiencies
-SKILLS;
-	- Insight (^)
-	- Intimidation
-	- Perception (^)
-	- Deception
-	- Stealth (^) (Disadvantage for Chainmail)
-	- Nature (^)
-	- Survival (^)
-EQUIP;
-	- Armor (L., M., H.)
-	- Weapons (S., M.)
-	- Thieves Tools
-	- Herbalism Kit
-	- Deck o' Cards
-LANG;
-	- [[Desertspeech (language)]]
-	- [[Infernal (language)]]
-	- [[Golopak (language)]] 
 
 #### Level Plan
 1. F1 - Fighting Style (*Archery*), Second Wind

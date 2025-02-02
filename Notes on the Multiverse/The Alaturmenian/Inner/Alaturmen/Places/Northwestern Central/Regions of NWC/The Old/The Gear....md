@@ -67,6 +67,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Flexing Combat Vest        | Vest    |                 |           |            |
 | Goggles of Night-Vision    | Goggles | 300' darkvision | all       |            |
 | Longshot Headgear          | Goggles |                 |           |            |
+| Bayonet                    |         |                 |           |            |
+| Bracing Shield             | Shield  |                 |           |            |
 
 
 
@@ -278,7 +280,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (2d6hp / 8 rounds + 1 Hit Die) |            |
 | Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (10 + 3d4hp / 3 rounds)                  |            |
 | Pretokarin            | Liquid     |                                                                                                                                    |            |
-| Secreclude Propaterol | Solid      | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (+25hp / 3 rounds)                                 |            |
+| Secreclude Propaterol | Solid      | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (+25hp / 3 rounds)        |            |
+| Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. 10 Charges, Action; -1 Charge, roll HitDie+CON                                                                                                                                   |            |
 
 
 #### RADIATION
