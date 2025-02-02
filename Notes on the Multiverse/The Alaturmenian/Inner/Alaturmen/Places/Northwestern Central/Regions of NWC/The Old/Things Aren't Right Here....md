@@ -29,7 +29,7 @@ Anomalies do not have charges, in an arcane sense, and can be reactivated immedi
 
 The field of burners is a 10' radius circle. Within this radius, each 5' square has a 1/6 chance of being an activatable space within the field. When one of these spaces is activated, it creates a column of fire 5' tall. This column deals 4d8 fire damage to a creature that occupies it, and 1d8 fire damage to a creature within 5' of it.
 
-#### Comet / Electro (V)
+#### Comet / Crackler (V)
 ###### Fire / Electric
 > A comet anomaly is like a ball of fire, moving with the speed of a rolling boulder. While you may think you can dodge it, do your math again. Can you dodge it from behind, and then once more? Artyom could not.
 

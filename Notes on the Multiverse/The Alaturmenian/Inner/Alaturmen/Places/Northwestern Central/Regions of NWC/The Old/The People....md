@@ -24,7 +24,7 @@ The Scavs are very likely underequipped.
 	- The Scavs within the Sticks leave with fewer friends than they entered with, and much more trauma.
 	- *Rookies* fight against *Bandits* and *Militants* coming from [[The Places...#The Eastern Breach (1/rr)]] or the [[The Places...#Grey Forest (4/rr)]].
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
-	- Most Scavs avoid this area for fear of *Bandits* or *Mercenaries*.
+	- Most Scavs avoid this area for fear of *Militants*, *Troopers*, and *Mercenaries*.
 - [[The Places...#The City]] & [[The Places...#The Village]]
 	- Few Scavs operate in the South, and those who do are allied to many different (and even conflicting) Factions.
 - [[The Places...#The Shipyard]]
@@ -57,10 +57,10 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 	- The *Militants* occupy and control the Cordon as a Command Headquarters for their extended operations.
 	- The *Militants* fight against *Rookies* and *Extramis* for control of [[The Places...#The Haven]].
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
-	- The *Militants* fight against *Bandits* and *Mercenaries* for control of the Industrial Section.
-	- The additional presence of *Troopers*, *Extramis*, and/or *Fallen* makes this impossible, but not unprofitable.
+	- The *Militants* fight against *Troopers* and *Mercenaries* for control of the Industrial Section.
+	- The additional presence of *Bandits*, *Extramis*, and/or *Fallen* makes this impossible, but not unprofitable.
 - [[The Places...#The City]] & [[The Places...#The Village]]
-	- The *Militants* fight against everyone in the south, and don't stay around for long.
+	- *Troopers* and *Militants* fight against *Fallen*, *Mercenaries*, and *Extramis* here.
 
 ###### Politics
 - *Scavangers* are fugitives and heretics. They aren't worth the bullets, but we must.
@@ -159,9 +159,13 @@ The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Pl
 
 ###### Areas of Operation
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
+	- *Troopers* fight against *Mercenaries* and *Militants* for control of the Industrial Section.
 - [[The Places...#The City]] & [[The Places...#The Village]]
+	- Contracts between *Militants* and *Troopers* mean they work together here.
+	- *Troopers* and *Militants* fight against *Fallen*, *Mercenaries*, and *Extramis* here.
 - [[The Places...#The Temple]]
 - [[The Places...#The Shipyard]]
+	- Our beloved shipyard, the Trooper Commons Headquarters are within the Ship itself.
 
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
