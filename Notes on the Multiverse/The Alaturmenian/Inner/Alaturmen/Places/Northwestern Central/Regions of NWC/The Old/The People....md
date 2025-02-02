@@ -123,12 +123,10 @@ Extramis is underequipped, but knowledgeable.
 | Ratiocinor  |     |     |     |
 
 ###### Areas of Operation
-- [[#The Haven]]
-- [[#The Sticks]]
-- [[#The Factory]]
-- [[#The City]]
-- [[#The Village]]
-- [[#The Base]]
+- [[The Places...#The Haven]]
+- [[The Places...#The Sticks]]
+- [[The Places...#The Factory]] & [[The Places...#The Base]]
+- [[The Places...#The City]] & [[The Places...#The Village]]
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
