@@ -199,8 +199,18 @@ Lances deal 1d12 piercing damage.
 Lances are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Warscythe
+Warscythes are a very atypical, though still military grade, long-blade polearm. The Warscythe is a result of the militarization of a farming tool, and it still retains the comfortable side-grip of the original design. 
+
+Warscythes deal 2d10 slashing damage.
+Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 ##### Loose
 #### Bull Whip
+The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
+
+Bull Whips deal 1d4 peircing damage.
+Bull Whips are *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
+
 #### Chain Whip
 #### Meteor Hammer
 #### Rope Dart
