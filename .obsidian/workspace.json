@@ -75,55 +75,9 @@
               "icon": "lucide-file",
               "title": "Magical Items of Note"
             }
-          },
-          {
-            "id": "e9c732c849428bb3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
-            "id": "f75f535b72710c54",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "List of Names"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "e5058f8612f09e6b",
@@ -218,6 +172,52 @@
               "icon": "lucide-file",
               "title": "Magic Item Authors"
             }
+          },
+          {
+            "id": "d48363558f9d08f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bandit Lords"
+            }
+          },
+          {
+            "id": "d329ea2566a11ebb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
+            }
           }
         ],
         "currentTab": 3
@@ -269,7 +269,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#npc  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -323,7 +323,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -470,11 +471,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "e41612a46e273893",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "Game Notes/NPCs/List of Names.md",
+    "A Grand Notepad.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md",
+    "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -496,11 +501,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",

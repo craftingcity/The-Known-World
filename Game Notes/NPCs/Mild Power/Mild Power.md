@@ -6,7 +6,6 @@ aliases:
 # Mild Power
 %% Begin Waypoint %%
 - [[Blurfurmgur]]
-- **Employees of Golden Claw**
 - **[[Folk of Business]]**
 - **Knights & Nobles**
 	- [[Borhain a'Huruuc]]
@@ -33,7 +32,7 @@ aliases:
 	- [[Marley Hurraquk]]
 	- [[Nylan Roul]]
 	- [[Raam ben Yarom]]
-	- [[Yeirruk Fraim]]
+	- [[Yeirruk Fyrren]]
 - **[[Tendered]]**
 - **[[Thief Lords of the Desert]]**
 

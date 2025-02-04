@@ -272,7 +272,7 @@ aliases:
 	GME-016 "RING OF FALSE WISHES"
 	Threat Level: RED
 	Entry Class: TRINKET
-	Source: AUTHOR
+	Source: Frankie Avaati (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -283,7 +283,7 @@ aliases:
 	GME-018 "TOKEN OF INDESTRUCTABILITY"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: Jurran Malkovich (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -294,7 +294,7 @@ aliases:
 	GME-017 "NECKLACE OF COMPULSION"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: AUTHOR //arstovich//
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -305,7 +305,7 @@ aliases:
 	GME-019 "MASK OF THE FALLEN JESTER"
 	Threat Level: PURPLE
 	Entry Class: TRINKET
-	Source: AUTHOR //moore// //maxim?//
+	Source: AUTHOR //moore//
 	Last Known Keeper: Syther Malkovich
 
 	Entry Description: ...
@@ -331,7 +331,7 @@ aliases:
 	GME-020 "COMPALATI"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: AUTHOR //hollyanne//
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...

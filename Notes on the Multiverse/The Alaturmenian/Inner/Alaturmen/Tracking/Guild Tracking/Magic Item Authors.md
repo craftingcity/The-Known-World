@@ -10,6 +10,8 @@ The following is a reference sheet for the Authors of all [[Magical Items of Not
 ### Frin Copperhammer
 ## TL-GREY
 ### Sarhin Bodaim
+### Frankie Avaati
+### Jurran Malkovich
 ## TL-BLUE
 ### Tianna Moore
 ### Guraxlog
@@ -26,3 +28,4 @@ Given the losses in personnel, this investigation has ceased, and shall not be r
 Relevant Entries include; [GME-000] & [GME-013].
 
 ### The Old Man
+### Qiell Tielmundon

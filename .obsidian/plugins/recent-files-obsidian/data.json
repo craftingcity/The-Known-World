@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Magic Item Authors",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
+    },
+    {
+      "basename": "Bandit Lords",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
+    },
+    {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
     },
@@ -9,12 +21,12 @@
       "path": "A Grand Notepad.md"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+      "basename": "Yeirruk Fyrren",
+      "path": "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md"
     },
     {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
+      "basename": "Sally Seashell",
+      "path": "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md"
     },
     {
       "basename": "Guilded Mystic Entries",
@@ -121,10 +133,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
-    },
-    {
       "basename": "Local Lore",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Inverted Tower",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Inverted Tower.md"
-    },
-    {
-      "basename": "Crystal Sea",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Crystal Sea.md"
-    },
-    {
-      "basename": "Maelbrathyr",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Maelbrathyr.md"
     }
   ],
   "omittedPaths": [],

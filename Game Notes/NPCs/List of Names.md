@@ -18,9 +18,12 @@ aliases:
 | Erik      | Gorebladder | Griss'etel |
 | Franklin  | Hedwig      | Janice     |
 | Grandey   | Hogaak      | Joss       |
-| Grekk     | Kallo       |            |
-| Gurrak    | Lou         |            |
-| Marley          |             |            |
+| Grekk     | Kallo       | Maxine     |
+| Gurrak    | Lou         | Sally      |
+| Marley    | Maxyu       | Viliuam    |
+| Mateus    | Yandee      | Tianna           |
+| Paulo     | Yeirruk     | Sarhin           |
+| Wilson    |             |            |
 
 ## Last Names
 
@@ -48,7 +51,10 @@ aliases:
 | a'Chrim      |       |
 | a'Nyrk       |       |
 | Austra       |       |
-| Vaught             |       |
+| Vaught       |       |
+| Fyrren       |       |
+| Seashell     |       |
+| Moore             |       |
 
 # Southeastern (Combine)
 ## First Names
@@ -56,12 +62,15 @@ aliases:
 | Masculine | Uniform | Feminine |
 | --------- | ------- | -------- |
 | Yassir    | Benkaei | Amethyst |
-| Issac     | Darwine |          |
-| Reyan     | Grundle |          |
-| Bonj      | Jasper  |          |
-| Nike      |         |          |
-| Glot      |         |          |
-| Jerran          |         |          |
+| Issac     | Darwine | Patrica  |
+| Reyan     | Grundle | Poppy    |
+| Bonj      | Jasper  | Srioh    |
+| Nike      | River   | Yyu      |
+| Glot      | Toor    |          |
+| Jerran    |         |          |
+| Nylan     |         |          |
+| Revari    |         |          |
+|           |         |          |
 
 ## Last Names
 
@@ -78,18 +87,26 @@ aliases:
 | Evon        |       |
 | Maxim       |       |
 | Vwem        |       |
-| Stormwind            |       |
+| Stormwind   |       |
+| Roul        |       |
+| Borig       |       |
+| Bumbleheart |       |
+| Madrid      |       |
+| Borns       |       |
+| Powell      |       |
+| Clipwin     |       |
 
 # Northwestern (of Flame)
 ## First Names
 
 | Masculine | Uniform | Feminine |
 | --------- | ------- | -------- |
-| Edward    | Caris   |          |
+| Edward    | Caris   | Pirre    |
 | Hektor    | Enoch   |          |
-| Abraham   |         |          |
-| Jorrin    |         |          |
-| Marcus          |         |          |
+| Abraham   | Raam    |          |
+| Jorrin    | Valerio |          |
+| Marcus    |         |          |
+| Nicolas   |         |          |
 
 ## Last Names
 
@@ -100,7 +117,11 @@ aliases:
 | Salar       |       |
 | ben Yaam    |       |
 | Bearscarred |       |
-| Macht            |       |
+| Macht       |       |
+| Talaveem    |       |
+| Tald        |       |
+| ben Yarom   |       |
+| Avishalom            |       |
 
 # Southwestern (Tetrimocal)
 ## First Names
@@ -108,10 +129,10 @@ aliases:
 | Masculine    | Uniform | Feminine  |
 | ------------ | ------- | --------- |
 | Barthalamule | Dante   | Agrandica |
-| Boris        |         | Ginger    |
-| Edward       |         |           |
+| Boris        | Sivir   | Ginger    |
+| Edward       | Frin        |           |
 | Fulton       |         |           |
-| Houran             |         |           |
+| Houran       |         |           |
 
 ## Last Names
 
@@ -124,7 +145,10 @@ aliases:
 | Gunagido    |       |
 | Shepard     |       |
 | Ak-kizi     |       |
-| Venclaw            |       |
+| Venclaw     |       |
+| Bagwell     |       |
+| Vanavar     |       |
+| Copperhammer            |       |
 
 # List of Names
 Masc | Femme | Neutral
